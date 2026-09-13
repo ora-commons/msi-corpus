@@ -16,7 +16,8 @@ primary_themes:
 - Conservative movement
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- turning-point-usa-in-the-post-kirk-era
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -53,6 +54,7 @@ cross_article_links: []
 draft: false
 related_stories: []
 ---
+
 ## Guardian publishes 'Grief, fury, conspiracy' on Turning Point USA
 
 **Subtype:** fact

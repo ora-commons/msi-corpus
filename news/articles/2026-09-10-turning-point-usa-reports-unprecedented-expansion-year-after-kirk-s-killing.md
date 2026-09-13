@@ -47,7 +47,8 @@ primary_themes:
 topic_tags:
 - politics
 - education
-storyline_nexus: []
+storyline_nexus:
+- turning-point-usa-in-the-post-kirk-era
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -211,8 +212,9 @@ related_stories:
   relation: related
   strength: 0.6835
 analyses:
-- '2026-09-10-turning-point-usa-s-institutional-footprint-and-connecting-function-diverge-in-n'
+- 2026-09-10-turning-point-usa-s-institutional-footprint-and-connecting-function-diverge-in-n
 ---
+
 ## Turning Point USA reports 'unprecedented expansion' year after Kirk's killing
 
 **Subtype:** fact

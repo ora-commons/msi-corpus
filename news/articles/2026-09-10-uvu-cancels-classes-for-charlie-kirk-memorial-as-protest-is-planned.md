@@ -25,7 +25,8 @@ topic_tags:
 - crime
 - civil rights
 - education
-storyline_nexus: []
+storyline_nexus:
+- turning-point-usa-in-the-post-kirk-era
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## UVU cancels classes for Charlie Kirk memorial as protest is planned
 
 **Subtype:** fact
