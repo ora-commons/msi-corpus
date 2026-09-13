@@ -54,11 +54,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Guardian
+  - United Press International
   outlet_classes:
   - national_daily
+  - wire
   highest_reliability_tier: 2
   has_originating: true
   has_primary_document: false
@@ -225,3 +227,9 @@ The CDC has released data showing a steady decline in kindergarten vaccination r
 **Publication date:** 2026-09-13
 **Title:** Pennsylvania reports apparent third measles-related death amid outbreak
 **URL:** https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak
+
+### src_late_0eecbdb90a61a4e4 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-09-13
+**Title:** Third measles death reported in Pennsylvania amid ongoing outbreak
+**URL:** https://www.upi.com/Top_News/US/2026/09/13/pennsylvania-measles-death/6551789336028/
+**Added after publication:** true
