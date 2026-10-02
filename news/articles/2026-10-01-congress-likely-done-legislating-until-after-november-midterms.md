@@ -249,6 +249,8 @@ related_stories:
   publish_date: '2026-01-08'
   relation: related
   strength: 0.67
+analyses:
+- '2026-10-01-bill-count-metric-omits-congress-s-ceded-functions'
 ---
 
 ## Congress likely done legislating until after November midterms
@@ -291,3 +293,8 @@ The current standoff extends reporting MSI published in July, when House Republi
 **Publication date:** 2026-10-01
 **Title:** Congress Wraps Up With a Whimper and a Shrug
 **URL:** https://www.wsj.com/politics/policy/congress-wraps-up-with-a-whimper-and-a-shrug-2e73a301
+
+---
+
+<!-- analysis-link:2026-10-01-bill-count-metric-omits-congress-s-ceded-functions -->
+**Going deeper:** [Read MSI's analysis of the "productive Congress" metric →](/analyses/2026-10-01-bill-count-metric-omits-congress-s-ceded-functions)
