@@ -163,6 +163,8 @@ related_stories:
   publish_date: '2026-03-12'
   relation: related
   strength: 0.5941
+analyses:
+- '2026-10-02-vietnam-s-terrorism-charges-against-foreign-passport-activists-fit-transnational'
 ---
 
 ## Vietnam confirms arrest of Australian activist Tran Hiep and two others
@@ -207,3 +209,8 @@ The Office of the High Commissioner for Refugees, in a statement to NPR, said it
 **Publication date:** 2026-10-02
 **Title:** Pro-democracy activists increasingly vulnerable to authoritarian governments in Asia
 **URL:** https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments
+
+---
+
+<!-- analysis-link:2026-10-02-vietnam-s-terrorism-charges-against-foreign-passport-activists-fit-transnational -->
+**Going deeper:** [Read MSI's analysis of transnational repression in Southeast Asia →](/analyses/2026-10-02-vietnam-s-terrorism-charges-against-foreign-passport-activists-fit-transnational)
