@@ -236,6 +236,8 @@ related_stories:
   publish_date: '2026-03-02'
   relation: related
   strength: 0.6524
+analyses:
+- '2026-10-02-flydubai-fz-1073-cockpit-attack-motive-characterizations-arrive-ahead-of-probe-f'
 ---
 
 ## Flydubai co-pilot held as Saudi-led probe seeks cockpit attack motive
@@ -272,3 +274,8 @@ Taz Ali, who led The Guardian's live blog on the incident, said readers connecte
 **Publication date:** 2026-10-02
 **Title:** Friday briefing: How we covered the flydubai incident as it unfolded
 **URL:** https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded
+
+---
+
+<!-- analysis-link:2026-10-02-flydubai-fz-1073-cockpit-attack-motive-characterizations-arrive-ahead-of-probe-f -->
+**Going deeper:** [Read MSI's analysis of the flydubai cockpit attack motive gap →](/analyses/2026-10-02-flydubai-fz-1073-cockpit-attack-motive-characterizations-arrive-ahead-of-probe-f)
