@@ -145,6 +145,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-11-okinawa-governor-s-race-turns-on-a-polling-weighting-fragile-to-shocks-outside-i'
 ---
 ## Okinawa governor's race tightens as voters prioritize economy over bases
 
@@ -193,3 +195,8 @@ Yokoi, whose coffee shop sits near Futenma, said friends elsewhere in Japan are 
 **Publication date:** 2026-09-11
 **Title:** On Okinawa, U.S. Bases Are Becoming Yesterday’s Battle
 **URL:** https://www.wsj.com/world/asia/on-okinawa-u-s-bases-are-becoming-yesterdays-battle-4fb3e53e
+
+---
+
+<!-- analysis-link:2026-09-11-okinawa-governor-s-race-turns-on-a-polling-weighting-fragile-to-shocks-outside-i -->
+**Going deeper:** [Read MSI's analysis of Okinawa election's economy-versus-bases weighting →](/analyses/2026-09-11-okinawa-governor-s-race-turns-on-a-polling-weighting-fragile-to-shocks-outside-i)

@@ -132,6 +132,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-11-klimow-account-pairs-9-11-pentagon-morning-frictions-with-post-attack-verdicts-l'
 ---
 ## Matthew Klimow publishes 9/11 Pentagon account on 25th anniversary
 
@@ -182,3 +184,8 @@ Donald Trump was scheduled to mark the 25th anniversary of the attacks at a Pent
 **Publication date:** 2026-09-11
 **Title:** He was at his desk at the Pentagon on 9/11. As the chaos unfolded, he refused to leave
 **URL:** https://www.theguardian.com/us-news/2026/sep/11/matthew-klimow-9-11-pentagon
+
+---
+
+<!-- analysis-link:2026-09-11-klimow-account-pairs-9-11-pentagon-morning-frictions-with-post-attack-verdicts-l -->
+**Going deeper:** [Read MSI's analysis of Klimow's 9/11 Pentagon account structure →](/analyses/2026-09-11-klimow-account-pairs-9-11-pentagon-morning-frictions-with-post-attack-verdicts-l)

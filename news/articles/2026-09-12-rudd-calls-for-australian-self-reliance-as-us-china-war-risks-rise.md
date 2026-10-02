@@ -171,6 +171,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-12-rudd-presses-australia-to-weigh-sovereignty-against-deepening-us-military-enmesh'
 ---
 ## Rudd calls for Australian self-reliance as US-China war risks rise
 
@@ -251,3 +253,8 @@ Given the size of the US military — its budget surpassed that of the next six 
 **Publication date:** 2026-09-12
 **Title:** As China rises, Australia is increasingly enmeshed in the US war machine. Is the alliance still worth the risk?
 **URL:** https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd
+
+---
+
+<!-- analysis-link:2026-09-12-rudd-presses-australia-to-weigh-sovereignty-against-deepening-us-military-enmesh -->
+**Going deeper:** [Read MSI's analysis of Australia-US alliance Taiwan contingency →](/analyses/2026-09-12-rudd-presses-australia-to-weigh-sovereignty-against-deepening-us-military-enmesh)

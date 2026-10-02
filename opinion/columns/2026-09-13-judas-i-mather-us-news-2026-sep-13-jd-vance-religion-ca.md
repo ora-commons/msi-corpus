@@ -1,7 +1,9 @@
 ---
 headline: The Order the Pulpit Pronounced, and the Body the Ordo Assigned
 publish_date: '2026-09-13'
-lede: The office of the Vice President of the United States is the office the Constitution establishes as the officer who shall preside over the Senate and who shall succeed to the presidency in the event the presidency is vacated.
+lede: The office of the Vice President of the United States is the office the Constitution
+  establishes as the officer who shall preside over the Senate and who shall succeed
+  to the presidency in the event the presidency is vacated.
 pen_name: judas-i-mather
 primary_entities:
 - JD Vance
@@ -39,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +63,28 @@ cross_article_links:
   strength: 0.6617
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-order-the-pulpit-pronounced-and-the-body-the-ordo.png
+  alt: 'Editorial cartoon by Hector Rentier: The Order the Pulpit Pronounced, and
+    the Body the Ordo Assigned'
+  caption: The theology was sound. The cuffs were steel.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-09-14T00:03:08-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single-panel, 1:1 aspect ratio, heavy cross-hatch wood-engraving in the
+    Nast-Tenniel tradition. A fully individuated, recognizable figure stands at a
+    convention podium in the upper two-thirds of the f
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-09-13-hector-paired-with-2026-09-13-judas-i-mather-us-news-2026-sep-13-jd-vance-religion-ca
 ---
+
+![Editorial cartoon by Hector Rentier: The Order the Pulpit Pronounced, and the Body the Ordo Assigned](/cartoons/the-order-the-pulpit-pronounced-and-the-body-the-ordo.png)
+*The theology was sound. The cuffs were steel.*
 
 The office of the Vice President of the United States is the office the Constitution establishes as the officer who shall preside over the Senate and who shall succeed to the presidency in the event the presidency is vacated. The officer who holds that office carries a particular authority in the ordering of the republic's public life — the authority to declare what the polity takes to be its first principles, and to bind the coalition that holds those principles to the work the principles require. JD Vance exercised that authority on Thursday evening at the Republicans' midterm convention in Dallas, in the keynote address the convention scheduled for its prime-time hour, and the exercise was, by the measure of the office, genuine. The coalition the address was built to hold is, on the demographic evidence the Public Religion Research Institute has compiled, more than two-thirds white and Christian, and a majority of it explicitly supports the Christian nationalist movement the address was performing.
 

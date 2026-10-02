@@ -135,6 +135,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-11-us-lawmakers-reframe-uk-apple-secrecy-dispute-as-article-i-confrontation'
 ---
 ## US lawmakers press British tribunal to open Apple encryption case
 
@@ -170,3 +172,8 @@ The September hearing is expected to determine how Apple's broader challenge to 
 **Publication date:** 2026-09-11
 **Title:** US lawmakers urge secretive British court to open up about Apple case
 **URL:** https://www.theguardian.com/us-news/2026/sep/11/congress-uk-court-apple-encrypted-data-case
+
+---
+
+<!-- analysis-link:2026-09-11-us-lawmakers-reframe-uk-apple-secrecy-dispute-as-article-i-confrontation -->
+**Going deeper:** [Read MSI's analysis of the US-UK encryption dispute →](/analyses/2026-09-11-us-lawmakers-reframe-uk-apple-secrecy-dispute-as-article-i-confrontation)

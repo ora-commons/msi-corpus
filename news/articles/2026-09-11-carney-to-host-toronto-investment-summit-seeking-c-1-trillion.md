@@ -133,6 +133,8 @@ related_stories:
   publish_date: '2026-07-23'
   relation: related
   strength: 0.7394
+analyses:
+- '2026-09-11-toronto-investment-summit-concentrating-canada-s-five-year-resilience-ask-into-4'
 ---
 ## Carney to host Toronto investment summit seeking C$1 trillion
 
@@ -172,3 +174,8 @@ The Carney government has moved to address those concerns, this week scaling bac
 **Publication date:** 2026-09-11
 **Title:** Canada Pins Hope for Economic Turbocharge on High-Profile Investor Summit
 **URL:** https://www.wsj.com/world/americas/canada-pins-hope-for-economic-turbocharge-on-high-profile-investor-summit-4c7325d0
+
+---
+
+<!-- analysis-link:2026-09-11-toronto-investment-summit-concentrating-canada-s-five-year-resilience-ask-into-4 -->
+**Going deeper:** [Read MSI's analysis of Carney's C$1 trillion Toronto summit →](/analyses/2026-09-11-toronto-investment-summit-concentrating-canada-s-five-year-resilience-ask-into-4)

@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-07-25'
   relation: related
   strength: 0.6603
+analyses:
+- '2026-09-12-ai-extinction-warnings-reach-critical-mass-in-u-s-public-attention'
 ---
 ## AI existential fears cross into mainstream American life
 
@@ -250,3 +252,8 @@ The reaction has also drawn a political counter-current. Allies of the Trump adm
 **Publication date:** 2026-09-12
 **Title:** America’s Great AI Freakout Has Begun
 **URL:** https://www.wsj.com/tech/ai/americas-great-ai-freakout-has-begun-c04cf644
+
+---
+
+<!-- analysis-link:2026-09-12-ai-extinction-warnings-reach-critical-mass-in-u-s-public-attention -->
+**Going deeper:** [Read MSI's analysis of AI risk reaching mainstream →](/analyses/2026-09-12-ai-extinction-warnings-reach-critical-mass-in-u-s-public-attention)

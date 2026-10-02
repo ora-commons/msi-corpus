@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-09-11'
   relation: related
   strength: 0.6596
+analyses:
+- '2026-09-11-cia-s-9-11-brief-release-pairs-exceptional-transparency-claim-with-guardian-no-n'
 ---
 ## Declassified 9/11 CIA briefs show plot also targeted US Capitol
 
@@ -214,3 +216,8 @@ Asked for comment on the release, the White House noted the publication of anoth
 **Publication date:** 2026-09-11
 **Title:** CIA releases dozens of presidential daily briefs on Bin Laden and al-Qaida from before 9/11
 **URL:** https://www.theguardian.com/us-news/2026/sep/11/cia-releases-presidential-briefs-bin-laden-al-qaida
+
+---
+
+<!-- analysis-link:2026-09-11-cia-s-9-11-brief-release-pairs-exceptional-transparency-claim-with-guardian-no-n -->
+**Going deeper:** [Read MSI's analysis of CIA's 9/11 brief release framing →](/analyses/2026-09-11-cia-s-9-11-brief-release-pairs-exceptional-transparency-claim-with-guardian-no-n)

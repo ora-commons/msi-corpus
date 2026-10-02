@@ -159,6 +159,8 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6559
+analyses:
+- '2026-09-11-wsj-s-ip-traces-populist-socialist-convergence-to-shared-anti-establishment-diag'
 ---
 ## Populist right and democratic socialists draw closer on shared positions
 
@@ -209,3 +211,8 @@ Greg Ip is the Wall Street Journal's chief economics commentator.
 **Publication date:** 2026-09-11
 **Title:** Populist Republicans and Democratic Socialists Are Starting to Merge
 **URL:** https://www.wsj.com/politics/populist-republicans-and-democratic-socialists-are-starting-to-merge-d6f5917e
+
+---
+
+<!-- analysis-link:2026-09-11-wsj-s-ip-traces-populist-socialist-convergence-to-shared-anti-establishment-diag -->
+**Going deeper:** [Read MSI's analysis of Vance-Mamdani populist-socialist convergence →](/analyses/2026-09-11-wsj-s-ip-traces-populist-socialist-convergence-to-shared-anti-establishment-diag)

@@ -149,6 +149,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-12-consent-discontinuation-of-kostakidis-case-leaves-legal-questions-unresolved-as-'
 ---
 ## Federal court ends Racial Discrimination Act case against Mary Kostakidis
 
@@ -180,3 +182,8 @@ Cassuto concluded: "Ms Kostakidis can make her own accounting of her conduct. Th
 **Publication date:** 2026-09-12
 **Title:** Court case brought by Zionist federation against journalist Mary Kostakidis ended ‘by consent’
 **URL:** https://www.theguardian.com/media/2026/sep/12/journalist-mary-kostakidis-court-case-zionist-federation-australia-discontinued-by-consent-ntwnfb
+
+---
+
+<!-- analysis-link:2026-09-12-consent-discontinuation-of-kostakidis-case-leaves-legal-questions-unresolved-as- -->
+**Going deeper:** [Read MSI's analysis of The strategic logic of forum shifting in antisemitism discourse →](/analyses/2026-09-12-consent-discontinuation-of-kostakidis-case-leaves-legal-questions-unresolved-as-)

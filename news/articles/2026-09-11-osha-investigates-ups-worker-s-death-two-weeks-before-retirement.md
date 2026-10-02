@@ -146,6 +146,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-11-osha-probe-of-fatal-earth-city-ups-strike-weighs-lighting-complaint-against-comp'
 ---
 ## OSHA investigates UPS worker's death two weeks before retirement
 
@@ -184,3 +186,8 @@ Roberts is survived by his wife, his sister, his children and his grandchildren,
 **Publication date:** 2026-09-11
 **Title:** Missouri UPS worker two weeks from retirement fatally struck by company vehicle
 **URL:** https://www.theguardian.com/us-news/2026/sep/11/ups-worker-killed-on-job-weeks-before-retirement
+
+---
+
+<!-- analysis-link:2026-09-11-osha-probe-of-fatal-earth-city-ups-strike-weighs-lighting-complaint-against-comp -->
+**Going deeper:** [Read MSI's analysis of Earth City UPS fatality investigation →](/analyses/2026-09-11-osha-probe-of-fatal-earth-city-ups-strike-weighs-lighting-complaint-against-comp)

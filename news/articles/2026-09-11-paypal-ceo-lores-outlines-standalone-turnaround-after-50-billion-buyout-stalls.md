@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-05-27'
   relation: related
   strength: 0.733
+analyses:
+- '2026-09-11-lores-s-compensation-becomes-paypal-s-costly-signal-after-50-billion-buyout-coll'
 ---
 ## PayPal CEO Lores outlines standalone turnaround after $50 billion buyout stalls
 
@@ -235,3 +237,8 @@ His targets include a $25 million bonus if PayPal's stock averages above $68 for
 **Publication date:** 2026-09-11
 **Title:** How PayPal’s CEO Is Planning to Go It Alone and Fix the Payments Giant
 **URL:** https://www.wsj.com/finance/banking/how-paypals-ceo-is-planning-to-go-it-alone-and-fix-the-payments-giant-ec0daf22
+
+---
+
+<!-- analysis-link:2026-09-11-lores-s-compensation-becomes-paypal-s-costly-signal-after-50-billion-buyout-coll -->
+**Going deeper:** [Read MSI's analysis of PayPal's stalled buyout negotiations →](/analyses/2026-09-11-lores-s-compensation-becomes-paypal-s-costly-signal-after-50-billion-buyout-coll)

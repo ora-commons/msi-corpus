@@ -155,6 +155,8 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.7095
+analyses:
+- '2026-09-11-ipsen-considers-u-s-plant-despite-wrexham-tariff-exemption'
 ---
 ## Ipsen weighs return of U.S. manufacturing plant amid tariff pressure
 
@@ -192,3 +194,8 @@ Loew framed the recent acquisition drive as part of a strategy to absorb the los
 **Publication date:** 2026-09-11
 **Title:** Ipsen Weighs U.S. Manufacturing Investment
 **URL:** https://www.wsj.com/health/pharma/ipsen-weighs-u-s-manufacturing-investment-3429e3c3
+
+---
+
+<!-- analysis-link:2026-09-11-ipsen-considers-u-s-plant-despite-wrexham-tariff-exemption -->
+**Going deeper:** [Read MSI's analysis of Ipsen's U.S. Plant Deliberation →](/analyses/2026-09-11-ipsen-considers-u-s-plant-despite-wrexham-tariff-exemption)

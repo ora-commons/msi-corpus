@@ -154,6 +154,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-09-11-husted-collins-campaigns-fired-aides-over-public-activity-without-disclosing-pri'
 ---
 ## Jon Husted fires political director over SS profile photo, Rhodesia playlist
 
@@ -190,3 +192,8 @@ The Guardian characterized Husted's re-election contest against Brown as a knife
 **Publication date:** 2026-09-11
 **Title:** Republican senator fires aide who used Nazi soldiers as Facebook profile picture
 **URL:** https://www.theguardian.com/us-news/2026/sep/11/republican-senator-aide-nazi-ss-picture
+
+---
+
+<!-- analysis-link:2026-09-11-husted-collins-campaigns-fired-aides-over-public-activity-without-disclosing-pri -->
+**Going deeper:** [Read MSI's analysis of Republican campaigns' vetting of aides →](/analyses/2026-09-11-husted-collins-campaigns-fired-aides-over-public-activity-without-disclosing-pri)

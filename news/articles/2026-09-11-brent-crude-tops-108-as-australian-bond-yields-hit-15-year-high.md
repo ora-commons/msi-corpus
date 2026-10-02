@@ -209,6 +209,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-09-11-middle-east-conflict-lifts-brent-above-us-108-australian-10-year-yields-to-15-ye'
 ---
 ## Brent crude tops $108 as Australian bond yields hit 15-year high
 
@@ -250,3 +252,8 @@ Kearns said the central bank's inflation-fighting credentials were increasingly 
 **Publication date:** 2026-09-11
 **Title:** Australian fuel prices set to rise by 30c as global markets react to ‘deadly cocktail’
 **URL:** https://www.theguardian.com/australia-news/2026/sep/11/australian-fuel-prices-set-to-rise-by-30c-as-global-markets-react-to-deadly-cocktail
+
+---
+
+<!-- analysis-link:2026-09-11-middle-east-conflict-lifts-brent-above-us-108-australian-10-year-yields-to-15-ye -->
+**Going deeper:** [Read MSI's analysis of Brent crude and Australian yields →](/analyses/2026-09-11-middle-east-conflict-lifts-brent-above-us-108-australian-10-year-yields-to-15-ye)

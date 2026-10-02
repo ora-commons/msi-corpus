@@ -201,7 +201,7 @@
         "outlet_class": {
           "type": "string",
           "enum": [
-            "wire", "national_daily", "regional", "trade", "primary_document",
+            "wire", "national_daily", "nonprofit", "regional", "trade", "primary_document",
             "government_release", "court_filing", "peer_reviewed",
             "press_release", "social_media", "other"
           ]

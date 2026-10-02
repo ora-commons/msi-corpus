@@ -168,6 +168,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.6779
+analyses:
+- '2026-09-11-australian-packaging-reform-deferral-opens-four-scenarios-as-federal-action-yiel'
 ---
 ## Australian government shelves promised packaging laws, citing cost of living
 
@@ -208,3 +210,8 @@ Clean Up Australia's annual litter reports put the underlying problem in numeric
 **Publication date:** 2026-09-11
 **Title:** Labor ditches new packaging laws to cut plastic waste, sparking unprecedented ‘scale and breadth of outrage’
 **URL:** https://www.theguardian.com/australia-news/2026/sep/12/labor-ditch-new-packaging-laws-breaking-promise-plastic-waste
+
+---
+
+<!-- analysis-link:2026-09-11-australian-packaging-reform-deferral-opens-four-scenarios-as-federal-action-yiel -->
+**Going deeper:** [Read MSI's analysis of Australian packaging deferral scenarios →](/analyses/2026-09-11-australian-packaging-reform-deferral-opens-four-scenarios-as-federal-action-yiel)
