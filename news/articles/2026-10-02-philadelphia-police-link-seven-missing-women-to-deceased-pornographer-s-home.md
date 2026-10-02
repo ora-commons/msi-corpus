@@ -239,6 +239,8 @@ related_stories:
   publish_date: '2026-01-20'
   relation: related
   strength: 0.5579
+analyses:
+- '2026-10-02-documented-horsch-case-shows-seven-signals-unconnected-across-agencies'
 ---
 
 ## Philadelphia police link seven missing women to deceased pornographer's home
@@ -318,3 +320,8 @@ Hitchens said that, as the case develops, he hopes the women will be remembered 
 **Publication date:** 2026-10-02
 **Title:** Does Philadelphia’s ‘house of horrors’ hold the key to seven missing women?
 **URL:** https://www.theguardian.com/us-news/2026/oct/02/philadelphia-missing-women-raymond-horsch
+
+---
+
+<!-- analysis-link:2026-10-02-documented-horsch-case-shows-seven-signals-unconnected-across-agencies -->
+**Going deeper:** [Read MSI's analysis of the Horsch case aggregation failure →](/analyses/2026-10-02-documented-horsch-case-shows-seven-signals-unconnected-across-agencies)
