@@ -221,6 +221,8 @@ related_stories:
   publish_date: '2026-03-04'
   relation: related
   strength: 0.7642
+analyses:
+- '2026-10-02-seven-senate-tossups-and-32-percent-approval-put-2026-midterms-in-compression-te'
 ---
 
 ## Polls, forecasters favor Democrats as 2026 midterms near
@@ -258,3 +260,8 @@ History favors the party out of power in midterm elections, particularly in the 
 **Publication date:** 2026-10-02
 **Title:** The US midterm races that will decide control of Congress – mapped
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals
+
+---
+
+<!-- analysis-link:2026-10-02-seven-senate-tossups-and-32-percent-approval-put-2026-midterms-in-compression-te -->
+**Going deeper:** [Read MSI's analysis of the 2026 midterm compression →](/analyses/2026-10-02-seven-senate-tossups-and-32-percent-approval-put-2026-midterms-in-compression-te)
