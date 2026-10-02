@@ -218,6 +218,8 @@ related_stories:
   publish_date: '2026-05-12'
   relation: related
   strength: 0.6356
+analyses:
+- '2026-10-02-roth-alleges-us-russia-delegations-weakened-geneva-ai-weapons-report'
 ---
 
 ## Roth says AI already targeting in Gaza, criticizes Geneva weapons talks
@@ -265,3 +267,8 @@ Roth argued that meaningful human control of AI requires not just nominal endors
 **Publication date:** 2026-10-02
 **Title:** AI weapons systems are already here. Algorithms must not decide who lives and dies | Kenneth Roth
 **URL:** https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war
+
+---
+
+<!-- analysis-link:2026-10-02-roth-alleges-us-russia-delegations-weakened-geneva-ai-weapons-report -->
+**Going deeper:** [Read MSI's analysis of AI weapons treaty negotiations →](/analyses/2026-10-02-roth-alleges-us-russia-delegations-weakened-geneva-ai-weapons-report)
