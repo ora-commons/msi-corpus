@@ -222,6 +222,8 @@ related_stories:
   publish_date: '2026-02-14'
   relation: related
   strength: 0.6795
+analyses:
+- '2026-10-02-per-officer-formula-pays-police-60-000-annually-regardless-of-additional-immigra'
 ---
 
 ## DHS task force pays police $60,000 per officer after one immigration arrest
@@ -270,3 +272,8 @@ The partnership arrangement was created in 1996 and became known as 287(g), name
 **Publication date:** 2026-10-02
 **Title:** Police Score Big Bucks With Little Work in Trump’s Immigration Crackdown
 **URL:** https://www.wsj.com/us-news/immigration-arrests-police-trump-f0ca5253
+
+---
+
+<!-- analysis-link:2026-10-02-per-officer-formula-pays-police-60-000-annually-regardless-of-additional-immigra -->
+**Going deeper:** [Read MSI's analysis of DHS 287(g) per-officer funding →](/analyses/2026-10-02-per-officer-formula-pays-police-60-000-annually-regardless-of-additional-immigra)
