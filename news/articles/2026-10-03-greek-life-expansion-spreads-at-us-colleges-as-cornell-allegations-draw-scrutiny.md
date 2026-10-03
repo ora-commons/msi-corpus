@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-09-22'
   relation: related
   strength: 0.6135
+analyses:
+- '2026-10-03-greek-life-expansion-tests-whether-documented-chapter-harms-and-student-demand-c'
 ---
 
 ## Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
@@ -285,3 +287,8 @@ The story was reported by Douglas Belkin from The Wall Street Journal's Chicago 
 **Publication date:** 2026-10-03
 **Title:** Cornell Rape Case Collides With Colleges’ Growing Embrace of Fraternities
 **URL:** https://www.wsj.com/us-news/education/cornell-rape-case-collides-with-colleges-growing-embrace-of-fraternities-a8b2ef33
+
+---
+
+<!-- analysis-link:2026-10-03-greek-life-expansion-tests-whether-documented-chapter-harms-and-student-demand-c -->
+**Going deeper:** [Read MSI's analysis of Greek life expansion and documented harm →](/analyses/2026-10-03-greek-life-expansion-tests-whether-documented-chapter-harms-and-student-demand-c)
