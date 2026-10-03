@@ -187,6 +187,8 @@ related_stories:
   publish_date: '2026-04-17'
   relation: related
   strength: 0.6299
+analyses:
+- '2026-10-02-four-documented-conditions-compound-to-position-kreiss-tomkins-ahead-in-alaska-g'
 ---
 
 ## Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
@@ -241,3 +243,8 @@ On his priorities, Kreiss-Tomkins returned to two concerns familiar to Alaskans.
 **Publication date:** 2026-10-02
 **Title:** A Democratic upset is brewing in Alaska’s governor’s race as Trump’s popularity craters
 **URL:** https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins
+
+---
+
+<!-- analysis-link:2026-10-02-four-documented-conditions-compound-to-position-kreiss-tomkins-ahead-in-alaska-g -->
+**Going deeper:** [Read MSI's analysis of Alaska's 2026 gubernatorial configuration →](/analyses/2026-10-02-four-documented-conditions-compound-to-position-kreiss-tomkins-ahead-in-alaska-g)
