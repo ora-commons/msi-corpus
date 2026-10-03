@@ -238,6 +238,8 @@ related_stories:
   publish_date: '2026-03-20'
   relation: related
   strength: 0.5749
+analyses:
+- '2026-10-02-oregon-housing-chief-s-amended-disclosures-prompt-conflict-of-interest-review-ov'
 ---
 
 ## Oregon housing chief amended ethics filings after husband's employer surfaced
@@ -282,3 +284,8 @@ Bell's situation is the second conflict-of-interest issue Oregon housing officia
 **Publication date:** 2026-10-02
 **Title:** Her Agency Distributes Billions for Housing Projects. Her Husband’s Company Helped Develop Some of Them.
 **URL:** https://www.propublica.org/article/oregon-housing-director-husband-conflict
+
+---
+
+<!-- analysis-link:2026-10-02-oregon-housing-chief-s-amended-disclosures-prompt-conflict-of-interest-review-ov -->
+**Going deeper:** [Read MSI's analysis of Oregon housing conflict review →](/analyses/2026-10-02-oregon-housing-chief-s-amended-disclosures-prompt-conflict-of-interest-review-ov)
