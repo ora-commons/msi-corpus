@@ -236,6 +236,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.7802
+analyses:
+- '2026-10-02-us-export-threat-frames-uk-diesel-squeeze-as-multi-player-strategic-game'
 ---
 
 ## Cornwall Insight projects 16% rise in UK energy price cap
@@ -274,3 +276,8 @@ Trump has pressed Ukrainian President Volodymyr Zelenskyy to halt Kyiv's drone a
 **Publication date:** 2026-10-02
 **Title:** UK diesel price hits record high of £2 a litre
 **URL:** https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil
+
+---
+
+<!-- analysis-link:2026-10-02-us-export-threat-frames-uk-diesel-squeeze-as-multi-player-strategic-game -->
+**Going deeper:** [Read MSI's analysis of UK diesel supply coercion dynamics →](/analyses/2026-10-02-us-export-threat-frames-uk-diesel-squeeze-as-multi-player-strategic-game)
