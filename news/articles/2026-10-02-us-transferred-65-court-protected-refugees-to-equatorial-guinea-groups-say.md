@@ -219,6 +219,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.6826
+analyses:
+- '2026-10-02-us-transfers-court-protected-refugees-to-equatorial-guinea-under-repurposed-refu'
 ---
 
 ## US transferred 65 court-protected refugees to Equatorial Guinea, groups say
@@ -262,3 +264,8 @@ Alicante and Zeya said they are pressing for coordinated Magnitsky-style sanctio
 **Publication date:** 2026-10-02
 **Title:** Trump is disappearing refugees into the hands of torturers – and rewarding them handsomely | Tutu Alicante and Uzra Zeya
 **URL:** https://www.theguardian.com/commentisfree/2026/oct/02/trump-refugees-equatorial-guinea-torture
+
+---
+
+<!-- analysis-link:2026-10-02-us-transfers-court-protected-refugees-to-equatorial-guinea-under-repurposed-refu -->
+**Going deeper:** [Read MSI's analysis of third-country transfers to Equatorial Guinea →](/analyses/2026-10-02-us-transfers-court-protected-refugees-to-equatorial-guinea-under-repurposed-refu)
