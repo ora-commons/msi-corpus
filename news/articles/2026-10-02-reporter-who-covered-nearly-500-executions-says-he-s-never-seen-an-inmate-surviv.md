@@ -241,6 +241,8 @@ related_stories:
   publish_date: '2026-05-20'
   relation: related
   strength: 0.6574
+analyses:
+- '2026-10-02-differential-diagnosis-places-intravenous-access-failure-as-leading-explanation-'
 ---
 
 ## Reporter who covered nearly 500 executions says he's never seen an inmate survive
@@ -289,3 +291,8 @@ When people hear about his career covering executions, Graczyk told the BBC, the
 **Publication date:** 2026-10-02
 **Title:** I've seen nearly 500 executions - but never one like Christa Pike's
 **URL:** https://www.bbc.co.uk/news/articles/c6d949gq47x9o
+
+---
+
+<!-- analysis-link:2026-10-02-differential-diagnosis-places-intravenous-access-failure-as-leading-explanation- -->
+**Going deeper:** [Read MSI's analysis of Tennessee execution survival analysis →](/analyses/2026-10-02-differential-diagnosis-places-intravenous-access-failure-as-leading-explanation-)
