@@ -241,6 +241,8 @@ related_stories:
   publish_date: '2026-02-08'
   relation: related
   strength: 0.5992
+analyses:
+- '2026-10-03-arrests-expose-the-spoiler-network-the-boulos-plan-left-outside-the-room'
 ---
 
 ## Allegations against Saddam Haftar derail Libyan unity plan
@@ -279,3 +281,8 @@ The allegations may also intensify a power struggle between the three sons of Kh
 **Publication date:** 2026-10-03
 **Title:** Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities
 **URL:** https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar
+
+---
+
+<!-- analysis-link:2026-10-03-arrests-expose-the-spoiler-network-the-boulos-plan-left-outside-the-room -->
+**Going deeper:** [Read MSI's analysis of Libyan unity plan spoiler exposure →](/analyses/2026-10-03-arrests-expose-the-spoiler-network-the-boulos-plan-left-outside-the-room)
