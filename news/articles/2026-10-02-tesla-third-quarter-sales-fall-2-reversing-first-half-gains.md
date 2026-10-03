@@ -238,6 +238,8 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6171
+analyses:
+- '2026-10-02-tesla-s-pivot-frame-and-the-cybercab-stress-test-reading-the-q3-delivery-report-'
 ---
 
 ## Tesla third-quarter sales fall 2%, reversing first-half gains
@@ -283,3 +285,8 @@ Earlier this year, Tesla and SpaceX announced plans for Terafab, a new AI chip-r
 **Publication date:** 2026-10-02
 **Title:** Tesla Sales Slump in Third Quarter
 **URL:** https://www.wsj.com/business/autos/tesla-sales-fell-in-third-quarter-8a7cad7c
+
+---
+
+<!-- analysis-link:2026-10-02-tesla-s-pivot-frame-and-the-cybercab-stress-test-reading-the-q3-delivery-report- -->
+**Going deeper:** [Read MSI's analysis of Tesla Q3 2026 deliveries decline Cybercab Robotaxi Musk pay package transition trough merger SpaceX →](/analyses/2026-10-02-tesla-s-pivot-frame-and-the-cybercab-stress-test-reading-the-q3-delivery-report-)
