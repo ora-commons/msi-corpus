@@ -219,6 +219,8 @@ related_stories:
   publish_date: '2026-03-12'
   relation: related
   strength: 0.6869
+analyses:
+- '2026-10-03-apology-dispute-and-missile-launch-expose-divergent-interests-across-korean-gove'
 ---
 
 ## North Korea fires ballistic missile after rejecting Seoul's apology demand
@@ -259,3 +261,8 @@ North Korea has ramped up hostility against the South in recent years, disavowin
 **Publication date:** 2026-10-03
 **Title:** North Korea launches ballistic missile after Seoul demands apology over wounded soldiers
 **URL:** https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers
+
+---
+
+<!-- analysis-link:2026-10-03-apology-dispute-and-missile-launch-expose-divergent-interests-across-korean-gove -->
+**Going deeper:** [Read MSI's analysis of the inter-Korean missile launch exchange →](/analyses/2026-10-03-apology-dispute-and-missile-launch-expose-divergent-interests-across-korean-gove)
