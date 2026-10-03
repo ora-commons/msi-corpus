@@ -239,6 +239,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.7273
+analyses:
+- '2026-10-03-xi-summit-rest-demands-expose-absence-of-succession-process'
 ---
 
 ## Chinese officials seek rest accommodations for Xi at Trump summit
@@ -290,3 +292,8 @@ Still, questions of succession pose risks even beyond China's borders. Jockeying
 **Publication date:** 2026-10-03
 **Title:** Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump
 **URL:** https://www.wsj.com/world/china/xi-jinping-health-caf250f1
+
+---
+
+<!-- analysis-link:2026-10-03-xi-summit-rest-demands-expose-absence-of-succession-process -->
+**Going deeper:** [Read MSI's analysis of Xi rest demands and succession vacuum →](/analyses/2026-10-03-xi-summit-rest-demands-expose-absence-of-succession-process)
