@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-04-28'
   relation: related
   strength: 0.6389
+analyses:
+- '2026-10-02-supreme-court-gvr-unanimously-vacates-sittenfeld-s-bribery-conviction-sidesteppi'
 ---
 
 ## Sittenfeld describes unanimous ruling vacating his 2022 conviction
@@ -294,3 +296,8 @@ The essay was published as a contributor piece in the WSJ. Sittenfeld is a write
 **Publication date:** 2026-10-02
 **Title:** How I Took My Conviction All The Way to the Supreme Court—and Won
 **URL:** https://www.wsj.com/us-news/law/pg-sittenfeld-supreme-court-case-pardon-621d3f6b
+
+---
+
+<!-- analysis-link:2026-10-02-supreme-court-gvr-unanimously-vacates-sittenfeld-s-bribery-conviction-sidesteppi -->
+**Going deeper:** [Read MSI's analysis of Sittenfeld's GVR and the campaign-finance question →](/analyses/2026-10-02-supreme-court-gvr-unanimously-vacates-sittenfeld-s-bribery-conviction-sidesteppi)
