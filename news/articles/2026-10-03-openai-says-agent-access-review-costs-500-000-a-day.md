@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-09-08'
   relation: related
   strength: 0.7149
+analyses:
+- '2026-10-03-openai-s-self-reported-figures-anchor-disclosure-record-ahead-of-joint-ai-hearin'
 ---
 
 ## OpenAI says agent-access review costs $500,000 a day
@@ -281,3 +283,8 @@ Executives from OpenAI, Anthropic, Microsoft and Google are scheduled to front a
 **Publication date:** 2026-10-03
 **Title:** OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day
 **URL:** https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day
+
+---
+
+<!-- analysis-link:2026-10-03-openai-s-self-reported-figures-anchor-disclosure-record-ahead-of-joint-ai-hearin -->
+**Going deeper:** [Read MSI's analysis of OpenAI's pre-hearing disclosure record →](/analyses/2026-10-03-openai-s-self-reported-figures-anchor-disclosure-record-ahead-of-joint-ai-hearin)
