@@ -219,6 +219,8 @@ related_stories:
   publish_date: '2026-06-08'
   relation: related
   strength: 0.6221
+analyses:
+- '2026-10-02-burnham-government-s-nhs-data-platform-decision-sits-amid-consultancy-ties-lobby'
 ---
 
 ## Palantir consultancy link to Burnham's byelection team surfaces
@@ -260,3 +262,8 @@ A Labour spokesperson said: "There are robust rules and procedures to manage any
 **Publication date:** 2026-10-02
 **Title:** Recent lobbyist for Palantir had key role in helping Andy Burnham become PM
 **URL:** https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham
+
+---
+
+<!-- analysis-link:2026-10-02-burnham-government-s-nhs-data-platform-decision-sits-amid-consultancy-ties-lobby -->
+**Going deeper:** [Read MSI's analysis of NHS data platform / Palantir contract / lobbying disclosure →](/analyses/2026-10-02-burnham-government-s-nhs-data-platform-decision-sits-amid-consultancy-ties-lobby)
