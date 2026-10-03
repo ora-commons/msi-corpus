@@ -237,6 +237,8 @@ related_stories:
   publish_date: '2026-06-23'
   relation: related
   strength: 0.6245
+analyses:
+- '2026-10-02-h-lei-arch-source-leaves-join-between-long-expected-erosion-and-storm-timing-tri'
 ---
 
 ## Hawaii's 550-year-old Hōlei sea arch collapses into Pacific
@@ -275,3 +277,8 @@ Nolo rapidly intensified into a hurricane on September 24, prompting the nationa
 **Publication date:** 2026-10-02
 **Title:** Hawaii’s centuries-old sea arch collapses into Pacific after series of rough storms
 **URL:** https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses
+
+---
+
+<!-- analysis-link:2026-10-02-h-lei-arch-source-leaves-join-between-long-expected-erosion-and-storm-timing-tri -->
+**Going deeper:** [Read MSI's analysis of Hōlei arch collapse causal framing →](/analyses/2026-10-02-h-lei-arch-source-leaves-join-between-long-expected-erosion-and-storm-timing-tri)
