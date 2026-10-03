@@ -225,6 +225,8 @@ related_stories:
   publish_date: '2026-06-10'
   relation: related
   strength: 0.6943
+analyses:
+- '2026-10-02-ai-s-3-5-trillion-revenue-target-rests-on-three-premises-with-measurable-empiric'
 ---
 
 ## AI sector needs 9% of US GDP in revenue by 2032, analysis finds
@@ -266,3 +268,8 @@ The takeaway, Ip wrote, is that AI will almost certainly raise productivity and 
 **Publication date:** 2026-10-02
 **Title:** Will America Spend 9% of Its GDP on AI? The Industry Is Counting on It.
 **URL:** https://www.wsj.com/tech/ai/will-america-spend-9-of-its-gdp-on-ai-the-industry-is-counting-on-it-3501bb4f
+
+---
+
+<!-- analysis-link:2026-10-02-ai-s-3-5-trillion-revenue-target-rests-on-three-premises-with-measurable-empiric -->
+**Going deeper:** [Read MSI's analysis of AI revenue model's three premises →](/analyses/2026-10-02-ai-s-3-5-trillion-revenue-target-rests-on-three-premises-with-measurable-empiric)
