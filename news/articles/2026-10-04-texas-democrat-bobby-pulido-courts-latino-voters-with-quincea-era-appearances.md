@@ -158,6 +158,8 @@ related_stories:
   publish_date: '2026-03-01'
   relation: related
   strength: 0.8055
+analyses:
+- '2026-10-04-texas-15th-race-tests-whether-2024-hispanic-shift-reverses-under-ice-enforcement'
 ---
 ## Texas Democrat Bobby Pulido courts Latino voters with quinceañera appearances
 
@@ -224,3 +226,8 @@ A bittersweet undercurrent runs beneath the campaign. Last year Pulido announced
 **Publication date:** 2026-10-04
 **Title:** The Tejano singer trying to win back Latinos who voted for Trump, one quinceañera at a time
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats
+
+---
+
+<!-- analysis-link:2026-10-04-texas-15th-race-tests-whether-2024-hispanic-shift-reverses-under-ice-enforcement -->
+**Going deeper:** [Read MSI's analysis of TX-15 as coalition stress test →](/analyses/2026-10-04-texas-15th-race-tests-whether-2024-hispanic-shift-reverses-under-ice-enforcement)
