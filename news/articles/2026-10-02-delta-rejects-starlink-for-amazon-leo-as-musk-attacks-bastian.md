@@ -1,9 +1,16 @@
 ---
 headline: Delta rejects Starlink for Amazon Leo as Musk attacks Bastian
-secondary_headline: United and American extend status matches amid in-flight Wi-Fi competition
+secondary_headline: United and American extend status matches amid in-flight Wi-Fi
+  competition
 publish_date: '2026-10-02'
-lede: Delta Air Lines is the only one of the four largest U.S. airlines that has not adopted SpaceX's Starlink for in-flight Wi-Fi, having chosen Amazon's Leo satellite-internet service in a deal announced earlier this year. Elon Musk has responded with days of attacks on Delta CEO Ed Bastian on X, writing that Bastian 'will lose his job over this' and accusing him of deliberately damaging the company.
-nut_graf: The dispute is the latest in a pattern of public clashes between Musk and airline executives and highlights the stakes of an in-flight Wi-Fi market that providers and carriers expect to generate billions of dollars in revenue in coming years.
+lede: Delta Air Lines is the only one of the four largest U.S. airlines that has not
+  adopted SpaceX's Starlink for in-flight Wi-Fi, having chosen Amazon's Leo satellite-internet
+  service in a deal announced earlier this year. Elon Musk has responded with days
+  of attacks on Delta CEO Ed Bastian on X, writing that Bastian 'will lose his job
+  over this' and accusing him of deliberately damaging the company.
+nut_graf: The dispute is the latest in a pattern of public clashes between Musk and
+  airline executives and highlights the stakes of an in-flight Wi-Fi market that providers
+  and carriers expect to generate billions of dollars in revenue in coming years.
 primary_entities:
 - Delta Air Lines
 - SpaceX
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +152,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-25-x-stopped-calling-eu-users-verified-now-labels-them-premium-users
-  headline: X stopped calling EU users 'verified,' now labels them 'premium users'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6145
-- slug: 2026-09-25-justice-department-files-to-support-musk-s-challenge-to-eu-x-fine
-  headline: Justice Department files to support Musk's challenge to EU X fine
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6006
-- slug: 2026-09-16-trump-xi-state-dinner-expected-to-draw-rival-ai-ceos
-  headline: Trump-Xi state dinner expected to draw rival AI CEOs
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6024
-- slug: 2026-08-26-zelensky-awards-musk-ukraine-s-order-of-freedom-for-starlink-role
-  headline: Zelensky awards Musk Ukraine's Order of Freedom for Starlink role
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.601
-- slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6133
-- slug: 2026-08-12-texas-pauses-bead-grant-disbursements-after-starlink-favoritism-allegations
-  headline: Texas pauses BEAD grant disbursements after Starlink favoritism allegations
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6114
 - slug: 2026-05-18-ryanair-ceo-dismisses-musk-s-offer-to-buy-airline-amid-starlink-feud
   headline: Ryanair CEO dismisses Musk's offer to buy airline amid Starlink feud
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7461
-- slug: 2026-08-10-pecan-island-residents-oppose-spacex-launch-site-over-bird-habitat
-  headline: Pecan Island residents oppose SpaceX launch site over bird habitat
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6107
-- slug: 2026-07-26-united-approaches-delta-about-merger-talks-stall-people-say
-  headline: United approaches Delta about merger, talks stall, people say
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6294
+  strength: 0.7457
 - slug: 2026-07-10-texas-democrat-says-110m-starlink-grants-look-like-corruption
   headline: Texas Democrat says $110M Starlink grants look like corruption
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6563
+  strength: 0.6558
 - slug: 2026-07-02-spacex-starlink-plans-mobile-service-to-target-at-t-verizon
   headline: SpaceX Starlink plans mobile service to target AT&T, Verizon
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6624
-- slug: 2026-07-10-110m-in-texas-starlink-grants-sure-looks-like-corruption-democratic-ag-nominee-s
-  headline: $110M in Texas Starlink grants 'sure looks like' corruption, Democratic AG nominee says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6415
-- slug: 2026-07-31-zelenskyy-asks-trump-for-help-expanding-starlink-targeting-inside-russia
-  headline: Zelenskyy asks Trump for help expanding Starlink targeting inside Russia
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5968
-- slug: 2026-07-10-texas-democrat-pledges-starlink-grant-investigation-if-elected-ag
-  headline: Texas Democrat pledges Starlink grant investigation if elected AG
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6302
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6097
-- slug: 2026-06-13-a-look-at-elon-musk-s-vast-business-empire-from-spacex-to-tesla
-  headline: A look at Elon Musk's vast business empire, from SpaceX to Tesla
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6169
-- slug: 2026-06-08-spacex-ipo-begins-trading-makes-musk-world-s-first-trillionaire
-  headline: SpaceX IPO begins trading, makes Musk world's first trillionaire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6072
-- slug: 2026-06-12-spacex-ipo-tops-176-company-surpasses-2-trillion-market-cap-on-debut
-  headline: SpaceX IPO tops $176, company surpasses $2 trillion market cap on debut
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6016
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6177
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6091
+  strength: 0.6629
 ---
-
 ## Delta rejects Starlink for Amazon Leo as Musk attacks Bastian
 
 **Subtype:** fact

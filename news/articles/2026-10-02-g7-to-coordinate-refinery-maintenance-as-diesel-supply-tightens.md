@@ -2,8 +2,16 @@
 headline: G7 to coordinate refinery maintenance as diesel supply tightens
 secondary_headline: Russia bans diesel exports after Ukraine strikes refineries
 publish_date: '2026-10-02'
-lede: G7 leaders agreed Friday to coordinate refinery maintenance schedules to avoid simultaneous shutdowns and to encourage countries with refining capacity to ramp up diesel production, part of a package of supply-side measures that includes a release of up to 100 million barrels of oil and diesel through the International Energy Agency. The coordinated response comes as Russia has implemented its own diesel export ban following Ukrainian strikes on its refineries, deepening supply constraints already tightened by conflict in the Middle East.
-nut_graf: The package follows threats by President Donald Trump to ban US diesel exports unless European countries released more of their own reserves, a step that would have eased pressure on US consumers but pushed up prices elsewhere.
+lede: G7 leaders agreed Friday to coordinate refinery maintenance schedules to avoid
+  simultaneous shutdowns and to encourage countries with refining capacity to ramp
+  up diesel production, part of a package of supply-side measures that includes a
+  release of up to 100 million barrels of oil and diesel through the International
+  Energy Agency. The coordinated response comes as Russia has implemented its own
+  diesel export ban following Ukrainian strikes on its refineries, deepening supply
+  constraints already tightened by conflict in the Middle East.
+nut_graf: The package follows threats by President Donald Trump to ban US diesel exports
+  unless European countries released more of their own reserves, a step that would
+  have eased pressure on US consumers but pushed up prices elsewhere.
 primary_entities:
 - G7
 - International Energy Agency
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,17 +151,22 @@ related_stories:
   headline: G-7 agrees to release 100 million barrels from emergency oil reserves
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8198
+  strength: 0.8185
 - slug: 2026-10-02-macquarie-says-g7-diesel-release-won-t-fix-us-energy-problem
   headline: Macquarie says G7 diesel release won't fix US energy problem
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7921
+  strength: 0.7909
+- slug: 2026-10-02-birol-says-oil-prices-falling-after-g7-reserve-release
+  headline: Birol says oil prices falling after G7 reserve release
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7771
 - slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
   headline: Diesel prices hit records in US and EU as wars curb global supply
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7687
+  strength: 0.769
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
@@ -162,84 +176,18 @@ related_stories:
   headline: Trump backs diesel export ban to ease record US pump prices
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7605
+  strength: 0.7593
 - slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
   headline: Russia bans diesel exports after Ukraine refinery attacks
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7535
+  strength: 0.7532
 - slug: 2026-10-02-uk-transport-minister-says-country-is-not-facing-diesel-shortage
   headline: UK transport minister says country is not facing diesel shortage
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7213
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7352
-- slug: 2026-10-01-ukraine-persists-with-russian-refinery-strikes-despite-trump-pressure
-  headline: Ukraine persists with Russian refinery strikes despite Trump pressure
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7039
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7594
-- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
-  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7156
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7381
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7412
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7461
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7295
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7379
-- slug: 2026-09-19-iran-and-ukraine-wars-squeeze-global-diesel-supply-as-refinery-exports-plunge
-  headline: Iran and Ukraine wars squeeze global diesel supply as refinery exports plunge
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7484
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7354
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7035
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7415
+  strength: 0.7219
 ---
-
 ## G7 to coordinate refinery maintenance as diesel supply tightens
 
 **Subtype:** fact

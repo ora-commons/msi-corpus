@@ -2,8 +2,19 @@
 headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
 secondary_headline: No Americans among six aboard, source says
 publish_date: '2026-10-03'
-lede: Officials believe a Canadian-registered air ambulance jet with six people aboard rapidly descended 7,500 feet before hitting the water off Nantucket, Massachusetts, early Saturday, according to a source with knowledge of the investigation cited by ABC News. The Federal Aviation Administration issued a search-and-rescue alert for the Gulfstream G-100 at about 1:20 a.m. local time Saturday after the aircraft lost contact with the agency during an overnight flight from Bermuda to Boston, an FAA spokesperson told The Guardian.
-nut_graf: The aircraft, operated by Latitude Air Ambulance, had departed Bermuda's LF Wade International Airport overnight for Boston with four crew members and two passengers, according to a statement from the Bermuda airport's operator, Skyport, obtained by the Associated Press. The plane was conducting a medical evacuation from Bermuda, Latitude director of flight operations Clarence Togeretz told NBC News.
+lede: Officials believe a Canadian-registered air ambulance jet with six people aboard
+  rapidly descended 7,500 feet before hitting the water off Nantucket, Massachusetts,
+  early Saturday, according to a source with knowledge of the investigation cited
+  by ABC News. The Federal Aviation Administration issued a search-and-rescue alert
+  for the Gulfstream G-100 at about 1:20 a.m. local time Saturday after the aircraft
+  lost contact with the agency during an overnight flight from Bermuda to Boston,
+  an FAA spokesperson told The Guardian.
+nut_graf: The aircraft, operated by Latitude Air Ambulance, had departed Bermuda's
+  LF Wade International Airport overnight for Boston with four crew members and two
+  passengers, according to a statement from the Bermuda airport's operator, Skyport,
+  obtained by the Associated Press. The plane was conducting a medical evacuation
+  from Bermuda, Latitude director of flight operations Clarence Togeretz told NBC
+  News.
 primary_entities:
 - US Coast Guard
 - Federal Aviation Administration
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,22 +156,13 @@ related_stories:
   headline: Coast Guard searches for medical plane with 6 aboard off Nantucket
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8748
-- slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6489
-- slug: 2026-09-02-coast-guard-plane-carrying-dhs-secretary-mullin-lands-safely-after-engine-fire
-  headline: Coast Guard plane carrying DHS Secretary Mullin lands safely after engine fire
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6421
+  strength: 0.8763
 - slug: 2026-08-28-ntsb-white-house-helipad-relocation-contributed-to-marine-one-close-call
-  headline: 'NTSB: White House helipad relocation contributed to Marine One close call'
+  headline: 'NTSB: White House helipad relocation contributed to Marine One close
+    call'
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6538
+  strength: 0.6542
 - slug: 2026-08-21-two-pilots-six-passengers-board-plane-before-it-crashes-near-cape-newenham
   headline: Two pilots, six passengers board plane before it crashes near Cape Newenham
   publish_date: '2026-08-21'
@@ -169,79 +172,31 @@ related_stories:
   headline: Rare winter flight evacuates American from Antarctica to New Zealand
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6513
+  strength: 0.6514
 - slug: 2026-06-21-delta-plane-aborts-landing-after-300ft-near-miss-with-american-jet-at-boston-log
-  headline: Delta plane aborts landing after 300ft near miss with American jet at Boston Logan
+  headline: Delta plane aborts landing after 300ft near miss with American jet at
+    Boston Logan
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6622
-- slug: 2026-07-05-hard-landing-snaps-wing-strut-in-east-river-seaplane-faa-says
-  headline: Hard landing snaps wing strut in East River seaplane, FAA says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6416
+  strength: 0.6631
 - slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
   headline: 10 rescued after small plane crashes in Bahamian waters off Florida
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6663
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6636
+  strength: 0.6669
 - slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
+  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were
+    rescued
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6606
-- slug: 2026-05-14-11-survivors-of-plane-ditching-off-florida-rescued-after-five-hours-on-life-raft
-  headline: 11 survivors of plane ditching off Florida rescued after five hours on life raft
-  publish_date: '2026-05-14'
+  strength: 0.6612
+- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
+  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver
+    runway
+  publish_date: '2026-05-09'
   relation: related
-  strength: 0.6425
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6425
-- slug: 2026-03-24-laguardia-runway-crash-closes-airport-after-air-canada-collision
-  headline: LaGuardia runway crash closes airport after Air Canada collision
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6617
-- slug: 2026-03-24-passengers-escape-after-air-canada-jet-collides-with-fire-truck-at-laguardia
-  headline: Passengers escape after Air Canada jet collides with fire truck at LaGuardia
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6598
-- slug: 2026-03-25-pilots-killed-in-laguardia-runway-collision-identified-as-air-canada-crew
-  headline: Pilots killed in LaGuardia runway collision identified as Air Canada crew
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6586
-- slug: 2026-03-25-ntsb-says-laguardia-controller-cleared-fire-truck-12-seconds-before-crash
-  headline: NTSB says LaGuardia controller cleared fire truck 12 seconds before crash
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6549
-- slug: 2026-03-24-what-to-know-about-the-laguardia-airport-runway-crash-involving-an-air-canada-fl
-  headline: What to know about the LaGuardia Airport runway crash involving an Air Canada flight
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6535
-- slug: 2026-04-26-ntsb-says-firefighter-heard-stop-stop-before-laguardia-crash
-  headline: NTSB says firefighter heard “stop, stop” before LaGuardia crash
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6394
-- slug: 2026-03-20-authorities-investigating-close-call-between-alaska-airlines-jet-and-fedex-plane
-  headline: Authorities investigating close call between Alaska Airlines jet and FedEx plane in Newark
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6512
+  strength: 0.6635
 ---
-
 ## Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
 
 **Subtype:** fact

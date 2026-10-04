@@ -2,8 +2,16 @@
 headline: White House forms AI task force, names DNI's Clayton as chair
 secondary_headline: Task force will rely on industry as primary risk-management vehicle
 publish_date: '2026-10-03'
-lede: The White House on October 3 announced a new task force to prepare a report on the risks and opportunities of artificial intelligence and come up with decisions on what responsibility the federal government has over the technology, with Office of the Director of National Intelligence head Jay Clayton named as its chair. A senior White House official said the appointment effectively makes Clayton President Trump's AI czar.
-nut_graf: The 120-day review crystallizes an internal administration debate about whether voluntary industry controls are sufficient, with public concern mounting over AI capabilities including cyberattacks, AI-enabled biological weapons, and job displacement.
+lede: The White House on October 3 announced a new task force to prepare a report
+  on the risks and opportunities of artificial intelligence and come up with decisions
+  on what responsibility the federal government has over the technology, with Office
+  of the Director of National Intelligence head Jay Clayton named as its chair. A
+  senior White House official said the appointment effectively makes Clayton President
+  Trump's AI czar.
+nut_graf: The 120-day review crystallizes an internal administration debate about
+  whether voluntary industry controls are sufficient, with public concern mounting
+  over AI capabilities including cyberattacks, AI-enabled biological weapons, and
+  job displacement.
 primary_entities:
 - White House
 - Jay Clayton
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +148,43 @@ related_stories:
   headline: Trump expected to name DNI Jay Clayton as White House AI czar
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8429
+  strength: 0.8434
 - slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
   headline: Trump tells White House tech CEOs self-regulation is 'very important'
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7384
+  strength: 0.7389
 - slug: 2026-09-30-trump-ai-executives-sign-voluntary-self-policing-accord
   headline: Trump, AI executives sign voluntary self-policing accord
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7094
+  strength: 0.7096
 - slug: 2026-09-29-trump-tech-ceos-sign-morally-binding-voluntary-ai-self-policing-deal
   headline: Trump, tech CEOs sign 'morally binding' voluntary AI self-policing deal
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7056
+  strength: 0.706
 - slug: 2026-09-30-white-house-ai-accord-misspells-united-states-under-trump-s-signature
   headline: White House AI accord misspells 'United States' under Trump's signature
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6975
+  strength: 0.6976
 - slug: 2026-09-30-tech-ceos-sign-morally-binding-ai-safety-pledge-at-white-house
   headline: Tech CEOs sign 'morally binding' AI safety pledge at White House
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6828
+  strength: 0.6832
 - slug: 2026-09-19-trump-launches-ai-force-oversight-unit-recruiting-ai-czar
   headline: Trump launches 'AI Force' oversight unit, recruiting AI czar
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.745
+  strength: 0.7452
 - slug: 2026-09-26-trump-and-xi-agree-to-super-intelligence-dialogue-at-state-visit
   headline: Trump and Xi agree to 'super intelligence' dialogue at state visit
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6814
-- slug: 2026-09-19-trump-calls-ai-safety-fears-a-hoax-as-stocks-for-ai-companies-fall
-  headline: Trump calls AI safety fears a 'hoax' as stocks for AI companies fall
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7086
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6906
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7042
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6983
-- slug: 2026-09-18-newsom-orders-two-month-california-review-of-ai-oversight
-  headline: Newsom orders two-month California review of AI oversight
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6865
-- slug: 2026-09-19-uk-joint-committee-on-human-rights-proposes-new-ai-bill-to-address-threats
-  headline: UK Joint Committee on Human Rights proposes new AI bill to address threats
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6749
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.675
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7135
-- slug: 2026-08-01-clayton-to-assume-national-intelligence-director-role-monday
-  headline: Clayton to assume national intelligence director role Monday
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7093
-- slug: 2026-08-04-clayton-sworn-in-tuesday-as-ninth-director-of-national-intelligence
-  headline: Clayton sworn in Tuesday as ninth director of national intelligence
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6863
-- slug: 2026-07-21-senate-panel-advances-jay-clayton-s-dni-nomination-along-party-lines
-  headline: Senate panel advances Jay Clayton's DNI nomination along party lines
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6891
-- slug: 2026-06-11-trump-nominates-jay-clayton-as-top-us-intelligence-official-after-pulte-pushback
-  headline: Trump nominates Jay Clayton as top US intelligence official after Pulte pushback
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6939
+  strength: 0.6822
 ---
-
 ## White House forms AI task force, names DNI's Clayton as chair
 
 **Subtype:** fact

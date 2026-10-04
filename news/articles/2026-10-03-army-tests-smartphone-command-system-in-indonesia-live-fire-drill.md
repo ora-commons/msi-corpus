@@ -2,8 +2,18 @@
 headline: Army tests smartphone command system in Indonesia live-fire drill
 secondary_headline: GAO said in August Army lacked detailed NGC2 rollout schedule
 publish_date: '2026-10-03'
-lede: The U.S. Army tested its Next Generation Command and Control program, called NGC2, during a live-fire drill on the Indonesian island of Sumatra, putting smartphones, Wi-Fi-capable radios, and satellite-linked vehicles in the hands of soldiers attempting to breach an enemy trench. The exercise, the service's first complete test of the gear package in tropical conditions, surfaced both the system's promise in compressing the sensor-to-shooter timeline and the technical kinks that remain before the technology can be fielded across the roughly 450,000-strong active-duty force, a rollout Army officials said will not be complete until 2032.
-nut_graf: The test comes as the Army presses to field a network linking soldiers, drones, vehicles, and commanders in real time, and as a government watchdog has questioned whether the service has a clear schedule and cost estimate for the multi-year effort.
+lede: The U.S. Army tested its Next Generation Command and Control program, called
+  NGC2, during a live-fire drill on the Indonesian island of Sumatra, putting smartphones,
+  Wi-Fi-capable radios, and satellite-linked vehicles in the hands of soldiers attempting
+  to breach an enemy trench. The exercise, the service's first complete test of the
+  gear package in tropical conditions, surfaced both the system's promise in compressing
+  the sensor-to-shooter timeline and the technical kinks that remain before the technology
+  can be fielded across the roughly 450,000-strong active-duty force, a rollout Army
+  officials said will not be complete until 2032.
+nut_graf: The test comes as the Army presses to field a network linking soldiers,
+  drones, vehicles, and commanders in real time, and as a government watchdog has
+  questioned whether the service has a clear schedule and cost estimate for the multi-year
+  effort.
 primary_entities:
 - U.S. Army
 - Next Generation Command and Control
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -70,109 +81,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-30-hegseth-establishes-combatant-command-for-autonomous-warfare
-  headline: Hegseth establishes combatant command for autonomous warfare
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6127
-- slug: 2026-09-29-pentagon-expands-latin-america-drug-operations-to-ground-raids
-  headline: Pentagon expands Latin America drug operations to ground raids
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.585
-- slug: 2026-09-16-us-investigates-cyberattacks-on-energy-tankers-in-strait-of-gibraltar
-  headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5891
-- slug: 2026-09-02-lawmakers-press-army-to-explain-halt-of-173rd-s-drone-warfare-focus
-  headline: Lawmakers press Army to explain halt of 173rd's drone warfare focus
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5888
-- slug: 2026-08-28-northern-command-confirms-army-laser-disabled-three-drones-at-southern-border
-  headline: Northern Command confirms Army laser disabled three drones at southern border
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.594
-- slug: 2026-08-07-army-gives-private-weapons-firms-access-to-test-ranges
-  headline: Army gives private weapons firms access to test ranges
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6277
-- slug: 2026-08-05-marines-seek-10-000-attack-drones-as-forces-exercise-in-australia
-  headline: Marines seek 10,000 attack drones as forces exercise in Australia
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6321
-- slug: 2026-08-02-communication-gap-triggers-south-korean-air-defense-alert-for-u-s-drone
-  headline: Communication gap triggers South Korean air defense alert for U.S. drone
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6375
-- slug: 2026-08-12-ukrainian-drone-operators-defeat-u-s-armored-brigade-in-german-exercise
-  headline: Ukrainian drone operators defeat U.S. armored brigade in German exercise
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5951
-- slug: 2026-08-10-us-and-south-korea-announce-aug-17-27-ulchi-freedom-shield-exercise
-  headline: US and South Korea announce Aug. 17-27 Ulchi Freedom Shield exercise
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6
-- slug: 2026-07-15-anduril-drone-fires-live-missile-in-first-air-force-combat-drone-test
-  headline: Anduril drone fires live missile in first Air Force combat-drone test
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5954
-- slug: 2026-07-15-us-south-korea-launch-largest-ever-joint-logistics-exercise
-  headline: US, South Korea launch largest-ever joint logistics exercise
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5833
-- slug: 2026-06-10-taiwan-test-fires-u-s--supplied-missile-launcher-toward-china
-  headline: Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6086
-- slug: 2026-06-30-multinational-kamandag-10-exercise-runs-through-wednesday-on-luzon
-  headline: Multinational KAMANDAG 10 exercise runs through Wednesday on Luzon
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5818
-- slug: 2026-06-11-us-sea-drone-rescues-apache-crew-off-oman-in-first-known-unmanned-rescue
-  headline: US sea drone rescues Apache crew off Oman in first known unmanned rescue
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5819
-- slug: 2026-05-20-pentagon-watchdog-to-evaluate-targeting-framework-in-boat-strikes
-  headline: Pentagon watchdog to evaluate targeting framework in boat strikes
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5961
-- slug: 2026-05-12-ukrainian-drone-pilots-warn-nato-at-sweden-exercise-amid-u-s-concerns
-  headline: Ukrainian drone pilots warn NATO at Sweden exercise amid U.S. concerns
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6002
-- slug: 2026-05-12-ukrainian-drone-pilots-humble-swedish-forces-in-nato-war-game-on-gotland
-  headline: Ukrainian drone pilots humble Swedish forces in NATO war game on Gotland
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5933
-- slug: 2026-05-19-pentagon-watchdog-to-evaluate-u-s-boat-strike-targeting-framework
-  headline: Pentagon watchdog to evaluate U.S. boat-strike targeting framework
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5863
-- slug: 2026-03-30-north-korea-says-kim-watched-solid-fuel-engine-test-for-u-s--range-missiles
-  headline: North Korea says Kim watched solid-fuel engine test for U.S.-range missiles
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.5862
+related_stories: []
 ---
-
 ## Army tests smartphone command system in Indonesia live-fire drill
 
 **Subtype:** fact

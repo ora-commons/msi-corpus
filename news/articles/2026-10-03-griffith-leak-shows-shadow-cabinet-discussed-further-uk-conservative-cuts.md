@@ -1,9 +1,23 @@
 ---
 headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-secondary_headline: Badenoch announces additional £4bn in reductions ahead of Birmingham conference
+secondary_headline: Badenoch announces additional £4bn in reductions ahead of Birmingham
+  conference
 publish_date: '2026-10-03'
-lede: The UK Conservative shadow cabinet discussed making public spending cuts beyond the party's existing £47bn pledge if it wins the next general election, according to leaked comments from shadow chancellor Andrew Griffith published Saturday by the Guardian. The comments, made by Griffith last October when he served as shadow business secretary, emerged on the eve of the Conservative Party's annual conference in Birmingham. The disclosure came a day after party leader Kemi Badenoch announced a separate £4bn reduction package.
-nut_graf: The Guardian reported that the leaked comments suggest the Conservatives are planning cuts similar in scale to those made during the austerity years. Prime Minister Andy Burnham has promised a series of potentially expensive interventions, including a new national care service and public control over utility companies, as he seeks to end what he calls "40 years of neoliberalism." The newspaper also reported that Badenoch, who has called Margaret Thatcher her hero, is attempting to gain an electoral advantage with her vision of lower taxes and a significantly smaller state.
+lede: The UK Conservative shadow cabinet discussed making public spending cuts beyond
+  the party's existing £47bn pledge if it wins the next general election, according
+  to leaked comments from shadow chancellor Andrew Griffith published Saturday by
+  the Guardian. The comments, made by Griffith last October when he served as shadow
+  business secretary, emerged on the eve of the Conservative Party's annual conference
+  in Birmingham. The disclosure came a day after party leader Kemi Badenoch announced
+  a separate £4bn reduction package.
+nut_graf: The Guardian reported that the leaked comments suggest the Conservatives
+  are planning cuts similar in scale to those made during the austerity years. Prime
+  Minister Andy Burnham has promised a series of potentially expensive interventions,
+  including a new national care service and public control over utility companies,
+  as he seeks to end what he calls "40 years of neoliberalism." The newspaper also
+  reported that Badenoch, who has called Margaret Thatcher her hero, is attempting
+  to gain an electoral advantage with her vision of lower taxes and a significantly
+  smaller state.
 primary_entities:
 - UK Conservative Party
 - Andrew Griffith
@@ -39,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +156,43 @@ related_stories:
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6772
+  strength: 0.6776
 - slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
   headline: Burnham to outline social care and public control plans at Labour conference
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6743
+  strength: 0.6745
 - slug: 2026-09-17-shadow-chancellor-griffith-urges-healey-to-rule-out-budget-tax-rises
   headline: Shadow chancellor Griffith urges Healey to rule out budget tax rises
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7385
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6393
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6488
+  strength: 0.7381
 - slug: 2026-09-22-ed-davey-sets-out-17bn-income-tax-cut-plan-at-lib-dem-conference
   headline: Ed Davey sets out £17bn income tax cut plan at Lib Dem conference
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6574
+  strength: 0.6577
 - slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
   headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7086
+  strength: 0.709
 - slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
   headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7304
-- slug: 2026-09-17-nato-chief-rutte-says-uk-needs-credible-path-to-2035-defence-target
-  headline: NATO chief Rutte says UK needs 'credible path' to 2035 defence target
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6322
-- slug: 2026-09-17-rutte-presses-uk-on-credible-path-to-nato-s-3-5-defence-target-by-2035
-  headline: Rutte presses UK on 'credible path' to NATO's 3.5% defence target by 2035
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6299
-- slug: 2026-09-13-reform-uk-receives-two-36m-donations-totaling-72m
-  headline: Reform UK receives two £36m donations, totaling £72m
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6492
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6148
+  strength: 0.7305
 - slug: 2026-09-03-reform-uk-sets-out-80bn-in-public-spending-cuts
   headline: Reform UK sets out £80bn in public spending cuts
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6849
-- slug: 2026-09-15-tuc-calls-to-rein-in-out-of-control-spending-after-reform-uk-s-72m
-  headline: TUC calls to rein in 'out of control' spending after Reform UK's £72m
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6141
-- slug: 2026-09-13-rayner-says-uk-unlikely-to-meet-1-5-million-homes-target
-  headline: Rayner says UK unlikely to meet 1.5 million homes target
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6198
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6469
+  strength: 0.6852
 - slug: 2026-07-23-badenoch-says-burnham-governing-like-manchester-mayor-demands-tax-pledge
   headline: Badenoch says Burnham governing like Manchester mayor, demands tax pledge
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7109
-- slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
-  headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6132
-- slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
-  headline: Cost of living tops voters' concerns as Burnham plans UK tour
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6199
-- slug: 2026-07-18-badenoch-warns-incoming-uk-pm-faces-rude-awakening-in-office
-  headline: Badenoch Warns Incoming UK PM Faces 'Rude Awakening' in Office
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.671
+  strength: 0.7111
 ---
-
 ## Griffith leak shows shadow cabinet discussed further UK Conservative cuts
 
 **Subtype:** fact

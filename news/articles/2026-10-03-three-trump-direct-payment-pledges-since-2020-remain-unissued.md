@@ -1,9 +1,17 @@
 ---
 headline: Three Trump direct-payment pledges since 2020 remain unissued
-secondary_headline: Friday's $90 Medicare check follows a separate $5,000 midterm-tied Trump Dividend
+secondary_headline: Friday's $90 Medicare check follows a separate $5,000 midterm-tied
+  Trump Dividend
 publish_date: '2026-10-03'
-lede: President Donald Trump has pledged and failed to deliver direct checks to Americans three times since 2020 — $2,000 in COVID stimulus payments per taxpayer, a $5,000 dividend tied to Elon Musk's Department of Government Efficiency initiative, and $2,000 from tariff revenues — according to United Press International. None of those three payouts was ever issued.
-nut_graf: UPI's catalog of unfulfilled payment promises accompanies Trump's Friday announcement of $90 checks to 20 million seniors to lower Medicare Part B premiums and his recent reassertion of a separate $5,000 "Trump Dividend" tied to Republican control of government after the November midterms.
+lede: President Donald Trump has pledged and failed to deliver direct checks to Americans
+  three times since 2020 — $2,000 in COVID stimulus payments per taxpayer, a $5,000
+  dividend tied to Elon Musk's Department of Government Efficiency initiative, and
+  $2,000 from tariff revenues — according to United Press International. None of those
+  three payouts was ever issued.
+nut_graf: UPI's catalog of unfulfilled payment promises accompanies Trump's Friday
+  announcement of $90 checks to 20 million seniors to lower Medicare Part B premiums
+  and his recent reassertion of a separate $5,000 "Trump Dividend" tied to Republican
+  control of government after the November midterms.
 primary_entities:
 - Donald Trump
 - United Press International
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,22 +155,22 @@ related_stories:
   headline: Trump announces one-time $90 payment for 20 million Medicare seniors
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7771
+  strength: 0.7783
 - slug: 2026-10-03-trump-reiterates-5-000-voter-pledge-with-1929-depression-warning
   headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7584
+  strength: 0.7581
 - slug: 2026-09-30-trump-sends-500-aca-refund-checks-to-nearly-1-million-ahead-of-midterms
   headline: Trump sends $500 ACA refund checks to nearly 1 million ahead of midterms
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7023
+  strength: 0.7019
 - slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
   headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7676
+  strength: 0.7682
 - slug: 2026-09-15-senate-republicans-push-back-on-trump-s-5-000-election-linked-payments
   headline: Senate Republicans push back on Trump's $5,000 election-linked payments
   publish_date: '2026-09-15'
@@ -171,79 +180,18 @@ related_stories:
   headline: Trump's $5,000 voter pledge draws fiscal criticism from Republicans
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7149
+  strength: 0.7152
 - slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
   headline: Current tariff pace would take nearly five years to cover Trump payout
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7411
+  strength: 0.7424
 - slug: 2026-09-10-experts-offer-different-legal-views-of-trump-s-proposed-5-000-payments
   headline: Experts offer different legal views of Trump's proposed $5,000 payments
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7248
-- slug: 2026-09-10-trump-promises-500-obamacare-refunds-to-nearly-1-million-enrollees
-  headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7136
-- slug: 2026-09-17-trump-medicaid-drug-price-pilot-sees-limited-company-state-uptake
-  headline: Trump Medicaid drug-price pilot sees limited company, state uptake
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6728
-- slug: 2026-09-12-lutnick-says-trump-s-5-000-dividend-would-not-be-funded-by-taxes
-  headline: Lutnick says Trump's $5,000 dividend would not be funded by taxes
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6961
-- slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
-  headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6783
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6701
-- slug: 2026-09-10-guardian-column-frames-trump-dallas-speech-as-desperate-last-pitch-to-voters
-  headline: Guardian column frames Trump Dallas speech as 'desperate last pitch' to voters
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6694
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6342
-- slug: 2026-07-28-trump-administration-to-end-medicare-drug-plan-subsidy-after-2026
-  headline: Trump administration to end Medicare drug plan subsidy after 2026
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6573
-- slug: 2026-06-28-trump-seeks-11-billion-in-new-farm-aid-as-government-payments-hit-record
-  headline: Trump seeks $11 billion in new farm aid as government payments hit record
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6403
-- slug: 2026-01-01-unfulfilled-trump-tariff-threats-in-2025-show-what-did-not-take-hold
-  headline: Unfulfilled Trump tariff threats in 2025 show what did not take hold
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6861
-- slug: 2026-01-15-trump-outlines-health-care-plan-built-on-savings-accounts-and-drug-price-cuts
-  headline: Trump outlines health care plan built on savings accounts and drug price cuts
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6675
-- slug: 2026-01-13-trump-threatens-to-halt-federal-payments-to-sanctuary-cities-and-their-states
-  headline: Trump threatens to halt federal payments to sanctuary cities and their states
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6615
+  strength: 0.7244
 ---
-
 ## Three Trump direct-payment pledges since 2020 remain unissued
 
 **Subtype:** fact

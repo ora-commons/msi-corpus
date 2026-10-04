@@ -2,8 +2,15 @@
 headline: Florida jury acquits ex-deputy in fatal shooting of Black Air Force airman
 secondary_headline: Fortson family vows federal civil rights lawsuit will proceed
 publish_date: '2026-10-03'
-lede: An Okaloosa County jury on Thursday found former sheriff's deputy Eddie Duran not guilty of manslaughter with a firearm in the May 2024 fatal shooting of Roger Fortson, a Black U.S. Air Force airman killed inside his Fort Walton Beach, Florida apartment. The jury deliberated for about two hours following a four-day trial, according to The Guardian. Duran, 38, had faced up to 30 years in prison if convicted.
-nut_graf: The verdict ends the criminal prosecution but leaves pending a federal civil rights lawsuit filed by Fortson's family. Civil rights attorney Ben Crump said Friday that the family would continue its legal fight and pursue accountability through the federal courts.
+lede: An Okaloosa County jury on Thursday found former sheriff's deputy Eddie Duran
+  not guilty of manslaughter with a firearm in the May 2024 fatal shooting of Roger
+  Fortson, a Black U.S. Air Force airman killed inside his Fort Walton Beach, Florida
+  apartment. The jury deliberated for about two hours following a four-day trial,
+  according to The Guardian. Duran, 38, had faced up to 30 years in prison if convicted.
+nut_graf: The verdict ends the criminal prosecution but leaves pending a federal civil
+  rights lawsuit filed by Fortson's family. Civil rights attorney Ben Crump said Friday
+  that the family would continue its legal fight and pursue accountability through
+  the federal courts.
 primary_entities:
 - Roger Fortson
 - Eddie Duran
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +146,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-12-federal-jury-acquits-rapper-lil-durk-of-murder-for-hire-charges
-  headline: Federal jury acquits rapper Lil Durk of murder-for-hire charges
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5923
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6183
-- slug: 2026-08-26-florida-jury-deliberates-in-microsoft-manager-s-murder-for-hire-trial
-  headline: Florida jury deliberates in Microsoft manager's murder-for-hire trial
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5879
 - slug: 2026-02-11-mother-seeks-accountability-for-u-s-airman-roger-fortson-shot-by-fla-deputy
-  headline: Mother seeks accountability for U.S. Airman Roger Fortson shot by Fla. deputy
+  headline: Mother seeks accountability for U.S. Airman Roger Fortson shot by Fla.
+    deputy
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.7934
-- slug: 2026-08-06-jury-will-decide-whether-michigan-officer-violated-man-s-civil-rights
-  headline: Jury will decide whether Michigan officer violated man's civil rights
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5983
+  strength: 0.7928
 - slug: 2026-05-08-former-deputy-found-guilty-of-reckless-homicide-in-casey-goodson-jr-shooting
   headline: Former deputy found guilty of reckless homicide in Casey Goodson Jr. shooting
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6535
-- slug: 2026-06-24-two-former-death-row-inmates-sue-alameda-county-over-jury-manipulation
-  headline: Two former Death Row inmates sue Alameda County over jury manipulation
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5986
-- slug: 2026-05-07-jury-begins-deliberating-in-murder-retrial-of-ohio-deputy-who-killed-goodson
-  headline: Jury begins deliberating in murder retrial of Ohio deputy who killed Goodson
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6402
-- slug: 2026-05-17-ex-nypd-sergeant-freed-on-bail-during-manslaughter-appeal
-  headline: Ex-NYPD sergeant freed on bail during manslaughter appeal
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6233
-- slug: 2026-05-21-mark-fuhrman-la-detective-convicted-of-lying-at-oj-simpson-trial-dies-at-74
-  headline: Mark Fuhrman, LA detective convicted of lying at OJ Simpson trial, dies at 74
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5972
-- slug: 2026-05-08-jury-finds-los-angeles-not-liable-in-stray-police-bullet-killing
-  headline: Jury finds Los Angeles not liable in stray police bullet killing
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6036
-- slug: 2026-05-06-jury-begins-deliberations-in-retrial-of-former-ohio-deputy-in-casey-goodson-case
-  headline: Jury begins deliberations in retrial of former Ohio deputy in Casey Goodson case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6036
-- slug: 2026-03-24-south-florida-judge-clears-officers-in-2019-ups-driver-hostage-shooting
-  headline: South Florida judge clears officers in 2019 UPS driver hostage shooting
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6088
-- slug: 2026-04-21-navy-veteran-charged-in-atlanta-area-shootings-dies-in-jail
-  headline: Navy veteran charged in Atlanta-area shootings dies in jail
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.5931
-- slug: 2026-02-20-south-carolina-officer-acquitted-in-unarmed-man-s-shooting-death
-  headline: South Carolina officer acquitted in unarmed man's shooting death
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.609
-- slug: 2026-04-23-murder-retrial-begins-in-ohio-for-ex-deputy-jason-meade-in-casey-goodson-jr-kill
-  headline: Murder retrial begins in Ohio for ex-deputy Jason Meade in Casey Goodson Jr. killing
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5881
-- slug: 2026-04-22-navy-veteran-charged-in-atlanta-area-shootings-dies-in-jail
-  headline: Navy veteran charged in Atlanta-area shootings dies in jail
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5882
-- slug: 2026-03-13-rotc-students-subdue-and-kill-odu-shooter-fbi-says-it-was-terrorism
-  headline: ROTC students subdue and kill ODU shooter; FBI says it was terrorism
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6011
-- slug: 2026-03-07-alabama-man-75-faces-execution-for-1991-robbery-killing-he-did-not-commit
-  headline: Alabama man, 75, faces execution for 1991 robbery killing he did not commit
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5955
-- slug: 2026-03-15-federal-jury-convicts-eight-tied-to-antifa-in-prairieland-detention-center-attac
-  headline: Federal jury convicts eight tied to antifa in Prairieland detention center attack
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5906
+  strength: 0.6539
 ---
-
 ## Florida jury acquits ex-deputy in fatal shooting of Black Air Force airman
 
 **Subtype:** fact

@@ -1,12 +1,22 @@
 ---
-headline: Mississippi father and son face federal drug charges in Ole Miss kratom deaths
-secondary_headline: Implicated kratom derivatives recently classified as Schedule I
+headline: Mississippi father and son face federal drug charges in Ole Miss kratom
+  deaths
+secondary_headline: Implicated kratom derivatives recently classified as Schedule
+  I
 publish_date: '2026-10-03'
-lede: 'Yahya Mohamed Mosleh, 51, and his 18-year-old son Islam Yahya Mosleh have been charged with possession with intent to distribute controlled substances in connection with the suspected overdose deaths of two University of Mississippi students last month, federal authorities said Friday.
+lede: 'Yahya Mohamed Mosleh, 51, and his 18-year-old son Islam Yahya Mosleh have been
+  charged with possession with intent to distribute controlled substances in connection
+  with the suspected overdose deaths of two University of Mississippi students last
+  month, federal authorities said Friday.
 
 
-  Investigators said the first student was found dead Sept. 21 in his dorm room, with packages of suspected kratom derivatives nearby; a second student was found dead about an hour later at a separate location under similar circumstances.'
-nut_graf: The charges come as federal authorities have moved to classify several potent kratom derivatives — sometimes referred to as 'gas station heroin' on the street — as Schedule I controlled substances, citing what federal prosecutors describe as a high risk of addiction, overdose and death.
+  Investigators said the first student was found dead Sept. 21 in his dorm room, with
+  packages of suspected kratom derivatives nearby; a second student was found dead
+  about an hour later at a separate location under similar circumstances.'
+nut_graf: The charges come as federal authorities have moved to classify several potent
+  kratom derivatives — sometimes referred to as 'gas station heroin' on the street
+  — as Schedule I controlled substances, citing what federal prosecutors describe
+  as a high risk of addiction, overdose and death.
 primary_entities:
 - Yahya Mohamed Mosleh
 - Islam Yahya Mosleh
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +149,19 @@ related_stories:
   headline: Federal prosecutors charge Mississippi shop clerk, son over kratom sales
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8833
+  strength: 0.8822
 - slug: 2026-09-25-investigators-find-kratom-with-two-deceased-university-of-mississippi-students
-  headline: Investigators find kratom with two deceased University of Mississippi students
+  headline: Investigators find kratom with two deceased University of Mississippi
+    students
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7598
-- slug: 2026-09-28-thirteen-penn-state-students-charged-in-operation-drugs-unlimited-cocaine-ring
-  headline: Thirteen Penn State students charged in Operation Drugs Unlimited cocaine ring
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.583
-- slug: 2026-09-25-colorado-marijuana-vape-maker-recalls-49-products-over-cancer-linked-solvent
-  headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.59
-- slug: 2026-08-31-oklahoma-man-charged-with-murder-in-tulsa-area-marijuana-facility-explosion
-  headline: Oklahoma man charged with murder in Tulsa-area marijuana facility explosion
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6113
+  strength: 0.7595
 - slug: 2026-06-16-us-states-push-to-ban-kratom-as-gas-station-heroin-concerns-mount
   headline: US states push to ban kratom as 'gas-station heroin' concerns mount
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6758
-- slug: 2026-07-23-louisiana-abortion-drug-law-removes-hemorrhage-treatment-from-hospital-carts
-  headline: Louisiana abortion-drug law removes hemorrhage treatment from hospital carts
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5776
-- slug: 2026-04-30-usf-suspect-charged-with-killing-two-bangladesh-doctoral-students
-  headline: USF suspect charged with killing two Bangladesh doctoral students
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6178
-- slug: 2026-06-10-fbi-searches-garden-grove-aerospace-facility-after-chemical-tank-crisis
-  headline: FBI searches Garden Grove aerospace facility after chemical tank crisis
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5732
-- slug: 2026-04-29-discovery-of-meth-chemicals-scrambles-some-exams-at-michigan-state
-  headline: Discovery of meth chemicals scrambles some exams at Michigan State
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5986
-- slug: 2026-05-22-fentanyl-meth-found-at-new-mexico-house-where-responders-got-sick
-  headline: Fentanyl, meth found at New Mexico house where responders got sick
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5822
-- slug: 2026-05-17-carfentanil-100-times-stronger-than-fentanyl-surges-across-u-s
-  headline: Carfentanil, 100 times stronger than fentanyl, surges across U.S.
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5832
-- slug: 2026-05-23-fentanyl-and-meth-found-at-nm-home-where-responders-fell-ill-after-overdose-call
-  headline: Fentanyl and meth found at NM home where responders fell ill after overdose call
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5779
-- slug: 2026-05-22-fentanyl-and-meth-found-at-new-mexico-home-where-three-died-and-responders-fell-
-  headline: Fentanyl and meth found at New Mexico home where three died and responders fell ill
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5766
-- slug: 2026-05-21-mysterious-substance-tied-to-3-deaths-in-new-mexico-sickens-first-responders
-  headline: Mysterious substance tied to 3 deaths in New Mexico sickens first responders
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5753
-- slug: 2026-05-10-prosecutors-seek-death-penalty-for-man-accused-of-killing-two-usf-students
-  headline: Prosecutors seek death penalty for man accused of killing two USF students
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5825
-- slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
-  headline: US overdose deaths declined in 2025, CDC data show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5755
-- slug: 2026-05-14-us-overdose-deaths-fall-14-percent-in-2025-cdc-data-shows
-  headline: US overdose deaths fall 14 percent in 2025, CDC data shows
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5724
-- slug: 2026-01-21-chess-grandmaster-naroditsky-died-of-accidental-overdose-report-says
-  headline: Chess grandmaster Naroditsky died of accidental overdose, report says
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6048
-- slug: 2026-04-28-prosecutors-usf-suspect-asked-chatgpt-about-disposing-of-a-body
-  headline: 'Prosecutors: USF suspect asked ChatGPT about disposing of a body'
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5791
+  strength: 0.6754
 ---
-
 ## Mississippi father and son face federal drug charges in Ole Miss kratom deaths
 
 **Subtype:** fact

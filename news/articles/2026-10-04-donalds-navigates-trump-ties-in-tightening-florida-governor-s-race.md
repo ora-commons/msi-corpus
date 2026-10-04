@@ -2,8 +2,18 @@
 headline: Donalds navigates Trump ties in tightening Florida governor's race
 secondary_headline: Rising Florida living costs shape Donalds's closing economic pitch
 publish_date: '2026-10-04'
-lede: Florida Rep. Byron Donalds is navigating a tightening race for governor against Democrat David Jolly, with high living costs and President Trump's unpopularity narrowing a contest in a state where Republicans hold structural and financial advantages. The 47-year-old Brooklyn native, who was raised in Crown Heights, has moderated his embrace of Trump for the general election while preserving the president's backing — a balance that surfaced when prominent Trump references were scrubbed from his campaign website last month.
-nut_graf: The Florida contest is being watched nationally as a test of whether a rising MAGA-aligned Republican can win a governor's race while threading the needle between Trump's endorsement and the president's weak political standing. The outcome may shape how the Republican Party calibrates its relationship with Trump ahead of the midterms.
+lede: Florida Rep. Byron Donalds is navigating a tightening race for governor against
+  Democrat David Jolly, with high living costs and President Trump's unpopularity
+  narrowing a contest in a state where Republicans hold structural and financial advantages.
+  The 47-year-old Brooklyn native, who was raised in Crown Heights, has moderated
+  his embrace of Trump for the general election while preserving the president's backing
+  — a balance that surfaced when prominent Trump references were scrubbed from his
+  campaign website last month.
+nut_graf: The Florida contest is being watched nationally as a test of whether a rising
+  MAGA-aligned Republican can win a governor's race while threading the needle between
+  Trump's endorsement and the president's weak political standing. The outcome may
+  shape how the Republican Party calibrates its relationship with Trump ahead of the
+  midterms.
 primary_entities:
 - Byron Donalds
 - Donald Trump
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +150,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-04-donalds-builds-florida-governor-bid-on-brooklyn-to-naples-transformation
+  headline: Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
+  publish_date: '2026-10-04'
+  relation: related
+  strength: 0.8422
 - slug: 2026-09-22-donalds-strips-trump-mentions-from-campaign-website
   headline: Donalds strips Trump mentions from campaign website
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7676
+  strength: 0.7682
 - slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
   headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6847
+  strength: 0.6842
 - slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
+  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's
+    race
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7617
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6476
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6425
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6485
+  strength: 0.7618
 - slug: 2026-08-18-crowded-florida-gop-primary-for-donalds-seat-turns-on-candidates-roots
   headline: Crowded Florida GOP primary for Donalds' seat turns on candidates' roots
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7191
+  strength: 0.7197
 - slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
+  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks
+    defeat
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.651
-- slug: 2026-08-29-trump-focuses-on-legacy-projects-as-400-million-sits-unspent
-  headline: Trump focuses on legacy projects as $400 million sits unspent
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.645
+  strength: 0.6504
 - slug: 2026-08-17-florida-voters-head-to-polls-tuesday-for-governor-senate-house
   headline: Florida voters head to polls Tuesday for governor, Senate, House
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6737
-- slug: 2026-08-19-angie-nixon-defeats-vindman-in-florida-democratic-senate-primary
-  headline: Angie Nixon defeats Vindman in Florida Democratic Senate primary
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6471
-- slug: 2026-08-14-democratic-socialist-oliver-larkin-challenges-jared-moskowitz-in-florida
-  headline: Democratic socialist Oliver Larkin challenges Jared Moskowitz in Florida
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6469
+  strength: 0.6735
 - slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
   headline: Polls show Democrats leading GOP on economy for first time since 2010
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6575
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6494
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6643
-- slug: 2026-01-12-florida-lt-gov-jay-collins-enters-2026-governor-race-against-trump-backed-donald
-  headline: Florida Lt. Gov. Jay Collins enters 2026 governor race against Trump-backed Donalds
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.689
-- slug: 2026-04-07-president-trump-endorses-republican-steve-hilton-in-california-governor-race
-  headline: President Trump endorses Republican Steve Hilton in California governor race
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.672
-- slug: 2026-03-25-democrat-emily-gregory-flips-florida-seat-saying-she-welcomes-conversation-with-
-  headline: Democrat Emily Gregory flips Florida seat, saying she welcomes conversation with Trump
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6717
-- slug: 2026-03-26-democrat-emily-gregory-wins-florida-special-election-trump-backed-opponent-loses
-  headline: Democrat Emily Gregory wins Florida special election, Trump-backed opponent loses
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6641
-- slug: 2026-03-24-democrat-emily-gregory-wins-florida-seat-covering-mar-a-lago-in-special-election
-  headline: Democrat Emily Gregory wins Florida seat covering Mar-a-Lago in special election
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6617
+  strength: 0.6564
 ---
-
 ## Donalds navigates Trump ties in tightening Florida governor's race
 
 **Subtype:** fact

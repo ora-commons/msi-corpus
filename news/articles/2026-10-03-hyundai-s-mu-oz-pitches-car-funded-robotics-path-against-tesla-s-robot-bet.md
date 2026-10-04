@@ -1,9 +1,18 @@
 ---
 headline: Hyundai's Muñoz pitches car-funded robotics path against Tesla's robot bet
-secondary_headline: Hyundai plans 30,000 Boston Dynamics robots annually in 2028, Atlas included
+secondary_headline: Hyundai plans 30,000 Boston Dynamics robots annually in 2028,
+  Atlas included
 publish_date: '2026-10-03'
-lede: Hyundai Motor Chief Executive José Muñoz used the unveiling of a redesigned Tucson SUV in New York on Thursday to position the South Korean automaker as a technology company funding its robotics future with today's car business, drawing a sharp contrast with Tesla, which delayed the debut of its long-promised Roadster the same day in Texas, The Wall Street Journal reported.
-nut_graf: 'The two approaches capture a strategic split in the auto industry''s turn toward physical AI: Tesla, under Elon Musk, is winding down its human-driven models to make room for robotaxis and humanoid robots, while Hyundai is using a steady cadence of new and refreshed vehicles to bankroll an expansion into robotaxis and humanoid robots built with affiliate Boston Dynamics, The Wall Street Journal reported.'
+lede: Hyundai Motor Chief Executive José Muñoz used the unveiling of a redesigned
+  Tucson SUV in New York on Thursday to position the South Korean automaker as a technology
+  company funding its robotics future with today's car business, drawing a sharp contrast
+  with Tesla, which delayed the debut of its long-promised Roadster the same day in
+  Texas, The Wall Street Journal reported.
+nut_graf: 'The two approaches capture a strategic split in the auto industry''s turn
+  toward physical AI: Tesla, under Elon Musk, is winding down its human-driven models
+  to make room for robotaxis and humanoid robots, while Hyundai is using a steady
+  cadence of new and refreshed vehicles to bankroll an expansion into robotaxis and
+  humanoid robots built with affiliate Boston Dynamics, The Wall Street Journal reported.'
 primary_entities:
 - Hyundai Motor
 - Tesla
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,45 @@ related_stories:
   headline: Tesla third-quarter sales fall 2%, reversing first-half gains
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6646
-- slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
-  headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.617
+  strength: 0.6653
 - slug: 2026-09-15-nhtsa-orders-tesla-to-confirm-whether-cybercab-has-temporary-manual-controls
   headline: NHTSA orders Tesla to confirm whether Cybercab has temporary manual controls
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6741
-- slug: 2026-09-24-tesla-and-spacex-announce-major-texas-and-louisiana-infrastructure-projects
-  headline: Tesla and SpaceX announce major Texas and Louisiana infrastructure projects
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6221
-- slug: 2026-09-13-tesla-s-us-ev-market-share-climbs-to-52-as-legacy-rivals-retreat
-  headline: Tesla's US EV market share climbs to 52% as legacy rivals retreat
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6393
-- slug: 2026-09-17-huawei-announces-two-new-ai-chips-next-year-to-rival-nvidia
-  headline: Huawei announces two new AI chips next year to rival Nvidia
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6128
-- slug: 2026-09-04-nhtsa-opens-probe-into-tesla-s-cybercab-self-certification
-  headline: NHTSA opens probe into Tesla's Cybercab self-certification
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6323
-- slug: 2026-09-03-tesla-deploys-cybercabs-without-steering-wheels-onto-austin-streets
-  headline: Tesla deploys Cybercabs without steering wheels onto Austin streets
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6254
-- slug: 2026-09-06-hyundai-ford-and-stellantis-plan-us-extended-range-evs
-  headline: Hyundai, Ford and Stellantis plan US extended-range EVs
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.609
-- slug: 2026-08-31-tech-analyst-notes-span-tencent-ai-release-fed-capex-comments
-  headline: Tech analyst notes span Tencent AI release, Fed capex comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6325
+  strength: 0.6742
 - slug: 2026-08-23-amazon-s-zoox-launches-paid-robotaxi-service-in-las-vegas-and-san-francisco
   headline: Amazon's Zoox launches paid robotaxi service in Las Vegas and San Francisco
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6498
+  strength: 0.65
 - slug: 2026-07-16-hyundai-motor-group-to-acquire-remaining-boston-dynamics-stake-from-softbank
   headline: Hyundai Motor Group to acquire remaining Boston Dynamics stake from SoftBank
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.669
-- slug: 2026-07-25-u-s-companies-ditch-pricey-ai-models-for-cheaper-alternatives
-  headline: U.S. companies ditch pricey AI models for cheaper alternatives
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6209
+  strength: 0.6695
 - slug: 2026-06-23-hyundai-motor-group-moves-to-acquire-full-control-of-boston-dynamics
   headline: Hyundai Motor Group moves to acquire full control of Boston Dynamics
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6555
-- slug: 2026-06-26-nissan-americas-chief-aims-to-revive-brand-with-edgy-lineup-u-s-production
-  headline: Nissan Americas chief aims to revive brand with "edgy" lineup, U.S. production
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6463
+  strength: 0.6562
 - slug: 2026-01-05-boston-dynamics-gives-atlas-humanoid-robot-its-first-public-outing-at-ces
-  headline: Boston Dynamics gives Atlas humanoid robot its first public outing at CES
+  headline: Boston Dynamics gives Atlas humanoid robot its first public outing at
+    CES
   publish_date: '2026-01-05'
   relation: related
-  strength: 0.7015
-- slug: 2026-06-02-volkswagen-launches-china-designed-cars-in-bid-to-revive-fading-market-share
-  headline: Volkswagen launches China-designed cars in bid to revive fading market share
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6361
-- slug: 2026-05-28-chinese-robotics-companies-outshine-japanese-rivals-at-humanoids-summit-tokyo
-  headline: Chinese robotics companies outshine Japanese rivals at Humanoids Summit Tokyo
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6296
-- slug: 2026-01-06-nvidia-amd-and-humanoid-robots-dominate-opening-day-at-ces-2026-in-las-vegas
-  headline: Nvidia, AMD and humanoid robots dominate opening day at CES 2026 in Las Vegas
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6659
+  strength: 0.7019
 - slug: 2026-01-30-tesla-profit-falls-to-lowest-since-pandemic-eyes-robotaxis-and-optimus
   headline: Tesla profit falls to lowest since pandemic; eyes robotaxis and Optimus
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.6632
+  strength: 0.664
+- slug: 2026-01-06-nvidia-amd-and-humanoid-robots-dominate-opening-day-at-ces-2026-in-las-vegas
+  headline: Nvidia, AMD and humanoid robots dominate opening day at CES 2026 in Las
+    Vegas
+  publish_date: '2026-01-06'
+  relation: related
+  strength: 0.6656
 ---
-
 ## Hyundai's Muñoz pitches car-funded robotics path against Tesla's robot bet
 
 **Subtype:** fact

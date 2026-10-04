@@ -1,9 +1,17 @@
 ---
 headline: California's 'No Robo Bosses Act' leaves key compliance trigger undefined
-secondary_headline: Statute requires human corroboration, written notice when AI drives discipline
+secondary_headline: Statute requires human corroboration, written notice when AI drives
+  discipline
 publish_date: '2026-10-01'
-lede: California's newly enacted 'No Robo Bosses Act' requires human corroboration and written notice when an employer 'primarily relies' on an automated system to discipline or fire workers. The law never defines the 'primarily relies' standard that triggers those obligations, the California Chamber of Progress told Gov. Gavin Newsom in a letter last month.
-nut_graf: The statute, signed by Newsom on Wednesday, follows more than a year of organizing by California labor groups pushing for protections against management's use of AI to take adverse actions against workers. Business groups continued to press their objections to the rewritten law as it moved to the governor's desk.
+lede: California's newly enacted 'No Robo Bosses Act' requires human corroboration
+  and written notice when an employer 'primarily relies' on an automated system to
+  discipline or fire workers. The law never defines the 'primarily relies' standard
+  that triggers those obligations, the California Chamber of Progress told Gov. Gavin
+  Newsom in a letter last month.
+nut_graf: The statute, signed by Newsom on Wednesday, follows more than a year of
+  organizing by California labor groups pushing for protections against management's
+  use of AI to take adverse actions against workers. Business groups continued to
+  press their objections to the rewritten law as it moved to the governor's desk.
 primary_entities:
 - Gavin Newsom
 - Jerry McNerney
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,38 @@ related_stories:
   headline: Newsom signs California laws curbing AI in workplace decisions
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7239
-- slug: 2026-09-30-argentina-congress-weighs-bill-allowing-companies-to-operate-without-employees
-  headline: Argentina's Congress weighs bill allowing companies to operate without employees
-  publish_date: '2026-09-30'
+  strength: 0.724
+- slug: 2026-10-03-california-ai-laws-aim-to-target-bathroom-heat-maps-tone-of-voice-scoring
+  headline: California AI laws aim to target bathroom heat maps, tone-of-voice scoring
+  publish_date: '2026-10-03'
   relation: related
-  strength: 0.6431
+  strength: 0.7214
 - slug: 2026-09-18-newsom-orders-two-month-california-review-of-ai-oversight
   headline: Newsom orders two-month California review of AI oversight
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7059
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6089
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6132
-- slug: 2026-09-15-fedex-ceo-calls-ai-defining-technology-that-ceos-must-drive
-  headline: FedEx CEO calls AI 'defining technology' that CEOs must drive
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6105
-- slug: 2026-09-15-nhtsa-orders-tesla-to-confirm-whether-cybercab-has-temporary-manual-controls
-  headline: NHTSA orders Tesla to confirm whether Cybercab has temporary manual controls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6101
-- slug: 2026-09-10-newsom-signs-law-banning-addictive-social-media-features-for-users-under-16
-  headline: Newsom signs law banning addictive social-media features for users under 16
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6232
-- slug: 2026-09-01-newsom-faces-sept-30-deadline-on-california-shock-glove-ban
-  headline: Newsom faces Sept. 30 deadline on California shock-glove ban
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6245
-- slug: 2026-09-01-california-lawmakers-exclude-newsom-s-wildfire-liability-limits-from-bill
-  headline: California lawmakers exclude Newsom's wildfire liability limits from bill
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6075
-- slug: 2026-07-10-police-struggle-to-ticket-autonomous-taxis-as-robotaxi-fleets-grow
-  headline: Police struggle to ticket autonomous taxis as robotaxi fleets grow
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6226
+  strength: 0.7057
 - slug: 2026-05-27-newsom-signs-law-shielding-california-elections-from-federal-interference
   headline: Newsom signs law shielding California elections from federal interference
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6731
+  strength: 0.6733
 - slug: 2026-04-03-newsom-orders-ai-safeguards-in-california-state-contracts
   headline: Newsom orders AI safeguards in California state contracts
   publish_date: '2026-04-03'
   relation: related
-  strength: 0.6977
-- slug: 2026-06-03-colorado-governor-vetoes-expansive-surveillance-pricing-ban
-  headline: Colorado governor vetoes expansive surveillance pricing ban
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6255
-- slug: 2026-06-02-california-slow-vote-counting-could-delay-primary-results-for-weeks
-  headline: California slow vote counting could delay primary results for weeks
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6172
+  strength: 0.6979
 - slug: 2026-02-10-california-union-seeks-to-make-remote-work-permanent-for-state-workers
   headline: California union seeks to make remote work permanent for state workers
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.6617
-- slug: 2026-05-30-california-air-regulators-approve-cap-and-trade-changes-drawing-fire-from-all-si
-  headline: California air regulators approve cap-and-trade changes, drawing fire from all sides
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6128
+  strength: 0.6619
 - slug: 2026-01-02-big-tech-blocks-california-data-center-rules-leaving-only-a-study-requirement
   headline: Big Tech blocks California data center rules, leaving only a study requirement
   publish_date: '2026-01-02'
   relation: related
-  strength: 0.6578
-- slug: 2026-02-11-advocacy-groups-urge-california-to-remove-covert-license-plate-readers
-  headline: Advocacy groups urge California to remove covert license plate readers
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6374
-- slug: 2026-04-16-california-bill-delays-compliance-with-federal-health-subpoenas-for-trans-aborti
-  headline: California bill delays compliance with federal health subpoenas for trans, abortion care
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6153
+  strength: 0.6561
 ---
-
 ## California's 'No Robo Bosses Act' leaves key compliance trigger undefined
 
 **Subtype:** fact

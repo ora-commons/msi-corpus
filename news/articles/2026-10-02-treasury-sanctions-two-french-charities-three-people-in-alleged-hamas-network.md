@@ -2,8 +2,20 @@
 headline: Treasury sanctions two French charities, three people in alleged Hamas network
 secondary_headline: One indicted, six arrested in US and France in same alleged plot
 publish_date: '2026-10-02'
-lede: The US Treasury Department on Friday sanctioned two France-based charities and three individuals, designating them as part of an alleged Hamas fundraising network that investigators said moved more than $2 million to the group through deceptive charitable fronts and cryptocurrency channels over a six-year period beginning in 2020. In a parallel action, the Justice Department unsealed an indictment against one of the three designated individuals and announced the arrests of three others in the United States, with three additional associates arrested in France as part of the same alleged plot. The Treasury's Office of Foreign Assets Control imposed the measures, blocking all US property of those designated and entities they own.
-nut_graf: Treasury said $1.5 million of the alleged total was raised after Hamas's October 7, 2023 attack on Israel, which Israel responded to by launching war in Gaza. The Trump administration characterized the combined sanctions and criminal case as "extraordinary counter-terrorism work" exposing "a sophisticated, multi-year financing architecture."
+lede: The US Treasury Department on Friday sanctioned two France-based charities and
+  three individuals, designating them as part of an alleged Hamas fundraising network
+  that investigators said moved more than $2 million to the group through deceptive
+  charitable fronts and cryptocurrency channels over a six-year period beginning in
+  2020. In a parallel action, the Justice Department unsealed an indictment against
+  one of the three designated individuals and announced the arrests of three others
+  in the United States, with three additional associates arrested in France as part
+  of the same alleged plot. The Treasury's Office of Foreign Assets Control imposed
+  the measures, blocking all US property of those designated and entities they own.
+nut_graf: Treasury said $1.5 million of the alleged total was raised after Hamas's
+  October 7, 2023 attack on Israel, which Israel responded to by launching war in
+  Gaza. The Trump administration characterized the combined sanctions and criminal
+  case as "extraordinary counter-terrorism work" exposing "a sophisticated, multi-year
+  financing architecture."
 primary_entities:
 - US Treasury Department
 - Office of Foreign Assets Control
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,34 +165,15 @@ related_stories:
   headline: DOJ dismantles $2 million Hamas funding network in US, France
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8063
-- slug: 2026-09-30-treasury-targets-los-mayos-faction-with-sanctions-on-46-individuals-entities
-  headline: Treasury targets Los Mayos faction with sanctions on 46 individuals, entities
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6444
-- slug: 2026-09-22-state-department-imposes-visa-restrictions-on-32-tied-to-prince-group
-  headline: State Department imposes visa restrictions on 32 tied to Prince Group
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6474
-- slug: 2026-09-22-spain-lets-us-extradition-case-against-activist-chambers-proceed
-  headline: Spain lets US extradition case against activist Chambers proceed
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6445
-- slug: 2026-09-17-us-sanctions-bitbank-over-hormuz-transit-payments
-  headline: US sanctions BitBank over Hormuz transit payments
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6393
+  strength: 0.8059
 - slug: 2026-08-20-treasury-sanctions-yunus-alper-yilmaz-at-center-of-hezbollah-courier-network
   headline: Treasury sanctions Yunus Alper Yilmaz at center of Hezbollah courier network
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7248
+  strength: 0.7241
 - slug: 2026-08-26-treasury-sanctions-palestine-action-as-global-terrorist-citing-uk-attacks-since-
-  headline: Treasury sanctions Palestine Action as global terrorist, citing UK attacks since 2020
+  headline: Treasury sanctions Palestine Action as global terrorist, citing UK attacks
+    since 2020
   publish_date: '2026-08-26'
   relation: related
   strength: 0.6983
@@ -187,69 +181,29 @@ related_stories:
   headline: UK arrests Turkish man accused of funneling money to Hamas
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.6884
-- slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
-  headline: Washington targets Cuba’s military network with new restrictions
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6438
-- slug: 2026-08-04-hamas-agrees-to-u-s--backed-plan-to-disarm-as-israel-withdraws
-  headline: Hamas agrees to U.S.-backed plan to disarm as Israel withdraws
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6382
+  strength: 0.6886
 - slug: 2026-07-01-new-york-woman-charged-with-sending-30k-in-crypto-to-palestinian-islamic-jihad
-  headline: New York woman charged with sending $30K in crypto to Palestinian Islamic Jihad
+  headline: New York woman charged with sending $30K in crypto to Palestinian Islamic
+    Jihad
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6546
+  strength: 0.6541
 - slug: 2026-05-21-us-sanctions-lebanese-lawmakers-security-officials-over-hezbollah-influence
   headline: US sanctions Lebanese lawmakers, security officials over Hezbollah influence
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6568
-- slug: 2026-05-21-us-sanctions-lebanese-officials-over-hezbollah-influence-treasury-says
-  headline: US sanctions Lebanese officials over Hezbollah influence, Treasury says
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6544
+  strength: 0.6564
 - slug: 2026-05-10-uk-sanctions-zindashti-network-and-zarringhalam-family-members
   headline: UK sanctions Zindashti Network and Zarringhalam family members
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6619
-- slug: 2026-05-16-france-targets-palestinian-activist-for-deportation-ramy-shaath-says
-  headline: France targets Palestinian activist for deportation, Ramy Shaath says
-  publish_date: '2026-05-16'
+- slug: 2026-05-21-us-sanctions-lebanese-officials-over-hezbollah-influence-treasury-says
+  headline: US sanctions Lebanese officials over Hezbollah influence, Treasury says
+  publish_date: '2026-05-21'
   relation: related
-  strength: 0.6534
-- slug: 2026-01-13-trump-administration-designates-three-muslim-brotherhood-branches-as-terrorist-o
-  headline: Trump administration designates three Muslim Brotherhood branches as terrorist organizations
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6869
-- slug: 2025-12-30-u-s-sanctions-10-people-and-firms-over-alleged-iran-drone-missile-ties
-  headline: U.S. sanctions 10 people and firms over alleged Iran drone, missile ties
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6869
-- slug: 2026-05-22-us-sanctions-lebanese-officials-over-hezbollah-influence
-  headline: US sanctions Lebanese officials over Hezbollah influence
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6421
-- slug: 2026-02-03-israeli-police-detain-officials-in-suspected-aid-fraud-after-oct-7
-  headline: Israeli police detain officials in suspected aid fraud after Oct. 7
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6809
-- slug: 2025-12-31-u-s-sanctions-10-people-and-firms-tied-to-iran-drone-missile-efforts
-  headline: U.S. sanctions 10 people and firms tied to Iran drone, missile efforts
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6791
+  strength: 0.6538
 ---
-
 ## Treasury sanctions two French charities, three people in alleged Hamas network
 
 **Subtype:** fact

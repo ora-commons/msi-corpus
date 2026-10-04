@@ -2,8 +2,27 @@
 headline: California AI laws aim to target bathroom heat maps, tone-of-voice scoring
 secondary_headline: Laws lack private enforcement; workers cannot sue
 publish_date: '2026-10-03'
-lede: California's new workplace artificial-intelligence laws prohibit AI surveillance in workplace bathrooms and aim to target other surveillance measures such as heat maps that track employees' movements — including how long they spend in the bathroom — and automated systems that score workers' tone of voice in interactions, practices that have drawn specific complaints from Amazon warehouse workers and Kaiser Permanente nurses. The statutes, signed by Governor Gavin Newsom on Thursday, also bar employers from relying solely on AI to decide whether to fire workers, prohibit AI systems from predicting workers' emotional states, forbid collection of neural data — information from electrical signals in the brain or nerves — and require companies to notify workers when layoffs are driven by AI. California, home to many of the leading companies developing AI, represents one of the first states to roll out a sweeping set of workplace regulations targeting the technology.
-nut_graf: 'The laws arrive as workers increasingly worry whether AI will take their jobs, lead to discrimination and increase workplace surveillance, and as unions, worker advocates and even some lawmakers pushed for the new rules. As the federal government has taken a hands-off approach to AI, California is taking the reins to address workers'' biggest fears, according to The Guardian. The signing came amid broader pushback against AI in workplaces: in June, Meta paused a program tracking workers'' computer activities to train its AI models, and one month later dozens of employees sued, alleging the company''s AI tools targeted workers with disability accommodations or those on medical or parental leave for layoffs.'
+lede: California's new workplace artificial-intelligence laws prohibit AI surveillance
+  in workplace bathrooms and aim to target other surveillance measures such as heat
+  maps that track employees' movements — including how long they spend in the bathroom
+  — and automated systems that score workers' tone of voice in interactions, practices
+  that have drawn specific complaints from Amazon warehouse workers and Kaiser Permanente
+  nurses. The statutes, signed by Governor Gavin Newsom on Thursday, also bar employers
+  from relying solely on AI to decide whether to fire workers, prohibit AI systems
+  from predicting workers' emotional states, forbid collection of neural data — information
+  from electrical signals in the brain or nerves — and require companies to notify
+  workers when layoffs are driven by AI. California, home to many of the leading companies
+  developing AI, represents one of the first states to roll out a sweeping set of
+  workplace regulations targeting the technology.
+nut_graf: 'The laws arrive as workers increasingly worry whether AI will take their
+  jobs, lead to discrimination and increase workplace surveillance, and as unions,
+  worker advocates and even some lawmakers pushed for the new rules. As the federal
+  government has taken a hands-off approach to AI, California is taking the reins
+  to address workers'' biggest fears, according to The Guardian. The signing came
+  amid broader pushback against AI in workplaces: in June, Meta paused a program tracking
+  workers'' computer activities to train its AI models, and one month later dozens
+  of employees sued, alleging the company''s AI tools targeted workers with disability
+  accommodations or those on medical or parental leave for layoffs.'
 primary_entities:
 - Gavin Newsom
 - California
@@ -50,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,12 +172,12 @@ related_stories:
   headline: Newsom signs California laws curbing AI in workplace decisions
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8017
+  strength: 0.8029
 - slug: 2026-10-01-california-s-no-robo-bosses-act-leaves-key-compliance-trigger-undefined
   headline: California's 'No Robo Bosses Act' leaves key compliance trigger undefined
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.739
+  strength: 0.7371
 - slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
   headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
   publish_date: '2026-09-26'
@@ -167,89 +187,29 @@ related_stories:
   headline: Newsom orders two-month California review of AI oversight
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7129
+  strength: 0.7133
 - slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
   headline: AI executives call for slowdown after OpenAI swarm cyberattack
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6837
+  strength: 0.6827
 - slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
   headline: Leading AI companies discuss joint standards to limit catastrophic harms
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6893
+  strength: 0.6888
 - slug: 2026-09-10-newsom-signs-law-banning-addictive-social-media-features-for-users-under-16
-  headline: Newsom signs law banning addictive social-media features for users under 16
+  headline: Newsom signs law banning addictive social-media features for users under
+    16
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6748
+  strength: 0.6735
 - slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
   headline: California AI Investment Draws $366 Billion, More Than Triple Other States
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.668
-- slug: 2026-08-06-california-bill-would-restrict-ai-chatbots-used-for-therapy
-  headline: California bill would restrict AI chatbots used for therapy
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6893
-- slug: 2026-07-21-data-center-bans-strikes-and-lawsuits-signal-ai-backlash-s-new-phase
-  headline: Data center bans, strikes, and lawsuits signal AI backlash's new phase
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6845
-- slug: 2026-07-14-26-meta-employees-sue-alleging-ai-layoff-systems-targeted-workers-on-protected-l
-  headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected leave
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6676
-- slug: 2026-04-03-newsom-orders-ai-safeguards-in-california-state-contracts
-  headline: Newsom orders AI safeguards in California state contracts
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7428
-- slug: 2026-03-19-kaiser-mental-health-workers-strike-in-california-over-ai-concerns
-  headline: Kaiser mental health workers strike in California over AI concerns
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7175
-- slug: 2026-05-27-newsom-signs-law-shielding-california-elections-from-federal-interference
-  headline: Newsom signs law shielding California elections from federal interference
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6747
-- slug: 2026-06-03-colorado-governor-vetoes-expansive-surveillance-pricing-ban
-  headline: Colorado governor vetoes expansive surveillance pricing ban
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6671
-- slug: 2026-05-05-western-states-increasingly-use-ai-cameras-for-faster-wildfire-detection
-  headline: Western states increasingly use AI cameras for faster wildfire detection
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6856
-- slug: 2026-05-23-california-launches-ai-whale-spotting-to-reduce-ship-strikes-amid-heat-wave
-  headline: California launches AI whale spotting to reduce ship strikes amid heat wave
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6694
-- slug: 2026-04-19-trump-opposes-state-ai-regulations-but-republican-lawmakers-push-back
-  headline: Trump opposes state AI regulations, but Republican lawmakers push back
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6896
-- slug: 2026-04-12-how-ai-is-reshaping-american-workplaces-new-gallup-poll
-  headline: 'How AI is reshaping American workplaces: new Gallup poll'
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6805
-- slug: 2026-02-10-california-union-seeks-to-make-remote-work-permanent-for-state-workers
-  headline: California union seeks to make remote work permanent for state workers
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6822
+  strength: 0.6675
 ---
-
 ## California AI laws aim to target bathroom heat maps, tone-of-voice scoring
 
 **Subtype:** fact

@@ -2,8 +2,12 @@
 headline: Three New Hampshire men plead guilty to illegal bobcat trafficking
 secondary_headline: Pelts shipped to Canada, sold at fur auction, prosecutors say
 publish_date: '2026-10-03'
-lede: Three New Hampshire men pleaded guilty Friday to illegally hunting more than 40 bobcats over four years and shipping their pelts to Canada for sale at a fur auction, federal prosecutors said.
-nut_graf: The guilty pleas close a multi-year federal case under the Lacey Act, which prohibits trafficking illegally obtained wildlife across state or international borders.
+lede: Three New Hampshire men pleaded guilty Friday to illegally hunting more than
+  40 bobcats over four years and shipping their pelts to Canada for sale at a fur
+  auction, federal prosecutors said.
+nut_graf: The guilty pleas close a multi-year federal case under the Lacey Act, which
+  prohibits trafficking illegally obtained wildlife across state or international
+  borders.
 primary_entities:
 - Sherwood Dubrey Jr.
 - Randy Inman
@@ -39,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,109 +141,8 @@ cross_article_links:
   strength: 0.5487
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-03-federal-jury-convicts-couple-in-1-6m-fraud-against-elderly-disabled-homeless
-  headline: Federal jury convicts couple in $1.6M fraud against elderly, disabled, homeless
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5529
-- slug: 2026-09-17-uk-formally-requests-tate-brothers-extradition-from-us
-  headline: UK formally requests Tate brothers' extradition from US
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5502
-- slug: 2026-08-21-judge-rules-former-abercrombie-ceo-jeffries-competent-for-sex-trafficking-trial
-  headline: Judge rules former Abercrombie CEO Jeffries competent for sex-trafficking trial
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5466
-- slug: 2026-08-05-two-maryland-men-face-charges-in-exotic-animal-photoshoot-sting
-  headline: Two Maryland men face charges in exotic-animal photoshoot sting
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5723
-- slug: 2026-07-25-suspect-threatened-to-shoot-forest-service-hostages-court-filing-says
-  headline: Suspect threatened to shoot Forest Service hostages, court filing says
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5615
-- slug: 2026-07-21-father-son-charged-with-kidnapping-u-s-forest-service-biologists-in-california
-  headline: Father, son charged with kidnapping U.S. Forest Service biologists in California
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5582
-- slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5752
-- slug: 2026-07-20-tate-brothers-to-fight-uk-extradition-on-trafficking-charges
-  headline: Tate brothers to fight UK extradition on trafficking charges
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5562
-- slug: 2026-07-17-two-forest-service-employees-taken-hostage-in-california-forest-released-safely
-  headline: Two Forest Service employees taken hostage in California forest released safely
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5444
-- slug: 2026-06-30-dea-watched-74-000-fentanyl-pills-reach-albuquerque-whistleblower-says
-  headline: DEA watched 74,000 fentanyl pills reach Albuquerque, whistleblower says
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5534
-- slug: 2026-06-09-federal-inspectors-intercept-trafficked-wildlife-in-alaska
-  headline: Federal inspectors intercept trafficked wildlife in Alaska
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.558
-- slug: 2026-06-04-eight-indicted-for-stealing-5m-in-cheese-beef-cigarettes
-  headline: Eight indicted for stealing $5M in cheese, beef, cigarettes
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5518
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5478
-- slug: 2026-05-17-three-sentenced-in-bear-costume-car-insurance-scam-in-california
-  headline: Three sentenced in bear costume car insurance scam in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5629
-- slug: 2026-03-05-wyoming-man-pleads-guilty-to-felony-animal-cruelty-for-snowmobile-wolf-attack
-  headline: Wyoming man pleads guilty to felony animal cruelty for snowmobile wolf attack
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5912
-- slug: 2026-05-17-ex-nypd-sergeant-freed-on-bail-during-manslaughter-appeal
-  headline: Ex-NYPD sergeant freed on bail during manslaughter appeal
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5473
-- slug: 2026-03-18-2-men-charged-with-illegal-wildlife-trade-after-hundreds-of-ants-seized-in-kenya
-  headline: 2 men charged with illegal wildlife trade after hundreds of ants seized in Kenya
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.5716
-- slug: 2026-05-07-judge-oks-alaska-wildlife-agents-killing-bears-from-helicopters-to-protect-carib
-  headline: Judge OKs Alaska wildlife agents killing bears from helicopters to protect caribou
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5513
-- slug: 2026-02-26-wyoming-man-in-wolf-torture-case-agrees-to-plea-that-avoids-trial
-  headline: Wyoming man in wolf-torture case agrees to plea that avoids trial
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5752
-- slug: 2026-04-15-new-york-islanders-jumbotron-fundraiser-ex-nypd-sergeant-manslaughter
-  headline: New York Islanders run jumbotron fundraiser for officer convicted of manslaughter
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5586
+related_stories: []
 ---
-
 ## Three New Hampshire men plead guilty to illegal bobcat trafficking
 
 **Subtype:** fact

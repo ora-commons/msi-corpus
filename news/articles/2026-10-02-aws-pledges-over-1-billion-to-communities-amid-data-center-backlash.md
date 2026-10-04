@@ -1,9 +1,18 @@
 ---
 headline: AWS pledges over $1 billion to communities amid data center backlash
-secondary_headline: Journal analysis finds AI opposition crossing left-right political lines
+secondary_headline: Journal analysis finds AI opposition crossing left-right political
+  lines
 publish_date: '2026-10-02'
-lede: Amazon released a memo from AWS CEO Matt Garman on Friday acknowledging local backlash to AI data centers and pledging more than $1 billion in additional community investment over five years, the Wall Street Journal reported. The company also said it was ending nondisclosure agreements with government officials related to its data-center build-outs and promised annual reports on its energy and water use.
-nut_graf: The announcement comes as a Wall Street Journal review of more than four million TikToks found opposition to data centers and AI crossing into areas of the platform that rarely touch politics, and a separate analysis of more than 200 left- and right-leaning political podcasts found hourly AI mentions more than doubling from August to September.
+lede: Amazon released a memo from AWS CEO Matt Garman on Friday acknowledging local
+  backlash to AI data centers and pledging more than $1 billion in additional community
+  investment over five years, the Wall Street Journal reported. The company also said
+  it was ending nondisclosure agreements with government officials related to its
+  data-center build-outs and promised annual reports on its energy and water use.
+nut_graf: The announcement comes as a Wall Street Journal review of more than four
+  million TikToks found opposition to data centers and AI crossing into areas of the
+  platform that rarely touch politics, and a separate analysis of more than 200 left-
+  and right-leaning political podcasts found hourly AI mentions more than doubling
+  from August to September.
 primary_entities:
 - Amazon Web Services
 - Matt Garman
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +70,8 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-02'
-  caption: The September unemployment rate, as recorded by FRED at the article's vintage date of 2026-10-02.
+  caption: The September unemployment rate, as recorded by FRED at the article's vintage
+    date of 2026-10-02.
 figures_aggregate:
   count: 1
   series_ids:
@@ -154,104 +165,44 @@ related_stories:
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6847
+  strength: 0.6861
 - slug: 2026-09-24-climate-protesters-picket-openai-google-amazon-offices-during-nyc-climate-week
-  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate week
+  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate
+    week
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6863
+  strength: 0.688
 - slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
   headline: Tech CEOs and White House split on global AI governance at UN
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.672
+  strength: 0.6737
 - slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
   headline: More than 10 states pause or cancel data center tax exemptions
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6706
+  strength: 0.6699
 - slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
   headline: Tech giants step up community investments to counter AI data-center opposition
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7551
+  strength: 0.756
 - slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
   headline: Data center opposition mounts as tech giants court communities
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.7283
+  strength: 0.7293
 - slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
   headline: Trump, tech leaders suggest China is behind data-center opposition
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6633
+  strength: 0.665
 - slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6894
-- slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6648
-- slug: 2026-08-15-ai-infrastructure-backlash-spans-political-spectrum-ahead-of-midterms
-  headline: AI infrastructure backlash spans political spectrum ahead of midterms
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6628
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6982
-- slug: 2026-08-07-gilroy-residents-protest-amazon-data-center-approved-without-public-vote
-  headline: Gilroy residents protest Amazon data center approved without public vote
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6684
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6923
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6632
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6684
-- slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
-  headline: Seattle enacts year-long ban on new AI datacenters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6816
-- slug: 2026-04-29-amazon-expands-partnership-with-openai-to-develop-ai-agent-platform
-  headline: Amazon expands partnership with OpenAI to develop AI agent platform
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7138
-- slug: 2026-04-30-amazon-reports-higher-first-quarter-profits-as-aws-growth-accelerates
-  headline: Amazon reports higher first-quarter profits as AWS growth accelerates
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6943
-- slug: 2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs
-  headline: Microsoft's Brad Smith tells Congress Big Tech must pay AI data center costs
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.717
-- slug: 2026-03-04-trump-touts-ratepayer-pledge-as-tech-giants-vow-to-self-fund-ai-power-needs
-  headline: Trump touts ratepayer pledge as tech giants vow to self-fund AI power needs
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6945
+  strength: 0.6905
 ---
-
 ## AWS pledges over $1 billion to communities amid data center backlash
 
 **Subtype:** fact

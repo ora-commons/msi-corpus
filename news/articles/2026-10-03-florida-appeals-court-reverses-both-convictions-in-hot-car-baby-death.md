@@ -1,9 +1,21 @@
 ---
 headline: Florida appeals court reverses both convictions in hot-car baby death
-secondary_headline: Prosecutors rarely bring felony murder charges in accidental child deaths
+secondary_headline: Prosecutors rarely bring felony murder charges in accidental child
+  deaths
 publish_date: '2026-10-03'
-lede: Florida's First District Court of Appeal on Wednesday reversed Rhonda Jewell's convictions for third-degree felony murder and for leaving a child unattended in a vehicle — both tied to the 2023 hot-car death of 10-month-old Ariya Paige — finding that the charges required proof Jewell knowingly left the baby in the car. The appellate court called the underlying theory of liability — that a defendant could be convicted of felony murder based on a predicate offense she did not know she was committing — legally improper, and remanded the case for a new trial. Prosecutions of accidental hot-car child deaths as felony murder are uncommon; Amber Rollins, the executive director of Kids and Car Safety, told HuffPost she was aware of fewer than 10 such cases nationally.
-nut_graf: The ruling narrows the legal theory prosecutors used to secure a 17-year sentence for a babysitter whose jury separately found she had not acted with reckless disregard for the baby's life.
+lede: Florida's First District Court of Appeal on Wednesday reversed Rhonda Jewell's
+  convictions for third-degree felony murder and for leaving a child unattended in
+  a vehicle — both tied to the 2023 hot-car death of 10-month-old Ariya Paige — finding
+  that the charges required proof Jewell knowingly left the baby in the car. The appellate
+  court called the underlying theory of liability — that a defendant could be convicted
+  of felony murder based on a predicate offense she did not know she was committing
+  — legally improper, and remanded the case for a new trial. Prosecutions of accidental
+  hot-car child deaths as felony murder are uncommon; Amber Rollins, the executive
+  director of Kids and Car Safety, told HuffPost she was aware of fewer than 10 such
+  cases nationally.
+nut_graf: The ruling narrows the legal theory prosecutors used to secure a 17-year
+  sentence for a babysitter whose jury separately found she had not acted with reckless
+  disregard for the baby's life.
 primary_entities:
 - Rhonda Jewell
 - Ariya Paige
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +151,8 @@ cross_article_links:
   strength: 0.5672
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-18-uber-arbitration-documents-name-luna-moore-identify-73-freeway
-  headline: Uber arbitration documents name Luna Moore, identify 73 freeway
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5932
-- slug: 2026-09-18-clancy-defense-lawyer-says-he-was-upset-over-holdout-s-refusal-to-acquit
-  headline: Clancy defense lawyer says he was 'upset' over holdout's refusal to acquit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5928
-- slug: 2026-08-31-jury-weighs-five-verdict-options-in-clancy-murder-trial
-  headline: Jury weighs five verdict options in Clancy murder trial
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5953
-- slug: 2026-06-23-florida-real-estate-broker-acquitted-in-fatal-birthday-boat-crash
-  headline: Florida real estate broker acquitted in fatal birthday boat crash
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6333
-- slug: 2026-06-30-child-found-dead-in-vehicle-outside-plantation-preschool
-  headline: Child found dead in vehicle outside Plantation preschool
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.617
-- slug: 2026-07-15-idaho-judge-revokes-bond-for-mother-charged-with-twins-deaths
-  headline: Idaho judge revokes bond for mother charged with twins' deaths
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5914
-- slug: 2026-06-11-new-hampshire-supreme-court-reverses-adam-montgomery-murder-conviction
-  headline: New Hampshire Supreme Court reverses Adam Montgomery murder conviction
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6122
-- slug: 2026-06-22-supreme-court-reinstates-murder-conviction-in-etan-patz-case
-  headline: Supreme Court reinstates murder conviction in Etan Patz case
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5932
-- slug: 2026-06-07-texas-death-row-case-of-taylor-parker-revived-by-netflix-documentary
-  headline: Texas death row case of Taylor Parker revived by Netflix documentary
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6052
-- slug: 2026-06-02-florida-executes-andrew-richard-lukehart-for-1996-murder-of-infant
-  headline: Florida executes Andrew Richard Lukehart for 1996 murder of infant
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6016
-- slug: 2026-05-26-teen-charged-with-killing-stepsister-on-carnival-cruise-remains-free
-  headline: Teen charged with killing stepsister on Carnival Cruise remains free
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6067
-- slug: 2025-12-29-alabama-judge-orders-new-trial-for-woman-sentenced-to-18-years-after-stillbirth
-  headline: Alabama judge orders new trial for woman sentenced to 18 years after stillbirth
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6459
-- slug: 2025-12-30-alabama-judge-orders-new-trial-for-woman-sentenced-to-18-years-after-stillbirth
-  headline: Alabama judge orders new trial for woman sentenced to 18 years after stillbirth
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6357
-- slug: 2026-03-07-cleveland-judge-sets-2m-bail-for-woman-charged-in-daughters-suitcase-deaths
-  headline: Cleveland judge sets $2M bail for woman charged in daughters' suitcase deaths
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-06-former-fedex-driver-sentenced-to-death-for-killing-7-year-old-girl
-  headline: Former FedEx driver sentenced to death for killing 7-year-old girl
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5944
-- slug: 2026-02-26-mother-sentenced-to-up-to-life-in-prison-in-death-of-emaciated-daughter
-  headline: Mother sentenced to up to life in prison in death of emaciated daughter
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6165
-- slug: 2026-04-29-teen-accused-in-carnival-cruise-stepsister-death-faces-june-trial-in-miami
-  headline: Teen accused in Carnival Cruise stepsister death faces June trial in Miami
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5929
-- slug: 2026-05-02-woman-charged-after-land-rover-crash-killed-2-girls-at-london-school-tea-party
-  headline: Woman charged after Land Rover crash killed 2 girls at London school tea party
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5912
-- slug: 2026-04-14-teen-charged-in-death-sexual-abuse-of-stepsister-on-carnival-cruise
-  headline: Teen charged in death, sexual abuse of stepsister on Carnival cruise
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5996
-- slug: 2026-02-06-us-appeals-court-is-asked-to-revive-criminal-case-against-boeing
-  headline: US appeals court is asked to revive criminal case against Boeing
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6107
+related_stories: []
 ---
-
 ## Florida appeals court reverses both convictions in hot-car baby death
 
 **Subtype:** fact

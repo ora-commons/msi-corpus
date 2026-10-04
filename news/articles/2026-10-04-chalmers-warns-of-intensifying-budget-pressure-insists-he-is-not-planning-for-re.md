@@ -1,9 +1,15 @@
 ---
-headline: Chalmers warns of intensifying budget pressure, insists he is not planning for recession
+headline: Chalmers warns of intensifying budget pressure, insists he is not planning
+  for recession
 secondary_headline: Treasurer points to private demand, not public spending, on prices
 publish_date: '2026-10-04'
-lede: The federal treasurer, Jim Chalmers, has warned of 'very substantial and intensifying' economic pressure on Australia's federal budget, blaming an eight-month US-led war against Iran and private-sector activity for driving up inflation, while insisting he is not planning for a recession.
-nut_graf: Chalmers' comments come ahead of the mid-year economic and fiscal outlook due in December, with the government working to identify further savings after cuts of $44.9bn over four years were identified in the May budget.
+lede: The federal treasurer, Jim Chalmers, has warned of 'very substantial and intensifying'
+  economic pressure on Australia's federal budget, blaming an eight-month US-led war
+  against Iran and private-sector activity for driving up inflation, while insisting
+  he is not planning for a recession.
+nut_graf: Chalmers' comments come ahead of the mid-year economic and fiscal outlook
+  due in December, with the government working to identify further savings after cuts
+  of $44.9bn over four years were identified in the May budget.
 primary_entities:
 - Jim Chalmers
 - Tim Wilson
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +148,40 @@ related_stories:
   headline: Australian inflation rises to 4% in August, ABS says
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.802
+  strength: 0.8016
 - slug: 2026-09-27-gallagher-chalmers-to-present-final-budget-outcome-showing-6bn-improvement
   headline: Gallagher, Chalmers to present final budget outcome showing $6bn improvement
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6718
-- slug: 2026-09-28-rba-widely-expected-to-raise-cash-rate-to-4-6-on-tuesday
-  headline: RBA widely expected to raise cash rate to 4.6% on Tuesday
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6393
+  strength: 0.6725
 - slug: 2026-09-21-chalmers-pledges-domestic-violence-response-after-deadly-nsw-weekend
   headline: Chalmers pledges domestic violence response after deadly NSW weekend
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6764
+  strength: 0.6771
 - slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
   headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6916
-- slug: 2026-09-20-australian-life-expectancy-forecast-to-reach-89-for-women-by-2066
-  headline: Australian life expectancy forecast to reach 89 for women by 2066
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6328
+  strength: 0.6908
 - slug: 2026-09-09-rba-s-three-2026-hikes-have-not-returned-inflation-to-2-5-target-deputy-governor
-  headline: RBA's three 2026 hikes have not returned inflation to 2.5% target, deputy governor says
+  headline: RBA's three 2026 hikes have not returned inflation to 2.5% target, deputy
+    governor says
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6766
-- slug: 2026-09-09-treasury-to-buy-back-6bn-in-bonds-as-30-year-yields-keep-climbing
-  headline: Treasury to buy back $6bn in bonds as 30-year yields keep climbing
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6373
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6438
+  strength: 0.6759
 - slug: 2026-08-26-inflation-measure-closely-watched-by-fed-shows-3-7-year-over-year-rise-in-july
-  headline: Inflation measure closely watched by Fed shows 3.7% year-over-year rise in July
+  headline: Inflation measure closely watched by Fed shows 3.7% year-over-year rise
+    in July
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6651
-- slug: 2026-08-24-treasury-yields-rebound-after-bessent-announces-more-bond-purchases
-  headline: Treasury yields rebound after Bessent announces more bond purchases
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6366
-- slug: 2026-07-28-fed-chair-warsh-faces-pressure-to-hike-rates-as-inflation-holds-above-target
-  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above target
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6499
+  strength: 0.6647
 - slug: 2026-07-21-markets-assign-nearly-30-chance-of-rba-rate-hike-in-august-anz-says
   headline: Markets assign nearly 30% chance of RBA rate hike in August, ANZ says
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6599
-- slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
-  headline: Fed's preferred inflation gauge rises to three-year high in May
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6384
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6346
-- slug: 2026-06-03-australian-dollar-at-risk-of-fall-on-first-quarter-gdp-cba-says
-  headline: Australian dollar at risk of fall on first-quarter GDP, CBA says
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6347
-- slug: 2026-05-21-walmart-to-use-tariff-refunds-for-price-cuts-as-shoppers-weigh-gas-costs
-  headline: Walmart to use tariff refunds for price cuts as shoppers weigh gas costs
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6426
-- slug: 2026-05-01-tax-refunds-and-ai-boom-offset-some-u-s-pain-from-iran-war-high-gas-prices
-  headline: Tax refunds and AI boom offset some U.S. pain from Iran war, high gas prices
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6498
-- slug: 2026-05-14-war-and-us-blockade-strain-iran-s-economy-as-inflation-hits-highs
-  headline: War and US blockade strain Iran's economy as inflation hits highs
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6399
-- slug: 2026-05-10-business-economists-warn-of-rising-costs-and-recession-risk-as-iran-war-strains-
-  headline: Business economists warn of rising costs and recession risk as Iran war strains supply chains
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6349
+  strength: 0.6591
 ---
-
 ## Chalmers warns of intensifying budget pressure, insists he is not planning for recession
 
 **Subtype:** fact

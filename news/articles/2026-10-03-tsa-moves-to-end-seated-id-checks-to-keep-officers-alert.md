@@ -2,8 +2,15 @@
 headline: TSA moves to end seated ID checks to keep officers 'alert'
 secondary_headline: Union says seating ban ignores officer safety and ergonomics
 publish_date: '2026-10-03'
-lede: US airport security officers who verify boarding passes and IDs ahead of security checkpoints will no longer be allowed to sit down while working, under a Transportation Security Administration policy change the agency recently confirmed. The TSA said the change is meant to keep officers 'alert,' while the union that represents them called it a disregard for employee rights and safety.
-nut_graf: The change extends a turbulent stretch for the agency's workforce, which withstood a 76-day government shutdown from February to April that left officers working without pay, and it arrives as the union reviews legal options over a separate TSA program to privatize security checkpoints at three airports.
+lede: US airport security officers who verify boarding passes and IDs ahead of security
+  checkpoints will no longer be allowed to sit down while working, under a Transportation
+  Security Administration policy change the agency recently confirmed. The TSA said
+  the change is meant to keep officers 'alert,' while the union that represents them
+  called it a disregard for employee rights and safety.
+nut_graf: The change extends a turbulent stretch for the agency's workforce, which
+  withstood a 76-day government shutdown from February to April that left officers
+  working without pay, and it arrives as the union reviews legal options over a separate
+  TSA program to privatize security checkpoints at three airports.
 primary_entities:
 - Transportation Security Administration
 - American Federation of Government Employees Council
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +147,44 @@ related_stories:
   headline: TSA marks 25 years since 9/11 with biometric, AI upgrades
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7586
+  strength: 0.759
 - slug: 2026-09-08-tsa-program-gives-precheck-members-gate-access-without-plane-tickets
   headline: TSA program gives PreCheck members gate access without plane tickets
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6884
+  strength: 0.6878
 - slug: 2026-08-05-tsa-informs-union-of-plan-to-privatize-screening-at-three-airports
   headline: TSA informs union of plan to privatize screening at three airports
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.71
+  strength: 0.7099
 - slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
   headline: Airline workers decline to help ICE agents as airport arrests rise
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6876
+  strength: 0.687
 - slug: 2026-03-31-tsa-says-airport-bottlenecks-ease-after-officers-received-backpay
   headline: TSA says airport bottlenecks ease after officers received backpay
   publish_date: '2026-03-31'
   relation: related
-  strength: 0.7444
+  strength: 0.7448
 - slug: 2026-02-13-tsa-agents-work-without-pay-as-dhs-shutdown-delays-airport-security
   headline: TSA agents work without pay as DHS shutdown delays airport security
   publish_date: '2026-02-13'
   relation: related
-  strength: 0.7476
+  strength: 0.747
 - slug: 2026-03-21-hundreds-of-tsa-officers-quit-rather-than-work-without-pay-during-dhs-shutdown
-  headline: Hundreds of TSA officers quit rather than work without pay during DHS shutdown
+  headline: Hundreds of TSA officers quit rather than work without pay during DHS
+    shutdown
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.7311
+  strength: 0.7307
 - slug: 2026-03-29-tsa-pay-starting-monday-may-not-end-airport-delays-overnight
   headline: TSA pay starting Monday may not end airport delays overnight
   publish_date: '2026-03-29'
   relation: related
-  strength: 0.7242
-- slug: 2026-03-22-airline-passengers-press-for-restored-tsa-pay-during-dhs-shutdown
-  headline: Airline passengers press for restored TSA pay during DHS shutdown
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7194
-- slug: 2026-03-19-how-to-check-airport-security-wait-times-as-tsa-goes-unpaid
-  headline: How to check airport security wait times as TSA goes unpaid
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7173
-- slug: 2026-05-22-house-panel-discusses-tsa-modernization-as-trump-seeks-private-screening
-  headline: House panel discusses TSA modernization as Trump seeks private screening
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6861
-- slug: 2026-03-20-tsa-wait-times-a-wild-card-during-dhs-shutdown-as-staffing-varies
-  headline: TSA wait times a wild card during DHS shutdown as staffing varies
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.708
-- slug: 2026-03-22-enfrentamiento-en-ee-uu-por-el-cierre-trump-impulsa-pagar-a-la-tsa
-  headline: 'Enfrentamiento en EE.UU. por el cierre: Trump impulsa pagar a la TSA'
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7012
-- slug: 2026-02-16-what-to-know-about-tsa-screening-and-airport-lines-during-dhs-shutdown
-  headline: What to know about TSA screening and airport lines during DHS shutdown
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7057
-- slug: 2026-03-27-trump-to-sign-order-to-pay-tsa-agents-as-dhs-shutdown-drags
-  headline: Trump to sign order to pay TSA agents as DHS shutdown drags
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6955
-- slug: 2026-03-24-ice-officers-appear-at-tsa-checkpoints-during-partial-dhs-shutdown
-  headline: ICE officers appear at TSA checkpoints during partial DHS shutdown
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6944
-- slug: 2026-03-29-tsa-to-get-emergency-pay-but-long-lines-and-ice-presence-may-persist
-  headline: TSA to get emergency pay, but long lines and ICE presence may persist
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6917
-- slug: 2026-02-01-no-real-id-yet-tsa-fee-and-confirmid-rules-start-this-weekend
-  headline: No REAL ID yet? TSA fee and ConfirmID rules start this weekend
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.703
-- slug: 2026-03-23-ice-officers-to-help-tsa-at-airports-during-dhs-funding-impasse
-  headline: ICE officers to help TSA at airports during DHS funding impasse
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6919
-- slug: 2026-03-12-what-the-latest-government-shutdown-shows-about-privatizing-tsa-screening
-  headline: What the latest government shutdown shows about privatizing TSA screening
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6945
+  strength: 0.7241
 ---
-
 ## TSA moves to end seated ID checks to keep officers 'alert'
 
 **Subtype:** fact

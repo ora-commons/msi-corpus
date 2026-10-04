@@ -2,8 +2,14 @@
 headline: Ken Urker, Gypsy Rose Blanchard's partner, found dead at 34 in Louisiana
 secondary_headline: Lafourche sheriff reports no signs of foul play in death
 publish_date: '2026-10-02'
-lede: Kenan "Ken" Urker, the 34-year-old on-and-off partner of Gypsy Rose Blanchard and the father of her young daughter, was found dead at his Louisiana home on his birthday Thursday in what authorities described as an apparent drug overdose, according to the Lafourche Parish Sheriff's Office.
-nut_graf: Blanchard, who served eight years in prison for her role in the 2015 stabbing death of her mother Clauddine "Dee Dee" Blanchard, told People in an interview published Friday that she believed Urker died of an overdose but said she did not know whether the death was intentional.
+lede: Kenan "Ken" Urker, the 34-year-old on-and-off partner of Gypsy Rose Blanchard
+  and the father of her young daughter, was found dead at his Louisiana home on his
+  birthday Thursday in what authorities described as an apparent drug overdose, according
+  to the Lafourche Parish Sheriff's Office.
+nut_graf: Blanchard, who served eight years in prison for her role in the 2015 stabbing
+  death of her mother Clauddine "Dee Dee" Blanchard, told People in an interview published
+  Friday that she believed Urker died of an overdose but said she did not know whether
+  the death was intentional.
 primary_entities:
 - Ken Urker
 - Gypsy Rose Blanchard
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -116,109 +123,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-28-louisiana-judge-sentences-pair-in-2025-death-of-telemundo-reporter-manzano
-  headline: Louisiana judge sentences pair in 2025 death of Telemundo reporter Manzano
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5748
-- slug: 2026-09-22-police-investigate-presley-gerber-s-death-as-suspected-overdose
-  headline: Police investigate Presley Gerber's death as suspected overdose
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5958
-- slug: 2026-09-25-maryland-hunter-74-charged-with-manslaughter-in-delaware-woman-s-shooting-death
-  headline: Maryland hunter, 74, charged with manslaughter in Delaware woman's shooting death
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5714
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6167
-- slug: 2026-08-17-louisiana-man-faces-murder-charge-after-driving-wife-s-body-across-states
-  headline: Louisiana man faces murder charge after driving wife's body across states
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5762
-- slug: 2026-07-25-mother-urges-uk-to-press-texas-on-daughter-s-shooting-death
-  headline: Mother urges UK to press Texas on daughter's shooting death
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.571
-- slug: 2026-07-27-prosecutors-detail-slain-girl-s-final-texts-in-d4vd-hearing
-  headline: Prosecutors detail slain girl's final texts in D4vd hearing
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5607
-- slug: 2026-06-24-wa-police-to-review-response-to-virginia-giuffre-domestic-violence-dispute
-  headline: WA police to review response to Virginia Giuffre domestic violence dispute
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5704
-- slug: 2026-05-20-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5897
-- slug: 2026-05-21-mysterious-substance-tied-to-3-deaths-in-new-mexico-sickens-first-responders
-  headline: Mysterious substance tied to 3 deaths in New Mexico sickens first responders
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5807
-- slug: 2026-05-22-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5797
-- slug: 2026-05-22-fentanyl-meth-found-at-new-mexico-house-where-responders-got-sick
-  headline: Fentanyl, meth found at New Mexico house where responders got sick
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5771
-- slug: 2026-05-22-fentanyl-and-meth-found-at-new-mexico-home-where-three-died-and-responders-fell-
-  headline: Fentanyl and meth found at New Mexico home where three died and responders fell ill
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5753
-- slug: 2026-05-21-unknown-substance-tied-to-3-deaths-in-new-mexico-sickens-first-responders
-  headline: Unknown substance tied to 3 deaths in New Mexico sickens first responders
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5727
-- slug: 2026-05-21-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5694
-- slug: 2026-05-15-oklahoma-executes-raymond-johnson-for-killing-ex-girlfriend-and-her-baby
-  headline: Oklahoma executes Raymond Johnson for killing ex-girlfriend and her baby
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5712
-- slug: 2026-05-23-fentanyl-and-meth-found-at-nm-home-where-responders-fell-ill-after-overdose-call
-  headline: Fentanyl and meth found at NM home where responders fell ill after overdose call
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5605
-- slug: 2025-12-29-oklahoma-man-charged-with-manslaughter-after-stray-bullet-kills-neighbor
-  headline: Oklahoma man charged with manslaughter after stray bullet kills neighbor
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.5814
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.5577
-- slug: 2026-03-02-florida-executes-billy-leon-kearse-for-fatal-shooting-of-officer-danny-parrish
-  headline: Florida executes Billy Leon Kearse for fatal shooting of officer Danny Parrish
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.567
+related_stories: []
 ---
-
 ## Ken Urker, Gypsy Rose Blanchard's partner, found dead at 34 in Louisiana
 
 **Subtype:** fact

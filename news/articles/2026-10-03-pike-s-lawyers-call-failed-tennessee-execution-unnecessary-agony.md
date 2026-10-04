@@ -1,9 +1,23 @@
 ---
 headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
-secondary_headline: Earlier 2026 execution also failed when medical professional mis-placed IV
+secondary_headline: Earlier 2026 execution also failed when medical professional mis-placed
+  IV
 publish_date: '2026-10-03'
-lede: Pike's lawyers said the failed Tennessee lethal injection caused their client "unnecessary agony" and violated her right to be executed free of cruel and unusual punishment. Christa Pike was placed on a ventilator after receiving two doses of the sedative pentobarbital during Wednesday's execution and remained alive, the first person to survive after being injected with lethal doses of execution drugs according to the Death Penalty Information Center. Tennessee Department of Correction Commissioner Frank Strada is resigning this month amid the fallout, Gov. Bill Lee's office said Saturday.
-nut_graf: The failed injection comes against a backdrop of pharmaceutical restrictions on execution drugs, as companies have limited their drugs' use in executions following pressure from anti-capital-punishment activists and some states have turned to loosely or unregulated sources for the drugs. A different Tennessee inmate underwent a failed execution attempt earlier in 2026 when a medical professional mis-placed an IV, and the provider said in a deposition he had not performed a similar procedure in more than a decade.
+lede: Pike's lawyers said the failed Tennessee lethal injection caused their client
+  "unnecessary agony" and violated her right to be executed free of cruel and unusual
+  punishment. Christa Pike was placed on a ventilator after receiving two doses of
+  the sedative pentobarbital during Wednesday's execution and remained alive, the
+  first person to survive after being injected with lethal doses of execution drugs
+  according to the Death Penalty Information Center. Tennessee Department of Correction
+  Commissioner Frank Strada is resigning this month amid the fallout, Gov. Bill Lee's
+  office said Saturday.
+nut_graf: The failed injection comes against a backdrop of pharmaceutical restrictions
+  on execution drugs, as companies have limited their drugs' use in executions following
+  pressure from anti-capital-punishment activists and some states have turned to loosely
+  or unregulated sources for the drugs. A different Tennessee inmate underwent a failed
+  execution attempt earlier in 2026 when a medical professional mis-placed an IV,
+  and the provider said in a deposition he had not performed a similar procedure in
+  more than a decade.
 primary_entities:
 - Christa Pike
 - Frank Strada
@@ -39,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +156,47 @@ related_stories:
   headline: Tennessee prison chief resigns after Christa Pike's failed execution
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8967
+  strength: 0.8978
 - slug: 2026-10-03-tennessee-corrections-commissioner-strada-resigns-after-failed-pike-execution
   headline: Tennessee corrections commissioner Strada resigns after failed Pike execution
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8871
+  strength: 0.8869
 - slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
+  headline: 'Strada''s record: five ''botched'' executions across two states since
+    2022'
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8635
+  strength: 0.8633
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8722
+  strength: 0.874
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8379
+  strength: 0.8402
 - slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8361
+  strength: 0.8366
 - slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
   headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8236
+  strength: 0.8252
 - slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
   headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8137
-- slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
-  headline: Christa Pike survives two Tennessee lethal injection attempts
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.8255
-- slug: 2026-10-03-tennessee-bureau-of-prisons-has-no-permanent-commissioner
-  headline: Tennessee Bureau of Prisons has no permanent commissioner
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.8084
-- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.789
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7952
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7739
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.767
-- slug: 2026-10-02-reporter-who-covered-nearly-500-executions-says-he-s-never-seen-an-inmate-surviv
-  headline: Reporter who covered nearly 500 executions says he's never seen an inmate survive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.758
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7631
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7494
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7394
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7301
-- slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
-  headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7216
+  strength: 0.8156
 ---
-
 ## Pike's lawyers call failed Tennessee execution 'unnecessary agony'
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Judge halts more than $6 billion in Big Bend border wall work
 secondary_headline: Wall includes 30-foot steel bollards, barriers, surveillance
 publish_date: '2026-10-02'
-lede: A federal judge on Friday temporarily halted the Trump administration's push to expand border infrastructure across the Big Bend region of west Texas, blocking plans to install 6-foot-tall vehicle barriers and new roads through Big Bend National Park. US District Judge Kathleen Cardone issued the order after a hearing in El Paso, ruling against Department of Homeland Security waivers that had suspended dozens of federal environmental and historical protection laws to speed construction.
-nut_graf: The decision halts expansion along the longest unwalled stretch of the US-Mexico border, where the Republican-dominated Congress included $46.5 billion for border wall construction in last year's "big, beautiful" spending bill, an allocation that had led Customs and Border Protection to focus its efforts.
+lede: A federal judge on Friday temporarily halted the Trump administration's push
+  to expand border infrastructure across the Big Bend region of west Texas, blocking
+  plans to install 6-foot-tall vehicle barriers and new roads through Big Bend National
+  Park. US District Judge Kathleen Cardone issued the order after a hearing in El
+  Paso, ruling against Department of Homeland Security waivers that had suspended
+  dozens of federal environmental and historical protection laws to speed construction.
+nut_graf: The decision halts expansion along the longest unwalled stretch of the US-Mexico
+  border, where the Republican-dominated Congress included $46.5 billion for border
+  wall construction in last year's "big, beautiful" spending bill, an allocation that
+  had led Customs and Border Protection to focus its efforts.
 primary_entities:
 - Kathleen Cardone
 - Big Bend National Park
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,99 +164,38 @@ related_stories:
   headline: CBP begins Big Bend border wall construction over Texas opposition
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7779
+  strength: 0.778
 - slug: 2026-08-28-big-bend-border-construction-pause-runs-through-mid-september
   headline: Big Bend border construction pause runs through mid-September
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7625
+  strength: 0.7622
 - slug: 2026-08-17-cbp-pauses-border-construction-in-big-bend-national-park-for-evaluation
   headline: CBP pauses border construction in Big Bend National Park for evaluation
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7781
+  strength: 0.7779
 - slug: 2026-08-14-bulldozers-begin-clearing-ground-at-big-bend-s-santa-elena-canyon
   headline: Bulldozers begin clearing ground at Big Bend's Santa Elena Canyon
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7685
+  strength: 0.7687
 - slug: 2026-08-27-trump-administration-builds-border-wall-on-tohono-o-odham-reservation
   headline: Trump administration builds border wall on Tohono O'odham reservation
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6537
+  strength: 0.6539
 - slug: 2026-08-14-federal-judge-denies-tohono-o-odham-nation-s-request-to-block-border-wall
   headline: Federal judge denies Tohono O'odham Nation's request to block border wall
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6817
+  strength: 0.682
 - slug: 2026-06-10-trump-administration-bypasses-environmental-laws-for-big-bend-border-project
   headline: Trump administration bypasses environmental laws for Big Bend border project
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.77
-- slug: 2026-07-15-texans-unite-across-party-lines-to-fight-big-bend-border-wall
-  headline: Texans unite across party lines to fight Big Bend border wall
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7064
-- slug: 2026-07-10-federal-law-waived-for-big-bend-wall-project-two-weeks-after-presidio-lawsuit
-  headline: Federal law waived for Big Bend wall project two weeks after Presidio lawsuit
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7123
-- slug: 2026-07-22-presidio-argues-border-wall-could-flood-town-in-lawsuit
-  headline: Presidio argues border wall could flood town in lawsuit
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6662
-- slug: 2026-05-23-confused-about-big-bend-border-wall-plans-here-s-where-things-stand
-  headline: Confused about Big Bend border wall plans? Here’s where things stand
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7446
-- slug: 2026-05-22-where-things-stand-on-big-bend-border-wall-plans
-  headline: Where things stand on Big Bend border wall plans
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7401
-- slug: 2026-05-22-first-big-bend-border-wall-contracts-awarded-amid-shifting-undisclosed-changes
-  headline: First Big Bend border wall contracts awarded amid shifting, undisclosed changes
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7149
-- slug: 2026-06-15-border-wall-land-seizures-threaten-texas-families-in-big-bend
-  headline: Border wall land seizures threaten Texas families in Big Bend
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6847
-- slug: 2026-06-18-big-bend-economic-group-sues-trump-administration-over-border-wall-flood-risks
-  headline: Big Bend economic group sues Trump administration over border wall flood risks
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6807
-- slug: 2026-06-29-judge-permanently-blocks-trump-from-withholding-16b-hudson-tunnel-funds
-  headline: Judge permanently blocks Trump from withholding $16B Hudson tunnel funds
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.643
-- slug: 2026-05-29-federal-judge-temporarily-blocks-1-776-billion-trump-anti-weaponization-fund
-  headline: Federal judge temporarily blocks $1.776 billion Trump 'anti-weaponization' fund
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6469
-- slug: 2026-04-16-federal-judge-blocks-above-ground-white-house-ballroom-construction-allows-bunke
-  headline: Federal judge blocks above-ground White House ballroom construction, allows bunker work
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6668
-- slug: 2026-04-15-judge-extends-pause-on-maryland-warehouse-immigrant-detention-conversion
-  headline: Judge extends pause on Maryland warehouse immigrant detention conversion
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6587
+  strength: 0.7699
 ---
-
 ## Judge halts more than $6 billion in Big Bend border wall work
 
 **Subtype:** fact

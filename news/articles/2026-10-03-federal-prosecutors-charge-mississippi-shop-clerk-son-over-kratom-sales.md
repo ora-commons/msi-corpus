@@ -2,8 +2,16 @@
 headline: Federal prosecutors charge Mississippi shop clerk, son over kratom sales
 secondary_headline: Kratom products found in both deceased Ole Miss students' rooms
 publish_date: '2026-10-03'
-lede: Federal prosecutors have charged a store clerk and his son with selling an illegal kratom product from their shop in Oxford, Mississippi, following the suspected overdose deaths of two University of Mississippi students. Yahya Mohamed Mosleh, 51, and his son Islam Yahya Mosleh, 18, each face one count of possession with the intent to distribute a controlled substance, prosecutors announced Friday.
-nut_graf: 'The charges come as kratom''s legal status varies widely: the substance is legal at the federal level, banned in 11 states, and regulated in others, including Mississippi, which requires buyers to be 21 or older. It remains unclear whether kratom contributed to either student''s death, though federal prosecutors said both appear consistent with drug overdoses.'
+lede: Federal prosecutors have charged a store clerk and his son with selling an illegal
+  kratom product from their shop in Oxford, Mississippi, following the suspected overdose
+  deaths of two University of Mississippi students. Yahya Mohamed Mosleh, 51, and
+  his son Islam Yahya Mosleh, 18, each face one count of possession with the intent
+  to distribute a controlled substance, prosecutors announced Friday.
+nut_graf: 'The charges come as kratom''s legal status varies widely: the substance
+  is legal at the federal level, banned in 11 states, and regulated in others, including
+  Mississippi, which requires buyers to be 21 or older. It remains unclear whether
+  kratom contributed to either student''s death, though federal prosecutors said both
+  appear consistent with drug overdoses.'
 primary_entities:
 - Yahya Mohamed Mosleh
 - Islam Yahya Mosleh
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +150,24 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-03-mississippi-father-and-son-face-federal-drug-charges-in-ole-miss-kratom-deaths
+  headline: Mississippi father and son face federal drug charges in Ole Miss kratom
+    deaths
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.871
 - slug: 2026-09-25-investigators-find-kratom-with-two-deceased-university-of-mississippi-students
-  headline: Investigators find kratom with two deceased University of Mississippi students
+  headline: Investigators find kratom with two deceased University of Mississippi
+    students
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7404
-- slug: 2026-09-28-thirteen-penn-state-students-charged-in-operation-drugs-unlimited-cocaine-ring
-  headline: Thirteen Penn State students charged in Operation Drugs Unlimited cocaine ring
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5849
-- slug: 2026-09-30-sons-decline-facility-s-request-to-sedate-85-year-old-with-antipsychotics
-  headline: Sons decline facility's request to sedate 85-year-old with antipsychotics
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5587
-- slug: 2026-09-25-colorado-marijuana-vape-maker-recalls-49-products-over-cancer-linked-solvent
-  headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.589
-- slug: 2026-08-31-oklahoma-man-charged-with-murder-in-tulsa-area-marijuana-facility-explosion
-  headline: Oklahoma man charged with murder in Tulsa-area marijuana facility explosion
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6035
-- slug: 2026-08-21-pennsylvania-charges-14-in-alleged-penn-state-cocaine-trafficking-ring
-  headline: Pennsylvania charges 14 in alleged Penn State cocaine trafficking ring
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5672
+  strength: 0.7408
 - slug: 2026-06-16-us-states-push-to-ban-kratom-as-gas-station-heroin-concerns-mount
   headline: US states push to ban kratom as 'gas-station heroin' concerns mount
   publish_date: '2026-06-16'
   relation: related
   strength: 0.6549
-- slug: 2026-06-30-dea-watched-74-000-fentanyl-pills-reach-albuquerque-whistleblower-says
-  headline: DEA watched 74,000 fentanyl pills reach Albuquerque, whistleblower says
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5988
-- slug: 2026-07-16-dea-probes-online-ketamine-sellers-fda-warns-14-marketers
-  headline: DEA probes online ketamine sellers, FDA warns 14 marketers
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5688
-- slug: 2026-06-25-dea-asks-doj-watchdog-to-probe-fentanyl-pill-strategy-in-new-mexico
-  headline: DEA asks DOJ watchdog to probe fentanyl pill strategy in New Mexico
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5828
-- slug: 2026-06-26-house-panel-probes-nih-after-scientists-charged-with-smuggling-mpox
-  headline: House panel probes NIH after scientists charged with smuggling mpox
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5688
-- slug: 2026-04-17-mississippi-liquor-delivery-backlog-stretches-to-weeks
-  headline: Mississippi liquor delivery backlog stretches to weeks
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5949
-- slug: 2026-05-20-two-deaths-at-michigan-women-s-prison-renew-concerns-over-medical-care
-  headline: Two deaths at Michigan women’s prison renew concerns over medical care
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5669
-- slug: 2026-03-14-justice-department-charges-man-accused-of-selling-gun-to-old-dominion-shooter
-  headline: Justice Department charges man accused of selling gun to Old Dominion shooter
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.5967
-- slug: 2026-05-07-federal-authorities-arrest-18-for-allegedly-selling-drugs-at-la-s-macarthur-park
-  headline: Federal authorities arrest 18 for allegedly selling drugs at LA’s MacArthur Park
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5681
-- slug: 2026-04-30-usf-suspect-charged-with-killing-two-bangladesh-doctoral-students
-  headline: USF suspect charged with killing two Bangladesh doctoral students
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.572
-- slug: 2026-05-20-tennessee-death-row-inmate-s-lawyers-fear-expired-lethal-injection-drugs-ahead-o
-  headline: Tennessee death row inmate’s lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5593
-- slug: 2026-04-28-prosecutors-usf-suspect-asked-chatgpt-about-disposing-of-a-body
-  headline: 'Prosecutors: USF suspect asked ChatGPT about disposing of a body'
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5703
-- slug: 2026-05-06-federal-authorities-arrest-18-in-alleged-drug-sales-around-macarthur-park
-  headline: Federal authorities arrest 18 in alleged drug sales around MacArthur Park
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5653
-- slug: 2026-04-03-mississippi-lawmakers-send-bill-criminalizing-abortion-inducing-meds-to-gov-reev
-  headline: Mississippi lawmakers send bill criminalizing abortion-inducing meds to Gov. Reeves
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5792
 ---
-
 ## Federal prosecutors charge Mississippi shop clerk, son over kratom sales
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Mortgage rates climb to 7.28% in largest weekly jump since 2022
 secondary_headline: Higher oil prices have cost US households $936 on average
 publish_date: '2026-10-02'
-lede: Mortgage rates climbed to their highest level in three years this week, jumping from 7 percent to 7.28 percent on Thursday in the largest weekly increase since 2022, according to The Guardian. The 10-year Treasury yield, which underpins mortgages and other loans, reached a 24-year high as the global bond sell-off continued. Higher oil prices have cost American households an estimated $936 on average, The Guardian reported.
-nut_graf: Friday's jobs report from the Bureau of Labor Statistics showed US employers added 29,000 jobs in September, a sharp drop from the 133,000 figure tallied for August after revisions and well below economists' expectations of just under 70,000. The unemployment rate stood at 4.1 percent, according to vintage BLS data, near its lowest level over the past year. The Federal Reserve raised interest rates in September for the first time in three years, citing higher prices.
+lede: Mortgage rates climbed to their highest level in three years this week, jumping
+  from 7 percent to 7.28 percent on Thursday in the largest weekly increase since
+  2022, according to The Guardian. The 10-year Treasury yield, which underpins mortgages
+  and other loans, reached a 24-year high as the global bond sell-off continued. Higher
+  oil prices have cost American households an estimated $936 on average, The Guardian
+  reported.
+nut_graf: Friday's jobs report from the Bureau of Labor Statistics showed US employers
+  added 29,000 jobs in September, a sharp drop from the 133,000 figure tallied for
+  August after revisions and well below economists' expectations of just under 70,000.
+  The unemployment rate stood at 4.1 percent, according to vintage BLS data, near
+  its lowest level over the past year. The Federal Reserve raised interest rates in
+  September for the first time in three years, citing higher prices.
 primary_entities:
 - Bureau of Labor Statistics
 - Federal Reserve
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +67,8 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-02'
-  caption: The U.S. unemployment rate (U-3) stood at 4.1 percent in September 2026, vintage Bureau of Labor Statistics data showed.
+  caption: The U.S. unemployment rate (U-3) stood at 4.1 percent in September 2026,
+    vintage Bureau of Labor Statistics data showed.
 figures_aggregate:
   count: 1
   series_ids:
@@ -150,7 +162,7 @@ related_stories:
   headline: US 30-year mortgage rate tops 7% for first time since January 2025
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8152
+  strength: 0.8151
 - slug: 2026-10-01-30-year-mortgage-rate-climbs-to-7-28-on-bond-market-selloff
   headline: 30-year mortgage rate climbs to 7.28% on bond market selloff
   publish_date: '2026-10-01'
@@ -160,94 +172,34 @@ related_stories:
   headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7084
+  strength: 0.7086
 - slug: 2026-09-16-fed-raises-benchmark-rate-a-quarter-point-to-3-75--4-first-hike-since-2023
-  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since 2023
+  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since
+    2023
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.736
+  strength: 0.7373
 - slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
   headline: Fed rate hike falls harder on housing than AI investment
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7209
+  strength: 0.7216
 - slug: 2026-09-10-bond-selloff-could-raise-borrowing-costs-for-consumers-and-businesses
   headline: Bond selloff could raise borrowing costs for consumers and businesses
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7499
+  strength: 0.7492
 - slug: 2026-09-01-us-10-year-treasury-yield-hits-4-79-amid-renewed-middle-east-strikes
   headline: US 10-year Treasury yield hits 4.79% amid renewed Middle East strikes
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7803
+  strength: 0.7802
 - slug: 2026-09-05-us-employers-add-162-000-jobs-in-august-beating-forecasts
   headline: US employers add 162,000 jobs in August, beating forecasts
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.7089
-- slug: 2026-08-19-treasury-doubles-bond-buybacks-to-ease-30-year-yields-near-20-year-high
-  headline: Treasury doubles bond buybacks to ease 30-year yields near 20-year high
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.745
-- slug: 2026-08-20-bond-sell-off-pushes-30-year-treasury-yield-to-highest-since-2007
-  headline: Bond sell-off pushes 30-year Treasury yield to highest since 2007
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7156
-- slug: 2026-08-18-bond-selloff-lifts-30-year-treasury-yield-past-5-3-for-first-time-since-2007
-  headline: Bond selloff lifts 30-year Treasury yield past 5.3% for first time since 2007
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7057
-- slug: 2026-07-23-freddie-mac-reports-30-year-mortgage-rate-at-6-58-highest-since-july-2025
-  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July 2025
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7528
-- slug: 2026-07-16-30-year-mortgage-rate-rises-to-6-55-as-iran-war-pushes-up-bond-yields
-  headline: 30-year mortgage rate rises to 6.55% as Iran war pushes up bond yields
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7221
-- slug: 2026-03-26-mortgage-rates-jump-to-6-38-highest-in-more-than-6-months-squeezing-buyers
-  headline: Mortgage rates jump to 6.38%, highest in more than 6 months, squeezing buyers
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7833
-- slug: 2026-04-29-average-30-year-mortgage-rate-edges-up-to-6-3-as-housing-outlook-softens
-  headline: Average 30-year mortgage rate edges up to 6.3% as housing outlook softens
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7551
-- slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
-  headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7459
-- slug: 2026-05-23-rising-bond-yields-could-lift-mortgages-and-strain-the-economy
-  headline: Rising bond yields could lift mortgages and strain the economy
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7319
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7113
-- slug: 2026-03-11-average-us-mortgage-rate-rises-to-6-11-amid-war-linked-bond-jitters
-  headline: Average US mortgage rate rises to 6.11% amid war-linked bond jitters
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.7613
-- slug: 2026-06-05-30-year-mortgage-rate-holds-at-6-48-as-fed-s-limited-influence-frustrates-homebu
-  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates homebuyers
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7119
+  strength: 0.7085
 ---
-
 ## Mortgage rates climb to 7.28% in largest weekly jump since 2022
 
 **Subtype:** fact

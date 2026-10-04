@@ -2,8 +2,15 @@
 headline: Tennessee corrections commissioner Strada resigns after failed Pike execution
 secondary_headline: Christa Pike remains on ventilator after surviving execution attempt
 publish_date: '2026-10-03'
-lede: Tennessee Department of Correction Commissioner Frank Strada is resigning in the aftermath of Wednesday's failed execution of Christa Pike, Governor Bill Lee announced Saturday. Strada will leave later this month as the state launches an independent investigation into the lethal-injection procedure, which Pike survived, leaving her unconscious and on a ventilator.
-nut_graf: Pike, 50, became the first death row prisoner in the United States to undergo an execution attempt and live, according to the Guardian. Her case intensified scrutiny of Tennessee's closely guarded execution procedures and triggered demands for an explanation from people on both sides of the death-penalty debate.
+lede: Tennessee Department of Correction Commissioner Frank Strada is resigning in
+  the aftermath of Wednesday's failed execution of Christa Pike, Governor Bill Lee
+  announced Saturday. Strada will leave later this month as the state launches an
+  independent investigation into the lethal-injection procedure, which Pike survived,
+  leaving her unconscious and on a ventilator.
+nut_graf: Pike, 50, became the first death row prisoner in the United States to undergo
+  an execution attempt and live, according to the Guardian. Her case intensified scrutiny
+  of Tennessee's closely guarded execution procedures and triggered demands for an
+  explanation from people on both sides of the death-penalty debate.
 primary_entities:
 - Frank Strada
 - Christa Pike
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +152,47 @@ related_stories:
   headline: Tennessee prison chief resigns after Christa Pike's failed execution
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.9267
+  strength: 0.9269
+- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
+  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.8915
 - slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
+  headline: 'Strada''s record: five ''botched'' executions across two states since
+    2022'
   publish_date: '2026-10-03'
   relation: related
   strength: 0.86
+- slug: 2026-10-03-tennessee-bureau-of-prisons-has-no-permanent-commissioner
+  headline: Tennessee Bureau of Prisons has no permanent commissioner
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.837
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8279
+  strength: 0.8286
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8179
+  strength: 0.8193
 - slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
   headline: Christa Pike survives two Tennessee lethal injection attempts
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8162
+  strength: 0.8167
 - slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8003
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.794
-- slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
-  headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7792
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7655
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7639
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7626
-- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7457
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7482
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7451
-- slug: 2026-10-02-reporter-who-covered-nearly-500-executions-says-he-s-never-seen-an-inmate-surviv
-  headline: Reporter who covered nearly 500 executions says he's never seen an inmate survive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7285
-- slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
-  headline: Christa Pike execution set as Tennessee governor denies clemency
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7491
-- slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
-  headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7408
-- slug: 2026-09-30-sixth-circuit-halts-christa-pike-execution-an-hour-before-it-was-scheduled
-  headline: Sixth Circuit halts Christa Pike execution an hour before it was scheduled
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7276
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.731
-- slug: 2026-09-29-slemmer-s-mother-to-attend-pike-execution-holding-daughter-s-photo
-  headline: Slemmer's mother to attend Pike execution holding daughter's photo
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6998
+  strength: 0.8007
 ---
-
 ## Tennessee corrections commissioner Strada resigns after failed Pike execution
 
 **Subtype:** fact

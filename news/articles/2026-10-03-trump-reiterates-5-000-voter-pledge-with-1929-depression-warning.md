@@ -1,9 +1,14 @@
 ---
 headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
-secondary_headline: $5,000 pledge would cost more than $1 trillion, the Journal has reported
+secondary_headline: $5,000 pledge would cost more than $1 trillion, the Journal has
+  reported
 publish_date: '2026-10-03'
-lede: President Trump on Saturday reiterated his pledge to send $5,000 to every American adult if Republicans win the midterm elections, warning in an Oval Office video that a Democratic victory would bring "an economic depression, much like 1929."
-nut_graf: The reiteration came as a Wall Street Journal poll found 37% of Americans approve of Trump's job performance, the lowest of any president headed into a midterm in Journal polling dating to 1990.
+lede: President Trump on Saturday reiterated his pledge to send $5,000 to every American
+  adult if Republicans win the midterm elections, warning in an Oval Office video
+  that a Democratic victory would bring "an economic depression, much like 1929."
+nut_graf: The reiteration came as a Wall Street Journal poll found 37% of Americans
+  approve of Trump's job performance, the lowest of any president headed into a midterm
+  in Journal polling dating to 1990.
 primary_entities:
 - Donald Trump
 - Centers for Medicare and Medicaid Services
@@ -32,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -114,104 +120,43 @@ related_stories:
   headline: Trump announces one-time $90 payment for 20 million Medicare seniors
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.76
+  strength: 0.7603
 - slug: 2026-09-30-trump-sends-500-aca-refund-checks-to-nearly-1-million-ahead-of-midterms
   headline: Trump sends $500 ACA refund checks to nearly 1 million ahead of midterms
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7786
+  strength: 0.7785
+- slug: 2026-10-03-three-trump-direct-payment-pledges-since-2020-remain-unissued
+  headline: Three Trump direct-payment pledges since 2020 remain unissued
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7413
 - slug: 2026-09-16-trump-s-5-000-voter-pledge-draws-fiscal-criticism-from-republicans
   headline: Trump's $5,000 voter pledge draws fiscal criticism from Republicans
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.8046
+  strength: 0.805
 - slug: 2026-09-30-trump-pairs-anti-communist-rhetoric-with-unorthodox-economic-moves
   headline: Trump pairs anti-communist rhetoric with unorthodox economic moves
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7058
+  strength: 0.7063
 - slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
   headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8108
+  strength: 0.8113
 - slug: 2026-09-15-senate-republicans-push-back-on-trump-s-5-000-election-linked-payments
   headline: Senate Republicans push back on Trump's $5,000 election-linked payments
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7595
+  strength: 0.7603
 - slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
   headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6846
-- slug: 2026-09-10-experts-offer-different-legal-views-of-trump-s-proposed-5-000-payments
-  headline: Experts offer different legal views of Trump's proposed $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7621
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7603
-- slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
-  headline: Current tariff pace would take nearly five years to cover Trump payout
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7501
-- slug: 2026-09-10-the-guardian-says-trump-s-5-000-proposal-immediately-raised-ethical-concerns
-  headline: The Guardian says Trump’s $5,000 proposal immediately raised ethical concerns
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.747
-- slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
-  headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7485
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7322
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7267
-- slug: 2026-09-10-trump-promises-500-obamacare-refunds-to-nearly-1-million-enrollees
-  headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7202
-- slug: 2026-09-10-guardian-column-frames-trump-dallas-speech-as-desperate-last-pitch-to-voters
-  headline: Guardian column frames Trump Dallas speech as 'desperate last pitch' to voters
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.701
-- slug: 2026-09-12-lutnick-says-trump-s-5-000-dividend-would-not-be-funded-by-taxes
-  headline: Lutnick says Trump's $5,000 dividend would not be funded by taxes
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6855
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6938
-- slug: 2026-09-10-convention-goers-name-vance-and-rubio-as-top-2028-contenders
-  headline: Convention-goers name Vance and Rubio as top 2028 contenders
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6935
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-in-dallas-with-voter-pledge
-  headline: Trump closes GOP midterm convention in Dallas with voter pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6779
+  strength: 0.6842
 ---
-
 ## Trump reiterates $5,000 voter pledge with 1929 depression warning
 
 **Subtype:** fact

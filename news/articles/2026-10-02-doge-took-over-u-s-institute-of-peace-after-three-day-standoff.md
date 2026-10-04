@@ -1,9 +1,18 @@
 ---
 headline: DOGE took over U.S. Institute of Peace after three-day standoff
-secondary_headline: Federal judge ordered building returned before appeals court stayed ruling
+secondary_headline: Federal judge ordered building returned before appeals court stayed
+  ruling
 publish_date: '2026-10-02'
-lede: Nate Cavanaugh and two other young representatives of the Department of Government Efficiency arrived at the U.S. Institute of Peace on the afternoon of March 14, 2025, expecting to be admitted. Chief security officer Colin O'Brien locked the building down instead, holding the premises for three days before D.C. police escorted him out and DOGE installed Cavanaugh as the institute's new president.
-nut_graf: 'The account, adapted from Michael Lewis''s forthcoming book "Blockers: Rebels in the Deep State" (W.W. Norton & Company, October 6, 2026), illustrates how the Department of Government Efficiency took over a congressionally chartered but privately controlled institution, and how a federal judge''s order to return the building was later stayed by Trump-appointed appeals court judges.'
+lede: Nate Cavanaugh and two other young representatives of the Department of Government
+  Efficiency arrived at the U.S. Institute of Peace on the afternoon of March 14,
+  2025, expecting to be admitted. Chief security officer Colin O'Brien locked the
+  building down instead, holding the premises for three days before D.C. police escorted
+  him out and DOGE installed Cavanaugh as the institute's new president.
+nut_graf: 'The account, adapted from Michael Lewis''s forthcoming book "Blockers:
+  Rebels in the Deep State" (W.W. Norton & Company, October 6, 2026), illustrates
+  how the Department of Government Efficiency took over a congressionally chartered
+  but privately controlled institution, and how a federal judge''s order to return
+  the building was later stayed by Trump-appointed appeals court judges.'
 primary_entities:
 - Colin O'Brien
 - Nate Cavanaugh
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +152,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-30-tech-ceos-sign-morally-binding-ai-safety-pledge-at-white-house
-  headline: Tech CEOs sign 'morally binding' AI safety pledge at White House
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6183
-- slug: 2026-09-30-musk-returns-to-government-for-120-day-pentagon-warfare-study
-  headline: Musk returns to government for 120-day Pentagon warfare study
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6035
-- slug: 2026-09-30-openai-unveils-dots-suite-and-ai-agents-it-calls-more-ambitious-than-chatgpt
-  headline: OpenAI unveils 'dots' suite and AI agents it calls more ambitious than ChatGPT
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5975
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6039
-- slug: 2026-09-18-ousted-usip-board-files-emergency-motion-to-block-trump-name-carving
-  headline: Ousted USIP board files emergency motion to block Trump name carving
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6134
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6024
-- slug: 2026-09-15-gao-finds-doge-program-cost-more-than-9-billion-in-paid-administrative-leave
-  headline: GAO finds DOGE program cost more than $9 billion in paid administrative leave
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.61
-- slug: 2026-08-04-clayton-sworn-in-tuesday-as-ninth-director-of-national-intelligence
-  headline: Clayton sworn in Tuesday as ninth director of national intelligence
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6148
-- slug: 2026-07-23-musk-says-he-got-carried-away-with-trump-doge-role
-  headline: Musk says he 'got carried away' with Trump, DOGE role
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6225
-- slug: 2026-08-01-clayton-to-assume-national-intelligence-director-role-monday
-  headline: Clayton to assume national intelligence director role Monday
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6
 - slug: 2026-03-28-a-year-after-trump-s-doge-cuts-federal-workers-question-what-was-saved
   headline: A year after Trump’s DOGE cuts, federal workers question what was saved
   publish_date: '2026-03-28'
   relation: related
-  strength: 0.7136
+  strength: 0.7146
 - slug: 2026-03-27-a-year-after-trump-s-doge-cuts-workers-ask-what-was-saved
   headline: A year after Trump’s DOGE cuts, workers ask what was saved
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.7028
-- slug: 2026-06-19-pulte-takes-helm-as-acting-intelligence-chief-after-washington-standoff
-  headline: Pulte takes helm as acting intelligence chief after Washington standoff
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6269
-- slug: 2026-07-09-education-department-holds-private-call-with-disability-advocates-on-special-ed-
-  headline: Education Department holds private call with disability advocates on special ed move
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.596
-- slug: 2026-06-05-trump-calls-on-acting-intelligence-chief-pulte-to-fire-workers-shrink-agency
-  headline: Trump calls on acting intelligence chief Pulte to fire workers, shrink agency
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6267
+  strength: 0.7038
 - slug: 2026-01-29-trump-considers-housing-board-of-peace-at-disputed-washington-institute-building
-  headline: Trump considers housing Board of Peace at disputed Washington institute building
+  headline: Trump considers housing Board of Peace at disputed Washington institute
+    building
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.6727
-- slug: 2026-06-09-white-house-halts-ai-testing-unit-s-public-reports-over-security-fears
-  headline: White House halts AI testing unit's public reports over security fears
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6067
-- slug: 2026-05-22-trump-calls-off-ai-executive-order-hours-before-scheduled-signing
-  headline: Trump calls off AI executive order hours before scheduled signing
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6086
-- slug: 2026-05-23-trump-postpones-ai-executive-order-days-after-concerns-over-cybersecurity-and-sp
-  headline: Trump postpones AI executive order days after concerns over cybersecurity and speed
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6076
-- slug: 2026-05-21-trump-postpones-signing-of-ai-executive-order-over-tech-edge-concerns
-  headline: Trump postpones signing of AI executive order over tech edge concerns
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.601
+  strength: 0.6731
 ---
-
 ## DOGE took over U.S. Institute of Peace after three-day standoff
 
 **Subtype:** fact

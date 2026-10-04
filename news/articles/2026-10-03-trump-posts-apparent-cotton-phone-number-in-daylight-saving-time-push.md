@@ -2,8 +2,13 @@
 headline: Trump posts apparent Cotton phone number in daylight saving time push
 secondary_headline: Cotton reiterates opposition, cites dark winter mornings for schoolchildren
 publish_date: '2026-10-03'
-lede: President Donald Trump on Saturday posted what appeared to be Senator Tom Cotton's personal cellphone number on social media, urging Arkansans to call the Arkansas Republican and Senate Intelligence Committee chair to support legislation making daylight saving time permanent.
-nut_graf: The Sunshine Protection Act passed the House in July but faces roadblocks in the Senate, where Cotton is among the Republicans who argue the change would leave children waiting for school buses in winter darkness.
+lede: President Donald Trump on Saturday posted what appeared to be Senator Tom Cotton's
+  personal cellphone number on social media, urging Arkansans to call the Arkansas
+  Republican and Senate Intelligence Committee chair to support legislation making
+  daylight saving time permanent.
+nut_graf: The Sunshine Protection Act passed the House in July but faces roadblocks
+  in the Senate, where Cotton is among the Republicans who argue the change would
+  leave children waiting for school buses in winter darkness.
 primary_entities:
 - Donald Trump
 - Tom Cotton
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +142,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6015
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5988
-- slug: 2026-09-15-trump-dismisses-ai-safety-warnings-as-congress-stalls-legislation
-  headline: Trump dismisses AI safety warnings as Congress stalls legislation
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6124
 - slug: 2026-07-14-house-panel-advances-bill-for-permanent-daylight-saving-time
   headline: House panel advances bill for permanent daylight saving time
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.748
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6128
-- slug: 2026-07-16-trump-presses-congress-for-save-act-after-doubt-seeding-address
-  headline: Trump presses Congress for SAVE Act after doubt-seeding address
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6378
-- slug: 2026-07-10-trump-says-he-will-not-sign-housing-bill-over-stalled-voting-measure
-  headline: Trump says he will not sign housing bill over stalled voting measure
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6023
+  strength: 0.7483
 - slug: 2026-03-05-states-pursue-an-end-to-twice-a-year-clock-changes
   headline: States pursue an end to twice-a-year clock changes
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.693
-- slug: 2026-06-24-trump-to-meet-senate-republicans-amid-save-act-impasse
-  headline: Trump to meet Senate Republicans amid SAVE Act impasse
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6246
-- slug: 2026-06-18-trump-frustration-grows-as-senate-gop-leader-thune-keeps-saying-no
-  headline: Trump frustration grows as Senate GOP leader Thune keeps saying no
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6278
-- slug: 2026-06-28-house-speaker-sends-housing-bill-to-trump-predicts-law
-  headline: House speaker sends housing bill to Trump, predicts law
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.608
-- slug: 2026-06-23-trump-pushes-save-america-act-as-senate-gop-resists-on-voting-rules-and-iran
-  headline: Trump pushes SAVE America Act as Senate GOP resists on voting rules and Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6143
-- slug: 2026-06-10-trump-calls-for-short-term-fisa-extension-amid-pulte-controversy
-  headline: Trump calls for short-term FISA extension amid Pulte controversy
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6255
+  strength: 0.692
 - slug: 2026-03-12-trump-presses-save-america-act-for-midterms-as-house-gop-highlights-costs
   headline: Trump presses SAVE America Act for midterms as House GOP highlights costs
   publish_date: '2026-03-12'
   relation: related
-  strength: 0.6524
-- slug: 2026-04-18-trump-extends-surveillance-powers-to-april-30
-  headline: Trump extends surveillance powers to April 30
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6361
-- slug: 2026-04-14-trump-urges-extending-foreign-surveillance-program-as-congress-weighs-changes
-  headline: Trump urges extending foreign surveillance program as Congress weighs changes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6168
-- slug: 2026-03-13-what-to-know-about-your-health-as-the-us-springs-forward-sunday
-  headline: What to know about your health as the US springs forward Sunday
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6224
-- slug: 2026-04-15-trump-urges-congress-to-extend-section-702-foreign-surveillance-as-votes-stall
-  headline: Trump urges Congress to extend Section 702 foreign surveillance as votes stall
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6077
-- slug: 2026-03-10-trump-tells-gop-he-will-not-sign-bills-without-proof-of-citizenship-vote-plan
-  headline: Trump tells GOP he will not sign bills without proof-of-citizenship vote plan
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.616
-- slug: 2026-02-03-trump-urges-house-to-vote-quickly-to-end-partial-shutdown
-  headline: Trump urges House to vote quickly to end partial shutdown
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6177
+  strength: 0.6528
 ---
-
 ## Trump posts apparent Cotton phone number in daylight saving time push
 
 **Subtype:** fact

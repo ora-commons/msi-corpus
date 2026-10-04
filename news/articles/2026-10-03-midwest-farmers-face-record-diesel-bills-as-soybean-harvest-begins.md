@@ -2,14 +2,23 @@
 headline: Midwest farmers face record diesel bills as soybean harvest begins
 secondary_headline: Four Midwest states saw diesel jump over $3 per gallon year-on-year
 publish_date: '2026-10-03'
-lede: 'Farmers across the Midwest corn belt are bracing for record diesel bills as the soybean harvest begins, with fuel prices climbing more than $3 per gallon year-over-year in four regional states, according to figures reported by The Guardian.
+lede: 'Farmers across the Midwest corn belt are bracing for record diesel bills as
+  the soybean harvest begins, with fuel prices climbing more than $3 per gallon year-over-year
+  in four regional states, according to figures reported by The Guardian.
 
 
-  Indiana farmer Joe Hamilton told the newspaper his 2,500-acre operation in Delaware County expects to burn roughly 9,000 gallons of diesel during the harvest—about 300 gallons a day across 30 typical fall workdays.
+  Indiana farmer Joe Hamilton told the newspaper his 2,500-acre operation in Delaware
+  County expects to burn roughly 9,000 gallons of diesel during the harvest—about
+  300 gallons a day across 30 typical fall workdays.
 
 
-  Estimates cited by The Guardian suggest the war with Iran, damaged refineries in Russia and regional diesel supply disruptions could add about $12,500 in fuel costs for every 1,000 acres of crops harvested across the Midwest.'
-nut_graf: The Midwest diesel squeeze is hitting farm operations, manufacturing and school transportation simultaneously, with regional refining capacity already strained and the Strategic Petroleum Reserve at a 43-year low heading into the winter demand season.
+  Estimates cited by The Guardian suggest the war with Iran, damaged refineries in
+  Russia and regional diesel supply disruptions could add about $12,500 in fuel costs
+  for every 1,000 acres of crops harvested across the Midwest.'
+nut_graf: The Midwest diesel squeeze is hitting farm operations, manufacturing and
+  school transportation simultaneously, with regional refining capacity already strained
+  and the Strategic Petroleum Reserve at a 43-year low heading into the winter demand
+  season.
 primary_entities:
 - Joe Hamilton
 - Delaware County
@@ -54,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +166,44 @@ related_stories:
   headline: Diesel prices hit records in US and EU as wars curb global supply
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7395
+  strength: 0.7412
+- slug: 2026-10-04-truckers-trim-expenses-as-diesel-hits-us-record-6-53-a-gallon
+  headline: Truckers trim expenses as diesel hits US record $6.53 a gallon
+  publish_date: '2026-10-04'
+  relation: related
+  strength: 0.7089
 - slug: 2026-09-21-black-farmers-leader-says-diesel-at-7-a-gallon-is-straining-farm-budgets
   headline: Black farmers leader says diesel at $7 a gallon is straining farm budgets
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7816
+  strength: 0.7832
 - slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
   headline: Trump backs diesel export ban to ease record US pump prices
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7021
+  strength: 0.7032
 - slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
   headline: Diesel hits US record as freight rates climb to highest since 2022
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7123
-- slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
-  headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6993
+  strength: 0.7144
 - slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
   headline: Trump weighs diesel export ban to ease record fuel prices
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7311
+  strength: 0.7328
 - slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
   headline: Oil industry scrambles to oppose Trump's diesel export ban
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7215
+  strength: 0.7232
 - slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
+  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic
+    hopes
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.724
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7101
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7351
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7117
-- slug: 2026-09-23-trump-weighs-diesel-export-ban-as-fuel-prices-hit-record-high
-  headline: Trump weighs diesel export ban as fuel prices hit record high
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6997
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7394
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7016
-- slug: 2026-09-16-iran-war-adds-107-billion-to-us-fuel-costs-brown-estimates
-  headline: Iran war adds $107 billion to US fuel costs, Brown estimates
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7273
-- slug: 2026-09-11-average-us-diesel-price-crosses-6-per-gallon-for-the-first-time
-  headline: Average US diesel price crosses $6 per gallon for the first time
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7052
-- slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7278
-- slug: 2026-08-18-diesel-prices-climb-as-global-buyers-compete-for-shrinking-supply
-  headline: Diesel prices climb as global buyers compete for shrinking supply
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7423
-- slug: 2026-04-13-midwest-soybean-growers-face-rising-costs-amid-tariffs-iran-war-and-low-prices
-  headline: Midwest soybean growers face rising costs amid tariffs, Iran war and low prices
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.7628
-- slug: 2026-04-12-midwest-soybean-farmers-face-higher-costs-from-tariffs-and-iran-war
-  headline: Midwest soybean farmers face higher costs from tariffs and Iran war
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7351
+  strength: 0.7252
 ---
-
 ## Midwest farmers face record diesel bills as soybean harvest begins
 
 **Subtype:** fact

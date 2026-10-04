@@ -2,8 +2,22 @@
 headline: FCA engages peers over Polymarket bank-failure bets
 secondary_headline: ESMA flags prediction markets as 'rife with inside trading'
 publish_date: '2026-10-03'
-lede: The UK Financial Conduct Authority has been speaking to international regulators about online prediction markets after the Guardian reported that Polymarket, a US-owned platform, has been hosting bets on whether major banks including HSBC and Lloyds Banking Group will fail by the end of this year. The platform has taken $77,507 (£58,530) in positions on bank failures despite barring users from the UK, US, Canada, and EU. Liberal Democrat Treasury committee member Bobby Dean urged UK authorities to intervene, warning the bets could trigger bank runs.
-nut_graf: The disclosure comes as European regulators have publicly flagged prediction markets as susceptible to insider trading and market manipulation, with the European Securities and Markets Authority warning that "market manipulation and insider trading risks reach new levels" in such contexts. Academics have separately warned that the platforms create a "serious moral hazard," giving participants "an incentive to engage in corrupt, illegal, or dangerous actions in order to rig the outcome of the contract." The bank-failure bets raise particular concerns because they could compound the social-media-fuelled bank runs that helped topple Silicon Valley Bank and Credit Suisse in 2023.
+lede: The UK Financial Conduct Authority has been speaking to international regulators
+  about online prediction markets after the Guardian reported that Polymarket, a US-owned
+  platform, has been hosting bets on whether major banks including HSBC and Lloyds
+  Banking Group will fail by the end of this year. The platform has taken $77,507
+  (£58,530) in positions on bank failures despite barring users from the UK, US, Canada,
+  and EU. Liberal Democrat Treasury committee member Bobby Dean urged UK authorities
+  to intervene, warning the bets could trigger bank runs.
+nut_graf: The disclosure comes as European regulators have publicly flagged prediction
+  markets as susceptible to insider trading and market manipulation, with the European
+  Securities and Markets Authority warning that "market manipulation and insider trading
+  risks reach new levels" in such contexts. Academics have separately warned that
+  the platforms create a "serious moral hazard," giving participants "an incentive
+  to engage in corrupt, illegal, or dangerous actions in order to rig the outcome
+  of the contract." The bank-failure bets raise particular concerns because they could
+  compound the social-media-fuelled bank runs that helped topple Silicon Valley Bank
+  and Credit Suisse in 2023.
 primary_entities:
 - Polymarket
 - UK Financial Conduct Authority
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -125,104 +140,45 @@ related_stories:
   headline: New York AG James sues Polymarket U.S., alleging illegal gambling
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6827
+  strength: 0.6829
 - slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
+  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud
+    attack
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.701
+  strength: 0.7005
 - slug: 2026-09-24-polymarket-rejects-ny-gambling-suit-as-recycled-filing
   headline: Polymarket rejects NY gambling suit as 'recycled' filing
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6574
+  strength: 0.6578
 - slug: 2026-09-11-bubblemaps-finds-19-polymarket-accounts-won-98-of-bets-on-kpmg-audited-firms
-  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited firms
+  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited
+    firms
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.701
+  strength: 0.7007
 - slug: 2026-09-08-states-push-to-ban-prediction-markets-as-election-betting-expands
   headline: States push to ban prediction markets as election betting expands
   publish_date: '2026-09-08'
   relation: related
   strength: 0.677
-- slug: 2026-08-12-nyc-council-investigates-polymarket-kalshi-coinbase-gemini-titan
-  headline: NYC Council investigates Polymarket, Kalshi, Coinbase, Gemini Titan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6416
 - slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
   headline: White House probe finds it can't track staff bets on prediction markets
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7
+  strength: 0.7004
 - slug: 2026-06-26-lawmakers-call-for-federal-probe-of-polymarket-over-deceptive-advertising
   headline: Lawmakers call for federal probe of Polymarket over deceptive advertising
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.734
-- slug: 2026-07-26-wisconsin-warns-election-bets-could-cost-voters-their-ballot
-  headline: Wisconsin warns election bets could cost voters their ballot
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6467
+  strength: 0.7339
 - slug: 2026-06-21-polymarket-recruited-creators-to-film-fake-winning-bets-wsj-finds
   headline: Polymarket recruited creators to film fake winning bets, WSJ finds
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6943
-- slug: 2026-06-22-wsj-investigation-finds-polymarket-ran-secret-social-media-campaign-with-fake-wi
-  headline: WSJ investigation finds Polymarket ran secret social media campaign with fake winning bets
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6821
-- slug: 2026-07-07-bank-of-england-warns-hedge-fund-leverage-poses-financial-stability-risk
-  headline: Bank of England warns hedge fund leverage poses financial stability risk
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6562
-- slug: 2026-04-17-washington-tightens-scrutiny-of-prediction-markets-over-geopolitical-betting
-  headline: Washington tightens scrutiny of prediction markets over geopolitical betting
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7125
-- slug: 2026-04-11-polymarket-flagged-a-classified-info-trade-as-the-maduro-raid-bet-led-to-a-400-0
-  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led to a $400,000 win
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7101
-- slug: 2026-04-11-lawmakers-seek-investigations-into-well-timed-polymarket-bets-on-iran-ceasefire
-  headline: Lawmakers seek investigations into well-timed Polymarket bets on Iran ceasefire
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7001
-- slug: 2026-04-27-prediction-markets-face-tighter-scrutiny-as-officials-target-insider-trading
-  headline: Prediction markets face tighter scrutiny as officials target insider trading
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6912
-- slug: 2026-05-28-us-prosecutors-charge-google-engineer-with-insider-trading-on-polymarket
-  headline: US prosecutors charge Google engineer with insider trading on Polymarket
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6678
-- slug: 2026-04-09-newly-created-polymarket-accounts-bet-on-us-iran-ceasefire-before-trump-s-move
-  headline: Newly created Polymarket accounts bet on US-Iran ceasefire before Trump’s move
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6813
-- slug: 2026-01-11-anonymous-polymarket-trader-pockets-400-000-on-maduro-bet-raising-insider-tradin
-  headline: Anonymous Polymarket trader pockets $400,000 on Maduro bet, raising insider trading questions
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6873
-- slug: 2026-04-24-trump-threats-against-iran-spur-prediction-markets-including-trump-jr
-  headline: Trump threats against Iran spur prediction markets, including Trump Jr.
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6557
+  strength: 0.6949
 ---
-
 ## FCA engages peers over Polymarket bank-failure bets
 
 **Subtype:** fact

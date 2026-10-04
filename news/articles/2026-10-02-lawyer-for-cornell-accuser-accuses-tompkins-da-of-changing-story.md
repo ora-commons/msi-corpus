@@ -1,9 +1,16 @@
 ---
 headline: Lawyer for Cornell accuser accuses Tompkins DA of changing story
-secondary_headline: Cornell provided Snapchat group chat to prosecutors in 2024 fraternity case
+secondary_headline: Cornell provided Snapchat group chat to prosecutors in 2024 fraternity
+  case
 publish_date: '2026-10-02'
-lede: The lawyer for a woman who alleges she was drugged and raped by several men at a Cornell University fraternity house in 2024 has accused Tompkins County District Attorney Matthew Van Houten of "repeatedly changing his story" amid news coverage of the case. The BBC has contacted Van Houten's office for comment.
-nut_graf: Governor Kathy Hochul appointed state Attorney General Letitia James as a special prosecutor on Thursday, removing the case from Van Houten's oversight and giving James authority to prosecute any offences she identifies and present evidence to a grand jury.
+lede: The lawyer for a woman who alleges she was drugged and raped by several men
+  at a Cornell University fraternity house in 2024 has accused Tompkins County District
+  Attorney Matthew Van Houten of "repeatedly changing his story" amid news coverage
+  of the case. The BBC has contacted Van Houten's office for comment.
+nut_graf: Governor Kathy Hochul appointed state Attorney General Letitia James as
+  a special prosecutor on Thursday, removing the case from Van Houten's oversight
+  and giving James authority to prosecute any offences she identifies and present
+  evidence to a grand jury.
 primary_entities:
 - Kathy Hochul
 - Letitia James
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -102,102 +110,43 @@ related_stories:
   relation: related
   strength: 0.8683
 - slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
+  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape
+    case
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8536
+  strength: 0.854
 - slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
   headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8053
+  strength: 0.8056
 - slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
+  headline: Cornell student assembly calls for answers as Hochul appoints special
+    prosecutor
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7924
+  strength: 0.793
 - slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7921
+  strength: 0.7924
 - slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
   headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7797
+  strength: 0.7805
 - slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent probe of Cornell's 2024 assault response
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7913
+  strength: 0.7919
 - slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
   headline: Cornell accuser told campus police 'I was raped' in 2024 interview
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7789
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7804
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7542
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7722
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.76
-- slug: 2026-10-02-hochul-criticizes-cornell-s-handling-of-sexual-assault-case
-  headline: Hochul criticizes Cornell's handling of sexual assault case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7377
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7515
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7063
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7285
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7238
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6884
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6805
-- slug: 2026-10-03-rebecca-solnit-links-alleged-cornell-gang-rape-to-broader-rape-prone-culture
-  headline: Rebecca Solnit links alleged Cornell gang rape to broader 'rape-prone' culture
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6237
+  strength: 0.7791
 ---
-
 ## Lawyer for Cornell accuser accuses Tompkins DA of changing story
 
 **Subtype:** fact

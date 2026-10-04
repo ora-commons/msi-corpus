@@ -1,9 +1,18 @@
 ---
 headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
-secondary_headline: Compounding pharmacies now supply execution drugs with limited oversight
+secondary_headline: Compounding pharmacies now supply execution drugs with limited
+  oversight
 publish_date: '2026-10-03'
-lede: Tennessee's failed execution of Christa Pike this week has drawn fresh scrutiny of the supply chain that provides the drugs U.S. states use for lethal injections, according to The Wall Street Journal. Pike, sentenced to death in 1996 for the murder of Colleen Slemmer, remained alive after receiving two doses of pentobarbital, and officials halted the procedure and sent her to a hospital. Her attorneys said as of Thursday evening she was unconscious and on a ventilator.
-nut_graf: 'The episode has renewed attention on a shift in how states carry out capital punishment: pharmaceutical companies no longer provide drugs for executions, so states have turned to loosely or even unregulated sources for the deadly cocktails, which experts say make lethal injections less reliable.'
+lede: Tennessee's failed execution of Christa Pike this week has drawn fresh scrutiny
+  of the supply chain that provides the drugs U.S. states use for lethal injections,
+  according to The Wall Street Journal. Pike, sentenced to death in 1996 for the murder
+  of Colleen Slemmer, remained alive after receiving two doses of pentobarbital, and
+  officials halted the procedure and sent her to a hospital. Her attorneys said as
+  of Thursday evening she was unconscious and on a ventilator.
+nut_graf: 'The episode has renewed attention on a shift in how states carry out capital
+  punishment: pharmaceutical companies no longer provide drugs for executions, so
+  states have turned to loosely or even unregulated sources for the deadly cocktails,
+  which experts say make lethal injections less reliable.'
 primary_entities:
 - Christa Pike
 - Colleen Slemmer
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,7 +148,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
+  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing
+    IV'
   publish_date: '2026-10-02'
   relation: related
   strength: 0.8451
@@ -146,99 +157,41 @@ related_stories:
   headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8363
+  strength: 0.8362
+- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
+  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.8276
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8342
+  strength: 0.834
 - slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8193
+  strength: 0.8192
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.811
+  strength: 0.8111
 - slug: 2026-10-03-tennessee-prison-chief-resigns-after-christa-pike-s-failed-execution
   headline: Tennessee prison chief resigns after Christa Pike's failed execution
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7984
+  strength: 0.7985
 - slug: 2026-10-03-tennessee-corrections-commissioner-strada-resigns-after-failed-pike-execution
   headline: Tennessee corrections commissioner Strada resigns after failed Pike execution
   publish_date: '2026-10-03'
   relation: related
   strength: 0.7839
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7791
-- slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
-  headline: Christa Pike survives two Tennessee lethal injection attempts
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7816
-- slug: 2026-10-02-reporter-who-covered-nearly-500-executions-says-he-s-never-seen-an-inmate-surviv
-  headline: Reporter who covered nearly 500 executions says he's never seen an inmate survive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.763
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7622
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.738
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7445
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7364
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7433
-- slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
-  headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7447
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7437
-- slug: 2026-09-30-sixth-circuit-halts-christa-pike-execution-an-hour-before-it-was-scheduled
-  headline: Sixth Circuit halts Christa Pike execution an hour before it was scheduled
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7326
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7286
-- slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
-  headline: Christa Pike execution set as Tennessee governor denies clemency
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7407
 ---
-
 ## Pentobarbital supply chain faces scrutiny after Tennessee execution fails
 
 - Tennessee's failed execution of Christa Pike has drawn fresh scrutiny of the loosely regulated supply chain for lethal injection drugs.

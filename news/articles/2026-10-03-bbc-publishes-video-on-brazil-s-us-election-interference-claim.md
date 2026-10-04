@@ -2,8 +2,15 @@
 headline: BBC publishes video on Brazil's US election interference claim
 secondary_headline: Flavio Bolsonaro, Trump ally, challenges Lula as right-wing challenger
 publish_date: '2026-10-03'
-lede: BBC News published a video on October 3 titled "Why has Brazil accused the US of election interference?", narrated by correspondent Ione Wells. The video's synopsis identifies Flavio Bolsonaro, the son of former President Jair Bolsonaro, as a right-wing challenger and ally of US President Donald Trump, and frames Washington as backing closer ties with Brazil's right wing while Lula da Silva has accused Bolsonaro's camp of encouraging foreign interference.
-nut_graf: Washington has backed closer ties with Brazil's right wing, while Lula da Silva has accused Bolsonaro's camp of encouraging foreign interference, according to the BBC's synopsis.
+lede: BBC News published a video on October 3 titled "Why has Brazil accused the US
+  of election interference?", narrated by correspondent Ione Wells. The video's synopsis
+  identifies Flavio Bolsonaro, the son of former President Jair Bolsonaro, as a right-wing
+  challenger and ally of US President Donald Trump, and frames Washington as backing
+  closer ties with Brazil's right wing while Lula da Silva has accused Bolsonaro's
+  camp of encouraging foreign interference.
+nut_graf: Washington has backed closer ties with Brazil's right wing, while Lula da
+  Silva has accused Bolsonaro's camp of encouraging foreign interference, according
+  to the BBC's synopsis.
 primary_entities:
 - Brazil
 - United States
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,41 +167,6 @@ related_stories:
   publish_date: '2026-09-24'
   relation: related
   strength: 0.7198
-- slug: 2026-10-01-brazil-ag-office-reportedly-files-complaint-over-trump-funding-plan
-  headline: Brazil AG office reportedly files complaint over Trump funding plan
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6457
-- slug: 2026-10-01-picanha-and-prices-loom-over-brazil-s-tight-presidential-election
-  headline: Picanha and prices loom over Brazil's tight presidential election
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5856
-- slug: 2026-09-22-lula-tells-un-general-assembly-brazil-doesn-t-fit-in-anyone-s-backyard
-  headline: Lula tells UN General Assembly Brazil 'doesn't fit in anyone's backyard'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5935
-- slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
-  headline: Flávio Bolsonaro formally investigated over alleged corruption
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.636
-- slug: 2026-09-15-bbc-video-explainer-examines-trump-s-opposition-to-ai-regulation
-  headline: BBC video explainer examines Trump's opposition to AI regulation
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6003
-- slug: 2026-09-13-brazil-s-top-court-lifts-secrecy-on-flavio-bolsonaro-biopic-probe
-  headline: Brazil's top court lifts secrecy on Flavio Bolsonaro biopic probe
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6104
-- slug: 2026-09-07-bbc-names-omar-al-bayoumi-as-alleged-saudi-agent-tied-to-9-11-hijackers
-  headline: BBC names Omar al-Bayoumi as alleged Saudi agent tied to 9/11 hijackers
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5995
 - slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
   headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
   publish_date: '2026-07-30'
@@ -204,43 +177,13 @@ related_stories:
   publish_date: '2026-07-25'
   relation: related
   strength: 0.6849
-- slug: 2026-08-28-milo-yiannopoulos-apparently-detained-by-ice-in-louisiana
-  headline: Milo Yiannopoulos apparently detained by ICE in Louisiana
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.576
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
   strength: 0.6506
-- slug: 2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs
-  headline: Brazil opens 60-day consultation window on U.S. tariffs
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5838
-- slug: 2026-08-08-brazil-s-supreme-court-denies-bolsonaro-father-s-day-visit-with-sons
-  headline: Brazil's Supreme Court denies Bolsonaro Father's Day visit with sons
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.579
-- slug: 2026-08-05-us-revokes-brazil-ambassador-s-visa-in-diplomatic-escalation
-  headline: US revokes Brazil ambassador's visa in diplomatic escalation
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5865
-- slug: 2026-07-31-brazil-supreme-court-authorizes-probe-into-lula-s-son-over-medical-marijuana-lob
-  headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana lobbying
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5807
-- slug: 2026-07-27-lula-and-xi-agree-to-accelerate-mercosur-china-trade-talks-after-u-s-tariffs
-  headline: Lula and Xi agree to accelerate Mercosur-China trade talks after U.S. tariffs
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.577
 ---
-
 ## BBC publishes video on Brazil's US election interference claim
 
 **Subtype:** fact

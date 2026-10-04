@@ -1,9 +1,18 @@
 ---
 headline: Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
-secondary_headline: Arrests, Cracker Barrel conversion and 2008 crisis drove his political shift
+secondary_headline: Arrests, Cracker Barrel conversion and 2008 crisis drove his political
+  shift
 publish_date: '2026-10-04'
-lede: MIAMI BEACH, Fla. — Rep. Byron Donalds's bid for Florida governor is built on a personal transformation story that stretches from crack vials on the corners of his Crown Heights, Brooklyn, neighborhood through two arrests as a young man in Florida, a parking-lot religious conversion outside a Cracker Barrel, and a political shift driven by the 2008 financial crisis. The 47-year-old three-term Republican congressman is deploying that biography as the centerpiece of his campaign against Democrat David Jolly.
-nut_graf: Donors have funneled more than $130 million into Donalds's race. The congressman is still expected to win a contest that would make him Florida's first Black governor if he defeats Jolly in November.
+lede: MIAMI BEACH, Fla. — Rep. Byron Donalds's bid for Florida governor is built on
+  a personal transformation story that stretches from crack vials on the corners of
+  his Crown Heights, Brooklyn, neighborhood through two arrests as a young man in
+  Florida, a parking-lot religious conversion outside a Cracker Barrel, and a political
+  shift driven by the 2008 financial crisis. The 47-year-old three-term Republican
+  congressman is deploying that biography as the centerpiece of his campaign against
+  Democrat David Jolly.
+nut_graf: Donors have funneled more than $130 million into Donalds's race. The congressman
+  is still expected to win a contest that would make him Florida's first Black governor
+  if he defeats Jolly in November.
 primary_entities:
 - Byron Donalds
 - Donald Trump
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.65
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,62 +153,28 @@ related_stories:
   headline: Donalds navigates Trump ties in tightening Florida governor's race
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.8445
+  strength: 0.8446
 - slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
   headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6898
+  strength: 0.6889
 - slug: 2026-09-22-donalds-strips-trump-mentions-from-campaign-website
   headline: Donalds strips Trump mentions from campaign website
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7033
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.629
+  strength: 0.7021
 - slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
+  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's
+    race
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6997
+  strength: 0.699
 - slug: 2026-08-18-crowded-florida-gop-primary-for-donalds-seat-turns-on-candidates-roots
   headline: Crowded Florida GOP primary for Donalds' seat turns on candidates' roots
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6991
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6215
-- slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
-  headline: Record seven Black gubernatorial nominees set for November ballots
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.647
-- slug: 2026-08-19-angie-nixon-defeats-vindman-in-florida-democratic-senate-primary
-  headline: Angie Nixon defeats Vindman in Florida Democratic Senate primary
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6335
-- slug: 2026-08-14-democratic-socialist-oliver-larkin-challenges-jared-moskowitz-in-florida
-  headline: Democratic socialist Oliver Larkin challenges Jared Moskowitz in Florida
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.621
-- slug: 2026-07-20-donalds-unveils-bill-to-require-ai-data-centers-to-self-fund-power-and-water
-  headline: Donalds unveils bill to require AI data centers to self-fund power and water
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.624
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6261
+  strength: 0.6986
 - slug: 2026-05-22-trump-veers-off-topic-in-new-york-touts-lawler-salt-tax-cuts
   headline: Trump veers off-topic in New York, touts Lawler SALT tax cuts
   publish_date: '2026-05-22'
@@ -208,39 +184,14 @@ related_stories:
   headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6501
+  strength: 0.6502
 - slug: 2026-03-25-democrat-emily-gregory-flips-florida-seat-saying-she-welcomes-conversation-with-
-  headline: Democrat Emily Gregory flips Florida seat, saying she welcomes conversation with Trump
+  headline: Democrat Emily Gregory flips Florida seat, saying she welcomes conversation
+    with Trump
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.6637
-- slug: 2026-05-23-trump-veered-off-topic-in-new-york-while-promoting-salt-tax-cuts
-  headline: Trump veered off-topic in New York while promoting SALT tax cuts
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.633
-- slug: 2026-01-12-florida-lt-gov-jay-collins-enters-2026-governor-race-against-trump-backed-donald
-  headline: Florida Lt. Gov. Jay Collins enters 2026 governor race against Trump-backed Donalds
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6633
-- slug: 2026-05-21-trump-veers-off-topic-at-new-york-rally-touts-tax-cuts-amid-midterm-push
-  headline: Trump veers off-topic at New York rally, touts tax cuts amid midterm push
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6213
-- slug: 2026-03-24-democrat-emily-gregory-wins-florida-seat-covering-mar-a-lago-in-special-election
-  headline: Democrat Emily Gregory wins Florida seat covering Mar-a-Lago in special election
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6449
-- slug: 2026-03-26-democrat-emily-gregory-wins-florida-special-election-trump-backed-opponent-loses
-  headline: Democrat Emily Gregory wins Florida special election, Trump-backed opponent loses
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6365
+  strength: 0.6639
 ---
-
 ## Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
 
 **Subtype:** fact

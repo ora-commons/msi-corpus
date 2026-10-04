@@ -1,9 +1,16 @@
 ---
 headline: Salinas named least affordable US city for the middle class
-secondary_headline: Rent-stabilization referendum heads to November ballot after council repeal
+secondary_headline: Rent-stabilization referendum heads to November ballot after council
+  repeal
 publish_date: '2026-10-03'
-lede: A Brookings Institution analysis has named Salinas, California, the least affordable city in the United States for the middle class, finding that nearly 60% of middle-class households in the area cannot afford basic necessities — a rate double the national average.
-nut_graf: The Guardian described the farming region as "at the sharp edge of a national affordability crisis that is reshaping politics across the US, and much of the rest of the world." Housing costs are now the top concern for voters aged 18 to 34, according to a recent CNBC survey.
+lede: A Brookings Institution analysis has named Salinas, California, the least affordable
+  city in the United States for the middle class, finding that nearly 60% of middle-class
+  households in the area cannot afford basic necessities — a rate double the national
+  average.
+nut_graf: The Guardian described the farming region as "at the sharp edge of a national
+  affordability crisis that is reshaping politics across the US, and much of the rest
+  of the world." Housing costs are now the top concern for voters aged 18 to 34, according
+  to a recent CNBC survey.
 primary_entities:
 - Salinas, California
 - Brookings Institution
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,109 +143,8 @@ cross_article_links:
   strength: 0.5214
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.613
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5894
-- slug: 2026-09-22-three-women-in-their-20s-describe-life-without-bank-of-mum-and-dad
-  headline: Three women in their 20s describe life without 'Bank of Mum and Dad
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5595
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5673
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5627
-- slug: 2026-09-14-airbnb-commits-250-million-to-affordable-housing-through-new-accelerator
-  headline: Airbnb commits $250 million to affordable housing through new accelerator
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5733
-- slug: 2026-09-07-affordable-designated-units-sit-empty-as-poorest-renters-cannot-pay
-  headline: Affordable-designated units sit empty as poorest renters cannot pay
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5983
-- slug: 2026-09-10-san-francisco-mayor-declares-rent-emergency-targets-evictions-and-rent-spikes
-  headline: San Francisco mayor declares rent emergency, targets evictions and rent spikes
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5783
-- slug: 2026-08-11-most-california-cities-and-counties-fall-short-of-market-rate-housing-goals
-  headline: Most California cities and counties fall short of market-rate housing goals
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5609
-- slug: 2026-07-30-renter-owner-wealth-gap-at-highest-level-since-1989-analysis-finds
-  headline: Renter-owner wealth gap at highest level since 1989, analysis finds
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5672
-- slug: 2026-07-23-lehigh-acres-draws-priced-out-florida-home-buyers-with-310-000-median-sale-price
-  headline: Lehigh Acres draws priced-out Florida home buyers with $310,000 median sale price
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5741
-- slug: 2026-07-27-u-s-big-cities-lose-children-as-families-move-due-to-costs
-  headline: U.S. big cities lose children as families move due to costs
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5561
-- slug: 2026-07-06-santa-monica-declares-fiscal-distress-amid-230m-in-settlements-falling-tourism
-  headline: Santa Monica declares fiscal distress amid $230M in settlements, falling tourism
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5565
-- slug: 2026-06-19-economic-anxiety-spreads-to-wealthiest-americans-poll-finds
-  headline: Economic Anxiety Spreads to Wealthiest Americans, Poll Finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5787
-- slug: 2026-06-19-obama-center-opening-stirs-pride-and-displacement-fears-on-chicago-s-south-side
-  headline: Obama Center opening stirs pride and displacement fears on Chicago's South Side
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5642
-- slug: 2026-06-16-economist-warns-trillionaire-era-threatens-democracy
-  headline: Economist warns trillionaire era threatens democracy
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5585
-- slug: 2026-06-01-child-poverty-rates-and-cost-of-living-dominate-jersey-election-debate
-  headline: Child poverty rates and cost of living dominate Jersey election debate
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5719
-- slug: 2026-06-10-new-york-candy-stores-thrive-despite-economic-gloom-as-shoppers-seek-affordable-
-  headline: New York candy stores thrive despite economic gloom as shoppers seek affordable treats
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5569
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5618
-- slug: 2026-02-25-spanberger-contrasts-trump-s-golden-age-as-democrats-sharpen-affordability
-  headline: Spanberger contrasts Trump’s “golden age” as Democrats sharpen affordability
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5734
+related_stories: []
 ---
-
 ## Salinas named least affordable US city for the middle class
 
 **Subtype:** fact

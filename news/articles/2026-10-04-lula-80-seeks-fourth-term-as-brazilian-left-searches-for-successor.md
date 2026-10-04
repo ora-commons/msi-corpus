@@ -2,8 +2,17 @@
 headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
 secondary_headline: Lula expected to advance to Oct. 25 runoff against Flávio Bolsonaro
 publish_date: '2026-10-04'
-lede: Brazilian President Luiz Inácio Lula da Silva, 80, is seeking a fourth term in Sunday's first-round vote, with a likely Oct. 25 runoff against Sen. Flávio Bolsonaro, the 45-year-old son of former President Jair Bolsonaro. A victory would make da Silva one of the world's longest-serving democratically elected leaders, but his enduring grip on the Workers' Party he co-founded has left it without a clear successor as the broader South American left suffers a string of regional defeats.
-nut_graf: Sunday's election serves as a test of a wager da Silva has made about his own indispensability. He maintains he is the only person capable of beating the country's right-wing opposition. A loss in the likely runoff could leave the Workers' Party shut out of power for years, becoming another Latin American political movement that fails to outlive its founders.
+lede: Brazilian President Luiz Inácio Lula da Silva, 80, is seeking a fourth term
+  in Sunday's first-round vote, with a likely Oct. 25 runoff against Sen. Flávio Bolsonaro,
+  the 45-year-old son of former President Jair Bolsonaro. A victory would make da
+  Silva one of the world's longest-serving democratically elected leaders, but his
+  enduring grip on the Workers' Party he co-founded has left it without a clear successor
+  as the broader South American left suffers a string of regional defeats.
+nut_graf: Sunday's election serves as a test of a wager da Silva has made about his
+  own indispensability. He maintains he is the only person capable of beating the
+  country's right-wing opposition. A loss in the likely runoff could leave the Workers'
+  Party shut out of power for years, becoming another Latin American political movement
+  that fails to outlive its founders.
 primary_entities:
 - Luiz Inácio Lula da Silva
 - Flávio Bolsonaro
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,44 @@ related_stories:
   headline: Brazil's tight election tests its ability to say 'no' to Trump
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.8075
+  strength: 0.8084
 - slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
   headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7195
+  strength: 0.7199
 - slug: 2026-10-01-picanha-and-prices-loom-over-brazil-s-tight-presidential-election
   headline: Picanha and prices loom over Brazil's tight presidential election
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6833
+  strength: 0.6834
 - slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
   headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7023
-- slug: 2026-10-01-brazil-ag-office-reportedly-files-complaint-over-trump-funding-plan
-  headline: Brazil AG office reportedly files complaint over Trump funding plan
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6329
+  strength: 0.7021
 - slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
   headline: Democrats ask Rubio to address alleged US interference in Brazil election
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6552
+  strength: 0.6551
 - slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
   headline: Flávio Bolsonaro formally investigated over alleged corruption
   publish_date: '2026-09-11'
   relation: related
   strength: 0.6802
-- slug: 2026-09-13-brazil-s-top-court-lifts-secrecy-on-flavio-bolsonaro-biopic-probe
-  headline: Brazil's top court lifts secrecy on Flavio Bolsonaro biopic probe
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6414
-- slug: 2026-08-17-indigenous-environmental-groups-sue-to-halt-lula-backed-amazon-oil-drilling
-  headline: Indigenous, environmental groups sue to halt Lula-backed Amazon oil drilling
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6365
 - slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
   headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.684
+  strength: 0.6845
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6816
-- slug: 2026-08-12-chilean-commentary-urges-latin-american-attention-to-dsa-growth
-  headline: Chilean commentary urges Latin American attention to DSA growth
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6354
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6717
-- slug: 2026-07-31-brazil-supreme-court-authorizes-probe-into-lula-s-son-over-medical-marijuana-lob
-  headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana lobbying
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6491
-- slug: 2026-06-17-brazil-court-convicts-eduardo-bolsonaro-of-coercion-sentences-him-to-4-years
-  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to 4 years
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6522
-- slug: 2026-03-02-bolsonaro-supporters-rally-in-brazil-as-election-fight-turns-to-fl-vio
-  headline: Bolsonaro supporters rally in Brazil as election fight turns to Flávio
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6933
-- slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
-  headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6397
-- slug: 2026-05-01-brazil-lawmakers-override-veto-to-reduce-bolsonaro-s-27-year-prison-term
-  headline: Brazil lawmakers override veto to reduce Bolsonaro’s 27-year prison term
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6616
-- slug: 2026-02-15-lula-celebrated-at-rio-carnival-parade-as-critics-seek-legal-action
-  headline: Lula celebrated at Rio Carnival parade as critics seek legal action
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.6793
-- slug: 2026-04-30-brazil-s-senate-rejects-lula-s-supreme-court-nominee-jorge-messias
-  headline: Brazil’s Senate rejects Lula’s Supreme Court nominee Jorge Messias
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6546
+  strength: 0.6817
 ---
-
 ## Lula, 80, seeks fourth term as Brazilian left searches for successor
 
 **Subtype:** fact

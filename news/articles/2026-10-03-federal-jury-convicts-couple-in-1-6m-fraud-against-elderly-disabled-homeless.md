@@ -2,8 +2,14 @@
 headline: Federal jury convicts couple in $1.6M fraud against elderly, disabled, homeless
 secondary_headline: Some 'clients' were already dead, prosecutors told jury
 publish_date: '2026-10-03'
-lede: A federal jury in Utica, New York convicted Jael Watts and Luis Pino-Copete on Friday of using a shell company to steal more than $1.6 million from federal programs serving elderly, disabled and homeless people, prosecutors said.
-nut_graf: The conviction follows a six-year scheme that sought more than $13 million from federal reimbursements using stolen identities and fabricated employment and customer records. Prosecutors alleged the defendants spent the proceeds on luxury cars, designer clothing and international travel while billing programs intended for elderly, disabled and homeless people.
+lede: A federal jury in Utica, New York convicted Jael Watts and Luis Pino-Copete
+  on Friday of using a shell company to steal more than $1.6 million from federal
+  programs serving elderly, disabled and homeless people, prosecutors said.
+nut_graf: The conviction follows a six-year scheme that sought more than $13 million
+  from federal reimbursements using stolen identities and fabricated employment and
+  customer records. Prosecutors alleged the defendants spent the proceeds on luxury
+  cars, designer clothing and international travel while billing programs intended
+  for elderly, disabled and homeless people.
 primary_entities:
 - Jael Watts
 - Luis Pino-Copete
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +142,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-20-romanian-crime-rings-exploit-chip-less-u-s-welfare-cards-at-scale
-  headline: Romanian crime rings exploit chip-less U.S. welfare cards at scale
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5916
-- slug: 2026-09-14-inmates-use-contraband-phones-to-run-scams-from-u-s-prisons
-  headline: Inmates use contraband phones to run scams from U.S. prisons
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5917
-- slug: 2026-09-04-williams-stapleton-pleads-guilty-to-fraud-in-new-mexico-education-case
-  headline: Williams Stapleton pleads guilty to fraud in New Mexico education case
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5881
-- slug: 2026-08-14-jury-convicts-former-new-mexico-lawmaker-of-school-fund-kickback-scheme
-  headline: Jury convicts former New Mexico lawmaker of school fund kickback scheme
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5915
-- slug: 2026-06-23-justice-department-unveils-6-5-billion-healthcare-fraud-crackdown
-  headline: Justice Department unveils $6.5 billion healthcare fraud crackdown
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6416
-- slug: 2026-05-17-three-sentenced-in-bear-costume-car-insurance-scam-in-california
-  headline: Three sentenced in bear costume car insurance scam in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6367
 - slug: 2026-04-10-state-ag-rob-bonta-charges-21-in-hospice-services-fraud-scheme
   headline: State AG Rob Bonta charges 21 in hospice services fraud scheme
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.6532
-- slug: 2026-06-04-doj-secures-6-healthcare-fraud-convictions-in-3-weeks
-  headline: DOJ secures 6 healthcare fraud convictions in 3 weeks
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6106
-- slug: 2026-04-28-former-alabama-tackle-pleads-guilty-to-fraud-scheme-impersonating-nfl-players
-  headline: Former Alabama tackle pleads guilty to fraud scheme impersonating NFL players
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.629
-- slug: 2026-04-17-former-alabama-player-charged-in-20m-nfl-impersonation-fraud-scheme
-  headline: Former Alabama player charged in $20M NFL impersonation fraud scheme
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.619
-- slug: 2026-05-21-key-figure-in-minnesota-fraud-case-gets-nearly-42-years-in-prison
-  headline: Key figure in Minnesota fraud case gets nearly 42 years in prison
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5935
-- slug: 2026-04-16-santacon-organizer-stefan-pildes-charged-with-wire-fraud-over-charity-funds
-  headline: SantaCon organizer Stefan Pildes charged with wire fraud over charity funds
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5991
-- slug: 2026-04-03-federal-officials-arrest-8-in-los-angeles-area-medicare-health-care-fraud
-  headline: Federal officials arrest 8 in Los Angeles-area Medicare health care fraud
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6035
-- slug: 2026-03-31-four-arrested-in-nyc-homeless-shelter-bribery-probe-council-member-and-hochul-ai
-  headline: Four arrested in NYC homeless shelter bribery probe; council member and Hochul aide named
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6014
-- slug: 2026-03-21-jury-clears-ted-dibiase-jr-in-mississippi-welfare-fraud-trial
-  headline: Jury clears Ted DiBiase Jr. in Mississippi welfare fraud trial
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6039
-- slug: 2026-04-29-judge-criticizes-santacon-during-organizer-s-first-fraud-court-appearance
-  headline: Judge criticizes SantaCon during organizer’s first fraud-court appearance
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5877
-- slug: 2026-01-26-la-homeless-charity-ceo-charged-in-23-million-fraud-scheme
-  headline: LA homeless charity CEO charged in $23 million fraud scheme
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6114
-- slug: 2026-04-20-gotti-s-grandson-sentenced-to-15-months-for-covid-19-loan-fraud
-  headline: Gotti's grandson sentenced to 15 months for COVID-19 loan fraud
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5901
-- slug: 2026-04-11-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5927
-- slug: 2026-02-25-former-san-francisco-homeless-charity-ceo-faces-felony-theft-charges
-  headline: Former San Francisco homeless charity CEO faces felony theft charges
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6042
+  strength: 0.6543
 ---
-
 ## Federal jury convicts couple in $1.6M fraud against elderly, disabled, homeless
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
-headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+  probe
 secondary_headline: Inspection records find chains failed up to 62% of price checks
 publish_date: '2026-10-03'
-lede: Rep. Becca Balint, D-Vt., called on the Federal Trade Commission to investigate 7-Eleven and Circle K after a Guardian investigation found the chains frequently charge more at the register than the prices on shelves, prompting four other House Democrats to publicly press the companies on the issue. The lawmakers — all Democrats — said the practice hits working families already struggling with affordability, and Balint urged the FTC to hold the companies accountable if the discrepancies are deliberate.
-nut_graf: The calls for federal action come as affordability has emerged as a central political issue. An AP-NORC poll released Thursday found that just 17% of Americans approve of President Donald Trump's handling of the cost of living. Trump has dismissed affordability concerns as a 'hoax' and a 'con job' perpetrated by Democrats.
+lede: Rep. Becca Balint, D-Vt., called on the Federal Trade Commission to investigate
+  7-Eleven and Circle K after a Guardian investigation found the chains frequently
+  charge more at the register than the prices on shelves, prompting four other House
+  Democrats to publicly press the companies on the issue. The lawmakers — all Democrats
+  — said the practice hits working families already struggling with affordability,
+  and Balint urged the FTC to hold the companies accountable if the discrepancies
+  are deliberate.
+nut_graf: The calls for federal action come as affordability has emerged as a central
+  political issue. An AP-NORC poll released Thursday found that just 17% of Americans
+  approve of President Donald Trump's handling of the cost of living. Trump has dismissed
+  affordability concerns as a 'hoax' and a 'con job' perpetrated by Democrats.
 primary_entities:
 - 7-Eleven
 - Circle K
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -126,107 +137,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
+  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records
+    and reporting show
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8002
+  strength: 0.8
 - slug: 2026-10-01-seven-senators-demand-data-on-childcare-closures-rising-costs
   headline: Seven senators demand data on childcare closures, rising costs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6728
+  strength: 0.6723
 - slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
+  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards,
+    child care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6549
+  strength: 0.6553
 - slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
   headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6532
-- slug: 2026-09-17-baldwin-scott-ask-ftc-to-investigate-amazon-walmart-chatbots
-  headline: Baldwin, Scott ask FTC to investigate Amazon, Walmart chatbots
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6502
+  strength: 0.6539
 - slug: 2026-09-15-american-businesses-split-on-price-hikes-as-energy-costs-climb
   headline: American businesses split on price hikes as energy costs climb
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6528
-- slug: 2026-09-09-retailers-tighten-return-policies-as-shoppers-face-new-fees-and-shorter-windows
-  headline: Retailers tighten return policies as shoppers face new fees and shorter windows
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6476
+  strength: 0.653
 - slug: 2026-09-01-house-republicans-investigate-six-labor-unions-over-political-spending-claims
-  headline: House Republicans investigate six labor unions over political spending claims
+  headline: House Republicans investigate six labor unions over political spending
+    claims
   publish_date: '2026-09-01'
   relation: related
   strength: 0.6598
 - slug: 2026-08-31-ftc-and-22-states-sue-amazon-alleging-ad-bid-manipulation-overcharged-sellers
-  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged sellers
+  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged
+    sellers
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6513
-- slug: 2026-08-16-fda-traceability-rule-delayed-until-2028-as-cyclosporiasis-outbreak-spreads
-  headline: FDA traceability rule delayed until 2028 as cyclosporiasis outbreak spreads
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6463
+  strength: 0.6502
 - slug: 2026-07-22-trade-chief-denies-tariffs-raised-prices-as-democrats-push-back
   headline: Trade chief denies tariffs raised prices as Democrats push back
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6522
-- slug: 2026-07-16-trump-cfpb-overhaul-costs-consumers-26-5-billion-senate-report-finds
-  headline: Trump CFPB overhaul costs consumers $26.5 billion, Senate report finds
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6582
-- slug: 2026-07-03-doj-and-ftc-urge-state-attorneys-general-to-investigate-gasoline-pricing
-  headline: DOJ and FTC urge state attorneys general to investigate gasoline pricing
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6776
-- slug: 2026-06-05-affordability-crisis-jams-up-rfk-jr-s-food-agenda
-  headline: Affordability Crisis Jams Up RFK Jr.’s Food Agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6978
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6967
-- slug: 2026-06-19-rfk-jr-s-healthy-eating-tour-meets-voter-ire-over-health-costs
-  headline: RFK Jr.’s Healthy-Eating Tour Meets Voter Ire Over Health Costs
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6687
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6566
-- slug: 2026-06-22-california-drivers-sue-gas-stations-over-ai-powered-price-fixing
-  headline: California drivers sue gas stations over AI-powered price fixing
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6555
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6636
-- slug: 2026-05-22-trump-loosens-refrigerant-rules-framing-move-as-lowering-grocery-costs
-  headline: Trump loosens refrigerant rules, framing move as lowering grocery costs
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6593
+  strength: 0.6527
 ---
-
 ## House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
 
 **Subtype:** fact

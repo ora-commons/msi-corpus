@@ -2,8 +2,14 @@
 headline: Tennessee Bureau of Prisons has no permanent commissioner
 secondary_headline: Strada resigned Saturday; Lee has paused executions through year
 publish_date: '2026-10-03'
-lede: Tennessee's Bureau of Prisons has no permanent commissioner, UPI reported Saturday, citing The New York Times. Frank Strada resigned Saturday and Gov. Bill Lee has not named a replacement. Christa Pike remains unconscious and on a ventilator after surviving two doses of the drug used in the lethal injection, which was botched Tuesday.
-nut_graf: 'The bureau''s lack of permanent leadership coincides with a prior failed execution attempt: in May, the state was unable to execute Tony Carruthers after staff could not find a vein after several attempts, UPI reported.'
+lede: Tennessee's Bureau of Prisons has no permanent commissioner, UPI reported Saturday,
+  citing The New York Times. Frank Strada resigned Saturday and Gov. Bill Lee has
+  not named a replacement. Christa Pike remains unconscious and on a ventilator after
+  surviving two doses of the drug used in the lethal injection, which was botched
+  Tuesday.
+nut_graf: 'The bureau''s lack of permanent leadership coincides with a prior failed
+  execution attempt: in May, the state was unable to execute Tony Carruthers after
+  staff could not find a vein after several attempts, UPI reported.'
 primary_entities:
 - Frank Strada
 - Christa Pike
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -127,8 +134,14 @@ related_stories:
   publish_date: '2026-10-03'
   relation: related
   strength: 0.8215
+- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
+  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.8132
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
   strength: 0.7957
@@ -138,12 +151,14 @@ related_stories:
   relation: related
   strength: 0.7908
 - slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
+  headline: 'Strada''s record: five ''botched'' executions across two states since
+    2022'
   publish_date: '2026-10-03'
   relation: related
   strength: 0.7748
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7444
@@ -152,73 +167,7 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.7558
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7358
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7264
-- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
-  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7028
-- slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
-  headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7021
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7066
-- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6841
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6815
-- slug: 2026-08-08-tennessee-court-keeps-execution-doctor-s-possible-role-undisclosed
-  headline: Tennessee court keeps execution doctor's possible role undisclosed
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6948
-- slug: 2026-05-22-tennessee-halts-execution-after-failed-iv-insertion-reprieve-granted
-  headline: Tennessee Halts Execution After Failed IV Insertion; Reprieve Granted
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.766
-- slug: 2026-07-16-sister-files-complaint-over-doctor-in-failed-tennessee-execution
-  headline: Sister files complaint over doctor in failed Tennessee execution
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6931
-- slug: 2026-05-21-tennessee-halts-tony-carruthers-execution-attempt-after-iv-difficulties
-  headline: Tennessee halts Tony Carruthers execution attempt after IV difficulties
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7573
-- slug: 2026-05-23-tennessee-pauses-execution-of-tony-carruthers-after-iv-difficulties
-  headline: Tennessee pauses execution of Tony Carruthers after IV difficulties
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7538
-- slug: 2026-05-20-tennessee-calls-off-tony-carruthers-execution-after-iv-line-failures-governor-gr
-  headline: Tennessee calls off Tony Carruthers execution after IV line failures; governor grants year reprieve
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.75
 ---
-
 ## Tennessee Bureau of Prisons has no permanent commissioner
 
 **Subtype:** fact

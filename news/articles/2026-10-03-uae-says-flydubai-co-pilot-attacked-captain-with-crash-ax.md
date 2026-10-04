@@ -2,8 +2,20 @@
 headline: UAE says Flydubai co-pilot attacked captain with crash ax
 secondary_headline: Oman had previously banned the alleged attacker from flying
 publish_date: '2026-10-03'
-lede: The United Arab Emirates' attorney general said Saturday that a co-pilot on Flydubai flight FZ1073 from Dubai to Tel Aviv attempted a "terrorist act" by attacking the captain with a crash ax during a flight carrying 170 passengers. Captain Smit Machchhar, an Indian national, was seriously injured in the attack but managed to open the cockpit door to allow crew and passengers, including off-duty pilots, to subdue the alleged attacker before the Boeing 737 MAX made an emergency landing in Saudi Arabia.
-nut_graf: UPI reported the Boeing 737 MAX attack occurred about two hours into the 3.5-hour flight from Dubai to Tel Aviv. UAE Attorney General Hamad Saif al Shamsi said the co-pilot began executing his plan during the flight, attacking the captain inside the flight deck with the ax and attempting to take control of the aircraft. The Wall Street Journal reported that the alleged attacker, Hamam al-Hammami of Oman, had previously been banned from flying by Oman over concerns he had adopted radical ideological views.
+lede: The United Arab Emirates' attorney general said Saturday that a co-pilot on
+  Flydubai flight FZ1073 from Dubai to Tel Aviv attempted a "terrorist act" by attacking
+  the captain with a crash ax during a flight carrying 170 passengers. Captain Smit
+  Machchhar, an Indian national, was seriously injured in the attack but managed to
+  open the cockpit door to allow crew and passengers, including off-duty pilots, to
+  subdue the alleged attacker before the Boeing 737 MAX made an emergency landing
+  in Saudi Arabia.
+nut_graf: UPI reported the Boeing 737 MAX attack occurred about two hours into the
+  3.5-hour flight from Dubai to Tel Aviv. UAE Attorney General Hamad Saif al Shamsi
+  said the co-pilot began executing his plan during the flight, attacking the captain
+  inside the flight deck with the ax and attempting to take control of the aircraft.
+  The Wall Street Journal reported that the alleged attacker, Hamam al-Hammami of
+  Oman, had previously been banned from flying by Oman over concerns he had adopted
+  radical ideological views.
 primary_entities:
 - Hamam al-Hammami
 - Smit Machchhar
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,45 @@ related_stories:
   headline: Flydubai co-pilot held as Saudi-led probe seeks cockpit attack motive
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7959
+  strength: 0.7963
 - slug: 2026-10-01-flydubai-halts-israel-flights-after-passengers-subdue-cockpit-attacker
   headline: Flydubai halts Israel flights after passengers subdue cockpit attacker
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7531
+  strength: 0.7533
 - slug: 2026-09-30-crew-and-passengers-subdue-flydubai-cockpit-attacker-before-saudi-landing
   headline: Crew and passengers subdue FlyDubai cockpit attacker before Saudi landing
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7126
+  strength: 0.713
 - slug: 2026-10-02-israeli-airlines-receive-clearance-to-evacuate-passengers-stranded-in-dubai
-  headline: Israeli airlines receive clearance to evacuate passengers stranded in Dubai
+  headline: Israeli airlines receive clearance to evacuate passengers stranded in
+    Dubai
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.692
+  strength: 0.6927
 - slug: 2026-10-02-flydubai-hired-co-pilot-oman-had-banned-from-flying
   headline: FlyDubai hired co-pilot Oman had banned from flying
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6837
-- slug: 2026-09-11-saudi-arabia-shuts-east-west-pipeline-after-strikes-from-iraq
-  headline: Saudi Arabia shuts East-West pipeline after strikes from Iraq
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6162
-- slug: 2026-08-12-catering-truck-decoy-hides-trump-from-apparent-iran-missile-threat
-  headline: Catering-truck decoy hides Trump from apparent Iran missile threat
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6054
+  strength: 0.6844
 - slug: 2026-03-15-uae-briefly-closes-then-reopens-airspace-after-iranian-missile-threats
   headline: UAE briefly closes then reopens airspace after Iranian missile threats
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6617
+  strength: 0.6624
 - slug: 2026-03-02-limited-evacuation-flights-begin-from-uae-as-war-disrupts-middle-east-travel
-  headline: Limited evacuation flights begin from UAE as war disrupts Middle East travel
+  headline: Limited evacuation flights begin from UAE as war disrupts Middle East
+    travel
   publish_date: '2026-03-02'
   relation: related
-  strength: 0.6566
-- slug: 2026-06-03-iranian-strikes-shut-kuwait-airport-as-u-s--iran-fighting-intensifies
-  headline: Iranian strikes shut Kuwait Airport as U.S.-Iran fighting intensifies
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.609
+  strength: 0.6572
 - slug: 2026-03-02-dubai-s-haven-image-is-shaken-by-iranian-airstrikes-damage-in-uae
   headline: Dubai’s haven image is shaken by Iranian airstrikes, damage in UAE
   publish_date: '2026-03-02'
   relation: related
-  strength: 0.6526
-- slug: 2026-03-02-attack-on-iran-closes-middle-east-airports-strands-travelers-worldwide
-  headline: Attack on Iran closes Middle East airports, strands travelers worldwide
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.652
-- slug: 2026-03-01-military-strikes-on-iran-disrupt-airline-flights-across-middle-east
-  headline: Military strikes on Iran disrupt airline flights across Middle East
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6498
-- slug: 2026-05-16-ship-seized-off-uae-taken-to-iran-cargo-vessel-attacked-and-sinks-off-oman
-  headline: Ship seized off UAE taken to Iran; cargo vessel attacked and sinks off Oman
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6128
-- slug: 2026-05-14-uae-denies-netanyahu-secret-visit-during-iran-war
-  headline: UAE denies Netanyahu secret visit during Iran war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6133
-- slug: 2026-03-05-governments-rush-to-return-citizens-from-the-middle-east
-  headline: Governments rush to return citizens from the Middle East
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6404
-- slug: 2026-05-15-ship-seized-near-uae-indian-cargo-vessel-sunk-amid-escalating-strait-of-hormuz-t
-  headline: Ship seized near UAE, Indian cargo vessel sunk amid escalating Strait of Hormuz tensions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6091
-- slug: 2026-05-15-ship-seized-off-uae-coast-heads-to-iranian-waters-as-hormuz-tensions-rise
-  headline: Ship seized off UAE coast heads to Iranian waters as Hormuz tensions rise
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6089
-- slug: 2026-05-16-iraqi-man-charged-with-nyc-synagogue-plot-europe-attacks-tied-to-iran-war
-  headline: Iraqi man charged with NYC synagogue plot, Europe attacks tied to Iran war
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6062
-- slug: 2026-04-20-afghan-charged-in-abbey-gate-bombing-scouting-goes-to-trial
-  headline: Afghan charged in Abbey Gate bombing scouting goes to trial
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6202
+  strength: 0.6535
 ---
-
 ## UAE says Flydubai co-pilot attacked captain with crash ax
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Coast Guard searches for medical plane with 6 aboard off Nantucket
 secondary_headline: Air ambulance lost contact after plummeting en route from Bermuda
 publish_date: '2026-10-03'
-lede: US authorities are searching for six people after a medical plane bound for Boston, Massachusetts, went missing early Saturday morning. The Federal Aviation Administration told the BBC it lost contact with the Gulfstream G-100 jet and issued a search and rescue notice just after 1:00 local time (6:00 GMT), and an air and water search is under way off the coast of Nantucket, according to the US Coast Guard's Northeast District.
-nut_graf: The plane was a medical air ambulance operated by Latitude Air Ambulances, a company that provides international medical flights for patients returning home, according to the tail number released by the Coast Guard. The aircraft had departed Bermuda's L.F. Wade International Airport at 23:40 local time and was scheduled to land at Boston's Logan International at 1:30 EDT (6:30 GMT).
+lede: US authorities are searching for six people after a medical plane bound for
+  Boston, Massachusetts, went missing early Saturday morning. The Federal Aviation
+  Administration told the BBC it lost contact with the Gulfstream G-100 jet and issued
+  a search and rescue notice just after 1:00 local time (6:00 GMT), and an air and
+  water search is under way off the coast of Nantucket, according to the US Coast
+  Guard's Northeast District.
+nut_graf: The plane was a medical air ambulance operated by Latitude Air Ambulances,
+  a company that provides international medical flights for patients returning home,
+  according to the tail number released by the Coast Guard. The aircraft had departed
+  Bermuda's L.F. Wade International Airport at 23:40 local time and was scheduled
+  to land at Boston's Logan International at 1:30 EDT (6:30 GMT).
 primary_entities:
 - Nantucket
 - Boston
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,81 +151,38 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
+  headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.897
 - slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
+  headline: Divers recover body of missing patient in Catalina medevac crash, toll
+    at 3
   publish_date: '2026-10-02'
   relation: related
   strength: 0.6522
-- slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
-  headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6426
-- slug: 2026-09-22-us-f-16-crashes-at-spangdahlem-air-base-in-germany-pilot-ejects-safely
-  headline: US F-16 crashes at Spangdahlem air base in Germany, pilot ejects safely
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6274
-- slug: 2026-09-02-coast-guard-plane-carrying-dhs-secretary-mullin-lands-safely-after-engine-fire
-  headline: Coast Guard plane carrying DHS Secretary Mullin lands safely after engine fire
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6284
-- slug: 2026-08-28-ntsb-white-house-helipad-relocation-contributed-to-marine-one-close-call
-  headline: 'NTSB: White House helipad relocation contributed to Marine One close call'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6337
 - slug: 2026-08-21-two-pilots-six-passengers-board-plane-before-it-crashes-near-cape-newenham
   headline: Two pilots, six passengers board plane before it crashes near Cape Newenham
   publish_date: '2026-08-21'
   relation: related
   strength: 0.6548
-- slug: 2026-08-12-faa-plans-antenna-relocations-new-procedures-after-marine-one-incident-at-reagan
-  headline: FAA plans antenna relocations, new procedures after Marine One incident at Reagan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6313
 - slug: 2026-07-02-navy-searches-for-missing-aircrewman-after-helicopter-emergency-landing-in-arabi
-  headline: Navy searches for missing aircrewman after helicopter emergency landing in Arabian Sea
+  headline: Navy searches for missing aircrewman after helicopter emergency landing
+    in Arabian Sea
   publish_date: '2026-07-02'
   relation: related
   strength: 0.6675
-- slug: 2026-07-14-pontoon-boat-carrying-memorial-service-group-sinks-near-alcatraz-1-dead-3-missin
-  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead, 3 missing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6396
-- slug: 2026-07-05-navy-suspends-search-for-missing-aircrewman-in-arabian-sea
-  headline: Navy suspends search for missing aircrewman in Arabian Sea
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6422
-- slug: 2026-07-05-hard-landing-snaps-wing-strut-in-east-river-seaplane-faa-says
-  headline: Hard landing snaps wing strut in East River seaplane, FAA says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6287
 - slug: 2026-04-17-coast-guard-searches-for-6-missing-near-guam-following-typhoon
   headline: Coast Guard searches for 6 missing near Guam following typhoon
   publish_date: '2026-04-17'
   relation: related
   strength: 0.6971
-- slug: 2026-06-21-delta-plane-aborts-landing-after-300ft-near-miss-with-american-jet-at-boston-log
-  headline: Delta plane aborts landing after 300ft near miss with American jet at Boston Logan
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6363
 - slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
   headline: 10 rescued after small plane crashes in Bahamian waters off Florida
   publish_date: '2026-05-13'
   relation: related
   strength: 0.6579
-- slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6477
 - slug: 2026-04-18-coast-guard-finds-overturned-vessel-in-search-for-ship-missing-near-saipan
   headline: Coast Guard finds overturned vessel in search for ship missing near Saipan
   publish_date: '2026-04-18'
@@ -226,23 +193,7 @@ related_stories:
   publish_date: '2026-02-01'
   relation: related
   strength: 0.662
-- slug: 2026-01-26-six-die-as-business-jet-crashes-during-maine-takeoff-in-snowstorm
-  headline: Six die as business jet crashes during Maine takeoff in snowstorm
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6478
-- slug: 2026-04-20-six-crew-members-missing-from-cargo-ship-overturned-near-saipan-during-typhoon
-  headline: Six crew members missing from cargo ship overturned near Saipan during typhoon
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6266
-- slug: 2026-03-28-united-airlines-flight-narrowly-avoids-military-helicopter-near-california-airpo
-  headline: United Airlines flight narrowly avoids military helicopter near California airport
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6277
 ---
-
 ## Coast Guard searches for medical plane with 6 aboard off Nantucket
 
 **Subtype:** fact
