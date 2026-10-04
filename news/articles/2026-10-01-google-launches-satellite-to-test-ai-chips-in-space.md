@@ -2,8 +2,16 @@
 headline: Google launches satellite to test AI chips in space
 secondary_headline: Prototype carries four TPUs to test chip performance in orbit
 publish_date: '2026-10-01'
-lede: Google launched a refrigerator-sized satellite into space carrying four of its Tensor Processing Unit chips, part of a research project the company says could pave the way for orbiting AI data centers powered by the sun. The mission, called Project Suncatcher, will test how the chips withstand the physical stress of spaceflight over about a year of operations.
-nut_graf: The launch is one of the most concrete steps yet in a push by Google and other companies to move some AI computing off Earth, where demand for the technology has driven a massive data-center buildout and drawn growing opposition to power-hungry facilities. Space offers virtually unlimited free solar energy, but heat management, maintenance, and launch costs remain major open questions.
+lede: Google launched a refrigerator-sized satellite into space carrying four of its
+  Tensor Processing Unit chips, part of a research project the company says could
+  pave the way for orbiting AI data centers powered by the sun. The mission, called
+  Project Suncatcher, will test how the chips withstand the physical stress of spaceflight
+  over about a year of operations.
+nut_graf: The launch is one of the most concrete steps yet in a push by Google and
+  other companies to move some AI computing off Earth, where demand for the technology
+  has driven a massive data-center buildout and drawn growing opposition to power-hungry
+  facilities. Space offers virtually unlimited free solar energy, but heat management,
+  maintenance, and launch costs remain major open questions.
 primary_entities:
 - Google
 - Project Suncatcher
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,108 +76,12 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories:
-- slug: 2026-09-30-openai-launches-always-on-dot-agent-as-enterprise-adoption-outpaces-governance
-  headline: OpenAI launches always-on Dot agent as enterprise adoption outpaces governance
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.619
-- slug: 2026-09-24-climate-protesters-picket-openai-google-amazon-offices-during-nyc-climate-week
-  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate week
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6187
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6225
-- slug: 2026-08-17-firesat-satellites-and-ai-cameras-aim-to-catch-wildfires-early
-  headline: FireSat satellites and AI cameras aim to catch wildfires early
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6117
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6081
-- slug: 2026-08-09-samsung-and-oak-ridge-lab-to-develop-heating-tech-for-sub-zero-temperatures
-  headline: Samsung and Oak Ridge lab to develop heating tech for sub-zero temperatures
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6128
-- slug: 2026-07-30-google-guarantees-15-billion-loan-for-anthropic-s-texas-data-center
-  headline: Google guarantees $15 billion loan for Anthropic's Texas data center
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6158
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6112
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.619
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6489
 - slug: 2026-02-05-musk-says-space-based-ai-data-centers-on-solar-are-next-but-experts-doubt
   headline: Musk says space-based AI data centers on solar are next, but experts doubt
   publish_date: '2026-02-05'
   relation: related
   strength: 0.715
-- slug: 2026-06-24-ai-expansion-strains-climate-progress-water-supplies-experts-say
-  headline: AI expansion strains climate progress, water supplies, experts say
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.637
-- slug: 2026-07-03-ai-data-centers-consume-as-much-as-12-times-more-water-indirectly-than-directly-
-  headline: AI data centers consume as much as 12 times more water indirectly than directly, lab finds
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6214
-- slug: 2026-05-20-google-says-gemini-spark-will-act-as-a-cloud-based-24-7-assistant-after-i-o
-  headline: Google says Gemini Spark will act as a cloud-based 24/7 assistant after I/O
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6338
-- slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
-  headline: Two-thirds of planned US AI datacenters built on drought-hit land
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6155
-- slug: 2026-06-02-microsoft-tests-wearable-ai-badge-and-desktop-cube-for-office-workers
-  headline: Microsoft tests wearable AI badge and desktop cube for office workers
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6179
-- slug: 2026-05-19-google-i-o-2026-ai-assistant-gemini-spark-leads-new-agentic-tools
-  headline: 'Google I/O 2026: AI assistant Gemini Spark leads new agentic tools'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6152
-- slug: 2026-05-22-spacex-launches-biggest-starship-yet-on-a-test-flight
-  headline: SpaceX launches biggest Starship yet on a test flight
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6116
-- slug: 2026-05-19-google-i-o-2026-gemini-gets-new-models-ai-agents-smarter-search
-  headline: 'Google I/O 2026: Gemini gets new models, AI agents, smarter search'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6118
-- slug: 2026-03-29-tech-climate-goals-under-pressure-as-ai-boosts-data-center-energy-demand
-  headline: Tech climate goals under pressure as AI boosts data-center energy demand
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6363
 ---
-
 ## Google launches satellite to test AI chips in space
 
 **Subtype:** fact

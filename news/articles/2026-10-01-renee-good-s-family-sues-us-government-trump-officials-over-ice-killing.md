@@ -2,8 +2,15 @@
 headline: Renee Good's family sues US government, Trump officials over ICE killing
 secondary_headline: Lawsuit names Miller, Noem, Homan in alleged civil rights conspiracy
 publish_date: '2026-10-01'
-lede: The family of Renee Good, a 37-year-old US citizen and mother of three, filed two federal lawsuits on Thursday against the US government and several Trump administration officials, including White House Deputy Chief of Staff Stephen Miller and former Homeland Security Secretary Kristi Noem, over her January killing by an ICE officer in Minneapolis.
-nut_graf: The suits come nearly nine months after Good was shot to death by ICE officer Jonathan Ross during a Minneapolis traffic stop — a killing captured on widely circulated video that prompted nationwide protests. Another Minneapolis resident, Alex Pretti, was killed by immigration agents on January 24, intensifying the demonstrations.
+lede: The family of Renee Good, a 37-year-old US citizen and mother of three, filed
+  two federal lawsuits on Thursday against the US government and several Trump administration
+  officials, including White House Deputy Chief of Staff Stephen Miller and former
+  Homeland Security Secretary Kristi Noem, over her January killing by an ICE officer
+  in Minneapolis.
+nut_graf: The suits come nearly nine months after Good was shot to death by ICE officer
+  Jonathan Ross during a Minneapolis traffic stop — a killing captured on widely circulated
+  video that prompted nationwide protests. Another Minneapolis resident, Alex Pretti,
+  was killed by immigration agents on January 24, intensifying the demonstrations.
 primary_entities:
 - Renee Good
 - Becca Good
@@ -52,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,109 +159,52 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-13-hennepin-county-prosecutors-obtain-hard-drives-of-withheld-evidence-in-three-fed
-  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in three federal-shooting cases
+  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in
+    three federal-shooting cases
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.7709
+  strength: 0.7711
 - slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland shooting draws scrutiny
+  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland
+    shooting draws scrutiny
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.8251
+  strength: 0.8247
 - slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal ICE shooting
+  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal
+    ICE shooting
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.8193
+  strength: 0.8187
 - slug: 2026-02-28-family-of-renee-good-mourns-her-death-after-minneapolis-ice-shooting
   headline: Family of Renee Good mourns her death after Minneapolis ICE shooting
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.8106
+  strength: 0.8102
 - slug: 2026-03-25-minnesota-officials-sue-trump-administration-over-federal-shooting-deaths
   headline: Minnesota officials sue Trump administration over federal shooting deaths
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.7918
+  strength: 0.7917
 - slug: 2026-05-18-federal-officer-shoots-and-kills-minneapolis-man-in-immigration-sweep
   headline: Federal officer shoots and kills Minneapolis man in immigration sweep
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7617
+  strength: 0.7621
+- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
+  headline: Minnesota probes federal officers over two killings, wounding and highway
+    assault
+  publish_date: '2026-04-16'
+  relation: related
+  strength: 0.7784
 - slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
   headline: Congress weighs response to ICE killing of Minnesota woman Renee Good
   publish_date: '2026-01-10'
   relation: related
-  strength: 0.799
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  headline: Minnesota probes federal officers over two killings, wounding and highway assault
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7781
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  headline: Minnesota, Twin Cities sue Trump administration over fatal ICE shooting
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7976
-- slug: 2026-02-08-minneapolis-arrests-protesters-marking-1-month-anniversary-of-renee-good-death
-  headline: Minneapolis arrests protesters marking 1-month anniversary of Renee Good death
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7846
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  headline: ICE officer shoots and kills Minneapolis woman during immigration enforcement
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7847
-- slug: 2026-02-10-polic-a-arresta-a-docenas-de-manifestantes-en-protesta-por-la-muerte-de-renee-go
-  headline: Policía arresta a docenas de manifestantes en protesta por la muerte de Renee Good
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7729
-- slug: 2026-01-25-rosen-calls-for-noem-impeachment-over-fatal-ice-shooting
-  headline: Rosen calls for Noem impeachment over fatal ICE shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7735
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  headline: Vance calls Minneapolis woman's ICE shooting death 'a tragedy of her own making'
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7748
-- slug: 2026-01-15-renee-good-s-death-triggers-state-legislative-battle-over-ice-enforcement
-  headline: Renee Good's death triggers state legislative battle over ICE enforcement
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7733
-- slug: 2026-01-14-good-family-hires-george-floyd-law-firm-to-investigate-minneapolis-ice-killing
-  headline: Good family hires George Floyd law firm to investigate Minneapolis ICE killing
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7708
-- slug: 2026-01-09-records-identify-minneapolis-ice-shooter-as-iraq-war-veteran-jonathan-ross
-  headline: Records identify Minneapolis ICE shooter as Iraq War veteran Jonathan Ross
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7691
-- slug: 2026-03-24-minnesota-officials-sue-trump-administration-over-shooting-deaths
-  headline: Minnesota officials sue Trump administration over shooting deaths
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7556
-- slug: 2026-01-08-family-mourns-renee-good-u-s-citizen-and-mother-shot-by-ice-agent-in-minneapolis
-  headline: Family mourns Renee Good, U.S. citizen and mother shot by ICE agent in Minneapolis
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7683
-- slug: 2026-02-03-brothers-of-renee-good-urge-congress-action-after-minneapolis-death
-  headline: Brothers of Renee Good urge Congress action after Minneapolis death
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7645
+  strength: 0.7981
 analyses:
-- '2026-10-01-good-family-lawsuits-pair-line-officer-conduct-with-senior-official-conspiracy-c'
+- 2026-10-01-good-family-lawsuits-pair-line-officer-conduct-with-senior-official-conspiracy-c
 ---
-
 ## Renee Good's family sues US government, Trump officials over ICE killing
 
 **Subtype:** fact

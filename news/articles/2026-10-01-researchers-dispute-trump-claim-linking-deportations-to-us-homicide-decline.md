@@ -2,8 +2,15 @@
 headline: Researchers dispute Trump claim linking deportations to US homicide decline
 secondary_headline: DHS data shows most deportation arrests had no homicide convictions
 publish_date: '2026-10-01'
-lede: The Trump administration is crediting mass deportations and intensified immigration enforcement for what it calls a historic decline in US homicides, while researchers cited by The Guardian and federal data contradict that causal claim and place the start of the decline during the Biden administration. The Department of Homeland Security and the White House reiterated their position when asked for supporting evidence, The Guardian reported, but did not provide any.
-nut_graf: How the decline is explained matters for which public-safety policies the government pursues. A researcher studying the trend told The Guardian that misdiagnosing the cause of the homicide decline would lead to bad public policy.
+lede: The Trump administration is crediting mass deportations and intensified immigration
+  enforcement for what it calls a historic decline in US homicides, while researchers
+  cited by The Guardian and federal data contradict that causal claim and place the
+  start of the decline during the Biden administration. The Department of Homeland
+  Security and the White House reiterated their position when asked for supporting
+  evidence, The Guardian reported, but did not provide any.
+nut_graf: How the decline is explained matters for which public-safety policies the
+  government pursues. A researcher studying the trend told The Guardian that misdiagnosing
+  the cause of the homicide decline would lead to bad public policy.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +154,43 @@ related_stories:
   headline: UN experts warn US third-country deportations trigger human rights violations
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.687
+  strength: 0.6884
 - slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
   headline: US domestic violence killings rise while overall homicides fall
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6636
+  strength: 0.6655
 - slug: 2026-08-26-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-october-2022
   headline: ICE arrests hit 49,571 in July, highest monthly tally since October 2022
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6756
+  strength: 0.6764
 - slug: 2026-08-14-fbi-reports-us-homicide-rate-fell-to-75-year-low-in-2025
   headline: FBI reports US homicide rate fell to 75-year low in 2025
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6855
+  strength: 0.6856
 - slug: 2026-08-11-visa-revocations-top-175-000-under-trump-administration
   headline: Visa revocations top 175,000 under Trump administration
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6826
+  strength: 0.682
 - slug: 2026-08-06-historian-links-latino-support-for-ice-to-a-longer-us-history
   headline: Historian links Latino support for ICE to a longer US history
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6651
+  strength: 0.6668
 - slug: 2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll
   headline: Trump's immigration approval falls to 39% in AP-NORC poll
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.6655
+  strength: 0.6666
 - slug: 2026-07-21-ice-arrested-43-138-in-june-highest-monthly-total-since-trump-took-office
   headline: ICE arrested 43,138 in June, highest monthly total since Trump took office
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6799
-- slug: 2026-07-09-us-murder-rate-fell-to-record-low-in-2025-criminologist-says
-  headline: US murder rate fell to record low in 2025, criminologist says
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6722
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6782
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6621
-- slug: 2026-06-14-cuban-deportations-under-trump-more-than-double-first-term-tally
-  headline: Cuban deportations under Trump more than double first-term tally
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6849
-- slug: 2026-03-14-trump-administration-stops-releasing-key-immigration-data-researchers-say
-  headline: Trump administration stops releasing key immigration data, researchers say
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7269
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6675
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7231
-- slug: 2026-05-27-ice-detainee-suicides-reach-historic-rate-under-trump-deportation-push
-  headline: ICE detainee suicides reach historic rate under Trump deportation push
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6813
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7172
-- slug: 2026-05-01-trump-signs-homeland-security-funding-bill-ends-record-shutdown-over-ice-pay
-  headline: Trump signs Homeland Security funding bill, ends record shutdown over ICE pay
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6598
-- slug: 2026-01-28-immigration-crackdown-slows-u-s-population-growth-to-0-5-percent
-  headline: Immigration crackdown slows U.S. population growth to 0.5 percent
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6789
-- slug: 2026-01-22-homicides-drop-21-across-35-u-s-cities-in-2025-report-shows
-  headline: Homicides drop 21% across 35 U.S. cities in 2025, report shows
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6784
+  strength: 0.6817
 ---
-
 ## Researchers dispute Trump claim linking deportations to US homicide decline
 
 - President Donald Trump and Vice President JD Vance have attributed a historic decline in US homicides to the administration's mass deportation campaign.

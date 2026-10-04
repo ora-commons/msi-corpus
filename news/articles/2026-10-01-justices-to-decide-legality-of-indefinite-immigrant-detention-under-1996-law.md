@@ -1,9 +1,19 @@
 ---
-headline: Justices to decide legality of indefinite immigrant detention under 1996 law
+headline: Justices to decide legality of indefinite immigrant detention under 1996
+  law
 secondary_headline: Lower courts have largely sided with immigrants in the legal challenge
 publish_date: '2026-10-01'
-lede: The U.S. Supreme Court said Thursday it will decide whether the Trump administration's policy of detaining immigrants indefinitely without bond hearings while they await immigration court proceedings is legal under the Illegal Immigration Reform and Immigrant Responsibility Act of 1996. The case will go on the justices' docket for the next term, with oral arguments expected in early 2027 and a decision likely by summer.
-nut_graf: By limiting the question it will decide to the statutory one, the court left unresolved the underlying constitutional challenge. The case concerns the legality of the detention policy affecting the roughly 65,000 people now held in immigration detention, a population that advocates say includes many legal immigrants waiting for their petitions to make it through governmental backlogs.
+lede: The U.S. Supreme Court said Thursday it will decide whether the Trump administration's
+  policy of detaining immigrants indefinitely without bond hearings while they await
+  immigration court proceedings is legal under the Illegal Immigration Reform and
+  Immigrant Responsibility Act of 1996. The case will go on the justices' docket for
+  the next term, with oral arguments expected in early 2027 and a decision likely
+  by summer.
+nut_graf: By limiting the question it will decide to the statutory one, the court
+  left unresolved the underlying constitutional challenge. The case concerns the legality
+  of the detention policy affecting the roughly 65,000 people now held in immigration
+  detention, a population that advocates say includes many legal immigrants waiting
+  for their petitions to make it through governmental backlogs.
 primary_entities:
 - U.S. Supreme Court
 - Trump administration
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +146,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-01-supreme-court-agrees-to-hear-challenge-to-trump-s-bond-policy-for-detained-immig
+  headline: Supreme Court agrees to hear challenge to Trump's bond policy for detained
+    immigrants
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.8024
 - slug: 2026-09-29-supreme-court-lets-trump-resume-third-country-deportations
   headline: Supreme Court lets Trump resume third-country deportations
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7278
+  strength: 0.7288
 - slug: 2026-09-24-doj-asks-supreme-court-to-allow-third-country-deportation-policy
   headline: DOJ asks Supreme Court to allow third-country deportation policy
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7079
+  strength: 0.7087
 - slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
   headline: Appeals court rules third-country deportation policy unlawful
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6974
+  strength: 0.6977
 - slug: 2026-08-28-3rd-circuit-rejects-ice-policy-treating-long-term-u-s-residents-as-still-seeking
-  headline: 3rd Circuit rejects ICE policy treating long-term U.S. residents as still seeking admission
+  headline: 3rd Circuit rejects ICE policy treating long-term U.S. residents as still
+    seeking admission
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7109
+  strength: 0.7099
 - slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
   headline: Trump administration asks Supreme Court to back no-bond detention policy
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.8297
+  strength: 0.8293
 - slug: 2026-07-30-ninth-circuit-rules-immigrants-can-t-be-denied-bond-hearings
   headline: Ninth Circuit rules immigrants can’t be denied bond hearings
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.7515
+  strength: 0.7508
 - slug: 2026-04-29-2nd-circuit-rejects-trump-no-bond-detentions-case-may-go-to-supreme-court
   headline: 2nd Circuit rejects Trump no-bond detentions; case may go to Supreme Court
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.7896
-- slug: 2026-06-30-npr-details-five-trump-immigration-strategies-across-enforcement-courts-and-dete
-  headline: NPR details five Trump immigration strategies across enforcement, courts, and detention
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7011
-- slug: 2026-02-08-fifth-circuit-backs-trump-administration-on-immigrant-detention-without-bond
-  headline: Fifth Circuit backs Trump administration on immigrant detention without bond
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7796
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6942
-- slug: 2026-05-26-no-bond-immigrant-policy-echoed-in-tacoma-before-nationwide-rollout
-  headline: No-bond immigrant policy echoed in Tacoma before nationwide rollout
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7218
-- slug: 2026-05-08-second-appeals-court-rejects-trump-s-no-bond-immigration-detentions
-  headline: Second appeals court rejects Trump’s no-bond immigration detentions
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7344
-- slug: 2026-05-25-no-bond-immigration-policy-took-root-in-tacoma-years-before-trump-adopted-it
-  headline: No-bond immigration policy took root in Tacoma years before Trump adopted it
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7147
-- slug: 2026-06-05-federal-judge-cancels-trump-immigration-policies-orders-restart
-  headline: Federal judge cancels Trump immigration policies, orders restart
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7033
-- slug: 2026-03-27-appeals-court-sides-with-trump-administration-on-detaining-immigrants-without-bo
-  headline: Appeals court sides with Trump administration on detaining immigrants without bond
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7328
-- slug: 2026-02-19-federal-judge-slams-trump-administration-immigration-crackdown-in-ruling
-  headline: Federal judge slams Trump administration immigration crackdown in ruling
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7396
-- slug: 2026-02-20-federal-judge-slams-trump-immigration-crackdown-in-scathing-ruling
-  headline: Federal judge slams Trump immigration crackdown in scathing ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7373
-- slug: 2026-04-04-nevada-judge-blocks-ice-from-detaining-nearly-all-deportation-cases
-  headline: Nevada judge blocks ICE from detaining nearly all deportation cases
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7063
-- slug: 2026-02-10-judges-say-trump-immigration-cases-are-overwhelming-federal-courts
-  headline: Judges say Trump immigration cases are overwhelming federal courts
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7166
-- slug: 2026-04-02-supreme-court-casts-doubt-on-trump-bid-to-limit-birthright-citizenship
-  headline: Supreme Court casts doubt on Trump bid to limit birthright citizenship
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7041
+  strength: 0.7891
 ---
-
 ## Justices to decide legality of indefinite immigrant detention under 1996 law
 
 **Subtype:** fact

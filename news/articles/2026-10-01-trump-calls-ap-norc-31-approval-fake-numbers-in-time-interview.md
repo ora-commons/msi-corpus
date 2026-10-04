@@ -2,8 +2,15 @@
 headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
 secondary_headline: Declines to rule out state of emergency before midterms
 publish_date: '2026-10-01'
-lede: President Donald Trump dismissed an Associated Press/NORC poll showing 31% approval of his job performance as "fake numbers" in a Time magazine interview published October 1, while deflecting blame for misleading Americans about the length of the Iran war and declining to rule out declaring a state of emergency before the November midterms.
-nut_graf: The interview comes as voters' frustrations with the president could affect Republican candidates in the midterm elections, with the Iran war contributing to gas prices surpassing $4 per gallon and inflation at 3.4%, and as polls show Democrats making progress with voters in historically conservative states such as Texas.
+lede: President Donald Trump dismissed an Associated Press/NORC poll showing 31% approval
+  of his job performance as "fake numbers" in a Time magazine interview published
+  October 1, while deflecting blame for misleading Americans about the length of the
+  Iran war and declining to rule out declaring a state of emergency before the November
+  midterms.
+nut_graf: The interview comes as voters' frustrations with the president could affect
+  Republican candidates in the midterm elections, with the Iran war contributing to
+  gas prices surpassing $4 per gallon and inflation at 3.4%, and as polls show Democrats
+  making progress with voters in historically conservative states such as Texas.
 primary_entities: []
 primary_themes: []
 topic_tags:
@@ -32,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,104 +62,44 @@ related_stories:
   headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7378
+  strength: 0.7383
 - slug: 2026-08-16-quinnipiac-poll-puts-trump-approval-at-32-as-leavitt-plans-to-exit
   headline: Quinnipiac poll puts Trump approval at 32% as Leavitt plans to exit
   publish_date: '2026-08-16'
   relation: related
-  strength: 0.7262
+  strength: 0.7265
 - slug: 2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll
   headline: Trump's immigration approval falls to 39% in AP-NORC poll
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.717
+  strength: 0.7163
 - slug: 2026-07-22-trump-says-iran-war-s-political-cost-won-t-have-any-impact-on-me
   headline: Trump says Iran war's political cost 'won't have any impact on me'
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7314
+  strength: 0.7323
 - slug: 2026-07-24-trump-s-frustration-grows-as-iran-war-enters-fifth-month-diplomacy-stalls
   headline: Trump's frustration grows as Iran war enters fifth month, diplomacy stalls
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7054
+  strength: 0.706
 - slug: 2026-04-22-trump-s-economy-approval-slips-in-ap-norc-poll-as-iran-war-prices-rise
   headline: Trump’s economy approval slips in AP-NORC poll as Iran-war prices rise
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.7937
+  strength: 0.7928
 - slug: 2026-06-07-trump-denies-iran-war-broke-no-new-wars-campaign-pledge
   headline: Trump denies Iran war broke 'no new wars' campaign pledge
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.7387
+  strength: 0.7396
 - slug: 2026-05-20-more-republicans-approve-of-trump-on-immigration-than-the-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than the economy, poll finds
+  headline: More Republicans approve of Trump on immigration than the economy, poll
+    finds
   publish_date: '2026-05-20'
   relation: related
   strength: 0.7505
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-ap-norc-poll
-  headline: More Republicans approve of Trump on immigration than economy, AP-NORC poll
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.75
-- slug: 2026-06-08-trump-denies-he-ever-pledged-no-new-wars-contradicting-years-of-statements
-  headline: Trump denies he ever pledged no new wars, contradicting years of statements
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7268
-- slug: 2026-04-03-fact-check-trump-mischaracterizes-economy-and-iran-in-prime-time-address
-  headline: 'Fact check: Trump mischaracterizes economy and Iran in prime-time address'
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7655
-- slug: 2026-05-21-more-republicans-back-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans back Trump on immigration than economy, poll finds
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7212
-- slug: 2026-03-26-trump-vows-bigger-gop-majorities-for-november-amid-warning-signs
-  headline: Trump vows bigger GOP majorities for November amid warning signs
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7448
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than economy, poll finds
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7169
-- slug: 2026-01-15-ap-norc-trump-approval-holds-at-4-in-10-one-year-into-second-term
-  headline: 'AP-NORC: Trump approval holds at 4 in 10 one year into second term'
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7536
-- slug: 2026-03-27-prolonged-iran-war-could-test-gop-loyalty-to-trump-ap-norc-poll
-  headline: Prolonged Iran war could test GOP loyalty to Trump, AP-NORC poll
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7324
-- slug: 2026-04-04-midterm-elections-loom-as-gop-grapples-with-trump-s-wartime-presidency
-  headline: Midterm elections loom as GOP grapples with Trump's wartime presidency
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7297
-- slug: 2026-03-29-trump-s-conflicting-messages-sow-confusion-over-iran-war
-  headline: Trump’s conflicting messages sow confusion over Iran war
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7223
-- slug: 2026-03-26-poll-finds-most-americans-think-us-military-action-against-iran-has-gone-too-far
-  headline: Poll finds most Americans think US military action against Iran has gone too far
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7196
-- slug: 2026-04-02-trump-says-u-s-forces-will-finish-the-job-in-iran-soon
-  headline: Trump says U.S. forces will “finish the job” in Iran soon
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7172
 ---
-
 ## Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
 
 **Subtype:** fact

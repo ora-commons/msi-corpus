@@ -1,9 +1,19 @@
 ---
-headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
-secondary_headline: Carrier Roosevelt and Makin Island Marines head to region by end of November
+headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle
+  East
+secondary_headline: Carrier Roosevelt and Makin Island Marines head to region by end
+  of November
 publish_date: '2026-10-01'
-lede: The Pentagon is sending a third aircraft carrier strike group and additional Marine Corps ships to the Middle East, adding 9,000 to 10,000 troops to the region, according to U.S. officials. The deployments are to arrive by the end of November, as President Trump considers resuming strikes on Iran after the midterm elections and days after rejecting a seven-day ceasefire proposal from Tehran.
-nut_graf: The additional forces would bring three carrier strike groups to the region for the first time since April, before a fragile ceasefire temporarily ended fighting that began Feb. 28. That ceasefire has since collapsed, and the deployments come as Defense Secretary Pete Hegseth extends other force deployments and the Navy faces supply shortages during near-record operational tempo.
+lede: The Pentagon is sending a third aircraft carrier strike group and additional
+  Marine Corps ships to the Middle East, adding 9,000 to 10,000 troops to the region,
+  according to U.S. officials. The deployments are to arrive by the end of November,
+  as President Trump considers resuming strikes on Iran after the midterm elections
+  and days after rejecting a seven-day ceasefire proposal from Tehran.
+nut_graf: The additional forces would bring three carrier strike groups to the region
+  for the first time since April, before a fragile ceasefire temporarily ended fighting
+  that began Feb. 28. That ceasefire has since collapsed, and the deployments come
+  as Defense Secretary Pete Hegseth extends other force deployments and the Navy faces
+  supply shortages during near-record operational tempo.
 primary_entities:
 - Pentagon
 - U.S. Navy
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,28 +161,36 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-us-treasury-sanctions-iran-s-auto-rail-sectors-and-russia-linked-network
+  headline: US Treasury sanctions Iran's auto, rail sectors and Russia-linked network
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7801
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.749
+  strength: 0.7501
 - slug: 2026-09-03-pentagon-keeps-50-000-troops-in-mideast-as-trump-weighs-declaring-war-over
-  headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over
+  headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war
+    over
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7956
+  strength: 0.7947
 - slug: 2026-09-03-pentagon-extends-middle-east-deployments-as-iran-conflict-enters-seventh-month
-  headline: Pentagon extends Middle East deployments as Iran conflict enters seventh month
+  headline: Pentagon extends Middle East deployments as Iran conflict enters seventh
+    month
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7319
+  strength: 0.7317
 - slug: 2026-08-15-uss-george-washington-heads-to-middle-east-as-lincoln-deployment-continues
   headline: USS George Washington heads to Middle East as Lincoln deployment continues
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.719
+  strength: 0.7189
 - slug: 2026-07-22-pentagon-sends-additional-forces-and-medics-to-middle-east-amid-iran-war-deliber
-  headline: Pentagon sends additional forces and medics to Middle East amid Iran war deliberations
+  headline: Pentagon sends additional forces and medics to Middle East amid Iran war
+    deliberations
   publish_date: '2026-07-22'
   relation: related
   strength: 0.7827
@@ -179,79 +198,13 @@ related_stories:
   headline: US surges forces to Middle East as Trump weighs expanding Iran war
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7495
+  strength: 0.749
 - slug: 2026-07-24-u-s-strikes-iran-for-two-weeks-mobilizes-forces-for-larger-operation
   headline: U.S. strikes Iran for two weeks, mobilizes forces for larger operation
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7228
-- slug: 2026-04-01-more-u-s-troops-head-to-the-middle-east-as-trump-seeks-iran-talks
-  headline: More U.S. troops head to the Middle East as Trump seeks Iran talks
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.8253
-- slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7177
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7259
-- slug: 2026-01-23-pentagon-builds-largest-middle-east-force-in-decades-as-trump-threatens-iran
-  headline: Pentagon builds largest Middle East force in decades as Trump threatens Iran
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.805
-- slug: 2026-06-29-iran-does-not-confirm-it-will-join-us-qatar-talks-after-gulf-strikes
-  headline: Iran does not confirm it will join US-Qatar talks after Gulf strikes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.718
-- slug: 2026-02-27-us-military-assembles-biggest-middle-east-force-in-decades-experts-warn
-  headline: US military assembles biggest Middle East force in decades, experts warn
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.789
-- slug: 2026-01-26-uss-abraham-lincoln-arrives-in-middle-east-as-trump-weighs-iran-action
-  headline: USS Abraham Lincoln arrives in Middle East as Trump weighs Iran action
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.792
-- slug: 2026-02-25-u-s-builds-largest-middle-east-force-in-decades-as-trump-warns-iran
-  headline: U.S. builds largest Middle East force in decades as Trump warns Iran
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7832
-- slug: 2026-02-26-trump-warns-of-possible-iran-action-as-pentagon-builds-middle-east-force
-  headline: Trump warns of possible Iran action as Pentagon builds Middle East force
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7791
-- slug: 2026-03-24-us-prepares-to-send-at-least-1-000-82nd-airborne-troops-to-middle-east
-  headline: US prepares to send at least 1,000 82nd Airborne troops to Middle East
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7695
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7224
-- slug: 2026-02-16-trump-moving-second-aircraft-carrier-to-mideast-to-pressure-iran
-  headline: Trump moving second aircraft carrier to Mideast to pressure Iran
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7681
-- slug: 2026-03-25-us-prepares-to-deploy-at-least-1-000-82nd-airborne-troops-to-mideast
-  headline: US prepares to deploy at least 1,000 82nd Airborne troops to Mideast
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7548
+  strength: 0.723
 ---
-
 ## Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
 
 **Subtype:** fact

@@ -2,11 +2,20 @@
 headline: Egg prices drop more than half under Trump; experts credit avian flu recovery
 secondary_headline: Tariffs and Iran conflict raise costs for U.S. egg farmers
 publish_date: '2026-10-01'
-lede: 'The average retail price of a dozen eggs has fallen from $4.95 in January 2025 to $2.27 in August 2026, according to federal data cited by NPR, while President Donald Trump has repeatedly claimed credit for the decline. Trump has blamed former President Joe Biden for the high prices American consumers had been paying, asserting that his return to the White House ended the run-up.
+lede: 'The average retail price of a dozen eggs has fallen from $4.95 in January 2025
+  to $2.27 in August 2026, according to federal data cited by NPR, while President
+  Donald Trump has repeatedly claimed credit for the decline. Trump has blamed former
+  President Joe Biden for the high prices American consumers had been paying, asserting
+  that his return to the White House ended the run-up.
 
 
-  Agriculture industry experts told NPR that avian flu recovery accounts for the bulk of the drop, and that Trump-era tariffs and the war with Iran have simultaneously driven up operating costs for U.S. egg farmers.'
-nut_graf: The price decline comes as Trump and Republican candidates face voter concerns about affordability heading into the midterm elections, with consumers seeing relief while the agricultural sector absorbs rising input costs from tariffs and the Iran conflict.
+  Agriculture industry experts told NPR that avian flu recovery accounts for the bulk
+  of the drop, and that Trump-era tariffs and the war with Iran have simultaneously
+  driven up operating costs for U.S. egg farmers.'
+nut_graf: The price decline comes as Trump and Republican candidates face voter concerns
+  about affordability heading into the midterm elections, with consumers seeing relief
+  while the agricultural sector absorbs rising input costs from tariffs and the Iran
+  conflict.
 primary_entities:
 - Donald Trump
 - Joe Biden
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +163,44 @@ related_stories:
   headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6544
-- slug: 2026-09-11-lettuce-prices-fall-sharply-as-cyclospora-outbreak-cuts-demand
-  headline: Lettuce prices fall sharply as cyclospora outbreak cuts demand
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6299
+  strength: 0.654
 - slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
   headline: Trump announces 90-day tariff cut on imported ground beef
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6954
+  strength: 0.6942
 - slug: 2026-08-21-trump-authorizes-300-000-tons-of-beef-imports-to-ease-prices
   headline: Trump authorizes 300,000 tons of beef imports to ease prices
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6574
-- slug: 2026-08-18-trump-takes-credit-as-us-drug-prices-post-steepest-annual-decline-since-1963
-  headline: Trump takes credit as US drug prices post steepest annual decline since 1963
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6504
+  strength: 0.6565
 - slug: 2026-04-03-egg-prices-fall-60-ahead-of-easter-and-passover-as-bird-flu-eases
   headline: Egg prices fall 60% ahead of Easter and Passover as bird flu eases
   publish_date: '2026-04-03'
   relation: related
-  strength: 0.8255
+  strength: 0.8259
 - slug: 2026-07-22-cal-maine-swings-to-35-9m-quarterly-loss-as-egg-prices-hit-historic-lows
   headline: Cal-Maine swings to $35.9M quarterly loss as egg prices hit historic lows
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.679
+  strength: 0.6786
 - slug: 2026-06-30-egg-producers-settle-price-fixing-claims-with-3-3-million-and-50-million-eggs
-  headline: Egg producers settle price-fixing claims with $3.3 million and 50 million eggs
+  headline: Egg producers settle price-fixing claims with $3.3 million and 50 million
+    eggs
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7123
-- slug: 2026-07-27-trump-imposes-50-tariff-on-canada-new-tariffs-on-80-nations
-  headline: Trump imposes 50% tariff on Canada, new tariffs on 80 nations
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6408
-- slug: 2026-06-28-trump-seeks-11-billion-in-new-farm-aid-as-government-payments-hit-record
-  headline: Trump seeks $11 billion in new farm aid as government payments hit record
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.627
+  strength: 0.7116
 - slug: 2026-04-22-trump-s-economy-approval-slips-in-ap-norc-poll-as-iran-war-prices-rise
   headline: Trump’s economy approval slips in AP-NORC poll as Iran-war prices rise
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.6772
-- slug: 2026-05-14-grocery-prices-surge-2-9-in-april-full-iran-war-impact-still-months-away
-  headline: Grocery prices surge 2.9% in April; full Iran war impact still months away
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6441
-- slug: 2026-05-29-tomato-prices-rise-40-over-last-year-topping-grocery-inflation-list
-  headline: Tomato prices rise 40% over last year, topping grocery inflation list
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6323
-- slug: 2026-05-22-trump-loosens-refrigerant-rules-framing-move-as-lowering-grocery-costs
-  headline: Trump loosens refrigerant rules, framing move as lowering grocery costs
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6359
+  strength: 0.6762
 - slug: 2026-04-16-smallest-us-cattle-herd-in-75-years-keeps-beef-prices-near-record
   headline: Smallest US cattle herd in 75 years keeps beef prices near record
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6506
-- slug: 2026-02-05-trump-credits-tariffs-for-growth-fact-check-finds-mixed-results-and-inflation
-  headline: Trump credits tariffs for growth. Fact-check finds mixed results and inflation
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.667
-- slug: 2026-05-09-trump-administration-settles-meatpacking-antitrust-case-to-lower-grocery-prices
-  headline: Trump administration settles meatpacking antitrust case to lower grocery prices
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6327
-- slug: 2026-05-04-a-weak-dollar-can-help-but-also-harm
-  headline: A weak dollar can help but also harm
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6314
-- slug: 2026-05-05-white-house-says-trump-drug-deals-could-cut-529b-in-10-years
-  headline: White House says Trump drug deals could cut $529B in 10 years
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6297
-- slug: 2026-03-09-trump-s-roaring-economy-hits-rough-start-with-jobs-gas-markets
-  headline: Trump’s ‘roaring’ economy hits rough start with jobs, gas, markets
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6508
+  strength: 0.6505
 ---
-
 ## Egg prices drop more than half under Trump; experts credit avian flu recovery
 
 **Subtype:** fact

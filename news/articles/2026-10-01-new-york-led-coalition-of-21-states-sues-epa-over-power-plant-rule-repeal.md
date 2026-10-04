@@ -2,8 +2,15 @@
 headline: New York-led coalition of 21 states sues EPA over power plant rule repeal
 secondary_headline: Coalition tells EPA it plans a suit over gas-powered plants
 publish_date: '2026-10-01'
-lede: A coalition of 21 states and four cities led by New York Attorney General Letitia James sued the Environmental Protection Agency, seeking to overturn the Trump administration's repeal of climate regulations for power plants. The lawsuit asks the U.S. Court of Appeals for the District of Columbia Circuit to review the agency's September decision to revoke the Biden-era rule.
-nut_graf: The court's review will determine whether the EPA's repeal of the Biden-era power plant rule stands. The coalition argues the repeal will set the nation back decades and worsen the climate crisis, while the EPA says it would save the industry more than $300 billion in costs.
+lede: A coalition of 21 states and four cities led by New York Attorney General Letitia
+  James sued the Environmental Protection Agency, seeking to overturn the Trump administration's
+  repeal of climate regulations for power plants. The lawsuit asks the U.S. Court
+  of Appeals for the District of Columbia Circuit to review the agency's September
+  decision to revoke the Biden-era rule.
+nut_graf: The court's review will determine whether the EPA's repeal of the Biden-era
+  power plant rule stands. The coalition argues the repeal will set the nation back
+  decades and worsen the climate crisis, while the EPA says it would save the industry
+  more than $300 billion in costs.
 primary_entities:
 - Environmental Protection Agency
 - New York
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +144,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-01-supreme-court-to-hear-boulder-climate-case-as-states-expand-epa-lawsuits
+  headline: Supreme Court to hear Boulder climate case as states expand EPA lawsuits
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.7864
 - slug: 2026-09-29-afge-local-unions-sue-epa-and-zeldin-to-restore-collective-bargaining-contract
-  headline: AFGE local unions sue EPA and Zeldin to restore collective bargaining contract
+  headline: AFGE local unions sue EPA and Zeldin to restore collective bargaining
+    contract
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6999
+  strength: 0.7006
 - slug: 2026-09-14-zeldin-calls-climate-rules-war-on-coal-at-g20-as-epa-ends-power-plant-limits
-  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant limits
+  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant
+    limits
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7649
+  strength: 0.7657
 - slug: 2026-09-14-epa-moves-to-repeal-all-greenhouse-gas-standards-for-power-plants
   headline: EPA moves to repeal all greenhouse gas standards for power plants
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7633
+  strength: 0.7639
 - slug: 2026-09-16-epa-repeals-power-plant-emission-limits-despite-its-own-cost-analysis
   headline: EPA repeals power plant emission limits despite its own cost analysis
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7279
+  strength: 0.728
 - slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
   headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7356
-- slug: 2026-09-22-california-and-new-york-sue-trump-administration-over-offshore-wind-lease-buybac
-  headline: California and New York sue Trump administration over offshore wind lease buybacks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6797
+  strength: 0.7362
 - slug: 2026-09-14-epa-scraps-biden-era-greenhouse-gas-rules-for-power-plants
   headline: EPA scraps Biden-era greenhouse gas rules for power plants
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7127
+  strength: 0.7133
 - slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
+  headline: States sue to block public charge rule, citing billions in lost federal
+    funds
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.681
-- slug: 2026-09-01-federal-judge-strikes-new-york-s-75-billion-climate-damages-law
-  headline: Federal judge strikes New York's $75 billion climate damages law
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6889
-- slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6803
-- slug: 2026-03-21-states-and-cities-sue-epa-over-repeal-of-endangerment-climate-finding
-  headline: States and cities sue EPA over repeal of endangerment climate finding
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7848
-- slug: 2026-06-26-appeals-court-rejects-trump-epa-bid-to-abandon-soot-pollution-rule
-  headline: Appeals court rejects Trump EPA bid to abandon soot pollution rule
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6879
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7201
-- slug: 2026-05-15-epa-proposes-rollback-of-coal-plant-wastewater-limits-citing-ai-driven-energy-de
-  headline: EPA proposes rollback of coal plant wastewater limits, citing AI-driven energy demand
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7132
-- slug: 2026-02-19-groups-sue-epa-over-rescinding-2009-endangerment-finding-underpinning-climate-ru
-  headline: Groups sue EPA over rescinding 2009 endangerment finding underpinning climate rules
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7408
-- slug: 2026-06-02-six-states-sue-trump-administration-over-1bn-deal-to-cancel-new-york-offshore-wi
-  headline: Six states sue Trump administration over $1bn deal to cancel New York offshore wind lease
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6909
-- slug: 2026-05-05-trump-doj-seeks-to-block-minnesota-s-climate-fraud-lawsuit
-  headline: Trump DOJ seeks to block Minnesota’s climate fraud lawsuit
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7041
-- slug: 2026-01-28-epa-proposes-easing-air-pollution-rule-on-interstate-emissions
-  headline: EPA proposes easing air pollution rule on interstate emissions
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.7174
-- slug: 2026-03-23-trump-s-epa-moves-to-weaken-regional-haze-rule-for-national-parks
-  headline: Trump's EPA moves to weaken regional haze rule for national parks
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6908
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  headline: Trump White House rescinds NEPA regulations to speed energy project approvals
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6947
+  strength: 0.6816
 ---
-
 ## New York-led coalition of 21 states sues EPA over power plant rule repeal
 
 - A coalition of 21 states and four cities led by New York Attorney General Letitia James sued the Environmental Protection Agency, seeking to overturn the Trump administration's repeal of climate regulations for power plants.

@@ -2,8 +2,13 @@
 headline: Jersey pension rises 4.7% to £16,294 a year
 secondary_headline: Millar flags further support for low-income pensioners
 publish_date: '2026-10-01'
-lede: Jersey pensioners received a 4.7% increase to their old age pension on October 1, adding £734 a year and bringing the full annual state pension to £16,294, the Government of Jersey said.
-nut_graf: The annual uprating, anchored to the pensioner retail price index, came as Social Security Minister Elaine Millar pointed to Pension Plus, the Health Access Scheme and the Cold Weather Bonus as further support available to pensioners on lower incomes facing healthcare and heating cost pressure.
+lede: Jersey pensioners received a 4.7% increase to their old age pension on October
+  1, adding £734 a year and bringing the full annual state pension to £16,294, the
+  Government of Jersey said.
+nut_graf: The annual uprating, anchored to the pensioner retail price index, came
+  as Social Security Minister Elaine Millar pointed to Pension Plus, the Health Access
+  Scheme and the Cold Weather Bonus as further support available to pensioners on
+  lower incomes facing healthcare and heating cost pressure.
 primary_entities:
 - Jersey
 - Government of Jersey
@@ -42,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,103 +151,7 @@ related_stories:
   publish_date: '2026-09-29'
   relation: related
   strength: 0.7139
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5973
-- slug: 2026-09-22-jersey-fuel-duty-cut-proposal-withdrawn-as-businesses-report-price-impact
-  headline: Jersey fuel duty cut proposal withdrawn as businesses report price impact
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6392
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5698
-- slug: 2026-09-28-uk-energy-price-cap-rises-to-1-723-as-gas-costs-surge
-  headline: UK energy price cap rises to £1,723 as gas costs surge
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5476
-- slug: 2026-09-24-senior-poverty-rate-rises-for-fifth-straight-year-aarp-foundation-finds
-  headline: Senior poverty rate rises for fifth straight year, AARP Foundation finds
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5481
-- slug: 2026-09-17-next-raises-full-year-profit-forecast-to-1-26bn-on-warm-weather-sales
-  headline: Next raises full-year profit forecast to £1.26bn on warm-weather sales
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5649
-- slug: 2026-09-06-jersey-fuel-duty-proposition-withdrawn-ahead-of-assembly-debate
-  headline: Jersey fuel duty proposition withdrawn ahead of Assembly debate
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.5997
-- slug: 2026-09-15-census-bureau-reports-us-family-income-rose-2-6-in-2025-poverty-fell-to-10-2
-  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell to 10.2%
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5517
-- slug: 2026-08-19-treasury-doubles-bond-buybacks-to-ease-30-year-yields-near-20-year-high
-  headline: Treasury doubles bond buybacks to ease 30-year yields near 20-year high
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5493
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5486
-- slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
-  headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5613
-- slug: 2026-06-01-child-poverty-rates-and-cost-of-living-dominate-jersey-election-debate
-  headline: Child poverty rates and cost of living dominate Jersey election debate
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6113
-- slug: 2026-07-08-aca-insurers-seek-14-median-premium-increase-for-2027
-  headline: ACA insurers seek 14% median premium increase for 2027
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.551
-- slug: 2026-06-01-uk-care-workers-say-mileage-payments-fail-to-cover-soaring-fuel-costs
-  headline: UK care workers say mileage payments fail to cover soaring fuel costs
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.597
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5521
-- slug: 2026-06-05-argentines-over-65-return-to-work-as-milei-austerity-erodes-pension-buying-power
-  headline: Argentines over 65 return to work as Milei austerity erodes pension buying power
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5737
-- slug: 2026-06-01-courtney-e-martin-outlines-policy-paths-for-u-s-elder-care-crisis-as-baby-boomer
-  headline: Courtney E. Martin outlines policy paths for U.S. elder care crisis as baby boomers age
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.574
-- slug: 2026-05-31-former-u-k-health-secretary-suggests-employer-national-insurance-cut-and-north-s
-  headline: Former U.K. health secretary suggests employer National Insurance cut and North Sea drilling
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5528
-- slug: 2026-04-11-usps-to-suspend-pension-contributions-and-seek-stamp-price-hike
-  headline: USPS to suspend pension contributions and seek stamp price hike
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5593
 ---
-
 ## Jersey pension rises 4.7% to £16,294 a year
 
 **Subtype:** fact

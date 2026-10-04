@@ -1,9 +1,20 @@
 ---
 headline: Federal judge strips integration mandate from disability regulations
-secondary_headline: Justice Department switched sides in states' lawsuit after reversing decades of policy
+secondary_headline: Justice Department switched sides in states' lawsuit after reversing
+  decades of policy
 publish_date: '2026-10-01'
-lede: A federal judge last week ordered the removal of federal regulations requiring federally funded programs to serve people with disabilities in the most integrated setting possible, after the Justice Department declined to defend its own rules in a challenge brought by several states. The decision in Texas v. Kennedy removes language from Section 504 of the Rehabilitation Act that for nearly 50 years spelled out the so-called integration mandate.
-nut_graf: The ruling marks the most concrete step the Trump administration has taken to reverse nearly 50 years of federal policy supporting community-based services for people with disabilities. While protections under the Americans with Disabilities Act and the Supreme Court's Olmstead decision remain in place, disability lawyers say the practical enforcement of integration rights will now depend on litigation, state legislation, and private advocacy rather than federal enforcement.
+lede: A federal judge last week ordered the removal of federal regulations requiring
+  federally funded programs to serve people with disabilities in the most integrated
+  setting possible, after the Justice Department declined to defend its own rules
+  in a challenge brought by several states. The decision in Texas v. Kennedy removes
+  language from Section 504 of the Rehabilitation Act that for nearly 50 years spelled
+  out the so-called integration mandate.
+nut_graf: The ruling marks the most concrete step the Trump administration has taken
+  to reverse nearly 50 years of federal policy supporting community-based services
+  for people with disabilities. While protections under the Americans with Disabilities
+  Act and the Supreme Court's Olmstead decision remain in place, disability lawyers
+  say the practical enforcement of integration rights will now depend on litigation,
+  state legislation, and private advocacy rather than federal enforcement.
 primary_entities:
 - Justice Department
 - Section 504 of the Rehabilitation Act
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,119 +153,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-12-montana-drops-cancer-survivor-s-medicaid-disability-coverage
-  headline: Montana drops cancer survivor's Medicaid disability coverage
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6155
-- slug: 2026-08-07-federal-judge-blocks-hud-s-homelessness-funding-shift
-  headline: Federal judge blocks HUD's homelessness funding shift
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6155
-- slug: 2026-07-24-transportation-department-eliminates-civil-rights-rule-on-unintentional-discrimi
-  headline: Transportation Department eliminates civil rights rule on unintentional discrimination
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6391
-- slug: 2026-07-29-judge-says-trump-administration-violated-order-on-transgender-inmate-transfers
-  headline: Judge says Trump administration violated order on transgender inmate transfers
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6199
-- slug: 2026-07-23-education-department-rescinds-disparate-impact-rule-for-schools
-  headline: Education Department rescinds disparate impact rule for schools
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6303
-- slug: 2026-07-23-intentional-discrimination-required-for-school-cases-under-education-dept-rule
-  headline: Intentional discrimination required for school cases under Education Dept. rule
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6193
-- slug: 2026-07-22-trump-administration-cuts-legal-aid-funding-for-20-000-migrant-children
-  headline: Trump administration cuts legal aid funding for 20,000 migrant children
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6212
-- slug: 2026-07-09-education-department-holds-private-call-with-disability-advocates-on-special-ed-
-  headline: Education Department holds private call with disability advocates on special ed move
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6245
-- slug: 2026-07-10-justice-department-sues-maryland-over-law-it-says-violates-supremacy-clause
-  headline: Justice Department sues Maryland over law it says violates Supremacy Clause
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6203
-- slug: 2026-06-23-judge-blocks-snap-restrictions-on-soft-drinks-candy
-  headline: Judge blocks SNAP restrictions on soft drinks, candy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6225
-- slug: 2026-06-30-federal-judge-blocks-trump-rule-on-public-service-loan-forgiveness
-  headline: Federal judge blocks Trump rule on public service loan forgiveness
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.612
-- slug: 2026-06-23-judge-tosses-trump-administration-lawsuit-over-la-sanctuary-city-policy
-  headline: Judge tosses Trump administration lawsuit over LA sanctuary city policy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6175
 - slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  headline: Federal judge blocks Trump's purge of DEI terms from Head Start grant applications
+  headline: Federal judge blocks Trump's purge of DEI terms from Head Start grant
+    applications
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.6834
-- slug: 2026-06-16-trump-administration-shifts-special-education-civil-rights-offices-to-other-agen
-  headline: Trump administration shifts special education, civil rights offices to other agencies
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6149
-- slug: 2026-05-26-supreme-court-sides-with-trump-in-immigration-judges-speech-case
-  headline: Supreme Court sides with Trump in immigration judges' speech case
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6223
-- slug: 2026-05-28-justice-department-sues-four-states-over-undercover-license-plates-for-federal-a
-  headline: Justice Department sues four states over undercover license plates for federal agents
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6134
-- slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
-  headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6285
-- slug: 2026-04-01-judge-throws-out-justice-department-bid-against-colorado-denver-immigration-limi
-  headline: Judge throws out Justice Department bid against Colorado, Denver immigration limits
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6329
-- slug: 2026-01-05-hhs-bars-race-women-and-disability-from-head-start-grant-applications
-  headline: HHS bars 'race,' 'women,' and 'disability' from Head Start grant applications
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6356
-- slug: 2026-04-04-judge-ends-federal-oversight-of-special-education-in-new-orleans-schools
-  headline: Judge ends federal oversight of special education in New Orleans schools
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.614
+  strength: 0.6839
 image:
   url: /articles/2026-10-01-federal-judge-strips-integration-mandate-from-disability-regulations.png
-  alt: "Illustration accompanying article: Federal judge strips integration mandate from disability regulations"
+  alt: 'Illustration accompanying article: Federal judge strips integration mandate
+    from disability regulations'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-01-justice-department-s-out-of-step-opinion-reframes-integration-mandate-as-policy-'
+- 2026-10-01-justice-department-s-out-of-step-opinion-reframes-integration-mandate-as-policy-
 ---
-
 ## Federal judge strips integration mandate from disability regulations
 
 **Subtype:** fact

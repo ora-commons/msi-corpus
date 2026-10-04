@@ -2,8 +2,18 @@
 headline: DOJ opens preliminary review of Watergate special prosecutors' conduct
 secondary_headline: Shepard's 'Watergate As Lawfare' thesis prompted the review
 publish_date: '2026-10-01'
-lede: The Justice Department's Office of Professional Responsibility is conducting a preliminary review of whether the special prosecutors who investigated the Watergate break-in committed misconduct, according to people familiar with the matter. The review comes more than half a century after the Watergate scandal drove Nixon from office. It was prompted by a two-hour presentation last month at Justice Department headquarters by Geoff Shepard, a former Nixon aide who alleges the deep state took Nixon down.
-nut_graf: The Wall Street Journal, which first reported the review, characterized it as part of a broader pattern at the Justice Department, writing that "for nearly two years, the Justice Department has made it a priority to investigate people who previously investigated President Trump" and is "now reaching back in history to consider whether prosecutors mistreated an earlier Republican president."
+lede: The Justice Department's Office of Professional Responsibility is conducting
+  a preliminary review of whether the special prosecutors who investigated the Watergate
+  break-in committed misconduct, according to people familiar with the matter. The
+  review comes more than half a century after the Watergate scandal drove Nixon from
+  office. It was prompted by a two-hour presentation last month at Justice Department
+  headquarters by Geoff Shepard, a former Nixon aide who alleges the deep state took
+  Nixon down.
+nut_graf: The Wall Street Journal, which first reported the review, characterized
+  it as part of a broader pattern at the Justice Department, writing that "for nearly
+  two years, the Justice Department has made it a priority to investigate people who
+  previously investigated President Trump" and is "now reaching back in history to
+  consider whether prosecutors mistreated an earlier Republican president."
 primary_entities:
 - Justice Department
 - Office of Professional Responsibility
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -119,108 +130,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-smith-defends-trump-prosecutions-at-senate-judiciary-hearing
-  headline: Smith defends Trump prosecutions at Senate Judiciary hearing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6008
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6477
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6161
 - slug: 2026-07-18-young-conservatives-recast-nixon-as-america-first-forerunner
   headline: Young conservatives recast Nixon as 'America First' forerunner
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.6796
+  strength: 0.6794
 - slug: 2026-06-26-vance-says-watergate-would-be-a-12-hour-news-story-today
   headline: Vance says Watergate would be a '12-hour news story' today
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.716
-- slug: 2026-08-14-doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
-  headline: DOJ's new fraud division faces internal strife, stalled investigations
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6028
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.635
-- slug: 2026-07-23-jordan-refers-smith-to-doj-over-alleged-false-congressional-testimony
-  headline: Jordan refers Smith to DOJ over alleged false congressional testimony
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.596
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5975
-- slug: 2026-07-01-doj-to-review-over-1-000-illinois-grand-jury-presentations-after-misconduct
-  headline: DOJ to review over 1,000 Illinois grand jury presentations after misconduct
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6004
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.604
-- slug: 2026-06-10-u-s-attorney-jeanine-pirro-subpoenas-big-banks-over-alleged-debanking
-  headline: U.S. Attorney Jeanine Pirro Subpoenas Big Banks Over Alleged 'Debanking'
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6074
-- slug: 2026-04-15-trump-justice-department-fires-four-face-act-prosecutors-amid-bias-probe
-  headline: Trump Justice Department fires four FACE Act prosecutors amid bias probe
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.628
-- slug: 2026-04-20-weinstein-rape-retrial-opens-in-new-york-for-third-time-in-pared-down-case
-  headline: Weinstein rape retrial opens in New York for third time in pared-down case
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6197
-- slug: 2026-05-19-pentagon-watchdog-to-evaluate-targeting-framework-in-boat-strikes-that-killed-ne
-  headline: Pentagon watchdog to evaluate targeting framework in boat strikes that killed nearly 200
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5979
-- slug: 2026-05-19-trump-doj-launches-1-776b-anti-weaponization-fund-for-allied-claims
-  headline: Trump DOJ launches $1.776B “Anti-Weaponization Fund” for allied claims
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5969
-- slug: 2026-05-03-trump-officials-cited-for-widespread-noncompliance-with-court-orders
-  headline: Trump officials cited for widespread noncompliance with court orders
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6061
-- slug: 2026-05-15-ap-emails-reveal-fbi-director-patel-took-vip-snorkel-at-pearl-harbor-memorial
-  headline: FBI Director Patel took VIP snorkel at Pearl Harbor memorial
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.598
-- slug: 2026-04-21-harvey-weinstein-s-rape-retrial-opens-in-new-york-for-the-third-time
-  headline: Harvey Weinstein’s rape retrial opens in New York for the third time
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6087
-- slug: 2026-01-23-justice-department-calls-smith-report-illicit-and-seeks-permanent-seal
-  headline: Justice Department calls Smith report 'illicit' and seeks permanent seal
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6223
+  strength: 0.7159
 ---
-
 ## DOJ opens preliminary review of Watergate special prosecutors' conduct
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: DNC sues Trump administration over overseas voting form changes
-secondary_headline: Pentagon sought to eliminate checkbox for citizens who never lived in US
+secondary_headline: Pentagon sought to eliminate checkbox for citizens who never lived
+  in US
 publish_date: '2026-10-01'
-lede: The Democratic National Committee filed a federal lawsuit on Thursday against the Trump administration, challenging the Pentagon's last-minute changes to the form that overseas U.S. citizens use to register and request absentee ballots. The complaint targets an August decision to strip from the Federal Post Card Application (FPCA) the option that allows U.S. citizens who have never lived in the country to identify themselves when requesting a ballot.
-nut_graf: The lawsuit, filed in U.S. District Court for the District of Columbia, asks a judge to declare that the changes violated the Administrative Procedure Act and to set them aside. With the deadline to dispatch overseas ballots already passing, the form revisions could affect how an estimated 2.2 million voting-eligible U.S. citizens abroad request their mail ballots in the 2026 midterms.
+lede: The Democratic National Committee filed a federal lawsuit on Thursday against
+  the Trump administration, challenging the Pentagon's last-minute changes to the
+  form that overseas U.S. citizens use to register and request absentee ballots. The
+  complaint targets an August decision to strip from the Federal Post Card Application
+  (FPCA) the option that allows U.S. citizens who have never lived in the country
+  to identify themselves when requesting a ballot.
+nut_graf: The lawsuit, filed in U.S. District Court for the District of Columbia,
+  asks a judge to declare that the changes violated the Administrative Procedure Act
+  and to set them aside. With the deadline to dispatch overseas ballots already passing,
+  the form revisions could affect how an estimated 2.2 million voting-eligible U.S.
+  citizens abroad request their mail ballots in the 2026 midterms.
 primary_entities:
 - Democratic National Committee
 - Trump administration
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +156,43 @@ related_stories:
   headline: Pentagon drops 'never lived in US' option from overseas voter forms
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7694
+  strength: 0.7705
 - slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
   headline: Supreme Court allows federal database to check voter citizenship
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6892
+  strength: 0.6894
 - slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
   headline: Democrats, retired military lawyers press Trump on National Guard at polls
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6658
+  strength: 0.6673
 - slug: 2026-09-18-naacp-sues-trump-administration-over-federal-agents-at-polls
   headline: NAACP sues Trump administration over federal agents at polls
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6952
+  strength: 0.6964
 - slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
   headline: Whistleblower alleges federal agents misled states to access voter records
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6668
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6643
+  strength: 0.6676
 - slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
   headline: Solicitor general files appeal to revive blocked immigration-voter database
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.689
+  strength: 0.6895
 - slug: 2026-09-09-appeals-courts-to-rule-on-trump-usps-mail-ballot-rules-for-midterms
   headline: Appeals courts to rule on Trump USPS mail ballot rules for midterms
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6827
+  strength: 0.6838
 - slug: 2026-09-09-trump-officials-propose-major-2030-census-overhaul-excluding-noncitizens
   headline: Trump officials propose major 2030 census overhaul excluding noncitizens
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6788
-- slug: 2026-09-03-trump-administration-misses-citizenship-list-deadline-as-epic-files-motion
-  headline: Trump administration misses citizenship list deadline as EPIC files motion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6852
-- slug: 2026-09-04-trump-administration-asks-supreme-court-to-lift-usps-mail-ballot-block
-  headline: Trump administration asks Supreme Court to lift USPS mail-ballot block
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6732
-- slug: 2026-09-02-immigrant-rights-group-sues-to-block-federal-voter-database-use
-  headline: Immigrant rights group sues to block federal voter database use
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6683
-- slug: 2026-08-26-24-attorneys-general-pennsylvania-governor-sue-usps-over-mail-voting-rule
-  headline: 24 attorneys general, Pennsylvania governor sue USPS over mail voting rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6745
-- slug: 2026-08-22-usps-mail-in-voting-rule-set-for-wednesday-publication-as-two-court-injunctions-
-  headline: USPS mail-in voting rule set for Wednesday publication as two court injunctions stand
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6661
-- slug: 2026-08-18-cities-counties-sue-over-election-rules-tied-to-security-funds
-  headline: Cities, counties sue over election rules tied to security funds
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.675
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6851
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.668
-- slug: 2026-07-23-two-dozen-states-sue-over-disaster-funding-conditions
-  headline: Two dozen states sue over disaster funding conditions
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6676
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.71
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6647
+  strength: 0.6791
 ---
-
 ## DNC sues Trump administration over overseas voting form changes
 
 **Subtype:** fact

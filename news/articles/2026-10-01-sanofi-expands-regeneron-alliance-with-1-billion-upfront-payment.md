@@ -2,8 +2,15 @@
 headline: Sanofi expands Regeneron alliance with $1 billion upfront payment
 secondary_headline: RBC says AI demand is emerging as drug supply-chain growth driver
 publish_date: '2026-10-01'
-lede: Sanofi has expanded its alliance with Regeneron Pharmaceuticals, agreeing to pay $1 billion upfront and up to $7 billion tied to targets for access to four new drug candidates invented by its U.S. partner. J.P. Morgan analysts called the conclusion of the negotiations positive for the French drugmaker, and Jefferies analysts said the expansion signals progress under Sanofi's new Chief Executive, Belen Garijo.
-nut_graf: The agreement is Sanofi's first step toward addressing its long-term outlook, according to Jefferies, which said the company still needs acquisitions and a settlement over Dupixent's patents to fill the sales hole left by the medicine's expected expiration between 2031 and 2032.
+lede: Sanofi has expanded its alliance with Regeneron Pharmaceuticals, agreeing to
+  pay $1 billion upfront and up to $7 billion tied to targets for access to four new
+  drug candidates invented by its U.S. partner. J.P. Morgan analysts called the conclusion
+  of the negotiations positive for the French drugmaker, and Jefferies analysts said
+  the expansion signals progress under Sanofi's new Chief Executive, Belen Garijo.
+nut_graf: The agreement is Sanofi's first step toward addressing its long-term outlook,
+  according to Jefferies, which said the company still needs acquisitions and a settlement
+  over Dupixent's patents to fill the sales hole left by the medicine's expected expiration
+  between 2031 and 2032.
 primary_entities:
 - Sanofi
 - Regeneron Pharmaceuticals
@@ -49,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +155,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-22-cyera-raises-400-million-extension-from-goldman-sachs-alternatives
-  headline: Cyera raises $400 million extension from Goldman Sachs Alternatives
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6009
-- slug: 2026-09-16-openai-in-early-talks-for-funding-round-at-1-2-trillion-valuation
-  headline: OpenAI in early talks for funding round at $1.2 trillion valuation
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6183
-- slug: 2026-09-17-salesforce-sets-fiscal-2030-revenue-target-above-wall-street-estimates
-  headline: Salesforce sets fiscal 2030 revenue target above Wall Street estimates
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6092
-- slug: 2026-09-10-rogo-raises-roughly-30-million-to-deploy-ai-across-finance
-  headline: Rogo raises roughly $30 million to deploy AI across finance
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6231
-- slug: 2026-09-14-venture-capital-tightens-for-second-wave-ai-startups
-  headline: Venture capital tightens for second-wave AI startups
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-11-ipsen-weighs-return-of-u-s-manufacturing-plant-amid-tariff-pressure
-  headline: Ipsen weighs return of U.S. manufacturing plant amid tariff pressure
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6111
-- slug: 2026-09-04-analyst-notes-move-shares-of-hutchmed-nakanishi-astrazeneca-and-bayer
-  headline: Analyst notes move shares of Hutchmed, Nakanishi, AstraZeneca, and Bayer
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6075
-- slug: 2026-08-31-tech-analyst-notes-span-tencent-ai-release-fed-capex-comments
-  headline: Tech analyst notes span Tencent AI release, Fed capex comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6062
 - slug: 2026-07-24-regeneron-bets-on-science-over-acquisitions-as-flagship-drugs-face-pressure
   headline: Regeneron bets on science over acquisitions as flagship drugs face pressure
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6948
+  strength: 0.6949
 - slug: 2026-06-23-sanofi-wins-eu-approval-for-multiple-sclerosis-drug-after-fda-rejection
   headline: Sanofi wins EU approval for multiple sclerosis drug after FDA rejection
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6544
-- slug: 2026-07-24-roche-beats-first-half-profit-estimates-as-ceo-flags-deal-discipline
-  headline: Roche beats first-half profit estimates as CEO flags deal discipline
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5953
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6
-- slug: 2026-07-12-ai-shows-promise-in-drug-labs-commercial-payoff-years-away
-  headline: AI shows promise in drug labs; commercial payoff years away
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6012
-- slug: 2026-07-01-ipsen-proposes-to-buy-memo-therapeutics-in-deal-worth-up-to-700-million
-  headline: Ipsen Proposes to Buy Memo Therapeutics in Deal Worth Up to €700 Million
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6149
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6071
-- slug: 2026-06-26-deepseek-plans-to-double-workforce-after-7-4b-funding-round
-  headline: DeepSeek plans to double workforce after $7.4B funding round
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6041
-- slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
-  headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6136
-- slug: 2026-06-09-apple-unveils-ai-revamp-tencent-positions-weixin-as-ai-gateway
-  headline: Apple unveils AI revamp, Tencent positions Weixin as AI gateway
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6217
-- slug: 2026-06-26-on-semi-to-buy-synaptics-for-7b-bitcoin-pressures-mount
-  headline: ON Semi to Buy Synaptics for $7B; Bitcoin Pressures Mount
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5934
-- slug: 2026-06-03-market-research-firm-alphasense-clinches-7-5-billion-valuation-in-new-funding-ro
-  headline: Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6003
+  strength: 0.6547
 ---
-
 ## Sanofi expands Regeneron alliance with $1 billion upfront payment
 
 **Subtype:** fact

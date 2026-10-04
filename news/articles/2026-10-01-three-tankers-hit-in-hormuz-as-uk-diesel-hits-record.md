@@ -1,9 +1,19 @@
 ---
 headline: Three tankers hit in Hormuz as UK diesel hits record
-secondary_headline: China reportedly suspends oil-product exports beyond Hong Kong and Macau
+secondary_headline: China reportedly suspends oil-product exports beyond Hong Kong
+  and Macau
 publish_date: '2026-10-01'
-lede: Projectiles hit three Liberian-flagged tankers in the Strait of Hormuz on Tuesday, the same week the average UK diesel price hit an all-time high of 199.18p a litre. China reportedly suspended oil-product exports beyond Hong Kong and Macau, a move oil analysts said could signal concern about domestic supply, helping push Brent crude back above $100 a barrel on Thursday.
-nut_graf: Eight months into the war, launched on 28 February with US and Israeli strikes on Iran, analysts say Iran's control of the strait appears to have declined as producers built out pipeline bypasses and ship-to-ship transfer fleets. Crude volumes through the strait have recovered to pre-war levels, but refined products such as diesel remain sharply constrained, and shipping analysts warn the underlying threat to vessels has not disappeared.
+lede: Projectiles hit three Liberian-flagged tankers in the Strait of Hormuz on Tuesday,
+  the same week the average UK diesel price hit an all-time high of 199.18p a litre.
+  China reportedly suspended oil-product exports beyond Hong Kong and Macau, a move
+  oil analysts said could signal concern about domestic supply, helping push Brent
+  crude back above $100 a barrel on Thursday.
+nut_graf: Eight months into the war, launched on 28 February with US and Israeli strikes
+  on Iran, analysts say Iran's control of the strait appears to have declined as producers
+  built out pipeline bypasses and ship-to-ship transfer fleets. Crude volumes through
+  the strait have recovered to pre-war levels, but refined products such as diesel
+  remain sharply constrained, and shipping analysts warn the underlying threat to
+  vessels has not disappeared.
 primary_entities:
 - Strait of Hormuz
 - Lloyd's List
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +152,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
+  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7674
+- slug: 2026-10-02-crude-futures-jump-4-4-to-102-31-despite-hormuz-rebound
+  headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7498
 - slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
   headline: Russia bans diesel exports after Ukraine refinery attacks
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7661
+  strength: 0.7655
 - slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
   headline: Oil rises on Hormuz risks as Saudi crude flows rebound
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7977
+  strength: 0.7974
 - slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
   headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7563
+  strength: 0.7554
 - slug: 2026-09-22-european-energy-stocks-rise-as-oil-rebounds-on-hormuz-risks
   headline: European energy stocks rise as oil rebounds on Hormuz risks
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7694
+  strength: 0.7685
 - slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
   headline: UK diesel prices head toward £2 a litre as wars cut global refining
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7641
+  strength: 0.7628
 - slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
+  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic
+    hopes
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7478
-- slug: 2026-09-10-oil-and-diesel-futures-hit-multi-month-highs-as-us-iran-conflict-escalates
-  headline: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.75
-- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
-  headline: Oil reaches $105 amid signs Middle East conflict will persist
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7464
-- slug: 2026-09-01-oil-climbs-further-asian-shares-mixed-after-renewed-iran-fighting
-  headline: Oil climbs further, Asian shares mixed after renewed Iran fighting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7516
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.763
-- slug: 2026-08-10-oil-rises-as-iran-demands-u-s-withdrawal-to-reopen-strait-of-hormuz
-  headline: Oil rises as Iran demands U.S. withdrawal to reopen Strait of Hormuz
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7503
-- slug: 2026-06-01-uk-pump-prices-climb-as-strait-of-hormuz-closure-pushes-crude-past-120
-  headline: UK pump prices climb as Strait of Hormuz closure pushes crude past $120
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8227
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
   strength: 0.7472
-- slug: 2026-06-25-oil-falls-to-prewar-levels-as-gulf-flows-through-hormuz-pick-up
-  headline: Oil falls to prewar levels as Gulf flows through Hormuz pick up
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7711
-- slug: 2026-06-26-uk-pump-prices-fall-as-brent-crude-returns-to-pre-iran-war-levels
-  headline: UK pump prices fall as Brent crude returns to pre-Iran war levels
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7465
-- slug: 2026-06-14-oil-may-fall-to-80-a-barrel-by-year-end-if-strait-of-hormuz-stays-open-cba-analy
-  headline: Oil may fall to $80 a barrel by year-end if Strait of Hormuz stays open, CBA analyst says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7514
-- slug: 2026-06-16-oil-falls-strait-of-hormuz-reopening-eyed-as-u-s--iran-deal-nears
-  headline: Oil Falls, Strait of Hormuz Reopening Eyed as U.S.-Iran Deal Nears
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7468
-- slug: 2026-03-02-oil-prices-rise-sharply-after-us-and-israeli-attacks-disrupt-hormuz
-  headline: Oil prices rise sharply after US and Israeli attacks disrupt Hormuz
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7728
-- slug: 2026-04-19-oil-prices-climb-6-after-iran-reverses-strait-of-hormuz-reopening
-  headline: Oil prices climb 6% after Iran reverses Strait of Hormuz reopening
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.7569
-- slug: 2026-04-17-strait-of-hormuz-reopens-oil-prices-fall-10-but-gasoline-relief-will-take-months
-  headline: Strait of Hormuz reopens; oil prices fall 10% but gasoline relief will take months
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7495
 ---
-
 ## Three tankers hit in Hormuz as UK diesel hits record
 
 **Subtype:** fact

@@ -2,8 +2,13 @@
 headline: Judge dismisses Reflecting Pool case against Olympian, bars future charges
 secondary_headline: Edelman says Trump pressure created risk of re-prosecution
 publish_date: '2026-10-01'
-lede: D.C. Superior Court Judge Todd Edelman dismissed the criminal case against former Olympian David Hearn with prejudice on Thursday, barring the Trump administration from reviving a felony vandalism charge related to the Lincoln Memorial Reflecting Pool.
-nut_graf: The ruling adds a layer of judicial protection for Hearn, a three-time Olympic white water canoe racer, after U.S. Attorney Jeanine Pirro's office conceded in July that the pool's damage stemmed from a botched installation rather than vandalism.
+lede: D.C. Superior Court Judge Todd Edelman dismissed the criminal case against former
+  Olympian David Hearn with prejudice on Thursday, barring the Trump administration
+  from reviving a felony vandalism charge related to the Lincoln Memorial Reflecting
+  Pool.
+nut_graf: The ruling adds a layer of judicial protection for Hearn, a three-time Olympic
+  white water canoe racer, after U.S. Attorney Jeanine Pirro's office conceded in
+  July that the pool's damage stemmed from a botched installation rather than vandalism.
 primary_entities:
 - David Hearn
 - Todd Edelman
@@ -41,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +149,47 @@ related_stories:
   headline: Trump presses Pirro over reflecting pool case after charges dropped
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.8494
+  strength: 0.8504
 - slug: 2026-07-31-us-drops-reflecting-pool-vandalism-case-against-former-olympian
   headline: US drops Reflecting Pool vandalism case against former Olympian
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.8458
+  strength: 0.8452
 - slug: 2026-09-11-reflecting-pool-contractor-admits-installation-flaws-in-its-repair-plan
   headline: Reflecting pool contractor admits installation flaws in its repair plan
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6854
+  strength: 0.6868
 - slug: 2026-07-20-ex-olympian-david-hearn-gets-sept-28-trial-date-in-reflecting-pool-case
   headline: Ex-Olympian David Hearn gets Sept. 28 trial date in Reflecting Pool case
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.8268
+  strength: 0.826
 - slug: 2026-08-14-justice-department-will-file-two-felony-charges-in-world-war-ii-memorial-case
-  headline: Justice Department will file two felony charges in World War II Memorial case
+  headline: Justice Department will file two felony charges in World War II Memorial
+    case
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7324
+  strength: 0.7326
 - slug: 2026-07-02-former-olympic-canoeist-indicted-for-vandalizing-lincoln-memorial-reflecting-poo
-  headline: Former Olympic canoeist indicted for vandalizing Lincoln Memorial Reflecting Pool
+  headline: Former Olympic canoeist indicted for vandalizing Lincoln Memorial Reflecting
+    Pool
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7844
+  strength: 0.7842
 - slug: 2026-07-03-federal-grand-jury-indicts-olympic-canoe-racer-in-national-mall-pool-damage-case
-  headline: Federal grand jury indicts Olympic canoe racer in National Mall pool damage case
+  headline: Federal grand jury indicts Olympic canoe racer in National Mall pool damage
+    case
   publish_date: '2026-07-03'
   relation: related
-  strength: 0.7789
-- slug: 2026-07-27-ex-olympian-accused-of-damaging-reflecting-pool-seeks-grand-jury-testimony
-  headline: Ex-Olympian accused of damaging Reflecting Pool seeks grand jury testimony
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.727
+  strength: 0.7785
 - slug: 2026-07-09-david-hearn-pleads-not-guilty-attorney-says-pool-touch-charge-puts-every-america
-  headline: David Hearn pleads not guilty; attorney says pool-touch charge puts 'every American at risk'
+  headline: David Hearn pleads not guilty; attorney says pool-touch charge puts 'every
+    American at risk'
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.7631
-- slug: 2026-06-20-former-olympian-arrested-after-touching-peeling-paint-at-lincoln-reflecting-pool
-  headline: Former Olympian arrested after touching peeling paint at Lincoln Reflecting Pool
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7498
-- slug: 2026-08-13-critics-warn-trump-s-demands-risk-undermining-national-park-service
-  headline: Critics warn Trump's demands risk undermining National Park Service
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6172
-- slug: 2026-06-24-trump-faces-pressure-to-release-proof-of-reflecting-pool-sabotage
-  headline: Trump faces pressure to release proof of reflecting pool sabotage
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6939
-- slug: 2026-06-23-dc-man-arrested-near-reflecting-pool-plans-to-fight-obscenity-charge
-  headline: DC man arrested near reflecting pool plans to fight obscenity charge
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.647
-- slug: 2026-06-20-trump-blames-vandalism-for-algae-peeling-paint-at-14-2m-reflecting-pool
-  headline: Trump blames vandalism for algae, peeling paint at $14.2M reflecting pool
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6496
-- slug: 2026-06-21-trump-says-vandals-cut-gash-in-reflecting-pool-blames-algae-and-peeling-paint
-  headline: Trump says vandals cut gash in reflecting pool, blames algae and peeling paint
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6467
-- slug: 2026-06-28-greenwater-services-partly-owned-by-trump-s-friend-cafaro-lands-1-7m-no-bid-pool
-  headline: Greenwater Services, partly owned by Trump's friend Cafaro, lands $1.7M no-bid pool contract
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6229
-- slug: 2026-06-05-water-returns-to-lincoln-memorial-reflecting-pool-after-contentious-repaint
-  headline: Water returns to Lincoln Memorial Reflecting Pool after contentious repaint
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6474
-- slug: 2026-06-23-wsj-reporter-describes-peeling-paint-multicolored-water-at-lincoln-reflecting-po
-  headline: WSJ reporter describes peeling paint, multicolored water at Lincoln Reflecting Pool
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6078
-- slug: 2026-05-10-trump-s-american-flag-blue-repaint-of-the-reflecting-pool-faces-lawsuit
-  headline: Trump’s “American flag blue” repaint of the Reflecting Pool faces lawsuit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6486
-- slug: 2026-05-10-nonprofit-sues-to-halt-trump-administration-s-american-flag-blue-repaint-of-nati
-  headline: Nonprofit sues to halt Trump administration's 'American flag blue' repaint of National Mall Reflecting Pool
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6434
+  strength: 0.763
 ---
-
 ## Judge dismisses Reflecting Pool case against Olympian, bars future charges
 
 **Subtype:** fact

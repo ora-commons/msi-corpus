@@ -2,14 +2,22 @@
 headline: UK joins European diesel-reserve talks after US export-ban warning
 secondary_headline: US tells Germany and France to release stockpiles or face ban
 publish_date: '2026-10-01'
-lede: 'Martin McCluskey, the UK minister for local energy, joined counterparts from the European Commission, Germany, France, Italy and Ireland on Thursday to discuss drawing down emergency diesel reserves after the Trump administration told Germany and France to release their stockpiles or face a US diesel export ban.
+lede: 'Martin McCluskey, the UK minister for local energy, joined counterparts from
+  the European Commission, Germany, France, Italy and Ireland on Thursday to discuss
+  drawing down emergency diesel reserves after the Trump administration told Germany
+  and France to release their stockpiles or face a US diesel export ban.
 
 
-  UK diesel prices hit a record 199.72p per litre on Wednesday, according to the RAC, with the UK importing about a third of its diesel from the US last year.
+  UK diesel prices hit a record 199.72p per litre on Wednesday, according to the RAC,
+  with the UK importing about a third of its diesel from the US last year.
 
 
-  Chancellor John Healey acknowledged the prices were "extreme" and said the government was in talks with Washington to try to prevent a ban.'
-nut_graf: The pressure comes as the Iran war has pushed Brent crude above $101 a barrel from about $72 in February, disrupting supplies through the Strait of Hormuz and forcing European governments to weigh lower fuel prices against maintaining reserves for a potential winter energy crisis.
+  Chancellor John Healey acknowledged the prices were "extreme" and said the government
+  was in talks with Washington to try to prevent a ban.'
+nut_graf: The pressure comes as the Iran war has pushed Brent crude above $101 a barrel
+  from about $72 in February, disrupting supplies through the Strait of Hormuz and
+  forcing European governments to weigh lower fuel prices against maintaining reserves
+  for a potential winter energy crisis.
 primary_entities:
 - United Kingdom
 - European Commission
@@ -55,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +166,43 @@ related_stories:
   headline: Healey says UK preparing for diesel export ban as fuel prices hit record
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8917
+  strength: 0.8932
+- slug: 2026-10-02-uk-transport-minister-says-country-is-not-facing-diesel-shortage
+  headline: UK transport minister says country is not facing diesel shortage
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8203
 - slug: 2026-09-29-uk-and-france-push-back-on-trump-s-diesel-export-ban-plan
   headline: UK and France push back on Trump's diesel export ban plan
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8261
+  strength: 0.8269
+- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
+  headline: Diesel prices hit records in US and EU as wars curb global supply
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.7996
 - slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
   headline: Trump backs diesel export ban to ease record US pump prices
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.805
-- slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
-  headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
-  publish_date: '2026-09-28'
+  strength: 0.8054
+- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
+  headline: Cornwall Insight projects 16% rise in UK energy price cap
+  publish_date: '2026-10-02'
   relation: related
-  strength: 0.7686
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
+  strength: 0.7826
+- slug: 2026-10-02-uk-diesel-average-breaks-2-a-litre-for-the-first-time
+  headline: UK diesel average breaks £2 a litre for the first time
+  publish_date: '2026-10-02'
   relation: related
-  strength: 0.7772
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
+  strength: 0.7753
+- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
+  headline: G7 to coordinate refinery maintenance as diesel supply tightens
+  publish_date: '2026-10-02'
   relation: related
-  strength: 0.7728
-- slug: 2026-09-23-trump-weighs-diesel-export-ban-as-fuel-prices-hit-record-high
-  headline: Trump weighs diesel export ban as fuel prices hit record high
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7729
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7394
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7199
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7777
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7612
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7661
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7498
-- slug: 2026-09-22-api-chief-warns-diesel-export-ban-would-compound-fuel-price-problem
-  headline: API chief warns diesel export ban would compound fuel price problem
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7327
-- slug: 2026-09-24-australian-diesel-prices-could-push-past-3-a-litre-on-us-export-ban-risk
-  headline: Australian diesel prices could push past $3 a litre on US export ban risk
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7201
-- slug: 2026-09-23-wright-outlines-voluntary-diesel-export-restrictions-over-ban
-  headline: Wright outlines voluntary diesel export restrictions over ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7192
-- slug: 2026-09-24-oil-industry-launches-lobbying-push-against-trump-s-diesel-export-restriction
-  headline: Oil industry launches lobbying push against Trump's diesel export restriction
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7121
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7436
-- slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7023
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7063
+  strength: 0.7674
 ---
-
 ## UK joins European diesel-reserve talks after US export-ban warning
 
 - UK minister Martin McCluskey joined counterparts from the European Commission, Germany, France, Italy and Ireland on Thursday to discuss drawing down emergency diesel reserves.

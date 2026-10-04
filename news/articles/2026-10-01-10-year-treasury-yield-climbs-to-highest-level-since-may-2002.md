@@ -2,8 +2,15 @@
 headline: 10-year Treasury yield climbs to highest level since May 2002
 secondary_headline: Ford F-150 production halted for about a week at Michigan plant
 publish_date: '2026-10-01'
-lede: The 10-year Treasury yield rose to 5.26% on Oct. 1, 2026, its highest level since May 2002, according to FRED data. The Wall Street Journal, citing Tradeweb, reported the yield pushed past its 2007 intraday peak of 5.303% in afternoon trading Wednesday.
-nut_graf: The yield move came as The Wall Street Journal's Morning Ledger newsletter also tracked a week-long production halt at Ford Motor's key F-150 truck plant in Michigan, new chief financial officers at Levi Strauss and Albertsons, and ongoing Tax Court cases over the meaning of 'and continuing' in President Trump's 2020 Covid-19 pandemic disaster declaration.
+lede: The 10-year Treasury yield rose to 5.26% on Oct. 1, 2026, its highest level
+  since May 2002, according to FRED data. The Wall Street Journal, citing Tradeweb,
+  reported the yield pushed past its 2007 intraday peak of 5.303% in afternoon trading
+  Wednesday.
+nut_graf: The yield move came as The Wall Street Journal's Morning Ledger newsletter
+  also tracked a week-long production halt at Ford Motor's key F-150 truck plant in
+  Michigan, new chief financial officers at Levi Strauss and Albertsons, and ongoing
+  Tax Court cases over the meaning of 'and continuing' in President Trump's 2020 Covid-19
+  pandemic disaster declaration.
 primary_entities:
 - 10-year Treasury note
 - Ford Motor
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +66,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: 2026-10-01
-  caption: The 10-year Treasury yield stood at 5.26% on Oct. 1, 2026, its highest level since May 2002, according to FRED data. The benchmark yield influences mortgage rates and corporate borrowing costs.
+  caption: The 10-year Treasury yield stood at 5.26% on Oct. 1, 2026, its highest
+    level since May 2002, according to FRED data. The benchmark yield influences mortgage
+    rates and corporate borrowing costs.
 figures_aggregate:
   count: 1
   series_ids:
@@ -148,108 +158,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-french-bond-yields-hit-highest-since-2002-as-borrowing-costs-surge
+  headline: French bond yields hit highest since 2002 as borrowing costs surge
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.6981
+- slug: 2026-10-02-mortgage-rates-climb-to-7-28-in-largest-weekly-jump-since-2022
+  headline: Mortgage rates climb to 7.28% in largest weekly jump since 2022
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.6785
 - slug: 2026-09-24-us-30-year-mortgage-rate-tops-7-for-first-time-since-january-2025
   headline: US 30-year mortgage rate tops 7% for first time since January 2025
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7236
+  strength: 0.7234
 - slug: 2026-09-24-global-bond-sell-off-deepens-after-us-flash-pmi-shows-activity-at-five-year-high
-  headline: Global bond sell-off deepens after US flash PMI shows activity at five-year high
+  headline: Global bond sell-off deepens after US flash PMI shows activity at five-year
+    high
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6863
+  strength: 0.6864
 - slug: 2026-09-14-10-year-treasury-yield-briefly-tops-5-as-fed-meeting-approaches
   headline: 10-year Treasury yield briefly tops 5% as Fed meeting approaches
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7425
+  strength: 0.7431
 - slug: 2026-09-20-treasury-yields-hit-4-94-amid-iran-war-and-ai-debt-fears
   headline: Treasury yields hit 4.94% amid Iran war and AI debt fears
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7015
+  strength: 0.7018
 - slug: 2026-09-25-asian-bond-yields-rise-despite-oil-pullback-as-treasury-yields-hit-2007-highs
-  headline: Asian bond yields rise despite oil pullback as Treasury yields hit 2007 highs
+  headline: Asian bond yields rise despite oil pullback as Treasury yields hit 2007
+    highs
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6648
+  strength: 0.6646
 - slug: 2026-09-15-bessent-claims-treasury-bond-buybacks-a-success-despite-rising-yields
   headline: Bessent claims Treasury bond buybacks a success, despite rising yields
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.717
-- slug: 2026-09-24-global-bond-sell-off-raises-uk-gilt-yields-to-near-19-year-high
-  headline: Global bond sell-off raises UK gilt yields to near 19-year high
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6597
-- slug: 2026-09-01-us-10-year-treasury-yield-hits-4-79-amid-renewed-middle-east-strikes
-  headline: US 10-year Treasury yield hits 4.79% amid renewed Middle East strikes
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7539
-- slug: 2026-09-10-bond-selloff-could-raise-borrowing-costs-for-consumers-and-businesses
-  headline: Bond selloff could raise borrowing costs for consumers and businesses
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7061
-- slug: 2026-09-09-treasury-to-buy-back-6bn-in-bonds-as-30-year-yields-keep-climbing
-  headline: Treasury to buy back $6bn in bonds as 30-year yields keep climbing
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6925
-- slug: 2026-09-16-fed-raises-benchmark-rate-a-quarter-point-to-3-75--4-first-hike-since-2023
-  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since 2023
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6413
-- slug: 2026-09-08-treasury-auctions-30-year-gilts-at-5-82-highest-yield-since-1998
-  headline: Treasury auctions 30-year gilts at 5.82%, highest yield since 1998
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6664
-- slug: 2026-08-18-bond-selloff-lifts-30-year-treasury-yield-past-5-3-for-first-time-since-2007
-  headline: Bond selloff lifts 30-year Treasury yield past 5.3% for first time since 2007
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7297
-- slug: 2026-08-24-treasury-yields-rebound-after-bessent-announces-more-bond-purchases
-  headline: Treasury yields rebound after Bessent announces more bond purchases
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7035
-- slug: 2026-08-19-treasury-doubles-bond-buybacks-to-ease-30-year-yields-near-20-year-high
-  headline: Treasury doubles bond buybacks to ease 30-year yields near 20-year high
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7189
-- slug: 2026-08-20-bond-sell-off-pushes-30-year-treasury-yield-to-highest-since-2007
-  headline: Bond sell-off pushes 30-year Treasury yield to highest since 2007
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7
-- slug: 2026-08-17-bond-yields-rise-to-multi-year-or-multi-decade-highs-across-major-economies
-  headline: Bond yields rise to multi-year or multi-decade highs across major economies
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6932
-- slug: 2026-08-18-u-s-stocks-drop-across-major-indices-as-treasury-yields-and-oil-prices-climb
-  headline: U.S. stocks drop across major indices as Treasury yields and oil prices climb
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6516
-- slug: 2026-06-16-treasury-yields-ease-as-markets-await-iran-deal-details-fed-meeting
-  headline: Treasury yields ease as markets await Iran deal details, Fed meeting
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6838
-- slug: 2026-05-20-bond-market-sends-warning-signals-as-yields-jump-and-stocks-slump
-  headline: Bond market sends warning signals as yields jump and stocks slump
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6868
+  strength: 0.7169
 ---
-
 ## 10-year Treasury yield climbs to highest level since May 2002
 
 **Subtype:** fact

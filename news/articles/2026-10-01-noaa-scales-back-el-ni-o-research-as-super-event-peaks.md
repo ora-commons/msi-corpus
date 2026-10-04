@@ -1,9 +1,21 @@
 ---
 headline: NOAA scales back El Niño research as super event peaks
-secondary_headline: Four unmanned watercraft replace the ships, planes and balloons of 2016
+secondary_headline: Four unmanned watercraft replace the ships, planes and balloons
+  of 2016
 publish_date: '2026-10-01'
-lede: A powerful El Niño now building in the Pacific Ocean is already influencing extreme weather worldwide, and federal forecasters say it could become the strongest in recorded history, according to NPR. The National Oceanic and Atmospheric Administration is responding with a research campaign that is markedly smaller than the one it mounted for the 2015-16 event — four wind-powered unmanned watercraft rather than the research ship, aircraft and weather balloons deployed a decade ago.
-nut_graf: Super El Niños are infrequent and few have been scientifically observed in detail, making each one a rare opportunity to refine forecasts that warn communities of floods, droughts and storms. Ten weather and climate researchers who spoke with NPR described this event as a crucial case study, but said NOAA's capacity to study it has shrunk as the agency has lost more than 2,000 staff since President Trump began his second term and as the Trump administration seeks to eliminate NOAA's research arm for a second consecutive year.
+lede: A powerful El Niño now building in the Pacific Ocean is already influencing
+  extreme weather worldwide, and federal forecasters say it could become the strongest
+  in recorded history, according to NPR. The National Oceanic and Atmospheric Administration
+  is responding with a research campaign that is markedly smaller than the one it
+  mounted for the 2015-16 event — four wind-powered unmanned watercraft rather than
+  the research ship, aircraft and weather balloons deployed a decade ago.
+nut_graf: Super El Niños are infrequent and few have been scientifically observed
+  in detail, making each one a rare opportunity to refine forecasts that warn communities
+  of floods, droughts and storms. Ten weather and climate researchers who spoke with
+  NPR described this event as a crucial case study, but said NOAA's capacity to study
+  it has shrunk as the agency has lost more than 2,000 staff since President Trump
+  began his second term and as the Trump administration seeks to eliminate NOAA's
+  research arm for a second consecutive year.
 primary_entities:
 - NOAA
 - National Oceanic and Atmospheric Administration
@@ -54,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +169,44 @@ related_stories:
   headline: WMO warns strongest El Niño in 70 years set to intensify into winter
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.8276
+  strength: 0.8278
 - slug: 2026-09-29-el-ni-o-sets-century-record-for-atlantic-hurricane-drought
   headline: El Niño sets century record for Atlantic hurricane drought
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7537
+  strength: 0.7534
 - slug: 2026-09-28-kelvin-wave-could-raise-california-sea-levels-by-up-to-a-foot-for-months
   headline: Kelvin wave could raise California sea levels by up to a foot for months
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7435
+  strength: 0.7443
 - slug: 2026-09-15-this-year-s-el-ni-o-ranks-among-the-strongest-on-record
   headline: This year's El Niño ranks among the strongest on record
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8107
+  strength: 0.8112
 - slug: 2026-09-23-hurricane-polo-reaches-category-5-off-mexico-s-pacific-coast
   headline: Hurricane Polo reaches Category 5 off Mexico's Pacific coast
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.731
+  strength: 0.7309
 - slug: 2026-09-21-newsom-declares-california-emergency-ahead-of-record-strength-el-ni-o
   headline: Newsom declares California emergency ahead of record-strength El Niño
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7215
+  strength: 0.7219
 - slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
+  headline: UN says this year's El Niño is strongest in 70 years, set to persist into
+    2027
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7572
+  strength: 0.7582
 - slug: 2026-08-29-strong-el-ni-o-disrupts-global-commodity-and-shipping-markets
   headline: Strong El Niño disrupts global commodity and shipping markets
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7472
-- slug: 2026-08-27-study-finds-el-ni-os-more-than-36-stronger-than-pre-industrial-era
-  headline: Study finds El Niños more than 36% stronger than pre-industrial era
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7468
-- slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
-  headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.78
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8172
-- slug: 2026-06-23-former-noaa-official-warns-trump-administration-jeopardized-el-ni-o-forecasting
-  headline: Former NOAA official warns Trump administration jeopardized El Niño forecasting
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.8107
-- slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
-  headline: Latin American governments prepare contingency plans for El Niño impacts
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7695
-- slug: 2026-06-11-el-ni-o-forms-in-pacific-forecast-to-reach-historic-strength
-  headline: El Niño forms in Pacific, forecast to reach historic strength
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8229
-- slug: 2026-07-09-el-ni-o-odds-rise-to-81-for-historic-strength-event
-  headline: El Niño odds rise to 81% for historic-strength event
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7676
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-may-bring-record-heat-and-extreme-weather-in-202
-  headline: Forecasters Warn Strong El Niño May Bring Record Heat and Extreme Weather in 2026
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8083
-- slug: 2026-07-01-scientists-fear-el-ni-o-will-worsen-california-seabird-die-off
-  headline: Scientists fear El Niño will worsen California seabird die-off
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7499
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-could-bring-heat-drought-and-heavier-rain
-  headline: Forecasters warn strong El Niño could bring heat, drought and heavier rain
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8002
-- slug: 2026-05-22-el-ni-o-may-curb-atlantic-hurricanes-noaa-still-warns-of-damaging-storms
-  headline: El Niño may curb Atlantic hurricanes, NOAA still warns of damaging storms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7825
-- slug: 2026-07-02-el-ni-o-and-45-state-drought-push-july-4-heatwave-to-100-million-americans
-  headline: El Niño and 45-state drought push July 4 heatwave to 100 million Americans
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7314
+  strength: 0.7471
 ---
-
 ## NOAA scales back El Niño research as super event peaks
 
 **Subtype:** fact

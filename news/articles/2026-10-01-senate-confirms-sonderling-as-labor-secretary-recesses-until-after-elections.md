@@ -2,8 +2,12 @@
 headline: Senate confirms Sonderling as labor secretary, recesses until after elections
 secondary_headline: Sonderling confirmed as labor secretary before recess
 publish_date: '2026-10-01'
-lede: The U.S. Senate adjourned Oct. 1 until after the November elections, allowing members facing re-election to return home and campaign. Senators are scheduled to return Nov. 9, with only eight session days in November and 14 in December, according to The Hill.
-nut_graf: Senators left a lot of unfinished work that they will have to scramble to finish in November and December, according to The Hill.
+lede: The U.S. Senate adjourned Oct. 1 until after the November elections, allowing
+  members facing re-election to return home and campaign. Senators are scheduled to
+  return Nov. 9, with only eight session days in November and 14 in December, according
+  to The Hill.
+nut_graf: Senators left a lot of unfinished work that they will have to scramble to
+  finish in November and December, according to The Hill.
 primary_entities:
 - United States Senate
 - Keith Sonderling
@@ -39,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -117,16 +122,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-01-congress-likely-done-legislating-until-after-november-midterms
+  headline: Congress likely done legislating until after November midterms
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.688
 - slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
+  headline: GOP's last-ditch affordability push falls short as polls signal chamber
+    jeopardy
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6543
+  strength: 0.6529
 - slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
   headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6838
+  strength: 0.6833
 - slug: 2026-08-31-house-returns-for-vote-on-stopgap-funding-bill-through-early-december
   headline: House returns for vote on stopgap funding bill through early December
   publish_date: '2026-08-31'
@@ -136,89 +147,24 @@ related_stories:
   headline: Senate approves funding bill to avoid election-season shutdown
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.6958
+  strength: 0.6962
 - slug: 2026-08-08-senate-leaves-for-recess-without-advancing-save-america-act
   headline: Senate leaves for recess without advancing SAVE America Act
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.667
+  strength: 0.6675
 - slug: 2026-08-02-senate-bill-would-set-next-funding-deadline-for-dec-11
   headline: Senate bill would set next funding deadline for Dec. 11
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.6688
-- slug: 2026-07-24-senate-gop-leader-says-votes-not-there-for-95b-budget-push
-  headline: Senate GOP leader says votes not there for $95B budget push
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6746
+  strength: 0.6699
 - slug: 2026-07-16-sonderling-highlights-experience-fraud-work-in-labor-secretary-confirmation-hear
-  headline: Sonderling highlights experience, fraud work in Labor secretary confirmation hearing
+  headline: Sonderling highlights experience, fraud work in Labor secretary confirmation
+    hearing
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6913
-- slug: 2026-07-13-gop-returns-to-congress-facing-a-narrower-majority-and-a-stalled-agenda
-  headline: GOP returns to Congress facing a narrower majority and a stalled agenda
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.692
-- slug: 2026-07-25-lawmakers-return-home-to-campaign-after-rockiest-house-session-in-years
-  headline: Lawmakers return home to campaign after rockiest House session in years
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6528
-- slug: 2026-06-30-trump-nominates-acting-labor-secretary-keith-sonderling-to-permanent-post
-  headline: Trump nominates acting Labor Secretary Keith Sonderling to permanent post
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6529
-- slug: 2026-05-15-senate-votes-to-withhold-members-pay-during-government-shutdowns
-  headline: Senate votes to withhold members' pay during government shutdowns
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7002
-- slug: 2026-05-15-senators-approve-withholding-their-own-pay-during-shutdowns
-  headline: Senators approve withholding their own pay during shutdowns
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6933
-- slug: 2026-05-20-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6686
-- slug: 2026-05-20-gop-rift-over-trump-s-1-8b-settlement-fund-delays-immigration-enforcement-bill
-  headline: GOP rift over Trump's $1.8B settlement fund delays immigration enforcement bill
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6653
-- slug: 2026-04-22-senate-advances-budget-plan-to-fund-ice-border-patrol-and-reopen-dhs
-  headline: Senate advances budget plan to fund ICE, Border Patrol and reopen DHS
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6761
-- slug: 2026-05-21-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6557
-- slug: 2026-05-22-congress-delays-vote-on-ice-funding-after-gop-infighting-flares
-  headline: Congress delays vote on ICE funding after GOP infighting flares
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6509
-- slug: 2026-05-22-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6504
-- slug: 2026-05-19-south-carolina-house-approves-gop-leaning-congressional-map-senate-next
-  headline: South Carolina House approves GOP-leaning congressional map, Senate next
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6517
+  strength: 0.6921
 ---
-
 ## Senate confirms Sonderling as labor secretary, recesses until after elections
 
 **Subtype:** fact

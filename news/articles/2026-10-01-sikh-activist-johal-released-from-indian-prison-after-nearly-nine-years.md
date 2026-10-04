@@ -2,8 +2,14 @@
 headline: Sikh activist Johal released from Indian prison after nearly nine years
 secondary_headline: UN found Johal's detention arbitrary in 2022
 publish_date: '2026-10-01'
-lede: Jagtar Singh Johal, a 39-year-old Scottish Sikh activist, was released from an Indian prison on Thursday after nearly nine years of detention without a conviction, according to United Press International. The release followed a Sept. 18 order from India's high court, which set conditions including surrender of his passport and a bar on speaking to media about his case.
-nut_graf: His release ends a detention the United Nations deemed arbitrary in 2022. Indian authorities alleged Johal was involved in terrorist activities, which he has denied.
+lede: Jagtar Singh Johal, a 39-year-old Scottish Sikh activist, was released from
+  an Indian prison on Thursday after nearly nine years of detention without a conviction,
+  according to United Press International. The release followed a Sept. 18 order from
+  India's high court, which set conditions including surrender of his passport and
+  a bar on speaking to media about his case.
+nut_graf: His release ends a detention the United Nations deemed arbitrary in 2022.
+  Indian authorities alleged Johal was involved in terrorist activities, which he
+  has denied.
 primary_entities:
 - Jagtar Singh Johal
 - Gurpreet Singh Johal
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +146,8 @@ cross_article_links:
   strength: 0.5461
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-30-immigration-judge-rules-wisconsin-mosque-president-removable
-  headline: Immigration judge rules Wisconsin mosque president removable
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5717
-- slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5811
-- slug: 2026-09-11-us-completes-first-deportation-through-secretive-terror-court
-  headline: US completes first deportation through secretive terror court
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5747
-- slug: 2026-08-10-federal-judge-orders-force-feeding-for-kurdish-asylum-seeker
-  headline: Federal judge orders force-feeding for Kurdish asylum seeker
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5925
-- slug: 2026-07-28-mumia-abu-jamal-petitions-un-panel-for-review-of-life-sentence
-  headline: Mumia Abu-Jamal petitions UN panel for review of life sentence
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5755
-- slug: 2026-07-24-chinese-pastor-freed-after-trump-raised-case-with-xi-recounts-release
-  headline: Chinese pastor freed after Trump raised case with Xi, recounts release
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5736
-- slug: 2026-07-21-wisconsin-mosque-president-says-ice-detention-mirrored-israeli-prison-treatment
-  headline: Wisconsin mosque president says ICE detention mirrored Israeli prison treatment
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5754
-- slug: 2026-07-15-iran-releases-wrongfully-detained-u-s-citizen-trump-says
-  headline: Iran releases wrongfully detained U.S. citizen, Trump says
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5732
-- slug: 2026-05-16-france-targets-palestinian-activist-for-deportation-ramy-shaath-says
-  headline: France targets Palestinian activist for deportation, Ramy Shaath says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5962
-- slug: 2026-04-11-immigration-board-denies-mahmoud-khalil-s-appeal-as-federal-case-continues
-  headline: Immigration board denies Mahmoud Khalil’s appeal as federal case continues
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5997
-- slug: 2026-05-16-france-wants-palestinian-activist-ramy-shaath-deported-he-says
-  headline: France wants Palestinian activist Ramy Shaath deported, he says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5802
-- slug: 2026-05-23-ex-columbia-student-mahmoud-khalil-asks-supreme-court-to-intervene-in-deportatio
-  headline: Ex-Columbia student Mahmoud Khalil asks Supreme Court to intervene in deportation
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5727
-- slug: 2026-05-16-trump-says-xi-will-consider-detained-pastor-s-case-but-freeing-lai-is-tough
-  headline: Trump says Xi will consider detained pastor’s case, but freeing Lai is ‘tough’
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5732
-- slug: 2026-05-09-nobel-laureate-narges-mohammadi-transferred-to-tehran-hospital-sentence-suspende
-  headline: Nobel laureate Narges Mohammadi transferred to Tehran hospital; sentence suspended on bail
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5771
-- slug: 2026-05-03-spain-urges-release-of-activist-detained-by-israel-after-aid-flotilla
-  headline: Spain urges release of activist detained by Israel after aid flotilla
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5757
-- slug: 2026-01-15-appeals-court-reverses-ruling-that-freed-palestinian-activist-mahmoud-khalil
-  headline: Appeals court reverses ruling that freed Palestinian activist Mahmoud Khalil
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6034
-- slug: 2026-03-15-palestinian-protester-leqaa-kordia-released-from-u-s-immigration-detention
-  headline: Palestinian protester Leqaa Kordia released from U.S. immigration detention
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5926
-- slug: 2026-02-05-chinese-asylum-seeker-guan-heng-freed-from-u-s-detention-after-judge-grants-asyl
-  headline: Chinese asylum seeker Guan Heng freed from U.S. detention after judge grants asylum
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5912
-- slug: 2026-04-07-exiled-iranian-activists-say-authorities-detain-family-members-back-home
-  headline: Exiled Iranian activists say authorities detain family members back home
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5711
-- slug: 2026-03-22-secretive-us-deal-with-equatorial-guinea-strands-deported-migrants
-  headline: Secretive US deal with Equatorial Guinea strands deported migrants
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.5759
+related_stories: []
 ---
-
 ## Sikh activist Johal released from Indian prison after nearly nine years
 
 **Subtype:** fact

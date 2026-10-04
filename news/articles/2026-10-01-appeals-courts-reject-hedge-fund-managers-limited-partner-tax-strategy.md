@@ -2,8 +2,15 @@
 headline: Appeals courts reject hedge fund managers' limited-partner tax strategy
 secondary_headline: Treasury Secretary Bessent settled his own use of the strategy
 publish_date: '2026-10-01'
-lede: The 2nd and 5th U.S. Circuit Courts of Appeals have ruled that hedge fund managers who use limited-partner designations to avoid the 3.8% federal self-employment tax must pay that tax when they run, manage, or control their businesses. Fund managers and their attorneys had pointed to a 1977 law that excluded limited partners from self-employment taxes, a designation that yielded significant tax savings for people making tens of millions of dollars a year.
-nut_graf: The rulings could generate substantial new federal revenue across the hedge fund and private equity industries, according to tax practitioners, and reshape how partners in law and accounting firms structure their compensation.
+lede: The 2nd and 5th U.S. Circuit Courts of Appeals have ruled that hedge fund managers
+  who use limited-partner designations to avoid the 3.8% federal self-employment tax
+  must pay that tax when they run, manage, or control their businesses. Fund managers
+  and their attorneys had pointed to a 1977 law that excluded limited partners from
+  self-employment taxes, a designation that yielded significant tax savings for people
+  making tens of millions of dollars a year.
+nut_graf: The rulings could generate substantial new federal revenue across the hedge
+  fund and private equity industries, according to tax practitioners, and reshape
+  how partners in law and accounting firms structure their compensation.
 primary_entities:
 - Internal Revenue Service
 - U.S. 2nd Circuit Court of Appeals
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,109 +152,8 @@ cross_article_links:
   strength: 0.6198
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-24-technet-urges-trump-administration-to-withdraw-proposed-103-265-h-1b-fee
-  headline: TechNet urges Trump administration to withdraw proposed $103,265 H-1B fee
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5779
-- slug: 2026-09-01-bessent-urges-g20-counterparts-to-adopt-us-tariff-approach
-  headline: Bessent urges G20 counterparts to adopt US tariff approach
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6001
-- slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
-  headline: Most tariff refunds flow to businesses as consumer repayment lags
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5916
-- slug: 2026-08-17-companies-would-keep-quarterly-earnings-but-shift-some-filings-to-semiannual-sur
-  headline: Companies would keep quarterly earnings but shift some filings to semiannual, surveys find
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5853
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5906
-- slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
-  headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5786
-- slug: 2026-07-25-s-p-1500-companies-spend-nearly-600m-on-executive-perks
-  headline: S&P 1500 companies spend nearly $600M on executive perks
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.579
-- slug: 2026-06-29-treasury-plans-to-propose-rules-limiting-trust-stacking-tax-strategy
-  headline: Treasury plans to propose rules limiting 'trust stacking' tax strategy
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6207
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5808
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5814
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.594
-- slug: 2026-06-11-fund-tied-to-trump-allies-cleta-mitchell-heather-honey-backed-2024-election-doub
-  headline: Fund tied to Trump allies Cleta Mitchell, Heather Honey backed 2024 election doubt ads
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5839
-- slug: 2026-06-04-short-seller-andrew-left-s-fraud-conviction-spooks-wall-street
-  headline: Short seller Andrew Left's fraud conviction spooks Wall Street
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5851
-- slug: 2026-05-02-treasury-secretary-scott-bessent-pushes-budgeting-and-saving-over-easy-money
-  headline: Treasury Secretary Scott Bessent pushes budgeting and saving over easy money
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6087
-- slug: 2026-06-02-insurers-brace-for-wave-of-lawsuits-and-rate-hikes-in-private-credit-market
-  headline: Insurers brace for wave of lawsuits and rate hikes in private-credit market
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5784
-- slug: 2026-05-13-hawaii-and-montana-move-to-limit-corporate-campaign-cash-by-redefining-corporate
-  headline: Hawaii and Montana move to limit corporate campaign cash by redefining corporate powers
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.592
-- slug: 2026-05-08-second-appeals-court-rejects-trump-s-no-bond-immigration-detentions
-  headline: Second appeals court rejects Trump’s no-bond immigration detentions
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5789
-- slug: 2026-02-19-hassett-urges-discipline-for-fed-economists-over-tariff-study
-  headline: Hassett urges discipline for Fed economists over tariff study
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6031
-- slug: 2026-04-15-bessent-warns-of-secondary-iran-sanctions-as-ceasefire-deadline-nears
-  headline: Bessent warns of secondary Iran sanctions as ceasefire deadline nears
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5841
-- slug: 2026-01-05-oecd-finalizes-amended-global-minimum-tax-pact-exempting-us-multinationals
-  headline: OECD finalizes amended global minimum tax pact exempting US multinationals
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.604
+related_stories: []
 ---
-
 ## Appeals courts reject hedge fund managers' limited-partner tax strategy
 
 **Subtype:** fact

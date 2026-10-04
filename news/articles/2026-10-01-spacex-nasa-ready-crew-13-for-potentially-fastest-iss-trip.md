@@ -2,8 +2,16 @@
 headline: SpaceX, NASA ready Crew-13 for potentially fastest ISS trip
 secondary_headline: Six-month mission to study heart disease, Parkinson's, and crops
 publish_date: '2026-10-01'
-lede: NASA and SpaceX are preparing to launch four astronauts to the International Space Station on Thursday, a mission that could set a record for the fastest trip to the ISS ever if it proceeds as scheduled. The Falcon 9 rocket is scheduled to lift off at 11:10 a.m. EDT from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying two NASA astronauts, a Canadian Space Agency astronaut, and a Roscosmos cosmonaut for a six-month stay.
-nut_graf: The mission advances research on heart disease, Parkinson's disease, and space-based crop production, according to NASA officials, and follows an August delay caused by an oxidizer leak in the spacecraft's propulsion system discovered during environmental checks.
+lede: NASA and SpaceX are preparing to launch four astronauts to the International
+  Space Station on Thursday, a mission that could set a record for the fastest trip
+  to the ISS ever if it proceeds as scheduled. The Falcon 9 rocket is scheduled to
+  lift off at 11:10 a.m. EDT from Space Launch Complex 40 at Cape Canaveral Space
+  Force Station in Florida, carrying two NASA astronauts, a Canadian Space Agency
+  astronaut, and a Roscosmos cosmonaut for a six-month stay.
+nut_graf: The mission advances research on heart disease, Parkinson's disease, and
+  space-based crop production, according to NASA officials, and follows an August
+  delay caused by an oxidizer leak in the spacecraft's propulsion system discovered
+  during environmental checks.
 primary_entities:
 - NASA
 - SpaceX
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +156,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-01-spacex-launches-nasa-s-crew-13-to-international-space-station
+  headline: SpaceX launches NASA's Crew-13 to International Space Station
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.8473
+- slug: 2026-10-01-spacex-launches-crew-13-to-iss-with-first-black-woman-to-lead-a-crew
+  headline: SpaceX launches Crew-13 to ISS with first Black woman to lead a crew
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.8224
+- slug: 2026-10-02-starship-reaches-orbit-as-spacex-logs-crew-13-and-falcon-launches
+  headline: Starship reaches orbit as SpaceX logs Crew-13 and Falcon launches
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8129
 - slug: 2026-07-24-spacex-deploys-starlinks-on-13th-starship-test-flight-after-engine-repairs
   headline: SpaceX deploys Starlinks on 13th Starship test flight after engine repairs
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6935
+  strength: 0.693
 - slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
   headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7036
+  strength: 0.7033
 - slug: 2026-02-16-nasa-spacex-launch-crew-12-replacements-after-first-medical-evacuation
   headline: NASA, SpaceX launch Crew-12 replacements after first medical evacuation
   publish_date: '2026-02-16'
   relation: related
-  strength: 0.7705
+  strength: 0.7704
 - slug: 2026-06-09-nasa-names-artemis-iii-crew-for-orbital-test-after-moon-landing-delay
   headline: NASA names Artemis III crew for orbital test after moon landing delay
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.7073
+  strength: 0.7077
 - slug: 2026-04-01-nasa-starts-countdown-for-artemis-ii-moon-mission-with-4-astronauts
   headline: NASA starts countdown for Artemis II moon mission with 4 astronauts
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.7408
-- slug: 2026-05-23-spacex-launches-biggest-upgraded-starship-on-test-flight-to-moon-plans
-  headline: SpaceX launches biggest, upgraded Starship on test flight to moon plans
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6938
-- slug: 2026-03-30-artemis-ii-astronauts-arrive-at-kennedy-space-center-ahead-of-moon-launch
-  headline: Artemis II astronauts arrive at Kennedy Space Center ahead of moon launch
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7167
-- slug: 2026-04-08-what-to-know-about-artemis-ii-s-record-breaking-moon-flyby
-  headline: What to know about Artemis II’s record-breaking moon flyby
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.712
-- slug: 2026-04-02-nasa-alista-artemis-ii-para-primer-viaje-lunar-tripulado-en-d-cadas
-  headline: NASA alista Artemis II para primer viaje lunar tripulado en décadas
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.714
-- slug: 2026-02-19-nasa-s-second-fueling-test-succeeds-clearing-march-launch
-  headline: NASA's second fueling test succeeds, clearing March launch
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7218
-- slug: 2026-04-01-artemis-ii-nasa-s-4-astronauts-fly-past-the-moon-and-splash-down
-  headline: 'Artemis II: NASA’s 4 astronauts fly past the moon and splash down'
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7115
-- slug: 2026-04-02-four-astronauts-embark-on-first-lunar-voyage-in-53-years
-  headline: Four astronauts embark on first lunar voyage in 53 years
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7094
-- slug: 2026-01-17-nasa-moon-rocket-rolls-to-pad-ahead-of-first-crewed-lunar-flyby-in-53-years
-  headline: NASA moon rocket rolls to pad ahead of first crewed lunar flyby in 53 years
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.7199
-- slug: 2026-05-17-artemis-ii-astronauts-give-high-marks-to-moonship-heat-shield
-  headline: Artemis II astronauts give high marks to moonship heat shield
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6795
-- slug: 2026-01-15-ailing-astronaut-returns-to-earth-in-nasa-s-first-medical-evacuation
-  headline: Ailing astronaut returns to Earth in NASA's first medical evacuation
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7137
-- slug: 2026-02-02-nasa-begins-practice-countdown-for-artemis-moon-launch-after-delays
-  headline: NASA begins practice countdown for Artemis moon launch after delays
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.7075
-- slug: 2026-01-14-four-astronauts-depart-iss-early-in-nasa-s-first-medical-evacuation
-  headline: Four astronauts depart ISS early in NASA's first medical evacuation
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7061
-- slug: 2026-04-02-artemis-ii-despega-hacia-la-luna-con-cuatro-astronautas-en-misi-n-de-10-d-as
-  headline: Artemis II despega hacia la Luna con cuatro astronautas en misión de 10 días
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6854
-- slug: 2026-03-15-nasa-clears-artemis-moon-rocket-for-april-launch-with-four-astronauts
-  headline: NASA clears Artemis moon rocket for April launch with four astronauts
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6874
-- slug: 2026-01-08-nasa-cuts-space-station-mission-short-in-first-ever-medical-evacuation
-  headline: NASA cuts space station mission short in first-ever medical evacuation
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6968
+  strength: 0.7415
 ---
-
 ## SpaceX, NASA ready Crew-13 for potentially fastest ISS trip
 
 **Subtype:** fact

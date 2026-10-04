@@ -2,8 +2,15 @@
 headline: UK police arrest dual national in Fairford terror probe; Iran denies link
 secondary_headline: Police probe whether Iran used unwitting criminal proxies in plot
 publish_date: '2026-10-01'
-lede: U.K. police on Thursday arrested a 27-year-old dual U.K.-Iranian national in London on suspicion of preparing a terrorist act, deepening the investigation into a foiled attack on RAF Fairford. The arrest came a day after U.K. Prime Minister Andy Burnham said there were "strong indications" linking Iran to the events, a claim Iran's embassy in London called "unfounded and malicious speculations."
-nut_graf: The investigation has drawn in statements from U.K. Prime Minister Andy Burnham citing "strong indications" of an Iran link, an Israeli intelligence-sharing claim from Prime Minister Benjamin Netanyahu, and a still-unexplained tip from one of five earlier suspects.
+lede: U.K. police on Thursday arrested a 27-year-old dual U.K.-Iranian national in
+  London on suspicion of preparing a terrorist act, deepening the investigation into
+  a foiled attack on RAF Fairford. The arrest came a day after U.K. Prime Minister
+  Andy Burnham said there were "strong indications" linking Iran to the events, a
+  claim Iran's embassy in London called "unfounded and malicious speculations."
+nut_graf: The investigation has drawn in statements from U.K. Prime Minister Andy
+  Burnham citing "strong indications" of an Iran link, an Israeli intelligence-sharing
+  claim from Prime Minister Benjamin Netanyahu, and a still-unexplained tip from one
+  of five earlier suspects.
 primary_entities:
 - United Kingdom
 - Iran
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +144,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-03-sixth-suspect-in-fairford-terror-probe-freed-on-bail
+  headline: Sixth suspect in Fairford terror probe freed on bail
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.8566
 - slug: 2026-09-29-five-men-released-on-bail-after-raf-fairford-terror-plot-arrests
   headline: Five men released on bail after RAF Fairford terror plot arrests
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8127
+  strength: 0.814
 - slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
   headline: Farmer's midnight call leads to five arrests near RAF Fairford
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.812
+  strength: 0.8126
 - slug: 2026-09-29-rubio-says-foreign-actor-clearly-behind-raf-fairford-plot-cites-no-evidence
-  headline: Rubio says foreign actor 'clearly' behind RAF Fairford plot, cites no evidence
+  headline: Rubio says foreign actor 'clearly' behind RAF Fairford plot, cites no
+    evidence
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.789
+  strength: 0.791
 - slug: 2026-09-29-uk-police-release-five-raf-fairford-suspects-on-bail-citing-open-investigation
   headline: UK police release five RAF Fairford suspects on bail, citing open investigation
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7874
+  strength: 0.7896
 - slug: 2026-09-28-police-identify-five-arrested-near-raf-fairford-as-london-men-in-their-20s
-  headline: Police identify five arrested near RAF Fairford as London men in their 20s
+  headline: Police identify five arrested near RAF Fairford as London men in their
+    20s
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7908
+  strength: 0.793
 - slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
   headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.782
+  strength: 0.7845
 - slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
   headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7886
-- slug: 2026-09-27-uk-police-arrest-five-near-raf-fairford-on-terrorism-suspicion
-  headline: UK police arrest five near RAF Fairford on terrorism suspicion
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7882
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.775
-- slug: 2026-09-28-uk-probes-motives-beyond-iran-link-in-raf-fairford-arrests
-  headline: UK probes motives beyond Iran link in RAF Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7484
-- slug: 2026-09-29-uk-police-release-raf-fairford-terror-suspects-on-bail-rubio-trump-object
-  headline: UK police release RAF Fairford terror suspects on bail; Rubio, Trump object
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7308
-- slug: 2026-09-27-trump-says-raf-fairford-suspects-looking-to-do-big-damage
-  headline: Trump says RAF Fairford suspects 'looking to do big damage'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7386
-- slug: 2026-09-28-streeting-says-uk-security-forces-knew-of-raf-fairford-bomb-plot-in-advance
-  headline: Streeting says UK security forces knew of RAF Fairford bomb plot in advance
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7256
-- slug: 2026-09-28-uk-defence-secretary-thanks-farmer-who-reported-hooded-and-masked-men-near-raf-f
-  headline: UK defence secretary thanks farmer who reported hooded and masked men near RAF Fairford
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7218
-- slug: 2026-09-27-police-arrest-several-men-at-raf-fairford-on-suspicion-of-explosives-offences
-  headline: Police arrest several men at RAF Fairford on suspicion of explosives offences
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7282
-- slug: 2026-09-27-bbc-verify-geolocates-image-of-arrests-to-raf-fairford-runway-access
-  headline: BBC Verify geolocates image of arrests to RAF Fairford runway access
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7103
-- slug: 2026-09-27-us-raises-lakenheath-threat-level-after-five-arrests-near-raf-fairford
-  headline: US raises Lakenheath threat level after five arrests near RAF Fairford
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7001
-- slug: 2026-09-27-residents-watched-raf-fairford-security-tighten-before-whelford-arrests
-  headline: Residents watched RAF Fairford security tighten before Whelford arrests
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6911
-- slug: 2026-09-25-miliband-tells-araghchi-uk-will-not-tolerate-iran-linked-hostile-activity
-  headline: Miliband tells Araghchi UK will not tolerate Iran-linked 'hostile activity'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6749
-- slug: 2026-09-10-russia-says-it-detained-russian-guard-at-british-embassy-over-alleged-plot
-  headline: Russia says it detained Russian guard at British embassy over alleged plot
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6227
+  strength: 0.7903
 ---
-
 ## UK police arrest dual national in Fairford terror probe; Iran denies link
 
 **Subtype:** fact

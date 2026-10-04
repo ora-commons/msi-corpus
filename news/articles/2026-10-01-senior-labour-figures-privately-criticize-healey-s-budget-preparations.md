@@ -2,8 +2,17 @@
 headline: Senior Labour figures privately criticize Healey's budget preparations
 secondary_headline: Thirty-year UK gilt yield reaches 6% for first time since 1998
 publish_date: '2026-10-01'
-lede: Senior Labour figures are privately criticizing Chancellor John Healey's preparation for his first budget on October 28, expressing concern that a lack of clarity on tax and spending could trigger a fresh market shock. The 30-year UK government bond yield hit 6% on Thursday for the first time since 1998, underscoring the volatile conditions Healey faces.
-nut_graf: The criticism comes as Healey navigates his first major fiscal event with limited preparation time, having been appointed chancellor after Rachel Reeves. Global market volatility tied to the US war with Iran and rising energy costs have made the fiscal environment more difficult, with market moves since the spring expected to have wiped out at least half of the £24bn headroom Reeves built against Labour's fiscal rules.
+lede: Senior Labour figures are privately criticizing Chancellor John Healey's preparation
+  for his first budget on October 28, expressing concern that a lack of clarity on
+  tax and spending could trigger a fresh market shock. The 30-year UK government bond
+  yield hit 6% on Thursday for the first time since 1998, underscoring the volatile
+  conditions Healey faces.
+nut_graf: The criticism comes as Healey navigates his first major fiscal event with
+  limited preparation time, having been appointed chancellor after Rachel Reeves.
+  Global market volatility tied to the US war with Iran and rising energy costs have
+  made the fiscal environment more difficult, with market moves since the spring expected
+  to have wiped out at least half of the £24bn headroom Reeves built against Labour's
+  fiscal rules.
 primary_entities:
 - John Healey
 - Labour Party
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -79,104 +89,44 @@ related_stories:
   headline: Global bond sell-off raises UK gilt yields to near 19-year high
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7965
+  strength: 0.796
 - slug: 2026-09-15-economists-press-uk-chancellor-to-halt-bank-of-england-s-bond-selling
   headline: Economists press UK chancellor to halt Bank of England's bond-selling
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8051
+  strength: 0.8052
 - slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
+  headline: UK chancellor John Healey tells Financial Times October 28 budget will
+    be tough
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.8488
+  strength: 0.8493
 - slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
   headline: S&P Global UK consumer sentiment index falls to 42.7 in September
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7453
+  strength: 0.7452
 - slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
   headline: Rising energy bills and inflation test Burnham's economic agenda
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7064
+  strength: 0.7067
+- slug: 2026-10-02-french-bond-yields-hit-highest-since-2002-as-borrowing-costs-surge
+  headline: French bond yields hit highest since 2002 as borrowing costs surge
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.6555
+- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
+  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
+  publish_date: '2026-09-28'
+  relation: related
+  strength: 0.6704
 - slug: 2026-09-22-uk-borrowing-totals-18-3bn-in-august-above-obr-forecast
   headline: UK borrowing totals £18.3bn in August, above OBR forecast
   publish_date: '2026-09-22'
   relation: related
   strength: 0.7092
-- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
-  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6702
-- slug: 2026-09-08-treasury-auctions-30-year-gilts-at-5-82-highest-yield-since-1998
-  headline: Treasury auctions 30-year gilts at 5.82%, highest yield since 1998
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7694
-- slug: 2026-09-17-shadow-chancellor-griffith-urges-healey-to-rule-out-budget-tax-rises
-  headline: Shadow chancellor Griffith urges Healey to rule out budget tax rises
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7158
-- slug: 2026-09-20-davey-proposes-2bn-temporary-fuel-duty-cut-before-budget
-  headline: Davey proposes £2bn temporary fuel duty cut before budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6829
-- slug: 2026-09-17-healey-urges-eu-not-to-lock-uk-out-of-made-in-europe-plan
-  headline: Healey urges EU not to lock UK out of 'Made in Europe' plan
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6882
-- slug: 2026-09-15-uk-weighs-joining-canada-led-defence-bank
-  headline: UK weighs joining Canada-led defence bank
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6692
-- slug: 2026-09-09-jamie-dimon-and-john-healey-meet-wednesday-amid-uk-bank-tax-speculation
-  headline: Jamie Dimon and John Healey meet Wednesday amid UK bank tax speculation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6999
-- slug: 2026-09-04-bailey-addresses-london-conference-as-august-data-slate-opens
-  headline: Bailey addresses London conference as August data slate opens
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.68
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6721
-- slug: 2026-08-19-treasury-doubles-bond-buybacks-to-ease-30-year-yields-near-20-year-high
-  headline: Treasury doubles bond buybacks to ease 30-year yields near 20-year high
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.659
-- slug: 2026-08-17-bond-yields-rise-to-multi-year-or-multi-decade-highs-across-major-economies
-  headline: Bond yields rise to multi-year or multi-decade highs across major economies
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6557
-- slug: 2026-07-22-burnham-balances-voters-bond-markets-with-first-day-moves
-  headline: Burnham balances voters, bond markets with first-day moves
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6866
-- slug: 2026-07-21-uk-defence-stocks-rally-after-healey-appointed-finance-chief
-  headline: UK defence stocks rally after Healey appointed finance chief
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-16-reports-point-to-shabana-mahmood-as-next-uk-chancellor
-  headline: Reports point to Shabana Mahmood as next UK chancellor
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6755
 ---
-
 ## Senior Labour figures privately criticize Healey's budget preparations
 
 **Subtype:** fact

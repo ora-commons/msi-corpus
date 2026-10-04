@@ -1,9 +1,17 @@
 ---
-headline: Colorado River reservoirs hit historic lows as federal plan to cut water use is finalized
+headline: Colorado River reservoirs hit historic lows as federal plan to cut water
+  use is finalized
 secondary_headline: Three states ordered to cut 1.25 million acre-feet of water yearly
 publish_date: '2026-10-01'
-lede: Lake Mead, the largest reservoir in the United States, has fallen to its lowest level since it was filled nearly 90 years ago, and Lake Powell is also at a historic low. Federal officials have finalized a plan requiring Arizona, Nevada, and California to cut their combined Colorado River water use by about 1.25 million acre-feet per year, with reductions taking effect in 2027.
-nut_graf: The plan follows years of failed negotiations among the seven states to reach agreement on how they would use less water. Arizona, which holds the most junior water rights on the river, is expected to absorb the largest share of the cuts.
+lede: Lake Mead, the largest reservoir in the United States, has fallen to its lowest
+  level since it was filled nearly 90 years ago, and Lake Powell is also at a historic
+  low. Federal officials have finalized a plan requiring Arizona, Nevada, and California
+  to cut their combined Colorado River water use by about 1.25 million acre-feet per
+  year, with reductions taking effect in 2027.
+nut_graf: The plan follows years of failed negotiations among the seven states to
+  reach agreement on how they would use less water. Arizona, which holds the most
+  junior water rights on the river, is expected to absorb the largest share of the
+  cuts.
 primary_entities:
 - Lake Mead
 - Lake Powell
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -125,7 +134,7 @@ related_stories:
   headline: Bureau orders sharp Colorado River cuts for three Western states
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.8787
+  strength: 0.8788
 - slug: 2026-08-16-bureau-weighs-40-lower-basin-cuts-as-reservoirs-shrink
   headline: Bureau weighs 40% lower-basin cuts as reservoirs shrink
   publish_date: '2026-08-16'
@@ -135,14 +144,15 @@ related_stories:
   headline: Lake Mead water level falls to record low
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.8576
+  strength: 0.8579
 - slug: 2026-08-06-colorado-river-states-negotiate-as-water-supplies-shrink
   headline: Colorado River states negotiate as water supplies shrink
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.8574
+  strength: 0.8579
 - slug: 2026-08-29-cave-creek-mayor-says-federal-colorado-river-plan-won-t-secure-town-s-future
-  headline: Cave Creek mayor says federal Colorado River plan won't secure town's future
+  headline: Cave Creek mayor says federal Colorado River plan won't secure town's
+    future
   publish_date: '2026-08-29'
   relation: related
   strength: 0.7444
@@ -150,79 +160,18 @@ related_stories:
   headline: Colorado River plan could cut Nevada's allocation by up to 71 percent
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7281
+  strength: 0.7293
 - slug: 2026-07-31-bureau-of-reclamation-proposes-colorado-river-cuts-to-three-states
   headline: Bureau of Reclamation proposes Colorado River cuts to three states
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7884
+  strength: 0.789
 - slug: 2026-08-19-apparent-human-remains-found-at-lake-mead-as-water-levels-hit-record-low
   headline: Apparent human remains found at Lake Mead as water levels hit record low
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7199
-- slug: 2026-05-10-arizona-california-and-nevada-pledge-deep-water-cuts-to-save-colorado-river-rese
-  headline: Arizona, California and Nevada pledge deep water cuts to save Colorado River reservoirs
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8591
-- slug: 2026-07-07-lake-powell-heads-toward-record-low-after-spring-runoff-fails-to-recover
-  headline: Lake Powell heads toward record low after spring runoff fails to recover
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7781
-- slug: 2026-05-10-california-nevada-and-arizona-agree-on-colorado-river-cutbacks-through-2028
-  headline: California, Nevada and Arizona agree on Colorado River cutbacks through 2028
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8155
-- slug: 2026-08-07-bureau-of-reclamation-won-t-release-cool-water-for-humpback-chub
-  headline: Bureau of Reclamation won't release cool water for humpback chub
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6461
-- slug: 2026-02-16-colorado-river-talks-stall-as-arizona-california-nevada-press-us-west
-  headline: Colorado River talks stall as Arizona, California, Nevada press US West
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7822
-- slug: 2026-04-22-colorado-river-releases-aim-to-keep-lake-powell-generating-electricity
-  headline: Colorado River releases aim to keep Lake Powell generating electricity
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7537
-- slug: 2026-05-27-cool-water-releases-from-glen-canyon-dam-protect-fish-but-cut-hydropower
-  headline: Cool-water releases from Glen Canyon Dam protect fish but cut hydropower
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7238
-- slug: 2026-05-26-cool-water-plan-for-grand-canyon-fish-weighs-ecological-gains-vs-lost-power
-  headline: Cool water plan for Grand Canyon fish weighs ecological gains vs lost power
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7154
-- slug: 2026-04-23-colorado-river-managers-plan-extra-releases-to-keep-lake-powell-hydropower
-  headline: Colorado River managers plan extra releases to keep Lake Powell hydropower
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7366
-- slug: 2026-07-22-lake-powell-s-low-water-leaves-boat-ramps-dry-visitor-says
-  headline: Lake Powell's low water leaves boat ramps dry, visitor says
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6328
-- slug: 2026-07-25-ranchers-haul-water-to-cattle-as-western-drought-persists
-  headline: Ranchers haul water to cattle as Western drought persists
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6257
-- slug: 2026-07-13-yampa-river-flows-drop-by-quarter-as-colorado-basin-talks-stall
-  headline: Yampa River flows drop by quarter as Colorado basin talks stall
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6461
+  strength: 0.7206
 ---
-
 ## Colorado River reservoirs hit historic lows as federal plan to cut water use is finalized
 
 **Subtype:** fact

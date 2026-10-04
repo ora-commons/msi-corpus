@@ -1,9 +1,15 @@
 ---
-headline: Supreme Court agrees to hear challenge to Trump's bond policy for detained immigrants
-secondary_headline: Lower courts have overwhelmingly rejected the administration's interpretation
+headline: Supreme Court agrees to hear challenge to Trump's bond policy for detained
+  immigrants
+secondary_headline: Lower courts have overwhelmingly rejected the administration's
+  interpretation
 publish_date: '2026-10-01'
-lede: The US Supreme Court agreed Thursday to take up a case challenging the Trump administration's practice of indefinitely detaining undocumented immigrants without bond hearings while they await deportation proceedings.
-nut_graf: The case adds to a high-court docket already heavy with Trump-era immigration disputes and arrives as lower courts have overwhelmingly sided against the administration's reading of the statute.
+lede: The US Supreme Court agreed Thursday to take up a case challenging the Trump
+  administration's practice of indefinitely detaining undocumented immigrants without
+  bond hearings while they await deportation proceedings.
+nut_graf: The case adds to a high-court docket already heavy with Trump-era immigration
+  disputes and arrives as lower courts have overwhelmingly sided against the administration's
+  reading of the statute.
 primary_entities:
 - US Supreme Court
 - Trump administration
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +148,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-01-justices-to-decide-legality-of-indefinite-immigrant-detention-under-1996-law
-  headline: Justices to decide legality of indefinite immigrant detention under 1996 law
+  headline: Justices to decide legality of indefinite immigrant detention under 1996
+    law
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8075
+  strength: 0.809
 - slug: 2026-09-29-supreme-court-lets-trump-resume-third-country-deportations
   headline: Supreme Court lets Trump resume third-country deportations
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7348
+  strength: 0.7358
 - slug: 2026-09-24-doj-asks-supreme-court-to-allow-third-country-deportation-policy
   headline: DOJ asks Supreme Court to allow third-country deportation policy
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.724
+  strength: 0.7247
 - slug: 2026-08-28-3rd-circuit-rejects-ice-policy-treating-long-term-u-s-residents-as-still-seeking
-  headline: 3rd Circuit rejects ICE policy treating long-term U.S. residents as still seeking admission
+  headline: 3rd Circuit rejects ICE policy treating long-term U.S. residents as still
+    seeking admission
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7525
+  strength: 0.7532
 - slug: 2026-07-30-ninth-circuit-rules-immigrants-can-t-be-denied-bond-hearings
   headline: Ninth Circuit rules immigrants can’t be denied bond hearings
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.795
+  strength: 0.7953
 - slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
   headline: Trump administration asks Supreme Court to back no-bond detention policy
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.8272
+  strength: 0.8275
 - slug: 2026-04-29-2nd-circuit-rejects-trump-no-bond-detentions-case-may-go-to-supreme-court
   headline: 2nd Circuit rejects Trump no-bond detentions; case may go to Supreme Court
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.8183
+  strength: 0.8184
 - slug: 2026-02-08-fifth-circuit-backs-trump-administration-on-immigrant-detention-without-bond
-  headline: Fifth Circuit backs Trump administration on immigrant detention without bond
+  headline: Fifth Circuit backs Trump administration on immigrant detention without
+    bond
   publish_date: '2026-02-08'
   relation: related
-  strength: 0.8083
-- slug: 2026-05-26-no-bond-immigrant-policy-echoed-in-tacoma-before-nationwide-rollout
-  headline: No-bond immigrant policy echoed in Tacoma before nationwide rollout
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7649
-- slug: 2026-05-25-no-bond-immigration-policy-took-root-in-tacoma-years-before-trump-adopted-it
-  headline: No-bond immigration policy took root in Tacoma years before Trump adopted it
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7653
-- slug: 2026-07-15-administration-developing-100-000-bond-for-green-card-applicants
-  headline: Administration developing $100,000 bond for green-card applicants
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6977
-- slug: 2026-05-08-second-appeals-court-rejects-trump-s-no-bond-immigration-detentions
-  headline: Second appeals court rejects Trump’s no-bond immigration detentions
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7731
-- slug: 2026-06-23-appeals-court-allows-trump-to-fast-track-deportations-nationwide
-  headline: Appeals court allows Trump to fast-track deportations nationwide
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7069
-- slug: 2026-03-27-appeals-court-sides-with-trump-administration-on-detaining-immigrants-without-bo
-  headline: Appeals court sides with Trump administration on detaining immigrants without bond
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7684
-- slug: 2026-06-25-supreme-court-allows-trump-to-turn-back-asylum-seekers-at-border
-  headline: Supreme Court allows Trump to turn back asylum seekers at border
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6982
-- slug: 2026-06-25-supreme-court-hands-trump-double-victory-on-immigration-enforcement
-  headline: Supreme Court hands Trump double victory on immigration enforcement
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6972
-- slug: 2026-02-19-federal-judge-slams-trump-administration-immigration-crackdown-in-ruling
-  headline: Federal judge slams Trump administration immigration crackdown in ruling
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7515
-- slug: 2026-05-26-supreme-court-sides-with-trump-in-immigration-judges-speech-case
-  headline: Supreme Court sides with Trump in immigration judges' speech case
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7064
-- slug: 2026-02-20-federal-judge-slams-trump-immigration-crackdown-in-scathing-ruling
-  headline: Federal judge slams Trump immigration crackdown in scathing ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7336
-- slug: 2026-04-04-nevada-judge-blocks-ice-from-detaining-nearly-all-deportation-cases
-  headline: Nevada judge blocks ICE from detaining nearly all deportation cases
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7094
+  strength: 0.8087
 ---
-
 ## Supreme Court agrees to hear challenge to Trump's bond policy for detained immigrants
 
 **Subtype:** fact

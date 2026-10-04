@@ -1,9 +1,19 @@
 ---
 headline: Bolivia arrests attorney general two days after US revokes visa
-secondary_headline: Government says it 'dismantled criminal organization' inside prosecutor's office
+secondary_headline: Government says it 'dismantled criminal organization' inside prosecutor's
+  office
 publish_date: '2026-10-01'
-lede: Bolivian police arrested Attorney General Roger Mariaca at Viru Viru International Airport in Santa Cruz on October 1, two days after the United States revoked his visa over allegations linking him to drug trafficking and corruption. Government Minister Marco Antonio Oviedo said Mariaca was detained on suspicion of involvement in a criminal organization, money laundering and drug trafficking.
-nut_graf: The arrest is the latest development in a new Trump administration policy targeting Latin American officials accused of undermining democratically elected governments through corruption or drug trafficking. Bolivia had the largest number of people affected by the measures, announced September 28, and the country's Legislative Assembly is set to convene Monday to consider a special parliamentary commission to investigate the allegations.
+lede: Bolivian police arrested Attorney General Roger Mariaca at Viru Viru International
+  Airport in Santa Cruz on October 1, two days after the United States revoked his
+  visa over allegations linking him to drug trafficking and corruption. Government
+  Minister Marco Antonio Oviedo said Mariaca was detained on suspicion of involvement
+  in a criminal organization, money laundering and drug trafficking.
+nut_graf: The arrest is the latest development in a new Trump administration policy
+  targeting Latin American officials accused of undermining democratically elected
+  governments through corruption or drug trafficking. Bolivia had the largest number
+  of people affected by the measures, announced September 28, and the country's Legislative
+  Assembly is set to convene Monday to consider a special parliamentary commission
+  to investigate the allegations.
 primary_entities:
 - Roger Mariaca
 - Marco Antonio Oviedo
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +151,27 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-28-state-department-revokes-visas-of-more-than-15-latin-american-officials-and-busi
-  headline: State Department revokes visas of more than 15 Latin American officials and businessmen
+  headline: State Department revokes visas of more than 15 Latin American officials
+    and businessmen
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7614
-- slug: 2026-09-24-ecuadorian-police-arrest-more-than-30-in-u-s--backed-raids-on-jalisco-cartel-net
-  headline: Ecuadorian police arrest more than 30 in U.S.-backed raids on Jalisco cartel network
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6333
-- slug: 2026-09-24-paz-calls-for-faster-un-response-to-organized-crime
-  headline: Paz calls for faster UN response to organized crime
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-16-u-s-decertifies-colombia-bolivia-venezuela-on-counternarcotics
-  headline: U.S. decertifies Colombia, Bolivia, Venezuela on counternarcotics
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6327
-- slug: 2026-09-12-peru-joins-us-led-shield-of-the-americas-antidrug-coalition
-  headline: Peru joins US-led Shield of the Americas antidrug coalition
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6221
-- slug: 2026-09-10-rubio-designates-ecuadorean-gang-as-terrorist-group-sanctions-officials
-  headline: Rubio designates Ecuadorean gang as terrorist group, sanctions officials
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6265
-- slug: 2026-08-25-de-la-espriella-orders-immigration-operations-in-barranquilla
-  headline: De la Espriella orders immigration operations in Barranquilla
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6438
-- slug: 2026-08-27-colombian-authorities-capture-alleged-tren-de-aragua-leader-in-bogot
-  headline: Colombian authorities capture alleged Tren de Aragua leader in Bogotá
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6229
-- slug: 2026-08-05-us-revokes-brazil-ambassador-s-visa-in-diplomatic-escalation
-  headline: US revokes Brazil ambassador's visa in diplomatic escalation
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6279
-- slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6211
-- slug: 2026-07-22-maduro-returns-to-court-to-object-to-us-capture
-  headline: Maduro returns to court to object to US capture
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6323
+  strength: 0.7628
 - slug: 2026-02-14-dea-set-to-return-to-bolivia-as-us-revives-anti-drug-coordination
   headline: DEA set to return to Bolivia as US revives anti-drug coordination
   publish_date: '2026-02-14'
   relation: related
-  strength: 0.679
+  strength: 0.6788
 - slug: 2026-04-16-venezuelan-doctor-detained-at-texas-airport-before-asylum-interview
   headline: Venezuelan doctor detained at Texas airport before asylum interview
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6524
+  strength: 0.6529
 - slug: 2026-02-03-absence-of-evo-morales-in-bolivia-stokes-rumors-amid-right-left-tensions
   headline: Absence of Evo Morales in Bolivia stokes rumors amid right-left tensions
   publish_date: '2026-02-03'
   relation: related
-  strength: 0.6591
-- slug: 2026-05-05-us-revokes-visas-for-la-naci-n-executives-sparks-costa-rica-press-fears
-  headline: US revokes visas for La Nación executives, sparks Costa Rica press fears
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6299
-- slug: 2026-05-09-fuel-shortages-and-junk-gasoline-scandal-push-bolivians-toward-electric-cars
-  headline: Fuel shortages and junk gasoline scandal push Bolivians toward electric cars
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6222
-- slug: 2026-02-19-dea-supervisor-arrested-for-visa-bribery-scheme-office-shuttered
-  headline: DEA Supervisor Arrested for Visa Bribery Scheme; Office Shuttered
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6462
-- slug: 2026-02-13-u-s-shuts-dea-office-in-dominican-republic-amid-visa-probe-arrest
-  headline: U.S. shuts DEA office in Dominican Republic amid visa-probe arrest
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6383
-- slug: 2026-01-04-maduro-faces-narco-terrorism-charges-in-manhattan-after-u-s-military-capture
-  headline: Maduro faces narco-terrorism charges in Manhattan after U.S. military capture
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6426
-- slug: 2026-01-04-maduro-s-immunity-claim-faces-long-odds-noriega-set-the-legal-precedent
-  headline: Maduro's immunity claim faces long odds; Noriega set the legal precedent
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6417
+  strength: 0.66
 ---
-
 ## Bolivia arrests attorney general two days after US revokes visa
 
 **Subtype:** fact

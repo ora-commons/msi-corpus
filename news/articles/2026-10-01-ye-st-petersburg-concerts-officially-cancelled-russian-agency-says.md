@@ -1,9 +1,15 @@
 ---
 headline: Ye St Petersburg concerts officially cancelled, Russian agency says
-secondary_headline: Gazprom Arena had said in August it had not signed a rental agreement for the shows
+secondary_headline: Gazprom Arena had said in August it had not signed a rental agreement
+  for the shows
 publish_date: '2026-10-01'
-lede: Moscow-based Say Agency confirmed via Telegram that two Ye concerts scheduled at St Petersburg's Gazprom Arena on 10-11 October have been officially cancelled, ending weeks of uncertainty over whether the shows would go ahead despite the venue's August announcement that it would not host the rapper.
-nut_graf: The cancellation closes weeks of public uncertainty after the venue's August statement that it had not signed a rental agreement with concert promoters, and after Russia's Foreign Ministry had publicly criticised the planned shows.
+lede: Moscow-based Say Agency confirmed via Telegram that two Ye concerts scheduled
+  at St Petersburg's Gazprom Arena on 10-11 October have been officially cancelled,
+  ending weeks of uncertainty over whether the shows would go ahead despite the venue's
+  August announcement that it would not host the rapper.
+nut_graf: The cancellation closes weeks of public uncertainty after the venue's August
+  statement that it had not signed a rental agreement with concert promoters, and
+  after Russia's Foreign Ministry had publicly criticised the planned shows.
 primary_entities:
 - Ye
 - Say Agency
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +148,8 @@ related_stories:
   headline: Ye books St Petersburg shows, biggest Western act in Russia since invasion
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.8587
-- slug: 2026-10-01-russia-strikes-kyiv-odesa-energy-sites-in-heaviest-combined-attack-in-months
-  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in months
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5554
-- slug: 2026-09-14-ed-sheeran-cuts-macklemore-from-us-loop-tour-after-gaza-stage-remarks
-  headline: Ed Sheeran cuts Macklemore from US Loop tour after Gaza stage remarks
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.586
-- slug: 2026-09-15-stadium-owners-including-kraft-led-to-macklemore-removal-from-sheeran-s-tour
-  headline: Stadium owners including Kraft led to Macklemore removal from Sheeran's tour
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5754
-- slug: 2026-09-17-kraft-discloses-sheeran-s-2m-aid-in-the-region-request
-  headline: Kraft discloses Sheeran's $2m 'aid in the region' request
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5594
-- slug: 2026-09-15-four-ed-sheeran-tour-openers-exit-in-solidarity-with-macklemore
-  headline: Four Ed Sheeran tour openers exit in solidarity with Macklemore
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5701
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5606
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5583
-- slug: 2026-08-27-senate-passes-graham-s-russia-sanctions-bill-after-zelenskyy-s-capitol-visit
-  headline: Senate passes Graham's Russia sanctions bill after Zelenskyy's Capitol visit
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5606
-- slug: 2026-08-26-cia-director-ratcliffe-met-russian-intelligence-in-moscow-kremlin-says
-  headline: CIA director Ratcliffe met Russian intelligence in Moscow, Kremlin says
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5574
-- slug: 2026-08-13-russia-s-supreme-court-bars-yabloko-from-september-duma-ballot
-  headline: Russia's Supreme Court bars Yabloko from September Duma ballot
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5746
-- slug: 2026-06-13-ticketmaster-and-spurs-reverse-course-after-knicks-fans-face-last-minute-ticket-
-  headline: Ticketmaster and Spurs reverse course after Knicks fans face last-minute ticket cancellation
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5638
-- slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5736
-- slug: 2026-06-15-russian-airstrikes-spark-blaze-at-kyiv-monastery-cathedral
-  headline: Russian airstrikes spark blaze at Kyiv monastery cathedral
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5539
-- slug: 2026-06-01-uk-bars-us-left-wing-commentators-hasan-piker-and-cenk-uygur-from-entry
-  headline: UK bars US left-wing commentators Hasan Piker and Cenk Uygur from entry
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5607
-- slug: 2026-05-12-alternative-concerts-counter-eurovision-as-five-nations-boycott-over-israel-s-pa
-  headline: Alternative concerts counter Eurovision as five nations boycott over Israel's participation
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5729
-- slug: 2026-05-05-russia-declares-unilateral-truce-in-ukraine-for-victory-day-as-kyiv-responds
-  headline: Russia declares unilateral truce in Ukraine for Victory Day as Kyiv responds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5733
-- slug: 2026-05-16-spain-s-eurovision-boycott-over-israeli-participation-divides-contest-fans
-  headline: Spain’s Eurovision Boycott Over Israeli Participation Divides Contest Fans
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5639
-- slug: 2026-05-16-spain-boycott-over-israel-at-eurovision-leaves-fans-split
-  headline: Spain boycott over Israel at Eurovision leaves fans split
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.562
-- slug: 2026-05-10-putin-marks-victory-day-with-scaled-down-red-square-parade-under-tight-security
-  headline: Putin marks Victory Day with scaled-down Red Square parade under tight security
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5573
+  strength: 0.859
 ---
-
 ## Ye St Petersburg concerts officially cancelled, Russian agency says
 
 **Subtype:** fact

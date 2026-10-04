@@ -2,8 +2,16 @@
 headline: Mamdani announces New York's first antisemitism strategy
 secondary_headline: Plan's omission of Israel draws praise and criticism
 publish_date: '2026-10-01'
-lede: New York City Mayor Zohran Mamdani on Tuesday announced the city's first-ever municipal strategy to address antisemitism, a 33-page plan that expands security measures for synagogues and increases the focus on Jewish history in public school education while making no mention of Israel. The omission drew criticism from a coalition of Jewish organizations and the New York Board of Rabbis, and praise from supporters who said the plan separates antisemitism from criticism of Israel.
-nut_graf: The strategy responds to anti-Jewish crimes that account for more than half of all hate crimes in a city where Jews make up 12% of the population, and it arrived a day after the US Commission on Civil Rights issued a 220-page report on campus antisemitism.
+lede: New York City Mayor Zohran Mamdani on Tuesday announced the city's first-ever
+  municipal strategy to address antisemitism, a 33-page plan that expands security
+  measures for synagogues and increases the focus on Jewish history in public school
+  education while making no mention of Israel. The omission drew criticism from a
+  coalition of Jewish organizations and the New York Board of Rabbis, and praise from
+  supporters who said the plan separates antisemitism from criticism of Israel.
+nut_graf: The strategy responds to anti-Jewish crimes that account for more than half
+  of all hate crimes in a city where Jews make up 12% of the population, and it arrived
+  a day after the US Commission on Civil Rights issued a 220-page report on campus
+  antisemitism.
 primary_entities:
 - Zohran Mamdani
 - New York City
@@ -52,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,7 +160,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-29-israeli-jewish-leaders-press-mamdani-over-israel-rhetoric-on-antisemitism-plan
-  headline: Israeli, Jewish leaders press Mamdani over Israel rhetoric on antisemitism plan
+  headline: Israeli, Jewish leaders press Mamdani over Israel rhetoric on antisemitism
+    plan
   publish_date: '2026-09-29'
   relation: related
   strength: 0.8634
@@ -164,94 +174,34 @@ related_stories:
   headline: Netanyahu singles out Mamdani at UN ahead of Israeli elections
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7553
+  strength: 0.7559
 - slug: 2026-09-24-delegates-walk-out-as-netanyahu-criticizes-mamdani-at-un-general-assembly
   headline: Delegates walk out as Netanyahu criticizes Mamdani at UN General Assembly
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7409
+  strength: 0.7415
 - slug: 2026-09-23-mamdani-renews-netanyahu-arrest-call-as-israeli-pm-arrives-for-un-speech
   headline: Mamdani renews Netanyahu arrest call as Israeli PM arrives for UN speech
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7232
+  strength: 0.7233
 - slug: 2026-09-04-mamdani-to-designate-sept-11-as-nyc-day-of-remembrance-and-service
   headline: Mamdani to designate Sept. 11 as NYC Day of Remembrance and Service
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.7098
+  strength: 0.708
 - slug: 2026-08-03-anti-jewish-hate-crimes-rise-8-5-in-new-york-city-nypd-says
   headline: Anti-Jewish hate crimes rise 8.5% in New York City, NYPD says
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.7897
+  strength: 0.7902
 - slug: 2026-07-27-netanyahu-accuses-new-york-mayor-mamdani-of-fomenting-hate-over-arrest-threat
-  headline: Netanyahu accuses New York Mayor Mamdani of 'fomenting hate' over arrest threat
+  headline: Netanyahu accuses New York Mayor Mamdani of 'fomenting hate' over arrest
+    threat
   publish_date: '2026-07-27'
   relation: related
   strength: 0.7337
-- slug: 2026-07-12-mamdani-holds-58-approval-as-post-runs-29-stories-on-him-in-three-days
-  headline: Mamdani holds 58% approval as Post runs 29 stories on him in three days
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7399
-- slug: 2026-07-26-netanyahu-says-mamdani-is-fomenting-hate-over-arrest-call
-  headline: Netanyahu says Mamdani is 'fomenting hate' over arrest call
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6958
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6794
-- slug: 2026-06-01-nyc-mayor-mamdani-skips-annual-israel-day-parade
-  headline: NYC Mayor Mamdani skips annual Israel Day parade
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7267
-- slug: 2026-01-03-zohran-mamdani-begins-nyc-mayoral-day-with-subway-commute-revoked-orders
-  headline: Zohran Mamdani begins NYC mayoral day with subway commute, revoked orders
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7349
-- slug: 2026-03-20-nyc-mayor-mamdani-unveils-community-safety-office-first-step-on-crisis-response-
-  headline: NYC Mayor Mamdani unveils community safety office, first step on crisis response pledge
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7144
-- slug: 2026-01-04-zohran-mamdani-s-nyc-mayoral-debut-includes-subway-commute-and-order-revocations
-  headline: Zohran Mamdani’s NYC mayoral debut includes subway commute and order revocations
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7251
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.704
-- slug: 2025-12-29-mamdani-set-to-take-over-nyc-with-free-childcare-rent-freeze-promises
-  headline: Mamdani set to take over NYC with free-childcare, rent-freeze promises
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7213
-- slug: 2025-12-30-can-zohran-mamdani-fulfill-his-big-promises-as-nyc-mayor
-  headline: Can Zohran Mamdani fulfill his big promises as NYC mayor?
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7196
-- slug: 2026-01-01-zohran-mamdani-sworn-in-as-nyc-mayor-pledges-expansively-and-audaciously
-  headline: Zohran Mamdani sworn in as NYC mayor, pledges “expansively and audaciously”
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7101
-- slug: 2026-01-03-incoming-new-york-mayor-zohran-mamdani-to-take-oath-on-quran
-  headline: Incoming New York mayor Zohran Mamdani to take oath on Quran
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.704
 ---
-
 ## Mamdani announces New York's first antisemitism strategy
 
 **Subtype:** fact

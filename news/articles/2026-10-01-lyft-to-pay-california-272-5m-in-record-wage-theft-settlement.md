@@ -2,8 +2,16 @@
 headline: Lyft to pay California $272.5M in record wage-theft settlement
 secondary_headline: More than $237M will go to drivers misclassified as contractors
 publish_date: '2026-10-01'
-lede: Lyft has agreed to pay California $272.5 million to settle claims that the company misclassified drivers as independent contractors rather than employees, the state's attorney general announced Thursday. California Attorney General Rob Bonta described the agreement as the largest settlement involving wage-theft claims in the state's history.
-nut_graf: The settlement, which is subject to court approval, will distribute more than $237 million to the thousands of Lyft drivers covered by the lawsuit. It covers claims of alleged violations between April 2016 and December 2020, during which the company treated its California drivers as independent contractors rather than employees.
+lede: Lyft has agreed to pay California $272.5 million to settle claims that the company
+  misclassified drivers as independent contractors rather than employees, the state's
+  attorney general announced Thursday. California Attorney General Rob Bonta described
+  the agreement as the largest settlement involving wage-theft claims in the state's
+  history.
+nut_graf: The settlement, which is subject to court approval, will distribute more
+  than $237 million to the thousands of Lyft drivers covered by the lawsuit. It covers
+  claims of alleged violations between April 2016 and December 2020, during which
+  the company treated its California drivers as independent contractors rather than
+  employees.
 primary_entities:
 - Lyft
 - California
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,46 +155,32 @@ related_stories:
   publish_date: '2026-09-22'
   relation: related
   strength: 0.6631
-- slug: 2026-08-27-california-lawmakers-weigh-liability-caps-as-abuse-claims-drive-billions-in-cost
-  headline: California lawmakers weigh liability caps as abuse claims drive billions in costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6235
-- slug: 2026-08-31-los-angeles-county-sues-state-farm-over-2025-wildfire-claims-handling
-  headline: Los Angeles County sues State Farm over 2025 wildfire claims handling
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6026
-- slug: 2026-07-27-waymo-robotaxis-rack-up-9-325-in-austin-parking-fines
-  headline: Waymo robotaxis rack up $9,325 in Austin parking fines
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6207
 - slug: 2026-05-10-gm-to-pay-12-75-million-record-penalty-under-california-privacy-law
   headline: GM to pay $12.75 million record penalty under California privacy law
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6962
+  strength: 0.6964
 - slug: 2026-05-26-massachusetts-uber-and-lyft-drivers-form-first-us-ride-hailing-union
   headline: Massachusetts Uber and Lyft drivers form first US ride-hailing union
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.6725
+  strength: 0.6718
 - slug: 2026-05-10-google-settles-lawsuit-over-alleged-racial-disparities-in-hiring-pay-and-promoti
-  headline: Google settles lawsuit over alleged racial disparities in hiring, pay and promotions
+  headline: Google settles lawsuit over alleged racial disparities in hiring, pay
+    and promotions
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6838
+  strength: 0.6834
 - slug: 2026-05-10-gm-pays-record-12-75m-penalty-for-selling-driver-data-without-consent
   headline: GM pays record $12.75M penalty for selling driver data without consent
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6636
+  strength: 0.6635
 - slug: 2026-05-10-google-settles-50-million-class-action-lawsuit-over-alleged-racial-discriminatio
   headline: Google settles $50 million class-action lawsuit over alleged racial discrimination
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6612
+  strength: 0.6608
 - slug: 2026-05-05-california-seeks-penalties-against-state-farm-over-2025-la-wildfire-claims
   headline: California seeks penalties against State Farm over 2025 LA wildfire claims
   publish_date: '2026-05-05'
@@ -195,54 +190,8 @@ related_stories:
   headline: Lyft settlement in Minnesota requires service-animal accommodations nationwide
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6646
-- slug: 2026-03-10-state-farm-settlement-caps-california-homeowner-hikes-offers-condo-and-rental-re
-  headline: State Farm settlement caps California homeowner hikes, offers condo and rental refunds
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6617
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  headline: California delays revocation of 17,000 commercial licenses after migrant lawsuit
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6501
-- slug: 2026-01-07-california-loses-160m-in-federal-funds-over-delay-in-revoking-immigrant-trucking
-  headline: California loses $160M in federal funds over delay in revoking immigrant trucking licenses
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6465
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6249
-- slug: 2026-02-27-walmart-to-pay-100m-to-settle-ftc-allegations-over-spark-pay-deception
-  headline: Walmart to pay $100M to settle FTC allegations over Spark pay deception
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6326
-- slug: 2025-12-30-california-delays-revoking-17-000-commercial-driver-licenses-until-march
-  headline: California delays revoking 17,000 commercial driver licenses until March
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6333
-- slug: 2025-12-31-california-delays-revoking-17-000-commercial-drivers-licenses-until-march
-  headline: California delays revoking 17,000 commercial drivers’ licenses until March
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6293
-- slug: 2026-02-21-pacificorp-settles-federal-wildfire-claims-for-575-million
-  headline: PacifiCorp settles federal wildfire claims for $575 million
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6176
-- slug: 2026-04-08-deere-agrees-to-pay-99-million-to-settle-right-to-repair-lawsuit
-  headline: Deere agrees to pay $99 million to settle right-to-repair lawsuit
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.605
+  strength: 0.6652
 ---
-
 ## Lyft to pay California $272.5M in record wage-theft settlement
 **Subtype:** fact
 

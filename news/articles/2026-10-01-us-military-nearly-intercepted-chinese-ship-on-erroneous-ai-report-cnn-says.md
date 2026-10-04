@@ -1,9 +1,23 @@
 ---
-headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN says
-secondary_headline: Newsom orders AI kill-switch; Sanders, Casar seek superintelligence ban
+headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN
+  says
+secondary_headline: Newsom orders AI kill-switch; Sanders, Casar seek superintelligence
+  ban
 publish_date: '2026-10-01'
-lede: A CNN report published September 18 described how the U.S. military nearly went to war with China after acting on an intelligence report, generated with a chatbot, that claimed a Chinese ship was transporting components of nuclear weapons. Military personnel made plans to intercept the vessel, with aircraft and soldiers ready to board, and officials found the intelligence erroneous only moments before executing the plan, according to the report. The episode anchors an October 1 Guardian opinion essay by Timnit Gebru and Emily M. Bender arguing that error-prone AI systems, not hypothetical superintelligent machines, pose the real risk.
-nut_graf: The essay argues that public and political attention has focused on warnings that superintelligent machines could wipe out humanity, even as a near-conflict between two nuclear powers — triggered by military reliance on an error-prone chatbot — drew comparatively little response. The authors call for regulating systems sold as "AI" as error-prone products that should not be used in high-stakes scenarios, a debate unfolding as U.S. state and federal officials advance their own AI measures.
+lede: A CNN report published September 18 described how the U.S. military nearly went
+  to war with China after acting on an intelligence report, generated with a chatbot,
+  that claimed a Chinese ship was transporting components of nuclear weapons. Military
+  personnel made plans to intercept the vessel, with aircraft and soldiers ready to
+  board, and officials found the intelligence erroneous only moments before executing
+  the plan, according to the report. The episode anchors an October 1 Guardian opinion
+  essay by Timnit Gebru and Emily M. Bender arguing that error-prone AI systems, not
+  hypothetical superintelligent machines, pose the real risk.
+nut_graf: The essay argues that public and political attention has focused on warnings
+  that superintelligent machines could wipe out humanity, even as a near-conflict
+  between two nuclear powers — triggered by military reliance on an error-prone chatbot
+  — drew comparatively little response. The authors call for regulating systems sold
+  as "AI" as error-prone products that should not be used in high-stakes scenarios,
+  a debate unfolding as U.S. state and federal officials advance their own AI measures.
 primary_entities:
 - CNN
 - U.S. military
@@ -51,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,115 +168,59 @@ related_stories:
   headline: Gates warns AI regulation needed to prevent 'billion deaths'
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6652
+  strength: 0.6662
 - slug: 2026-09-25-microsoft-activists-call-for-ban-on-ai-in-military-targeting-autonomous-weapons-
-  headline: Microsoft activists call for ban on AI in military targeting, autonomous weapons, surveillance
+  headline: Microsoft activists call for ban on AI in military targeting, autonomous
+    weapons, surveillance
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6724
-- slug: 2026-09-26-trump-and-xi-agree-to-super-intelligence-dialogue-at-state-visit
-  headline: Trump and Xi agree to 'super intelligence' dialogue at state visit
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6622
+  strength: 0.6728
 - slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
   headline: Trump, Xi to discuss AI safety at Washington summit
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7027
+  strength: 0.7031
 - slug: 2026-09-23-bessent-he-lifeng-propose-ai-safety-mechanism-ahead-of-trump-xi-summit
   headline: Bessent, He Lifeng propose AI safety mechanism ahead of Trump-Xi summit
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.672
+  strength: 0.6723
 - slug: 2026-09-21-anthropic-report-details-ai-model-misuse-by-criminals-state-actors
   headline: Anthropic report details AI model misuse by criminals, state actors
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6831
+  strength: 0.6834
 - slug: 2026-09-20-china-rebuffs-us-calls-to-slow-ai-development-ahead-of-trump-xi-summit
   headline: China rebuffs US calls to slow AI development ahead of Trump-Xi summit
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.689
+  strength: 0.6893
 - slug: 2026-09-15-sanders-bannon-split-on-us-china-ai-race-at-washington-summit
   headline: Sanders, Bannon split on US-China AI race at Washington summit
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7108
+  strength: 0.7114
 - slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
   headline: Trump, Xi set to discuss AI as both reject slowdown
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6649
-- slug: 2026-09-21-bessent-chinese-vice-premier-discuss-ai-notification-mechanism-in-new-york
-  headline: Bessent, Chinese vice premier discuss AI notification mechanism in New York
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6682
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6787
-- slug: 2026-09-14-china-updates-ai-safety-framework-cites-deception-and-autonomy-risks
-  headline: China updates AI safety framework, cites deception and autonomy risks
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7037
-- slug: 2026-09-19-uk-joint-committee-on-human-rights-proposes-new-ai-bill-to-address-threats
-  headline: UK Joint Committee on Human Rights proposes new AI bill to address threats
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6741
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6912
-- slug: 2026-09-18-us-chinese-experts-hold-informal-ai-dialogues-ahead-of-trump-xi-meeting
-  headline: US, Chinese experts hold informal AI dialogues ahead of Trump-Xi meeting
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6672
-- slug: 2026-09-16-steve-bannon-parts-with-trump-on-ai-shares-stage-with-sanders
-  headline: Steve Bannon parts with Trump on AI, shares stage with Sanders
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6716
-- slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
-  headline: Leading AI companies discuss joint standards to limit catastrophic harms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6634
-- slug: 2026-09-15-feng-reports-debate-over-whether-beijing-would-want-super-powerful-ai
-  headline: Feng reports debate over whether Beijing would want super-powerful AI
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6628
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6779
-- slug: 2026-09-10-cruz-sanders-and-house-democrats-press-congress-to-act-on-ai-risks
-  headline: Cruz, Sanders and House Democrats press Congress to act on AI risks
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6667
+  strength: 0.6653
 image:
   url: /articles/2026-10-01-us-military-nearly-intercepted-chinese-ship-on-erroneous-ai-report-cnn-says.png
-  alt: "Illustration accompanying article: US military nearly intercepted Chinese ship on erroneous AI report, CNN says"
+  alt: 'Illustration accompanying article: US military nearly intercepted Chinese
+    ship on erroneous AI report, CNN says'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-01-chatbot-generated-report-brought-u-s-to-intercept-threshold-with-chinese-vessel-'
+- 2026-10-01-chatbot-generated-report-brought-u-s-to-intercept-threshold-with-chinese-vessel-
 ---
-
 ## US military nearly intercepted Chinese ship on erroneous AI report, CNN says
 
 **Subtype:** fact

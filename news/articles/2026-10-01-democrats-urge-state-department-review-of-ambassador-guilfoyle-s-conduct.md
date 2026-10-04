@@ -1,8 +1,15 @@
 ---
 headline: Democrats urge State Department review of Ambassador Guilfoyle's conduct
-secondary_headline: Request follows report on Greek gas deals, lobbyist's meeting role
+secondary_headline: Request follows report on Greek gas deals, lobbyist's meeting
+  role
 publish_date: '2026-10-01'
-lede: The top Democrats on the Senate Foreign Relations and House Foreign Affairs committees have asked Secretary of State Marco Rubio to review U.S. Ambassador to Greece Kimberly Guilfoyle's conduct, citing her promotion of gas deals involving a Greek company and her inclusion of a registered lobbyist in meetings with foreign officials. The requests, made in separate letters this week, followed a Wall Street Journal investigation into Guilfoyle's efforts on behalf of the Greek firm Aktor Group.
+lede: The top Democrats on the Senate Foreign Relations and House Foreign Affairs
+  committees have asked Secretary of State Marco Rubio to review U.S. Ambassador to
+  Greece Kimberly Guilfoyle's conduct, citing her promotion of gas deals involving
+  a Greek company and her inclusion of a registered lobbyist in meetings with foreign
+  officials. The requests, made in separate letters this week, followed a Wall Street
+  Journal investigation into Guilfoyle's efforts on behalf of the Greek firm Aktor
+  Group.
 primary_entities:
 - Kimberly Guilfoyle
 - Jeanne Shaheen
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -78,104 +86,8 @@ related_stories:
   headline: Guilfoyle promotes Aktor across Balkans as its lobbyist joins her meetings
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7729
-- slug: 2026-10-01-senate-democrats-challenge-pentagon-s-35-stake-in-venezuelan-oil-producer
-  headline: Senate Democrats challenge Pentagon's 35% stake in Venezuelan oil producer
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6028
-- slug: 2026-09-28-himes-readies-house-intelligence-probes-of-spy-industry-s-trump-dealings
-  headline: Himes readies House Intelligence probes of spy-industry's Trump dealings
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5683
-- slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
-  headline: Democrats ask Rubio to address alleged US interference in Brazil election
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5772
-- slug: 2026-09-14-dhs-whistleblower-says-agents-may-have-broken-state-laws-in-voter-hunt
-  headline: DHS whistleblower says agents may have broken state laws in voter hunt
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5701
-- slug: 2026-09-01-wyden-jayapal-ask-gao-to-investigate-dhs-use-of-summonses-against-journalists
-  headline: Wyden, Jayapal ask GAO to investigate DHS use of summonses against journalists
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6172
-- slug: 2026-08-17-house-ethics-committee-opens-sexual-misconduct-investigation-into-rep-jimmy-gome
-  headline: House Ethics Committee opens sexual misconduct investigation into Rep. Jimmy Gomez
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5673
-- slug: 2026-08-05-us-revokes-brazil-ambassador-s-visa-in-diplomatic-escalation
-  headline: US revokes Brazil ambassador's visa in diplomatic escalation
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5744
-- slug: 2026-08-05-us-to-close-five-consulates-critics-warn-china-will-fill-the-void
-  headline: US to close five consulates; critics warn China will fill the void
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5733
-- slug: 2026-08-06-democrats-urge-trump-officials-to-restore-west-bank-settler-sanctions
-  headline: Democrats urge Trump officials to restore West Bank settler sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5635
-- slug: 2026-07-13-sacked-uk-foreign-office-chief-sir-olly-robbins-seeks-judicial-review-of-dismiss
-  headline: Sacked UK Foreign Office chief Sir Olly Robbins seeks judicial review of dismissal
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5705
-- slug: 2026-07-13-senator-warren-presses-jpmorgan-chief-dimon-on-epstein-ties
-  headline: Senator Warren presses JPMorgan chief Dimon on Epstein ties
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5681
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5668
-- slug: 2026-07-10-dhs-inspector-general-finds-lewandowski-may-have-improperly-awarded-contracts
-  headline: DHS inspector general finds Lewandowski may have improperly awarded contracts
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5661
-- slug: 2026-07-10-110m-in-texas-starlink-grants-sure-looks-like-corruption-democratic-ag-nominee-s
-  headline: $110M in Texas Starlink grants 'sure looks like' corruption, Democratic AG nominee says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5658
-- slug: 2026-06-02-sheinbaum-publicly-urges-u-s-ambassador-to-avoid-domestic-political-commentary
-  headline: Sheinbaum publicly urges U.S. ambassador to avoid domestic political commentary
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5878
-- slug: 2026-05-08-trump-administration-reviews-mexico-consulates-some-could-close
-  headline: Trump administration reviews Mexico consulates; some could close
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5991
-- slug: 2026-06-04-rubio-south-korea-s-treatment-of-us-firms-complicates-trade-talks
-  headline: 'Rubio: South Korea''s treatment of US firms complicates trade talks'
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5685
-- slug: 2026-04-22-starmer-faces-new-fallout-after-robbins-details-mandelson-s-vetting
-  headline: Starmer faces new fallout after Robbins details Mandelson’s vetting
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-10-former-polish-justice-minister-ziobro-says-he-is-in-the-u-s
-  headline: Former Polish justice minister Ziobro says he is in the U.S.
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5664
+  strength: 0.7722
 ---
-
 ## Democrats urge State Department review of Ambassador Guilfoyle's conduct
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Refugees with disabilities lose Medicaid as H.R. 1 takes effect
 secondary_headline: KFF analysis estimates 280,000 people will lose coverage in October
 publish_date: '2026-10-01'
-lede: Refugees, asylum seekers and other immigrants admitted on humanitarian grounds lost Medicaid coverage on October 1 under changes to "Alien Medicaid Eligibility" in H.R. 1, the Trump administration's major budget bill Republicans passed last summer. An estimated 280,000 people will lose coverage this month, according to a KFF Health News analysis. The change is hitting refugees with disabilities particularly hard, with research from University of Nebraska at Omaha professor Mustafa Rfat indicating more than one-third of refugees have at least one disability.
-nut_graf: States are facing even bigger Medicaid cuts in January, according to KFF. Refugee resettlement advocates said people who lose coverage now will likely return to the system later as green card holders and become Medicaid-eligible again — but in worse health, having deferred care for chronic conditions.
+lede: Refugees, asylum seekers and other immigrants admitted on humanitarian grounds
+  lost Medicaid coverage on October 1 under changes to "Alien Medicaid Eligibility"
+  in H.R. 1, the Trump administration's major budget bill Republicans passed last
+  summer. An estimated 280,000 people will lose coverage this month, according to
+  a KFF Health News analysis. The change is hitting refugees with disabilities particularly
+  hard, with research from University of Nebraska at Omaha professor Mustafa Rfat
+  indicating more than one-third of refugees have at least one disability.
+nut_graf: States are facing even bigger Medicaid cuts in January, according to KFF.
+  Refugee resettlement advocates said people who lose coverage now will likely return
+  to the system later as green card holders and become Medicaid-eligible again — but
+  in worse health, having deferred care for chronic conditions.
 primary_entities:
 - Mustafa Rfat
 - KFF
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,108 +130,42 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-omb-draft-rule-would-ban-federal-grants-for-voter-registration-drives
-  headline: OMB draft rule would ban federal grants for voter registration drives
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6439
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6414
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6412
 - slug: 2026-07-22-budget-law-stalls-bipartisan-pre-release-medicaid-effort
   headline: Budget law stalls bipartisan pre-release Medicaid effort
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.703
+  strength: 0.7036
 - slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
   headline: Federal Medicaid work rule excludes homelessness as automatic exemption
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6667
+  strength: 0.6687
 - slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
   headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.7322
-- slug: 2026-08-01-federal-contract-ends-leaving-26-000-migrant-children-without-lawyers
-  headline: Federal contract ends, leaving 26,000 migrant children without lawyers
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6398
+  strength: 0.7326
 - slug: 2026-07-02-haitian-tps-deportations-threaten-u-s-healthcare-workforce-experts-say
   headline: Haitian TPS deportations threaten U.S. healthcare workforce, experts say
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6512
-- slug: 2026-07-09-supreme-court-ruling-on-tps-could-deepen-caregiver-shortage
-  headline: Supreme Court ruling on TPS could deepen caregiver shortage
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6371
-- slug: 2026-07-02-supreme-court-tps-ruling-will-strain-us-healthcare-staffing-experts-say
-  headline: Supreme Court TPS ruling will strain US healthcare staffing, experts say
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6371
-- slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
-  headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6382
-- slug: 2026-06-23-tps-revocations-leave-hospitals-short-of-nursing-assistants-employers-say
-  headline: TPS revocations leave hospitals short of nursing assistants, employers say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6421
+  strength: 0.6528
 - slug: 2026-01-02-minnesota-ends-state-health-coverage-for-15-000-undocumented-adult-immigrants
   headline: Minnesota ends state health coverage for 15,000 undocumented adult immigrants
   publish_date: '2026-01-02'
   relation: related
-  strength: 0.7109
+  strength: 0.7122
 - slug: 2026-03-05-trump-medicaid-work-mandate-could-disrupt-care-for-homeless-californians
   headline: Trump Medicaid work mandate could disrupt care for homeless Californians
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6999
-- slug: 2026-06-17-trump-immigration-policies-endanger-foreign-doctors-rural-us-healthcare
-  headline: Trump immigration policies endanger foreign doctors, rural US healthcare
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6365
+  strength: 0.7002
 - slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
   headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.6511
-- slug: 2026-05-10-us-lifts-visa-pause-for-doctors-but-many-other-applicants-remain-stuck
-  headline: US lifts visa pause for doctors, but many other applicants remain stuck
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6385
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6393
-- slug: 2026-03-24-nebraska-seeks-to-end-retroactive-medicaid-coverage
-  headline: Nebraska seeks to end retroactive Medicaid coverage
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6469
-- slug: 2026-04-04-trump-s-50b-rural-health-fund-offers-ailing-hospitals-few-solutions
-  headline: Trump’s $50B rural health fund offers ailing hospitals few solutions
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6394
+  strength: 0.6523
 ---
-
 ## Refugees with disabilities lose Medicaid as H.R. 1 takes effect
 
 **Subtype:** fact

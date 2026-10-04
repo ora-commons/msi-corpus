@@ -2,8 +2,16 @@
 headline: Judge Sullivan denies motion to acquit Lindsay Clancy of murder
 secondary_headline: Clancy's first trial deadlocked 11-1 in favor of acquittal
 publish_date: '2026-10-01'
-lede: Judge William Sullivan on Thursday denied a defense motion to declare Lindsay Clancy not guilty of murder, ruling that prosecutors presented adequate evidence for a jury to decide the case. The ruling came nearly a month after Clancy's first trial in Plymouth, Massachusetts, ended in a mistrial when the jury deadlocked 11-1 in favor of acquittal. Clancy, 36, has admitted to strangling her three children at the family's home in Duxbury, Massachusetts, in 2023; her defense argues postpartum psychosis left her not criminally responsible.
-nut_graf: The decision keeps the case in the courts after a jury deadlocked 11-1 in favor of acquittal, leaving unresolved the question of whether Clancy was criminally responsible for the 2023 killings of her three children.
+lede: Judge William Sullivan on Thursday denied a defense motion to declare Lindsay
+  Clancy not guilty of murder, ruling that prosecutors presented adequate evidence
+  for a jury to decide the case. The ruling came nearly a month after Clancy's first
+  trial in Plymouth, Massachusetts, ended in a mistrial when the jury deadlocked 11-1
+  in favor of acquittal. Clancy, 36, has admitted to strangling her three children
+  at the family's home in Duxbury, Massachusetts, in 2023; her defense argues postpartum
+  psychosis left her not criminally responsible.
+nut_graf: The decision keeps the case in the courts after a jury deadlocked 11-1 in
+  favor of acquittal, leaving unresolved the question of whether Clancy was criminally
+  responsible for the 2023 killings of her three children.
 primary_entities:
 - Lindsay Clancy
 - William Sullivan
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,43 @@ related_stories:
   headline: Clancy's lawyers seek acquittal, cite double jeopardy after mistrial
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8673
+  strength: 0.8675
 - slug: 2026-09-18-clancy-defense-lawyer-says-he-was-upset-over-holdout-s-refusal-to-acquit
   headline: Clancy defense lawyer says he was 'upset' over holdout's refusal to acquit
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.8252
+  strength: 0.825
 - slug: 2026-09-04-judge-declares-mistrial-in-clancy-murder-trial-after-jury-deadlock
   headline: Judge declares mistrial in Clancy murder trial after jury deadlock
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.8923
+  strength: 0.8921
 - slug: 2026-09-10-clancy-defense-asks-judge-to-clear-her-on-insanity-grounds
   headline: Clancy defense asks judge to clear her on insanity grounds
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8623
+  strength: 0.8621
 - slug: 2026-09-21-patrick-clancy-describes-events-before-children-s-killings-on-60-minutes
   headline: Patrick Clancy describes events before children's killings on 60 Minutes
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7723
+  strength: 0.772
 - slug: 2026-09-21-clancy-defense-asks-judge-to-investigate-holdout-juror
   headline: Clancy defense asks judge to investigate holdout juror
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7544
+  strength: 0.7543
 - slug: 2026-09-07-lindsay-clancy-trial-ends-in-mistrial-after-jury-deadlocks-11-1
   headline: Lindsay Clancy trial ends in mistrial after jury deadlocks 11-1
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.8193
+  strength: 0.8187
 - slug: 2026-09-03-deadlocked-clancy-jury-goes-home-after-sixth-day-without-verdict
   headline: Deadlocked Clancy jury goes home after sixth day without verdict
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.837
-- slug: 2026-09-18-clancy-holdout-juror-faced-2021-domestic-violence-charge-during-trial
-  headline: Clancy holdout juror faced 2021 domestic violence charge during trial
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7596
-- slug: 2026-09-08-reddington-plans-motion-to-reconsider-clancy-mistrial-later-this-month
-  headline: Reddington plans motion to reconsider Clancy mistrial later this month
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.8049
-- slug: 2026-09-08-holdout-blocks-acquittal-despite-doubts-about-her-guilt-jury-foreperson-says
-  headline: Holdout blocks acquittal despite doubts about her guilt, jury foreperson says
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7996
-- slug: 2026-09-03-clancy-jury-enters-sixth-day-of-deliberations-after-deadlock
-  headline: Clancy jury enters sixth day of deliberations after deadlock
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.8184
-- slug: 2026-09-01-judge-asks-deadlocked-clancy-jury-to-continue-deliberating
-  headline: Judge asks deadlocked Clancy jury to continue deliberating
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.8207
-- slug: 2026-08-29-lindsay-clancy-jury-begins-deliberations-after-five-week-trial
-  headline: Lindsay Clancy jury begins deliberations after five-week trial
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.8147
-- slug: 2026-08-26-lindsay-clancy-jury-to-begin-deliberations-after-five-week-murder-trial
-  headline: Lindsay Clancy jury to begin deliberations after five-week murder trial
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.8198
-- slug: 2026-08-31-jury-weighs-five-verdict-options-in-clancy-murder-trial
-  headline: Jury weighs five verdict options in Clancy murder trial
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7971
-- slug: 2026-08-25-prosecution-experts-challenge-clancy-postpartum-psychosis-defense
-  headline: Prosecution experts challenge Clancy postpartum psychosis defense
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8116
-- slug: 2026-08-21-defense-rests-in-clancy-murder-trial-as-closing-arguments-near
-  headline: Defense rests in Clancy murder trial as closing arguments near
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.803
-- slug: 2026-08-17-clancy-defense-opens-case-arguing-postpartum-psychosis-bipolar-disorder
-  headline: Clancy defense opens case arguing postpartum psychosis, bipolar disorder
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.8088
-- slug: 2026-08-22-resnick-tells-clancy-jury-she-followed-a-command-in-killings
-  headline: Resnick tells Clancy jury she 'followed a command' in killings
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7717
+  strength: 0.8366
 ---
-
 ## Judge Sullivan denies motion to acquit Lindsay Clancy of murder
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-secondary_headline: First Oklahoma visit since 2020; Lankford cites inflation, gas prices
+secondary_headline: First Oklahoma visit since 2020; Lankford cites inflation, gas
+  prices
 publish_date: '2026-10-01'
-lede: President Donald Trump was scheduled to campaign in Texas and Oklahoma on Thursday for Republican candidates, traveling with Sen. James Lankford on his first visit to Oklahoma since 2020. The trip comes as multiple recent polls have indicated that voters blame Trump and the Republican congressional majority for inflation, and after Trump said in early September he would limit his campaign travel to candidates in close races.
-nut_graf: Trump's decision to visit reliably Republican states — including one he has won county by county in both his presidential runs — comes as multiple recent polls indicate voters blame him and the GOP congressional majority for inflation, and as the Oklahoma Democratic Party says his approval rating is "sinking to an all-time low."
+lede: President Donald Trump was scheduled to campaign in Texas and Oklahoma on Thursday
+  for Republican candidates, traveling with Sen. James Lankford on his first visit
+  to Oklahoma since 2020. The trip comes as multiple recent polls have indicated that
+  voters blame Trump and the Republican congressional majority for inflation, and
+  after Trump said in early September he would limit his campaign travel to candidates
+  in close races.
+nut_graf: Trump's decision to visit reliably Republican states — including one he
+  has won county by county in both his presidential runs — comes as multiple recent
+  polls indicate voters blame him and the GOP congressional majority for inflation,
+  and as the Oklahoma Democratic Party says his approval rating is "sinking to an
+  all-time low."
 primary_entities:
 - Donald Trump
 - James Lankford
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -119,108 +130,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
+  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6818
 - slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.67
+  strength: 0.6696
 - slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
   headline: Trump headlines first Republican midterm convention in Dallas
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.7047
+  strength: 0.7054
 - slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
   headline: Trump closes GOP midterm convention with personal vote pledge
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6749
+  strength: 0.6752
 - slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
   headline: Trump closes Dallas GOP convention pledging $5,000 payouts
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6671
+  strength: 0.6677
 - slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
   headline: Empty seats and instant ticket approvals mark GOP midterm convention
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6709
+  strength: 0.6712
 - slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
   headline: Trump urges GOP to run on his record, pledges to campaign for them
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6858
+  strength: 0.6868
 - slug: 2026-08-24-oklahoma-voters-head-to-polls-tuesday-for-governor-runoff-senate-primary
   headline: Oklahoma voters head to polls Tuesday for governor runoff, Senate primary
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6822
-- slug: 2026-08-04-trump-schedules-california-fundraiser-nevada-economy-event-ahead-of-midterms
-  headline: Trump schedules California fundraiser, Nevada economy event ahead of midterms
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6929
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7042
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6913
-- slug: 2026-06-30-trump-announces-first-ever-gop-midterm-convention-in-dallas
-  headline: Trump announces first-ever GOP midterm convention in Dallas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7022
-- slug: 2026-06-23-trump-tours-mack-trucks-plant-holds-campaign-style-rally-in-pennsylvania
-  headline: Trump tours Mack Trucks plant, holds campaign-style rally in Pennsylvania
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6789
-- slug: 2026-05-22-trump-veers-off-topic-in-new-york-touts-lawler-salt-tax-cuts
-  headline: Trump veers off-topic in New York, touts Lawler SALT tax cuts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6771
-- slug: 2026-02-26-trump-won-t-name-texas-senate-primary-pick-yet-as-rivals-court-him
-  headline: Trump won’t name Texas Senate primary pick yet as rivals court him
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7109
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6679
-- slug: 2026-05-16-trump-returns-from-chinese-state-visit-to-face-inflation-and-affordability-press
-  headline: Trump returns from Chinese state visit to face inflation and affordability pressure
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.668
-- slug: 2026-02-27-trump-won-t-name-his-texas-senate-primary-pick-yet-backs-all-three
-  headline: Trump won’t name his Texas Senate primary pick yet, backs all three
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6972
-- slug: 2026-02-26-trump-starts-midterm-message-push-after-state-of-the-union-trip-to-texas
-  headline: Trump starts midterm message push after State of the Union trip to Texas
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6899
-- slug: 2026-03-12-trump-slams-fellow-republican-massie-during-kentucky-rally
-  headline: Trump slams fellow Republican Massie during Kentucky rally
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6848
-- slug: 2026-02-20-trump-visits-georgia-as-republicans-seek-midterm-boost-amid-election-claims
-  headline: Trump visits Georgia as Republicans seek midterm boost amid election claims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6833
+  strength: 0.6813
 ---
-
 ## Trump campaigns in Texas and Oklahoma for GOP candidates
 
 **Subtype:** fact

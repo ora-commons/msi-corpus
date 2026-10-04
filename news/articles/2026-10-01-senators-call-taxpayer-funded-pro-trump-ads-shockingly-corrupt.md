@@ -1,9 +1,16 @@
 ---
 headline: Senators call taxpayer-funded pro-Trump ads 'shockingly corrupt'
-secondary_headline: Administration plans more ads as communications regulator declines to probe
+secondary_headline: Administration plans more ads as communications regulator declines
+  to probe
 publish_date: '2026-10-01'
-lede: The federal government is spending millions of taxpayer dollars on television ads that cast President Donald Trump as a hero ahead of the midterm elections, drawing condemnation from two Democratic senators who called the spots "a shockingly corrupt use of taxpayer dollars."
-nut_graf: 'The ads are funded through the Department of Homeland Security and come amid little evident prospect of a check on the spending: the federal communications regulator has declined to investigate, and Republican majorities hold both houses of Congress. Experts have said the funding may be illegal.'
+lede: The federal government is spending millions of taxpayer dollars on television
+  ads that cast President Donald Trump as a hero ahead of the midterm elections, drawing
+  condemnation from two Democratic senators who called the spots "a shockingly corrupt
+  use of taxpayer dollars."
+nut_graf: 'The ads are funded through the Department of Homeland Security and come
+  amid little evident prospect of a check on the spending: the federal communications
+  regulator has declined to investigate, and Republican majorities hold both houses
+  of Congress. Experts have said the funding may be illegal.'
 primary_entities:
 - Donald Trump
 - Patty Murray
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +154,44 @@ related_stories:
   headline: Public Citizen urges FCC to block Trump ads paid with public money
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7779
+  strength: 0.7755
 - slug: 2026-10-01-fcc-chair-defends-taxpayer-funded-trump-ads-as-routine-psas
   headline: FCC chair defends taxpayer-funded Trump ads as routine PSAs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7584
+  strength: 0.7572
 - slug: 2026-09-25-white-house-defends-pro-trump-fox-ad-as-public-service-announcement
   headline: White House defends pro-Trump Fox ad as public service announcement
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7834
+  strength: 0.7796
 - slug: 2026-09-28-trump-2024-campaign-ad-returns-with-paid-by-us-government-label
   headline: Trump 2024 campaign ad returns with 'paid by US government' label
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7551
+  strength: 0.7517
 - slug: 2026-09-27-kennedy-says-taxpayer-funded-trump-ads-are-probably-illegal
   headline: Kennedy says taxpayer-funded Trump ads are 'probably' illegal
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7578
+  strength: 0.7558
 - slug: 2026-09-24-white-house-pays-for-pro-trump-ad-airing-on-fox-news-and-newsmax
   headline: White House pays for pro-Trump ad airing on Fox News and Newsmax
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7442
+  strength: 0.7404
 - slug: 2026-09-30-musician-jmsn-demands-white-house-stop-using-his-song-in-taxpayer-funded-ads
-  headline: Musician JMSN demands White House stop using his song in taxpayer-funded ads
+  headline: Musician JMSN demands White House stop using his song in taxpayer-funded
+    ads
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6701
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6472
+  strength: 0.6676
 - slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
   headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6802
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6807
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6563
-- slug: 2026-09-10-experts-offer-different-legal-views-of-trump-s-proposed-5-000-payments
-  headline: Experts offer different legal views of Trump's proposed $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6496
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.666
-- slug: 2026-09-02-trump-urges-fcc-to-rebuke-nbc-s-welker-over-mixed-record-remark
-  headline: Trump urges FCC to rebuke NBC's Welker over 'mixed-record' remark
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6617
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6661
-- slug: 2026-08-01-trump-media-charges-up-to-100-000-a-month-for-early-truth-social-access
-  headline: Trump Media charges up to $100,000 a month for early Truth Social access
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6556
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6715
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6594
-- slug: 2026-06-15-ai-generated-campaign-ads-surge-ahead-of-midterms-researchers-say
-  headline: AI-generated campaign ads surge ahead of midterms, researchers say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6644
-- slug: 2026-06-03-trump-turns-federal-agencies-into-arm-of-presidency-lobbying-jumps-70
-  headline: Trump turns federal agencies into arm of presidency, lobbying jumps 70%
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6465
+  strength: 0.6787
 ---
-
 ## Senators call taxpayer-funded pro-Trump ads 'shockingly corrupt'
 
 **Subtype:** fact

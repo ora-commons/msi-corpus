@@ -2,8 +2,13 @@
 headline: McCormick quarterly sales climb 17% to $2.02 billion as profit falls
 secondary_headline: CEO says integration planning advancing for Unilever food merger
 publish_date: '2026-10-01'
-lede: McCormick & Co. reported fiscal third-quarter sales of $2.02 billion on Thursday, up 17% from a year earlier and ahead of analyst expectations. Net income for the three months ended Aug. 31 fell to $97.6 million, or 36 cents a share, from $225.5 million, or 84 cents a share, in the same quarter a year ago.
-nut_graf: The sales beat comes as McCormick continues integration planning for its planned combination with Unilever's food business — a transaction expected to close by mid-2027 and create a company valued at more than $65 billion including debt.
+lede: McCormick & Co. reported fiscal third-quarter sales of $2.02 billion on Thursday,
+  up 17% from a year earlier and ahead of analyst expectations. Net income for the
+  three months ended Aug. 31 fell to $97.6 million, or 36 cents a share, from $225.5
+  million, or 84 cents a share, in the same quarter a year ago.
+nut_graf: The sales beat comes as McCormick continues integration planning for its
+  planned combination with Unilever's food business — a transaction expected to close
+  by mid-2027 and create a company valued at more than $65 billion including debt.
 primary_entities:
 - McCormick & Co.
 - Unilever
@@ -34,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,108 +138,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-carmax-posts-73-profit-gain-as-vehicle-sales-rise
-  headline: CarMax posts 73% profit gain as vehicle sales rise
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6213
-- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6285
-- slug: 2026-08-27-best-buy-raises-full-year-outlook-after-q2-comparable-sales-beat-expectations
-  headline: Best Buy raises full-year outlook after Q2 comparable sales beat expectations
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6382
 - slug: 2026-08-20-walmart-quarterly-comparable-sales-rise-2-6-smallest-gain-in-years
   headline: Walmart quarterly comparable sales rise 2.6%, smallest gain in years
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.656
+  strength: 0.6558
 - slug: 2026-07-23-mccormick-announces-plan-for-london-stock-listing-after-unilever-foods-merger
-  headline: McCormick announces plan for London stock listing after Unilever foods merger
+  headline: McCormick announces plan for London stock listing after Unilever foods
+    merger
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7224
+  strength: 0.7221
 - slug: 2026-03-31-mccormick-to-combine-with-unilever-s-foods-unit-in-44-8b-deal
   headline: McCormick to combine with Unilever’s foods unit in $44.8B deal
   publish_date: '2026-03-31'
   relation: related
-  strength: 0.8071
+  strength: 0.806
 - slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
   headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6541
-- slug: 2026-08-06-keurig-dr-pepper-reports-higher-sales-as-it-prepares-to-split
-  headline: Keurig Dr Pepper reports higher sales as it prepares to split
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6447
-- slug: 2026-07-28-mondelez-lifts-organic-revenue-growth-outlook-to-at-least-2-on-latin-america-str
-  headline: Mondelez lifts organic revenue growth outlook to at least 2% on Latin America strength
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6389
-- slug: 2026-07-28-unilever-lifts-full-year-forecast-after-second-quarter-sales-beat-estimates
-  headline: Unilever lifts full-year forecast after second-quarter sales beat estimates
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6345
-- slug: 2026-08-05-motorola-solutions-raises-outlook-after-q2-profit-and-revenue-beat-estimates
-  headline: Motorola Solutions raises outlook after Q2 profit and revenue beat estimates
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6117
-- slug: 2026-08-06-monster-beverage-reports-20-sales-increase-on-international-growth
-  headline: Monster Beverage reports 20% sales increase on international growth
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6081
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6368
-- slug: 2026-07-23-norfolk-southern-posts-11-revenue-increase-as-freight-demand-trends-improve
-  headline: Norfolk Southern posts 11% revenue increase as freight demand trends improve
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6158
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6165
-- slug: 2026-06-17-carmax-profit-falls-despite-higher-sales-results-beat-analyst-forecasts
-  headline: CarMax Profit Falls Despite Higher Sales; Results Beat Analyst Forecasts
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6263
-- slug: 2026-06-03-medtronic-fiscal-q4-profit-rises-to-1-24-billion-sales-beat-estimates
-  headline: Medtronic fiscal Q4 profit rises to $1.24 billion, sales beat estimates
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6103
+  strength: 0.654
 - slug: 2026-02-12-value-meals-boost-mcdonald-s-revenue-and-earnings-beyond-expectations
   headline: Value meals boost McDonald’s revenue and earnings beyond expectations
   publish_date: '2026-02-12'
   relation: related
-  strength: 0.6591
-- slug: 2026-05-18-home-depot-profits-dip-but-beat-expectations-as-spring-demand-holds
-  headline: Home Depot profits dip but beat expectations as spring demand holds
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6139
-- slug: 2026-03-18-macy-s-strong-q4-results-but-ceo-warns-of-tariff-and-iran-war-uncertainty
-  headline: Macy’s strong Q4 results, but CEO warns of tariff and Iran-war uncertainty
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6384
+  strength: 0.6605
 ---
-
 ## McCormick quarterly sales climb 17% to $2.02 billion as profit falls
 
 **Subtype:** fact

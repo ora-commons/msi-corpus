@@ -1,9 +1,18 @@
 ---
 headline: Picanha and prices loom over Brazil's tight presidential election
-secondary_headline: Only 10 percent of Brazilians say income has outpaced cost of living
+secondary_headline: Only 10 percent of Brazilians say income has outpaced cost of
+  living
 publish_date: '2026-10-01'
-lede: Brazilians prepare to vote Sunday in the first round of a presidential election in which the price of picanha, the country's prized cut of beef, has become a stand-in for kitchen-table economic concerns. The contest between left-wing incumbent Luiz Inácio Lula da Silva and challenger Flávio Bolsonaro, the son of former far-right President Jair Bolsonaro, is shaping up as a tight race, according to polls.
-nut_graf: Brazil's voter cost-of-living worries are part of a worldwide pattern of incumbent backlash to price increases, according to University of São Paulo economist Laura Carvalho. "You have incumbents everywhere that are suffering the effects of the price increases of the different shocks," she said. "People look at the price increase and they blame whoever is in government."
+lede: Brazilians prepare to vote Sunday in the first round of a presidential election
+  in which the price of picanha, the country's prized cut of beef, has become a stand-in
+  for kitchen-table economic concerns. The contest between left-wing incumbent Luiz
+  Inácio Lula da Silva and challenger Flávio Bolsonaro, the son of former far-right
+  President Jair Bolsonaro, is shaping up as a tight race, according to polls.
+nut_graf: Brazil's voter cost-of-living worries are part of a worldwide pattern of
+  incumbent backlash to price increases, according to University of São Paulo economist
+  Laura Carvalho. "You have incumbents everywhere that are suffering the effects of
+  the price increases of the different shocks," she said. "People look at the price
+  increase and they blame whoever is in government."
 primary_entities:
 - Brazil
 - Luiz Inácio Lula da Silva
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +155,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
+  headline: Brazil's tight election tests its ability to say 'no' to Trump
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7135
+- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
+  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
+  publish_date: '2026-10-04'
+  relation: related
+  strength: 0.6885
+- slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
+  headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.6502
 - slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
   headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6751
-- slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
-  headline: Democrats ask Rubio to address alleged US interference in Brazil election
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6188
-- slug: 2026-09-22-lula-tells-un-general-assembly-brazil-doesn-t-fit-in-anyone-s-backyard
-  headline: Lula tells UN General Assembly Brazil 'doesn't fit in anyone's backyard'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6081
+  strength: 0.6757
 - slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
   headline: Flávio Bolsonaro formally investigated over alleged corruption
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6584
-- slug: 2026-09-13-brazil-s-top-court-lifts-secrecy-on-flavio-bolsonaro-biopic-probe
-  headline: Brazil's top court lifts secrecy on Flavio Bolsonaro biopic probe
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6336
+  strength: 0.6582
 - slug: 2026-08-29-trump-tariffs-hit-piracicaba-brazil-s-machinery-hub-ahead-of-vote
   headline: Trump tariffs hit Piracicaba, Brazil's machinery hub, ahead of vote
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.6681
-- slug: 2026-08-21-lula-and-trump-agree-to-resume-brazil-trade-negotiations
-  headline: Lula and Trump agree to resume Brazil trade negotiations
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6133
-- slug: 2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs
-  headline: Brazil opens 60-day consultation window on U.S. tariffs
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6362
+  strength: 0.6693
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6683
+  strength: 0.6695
 - slug: 2026-07-18-u-s-imposes-25-tariff-on-brazilian-goods-citing-pix-payment-system
   headline: U.S. imposes 25% tariff on Brazilian goods, citing PIX payment system
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.6598
-- slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
-  headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6162
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6197
-- slug: 2026-07-16-u-s-imposes-25-tariff-on-brazilian-imports-after-trade-probe
-  headline: U.S. imposes 25% tariff on Brazilian imports after trade probe
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6314
-- slug: 2026-07-23-lula-rejects-u-s-tariff-claims-unveils-3-65-billion-credit-package
-  headline: Lula rejects U.S. tariff claims, unveils $3.65 billion credit package
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.606
-- slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
-  headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6752
-- slug: 2026-05-06-trump-to-host-lula-for-talks-on-economy-and-security-white-house-official-says
-  headline: Trump to host Lula for talks on economy and security, White House official says
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6476
-- slug: 2026-06-02-u-s-proposes-25-tariffs-on-brazil-over-trade-digital-practices
-  headline: U.S. proposes 25% tariffs on Brazil over trade, digital practices
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6062
-- slug: 2026-05-16-argentines-eat-less-beef-than-any-time-in-two-decades-as-milei-austerity-reshape
-  headline: Argentines eat less beef than any time in two decades as Milei austerity reshapes diet
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6153
-- slug: 2026-05-12-u-s-opens-inquiry-into-brazil-s-pix-payment-system-over-competition-claims
-  headline: U.S. opens inquiry into Brazil's PIX payment system over competition claims
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6155
-- slug: 2026-05-13-brazil-s-lula-launches-2-billion-anti-organized-crime-program-ahead-of-elections
-  headline: Brazil's Lula launches $2 billion anti-organized crime program ahead of elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6128
+  strength: 0.6596
 ---
-
 ## Picanha and prices loom over Brazil's tight presidential election
 
 **Subtype:** fact

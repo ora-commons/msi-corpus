@@ -1,9 +1,19 @@
 ---
 headline: Chavista loyalists call Rodríguez's U.S. oil deal 'an act of pillage'
-secondary_headline: Thousands rally for Rodríguez in Caracas as Cabello hails New York visit
+secondary_headline: Thousands rally for Rodríguez in Caracas as Cabello hails New
+  York visit
 publish_date: '2026-10-01'
-lede: Veteran loyalists of Venezuela's late president Hugo Chávez are openly questioning the interim government's alignment with the Trump administration, with one longtime broadcaster calling the ideological U-turn 'utter surrealism.' The criticism follows acting President Delcy Rodríguez's meeting with President Trump on the sidelines of the UN general assembly in New York and Trump's recent claim that the two governments had struck 'the biggest oil deal in world history.'
-nut_graf: The dissent exposes tensions inside the socialist movement known as Chavismo over a U.S. alignment that has deepened since Nicolás Maduro was captured in January. Loyalists such as broadcaster Mario Silva describe the rapprochement as a surrender of the revolution's anti-imperialist ideals, while Rodríguez's government defends the oil agreement as a route to more than $209bn (£158bn) in revenue.
+lede: Veteran loyalists of Venezuela's late president Hugo Chávez are openly questioning
+  the interim government's alignment with the Trump administration, with one longtime
+  broadcaster calling the ideological U-turn 'utter surrealism.' The criticism follows
+  acting President Delcy Rodríguez's meeting with President Trump on the sidelines
+  of the UN general assembly in New York and Trump's recent claim that the two governments
+  had struck 'the biggest oil deal in world history.'
+nut_graf: The dissent exposes tensions inside the socialist movement known as Chavismo
+  over a U.S. alignment that has deepened since Nicolás Maduro was captured in January.
+  Loyalists such as broadcaster Mario Silva describe the rapprochement as a surrender
+  of the revolution's anti-imperialist ideals, while Rodríguez's government defends
+  the oil agreement as a route to more than $209bn (£158bn) in revenue.
 primary_entities:
 - Venezuela
 - United States
@@ -55,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +168,45 @@ related_stories:
   headline: Venezuela's interim president meets Trump, addresses UN in New York
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7077
+  strength: 0.7075
 - slug: 2026-09-23-trump-and-venezuela-s-interim-president-meet-at-un-for-first-time
   headline: Trump and Venezuela's interim president meet at UN for first time
   publish_date: '2026-09-23'
   relation: related
   strength: 0.6681
-- slug: 2026-09-24-venezuela-s-acting-president-tells-un-of-earthquake-toll-pledges-elections
-  headline: Venezuela's acting president tells UN of earthquake toll, pledges elections
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6465
-- slug: 2026-09-23-venezuela-s-rodr-guez-pledges-elections-in-un-speech-sets-no-date
-  headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6454
-- slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6452
-- slug: 2026-09-23-machado-remains-blocked-from-venezuela-after-seven-failed-return-attempts
-  headline: Machado remains blocked from Venezuela after seven failed return attempts
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6411
 - slug: 2026-09-01-venezuela-s-chavismo-and-opposition-jointly-oppose-trump-oil-deal
   headline: Venezuela's Chavismo and opposition jointly oppose Trump oil deal
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7026
-- slug: 2026-09-02-venezuelan-assembly-approves-100-year-nabep-oil-pact-covering-17-fields
-  headline: Venezuelan assembly approves 100-year Nabep oil pact covering 17 fields
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6408
+  strength: 0.7019
 - slug: 2026-06-03-venezuela-s-chavismo-movement-fractures-as-rodr-guez-deepens-u-s-ties
   headline: Venezuela's Chavismo movement fractures as Rodríguez deepens U.S. ties
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.7577
-- slug: 2026-06-30-u-s-quake-aid-hits-300m-as-venezuelans-jeer-government-death-toll-1-719
-  headline: U.S. quake aid hits $300M as Venezuelans jeer government, death toll 1,719
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6485
-- slug: 2026-06-29-venezuela-blocks-machado-return-after-deadly-earthquakes
-  headline: Venezuela blocks Machado return after deadly earthquakes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.632
+  strength: 0.7567
 - slug: 2026-05-15-trump-floats-making-venezuela-51st-us-state-caracas-responds-with-near-silence
   headline: Trump floats making Venezuela 51st US state; Caracas responds with near-silence
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6691
+  strength: 0.6683
 - slug: 2026-05-15-trump-s-51st-state-talk-draws-near-silence-from-venezuela
   headline: Trump’s 51st state talk draws near-silence from Venezuela
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6584
+  strength: 0.6576
 - slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  headline: Caracas falls quiet as Venezuelans wait to see what comes next after US seizes Maduro
+  headline: Caracas falls quiet as Venezuelans wait to see what comes next after US
+    seizes Maduro
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.6887
+  strength: 0.6889
 - slug: 2026-01-15-venezuela-s-acting-president-calls-for-foreign-oil-investment-warmer-us-ties
-  headline: Venezuela's acting president calls for foreign oil investment, warmer US ties
+  headline: Venezuela's acting president calls for foreign oil investment, warmer
+    US ties
   publish_date: '2026-01-15'
   relation: related
-  strength: 0.673
-- slug: 2026-01-17-ratcliffe-meets-venezuela-acting-president-rodriguez-in-caracas
-  headline: CIA director Ratcliffe meets Venezuela's acting president Rodríguez in Caracas
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6667
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6621
-- slug: 2026-01-07-delcy-rodriguez-venezuela-interim-president-rise-trump-gamble
-  headline: Venezuela's new interim president once gambled on Trump with a $500,000 donation
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6609
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  headline: Rubio tamps down nation-building fears as Trump insists US 'in charge' in Venezuela
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6586
-- slug: 2026-01-04-trump-pledges-to-direct-venezuela-after-u-s-military-operation-ousts-maduro
-  headline: Trump pledges to 'direct' Venezuela after U.S. military operation ousts Maduro
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6514
+  strength: 0.6728
 ---
-
 ## Chavista loyalists call Rodríguez's U.S. oil deal 'an act of pillage'
 
 **Subtype:** fact

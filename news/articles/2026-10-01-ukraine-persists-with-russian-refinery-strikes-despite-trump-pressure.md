@@ -2,8 +2,16 @@
 headline: Ukraine persists with Russian refinery strikes despite Trump pressure
 secondary_headline: Analysts attribute diesel prices to Iran war, not Kyiv's strikes
 publish_date: '2026-10-01'
-lede: Ukraine struck an oil facility in Russia's southern Samara region overnight, alongside hits on a Russian vessel in the Black Sea and a drone launch and storage site in the Oryol region, President Volodymyr Zelenskyy announced Thursday. The attacks continue despite President Donald Trump's public and private appeals to halt the campaign, which Trump blames for squeezing global diesel supplies and pushing US fuel prices to record highs ahead of November's midterm elections.
-nut_graf: Energy analysts have identified the war in Iran and broader global oil-market disruption as the primary drivers of US diesel prices reaching record highs, according to The Guardian, with Kyiv's strikes identified as an additional but complicating factor for the US president at a politically sensitive moment.
+lede: Ukraine struck an oil facility in Russia's southern Samara region overnight,
+  alongside hits on a Russian vessel in the Black Sea and a drone launch and storage
+  site in the Oryol region, President Volodymyr Zelenskyy announced Thursday. The
+  attacks continue despite President Donald Trump's public and private appeals to
+  halt the campaign, which Trump blames for squeezing global diesel supplies and pushing
+  US fuel prices to record highs ahead of November's midterm elections.
+nut_graf: Energy analysts have identified the war in Iran and broader global oil-market
+  disruption as the primary drivers of US diesel prices reaching record highs, according
+  to The Guardian, with Kyiv's strikes identified as an additional but complicating
+  factor for the US president at a politically sensitive moment.
 primary_entities:
 - Ukraine
 - Russia
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -123,7 +132,7 @@ related_stories:
   headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.8725
+  strength: 0.8734
 - slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
   headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
   publish_date: '2026-09-22'
@@ -133,96 +142,37 @@ related_stories:
   headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.8025
+  strength: 0.8016
 - slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
+  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy
+    truce
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7844
+  strength: 0.7847
 - slug: 2026-09-15-russia-fires-200-drones-at-ukraine-hours-after-trump-energy-truce-claim
   headline: Russia fires 200 drones at Ukraine hours after Trump energy truce claim
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8082
+  strength: 0.808
 - slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
   headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8078
+  strength: 0.8079
 - slug: 2026-09-14-kasparov-condemns-trump-for-blaming-ukraine-over-diesel-crunch
   headline: Kasparov condemns Trump for blaming Ukraine over diesel crunch
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.8058
+  strength: 0.8068
 - slug: 2026-09-19-iran-and-ukraine-wars-squeeze-global-diesel-supply-as-refinery-exports-plunge
-  headline: Iran and Ukraine wars squeeze global diesel supply as refinery exports plunge
+  headline: Iran and Ukraine wars squeeze global diesel supply as refinery exports
+    plunge
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7662
-- slug: 2026-07-27-ukrainian-drones-strike-iranian-military-supply-line-to-russia-in-caspian-sea
-  headline: Ukrainian drones strike Iranian military supply line to Russia in Caspian Sea
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.77
-- slug: 2026-07-13-ukraine-drones-hit-all-11-of-russia-s-biggest-oil-refineries
-  headline: Ukraine drones hit all 11 of Russia's biggest oil refineries
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.78
-- slug: 2026-05-03-ukraine-attacks-russia-s-oil-as-iran-war-raises-energy-prices
-  headline: Ukraine attacks Russia's oil as Iran war raises energy prices
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.8051
-- slug: 2026-05-04-ukraine-launches-strikes-on-russian-oil-infrastructure-and-shadow-fleet
-  headline: Ukraine launches strikes on Russian oil infrastructure and shadow fleet
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7929
-- slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7467
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7528
-- slug: 2026-05-16-ukrainian-drones-strike-russia-killing-4-and-wounding-a-dozen-officials-say
-  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7437
-- slug: 2026-04-30-ukraine-drone-attack-sets-russian-oil-facility-near-perm-on-fire
-  headline: Ukraine drone attack sets Russian oil facility near Perm on fire
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7507
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.742
-- slug: 2026-03-27-iran-war-deflects-attention-as-emboldened-russia-begins-spring-offensive
-  headline: Iran war deflects attention as emboldened Russia begins spring offensive
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.763
-- slug: 2026-04-11-zelenskyy-says-ukraine-shot-down-shahed-drones-abroad-seeks-wider-air-defense-ti
-  headline: Zelenskyy says Ukraine shot down Shahed drones abroad, seeks wider air defense ties
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7512
-- slug: 2026-02-13-russia-launches-barrage-of-missiles-and-drones-in-ukraine-as-talks-stall
-  headline: Russia launches barrage of missiles and drones in Ukraine as talks stall
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7598
+  strength: 0.7664
 analyses:
-- '2026-10-01-probabilistic-reading-places-ukraine-halt-to-russian-refinery-strikes-near-one-t'
+- 2026-10-01-probabilistic-reading-places-ukraine-halt-to-russian-refinery-strikes-near-one-t
 ---
-
 ## Ukraine persists with Russian refinery strikes despite Trump pressure
 
 **Subtype:** fact

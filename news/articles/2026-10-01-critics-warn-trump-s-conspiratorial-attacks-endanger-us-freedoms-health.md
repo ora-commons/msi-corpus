@@ -1,9 +1,19 @@
 ---
 headline: Critics warn Trump's conspiratorial attacks endanger US freedoms, health
-secondary_headline: Judge rules White House must return passes to CNN, Politico, MS Now
+secondary_headline: Judge rules White House must return passes to CNN, Politico, MS
+  Now
 publish_date: '2026-10-01'
-lede: Scholars and legal experts say President Donald Trump's conspiratorial attacks on critics and opponents — including his claims of an election-security "crisis," an AI "hoax" and a "grand conspiracy" against him — endanger US freedoms, public health and science. The warnings, gathered in a Guardian report published Oct. 1, come as the midterm elections approach and days after a federal judge ordered the White House to return press passes to three barred news outlets.
-nut_graf: Critics say the pattern — dismissing scientific evidence, painting opponents as conspirators and pressing for prosecutions of political enemies — is the hallmark of an authoritarian leader and has weakened trust in the coming midterm elections. Experts quoted in the report say the cumulative effect erodes civil liberties and the public's ability to address serious problems, from AI to climate to vaccines.
+lede: Scholars and legal experts say President Donald Trump's conspiratorial attacks
+  on critics and opponents — including his claims of an election-security "crisis,"
+  an AI "hoax" and a "grand conspiracy" against him — endanger US freedoms, public
+  health and science. The warnings, gathered in a Guardian report published Oct. 1,
+  come as the midterm elections approach and days after a federal judge ordered the
+  White House to return press passes to three barred news outlets.
+nut_graf: Critics say the pattern — dismissing scientific evidence, painting opponents
+  as conspirators and pressing for prosecutions of political enemies — is the hallmark
+  of an authoritarian leader and has weakened trust in the coming midterm elections.
+  Experts quoted in the report say the cumulative effect erodes civil liberties and
+  the public's ability to address serious problems, from AI to climate to vaccines.
 primary_entities:
 - Donald Trump
 - Steven Levitsky
@@ -63,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -165,104 +176,45 @@ related_stories:
   headline: Experts warn midterm counting window is a vulnerable period
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6788
+  strength: 0.6789
 - slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
   headline: DoJ tells court White House press access is a privilege, not a right
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6762
+  strength: 0.6754
 - slug: 2026-09-24-wsj-details-trump-second-term-press-actions-against-outlets
   headline: WSJ details Trump second-term press actions against outlets
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.667
+  strength: 0.6654
 - slug: 2026-09-21-three-news-outlets-sue-trump-to-restore-white-house-press-credentials
   headline: Three news outlets sue Trump to restore White House press credentials
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.684
+  strength: 0.6826
 - slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
+  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban
+    defense
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6691
+  strength: 0.6677
 - slug: 2026-09-23-judge-appears-inclined-to-restore-cnn-ms-now-politico-press-passes
   headline: Judge appears inclined to restore CNN, MS NOW, Politico press passes
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6665
+  strength: 0.6658
 - slug: 2026-09-21-cbs-s-jiang-warns-america-cannot-have-state-tv-in-white-house-press-ban-suit
-  headline: CBS's Jiang warns 'America cannot have state TV' in White House press ban suit
+  headline: CBS's Jiang warns 'America cannot have state TV' in White House press
+    ban suit
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6745
+  strength: 0.675
 - slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
   headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6615
-- slug: 2026-09-22-wednesday-hearing-set-in-press-lawsuit-as-gop-allies-urge-trump-to-focus-on-vote
-  headline: Wednesday hearing set in press lawsuit as GOP allies urge Trump to focus on voters
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6594
-- slug: 2026-09-18-cnn-calls-trump-white-house-ban-illegal-assault-on-press-rights
-  headline: CNN calls Trump White House ban 'illegal assault' on press rights
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6789
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6646
-- slug: 2026-09-19-officers-bar-cnn-ms-now-and-politico-reporters-from-white-house
-  headline: Officers bar CNN, MS NOW and Politico reporters from White House
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6636
-- slug: 2026-09-19-trump-defends-press-ban-i-don-t-have-to-let-them-into-the-people-s-house
-  headline: 'Trump defends press ban: ''I don''''t have to let them into the people''''s house'''
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6626
-- slug: 2026-09-18-trump-bars-cnn-ms-now-and-politico-from-white-house-citing-fake-news
-  headline: Trump bars CNN, MS NOW and Politico from White House citing 'fake news'
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6664
-- slug: 2026-09-16-bannon-sanders-share-stage-at-pro-human-ai-conference-in-washington
-  headline: Bannon, Sanders share stage at 'pro-human' AI conference in Washington
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6672
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6675
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6816
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6621
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6617
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6675
+  strength: 0.6604
 ---
-
 ## Critics warn Trump's conspiratorial attacks endanger US freedoms, health
 
 **Subtype:** fact

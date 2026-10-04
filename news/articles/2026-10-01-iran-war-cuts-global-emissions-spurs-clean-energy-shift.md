@@ -2,8 +2,16 @@
 headline: Iran war cuts global emissions, spurs clean energy shift
 secondary_headline: Newsom calls Trump 'greatest gift' to environmental movement
 publish_date: '2026-10-01'
-lede: California Gov. Gavin Newsom called President Trump the "greatest gift" to the environmental movement, telling the Guardian during Climate Week in New York that the US-Israel war on Iran has exposed the fragility of fossil fuel energy security and is accelerating investment in renewables. The conflict, which has snarled the Strait of Hormuz since February, has put global fossil fuel emissions on track to fall 0.5% this year, according to Carbon Brief.
-nut_graf: The war's energy-market fallout has set up an annual decline in planet-warming emissions — something not seen outside global economic crashes or the Covid-19 pandemic, according to the Guardian — even as it enriches the oil and gas industry, whose eight largest companies netted more than $90bn in the war's first three months.
+lede: California Gov. Gavin Newsom called President Trump the "greatest gift" to the
+  environmental movement, telling the Guardian during Climate Week in New York that
+  the US-Israel war on Iran has exposed the fragility of fossil fuel energy security
+  and is accelerating investment in renewables. The conflict, which has snarled the
+  Strait of Hormuz since February, has put global fossil fuel emissions on track to
+  fall 0.5% this year, according to Carbon Brief.
+nut_graf: The war's energy-market fallout has set up an annual decline in planet-warming
+  emissions — something not seen outside global economic crashes or the Covid-19 pandemic,
+  according to the Guardian — even as it enriches the oil and gas industry, whose
+  eight largest companies netted more than $90bn in the war's first three months.
 primary_entities:
 - Donald Trump
 - Gavin Newsom
@@ -50,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,115 +161,59 @@ related_stories:
   headline: U.S.-Iran war reshapes Hormuz traffic, energy markets and alliances
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7168
+  strength: 0.7159
 - slug: 2026-07-22-us-iran-war-cost-reaches-37-5-billion-as-conflict-enters-fifth-month
   headline: US-Iran war cost reaches $37.5 billion as conflict enters fifth month
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7363
+  strength: 0.7353
 - slug: 2026-03-21-iran-war-underscores-risks-of-trump-s-focus-on-oil-and-fossil-fuels
   headline: Iran war underscores risks of Trump’s focus on oil and fossil fuels
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.7986
+  strength: 0.7976
 - slug: 2026-06-21-economists-warn-iran-conflict-casts-long-shadow-despite-trump-deal
   headline: Economists warn Iran conflict casts long shadow despite Trump deal
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.7346
+  strength: 0.7333
 - slug: 2026-03-21-iran-war-energy-crisis-is-a-renewable-energy-wake-up-call
   headline: Iran war energy crisis is a renewable energy wake-up call
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.7687
+  strength: 0.7682
 - slug: 2026-06-11-oil-prices-rise-as-trump-pledges-more-iran-strikes-energy-roundup-shows
   headline: Oil Prices Rise as Trump Pledges More Iran Strikes, Energy Roundup Shows
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.7152
+  strength: 0.7144
 - slug: 2026-03-31-global-economic-optimism-dims-as-iran-war-drags-on-and-spreads-costs
   headline: Global economic optimism dims as Iran war drags on and spreads costs
   publish_date: '2026-03-31'
   relation: related
-  strength: 0.7429
+  strength: 0.7425
 - slug: 2026-03-10-iran-war-squeezes-global-economy-as-strait-of-hormuz-closure-cuts-oil-supply
-  headline: Iran war squeezes global economy as Strait of Hormuz closure cuts oil supply
+  headline: Iran war squeezes global economy as Strait of Hormuz closure cuts oil
+    supply
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.7447
-- slug: 2026-05-26-us-conducts-new-defensive-strikes-on-iran-as-trump-says-deal-near
-  headline: US conducts new defensive strikes on Iran as Trump says deal near
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7075
-- slug: 2026-05-10-trump-declares-iran-ceasefire-on-life-support-as-hormuz-stays-shut
-  headline: Trump declares Iran ceasefire on 'life support' as Hormuz stays shut
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7161
-- slug: 2026-03-05-iran-war-disrupts-oil-and-gas-flows-raising-energy-shock-fears-in-asia
-  headline: Iran war disrupts oil and gas flows, raising energy shock fears in Asia
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7381
-- slug: 2026-03-24-iea-chief-warns-iran-war-poses-major-threat-to-global-economy
-  headline: IEA chief warns Iran war poses major threat to global economy
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7332
-- slug: 2026-04-14-china-gains-from-iran-war-as-global-energy-interest-turns-away-from-fossil-fuels
-  headline: China gains from Iran war as global energy interest turns away from fossil fuels
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7256
-- slug: 2026-03-14-trump-touts-higher-oil-prices-as-his-team-struggles-over-hormuz-access
-  headline: Trump touts higher oil prices as his team struggles over Hormuz access
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7291
-- slug: 2026-03-12-iran-war-becomes-a-test-of-who-can-endure-pain-longest-ap-analysis
-  headline: Iran war becomes a test of who can endure pain longest, AP analysis
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.729
-- slug: 2026-05-02-global-energy-costs-rise-as-iran-war-disrupts-oil-and-lifts-pump-prices
-  headline: Global energy costs rise as Iran war disrupts oil and lifts pump prices
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.707
-- slug: 2026-04-12-iran-war-reverberations-gaza-talks-strain-nato-gulf-states-u-s-politics
-  headline: 'Iran war reverberations: Gaza talks strain NATO, Gulf states, U.S. politics'
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7114
-- slug: 2026-03-10-trump-says-iran-war-could-be-over-soon-warns-on-strait-of-hormuz-oil
-  headline: Trump says Iran war could be over soon, warns on Strait of Hormuz oil
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7198
-- slug: 2026-03-15-how-mixed-messaging-on-iran-may-have-trump-reeling-politically
-  headline: How mixed messaging on Iran may have Trump reeling politically
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7163
-- slug: 2026-03-22-trump-issues-mixed-messages-on-iran-war-and-oil-sanctions
-  headline: Trump issues mixed messages on Iran war and oil sanctions
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7116
+  strength: 0.7438
 image:
   url: /articles/2026-10-01-iran-war-cuts-global-emissions-spurs-clean-energy-shift.png
-  alt: "Illustration accompanying article: Iran war cuts global emissions, spurs clean energy shift"
+  alt: 'Illustration accompanying article: Iran war cuts global emissions, spurs clean
+    energy shift'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-01-iran-war-surfaces-three-forces-pulling-global-energy-transition-in-opposite-dire'
+- 2026-10-01-iran-war-surfaces-three-forces-pulling-global-energy-transition-in-opposite-dire
 ---
-
 ## Iran war cuts global emissions, spurs clean energy shift
 
 **Subtype:** fact

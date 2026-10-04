@@ -1,9 +1,22 @@
 ---
 headline: DataOne operated 62 unpermitted generators for nearly a year, records show
-secondary_headline: Analysis ranks facility among New Jersey's top five NOx polluters of 2025
+secondary_headline: Analysis ranks facility among New Jersey's top five NOx polluters
+  of 2025
 publish_date: '2026-10-01'
-lede: DataOne — one of the largest data centers on the East Coast and the first in New Jersey seeking to build its own power plant — is a Microsoft-linked Vineland facility recently fined $1 million for running unpermitted generators. The facility emitted large amounts of health-harming air pollution for nearly a year before state regulators stepped in, according to public records obtained by Floodlight and reported in partnership with The Guardian. The Vineland facility's 62 gas-fired generators became public in August after a Floodlight/Guardian visual investigation found them operating without permits; they had begun arriving in July 2025 and collectively ran for more than 46,000 hours by the time state inspectors detected them during a July 29, 2026, site visit, according to a letter DataOne later sent the New Jersey Department of Environmental Protection.
-nut_graf: A Rutgers professor's analysis of the generator fleet's output ranks DataOne among the state's top five nitrogen-oxide polluters of 2025, with full-capacity emissions capable of nearly doubling those of New Jersey's largest existing emitter.
+lede: DataOne — one of the largest data centers on the East Coast and the first in
+  New Jersey seeking to build its own power plant — is a Microsoft-linked Vineland
+  facility recently fined $1 million for running unpermitted generators. The facility
+  emitted large amounts of health-harming air pollution for nearly a year before state
+  regulators stepped in, according to public records obtained by Floodlight and reported
+  in partnership with The Guardian. The Vineland facility's 62 gas-fired generators
+  became public in August after a Floodlight/Guardian visual investigation found them
+  operating without permits; they had begun arriving in July 2025 and collectively
+  ran for more than 46,000 hours by the time state inspectors detected them during
+  a July 29, 2026, site visit, according to a letter DataOne later sent the New Jersey
+  Department of Environmental Protection.
+nut_graf: A Rutgers professor's analysis of the generator fleet's output ranks DataOne
+  among the state's top five nitrogen-oxide polluters of 2025, with full-capacity
+  emissions capable of nearly doubling those of New Jersey's largest existing emitter.
 primary_entities:
 - DataOne
 - Microsoft
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +156,8 @@ related_stories:
   headline: Advocates allege datacenter developers split emissions to avoid EPA review
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6696
-- slug: 2026-09-28-gates-warns-ai-regulation-needed-to-prevent-billion-deaths
-  headline: Gates warns AI regulation needed to prevent 'billion deaths'
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5851
-- slug: 2026-09-23-whistleblower-alleges-contractor-hid-east-palestine-contamination-findings
-  headline: Whistleblower alleges contractor hid East Palestine contamination findings
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5998
-- slug: 2026-09-25-colorado-marijuana-vape-maker-recalls-49-products-over-cancer-linked-solvent
-  headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5827
-- slug: 2026-09-14-abbott-orders-texas-water-board-to-penalize-noncompliant-datacenters
-  headline: Abbott orders Texas water board to penalize noncompliant datacenters
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6156
-- slug: 2026-09-08-us-datacenters-draw-wastewater-enforcement-across-multiple-states
-  headline: US datacenters draw wastewater enforcement across multiple states
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6364
-- slug: 2026-09-10-three-states-limit-community-air-data-under-industry-backed-laws
-  headline: Three states limit community air data under industry-backed laws
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6052
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5966
-- slug: 2026-08-23-us-unions-organize-to-defend-offshore-wind-jobs-from-trump-policies
-  headline: US unions organize to defend offshore wind jobs from Trump policies
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5831
-- slug: 2026-08-12-energy-fuels-to-more-than-double-white-mesa-mill-output-as-tribe-demands-shutdow
-  headline: Energy Fuels to more than double White Mesa Mill output as tribe demands shutdown
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6041
-- slug: 2026-06-06-new-york-lawmakers-approve-one-year-ban-on-large-datacenters
-  headline: New York lawmakers approve one-year ban on large datacenters
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6234
-- slug: 2026-04-11-nevada-utility-warns-ai-data-centers-may-force-fossil-fuels
-  headline: Nevada utility warns AI data centers may force fossil fuels
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6385
-- slug: 2026-06-09-surveillance-drone-deployment-on-great-lakes-raises-privacy-concerns
-  headline: Surveillance drone deployment on Great Lakes raises privacy concerns
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5976
-- slug: 2026-06-17-doj-seeks-to-quash-environmental-lawsuit-against-musk-s-xai-citing-national-secu
-  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national security
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5821
-- slug: 2026-04-11-vineyard-wind-sues-ge-renewables-to-halt-turbine-contract-exit
-  headline: Vineyard Wind sues GE Renewables to halt turbine contract exit
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6308
-- slug: 2026-04-17-judge-blocks-turbine-maker-from-exiting-offshore-wind-project
-  headline: Judge blocks turbine maker from exiting offshore wind project
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6272
-- slug: 2026-03-13-nevada-warns-data-center-boom-may-derail-2030-clean-energy-goal
-  headline: Nevada warns data center boom may derail 2030 clean energy goal
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6389
-- slug: 2026-03-05-nrc-approves-first-non-light-water-reactor-permit-in-40-years-for-gates-backed-w
-  headline: NRC approves first non-light-water reactor permit in 40 years for Gates-backed Wyoming plant
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.622
-- slug: 2026-03-21-law-meant-to-clean-michigan-s-air-now-costs-the-state-billions
-  headline: Law meant to clean Michigan’s air now costs the state billions
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.5973
-- slug: 2026-01-28-california-pollution-rules-years-late-still-insufficient-for-vulnerable-towns
-  headline: California pollution rules, years late, still insufficient for vulnerable towns
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.5972
+  strength: 0.6677
 ---
-
 ## DataOne operated 62 unpermitted generators for nearly a year, records show
 
 **Subtype:** fact

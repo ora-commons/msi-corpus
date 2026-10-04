@@ -2,8 +2,15 @@
 headline: Farage opens Reform's general election campaign in Doncaster
 secondary_headline: Reform donors weigh rerun of 2016 Brexit campaign
 publish_date: '2026-10-01'
-lede: Reform UK leader Nigel Farage opened his party's general election campaign at a rally for hundreds of supporters at Doncaster racecourse, the first stop in a "100 days to save Britain" tour. Party sources said the tour theme had been planned before Prime Minister Andy Burnham's recent move to reopen debate on UK-EU relations, but that donors were now discussing how to fund a rerun of the 2016 referendum campaign.
-nut_graf: Farage used the Doncaster rally to frame Burnham's pledges as a political gift, telling reporters the prime minister's admission that rejoining the European Union was among options the government would examine had "put me back into the debate" and given him "the biggest boost in my career I've ever had."
+lede: Reform UK leader Nigel Farage opened his party's general election campaign at
+  a rally for hundreds of supporters at Doncaster racecourse, the first stop in a
+  "100 days to save Britain" tour. Party sources said the tour theme had been planned
+  before Prime Minister Andy Burnham's recent move to reopen debate on UK-EU relations,
+  but that donors were now discussing how to fund a rerun of the 2016 referendum campaign.
+nut_graf: Farage used the Doncaster rally to frame Burnham's pledges as a political
+  gift, telling reporters the prime minister's admission that rejoining the European
+  Union was among options the government would examine had "put me back into the debate"
+  and given him "the biggest boost in my career I've ever had."
 primary_entities:
 - Nigel Farage
 - Andy Burnham
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -124,104 +132,44 @@ related_stories:
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6728
-- slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
-  headline: Burnham to outline social care and public control plans at Labour conference
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6325
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6316
+  strength: 0.6732
 - slug: 2026-09-13-reform-uk-receives-two-36m-donations-totaling-72m
   headline: Reform UK receives two £36m donations, totaling £72m
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7097
+  strength: 0.7093
+- slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
+  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der
+    Leyen
+  publish_date: '2026-09-22'
+  relation: related
+  strength: 0.6511
 - slug: 2026-09-20-farage-i-want-to-hijack-trump-s-ice-czar-for-the-uk
   headline: 'Farage: I want to ''hijack'' Trump''s ICE czar for the UK'
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6637
-- slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6516
+  strength: 0.6631
 - slug: 2026-09-09-london-police-investigate-reform-uk-over-alleged-illegal-foreign-donations
   headline: London police investigate Reform UK over alleged illegal foreign donations
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.705
+  strength: 0.704
 - slug: 2026-09-14-farage-defends-72m-reform-uk-donations-as-government-weighs-donor-cap
   headline: Farage defends £72m Reform UK donations as government weighs donor cap
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6755
-- slug: 2026-09-22-eu-envoy-doors-are-open-for-uk-to-deepen-cooperation
-  headline: 'EU envoy: ''doors are open'' for UK to deepen cooperation'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6186
+  strength: 0.6741
 - slug: 2026-09-12-reform-uk-receives-record-72-million-from-crypto-billionaires
   headline: Reform UK receives record £72 million from crypto billionaires
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6638
-- slug: 2026-09-15-uk-government-plans-tighter-residency-rules-for-political-donors
-  headline: UK government plans tighter residency rules for political donors
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.646
+  strength: 0.6634
 - slug: 2026-09-04-reform-uk-and-national-rally-sign-channel-migrant-return-memorandum
   headline: Reform UK and National Rally sign Channel migrant-return memorandum
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6616
-- slug: 2026-09-03-reform-uk-sets-out-80bn-in-public-spending-cuts
-  headline: Reform UK sets out £80bn in public spending cuts
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6607
-- slug: 2026-09-03-farage-aide-filmed-in-undercover-footage-discussing-500-000-foreign-donation
-  headline: Farage aide filmed in undercover footage discussing £500,000 foreign donation
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6586
-- slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
-  headline: Cost of living tops voters' concerns as Burnham plans UK tour
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6161
-- slug: 2026-07-05-farage-denies-undeclared-benefits-from-convicted-fraud-ally
-  headline: Farage denies undeclared benefits from convicted fraud ally
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6802
-- slug: 2026-06-09-farage-to-headline-truss-s-uk-cpac-after-party-said-he-would-skip
-  headline: Farage to headline Truss's UK CPAC after party said he would skip
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6896
-- slug: 2026-07-14-jenrick-accuses-government-of-dereliction-of-duty-over-farage-security
-  headline: Jenrick accuses government of 'dereliction of duty' over Farage security
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6384
-- slug: 2026-07-23-badenoch-says-burnham-governing-like-manchester-mayor-demands-tax-pledge
-  headline: Badenoch says Burnham governing like Manchester mayor, demands tax pledge
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6158
-- slug: 2026-07-18-badenoch-warns-incoming-uk-pm-faces-rude-awakening-in-office
-  headline: Badenoch Warns Incoming UK PM Faces 'Rude Awakening' in Office
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6142
+  strength: 0.6611
 ---
-
 ## Farage opens Reform's general election campaign in Doncaster
 
 **Subtype:** fact

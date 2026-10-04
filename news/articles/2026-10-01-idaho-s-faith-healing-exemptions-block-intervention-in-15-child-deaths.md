@@ -2,8 +2,18 @@
 headline: Idaho's faith-healing exemptions block intervention in 15 child deaths
 secondary_headline: Four siblings in a Followers of Christ family died untreated
 publish_date: '2026-10-01'
-lede: Four children in one Idaho family died after their parents, members of the faith-healing Followers of Christ sect, did not take them to a doctor — and the state's religious exemptions to its child abuse laws left authorities unable to intervene, according to a ProPublica investigation published Oct. 1 and co-published with The Oregonian/OregonLive. Healthcare professionals who reviewed records for the investigation counted at least 15 avoidable deaths of children in the sect from 2015 through 2025.
-nut_graf: Idaho exempts parents in faith-healing sects such as the Followers of Christ from the legal duty to give their children lifesaving medical care, and the exemptions also keep police and social workers from protecting a dead child's surviving siblings no matter how many children in a family die, according to the investigation. Experts who reviewed the records said most of the deaths could have been resolved with interventions as simple as insulin, antibiotics or a supply of oxygen.
+lede: Four children in one Idaho family died after their parents, members of the faith-healing
+  Followers of Christ sect, did not take them to a doctor — and the state's religious
+  exemptions to its child abuse laws left authorities unable to intervene, according
+  to a ProPublica investigation published Oct. 1 and co-published with The Oregonian/OregonLive.
+  Healthcare professionals who reviewed records for the investigation counted at least
+  15 avoidable deaths of children in the sect from 2015 through 2025.
+nut_graf: Idaho exempts parents in faith-healing sects such as the Followers of Christ
+  from the legal duty to give their children lifesaving medical care, and the exemptions
+  also keep police and social workers from protecting a dead child's surviving siblings
+  no matter how many children in a family die, according to the investigation. Experts
+  who reviewed the records said most of the deaths could have been resolved with interventions
+  as simple as insulin, antibiotics or a supply of oxygen.
 primary_entities:
 - Idaho
 - Followers of Christ
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,111 +152,10 @@ cross_article_links:
   strength: 0.5732
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-30-sons-decline-facility-s-request-to-sedate-85-year-old-with-antipsychotics
-  headline: Sons decline facility's request to sedate 85-year-old with antipsychotics
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5806
-- slug: 2026-09-16-new-orleans-priest-accused-of-deaf-community-abuse-dies-at-87
-  headline: New Orleans priest accused of deaf-community abuse dies at 87
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5936
-- slug: 2026-09-09-anti-choking-devices-enter-us-schools-without-medical-guideline-endorsement
-  headline: Anti-choking devices enter US schools without medical-guideline endorsement
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5744
-- slug: 2026-08-14-judge-rules-idaho-cannot-prosecute-doctors-for-health-protective-abortions
-  headline: Judge rules Idaho cannot prosecute doctors for health-protective abortions
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.644
-- slug: 2026-07-18-medical-experts-say-vaccines-could-not-have-killed-idaho-twins
-  headline: Medical experts say vaccines could not have killed Idaho twins
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6492
-- slug: 2026-07-15-idaho-judge-revokes-bond-for-mother-charged-with-twins-deaths
-  headline: Idaho judge revokes bond for mother charged with twins' deaths
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6089
-- slug: 2026-07-06-idaho-mother-charged-with-murder-of-twin-18-month-olds
-  headline: Idaho mother charged with murder of twin 18-month-olds
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6052
-- slug: 2026-05-27-states-criminalize-worship-service-disruptions-after-minnesota-church-protest
-  headline: States criminalize worship service disruptions after Minnesota church protest
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6097
-- slug: 2026-06-13-utah-measles-outbreak-nears-one-year-threatening-us-elimination-status
-  headline: Utah measles outbreak nears one year, threatening US elimination status
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5736
-- slug: 2026-05-17-parents-push-for-nicu-leave-after-wins-in-colorado-and-illinois
-  headline: Parents push for NICU leave after wins in Colorado and Illinois
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5951
-- slug: 2026-03-05-idaho-bill-would-broaden-prison-sex-abuse-law-after-investigation-found-accounta
-  headline: Idaho bill would broaden prison sex abuse law after investigation found accountability gap
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6205
-- slug: 2026-05-17-colorado-enacts-first-paid-nicu-leave-law-as-parents-push-for-federal-protection
-  headline: Colorado enacts first paid NICU leave law as parents push for federal protections
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5888
-- slug: 2026-05-15-oklahoma-executes-raymond-johnson-for-killing-ex-girlfriend-and-her-baby
-  headline: Oklahoma executes Raymond Johnson for killing ex-girlfriend and her baby
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5803
-- slug: 2026-05-15-oklahoma-executes-raymond-johnson-for-2007-killing-of-ex-girlfriend-and-infant-d
-  headline: Oklahoma executes Raymond Johnson for 2007 killing of ex-girlfriend and infant daughter
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5777
-- slug: 2026-05-01-camp-mystic-in-texas-will-not-reopen-this-summer-after-all
-  headline: Camp Mystic in Texas will not reopen this summer after all
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5836
-- slug: 2026-04-20-supreme-court-takes-up-catholic-preschool-funding-case
-  headline: Supreme Court takes up Catholic preschool funding case
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.582
-- slug: 2026-03-05-what-to-know-about-the-child-abuse-investigation-into-catholic-priests
-  headline: What to know about the child abuse investigation into Catholic priests
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5895
-- slug: 2026-02-12-camp-mystic-parents-urge-alabama-changes-after-2025-flood-deaths
-  headline: Camp Mystic parents urge Alabama changes after 2025 flood deaths
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5873
-- slug: 2026-03-04-rhode-island-ag-report-finds-75-priests-abused-more-than-300-children-since-1950
-  headline: Rhode Island AG report finds 75 priests abused more than 300 children since 1950
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5779
-- slug: 2026-02-21-new-mexico-to-investigate-forced-sterilization-of-native-women
-  headline: New Mexico to investigate forced sterilization of Native women
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.578
+related_stories: []
 analyses:
-- '2026-10-01-idaho-s-faith-healing-exemption-leaves-fifteen-followers-of-christ-child-deaths-'
+- 2026-10-01-idaho-s-faith-healing-exemption-leaves-fifteen-followers-of-christ-child-deaths-
 ---
-
 ## Idaho's faith-healing exemptions block intervention in 15 child deaths
 
 **Subtype:** fact

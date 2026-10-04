@@ -1,9 +1,18 @@
 ---
 headline: Supreme Court to hear Boulder climate case as states expand EPA lawsuits
-secondary_headline: Coalition notifies EPA of intent to sue over gas-fired power plant emissions
+secondary_headline: Coalition notifies EPA of intent to sue over gas-fired power plant
+  emissions
 publish_date: '2026-10-01'
-lede: The US Supreme Court is set to hear a landmark climate case Monday — the first day of its new term — in which the city and county of Boulder, Colorado, are suing oil and gas companies to force them to help pay for damage caused by climate-linked disasters, as a 21-state coalition separately notifies the Environmental Protection Agency of its intent to sue over its failure to regulate emissions from many gas-fired power plants.
-nut_graf: The Boulder case is part of a wave of climate-change litigation with billions of dollars at stake, and the coalition's new legal action expands a separate Thursday lawsuit that challenges the EPA's repeal of greenhouse gas emissions limits for power plants fueled by coal and natural gas.
+lede: The US Supreme Court is set to hear a landmark climate case Monday — the first
+  day of its new term — in which the city and county of Boulder, Colorado, are suing
+  oil and gas companies to force them to help pay for damage caused by climate-linked
+  disasters, as a 21-state coalition separately notifies the Environmental Protection
+  Agency of its intent to sue over its failure to regulate emissions from many gas-fired
+  power plants.
+nut_graf: The Boulder case is part of a wave of climate-change litigation with billions
+  of dollars at stake, and the coalition's new legal action expands a separate Thursday
+  lawsuit that challenges the EPA's repeal of greenhouse gas emissions limits for
+  power plants fueled by coal and natural gas.
 primary_entities:
 - Environmental Protection Agency
 - Letitia James
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +150,46 @@ related_stories:
   headline: New York-led coalition of 21 states sues EPA over power plant rule repeal
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.765
+  strength: 0.7656
 - slug: 2026-09-28-justice-alito-recuses-from-supreme-court-climate-case-over-energy-stock-ties
-  headline: Justice Alito recuses from Supreme Court climate case over energy stock ties
+  headline: Justice Alito recuses from Supreme Court climate case over energy stock
+    ties
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6837
-- slug: 2026-09-28-consumer-watchdog-says-alito-should-have-recused-from-climate-case-at-the-start
-  headline: Consumer Watchdog says Alito should have recused from climate case at the start
-  publish_date: '2026-09-28'
+  strength: 0.6834
+- slug: 2026-10-03-supreme-court-opens-new-term-with-major-religion-guns-climate-cases
+  headline: Supreme Court opens new term with major religion, guns, climate cases
+  publish_date: '2026-10-03'
   relation: related
-  strength: 0.6324
+  strength: 0.6548
 - slug: 2026-09-14-epa-moves-to-repeal-all-greenhouse-gas-standards-for-power-plants
   headline: EPA moves to repeal all greenhouse gas standards for power plants
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7048
+  strength: 0.7056
 - slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
   headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6943
-- slug: 2026-09-22-california-and-new-york-sue-trump-administration-over-offshore-wind-lease-buybac
-  headline: California and New York sue Trump administration over offshore wind lease buybacks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.643
+  strength: 0.6946
 - slug: 2026-09-14-zeldin-calls-climate-rules-war-on-coal-at-g20-as-epa-ends-power-plant-limits
-  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant limits
+  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant
+    limits
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6824
-- slug: 2026-09-16-epa-repeals-power-plant-emission-limits-despite-its-own-cost-analysis
-  headline: EPA repeals power plant emission limits despite its own cost analysis
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6436
+  strength: 0.6826
 - slug: 2026-09-01-federal-judge-strikes-new-york-s-75-billion-climate-damages-law
   headline: Federal judge strikes New York's $75 billion climate damages law
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6584
+  strength: 0.6587
 - slug: 2026-02-23-supreme-court-agrees-to-hear-climate-change-lawsuit-against-oil-and-gas-firms
-  headline: Supreme Court agrees to hear climate change lawsuit against oil and gas firms
+  headline: Supreme Court agrees to hear climate change lawsuit against oil and gas
+    firms
   publish_date: '2026-02-23'
   relation: related
-  strength: 0.8204
-- slug: 2026-08-01-activists-urge-democrats-to-embrace-climate-messaging-during-recess
-  headline: Activists urge Democrats to embrace climate messaging during recess
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6353
-- slug: 2026-03-21-states-and-cities-sue-epa-over-repeal-of-endangerment-climate-finding
-  headline: States and cities sue EPA over repeal of endangerment climate finding
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7135
-- slug: 2026-05-05-trump-doj-seeks-to-block-minnesota-s-climate-fraud-lawsuit
-  headline: Trump DOJ seeks to block Minnesota’s climate fraud lawsuit
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6879
-- slug: 2026-03-31-judge-hears-challenges-to-vermont-s-climate-superfund-law
-  headline: Judge hears challenges to Vermont's climate superfund law
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6989
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6634
-- slug: 2026-02-19-groups-sue-epa-over-rescinding-2009-endangerment-finding-underpinning-climate-ru
-  headline: Groups sue EPA over rescinding 2009 endangerment finding underpinning climate rules
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6949
-- slug: 2026-04-17-supreme-court-sends-louisiana-environmental-lawsuit-to-federal-court
-  headline: Supreme Court sends Louisiana environmental lawsuit to federal court
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.652
-- slug: 2026-04-22-us-judge-blocks-doug-burgum-from-slowing-wind-and-solar-on-federal-land
-  headline: US judge blocks Doug Burgum from slowing wind and solar on federal land
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6412
-- slug: 2026-03-13-trump-administration-sues-california-over-vehicle-emission-rules
-  headline: Trump administration sues California over vehicle-emission rules
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6549
-- slug: 2026-04-22-environment-groups-sue-trump-over-bp-s-kaskida-deepwater-drilling-project
-  headline: Environment groups sue Trump over BP’s Kaskida deepwater drilling project
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6376
+  strength: 0.82
 ---
-
 ## Supreme Court to hear Boulder climate case as states expand EPA lawsuits
 
 **Subtype:** fact
