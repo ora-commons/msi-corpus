@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-09-19'
   relation: related
   strength: 0.7601
+analyses:
+- '2026-10-04-pennsylvania-s-patchwork-health-system-and-federal-vaccine-skepticism-under-rfk-'
 ---
 ## Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
 
@@ -241,3 +243,8 @@ The Guardian said it has approached the Pennsylvania health department for comme
 **Publication date:** 2026-10-04
 **Title:** Pennsylvania health officials brace themselves as measles outbreak expected to spread
 **URL:** https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak
+
+---
+
+<!-- analysis-link:2026-10-04-pennsylvania-s-patchwork-health-system-and-federal-vaccine-skepticism-under-rfk- -->
+**Going deeper:** [Read MSI's analysis of Pennsylvania measles outbreak; county health departments; MMR vaccination access →](/analyses/2026-10-04-pennsylvania-s-patchwork-health-system-and-federal-vaccine-skepticism-under-rfk-)
