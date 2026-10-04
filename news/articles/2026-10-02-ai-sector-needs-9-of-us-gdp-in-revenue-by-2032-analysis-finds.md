@@ -2,8 +2,19 @@
 headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
 secondary_headline: AI tools lift code output but not completed projects, study finds
 publish_date: '2026-10-02'
-lede: The investment now flowing into artificial intelligence implies that American businesses and consumers would eventually need to spend roughly 9% of US gross domestic product a year on AI services to justify it, according to an analysis by Columbia University finance professor Stijn Van Nieuwerburgh. His calculation, first presented at the Brookings Institution, puts the 2032 revenue threshold at $3.5 trillion, or 8.8% of GDP under assumptions that include 4% annual GDP growth unadjusted for inflation. The projection assumes AI companies can keep charging today's scarcity-driven computing prices even as capacity quadruples.
-nut_graf: The 9% figure is embedded in the dollars already being committed to AI, and the buildout is now larger than any investment boom in American history. Whether actual demand reaches that level — or whether falling prices and a natural ceiling intervene, as they have in past technology booms — will determine whether the technology delivers the returns investors are now counting on.
+lede: The investment now flowing into artificial intelligence implies that American
+  businesses and consumers would eventually need to spend roughly 9% of US gross domestic
+  product a year on AI services to justify it, according to an analysis by Columbia
+  University finance professor Stijn Van Nieuwerburgh. His calculation, first presented
+  at the Brookings Institution, puts the 2032 revenue threshold at $3.5 trillion,
+  or 8.8% of GDP under assumptions that include 4% annual GDP growth unadjusted for
+  inflation. The projection assumes AI companies can keep charging today's scarcity-driven
+  computing prices even as capacity quadruples.
+nut_graf: The 9% figure is embedded in the dollars already being committed to AI,
+  and the buildout is now larger than any investment boom in American history. Whether
+  actual demand reaches that level — or whether falling prices and a natural ceiling
+  intervene, as they have in past technology booms — will determine whether the technology
+  delivers the returns investors are now counting on.
 primary_entities:
 - Stijn Van Nieuwerburgh
 - Columbia University
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -126,109 +138,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
+  headline: US AI infrastructure investment projected at $10.3 trillion from 2025
+    to 2032
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8254
+  strength: 0.8256
 - slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
   headline: Tech CEOs and White House split on global AI governance at UN
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6871
+  strength: 0.6878
 - slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
   headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6945
-- slug: 2026-09-23-device-revenue-climbs-as-makers-raise-prices-to-offset-memory-costs
-  headline: Device revenue climbs as makers raise prices to offset memory costs
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6719
+  strength: 0.6926
 - slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
   headline: Fed rate hike falls harder on housing than AI investment
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6724
+  strength: 0.672
 - slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
   headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6762
+  strength: 0.6756
 - slug: 2026-08-28-ai-investment-boom-props-up-global-growth-despite-trade-and-energy-strains
   headline: AI investment boom props up global growth despite trade and energy strains
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6941
+  strength: 0.6932
 - slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
   headline: US manufacturers pour hundreds of millions into AI data center buildout
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6944
+  strength: 0.6945
 - slug: 2026-07-18-ai-buildout-expected-to-keep-inflation-elevated-through-year-end
   headline: AI buildout expected to keep inflation elevated through year-end
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7268
-- slug: 2026-07-28-ai-tokens-could-emerge-as-a-key-economic-metric-for-the-ai-age
-  headline: AI tokens could emerge as a key economic metric for the AI age
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7015
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6823
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6962
-- slug: 2026-07-13-ai-investment-boom-expected-to-keep-inflation-elevated-through-2026
-  headline: AI investment boom expected to keep inflation elevated through 2026
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7126
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.692
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7036
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6758
-- slug: 2026-07-12-ai-shows-promise-in-drug-labs-commercial-payoff-years-away
-  headline: AI shows promise in drug labs; commercial payoff years away
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6752
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6967
-- slug: 2026-06-11-base-rate-analysis-casts-doubt-on-ai-investment-frenzy-as-revenue-projections-hi
-  headline: Base-rate analysis casts doubt on AI investment frenzy as revenue projections hit historic extremes
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7014
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6943
+  strength: 0.7257
 analyses:
-- '2026-10-02-ai-s-3-5-trillion-revenue-target-rests-on-three-premises-with-measurable-empiric'
+- 2026-10-02-ai-s-3-5-trillion-revenue-target-rests-on-three-premises-with-measurable-empiric
 ---
-
 ## AI sector needs 9% of US GDP in revenue by 2032, analysis finds
 
 **Subtype:** fact

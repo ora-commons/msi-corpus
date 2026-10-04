@@ -1,9 +1,20 @@
 ---
-headline: 'Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center deal'
-secondary_headline: Carney designates west-coast oil pipeline a national-interest project
+headline: 'Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center
+  deal'
+secondary_headline: Carney designates west-coast oil pipeline a national-interest
+  project
 publish_date: '2026-10-02'
-lede: Oil futures traded mixed on October 2 as signs of recovering Gulf crude exports offset concerns over U.S. military action against Iran, with Brent crude down 1% to $101.26 a barrel and WTI down 1.8% to $91.24 in early European trading, before reversing later in the session. Enerflex shares jumped as much as 17% after the company secured a 450-megawatt off-grid natural gas-fired power contract for a North American data center developer. In Canadian energy, Prime Minister Mark Carney designated a proposed west-coast oil pipeline a project of national interest, projecting 140,000 jobs and more than C$20 billion in annual GDP.
-nut_graf: The market talk came amid ongoing tensions in the Middle East shipping lanes and rising energy demand from data center buildouts, with digital infrastructure providers increasingly seeking off-grid power to bypass local and regional grids.
+lede: Oil futures traded mixed on October 2 as signs of recovering Gulf crude exports
+  offset concerns over U.S. military action against Iran, with Brent crude down 1%
+  to $101.26 a barrel and WTI down 1.8% to $91.24 in early European trading, before
+  reversing later in the session. Enerflex shares jumped as much as 17% after the
+  company secured a 450-megawatt off-grid natural gas-fired power contract for a North
+  American data center developer. In Canadian energy, Prime Minister Mark Carney designated
+  a proposed west-coast oil pipeline a project of national interest, projecting 140,000
+  jobs and more than C$20 billion in annual GDP.
+nut_graf: The market talk came amid ongoing tensions in the Middle East shipping lanes
+  and rising energy demand from data center buildouts, with digital infrastructure
+  providers increasingly seeking off-grid power to bypass local and regional grids.
 primary_entities:
 - Enerflex
 - Tenaga Nasional
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,46 @@ related_stories:
   headline: Oil futures rise as Middle East exports recover to prewar levels
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7491
+  strength: 0.7496
 - slug: 2026-09-29-oil-rises-as-us-iran-talks-stall-daimler-truck-volvo-manage-backlog-delivery
-  headline: Oil rises as US-Iran talks stall; Daimler Truck, Volvo manage backlog delivery
+  headline: Oil rises as US-Iran talks stall; Daimler Truck, Volvo manage backlog
+    delivery
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7451
+  strength: 0.7452
 - slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
   headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7431
+  strength: 0.743
 - slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
   headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7424
+  strength: 0.7419
 - slug: 2026-09-25-natural-gas-futures-jump-9-on-pipeline-leak-oil-falls-on-iran-diplomacy-hopes
-  headline: Natural gas futures jump 9% on pipeline leak; oil falls on Iran diplomacy hopes
+  headline: Natural gas futures jump 9% on pipeline leak; oil falls on Iran diplomacy
+    hopes
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7461
+  strength: 0.7462
 - slug: 2026-09-21-oil-extends-slide-to-fourth-session-on-saudi-pipeline-repairs-iran-hopes
   headline: Oil extends slide to fourth session on Saudi pipeline repairs, Iran hopes
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7581
+  strength: 0.7582
 - slug: 2026-09-23-oil-futures-diverge-as-traders-weigh-us-iran-talks-and-saudi-pipeline-tests
-  headline: Oil futures diverge as traders weigh US-Iran talks and Saudi pipeline tests
+  headline: Oil futures diverge as traders weigh US-Iran talks and Saudi pipeline
+    tests
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7402
+  strength: 0.7396
 - slug: 2026-09-22-european-energy-stocks-rise-as-oil-rebounds-on-hormuz-risks
   headline: European energy stocks rise as oil rebounds on Hormuz risks
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7406
-- slug: 2026-09-17-oil-retreats-from-weekly-highs-as-saudi-arabia-eyes-east-west-pipeline-restart
-  headline: Oil retreats from weekly highs as Saudi Arabia eyes East-West pipeline restart
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7529
-- slug: 2026-09-16-oil-futures-slip-ahead-of-fed-decision-as-saudi-pipeline-repairs-extend
-  headline: Oil futures slip ahead of Fed decision as Saudi pipeline repairs extend
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7543
-- slug: 2026-09-17-brent-crude-falls-as-fed-lifts-rates-for-first-time-since-2023
-  headline: Brent crude falls as Fed lifts rates for first time since 2023
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7388
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7566
-- slug: 2026-09-10-oil-and-diesel-futures-hit-multi-month-highs-as-us-iran-conflict-escalates
-  headline: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7405
-- slug: 2026-08-13-oil-settles-flat-as-traders-weigh-eia-data-against-hormuz-tensions
-  headline: Oil settles flat as traders weigh EIA data against Hormuz tensions
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7559
-- slug: 2026-08-11-oil-prices-erase-gains-on-u-s--iran-progress-reports
-  headline: Oil prices erase gains on U.S.-Iran progress reports
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7419
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7547
-- slug: 2026-06-04-oil-falls-on-israel-lebanon-ceasefire-but-analysts-warn-of-lasting-strait-of-hor
-  headline: Oil prices fall 3% on Israel-Lebanon ceasefire, Hezbollah not part of deal
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7582
-- slug: 2026-06-12-oil-falls-as-trump-calls-off-iran-strikes-bp-india-power-in-focus
-  headline: Oil falls as Trump calls off Iran strikes; BP, India power in focus
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7489
-- slug: 2026-06-05-oil-prices-fall-iran-talks-supply-cliff-looms
-  headline: Oil falls 2.7% as Iran talks fuel optimism; supply cliff looms
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7469
-- slug: 2026-06-02-oil-pares-gains-as-hezbollah-accepts-partial-ceasefire-easing-middle-east-tensio
-  headline: Oil pares gains as Hezbollah accepts partial ceasefire, easing Middle East tensions
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7451
+  strength: 0.741
 ---
-
 ## Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center deal
 
 **Subtype:** fact

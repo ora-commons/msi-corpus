@@ -1,9 +1,16 @@
 ---
-headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
+headline: Divers recover body of missing patient in Catalina medevac crash, toll at
+  3
 secondary_headline: Search covered 156 square miles over 23 hours, Coast Guard says
 publish_date: '2026-10-02'
-lede: Police divers recovered the body of a patient who went missing after a medical helicopter crashed into the Pacific Ocean off Catalina Island near Los Angeles, bringing the death toll to three while two others remained hospitalized, authorities said on Friday. The helicopter, operated by Reach Air Medical Services of Sacramento, went down shortly after takeoff from the island Wednesday evening with five people aboard.
-nut_graf: The National Transportation Safety Board is investigating the cause. The wreckage lay about 200 feet below the surface.
+lede: Police divers recovered the body of a patient who went missing after a medical
+  helicopter crashed into the Pacific Ocean off Catalina Island near Los Angeles,
+  bringing the death toll to three while two others remained hospitalized, authorities
+  said on Friday. The helicopter, operated by Reach Air Medical Services of Sacramento,
+  went down shortly after takeoff from the island Wednesday evening with five people
+  aboard.
+nut_graf: The National Transportation Safety Board is investigating the cause. The
+  wreckage lay about 200 feet below the surface.
 primary_entities:
 - Catalina Island
 - Los Angeles County Sheriff's Department
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +149,43 @@ related_stories:
   headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8571
+  strength: 0.8566
+- slug: 2026-10-02-crews-recover-final-body-from-catalina-island-helicopter-crash
+  headline: Crews recover final body from Catalina Island helicopter crash
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8363
+- slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
+  headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.656
+- slug: 2026-10-03-coast-guard-searches-for-medical-plane-with-6-aboard-off-nantucket
+  headline: Coast Guard searches for medical plane with 6 aboard off Nantucket
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6516
 - slug: 2026-09-16-nbc4-helicopter-crash-in-los-angeles-neighborhood-kills-at-least-three
   headline: NBC4 helicopter crash in Los Angeles neighborhood kills at least three
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6776
+  strength: 0.6767
 - slug: 2026-09-16-moreno-marciniw-have-been-flying-together-since-2023-nbc4-says
   headline: Moreno, Marciniw have been flying together since 2023, NBC4 says
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6695
+  strength: 0.668
 - slug: 2026-09-16-nbc4-names-journalist-pilot-among-three-killed-in-helicopter-crash
   headline: NBC4 names journalist, pilot among three killed in helicopter crash
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6657
+  strength: 0.6644
 - slug: 2026-09-16-five-la-residents-died-across-two-chatsworth-crashes-bass-says
   headline: Five LA residents died across two Chatsworth crashes, Bass says
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6641
-- slug: 2026-09-18-prosecutors-charge-la-woman-with-murder-over-chatsworth-bus-crash
-  headline: Prosecutors charge LA woman with murder over Chatsworth bus crash
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6231
-- slug: 2026-09-16-nbc4-anchor-confirms-own-helicopter-crash-during-live-broadcast
-  headline: NBC4 anchor confirms own helicopter crash during live broadcast
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6334
-- slug: 2026-08-21-ntsb-recovers-data-cards-from-pennsylvania-helicopter-cessna-collision
-  headline: NTSB recovers data cards from Pennsylvania helicopter-Cessna collision
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6253
-- slug: 2026-07-24-seaplane-crashes-near-washington-island-all-11-rescued
-  headline: Seaplane crashes near Washington island, all 11 rescued
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6506
-- slug: 2026-07-15-search-continues-for-3-after-memorial-service-boat-sinks-near-alcatraz
-  headline: Search continues for 3 after memorial service boat sinks near Alcatraz
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6632
-- slug: 2026-07-14-pontoon-boat-carrying-memorial-service-group-sinks-near-alcatraz-1-dead-3-missin
-  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead, 3 missing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6651
-- slug: 2026-07-21-wreckage-of-pan-am-plane-found-74-years-after-crash-that-spurred-safety-briefing
-  headline: Wreckage of Pan Am plane found 74 years after crash that spurred safety briefings
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6237
-- slug: 2026-07-09-us-rescue-team-says-venezuelan-bureaucracy-delayed-quake-response-by-five-days
-  headline: US rescue team says Venezuelan bureaucracy delayed quake response by five days
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6249
-- slug: 2026-07-02-families-of-us-deportees-to-venezuela-search-for-missing-after-quakes
-  headline: Families of US deportees to Venezuela search for missing after quakes
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6299
-- slug: 2026-06-22-four-injured-in-coast-guard-helicopter-crash-near-sitka-alaska
-  headline: Four injured in Coast Guard helicopter crash near Sitka, Alaska
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6325
-- slug: 2026-05-30-3-climbers-who-fell-on-mount-mckinley-are-dead-1-rescued
-  headline: 3 climbers who fell on Mount McKinley are dead; 1 rescued
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6405
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6645
-- slug: 2026-05-19-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6429
-- slug: 2026-03-29-3-killed-in-tour-company-helicopter-crash-on-kauai-s-na-pali-coast
-  headline: 3 killed in tour company helicopter crash on Kauai’s Na Pali Coast
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6625
-- slug: 2026-01-29-responders-recall-grim-recovery-a-year-after-dc-midair-collision
-  headline: Responders recall grim recovery a year after DC midair collision
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6743
+  strength: 0.6627
 ---
-
 ## Divers recover body of missing patient in Catalina medevac crash, toll at 3
 
 **Subtype:** fact

@@ -2,8 +2,19 @@
 headline: Board seeks renovation adding Trump name to Kennedy Center facade
 secondary_headline: Sept. 4 Grand Foyer ceiling collapse cited in push for closure
 publish_date: '2026-10-02'
-lede: The Kennedy Center's board has proposed a renovation plan whose facade inscription would read "The John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump," according to United Press International. The board, hand-picked by President Donald Trump, cited a Sept. 4 ceiling collapse in the Grand Foyer as "another example of the urgent need to close for renovation." Meanwhile, the annual Kennedy Center Honors will be held Dec. 7 at Capital One Arena in Washington, D.C., for the first time — the event has taken place in the Kennedy Center's Opera House every year since its inception in 1978.
-nut_graf: The Kennedy Center remains closed while its future is decided in the courts, according to UPI. The future of the building has been in limbo since President Donald Trump decided to add his name to the building's facade, leading to a legal battle. A judge ruled that Trump's name had to be removed, allowing only President John F. Kennedy's name to stand.
+lede: The Kennedy Center's board has proposed a renovation plan whose facade inscription
+  would read "The John F. Kennedy Center for the Performing Arts Restored and Renovated
+  by President Donald J. Trump," according to United Press International. The board,
+  hand-picked by President Donald Trump, cited a Sept. 4 ceiling collapse in the Grand
+  Foyer as "another example of the urgent need to close for renovation." Meanwhile,
+  the annual Kennedy Center Honors will be held Dec. 7 at Capital One Arena in Washington,
+  D.C., for the first time — the event has taken place in the Kennedy Center's Opera
+  House every year since its inception in 1978.
+nut_graf: The Kennedy Center remains closed while its future is decided in the courts,
+  according to UPI. The future of the building has been in limbo since President Donald
+  Trump decided to add his name to the building's facade, leading to a legal battle.
+  A judge ruled that Trump's name had to be removed, allowing only President John
+  F. Kennedy's name to stand.
 primary_entities:
 - Kennedy Center
 - Capital One Arena
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,12 +150,14 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-02-kennedy-center-honors-to-move-to-capital-one-arena-for-first-time-since-1978
-  headline: Kennedy Center Honors to move to Capital One Arena for first time since 1978
+  headline: Kennedy Center Honors to move to Capital One Arena for first time since
+    1978
   publish_date: '2026-10-02'
   relation: related
   strength: 0.8561
 - slug: 2026-09-19-trump-threatens-kennedy-center-demolition-after-court-blocks-renaming-bid
-  headline: Trump threatens Kennedy Center demolition after court blocks renaming bid
+  headline: Trump threatens Kennedy Center demolition after court blocks renaming
+    bid
   publish_date: '2026-09-19'
   relation: related
   strength: 0.8162
@@ -153,12 +167,14 @@ related_stories:
   relation: related
   strength: 0.8134
 - slug: 2026-09-14-court-filings-detail-10-options-to-add-trump-s-name-to-kennedy-center-facade
-  headline: Court filings detail 10 options to add Trump's name to Kennedy Center facade
+  headline: Court filings detail 10 options to add Trump's name to Kennedy Center
+    facade
   publish_date: '2026-09-14'
   relation: related
   strength: 0.8353
 - slug: 2026-09-15-kennedy-center-board-votes-to-close-main-building-after-judge-blocks-trump-name
-  headline: Kennedy Center board votes to close main building after judge blocks Trump name
+  headline: Kennedy Center board votes to close main building after judge blocks Trump
+    name
   publish_date: '2026-09-15'
   relation: related
   strength: 0.8165
@@ -168,7 +184,8 @@ related_stories:
   relation: related
   strength: 0.8069
 - slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
+  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED'
+    placard
   publish_date: '2026-09-18'
   relation: related
   strength: 0.79
@@ -177,68 +194,7 @@ related_stories:
   publish_date: '2026-09-14'
   relation: related
   strength: 0.8094
-- slug: 2026-09-15-kennedy-center-board-to-vote-on-closure-shelving-trump-renaming-vote
-  headline: Kennedy Center board to vote on closure, shelving Trump-renaming vote
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7919
-- slug: 2026-09-17-judge-orders-kennedy-center-board-to-give-30-days-notice-on-building-changes
-  headline: Judge orders Kennedy Center board to give 30 days' notice on building changes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7706
-- slug: 2026-09-14-kennedy-center-trustees-warn-of-fiscal-collapse-possible-tuesday-closure
-  headline: Kennedy Center trustees warn of fiscal collapse, possible Tuesday closure
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7864
-- slug: 2026-09-15-trump-calls-kennedy-center-in-virtual-state-of-collapse-amid-fiscal-warning
-  headline: Trump calls Kennedy Center 'in virtual state of collapse' amid fiscal warning
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7758
-- slug: 2026-09-15-cooper-no-proof-kennedy-center-donations-hinge-on-trump-name
-  headline: 'Cooper: no proof Kennedy Center donations hinge on Trump name'
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7748
-- slug: 2026-09-05-ceiling-chunk-collapses-in-kennedy-center-hallway-no-injuries
-  headline: Ceiling chunk collapses in Kennedy Center hallway, no injuries
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7957
-- slug: 2026-08-27-kennedy-center-board-votes-to-add-trump-name-to-building-s-plaza
-  headline: Kennedy Center board votes to add Trump name to building's plaza
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.8271
-- slug: 2026-08-25-doj-filing-threatens-demolition-of-kennedy-center-if-trump-naming-plan-blocked
-  headline: DOJ filing threatens demolition of Kennedy Center if Trump naming plan blocked
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7834
-- slug: 2026-08-13-kennedy-center-board-to-weigh-three-renovation-options-after-court-block
-  headline: Kennedy Center board to weigh three renovation options after court block
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.8062
-- slug: 2026-06-20-kennedy-center-likely-to-remain-closed-for-renovations-board-tells-judge
-  headline: Kennedy Center likely to remain closed for renovations, board tells judge
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.8196
-- slug: 2026-06-12-kennedy-center-board-votes-to-seek-stay-of-order-to-remove-trump-s-name
-  headline: Kennedy Center board votes to seek stay of order to remove Trump's name
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.8154
-- slug: 2026-06-16-trump-s-name-removed-from-kennedy-center-facade-under-court-order
-  headline: Trump's name removed from Kennedy Center facade under court order
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.8102
 ---
-
 ## Board seeks renovation adding Trump name to Kennedy Center facade
 
 - The Kennedy Center's board has proposed a renovation plan whose facade inscription would read "The John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump," according to UPI.

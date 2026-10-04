@@ -1,12 +1,24 @@
 ---
 headline: Trump-authorized team secures release of US businessman from Myanmar
-secondary_headline: Release marks highest-level US engagement with Myanmar junta since 2021 coup
+secondary_headline: Release marks highest-level US engagement with Myanmar junta since
+  2021 coup
 publish_date: '2026-10-01'
-lede: 'A U.S. diplomatic team authorized by President Trump secured the release of American businessman Adam Castillo from a Myanmar prison on Sept. 16 after three months of detention, the highest-level engagement between Washington and Myanmar''s ruling military junta since the 2021 coup.
+lede: 'A U.S. diplomatic team authorized by President Trump secured the release of
+  American businessman Adam Castillo from a Myanmar prison on Sept. 16 after three
+  months of detention, the highest-level engagement between Washington and Myanmar''s
+  ruling military junta since the 2021 coup.
 
 
-  Castillo, a 40-year-old retired Marine from California who owns a security company in Myanmar, was detained at Yangon''s airport in June under a military regime that the U.S. does not recognize. He was later charged with breach of trust following a dispute over a $300,000 lobbying contract between AmCham Myanmar, the local American Chamber of Commerce, and Mercury Public Affairs, a Washington firm with ties to the incoming Trump administration.'
-nut_graf: The mission illustrates how the Trump administration pursues the release of Americans detained abroad, drawing on the office of special envoy for hostage response and high-level White House backing, even when the detained American is not formally designated as "wrongfully detained."
+  Castillo, a 40-year-old retired Marine from California who owns a security company
+  in Myanmar, was detained at Yangon''s airport in June under a military regime that
+  the U.S. does not recognize. He was later charged with breach of trust following
+  a dispute over a $300,000 lobbying contract between AmCham Myanmar, the local American
+  Chamber of Commerce, and Mercury Public Affairs, a Washington firm with ties to
+  the incoming Trump administration.'
+nut_graf: The mission illustrates how the Trump administration pursues the release
+  of Americans detained abroad, drawing on the office of special envoy for hostage
+  response and high-level White House backing, even when the detained American is
+  not formally designated as "wrongfully detained."
 primary_entities:
 - Adam Castillo
 - Donald Trump
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +165,13 @@ related_stories:
   headline: Trump to raise detained American Min Zin's case at Xi summit
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6534
-- slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6048
+  strength: 0.6532
 - slug: 2026-06-15-former-us-chamber-president-detained-in-myanmar-after-financial-probe
   headline: Former US chamber president detained in Myanmar after financial probe
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.814
-- slug: 2026-08-21-ice-arrests-san-diego-coffee-shop-owner-who-holds-valid-work-permit
-  headline: ICE arrests San Diego coffee shop owner who holds valid work permit
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6212
-- slug: 2026-08-20-rubio-designates-american-academic-min-zin-as-wrongfully-detained-in-china
-  headline: Rubio designates American academic Min Zin as wrongfully detained in China
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6099
-- slug: 2026-07-17-us-will-not-renew-order-revoking-hong-kong-trade-status
-  headline: US will not renew order revoking Hong Kong trade status
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6046
-- slug: 2026-07-10-un-panel-finds-castillo-detention-arbitrary-calls-for-release
-  headline: UN panel finds Castillo detention arbitrary, calls for release
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6056
-- slug: 2026-05-10-trump-to-press-xi-on-jailed-hong-kong-activist-jimmy-lai-at-beijing-summit
-  headline: Trump to press Xi on jailed Hong Kong activist Jimmy Lai at Beijing summit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6338
-- slug: 2026-04-22-us-considers-sending-afghans-from-qatar-to-a-third-country
-  headline: US considers sending Afghans from Qatar to a third country
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6427
-- slug: 2026-05-10-trump-s-china-talks-next-week-could-shape-jimmy-lai-s-prison-fate
-  headline: Trump’s China talks next week could shape Jimmy Lai’s prison fate
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6193
-- slug: 2026-04-23-us-weighs-plan-to-move-afghans-from-qatar-to-third-country
-  headline: US weighs plan to move Afghans from Qatar to third country
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6193
-- slug: 2026-02-28-border-patrol-agents-under-scrutiny-after-myanmar-refugee-found-dead
-  headline: Border Patrol agents under scrutiny after Myanmar refugee found dead
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6332
-- slug: 2026-03-10-us-designates-afghanistan-as-sponsor-of-wrongful-detention
-  headline: US designates Afghanistan as sponsor of wrongful detention
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6197
-- slug: 2026-01-14-trump-administration-says-multiple-americans-detained-in-venezuela-were-released
-  headline: Trump administration says multiple Americans detained in Venezuela were released
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6259
-- slug: 2026-03-22-secretive-us-deal-with-equatorial-guinea-strands-deported-migrants
-  headline: Secretive US deal with Equatorial Guinea strands deported migrants
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6086
-- slug: 2026-03-06-us-imposes-travel-bans-port-actions-in-push-to-counter-china-s-reach-in-latin-am
-  headline: US imposes travel bans, port actions in push to counter China's reach in Latin America
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6114
-- slug: 2026-02-22-gay-asylum-seeker-deported-to-cameroon-despite-u-s-judge-s-protection-order
-  headline: Gay asylum-seeker deported to Cameroon despite U.S. judge's protection order
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6124
-- slug: 2026-02-17-myanmar-expels-east-timor-top-diplomat-over-criminal-complaint
-  headline: Myanmar expels East Timor top diplomat over criminal complaint
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6121
-- slug: 2026-03-06-us-imposes-visa-restrictions-on-rwandan-officials-over-m23-rebel-support
-  headline: US imposes visa restrictions on Rwandan officials over M23 rebel support
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6085
-- slug: 2026-01-14-venezuela-s-acting-president-pledges-more-prisoner-releases-after-trump-call
-  headline: Venezuela's acting president pledges more prisoner releases after Trump call
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6137
+  strength: 0.8167
 ---
-
 ## Trump-authorized team secures release of US businessman from Myanmar
 
 **Subtype:** fact

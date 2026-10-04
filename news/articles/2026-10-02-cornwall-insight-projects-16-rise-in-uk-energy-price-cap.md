@@ -2,8 +2,13 @@
 headline: Cornwall Insight projects 16% rise in UK energy price cap
 secondary_headline: UK opens diesel reserve talks with European allies
 publish_date: '2026-10-02'
-lede: Forecaster Cornwall Insight projects a 16% rise in the quarterly UK energy price cap that would add £276 to the typical annual dual-fuel bill, taking it to £1,999. The price cap already rose 4% this week, pushing the typical Great Britain household bill to £1,723 a year.
-nut_graf: The household energy pressure comes as the UK faces a parallel fuel squeeze at forecourts, with diesel crossing £2 a litre for the first time on Friday and the government opening emergency reserve talks with European allies.
+lede: Forecaster Cornwall Insight projects a 16% rise in the quarterly UK energy price
+  cap that would add £276 to the typical annual dual-fuel bill, taking it to £1,999.
+  The price cap already rose 4% this week, pushing the typical Great Britain household
+  bill to £1,723 a year.
+nut_graf: The household energy pressure comes as the UK faces a parallel fuel squeeze
+  at forecourts, with diesel crossing £2 a litre for the first time on Friday and
+  the government opening emergency reserve talks with European allies.
 primary_entities:
 - Cornwall Insight
 - United Kingdom
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,106 +146,45 @@ related_stories:
   headline: UK diesel average breaks £2 a litre for the first time
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8042
+  strength: 0.804
 - slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
   headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8069
+  strength: 0.8072
 - slug: 2026-10-02-macquarie-says-g7-diesel-release-won-t-fix-us-energy-problem
   headline: Macquarie says G7 diesel release won't fix US energy problem
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7553
+  strength: 0.7556
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7536
+  strength: 0.754
 - slug: 2026-09-28-uk-energy-price-cap-rises-to-1-723-as-gas-costs-surge
   headline: UK energy price cap rises to £1,723 as gas costs surge
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7735
+  strength: 0.7721
 - slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
   headline: Healey says UK preparing for diesel export ban as fuel prices hit record
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7676
+  strength: 0.7681
 - slug: 2026-10-02-guardian-opens-reader-call-out-as-uk-diesel-hits-record-2-a-litre
   headline: Guardian opens reader call-out as UK diesel hits record £2 a litre
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7356
+  strength: 0.7354
 - slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
   headline: UK diesel prices head toward £2 a litre as wars cut global refining
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.8024
-- slug: 2026-10-02-uk-transport-minister-says-country-is-not-facing-diesel-shortage
-  headline: UK transport minister says country is not facing diesel shortage
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.719
-- slug: 2026-10-02-northern-ireland-diesel-prices-reach-highest-level-since-iran-conflict-began
-  headline: Northern Ireland diesel prices reach highest level since Iran conflict began
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7057
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7302
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7036
-- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
-  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7296
-- slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
-  headline: UK inflation rises to 3.1% in August as fuel prices surge
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7209
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7233
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7387
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7227
-- slug: 2026-08-18-diesel-prices-climb-as-global-buyers-compete-for-shrinking-supply
-  headline: Diesel prices climb as global buyers compete for shrinking supply
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7074
-- slug: 2026-07-26-northern-ireland-heating-oil-prices-surge-29-in-three-weeks-as-us-iran-disruptio
-  headline: Northern Ireland heating oil prices surge 29% in three weeks as US-Iran disruption deepens
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7021
-- slug: 2026-06-01-uk-pump-prices-climb-as-strait-of-hormuz-closure-pushes-crude-past-120
-  headline: UK pump prices climb as Strait of Hormuz closure pushes crude past $120
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7802
+  strength: 0.802
 analyses:
-- '2026-10-02-us-export-threat-frames-uk-diesel-squeeze-as-multi-player-strategic-game'
+- 2026-10-02-us-export-threat-frames-uk-diesel-squeeze-as-multi-player-strategic-game
 ---
-
 ## Cornwall Insight projects 16% rise in UK energy price cap
 
 **Subtype:** fact

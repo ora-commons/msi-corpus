@@ -1,9 +1,22 @@
 ---
 headline: Oregon housing chief amended ethics filings after husband's employer surfaced
-secondary_headline: Husband's firm advised on Oregon housing projects receiving state funds
+secondary_headline: Husband's firm advised on Oregon housing projects receiving state
+  funds
 publish_date: '2026-10-02'
-lede: Oregon's housing finance chief Andrea Bell filed amended ethics disclosures on Sept. 23 — the same day ProPublica asked why she had not named her husband's employer on prior filings — formally identifying the consulting firm Oregon law requires to be disclosed. Bell leads Oregon Housing and Community Services, which has distributed more than $1.4 billion in state funding for rent-restricted apartments over the past five years, alongside federal tax credits the agency allocates. Her husband, Joshua Crites, joined JH Brawner in 2023 as a director of strategic initiatives; the firm lists offices in Oregon, Washington and Arizona and says it has helped create 20,000 low-income housing units costing $3 billion. JH Brawner advises local housing authorities on subsidized projects that draw heavily on money from her department.
-nut_graf: Oregon law requires officials in Bell's position to report spouses' income sources that could pose conflicts and to notify the appointing authority in writing. The episode is the second conflict-of-interest issue to surface in Oregon's housing agency in the past year.
+lede: Oregon's housing finance chief Andrea Bell filed amended ethics disclosures
+  on Sept. 23 — the same day ProPublica asked why she had not named her husband's
+  employer on prior filings — formally identifying the consulting firm Oregon law
+  requires to be disclosed. Bell leads Oregon Housing and Community Services, which
+  has distributed more than $1.4 billion in state funding for rent-restricted apartments
+  over the past five years, alongside federal tax credits the agency allocates. Her
+  husband, Joshua Crites, joined JH Brawner in 2023 as a director of strategic initiatives;
+  the firm lists offices in Oregon, Washington and Arizona and says it has helped
+  create 20,000 low-income housing units costing $3 billion. JH Brawner advises local
+  housing authorities on subsidized projects that draw heavily on money from her department.
+nut_graf: Oregon law requires officials in Bell's position to report spouses' income
+  sources that could pose conflicts and to notify the appointing authority in writing.
+  The episode is the second conflict-of-interest issue to surface in Oregon's housing
+  agency in the past year.
 primary_entities:
 - Andrea Bell
 - Joshua Crites
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,106 +156,10 @@ related_stories:
   headline: Oregon Democrats plan 2027 bill to open affordable housing financial records
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6908
-- slug: 2026-09-22-pulte-scrutinized-attorney-general-blanche-s-mortgage-records-sources-say
-  headline: Pulte scrutinized Attorney General Blanche's mortgage records, sources say
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.61
-- slug: 2026-09-14-airbnb-commits-250-million-to-affordable-housing-through-new-accelerator
-  headline: Airbnb commits $250 million to affordable housing through new accelerator
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.585
-- slug: 2026-09-09-congressional-conduct-board-recommends-dismissing-omar-disclosure-allegations
-  headline: Congressional conduct board recommends dismissing Omar disclosure allegations
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6033
-- slug: 2026-08-17-interior-department-announces-1-22-billion-offshore-wind-lease-buyout
-  headline: Interior Department announces $1.22 billion offshore wind lease buyout
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5868
-- slug: 2026-05-14-bungled-housing-message-in-texas-sparked-exodus-amid-trump-immigration-rule
-  headline: Bungled housing message in Texas sparked exodus amid Trump immigration rule
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5786
-- slug: 2026-05-15-texas-town-s-housing-authority-bungled-immigrant-eviction-message
-  headline: Texas town’s housing authority bungled immigrant-eviction message
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5728
-- slug: 2026-04-29-iowa-school-district-tightens-conflict-rules-after-audit-flags-ex-superintendent
-  headline: Iowa school district tightens conflict rules after audit flags ex-superintendent
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5806
-- slug: 2026-04-30-hawaii-governor-blasts-auditor-s-interim-report-on-homeless-tiny-homes
-  headline: Hawaii governor blasts auditor’s interim report on homeless tiny homes
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5772
-- slug: 2026-01-06-ethics-watchdog-questions-intern-hire-by-chief-of-staff-to-georgia-sen-mike-coll
-  headline: Ethics watchdog questions intern hire by chief of staff to Georgia Sen. Mike Collins
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6037
-- slug: 2026-01-09-michigan-employer-housing-fund-runs-dry-after-detroit-kalamazoo-approvals
-  headline: Michigan employer-housing fund runs dry after Detroit, Kalamazoo approvals
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6022
-- slug: 2026-04-22-hawaii-auditor-warns-of-control-gaps-in-homeless-tiny-home-payments
-  headline: Hawaii auditor warns of control gaps in homeless tiny home payments
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5767
-- slug: 2026-03-27-ethics-panel-weighs-allegations-against-florida-congresswoman-cherfilus-mccormic
-  headline: Ethics panel weighs allegations against Florida congresswoman Cherfilus-McCormick
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5828
-- slug: 2026-04-01-nevada-housing-bill-money-starts-flowing-to-middle-income-homebuyers
-  headline: Nevada housing bill money starts flowing to middle-income homebuyers
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5789
-- slug: 2026-04-14-white-house-economists-estimate-u-s-housing-shortage-of-10-million-homes
-  headline: White House economists estimate U.S. housing shortage of 10 million homes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5712
-- slug: 2026-04-14-white-house-economists-estimate-10-million-home-us-housing-shortage
-  headline: White House economists estimate 10 million-home US housing shortage
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5702
-- slug: 2026-03-05-government-funds-hilo-shelter-without-safety-exits-or-fire-inspection
-  headline: Government funds Hilo shelter without safety exits or fire inspection
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5812
-- slug: 2026-04-01-nyc-council-member-and-hochul-aide-probed-over-migrant-shelter-bribes
-  headline: NYC Council member and Hochul aide probed over migrant shelter bribes
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5721
-- slug: 2026-02-28-silicon-valley-nonprofit-expands-eviction-prevention-program-nationally
-  headline: Silicon Valley nonprofit expands eviction-prevention program nationally
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5799
-- slug: 2026-03-20-west-virginia-campaign-finance-law-will-redact-donor-employer-data
-  headline: West Virginia campaign finance law will redact donor employer data
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5749
+  strength: 0.6905
 analyses:
-- '2026-10-02-oregon-housing-chief-s-amended-disclosures-prompt-conflict-of-interest-review-ov'
+- 2026-10-02-oregon-housing-chief-s-amended-disclosures-prompt-conflict-of-interest-review-ov
 ---
-
 ## Oregon housing chief amended ethics filings after husband's employer surfaced
 
 **Subtype:** fact

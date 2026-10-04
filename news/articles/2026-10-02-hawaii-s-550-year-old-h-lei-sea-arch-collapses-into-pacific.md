@@ -2,8 +2,18 @@
 headline: Hawaii's 550-year-old Hōlei sea arch collapses into Pacific
 secondary_headline: Tropical Storm Nolo was Hawaii's third major storm of 2026
 publish_date: '2026-10-02'
-lede: The Hōlei sea arch, a roughly 90-foot natural stone formation that had stood on the Big Island's southern coast in Hawaii Volcanoes National Park for about 550 years, has collapsed into the Pacific Ocean, the National Park Service confirmed on Friday. The arch was last documented as standing on September 23, when the park closed temporarily during Tropical Storm Nolo, and was gone by the evening of September 27, the agency said.
-nut_graf: Park officials and the U.S. Geological Survey had described the arch's eventual fall as long expected, and the collapse came as the Pacific hurricane season peaks. Forecasters have warned there is a high probability that this "supercharged" El Niño will reach a historic intensity, with its effects in strengthening the storms compounded by the broader overheating of the planet caused by the burning of fossil fuels.
+lede: The Hōlei sea arch, a roughly 90-foot natural stone formation that had stood
+  on the Big Island's southern coast in Hawaii Volcanoes National Park for about 550
+  years, has collapsed into the Pacific Ocean, the National Park Service confirmed
+  on Friday. The arch was last documented as standing on September 23, when the park
+  closed temporarily during Tropical Storm Nolo, and was gone by the evening of September
+  27, the agency said.
+nut_graf: Park officials and the U.S. Geological Survey had described the arch's eventual
+  fall as long expected, and the collapse came as the Pacific hurricane season peaks.
+  Forecasters have warned there is a high probability that this "supercharged" El
+  Niño will reach a historic intensity, with its effects in strengthening the storms
+  compounded by the broader overheating of the planet caused by the burning of fossil
+  fuels.
 primary_entities:
 - Hōlei sea arch
 - Hawaii Volcanoes National Park
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,32 +152,33 @@ related_stories:
   headline: NOAA scales back El Niño research as super event peaks
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6682
+  strength: 0.6695
 - slug: 2026-09-27-hurricane-nolo-pushes-past-hawaii-as-hurricane-polo-bears-down-on-baja
   headline: Hurricane Nolo pushes past Hawaii as Hurricane Polo bears down on Baja
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6934
+  strength: 0.6927
 - slug: 2026-09-29-hurricane-nolo-moves-past-hawaii-hurricane-warning-covers-marine-monument
   headline: Hurricane Nolo moves past Hawaii; hurricane warning covers marine monument
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6777
+  strength: 0.6774
 - slug: 2026-09-29-el-ni-o-sets-century-record-for-atlantic-hurricane-drought
   headline: El Niño sets century record for Atlantic hurricane drought
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6745
+  strength: 0.6757
 - slug: 2026-09-25-hurricane-nolo-threatens-hawaii-with-catastrophic-flooding-as-islands-rebuild
-  headline: Hurricane Nolo threatens Hawaii with catastrophic flooding as islands rebuild
+  headline: Hurricane Nolo threatens Hawaii with catastrophic flooding as islands
+    rebuild
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6828
+  strength: 0.6825
 - slug: 2026-09-26-hurricane-nolo-approaches-hawaii-s-big-island-with-flash-flood-threat
   headline: Hurricane Nolo approaches Hawaii's Big Island with flash flood threat
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6729
+  strength: 0.6723
 - slug: 2026-09-28-hurricane-nolo-strengthens-to-category-4-south-of-hawaii
   headline: Hurricane Nolo strengthens to Category 4 south of Hawaii
   publish_date: '2026-09-28'
@@ -176,71 +188,10 @@ related_stories:
   headline: Hurricane Nolo strengthens to Category 2, expected to miss Hawaii
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.656
-- slug: 2026-09-25-nor-easter-lashes-new-england-with-high-winds-heavy-rain
-  headline: Nor'easter lashes New England with high winds, heavy rain
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.648
-- slug: 2026-09-23-hurricane-polo-reaches-category-5-off-mexico-s-pacific-coast
-  headline: Hurricane Polo reaches Category 5 off Mexico's Pacific coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6483
-- slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
-  headline: WMO warns strongest El Niño in 70 years set to intensify into winter
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6625
-- slug: 2026-09-10-hurricane-lowell-damages-kauai-forecaster-says-hawaii-storm-season-not-over
-  headline: Hurricane Lowell damages Kauai; forecaster says Hawaii storm season not over
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7038
-- slug: 2026-09-15-this-year-s-el-ni-o-ranks-among-the-strongest-on-record
-  headline: This year's El Niño ranks among the strongest on record
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6446
-- slug: 2026-09-06-pacific-logs-first-triple-hurricane-stretch-in-a-decade-as-hawaii-braces-for-low
-  headline: Pacific logs first triple-hurricane stretch in a decade as Hawaii braces for Lowell
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6513
-- slug: 2026-08-14-tropical-storm-lala-forecast-to-hit-hawaii-s-big-island-with-hurricane-force
-  headline: Tropical Storm Lala forecast to hit Hawaii's Big Island with hurricane force
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7247
-- slug: 2026-08-17-storm-lala-sweeps-100-big-island-homes-off-foundations
-  headline: Storm Lala sweeps 100 Big Island homes off foundations
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.688
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6212
-- slug: 2026-05-21-el-ni-o-dampens-atlantic-hurricane-risk-but-increases-it-in-pacific
-  headline: El Niño dampens Atlantic hurricane risk, but increases it in Pacific
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6621
-- slug: 2026-05-22-el-ni-o-may-curb-atlantic-hurricanes-noaa-still-warns-of-damaging-storms
-  headline: El Niño may curb Atlantic hurricanes, NOAA still warns of damaging storms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6599
-- slug: 2026-06-23-former-noaa-official-warns-trump-administration-jeopardized-el-ni-o-forecasting
-  headline: Former NOAA official warns Trump administration jeopardized El Niño forecasting
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6245
+  strength: 0.6558
 analyses:
-- '2026-10-02-h-lei-arch-source-leaves-join-between-long-expected-erosion-and-storm-timing-tri'
+- 2026-10-02-h-lei-arch-source-leaves-join-between-long-expected-erosion-and-storm-timing-tri
 ---
-
 ## Hawaii's 550-year-old Hōlei sea arch collapses into Pacific
 
 **Subtype:** fact

@@ -2,8 +2,13 @@
 headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
 secondary_headline: Trump casts November midterm as referendum on his presidency
 publish_date: '2026-10-02'
-lede: The gender gap that has defined American presidential and congressional politics since Donald Trump's first ascent is again shaping a pivotal midterm, with women backing Democratic House candidates by 12 percentage points over men, according to a New York Times-Siena poll reported by The Guardian.
-nut_graf: The 2026 midterms will determine control of Congress for the final two years of Trump's term, and the gender divide has emerged as a defining dynamic in competitive races from Maine to Arizona.
+lede: The gender gap that has defined American presidential and congressional politics
+  since Donald Trump's first ascent is again shaping a pivotal midterm, with women
+  backing Democratic House candidates by 12 percentage points over men, according
+  to a New York Times-Siena poll reported by The Guardian.
+nut_graf: The 2026 midterms will determine control of Congress for the final two years
+  of Trump's term, and the gender divide has emerged as a defining dynamic in competitive
+  races from Maine to Arizona.
 primary_entities:
 - Donald Trump
 - New York Times-Siena poll
@@ -50,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,104 +138,43 @@ related_stories:
   headline: Polls, forecasters favor Democrats as 2026 midterms near
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7109
+  strength: 0.7114
 - slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
   headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6787
+  strength: 0.6786
 - slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
   headline: Democratic voters split on party direction as DSA gains in primaries
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.678
+  strength: 0.6775
 - slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
   headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7216
+  strength: 0.7218
 - slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
   headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6814
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6931
+  strength: 0.6809
 - slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
   headline: Democrats favored in House fight as Trump approval drags on GOP candidates
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6987
+  strength: 0.6988
+- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
+  headline: Anti-establishment rage reshapes 2026 US midterm landscape
+  publish_date: '2026-09-20'
+  relation: related
+  strength: 0.6928
 - slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
   headline: Polls show Democratic edge as Republicans face tough midterm fight
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6711
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6874
-- slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
-  headline: DSA-backed candidates unseat four House Democrats as primary season ends
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6665
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.724
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7032
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6565
-- slug: 2026-09-01-democrats-weigh-masculinity-question-on-2026-campaign-trail
-  headline: Democrats weigh masculinity question on 2026 campaign trail
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6563
-- slug: 2026-08-26-reproductive-freedom-for-all-backs-jackson-in-maine-senate-race
-  headline: Reproductive Freedom for All backs Jackson in Maine Senate race
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6725
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6712
-- slug: 2026-08-18-sexual-misconduct-probes-mount-against-house-members-ahead-of-midterms
-  headline: Sexual misconduct probes mount against House members ahead of midterms
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6563
-- slug: 2026-08-12-voters-back-progressive-candidates-while-trump-endorsements-yield-mixed-results
-  headline: Voters back progressive candidates while Trump endorsements yield mixed results
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6573
-- slug: 2026-07-27-harris-endorses-jackson-in-maine-senate-race-boosting-democratic-bid
-  headline: Harris endorses Jackson in Maine Senate race, boosting Democratic bid
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6572
-- slug: 2026-06-10-maine-women-torn-between-collins-and-platner-in-senate-race
-  headline: Maine Women Torn Between Collins and Platner in Senate Race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7194
+  strength: 0.6713
 ---
-
 ## Times-Siena poll finds 12-point gender gap in 2026 House vote
 
 **Subtype:** fact

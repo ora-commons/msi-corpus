@@ -2,8 +2,14 @@
 headline: Musk's America Pac spends millions in key midterm Senate races
 secondary_headline: Luckey fundraisers list Thune, Rogers, Sullivan among guests
 publish_date: '2026-10-01'
-lede: Elon Musk's America Pac spent $3.4 million attacking Abdul El-Sayed in Michigan's Senate race and $6.4 million opposing James Talarico in Texas, while also spending $1 million supporting Ken Paxton, The Guardian reported, citing recent campaign records showing Musk remains a major force in the coming midterms.
-nut_graf: The midterm spending figures accompany the announcement of Project Meridian, the Pentagon initiative installed by Defense Secretary Pete Hegseth on Wednesday and led by Emil Michael, on which Musk and Anduril founder Palmer Luckey serve as advisers alongside former House speaker Newt Gingrich.
+lede: Elon Musk's America Pac spent $3.4 million attacking Abdul El-Sayed in Michigan's
+  Senate race and $6.4 million opposing James Talarico in Texas, while also spending
+  $1 million supporting Ken Paxton, The Guardian reported, citing recent campaign
+  records showing Musk remains a major force in the coming midterms.
+nut_graf: The midterm spending figures accompany the announcement of Project Meridian,
+  the Pentagon initiative installed by Defense Secretary Pete Hegseth on Wednesday
+  and led by Emil Michael, on which Musk and Anduril founder Palmer Luckey serve as
+  advisers alongside former House speaker Newt Gingrich.
 primary_entities:
 - Elon Musk
 - Palmer Luckey
@@ -45,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +154,43 @@ related_stories:
   headline: Musk returns to government for 120-day Pentagon warfare study
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7182
+  strength: 0.719
 - slug: 2026-09-30-hegseth-names-michael-to-lead-project-meridian-with-musk-gingrich-luckey
   headline: Hegseth names Michael to lead Project Meridian with Musk, Gingrich, Luckey
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.711
+  strength: 0.7115
 - slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
   headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6944
+  strength: 0.6938
 - slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
   headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6659
+  strength: 0.6656
 - slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
   headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.662
+  strength: 0.6621
 - slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
   headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6703
+  strength: 0.6698
 - slug: 2026-09-05-maga-inc-launches-10-million-texas-senate-ad-campaign
   headline: MAGA Inc. launches $10 million Texas Senate ad campaign
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6715
-- slug: 2026-09-08-reich-trump-to-spend-400m-super-pac-on-himself-not-gop-candidates
-  headline: 'Reich: Trump to spend $400M Super PAC on himself, not GOP candidates'
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6271
+  strength: 0.6712
 - slug: 2026-08-14-musk-plans-100-million-for-gop-midterm-voter-turnout
   headline: Musk plans $100 million for GOP midterm voter-turnout
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7192
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6313
-- slug: 2026-08-10-el-sayed-primary-win-intensifies-democrats-debate-over-2028
-  headline: El-Sayed primary win intensifies Democrats’ debate over 2028
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6412
-- slug: 2026-08-06-aipac-linked-super-pacs-pour-millions-into-california-race-against-wahab
-  headline: AIPAC-linked super PACs pour millions into California race against Wahab
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6388
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6471
-- slug: 2026-07-19-aipac-spending-hits-30m-in-michigan-senate-primary-its-largest-ever
-  headline: AIPAC spending hits $30M in Michigan Senate primary, its largest ever
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6557
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6487
-- slug: 2026-07-12-united-democracy-project-spends-11-million-in-michigan-senate-primary
-  headline: United Democracy Project spends $11 million in Michigan Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6536
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6379
-- slug: 2026-07-14-griffin-pours-40m-into-gop-midterm-push-focuses-on-senate-races
-  headline: Griffin pours $40M into GOP midterm push, focuses on Senate races
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6427
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6614
-- slug: 2026-05-20-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-runoff
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate runoff
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6471
+  strength: 0.7194
 ---
-
 ## Musk's America Pac spends millions in key midterm Senate races
 
 **Subtype:** fact

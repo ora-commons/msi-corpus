@@ -1,9 +1,17 @@
 ---
 headline: Supreme Court opens new term with major religion, guns, climate cases
-secondary_headline: Third-country deportations and election contingencies round out the docket
+secondary_headline: Third-country deportations and election contingencies round out
+  the docket
 publish_date: '2026-10-03'
-lede: The U.S. Supreme Court formally opens a new term this week with arguments scheduled on state lawsuits against energy companies, religious preschool funding, and the constitutionality of bans on semi-automatic weapons. December arguments will add the Trump administration's third-country deportation policy and a second immigration case on detention without bond hearings.
-nut_graf: The term unfolds against a backdrop of an expanding emergency docket that has doubled the court's output of fast, briefly explained rulings relative to its fully briefed merits decisions, reshaping how the justices handle the most contested questions of the Trump era.
+lede: The U.S. Supreme Court formally opens a new term this week with arguments scheduled
+  on state lawsuits against energy companies, religious preschool funding, and the
+  constitutionality of bans on semi-automatic weapons. December arguments will add
+  the Trump administration's third-country deportation policy and a second immigration
+  case on detention without bond hearings.
+nut_graf: The term unfolds against a backdrop of an expanding emergency docket that
+  has doubled the court's output of fast, briefly explained rulings relative to its
+  fully briefed merits decisions, reshaping how the justices handle the most contested
+  questions of the Trump era.
 primary_entities:
 - U.S. Supreme Court
 - Stephen Vladeck
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -126,104 +135,45 @@ related_stories:
   headline: Supreme Court to hear Boulder climate case as states expand EPA lawsuits
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6721
+  strength: 0.6725
 - slug: 2026-09-29-supreme-court-lets-trump-resume-third-country-deportations
   headline: Supreme Court lets Trump resume third-country deportations
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.675
-- slug: 2026-10-01-justices-to-decide-legality-of-indefinite-immigrant-detention-under-1996-law
-  headline: Justices to decide legality of indefinite immigrant detention under 1996 law
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6533
-- slug: 2026-10-01-supreme-court-agrees-to-hear-challenge-to-trump-s-bond-policy-for-detained-immig
-  headline: Supreme Court agrees to hear challenge to Trump's bond policy for detained immigrants
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6448
+  strength: 0.6731
 - slug: 2026-09-24-doj-asks-supreme-court-to-allow-third-country-deportation-policy
   headline: DOJ asks Supreme Court to allow third-country deportation policy
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6576
-- slug: 2026-09-25-jackson-warns-emergency-docket-risks-end-run-around-standard-review
-  headline: Jackson warns emergency docket risks 'end-run around standard review'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6479
+  strength: 0.6561
 - slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
+  headline: Supreme Court expected to rule on birthright citizenship, trans athlete
+    bans on final day
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6887
-- slug: 2026-06-29-eight-cases-on-trump-s-executive-authority-head-supreme-court-s-final-week
-  headline: Eight cases on Trump's executive authority head Supreme Court's final week
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6822
+  strength: 0.6894
 - slug: 2026-06-30-supreme-court-ends-term-with-rulings-on-citizenship-transgender-athletes
   headline: Supreme Court ends term with rulings on citizenship, transgender athletes
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6785
+  strength: 0.6793
+- slug: 2026-06-29-eight-cases-on-trump-s-executive-authority-head-supreme-court-s-final-week
+  headline: Eight cases on Trump's executive authority head Supreme Court's final
+    week
+  publish_date: '2026-06-29'
+  relation: related
+  strength: 0.6804
 - slug: 2026-06-22-supreme-court-to-decide-four-cases-defining-presidential-power
   headline: Supreme Court to decide four cases defining presidential power
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6887
+  strength: 0.6854
 - slug: 2026-07-01-supreme-court-term-yields-mixed-rulings-on-trump-s-executive-authority
   headline: Supreme Court term yields mixed rulings on Trump's executive authority
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6588
-- slug: 2026-06-18-supreme-court-to-rule-on-birthright-citizenship-tps-fed-firing-this-week
-  headline: Supreme Court to rule on birthright citizenship, TPS, Fed firing this week
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6653
-- slug: 2026-06-04-supreme-court-term-yields-blockbuster-rulings-on-trade-voting-rights
-  headline: Supreme Court term yields blockbuster rulings on trade, voting rights
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6766
-- slug: 2026-04-20-supreme-court-takes-up-catholic-preschool-funding-case
-  headline: Supreme Court takes up Catholic preschool funding case
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6974
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6407
-- slug: 2026-05-26-supreme-court-sides-with-trump-in-immigration-judges-speech-case
-  headline: Supreme Court sides with Trump in immigration judges' speech case
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6685
-- slug: 2026-06-10-supreme-court-debates-which-founding-fathers-were-drunks
-  headline: Supreme Court Debates Which Founding Fathers Were Drunks
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6446
-- slug: 2026-03-31-supreme-court-hears-trump-bid-to-end-birthright-citizenship
-  headline: Supreme Court hears Trump bid to end birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6623
-- slug: 2026-02-23-supreme-court-agrees-to-hear-climate-change-lawsuit-against-oil-and-gas-firms
-  headline: Supreme Court agrees to hear climate change lawsuit against oil and gas firms
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6694
-- slug: 2026-03-31-supreme-court-weighs-trump-bid-to-limit-birthright-citizenship
-  headline: Supreme Court weighs Trump bid to limit birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.66
+  strength: 0.6578
 ---
-
 ## Supreme Court opens new term with major religion, guns, climate cases
 
 **Subtype:** fact

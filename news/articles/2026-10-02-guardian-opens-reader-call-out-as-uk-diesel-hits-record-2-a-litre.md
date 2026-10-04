@@ -1,9 +1,20 @@
 ---
 headline: Guardian opens reader call-out as UK diesel hits record £2 a litre
-secondary_headline: UK forecourt diesel price up 40.5% since late February, Guardian says
+secondary_headline: UK forecourt diesel price up 40.5% since late February, Guardian
+  says
 publish_date: '2026-10-02'
-lede: The Guardian opened a reader call-out on 2 October 2026 asking people in the UK how the rising cost of diesel is affecting them, with responses accepted anonymously through an encrypted form. The newspaper published the appeal in the same article in which it reported that the average price of diesel at UK forecourts had climbed to a record £2 a litre, up 40.5% since late February. The Guardian attributed the increase to the US-Israel war on Iran disrupting supplies of crude and refined oil products from the Gulf.
-nut_graf: The Guardian described diesel as 'the single biggest cost for many independent traders and small business owners, powering transport, tools, machinery and services' and 'the economic lifeblood for farmers, and logistics and haulage businesses.' The call-out asks UK readers whether they are cutting back on driving or using machines, or making savings in other areas.
+lede: The Guardian opened a reader call-out on 2 October 2026 asking people in the
+  UK how the rising cost of diesel is affecting them, with responses accepted anonymously
+  through an encrypted form. The newspaper published the appeal in the same article
+  in which it reported that the average price of diesel at UK forecourts had climbed
+  to a record £2 a litre, up 40.5% since late February. The Guardian attributed the
+  increase to the US-Israel war on Iran disrupting supplies of crude and refined oil
+  products from the Gulf.
+nut_graf: The Guardian described diesel as 'the single biggest cost for many independent
+  traders and small business owners, powering transport, tools, machinery and services'
+  and 'the economic lifeblood for farmers, and logistics and haulage businesses.'
+  The call-out asks UK readers whether they are cutting back on driving or using machines,
+  or making savings in other areas.
 primary_entities:
 - United Kingdom
 - The Guardian
@@ -36,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -114,108 +126,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
+  headline: Cornwall Insight projects 16% rise in UK energy price cap
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7622
 - slug: 2026-10-02-uk-diesel-average-breaks-2-a-litre-for-the-first-time
   headline: UK diesel average breaks £2 a litre for the first time
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.755
+  strength: 0.7535
 - slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
   headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.779
+  strength: 0.7769
 - slug: 2026-10-02-shropshire-lorry-training-firm-riding-out-record-uk-diesel-prices
   headline: Shropshire lorry training firm 'riding out' record UK diesel prices
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7149
+  strength: 0.714
 - slug: 2026-10-02-northern-ireland-diesel-prices-reach-highest-level-since-iran-conflict-began
-  headline: Northern Ireland diesel prices reach highest level since Iran conflict began
+  headline: Northern Ireland diesel prices reach highest level since Iran conflict
+    began
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7074
+  strength: 0.7068
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7075
+  strength: 0.7068
 - slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
   headline: UK diesel prices head toward £2 a litre as wars cut global refining
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7663
+  strength: 0.7649
 - slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
   headline: Healey says UK preparing for diesel export ban as fuel prices hit record
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7189
-- slug: 2026-10-02-macquarie-says-g7-diesel-release-won-t-fix-us-energy-problem
-  headline: Macquarie says G7 diesel release won't fix US energy problem
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6848
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6802
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6731
-- slug: 2026-09-29-uk-and-france-push-back-on-trump-s-diesel-export-ban-plan
-  headline: UK and France push back on Trump's diesel export ban plan
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6642
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6656
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6668
-- slug: 2026-09-21-black-farmers-leader-says-diesel-at-7-a-gallon-is-straining-farm-budgets
-  headline: Black farmers leader says diesel at $7 a gallon is straining farm budgets
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6671
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6926
-- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
-  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6741
-- slug: 2026-09-16-iran-war-adds-107-billion-to-us-fuel-costs-brown-estimates
-  headline: Iran war adds $107 billion to US fuel costs, Brown estimates
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6681
-- slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7092
-- slug: 2026-09-11-average-us-diesel-price-crosses-6-per-gallon-for-the-first-time
-  headline: Average US diesel price crosses $6 per gallon for the first time
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6701
-- slug: 2026-08-18-diesel-prices-climb-as-global-buyers-compete-for-shrinking-supply
-  headline: Diesel prices climb as global buyers compete for shrinking supply
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6841
+  strength: 0.7179
 ---
-
 ## Guardian opens reader call-out as UK diesel hits record £2 a litre
 
 **Subtype:** fact

@@ -1,12 +1,21 @@
 ---
-headline: Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
+headline: Greek life expansion spreads at US colleges as Cornell allegations draw
+  scrutiny
 secondary_headline: Last year, at least 10 schools invited fraternities onto campus
 publish_date: '2026-10-03'
-lede: 'A September lawsuit alleges that seven members of Cornell University''s Chi Phi fraternity gang-raped an undergraduate woman over several hours, according to The Wall Street Journal. The complaint includes a screenshot of a group chat fraternity brothers allegedly used to invite others to join them in the assault.
+lede: 'A September lawsuit alleges that seven members of Cornell University''s Chi
+  Phi fraternity gang-raped an undergraduate woman over several hours, according to
+  The Wall Street Journal. The complaint includes a screenshot of a group chat fraternity
+  brothers allegedly used to invite others to join them in the assault.
 
 
-  The allegations come as fraternity membership in the United States has rebounded to 6.38 percent of men in 2024 — up from a 2020 low — and as at least 10 schools have added or expanded Greek chapters in the last year, the Journal reported.'
-nut_graf: The Cornell allegations and other recent fraternity scandals come as universities including Southern Methodist, Molloy and Shenandoah have moved to expand or reintroduce Greek life, fueling calls to curb the system even as administrators cite unmet student demand.
+  The allegations come as fraternity membership in the United States has rebounded
+  to 6.38 percent of men in 2024 — up from a 2020 low — and as at least 10 schools
+  have added or expanded Greek chapters in the last year, the Journal reported.'
+nut_graf: The Cornell allegations and other recent fraternity scandals come as universities
+  including Southern Methodist, Molloy and Shenandoah have moved to expand or reintroduce
+  Greek life, fueling calls to curb the system even as administrators cite unmet student
+  demand.
 primary_entities:
 - Cornell University
 - Chi Phi fraternity
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,106 +157,49 @@ related_stories:
   headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7644
+  strength: 0.7621
 - slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent probe of Cornell's 2024 assault response
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7406
+  strength: 0.7372
 - slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
+  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang
+    rape
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7443
+  strength: 0.742
 - slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
   headline: Cornell accuser told campus police 'I was raped' in 2024 interview
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7247
+  strength: 0.7221
+- slug: 2026-10-03-rebecca-solnit-links-alleged-cornell-gang-rape-to-broader-rape-prone-culture
+  headline: Rebecca Solnit links alleged Cornell gang rape to broader 'rape-prone'
+    culture
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6938
 - slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
+  headline: Cornell task force finds 35% of undergrad women reported nonconsensual
+    sexual contact
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7221
+  strength: 0.7202
 - slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6839
+  strength: 0.6805
 - slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
+  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape
+    case
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6969
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6921
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6559
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6632
-- slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6481
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6389
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6571
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6401
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.653
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6197
-- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
-  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6207
-- slug: 2026-09-26-madison-police-arrest-two-in-uw-madison-fraternity-hazing-investigation
-  headline: Madison police arrest two in UW-Madison fraternity hazing investigation
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6256
-- slug: 2026-09-28-arizona-suspends-sigma-tau-gamma-chapter-over-alleged-live-goldfish-hazing
-  headline: Arizona suspends Sigma Tau Gamma chapter over alleged live-goldfish hazing
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6063
-- slug: 2026-09-22-cornell-faculty-report-declares-higher-education-crisis-unprecedented
-  headline: Cornell faculty report declares higher education crisis unprecedented
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6135
+  strength: 0.6955
 analyses:
-- '2026-10-03-greek-life-expansion-tests-whether-documented-chapter-harms-and-student-demand-c'
+- 2026-10-03-greek-life-expansion-tests-whether-documented-chapter-harms-and-student-demand-c
 ---
-
 ## Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
 
 - A September lawsuit alleges that seven members of Cornell University's Chi Phi fraternity gang-raped an undergraduate woman over several hours, according to The Wall Street Journal.

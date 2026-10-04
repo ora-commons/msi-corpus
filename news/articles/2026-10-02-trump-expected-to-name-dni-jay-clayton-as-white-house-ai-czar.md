@@ -1,12 +1,23 @@
 ---
 headline: Trump expected to name DNI Jay Clayton as White House AI czar
-secondary_headline: White House weighs voluntary self-regulation against calls for stronger action
+secondary_headline: White House weighs voluntary self-regulation against calls for
+  stronger action
 publish_date: '2026-10-02'
-lede: 'President Trump is expected to name Director of National Intelligence Jay Clayton as the White House artificial-intelligence czar, according to people familiar with the decision, in a move that would fold AI policy coordination under the nation''s top intelligence official.
+lede: 'President Trump is expected to name Director of National Intelligence Jay Clayton
+  as the White House artificial-intelligence czar, according to people familiar with
+  the decision, in a move that would fold AI policy coordination under the nation''s
+  top intelligence official.
 
 
-  The decision is not final, the people said, and no official announcement has been made. Trump said on Tuesday that he wants input from tech companies, House Speaker Mike Johnson (R., La.), and Senate Majority Leader John Thune (R., S.D.) before announcing a final choice.'
-nut_graf: The expected appointment comes as the White House navigates an internal split over how to address artificial intelligence's security risks and declining public standing, with chief of staff Susie Wiles and Treasury Secretary Scott Bessent pushing for stronger government action on potential cyberattacks and biological-weapons risks enabled by the technology.
+  The decision is not final, the people said, and no official announcement has been
+  made. Trump said on Tuesday that he wants input from tech companies, House Speaker
+  Mike Johnson (R., La.), and Senate Majority Leader John Thune (R., S.D.) before
+  announcing a final choice.'
+nut_graf: The expected appointment comes as the White House navigates an internal
+  split over how to address artificial intelligence's security risks and declining
+  public standing, with chief of staff Susie Wiles and Treasury Secretary Scott Bessent
+  pushing for stronger government action on potential cyberattacks and biological-weapons
+  risks enabled by the technology.
 primary_entities:
 - Jay Clayton
 - Donald Trump
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -121,6 +133,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-03-white-house-forms-ai-task-force-names-dni-s-clayton-as-chair
+  headline: White House forms AI task force, names DNI's Clayton as chair
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.8363
 - slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
   headline: Trump tells White House tech CEOs self-regulation is 'very important'
   publish_date: '2026-09-29'
@@ -130,99 +147,33 @@ related_stories:
   headline: Trump, AI executives sign voluntary self-policing accord
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7266
+  strength: 0.7267
 - slug: 2026-09-29-trump-tech-ceos-sign-morally-binding-voluntary-ai-self-policing-deal
   headline: Trump, tech CEOs sign 'morally binding' voluntary AI self-policing deal
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7242
+  strength: 0.7241
 - slug: 2026-09-30-white-house-ai-accord-misspells-united-states-under-trump-s-signature
   headline: White House AI accord misspells 'United States' under Trump's signature
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7152
+  strength: 0.7149
 - slug: 2026-09-19-trump-launches-ai-force-oversight-unit-recruiting-ai-czar
   headline: Trump launches 'AI Force' oversight unit, recruiting AI czar
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7413
+  strength: 0.7418
 - slug: 2026-09-19-trump-calls-ai-safety-fears-a-hoax-as-stocks-for-ai-companies-fall
   headline: Trump calls AI safety fears a 'hoax' as stocks for AI companies fall
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7297
+  strength: 0.73
 - slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
   headline: Trump, Xi set to discuss AI as both reject slowdown
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7009
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7165
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7077
-- slug: 2026-09-17-wiles-bessent-press-trump-on-ai-guardrails-as-tech-ceos-resist-oversight
-  headline: Wiles, Bessent press Trump on AI guardrails as tech CEOs resist oversight
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7077
-- slug: 2026-08-04-clayton-sworn-in-tuesday-as-ninth-director-of-national-intelligence
-  headline: Clayton sworn in Tuesday as ninth director of national intelligence
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7283
-- slug: 2026-08-01-clayton-to-assume-national-intelligence-director-role-monday
-  headline: Clayton to assume national intelligence director role Monday
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7306
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6954
-- slug: 2026-07-21-senate-panel-advances-jay-clayton-s-dni-nomination-along-party-lines
-  headline: Senate panel advances Jay Clayton's DNI nomination along party lines
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7352
-- slug: 2026-07-27-senate-to-begin-voting-on-trump-intelligence-nominee-jay-clayton
-  headline: Senate to begin voting on Trump intelligence nominee Jay Clayton
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7214
-- slug: 2026-07-15-trump-dni-nominee-clayton-tells-senate-biden-was-certified-avoids-saying-he-won
-  headline: Trump DNI nominee Clayton tells Senate Biden was certified, avoids saying he won
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7366
-- slug: 2026-07-28-senate-advances-jay-clayton-s-dni-nomination-final-vote-expected-tuesday
-  headline: Senate advances Jay Clayton's DNI nomination, final vote expected Tuesday
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7028
-- slug: 2026-07-30-trump-signals-shift-toward-ai-controls-after-openai-hacking-incidents
-  headline: Trump signals shift toward AI controls after OpenAI hacking incidents
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6951
-- slug: 2026-06-11-trump-nominates-jay-clayton-as-top-us-intelligence-official-after-pulte-pushback
-  headline: Trump nominates Jay Clayton as top US intelligence official after Pulte pushback
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7707
-- slug: 2026-07-10-jay-clayton-s-dni-confirmation-hearing-rescheduled-for-july-15
-  headline: Jay Clayton's DNI confirmation hearing rescheduled for July 15
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7133
+  strength: 0.7008
 ---
-
 ## Trump expected to name DNI Jay Clayton as White House AI czar
 
 **Subtype:** fact

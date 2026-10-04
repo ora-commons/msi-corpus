@@ -2,7 +2,10 @@
 headline: Hochul criticizes Cornell's handling of sexual assault case
 secondary_headline: Governor names AG James as special prosecutor
 publish_date: '2026-10-02'
-lede: New York Governor Kathy Hochul criticized Cornell University for how the school handled an alleged sexual assault case, The Guardian reported in a video published October 2, 2026. Hochul used the public remarks to announce she had appointed state Attorney General Letitia James to serve as special prosecutor in the matter.
+lede: New York Governor Kathy Hochul criticized Cornell University for how the school
+  handled an alleged sexual assault case, The Guardian reported in a video published
+  October 2, 2026. Hochul used the public remarks to announce she had appointed state
+  Attorney General Letitia James to serve as special prosecutor in the matter.
 primary_entities:
 - Kathy Hochul
 - Letitia James
@@ -38,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,7 +146,8 @@ related_stories:
   relation: related
   strength: 0.8219
 - slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
+  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape
+    case
   publish_date: '2026-10-02'
   relation: related
   strength: 0.814
@@ -152,7 +157,8 @@ related_stories:
   relation: related
   strength: 0.8087
 - slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
+  headline: Cornell student assembly calls for answers as Hochul appoints special
+    prosecutor
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7958
@@ -166,78 +172,17 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.7566
+- slug: 2026-10-02-lawyer-for-cornell-accuser-accuses-tompkins-da-of-changing-story
+  headline: Lawyer for Cornell accuser accuses Tompkins DA of changing story
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.737
 - slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7345
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6608
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6418
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6602
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6469
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.617
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6193
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6069
-- slug: 2026-09-24-sherrill-seeks-caldwell-s-resignation-over-harassment-ethics-probe
-  headline: Sherrill seeks Caldwell's resignation over harassment, ethics probe
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6185
-- slug: 2026-09-25-new-jersey-lt-gov-caldwell-resigns-after-harassment-ethics-probe
-  headline: New Jersey Lt. Gov. Caldwell resigns after harassment, ethics probe
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6064
-- slug: 2026-09-22-cornell-faculty-report-declares-higher-education-crisis-unprecedented
-  headline: Cornell faculty report declares higher education crisis unprecedented
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6136
-- slug: 2026-09-14-former-columbia-student-khalil-sues-university-over-failure-to-protect-pro-pales
-  headline: Former Columbia student Khalil sues university over failure to protect pro-Palestinian students
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6116
 ---
-
 ## Hochul criticizes Cornell's handling of sexual assault case
 
 **Subtype:** fact

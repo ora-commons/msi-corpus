@@ -1,9 +1,23 @@
 ---
 headline: Brazil AG office reportedly files complaint over Trump funding plan
-secondary_headline: More than $175 million in State Department awards aimed at Brazil supreme court
+secondary_headline: More than $175 million in State Department awards aimed at Brazil
+  supreme court
 publish_date: '2026-10-01'
-lede: Brazil's attorney general said foreign meddling in Brazilian institutions "cannot be tolerated" on Thursday, calling a Guardian report on Trump administration plans to direct more than $175 million in State Department human rights funds toward grants including a campaign against Brazil's supreme court "an important alert for Brazilian sovereignty." The Brazilian television network GloboNews reported that the attorney general's office filed a criminal complaint Thursday to investigate potential wrongdoing in response to the story. Brazil's presidential election is three days away, with Luiz Inácio Lula da Silva, whom the Guardian describes as the leftwing incumbent, running against Flávio Bolsonaro, a Trump ally the Guardian describes as his "far-right rival," in a race the polls show roughly even.
-nut_graf: According to the Guardian, the proposed State Department awards include a $40 million anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, and a $1 million award titled "Countering lawfare and censorship in Brazil" that would fund civil society groups opposing what the proposal describes as judicial overreach and censorship by Brazil's supreme court.
+lede: Brazil's attorney general said foreign meddling in Brazilian institutions "cannot
+  be tolerated" on Thursday, calling a Guardian report on Trump administration plans
+  to direct more than $175 million in State Department human rights funds toward grants
+  including a campaign against Brazil's supreme court "an important alert for Brazilian
+  sovereignty." The Brazilian television network GloboNews reported that the attorney
+  general's office filed a criminal complaint Thursday to investigate potential wrongdoing
+  in response to the story. Brazil's presidential election is three days away, with
+  Luiz Inácio Lula da Silva, whom the Guardian describes as the leftwing incumbent,
+  running against Flávio Bolsonaro, a Trump ally the Guardian describes as his "far-right
+  rival," in a race the polls show roughly even.
+nut_graf: According to the Guardian, the proposed State Department awards include
+  a $40 million anti-communism fund, support for a group advancing white Afrikaner
+  rights in South Africa, and a $1 million award titled "Countering lawfare and censorship
+  in Brazil" that would fund civil society groups opposing what the proposal describes
+  as judicial overreach and censorship by Brazil's supreme court.
 primary_entities:
 - Jorge Messias
 - Luiz Inácio Lula da Silva
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +158,44 @@ related_stories:
   headline: Trump administration pushes $176M human rights fund to 43 awards
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7431
+  strength: 0.7422
+- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
+  headline: Brazil's tight election tests its ability to say 'no' to Trump
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6673
 - slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
   headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7015
+  strength: 0.7017
 - slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
   headline: Democrats ask Rubio to address alleged US interference in Brazil election
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6992
-- slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
-  headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6413
+  strength: 0.6987
 - slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
   headline: Flávio Bolsonaro formally investigated over alleged corruption
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6616
-- slug: 2026-09-13-brazil-s-top-court-lifts-secrecy-on-flavio-bolsonaro-biopic-probe
-  headline: Brazil's top court lifts secrecy on Flavio Bolsonaro biopic probe
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-09-brazil-supreme-court-justices-clash-over-police-leadership-ahead-of-election
-  headline: Brazil Supreme Court justices clash over police leadership ahead of election
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6477
+  strength: 0.6612
 - slug: 2026-08-12-us-grants-to-uk-conservative-groups-draw-foreign-meddling-accusations
   headline: US grants to UK conservative groups draw foreign meddling accusations
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.6874
-- slug: 2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs
-  headline: Brazil opens 60-day consultation window on U.S. tariffs
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6504
+  strength: 0.6865
 - slug: 2026-08-08-us-embassy-seeks-applicants-for-500-000-uk-public-education-grants
   headline: US embassy seeks applicants for $500,000 UK public education grants
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.651
+  strength: 0.6503
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6709
-- slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
-  headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6623
-- slug: 2026-07-16-merz-warns-u-s-against-funding-european-groups-tied-to-maga-movement
-  headline: Merz warns U.S. against funding European groups tied to MAGA movement
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6875
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6672
-- slug: 2026-08-05-us-revokes-brazil-ambassador-s-visa-in-diplomatic-escalation
-  headline: US revokes Brazil ambassador's visa in diplomatic escalation
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6382
-- slug: 2026-07-18-u-s-imposes-25-tariff-on-brazilian-goods-citing-pix-payment-system
-  headline: U.S. imposes 25% tariff on Brazilian goods, citing PIX payment system
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6476
-- slug: 2026-07-07-brazil-warns-u-s-terror-designation-of-gangs-risks-military-action
-  headline: Brazil warns U.S. terror designation of gangs risks military action
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6625
-- slug: 2026-05-13-brazil-government-launches-2-billion-anti-organized-crime-program-ahead-of-elect
-  headline: Brazil government launches $2 billion anti-organized crime program ahead of elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6802
-- slug: 2026-06-17-brazil-court-convicts-eduardo-bolsonaro-of-coercion-sentences-him-to-4-years
-  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to 4 years
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.643
-- slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
-  headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6373
+  strength: 0.6707
 ---
-
 ## Brazil AG office reportedly files complaint over Trump funding plan
 
 **Subtype:** fact

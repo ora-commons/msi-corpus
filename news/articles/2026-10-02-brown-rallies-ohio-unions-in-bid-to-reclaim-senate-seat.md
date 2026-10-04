@@ -1,9 +1,19 @@
 ---
 headline: Brown rallies Ohio unions in bid to reclaim Senate seat
-secondary_headline: Toss-up race could decide Senate control for Trump's final two years
+secondary_headline: Toss-up race could decide Senate control for Trump's final two
+  years
 publish_date: '2026-10-02'
-lede: Former U.S. Sen. Sherrod Brown received a raucous welcome at the Ohio AFL-CIO's biennial gathering, where he urged union members to talk to fellow workers about his record and the importance of voting. Brown is challenging incumbent Republican Sen. Jon Husted in a race rated a toss-up that could determine control of the Senate for President Trump's final two years. Brown, who lost his seat to GOP businessman Bernie Moreno in 2024 in a year when Trump won the most votes of any presidential candidate in Ohio history, is counting on union members to send him back to Washington after 50 years in public office, including 32 years in Congress.
-nut_graf: The Ohio contest could determine control of the Senate for the final two years of Trump's presidency, and Brown's path back to Washington runs through union households that began shifting to Republicans in 2016.
+lede: Former U.S. Sen. Sherrod Brown received a raucous welcome at the Ohio AFL-CIO's
+  biennial gathering, where he urged union members to talk to fellow workers about
+  his record and the importance of voting. Brown is challenging incumbent Republican
+  Sen. Jon Husted in a race rated a toss-up that could determine control of the Senate
+  for President Trump's final two years. Brown, who lost his seat to GOP businessman
+  Bernie Moreno in 2024 in a year when Trump won the most votes of any presidential
+  candidate in Ohio history, is counting on union members to send him back to Washington
+  after 50 years in public office, including 32 years in Congress.
+nut_graf: The Ohio contest could determine control of the Senate for the final two
+  years of Trump's presidency, and Brown's path back to Washington runs through union
+  households that began shifting to Republicans in 2016.
 primary_entities:
 - Sherrod Brown
 - Jon Husted
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +149,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6412
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6303
-- slug: 2026-09-24-leaked-audio-shows-osborn-calling-border-wall-a-symbol-of-racism
-  headline: Leaked audio shows Osborn calling border wall 'a symbol of racism'
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6346
 - slug: 2026-07-26-brown-runs-to-reclaim-ohio-senate-seat
   headline: Brown runs to reclaim Ohio Senate seat
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.8382
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.61
-- slug: 2026-09-02-teamsters-president-backs-republicans-in-2026-despite-members-backing-democrats
-  headline: Teamsters president backs Republicans in 2026 despite members backing Democrats
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6092
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6454
-- slug: 2026-08-27-ossoff-builds-lead-in-georgia-senate-race-as-national-democrats-take-notice
-  headline: Ossoff builds lead in Georgia Senate race as national Democrats take notice
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6121
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6262
-- slug: 2026-08-10-miller-stays-on-ohio-ballots-after-deadline-to-resign-passes
-  headline: Miller stays on Ohio ballots after deadline to resign passes
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6237
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6435
-- slug: 2026-08-05-house-ethics-committee-opens-probe-into-abuse-claims-against-miller
-  headline: House Ethics Committee opens probe into abuse claims against Miller
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6143
-- slug: 2026-08-04-six-gop-senators-publicly-back-bernie-moreno-in-miller-abuse-dispute
-  headline: Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6138
+  strength: 0.8381
 - slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
   headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7089
+  strength: 0.7082
 - slug: 2026-05-04-what-to-expect-in-ohio-s-statewide-primaries-for-governor-senate-and-house
-  headline: What to expect in Ohio’s statewide primaries for governor, Senate and House
+  headline: What to expect in Ohio’s statewide primaries for governor, Senate and
+    House
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.6911
+  strength: 0.6901
 - slug: 2026-05-03-what-to-expect-in-ohio-s-state-primaries-governor-and-congressional-races
   headline: What to expect in Ohio’s state primaries, governor and congressional races
   publish_date: '2026-05-03'
   relation: related
-  strength: 0.6685
+  strength: 0.6675
 - slug: 2026-04-19-bribery-scandal-shadows-husted-s-ohio-senate-re-election-bid
   headline: Bribery scandal shadows Husted's Ohio Senate re-election bid
   publish_date: '2026-04-19'
   relation: related
-  strength: 0.6674
-- slug: 2026-06-02-paxton-platner-converge-on-washington-as-senate-control-hangs-in-balance
-  headline: Paxton, Platner converge on Washington as Senate control hangs in balance
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.624
-- slug: 2026-05-06-trump-backed-wins-in-indiana-but-democrats-gain-momentum-in-ohio-and-michigan
-  headline: Trump-backed wins in Indiana, but Democrats gain momentum in Ohio and Michigan
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6413
-- slug: 2026-06-01-democrats-court-midwest-autoworkers-as-tariffs-strain-plant-workloads
-  headline: Democrats court Midwest autoworkers as tariffs strain plant workloads
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6212
+  strength: 0.6668
 ---
-
 ## Brown rallies Ohio unions in bid to reclaim Senate seat
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: DOJ dismantles $2 million Hamas funding network in US, France
 secondary_headline: FBI says suspects used cryptocurrency to conceal transfers
 publish_date: '2026-10-02'
-lede: The Justice Department on Friday said it had dismantled a transnational financial network that solicited and provided funds for Hamas, unsealing an indictment and announcing arrests in the United States and France. The case, filed in the Eastern District of Louisiana, involves the FBI, the NYPD and France's General Directorate for Internal Security.
-nut_graf: FBI Director Kash Patel tied the takedown to the bureau's response to the October 2023 Hamas attack on Israel, saying the suspects allegedly used cryptocurrency to conceal transfers in a conspiracy that 'extended beyond national borders.'
+lede: The Justice Department on Friday said it had dismantled a transnational financial
+  network that solicited and provided funds for Hamas, unsealing an indictment and
+  announcing arrests in the United States and France. The case, filed in the Eastern
+  District of Louisiana, involves the FBI, the NYPD and France's General Directorate
+  for Internal Security.
+nut_graf: FBI Director Kash Patel tied the takedown to the bureau's response to the
+  October 2023 Hamas attack on Israel, saying the suspects allegedly used cryptocurrency
+  to conceal transfers in a conspiracy that 'extended beyond national borders.'
 primary_entities:
 - Justice Department
 - FBI
@@ -47,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +152,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-02-stripe-blocks-palestine-action-court-challenge-fundraise-over-us-sanctions
-  headline: Stripe blocks Palestine Action court challenge fundraise over US sanctions
+- slug: 2026-10-02-treasury-sanctions-two-french-charities-three-people-in-alleged-hamas-network
+  headline: Treasury sanctions two French charities, three people in alleged Hamas
+    network
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6063
-- slug: 2026-09-22-spain-lets-us-extradition-case-against-activist-chambers-proceed
-  headline: Spain lets US extradition case against activist Chambers proceed
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5986
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-17-us-sanctions-bitbank-over-hormuz-transit-payments
-  headline: US sanctions BitBank over Hormuz transit payments
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5973
-- slug: 2026-09-16-fbi-charges-five-in-russian-plot-to-kill-ukraine-allies-in-us-europe
-  headline: FBI charges five in Russian plot to kill Ukraine allies in US, Europe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5896
-- slug: 2026-09-12-six-nigerian-fraud-suspects-arrive-in-us-after-cape-town-extradition
-  headline: Six Nigerian fraud suspects arrive in US after Cape Town extradition
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5987
-- slug: 2026-09-13-spanish-council-of-ministers-to-weigh-us-bid-to-extradite-fergie-chambers
-  headline: Spain's council of ministers to weigh US bid to extradite Fergie Chambers
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5916
-- slug: 2026-08-20-treasury-sanctions-yunus-alper-yilmaz-at-center-of-hezbollah-courier-network
-  headline: Treasury sanctions Yunus Alper Yilmaz at center of Hezbollah courier network
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6442
+  strength: 0.835
 - slug: 2026-07-31-uk-arrests-turkish-man-accused-of-funneling-money-to-hamas
   headline: UK arrests Turkish man accused of funneling money to Hamas
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.6717
-- slug: 2026-08-19-us-charges-17-iranians-for-alleged-cyber-theft-of-university-data
-  headline: US charges 17 Iranians for alleged cyber theft of university data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5922
+  strength: 0.6705
 - slug: 2026-07-01-new-york-woman-charged-with-sending-30k-in-crypto-to-palestinian-islamic-jihad
-  headline: New York woman charged with sending $30K in crypto to Palestinian Islamic Jihad
+  headline: New York woman charged with sending $30K in crypto to Palestinian Islamic
+    Jihad
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.685
-- slug: 2026-08-04-hamas-agrees-to-u-s--backed-plan-to-disarm-as-israel-withdraws
-  headline: Hamas agrees to U.S.-backed plan to disarm as Israel withdraws
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5928
-- slug: 2026-07-15-federal-trial-opens-for-israeli-investigator-accused-of-hacking-climate-activist
-  headline: Federal trial opens for Israeli investigator accused of hacking climate activists
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5965
+  strength: 0.6847
 - slug: 2026-05-16-iraqi-man-charged-with-nyc-synagogue-plot-europe-attacks-tied-to-iran-war
-  headline: Iraqi man charged with NYC synagogue plot, Europe attacks tied to Iran war
+  headline: Iraqi man charged with NYC synagogue plot, Europe attacks tied to Iran
+    war
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6605
-- slug: 2026-05-16-iraqi-man-charged-with-supporting-iran-backed-terror-groups-in-plot
-  headline: Iraqi man charged with supporting Iran-backed terror groups in plot
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6503
-- slug: 2026-06-04-california-tech-executive-arrested-for-allegedly-smuggling-us-equipment-to-iran
-  headline: California tech executive arrested for allegedly smuggling US equipment to Iran
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6123
-- slug: 2026-05-12-open-society-foundations-pledge-30m-to-combat-antisemitism-and-anti-muslim-hate
-  headline: Open Society Foundations pledge $30M to combat antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6259
-- slug: 2026-02-03-israeli-police-detain-officials-in-suspected-aid-fraud-after-oct-7
-  headline: Israeli police detain officials in suspected aid fraud after Oct. 7
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6486
-- slug: 2026-05-12-open-society-foundations-commits-30m-to-counter-antisemitism-and-anti-muslim-hat
-  headline: Open Society Foundations commits $30M to counter antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6028
-- slug: 2026-05-10-uk-sanctions-zindashti-network-and-zarringhalam-family-members
-  headline: UK sanctions Zindashti Network and Zarringhalam family members
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6039
+  strength: 0.6601
 ---
-
 ## DOJ dismantles $2 million Hamas funding network in US, France
 
 **Subtype:** fact

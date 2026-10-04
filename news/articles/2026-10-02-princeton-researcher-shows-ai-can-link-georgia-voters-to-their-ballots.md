@@ -2,8 +2,17 @@
 headline: Princeton researcher shows AI can link Georgia voters to their ballots
 secondary_headline: Voting-system overhaul requests went unanswered for three years
 publish_date: '2026-10-02'
-lede: A Princeton postdoctoral researcher used a $20 AI subscription and publicly available election records to identify individual Georgia voters' ballots across most of the state's counties, according to research published last month. Georgia's state elections board held an emergency meeting Thursday to address the vulnerability, less than two weeks before early voting begins in the midterm election that will determine control of the US Congress. Outgoing Secretary of State Brad Raffensperger has ordered the redaction of identifying numbers in cast-vote records, but Secretary of State spokesperson Robert Sinners said the fix came years too late.
-nut_graf: Ballot secrecy is a core safeguard against voter intimidation and coercion, and the demonstrated exploit arrives amid heightened political tensions over Georgia's election machinery in the years since the 2020 presidential election.
+lede: A Princeton postdoctoral researcher used a $20 AI subscription and publicly
+  available election records to identify individual Georgia voters' ballots across
+  most of the state's counties, according to research published last month. Georgia's
+  state elections board held an emergency meeting Thursday to address the vulnerability,
+  less than two weeks before early voting begins in the midterm election that will
+  determine control of the US Congress. Outgoing Secretary of State Brad Raffensperger
+  has ordered the redaction of identifying numbers in cast-vote records, but Secretary
+  of State spokesperson Robert Sinners said the fix came years too late.
+nut_graf: Ballot secrecy is a core safeguard against voter intimidation and coercion,
+  and the demonstrated exploit arrives amid heightened political tensions over Georgia's
+  election machinery in the years since the 2020 presidential election.
 primary_entities:
 - Georgia
 - Princeton University
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,45 @@ related_stories:
   headline: Solicitor general files appeal to revive blocked immigration-voter database
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6669
-- slug: 2026-09-10-boyd-links-erosion-of-census-safeguards-to-administration-actions
-  headline: Boyd links erosion of census safeguards to administration actions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6499
+  strength: 0.6655
 - slug: 2026-09-01-whistleblower-report-warns-usps-portal-may-disrupt-midterm-voting
   headline: Whistleblower report warns USPS portal may disrupt midterm voting
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6544
-- slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
-  headline: Census noncitizen voting report tied to Trump-aligned think tank
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6516
+  strength: 0.6527
 - slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
   headline: Trump administration election push faces court losses, bipartisan resistance
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6683
+  strength: 0.6648
 - slug: 2026-07-21-software-bug-in-new-jersey-motor-vehicle-system-registered-6-600-noncitizens-to-
-  headline: Software bug in New Jersey motor vehicle system registered 6,600 noncitizens to vote
+  headline: Software bug in New Jersey motor vehicle system registered 6,600 noncitizens
+    to vote
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6546
+  strength: 0.6553
 - slug: 2026-06-14-georgia-lawmakers-seek-fix-for-banned-vote-counting-method-in-special-session
-  headline: Georgia lawmakers seek fix for banned vote-counting method in special session
+  headline: Georgia lawmakers seek fix for banned vote-counting method in special
+    session
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.6941
+  strength: 0.6946
 - slug: 2026-07-02-fbi-directs-260-analysts-to-fulton-county-2020-election-probe
   headline: FBI directs 260 analysts to Fulton County 2020 election probe
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6605
+  strength: 0.658
 - slug: 2026-06-22-georgia-lawmakers-battle-over-hand-count-mandate-in-special-session
   headline: Georgia lawmakers battle over hand-count mandate in special session
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6669
+  strength: 0.6675
 - slug: 2026-06-23-georgia-keeps-qr-code-voting-method-through-midterm-elections
   headline: Georgia keeps QR-code voting method through midterm elections
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6502
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6572
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6542
-- slug: 2026-02-05-legal-fight-escalates-in-georgia-over-fbi-held-2020-election-records
-  headline: Legal fight escalates in Georgia over FBI-held 2020 election records
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.714
-- slug: 2026-01-22-georgia-lieutenant-governor-revives-2020-election-dispute-in-gop-primary-race
-  headline: Georgia lieutenant governor revives 2020 election dispute in GOP primary race
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7072
-- slug: 2026-05-06-justice-department-seeks-names-of-2020-fulton-county-election-workers
-  headline: Justice Department seeks names of 2020 Fulton County election workers
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6695
-- slug: 2026-04-04-georgia-lawmakers-end-session-without-voting-machine-plan-for-2026
-  headline: Georgia lawmakers end session without voting-machine plan for 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6723
-- slug: 2026-05-14-georgia-governor-signs-law-removing-party-labels-from-atlanta-area-elections
-  headline: Georgia governor signs law removing party labels from Atlanta-area elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6497
-- slug: 2026-05-17-georgia-voters-pick-gop-governor-and-senate-nominees-in-tuesday-primaries
-  headline: Georgia voters pick GOP governor and Senate nominees in Tuesday primaries
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6465
-- slug: 2026-01-30-fbi-seizes-georgia-ballots-reinforcing-trump-s-2020-election-grievance
-  headline: FBI seizes Georgia ballots, reinforcing Trump’s 2020 election grievance
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6768
-- slug: 2026-03-19-republicans-face-hurdles-replacing-georgia-touch-screen-voting-machines
-  headline: Republicans face hurdles replacing Georgia touch-screen voting machines
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6627
+  strength: 0.6508
 ---
-
 ## Princeton researcher shows AI can link Georgia voters to their ballots
 
 **Subtype:** fact

@@ -1,9 +1,16 @@
 ---
 headline: Paramount names combined company Skydance ahead of Tuesday close
-secondary_headline: Federal settlement commits new company to at least 30 films a year
+secondary_headline: Federal settlement commits new company to at least 30 films a
+  year
 publish_date: '2026-10-03'
-lede: Paramount CEO David Ellison said Friday the newly combined company of Paramount and Warner Bros. Discovery will be named Skydance, with the $81 billion deal expected to close Tuesday. The combination brings together CBS, HBO, CNN, two major studios, and the Paramount+ and HBO Max streaming services into one of the world's largest media and entertainment companies.
-nut_graf: The announcement comes as Ellison prepares to integrate the two companies, cut billions in costs, and manage nearly $80 billion in debt while meeting legal commitments reached in a federal antitrust settlement this week.
+lede: Paramount CEO David Ellison said Friday the newly combined company of Paramount
+  and Warner Bros. Discovery will be named Skydance, with the $81 billion deal expected
+  to close Tuesday. The combination brings together CBS, HBO, CNN, two major studios,
+  and the Paramount+ and HBO Max streaming services into one of the world's largest
+  media and entertainment companies.
+nut_graf: The announcement comes as Ellison prepares to integrate the two companies,
+  cut billions in costs, and manage nearly $80 billion in debt while meeting legal
+  commitments reached in a federal antitrust settlement this week.
 primary_entities:
 - David Ellison
 - Paramount
@@ -52,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,104 +142,45 @@ related_stories:
   headline: Ellison says combined Paramount-Warner will be renamed Skydance
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8724
+  strength: 0.8727
 - slug: 2026-09-30-paramount-warner-merger-could-close-next-week-cnn-reports
   headline: Paramount-Warner merger could close next week, CNN reports
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8611
+  strength: 0.8612
 - slug: 2026-09-30-federal-judge-approves-paramount-settlement-clearing-81b-warner-deal
   headline: Federal judge approves Paramount settlement, clearing $81B Warner deal
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7889
+  strength: 0.7891
 - slug: 2026-09-30-mattel-ceo-ynon-kreiz-to-serve-as-paramount-warner-co-ceo
   headline: Mattel CEO Ynon Kreiz to serve as Paramount-Warner co-CEO
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7783
+  strength: 0.778
 - slug: 2026-09-22-paramount-settles-state-antitrust-suit-clearing-path-for-81b-warner-merger
-  headline: Paramount settles state antitrust suit, clearing path for $81B Warner merger
+  headline: Paramount settles state antitrust suit, clearing path for $81B Warner
+    merger
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7947
+  strength: 0.7948
 - slug: 2026-09-22-paramount-warner-debt-of-nearly-80-billion-called-staggering-by-analyst
   headline: Paramount-Warner debt of nearly $80 billion called 'staggering' by analyst
   publish_date: '2026-09-22'
   relation: related
   strength: 0.7926
 - slug: 2026-09-21-paramount-skydance-settles-lawsuit-with-dozens-of-us-states-over-warner-merger
-  headline: Paramount Skydance settles lawsuit with dozens of US states over Warner merger
+  headline: Paramount Skydance settles lawsuit with dozens of US states over Warner
+    merger
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7779
+  strength: 0.778
 - slug: 2026-09-21-paramount-discusses-1-5-billion-california-investment-in-merger-settlement
   headline: Paramount discusses $1.5 billion California investment in merger settlement
   publish_date: '2026-09-21'
   relation: related
   strength: 0.7683
-- slug: 2026-09-21-paramount-strikes-deal-with-12-state-ags-to-resolve-111b-warner-bros-lawsuit
-  headline: Paramount strikes deal with 12 state AGs to resolve $111B Warner Bros. lawsuit
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7253
-- slug: 2026-09-18-paramount-in-advanced-settlement-talks-with-california-on-warner-antitrust-suit
-  headline: Paramount in advanced settlement talks with California on Warner antitrust suit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7404
-- slug: 2026-08-22-paramount-california-to-begin-settlement-talks-on-81b-warner-merger
-  headline: Paramount, California to begin settlement talks on $81B Warner merger
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7523
-- slug: 2026-07-24-paramount-agrees-to-pause-warner-bros-merger-until-june-2027
-  headline: Paramount agrees to pause Warner Bros. merger until June 2027
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7863
-- slug: 2026-04-22-hbo-max-and-paramount-to-merge-under-paramount-if-warner-deal-clears
-  headline: HBO Max and Paramount+ to merge under Paramount if Warner deal clears
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.8336
-- slug: 2026-04-23-hbo-max-and-paramount-on-1-platform-what-a-warner-paramount-deal-could-mean
-  headline: 'HBO Max and Paramount+ on 1 platform: What a Warner-Paramount deal could mean'
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.8239
-- slug: 2026-06-05-states-prepare-antitrust-lawsuit-to-block-111b-paramount-warner-merger
-  headline: States prepare antitrust lawsuit to block $111B Paramount-Warner merger
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7918
-- slug: 2026-06-12-justice-department-oks-paramount-s-81b-purchase-of-warner-bros
-  headline: Justice Department OKs Paramount's $81B purchase of Warner Bros.
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7672
-- slug: 2026-04-24-warner-bros-shareholders-approve-paramount-s-81-billion-takeover
-  headline: Warner Bros shareholders approve Paramount’s $81 billion takeover
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.7796
-- slug: 2026-06-16-paramount-skydance-rejects-ad-criticizing-its-owners-and-warner-bros-merger
-  headline: Paramount Skydance rejects ad criticizing its owners and Warner Bros. merger
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7333
-- slug: 2026-06-15-doj-cleared-paramount-warner-bid-over-staff-concerns
-  headline: DOJ cleared Paramount's Warner bid over staff antitrust concerns
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7308
-- slug: 2026-02-28-paramount-wins-heated-fight-for-warner-but-regulators-could-still-kill-the-deal
-  headline: Paramount wins heated fight for Warner but regulators could still kill the deal
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7714
 ---
-
 ## Paramount names combined company Skydance ahead of Tuesday close
 
 **Subtype:** fact

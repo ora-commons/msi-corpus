@@ -1,9 +1,20 @@
 ---
 headline: Rebecca Solnit links alleged Cornell gang rape to broader 'rape-prone' culture
-secondary_headline: Column cites Sanday research, Phi Kappa Psi hazing death, Title IX rollback
+secondary_headline: Column cites Sanday research, Phi Kappa Psi hazing death, Title
+  IX rollback
 publish_date: '2026-10-03'
-lede: Guardian columnist Rebecca Solnit published an opinion column in The Guardian on October 3, 2026, arguing that the public response to an alleged 2024 gang rape at Cornell University misidentifies the scale of campus sexual violence. The column, titled 'We live in a rape-prone society. The horrific Cornell case reveals what that looks like,' frames the allegations against seven male students within what Solnit described as a 'rape-prone' society rooted in definitions of masculinity and femininity that she ties to fraternity culture and broader patterns of gender inequality.
-nut_graf: Solnit's column adds an anthropological and cultural frame to ongoing national coverage of the alleged 2024 Cornell case. The Guardian piece follows civil litigation, federal Title IX rule changes, and advocacy-organization responses that have intersected with the allegations.
+lede: Guardian columnist Rebecca Solnit published an opinion column in The Guardian
+  on October 3, 2026, arguing that the public response to an alleged 2024 gang rape
+  at Cornell University misidentifies the scale of campus sexual violence. The column,
+  titled 'We live in a rape-prone society. The horrific Cornell case reveals what
+  that looks like,' frames the allegations against seven male students within what
+  Solnit described as a 'rape-prone' society rooted in definitions of masculinity
+  and femininity that she ties to fraternity culture and broader patterns of gender
+  inequality.
+nut_graf: Solnit's column adds an anthropological and cultural frame to ongoing national
+  coverage of the alleged 2024 Cornell case. The Guardian piece follows civil litigation,
+  federal Title IX rule changes, and advocacy-organization responses that have intersected
+  with the allegations.
 primary_entities:
 - Rebecca Solnit
 - Cornell University
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -130,104 +142,44 @@ related_stories:
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7438
+  strength: 0.7434
 - slug: 2026-10-03-greek-life-expansion-spreads-at-us-colleges-as-cornell-allegations-draw-scrutiny
-  headline: Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
+  headline: Greek life expansion spreads at US colleges as Cornell allegations draw
+    scrutiny
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7268
+  strength: 0.7275
 - slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
   headline: Cornell accuser told campus police 'I was raped' in 2024 interview
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7474
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7395
+  strength: 0.7475
 - slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
   headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7246
+  strength: 0.7245
+- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
+  headline: Hochul calls for independent probe of Cornell's 2024 assault response
+  publish_date: '2026-09-30'
+  relation: related
+  strength: 0.7381
 - slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
   headline: Trump administration reverts Title IX rules to 2020 framework
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.732
+  strength: 0.7312
 - slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
   headline: Sexual assault survivors navigate parallel campus and criminal tracks
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.724
+  strength: 0.7233
 - slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
   headline: Lawyer says Cornell health system failed student rape accuser
   publish_date: '2026-10-01'
   relation: related
   strength: 0.7075
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7184
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7084
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.677
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.699
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6987
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6641
-- slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
-  headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6605
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6762
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6762
-- slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.655
-- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
-  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6475
-- slug: 2026-10-02-hochul-criticizes-cornell-s-handling-of-sexual-assault-case
-  headline: Hochul criticizes Cornell's handling of sexual assault case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6214
 ---
-
 ## Rebecca Solnit links alleged Cornell gang rape to broader 'rape-prone' culture
 **Subtype:** fact
 

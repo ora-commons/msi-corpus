@@ -1,9 +1,17 @@
 ---
 headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-secondary_headline: Alumni pledge to halt donations until Cornell discloses evidence handling
+secondary_headline: Alumni pledge to halt donations until Cornell discloses evidence
+  handling
 publish_date: '2026-10-02'
-lede: New York Gov. Kathy Hochul on Thursday appointed state Attorney General Letitia James as special prosecutor to investigate an alleged 2024 rape at Cornell University, saying she had lost faith in the county prosecutor handling the case. Hours earlier, Cornell's student assembly passed a resolution calling on administrators to provide a complete, "plain-language" explanation of the outcome of their internal investigation into the former student's claims.
-nut_graf: The case has drawn scrutiny from the governor's office, alumni donors, Ithaca city officials and the student body, and leaves unresolved questions about what campus police told prosecutors and why no charges were filed in 2024.
+lede: New York Gov. Kathy Hochul on Thursday appointed state Attorney General Letitia
+  James as special prosecutor to investigate an alleged 2024 rape at Cornell University,
+  saying she had lost faith in the county prosecutor handling the case. Hours earlier,
+  Cornell's student assembly passed a resolution calling on administrators to provide
+  a complete, "plain-language" explanation of the outcome of their internal investigation
+  into the former student's claims.
+nut_graf: The case has drawn scrutiny from the governor's office, alumni donors, Ithaca
+  city officials and the student body, and leaves unresolved questions about what
+  campus police told prosecutors and why no charges were filed in 2024.
 primary_entities:
 - Cornell University
 - Ithaca
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +148,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
+  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape
+    case
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.9079
+  strength: 0.9075
 - slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
   headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.911
+  strength: 0.9103
+- slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
+  headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8675
+- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
+  headline: Cornell students voice anger over alleged 2024 gang rape
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8552
 - slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent probe of Cornell's 2024 assault response
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8543
+  strength: 0.8532
+- slug: 2026-10-02-hochul-criticizes-cornell-s-handling-of-sexual-assault-case
+  headline: Hochul criticizes Cornell's handling of sexual assault case
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8255
 - slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent review of Cornell's 2024 assault response
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.843
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
+  strength: 0.8425
+- slug: 2026-10-02-lawyer-for-cornell-accuser-accuses-tompkins-da-of-changing-story
+  headline: Lawyer for Cornell accuser accuses Tompkins DA of changing story
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7751
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7678
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7573
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7216
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7376
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7317
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7005
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7039
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6866
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6774
-- slug: 2026-09-28-nyc-backs-neighbors-lawsuit-to-reopen-columbia-s-gates
-  headline: NYC backs neighbors' lawsuit to reopen Columbia's gates
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6078
-- slug: 2026-09-22-cornell-faculty-report-declares-higher-education-crisis-unprecedented
-  headline: Cornell faculty report declares higher education crisis unprecedented
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6074
-- slug: 2026-09-14-former-columbia-student-khalil-sues-university-over-failure-to-protect-pro-pales
-  headline: Former Columbia student Khalil sues university over failure to protect pro-Palestinian students
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6374
-- slug: 2026-08-26-hippler-reserves-june-2027-for-possible-kohberger-plea-withdrawal-hearing
-  headline: Hippler reserves June 2027 for possible Kohberger plea withdrawal hearing
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6062
-- slug: 2026-07-10-yale-weighs-second-settlement-offer-as-faculty-alumni-press-leadership-to-resist
-  headline: Yale weighs second settlement offer as faculty, alumni press leadership to resist
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6107
-- slug: 2026-02-05-new-york-gov-hochul-names-adrienne-adams-as-running-mate
-  headline: New York Gov. Hochul names Adrienne Adams as running mate
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6369
+  strength: 0.8172
 ---
-
 ## Cornell student assembly calls for answers as Hochul appoints special prosecutor
 
 **Subtype:** fact

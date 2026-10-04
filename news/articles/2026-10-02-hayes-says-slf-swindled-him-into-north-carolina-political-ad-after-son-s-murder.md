@@ -1,9 +1,22 @@
 ---
-headline: Hayes says SLF 'swindled' him into North Carolina political ad after son's murder
-secondary_headline: Senate Leadership Fund pulls remaining $30 million from Whatley race as Cooper holds 11-point lead
+headline: Hayes says SLF 'swindled' him into North Carolina political ad after son's
+  murder
+secondary_headline: Senate Leadership Fund pulls remaining $30 million from Whatley
+  race as Cooper holds 11-point lead
 publish_date: '2026-10-02'
-lede: Ronald Hayes, whose son Shemar was murdered in 2024, said the Senate Leadership Fund had "swindled" him into appearing in a political campaign advertisement, according to the Guardian. Hayes said he believed he would be featured in content opposing gun violence. The disclosure comes as the SLF, a major Republican political action committee, pulled its remaining ad spending from North Carolina's U.S. Senate race, redirecting roughly $30 million in planned support for candidate Michael Whatley to other contests.
-nut_graf: The SLF had pledged $71 million to defend the seat for Republican Michael Whatley and had already run advertisements attempting to link his Democratic opponent, former governor Roy Cooper, with the killing of Iryna Zarutska, a 23-year-old Ukrainian refugee killed in an unprovoked attack aboard a light-rail train in Charlotte. Cooper was not in office at the time of the attack. An AARP poll released this week gave Cooper an 11-point lead over Whatley.
+lede: Ronald Hayes, whose son Shemar was murdered in 2024, said the Senate Leadership
+  Fund had "swindled" him into appearing in a political campaign advertisement, according
+  to the Guardian. Hayes said he believed he would be featured in content opposing
+  gun violence. The disclosure comes as the SLF, a major Republican political action
+  committee, pulled its remaining ad spending from North Carolina's U.S. Senate race,
+  redirecting roughly $30 million in planned support for candidate Michael Whatley
+  to other contests.
+nut_graf: The SLF had pledged $71 million to defend the seat for Republican Michael
+  Whatley and had already run advertisements attempting to link his Democratic opponent,
+  former governor Roy Cooper, with the killing of Iryna Zarutska, a 23-year-old Ukrainian
+  refugee killed in an unprovoked attack aboard a light-rail train in Charlotte. Cooper
+  was not in office at the time of the attack. An AARP poll released this week gave
+  Cooper an 11-point lead over Whatley.
 primary_entities:
 - Senate Leadership Fund
 - Michael Whatley
@@ -50,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +166,29 @@ related_stories:
   headline: Senate Leadership Fund halts North Carolina Senate ad spending
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7674
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6249
+  strength: 0.768
 - slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
   headline: Trump stumps for Whatley in North Carolina Senate race
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6773
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6397
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6246
+  strength: 0.6777
 - slug: 2026-08-06-roy-cooper-leads-north-carolina-senate-race-as-republicans-defend-seat
   headline: Roy Cooper leads North Carolina Senate race as Republicans defend seat
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.716
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5938
-- slug: 2026-08-31-pediatrician-andrews-to-face-darline-graham-in-south-carolina-senate-race
-  headline: Pediatrician Andrews to face Darline Graham in South Carolina Senate race
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6046
-- slug: 2026-08-24-hurricane-helene-recovery-divides-north-carolina-senate-candidates
-  headline: Hurricane Helene recovery divides North Carolina Senate candidates
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6258
-- slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
-  headline: Darline Graham wins South Carolina Senate runoff over Norman
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6152
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5996
-- slug: 2026-08-02-cori-bush-wesley-bell-face-off-in-missouri-democratic-house-primary-rematch
-  headline: Cori Bush, Wesley Bell face off in Missouri Democratic House primary rematch
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.5939
-- slug: 2026-07-26-pediatrician-annie-andrews-aims-to-flip-south-carolina-senate-seat-for-democrats
-  headline: Pediatrician Annie Andrews aims to flip South Carolina Senate seat for Democrats
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6026
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5985
-- slug: 2026-07-12-mcmaster-to-appoint-graham-replacement-as-gop-scrambles-for-senate-seat
-  headline: McMaster to appoint Graham replacement as GOP scrambles for Senate seat
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6008
+  strength: 0.7164
 - slug: 2026-03-02-roy-cooper-and-michael-whatley-win-north-carolina-senate-nominations
   headline: Roy Cooper and Michael Whatley win North Carolina Senate nominations
   publish_date: '2026-03-02'
   relation: related
-  strength: 0.6704
+  strength: 0.6708
 - slug: 2026-03-09-trump-s-pick-faces-democrat-roy-cooper-in-pivotal-north-carolina-senate-race
-  headline: Trump's pick faces Democrat Roy Cooper in pivotal North Carolina Senate race
+  headline: Trump's pick faces Democrat Roy Cooper in pivotal North Carolina Senate
+    race
   publish_date: '2026-03-09'
   relation: related
-  strength: 0.6579
-- slug: 2026-05-14-voters-weigh-tax-cuts-against-inflation-in-north-carolina-senate-race
-  headline: Voters weigh tax cuts against inflation in North Carolina Senate race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6183
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5952
-- slug: 2026-05-16-cassidy-defeated-in-louisiana-senate-primary-trump-backed-letlow-and-fleming-adv
-  headline: Cassidy defeated in Louisiana Senate primary; Trump-backed Letlow and Fleming advance to runoff
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6078
+  strength: 0.6584
 ---
-
 ## Hayes says SLF 'swindled' him into North Carolina political ad after son's murder
 
 **Subtype:** fact

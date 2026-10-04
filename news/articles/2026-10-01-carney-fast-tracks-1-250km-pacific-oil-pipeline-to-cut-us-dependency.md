@@ -2,8 +2,16 @@
 headline: Carney fast-tracks 1,250km Pacific oil pipeline to cut US dependency
 secondary_headline: Project would cut Canadian oil dependency on US from 90% to 65-70%
 publish_date: '2026-10-01'
-lede: Canadian Prime Minister Mark Carney has announced federal fast-tracking of the 1,250km Pacific Link oil pipeline, designed to carry roughly one million barrels of crude per day from Bruderheim, Alberta, to a deep-water port near Delta, British Columbia, for shipment to Asia-Pacific markets. Speaking Thursday from Fort McMurray, Carney framed the project as central to Ottawa's push to reduce Canada's oil-export dependency on the United States from roughly 90% to approximately 65-70%.
-nut_graf: Pacific Link is the first project to face a streamlined federal review under a Liberal government law that aims to deliver a final yes-or-no decision on major projects within a year, and it lands weeks before Alberta voters head to a referendum on provincial independence.
+lede: Canadian Prime Minister Mark Carney has announced federal fast-tracking of the
+  1,250km Pacific Link oil pipeline, designed to carry roughly one million barrels
+  of crude per day from Bruderheim, Alberta, to a deep-water port near Delta, British
+  Columbia, for shipment to Asia-Pacific markets. Speaking Thursday from Fort McMurray,
+  Carney framed the project as central to Ottawa's push to reduce Canada's oil-export
+  dependency on the United States from roughly 90% to approximately 65-70%.
+nut_graf: Pacific Link is the first project to face a streamlined federal review under
+  a Liberal government law that aims to deliver a final yes-or-no decision on major
+  projects within a year, and it lands weeks before Alberta voters head to a referendum
+  on provincial independence.
 primary_entities:
 - Mark Carney
 - Pacific Link pipeline
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +148,45 @@ related_stories:
   headline: Canada pushes to double LNG exports and build Pacific oil pipeline
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7851
+  strength: 0.7857
 - slug: 2026-09-30-carney-rides-trump-confrontation-into-sweeping-canadian-policy-overhaul
   headline: Carney rides Trump confrontation into sweeping Canadian policy overhaul
   publish_date: '2026-09-30'
   relation: related
   strength: 0.6795
 - slug: 2026-10-02-energy-roundup-oil-slips-on-gulf-recovery-enerflex-up-17-on-data-center-deal
-  headline: 'Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center deal'
+  headline: 'Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center
+    deal'
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6641
+  strength: 0.6643
 - slug: 2026-09-29-carney-embraces-eu-associate-membership-as-us-import-ban-clouds-usmca-future
-  headline: Carney embraces EU associate membership as US import ban clouds USMCA future
+  headline: Carney embraces EU associate membership as US import ban clouds USMCA
+    future
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6674
+  strength: 0.667
 - slug: 2026-09-21-canada-introduces-bill-to-cap-federal-project-reviews-at-12-months
   headline: Canada introduces bill to cap federal project reviews at 12 months
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7048
+  strength: 0.7049
 - slug: 2026-09-23-carney-says-canada-open-to-us-trade-deal-but-won-t-compromise-sovereignty
   headline: Carney says Canada open to US trade deal but won't compromise sovereignty
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6522
+  strength: 0.6523
 - slug: 2026-09-15-carney-courts-global-investors-at-toronto-summit
   headline: Carney courts global investors at Toronto summit
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6922
+  strength: 0.6931
 - slug: 2026-09-11-carney-to-host-toronto-investment-summit-seeking-c-1-trillion
   headline: Carney to host Toronto investment summit seeking C$1 trillion
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7069
-- slug: 2026-09-14-carney-seeks-unique-alliance-with-eu-rules-out-full-membership
-  headline: Carney seeks 'unique alliance' with EU, rules out full membership
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6648
-- slug: 2026-09-15-carney-tells-toronto-summit-canada-will-pursue-unique-eu-alliance
-  headline: Carney tells Toronto summit Canada will pursue 'unique' EU alliance
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.645
-- slug: 2026-09-03-carney-picks-alstom-for-c-4-7b-via-rail-passenger-car-contract
-  headline: Carney picks Alstom for C$4.7B Via Rail passenger car contract
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6399
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7887
-- slug: 2026-08-22-carney-orders-dollar-for-dollar-counter-tariffs-as-us-canada-talks-collapse
-  headline: Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6359
-- slug: 2026-07-23-carney-s-concessions-to-trump-fail-to-halt-50-tariff-on-canadian-goods
-  headline: Carney's concessions to Trump fail to halt 50% tariff on Canadian goods
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6627
-- slug: 2026-06-24-canada-eyes-arctic-highway-mineral-export-terminal-as-national-priorities
-  headline: Canada eyes Arctic highway, mineral export terminal as national priorities
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.704
-- slug: 2026-07-06-canada-to-buy-12-submarines-in-largest-military-procurement-ever
-  headline: Canada to buy 12 submarines in largest military procurement ever
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.648
-- slug: 2026-07-05-canada-nears-decision-on-submarine-contract-between-hanwha-and-tkms
-  headline: Canada nears decision on submarine contract between Hanwha and TKMS
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6457
-- slug: 2026-05-15-canada-to-double-electric-grid-by-2050-under-new-clean-energy-plan-carney-says
-  headline: Canada to double electric grid by 2050 under new clean-energy plan, Carney says
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6915
-- slug: 2026-05-15-carney-unveils-plan-to-double-canada-s-electric-grid-by-2050
-  headline: Carney unveils plan to double Canada's electric grid by 2050
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6786
-- slug: 2026-06-02-canada-s-economy-contracted-0-1-in-q1-as-carney-ties-weakness-to-policy-restruct
-  headline: Canada's economy contracted 0.1% in Q1 as Carney ties weakness to policy restructuring
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6487
+  strength: 0.7076
 ---
-
 ## Carney fast-tracks 1,250km Pacific oil pipeline to cut US dependency
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
 secondary_headline: Hochul taps Letitia James to take over Cornell investigation
 publish_date: '2026-10-02'
-lede: The lawyer for a woman who alleges she was raped by seven men at a Cornell University fraternity house in 2024 said Friday that his client is "under siege" as internet users attempt to identify her. Thomas Giuffra told CNN the woman, known in legal documents as Jane Doe, is "not doing well" as online sleuths seek to unmask her. The developments came the same day New York Governor Kathy Hochul appointed state Attorney General Letitia James to take over the criminal investigation.
-nut_graf: The appointment of James marks a significant escalation in a case that has drawn national attention since the woman filed a civil lawsuit that renewed the possibility of criminal prosecution. Hochul said she had "lost faith" in the county prosecutor's handling of the case and pledged to close a state-law "loophole" that complicates rape prosecutions when an alleged victim voluntarily consumed alcohol or drugs before an assault.
+lede: The lawyer for a woman who alleges she was raped by seven men at a Cornell University
+  fraternity house in 2024 said Friday that his client is "under siege" as internet
+  users attempt to identify her. Thomas Giuffra told CNN the woman, known in legal
+  documents as Jane Doe, is "not doing well" as online sleuths seek to unmask her.
+  The developments came the same day New York Governor Kathy Hochul appointed state
+  Attorney General Letitia James to take over the criminal investigation.
+nut_graf: The appointment of James marks a significant escalation in a case that has
+  drawn national attention since the woman filed a civil lawsuit that renewed the
+  possibility of criminal prosecution. Hochul said she had "lost faith" in the county
+  prosecutor's handling of the case and pledged to close a state-law "loophole" that
+  complicates rape prosecutions when an alleged victim voluntarily consumed alcohol
+  or drugs before an assault.
 primary_entities:
 - Cornell University
 - Ithaca
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,45 @@ related_stories:
   headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8127
+  strength: 0.8129
 - slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7967
+  strength: 0.7969
+- slug: 2026-10-02-lawyer-for-cornell-accuser-accuses-tompkins-da-of-changing-story
+  headline: Lawyer for Cornell accuser accuses Tompkins DA of changing story
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.782
 - slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
   headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7852
+  strength: 0.7854
 - slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
   headline: Lawyer says Cornell health system failed student rape accuser
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7732
+  strength: 0.773
 - slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
+  headline: Cornell student assembly calls for answers as Hochul appoints special
+    prosecutor
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7618
+  strength: 0.7621
 - slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
+  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape
+    case
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7611
+  strength: 0.7616
 - slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
   headline: Cornell accuser told campus police 'I was raped' in 2024 interview
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7673
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7506
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7321
-- slug: 2026-10-02-hochul-criticizes-cornell-s-handling-of-sexual-assault-case
-  headline: Hochul criticizes Cornell's handling of sexual assault case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7301
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7444
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.744
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7338
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7248
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.709
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6943
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6997
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6593
-- slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
-  headline: Jordan Campbell leads DOJ probes of transgender care for minors
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6439
-- slug: 2026-09-25-sherrill-names-emehelu-acting-new-jersey-lieutenant-governor
-  headline: Sherrill names Emehelu acting New Jersey lieutenant governor
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.627
+  strength: 0.7677
 ---
-
 ## Lawyer says Cornell rape accuser is "under siege" from online sleuths
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Tesla third-quarter sales fall 2%, reversing first-half gains
 secondary_headline: Quarterly sales top analyst forecast as shares rise nearly 4%
 publish_date: '2026-10-02'
-lede: Tesla sold 486,532 electric vehicles globally in the third quarter, down 2% from a year earlier and reversing two quarters of growth from the first half of the year, the company said Friday. The result beat the analyst consensus of 461,000 tracked by FactSet, and Tesla's stock rose nearly 4% in early trading.
-nut_graf: The decline places Tesla inside a wider U.S. electric-vehicle downturn as Chief Executive Elon Musk shifts the company's focus toward robotaxis and humanoid robots, neither of which is currently for sale. Auto sales still accounted for 70% of Tesla's revenue in the first half of the year, and Musk must sell more vehicles as part of a $1 trillion pay package approved by Tesla shareholders in November.
+lede: Tesla sold 486,532 electric vehicles globally in the third quarter, down 2%
+  from a year earlier and reversing two quarters of growth from the first half of
+  the year, the company said Friday. The result beat the analyst consensus of 461,000
+  tracked by FactSet, and Tesla's stock rose nearly 4% in early trading.
+nut_graf: The decline places Tesla inside a wider U.S. electric-vehicle downturn as
+  Chief Executive Elon Musk shifts the company's focus toward robotaxis and humanoid
+  robots, neither of which is currently for sale. Auto sales still accounted for 70%
+  of Tesla's revenue in the first half of the year, and Musk must sell more vehicles
+  as part of a $1 trillion pay package approved by Tesla shareholders in November.
 primary_entities:
 - Tesla
 - Elon Musk
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,106 +150,40 @@ related_stories:
   headline: Tesla's US EV market share climbs to 52% as legacy rivals retreat
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7863
-- slug: 2026-10-02-volvo-car-pulls-full-year-guidance-as-china-sales-plunge-41
-  headline: Volvo Car pulls full-year guidance as China sales plunge 41%
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6169
-- slug: 2026-09-29-carmax-posts-73-profit-gain-as-vehicle-sales-rise
-  headline: CarMax posts 73% profit gain as vehicle sales rise
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6193
+  strength: 0.7864
 - slug: 2026-07-22-tesla-r-d-spending-jumps-49-driving-profit-below-analyst-forecasts
   headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7788
-- slug: 2026-09-02-ford-targets-100-000-first-year-sales-for-new-30-000-fathom-electric-truck
-  headline: Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6241
-- slug: 2026-08-26-li-auto-posts-253-million-quarterly-loss-as-deliveries-drop-11
-  headline: Li Auto posts $253 million quarterly loss as deliveries drop 11%
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6149
+  strength: 0.7792
 - slug: 2026-01-03-tesla-loses-top-ev-crown-to-byd-as-musk-tax-break-changes-weigh
   headline: Tesla loses top EV crown to BYD as Musk, tax break changes weigh
   publish_date: '2026-01-03'
   relation: related
-  strength: 0.832
+  strength: 0.8323
 - slug: 2026-01-01-tesla-loses-top-ev-seller-title-to-china-s-byd-after-sales-slump
   headline: Tesla loses top EV seller title to China’s BYD after sales slump
   publish_date: '2026-01-01'
   relation: related
-  strength: 0.8075
+  strength: 0.8084
 - slug: 2026-01-04-tesla-loses-ev-crown-to-china-s-byd-as-sales-drop-continues-into-2025
   headline: Tesla loses EV crown to China’s BYD as sales drop continues into 2025
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.8034
-- slug: 2026-08-13-afl-cio-report-finds-ceo-pay-at-top-s-p-500-firms-hit-312-times-worker-wages
-  headline: AFL-CIO report finds CEO pay at top S&P 500 firms hit 312 times worker wages
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6161
-- slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
-  headline: SpaceX shares down by half from June peak as earnings call nears
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6275
-- slug: 2026-08-05-uber-bookings-and-adjusted-earnings-top-estimates-shares-fall-4
-  headline: Uber bookings and adjusted earnings top estimates; shares fall 4%
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6128
+  strength: 0.8038
 - slug: 2026-01-30-tesla-profit-falls-to-lowest-since-pandemic-eyes-robotaxis-and-optimus
   headline: Tesla profit falls to lowest since pandemic; eyes robotaxis and Optimus
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.7595
-- slug: 2026-07-28-essilorluxottica-sales-growth-slows-to-8-7-as-smartglasses-revenue-nearly-double
-  headline: EssilorLuxottica sales growth slows to 8.7% as smartglasses revenue nearly doubles
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6238
-- slug: 2026-07-10-bmw-first-half-sales-fall-4-2-on-20-china-drop
-  headline: BMW first-half sales fall 4.2% on 20% China drop
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6399
-- slug: 2026-07-02-nhtsa-closes-four-year-tesla-phantom-braking-probe-covering-416-000-vehicles
-  headline: NHTSA closes four-year Tesla phantom braking probe covering 416,000 vehicles
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6399
-- slug: 2026-05-15-honda-posts-first-ever-annual-loss-as-ev-costs-trump-trade-policies-bite
-  headline: Honda posts first-ever annual loss as EV costs, Trump trade policies bite
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.629
+  strength: 0.7604
 - slug: 2026-01-16-tesla-gets-five-week-extension-in-federal-full-self-driving-investigation
   headline: Tesla gets five-week extension in federal full self-driving investigation
   publish_date: '2026-01-16'
   relation: related
-  strength: 0.6608
-- slug: 2026-05-07-toyota-profit-drops-19-as-u-s-tariffs-bite-but-global-sales-rise
-  headline: Toyota profit drops 19% as U.S. tariffs bite, but global sales rise
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6297
-- slug: 2026-05-15-honda-posts-first-full-year-loss-as-ev-plans-collide-with-u-s-policy
-  headline: Honda posts first full-year loss as EV plans collide with U.S. policy
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6171
+  strength: 0.6609
 analyses:
-- '2026-10-02-tesla-s-pivot-frame-and-the-cybercab-stress-test-reading-the-q3-delivery-report-'
+- 2026-10-02-tesla-s-pivot-frame-and-the-cybercab-stress-test-reading-the-q3-delivery-report-
 ---
-
 ## Tesla third-quarter sales fall 2%, reversing first-half gains
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: Nuveen completes nearly $13.1 billion acquisition of Schroders
 secondary_headline: Huffman plans 'evolutionary' integration over 12 to 18 months
 publish_date: '2026-10-02'
-lede: Nuveen, the Chicago-headquartered investment manager and TIAA subsidiary, has closed its acquisition of the 222-year-old British asset manager Schroders in a deal valued at nearly $13.1 billion, lifting Nuveen's assets under management to $2.6 trillion and placing the combined firm among the world's ten largest asset managers.
-nut_graf: The deal, announced earlier in 2026 and described by the Wall Street Journal as typical of recent industry consolidation and other trends, transfers ownership of one of the United Kingdom's oldest financial institutions to a U.S. parent.
+lede: Nuveen, the Chicago-headquartered investment manager and TIAA subsidiary, has
+  closed its acquisition of the 222-year-old British asset manager Schroders in a
+  deal valued at nearly $13.1 billion, lifting Nuveen's assets under management to
+  $2.6 trillion and placing the combined firm among the world's ten largest asset
+  managers.
+nut_graf: The deal, announced earlier in 2026 and described by the Wall Street Journal
+  as typical of recent industry consolidation and other trends, transfers ownership
+  of one of the United Kingdom's oldest financial institutions to a U.S. parent.
 primary_entities:
 - Nuveen
 - Schroders
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,109 +141,8 @@ cross_article_links:
   strength: 0.5941
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-01-nike-reports-11bn-quarterly-revenue-missing-analyst-expectations
-  headline: Nike reports $11bn quarterly revenue, missing analyst expectations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5758
-- slug: 2026-09-29-piper-sandler-in-talks-to-acquire-perella-weinberg-partners
-  headline: Piper Sandler in talks to acquire Perella Weinberg Partners
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5538
-- slug: 2026-09-03-nvidia-to-acquire-ai-developer-platform-hugging-face-for-12-93-billion
-  headline: Nvidia to acquire AI developer platform Hugging Face for $12.93 billion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5717
-- slug: 2026-09-03-volkswagen-names-marco-schubert-to-lead-north-american-business
-  headline: Volkswagen names Marco Schubert to lead North American business
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5604
-- slug: 2026-08-27-boliden-agrees-to-buy-votorantim-s-65-nexa-stake-in-all-share-deal
-  headline: Boliden agrees to buy Votorantim's 65% Nexa stake in all-share deal
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5599
-- slug: 2026-08-14-berkshire-hathaway-adds-to-alphabet-opens-d-r-horton-position-in-q2-13f
-  headline: Berkshire Hathaway adds to Alphabet, opens D.R. Horton position in Q2 13F
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5637
-- slug: 2026-08-15-joshua-kushner-agrees-to-buy-los-angeles-lakers-for-12-5-billion-with-bob-iger
-  headline: Joshua Kushner agrees to buy Los Angeles Lakers for $12.5 billion with Bob Iger
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5511
-- slug: 2026-06-09-gsk-acquires-nuvalent-for-10-6-billion-in-lung-cancer-push
-  headline: GSK acquires Nuvalent for $10.6 billion in lung-cancer push
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.611
-- slug: 2026-06-29-martin-marietta-to-buy-lhoist-north-america-in-13-5b-deal
-  headline: Martin Marietta to buy Lhoist North America in $13.5B deal
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5726
-- slug: 2026-06-09-gsk-to-buy-us-cancer-treatment-firm-nuvalent-for-10-6bn
-  headline: GSK to buy US cancer treatment firm Nuvalent for $10.6bn
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5889
-- slug: 2026-06-08-ingredion-to-acquire-tate-lyle-in-3-6b-deal-putting-nearly-500-jobs-at-risk
-  headline: Ingredion to acquire Tate & Lyle in $3.6B deal, putting nearly 500 jobs at risk
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5855
-- slug: 2026-06-25-germanys-merck-kgaa-to-buy-us-lab-supplier-bio-techne-for-11-4-billion
-  headline: Germany's Merck KGaA to buy US lab supplier Bio-Techne for $11.4 billion
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5559
-- slug: 2026-06-10-deutsche-telekom-ceo-h-ttges-pursues-blockbuster-t-mobile-merger
-  headline: Deutsche Telekom CEO Höttges pursues blockbuster T-Mobile merger
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5709
-- slug: 2026-06-15-fox-buys-roku-in-22-billion-deal-creating-third-largest-tv-player
-  headline: Fox Buys Roku in $22 Billion Deal, Creating Third-Largest TV Player
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5529
-- slug: 2026-05-18-usa-today-owner-announces-plan-to-acquire-detroit-news-ending-36-year-partnershi
-  headline: USA Today owner announces plan to acquire Detroit News, ending 36-year partnership
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5784
-- slug: 2026-06-01-berkshire-hathaway-agrees-to-acquire-homebuilder-taylor-morrison-for-6-8-billion
-  headline: Berkshire Hathaway agrees to acquire homebuilder Taylor Morrison for $6.8 billion
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5575
-- slug: 2026-05-23-shein-to-buy-eco-friendly-everlane-an-unlikely-move-analysts-say
-  headline: Shein to buy eco-friendly Everlane, an unlikely move analysts say
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5618
-- slug: 2026-05-22-shein-to-buy-everlane-as-struggling-retailer-seeks-financial-stability
-  headline: Shein to buy Everlane as struggling retailer seeks financial stability
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5578
-- slug: 2026-05-22-shein-to-buy-everlane-betting-on-u-s-growth-and-a-higher-end-model
-  headline: Shein to buy Everlane, betting on U.S. growth and a higher-end model
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5476
-- slug: 2026-05-21-estee-lauder-and-puig-end-merger-talks-keeping-clinique-and-gaultier-separate
-  headline: Estee Lauder and Puig end merger talks, keeping Clinique and Gaultier separate
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5478
+related_stories: []
 ---
-
 ## Nuveen completes nearly $13.1 billion acquisition of Schroders
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
 secondary_headline: 10-year Treasury yield hits 24-year high, mortgage rates top 7%
 publish_date: '2026-10-02'
-lede: Global crude futures jumped 4.4% Thursday to $102.31 a barrel even as U.S. forces helped oil shipments through the Strait of Hormuz rebound toward prewar levels, according to The Wall Street Journal. The return of tanker traffic was expected to bring down the price of crude, gasoline and diesel and cool inflation, but the 10-year Treasury yield has instead notched its highest level in 24 years.
-nut_graf: Interlocking threats still squeezing the oil market — Houthi rebel attacks on shipping lanes and a Ukrainian air campaign targeting Russian refineries — are sending inflationary aftershocks across the U.S. economy that could extend beyond November's midterm elections and pressure the Federal Reserve to consider additional interest-rate hikes.
+lede: Global crude futures jumped 4.4% Thursday to $102.31 a barrel even as U.S. forces
+  helped oil shipments through the Strait of Hormuz rebound toward prewar levels,
+  according to The Wall Street Journal. The return of tanker traffic was expected
+  to bring down the price of crude, gasoline and diesel and cool inflation, but the
+  10-year Treasury yield has instead notched its highest level in 24 years.
+nut_graf: Interlocking threats still squeezing the oil market — Houthi rebel attacks
+  on shipping lanes and a Ukrainian air campaign targeting Russian refineries — are
+  sending inflationary aftershocks across the U.S. economy that could extend beyond
+  November's midterm elections and pressure the Federal Reserve to consider additional
+  interest-rate hikes.
 primary_entities:
 - Strait of Hormuz
 - Iran
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +154,43 @@ related_stories:
   headline: Oil futures rise as Middle East exports recover to prewar levels
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.841
+  strength: 0.8414
 - slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
   headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8162
+  strength: 0.8161
 - slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
   headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
   publish_date: '2026-09-29'
   relation: related
   strength: 0.7995
+- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
+  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7744
 - slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
   headline: Oil prices rise as Trump rejects Iran ceasefire proposal
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7951
+  strength: 0.7953
 - slug: 2026-09-30-wall-street-banks-lift-oil-price-forecasts-as-iran-war-stalls
   headline: Wall Street banks lift oil-price forecasts as Iran war stalls
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7739
+  strength: 0.7745
 - slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
   headline: Oil rises on Hormuz risks as Saudi crude flows rebound
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7901
+  strength: 0.7906
 - slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
   headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8054
-- slug: 2026-09-14-oil-rises-as-saudi-pipeline-attack-and-houthi-gains-squeeze-exports
-  headline: Oil rises as Saudi pipeline attack and Houthi gains squeeze exports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7747
-- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
-  headline: Oil reaches $105 amid signs Middle East conflict will persist
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7852
-- slug: 2026-09-09-oil-futures-rise-as-middle-east-conflict-escalates
-  headline: Oil futures rise as Middle East conflict escalates
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.787
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7917
-- slug: 2026-08-10-oil-rises-as-iran-demands-u-s-withdrawal-to-reopen-strait-of-hormuz
-  headline: Oil rises as Iran demands U.S. withdrawal to reopen Strait of Hormuz
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7838
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7773
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.8069
-- slug: 2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet
-  headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.782
-- slug: 2026-06-29-oil-rebounds-as-u-s--iran-talks-resume-after-weekend-strikes
-  headline: Oil rebounds as U.S.-Iran talks resume after weekend strikes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7865
-- slug: 2026-06-01-oil-bond-yields-surge-on-new-iran-clashes-as-stocks-edge-to-records
-  headline: Oil, bond yields surge on new Iran clashes as stocks edge to records
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8074
-- slug: 2026-06-25-oil-falls-to-prewar-levels-as-gulf-flows-through-hormuz-pick-up
-  headline: Oil falls to prewar levels as Gulf flows through Hormuz pick up
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7767
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7864
-- slug: 2026-06-01-oil-rises-over-3-on-fresh-u-s--iran-strikes-deal-uncertainty
-  headline: Oil rises over 3% on fresh U.S.-Iran strikes, deal uncertainty
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7733
+  strength: 0.8057
 ---
-
 ## Crude futures jump 4.4% to $102.31 despite Hormuz rebound
 
 - Global crude futures jumped 4.4% Thursday to $102.31 a barrel even as oil shipments through the Strait of Hormuz rebound toward prewar levels.

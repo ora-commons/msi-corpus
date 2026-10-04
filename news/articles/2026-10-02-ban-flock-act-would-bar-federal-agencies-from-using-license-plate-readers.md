@@ -2,8 +2,17 @@
 headline: Ban Flock Act would bar federal agencies from using license plate readers
 secondary_headline: Bill would also block federal grant funding to state, local contracts
 publish_date: '2026-10-02'
-lede: Sen. Bernie Sanders, I-Vt., Sen. Jeff Merkley, D-Ore., and Rep. Alexandria Ocasio-Cortez, D-N.Y., introduced the Ban Flock Act on Friday to prohibit federal agencies from using automatic license plate readers and the data they collect, and to cut off federal grant funding to state and local governments that contract for the technology. Flock Safety, which UPI described as 'perhaps the most notorious' of the firms that sell license-plate readers to state and local governments, had more than 120,000 cameras installed nationwide last year, the wire service reported.
-nut_graf: The bill arrives as concerns about the technology have been raised from Democrats and Republicans, with incidents of police misuse coming to light in recent months and a Republican bill introduced last month to block local purchases of the cameras.
+lede: Sen. Bernie Sanders, I-Vt., Sen. Jeff Merkley, D-Ore., and Rep. Alexandria Ocasio-Cortez,
+  D-N.Y., introduced the Ban Flock Act on Friday to prohibit federal agencies from
+  using automatic license plate readers and the data they collect, and to cut off
+  federal grant funding to state and local governments that contract for the technology.
+  Flock Safety, which UPI described as 'perhaps the most notorious' of the firms that
+  sell license-plate readers to state and local governments, had more than 120,000
+  cameras installed nationwide last year, the wire service reported.
+nut_graf: The bill arrives as concerns about the technology have been raised from
+  Democrats and Republicans, with incidents of police misuse coming to light in recent
+  months and a Republican bill introduced last month to block local purchases of the
+  cameras.
 primary_entities:
 - Bernie Sanders
 - Jeff Merkley
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,99 +156,39 @@ related_stories:
   headline: Flock Safety adds case-number requirement for license-plate database searches
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7133
+  strength: 0.7132
 - slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6559
+  strength: 0.6565
 - slug: 2026-09-18-texas-halts-new-flock-camera-permits-along-state-roads
   headline: Texas halts new Flock camera permits along state roads
   publish_date: '2026-09-18'
   relation: related
   strength: 0.7379
 - slug: 2026-09-17-more-than-100-blue-and-red-towns-pause-or-end-flock-camera-deals-this-year
-  headline: More Than 100 Blue and Red Towns Pause or End Flock Camera Deals This Year
+  headline: More Than 100 Blue and Red Towns Pause or End Flock Camera Deals This
+    Year
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7046
+  strength: 0.705
 - slug: 2026-09-13-san-jose-fires-officer-for-sharing-flock-data-with-domestic-abuse-suspect
   headline: San Jose fires officer for sharing Flock data with domestic abuse suspect
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7137
+  strength: 0.7139
 - slug: 2026-08-26-desantis-seeks-new-florida-restrictions-on-automated-license-plate-readers
   headline: DeSantis seeks new Florida restrictions on automated license plate readers
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7819
+  strength: 0.7816
 - slug: 2026-09-01-bbc-verify-examines-flock-s-us-license-plate-reader-network
   headline: BBC Verify examines Flock's US license plate reader network
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7312
-- slug: 2026-09-04-candidates-from-both-parties-target-flock-cameras-in-midterm-races
-  headline: Candidates from both parties target Flock cameras in midterm races
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.717
-- slug: 2026-08-21-flock-cameras-vandalized-across-at-least-36-states-as-opposition-grows
-  headline: Flock cameras vandalized across at least 36 states as opposition grows
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7635
-- slug: 2026-08-31-texas-redirects-1-insurance-fee-into-thousands-of-flock-cameras
-  headline: Texas redirects $1 insurance fee into thousands of Flock cameras
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7215
-- slug: 2026-09-08-connecticut-towns-install-buspatrol-cameras-on-school-buses-amid-lpr-pushback
-  headline: Connecticut towns install BusPatrol cameras on school buses amid LPR pushback
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6399
-- slug: 2026-08-13-flock-safety-to-revise-license-plate-reader-platform-amid-agency-cancellations
-  headline: Flock Safety to revise license-plate reader platform amid agency cancellations
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7343
-- slug: 2026-08-20-cities-swap-flock-cameras-for-axon-readers-as-surveillance-continues
-  headline: Cities swap Flock cameras for Axon readers as surveillance continues
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7088
-- slug: 2026-07-25-activists-disable-flock-license-plate-readers-as-backlash-mounts
-  headline: Activists disable Flock license-plate readers as backlash mounts
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7562
-- slug: 2026-08-15-ai-infrastructure-backlash-spans-political-spectrum-ahead-of-midterms
-  headline: AI infrastructure backlash spans political spectrum ahead of midterms
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.688
-- slug: 2026-03-24-nevada-lacks-rules-for-license-plate-reader-cameras-used-by-police
-  headline: Nevada lacks rules for license plate reader cameras used by police
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7502
-- slug: 2026-03-05-out-of-state-police-access-silicon-valley-license-plate-readers
-  headline: Out-of-state police access Silicon Valley license plate readers
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.738
-- slug: 2026-01-15-washington-moves-to-restrict-license-plate-camera-data-access-amid-stalking-fear
-  headline: Washington moves to restrict license-plate camera data access amid stalking fears
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7387
-- slug: 2026-02-03-michigan-debate-over-license-plate-readers-pits-police-utility-vs-privacy
-  headline: Michigan debate over license plate readers pits police utility vs privacy
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7343
+  strength: 0.7314
 ---
-
 ## Ban Flock Act would bar federal agencies from using license plate readers
 
 **Subtype:** fact

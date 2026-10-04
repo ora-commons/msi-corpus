@@ -2,8 +2,13 @@
 headline: DOJ sues University of Delaware over in-state tuition for undocumented students
 secondary_headline: 26th such lawsuit, first against a university rather than a state
 publish_date: '2026-10-02'
-lede: The Justice Department filed suit Thursday against the University of Delaware, challenging its in-state tuition policy for certain undocumented immigrants. It is the 26th such lawsuit the Trump administration has brought and the first case the department has filed against a university rather than a state.
-nut_graf: The case is the department's first against a university rather than a state, a shift in strategy that moves the administration's legal campaign against noncitizen tuition benefits beyond state governments to individual institutions.
+lede: The Justice Department filed suit Thursday against the University of Delaware,
+  challenging its in-state tuition policy for certain undocumented immigrants. It
+  is the 26th such lawsuit the Trump administration has brought and the first case
+  the department has filed against a university rather than a state.
+nut_graf: The case is the department's first against a university rather than a state,
+  a shift in strategy that moves the administration's legal campaign against noncitizen
+  tuition benefits beyond state governments to individual institutions.
 primary_entities:
 - University of Delaware
 - Department of Justice
@@ -40,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +144,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-doj-says-ucla-law-school-illegally-considered-race-in-admissions
+  headline: DOJ says UCLA Law School illegally considered race in admissions
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7024
 - slug: 2026-09-11-doj-files-four-new-suits-over-in-state-tuition-for-noncitizens
   headline: DOJ files four new suits over in-state tuition for noncitizens
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.8159
+  strength: 0.8164
 - slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
   headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.689
+  strength: 0.6889
 - slug: 2026-09-24-doj-asks-supreme-court-to-allow-third-country-deportation-policy
   headline: DOJ asks Supreme Court to allow third-country deportation policy
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.676
+  strength: 0.6766
 - slug: 2026-08-28-justice-department-files-dream-act-tuition-lawsuits-against-four-states
   headline: Justice Department files Dream Act tuition lawsuits against four states
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.8001
+  strength: 0.8004
 - slug: 2026-09-10-doj-says-berkeley-law-violated-civil-rights-law-in-2024-25-admissions
   headline: DOJ says Berkeley Law violated civil-rights law in 2024-25 admissions
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6983
+  strength: 0.6975
 - slug: 2026-08-10-doj-targets-new-york-connecticut-vermont-with-dream-act-tuition-complaints
   headline: DOJ targets New York, Connecticut, Vermont with Dream Act tuition complaints
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.78
+  strength: 0.7806
 - slug: 2026-07-17-justice-department-sues-maryland-over-in-state-tuition-for-undocumented-students
-  headline: Justice Department sues Maryland over in-state tuition for undocumented students
+  headline: Justice Department sues Maryland over in-state tuition for undocumented
+    students
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.8185
-- slug: 2026-06-30-1996-law-at-center-of-doj-tuition-suits-against-mass-r-i
-  headline: 1996 law at center of DOJ tuition suits against Mass., R.I.
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.8001
-- slug: 2026-08-06-doj-accuses-duke-law-of-unlawfully-considering-race-in-admissions
-  headline: DOJ accuses Duke Law of unlawfully considering race in admissions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7021
-- slug: 2026-06-25-kansas-doj-seek-to-end-in-state-tuition-for-undocumented-students
-  headline: Kansas, DOJ seek to end in-state tuition for undocumented students
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7498
-- slug: 2026-07-21-doj-says-uc-san-diego-medical-school-illegally-used-race-in-admissions
-  headline: DOJ says UC San Diego medical school illegally used race in admissions
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6855
-- slug: 2026-07-20-justice-department-investigates-harvard-s-china-based-financial-aid-programs
-  headline: Justice Department investigates Harvard's China-based financial aid programs
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6812
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7362
-- slug: 2026-07-02-florida-board-votes-to-ban-undocumented-students-from-state-colleges
-  headline: Florida board votes to ban undocumented students from state colleges
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6794
-- slug: 2026-05-15-justice-department-alleges-yale-medical-school-illegally-factored-race-into-admi
-  headline: Justice Department alleges Yale medical school illegally factored race into admissions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.723
-- slug: 2026-05-15-justice-department-alleges-yale-illegally-considered-race-in-medical-admissions
-  headline: Justice Department alleges Yale illegally considered race in medical admissions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7209
-- slug: 2026-05-19-democratic-led-states-sue-over-trump-caps-on-federal-student-loans
-  headline: Democratic-led states sue over Trump caps on federal student loans
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6909
-- slug: 2026-03-29-minnesota-judge-dismisses-doj-bid-to-block-in-state-tuition-programs
-  headline: Minnesota judge dismisses DOJ bid to block in-state tuition programs
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7117
-- slug: 2026-05-20-democratic-led-states-sue-trump-over-federal-student-loan-caps
-  headline: Democratic-led states sue Trump over federal student loan caps
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6852
-- slug: 2026-02-14-justice-department-sues-harvard-for-admissions-data-access-over-race
-  headline: Justice Department sues Harvard for admissions data access over race
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.721
+  strength: 0.8184
 ---
-
 ## DOJ sues University of Delaware over in-state tuition for undocumented students
 
 **Subtype:** fact

@@ -1,9 +1,15 @@
 ---
-headline: Kennedy Center Honors to move to Capital One Arena for first time since 1978
+headline: Kennedy Center Honors to move to Capital One Arena for first time since
+  1978
 secondary_headline: Federal judge ordered Trump's name removed from the venue in May
 publish_date: '2026-10-02'
-lede: The Kennedy Center Honors will be held at the Capital One Arena in Washington on December 7, a Kennedy Center spokesperson said, marking the first time the annual ceremony will be staged outside the John F. Kennedy Center for the Performing Arts since the award began in 1978.
-nut_graf: The relocation comes as a federal judge has ordered Trump's name removed from the venue, Trump has threatened to demolish the building, and a separate legislative effort to prevent such demolition has been blocked.
+lede: The Kennedy Center Honors will be held at the Capital One Arena in Washington
+  on December 7, a Kennedy Center spokesperson said, marking the first time the annual
+  ceremony will be staged outside the John F. Kennedy Center for the Performing Arts
+  since the award began in 1978.
+nut_graf: The relocation comes as a federal judge has ordered Trump's name removed
+  from the venue, Trump has threatened to demolish the building, and a separate legislative
+  effort to prevent such demolition has been blocked.
 primary_entities:
 - Kennedy Center
 - Donald Trump
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +146,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-board-seeks-renovation-adding-trump-name-to-kennedy-center-facade
+  headline: Board seeks renovation adding Trump name to Kennedy Center facade
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8575
 - slug: 2026-09-19-trump-threatens-kennedy-center-demolition-after-court-blocks-renaming-bid
-  headline: Trump threatens Kennedy Center demolition after court blocks renaming bid
+  headline: Trump threatens Kennedy Center demolition after court blocks renaming
+    bid
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.8056
+  strength: 0.8059
 - slug: 2026-09-19-thousands-rally-at-kennedy-center-over-closure-demolition-fears
   headline: Thousands rally at Kennedy Center over closure, demolition fears
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7944
+  strength: 0.7945
 - slug: 2026-09-15-kennedy-center-board-votes-to-close-main-building-after-judge-blocks-trump-name
-  headline: Kennedy Center board votes to close main building after judge blocks Trump name
+  headline: Kennedy Center board votes to close main building after judge blocks Trump
+    name
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.799
+  strength: 0.7995
 - slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
+  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED'
+    placard
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7722
+  strength: 0.7724
 - slug: 2026-09-15-judge-blocks-second-attempt-to-add-trump-s-name-to-kennedy-center-facade
   headline: Judge blocks second attempt to add Trump's name to Kennedy Center facade
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7803
+  strength: 0.7808
 - slug: 2026-09-15-cooper-no-proof-kennedy-center-donations-hinge-on-trump-name
   headline: 'Cooper: no proof Kennedy Center donations hinge on Trump name'
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7582
-- slug: 2026-09-17-judge-orders-kennedy-center-board-to-give-30-days-notice-on-building-changes
-  headline: Judge orders Kennedy Center board to give 30 days' notice on building changes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7429
+  strength: 0.7584
 - slug: 2026-09-15-kennedy-center-board-to-vote-on-closure-shelving-trump-renaming-vote
   headline: Kennedy Center board to vote on closure, shelving Trump-renaming vote
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7527
-- slug: 2026-09-14-court-filings-detail-10-options-to-add-trump-s-name-to-kennedy-center-facade
-  headline: Court filings detail 10 options to add Trump's name to Kennedy Center facade
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7513
-- slug: 2026-09-14-kennedy-center-director-tells-board-building-is-unsafe
-  headline: Kennedy Center director tells board building is unsafe
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7478
-- slug: 2026-08-27-kennedy-center-board-votes-to-add-trump-name-to-building-s-plaza
-  headline: Kennedy Center board votes to add Trump name to building's plaza
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.8
-- slug: 2026-08-25-doj-filing-threatens-demolition-of-kennedy-center-if-trump-naming-plan-blocked
-  headline: DOJ filing threatens demolition of Kennedy Center if Trump naming plan blocked
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7452
-- slug: 2026-08-13-kennedy-center-board-to-weigh-three-renovation-options-after-court-block
-  headline: Kennedy Center board to weigh three renovation options after court block
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7632
-- slug: 2026-06-12-kennedy-center-board-votes-to-seek-stay-of-order-to-remove-trump-s-name
-  headline: Kennedy Center board votes to seek stay of order to remove Trump's name
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.8043
-- slug: 2026-06-01-trump-abandons-kennedy-center-renovation-plans-after-judge-blocks-project
-  headline: Trump abandons Kennedy Center renovation plans after judge blocks project
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8149
-- slug: 2026-06-16-trump-s-name-removed-from-kennedy-center-facade-under-court-order
-  headline: Trump's name removed from Kennedy Center facade under court order
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7876
-- slug: 2026-06-20-kennedy-center-likely-to-remain-closed-for-renovations-board-tells-judge
-  headline: Kennedy Center likely to remain closed for renovations, board tells judge
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7814
-- slug: 2026-06-08-kennedy-center-removes-trump-s-name-from-its-website-after-judge-s-order
-  headline: Kennedy Center removes Trump's name from its website after judge's order
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7885
-- slug: 2026-07-08-appeals-court-rejects-emergency-bid-to-restore-trump-name-to-kennedy-center
-  headline: Appeals court rejects emergency bid to restore Trump name to Kennedy Center
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.744
-- slug: 2026-06-04-kennedy-center-directs-staff-to-remove-trump-s-name-by-june-12
-  headline: Kennedy Center directs staff to remove Trump's name by June 12
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7761
+  strength: 0.7529
 ---
-
 ## Kennedy Center Honors to move to Capital One Arena for first time since 1978
 
 **Subtype:** fact

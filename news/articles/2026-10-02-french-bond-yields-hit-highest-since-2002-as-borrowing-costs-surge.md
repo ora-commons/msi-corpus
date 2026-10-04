@@ -2,8 +2,19 @@
 headline: French bond yields hit highest since 2002 as borrowing costs surge
 secondary_headline: Spread with German debt widens to widest since 2012
 publish_date: '2026-10-02'
-lede: The yield on French 10-year government bonds climbed to its highest level since 2002 on October 1, 2026, as investors sold off French sovereign debt amid concerns over Paris's fiscal position. The move widened the gap between French and German 10-year borrowing costs to its largest level since 2012, a key measure of investor concern. The French government proposes spending cuts and tax increases as the country's public debt climbs to a record high, ahead of eurozone inflation data and the US September jobs report due October 2.
-nut_graf: The French bond rout is part of a broader retreat from sovereign debt across major economies, with the Guardian noting the turmoil is reviving memories of the eurozone debt crisis of 15 years ago. Investors are weighing France's fiscal position against political uncertainty ahead of 2027 presidential elections, and the upcoming inflation and jobs data will shape expectations for both the European Central Bank and the US Federal Reserve.
+lede: The yield on French 10-year government bonds climbed to its highest level since
+  2002 on October 1, 2026, as investors sold off French sovereign debt amid concerns
+  over Paris's fiscal position. The move widened the gap between French and German
+  10-year borrowing costs to its largest level since 2012, a key measure of investor
+  concern. The French government proposes spending cuts and tax increases as the country's
+  public debt climbs to a record high, ahead of eurozone inflation data and the US
+  September jobs report due October 2.
+nut_graf: The French bond rout is part of a broader retreat from sovereign debt across
+  major economies, with the Guardian noting the turmoil is reviving memories of the
+  eurozone debt crisis of 15 years ago. Investors are weighing France's fiscal position
+  against political uncertainty ahead of 2027 presidential elections, and the upcoming
+  inflation and jobs data will shape expectations for both the European Central Bank
+  and the US Federal Reserve.
 primary_entities:
 - France
 - Germany
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +68,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-10-02'
-  caption: The US 10-year Treasury yield stood at 5.29% on October 2, 2026, part of the broader global sovereign debt sell-off that has pushed French and other major-economy borrowing costs to multi-year highs.
+  caption: The US 10-year Treasury yield stood at 5.29% on October 2, 2026, part of
+    the broader global sovereign debt sell-off that has pushed French and other major-economy
+    borrowing costs to multi-year highs.
 figures_aggregate:
   count: 1
   series_ids:
@@ -150,104 +164,44 @@ related_stories:
   headline: 10-year Treasury yield climbs to highest level since May 2002
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6828
+  strength: 0.6804
 - slug: 2026-09-24-global-bond-sell-off-deepens-after-us-flash-pmi-shows-activity-at-five-year-high
-  headline: Global bond sell-off deepens after US flash PMI shows activity at five-year high
+  headline: Global bond sell-off deepens after US flash PMI shows activity at five-year
+    high
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.704
+  strength: 0.7018
 - slug: 2026-09-24-global-bond-sell-off-raises-uk-gilt-yields-to-near-19-year-high
   headline: Global bond sell-off raises UK gilt yields to near 19-year high
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.686
+  strength: 0.6846
 - slug: 2026-09-24-us-30-year-mortgage-rate-tops-7-for-first-time-since-january-2025
   headline: US 30-year mortgage rate tops 7% for first time since January 2025
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6765
+  strength: 0.6755
 - slug: 2026-09-20-treasury-yields-hit-4-94-amid-iran-war-and-ai-debt-fears
   headline: Treasury yields hit 4.94% amid Iran war and AI debt fears
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6785
+  strength: 0.6751
 - slug: 2026-09-10-bond-selloff-could-raise-borrowing-costs-for-consumers-and-businesses
   headline: Bond selloff could raise borrowing costs for consumers and businesses
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7212
+  strength: 0.7197
 - slug: 2026-09-15-bessent-claims-treasury-bond-buybacks-a-success-despite-rising-yields
   headline: Bessent claims Treasury bond buybacks a success, despite rising yields
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6912
+  strength: 0.6888
 - slug: 2026-08-17-bond-yields-rise-to-multi-year-or-multi-decade-highs-across-major-economies
   headline: Bond yields rise to multi-year or multi-decade highs across major economies
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.8096
-- slug: 2026-09-14-10-year-treasury-yield-briefly-tops-5-as-fed-meeting-approaches
-  headline: 10-year Treasury yield briefly tops 5% as Fed meeting approaches
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6712
-- slug: 2026-09-09-treasury-to-buy-back-6bn-in-bonds-as-30-year-yields-keep-climbing
-  headline: Treasury to buy back $6bn in bonds as 30-year yields keep climbing
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6734
-- slug: 2026-09-01-us-10-year-treasury-yield-hits-4-79-amid-renewed-middle-east-strikes
-  headline: US 10-year Treasury yield hits 4.79% amid renewed Middle East strikes
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7049
-- slug: 2026-08-24-treasury-yields-rebound-after-bessent-announces-more-bond-purchases
-  headline: Treasury yields rebound after Bessent announces more bond purchases
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7244
-- slug: 2026-09-08-treasury-auctions-30-year-gilts-at-5-82-highest-yield-since-1998
-  headline: Treasury auctions 30-year gilts at 5.82%, highest yield since 1998
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6574
-- slug: 2026-08-20-bond-sell-off-pushes-30-year-treasury-yield-to-highest-since-2007
-  headline: Bond sell-off pushes 30-year Treasury yield to highest since 2007
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7295
-- slug: 2026-08-19-treasury-doubles-bond-buybacks-to-ease-30-year-yields-near-20-year-high
-  headline: Treasury doubles bond buybacks to ease 30-year yields near 20-year high
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7255
-- slug: 2026-09-02-big-tech-borrowing-and-iran-tensions-drive-global-bond-rout
-  headline: Big Tech borrowing and Iran tensions drive global bond rout
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6698
-- slug: 2026-08-18-bond-selloff-lifts-30-year-treasury-yield-past-5-3-for-first-time-since-2007
-  headline: Bond selloff lifts 30-year Treasury yield past 5.3% for first time since 2007
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7255
-- slug: 2026-08-28-french-inflation-accelerates-to-2-7-in-august-on-energy-costs
-  headline: French inflation accelerates to 2.7% in August on energy costs
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6761
-- slug: 2026-08-19-treasury-to-more-than-double-bond-buybacks-as-yields-hit-multi-year-highs
-  headline: Treasury to more than double bond buybacks as yields hit multi-year highs
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.664
-- slug: 2026-05-20-bond-market-sends-warning-signals-as-yields-jump-and-stocks-slump
-  headline: Bond market sends warning signals as yields jump and stocks slump
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7098
+  strength: 0.8086
 ---
-
 ## French bond yields hit highest since 2002 as borrowing costs surge
 
 **Subtype:** fact

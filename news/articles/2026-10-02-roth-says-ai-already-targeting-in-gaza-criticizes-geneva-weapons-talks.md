@@ -1,9 +1,18 @@
 ---
 headline: Roth says AI already targeting in Gaza, criticizes Geneva weapons talks
-secondary_headline: Column details Lavender AI system and claimed 20-to-1 civilian ratio
+secondary_headline: Column details Lavender AI system and claimed 20-to-1 civilian
+  ratio
 publish_date: '2026-10-02'
-lede: Kenneth Roth, the former executive director of Human Rights Watch, argued in a Guardian opinion column published Friday that artificial intelligence systems are already determining who lives and who dies in Gaza, and that recent Geneva talks on autonomous weapons were weakened by lawyers sent by President Donald Trump and Russian President Vladimir Putin.
-nut_graf: Negotiations in Geneva on autonomous weapons have been underway for more than a decade, and 128 governments met in early September to approve a report that could serve as the foundation for a binding treaty. Roth's column frames the dispute as a question of whether meaningful human control over AI-empowered weaponry can be preserved.
+lede: Kenneth Roth, the former executive director of Human Rights Watch, argued in
+  a Guardian opinion column published Friday that artificial intelligence systems
+  are already determining who lives and who dies in Gaza, and that recent Geneva talks
+  on autonomous weapons were weakened by lawyers sent by President Donald Trump and
+  Russian President Vladimir Putin.
+nut_graf: Negotiations in Geneva on autonomous weapons have been underway for more
+  than a decade, and 128 governments met in early September to approve a report that
+  could serve as the foundation for a binding treaty. Roth's column frames the dispute
+  as a question of whether meaningful human control over AI-empowered weaponry can
+  be preserved.
 primary_entities:
 - Kenneth Roth
 - The Guardian
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: CC0
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -119,109 +129,44 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-25-microsoft-activists-call-for-ban-on-ai-in-military-targeting-autonomous-weapons-
-  headline: Microsoft activists call for ban on AI in military targeting, autonomous weapons, surveillance
+  headline: Microsoft activists call for ban on AI in military targeting, autonomous
+    weapons, surveillance
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6957
+  strength: 0.696
 - slug: 2026-09-27-bill-gates-urges-federal-regulation-of-ai-warns-of-a-billion-deaths
   headline: Bill Gates urges federal regulation of AI, warns of 'a billion deaths'
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6653
-- slug: 2026-09-30-guardian-columnist-challenges-gates-ai-warning-credibility-over-epstein-record
-  headline: Guardian columnist challenges Gates' AI warning credibility over Epstein record
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6366
-- slug: 2026-09-28-gates-warns-ai-regulation-needed-to-prevent-billion-deaths
-  headline: Gates warns AI regulation needed to prevent 'billion deaths'
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6455
-- slug: 2026-09-25-hague-group-convenes-40-states-at-un-to-defend-international-legal-order
-  headline: Hague Group convenes 40 states at UN to defend international legal order
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6464
-- slug: 2026-09-24-st-re-and-stubb-propose-global-ai-oversight-framework
-  headline: Støre and Stubb propose global AI oversight framework
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6358
-- slug: 2026-09-20-next-un-secretary-general-faces-gaza-genocide-accusation-climate-crisis-ai-threa
-  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis, AI threats
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6332
+  strength: 0.6657
 - slug: 2026-09-11-roth-argues-bush-torture-non-prosecution-enabled-trump-policies
   headline: Roth argues Bush torture non-prosecution enabled Trump policies
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6785
-- slug: 2026-09-17-roth-warns-trump-faces-icc-prosecution-risk-over-2-8b-israel-bomb-deal
-  headline: Roth warns Trump faces ICC prosecution risk over $2.8B Israel bomb deal
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6392
-- slug: 2026-08-27-board-of-peace-envoy-criticizes-israel-at-un-warns-of-next-gaza-war
-  headline: Board of Peace envoy criticizes Israel at UN, warns of next Gaza war
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6483
-- slug: 2026-08-21-us-sanctions-icc-president-and-trial-lawyer-raising-total-to-13
-  headline: US sanctions ICC president and trial lawyer, raising total to 13
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6491
+  strength: 0.6779
 - slug: 2026-08-10-netanyahu-rejects-sequencing-of-board-of-peace-s-15-point-gaza-plan
   headline: Netanyahu rejects sequencing of Board of Peace's 15-point Gaza plan
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6517
-- slug: 2026-08-17-trump-publicly-tells-israel-to-stop-gaza-strikes-as-kushner-presses-netanyahu
-  headline: Trump publicly tells Israel to stop Gaza strikes as Kushner presses Netanyahu
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6294
+  strength: 0.6512
 - slug: 2026-06-30-roth-says-us-israel-ties-shifting-as-unconditional-support-erodes
   headline: Roth says US-Israel ties shifting as unconditional support erodes
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7051
+  strength: 0.7057
 - slug: 2026-06-19-either-robots-kill-us-or-russians-ai-warfare-hits-point-of-no-return
   headline: '‘Either robots kill us or Russians’: AI warfare hits point of no return'
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7044
+  strength: 0.7038
 - slug: 2026-07-06-guterres-calls-for-international-ban-on-killer-robots
   headline: Guterres calls for international ban on ‘killer robots’
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.6716
-- slug: 2026-06-24-un-inquiry-israel-continues-genocide-children-gaza
-  headline: UN Inquiry Finds Israel Continues Genocide by Targeting Children in Gaza
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6331
-- slug: 2026-06-07-trump-s-diplomatic-record-under-scrutiny-as-ceasefires-falter-across-multiple-fr
-  headline: Trump's diplomatic record under scrutiny as ceasefires falter across multiple fronts
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6303
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6267
-- slug: 2026-05-12-board-of-peace-envoy-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament
-  headline: Board of Peace envoy Mladenov says Gaza ceasefire hinges on Hamas disarmament
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6356
+  strength: 0.6707
 analyses:
-- '2026-10-02-roth-alleges-us-russia-delegations-weakened-geneva-ai-weapons-report'
+- 2026-10-02-roth-alleges-us-russia-delegations-weakened-geneva-ai-weapons-report
 ---
-
 ## Roth says AI already targeting in Gaza, criticizes Geneva weapons talks
 
 **Subtype:** fact

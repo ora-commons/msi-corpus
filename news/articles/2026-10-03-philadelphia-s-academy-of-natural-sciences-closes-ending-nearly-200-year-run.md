@@ -1,9 +1,16 @@
 ---
-headline: Philadelphia's Academy of Natural Sciences closes, ending nearly 200-year run
+headline: Philadelphia's Academy of Natural Sciences closes, ending nearly 200-year
+  run
 secondary_headline: Council gains subpoena power over Drexel as it probes closure
 publish_date: '2026-10-03'
-lede: The Academy of Natural Sciences in Philadelphia closed its doors September 30, ending a nearly 200-year run as the oldest natural history museum in the Americas. Drexel University, which assumed financial responsibility for the institution in 2011, announced the closure on September 1, citing post-pandemic cost increases and falling attendance.
-nut_graf: The closure follows a year of retrenchment at the museum and a deteriorating financial picture at Drexel, and comes against a backdrop of widespread financial strain across the U.S. museum sector.
+lede: The Academy of Natural Sciences in Philadelphia closed its doors September 30,
+  ending a nearly 200-year run as the oldest natural history museum in the Americas.
+  Drexel University, which assumed financial responsibility for the institution in
+  2011, announced the closure on September 1, citing post-pandemic cost increases
+  and falling attendance.
+nut_graf: The closure follows a year of retrenchment at the museum and a deteriorating
+  financial picture at Drexel, and comes against a backdrop of widespread financial
+  strain across the U.S. museum sector.
 primary_entities:
 - Academy of Natural Sciences
 - Drexel University
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -73,109 +81,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-25-council-ends-trump-arch-preservation-talks-citing-local-impasse
-  headline: Council ends Trump arch preservation talks, citing local impasse
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5771
-- slug: 2026-09-25-xi-announces-atlanta-panda-pair-at-trump-summit
-  headline: Xi announces Atlanta panda pair at Trump summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5463
-- slug: 2026-09-19-trump-threatens-kennedy-center-demolition-after-court-blocks-renaming-bid
-  headline: Trump threatens Kennedy Center demolition after court blocks renaming bid
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5668
-- slug: 2026-09-08-smithsonian-secretary-lonnie-bunch-to-retire-by-year-s-end
-  headline: Smithsonian Secretary Lonnie Bunch to retire by year's end
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5618
-- slug: 2026-09-11-smithsonian-secretary-bunch-to-retire-as-scholars-criticize-patriotic-education
-  headline: Smithsonian Secretary Bunch to retire as scholars criticize 'patriotic education'
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5434
-- slug: 2026-08-30-usda-shutters-two-cyclospora-research-projects-as-outbreak-tops-17-000-cases
-  headline: USDA shutters two cyclospora research projects as outbreak tops 17,000 cases
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5607
-- slug: 2026-08-29-researchers-detail-fallout-from-termination-of-over-100-federal-science-panels
-  headline: Researchers detail fallout from termination of over 100 federal science panels
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5431
-- slug: 2026-07-15-trump-administration-replaces-slavery-exhibit-at-washington-s-philadelphia-home
-  headline: Trump administration replaces slavery exhibit at Washington's Philadelphia home
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5454
-- slug: 2026-01-13-arizona-state-museum-charts-three-building-path-as-regents-stall-50m-repair-requ
-  headline: Arizona State Museum charts three-building path as regents stall $50M repair request
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6205
-- slug: 2026-06-19-scientists-fight-back-against-trump-plan-to-centralize-control-of-federal-grants
-  headline: Scientists fight back against Trump plan to centralize control of federal grants
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5466
-- slug: 2026-06-02-nsf-suspends-21m-in-berkeley-grants-over-disputed-foreign-funding-claims
-  headline: NSF suspends $21M in Berkeley grants over disputed foreign funding claims
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5572
-- slug: 2026-05-10-nsf-suspends-18-uc-berkeley-research-grants-despite-court-injunction
-  headline: NSF suspends 18 UC Berkeley research grants despite court injunction
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5727
-- slug: 2026-02-20-appeals-court-pauses-slavery-exhibit-work-in-philadelphia
-  headline: Appeals court pauses slavery exhibit work in Philadelphia
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6002
-- slug: 2026-06-02-researchers-reject-foreign-funding-allegations-as-nsf-suspends-21m-in-berkeley-g
-  headline: Researchers reject foreign funding allegations as NSF suspends $21M in Berkeley grants
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5467
-- slug: 2026-05-21-researchers-say-trump-administration-is-finding-new-ways-to-punish-science
-  headline: Researchers say Trump administration is finding new ways to punish science
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.555
-- slug: 2026-05-21-trump-failed-to-stop-indigenous-exhibit-at-berkeley-opened-sunday
-  headline: Trump failed to stop Indigenous exhibit at Berkeley, opened Sunday
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.548
-- slug: 2026-02-25-louvre-museum-director-resigns-after-crown-jewels-theft-ticket-fraud-probe
-  headline: Louvre Museum director resigns after crown jewels theft, ticket fraud probe
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5756
-- slug: 2026-04-29-trump-administration-fires-national-science-board-members-overseeing-nsf
-  headline: Trump administration fires National Science Board members overseeing NSF
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5452
-- slug: 2026-01-23-philadelphia-sues-to-block-removal-of-slavery-exhibit-from-independence-park
-  headline: Philadelphia sues to block removal of slavery exhibit from Independence Park
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.5694
-- slug: 2026-01-13-smithsonian-hands-exhibit-details-to-white-house-amid-pressure-for-upbeat-us-his
-  headline: Smithsonian hands exhibit details to White House amid pressure for upbeat US history
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.5628
+related_stories: []
 ---
-
 ## Philadelphia's Academy of Natural Sciences closes, ending nearly 200-year run
 
 **Subtype:** fact

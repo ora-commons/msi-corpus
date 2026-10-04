@@ -1,9 +1,20 @@
 ---
 headline: Diesel prices hit records in US and EU as wars curb global supply
-secondary_headline: Analysts warn US export limits would have potentially catastrophic global impact
+secondary_headline: Analysts warn US export limits would have potentially catastrophic
+  global impact
 publish_date: '2026-10-01'
-lede: US diesel prices hit an all-time high of $6.52 a gallon last week, while average prices across the European Union hit a record $9.63 a gallon this week, according to Eurostat, as wars in the Middle East and Ukraine have blocked shipments from regions that normally supply nearly a third of the world's diesel exports. The Trump administration is considering restrictions or an outright ban on US diesel exports to curb prices, The Wall Street Journal reported, though analysts warn such limits would have a potentially catastrophic impact on global supplies.
-nut_graf: Diesel powers heavy trucks, tractors, and ships, and economies around the world rely on it, so the supply shock translates into higher costs for food, freight, and household heating. A US export ban, intended to curb domestic prices, would instead cut off another crucial source of supply from a global market in which the Middle East shortfall alone stood at roughly four million tons last month.
+lede: US diesel prices hit an all-time high of $6.52 a gallon last week, while average
+  prices across the European Union hit a record $9.63 a gallon this week, according
+  to Eurostat, as wars in the Middle East and Ukraine have blocked shipments from
+  regions that normally supply nearly a third of the world's diesel exports. The Trump
+  administration is considering restrictions or an outright ban on US diesel exports
+  to curb prices, The Wall Street Journal reported, though analysts warn such limits
+  would have a potentially catastrophic impact on global supplies.
+nut_graf: Diesel powers heavy trucks, tractors, and ships, and economies around the
+  world rely on it, so the supply shock translates into higher costs for food, freight,
+  and household heating. A US export ban, intended to curb domestic prices, would
+  instead cut off another crucial source of supply from a global market in which the
+  Middle East shortfall alone stood at roughly four million tons last month.
 primary_entities:
 - United States
 - European Union
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +156,43 @@ related_stories:
   headline: Trump backs diesel export ban to ease record US pump prices
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8313
+  strength: 0.8304
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7976
+  strength: 0.7972
+- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
+  headline: G7 to coordinate refinery maintenance as diesel supply tightens
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7853
 - slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
   headline: Healey says UK preparing for diesel export ban as fuel prices hit record
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8054
+  strength: 0.8047
 - slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
   headline: Trump weighs diesel export ban to ease record fuel prices
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8387
-- slug: 2026-09-29-uk-and-france-push-back-on-trump-s-diesel-export-ban-plan
-  headline: UK and France push back on Trump's diesel export ban plan
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7908
+  strength: 0.8385
 - slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
   headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7969
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
+  strength: 0.7974
+- slug: 2026-09-29-uk-and-france-push-back-on-trump-s-diesel-export-ban-plan
+  headline: UK and France push back on Trump's diesel export ban plan
+  publish_date: '2026-09-29'
   relation: related
-  strength: 0.7898
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
+  strength: 0.7902
+- slug: 2026-10-02-uk-diesel-average-breaks-2-a-litre-for-the-first-time
+  headline: UK diesel average breaks £2 a litre for the first time
+  publish_date: '2026-10-02'
   relation: related
-  strength: 0.821
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.8077
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8599
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.8057
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.8174
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7817
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.8063
-- slug: 2026-09-23-trump-weighs-diesel-export-ban-as-fuel-prices-hit-record-high
-  headline: Trump weighs diesel export ban as fuel prices hit record high
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.792
-- slug: 2026-09-19-iran-and-ukraine-wars-squeeze-global-diesel-supply-as-refinery-exports-plunge
-  headline: Iran and Ukraine wars squeeze global diesel supply as refinery exports plunge
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.8128
-- slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7892
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7659
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7877
-- slug: 2026-09-11-average-us-diesel-price-crosses-6-per-gallon-for-the-first-time
-  headline: Average US diesel price crosses $6 per gallon for the first time
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.803
+  strength: 0.7757
 ---
-
 ## Diesel prices hit records in US and EU as wars curb global supply
 
 **Subtype:** fact

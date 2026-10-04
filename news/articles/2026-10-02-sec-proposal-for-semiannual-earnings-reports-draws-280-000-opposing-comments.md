@@ -1,9 +1,18 @@
 ---
 headline: SEC proposal for semiannual earnings reports draws 280,000 opposing comments
-secondary_headline: Investors warn less frequent reporting could raise companies' cost of capital
+secondary_headline: Investors warn less frequent reporting could raise companies'
+  cost of capital
 publish_date: '2026-10-02'
-lede: The Securities and Exchange Commission is weighing a rule change that would let publicly traded companies report earnings every six months instead of every three months, a proposal that has drawn more than 280,000 public comment letters. The comment period, which opened in May 2026, has produced what Tzachi Zach, an accounting professor at Ohio State, described as a record-breaking level of public engagement, with over 99% of submissions in opposition. A final commission decision is expected by late 2026.
-nut_graf: The proposal would weaken a quarterly reporting requirement that has stood since 1970, and that investors cite as essential to monitoring company performance and protecting retirement savings.
+lede: The Securities and Exchange Commission is weighing a rule change that would
+  let publicly traded companies report earnings every six months instead of every
+  three months, a proposal that has drawn more than 280,000 public comment letters.
+  The comment period, which opened in May 2026, has produced what Tzachi Zach, an
+  accounting professor at Ohio State, described as a record-breaking level of public
+  engagement, with over 99% of submissions in opposition. A final commission decision
+  is expected by late 2026.
+nut_graf: The proposal would weaken a quarterly reporting requirement that has stood
+  since 1970, and that investors cite as essential to monitoring company performance
+  and protecting retirement savings.
 primary_entities:
 - Securities and Exchange Commission
 - Paul Atkins
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -84,108 +94,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-30-demos-29-of-q3-ipos-price-below-range-almost-double-prior-four-quarter-high
-  headline: 'Demos: 29% of Q3 IPOs price below range, almost double prior four-quarter high'
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6486
 - slug: 2026-08-17-companies-would-keep-quarterly-earnings-but-shift-some-filings-to-semiannual-sur
-  headline: Companies would keep quarterly earnings but shift some filings to semiannual, surveys find
+  headline: Companies would keep quarterly earnings but shift some filings to semiannual,
+    surveys find
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7602
-- slug: 2026-09-10-three-states-limit-community-air-data-under-industry-backed-laws
-  headline: Three states limit community air data under industry-backed laws
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5991
-- slug: 2026-09-04-private-equity-sits-on-record-backlog-of-unsold-us-portfolio-companies
-  headline: Private equity sits on record backlog of unsold US portfolio companies
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6188
-- slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
-  headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6029
+  strength: 0.7598
 - slug: 2026-06-04-sec-proposes-overturning-biden-era-rule-requiring-corporate-climate-disclosures
   headline: SEC Proposes Overturning Biden-Era Rule Requiring Corporate Climate Disclosures
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7189
-- slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
-  headline: SpaceX shares down by half from June peak as earnings call nears
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.613
-- slug: 2026-08-06-late-stage-investors-question-the-sale-of-their-spacex-holdings
-  headline: Late Stage investors question the sale of their SpaceX holdings
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.601
-- slug: 2026-07-20-omb-rule-would-give-political-appointees-control-of-1-trillion-in-grants
-  headline: OMB rule would give political appointees control of $1 trillion in grants
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6002
-- slug: 2026-06-14-index-providers-fast-track-spacex-into-benchmarks-raising-bubble-worries-for-pas
-  headline: Index providers fast-track SpaceX into benchmarks, raising bubble worries for passive investors
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6385
-- slug: 2026-06-11-sec-proposes-scrapping-2005-trade-through-rule-for-u-s-stock-markets
-  headline: SEC proposes scrapping 2005 trade-through rule for U.S. stock markets
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6405
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6109
-- slug: 2026-06-01-private-equity-firms-look-to-rekindled-ipo-market-to-unload-33-000-investments
-  headline: Private-equity firms look to rekindled IPO market to unload 33,000 investments
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6275
-- slug: 2026-05-22-connecticut-legislators-see-surge-in-written-bill-testimony-with-more-anonymity
-  headline: Connecticut legislators see surge in written bill testimony, with more anonymity
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6276
-- slug: 2026-06-02-insurers-brace-for-wave-of-lawsuits-and-rate-hikes-in-private-credit-market
-  headline: Insurers brace for wave of lawsuits and rate hikes in private-credit market
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6161
-- slug: 2026-06-08-for-a-select-few-ipos-are-winners-good-luck-to-everyone-else
-  headline: For a Select Few, IPOs Are Winners. Good Luck to Everyone Else.
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6101
-- slug: 2026-06-02-index-providers-fast-track-mega-ipos-as-spacex-anthropic-go-public
-  headline: Index providers fast-track mega IPOs as SpaceX, Anthropic go public
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6059
-- slug: 2026-06-04-short-seller-andrew-left-s-fraud-conviction-spooks-wall-street
-  headline: Short seller Andrew Left's fraud conviction spooks Wall Street
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5993
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6069
-- slug: 2026-05-20-spacex-ipo-plans-could-reshape-markets-as-spending-shifts-to-rockets-and-ai
-  headline: SpaceX IPO plans could reshape markets as spending shifts to rockets and AI
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6044
+  strength: 0.719
 ---
-
 ## SEC proposal for semiannual earnings reports draws 280,000 opposing comments
 
 **Subtype:** fact

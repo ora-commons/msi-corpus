@@ -2,11 +2,26 @@
 headline: Four adults charged after sixteen children found in Hamden, Ohio home
 secondary_headline: Paid placement costs have risen 41% since 2020, association says
 publish_date: '2026-10-02'
-lede: 'Authorities removed sixteen children from a dilapidated Hamden, Ohio home on June 30 after law enforcement serving unrelated arrest warrants found several of the children near death, The Guardian reported. Four family members — grandparents Gary Siders and Christina Siders, and parents Gary Siders II and Elizabeth Siders — face sixteen counts of child endangerment each, and in August the parents were additionally charged with sexual battery and unlawful sexual conduct with a minor. All four have pleaded not guilty.
+lede: 'Authorities removed sixteen children from a dilapidated Hamden, Ohio home on
+  June 30 after law enforcement serving unrelated arrest warrants found several of
+  the children near death, The Guardian reported. Four family members — grandparents
+  Gary Siders and Christina Siders, and parents Gary Siders II and Elizabeth Siders
+  — face sixteen counts of child endangerment each, and in August the parents were
+  additionally charged with sexual battery and unlawful sexual conduct with a minor.
+  All four have pleaded not guilty.
 
 
-  Experts cited by The Guardian said the Siders case illustrates major shortcomings among Ohio''s political and administrative authorities in supporting the most at-risk in society. Paid placement costs have risen 41 percent since 2020, with residential and group home care costs up more than 65 percent, and the state''s share of children services spending remains below the national average of 42 percent, according to Angela Sausser of the Public Children Services Association of Ohio.'
-nut_graf: Six of the children are twins aged four or younger, and all sixteen are now in foster care in Vinton County, Ohio's least populous county, where per-child costs run about $200 per day and the local job and family services agency has seen its overall costs rise from less than $4 million in 2015 to more than $10 million in 2024.
+  Experts cited by The Guardian said the Siders case illustrates major shortcomings
+  among Ohio''s political and administrative authorities in supporting the most at-risk
+  in society. Paid placement costs have risen 41 percent since 2020, with residential
+  and group home care costs up more than 65 percent, and the state''s share of children
+  services spending remains below the national average of 42 percent, according to
+  Angela Sausser of the Public Children Services Association of Ohio.'
+nut_graf: Six of the children are twins aged four or younger, and all sixteen are
+  now in foster care in Vinton County, Ohio's least populous county, where per-child
+  costs run about $200 per day and the local job and family services agency has seen
+  its overall costs rise from less than $4 million in 2015 to more than $10 million
+  in 2024.
 primary_entities:
 - Hamden, Ohio
 - Vinton County, Ohio
@@ -46,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +164,18 @@ related_stories:
   headline: Elizabeth Siders pleads not guilty in Ohio child neglect case
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.773
-- slug: 2026-10-01-seven-senators-demand-data-on-childcare-closures-rising-costs
-  headline: Seven senators demand data on childcare closures, rising costs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6309
-- slug: 2026-09-25-tennessee-plans-360m-for-new-youth-prisons-as-arrests-fall
-  headline: Tennessee plans $360M for new youth prisons as arrests fall
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6055
-- slug: 2026-09-18-trump-administration-funnels-most-unaccompanied-children-to-texas-courts
-  headline: Trump administration funnels most unaccompanied children to Texas courts
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6055
-- slug: 2026-09-18-tennessee-democrats-press-dcs-for-answers-on-private-youth-prison-safety
-  headline: Tennessee Democrats press DCS for answers on private youth prison safety
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6041
-- slug: 2026-09-03-hundreds-of-thousands-of-children-sit-on-childcare-assistance-waitlists
-  headline: Hundreds of thousands of children sit on childcare assistance waitlists
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.614
+  strength: 0.7729
 - slug: 2026-07-01-authorities-find-16-ohio-children-confined-to-one-room-for-four-years
   headline: Authorities find 16 Ohio children confined to one room for four years
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.787
-- slug: 2026-08-04-court-monitor-says-mississippi-foster-children-experience-abuse-or-neglect-above
-  headline: Court monitor says Mississippi foster children experience abuse or neglect above acceptable rate
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6072
-- slug: 2026-06-25-wyden-accuses-hhs-of-preparing-to-deport-more-than-500-migrant-children
-  headline: Wyden accuses HHS of preparing to deport more than 500 migrant children
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6385
+  strength: 0.7871
 - slug: 2026-04-08-michigan-youth-sent-out-of-state-for-mental-health-care-as-beds-close
   headline: Michigan youth sent out of state for mental health care as beds close
   publish_date: '2026-04-08'
   relation: related
-  strength: 0.65
-- slug: 2026-06-08-white-south-african-refugees-in-ohio-face-driving-rules-meant-for-immigrants
-  headline: White South African refugees in Ohio face driving rules meant for immigrants
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6066
-- slug: 2026-06-04-louisiana-democrat-demands-transparency-on-proposed-ice-family-detention-center
-  headline: Louisiana Democrat demands transparency on proposed ICE family detention center
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6035
-- slug: 2026-05-02-ap-investigation-finds-adopted-kids-harmed-in-for-profit-residential-programs
-  headline: Adopted kids harmed in for-profit residential programs
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6223
-- slug: 2026-04-19-ohio-nursing-homes-discharge-homeless-patients-to-shelters-federal-says
-  headline: Ohio nursing homes discharge homeless patients to shelters, federal says
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6268
-- slug: 2026-04-13-ohio-nursing-homes-transfer-patients-to-homeless-shelters-federal-finds
-  headline: Ohio nursing homes transfer patients to homeless shelters, federal finds
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6256
-- slug: 2026-04-18-ohio-nursing-homes-send-patients-to-homeless-shelters-inspectors-say
-  headline: Ohio nursing homes send patients to homeless shelters, inspectors say
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6202
-- slug: 2026-03-12-california-foster-care-system-faces-insurance-crisis-as-agencies-shut-down
-  headline: California foster care system faces insurance crisis as agencies shut down
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6283
-- slug: 2026-03-18-child-care-costs-set-to-feature-in-midterm-election-ads
-  headline: Child care costs set to feature in midterm election ads
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6263
-- slug: 2026-01-08-georgia-foster-care-agency-faces-85m-deficit-while-state-holds-14b-surplus
-  headline: Georgia foster care agency faces $85M deficit while state holds $14B surplus
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6368
-- slug: 2026-04-14-ohio-nursing-homes-send-patients-to-homeless-shelters-federal-inspectors-say
-  headline: Ohio nursing homes send patients to homeless shelters, federal inspectors say
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6168
+  strength: 0.6502
 ---
-
 ## Four adults charged after sixteen children found in Hamden, Ohio home
 
 **Subtype:** fact

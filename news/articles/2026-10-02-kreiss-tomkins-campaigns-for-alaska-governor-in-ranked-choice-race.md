@@ -2,8 +2,16 @@
 headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
 secondary_headline: Three Republicans compete in ranked-choice general election
 publish_date: '2026-10-02'
-lede: Jonathan Kreiss-Tomkins, a 37-year-old former state representative, led Alaska's nonpartisan primary in August and holds 40% of first-choice preferences against a combined 41% for three Republican opponents in a bipartisan AARP poll, the Guardian reported October 2. The contest is shaped by local frustration with the outgoing governor and President Donald Trump's falling approval in the state.
-nut_graf: The Guardian described the contest as a potential opening for Democrats in a state where the party has not won the governorship in more than three decades. It unfolds under a ranked-choice voting system adopted by Alaska voters in 2020, against a backdrop of declining presidential approval and unresolved local grievances over the state's annual oil-wealth payment.
+lede: Jonathan Kreiss-Tomkins, a 37-year-old former state representative, led Alaska's
+  nonpartisan primary in August and holds 40% of first-choice preferences against
+  a combined 41% for three Republican opponents in a bipartisan AARP poll, the Guardian
+  reported October 2. The contest is shaped by local frustration with the outgoing
+  governor and President Donald Trump's falling approval in the state.
+nut_graf: The Guardian described the contest as a potential opening for Democrats
+  in a state where the party has not won the governorship in more than three decades.
+  It unfolds under a ranked-choice voting system adopted by Alaska voters in 2020,
+  against a backdrop of declining presidential approval and unresolved local grievances
+  over the state's annual oil-wealth payment.
 primary_entities:
 - Jonathan Kreiss-Tomkins
 - Bernadette Wilson
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -87,110 +96,39 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6337
 - slug: 2026-08-31-begich-withdraws-from-alaska-governor-s-race-endorses-kreiss-tomkins
   headline: Begich withdraws from Alaska governor's race, endorses Kreiss-Tomkins
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7165
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6262
+  strength: 0.7159
 - slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
   headline: Peltola challenges Sullivan as Alaska Senate primary nears
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6759
+  strength: 0.6744
 - slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
   headline: Cook downgrades Iowa Senate race from lean Republican to tossup
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.6531
+  strength: 0.6525
 - slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
   headline: Florida and Alaska primaries test GOP redistricting push
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6636
-- slug: 2026-08-07-andy-ogles-loses-tennessee-gop-primary-to-charlie-hatcher
-  headline: Andy Ogles loses Tennessee GOP primary to Charlie Hatcher
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.641
-- slug: 2026-08-11-hobbs-taps-ex-gop-mesa-mayor-giles-as-running-mate
-  headline: Hobbs taps ex-GOP Mesa mayor Giles as running mate
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6246
-- slug: 2026-08-05-blackburn-rose-vie-for-tennessee-gop-governor-nomination-in-thursday-primary
-  headline: Blackburn, Rose vie for Tennessee GOP governor nomination in Thursday primary
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.633
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6397
-- slug: 2026-07-21-arizona-primaries-set-stage-for-toss-up-house-races-and-governor-contest
-  headline: Arizona primaries set stage for toss-up House races and governor contest
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.649
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6415
-- slug: 2026-05-16-kentucky-gop-rivals-keep-distance-from-mcconnell-in-senate-primary
-  headline: Kentucky GOP rivals keep distance from McConnell in Senate primary
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6424
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6326
+  strength: 0.662
 - slug: 2026-02-26-battleground-arizona-gop-primary-tests-trump-aligned-future
   headline: Battleground Arizona GOP primary tests Trump-aligned future
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6613
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6275
-- slug: 2026-04-01-what-to-expect-in-arkansas-primary-runoff-elections-for-secretary-of-state
-  headline: What to expect in Arkansas’ primary runoff elections for secretary of state
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6495
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6423
+  strength: 0.6596
 - slug: 2026-03-02-arkansas-voters-head-to-tuesday-primaries-with-key-federal-and-state-contests
   headline: Arkansas voters head to Tuesday primaries with key federal and state contests
   publish_date: '2026-03-02'
   relation: related
-  strength: 0.6527
-- slug: 2026-04-17-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6299
+  strength: 0.6509
 analyses:
-- '2026-10-02-four-documented-conditions-compound-to-position-kreiss-tomkins-ahead-in-alaska-g'
+- 2026-10-02-four-documented-conditions-compound-to-position-kreiss-tomkins-ahead-in-alaska-g
 ---
-
 ## Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
 
 **Subtype:** fact

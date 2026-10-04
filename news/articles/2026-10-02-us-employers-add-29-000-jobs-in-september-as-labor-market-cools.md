@@ -2,8 +2,16 @@
 headline: US employers add 29,000 jobs in September as labor market cools
 secondary_headline: Unemployment rate rises to 4.2% ahead of midterm elections
 publish_date: '2026-10-02'
-lede: The US economy added 29,000 jobs in September, a sharp deceleration from August's revised figure of 133,000, according to the Bureau of Labor Statistics. The unemployment rate rose to 4.2% from 4.1% in August, while employers across major sectors from technology to retail left workforces largely unchanged. The September report, the final monthly employment update before the midterm elections, diverges sharply from President Donald Trump's characterization of the US economy as the "hottest" in the world.
-nut_graf: The report lands one month before voters head to the polls, and the data's contrast with the president's repeated claims of economic strength presents challenges for the president and his fellow Republicans in the final stretch of the campaign.
+lede: The US economy added 29,000 jobs in September, a sharp deceleration from August's
+  revised figure of 133,000, according to the Bureau of Labor Statistics. The unemployment
+  rate rose to 4.2% from 4.1% in August, while employers across major sectors from
+  technology to retail left workforces largely unchanged. The September report, the
+  final monthly employment update before the midterm elections, diverges sharply from
+  President Donald Trump's characterization of the US economy as the "hottest" in
+  the world.
+nut_graf: The report lands one month before voters head to the polls, and the data's
+  contrast with the president's repeated claims of economic strength presents challenges
+  for the president and his fellow Republicans in the final stretch of the campaign.
 primary_entities:
 - Bureau of Labor Statistics
 - Federal Reserve
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -93,7 +102,7 @@ related_stories:
   headline: US employers add 162,000 jobs in August, beating forecasts
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.7898
+  strength: 0.7902
 - slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
   headline: U.S. employers are expected to add 65,000 jobs in August
   publish_date: '2026-09-04'
@@ -108,89 +117,28 @@ related_stories:
   headline: US employment falls by 23,000 in July; spring totals revised down
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7628
+  strength: 0.764
 - slug: 2026-08-06-jobless-benefit-filings-edge-higher-while-layoffs-stay-low
   headline: Jobless-benefit filings edge higher while layoffs stay low
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.7626
+  strength: 0.7618
 - slug: 2026-08-04-us-job-openings-slip-to-7-36-million-in-june-near-forecasts
   headline: US job openings slip to 7.36 million in June, near forecasts
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7103
+  strength: 0.7108
 - slug: 2026-01-09-u-s-adds-50-000-jobs-in-december-2025-posts-weakest-hiring-since-pandemic
   headline: U.S. adds 50,000 jobs in December; 2025 posts weakest hiring since pandemic
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.803
+  strength: 0.8029
 - slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-unemployment-holds-at-4-3
   headline: U.S. adds 172,000 jobs in May; unemployment holds at 4.3%
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.7398
-- slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-broader-underemployment-holds-at-8-2
-  headline: U.S. adds 172,000 jobs in May; broader underemployment holds at 8.2%
-  publish_date: '2026-06-05T00:00:00Z'
-  relation: related
-  strength: 0.7333
-- slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  headline: Job openings near 5-year low in November as low-hire, low-fire market persists
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7698
-- slug: 2026-06-02-u-s-job-openings-hit-two-year-high-at-7-6-million-in-april
-  headline: U.S. job openings hit two-year high at 7.6 million in April
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7182
-- slug: 2026-04-04-surprise-jobs-rebound-lifts-us-employment-unemployment-dips-to-4-3
-  headline: Surprise jobs rebound lifts US employment; unemployment dips to 4.3%
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7412
-- slug: 2026-05-10-us-companies-keep-adding-jobs-despite-iran-war-shock-report-shows
-  headline: US companies keep adding jobs despite Iran-war shock, report shows
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7199
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  headline: Weekly jobless claims rise to 208,000 as labor market momentum slows
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.753
-- slug: 2026-03-14-job-openings-near-7-million-in-january-labor-department-data-show
-  headline: Job openings near 7 million in January, Labor Department data show
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7353
-- slug: 2026-05-10-u-s-hiring-beats-forecasts-in-april-as-job-market-holds-steady-amid-iran-war
-  headline: U.S. hiring beats forecasts in April as job market holds steady amid Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7118
-- slug: 2026-01-15-jobless-claims-fall-to-198-000-beating-forecasts-as-low-hire-trend-holds
-  headline: Jobless claims fall to 198,000, beating forecasts as low-hire trend holds
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7435
-- slug: 2026-02-06-u-s-job-openings-fall-to-lowest-level-in-over-5-years
-  headline: U.S. job openings fall to lowest level in over 5 years
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.7406
-- slug: 2026-01-21-us-jobless-claims-rise-slightly-while-layoffs-stay-historically-low
-  headline: US jobless claims rise slightly while layoffs stay historically low
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.7411
-- slug: 2026-05-10-u-s-employers-add-115-000-jobs-in-april-far-surpassing-forecasts-despite-iran-wa
-  headline: U.S. employers add 115,000 jobs in April, far surpassing forecasts despite Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7056
+  strength: 0.7402
 ---
-
 ## US employers add 29,000 jobs in September as labor market cools
 
 **Subtype:** fact

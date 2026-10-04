@@ -2,8 +2,14 @@
 headline: Democratic voters describe their party as weak, despondent
 secondary_headline: Democrats still expected to gain in midterms despite voter frustration
 publish_date: '2026-10-02'
-lede: The Wall Street Journal convened a group of Democratic voters from across the country who used words including 'weak,' 'despondent,' and 'concerned' to describe their own party. The October 2 edition of the Journal's '10-Point' newsletter said the roundtable covered the party's trajectory, the rise of the Democratic Socialists of America, and who should lead the 2028 presidential ticket.
-nut_graf: The report lands with midterm elections weeks away, at a moment when Democrats are on track to make November gains driven by President Trump's unpopularity rather than enthusiasm for the party itself, the Journal reported.
+lede: The Wall Street Journal convened a group of Democratic voters from across the
+  country who used words including 'weak,' 'despondent,' and 'concerned' to describe
+  their own party. The October 2 edition of the Journal's '10-Point' newsletter said
+  the roundtable covered the party's trajectory, the rise of the Democratic Socialists
+  of America, and who should lead the 2028 presidential ticket.
+nut_graf: The report lands with midterm elections weeks away, at a moment when Democrats
+  are on track to make November gains driven by President Trump's unpopularity rather
+  than enthusiasm for the party itself, the Journal reported.
 primary_entities:
 - Wall Street Journal
 - Democratic Party
@@ -34,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,6 +144,11 @@ related_stories:
   publish_date: '2026-10-02'
   relation: related
   strength: 0.819
+- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
+  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7194
 - slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
   headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
   publish_date: '2026-09-26'
@@ -167,73 +179,7 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.6727
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7189
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6667
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6797
-- slug: 2026-09-08-dsa-grows-young-membership-through-social-events-not-policy-pitches
-  headline: DSA grows young membership through social events, not policy pitches
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6612
-- slug: 2026-09-05-progressive-candidates-navigate-dsa-ties-as-membership-reaches-120-000
-  headline: Progressive candidates navigate DSA ties as membership reaches 120,000
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6679
-- slug: 2026-08-27-survey-of-6-000-americans-names-kitchen-table-populism-as-top-democratic-message
-  headline: Survey of 6,000 Americans names 'kitchen-table populism' as top Democratic message
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6654
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6705
-- slug: 2026-08-12-democratic-primary-voters-signal-appetite-for-change
-  headline: Democratic primary voters signal appetite for change
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6592
-- slug: 2026-08-04-democrats-face-divisive-michigan-senate-primary-tuesday
-  headline: Democrats face divisive Michigan Senate primary Tuesday
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6774
-- slug: 2026-06-27-far-left-gains-in-new-york-primaries-deepen-democratic-civil-war
-  headline: Far-left gains in New York primaries deepen Democratic civil war
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6859
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.673
-- slug: 2026-02-19-many-democrats-still-down-on-their-own-party-ap-norc-poll-finds
-  headline: Many Democrats still down on their own party, AP-NORC poll finds
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7559
-- slug: 2026-06-06-democrats-divided-on-strategy-as-primaries-test-fractured-party
-  headline: Democrats divided on strategy as primaries test fractured party
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7057
 ---
-
 ## Democratic voters describe their party as weak, despondent
 
 **Subtype:** fact

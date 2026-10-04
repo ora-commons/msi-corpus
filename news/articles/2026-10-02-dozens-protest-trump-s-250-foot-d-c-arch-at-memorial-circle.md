@@ -2,8 +2,16 @@
 headline: Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
 secondary_headline: Arch moves toward final approval after preservation review ends
 publish_date: '2026-10-02'
-lede: Dozens of activists gathered at Memorial Circle in Washington, D.C., during Thursday's rush hour to protest the 250-foot arch President Trump wants to build there, according to NPR. Veterans, retirees and lawmakers spoke against its scale, cost, lack of congressional approval and intrusion on Arlington National Cemetery, as the proposal moves toward final federal approval.
-nut_graf: The demonstration comes as the arch proposal continues toward final federal approval despite an ongoing lawsuit by Vietnam War veterans, a terminated historic-preservation review and unanswered questions about the administration's plan to house military drones and snipers in the structure. Opponents say the outcome may hinge on next month's midterm elections, which could change the balance of power in Congress.
+lede: Dozens of activists gathered at Memorial Circle in Washington, D.C., during
+  Thursday's rush hour to protest the 250-foot arch President Trump wants to build
+  there, according to NPR. Veterans, retirees and lawmakers spoke against its scale,
+  cost, lack of congressional approval and intrusion on Arlington National Cemetery,
+  as the proposal moves toward final federal approval.
+nut_graf: The demonstration comes as the arch proposal continues toward final federal
+  approval despite an ongoing lawsuit by Vietnam War veterans, a terminated historic-preservation
+  review and unanswered questions about the administration's plan to house military
+  drones and snipers in the structure. Opponents say the outcome may hinge on next
+  month's midterm elections, which could change the balance of power in Congress.
 primary_entities:
 - Donald Trump
 - Arlington National Cemetery
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +154,45 @@ related_stories:
   headline: Council ends Trump arch preservation talks, citing local impasse
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7564
+  strength: 0.7572
 - slug: 2026-09-20-judge-orders-48-hour-notice-before-trump-dc-arch-memorial-circle-work
   headline: Judge orders 48-hour notice before Trump DC arch Memorial Circle work
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7797
+  strength: 0.7793
 - slug: 2026-09-20-trump-says-250-foot-dc-arch-will-house-weapons-as-military-complex
   headline: Trump says 250-foot DC arch will house weapons as military complex
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7734
+  strength: 0.7736
 - slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
   headline: Park Service finds Trump 250-foot DC arch would harm historic sites
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.788
+  strength: 0.7885
 - slug: 2026-09-22-preservation-experts-call-trump-s-military-arch-about-face-whiplash-inducing
   headline: Preservation experts call Trump's military arch about-face 'whiplash-inducing'
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7438
+  strength: 0.7439
 - slug: 2026-09-21-trump-accused-of-manufacturing-national-security-justification-for-dc-arch
-  headline: Trump accused of manufacturing national security justification for DC arch
+  headline: Trump accused of manufacturing national security justification for DC
+    arch
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.744
+  strength: 0.7438
 - slug: 2026-09-17-aviation-experts-say-trump-arch-likely-safe-for-planes-but-adds-airspace-risk
-  headline: Aviation experts say Trump arch likely safe for planes but adds airspace risk
+  headline: Aviation experts say Trump arch likely safe for planes but adds airspace
+    risk
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7437
+  strength: 0.7448
 - slug: 2026-09-20-faa-finds-trump-dc-arch-poses-no-reagan-national-flight-hazard
   headline: FAA finds Trump DC arch poses no Reagan National flight hazard
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7236
-- slug: 2026-09-28-trump-s-d-c-construction-push-draws-lawsuits-preservationist-warnings
-  headline: Trump's D.C. construction push draws lawsuits, preservationist warnings
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6723
-- slug: 2026-09-03-trump-administration-to-begin-excavation-on-250-foot-washington-arch
-  headline: Trump administration to begin excavation on 250-foot Washington arch
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7529
-- slug: 2026-08-28-park-service-report-finds-trump-arch-would-disturb-dozens-of-historic-sites
-  headline: Park Service report finds Trump arch would disturb dozens of historic sites
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7436
-- slug: 2026-08-06-park-service-lists-37-historic-sites-that-trump-s-250-foot-arch-would-affect
-  headline: Park Service lists 37 historic sites that Trump's 250-foot arch would affect
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7745
-- slug: 2026-08-03-park-service-review-finds-trump-s-arch-would-adversely-affect-about-40-historic-
-  headline: Park Service review finds Trump's arch would adversely affect about 40 historic sites
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.7565
-- slug: 2026-07-08-trump-s-250-foot-washington-arch-traces-to-april-2025-essay-by-design-critic
-  headline: Trump's 250-foot Washington arch traces to April 2025 essay by design critic
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7855
-- slug: 2026-06-10-veterans-sue-to-block-trump-s-250-foot-arch-near-arlington-national-cemetery
-  headline: Veterans sue to block Trump's 250-foot arch near Arlington National Cemetery
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.8173
-- slug: 2026-07-10-federal-panel-clears-preliminary-approval-for-trump-s-250-foot-arch
-  headline: Federal panel clears preliminary approval for Trump's 250-foot arch
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7708
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-d-c-arch-as-lawsuit-proceeds
-  headline: Survey work begins on Trump’s proposed D.C. arch as lawsuit proceeds
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.7547
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-triumphal-arch-in-washington
-  headline: Survey work begins on Trump’s proposed Triumphal Arch in Washington
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.7509
-- slug: 2026-05-21-fine-arts-commission-approves-trump-s-proposed-250-foot-washington-arch-design
-  headline: Fine Arts Commission approves Trump’s proposed 250-foot Washington arch design
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7098
-- slug: 2026-05-21-fine-arts-commission-approves-design-for-trump-s-250-foot-washington-arch
-  headline: Fine Arts Commission approves design for Trump's 250-foot Washington arch
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7091
+  strength: 0.7244
 ---
-
 ## Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
 
 **Subtype:** fact

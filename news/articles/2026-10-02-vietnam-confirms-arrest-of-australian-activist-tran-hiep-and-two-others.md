@@ -1,9 +1,20 @@
 ---
 headline: Vietnam confirms arrest of Australian activist Tran Hiep and two others
-secondary_headline: Rights groups document cross-border repression pattern in Southeast Asia
+secondary_headline: Rights groups document cross-border repression pattern in Southeast
+  Asia
 publish_date: '2026-10-02'
-lede: Vietnam's Ministry of Public Security confirmed the arrest of Australian citizen Tran Hiep and two other activists who disappeared in Cambodia in September. Vietnamese officials accuse the three men of attempting to 'cross illegally' from Cambodia into Vietnam and of terrorism and forging identity documents. Viet Tan, a pro-democracy group composed of members of the Vietnamese diaspora, said Hiep and Norwegian citizen Nguyen Duc Thuan were its members. Vietnam has designated Viet Tan as a 'terrorist group,' a charge the organization denies.
-nut_graf: Human rights groups describe the cases as part of a documented pattern of transnational repression in Asia, where authoritarian governments pursue critics and refugees across international borders, and have warned of a 'swap market' of repression in Southeast Asia. Advocates say countries in the region have been 'muted' in response.
+lede: Vietnam's Ministry of Public Security confirmed the arrest of Australian citizen
+  Tran Hiep and two other activists who disappeared in Cambodia in September. Vietnamese
+  officials accuse the three men of attempting to 'cross illegally' from Cambodia
+  into Vietnam and of terrorism and forging identity documents. Viet Tan, a pro-democracy
+  group composed of members of the Vietnamese diaspora, said Hiep and Norwegian citizen
+  Nguyen Duc Thuan were its members. Vietnam has designated Viet Tan as a 'terrorist
+  group,' a charge the organization denies.
+nut_graf: Human rights groups describe the cases as part of a documented pattern of
+  transnational repression in Asia, where authoritarian governments pursue critics
+  and refugees across international borders, and have warned of a 'swap market' of
+  repression in Southeast Asia. Advocates say countries in the region have been 'muted'
+  in response.
 primary_entities:
 - Tran Hiep
 - Nguyen Duc Thuan
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,106 +79,10 @@ related_stories:
   headline: Vietnamese Australian democracy campaigner Tran Hiep missing in Cambodia
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8642
-- slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5755
-- slug: 2026-09-22-state-department-imposes-visa-restrictions-on-32-tied-to-prince-group
-  headline: State Department imposes visa restrictions on 32 tied to Prince Group
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5693
-- slug: 2026-09-17-uk-formally-requests-tate-brothers-extradition-from-us
-  headline: UK formally requests Tate brothers' extradition from US
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5815
-- slug: 2026-09-13-trump-to-raise-detained-american-min-zin-s-case-at-xi-summit
-  headline: Trump to raise detained American Min Zin's case at Xi summit
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5753
-- slug: 2026-09-08-australian-confirmed-safe-in-nepal-tibet-floods-as-35-remain-missing
-  headline: Australian confirmed safe in Nepal-Tibet floods as 35 remain missing
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5989
-- slug: 2026-09-10-british-authorities-face-sept-16-deadline-in-tate-extradition-case
-  headline: British authorities face Sept. 16 deadline in Tate extradition case
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5826
-- slug: 2026-08-20-rubio-designates-american-academic-min-zin-as-wrongfully-detained-in-china
-  headline: Rubio designates American academic Min Zin as wrongfully detained in China
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5718
-- slug: 2026-08-13-miami-detention-hearing-set-for-tate-brothers-in-uk-extradition-case
-  headline: Miami detention hearing set for Tate brothers in UK extradition case
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5683
-- slug: 2026-08-12-white-house-declines-to-intervene-in-tate-brothers-u-k-extradition
-  headline: White House declines to intervene in Tate brothers' U.K. extradition
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5668
-- slug: 2026-07-17-video-shows-ice-agents-abandoning-arrest-at-las-vegas-airport
-  headline: Video shows ICE agents abandoning arrest at Las Vegas airport
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6112
-- slug: 2026-07-15-dong-guangping-resettles-in-canada-after-40-hour-yellow-sea-crossing
-  headline: Dong Guangping resettles in Canada after 40-hour Yellow Sea crossing
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6073
-- slug: 2026-07-27-tate-brothers-attorneys-to-meet-prosecutors-on-uk-extradition-schedule
-  headline: Tate brothers' attorneys to meet prosecutors on UK extradition schedule
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5741
-- slug: 2026-07-17-ice-arrests-chinese-human-rights-lawyer-wu-shaoping-in-pennsylvania
-  headline: ICE arrests Chinese human rights lawyer Wu Shaoping in Pennsylvania
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5892
-- slug: 2026-02-12-thousands-flee-cambodia-scam-compounds-but-few-shelters-can-help
-  headline: Thousands flee Cambodia scam compounds but few shelters can help
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6342
-- slug: 2026-02-17-defamation-case-against-australian-writer-in-thailand-withdrawn-after-mediation
-  headline: Defamation case against Australian writer in Thailand withdrawn after mediation
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6263
-- slug: 2026-05-10-trump-to-press-xi-on-jailed-hong-kong-activist-jimmy-lai-at-beijing-summit
-  headline: Trump to press Xi on jailed Hong Kong activist Jimmy Lai at Beijing summit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5874
-- slug: 2026-05-08-uk-border-official-ex-hong-kong-officer-convicted-of-spying-for-china
-  headline: UK border official, ex-Hong Kong officer convicted of spying for China
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5836
-- slug: 2026-04-14-minnesota-probes-ice-arrest-of-hmong-american-man-as-potential-kidnapping
-  headline: Minnesota probes ICE arrest of Hmong American man as potential kidnapping
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5897
-- slug: 2026-03-12-cambodia-says-it-has-closed-most-online-scam-centers-in-crackdown
-  headline: Cambodia says it has closed most online scam centers in crackdown
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.5941
+  strength: 0.8633
 analyses:
-- '2026-10-02-vietnam-s-terrorism-charges-against-foreign-passport-activists-fit-transnational'
+- 2026-10-02-vietnam-s-terrorism-charges-against-foreign-passport-activists-fit-transnational
 ---
-
 ## Vietnam confirms arrest of Australian activist Tran Hiep and two others
 
 **Subtype:** fact

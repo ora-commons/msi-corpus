@@ -2,8 +2,14 @@
 headline: DOJ sues Maryland, two counties over federal agent mask laws
 secondary_headline: DOJ cites Supremacy Clause in challenge to state, county laws
 publish_date: '2026-10-02'
-lede: The Justice Department sued Maryland and two of its counties on Thursday over laws banning federal law enforcement from wearing face coverings, arguing the measures represent an illegal attempt to regulate the federal government in violation of the Constitution's Supremacy Clause.
-nut_graf: The lawsuit is the eighth the Justice Department has filed against states over laws that restrict federal agents' ability to wear masks or require them to identify themselves, escalating a legal conflict over state and local limits on federal immigration enforcement.
+lede: The Justice Department sued Maryland and two of its counties on Thursday over
+  laws banning federal law enforcement from wearing face coverings, arguing the measures
+  represent an illegal attempt to regulate the federal government in violation of
+  the Constitution's Supremacy Clause.
+nut_graf: The lawsuit is the eighth the Justice Department has filed against states
+  over laws that restrict federal agents' ability to wear masks or require them to
+  identify themselves, escalating a legal conflict over state and local limits on
+  federal immigration enforcement.
 primary_entities:
 - Maryland
 - U.S. Department of Justice
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,25 +147,21 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-18-civil-rights-groups-and-unions-sue-to-block-federal-agents-from-polling-places
-  headline: Civil rights groups and unions sue to block federal agents from polling places
+  headline: Civil rights groups and unions sue to block federal agents from polling
+    places
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6558
-- slug: 2026-09-18-naacp-sues-trump-administration-over-federal-agents-at-polls
-  headline: NAACP sues Trump administration over federal agents at polls
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6433
+  strength: 0.6556
 - slug: 2026-08-04-federal-judge-strikes-new-york-limits-on-agents-masks-and-id
   headline: Federal judge strikes New York limits on agents' masks and ID
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7317
+  strength: 0.7313
 - slug: 2026-08-20-maryland-coalition-asks-state-ag-to-investigate-data-brokers
   headline: Maryland coalition asks state AG to investigate data brokers
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.682
+  strength: 0.6813
 - slug: 2026-07-10-justice-department-sues-maryland-over-law-it-says-violates-supremacy-clause
   headline: Justice Department sues Maryland over law it says violates Supremacy Clause
   publish_date: '2026-07-10'
@@ -168,81 +171,28 @@ related_stories:
   headline: Connecticut sued over law banning masks, requiring ID for ICE agents
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.77
+  strength: 0.7699
 - slug: 2026-05-20-justice-department-sues-connecticut-over-law-restricting-masks-and-ids-for-ice
-  headline: Justice Department sues Connecticut over law restricting masks and IDs for ICE
+  headline: Justice Department sues Connecticut over law restricting masks and IDs
+    for ICE
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.7632
+  strength: 0.763
 - slug: 2026-07-27-u-s-education-and-justice-departments-enforce-against-school-districts-for-gende
-  headline: U.S. Education and Justice departments enforce against school districts for gender identity policies
+  headline: U.S. Education and Justice departments enforce against school districts
+    for gender identity policies
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6508
+  strength: 0.6509
 - slug: 2026-05-28-justice-department-sues-four-states-over-undercover-license-plates-for-federal-a
-  headline: Justice Department sues four states over undercover license plates for federal agents
+  headline: Justice Department sues four states over undercover license plates for
+    federal agents
   publish_date: '2026-05-28'
   relation: related
-  strength: 0.7331
-- slug: 2026-07-17-justice-department-sues-maryland-over-in-state-tuition-for-undocumented-students
-  headline: Justice Department sues Maryland over in-state tuition for undocumented students
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6605
-- slug: 2026-05-19-justice-department-sues-connecticut-over-law-banning-masks-requiring-id-for-ice-
-  headline: Justice Department sues Connecticut over law banning masks, requiring ID for ICE agents
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7236
-- slug: 2026-04-23-appeals-court-blocks-california-law-requiring-federal-agents-to-wear-id
-  headline: Appeals court blocks California law requiring federal agents to wear ID
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7328
-- slug: 2026-04-22-appeals-court-blocks-california-law-requiring-federal-agents-wear-id
-  headline: Appeals court blocks California law requiring federal agents wear ID
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7262
-- slug: 2026-03-20-states-move-to-limit-masked-federal-immigration-agents-and-other-police
-  headline: States move to limit masked federal immigration agents and other police
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7339
-- slug: 2026-03-26-sherrill-signs-nj-law-restricting-face-coverings-for-law-enforcement
-  headline: Sherrill signs NJ law restricting face coverings for law enforcement
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7256
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6344
-- slug: 2026-06-23-federal-judge-dismisses-doj-lawsuit-against-maryland-seeking-voter-data
-  headline: Federal judge dismisses DOJ lawsuit against Maryland seeking voter data
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6353
-- slug: 2026-02-11-judge-blocks-california-mask-ban-for-federal-immigration-agents
-  headline: Judge blocks California mask ban for federal immigration agents
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6916
-- slug: 2026-02-10-masks-in-ice-operations-become-flashpoint-as-dhs-shutdown-deadline-nears
-  headline: Masks in ICE operations become flashpoint as DHS shutdown deadline nears
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6749
-- slug: 2026-03-13-17-state-attorneys-general-sue-trump-administration-over-race-data-rule
-  headline: 17 state attorneys general sue Trump administration over race data rule
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6518
+  strength: 0.7322
 analyses:
-- '2026-10-02-doj-s-eighth-mask-law-suit-raising-federal-authority-over-state-accountability-d'
+- 2026-10-02-doj-s-eighth-mask-law-suit-raising-federal-authority-over-state-accountability-d
 ---
-
 ## DOJ sues Maryland, two counties over federal agent mask laws
 
 **Subtype:** fact

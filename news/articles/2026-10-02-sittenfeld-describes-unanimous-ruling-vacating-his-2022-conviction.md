@@ -1,9 +1,21 @@
 ---
 headline: Sittenfeld describes unanimous ruling vacating his 2022 conviction
-secondary_headline: Appears to be first US case to receive both presidential pardon and Supreme Court vacatur
+secondary_headline: Appears to be first US case to receive both presidential pardon
+  and Supreme Court vacatur
 publish_date: '2026-10-02'
-lede: P.G. Sittenfeld, a former Cincinnati City Council member, received a full pardon from President Trump before the U.S. Supreme Court unanimously vacated his 2022 federal bribery conviction in April 2026, according to a first-person account he published in The Wall Street Journal. The April 6 ruling, issued through a rarely used mechanism called a GVR (grant, vacate, remand), sent the case back to the lower court, which then permanently wiped the conviction from his record and ordered the government to repay a $40,000 fine.
-nut_graf: Sittenfeld's account, drawn from a legal fight that began with an FBI sting operation in 2018 and included 4½ months in federal prison, frames the underlying question as whether campaign contributions a candidate and donor both understood to be lawful can later be charged as federal bribery — a question his Jones Day legal team argued in their core brief amounts to criminalizing Constitutionally-protected free speech and constitutes a clear and dangerous First Amendment violation.
+lede: P.G. Sittenfeld, a former Cincinnati City Council member, received a full pardon
+  from President Trump before the U.S. Supreme Court unanimously vacated his 2022
+  federal bribery conviction in April 2026, according to a first-person account he
+  published in The Wall Street Journal. The April 6 ruling, issued through a rarely
+  used mechanism called a GVR (grant, vacate, remand), sent the case back to the lower
+  court, which then permanently wiped the conviction from his record and ordered the
+  government to repay a $40,000 fine.
+nut_graf: Sittenfeld's account, drawn from a legal fight that began with an FBI sting
+  operation in 2018 and included 4½ months in federal prison, frames the underlying
+  question as whether campaign contributions a candidate and donor both understood
+  to be lawful can later be charged as federal bribery — a question his Jones Day
+  legal team argued in their core brief amounts to criminalizing Constitutionally-protected
+  free speech and constitutes a clear and dangerous First Amendment violation.
 primary_entities:
 - P.G. Sittenfeld
 - U.S. Supreme Court
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,110 +156,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-05-federal-magistrate-orders-discovery-into-defunct-1-8bn-compensation-scheme
-  headline: Federal magistrate orders discovery into defunct $1.8bn compensation scheme
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6349
-- slug: 2026-06-30-supreme-court-strikes-down-limits-on-coordinated-party-spending
-  headline: Supreme Court strikes down limits on coordinated party spending
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6328
 - slug: 2026-05-22-former-prosecutor-and-acquitted-professor-sue-to-block-1-776b-trump-anti-weaponi
-  headline: Former prosecutor and acquitted professor sue to block $1.776B Trump 'anti-weaponization' fund
+  headline: Former prosecutor and acquitted professor sue to block $1.776B Trump 'anti-weaponization'
+    fund
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6691
+  strength: 0.6694
 - slug: 2026-06-04-justice-department-eyes-alternative-payout-paths-for-trump-allies-after-fund-ret
-  headline: Justice Department Eyes Alternative Payout Paths for Trump Allies After Fund Retreat
+  headline: Justice Department Eyes Alternative Payout Paths for Trump Allies After
+    Fund Retreat
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6502
+  strength: 0.6512
 - slug: 2026-05-27-southern-poverty-law-center-seeks-dismissal-of-doj-indictment-as-vindictive-pros
-  headline: Southern Poverty Law Center seeks dismissal of DOJ indictment as vindictive prosecution
+  headline: Southern Poverty Law Center seeks dismissal of DOJ indictment as vindictive
+    prosecution
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.656
-- slug: 2026-06-02-trump-s-1-78-billion-anti-weaponization-fund-faces-mounting-legal-and-political-
-  headline: Trump's $1.78 billion anti-weaponization fund faces mounting legal and political opposition
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6463
-- slug: 2026-06-01-pardoned-jan-6-defendants-pursue-payouts-from-trump-s-1-776-billion-fund
-  headline: Pardoned Jan. 6 defendants pursue payouts from Trump’s $1.776 billion fund
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6446
-- slug: 2026-06-06-trump-pardons-former-gop-congressman-convicted-of-insider-trading
-  headline: Trump pardons former GOP congressman convicted of insider trading
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6349
+  strength: 0.6563
 - slug: 2026-04-07-supreme-court-order-could-lead-to-dismissal-of-bannon-contempt-conviction
   headline: Supreme Court order could lead to dismissal of Bannon contempt conviction
   publish_date: '2026-04-07'
   relation: related
-  strength: 0.667
-- slug: 2026-05-26-southern-poverty-law-center-seeks-dismissal-of-doj-indictment
-  headline: Southern Poverty Law Center seeks dismissal of DOJ indictment
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6372
-- slug: 2026-05-18-trump-allies-fund-doj-plan-for-nearly-1-8b-anti-weaponization-fund
-  headline: Trump allies fund DOJ plan for nearly $1.8B “Anti-Weaponization Fund”
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6381
-- slug: 2026-05-22-blanche-at-center-of-republican-firestorm-over-1-8b-fund
-  headline: Blanche at center of Republican firestorm over $1.8B fund
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6348
-- slug: 2026-05-22-trump-doj-says-it-removed-jan-6-case-releases-as-partisan-propaganda
-  headline: Trump DOJ says it removed Jan. 6 case releases as “partisan propaganda”
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6338
-- slug: 2026-05-23-critics-sue-to-block-payouts-from-1-776b-anti-weaponization-fund
-  headline: Critics sue to block payouts from $1.776B anti-weaponization fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6299
-- slug: 2026-04-24-georgia-republican-edwin-frost-iv-pleads-not-guilty-in-156m-ponzi-case
-  headline: Georgia Republican Edwin Frost IV pleads not guilty in $156M Ponzi case
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.647
-- slug: 2026-05-19-trump-doj-launches-1-776b-anti-weaponization-fund-for-allied-claims
-  headline: Trump DOJ launches $1.776B “Anti-Weaponization Fund” for allied claims
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.631
-- slug: 2026-05-15-ex-aide-in-california-dems-scheme-pleads-guilty-becerra-faces-scrutiny
-  headline: Ex-aide in California Dems scheme pleads guilty; Becerra faces scrutiny
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6329
-- slug: 2026-05-19-trump-doj-launches-1-776b-fund-to-compensate-allies-claiming-political-targeting
-  headline: Trump DOJ launches $1.776B fund to compensate allies claiming political targeting
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6287
-- slug: 2026-05-19-doj-establishes-1-8b-fund-to-compensate-trump-allies-amid-irs-lawsuit-settlement
-  headline: DOJ establishes $1.8B fund to compensate Trump allies amid IRS lawsuit settlement
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6282
-- slug: 2026-04-28-splc-tells-federal-court-law-enforcement-knew-about-informant-program
-  headline: SPLC tells federal court law enforcement knew about informant program
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6389
+  strength: 0.6659
 analyses:
-- '2026-10-02-supreme-court-gvr-unanimously-vacates-sittenfeld-s-bribery-conviction-sidesteppi'
+- 2026-10-02-supreme-court-gvr-unanimously-vacates-sittenfeld-s-bribery-conviction-sidesteppi
 ---
-
 ## Sittenfeld describes unanimous ruling vacating his 2022 conviction
 
 **Subtype:** fact

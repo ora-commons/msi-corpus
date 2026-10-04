@@ -2,8 +2,17 @@
 headline: GM sales fall 5.5% in Q3 as U.S. buyers choose sedans, small SUVs
 secondary_headline: Foreign brands gain ground as Detroit's Big Three sales decline
 publish_date: '2026-10-01'
-lede: American car buyers are rediscovering smaller, budget-conscious vehicles as overall U.S. new-vehicle sales are expected to dip in the third quarter, according to The Wall Street Journal. General Motors, the top-selling U.S. automaker, posted a 5.5% overall sales decline in the third quarter, while foreign brands Honda and Hyundai notched gains by offering passenger cars and more affordable options starting below $25,000.
-nut_graf: The pattern signals a consumer pullback from the larger, more profitable SUVs and pickups that have dominated the U.S. market for years. Foreign rivals that maintained passenger-car lineups are capturing buyers who might otherwise have chosen a small SUV, reshaping a market where Detroit's three biggest automakers have largely exited the sedan segment.
+lede: American car buyers are rediscovering smaller, budget-conscious vehicles as
+  overall U.S. new-vehicle sales are expected to dip in the third quarter, according
+  to The Wall Street Journal. General Motors, the top-selling U.S. automaker, posted
+  a 5.5% overall sales decline in the third quarter, while foreign brands Honda and
+  Hyundai notched gains by offering passenger cars and more affordable options starting
+  below $25,000.
+nut_graf: The pattern signals a consumer pullback from the larger, more profitable
+  SUVs and pickups that have dominated the U.S. market for years. Foreign rivals that
+  maintained passenger-car lineups are capturing buyers who might otherwise have chosen
+  a small SUV, reshaping a market where Detroit's three biggest automakers have largely
+  exited the sedan segment.
 primary_entities:
 - General Motors
 - Honda
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +161,35 @@ related_stories:
   headline: U.S. car dealers face worst new-model drought in years
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7014
-- slug: 2026-10-02-tesla-third-quarter-sales-fall-2-reversing-first-half-gains
-  headline: Tesla third-quarter sales fall 2%, reversing first-half gains
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6456
-- slug: 2026-10-02-volvo-car-pulls-full-year-guidance-as-china-sales-plunge-41
-  headline: Volvo Car pulls full-year guidance as China sales plunge 41%
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6312
-- slug: 2026-09-30-ev-sales-stabilize-at-5-6-one-year-after-congress-ended-the-federal-tax-credit
-  headline: EV sales stabilize at 5-6% one year after Congress ended the federal tax credit
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6366
-- slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
-  headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6275
+  strength: 0.7011
 - slug: 2026-09-13-tesla-s-us-ev-market-share-climbs-to-52-as-legacy-rivals-retreat
   headline: Tesla's US EV market share climbs to 52% as legacy rivals retreat
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6584
-- slug: 2026-09-15-daiwa-projects-21-decline-in-china-auto-sales-for-2026
-  headline: Daiwa projects 21% decline in China auto sales for 2026
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6251
+  strength: 0.6587
 - slug: 2026-08-21-gm-s-century-long-us-sales-lead-over-toyota-shrinks-to-100-000-vehicles
   headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7326
+  strength: 0.7312
 - slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
   headline: GM raises 2026 outlook for second time on strong truck and SUV demand
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7184
-- slug: 2026-08-15-ford-and-gm-push-competing-tariff-demands-on-washington
-  headline: Ford and GM push competing tariff demands on Washington
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6336
-- slug: 2026-08-13-ram-brings-back-v8-hemi-as-sales-rise-22-against-industry-decline
-  headline: Ram brings back V-8 Hemi as sales rise 22% against industry decline
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6276
-- slug: 2026-08-01-ford-ends-production-of-sedans-and-crossovers-pivots-to-trucks-suvs-sports-cars
-  headline: Ford ends production of sedans and crossovers, pivots to trucks, SUVs, sports cars
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6435
+  strength: 0.7176
 - slug: 2026-07-19-general-mills-kraft-heinz-stocks-trade-at-decade-low-as-shoppers-turn-away-from-
-  headline: General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn away from legacy brands
+  headline: General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn
+    away from legacy brands
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.654
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6458
-- slug: 2026-07-11-german-carmakers-report-30-41-china-sales-drop-in-second-quarter
-  headline: German carmakers report 30-41% China sales drop in second quarter
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6491
+  strength: 0.6532
 - slug: 2026-06-03-hybrid-vehicle-sales-surge-33-in-may-as-high-gas-prices-drive-buyers-away-from-e
-  headline: Hybrid vehicle sales surge 33% in May as high gas prices drive buyers away from EVs
+  headline: Hybrid vehicle sales surge 33% in May as high gas prices drive buyers
+    away from EVs
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6654
-- slug: 2026-07-04-us-risks-falling-behind-in-global-ev-transition-as-chinese-cars-undercut-domesti
-  headline: US risks falling behind in global EV transition as Chinese cars undercut domestic market, analysts say
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6256
-- slug: 2026-06-29-automakers-eye-comeback-of-small-cheap-pickup-trucks
-  headline: Automakers eye comeback of small, cheap pickup trucks
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6325
-- slug: 2026-07-02-us-sales-of-hyundai-kia-hybrids-surge-65-5-to-record-225-000-vehicles-in-first-h
-  headline: US sales of Hyundai, Kia hybrids surge 65.5% to record 225,000 vehicles in first half
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6221
-- slug: 2026-06-25-domino-s-shares-fall-as-pizza-s-place-in-us-dining-shrinks
-  headline: Domino's shares fall as pizza's place in US dining shrinks
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6246
+  strength: 0.6656
 ---
-
 ## GM sales fall 5.5% in Q3 as U.S. buyers choose sedans, small SUVs
 
 **Subtype:** fact

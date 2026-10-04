@@ -2,8 +2,14 @@
 headline: U.S. suspends consular services across Brazil citing security concerns
 secondary_headline: Australia closes Brasilia embassy over security concerns
 publish_date: '2026-10-02'
-lede: The United States suspended consular services at its embassy and consulates across Brazil on Friday, citing unspecified security concerns, according to a brief statement from the U.S. diplomatic mission. The State Department has not disclosed the circumstances that prompted the suspension or said when in-person services will resume.
-nut_graf: The suspension comes two days before Brazil's presidential election, scheduled for Sunday, amid heightened political tensions, though U.S. officials have not linked the security concerns to the election.
+lede: The United States suspended consular services at its embassy and consulates
+  across Brazil on Friday, citing unspecified security concerns, according to a brief
+  statement from the U.S. diplomatic mission. The State Department has not disclosed
+  the circumstances that prompted the suspension or said when in-person services will
+  resume.
+nut_graf: The suspension comes two days before Brazil's presidential election, scheduled
+  for Sunday, amid heightened political tensions, though U.S. officials have not linked
+  the security concerns to the election.
 primary_entities:
 - United States
 - Brazil
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,63 +146,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
-  headline: Democrats ask Rubio to address alleged US interference in Brazil election
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6434
-- slug: 2026-09-28-state-department-revokes-visas-of-more-than-15-latin-american-officials-and-busi
-  headline: State Department revokes visas of more than 15 Latin American officials and businessmen
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5997
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6155
 - slug: 2026-08-05-us-revokes-brazil-ambassador-s-visa-in-diplomatic-escalation
   headline: US revokes Brazil ambassador's visa in diplomatic escalation
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7226
-- slug: 2026-08-26-state-department-pauses-all-immigrant-visa-applications
-  headline: State Department pauses all immigrant visa applications
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6347
-- slug: 2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs
-  headline: Brazil opens 60-day consultation window on U.S. tariffs
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6308
+  strength: 0.7238
 - slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
   headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6605
-- slug: 2026-08-05-us-to-close-five-consulates-critics-warn-china-will-fill-the-void
-  headline: US to close five consulates; critics warn China will fill the void
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6303
+  strength: 0.6609
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6507
-- slug: 2026-08-08-brazil-s-supreme-court-denies-bolsonaro-father-s-day-visit-with-sons
-  headline: Brazil's Supreme Court denies Bolsonaro Father's Day visit with sons
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5974
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6279
+  strength: 0.6517
 - slug: 2026-05-28-state-department-reviews-53-mexican-consulates-closures-could-disrupt-legal-help
-  headline: State Department reviews 53 Mexican consulates; closures could disrupt legal help for immigrants
+  headline: State Department reviews 53 Mexican consulates; closures could disrupt
+    legal help for immigrants
   publish_date: '2026-05-28'
   relation: related
   strength: 0.6609
@@ -203,44 +172,13 @@ related_stories:
   headline: Brazil revokes US diplomat Darren Beattie’s visa after prison visit bid
   publish_date: '2026-03-14'
   relation: related
-  strength: 0.6742
-- slug: 2026-05-08-trump-administration-reviews-mexico-consulates-some-could-close
-  headline: Trump administration reviews Mexico consulates; some could close
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.643
+  strength: 0.6747
 - slug: 2026-01-21-brazilians-frustrated-by-us-visa-suspension-but-try-to-remain-hopeful
   headline: Brazilians frustrated by US visa suspension but try to remain hopeful
   publish_date: '2026-01-21'
   relation: related
   strength: 0.6655
-- slug: 2026-05-07-trump-administration-reviews-mexico-consulates-possibly-closing-some
-  headline: Trump administration reviews Mexico consulates, possibly closing some
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6148
-- slug: 2026-01-14-state-dept-suspends-immigrant-visa-processing-from-75-countries-over-public-char
-  headline: State Dept. suspends immigrant visa processing from 75 countries over public charge concerns
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6254
-- slug: 2026-05-13-brazil-says-eu-will-block-animal-product-exports-from-september
-  headline: Brazil says EU will block animal product exports from September
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5903
-- slug: 2026-03-04-americans-in-limbo-as-us-draws-down-diplomatic-posts-amid-iran-strikes
-  headline: Americans in limbo as US draws down diplomatic posts amid Iran strikes
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.615
-- slug: 2026-03-12-us-to-permanently-close-consulate-in-peshawar-shifting-services-to-islamabad
-  headline: US to permanently close consulate in Peshawar, shifting services to Islamabad
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6119
 ---
-
 ## U.S. suspends consular services across Brazil citing security concerns
 
 **Subtype:** fact

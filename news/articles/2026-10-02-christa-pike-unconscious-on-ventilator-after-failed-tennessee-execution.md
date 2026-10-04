@@ -2,8 +2,17 @@
 headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
 secondary_headline: Lawyers say execution team never realized IV lines had blown
 publish_date: '2026-10-02'
-lede: Tennessee death row inmate Christa Pike, 50, remained unconscious, intubated and on a ventilator on Thursday night, a day after prison officials attempted to execute her with two lethal doses of pentobarbital that failed to kill her, her lawyers said in court filings. Pike was transported by ambulance to a Nashville hospital, where staff are working to save her life and clear the drug from her system. Her attorneys filed an emergency motion on Friday seeking to preserve "any and all evidence" from the procedure.
-nut_graf: Pike's attorneys had previously warned that her medical conditions — including thrombocytosis, a blood-clotting disorder, and small veins — posed a risk of "unnecessary" pain and suffering during a lethal injection. Her lawyers are now seeking commutation of her death sentence.
+lede: Tennessee death row inmate Christa Pike, 50, remained unconscious, intubated
+  and on a ventilator on Thursday night, a day after prison officials attempted to
+  execute her with two lethal doses of pentobarbital that failed to kill her, her
+  lawyers said in court filings. Pike was transported by ambulance to a Nashville
+  hospital, where staff are working to save her life and clear the drug from her system.
+  Her attorneys filed an emergency motion on Friday seeking to preserve "any and all
+  evidence" from the procedure.
+nut_graf: Pike's attorneys had previously warned that her medical conditions — including
+  thrombocytosis, a blood-clotting disorder, and small veins — posed a risk of "unnecessary"
+  pain and suffering during a lethal injection. Her lawyers are now seeking commutation
+  of her death sentence.
 primary_entities:
 - Christa Pike
 - Tennessee Department of Corrections
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,107 +147,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.875
+  strength: 0.8741
+- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
+  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing
+    IV'
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8718
 - slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8401
+  strength: 0.8403
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8375
+  strength: 0.8381
 - slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
   headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
   publish_date: '2026-10-02'
   relation: related
+  strength: 0.818
+- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
+  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
+  publish_date: '2026-10-03'
+  relation: related
   strength: 0.8179
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
+- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
+  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
+  publish_date: '2026-10-03'
   relation: related
-  strength: 0.8134
-- slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
-  headline: Christa Pike survives two Tennessee lethal injection attempts
-  publish_date: '2026-10-01'
+  strength: 0.8161
+- slug: 2026-10-03-tennessee-prison-chief-resigns-after-christa-pike-s-failed-execution
+  headline: Tennessee prison chief resigns after Christa Pike's failed execution
+  publish_date: '2026-10-03'
   relation: related
-  strength: 0.7973
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.79
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7624
-- slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
-  headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7683
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7503
-- slug: 2026-09-30-sixth-circuit-halts-christa-pike-execution-an-hour-before-it-was-scheduled
-  headline: Sixth Circuit halts Christa Pike execution an hour before it was scheduled
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7469
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7519
-- slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
-  headline: Christa Pike execution set as Tennessee governor denies clemency
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7463
-- slug: 2026-09-29-slemmer-s-mother-to-attend-pike-execution-holding-daughter-s-photo
-  headline: Slemmer's mother to attend Pike execution holding daughter's photo
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7378
-- slug: 2026-09-04-tennessee-plans-execution-of-christa-pike-first-woman-since-1819
-  headline: Tennessee plans execution of Christa Pike, first woman since 1819
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7032
-- slug: 2026-09-16-norman-sues-over-pentobarbital-humphries-cites-survivor-justice-act
-  headline: Norman sues over pentobarbital; Humphries cites Survivor Justice Act
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6351
-- slug: 2026-08-08-tennessee-court-keeps-execution-doctor-s-possible-role-undisclosed
-  headline: Tennessee court keeps execution doctor's possible role undisclosed
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6609
-- slug: 2026-07-16-sister-files-complaint-over-doctor-in-failed-tennessee-execution
-  headline: Sister files complaint over doctor in failed Tennessee execution
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.686
-- slug: 2026-05-23-tennessee-pauses-execution-of-tony-carruthers-after-iv-difficulties
-  headline: Tennessee pauses execution of Tony Carruthers after IV difficulties
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6711
-- slug: 2026-05-21-tennessee-halts-tony-carruthers-execution-attempt-after-iv-difficulties
-  headline: Tennessee halts Tony Carruthers execution attempt after IV difficulties
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6702
+  strength: 0.8103
 ---
-
 ## Christa Pike unconscious, on ventilator after failed Tennessee execution
 **Subtype:** fact
 

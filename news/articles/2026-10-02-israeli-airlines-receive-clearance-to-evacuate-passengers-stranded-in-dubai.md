@@ -2,8 +2,19 @@
 headline: Israeli airlines receive clearance to evacuate passengers stranded in Dubai
 secondary_headline: FlyDubai halted route after pilots fought in cockpit
 publish_date: '2026-10-02'
-lede: Thousands of Israeli travelers stranded in Dubai were set to begin returning to Tel Aviv on Friday after two Israeli airlines received special permission to land at Dubai International Airport and operate repatriation flights. The New York Times reported that Israir and Arkia received clearance after FlyDubai suspended its only direct service between the two cities earlier this week following a midair altercation between two pilots aboard a Boeing 737 flight.
-nut_graf: FlyDubai had been the only airline flying between Tel Aviv and Dubai since Israeli carriers halted flights to the United Arab Emirates amid the Iran war, leaving the route without an alternate direct carrier once the airline grounded service. The United Arab Emirates revoked landing permission for Israel's flag carrier, El Al, during the repatriation effort, according to The Jerusalem Post. The Israeli government has said it believes the midair altercation, in which one pilot allegedly stabbed the other, was an attempted terror attack.
+lede: Thousands of Israeli travelers stranded in Dubai were set to begin returning
+  to Tel Aviv on Friday after two Israeli airlines received special permission to
+  land at Dubai International Airport and operate repatriation flights. The New York
+  Times reported that Israir and Arkia received clearance after FlyDubai suspended
+  its only direct service between the two cities earlier this week following a midair
+  altercation between two pilots aboard a Boeing 737 flight.
+nut_graf: FlyDubai had been the only airline flying between Tel Aviv and Dubai since
+  Israeli carriers halted flights to the United Arab Emirates amid the Iran war, leaving
+  the route without an alternate direct carrier once the airline grounded service.
+  The United Arab Emirates revoked landing permission for Israel's flag carrier, El
+  Al, during the repatriation effort, according to The Jerusalem Post. The Israeli
+  government has said it believes the midair altercation, in which one pilot allegedly
+  stabbed the other, was an attempted terror attack.
 primary_entities:
 - FlyDubai
 - Israir
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,23 +165,29 @@ related_stories:
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7153
+- slug: 2026-10-03-uae-says-flydubai-co-pilot-attacked-captain-with-crash-ax
+  headline: UAE says Flydubai co-pilot attacked captain with crash ax
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6987
+- slug: 2026-10-02-flydubai-hired-co-pilot-oman-had-banned-from-flying
+  headline: FlyDubai hired co-pilot Oman had banned from flying
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.6957
 - slug: 2026-09-30-crew-and-passengers-subdue-flydubai-cockpit-attacker-before-saudi-landing
   headline: Crew and passengers subdue FlyDubai cockpit attacker before Saudi landing
   publish_date: '2026-09-30'
   relation: related
   strength: 0.7041
-- slug: 2026-07-21-trump-authorizes-resumption-of-direct-us-lebanon-flights-after-41-year-halt
-  headline: Trump authorizes resumption of direct US-Lebanon flights after 41-year halt
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6396
 - slug: 2026-03-02-attack-on-iran-closes-middle-east-airports-strands-travelers-worldwide
   headline: Attack on Iran closes Middle East airports, strands travelers worldwide
   publish_date: '2026-03-02'
   relation: related
   strength: 0.7407
 - slug: 2026-03-02-limited-evacuation-flights-begin-from-uae-as-war-disrupts-middle-east-travel
-  headline: Limited evacuation flights begin from UAE as war disrupts Middle East travel
+  headline: Limited evacuation flights begin from UAE as war disrupts Middle East
+    travel
   publish_date: '2026-03-02'
   relation: related
   strength: 0.7376
@@ -178,73 +196,7 @@ related_stories:
   publish_date: '2026-03-01'
   relation: related
   strength: 0.7261
-- slug: 2026-03-02-viajeros-buscan-conexiones-tras-cierre-de-gran-parte-de-oriente-medio
-  headline: Viajeros buscan conexiones tras cierre de gran parte de Oriente Medio
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.723
-- slug: 2026-06-07-iran-fires-waves-of-missiles-at-israel-after-israeli-airstrike-on-beirut
-  headline: Iran fires waves of missiles at Israel after Israeli airstrike on Beirut
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6719
-- slug: 2026-06-03-iranian-strikes-shut-kuwait-airport-as-u-s--iran-fighting-intensifies
-  headline: Iranian strikes shut Kuwait Airport as U.S.-Iran fighting intensifies
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6701
-- slug: 2026-03-15-uae-briefly-closes-then-reopens-airspace-after-iranian-missile-threats
-  headline: UAE briefly closes then reopens airspace after Iranian missile threats
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7048
-- slug: 2026-03-05-governments-rush-to-return-citizens-from-the-middle-east
-  headline: Governments rush to return citizens from the Middle East
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6969
-- slug: 2026-06-14-israeli-strike-on-beirut-kills-3-threatens-iran-nuclear-deal
-  headline: Israeli strike on Beirut kills 3, threatens Iran nuclear deal
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6351
-- slug: 2026-03-02-dubai-s-haven-image-is-shaken-by-iranian-airstrikes-damage-in-uae
-  headline: Dubai’s haven image is shaken by Iranian airstrikes, damage in UAE
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6836
-- slug: 2026-06-06-israeli-airstrikes-kill-9-including-lebanese-army-officers-after-ceasefire-deal
-  headline: Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6344
-- slug: 2026-06-06-us-iran-exchange-strikes-in-gulf-as-fragile-ceasefire-frays
-  headline: US, Iran exchange strikes in Gulf as fragile ceasefire frays
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6344
-- slug: 2026-06-04-israel-and-lebanon-agree-to-renew-ceasefire-as-trump-seeks-to-overcome-iran-deal
-  headline: Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome Iran deal barriers
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6351
-- slug: 2026-03-06-americans-stranded-in-middle-east-find-little-u-s-help-as-war-disrupts-regional-
-  headline: Americans stranded in Middle East find little U.S. help as war disrupts regional flights
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6769
-- slug: 2026-05-09-israel-deports-2-flotilla-activists-as-gaza-strike-kills-hamas-police-officer
-  headline: Israel deports 2 flotilla activists as Gaza strike kills Hamas police officer
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6305
-- slug: 2026-03-04-iran-war-disrupts-middle-east-flights-experts-urge-travelers-to-monitor-advisori
-  headline: Iran war disrupts Middle East flights; experts urge travelers to monitor advisories
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.654
 ---
-
 ## Israeli airlines receive clearance to evacuate passengers stranded in Dubai
 
 **Subtype:** fact

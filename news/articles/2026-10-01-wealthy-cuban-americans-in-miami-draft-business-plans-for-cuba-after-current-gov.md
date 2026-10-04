@@ -1,9 +1,20 @@
 ---
-headline: Wealthy Cuban-Americans in Miami draft business plans for Cuba after current government falls
+headline: Wealthy Cuban-Americans in Miami draft business plans for Cuba after current
+  government falls
 secondary_headline: Sixto says chamber would 'go and do business in Cuba right away'
 publish_date: '2026-10-01'
-lede: The Cuban-American National Chamber of Commerce (CANCC) held its fourth meeting at the Biscayne Bay home of one of Miami's top plastic surgeons, gathering prominent Cuban-American entrepreneurs to plan for the fall of Cuba's current government, according to BBC News reporting from the gathering. CANCC president Juan Omar Sixto, a real estate developer in his early 80s who fled the island as a teenager, said the chamber is drafting plans for what he calls "the day after" in Cuba, including a proposal for a Cuban Stock Exchange and committees ranging from energy infrastructure to food security.
-nut_graf: The CANCC's effort comes as the Trump administration pushes to force total change on the island, even as one University of Miami analyst said Washington's appetite for further escalation has waned, and even as Cubans on the island continue to face acute shortages of food, water, fuel and medicine.
+lede: The Cuban-American National Chamber of Commerce (CANCC) held its fourth meeting
+  at the Biscayne Bay home of one of Miami's top plastic surgeons, gathering prominent
+  Cuban-American entrepreneurs to plan for the fall of Cuba's current government,
+  according to BBC News reporting from the gathering. CANCC president Juan Omar Sixto,
+  a real estate developer in his early 80s who fled the island as a teenager, said
+  the chamber is drafting plans for what he calls "the day after" in Cuba, including
+  a proposal for a Cuban Stock Exchange and committees ranging from energy infrastructure
+  to food security.
+nut_graf: The CANCC's effort comes as the Trump administration pushes to force total
+  change on the island, even as one University of Miami analyst said Washington's
+  appetite for further escalation has waned, and even as Cubans on the island continue
+  to face acute shortages of food, water, fuel and medicine.
 primary_entities:
 - Cuban-American National Chamber of Commerce
 - Juan Omar Sixto
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -127,104 +139,45 @@ related_stories:
   headline: Wealthy Cuban-Americans in Miami draft post-communist Cuba blueprints
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7683
-- slug: 2026-09-17-trump-and-rubio-allies-compete-for-cuban-assets-as-foreign-firms-exit
-  headline: Trump and Rubio allies compete for Cuban assets as foreign firms exit
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6405
-- slug: 2026-08-10-d-az-canel-calls-cia-report-leaks-a-deliberate-u-s-psychological-warfare-plan
-  headline: Díaz-Canel calls CIA report leaks a deliberate U.S. psychological-warfare plan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6433
+  strength: 0.7693
 - slug: 2026-07-22-cuban-american-property-claims-gain-legal-traction-amid-trump-pressure
   headline: Cuban-American property claims gain legal traction amid Trump pressure
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6691
-- slug: 2026-07-18-cuba-s-grid-fails-again-as-us-blockade-deepens-energy-crisis
-  headline: Cuba's grid fails again as US blockade deepens energy crisis
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6415
+  strength: 0.6707
 - slug: 2026-06-12-miami-to-havana-lifeline-of-goods-slows-cuba-s-economic-collapse
   headline: Miami-to-Havana Lifeline of Goods Slows Cuba’s Economic Collapse
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6862
+  strength: 0.6861
 - slug: 2026-06-12-cuba-unveils-economic-reforms-hours-after-us-freezes-state-oil-company-assets
-  headline: Cuba unveils economic reforms hours after US freezes state oil company assets
+  headline: Cuba unveils economic reforms hours after US freezes state oil company
+    assets
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6679
+  strength: 0.6672
 - slug: 2026-06-19-cuba-s-parliament-approves-sweeping-economic-reforms-amid-crisis
   headline: Cuba's parliament approves sweeping economic reforms amid crisis
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6567
+  strength: 0.6561
 - slug: 2026-06-06-foreign-businesses-abandon-cuba-as-economy-collapses-under-us-sanctions
   headline: Foreign Businesses Abandon Cuba as Economy Collapses Under US Sanctions
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.6528
+  strength: 0.6542
 - slug: 2026-04-18-us-delegation-visits-cuba-in-diplomatic-push-as-trump-signals-post-iran-focus
-  headline: US delegation visits Cuba in diplomatic push as Trump signals post-Iran focus
+  headline: US delegation visits Cuba in diplomatic push as Trump signals post-Iran
+    focus
   publish_date: '2026-04-18'
   relation: related
-  strength: 0.6768
+  strength: 0.6776
 - slug: 2026-03-19-cuba-s-d-az-canel-slams-trump-imminent-action-threat-amid-crisis
   headline: Cuba’s Díaz-Canel slams Trump “imminent action” threat amid crisis
   publish_date: '2026-03-19'
   relation: related
-  strength: 0.682
-- slug: 2026-05-15-cia-chief-meets-ra-l-castro-s-grandson-in-havana-us-engagement-hinges-on-change
-  headline: CIA chief meets Raúl Castro’s grandson in Havana; US engagement hinges on change
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6502
-- slug: 2026-03-18-trump-rubio-call-for-new-cuban-leaders-as-blackouts-worsen-crisis
-  headline: Trump, Rubio call for new Cuban leaders as blackouts worsen crisis
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6754
-- slug: 2026-04-22-trump-s-cuba-threats-revive-exile-hopes-and-fears-over-property-claims
-  headline: Trump’s Cuba threats revive exile hopes and fears over property claims
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6567
-- slug: 2026-05-16-justice-department-prepares-indictment-against-ra-l-castro-over-1996-shootdown
-  headline: Justice Department prepares indictment against Raúl Castro over 1996 shootdown
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6424
-- slug: 2026-03-27-cuba-s-d-az-canel-says-ra-l-castro-is-in-early-stage-u-s-talks
-  headline: Cuba’s Díaz-Canel says Raúl Castro is in early-stage U.S. talks
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6599
-- slug: 2026-04-20-cuba-confirms-us-talks-demands-embargo-lifted
-  headline: Cuba confirms US talks, demands embargo lifted
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6454
-- slug: 2026-02-28-trump-says-u-s-could-have-a-friendly-takeover-of-cuba
-  headline: Trump says U.S. could have “a friendly takeover of Cuba”
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6566
-- slug: 2026-02-03-cuban-diplomat-says-no-us-dialogue-yet-but-cuba-is-open-if-criteria-met
-  headline: Cuban diplomat says no US dialogue yet, but Cuba is open if criteria met
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6601
-- slug: 2026-04-16-d-az-canel-says-cuba-will-fight-if-attacked-as-trump-signals-post-iran-focus-on-
-  headline: Díaz-Canel says Cuba will fight if attacked as Trump signals post-Iran focus on island
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6407
+  strength: 0.6823
 ---
-
 ## Wealthy Cuban-Americans in Miami draft business plans for Cuba after current government falls
 
 **Subtype:** fact

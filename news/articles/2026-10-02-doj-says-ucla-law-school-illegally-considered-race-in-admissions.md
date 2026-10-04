@@ -2,8 +2,17 @@
 headline: DOJ says UCLA Law School illegally considered race in admissions
 secondary_headline: UCLA Law denies accusations, says process is merit-based
 publish_date: '2026-10-02'
-lede: The Department of Justice on Thursday accused UCLA School of Law of illegally considering race in admissions, alleging the school discriminated against white and Asian American students by favoring Black and Hispanic applicants in its 2023, 2024 and 2025 incoming classes. UCLA School of Law denied the allegations and said it uses a 'comprehensive, merit-based review process.' The finding is the latest in a series of admissions-discrimination accusations the Trump administration has directed at universities over their admissions practices.
-nut_graf: The finding follows a 2023 Supreme Court ruling that banned race-based affirmative action in college admissions. The Justice Department has issued similar findings against the UC Berkeley School of Law and the University of California, San Diego's medical school.
+lede: The Department of Justice on Thursday accused UCLA School of Law of illegally
+  considering race in admissions, alleging the school discriminated against white
+  and Asian American students by favoring Black and Hispanic applicants in its 2023,
+  2024 and 2025 incoming classes. UCLA School of Law denied the allegations and said
+  it uses a 'comprehensive, merit-based review process.' The finding is the latest
+  in a series of admissions-discrimination accusations the Trump administration has
+  directed at universities over their admissions practices.
+nut_graf: The finding follows a 2023 Supreme Court ruling that banned race-based affirmative
+  action in college admissions. The Justice Department has issued similar findings
+  against the UC Berkeley School of Law and the University of California, San Diego's
+  medical school.
 primary_entities:
 - UCLA School of Law
 - Department of Justice
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,45 @@ related_stories:
   headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.8432
+  strength: 0.843
 - slug: 2026-09-10-doj-says-berkeley-law-violated-civil-rights-law-in-2024-25-admissions
   headline: DOJ says Berkeley Law violated civil-rights law in 2024-25 admissions
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8674
+  strength: 0.8668
 - slug: 2026-10-02-doj-sues-university-of-delaware-over-in-state-tuition-for-undocumented-students
-  headline: DOJ sues University of Delaware over in-state tuition for undocumented students
+  headline: DOJ sues University of Delaware over in-state tuition for undocumented
+    students
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7153
+  strength: 0.7131
 - slug: 2026-08-06-doj-accuses-duke-law-of-unlawfully-considering-race-in-admissions
   headline: DOJ accuses Duke Law of unlawfully considering race in admissions
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.8323
+  strength: 0.8326
 - slug: 2026-07-21-doj-says-uc-san-diego-medical-school-illegally-used-race-in-admissions
   headline: DOJ says UC San Diego medical school illegally used race in admissions
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.8514
+  strength: 0.851
 - slug: 2026-09-11-doj-files-four-new-suits-over-in-state-tuition-for-noncitizens
   headline: DOJ files four new suits over in-state tuition for noncitizens
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6731
+  strength: 0.6703
 - slug: 2026-05-15-justice-department-alleges-yale-medical-school-illegally-factored-race-into-admi
-  headline: Justice Department alleges Yale medical school illegally factored race into admissions
+  headline: Justice Department alleges Yale medical school illegally factored race
+    into admissions
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.8619
+  strength: 0.8611
 - slug: 2026-05-15-justice-department-alleges-yale-illegally-considered-race-in-medical-admissions
   headline: Justice Department alleges Yale illegally considered race in medical admissions
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.857
-- slug: 2026-08-28-justice-department-files-dream-act-tuition-lawsuits-against-four-states
-  headline: Justice Department files Dream Act tuition lawsuits against four states
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6582
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.8302
-- slug: 2026-08-21-education-department-opens-process-to-revoke-aba-law-school-accreditation
-  headline: Education Department opens process to revoke ABA law school accreditation
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6753
-- slug: 2026-05-06-justice-department-finds-ucla-med-school-illegally-considered-race-in-admissions
-  headline: Justice Department finds UCLA med school illegally considered race in admissions
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.8499
-- slug: 2026-05-07-ucla-medical-school-used-race-in-admissions-justice-dept-finds
-  headline: UCLA medical school used race in admissions, Justice Dept. finds
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.8406
-- slug: 2026-08-10-doj-targets-new-york-connecticut-vermont-with-dream-act-tuition-complaints
-  headline: DOJ targets New York, Connecticut, Vermont with Dream Act tuition complaints
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6572
-- slug: 2026-03-27-trump-administration-investigates-race-in-admissions-at-3-medical-schools
-  headline: Trump administration investigates race in admissions at 3 medical schools
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7887
-- slug: 2026-07-21-agencies-admit-keyword-screening-terminated-2b-in-uc-grants
-  headline: Agencies admit keyword screening terminated $2B in UC grants
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.659
-- slug: 2026-07-10-yale-weighs-second-settlement-offer-as-faculty-alumni-press-leadership-to-resist
-  headline: Yale weighs second settlement offer as faculty, alumni press leadership to resist
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6758
-- slug: 2026-02-25-trump-administration-sues-ucla-over-antisemitism-allegations
-  headline: Trump administration sues UCLA over antisemitism allegations
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7444
-- slug: 2026-02-14-justice-department-sues-harvard-for-admissions-data-access-over-race
-  headline: Justice Department sues Harvard for admissions data access over race
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.7398
-- slug: 2026-04-06-judge-blocks-trump-admin-college-race-data-collection
-  headline: Judge Blocks Trump Admin. College Race Data Collection
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.7099
+  strength: 0.8566
 ---
-
 ## DOJ says UCLA Law School illegally considered race in admissions
 
 **Subtype:** fact

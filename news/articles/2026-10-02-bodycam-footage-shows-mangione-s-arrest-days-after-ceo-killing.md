@@ -2,8 +2,14 @@
 headline: Bodycam footage shows Mangione's arrest days after CEO killing
 secondary_headline: Mangione has pleaded guilty to federal charges in Thompson killing
 publish_date: '2026-10-02'
-lede: BBC News has published bodycam footage showing the arrest of Luigi Mangione at a McDonald's restaurant, captured days after the killing of UnitedHealthcare CEO Brian Thompson. The footage shows officers finding a gun magazine and a gun in Mangione's backpack. Mangione has pleaded guilty to federal charges relating to Thompson's killing, according to the BBC.
-nut_graf: The release of the bodycam footage comes after Mangione entered a guilty plea in federal court, providing a public visual record of the arrest that followed Thompson's killing.
+lede: BBC News has published bodycam footage showing the arrest of Luigi Mangione
+  at a McDonald's restaurant, captured days after the killing of UnitedHealthcare
+  CEO Brian Thompson. The footage shows officers finding a gun magazine and a gun
+  in Mangione's backpack. Mangione has pleaded guilty to federal charges relating
+  to Thompson's killing, according to the BBC.
+nut_graf: The release of the bodycam footage comes after Mangione entered a guilty
+  plea in federal court, providing a public visual record of the arrest that followed
+  Thompson's killing.
 primary_entities:
 - Luigi Mangione
 - Brian Thompson
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,8 +142,19 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-mangione-faces-december-sentencing-after-august-federal-stalking-plea
+  headline: Mangione faces December sentencing after August federal stalking plea
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8282
+- slug: 2026-10-02-edited-bodycam-footage-shows-mangione-s-december-2024-mcdonald-s-arrest
+  headline: Edited bodycam footage shows Mangione's December 2024 McDonald's arrest
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8131
 - slug: 2026-08-14-mangione-expected-to-plead-guilty-in-federal-unitedhealthcare-ceo-killing-case
-  headline: Mangione expected to plead guilty in federal UnitedHealthcare CEO killing case
+  headline: Mangione expected to plead guilty in federal UnitedHealthcare CEO killing
+    case
   publish_date: '2026-08-14'
   relation: related
   strength: 0.7284
@@ -155,88 +173,19 @@ related_stories:
   publish_date: '2026-08-17'
   relation: related
   strength: 0.6745
-- slug: 2026-08-13-mangione-defense-federal-prosecutors-to-meet-friday-for-plea-discussions
-  headline: Mangione defense, federal prosecutors to meet Friday for plea discussions
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6233
 - slug: 2026-06-17-luigi-mangione-to-mount-psychiatric-defense-in-unitedhealthcare-ceo-killing-tria
-  headline: Luigi Mangione to Mount Psychiatric Defense in UnitedHealthcare CEO Killing Trial
+  headline: Luigi Mangione to Mount Psychiatric Defense in UnitedHealthcare CEO Killing
+    Trial
   publish_date: '2026-06-17'
   relation: related
   strength: 0.7206
 - slug: 2026-06-29-luigi-mangione-appears-in-federal-court-after-withdrawing-psychiatric-defense
-  headline: Luigi Mangione appears in federal court after withdrawing psychiatric defense
+  headline: Luigi Mangione appears in federal court after withdrawing psychiatric
+    defense
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6779
-- slug: 2026-06-16-mangione-hearing-delayed-after-paperwork-error-judge-says
-  headline: Mangione hearing delayed after paperwork error, judge says
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6935
-- slug: 2026-05-19-judge-allows-gun-and-notebook-as-evidence-in-luigi-mangione-trial
-  headline: Judge allows gun and notebook as evidence in Luigi Mangione trial
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7166
-- slug: 2026-05-17-judge-allows-gun-and-notebook-as-evidence-in-luigi-mangione-trial
-  headline: Judge allows gun and notebook as evidence in Luigi Mangione trial
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7159
-- slug: 2026-05-18-luigi-mangione-trial-gun-and-notebook-allowed-as-evidence
-  headline: 'Luigi Mangione trial: Gun and notebook allowed as evidence'
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7142
-- slug: 2026-05-19-luigi-mangione-trial-judge-allows-gun-and-notebook-as-evidence
-  headline: 'Luigi Mangione trial: Judge allows gun and notebook as evidence'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7087
-- slug: 2026-01-12-federal-judge-sets-hearing-on-mangione-backpack-search-procedures
-  headline: Federal judge sets hearing on Mangione backpack search procedures
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7353
-- slug: 2026-01-22-death-penalty-decision-looms-as-judge-reviews-mangione-backpack-seizure
-  headline: Death penalty decision looms as judge reviews Mangione backpack seizure
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7016
-- slug: 2026-01-09-federal-judge-says-mangione-death-penalty-trial-could-begin-by-december
-  headline: Federal judge says Mangione death penalty trial could begin by December
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6955
-- slug: 2026-01-29-judge-bars-feds-from-seeking-death-penalty-against-luigi-mangione
-  headline: Judge bars feds from seeking death penalty against Luigi Mangione
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.691
-- slug: 2026-01-30-man-impersonating-fbi-agent-arrested-after-trying-to-free-luigi-mangione
-  headline: Man impersonating FBI agent arrested after trying to free Luigi Mangione
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6861
-- slug: 2026-03-19-luigi-mangione-lawyers-seek-to-delay-federal-trial-in-ceo-killing
-  headline: Luigi Mangione lawyers seek to delay federal trial in CEO killing
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6591
-- slug: 2026-04-02-judges-delay-luigi-mangione-s-state-and-federal-trials-to-september-october
-  headline: Judges delay Luigi Mangione’s state and federal trials to September, October
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6505
-- slug: 2026-02-28-feds-won-t-appeal-ruling-barring-death-penalty-in-luigi-mangione-case
-  headline: Feds won’t appeal ruling barring death penalty in Luigi Mangione case
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6588
 ---
-
 ## Bodycam footage shows Mangione's arrest days after CEO killing
 
 **Subtype:** fact

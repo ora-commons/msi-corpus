@@ -1,9 +1,18 @@
 ---
-headline: US transferred 65 court-protected refugees to Equatorial Guinea, groups say
+headline: US transferred 65 court-protected refugees to Equatorial Guinea, groups
+  say
 secondary_headline: US repurposed $7.5M in refugee aid to pay Equatorial Guinea
 publish_date: '2026-10-02'
-lede: Two human rights organizations report that the Trump administration has transferred at least 65 third-country nationals to Equatorial Guinea since November 2025, despite US immigration judges having granted protection to nearly all of them. The $7.5 million the administration repurposed to pay Equatorial Guinea to accept the transfers represents a 275 percent increase in US foreign assistance to the country, according to EG Justice and Human Rights First.
-nut_graf: The groups' account describes refugees granted protection by US immigration judges being sent to Equatorial Guinea and, in some cases, back to the countries they originally fled, under an arrangement the organizations say is financed with money Congress appropriated for humanitarian refugee assistance.
+lede: Two human rights organizations report that the Trump administration has transferred
+  at least 65 third-country nationals to Equatorial Guinea since November 2025, despite
+  US immigration judges having granted protection to nearly all of them. The $7.5
+  million the administration repurposed to pay Equatorial Guinea to accept the transfers
+  represents a 275 percent increase in US foreign assistance to the country, according
+  to EG Justice and Human Rights First.
+nut_graf: The groups' account describes refugees granted protection by US immigration
+  judges being sent to Equatorial Guinea and, in some cases, back to the countries
+  they originally fled, under an arrangement the organizations say is financed with
+  money Congress appropriated for humanitarian refugee assistance.
 primary_entities:
 - Equatorial Guinea
 - EG Justice
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -123,106 +133,46 @@ related_stories:
   headline: UN experts warn US third-country deportations trigger human rights violations
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7536
+  strength: 0.7548
 - slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
   headline: Appeals court rules third-country deportation policy unlawful
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7623
+  strength: 0.7617
 - slug: 2026-09-18-witnesses-recount-beating-of-two-us-deportees-in-equatorial-guinea
   headline: Witnesses recount beating of two US deportees in Equatorial Guinea
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7725
+  strength: 0.7702
 - slug: 2026-09-30-investigation-documents-35-country-us-third-country-deportation-network
   headline: Investigation documents 35-country US third-country deportation network
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6885
+  strength: 0.6875
 - slug: 2026-09-30-burundi-agrees-to-accept-us-third-country-deportees
   headline: Burundi agrees to accept US third-country deportees
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6767
+  strength: 0.6783
 - slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
+  headline: Investigation documents Iranian woman deported in shackles to unknown
+    African country
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7209
+  strength: 0.721
 - slug: 2026-09-24-gao-finds-ice-wasted-tens-of-millions-on-detention-expansion
   headline: GAO finds ICE wasted tens of millions on detention expansion
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6716
+  strength: 0.6754
 - slug: 2026-09-24-doj-asks-supreme-court-to-allow-third-country-deportation-policy
   headline: DOJ asks Supreme Court to allow third-country deportation policy
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6707
-- slug: 2026-08-30-us-deports-afghan-granted-court-protection-to-central-african-republic
-  headline: US deports Afghan granted court protection to Central African Republic
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6732
-- slug: 2026-08-19-liberia-to-host-up-to-1-200-us-third-country-deportees-minister-says
-  headline: Liberia to host up to 1,200 US third-country deportees, minister says
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7101
-- slug: 2026-03-22-secretive-us-deal-with-equatorial-guinea-strands-deported-migrants
-  headline: Secretive US deal with Equatorial Guinea strands deported migrants
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7893
-- slug: 2026-02-14-trump-administration-spent-40m-on-third-country-deportations-report-says
-  headline: Trump administration spent $40M on third-country deportations, report says
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.7647
-- slug: 2026-06-14-cuban-deportations-under-trump-more-than-double-first-term-tally
-  headline: Cuban deportations under Trump more than double first-term tally
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6744
-- slug: 2026-06-10-us-shutting-out-climate-refugees-as-disasters-mount-advocates-say
-  headline: US shutting out climate refugees as disasters mount, advocates say
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6722
-- slug: 2026-03-13-eswatini-receives-third-batch-of-u-s-deportees-under-trump-deals
-  headline: Eswatini receives third batch of U.S. deportees under Trump deals
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7172
-- slug: 2026-05-18-trump-administration-expands-afrikaner-refugee-admissions-to-17-500-citing-emerg
-  headline: Trump administration expands Afrikaner refugee admissions to 17,500, citing emergency
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6876
-- slug: 2026-02-22-gay-asylum-seeker-deported-to-cameroon-despite-u-s-judge-s-protection-order
-  headline: Gay asylum-seeker deported to Cameroon despite U.S. judge's protection order
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.7188
-- slug: 2026-02-17-us-deports-more-third-country-migrants-to-cameroon-lawyers-say
-  headline: US deports more third-country migrants to Cameroon, lawyers say
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.7189
-- slug: 2026-06-02-rubio-defends-white-south-african-refugee-admissions-as-afghan-allies-remain-in-
-  headline: Rubio defends white South African refugee admissions as Afghan allies remain in limbo
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6693
-- slug: 2026-05-14-us-deportations-to-el-salvador-nearly-double-in-early-2026
-  headline: US deportations to El Salvador nearly double in early 2026
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6826
+  strength: 0.6703
 analyses:
-- '2026-10-02-us-transfers-court-protected-refugees-to-equatorial-guinea-under-repurposed-refu'
+- 2026-10-02-us-transfers-court-protected-refugees-to-equatorial-guinea-under-repurposed-refu
 ---
-
 ## US transferred 65 court-protected refugees to Equatorial Guinea, groups say
 
 - EG Justice and Human Rights First report that the US has transferred at least 65 third-country nationals to Equatorial Guinea since November 2025, despite nearly all holding US immigration court orders shielding them from removal.

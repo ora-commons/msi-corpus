@@ -1,9 +1,19 @@
 ---
 headline: Allegations against Saddam Haftar derail Libyan unity plan
-secondary_headline: GNU says cooperation with Saddam Haftar 'impossible' after drone plot arrests
+secondary_headline: GNU says cooperation with Saddam Haftar 'impossible' after drone
+  plot arrests
 publish_date: '2026-10-03'
-lede: Allegations that Saddam Haftar, son of Libyan warlord Khalifa Haftar, directed drone attacks on fuel storage facilities in western Libya have upended US-backed plans to unify the country's rival governments, according to sources in the Tripoli-based Government of National Unity. Four people were arrested on 5 September in connection with the August strikes on the Zawiya oil station, which damaged a fuel tank holding approximately 4.5 million litres and worsened electricity blackouts across western Libya.
-nut_graf: The collapse of the unity plan threatens to deepen Libya's decade-long political split and complicates a Trump administration effort to stabilize the oil-rich country, where overlapping power struggles have persisted since the 2011 fall of Col Muammar Gaddafi.
+lede: Allegations that Saddam Haftar, son of Libyan warlord Khalifa Haftar, directed
+  drone attacks on fuel storage facilities in western Libya have upended US-backed
+  plans to unify the country's rival governments, according to sources in the Tripoli-based
+  Government of National Unity. Four people were arrested on 5 September in connection
+  with the August strikes on the Zawiya oil station, which damaged a fuel tank holding
+  approximately 4.5 million litres and worsened electricity blackouts across western
+  Libya.
+nut_graf: The collapse of the unity plan threatens to deepen Libya's decade-long political
+  split and complicates a Trump administration effort to stabilize the oil-rich country,
+  where overlapping power struggles have persisted since the 2011 fall of Col Muammar
+  Gaddafi.
 primary_entities:
 - Saddam Haftar
 - Khalifa Haftar
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,110 +152,14 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-02-fbi-arrests-energy-department-employee-for-alleged-houthi-aid
-  headline: FBI arrests Energy Department employee for alleged Houthi aid
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6228
-- slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
-  headline: Farmer's midnight call leads to five arrests near RAF Fairford
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5951
-- slug: 2026-09-28-uk-probes-motives-beyond-iran-link-in-raf-fairford-arrests
-  headline: UK probes motives beyond Iran link in RAF Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5896
-- slug: 2026-09-24-tigray-forces-seize-mekelle-airport-accuse-ethiopian-government-of-invasion
-  headline: Tigray forces seize Mekelle airport, accuse Ethiopian government of invasion
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5979
-- slug: 2026-09-11-saudi-arabia-shuts-east-west-pipeline-after-strikes-from-iraq
-  headline: Saudi Arabia shuts East-West pipeline after strikes from Iraq
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6177
-- slug: 2026-09-16-us-rebuffs-saudi-request-to-intervene-in-yemen-after-houthi-talks
-  headline: US rebuffs Saudi request to intervene in Yemen after Houthi talks
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5869
-- slug: 2026-09-10-houthis-claim-mocha-as-campaign-for-yemen-s-red-sea-coast-intensifies
-  headline: Houthis claim Mocha as campaign for Yemen's Red Sea coast intensifies
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5911
-- slug: 2026-07-18-u-s-iran-escalate-strikes-in-gulf-as-israel-bombs-lebanon
-  headline: U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5848
 - slug: 2026-04-08-ukrainian-forces-attacked-russian-tanker-from-libya-officials-say
   headline: Ukrainian forces attacked Russian tanker from Libya, officials say
   publish_date: '2026-04-08'
   relation: related
   strength: 0.665
-- slug: 2026-06-28-iran-s-revolutionary-guard-strikes-bahrain-kuwait-as-u-s-hits-10-targets
-  headline: Iran's Revolutionary Guard strikes Bahrain, Kuwait as U.S. hits 10 targets
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.5964
-- slug: 2026-06-09-lebanon-faces-civil-war-risk-as-us-and-israel-push-hezbollah-disarmament
-  headline: Lebanon faces civil war risk as US and Israel push Hezbollah disarmament
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6038
-- slug: 2026-02-04-son-of-gadhafi-killed-in-libya-officials-and-lawyer-say
-  headline: Son of Gadhafi killed in Libya, officials and lawyer say
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.6405
-- slug: 2026-05-12-israeli-drone-strikes-on-vehicles-in-lebanon-kill-12-including-2-children
-  headline: Israeli drone strikes on vehicles in Lebanon kill 12, including 2 children
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.597
-- slug: 2026-05-17-uae-nuclear-plant-targeted-in-drone-strike-amid-iran-tensions
-  headline: UAE nuclear plant targeted in drone strike amid Iran tensions
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5888
-- slug: 2026-05-16-drones-now-the-deadliest-threat-to-civilians-in-sudan-s-war-un-says
-  headline: Drones now the deadliest threat to civilians in Sudan's war, UN says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5827
-- slug: 2026-05-04-drone-attack-on-khartoum-outskirts-kills-5-rsf-blamed-by-rights-group
-  headline: Drone attack on Khartoum outskirts kills 5, RSF blamed by rights group
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.59
-- slug: 2026-05-10-israeli-drone-strikes-near-beirut-airstrikes-in-south-kill-17-in-lebanon
-  headline: Israeli drone strikes near Beirut, airstrikes in south kill 17 in Lebanon
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.584
-- slug: 2026-05-05-rsf-launched-drone-shot-down-before-hitting-khartoum-airport
-  headline: RSF-launched drone shot down before hitting Khartoum airport
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5832
-- slug: 2026-03-14-iran-allied-groups-join-mideast-war-as-yemen-s-houthis-stay-sidelined
-  headline: Iran-allied groups join Mideast war as Yemen's Houthis stay sidelined
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6012
-- slug: 2026-02-08-drone-attack-in-sudan-kills-at-least-24-including-8-children-doctors-say
-  headline: Drone attack in Sudan kills at least 24, including 8 children, doctors say
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5992
 analyses:
-- '2026-10-03-arrests-expose-the-spoiler-network-the-boulos-plan-left-outside-the-room'
+- 2026-10-03-arrests-expose-the-spoiler-network-the-boulos-plan-left-outside-the-room
 ---
-
 ## Allegations against Saddam Haftar derail Libyan unity plan
 
 **Subtype:** fact

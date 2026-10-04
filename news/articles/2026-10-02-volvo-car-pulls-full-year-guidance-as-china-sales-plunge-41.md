@@ -1,9 +1,16 @@
 ---
 headline: Volvo Car pulls full-year guidance as China sales plunge 41%
-secondary_headline: Carmaker warns of significant hit to third-quarter core earnings and cash flow
+secondary_headline: Carmaker warns of significant hit to third-quarter core earnings
+  and cash flow
 publish_date: '2026-10-02'
-lede: Volvo Car scrapped its full-year guidance on Friday, warning that a deteriorating Chinese auto market and a slow recovery in the U.S. drove third-quarter sales below expectations. The Swedish carmaker, majority-owned by China's Zhejiang Geely Holding Group, said the market developments will have a significant negative impact on its third-quarter core earnings and cash flow.
-nut_graf: The move reverses Volvo Car's earlier guidance for stronger second-half sales and roughly break-even full-year cash flow, underscoring the depth of the Chinese market's downturn and the slow recovery in the U.S. premium segment.
+lede: Volvo Car scrapped its full-year guidance on Friday, warning that a deteriorating
+  Chinese auto market and a slow recovery in the U.S. drove third-quarter sales below
+  expectations. The Swedish carmaker, majority-owned by China's Zhejiang Geely Holding
+  Group, said the market developments will have a significant negative impact on its
+  third-quarter core earnings and cash flow.
+nut_graf: The move reverses Volvo Car's earlier guidance for stronger second-half
+  sales and roughly break-even full-year cash flow, underscoring the depth of the
+  Chinese market's downturn and the slow recovery in the U.S. premium segment.
 primary_entities:
 - Volvo Car
 - Zhejiang Geely Holding Group
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,7 +152,8 @@ related_stories:
   relation: related
   strength: 0.6809
 - slug: 2026-09-18-volvo-car-cco-calls-chinese-competition-an-existential-threat-to-some-european-c
-  headline: Volvo Car CCO calls Chinese competition an existential threat to some European carmakers
+  headline: Volvo Car CCO calls Chinese competition an existential threat to some
+    European carmakers
   publish_date: '2026-09-18'
   relation: related
   strength: 0.6673
@@ -158,26 +167,11 @@ related_stories:
   publish_date: '2026-08-26'
   relation: related
   strength: 0.6704
-- slug: 2026-09-04-volkswagen-board-approves-100-000-job-cuts-by-2030
-  headline: Volkswagen board approves 100,000 job cuts by 2030
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.622
 - slug: 2026-07-17-volvo-car-reports-wide-second-quarter-earnings-miss
   headline: Volvo Car reports wide second-quarter earnings miss
   publish_date: '2026-07-17'
   relation: related
   strength: 0.7327
-- slug: 2026-08-28-byd-s-second-quarter-net-profit-rises-30-as-exports-lift-margins
-  headline: BYD's second-quarter net profit rises 30% as exports lift margins
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6089
-- slug: 2026-08-24-polestar-says-commerce-signaled-approval-before-denying-u-s-market-entry
-  headline: Polestar says Commerce signaled approval before denying U.S. market entry
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6113
 - slug: 2026-07-11-german-carmakers-report-30-41-china-sales-drop-in-second-quarter
   headline: German carmakers report 30-41% China sales drop in second quarter
   publish_date: '2026-07-11'
@@ -188,58 +182,12 @@ related_stories:
   publish_date: '2026-07-10'
   relation: related
   strength: 0.7199
-- slug: 2026-08-07-wendy-s-withdraws-outlook-cuts-dividend-as-u-s-sales-drop-7
-  headline: Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6106
 - slug: 2026-06-17-european-auto-shares-fall-after-bmw-slashes-guidance
   headline: European Auto Shares Fall After BMW Slashes Guidance
   publish_date: '2026-06-17'
   relation: related
   strength: 0.7003
-- slug: 2026-07-10-bmw-first-half-sales-fall-4-2-on-20-china-drop
-  headline: BMW first-half sales fall 4.2% on 20% China drop
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6621
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6596
-- slug: 2026-07-23-ford-and-geely-form-joint-venture-at-valencia-plant-for-low--and-zero-emission-v
-  headline: Ford and Geely form joint venture at Valencia plant for low- and zero-emission vehicles
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6043
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6182
-- slug: 2026-07-09-china-car-exports-surge-80-in-june-evs-drive-growth
-  headline: China car exports surge 80% in June, EVs drive growth
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6223
-- slug: 2026-06-26-volkswagen-reportedly-planning-up-to-100-000-job-cuts-four-german-plant-closures
-  headline: Volkswagen reportedly planning up to 100,000 job cuts, four German plant closures
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6312
-- slug: 2026-06-25-u-s-bars-polestar-from-selling-new-cars-under-chinese-software-rule
-  headline: U.S. bars Polestar from selling new cars under Chinese software rule
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6279
-- slug: 2026-05-10-china-car-exports-jump-nearly-85-in-april-led-by-evs
-  headline: China car exports jump nearly 85% in April, led by EVs
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6077
 ---
-
 ## Volvo Car pulls full-year guidance as China sales plunge 41%
 
 **Subtype:** fact

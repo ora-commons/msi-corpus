@@ -2,8 +2,20 @@
 headline: Congress likely done legislating until after November midterms
 secondary_headline: Shutdown law clears as election-law push stalls in Senate
 publish_date: '2026-10-01'
-lede: WASHINGTON — The House and Senate are most likely done legislating until after the November midterm elections, The Wall Street Journal reported. Late-session attempts to pass bills affecting college sports, data centers, permitting reform and affordability will not become law anytime soon because, the Journal wrote, Congress "has thrown in the towel."
-nut_graf: Speaker Mike Johnson (R., La.) has called this Congress "one of the most productive of all time," pointing to last year's One Big Beautiful Bill, which the Journal reported was enormous and consequential, affecting tax policy, immigration policy and government spending. The pace slowed after that, with Congress for the most part deferring authority to the White House on matters including war powers and trade, and with an election-law push backed by President Trump stalling in the Senate. The standoff arrives as dozens of lawmakers decline to seek re-election and a new Wall Street Journal poll shows large numbers of Americans embracing populist ideas that defy traditional political labels.
+lede: WASHINGTON — The House and Senate are most likely done legislating until after
+  the November midterm elections, The Wall Street Journal reported. Late-session attempts
+  to pass bills affecting college sports, data centers, permitting reform and affordability
+  will not become law anytime soon because, the Journal wrote, Congress "has thrown
+  in the towel."
+nut_graf: Speaker Mike Johnson (R., La.) has called this Congress "one of the most
+  productive of all time," pointing to last year's One Big Beautiful Bill, which the
+  Journal reported was enormous and consequential, affecting tax policy, immigration
+  policy and government spending. The pace slowed after that, with Congress for the
+  most part deferring authority to the White House on matters including war powers
+  and trade, and with an election-law push backed by President Trump stalling in the
+  Senate. The standoff arrives as dozens of lawmakers decline to seek re-election
+  and a new Wall Street Journal poll shows large numbers of Americans embracing populist
+  ideas that defy traditional political labels.
 primary_entities:
 - The Wall Street Journal
 - Congress
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,106 +166,45 @@ related_stories:
   headline: Senate confirms Sonderling as labor secretary, recesses until after elections
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6934
+  strength: 0.6935
 - slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
   headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7369
+  strength: 0.7367
 - slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
   headline: Democrats favored in House fight as Trump approval drags on GOP candidates
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6616
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6386
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6382
+  strength: 0.6615
 - slug: 2026-08-31-house-returns-for-vote-on-stopgap-funding-bill-through-early-december
   headline: House returns for vote on stopgap funding bill through early December
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6614
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6341
+  strength: 0.6615
 - slug: 2026-07-25-lawmakers-return-home-to-campaign-after-rockiest-house-session-in-years
   headline: Lawmakers return home to campaign after rockiest House session in years
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.6817
-- slug: 2026-08-08-senate-approves-funding-bill-to-avoid-election-season-shutdown
-  headline: Senate approves funding bill to avoid election-season shutdown
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6375
+  strength: 0.6808
 - slug: 2026-07-21-house-republicans-set-tuesday-vote-on-stopgap-funding-through-dec-4
   headline: House Republicans set Tuesday vote on stopgap funding through Dec. 4
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6739
-- slug: 2026-08-02-senate-bill-would-set-next-funding-deadline-for-dec-11
-  headline: Senate bill would set next funding deadline for Dec. 11
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6444
+  strength: 0.6732
 - slug: 2026-07-13-gop-returns-to-congress-facing-a-narrower-majority-and-a-stalled-agenda
   headline: GOP returns to Congress facing a narrower majority and a stalled agenda
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6814
+  strength: 0.6816
 - slug: 2026-07-05-luna-led-rebellion-blocks-house-vote-sends-lawmakers-home-early
   headline: Luna-led rebellion blocks House vote, sends lawmakers home early
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.6565
-- slug: 2026-06-30-house-gop-halts-votes-sends-members-home-as-legislative-agenda-stalls
-  headline: House GOP halts votes, sends members home as legislative agenda stalls
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6356
-- slug: 2026-04-26-all-nighters-in-congress-create-dysfunction-after-dark
-  headline: All-nighters in Congress create dysfunction after dark
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6919
-- slug: 2026-05-22-congress-delays-vote-on-ice-funding-after-gop-infighting-flares
-  headline: Congress delays vote on ICE funding after GOP infighting flares
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.643
-- slug: 2026-05-22-gop-senators-delay-immigration-funding-as-anti-weaponization-fund-raises-doubts
-  headline: GOP senators delay immigration funding as anti-weaponization fund raises doubts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6407
-- slug: 2026-05-15-senators-approve-withholding-their-own-pay-during-shutdowns
-  headline: Senators approve withholding their own pay during shutdowns
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6406
-- slug: 2026-05-15-senate-votes-to-withhold-members-pay-during-government-shutdowns
-  headline: Senate votes to withhold members' pay during government shutdowns
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6353
-- slug: 2026-01-08-house-passes-three-spending-bills-397-28-averting-jan-30-shutdown-deadline
-  headline: House passes three spending bills 397-28, averting Jan. 30 shutdown deadline
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.67
+  strength: 0.6555
 analyses:
-- '2026-10-01-bill-count-metric-omits-congress-s-ceded-functions'
+- 2026-10-01-bill-count-metric-omits-congress-s-ceded-functions
 ---
-
 ## Congress likely done legislating until after November midterms
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Chinese officials seek rest accommodations for Xi at Trump summit
 secondary_headline: China has no institutionalized process to choose Xi's successor
 publish_date: '2026-10-03'
-lede: Chinese officials asked the White House to accommodate Xi Jinping's need for rest during his state visit and summit with President Trump, requesting a private West Wing room for the 73-year-old leader and declining a planned working lunch, according to people familiar with the visit planning. The scheduling changes left a roughly five-hour gap in the two-day summit agenda and offered a rare glimpse of Xi's emerging physical limitations, The Wall Street Journal reported.
-nut_graf: Xi's health carries weight far beyond his personal well-being. He has concentrated more power than any Chinese leader since Mao Zedong and has designated no successor, and China effectively has no institutionalized process for choosing a leader who holds his three titles of Communist Party secretary-general, president and chairman of the China Central Military Commission.
+lede: Chinese officials asked the White House to accommodate Xi Jinping's need for
+  rest during his state visit and summit with President Trump, requesting a private
+  West Wing room for the 73-year-old leader and declining a planned working lunch,
+  according to people familiar with the visit planning. The scheduling changes left
+  a roughly five-hour gap in the two-day summit agenda and offered a rare glimpse
+  of Xi's emerging physical limitations, The Wall Street Journal reported.
+nut_graf: Xi's health carries weight far beyond his personal well-being. He has concentrated
+  more power than any Chinese leader since Mao Zedong and has designated no successor,
+  and China effectively has no institutionalized process for choosing a leader who
+  holds his three titles of Communist Party secretary-general, president and chairman
+  of the China Central Military Commission.
 primary_entities:
 - Xi Jinping
 - Peng Liyuan
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,106 +153,45 @@ related_stories:
   headline: Trump hosts Xi at White House state dinner attended by tech CEOs
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7684
+  strength: 0.766
 - slug: 2026-09-17-trump-xi-summit-planning-lags-as-key-issues-remain-unresolved
   headline: Trump-Xi summit planning lags as key issues remain unresolved
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.8078
+  strength: 0.8081
 - slug: 2026-09-25-trump-welcomes-xi-to-white-house-trade-truce-extended-to-january-10
   headline: Trump welcomes Xi to White House; trade truce extended to January 10
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7454
-- slug: 2026-09-25-trump-xi-reach-two-month-trade-extension-at-white-house-summit
-  headline: Trump, Xi reach two-month trade extension at White House summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7384
-- slug: 2026-09-25-trump-xi-summit-features-heavy-pageantry-few-deliverables
-  headline: Trump-Xi summit features heavy pageantry, few deliverables
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7369
+  strength: 0.7447
 - slug: 2026-09-24-trump-readies-marble-helipad-for-xi-visit-laments-unfinished-ballroom
   headline: Trump readies marble helipad for Xi visit, laments unfinished ballroom
   publish_date: '2026-09-24'
   relation: related
   strength: 0.7424
+- slug: 2026-09-25-trump-xi-summit-features-heavy-pageantry-few-deliverables
+  headline: Trump-Xi summit features heavy pageantry, few deliverables
+  publish_date: '2026-09-25'
+  relation: related
+  strength: 0.736
+- slug: 2026-09-25-trump-xi-reach-two-month-trade-extension-at-white-house-summit
+  headline: Trump, Xi reach two-month trade extension at White House summit
+  publish_date: '2026-09-25'
+  relation: related
+  strength: 0.7352
 - slug: 2026-09-24-trump-and-xi-meet-at-white-house-offer-no-details-on-talks
   headline: Trump and Xi meet at White House, offer no details on talks
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7407
+  strength: 0.741
 - slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
   headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7407
-- slug: 2026-09-22-xi-unlikely-to-bring-corporate-executives-to-washington-summit-with-trump
-  headline: Xi unlikely to bring corporate executives to Washington summit with Trump
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7483
-- slug: 2026-09-25-xi-pressed-trump-to-oppose-taiwan-independence-at-white-house-summit
-  headline: Xi pressed Trump to oppose Taiwan independence at White House summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7289
-- slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
-  headline: Trump hosts Xi at White House for state visit on trade and AI
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7399
-- slug: 2026-09-23-xi-arrives-in-washington-for-state-visit-as-both-sides-prioritize-pageantry
-  headline: Xi arrives in Washington for state visit as both sides prioritize pageantry
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7375
-- slug: 2026-09-25-trump-and-xi-conclude-washington-summit-without-ai-accord
-  headline: Trump and Xi conclude Washington summit without AI accord
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7229
-- slug: 2026-09-24-trump-welcomes-xi-to-white-house-for-state-visit
-  headline: Trump welcomes Xi to White House for state visit
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7285
-- slug: 2026-09-25-trump-hosts-xi-at-white-house-state-dinner-with-bezos-greer
-  headline: Trump hosts Xi at White House state dinner with Bezos, Greer
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7202
-- slug: 2026-09-25-trump-and-xi-extend-tariff-truce-after-white-house-summit
-  headline: Trump and Xi extend tariff truce after White House summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.718
-- slug: 2026-09-23-xi-arrives-in-washington-wednesday-for-state-visit
-  headline: Xi arrives in Washington Wednesday for state visit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7263
-- slug: 2026-05-14-trump-heads-to-beijing-for-summit-with-xi-as-protocol-takes-center-stage
-  headline: Trump heads to Beijing for summit with Xi as protocol takes center stage
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7513
-- slug: 2026-06-08-xi-arrives-in-pyongyang-for-summit-with-kim-as-both-leaders-seek-to-strengthen-a
-  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen alliance
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7179
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7273
+  strength: 0.7392
 analyses:
-- '2026-10-03-xi-summit-rest-demands-expose-absence-of-succession-process'
+- 2026-10-03-xi-summit-rest-demands-expose-absence-of-succession-process
 ---
-
 ## Chinese officials seek rest accommodations for Xi at Trump summit
 
 **Subtype:** fact

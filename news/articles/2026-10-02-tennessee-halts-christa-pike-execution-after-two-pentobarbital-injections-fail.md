@@ -1,9 +1,26 @@
 ---
-headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-secondary_headline: Lawyers, doctors, and faith leaders call for US death penalty moratorium
+headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+  fail
+secondary_headline: Lawyers, doctors, and faith leaders call for US death penalty
+  moratorium
 publish_date: '2026-10-02'
-lede: Christa Pike, 50, survived Tennessee's attempt to execute her on Wednesday after she was administered two full syringes of pentobarbital, a sedative that under normal circumstances is considered fatal, according to the Guardian. Tennessee Governor Bill Lee called off the procedure after witnesses reported that Pike was still breathing, choking, and struggling, and was found to have a heartbeat an hour after the first injection. Pike remains in critical condition and is receiving life-saving medical care; she is the only person known to have survived being administered 5mg of the drug. Top lawyers, doctors, and members of the faith community are now calling for a US moratorium on judicial killings, with critics citing the procedure as part of a mounting pattern of failed lethal injections across multiple states.
-nut_graf: Pike's lawyers and outside medical experts described the Wednesday attempt in stark terms, with one of her attorneys calling the procedure "cruel and torturous" and a Cornell Law School scholar labeling it "unimaginably barbaric." The calls for a moratorium come as the US recorded its highest number of executions in 16 years last year — 47 across 12 states — and as President Donald Trump has pressed death penalty states and the federal Department of Justice to accelerate judicial killings.
+lede: Christa Pike, 50, survived Tennessee's attempt to execute her on Wednesday after
+  she was administered two full syringes of pentobarbital, a sedative that under normal
+  circumstances is considered fatal, according to the Guardian. Tennessee Governor
+  Bill Lee called off the procedure after witnesses reported that Pike was still breathing,
+  choking, and struggling, and was found to have a heartbeat an hour after the first
+  injection. Pike remains in critical condition and is receiving life-saving medical
+  care; she is the only person known to have survived being administered 5mg of the
+  drug. Top lawyers, doctors, and members of the faith community are now calling for
+  a US moratorium on judicial killings, with critics citing the procedure as part
+  of a mounting pattern of failed lethal injections across multiple states.
+nut_graf: Pike's lawyers and outside medical experts described the Wednesday attempt
+  in stark terms, with one of her attorneys calling the procedure "cruel and torturous"
+  and a Cornell Law School scholar labeling it "unimaginably barbaric." The calls
+  for a moratorium come as the US recorded its highest number of executions in 16
+  years last year — 47 across 12 states — and as President Donald Trump has pressed
+  death penalty states and the federal Department of Justice to accelerate judicial
+  killings.
 primary_entities:
 - Christa Pike
 - Bill Lee
@@ -49,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -128,107 +146,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
   strength: 0.9017
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8813
+  strength: 0.8806
+- slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
+  headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8752
+- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
+  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing
+    IV'
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8596
 - slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
+  headline: Christa Pike reportedly remains alive after two injections in Tennessee
+    execution
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8659
+  strength: 0.8647
+- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
+  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.857
+- slug: 2026-10-03-tennessee-prison-chief-resigns-after-christa-pike-s-failed-execution
+  headline: Tennessee prison chief resigns after Christa Pike's failed execution
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.8512
 - slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
   headline: Christa Pike survives two Tennessee lethal injection attempts
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8567
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8267
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.8119
-- slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
-  headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.8169
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.8078
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.81
-- slug: 2026-09-30-sixth-circuit-halts-christa-pike-execution-an-hour-before-it-was-scheduled
-  headline: Sixth Circuit halts Christa Pike execution an hour before it was scheduled
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.8006
-- slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
-  headline: Christa Pike execution set as Tennessee governor denies clemency
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8032
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7883
-- slug: 2026-09-29-slemmer-s-mother-to-attend-pike-execution-holding-daughter-s-photo
-  headline: Slemmer's mother to attend Pike execution holding daughter's photo
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7606
-- slug: 2026-09-04-tennessee-plans-execution-of-christa-pike-first-woman-since-1819
-  headline: Tennessee plans execution of Christa Pike, first woman since 1819
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7745
-- slug: 2026-09-16-norman-sues-over-pentobarbital-humphries-cites-survivor-justice-act
-  headline: Norman sues over pentobarbital; Humphries cites Survivor Justice Act
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6824
-- slug: 2026-08-13-same-day-triple-executions-return-thursday-after-16-year-gap
-  headline: Same-day triple executions return Thursday after 16-year gap
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6815
-- slug: 2026-08-08-tennessee-court-keeps-execution-doctor-s-possible-role-undisclosed
-  headline: Tennessee court keeps execution doctor's possible role undisclosed
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6656
-- slug: 2026-07-16-sister-files-complaint-over-doctor-in-failed-tennessee-execution
-  headline: Sister files complaint over doctor in failed Tennessee execution
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6674
-- slug: 2026-05-23-tennessee-pauses-execution-of-tony-carruthers-after-iv-difficulties
-  headline: Tennessee pauses execution of Tony Carruthers after IV difficulties
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7146
-- slug: 2026-05-21-tennessee-halts-tony-carruthers-execution-attempt-after-iv-difficulties
-  headline: Tennessee halts Tony Carruthers execution attempt after IV difficulties
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7104
+  strength: 0.8559
 ---
-
 ## Lawyers, doctors, and faith leaders call for US death penalty moratorium
 
 Top lawyers, doctors and members of the faith community are calling for a moratorium on the US death penalty after Tennessee's failed attempt to execute Christa Pike left the prisoner alive but in critical condition and receiving life-saving medical care.

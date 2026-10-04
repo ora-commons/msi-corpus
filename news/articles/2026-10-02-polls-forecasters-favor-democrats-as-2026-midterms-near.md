@@ -2,8 +2,21 @@
 headline: Polls, forecasters favor Democrats as 2026 midterms near
 secondary_headline: Trump approval at 32 percent amid Iran war, rising gas prices
 publish_date: '2026-10-02'
-lede: On 3 November, voters across the United States will choose whether to keep Republicans in control of Congress or hand Democrats the majorities they would need to block President Donald Trump's legislative agenda and more aggressively investigate his administration. Multiple indicators of voter sentiment now favor the Democrats. The Cook Political Report lists seven Senate seats — Alaska, Iowa, Maine, Michigan, New Hampshire, Ohio and Texas — as tossups, with North Carolina leaning Democratic and Kansas leaning Republican. Democrats need to flip four Republican-held seats to win a Senate majority, currently a 53–47 Republican edge with 35 seats on the ballot.
-nut_graf: Forecasts have shifted toward Democrats as President Trump's approval fell to 32 percent in Reuters/Ipsos polling amid discontent with the Iran war and rising gas prices, putting both chambers of Congress within reach. A Democratic Congress would have the power to block Trump's legislative agenda, deny new appointments to the Supreme Court and his cabinet, and conduct more aggressive oversight of his administration.
+lede: On 3 November, voters across the United States will choose whether to keep Republicans
+  in control of Congress or hand Democrats the majorities they would need to block
+  President Donald Trump's legislative agenda and more aggressively investigate his
+  administration. Multiple indicators of voter sentiment now favor the Democrats.
+  The Cook Political Report lists seven Senate seats — Alaska, Iowa, Maine, Michigan,
+  New Hampshire, Ohio and Texas — as tossups, with North Carolina leaning Democratic
+  and Kansas leaning Republican. Democrats need to flip four Republican-held seats
+  to win a Senate majority, currently a 53–47 Republican edge with 35 seats on the
+  ballot.
+nut_graf: Forecasts have shifted toward Democrats as President Trump's approval fell
+  to 32 percent in Reuters/Ipsos polling amid discontent with the Iran war and rising
+  gas prices, putting both chambers of Congress within reach. A Democratic Congress
+  would have the power to block Trump's legislative agenda, deny new appointments
+  to the Supreme Court and his cabinet, and conduct more aggressive oversight of his
+  administration.
 primary_entities:
 - Donald Trump
 - Democratic Party
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -130,22 +144,27 @@ related_stories:
   headline: Polls show Democratic edge as Republicans face tough midterm fight
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7923
+  strength: 0.7925
+- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
+  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7246
 - slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
   headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7793
+  strength: 0.7791
 - slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
   headline: Democrats hold polling edge in eight of nine closest Senate races
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7459
+  strength: 0.7465
 - slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
   headline: Democrats hold polling edge as midterm campaign enters final stretch
   publish_date: '2026-09-06'
   relation: related
-  strength: 0.8242
+  strength: 0.8244
 - slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
   headline: DSA-backed candidates unseat four House Democrats as primary season ends
   publish_date: '2026-09-20'
@@ -155,76 +174,10 @@ related_stories:
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7321
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7364
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7633
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7207
-- slug: 2026-09-16-nyt-siena-poll-democrats-lead-by-nearly-nine-points-as-iowa-battleground-expands
-  headline: 'NYT/Siena poll: Democrats lead by nearly nine points as Iowa battleground expands'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7195
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7554
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7956
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7498
-- slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
-  headline: Forecasters rate 43 House races competitive for 2026 control
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7584
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7761
-- slug: 2026-06-10-12-competitive-senate-races-to-watch-as-control-of-chamber-hangs-in-2026
-  headline: 12 competitive Senate races to watch as control of chamber hangs in 2026
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7711
-- slug: 2026-06-05-democrats-need-four-senate-seats-as-2026-races-show-unpredictability
-  headline: Democrats need four Senate seats as 2026 races show unpredictability
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7504
-- slug: 2026-01-15-republicans-defend-narrow-house-majority-as-history-and-approval-ratings-favor-d
-  headline: Republicans defend narrow House majority as history and approval ratings favor Democrats
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.79
-- slug: 2026-03-04-texas-and-north-carolina-primaries-offer-early-clues-for-2026-senate-race
-  headline: Texas and North Carolina primaries offer early clues for 2026 Senate race
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7642
+  strength: 0.732
 analyses:
-- '2026-10-02-seven-senate-tossups-and-32-percent-approval-put-2026-midterms-in-compression-te'
+- 2026-10-02-seven-senate-tossups-and-32-percent-approval-put-2026-midterms-in-compression-te
 ---
-
 ## Polls, forecasters favor Democrats as 2026 midterms near
 
 **Subtype:** fact

@@ -2,8 +2,19 @@
 headline: S&P 500 companies raise special executive payouts 50% to $1.7 billion
 secondary_headline: Boards use one-off awards to lure and lock in CEOs
 publish_date: '2026-10-02'
-lede: S&P 500 companies paid $1.7 billion in special executive awards in their most recent fiscal year, a 50% increase from the prior year, according to a Wall Street Journal analysis of more than 900 awards to nearly 450 executives in fiscal years ending in 2024 and later, using pay data from research firm Equilar. Nearly half of S&P 500 companies have made at least one such award over the past two years and a quarter have made multiple, as boards increasingly use one-off payouts to lure or lock in executive talent.
-nut_graf: The surge in special awards, which companies had typically granted only occasionally and often as an incentive to retain favored executives or to reward them for unexpected wins and overcoming tough challenges, is drawing criticism from major investors, with T. Rowe Price listing the practice in its proxy voting guidelines among compensation approaches it considers outdated or at risk of divorcing executives' interests from those of shareholders.
+lede: S&P 500 companies paid $1.7 billion in special executive awards in their most
+  recent fiscal year, a 50% increase from the prior year, according to a Wall Street
+  Journal analysis of more than 900 awards to nearly 450 executives in fiscal years
+  ending in 2024 and later, using pay data from research firm Equilar. Nearly half
+  of S&P 500 companies have made at least one such award over the past two years and
+  a quarter have made multiple, as boards increasingly use one-off payouts to lure
+  or lock in executive talent.
+nut_graf: The surge in special awards, which companies had typically granted only
+  occasionally and often as an incentive to retain favored executives or to reward
+  them for unexpected wins and overcoming tough challenges, is drawing criticism from
+  major investors, with T. Rowe Price listing the practice in its proxy voting guidelines
+  among compensation approaches it considers outdated or at risk of divorcing executives'
+  interests from those of shareholders.
 primary_entities:
 - The Wall Street Journal
 - S&P 500
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +157,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-02-sec-proposal-for-semiannual-earnings-reports-draws-280-000-opposing-comments
-  headline: SEC proposal for semiannual earnings reports draws 280,000 opposing comments
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6235
 - slug: 2026-08-27-ceo-to-worker-pay-ratio-at-100-lowest-paying-s-p-500-firms-rose-8-4-ips-finds
-  headline: CEO-to-worker pay ratio at 100 lowest-paying S&P 500 firms rose 8.4%, IPS finds
+  headline: CEO-to-worker pay ratio at 100 lowest-paying S&P 500 firms rose 8.4%,
+    IPS finds
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7205
+  strength: 0.7198
 - slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
+  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff
+    refunds lift profits
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6602
+  strength: 0.6618
 - slug: 2026-07-25-s-p-1500-companies-spend-nearly-600m-on-executive-perks
   headline: S&P 1500 companies spend nearly $600M on executive perks
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7301
+  strength: 0.73
 - slug: 2026-08-13-afl-cio-report-finds-ceo-pay-at-top-s-p-500-firms-hit-312-times-worker-wages
-  headline: AFL-CIO report finds CEO pay at top S&P 500 firms hit 312 times worker wages
+  headline: AFL-CIO report finds CEO pay at top S&P 500 firms hit 312 times worker
+    wages
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6693
-- slug: 2026-08-14-equity-stake-gains-inflate-amazon-and-alphabet-q2-profit-figures
-  headline: Equity-stake gains inflate Amazon and Alphabet Q2 profit figures
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6432
-- slug: 2026-08-17-companies-would-keep-quarterly-earnings-but-shift-some-filings-to-semiannual-sur
-  headline: Companies would keep quarterly earnings but shift some filings to semiannual, surveys find
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6298
+  strength: 0.67
 - slug: 2026-06-27-s-p-500-ceo-pay-reaches-new-high-in-2025-nearly-a-dozen-top-200-million
   headline: S&P 500 CEO pay reaches new high in 2025, nearly a dozen top $200 million
   publish_date: '2026-06-27'
   relation: related
-  strength: 0.7383
+  strength: 0.7387
 - slug: 2026-05-27-median-ceo-pay-hits-17-7-million-200-times-the-typical-worker-s-wage
   headline: Median CEO pay hits $17.7 million, 200 times the typical worker's wage
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.7507
+  strength: 0.7509
 - slug: 2026-06-23-more-us-ceos-top-100-million-pay-in-2025-report-says
   headline: More US CEOs top $100 million pay in 2025, report says
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7129
-- slug: 2026-08-01-wall-street-gears-for-jobs-report-spacex-earnings-mcdonald-s-results
-  headline: Wall Street gears for jobs report, SpaceX earnings, McDonald's results
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6323
+  strength: 0.7138
 - slug: 2026-06-23-welltower-cfo-s-167-million-pay-package-sets-new-record
   headline: Welltower CFO's $167 Million Pay Package Sets New Record
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6827
-- slug: 2026-06-30-s-p-500-net-profit-margin-hits-record-14-8-in-first-quarter
-  headline: S&P 500 net profit margin hits record 14.8% in first quarter
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6598
-- slug: 2026-07-17-pentagon-offers-438-000-salaries-to-recruit-wall-street-bankers-for-lending-push
-  headline: Pentagon offers $438,000 salaries to recruit Wall Street bankers for lending push
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6191
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6265
-- slug: 2026-06-22-strategy-chairman-s-high-risk-financing-draws-scrutiny-as-market-value-drops-90b
-  headline: Strategy chairman's high-risk financing draws scrutiny as market value drops $90B
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6244
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6217
-- slug: 2026-03-26-wall-street-bonuses-hit-a-record-after-profits-surged-in-2025
-  headline: Wall Street bonuses hit a record after profits surged in 2025
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6729
-- slug: 2026-06-02-fomo-drives-wall-street-pros-into-ai-rally-as-career-risk-outweighs-caution
-  headline: FOMO drives Wall Street pros into AI rally as career risk outweighs caution
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6316
-- slug: 2026-03-27-wall-street-bonuses-hit-record-246-900-in-2025-as-profits-rose
-  headline: Wall Street bonuses hit record $246,900 in 2025 as profits rose
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6625
+  strength: 0.6846
 ---
-
 ## S&P 500 companies raise special executive payouts 50% to $1.7 billion
 
 **Subtype:** fact

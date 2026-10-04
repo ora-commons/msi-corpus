@@ -2,8 +2,17 @@
 headline: Hundreds rally in Mississippi against Republican redistricting push
 secondary_headline: Lawmakers expected to target Thompson's seat before 2028 election
 publish_date: '2026-10-02'
-lede: Mississippi residents gathered across from the state capitol in Jackson on Thursday evening for the eighth and final hearing of a Republican-led redistricting tour, with 67 residents testifying. The redistricting push follows the U.S. Supreme Court's decision in Louisiana v. Callais, which severely weakened Section 2 of the Voting Rights Act, and comes as Governor Tate Reeves and Republican lawmakers signal plans to redraw maps before the 2027 elections. The committee — 16 Republicans and 4 Democrats — did not explain how the testimony would influence its decision.
-nut_graf: Mississippi's redistricting push is part of a broader pattern of Republican-led states moving to reshape congressional maps after the Callais ruling, with lawmakers likely to target the seat of U.S. Rep. Bennie Thompson, the state's lone congressional Democrat.
+lede: Mississippi residents gathered across from the state capitol in Jackson on Thursday
+  evening for the eighth and final hearing of a Republican-led redistricting tour,
+  with 67 residents testifying. The redistricting push follows the U.S. Supreme Court's
+  decision in Louisiana v. Callais, which severely weakened Section 2 of the Voting
+  Rights Act, and comes as Governor Tate Reeves and Republican lawmakers signal plans
+  to redraw maps before the 2027 elections. The committee — 16 Republicans and 4 Democrats
+  — did not explain how the testimony would influence its decision.
+nut_graf: Mississippi's redistricting push is part of a broader pattern of Republican-led
+  states moving to reshape congressional maps after the Callais ruling, with lawmakers
+  likely to target the seat of U.S. Rep. Bennie Thompson, the state's lone congressional
+  Democrat.
 primary_entities:
 - Mississippi
 - Mississippi Legislature
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,104 +141,46 @@ related_stories:
   headline: Missouri Supreme Court summons Hoskins to contempt hearing on redistricting
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.738
+  strength: 0.7372
 - slug: 2026-09-09-missouri-supreme-court-orders-hoskins-to-contempt-hearing-over-redistricting
   headline: Missouri Supreme Court orders Hoskins to contempt hearing over redistricting
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7209
+  strength: 0.7199
 - slug: 2026-08-05-missouri-secretary-of-state-rejects-referendum-on-new-congressional-map
   headline: Missouri secretary of state rejects referendum on new congressional map
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7279
+  strength: 0.7282
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7469
+  strength: 0.7475
 - slug: 2026-04-26-mississippi-gov-tate-reeves-calls-special-session-on-judicial-maps
   headline: Mississippi Gov. Tate Reeves calls special session on judicial maps
   publish_date: '2026-04-26'
   relation: related
-  strength: 0.7986
+  strength: 0.7971
 - slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
+  headline: 'Redistricting push meets mixed results: South Carolina defies Trump,
+    Missouri upholds map'
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7678
+  strength: 0.7667
 - slug: 2026-05-13-trump-s-redistricting-push-hits-roadblocks-in-s-c-succeeds-in-missouri
   headline: Trump’s redistricting push hits roadblocks in S.C., succeeds in Missouri
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7637
+  strength: 0.7634
 - slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
+  headline: Republican redistricting reshapes congressional maps, affecting millions
+    of voters
   publish_date: '2026-05-26'
   relation: related
   strength: 0.7462
-- slug: 2026-05-16-civil-rights-groups-rally-in-alabama-after-supreme-court-weakens-voting-rights-a
-  headline: Civil rights groups rally in Alabama after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7511
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7251
-- slug: 2026-04-30-states-move-to-respond-after-supreme-court-ruling-limits-race-in-redistricting
-  headline: States move to respond after Supreme Court ruling limits race in redistricting
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7493
-- slug: 2026-05-04-tennessee-gop-targets-memphis-house-district-south-carolina-weighs-changes
-  headline: Tennessee GOP targets Memphis House district; South Carolina weighs changes
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7424
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7412
-- slug: 2026-05-10-after-supreme-court-ruling-gop-led-states-rush-to-redraw-congressional-maps
-  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional maps
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7342
-- slug: 2026-05-08-tennessee-gop-passes-new-house-map-reshaping-memphis-after-voting-rights-act-rul
-  headline: Tennessee GOP passes new House map reshaping Memphis after Voting Rights Act ruling
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7321
-- slug: 2026-05-17-thousands-rally-in-montgomery-to-defend-black-voting-power-after-scotus
-  headline: Thousands rally in Montgomery to defend Black voting power after SCOTUS
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7239
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7298
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7195
-- slug: 2026-05-02-supreme-court-ruling-stokes-redistricting-battle-in-several-states
-  headline: Supreme Court ruling stokes redistricting battle in several states
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.732
-- slug: 2026-05-05-tennessee-gop-targets-memphis-house-seat-as-other-states-move-post-ruling
-  headline: Tennessee GOP targets Memphis House seat as other states move post-ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7274
 ---
-
 ## Hundreds rally in Mississippi against Republican redistricting push
 
 **Subtype:** fact

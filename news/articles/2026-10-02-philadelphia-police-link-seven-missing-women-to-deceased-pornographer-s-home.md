@@ -1,9 +1,22 @@
 ---
-headline: Philadelphia police link seven missing women to deceased pornographer's home
-secondary_headline: Approximately one million photos and films recovered from Philadelphia 'house of horrors'
+headline: Philadelphia police link seven missing women to deceased pornographer's
+  home
+secondary_headline: Approximately one million photos and films recovered from Philadelphia
+  'house of horrors'
 publish_date: '2026-10-02'
-lede: Philadelphia police and FBI investigators have linked at least seven missing women to a home in the Olney neighborhood known locally as the "house of horrors," once occupied by Raymond "RC" Horsch, a career criminal, local artist, author and snuff photographer who died last year at 82, the Guardian reported Friday. Investigators believe five of the seven are dead, and the city's medical examiner's office has advised that images of at least three women recovered from the home, if authentic, depict women who appear deceased.
-nut_graf: The case has drawn attention because of the volume of material recovered from the home — approximately one million photographs and films — and the scope of the FBI and police investigation at 417 West Chew Avenue, which was burned out above the second story. Horsch's son, Eugene Horsch, 44, is in federal custody on gun and drug charges, though he has not been charged in connection with the missing women.
+lede: Philadelphia police and FBI investigators have linked at least seven missing
+  women to a home in the Olney neighborhood known locally as the "house of horrors,"
+  once occupied by Raymond "RC" Horsch, a career criminal, local artist, author and
+  snuff photographer who died last year at 82, the Guardian reported Friday. Investigators
+  believe five of the seven are dead, and the city's medical examiner's office has
+  advised that images of at least three women recovered from the home, if authentic,
+  depict women who appear deceased.
+nut_graf: The case has drawn attention because of the volume of material recovered
+  from the home — approximately one million photographs and films — and the scope
+  of the FBI and police investigation at 417 West Chew Avenue, which was burned out
+  above the second story. Horsch's son, Eugene Horsch, 44, is in federal custody on
+  gun and drug charges, though he has not been charged in connection with the missing
+  women.
 primary_entities:
 - Philadelphia
 - Raymond Horsch
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,111 +152,10 @@ cross_article_links:
   strength: 0.5612
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-25-multiple-killed-including-children-in-billings-home-shooting-and-fire
-  headline: Multiple killed, including children, in Billings home shooting and fire
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5591
-- slug: 2026-08-24-five-bodies-found-on-rural-oregon-property-homicide-investigation-underway
-  headline: Five bodies found on rural Oregon property; homicide investigation underway
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5508
-- slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
-  headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5515
-- slug: 2026-02-08-sheriff-frustrated-no-video-captured-during-nancy-guthrie-disappearance
-  headline: Sheriff frustrated no video captured during Nancy Guthrie disappearance
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5927
-- slug: 2026-02-12-fbi-searches-desert-near-nancy-guthrie-s-home-after-detained-suspect-released
-  headline: FBI searches desert near Nancy Guthrie’s home after detained suspect released
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5833
-- slug: 2026-04-20-father-fatally-shoots-8-children-in-shreveport-deadliest-in-2-years
-  headline: Father fatally shoots 8 children in Shreveport, deadliest in 2 years
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5638
-- slug: 2026-02-16-what-to-know-about-the-investigation-into-nancy-guthrie-s-disappearance
-  headline: What to know about the investigation into Nancy Guthrie’s disappearance
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5784
-- slug: 2026-04-17-man-charged-in-theft-of-over-100-remains-from-pennsylvania-gravesites
-  headline: Man charged in theft of over 100 remains from Pennsylvania gravesites
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5593
-- slug: 2026-04-14-minnesota-probes-ice-arrest-of-hmong-american-man-as-potential-kidnapping
-  headline: Minnesota probes ICE arrest of Hmong American man as potential kidnapping
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5585
-- slug: 2026-04-08-1-dead-2-presumed-dead-after-philly-hospital-parking-garage-collapse
-  headline: 1 dead, 2 presumed dead after Philly hospital parking garage collapse
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5607
-- slug: 2026-04-09-rex-heuermann-pleads-guilty-in-gilgo-beach-killings-admits-all-eight
-  headline: Rex Heuermann pleads guilty in Gilgo Beach killings, admits all eight
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5566
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.5523
-- slug: 2026-01-14-columbus-police-link-vascular-surgeon-to-double-homicide-of-ex-wife-and-husband
-  headline: Columbus police link vascular surgeon to double homicide of ex-wife and husband
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5719
-- slug: 2026-04-02-decades-later-ted-bundy-s-victim-count-rises-with-new-dna-link
-  headline: Decades later, Ted Bundy’s victim count rises with new DNA link
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5569
-- slug: 2026-02-13-investigation-into-missing-nancy-guthrie-enters-third-week-with-new-forensics
-  headline: Investigation into missing Nancy Guthrie enters third week, with new forensics
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5649
-- slug: 2026-02-08-savannah-guthrie-pleads-for-safe-return-of-missing-mother-says-we-will-pay
-  headline: Savannah Guthrie pleads for safe return of missing mother; says ‘We will pay’
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5635
-- slug: 2026-01-10-ex-husband-charged-with-murder-in-shooting-deaths-of-ohio-couple
-  headline: Ex-husband charged with murder in shooting deaths of Ohio couple
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.566
-- slug: 2026-02-16-fbi-says-dna-glove-near-nancy-guthrie-home-matches-suspect-s-glove
-  headline: FBI says DNA glove near Nancy Guthrie home matches suspect’s glove
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5566
-- slug: 2026-02-13-investigators-ask-tucson-residents-for-videos-in-nancy-guthrie-case
-  headline: Investigators ask Tucson residents for videos in Nancy Guthrie case
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5564
-- slug: 2026-01-20-ice-detains-u-s-citizen-in-underwear-without-warrant-suit-planned
-  headline: ICE detains U.S. citizen in underwear without warrant, suit planned
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.5579
+related_stories: []
 analyses:
-- '2026-10-02-documented-horsch-case-shows-seven-signals-unconnected-across-agencies'
+- 2026-10-02-documented-horsch-case-shows-seven-signals-unconnected-across-agencies
 ---
-
 ## Philadelphia police link seven missing women to deceased pornographer's home
 
 **Subtype:** fact

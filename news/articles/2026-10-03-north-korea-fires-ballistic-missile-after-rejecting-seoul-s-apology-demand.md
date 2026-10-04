@@ -1,9 +1,19 @@
 ---
 headline: North Korea fires ballistic missile after rejecting Seoul's apology demand
-secondary_headline: South Korean national security council convenes emergency meeting after launch
+secondary_headline: South Korean national security council convenes emergency meeting
+  after launch
 publish_date: '2026-10-03'
-lede: North Korea fired a ballistic missile toward the East Sea on Saturday morning, the South Korean military said, a day after Kim Yo-jong, the powerful sister of ruler Kim Jong-un, rejected Seoul's demand for an apology over a mine blast that wounded three South Korean soldiers in the demilitarized zone. Japan's coast guard, citing its defence ministry, said the object may have been a ballistic missile and appeared to have come down, warning ships to take precautions.
-nut_graf: The launch followed North Korea's rejection of Seoul's accusation that its mines had wounded South Korean soldiers in the heavily guarded buffer between the two countries, with Kim Yo-jong warning that Pyongyang was "ready for anything" Seoul might do in response. South Korea's military said it had heightened its monitoring of further tests and would share intelligence with the United States and Japan.
+lede: North Korea fired a ballistic missile toward the East Sea on Saturday morning,
+  the South Korean military said, a day after Kim Yo-jong, the powerful sister of
+  ruler Kim Jong-un, rejected Seoul's demand for an apology over a mine blast that
+  wounded three South Korean soldiers in the demilitarized zone. Japan's coast guard,
+  citing its defence ministry, said the object may have been a ballistic missile and
+  appeared to have come down, warning ships to take precautions.
+nut_graf: The launch followed North Korea's rejection of Seoul's accusation that its
+  mines had wounded South Korean soldiers in the heavily guarded buffer between the
+  two countries, with Kim Yo-jong warning that Pyongyang was "ready for anything"
+  Seoul might do in response. South Korea's military said it had heightened its monitoring
+  of further tests and would share intelligence with the United States and Japan.
 primary_entities:
 - North Korea
 - South Korea
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -123,106 +134,48 @@ related_stories:
   headline: Joint investigation finds North Korean mine south of DMZ violated armistice
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7453
+  strength: 0.7447
 - slug: 2026-09-14-north-korea-stages-combined-firepower-drill-day-after-allied-exercises-conclude
-  headline: North Korea stages combined firepower drill day after allied exercises conclude
+  headline: North Korea stages combined firepower drill day after allied exercises
+    conclude
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7706
+  strength: 0.7715
 - slug: 2026-09-23-south-korea-s-lee-calls-for-resumption-of-u-s--north-korea-talks-at-un
   headline: South Korea's Lee calls for resumption of U.S.-North Korea talks at UN
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6816
+  strength: 0.6823
 - slug: 2026-08-12-north-korea-fires-ballistic-missile-ahead-of-allied-drill
   headline: North Korea fires ballistic missile ahead of allied drill
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.808
+  strength: 0.8096
 - slug: 2026-08-21-kim-yo-jong-calls-seoul-a-u-s-puppet-as-south-korea-calls-for-end-to-derogatory-
-  headline: Kim Yo Jong calls Seoul a U.S. puppet as South Korea calls for end to derogatory remarks
+  headline: Kim Yo Jong calls Seoul a U.S. puppet as South Korea calls for end to
+    derogatory remarks
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7758
+  strength: 0.7759
 - slug: 2026-08-07-north-korea-fires-short-range-missile-into-waters-off-japan
   headline: North Korea fires short-range missile into waters off Japan
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.8089
+  strength: 0.8092
 - slug: 2026-08-27-u-s-clears-sidewinder-missile-sale-to-south-korea-north-korea-warns-of-response
-  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns of response
+  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns
+    of response
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6883
+  strength: 0.6882
 - slug: 2026-08-25-trump-says-north-korea-has-57-nuclear-weapons-expects-kim-meeting
   headline: Trump says North Korea has 57 nuclear weapons, expects Kim meeting
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6728
-- slug: 2026-08-31-north-korea-says-u-s-denuclearization-push-will-not-weaken-its-nuclear-arsenal
-  headline: North Korea says U.S. denuclearization push will not weaken its nuclear arsenal
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6489
-- slug: 2026-03-15-north-korea-fires-about-10-missiles-toward-sea-seoul-says
-  headline: North Korea fires about 10 missiles toward sea, Seoul says
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7972
-- slug: 2026-07-31-north-korea-warns-physical-clash-on-peninsula-a-matter-of-time
-  headline: North Korea warns physical clash on peninsula a matter of time
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6644
-- slug: 2026-04-09-north-korea-says-it-tested-missiles-with-cluster-bomb-warheads
-  headline: North Korea says it tested missiles with cluster-bomb warheads
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7818
-- slug: 2026-06-23-kim-jong-un-orders-accelerated-nuclear-buildup-calls-south-korea-most-hostile-st
-  headline: Kim Jong Un orders accelerated nuclear buildup, calls South Korea 'most hostile state'
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7129
-- slug: 2026-06-18-kim-yo-jong-rejects-g7-denuclearization-call-says-nuclear-arms-are-core-interest
-  headline: Kim Yo Jong rejects G7 denuclearization call, says nuclear arms are 'core interests'
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7065
-- slug: 2026-03-14-north-korea-s-kim-watches-test-of-rocket-launch-systems-with-daughter
-  headline: North Korea’s Kim watches test of rocket launch systems with daughter
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7589
-- slug: 2026-07-06-china-test-launches-long-range-ballistic-missile-from-submarine-drawing-condemna
-  headline: China test-launches long-range ballistic missile from submarine, drawing condemnation from allies
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6692
-- slug: 2026-06-14-north-korea-says-nuclear-status-is-irreversible-rejects-denuclearization-calls
-  headline: North Korea says nuclear status is irreversible, rejects denuclearization calls
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6878
-- slug: 2026-03-10-kim-yo-jong-warns-us-south-korea-drills-could-bring-terrible-consequences
-  headline: Kim Yo Jong warns US-South Korea drills could bring “terrible consequences”
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7003
-- slug: 2026-06-13-us-japan-south-korea-hold-trilateral-talks-on-north-korea
-  headline: US, Japan, South Korea hold trilateral talks on North Korea
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6419
-- slug: 2026-03-12-kim-jong-un-watches-cruise-missile-tests-with-his-daughter-kcna-says
-  headline: Kim Jong Un watches cruise missile tests with his daughter, KCNA says
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6869
+  strength: 0.6732
 analyses:
-- '2026-10-03-apology-dispute-and-missile-launch-expose-divergent-interests-across-korean-gove'
+- 2026-10-03-apology-dispute-and-missile-launch-expose-divergent-interests-across-korean-gove
 ---
-
 ## North Korea fires ballistic missile after rejecting Seoul's apology demand
 
 **Subtype:** fact

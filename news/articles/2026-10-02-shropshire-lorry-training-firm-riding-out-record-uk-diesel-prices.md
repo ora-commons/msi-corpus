@@ -2,8 +2,12 @@
 headline: Shropshire lorry training firm 'riding out' record UK diesel prices
 secondary_headline: Diesel up 59p a litre since war began, BBC reports
 publish_date: '2026-10-02'
-lede: Steve Dulson, managing director of Shropshire-based Dulson Training, told the BBC his lorry and bus training firm is absorbing hundreds of pounds in extra fuel costs per vehicle as UK diesel prices hit an all-time high of 199.33p a litre.
-nut_graf: A record in UK pump prices, driven by a Middle East war that began in February and constrained international diesel supply, is transmitting into operating costs at small businesses.
+lede: Steve Dulson, managing director of Shropshire-based Dulson Training, told the
+  BBC his lorry and bus training firm is absorbing hundreds of pounds in extra fuel
+  costs per vehicle as UK diesel prices hit an all-time high of 199.33p a litre.
+nut_graf: A record in UK pump prices, driven by a Middle East war that began in February
+  and constrained international diesel supply, is transmitting into operating costs
+  at small businesses.
 primary_entities:
 - Steve Dulson
 - Dulson Training
@@ -37,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,13 +145,19 @@ related_stories:
   publish_date: '2026-09-28'
   relation: related
   strength: 0.8132
+- slug: 2026-10-02-uk-diesel-average-breaks-2-a-litre-for-the-first-time
+  headline: UK diesel average breaks £2 a litre for the first time
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7653
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
   relation: related
   strength: 0.7494
 - slug: 2026-10-02-northern-ireland-diesel-prices-reach-highest-level-since-iran-conflict-began
-  headline: Northern Ireland diesel prices reach highest level since Iran conflict began
+  headline: Northern Ireland diesel prices reach highest level since Iran conflict
+    began
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7381
@@ -155,6 +166,11 @@ related_stories:
   publish_date: '2026-09-28'
   relation: related
   strength: 0.7584
+- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
+  headline: Cornwall Insight projects 16% rise in UK energy price cap
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7288
 - slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
   headline: UK diesel prices head toward £2 a litre as wars cut global refining
   publish_date: '2026-09-21'
@@ -165,78 +181,7 @@ related_stories:
   publish_date: '2026-10-01'
   relation: related
   strength: 0.7336
-- slug: 2026-10-01-three-tankers-hit-in-hormuz-as-uk-diesel-hits-record
-  headline: Three tankers hit in Hormuz as UK diesel hits record
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7209
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.734
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7049
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.68
-- slug: 2026-09-28-walmart-costco-stellantis-adjust-motor-oil-as-iran-war-lifts-costs
-  headline: Walmart, Costco, Stellantis adjust motor oil as Iran war lifts costs
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6661
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6713
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.675
-- slug: 2026-09-21-black-farmers-leader-says-diesel-at-7-a-gallon-is-straining-farm-budgets
-  headline: Black farmers leader says diesel at $7 a gallon is straining farm budgets
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6743
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6986
-- slug: 2026-09-16-iran-war-adds-107-billion-to-us-fuel-costs-brown-estimates
-  headline: Iran war adds $107 billion to US fuel costs, Brown estimates
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6755
-- slug: 2026-09-11-average-us-diesel-price-crosses-6-per-gallon-for-the-first-time
-  headline: Average US diesel price crosses $6 per gallon for the first time
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6779
-- slug: 2026-09-10-oil-and-diesel-futures-hit-multi-month-highs-as-us-iran-conflict-escalates
-  headline: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6783
-- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
-  headline: Oil reaches $105 amid signs Middle East conflict will persist
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6777
-- slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7009
 ---
-
 ## Shropshire lorry training firm 'riding out' record UK diesel prices
 
 **Subtype:** fact

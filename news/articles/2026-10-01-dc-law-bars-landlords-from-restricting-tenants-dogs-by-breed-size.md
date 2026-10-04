@@ -1,9 +1,20 @@
 ---
 headline: DC law bars landlords from restricting tenants' dogs by breed, size
-secondary_headline: Roscoe's Law also caps pet deposits at 15%, pet rent at 1% of rent
+secondary_headline: Roscoe's Law also caps pet deposits at 15%, pet rent at 1% of
+  rent
 publish_date: '2026-10-01'
-lede: The last part of Washington DC's pets in housing amendment act, known as "Roscoe's Law," took effect Thursday, prohibiting landlords from refusing tenants based on a dog's breed, size or weight and barring related special charges. Introduced by DC Council member Robert White and named after his dog, the legislation also caps pet security deposits at 15% of monthly rent, pet rent at 1% of monthly rent, and prohibits other non-refundable pet fees — a first portion of the law that has been partially in effect since 2025.
-nut_graf: Animal welfare organizations and shelters that supported the legislation argued that breed restrictions penalize responsible dog owners and that, in the vast majority of cases, aggressive behavior in dogs is linked to owner management and control, not to breed. They warned that exorbitant pet fees and breed restrictions were putting housing out of reach for people.
+lede: The last part of Washington DC's pets in housing amendment act, known as "Roscoe's
+  Law," took effect Thursday, prohibiting landlords from refusing tenants based on
+  a dog's breed, size or weight and barring related special charges. Introduced by
+  DC Council member Robert White and named after his dog, the legislation also caps
+  pet security deposits at 15% of monthly rent, pet rent at 1% of monthly rent, and
+  prohibits other non-refundable pet fees — a first portion of the law that has been
+  partially in effect since 2025.
+nut_graf: Animal welfare organizations and shelters that supported the legislation
+  argued that breed restrictions penalize responsible dog owners and that, in the
+  vast majority of cases, aggressive behavior in dogs is linked to owner management
+  and control, not to breed. They warned that exorbitant pet fees and breed restrictions
+  were putting housing out of reach for people.
 primary_entities:
 - Washington DC
 - Robert White
@@ -32,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: '0.1'
 publication_mindspec_version: v0.3.0
 license: CC0-1.0
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -129,109 +141,8 @@ cross_article_links:
   strength: 0.5621
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-31-mamdani-rent-freeze-keeps-rents-flat-for-roughly-one-million-nyc-apartments
-  headline: Mamdani rent freeze keeps rents flat for roughly one million NYC apartments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5657
-- slug: 2026-08-20-add-on-utility-fees-lead-to-evictions-for-low-income-us-tenants
-  headline: Add-on utility fees lead to evictions for low-income US tenants
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5592
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5577
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5955
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6125
-- slug: 2026-07-11-trump-administration-narrows-habitat-protection-for-endangered-species
-  headline: Trump administration narrows habitat protection for endangered species
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5433
-- slug: 2026-04-08-judge-dismisses-peta-lawsuit-challenging-akc-health-standards
-  headline: Judge dismisses PETA lawsuit challenging AKC health “standards”
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5898
-- slug: 2026-05-18-rescuers-seek-homes-for-450-pet-rats-from-long-island-condemned-house
-  headline: Rescuers seek homes for 450+ pet rats from Long Island condemned house
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5663
-- slug: 2026-05-21-democrats-warn-data-broker-rules-miss-key-washington-sites-including-cia
-  headline: Democrats warn data-broker rules miss key Washington sites, including CIA
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.557
-- slug: 2026-01-03-akc-adds-three-dog-breeds-for-2026-including-a-teddy-roosevelt-terrier
-  headline: AKC adds three dog breeds for 2026, including a Teddy Roosevelt terrier
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.5872
-- slug: 2026-04-16-california-cities-scramble-to-comply-with-or-fight-sb-79-housing-rezoning
-  headline: California cities scramble to comply with or fight SB 79 housing rezoning
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5604
-- slug: 2026-01-04-akc-adds-3-dog-breeds-for-2026-including-teddy-roosevelt-terrier
-  headline: AKC adds 3 dog breeds for 2026, including Teddy Roosevelt terrier
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.5772
-- slug: 2026-04-01-judge-rules-trump-administration-s-homeless-funding-changes-unlawful
-  headline: Judge rules Trump administration's homeless funding changes unlawful
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5596
-- slug: 2026-01-15-washington-moves-to-restrict-license-plate-camera-data-access-amid-stalking-fear
-  headline: Washington moves to restrict license-plate camera data access amid stalking fears
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.5725
-- slug: 2026-04-04-georgia-lawmakers-advance-bill-allowing-lawsuits-over-homelessness-enforcement
-  headline: Georgia lawmakers advance bill allowing lawsuits over homelessness enforcement
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5566
-- slug: 2026-01-01-akc-adds-three-dog-breeds-for-2026-including-roosevelt-terrier-and-bolonka
-  headline: AKC adds three dog breeds for 2026, including Roosevelt terrier and bolonka
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.5687
-- slug: 2026-02-25-federal-protections-end-for-lesser-prairie-chicken-after-court-ruling
-  headline: Federal protections end for lesser prairie chicken after court ruling
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5577
-- slug: 2026-03-15-lyft-settlement-in-minnesota-requires-service-animal-accommodations-nationwide
-  headline: Lyft settlement in Minnesota requires service-animal accommodations nationwide
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5533
-- slug: 2026-02-26-federal-protections-end-for-lesser-prairie-chicken-after-court-ruling
-  headline: Federal protections end for lesser prairie chicken after court ruling
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5546
-- slug: 2026-02-27-berkeley-city-council-approves-housing-projects-that-sidestep-labor-standards
-  headline: Berkeley City Council approves housing projects that sidestep labor standards
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.5537
+related_stories: []
 ---
-
 ## DC law bars landlords from restricting tenants' dogs by breed, size
 
 **Subtype:** fact

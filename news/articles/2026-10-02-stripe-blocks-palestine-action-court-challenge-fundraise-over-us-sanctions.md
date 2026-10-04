@@ -2,11 +2,21 @@
 headline: Stripe blocks Palestine Action court challenge fundraise over US sanctions
 secondary_headline: Court of appeal upholds ban, sends case to supreme court in November
 publish_date: '2026-10-02'
-lede: 'CrowdJustice has blocked a crowdfunding campaign for Palestine Action''s UK supreme court challenge after Stripe, the platform''s US payment processor, said it could not support accounts linked to the direct-action group, according to documents seen by the Guardian.
+lede: 'CrowdJustice has blocked a crowdfunding campaign for Palestine Action''s UK
+  supreme court challenge after Stripe, the platform''s US payment processor, said
+  it could not support accounts linked to the direct-action group, according to documents
+  seen by the Guardian.
 
 
-  The funding blockage comes as the court of appeal overturned a high court ruling that had found the ban on Palestine Action unlawful, sending the case to the supreme court in November. US sanctions on the group were imposed last month by President Donald Trump under counter-terrorism powers first enacted by President George W Bush in 2001 shortly after the September 11 attacks.'
-nut_graf: The blockage leaves Palestine Action unable to fundraise for its supreme court challenge while the UK government continues to spend public money defending the proscription, which co-founder Huda Ammori said has led to more than 3,700 arrests of people holding signs.
+  The funding blockage comes as the court of appeal overturned a high court ruling
+  that had found the ban on Palestine Action unlawful, sending the case to the supreme
+  court in November. US sanctions on the group were imposed last month by President
+  Donald Trump under counter-terrorism powers first enacted by President George W
+  Bush in 2001 shortly after the September 11 attacks.'
+nut_graf: The blockage leaves Palestine Action unable to fundraise for its supreme
+  court challenge while the UK government continues to spend public money defending
+  the proscription, which co-founder Huda Ammori said has led to more than 3,700 arrests
+  of people holding signs.
 primary_entities:
 - Palestine Action
 - CrowdJustice
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -89,108 +100,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-22-spain-lets-us-extradition-case-against-activist-chambers-proceed
-  headline: Spain lets US extradition case against activist Chambers proceed
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6278
 - slug: 2026-08-26-treasury-sanctions-palestine-action-as-global-terrorist-citing-uk-attacks-since-
-  headline: Treasury sanctions Palestine Action as global terrorist, citing UK attacks since 2020
+  headline: Treasury sanctions Palestine Action as global terrorist, citing UK attacks
+    since 2020
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7517
-- slug: 2026-09-24-abbas-addresses-un-by-video-after-us-denies-palestinian-visas-second-year
-  headline: Abbas addresses UN by video after US denies Palestinian visas second year
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5913
-- slug: 2026-09-17-un-to-vote-thursday-on-abbas-video-address-after-us-visa-denial
-  headline: UN to vote Thursday on Abbas video address after US visa denial
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6274
-- slug: 2026-09-20-us-preparing-institution-wide-icc-sanctions-with-six-to-seven-month-grace-period
-  headline: US preparing institution-wide ICC sanctions with six-to-seven-month grace period
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6097
-- slug: 2026-09-16-us-extends-visa-sanctions-on-plo-and-pa-denies-abbas-un-entry-second-year
-  headline: US extends visa sanctions on PLO and PA, denies Abbas UN entry second year
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6
-- slug: 2026-09-14-khalil-signals-next-lawsuits-will-target-columbia-individuals
-  headline: Khalil signals next lawsuits will target Columbia individuals
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5908
-- slug: 2026-09-13-spanish-council-of-ministers-to-weigh-us-bid-to-extradite-fergie-chambers
-  headline: Spain's council of ministers to weigh US bid to extradite Fergie Chambers
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5928
-- slug: 2026-09-07-advocacy-groups-escalate-court-fights-over-trump-voting-orders
-  headline: Advocacy groups escalate court fights over Trump voting orders
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5932
+  strength: 0.7527
 - slug: 2026-08-11-four-rights-groups-sue-trump-administration-over-icc-sanctions
   headline: Four rights groups sue Trump administration over ICC sanctions
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6708
-- slug: 2026-08-18-rubio-sanctions-icc-president-and-senior-trial-lawyer
-  headline: Rubio sanctions ICC president and senior trial lawyer
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5957
+  strength: 0.671
 - slug: 2026-07-15-two-groups-sue-trump-over-sanctions-on-icc-palestinian-rights-advocates
   headline: Two groups sue Trump over sanctions on ICC, Palestinian rights advocates
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6608
-- slug: 2026-07-01-new-york-woman-charged-with-sending-30k-in-crypto-to-palestinian-islamic-jihad
-  headline: New York woman charged with sending $30K in crypto to Palestinian Islamic Jihad
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6206
+  strength: 0.6609
 - slug: 2026-04-12-more-than-200-arrested-in-london-protest-backing-palestine-action-group
   headline: More than 200 arrested in London protest backing Palestine Action group
   publish_date: '2026-04-12'
   relation: related
-  strength: 0.6597
-- slug: 2026-05-16-france-targets-palestinian-activist-for-deportation-ramy-shaath-says
-  headline: France targets Palestinian activist for deportation, Ramy Shaath says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6125
-- slug: 2026-06-10-8-pro-palestinian-activists-indicted-over-university-of-michigan-intimidation
-  headline: 8 pro-Palestinian activists indicted over University of Michigan intimidation
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5907
-- slug: 2026-05-16-france-wants-palestinian-activist-ramy-shaath-deported-he-says
-  headline: France wants Palestinian activist Ramy Shaath deported, he says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6025
-- slug: 2026-05-12-open-society-foundations-pledge-30m-to-combat-antisemitism-and-anti-muslim-hate
-  headline: Open Society Foundations pledge $30M to combat antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6047
-- slug: 2026-04-04-appeals-court-reinstates-656m-judgment-against-plo-and-palestinian-authority
-  headline: Appeals court reinstates $656M judgment against PLO and Palestinian Authority
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6188
-- slug: 2026-04-06-appeals-court-reinstates-656-million-judgment-against-plo-palestinian-authority
-  headline: Appeals court reinstates $656 million judgment against PLO, Palestinian Authority
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6173
+  strength: 0.6603
 ---
-
 ## Stripe blocks Palestine Action court challenge fundraise over US sanctions
 
 **Subtype:** fact

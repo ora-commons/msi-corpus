@@ -2,8 +2,13 @@
 headline: Mavis buys Pep Boys for $700 million, reaching 4,400 US repair stores
 secondary_headline: Average US vehicle age hits 13 years as repair spending climbs
 publish_date: '2026-10-03'
-lede: Mavis paid $700 million this summer to acquire Pep Boys and its nearly 800 stores from Carl Icahn's Icahn Enterprises, expanding its network to roughly 4,400 US locations and cementing its status as the country's largest auto-repair chain.
-nut_graf: The acquisition lands in a US auto-service market that Mordor Intelligence projects will grow from $211 billion this year to more than $280 billion by 2031, with the firm attributing the expansion to vehicles becoming increasingly complex and costly to maintain.
+lede: Mavis paid $700 million this summer to acquire Pep Boys and its nearly 800 stores
+  from Carl Icahn's Icahn Enterprises, expanding its network to roughly 4,400 US locations
+  and cementing its status as the country's largest auto-repair chain.
+nut_graf: The acquisition lands in a US auto-service market that Mordor Intelligence
+  projects will grow from $211 billion this year to more than $280 billion by 2031,
+  with the firm attributing the expansion to vehicles becoming increasingly complex
+  and costly to maintain.
 primary_entities:
 - Mavis
 - Pep Boys
@@ -46,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +149,8 @@ cross_article_links:
   strength: 0.558
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-02-nuveen-completes-nearly-13-1-billion-acquisition-of-schroders
-  headline: Nuveen completes nearly $13.1 billion acquisition of Schroders
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5673
-- slug: 2026-09-29-u-s-car-dealers-face-worst-new-model-drought-in-years
-  headline: U.S. car dealers face worst new-model drought in years
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5687
-- slug: 2026-09-29-carmax-posts-73-profit-gain-as-vehicle-sales-rise
-  headline: CarMax posts 73% profit gain as vehicle sales rise
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5593
-- slug: 2026-09-14-mixue-surpasses-mcdonald-s-as-world-s-largest-food-and-beverage-chain
-  headline: Mixue surpasses McDonald's as world's largest food-and-beverage chain
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5871
-- slug: 2026-09-02-barilla-group-to-acquire-goodles-for-undisclosed-terms
-  headline: Barilla Group to acquire Goodles for undisclosed terms
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6012
-- slug: 2026-09-03-volkswagen-names-marco-schubert-to-lead-north-american-business
-  headline: Volkswagen names Marco Schubert to lead North American business
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.561
-- slug: 2026-09-02-delivery-hero-board-endorses-uber-s-14-8-billion-takeover-bid
-  headline: Delivery Hero board endorses Uber's $14.8 billion takeover bid
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5564
-- slug: 2026-09-01-jersey-mike-s-stock-prices-in-gen-z-growth
-  headline: Jersey Mike's stock prices in Gen Z growth
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5562
-- slug: 2026-08-21-gm-s-century-long-us-sales-lead-over-toyota-shrinks-to-100-000-vehicles
-  headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5584
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5667
-- slug: 2026-07-25-s-p-1500-companies-spend-nearly-600m-on-executive-perks
-  headline: S&P 1500 companies spend nearly $600M on executive perks
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5583
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5643
-- slug: 2026-06-06-americans-keep-cars-longer-reshaping-auto-industry-as-average-age-hits-13-years
-  headline: Americans Keep Cars Longer, Reshaping Auto Industry as Average Age Hits 13 Years
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6141
-- slug: 2026-07-06-pawn-loans-surge-33-as-k-shaped-economy-splits-consumer-lending
-  headline: Pawn loans surge 33% as K-shaped economy splits consumer lending
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5694
-- slug: 2026-06-29-automakers-eye-comeback-of-small-cheap-pickup-trucks
-  headline: Automakers eye comeback of small, cheap pickup trucks
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5659
-- slug: 2026-06-13-a-cherished-pontiac-vibe-survives-a-neighbor-s-mishap-and-its-owner-s-resolve-re
-  headline: A cherished Pontiac Vibe survives a neighbor's mishap — and its owner's resolve remains unshaken
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5807
-- slug: 2026-06-25-domino-s-shares-fall-as-pizza-s-place-in-us-dining-shrinks
-  headline: Domino's shares fall as pizza's place in US dining shrinks
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.555
-- slug: 2026-06-16-yum-brands-sells-pizza-hut-chain-for-2-7bn
-  headline: Yum! Brands sells Pizza Hut chain for $2.7bn
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5648
-- slug: 2026-06-13-mcdonald-s-pushes-for-new-drinks-straining-70-year-coke-partnership
-  headline: McDonald's pushes for new drinks, straining 70-year Coke partnership
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5586
-- slug: 2026-06-06-big-business-and-philanthropies-pour-400-million-into-skilled-trades-training
-  headline: Big business and philanthropies pour $400 million into skilled trades training
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5651
+related_stories: []
 ---
-
 ## Mavis buys Pep Boys for $700 million, reaching 4,400 US repair stores
 
 **Subtype:** fact

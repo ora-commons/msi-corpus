@@ -2,8 +2,12 @@
 headline: Democratic voters split on party direction as DSA gains in primaries
 secondary_headline: First-time progressive nominees face test in competitive races
 publish_date: '2026-10-02'
-lede: The Wall Street Journal has published a video discussion with Democratic voters from across the country, capturing a party divided over its direction as progressives gain ground in the November midterm elections.
-nut_graf: The discussion comes as Democrats are positioned to make midterm gains driven by President Trump's unpopularity, but the party's own approval ratings have hit multi-decade lows since Trump took office, according to the Journal.
+lede: The Wall Street Journal has published a video discussion with Democratic voters
+  from across the country, capturing a party divided over its direction as progressives
+  gain ground in the November midterm elections.
+nut_graf: The discussion comes as Democrats are positioned to make midterm gains driven
+  by President Trump's unpopularity, but the party's own approval ratings have hit
+  multi-decade lows since Trump took office, according to the Journal.
 primary_entities:
 - The Wall Street Journal
 - Democratic Party
@@ -39,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -117,6 +122,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-democratic-voters-describe-their-party-as-weak-despondent
+  headline: Democratic voters describe their party as weak, despondent
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.819
+- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
+  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7272
 - slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
   headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
   publish_date: '2026-09-23'
@@ -132,11 +147,6 @@ related_stories:
   publish_date: '2026-09-26'
   relation: related
   strength: 0.6877
-- slug: 2026-09-27-swing-left-s-radjy-democrats-need-clearer-identity-beyond-anti-trump
-  headline: 'Swing Left''s Radjy: Democrats need clearer identity beyond anti-Trump'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6769
 - slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
   headline: Democrats hold polling edge in eight of nine closest Senate races
   publish_date: '2026-09-21'
@@ -152,73 +162,7 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.7215
-- slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
-  headline: DSA-backed candidates unseat four House Democrats as primary season ends
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6864
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7176
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6791
-- slug: 2026-09-05-progressive-candidates-navigate-dsa-ties-as-membership-reaches-120-000
-  headline: Progressive candidates navigate DSA ties as membership reaches 120,000
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7365
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7273
-- slug: 2026-09-12-dsa-caucuses-range-from-aoc-supporters-to-marxist-leninists
-  headline: DSA caucuses range from AOC supporters to Marxist-Leninists
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6927
-- slug: 2026-09-08-dsa-grows-young-membership-through-social-events-not-policy-pitches
-  headline: DSA grows young membership through social events, not policy pitches
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7071
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7023
-- slug: 2026-08-04-democrats-face-divisive-michigan-senate-primary-tuesday
-  headline: Democrats face divisive Michigan Senate primary Tuesday
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7491
-- slug: 2026-08-12-democratic-primary-voters-signal-appetite-for-change
-  headline: Democratic primary voters signal appetite for change
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6829
-- slug: 2026-06-29-centrist-democrats-push-for-formal-break-after-socialist-primary-wins
-  headline: Centrist Democrats push for formal break after socialist primary wins
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7594
-- slug: 2026-07-27-gop-seizes-on-dsa-platform-calling-for-new-constitution-senate-abolition
-  headline: GOP seizes on DSA platform calling for new constitution, Senate abolition
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6944
-- slug: 2026-06-27-far-left-gains-in-new-york-primaries-deepen-democratic-civil-war
-  headline: Far-left gains in New York primaries deepen Democratic civil war
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7495
 ---
-
 ## Democratic voters split on party direction as DSA gains in primaries
 
 **Subtype:** fact

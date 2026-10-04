@@ -1,9 +1,19 @@
 ---
-headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
+headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing
+  IV'
 secondary_headline: Lawyers, doctors, faith leaders call for US death penalty moratorium
 publish_date: '2026-10-02'
-lede: In a Friday court filing, attorneys for Christa Pike said Tennessee's execution team administered a backup set of pentobarbital syringes instead of fixing failed IV lines during the state's Sept. 30 attempt to execute her. Pike, 50, remained hospitalized, unconscious and on a machine helping her breathe as of late Thursday, the attorneys said.
-nut_graf: Pike was sentenced to death in 1996 for the 1995 murder of 19-year-old Colleen Slemmer, killed alongside her then-boyfriend Tadaryl Shipp at a job training camp in Knoxville, Tennessee. According to the Death Penalty Information Center, the last execution of a woman in Tennessee was in 1820. The failed execution has prompted top lawyers, doctors and members of the faith community to call for a moratorium on the death penalty in the United States.
+lede: In a Friday court filing, attorneys for Christa Pike said Tennessee's execution
+  team administered a backup set of pentobarbital syringes instead of fixing failed
+  IV lines during the state's Sept. 30 attempt to execute her. Pike, 50, remained
+  hospitalized, unconscious and on a machine helping her breathe as of late Thursday,
+  the attorneys said.
+nut_graf: Pike was sentenced to death in 1996 for the 1995 murder of 19-year-old Colleen
+  Slemmer, killed alongside her then-boyfriend Tadaryl Shipp at a job training camp
+  in Knoxville, Tennessee. According to the Death Penalty Information Center, the
+  last execution of a woman in Tennessee was in 1820. The failed execution has prompted
+  top lawyers, doctors and members of the faith community to call for a moratorium
+  on the death penalty in the United States.
 primary_entities:
 - Christa Pike
 - Tennessee
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,102 +152,44 @@ related_stories:
   relation: related
   strength: 0.8567
 - slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
+  headline: Christa Pike in critical condition; attorneys demand commutation after
+    failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8312
+  strength: 0.831
 - slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8257
+  strength: 0.8251
+- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
+  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.822
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.815
+  strength: 0.8149
 - slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
   headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8072
+  strength: 0.8074
 - slug: 2026-09-30-sixth-circuit-halts-christa-pike-execution-an-hour-before-it-was-scheduled
   headline: Sixth Circuit halts Christa Pike execution an hour before it was scheduled
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7898
+  strength: 0.7901
 - slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
   headline: Christa Pike execution set as Tennessee governor denies clemency
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7998
-- slug: 2026-09-29-slemmer-s-mother-to-attend-pike-execution-holding-daughter-s-photo
-  headline: Slemmer's mother to attend Pike execution holding daughter's photo
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7896
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7751
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7781
-- slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
-  headline: Christa Pike survives two Tennessee lethal injection attempts
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.754
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7597
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7455
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7526
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7499
-- slug: 2026-10-02-reporter-who-covered-nearly-500-executions-says-he-s-never-seen-an-inmate-surviv
-  headline: Reporter who covered nearly 500 executions says he's never seen an inmate survive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7165
-- slug: 2026-09-04-tennessee-plans-execution-of-christa-pike-first-woman-since-1819
-  headline: Tennessee plans execution of Christa Pike, first woman since 1819
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7093
-- slug: 2026-09-16-norman-sues-over-pentobarbital-humphries-cites-survivor-justice-act
-  headline: Norman sues over pentobarbital; Humphries cites Survivor Justice Act
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.647
-- slug: 2026-08-08-tennessee-court-keeps-execution-doctor-s-possible-role-undisclosed
-  headline: Tennessee court keeps execution doctor's possible role undisclosed
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6465
-- slug: 2026-07-16-sister-files-complaint-over-doctor-in-failed-tennessee-execution
-  headline: Sister files complaint over doctor in failed Tennessee execution
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6677
+  strength: 0.8002
 ---
-
 ## Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV
 
 **Subtype:** fact

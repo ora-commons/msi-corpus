@@ -2,8 +2,14 @@
 headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
 secondary_headline: Son campaigns to free father jailed over coup conviction
 publish_date: '2026-10-02'
-lede: Brazil holds the first round of presidential elections Sunday with Flávio Bolsonaro, son of jailed former president Jair Bolsonaro, carrying genuine hopes of victory, according to Tom Phillips, The Guardian's Latin America correspondent. Jair Bolsonaro was convicted in September 2025 of attempting a coup, and Flávio Bolsonaro is also campaigning to have his father released.
-nut_graf: The vote could return the Bolsonaro family to power despite the elder Bolsonaro's conviction, and the reporting examines what a Flávio Bolsonaro victory would mean for the wider region.
+lede: Brazil holds the first round of presidential elections Sunday with Flávio Bolsonaro,
+  son of jailed former president Jair Bolsonaro, carrying genuine hopes of victory,
+  according to Tom Phillips, The Guardian's Latin America correspondent. Jair Bolsonaro
+  was convicted in September 2025 of attempting a coup, and Flávio Bolsonaro is also
+  campaigning to have his father released.
+nut_graf: The vote could return the Bolsonaro family to power despite the elder Bolsonaro's
+  conviction, and the reporting examines what a Flávio Bolsonaro victory would mean
+  for the wider region.
 primary_entities:
 - Flávio Bolsonaro
 - Jair Bolsonaro
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,21 +142,31 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-01-picanha-and-prices-loom-over-brazil-s-tight-presidential-election
-  headline: Picanha and prices loom over Brazil's tight presidential election
+- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
+  headline: Brazil's tight election tests its ability to say 'no' to Trump
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7558
+- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
+  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
+  publish_date: '2026-10-04'
+  relation: related
+  strength: 0.7043
+- slug: 2026-10-03-bbc-publishes-video-on-brazil-s-us-election-interference-claim
+  headline: BBC publishes video on Brazil's US election interference claim
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6747
+- slug: 2026-10-01-brazil-ag-office-reportedly-files-complaint-over-trump-funding-plan
+  headline: Brazil AG office reportedly files complaint over Trump funding plan
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.634
+  strength: 0.676
 - slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
   headline: Democrats ask Rubio to address alleged US interference in Brazil election
   publish_date: '2026-09-24'
   relation: related
   strength: 0.661
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6495
 - slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
   headline: Flávio Bolsonaro formally investigated over alleged corruption
   publish_date: '2026-09-11'
@@ -160,83 +177,12 @@ related_stories:
   publish_date: '2026-09-13'
   relation: related
   strength: 0.7056
-- slug: 2026-09-09-brazil-supreme-court-justices-clash-over-police-leadership-ahead-of-election
-  headline: Brazil Supreme Court justices clash over police leadership ahead of election
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6151
 - slug: 2026-08-08-brazil-s-supreme-court-denies-bolsonaro-father-s-day-visit-with-sons
   headline: Brazil's Supreme Court denies Bolsonaro Father's Day visit with sons
   publish_date: '2026-08-08'
   relation: related
   strength: 0.7199
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7479
-- slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.675
-- slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
-  headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6604
-- slug: 2026-06-17-brazil-court-convicts-eduardo-bolsonaro-of-coercion-sentences-him-to-4-years
-  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to 4 years
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7313
-- slug: 2026-03-02-bolsonaro-supporters-rally-in-brazil-as-election-fight-turns-to-fl-vio
-  headline: Bolsonaro supporters rally in Brazil as election fight turns to Flávio
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7853
-- slug: 2026-07-31-brazil-supreme-court-authorizes-probe-into-lula-s-son-over-medical-marijuana-lob
-  headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana lobbying
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6359
-- slug: 2026-05-01-brazil-lawmakers-override-veto-to-reduce-bolsonaro-s-27-year-prison-term
-  headline: Brazil lawmakers override veto to reduce Bolsonaro’s 27-year prison term
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6914
-- slug: 2026-05-14-fl-vio-bolsonaro-asked-jailed-banker-for-12-million-to-finance-father-s-biopic-v
-  headline: Flávio Bolsonaro asked jailed banker for $12 million to finance father’s biopic, voice messages show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6791
-- slug: 2026-05-14-brazil-s-fl-vio-bolsonaro-denies-wrongdoing-in-12-million-film-request
-  headline: Brazil’s Flávio Bolsonaro denies wrongdoing in $12 million film request
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.663
-- slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
-  headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6453
-- slug: 2026-03-15-bolsonaro-s-kidney-function-worsens-in-icu-pneumonia-stabilized-hospital-says
-  headline: Bolsonaro’s kidney function worsens in ICU; pneumonia stabilized, hospital says
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6788
-- slug: 2026-06-24-colombian-election-result-may-reshape-amazon-rainforest-s-future
-  headline: Colombian election result may reshape Amazon rainforest’s future
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6038
-- slug: 2026-03-15-bolsonaro-s-health-improves-transferred-to-semi-intensive-care-in-brazil
-  headline: Bolsonaro’s health improves; transferred to semi-intensive care in Brazil
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6595
 ---
-
 ## Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
 
 **Subtype:** fact

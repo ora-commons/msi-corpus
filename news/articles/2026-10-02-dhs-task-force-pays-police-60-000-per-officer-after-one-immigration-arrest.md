@@ -2,8 +2,23 @@
 headline: DHS task force pays police $60,000 per officer after one immigration arrest
 secondary_headline: Fewer than one in ten immigration arrests come from the DHS program
 publish_date: '2026-10-02'
-lede: The Department of Homeland Security has distributed more than $200 million to its law enforcement partners under the DHS task force program from January 2025 through Aug. 1, 2026, according to a Trump administration official. The program pays departments $60,000 a year for each deputized officer after they turn over a single deportable immigrant, regardless of additional arrests, and has yielded fewer than one in ten immigration arrests nationwide — about 46,500 of around 576,000 from January 2025 through July 2026 — according to an analysis of government data by The Wall Street Journal. More than 1,800 law enforcement agencies have signed up for the task force since President Trump revived the program in his second term.
-nut_graf: The payment formula — $60,000 per officer per year after a single federal immigration detention, regardless of additional arrests — makes the program most profitable for large departments and has drawn jurisdictions with few immigrant residents into federal immigration enforcement. Congress earmarked $1 billion for the partnership programs in the One Big Beautiful Bill, and the Justice Department announced $3 billion in grants to cooperating state and local governments this summer. California and New York bar local police from the program, while Florida, Texas and Georgia have mandated participation for some agencies.
+lede: The Department of Homeland Security has distributed more than $200 million to
+  its law enforcement partners under the DHS task force program from January 2025
+  through Aug. 1, 2026, according to a Trump administration official. The program
+  pays departments $60,000 a year for each deputized officer after they turn over
+  a single deportable immigrant, regardless of additional arrests, and has yielded
+  fewer than one in ten immigration arrests nationwide — about 46,500 of around 576,000
+  from January 2025 through July 2026 — according to an analysis of government data
+  by The Wall Street Journal. More than 1,800 law enforcement agencies have signed
+  up for the task force since President Trump revived the program in his second term.
+nut_graf: The payment formula — $60,000 per officer per year after a single federal
+  immigration detention, regardless of additional arrests — makes the program most
+  profitable for large departments and has drawn jurisdictions with few immigrant
+  residents into federal immigration enforcement. Congress earmarked $1 billion for
+  the partnership programs in the One Big Beautiful Bill, and the Justice Department
+  announced $3 billion in grants to cooperating state and local governments this summer.
+  California and New York bar local police from the program, while Florida, Texas
+  and Georgia have mandated participation for some agencies.
 primary_entities:
 - Department of Homeland Security
 - Immigration and Customs Enforcement
@@ -44,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -126,106 +142,46 @@ related_stories:
   headline: Omar to introduce Make ICE Pay Act to redirect $140B from ICE, CBP
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6583
+  strength: 0.6574
 - slug: 2026-08-26-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-october-2022
   headline: ICE arrests hit 49,571 in July, highest monthly tally since October 2022
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6704
+  strength: 0.6718
 - slug: 2026-08-24-trump-administration-proposes-103-265-h-1b-fee-after-court-struck-down-100-000-l
-  headline: Trump administration proposes $103,265 H-1B fee after court struck down $100,000 levy
+  headline: Trump administration proposes $103,265 H-1B fee after court struck down
+    $100,000 levy
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6643
+  strength: 0.6635
 - slug: 2026-08-14-walton-county-deputies-enforce-immigration-law-as-ice-expands-287-g
   headline: Walton County deputies enforce immigration law as ICE expands 287(g)
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6586
+  strength: 0.6588
 - slug: 2026-07-27-memphis-anti-crime-task-force-leads-to-surge-in-immigration-arrests
   headline: Memphis anti-crime task force leads to surge in immigration arrests
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.682
+  strength: 0.6836
 - slug: 2026-07-21-ice-arrested-43-138-in-june-highest-monthly-total-since-trump-took-office
   headline: ICE arrested 43,138 in June, highest monthly total since Trump took office
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6829
+  strength: 0.6834
 - slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
   headline: Trump signs $70B immigration enforcement bill into law
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.7326
+  strength: 0.7312
 - slug: 2026-07-15-administration-developing-100-000-bond-for-green-card-applicants
   headline: Administration developing $100,000 bond for green-card applicants
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6623
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6557
-- slug: 2026-06-05-congress-sends-trump-nearly-70b-to-fund-deportation-agenda
-  headline: Congress sends Trump nearly $70B to fund deportation agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6905
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6556
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.7284
-- slug: 2026-06-09-house-set-to-vote-on-70-billion-immigration-enforcement-funding-bill
-  headline: House set to vote on $70 billion immigration enforcement funding bill
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6679
-- slug: 2026-04-28-house-advances-plan-to-fund-homeland-security-as-tsa-pay-nears-cutoff
-  headline: House advances plan to fund Homeland Security as TSA pay nears cutoff
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6993
-- slug: 2026-05-01-trump-signs-homeland-security-funding-bill-ends-record-shutdown-over-ice-pay
-  headline: Trump signs Homeland Security funding bill, ends record shutdown over ICE pay
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6799
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6992
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6755
-- slug: 2026-03-14-trump-administration-stops-releasing-key-immigration-data-researchers-say
-  headline: Trump administration stops releasing key immigration data, researchers say
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6831
-- slug: 2026-02-16-homeland-security-funding-lapse-begins-amid-ice-and-tsa-dispute
-  headline: Homeland Security funding lapse begins amid ICE and TSA dispute
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6835
-- slug: 2026-02-14-trump-administration-spent-40m-on-third-country-deportations-report-says
-  headline: Trump administration spent $40M on third-country deportations, report says
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6795
+  strength: 0.661
 analyses:
-- '2026-10-02-per-officer-formula-pays-police-60-000-annually-regardless-of-additional-immigra'
+- 2026-10-02-per-officer-formula-pays-police-60-000-annually-regardless-of-additional-immigra
 ---
-
 ## DHS task force pays police $60,000 per officer after one immigration arrest
 
 **Subtype:** fact

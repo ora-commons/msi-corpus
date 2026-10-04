@@ -2,8 +2,15 @@
 headline: Hegseth orders one-day military stand-down for October voting
 secondary_headline: Service members to get time for mail-in or in-person voting
 publish_date: '2026-10-02'
-lede: Defense Secretary Pete Hegseth announced Friday that all U.S. service members will receive a day off in October to vote in the midterm elections, a military-wide stand-down he said was designated by President Donald Trump. Hegseth said the order directs commanders at every level to give troops time to send in their mail-in ballots or vote in person.
-nut_graf: The initiative comes as the Trump administration pursues separate efforts to restrict mail-in voting nationwide, including moves to bring state voter lists under federal oversight that have prompted states to challenge the oversight, according to UPI.
+lede: Defense Secretary Pete Hegseth announced Friday that all U.S. service members
+  will receive a day off in October to vote in the midterm elections, a military-wide
+  stand-down he said was designated by President Donald Trump. Hegseth said the order
+  directs commanders at every level to give troops time to send in their mail-in ballots
+  or vote in person.
+nut_graf: The initiative comes as the Trump administration pursues separate efforts
+  to restrict mail-in voting nationwide, including moves to bring state voter lists
+  under federal oversight that have prompted states to challenge the oversight, according
+  to UPI.
 primary_entities:
 - Pete Hegseth
 - Donald Trump
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,12 +163,14 @@ related_stories:
   relation: related
   strength: 0.6734
 - slug: 2026-09-15-trump-calls-mail-in-voting-nation-destroying-scam-after-supreme-court-ruling
-  headline: Trump calls mail-in voting 'Nation Destroying SCAM' after Supreme Court ruling
+  headline: Trump calls mail-in voting 'Nation Destroying SCAM' after Supreme Court
+    ruling
   publish_date: '2026-09-15'
   relation: related
   strength: 0.6593
 - slug: 2026-09-14-whistleblower-usps-secretly-implemented-blocked-trump-mail-in-voting-rules
-  headline: 'Whistleblower: USPS secretly implemented blocked Trump mail-in voting rules'
+  headline: 'Whistleblower: USPS secretly implemented blocked Trump mail-in voting
+    rules'
   publish_date: '2026-09-14'
   relation: related
   strength: 0.6637
@@ -174,68 +184,7 @@ related_stories:
   publish_date: '2026-09-09'
   relation: related
   strength: 0.6517
-- slug: 2026-09-04-trump-administration-asks-supreme-court-to-lift-usps-mail-ballot-block
-  headline: Trump administration asks Supreme Court to lift USPS mail-ballot block
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6614
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6709
-- slug: 2026-09-01-whistleblower-report-warns-usps-portal-may-disrupt-midterm-voting
-  headline: Whistleblower report warns USPS portal may disrupt midterm voting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6605
-- slug: 2026-08-24-supreme-court-declines-to-block-trump-mail-in-voting-order-ahead-of-midterms
-  headline: Supreme Court declines to block Trump mail-in voting order ahead of midterms
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6917
-- slug: 2026-08-22-usps-mail-in-voting-rule-set-for-wednesday-publication-as-two-court-injunctions-
-  headline: USPS mail-in voting rule set for Wednesday publication as two court injunctions stand
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6901
-- slug: 2026-08-18-slotkin-seeks-dod-commitment-barring-troops-from-midterm-polls
-  headline: Slotkin seeks DOD commitment barring troops from midterm polls
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.699
-- slug: 2026-08-28-judge-talwani-issues-14-day-hold-on-trump-mail-ballot-order
-  headline: Judge Talwani issues 14-day hold on Trump mail ballot order
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6493
-- slug: 2026-08-07-supreme-court-weighs-trump-bid-to-restrict-mail-in-voting
-  headline: Supreme Court weighs Trump bid to restrict mail-in voting
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6639
-- slug: 2026-08-11-federal-judge-widens-block-on-trump-mail-voting-order-to-all-states
-  headline: Federal judge widens block on Trump mail voting order to all states
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6496
-- slug: 2026-07-15-hegseth-orders-testosterone-screening-for-troops-30-and-older
-  headline: Hegseth orders testosterone screening for troops 30 and older
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6665
-- slug: 2026-07-14-hegseth-tells-military-to-ban-beards-long-hair-superficial-individual-expression
-  headline: Hegseth tells military to ban beards, long hair, ’superficial individual expression’
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6571
-- slug: 2026-05-15-lawyers-seek-to-block-trump-order-creating-eligible-voter-list
-  headline: Lawyers seek to block Trump order creating eligible voter list
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6753
 ---
-
 ## Hegseth orders one-day military stand-down for October voting
 
 **Subtype:** fact

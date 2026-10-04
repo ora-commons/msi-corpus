@@ -1,9 +1,19 @@
 ---
 headline: Senate Leadership Fund halts North Carolina Senate ad spending
-secondary_headline: SLF plans seven-figure spend to defend Sen. Roger Marshall in Kansas
+secondary_headline: SLF plans seven-figure spend to defend Sen. Roger Marshall in
+  Kansas
 publish_date: '2026-10-02'
-lede: WASHINGTON — A super PAC aligned with Senate Majority Leader John Thune is pausing its advertising in North Carolina's Senate race and redirecting its resources to defend Sen. Roger Marshall (R., Kan.) in deep-red Kansas, according to people familiar with the matter. The Senate Leadership Fund's shift frees as much as $19 million the group had set aside for October through Election Day in North Carolina, based on data from AdImpact.
-nut_graf: The move comes with Republicans holding a 53-47 Senate majority, a margin Democrats could erase by flipping four seats. Republican nominee Michael Whatley has trailed former Democratic Gov. Roy Cooper, a popular former governor, in opinion polls, raising Democratic hopes of flipping the open seat that retiring Sen. Thom Tillis (R., N.C.) is vacating.
+lede: WASHINGTON — A super PAC aligned with Senate Majority Leader John Thune is pausing
+  its advertising in North Carolina's Senate race and redirecting its resources to
+  defend Sen. Roger Marshall (R., Kan.) in deep-red Kansas, according to people familiar
+  with the matter. The Senate Leadership Fund's shift frees as much as $19 million
+  the group had set aside for October through Election Day in North Carolina, based
+  on data from AdImpact.
+nut_graf: The move comes with Republicans holding a 53-47 Senate majority, a margin
+  Democrats could erase by flipping four seats. Republican nominee Michael Whatley
+  has trailed former Democratic Gov. Roy Cooper, a popular former governor, in opinion
+  polls, raising Democratic hopes of flipping the open seat that retiring Sen. Thom
+  Tillis (R., N.C.) is vacating.
 primary_entities:
 - Senate Leadership Fund
 - Michael Whatley
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,11 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-02-hayes-says-slf-swindled-him-into-north-carolina-political-ad-after-son-s-murder
+  headline: Hayes says SLF 'swindled' him into North Carolina political ad after son's
+    murder
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8111
 - slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
   headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7389
+  strength: 0.7387
 - slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
   headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
   publish_date: '2026-09-27'
@@ -156,94 +173,28 @@ related_stories:
   headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6969
+  strength: 0.6967
 - slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6748
+  strength: 0.6751
 - slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
   headline: Trump stumps for Whatley in North Carolina Senate race
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.682
+  strength: 0.6833
 - slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
   headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6757
+  strength: 0.6759
 - slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
   headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6539
-- slug: 2026-08-06-roy-cooper-leads-north-carolina-senate-race-as-republicans-defend-seat
-  headline: Roy Cooper leads North Carolina Senate race as Republicans defend seat
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7675
-- slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
-  headline: Darline Graham wins South Carolina Senate runoff over Norman
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6432
-- slug: 2026-08-24-hurricane-helene-recovery-divides-north-carolina-senate-candidates
-  headline: Hurricane Helene recovery divides North Carolina Senate candidates
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6481
-- slug: 2026-08-14-house-majority-pac-adds-6-million-in-cleveland-ads-against-max-miller
-  headline: House Majority PAC adds $6 million in Cleveland ads against Max Miller
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6763
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7132
-- slug: 2026-03-02-roy-cooper-and-michael-whatley-win-north-carolina-senate-nominations
-  headline: Roy Cooper and Michael Whatley win North Carolina Senate nominations
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7234
-- slug: 2026-05-14-voters-weigh-tax-cuts-against-inflation-in-north-carolina-senate-race
-  headline: Voters weigh tax cuts against inflation in North Carolina Senate race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6832
-- slug: 2026-03-09-trump-s-pick-faces-democrat-roy-cooper-in-pivotal-north-carolina-senate-race
-  headline: Trump's pick faces Democrat Roy Cooper in pivotal North Carolina Senate race
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6967
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6532
-- slug: 2026-05-25-cornyn-and-paxton-flood-texas-airwaves-avoid-public-on-final-day-of-runoff
-  headline: Cornyn and Paxton flood Texas airwaves, avoid public on final day of runoff
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6466
-- slug: 2026-05-27-tom-steyer-sets-national-record-with-195-million-ad-blitz-in-california
-  headline: Tom Steyer sets national record with $195 million ad blitz in California
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6446
-- slug: 2026-05-22-paxton-spotlights-trump-s-endorsement-in-texas-senate-runoff-vs-cornyn
-  headline: Paxton spotlights Trump’s endorsement in Texas Senate runoff vs. Cornyn
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6456
-- slug: 2026-04-29-mark-sanford-quits-south-carolina-house-bid-plans-debt-focused-nonprofit
-  headline: Mark Sanford quits South Carolina House bid, plans debt-focused nonprofit
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6587
+  strength: 0.6545
 ---
-
 ## Senate Leadership Fund halts North Carolina Senate ad spending
 
 **Subtype:** fact

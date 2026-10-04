@@ -2,8 +2,12 @@
 headline: Judge reinstates Seattle U.S. attorney, blocks Trump firing
 secondary_headline: DOJ plans to appeal reinstatement of court-appointed U.S. attorney
 publish_date: '2026-10-01'
-lede: A federal judge on Thursday blocked President Donald Trump's firing of U.S. Attorney Roger Rogoff in Seattle and reinstated him to the post until the U.S. Senate confirms a replacement.
-nut_graf: Bastian's ruling holds that a U.S. attorney selected by a panel of federal judges cannot be removed by the president unilaterally, leaving the court's July 15 appointment in place until a Senate-confirmed successor takes the role.
+lede: A federal judge on Thursday blocked President Donald Trump's firing of U.S.
+  Attorney Roger Rogoff in Seattle and reinstated him to the post until the U.S. Senate
+  confirms a replacement.
+nut_graf: Bastian's ruling holds that a U.S. attorney selected by a panel of federal
+  judges cannot be removed by the president unilaterally, leaving the court's July
+  15 appointment in place until a Senate-confirmed successor takes the role.
 primary_entities:
 - Roger Rogoff
 - Donald Trump
@@ -42,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,13 +125,9 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-24-federal-judge-restores-white-house-press-access-for-three-outlets
-  headline: Federal judge restores White House press access for three outlets
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5971
 - slug: 2026-07-16-trump-fires-seattle-u-s-attorney-less-than-an-hour-after-judges-appoint-him
-  headline: Trump fires Seattle U.S. attorney less than an hour after judges appoint him
+  headline: Trump fires Seattle U.S. attorney less than an hour after judges appoint
+    him
   publish_date: '2026-07-16'
   relation: related
   strength: 0.8391
@@ -135,93 +136,7 @@ related_stories:
   publish_date: '2026-07-21'
   relation: related
   strength: 0.8002
-- slug: 2026-08-18-appeals-court-rules-nevada-u-s-attorney-was-unlawfully-appointed
-  headline: Appeals court rules Nevada U.S. attorney was unlawfully appointed
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5987
-- slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
-  headline: Trump sends Cook new removal notice despite Supreme Court ruling
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6292
-- slug: 2026-08-17-judge-rules-trump-plan-to-relocate-fbi-to-dc-building-violated-law
-  headline: Judge rules Trump plan to relocate FBI to DC building violated law
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5975
-- slug: 2026-08-08-senate-confirms-todd-blanche-as-attorney-general-in-50-49-vote
-  headline: Senate confirms Todd Blanche as attorney general in 50-49 vote
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5986
-- slug: 2026-07-30-trump-says-he-may-temporarily-withdraw-blanche-nomination-over-senate-gop-stando
-  headline: Trump says he may temporarily withdraw Blanche nomination over Senate GOP standoff
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6154
-- slug: 2026-06-29-supreme-court-blocks-trump-s-removal-of-fed-governor-cook
-  headline: Supreme Court blocks Trump's removal of Fed governor Cook
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6362
-- slug: 2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders
-  headline: Supreme Court gives Trump power to fire agency leaders
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6185
-- slug: 2026-07-01-federal-judge-blocks-pentagon-escort-rule-for-journalists
-  headline: Federal judge blocks Pentagon escort rule for journalists
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5966
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.597
-- slug: 2026-06-08-trump-nominates-ex-lawyer-todd-blanche-as-permanent-attorney-general
-  headline: Trump nominates ex-lawyer Todd Blanche as permanent attorney general
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5976
-- slug: 2026-01-20-halligan-leaves-post-as-interim-u-s-attorney-after-court-ruling
-  headline: Halligan leaves post as interim U.S. attorney after court ruling
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6379
-- slug: 2026-03-24-robert-frazer-named-u-s-attorney-for-new-jersey-after-disqualifications
-  headline: Robert Frazer named U.S. attorney for New Jersey after disqualifications
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6252
-- slug: 2026-02-13-doj-fires-donald-kinsella-after-judges-appoint-him-to-northern-ny
-  headline: DOJ fires Donald Kinsella after judges appoint him to northern NY
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6294
-- slug: 2026-04-03-who-is-todd-blanche-trump-s-pick-for-acting-u-s-attorney-general
-  headline: Who is Todd Blanche, Trump’s pick for acting U.S. attorney general?
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6171
-- slug: 2026-05-04-appeals-judges-question-trump-s-long-term-interim-top-prosecutor-setup
-  headline: Appeals judges question Trump’s long-term interim top prosecutor setup
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6018
-- slug: 2026-03-09-judge-disqualifies-doj-officials-in-new-jersey-u-s-attorney-case
-  headline: Judge disqualifies DOJ officials in New Jersey U.S. attorney case
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6205
-- slug: 2026-03-19-bondi-keeps-interim-u-s-attorney-brad-schimel-in-wisconsin-under-new-title
-  headline: Bondi keeps interim U.S. attorney Brad Schimel in Wisconsin under new title
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6124
 ---
-
 ## Judge reinstates Seattle U.S. attorney, blocks Trump firing
 
 **Subtype:** fact

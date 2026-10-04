@@ -1,9 +1,17 @@
 ---
 headline: UK diesel average breaks £2 a litre for the first time
-secondary_headline: Trump weighs US diesel export ban as Bessent presses Europe to release reserves
+secondary_headline: Trump weighs US diesel export ban as Bessent presses Europe to
+  release reserves
 publish_date: '2026-10-02'
-lede: The average price of diesel at UK fuel pumps has crossed £2 a litre for the first time, the RAC motoring body said, with the body warning that price rises are 'showing no signs of slowing, heaping more misery onto motorists.' Diesel averaged 200.01p a litre, and petrol 174.71p, the RAC said.
-nut_graf: The breach comes as seven months of the Iran war have disrupted oil production and shipping, Ukrainian attacks on Russian refineries have further constrained diesel supplies on the world market, and the US weighs a possible export ban that would divert American diesel from European to American buyers ahead of the November US midterm elections.
+lede: The average price of diesel at UK fuel pumps has crossed £2 a litre for the
+  first time, the RAC motoring body said, with the body warning that price rises are
+  'showing no signs of slowing, heaping more misery onto motorists.' Diesel averaged
+  200.01p a litre, and petrol 174.71p, the RAC said.
+nut_graf: The breach comes as seven months of the Iran war have disrupted oil production
+  and shipping, Ukrainian attacks on Russian refineries have further constrained diesel
+  supplies on the world market, and the US weighs a possible export ban that would
+  divert American diesel from European to American buyers ahead of the November US
+  midterm elections.
 primary_entities:
 - United Kingdom
 - RAC
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +148,43 @@ related_stories:
   headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8842
+  strength: 0.8843
+- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
+  headline: Cornwall Insight projects 16% rise in UK energy price cap
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.839
 - slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
   headline: Russia bans diesel exports after Ukraine refinery attacks
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8247
+  strength: 0.8246
 - slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
   headline: Healey says UK preparing for diesel export ban as fuel prices hit record
   publish_date: '2026-09-28'
   relation: related
   strength: 0.8176
+- slug: 2026-10-02-macquarie-says-g7-diesel-release-won-t-fix-us-energy-problem
+  headline: Macquarie says G7 diesel release won't fix US energy problem
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7785
 - slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
   headline: Diesel prices hit records in US and EU as wars curb global supply
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7819
+  strength: 0.7823
 - slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
   headline: UK diesel prices head toward £2 a litre as wars cut global refining
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.8456
+  strength: 0.8454
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
   relation: related
   strength: 0.7806
-- slug: 2026-10-02-northern-ireland-diesel-prices-reach-highest-level-since-iran-conflict-began
-  headline: Northern Ireland diesel prices reach highest level since Iran conflict began
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7648
-- slug: 2026-10-02-shropshire-lorry-training-firm-riding-out-record-uk-diesel-prices
-  headline: Shropshire lorry training firm 'riding out' record UK diesel prices
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7544
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.772
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7779
-- slug: 2026-09-29-uk-and-france-push-back-on-trump-s-diesel-export-ban-plan
-  headline: UK and France push back on Trump's diesel export ban plan
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7295
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.803
-- slug: 2026-09-24-australian-diesel-prices-could-push-past-3-a-litre-on-us-export-ban-risk
-  headline: Australian diesel prices could push past $3 a litre on US export ban risk
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.749
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7469
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7424
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7514
-- slug: 2026-09-11-average-us-diesel-price-crosses-6-per-gallon-for-the-first-time
-  headline: Average US diesel price crosses $6 per gallon for the first time
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7853
-- slug: 2026-09-22-api-chief-warns-diesel-export-ban-would-compound-fuel-price-problem
-  headline: API chief warns diesel export ban would compound fuel price problem
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7222
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7449
-- slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7632
 ---
-
 ## UK diesel average breaks £2 a litre for the first time
 
 - The RAC motoring body said the UK average diesel price reached 200.01p a litre, breaching the £2 threshold for the first time.

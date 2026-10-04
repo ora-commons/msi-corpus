@@ -1,9 +1,21 @@
 ---
 headline: 'UN mission: Venezuela''s repression institutions intact as abuses decline'
-secondary_headline: Chevron, Eni commit billions to Venezuela as election date stays open
+secondary_headline: Chevron, Eni commit billions to Venezuela as election date stays
+  open
 publish_date: '2026-10-02'
-lede: A United Nations fact-finding mission reported Sept. 16 that Venezuela's state institutions responsible for repression remain intact even as the harshest abuses have declined. The assessment appears in 'Venezuela's oil is flowing faster than its democracy,' a United Press International 'Perspectives' opinion column published Oct. 2 by Jorge Rosales, a Chilean law student, whose interpretive arguments about the country's transition are his own analysis rather than Main Street Independent reporting.
-nut_graf: The column arrives nearly nine months after U.S. forces captured former President Nicolás Maduro in Caracas on Jan. 3 and flew him to the United States to face federal drug-trafficking charges. Rosales argues that the economic transition — billions of dollars in oil investment from Chevron and Eni — is moving faster than institutional reform, with interim President Delcy Rodríguez yet to set a date for a presidential election.
+lede: A United Nations fact-finding mission reported Sept. 16 that Venezuela's state
+  institutions responsible for repression remain intact even as the harshest abuses
+  have declined. The assessment appears in 'Venezuela's oil is flowing faster than
+  its democracy,' a United Press International 'Perspectives' opinion column published
+  Oct. 2 by Jorge Rosales, a Chilean law student, whose interpretive arguments about
+  the country's transition are his own analysis rather than Main Street Independent
+  reporting.
+nut_graf: The column arrives nearly nine months after U.S. forces captured former
+  President Nicolás Maduro in Caracas on Jan. 3 and flew him to the United States
+  to face federal drug-trafficking charges. Rosales argues that the economic transition
+  — billions of dollars in oil investment from Chevron and Eni — is moving faster
+  than institutional reform, with interim President Delcy Rodríguez yet to set a date
+  for a presidential election.
 primary_entities:
 - United Nations
 - Venezuela
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -128,107 +141,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-29-un-fact-finding-mission-venezuela-s-repressive-institutions-remain-intact
-  headline: 'UN fact-finding mission: Venezuela''s repressive institutions remain intact'
+  headline: 'UN fact-finding mission: Venezuela''s repressive institutions remain
+    intact'
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7691
+  strength: 0.7693
 - slug: 2026-09-23-venezuela-s-rodr-guez-pledges-elections-in-un-speech-sets-no-date
   headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7512
+  strength: 0.7503
 - slug: 2026-09-24-venezuela-s-interim-president-meets-trump-addresses-un-in-new-york
   headline: Venezuela's interim president meets Trump, addresses UN in New York
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6889
+  strength: 0.6882
 - slug: 2026-09-17-u-n-experts-document-64-torture-cases-in-venezuela-since-maduro-removal
   headline: U.N. experts document 64 torture cases in Venezuela since Maduro removal
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7254
+  strength: 0.7272
 - slug: 2026-09-24-venezuela-s-acting-president-tells-un-of-earthquake-toll-pledges-elections
   headline: Venezuela's acting president tells UN of earthquake toll, pledges elections
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6789
+  strength: 0.6784
 - slug: 2026-08-28-proposed-u-s-stake-in-17-venezuelan-fields-covers-90-billion-barrels
   headline: Proposed U.S. stake in 17 Venezuelan fields covers 90 billion barrels
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6751
+  strength: 0.6749
 - slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
   headline: U.S. faces $37 billion cleanup after Venezuela quakes
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.6864
+  strength: 0.6861
 - slug: 2026-06-03-venezuela-s-chavismo-movement-fractures-as-rodr-guez-deepens-u-s-ties
   headline: Venezuela's Chavismo movement fractures as Rodríguez deepens U.S. ties
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.7067
-- slug: 2026-01-15-venezuela-s-acting-president-calls-for-foreign-oil-investment-warmer-us-ties
-  headline: Venezuela's acting president calls for foreign oil investment, warmer US ties
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7151
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  headline: Caracas falls quiet as Venezuelans wait to see what comes next after US seizes Maduro
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7001
-- slug: 2026-01-14-venezuela-s-acting-president-pledges-more-prisoner-releases-after-trump-call
-  headline: Venezuela's acting president pledges more prisoner releases after Trump call
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6949
-- slug: 2026-01-22-venezuela-advances-oil-reform-allowing-private-company-investment
-  headline: Venezuela advances oil reform allowing private company investment
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6913
-- slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  headline: Venezuela oil revival faces decade-long timeline and $100 billion investment hurdle
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6915
-- slug: 2026-01-07-venezuela-s-vast-oil-reserves-draw-us-interest-but-experts-warn-of-major-hurdles
-  headline: Venezuela's vast oil reserves draw US interest, but experts warn of major hurdles
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6873
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6857
-- slug: 2026-02-12-energy-secretary-chris-wright-visits-venezuela-to-assess-oil-overhaul
-  headline: Energy Secretary Chris Wright visits Venezuela to assess oil overhaul
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6807
-- slug: 2026-01-04-venezuela-intervention-tests-trump-s-america-first-pledge-as-gop-shows-unease
-  headline: Venezuela intervention tests Trump's 'America First' pledge as GOP shows unease
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6816
-- slug: 2026-03-05-venezuela-pledges-security-for-foreign-mining-investors-burgum-says
-  headline: Venezuela pledges security for foreign mining investors, Burgum says
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6729
-- slug: 2026-03-05-burgum-meets-venezuelas-rodriguez-in-caracas-to-discuss-mining-investment
-  headline: Burgum meets Venezuela's Rodríguez in Caracas to discuss mining investment
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6721
-- slug: 2026-01-30-venezuela-acting-president-signs-oil-overhaul-that-eases-state-control
-  headline: Venezuela acting president signs oil overhaul that eases state control
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6746
+  strength: 0.7051
 ---
-
 ## UN mission: Venezuela's repression institutions intact as abuses decline
 
 **Subtype:** fact

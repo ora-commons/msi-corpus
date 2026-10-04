@@ -1,9 +1,19 @@
 ---
 headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
-secondary_headline: Pentagon sending third carrier strike group, 9,000-10,000 additional troops
+secondary_headline: Pentagon sending third carrier strike group, 9,000-10,000 additional
+  troops
 publish_date: '2026-10-02'
-lede: Oil prices fell Friday as traders weighed recovering Middle East crude exports against renewed shipping risks in the Strait of Hormuz and a larger U.S. military buildup in the region, according to The Wall Street Journal. December Brent crude futures fell 1.1% to $101.12 a barrel, while December West Texas Intermediate futures fell 1.6% to $89.41 a barrel. The moves gave back part of Thursday's 4.4% jump in Brent, which had settled at $102.31 as Middle East supply risks remained in focus.
-nut_graf: Markets are increasingly pricing in a risk premium from the lack of a clear diplomatic off-ramp, an analyst at Phillip Nova said, even as Middle East crude flows recover. The Pentagon is sending a third aircraft-carrier strike group and thousands of additional troops to the region, while tanker strikes in the Strait of Hormuz have continued into October.
+lede: Oil prices fell Friday as traders weighed recovering Middle East crude exports
+  against renewed shipping risks in the Strait of Hormuz and a larger U.S. military
+  buildup in the region, according to The Wall Street Journal. December Brent crude
+  futures fell 1.1% to $101.12 a barrel, while December West Texas Intermediate futures
+  fell 1.6% to $89.41 a barrel. The moves gave back part of Thursday's 4.4% jump in
+  Brent, which had settled at $102.31 as Middle East supply risks remained in focus.
+nut_graf: Markets are increasingly pricing in a risk premium from the lack of a clear
+  diplomatic off-ramp, an analyst at Phillip Nova said, even as Middle East crude
+  flows recover. The Pentagon is sending a third aircraft-carrier strike group and
+  thousands of additional troops to the region, while tanker strikes in the Strait
+  of Hormuz have continued into October.
 primary_entities:
 - Priyanka Sachdeva
 - Phillip Nova
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,12 +155,12 @@ related_stories:
   headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8028
+  strength: 0.8041
 - slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
   headline: Oil futures rise as Middle East exports recover to prewar levels
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.803
+  strength: 0.8032
 - slug: 2026-09-30-oil-futures-extend-losses-as-persian-gulf-exports-near-2025-average
   headline: Oil futures extend losses as Persian Gulf exports near 2025 average
   publish_date: '2026-09-30'
@@ -159,89 +170,28 @@ related_stories:
   headline: Oil prices fall as US-Iran diplomacy hopes offset Saudi attack threats
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.8213
+  strength: 0.8211
 - slug: 2026-10-01-three-tankers-hit-in-hormuz-as-uk-diesel-hits-record
   headline: Three tankers hit in Hormuz as UK diesel hits record
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7779
+  strength: 0.7783
 - slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
   headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7844
+  strength: 0.785
 - slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
   headline: Oil prices rise as Trump rejects Iran ceasefire proposal
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7851
+  strength: 0.7856
 - slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
   headline: Oil rises on Hormuz risks as Saudi crude flows rebound
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8212
-- slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
-  headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7791
-- slug: 2026-09-24-oil-prices-fall-saudi-pipeline-restart-iran-talks
-  headline: Oil prices fall as Saudi pipeline restarts and U.S.-Iran contacts continue
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7861
-- slug: 2026-09-16-oil-futures-slip-ahead-of-fed-decision-as-saudi-pipeline-repairs-extend
-  headline: Oil futures slip ahead of Fed decision as Saudi pipeline repairs extend
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.814
-- slug: 2026-09-17-brent-crude-falls-as-fed-lifts-rates-for-first-time-since-2023
-  headline: Brent crude falls as Fed lifts rates for first time since 2023
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7823
-- slug: 2026-08-26-oil-prices-fall-as-iran-oman-propose-temporary-hormuz-shipping-route
-  headline: Oil prices fall as Iran, Oman propose temporary Hormuz shipping route
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7766
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7824
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7981
-- slug: 2026-07-28-oil-prices-extend-losses-as-u-s--iran-lull-spurs-strait-of-hormuz-diplomacy
-  headline: Oil prices extend losses as U.S.-Iran lull spurs Strait of Hormuz diplomacy
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.8164
-- slug: 2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet
-  headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.8174
-- slug: 2026-06-25-oil-falls-to-prewar-levels-as-gulf-flows-through-hormuz-pick-up
-  headline: Oil falls to prewar levels as Gulf flows through Hormuz pick up
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.8305
-- slug: 2026-06-16-oil-falls-strait-of-hormuz-reopening-eyed-as-u-s--iran-deal-nears
-  headline: Oil Falls, Strait of Hormuz Reopening Eyed as U.S.-Iran Deal Nears
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.82
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7897
+  strength: 0.822
 ---
-
 ## Oil prices fall on renewed Hormuz risks and larger US military buildup
 
 **Subtype:** fact

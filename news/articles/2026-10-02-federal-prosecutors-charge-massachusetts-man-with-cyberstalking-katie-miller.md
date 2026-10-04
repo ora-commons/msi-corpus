@@ -2,8 +2,13 @@
 headline: Federal prosecutors charge Massachusetts man with cyberstalking Katie Miller
 secondary_headline: FBI task force arrested Proia after two months, 40-plus messages
 publish_date: '2026-10-02'
-lede: Federal officials have charged John Anthony Proia III, 41, of Massachusetts, with a single count of cyberstalking for allegedly harassing Katie Miller, the wife of White House aide Stephen Miller. The FBI's Joint Terrorism Task Force arrested Proia, who was released from custody after an initial appearance in federal court.
-nut_graf: Prosecutors allege the communications spanned two months and involved more than 40 phone and text messages directed at Katie Miller and her parents, and concerning Katie Miller and Stephen Miller.
+lede: Federal officials have charged John Anthony Proia III, 41, of Massachusetts,
+  with a single count of cyberstalking for allegedly harassing Katie Miller, the wife
+  of White House aide Stephen Miller. The FBI's Joint Terrorism Task Force arrested
+  Proia, who was released from custody after an initial appearance in federal court.
+nut_graf: Prosecutors allege the communications spanned two months and involved more
+  than 40 phone and text messages directed at Katie Miller and her parents, and concerning
+  Katie Miller and Stephen Miller.
 primary_entities:
 - John Anthony Proia III
 - Katie Miller
@@ -35,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,108 +139,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6055
-- slug: 2026-09-05-family-sextorted-via-group-chat-with-ai-generated-image-of-daughter
-  headline: Family sextorted via group chat with AI-generated image of daughter
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5882
-- slug: 2026-08-04-six-gop-senators-publicly-back-bernie-moreno-in-miller-abuse-dispute
-  headline: Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6025
-- slug: 2026-07-31-rep-miller-s-ex-wife-files-restraining-order-alleging-he-grabbed-her-attorney
-  headline: Rep. Miller's ex-wife files restraining order alleging he grabbed her attorney
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6008
 - slug: 2026-02-06-man-arrested-over-alleged-cyberstalking-in-minnesota-ice-crackdown
   headline: Man arrested over alleged cyberstalking in Minnesota ICE crackdown
   publish_date: '2026-02-06'
   relation: related
   strength: 0.6844
-- slug: 2026-07-06-federal-lawsuit-challenges-hsi-warning-notice-sent-to-new-york-man-over-january-
-  headline: Federal lawsuit challenges HSI warning notice sent to New York man over January email to ICE official
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5848
-- slug: 2026-06-30-relative-says-jane-doe-4-fears-retaliation-as-epstein-files-dispute-continues
-  headline: Relative says Jane Doe 4 fears retaliation as Epstein files dispute continues
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.587
-- slug: 2026-05-06-faa-contractor-accused-of-emailing-trump-threat-after-searches
-  headline: FAA contractor accused of emailing Trump threat after searches
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6249
-- slug: 2026-05-15-ohio-rep-max-miller-sues-ex-wife-emily-moreno-for-defamation-over-abuse-claims
-  headline: Ohio Rep. Max Miller sues ex-wife Emily Moreno for defamation over abuse claims
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6053
-- slug: 2026-03-20-new-york-man-pleads-guilty-to-cyberstalking-family-member-of-brian-thompson
-  headline: New York man pleads guilty to cyberstalking family member of Brian Thompson
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.621
-- slug: 2026-04-30-comey-returns-to-court-in-case-alleging-86-47-trump-threat
-  headline: Comey returns to court in case alleging ‘86 47’ Trump threat
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5995
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5913
-- slug: 2026-02-14-4-indicted-in-minneapolis-clashes-including-woman-accused-of-biting-finger
-  headline: 4 indicted in Minneapolis clashes, including woman accused of biting finger
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6101
-- slug: 2026-04-22-new-york-times-says-fbi-interviewed-reporter-after-girlfriend-story
-  headline: New York Times says FBI interviewed reporter after girlfriend story
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5893
-- slug: 2026-02-26-couple-settles-massachusetts-lawsuit-against-ebay-over-harassment-campaign
-  headline: Couple settles Massachusetts lawsuit against eBay over harassment campaign
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6058
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5809
-- slug: 2026-02-08-sheriff-frustrated-no-video-captured-during-nancy-guthrie-disappearance
-  headline: Sheriff frustrated no video captured during Nancy Guthrie disappearance
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6016
-- slug: 2026-02-08-ohio-man-charged-with-threatening-to-kill-vice-president-jd-vance
-  headline: Ohio man charged with threatening to kill Vice President JD Vance
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6015
-- slug: 2026-02-05-savannah-guthrie-posts-message-seeking-proof-her-mom-is-alive
-  headline: Savannah Guthrie posts message seeking proof her mom is alive
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.601
-- slug: 2026-01-27-five-charged-in-alleged-plot-to-assassinate-indiana-judge
-  headline: Five charged in alleged plot to assassinate Indiana judge
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.5997
 ---
-
 ## Federal prosecutors charge Massachusetts man with cyberstalking Katie Miller
 
 **Subtype:** fact

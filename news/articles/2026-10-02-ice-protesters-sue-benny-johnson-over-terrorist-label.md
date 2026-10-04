@@ -1,9 +1,21 @@
 ---
 headline: ICE protesters sue Benny Johnson over 'terrorist' label
-secondary_headline: Lawsuit says podcaster made videos while embedded with Noem and Bovino
+secondary_headline: Lawsuit says podcaster made videos while embedded with Noem and
+  Bovino
 publish_date: '2026-10-02'
-lede: Kyle Frankovich and Maureen Foody filed a defamation lawsuit Friday against pro-Trump podcaster and online influencer Benny Johnson, alleging he falsely labeled them 'left-wing terrorists' who had assaulted federal officers outside a U.S. Immigration and Customs Enforcement facility in Broadview, Illinois, in October 2025. Both plaintiffs were released without charges after their arrest. The complaint says Johnson made the videos while embedded with then-Secretary of Homeland Security Kristi Noem and then Border Patrol Commander-at-Large Gregory Bovino.
-nut_graf: Federal government officials are generally immune from defamation suits, Rachel Goodman, a special counsel with Protect Democracy, told NPR. Goodman, who has worked on similar cases but is not involved in the lawsuit, said the claims against Johnson highlight a pattern the Trump administration has used to "control the information environment" by working with influencers she described as "politically aligned and sort of administration allies."
+lede: Kyle Frankovich and Maureen Foody filed a defamation lawsuit Friday against
+  pro-Trump podcaster and online influencer Benny Johnson, alleging he falsely labeled
+  them 'left-wing terrorists' who had assaulted federal officers outside a U.S. Immigration
+  and Customs Enforcement facility in Broadview, Illinois, in October 2025. Both plaintiffs
+  were released without charges after their arrest. The complaint says Johnson made
+  the videos while embedded with then-Secretary of Homeland Security Kristi Noem and
+  then Border Patrol Commander-at-Large Gregory Bovino.
+nut_graf: Federal government officials are generally immune from defamation suits,
+  Rachel Goodman, a special counsel with Protect Democracy, told NPR. Goodman, who
+  has worked on similar cases but is not involved in the lawsuit, said the claims
+  against Johnson highlight a pattern the Trump administration has used to "control
+  the information environment" by working with influencers she described as "politically
+  aligned and sort of administration allies."
 primary_entities:
 - Kyle Frankovich
 - Maureen Foody
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-24-ice-agents-allegedly-injure-u-s-citizen-in-evanston-mistaken-identity-stop
-  headline: ICE agents allegedly injure U.S. citizen in Evanston mistaken-identity stop
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6278
-- slug: 2026-09-21-three-journalists-describe-arrests-and-deportation-by-ice
-  headline: Three journalists describe arrests and deportation by ICE
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.625
-- slug: 2026-09-21-doj-brings-rare-charge-against-ice-agent-for-lying-about-minnesota-shooting
-  headline: DOJ brings rare charge against ICE agent for lying about Minnesota shooting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6201
-- slug: 2026-09-10-denver-and-advocacy-groups-sue-to-block-ice-officers-at-polling-sites
-  headline: Denver and advocacy groups sue to block ICE officers at polling sites
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6365
-- slug: 2026-09-02-influencers-claim-credit-for-yiannopoulos-deportation
-  headline: Influencers claim credit for Yiannopoulos deportation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.633
-- slug: 2026-08-28-milo-yiannopoulos-apparently-detained-by-ice-in-louisiana
-  headline: Milo Yiannopoulos apparently detained by ICE in Louisiana
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.629
-- slug: 2026-08-04-ice-s-social-media-surveillance-spurs-hundreds-of-subpoenas-to-unmask-critics
-  headline: ICE's social media surveillance spurs hundreds of subpoenas to unmask critics
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6507
-- slug: 2026-07-28-professor-charged-in-minnesota-ice-protest-conspiracy-case-speaks-out
-  headline: Professor charged in Minnesota ICE protest conspiracy case speaks out
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6372
-- slug: 2026-07-27-family-sues-federal-government-after-ice-agents-shot-at-truck-driver-held-three-
-  headline: Family sues federal government after ICE agents shot at truck, driver held three months in detention
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6314
-- slug: 2026-07-06-federal-lawsuit-challenges-hsi-warning-notice-sent-to-new-york-man-over-january-
-  headline: Federal lawsuit challenges HSI warning notice sent to New York man over January email to ICE official
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6451
-- slug: 2026-07-15-two-groups-sue-trump-over-sanctions-on-icc-palestinian-rights-advocates
-  headline: Two groups sue Trump over sanctions on ICC, Palestinian rights advocates
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.622
-- slug: 2026-06-19-dhs-plan-to-give-local-police-ice-facial-recognition-app-revealed
-  headline: DHS plan to give local police ICE facial recognition app revealed
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6497
 - slug: 2026-06-10-ice-letter-acknowledges-collecting-data-on-some-protesters-observers
   headline: ICE letter acknowledges collecting data on some protesters, observers
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6557
-- slug: 2026-06-23-texas-anti-ice-protesters-get-at-least-50-years-on-terrorism-charges
-  headline: Texas anti-ICE protesters get at least 50 years on terrorism charges
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6269
-- slug: 2026-06-03-police-block-press-from-delaney-hall-protests-arrest-three-journalists
-  headline: Police block press from Delaney Hall protests, arrest three journalists
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6319
+  strength: 0.6538
 - slug: 2026-02-06-man-arrested-over-alleged-cyberstalking-in-minnesota-ice-crackdown
   headline: Man arrested over alleged cyberstalking in Minnesota ICE crackdown
   publish_date: '2026-02-06'
   relation: related
-  strength: 0.6645
-- slug: 2026-02-14-don-lemon-pleads-not-guilty-in-minnesota-church-protest
-  headline: Don Lemon pleads not guilty in Minnesota church protest
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6434
-- slug: 2026-04-30-minnesota-family-indicted-after-clash-with-turning-point-usa-journalist
-  headline: Minnesota family indicted after clash with Turning Point USA journalist
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6193
-- slug: 2026-01-16-social-media-falsely-identifies-pardoned-proud-boys-leader-enrique-tarrio-as-ice
-  headline: Social media falsely identifies pardoned Proud Boys leader Enrique Tarrio as ICE officer
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6457
-- slug: 2026-04-23-immigration-officer-charged-with-assault-after-protest-outside-colorado-ice
-  headline: Immigration officer charged with assault after protest outside Colorado ICE
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6217
+  strength: 0.6636
 ---
-
 ## ICE protesters sue Benny Johnson over 'terrorist' label
 
 - Kyle Frankovich and Maureen Foody filed a defamation lawsuit Friday against pro-Trump podcaster and online influencer Benny Johnson, alleging he falsely labeled them "left-wing terrorists" who had assaulted federal officers.

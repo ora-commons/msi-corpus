@@ -2,8 +2,16 @@
 headline: Crews recover final body from Catalina Island helicopter crash
 secondary_headline: Third victim identified as Avalon woman flown after allergic reaction
 publish_date: '2026-10-02'
-lede: Divers recovered the final body from a medical helicopter that crashed off Catalina Island, California, on Wednesday evening, bringing the death toll from the crash to three. Family members identified the third victim as Catalina Hernandez, 45, of Avalon, who was being flown to a hospital after an allergic reaction. The National Transportation Safety Board is investigating the crash.
-nut_graf: The crash of the REACH Air Medical Services flight — a Eurocopter EC135 carrying five people that went down shortly after takeoff off Avalon — has drawn an investigation by the National Transportation Safety Board, and its cause was not immediately clear. The helicopter had been based at the Oceanside Fire Department's training center for more than a decade.
+lede: Divers recovered the final body from a medical helicopter that crashed off Catalina
+  Island, California, on Wednesday evening, bringing the death toll from the crash
+  to three. Family members identified the third victim as Catalina Hernandez, 45,
+  of Avalon, who was being flown to a hospital after an allergic reaction. The National
+  Transportation Safety Board is investigating the crash.
+nut_graf: The crash of the REACH Air Medical Services flight — a Eurocopter EC135
+  carrying five people that went down shortly after takeoff off Avalon — has drawn
+  an investigation by the National Transportation Safety Board, and its cause was
+  not immediately clear. The helicopter had been based at the Oceanside Fire Department's
+  training center for more than a decade.
 primary_entities:
 - Catalina Island
 - Avalon, California
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +150,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
+  headline: Divers recover body of missing patient in Catalina medevac crash, toll
+    at 3
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8402
+  strength: 0.84
 - slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
   headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7874
+  strength: 0.7869
 - slug: 2026-09-16-moreno-marciniw-have-been-flying-together-since-2023-nbc4-says
   headline: Moreno, Marciniw have been flying together since 2023, NBC4 says
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6578
+  strength: 0.6583
 - slug: 2026-09-16-five-la-residents-died-across-two-chatsworth-crashes-bass-says
   headline: Five LA residents died across two Chatsworth crashes, Bass says
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.655
+  strength: 0.6557
 - slug: 2026-09-16-nbc4-names-journalist-pilot-among-three-killed-in-helicopter-crash
   headline: NBC4 names journalist, pilot among three killed in helicopter crash
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6525
-- slug: 2026-09-18-prosecutors-charge-la-woman-with-murder-over-chatsworth-bus-crash
-  headline: Prosecutors charge LA woman with murder over Chatsworth bus crash
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6304
-- slug: 2026-09-16-nbc4-helicopter-crash-in-los-angeles-neighborhood-kills-at-least-three
-  headline: NBC4 helicopter crash in Los Angeles neighborhood kills at least three
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6404
-- slug: 2026-07-24-seaplane-crashes-near-washington-island-all-11-rescued
-  headline: Seaplane crashes near Washington island, all 11 rescued
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6242
-- slug: 2026-07-16-ntsb-finds-geese-remains-on-helicopter-that-crashed-into-hudson-river-killing-6
-  headline: NTSB finds geese remains on helicopter that crashed into Hudson River, killing 6
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6289
-- slug: 2026-07-14-pontoon-boat-carrying-memorial-service-group-sinks-near-alcatraz-1-dead-3-missin
-  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead, 3 missing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6293
-- slug: 2026-07-02-families-of-us-deportees-to-venezuela-search-for-missing-after-quakes
-  headline: Families of US deportees to Venezuela search for missing after quakes
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6327
+  strength: 0.6528
 - slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
+  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash
+    killed 3
   publish_date: '2026-04-17'
   relation: related
-  strength: 0.6768
+  strength: 0.6763
 - slug: 2026-05-10-three-dead-as-hantavirus-stricken-cruise-ship-nears-spain-with-key-questions-una
-  headline: Three dead as hantavirus-stricken cruise ship nears Spain, with key questions unanswered
+  headline: Three dead as hantavirus-stricken cruise ship nears Spain, with key questions
+    unanswered
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.663
+  strength: 0.6624
 - slug: 2026-05-10-last-hondius-passengers-fly-home-after-hantavirus-outbreak-kills-3
   headline: Last Hondius passengers fly home after hantavirus outbreak kills 3
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6507
-- slug: 2026-03-29-3-killed-in-tour-company-helicopter-crash-on-kauai-s-na-pali-coast
-  headline: 3 killed in tour company helicopter crash on Kauai’s Na Pali Coast
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6667
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6439
-- slug: 2026-05-09-spain-readies-evacuations-for-hantavirus-cruise-ship-arriving-in-tenerife
-  headline: Spain readies evacuations for hantavirus cruise ship arriving in Tenerife
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6402
-- slug: 2026-05-18-fear-of-flying-increases-after-washington-collision-kills-67
-  headline: Fear of flying increases after Washington collision kills 67
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.626
-- slug: 2026-05-06-inside-the-cruise-ship-with-deadly-hantavirus-outbreak-off-cape-verde
-  headline: Inside the cruise ship with deadly hantavirus outbreak off Cape Verde
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.629
-- slug: 2026-05-05-3-cruise-ship-passengers-die-in-suspected-hantavirus-outbreak-off-cape-verde
-  headline: 3 cruise ship passengers die in suspected hantavirus outbreak off Cape Verde
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6287
 ---
-
 ## Crews recover final body from Catalina Island helicopter crash
 
 **Subtype:** fact

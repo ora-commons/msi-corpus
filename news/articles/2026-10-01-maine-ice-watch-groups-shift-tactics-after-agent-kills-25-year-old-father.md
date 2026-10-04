@@ -2,8 +2,19 @@
 headline: Maine ICE-watch groups shift tactics after agent kills 25-year-old father
 secondary_headline: ICE Out laws and class action follow Durán Guerrero killing
 publish_date: '2026-10-01'
-lede: Maine's small network of ICE-watching volunteers is adapting its tactics in the months since an ICE agent fatally shot 25-year-old father Johan Sebastián Durán Guerrero during a traffic stop in Biddeford on July 13, 2026, the Guardian reported. Organizers describe a network already stretched thin — some days, ICE-watching in the state is just three people in lawn chairs scrawling license plate numbers in their notebooks — while protesters demonstrated outside Senator Susan Collins' office after the killing. Three 'ICE Out' laws took effect 13 days later, blocking cooperation between ICE and local police forces, landlords, schools and state healthcare facilities, and residents and other observers have filed a federal class action lawsuit against the Department of Homeland Security.
-nut_graf: The killing has drawn a federal class action lawsuit, three 'ICE Out' laws and a planned 70-mile march in a state whose volunteer monitoring network is far smaller than those in major cities.
+lede: Maine's small network of ICE-watching volunteers is adapting its tactics in
+  the months since an ICE agent fatally shot 25-year-old father Johan Sebastián Durán
+  Guerrero during a traffic stop in Biddeford on July 13, 2026, the Guardian reported.
+  Organizers describe a network already stretched thin — some days, ICE-watching in
+  the state is just three people in lawn chairs scrawling license plate numbers in
+  their notebooks — while protesters demonstrated outside Senator Susan Collins' office
+  after the killing. Three 'ICE Out' laws took effect 13 days later, blocking cooperation
+  between ICE and local police forces, landlords, schools and state healthcare facilities,
+  and residents and other observers have filed a federal class action lawsuit against
+  the Department of Homeland Security.
+nut_graf: The killing has drawn a federal class action lawsuit, three 'ICE Out' laws
+  and a planned 70-mile march in a state whose volunteer monitoring network is far
+  smaller than those in major cities.
 primary_entities:
 - Johan Sebastián Durán Guerrero
 - Biddeford
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,106 +160,46 @@ related_stories:
   headline: Three men died within 24 hours during ICE operations in three states
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7789
+  strength: 0.7792
 - slug: 2026-09-28-ice-detentions-accelerate-under-soft-feet-as-dhs-workforce-more-than-doubles
-  headline: ICE detentions accelerate under 'soft feet' as DHS workforce more than doubles
+  headline: ICE detentions accelerate under 'soft feet' as DHS workforce more than
+    doubles
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6829
+  strength: 0.6834
 - slug: 2026-09-20-ice-summer-enforcement-tops-50-000-monthly-arrests-amid-string-of-shootings
   headline: ICE summer enforcement tops 50,000 monthly arrests amid string of shootings
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7236
+  strength: 0.7239
 - slug: 2026-09-24-man-dies-fleeing-ice-traffic-stop-in-grand-rapids-michigan
   headline: Man dies fleeing ICE traffic stop in Grand Rapids, Michigan
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6892
-- slug: 2026-09-21-doj-brings-rare-charge-against-ice-agent-for-lying-about-minnesota-shooting
-  headline: DOJ brings rare charge against ICE agent for lying about Minnesota shooting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6774
+  strength: 0.6871
 - slug: 2026-08-18-pingree-says-ice-targeted-roommate-not-driver-killed-in-maine
   headline: Pingree says ICE targeted roommate, not driver killed in Maine
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7512
+  strength: 0.7504
 - slug: 2026-07-15-protesters-across-maine-demand-ice-leave-state-after-fatal-shooting
   headline: Protesters across Maine demand ICE leave state after fatal shooting
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.8266
+  strength: 0.8261
 - slug: 2026-07-19-guardian-columnist-calls-for-ice-prosecutions-after-fatal-shootings
   headline: Guardian columnist calls for ICE prosecutions after fatal shootings
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.7524
+  strength: 0.7516
 - slug: 2026-07-26-homan-says-ice-officer-in-maine-killing-should-not-have-cleared-vetting
   headline: Homan says ICE officer in Maine killing should not have cleared vetting
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7178
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7115
-- slug: 2026-07-23-police-experts-question-ice-hiring-vetting-after-maine-officer-s-violent-history
-  headline: Police experts question ICE hiring vetting after Maine officer's violent history surfaces
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7022
-- slug: 2026-07-13-biddeford-death-during-ice-operation-draws-fbi-investigation
-  headline: Biddeford death during ICE operation draws FBI investigation
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7174
-- slug: 2026-07-16-relatives-say-ice-officer-who-killed-maine-man-had-pattern-of-violent-behavior
-  headline: Relatives say ICE officer who killed Maine man had pattern of violent behavior
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7096
-- slug: 2026-07-19-ice-will-require-body-cameras-during-vehicle-stops-homan-says
-  headline: ICE will require body cameras during vehicle stops, Homan says
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.7026
-- slug: 2026-07-18-ice-shootings-data-centers-voting-rights-draw-thousands-to-us-protests
-  headline: ICE shootings, data centers, voting rights draw thousands to US protests
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6974
-- slug: 2026-07-14-ice-halts-traffic-stops-after-two-fatal-shootings-in-less-than-a-week
-  headline: ICE halts traffic stops after two fatal shootings in less than a week
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6947
-- slug: 2026-07-14-federal-officer-fatally-shoots-driver-of-moving-car-in-maine
-  headline: Federal officer fatally shoots driver of moving car in Maine
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6933
-- slug: 2026-07-14-ice-pauses-vehicle-stops-following-two-enforcement-shootings
-  headline: ICE pauses vehicle stops following two enforcement shootings
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6909
-- slug: 2026-01-07-minneapolis-ice-shooting-is-at-least-the-fifth-death-in-us-immigration-crackdown
-  headline: Minneapolis ICE shooting is at least the fifth death in US immigration crackdown
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6954
-- slug: 2026-01-21-maine-immigrant-communities-brace-as-ice-enforcement-surge-begins
-  headline: Maine immigrant communities brace as ICE enforcement surge begins
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.694
+  strength: 0.7164
 analyses:
-- '2026-10-01-maine-s-ice-watch-network-operates-witness-function-at-saturation-as-federal-med'
+- 2026-10-01-maine-s-ice-watch-network-operates-witness-function-at-saturation-as-federal-med
 ---
-
 ## Maine ICE-watch groups shift tactics after agent kills 25-year-old father
 
 **Subtype:** fact

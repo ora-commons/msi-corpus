@@ -1,9 +1,20 @@
 ---
 headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-secondary_headline: Democrats lead 55-27 in congressional preference among double haters
+secondary_headline: Democrats lead 55-27 in congressional preference among double
+  haters
 publish_date: '2026-10-03'
-lede: A Wall Street Journal poll conducted Sept. 16-21 found 21% of registered voters hold unfavorable views of both major parties — a share that has climbed from 13% in the 2022 midterms and roughly 12% in each of the past two presidential elections. These 'double haters' could shape 2026 midterm outcomes, with more than 40% of the group undecided on its congressional vote. Democrats lead the bloc 55% to 27% on congressional preference, but the cohort has shifted between parties in past cycles, siding with Democrats in 2018 and Republicans in 2022.
-nut_graf: The bloc's dissatisfaction runs deeper than immediate economic concerns such as gas prices and tariffs, analysts told the Journal, and its volatility means whoever wins these voters this year cannot count on holding them. With control of Congress at stake and Republicans holding the White House, both parties are now competing for votes they are unlikely to retain.
+lede: A Wall Street Journal poll conducted Sept. 16-21 found 21% of registered voters
+  hold unfavorable views of both major parties — a share that has climbed from 13%
+  in the 2022 midterms and roughly 12% in each of the past two presidential elections.
+  These 'double haters' could shape 2026 midterm outcomes, with more than 40% of the
+  group undecided on its congressional vote. Democrats lead the bloc 55% to 27% on
+  congressional preference, but the cohort has shifted between parties in past cycles,
+  siding with Democrats in 2018 and Republicans in 2022.
+nut_graf: The bloc's dissatisfaction runs deeper than immediate economic concerns
+  such as gas prices and tariffs, analysts told the Journal, and its volatility means
+  whoever wins these voters this year cannot count on holding them. With control of
+  Congress at stake and Republicans holding the White House, both parties are now
+  competing for votes they are unlikely to retain.
 primary_entities:
 - Wall Street Journal
 - Democratic Party
@@ -33,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,104 +147,43 @@ related_stories:
   headline: Democratic voters split on party direction as DSA gains in primaries
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7306
+  strength: 0.73
 - slug: 2026-10-02-democratic-voters-describe-their-party-as-weak-despondent
   headline: Democratic voters describe their party as weak, despondent
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7088
+  strength: 0.707
 - slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
   headline: Polls, forecasters favor Democrats as 2026 midterms near
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6987
+  strength: 0.6992
 - slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
   headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7494
+  strength: 0.75
 - slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
   headline: Democrats favored in House fight as Trump approval drags on GOP candidates
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7491
+  strength: 0.7494
+- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
+  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.6594
 - slug: 2026-09-29-gallup-share-saying-media-have-a-lot-of-freedom-hits-new-low
   headline: 'Gallup: Share saying media have ''a lot'' of freedom hits new low'
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6566
+  strength: 0.6577
 - slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
   headline: Anti-establishment rage reshapes 2026 US midterm landscape
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7013
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6549
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6657
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6814
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7445
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6724
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7358
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6789
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6659
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6697
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6552
-- slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
-  headline: Forecasters rate 43 House races competitive for 2026 control
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6713
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.662
-- slug: 2026-07-09-most-jewish-adults-say-neither-party-supports-their-community-ap-norc-poll-finds
-  headline: Most Jewish adults say neither party supports their community, AP-NORC poll finds
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6535
+  strength: 0.7019
 ---
-
 ## Voter rejection of both U.S. parties climbs to 21% ahead of midterms
 
 **Subtype:** fact

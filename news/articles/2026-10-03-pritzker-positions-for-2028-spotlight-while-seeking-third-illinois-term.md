@@ -1,9 +1,20 @@
 ---
 headline: Pritzker positions for 2028 spotlight while seeking third Illinois term
-secondary_headline: Democrats confront billionaire question as Pritzker courts national spotlight
+secondary_headline: Democrats confront billionaire question as Pritzker courts national
+  spotlight
 publish_date: '2026-10-03'
-lede: Illinois Governor JB Pritzker, a billionaire heir to the Hyatt hotel chain, is running for a third term in November while building a national profile as one of the Democratic Party's most vocal critics of President Donald Trump. A Guardian profile published this week details the governor's growing out-of-state activities, including a $20 million political action committee to support Democratic campaigns nationwide, an upcoming address to the NAACP state conference in South Carolina, and a recent trip to Texas to counter-program the state Republican convention.
-nut_graf: Pritzker's profile comes as Democrats search for a standard-bearer to challenge Trump in 2028, when the president is constitutionally barred from seeking a third term. His emergence as a fundraising and messaging leader for the party's 2026 midterm strategy has fueled speculation about a presidential bid, even as he deflects direct questions about his White House ambitions.
+lede: Illinois Governor JB Pritzker, a billionaire heir to the Hyatt hotel chain,
+  is running for a third term in November while building a national profile as one
+  of the Democratic Party's most vocal critics of President Donald Trump. A Guardian
+  profile published this week details the governor's growing out-of-state activities,
+  including a $20 million political action committee to support Democratic campaigns
+  nationwide, an upcoming address to the NAACP state conference in South Carolina,
+  and a recent trip to Texas to counter-program the state Republican convention.
+nut_graf: Pritzker's profile comes as Democrats search for a standard-bearer to challenge
+  Trump in 2028, when the president is constitutionally barred from seeking a third
+  term. His emergence as a fundraising and messaging leader for the party's 2026 midterm
+  strategy has fueled speculation about a presidential bid, even as he deflects direct
+  questions about his White House ambitions.
 primary_entities:
 - JB Pritzker
 - Illinois
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,41 @@ related_stories:
   headline: Pritzker discloses GLP-1 use, says he has lost 80 pounds
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7152
-- slug: 2026-09-24-newsom-urges-democrats-to-link-climate-change-to-kitchen-table-costs
-  headline: Newsom urges Democrats to link climate change to kitchen-table costs
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6273
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6218
-- slug: 2026-08-23-buttigieg-returns-to-south-carolina-as-he-mulls-second-white-house-run
-  headline: Buttigieg returns to South Carolina as he mulls second White House run
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6308
+  strength: 0.7167
 - slug: 2026-03-19-pritzker-condemns-aipac-after-pro-israel-group-spent-heavily-in-illinois
   headline: Pritzker condemns AIPAC after pro-Israel group spent heavily in Illinois
   publish_date: '2026-03-19'
   relation: related
-  strength: 0.736
+  strength: 0.7351
 - slug: 2026-03-13-illinois-democratic-senate-primary-pits-candidates-highlights-pritzker-s-clout
-  headline: Illinois Democratic Senate primary pits candidates, highlights Pritzker’s clout
+  headline: Illinois Democratic Senate primary pits candidates, highlights Pritzker’s
+    clout
   publish_date: '2026-03-13'
   relation: related
-  strength: 0.7093
+  strength: 0.709
 - slug: 2026-04-09-democrats-at-al-sharpton-conference-warn-of-trump-voting-rights-threat
   headline: Democrats at Al Sharpton conference warn of Trump voting-rights threat
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.6745
-- slug: 2026-06-18-arizona-gop-governor-candidates-biggs-schweikert-clash-in-debate
-  headline: Arizona GOP governor candidates Biggs, Schweikert clash in debate
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-13-shapiro-s-centrist-brand-faces-test-in-2028-democratic-primary
-  headline: Shapiro's Centrist Brand Faces Test in 2028 Democratic Primary
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6245
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6363
-- slug: 2026-06-12-hilton-tells-bbc-his-california-governor-bid-aims-to-save-the-state
-  headline: Hilton tells BBC his California governor bid aims to 'save' the state
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6216
-- slug: 2026-06-02-california-governor-primary-exposes-deep-democratic-divide
-  headline: California governor primary exposes deep Democratic divide
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6243
+  strength: 0.6733
 - slug: 2026-04-08-democrats-court-black-activists-at-al-sharpton-event-warn-of-2026-vote-crackdown
-  headline: Democrats court Black activists at Al Sharpton event, warn of 2026 vote crackdown
+  headline: Democrats court Black activists at Al Sharpton event, warn of 2026 vote
+    crackdown
   publish_date: '2026-04-08'
   relation: related
-  strength: 0.6544
+  strength: 0.6543
 - slug: 2026-03-15-what-to-expect-in-the-illinois-state-primary-as-durbin-retires
   headline: What to expect in the Illinois state primary as Durbin retires
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6583
+  strength: 0.6578
 - slug: 2026-01-12-beshear-urges-democrats-to-lead-with-costs-and-authenticity-in-2026-governor-rac
-  headline: Beshear urges Democrats to lead with costs and authenticity in 2026 governor races
+  headline: Beshear urges Democrats to lead with costs and authenticity in 2026 governor
+    races
   publish_date: '2026-01-12'
   relation: related
-  strength: 0.6635
-- slug: 2026-04-23-josh-shapiro-tests-political-power-in-pennsylvania-s-midterms
-  headline: Josh Shapiro tests political power in Pennsylvania’s midterms
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6335
-- slug: 2026-04-28-billionaire-tom-steyer-takes-on-the-rich-in-california-governor-race
-  headline: Billionaire Tom Steyer takes on the rich in California governor race
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.628
-- slug: 2026-04-05-trivia-games-and-happy-hours-help-power-platner-s-senate-campaign
-  headline: Trivia games and happy hours help power Platner’s Senate campaign
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6263
-- slug: 2026-03-18-juliana-stratton-wins-illinois-democratic-senate-primary-faces-don-tracy
-  headline: Juliana Stratton wins Illinois Democratic Senate primary; faces Don Tracy
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6266
-- slug: 2026-01-15-wisconsin-democrats-pursue-statehouse-trifecta-for-first-time-in-16-years
-  headline: Wisconsin Democrats pursue statehouse trifecta for first time in 16 years
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6333
+  strength: 0.6637
 ---
-
 ## Pritzker positions for 2028 spotlight while seeking third Illinois term
 
 **Subtype:** fact

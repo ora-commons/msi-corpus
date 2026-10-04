@@ -1,9 +1,20 @@
 ---
 headline: Brazil's tight election tests its ability to say 'no' to Trump
-secondary_headline: Flávio Bolsonaro runs in place of his father, convicted of coup attempt
+secondary_headline: Flávio Bolsonaro runs in place of his father, convicted of coup
+  attempt
 publish_date: '2026-10-03'
-lede: Brazilian voters go to the polls Sunday in a presidential election between 80-year-old incumbent Luiz Inácio Lula da Silva, of the Workers' Party and seeking a fourth non-consecutive term, and 45-year-old opposition senator Flávio Bolsonaro, with polls showing a race too close to call. Analysts see Brazil as perhaps the last country in the region still capable of saying "no" to Trump's whims, given Mexico's geographic proximity and unique economic relationship with the United States — a position that could change dramatically depending on the result.
-nut_graf: Beyond the candidates' domestic platforms, the vote will test whether Brazil retains the ability to push back against a hemisphere that has moved toward the political right since Trump returned to the White House. Rightwing candidates have won all seven Latin American presidential elections held since Trump's second term began, according to the US president.
+lede: Brazilian voters go to the polls Sunday in a presidential election between 80-year-old
+  incumbent Luiz Inácio Lula da Silva, of the Workers' Party and seeking a fourth
+  non-consecutive term, and 45-year-old opposition senator Flávio Bolsonaro, with
+  polls showing a race too close to call. Analysts see Brazil as perhaps the last
+  country in the region still capable of saying "no" to Trump's whims, given Mexico's
+  geographic proximity and unique economic relationship with the United States — a
+  position that could change dramatically depending on the result.
+nut_graf: Beyond the candidates' domestic platforms, the vote will test whether Brazil
+  retains the ability to push back against a hemisphere that has moved toward the
+  political right since Trump returned to the White House. Rightwing candidates have
+  won all seven Latin American presidential elections held since Trump's second term
+  began, according to the US president.
 primary_entities:
 - Luiz Inácio Lula da Silva
 - Flávio Bolsonaro
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +150,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
+  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
+  publish_date: '2026-10-04'
+  relation: related
+  strength: 0.8202
 - slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
   headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7494
+  strength: 0.7476
 - slug: 2026-10-01-picanha-and-prices-loom-over-brazil-s-tight-presidential-election
   headline: Picanha and prices loom over Brazil's tight presidential election
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7013
+  strength: 0.7009
 - slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
   headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7292
+  strength: 0.7287
+- slug: 2026-10-03-bbc-publishes-video-on-brazil-s-us-election-interference-claim
+  headline: BBC publishes video on Brazil's US election interference claim
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.6689
 - slug: 2026-10-01-brazil-ag-office-reportedly-files-complaint-over-trump-funding-plan
   headline: Brazil AG office reportedly files complaint over Trump funding plan
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6682
+  strength: 0.6675
 - slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
   headline: Democrats ask Rubio to address alleged US interference in Brazil election
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7015
-- slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6477
-- slug: 2026-09-22-lula-tells-un-general-assembly-brazil-doesn-t-fit-in-anyone-s-backyard
-  headline: Lula tells UN General Assembly Brazil 'doesn't fit in anyone's backyard'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.644
+  strength: 0.7006
 - slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
   headline: Flávio Bolsonaro formally investigated over alleged corruption
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6778
-- slug: 2026-09-13-brazil-s-top-court-lifts-secrecy-on-flavio-bolsonaro-biopic-probe
-  headline: Brazil's top court lifts secrecy on Flavio Bolsonaro biopic probe
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6462
-- slug: 2026-08-21-lula-and-trump-agree-to-resume-brazil-trade-negotiations
-  headline: Lula and Trump agree to resume Brazil trade negotiations
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6862
-- slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7335
-- slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
-  headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7177
-- slug: 2026-08-14-brazil-opens-60-day-consultation-window-on-u-s-tariffs
-  headline: Brazil opens 60-day consultation window on U.S. tariffs
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6669
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7103
-- slug: 2026-08-08-brazil-s-supreme-court-denies-bolsonaro-father-s-day-visit-with-sons
-  headline: Brazil's Supreme Court denies Bolsonaro Father's Day visit with sons
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6631
-- slug: 2026-07-31-brazil-supreme-court-authorizes-probe-into-lula-s-son-over-medical-marijuana-lob
-  headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana lobbying
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6436
-- slug: 2026-06-23-latin-america-s-trump-aligned-leaders-reshape-regional-politics
-  headline: Latin America’s Trump-aligned leaders reshape regional politics
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6887
-- slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
-  headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6742
-- slug: 2026-03-02-bolsonaro-supporters-rally-in-brazil-as-election-fight-turns-to-fl-vio
-  headline: Bolsonaro supporters rally in Brazil as election fight turns to Flávio
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7168
-- slug: 2026-06-17-brazil-court-convicts-eduardo-bolsonaro-of-coercion-sentences-him-to-4-years
-  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to 4 years
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6548
+  strength: 0.6758
 ---
-
 ## Brazil's tight election tests its ability to say 'no' to Trump
 
 - Incumbent Luiz Inácio Lula da Silva and opposition senator Flávio Bolsonaro meet in Sunday's Brazilian presidential election, with polls showing a neck-and-neck race.

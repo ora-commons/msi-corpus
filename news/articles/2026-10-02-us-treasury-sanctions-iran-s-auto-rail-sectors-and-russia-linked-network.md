@@ -2,8 +2,14 @@
 headline: US Treasury sanctions Iran's auto, rail sectors and Russia-linked network
 secondary_headline: Bessent says Iran loaded zero crude onto tankers in September
 publish_date: '2026-10-02'
-lede: The U.S. Department of the Treasury sanctioned Iran's auto and rail sectors along with a Russia-linked financial network Iran uses to circumvent sanctions, CNBC reported Thursday. The measures target state-owned rail companies and suppliers based in the United Arab Emirates, Hong Kong, Turkey and Indonesia.
-nut_graf: The sanctions came as the U.S. military deployed a third aircraft carrier strike group and 2,000 Marines to the Middle East, bringing total regional U.S. deployment to about 50,000 troops. The 8-month war with Iran has stalled, and diplomatic talks are on hold after President Donald Trump rejected Iran's peace proposal Saturday.
+lede: The U.S. Department of the Treasury sanctioned Iran's auto and rail sectors
+  along with a Russia-linked financial network Iran uses to circumvent sanctions,
+  CNBC reported Thursday. The measures target state-owned rail companies and suppliers
+  based in the United Arab Emirates, Hong Kong, Turkey and Indonesia.
+nut_graf: The sanctions came as the U.S. military deployed a third aircraft carrier
+  strike group and 2,000 Marines to the Middle East, bringing total regional U.S.
+  deployment to about 50,000 troops. The 8-month war with Iran has stalled, and diplomatic
+  talks are on hold after President Donald Trump rejected Iran's peace proposal Saturday.
 primary_entities:
 - Scott Bessent
 - Donald Trump
@@ -34,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,7 +140,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-01-pentagon-sends-third-aircraft-carrier-and-up-to-10-000-troops-to-middle-east
-  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
+  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle
+    East
   publish_date: '2026-10-01'
   relation: related
   strength: 0.7906
@@ -148,7 +156,8 @@ related_stories:
   relation: related
   strength: 0.7443
 - slug: 2026-09-08-iranian-money-still-passes-through-us-bank-clearing-accounts-officials-say
-  headline: Iranian money still passes through US bank clearing accounts, officials say
+  headline: Iranian money still passes through US bank clearing accounts, officials
+    say
   publish_date: '2026-09-08'
   relation: related
   strength: 0.7465
@@ -172,68 +181,7 @@ related_stories:
   publish_date: '2026-08-07'
   relation: related
   strength: 0.7244
-- slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7256
-- slug: 2026-06-21-us-sanctions-on-iran-fail-to-force-compliance-as-tehran-finds-workarounds
-  headline: US sanctions on Iran fail to force compliance as Tehran finds workarounds
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7232
-- slug: 2026-02-26-us-imposes-new-sanctions-on-iran-ahead-of-nuclear-talks-in-geneva
-  headline: US imposes new sanctions on Iran ahead of nuclear talks in Geneva
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.77
-- slug: 2026-05-10-treasury-tells-us-banks-to-flag-suspected-iranian-money-laundering-networks
-  headline: Treasury tells US banks to flag suspected Iranian money laundering networks
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.742
-- slug: 2026-01-23-us-sanctions-9-tankers-transporting-iranian-oil-amid-crackdown
-  headline: US sanctions 9 tankers transporting Iranian oil amid crackdown
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.7714
-- slug: 2026-05-19-trump-calls-off-iran-strike-planned-for-tuesday-as-negotiations-progress
-  headline: Trump calls off Iran strike planned for Tuesday as negotiations progress
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7308
-- slug: 2026-05-20-us-military-boards-iranian-flagged-tanker-in-gulf-of-oman
-  headline: US military boards Iranian-flagged tanker in Gulf of Oman
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7292
-- slug: 2026-05-10-treasury-tells-banks-to-flag-suspected-iranian-money-laundering-tied-to-war
-  headline: Treasury tells banks to flag suspected Iranian money laundering tied to war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7354
-- slug: 2026-05-10-iran-warns-us-against-tanker-strikes-threatens-base-assault-as-fragile-ceasefire
-  headline: Iran warns US against tanker strikes, threatens base assault as fragile ceasefire holds
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7248
-- slug: 2026-04-26-us-sanctions-china-refinery-about-40-shippers-over-iranian-oil
-  headline: US sanctions China refinery, about 40 shippers over Iranian oil
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7312
-- slug: 2026-04-15-bessent-warns-of-secondary-iran-sanctions-as-ceasefire-deadline-nears
-  headline: Bessent warns of secondary Iran sanctions as ceasefire deadline nears
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7318
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7395
 ---
-
 ## US Treasury sanctions Iran's auto, rail sectors and Russia-linked network
 
 **Subtype:** fact

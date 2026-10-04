@@ -1,9 +1,17 @@
 ---
 headline: Starship reaches orbit as SpaceX logs Crew-13 and Falcon launches
-secondary_headline: California Falcon launched more than 100 mini satellites three hours after Crew-13
+secondary_headline: California Falcon launched more than 100 mini satellites three
+  hours after Crew-13
 publish_date: '2026-10-02'
-lede: SpaceX logged the first orbital flight of its massive Starship vehicle in a week that also saw the company launch its Crew-13 astronaut mission and additional Falcon rockets, The Guardian reported. A Falcon rocket launched from California three hours after the Crew-13 mission carried more than 100 mini satellites, and a second Falcon was set to carry a classified payload for the National Reconnaissance Office late Thursday night from Florida.
-nut_graf: The Crew-13 mission sent four astronauts to the International Space Station in eight hours, the fastest crewed flight to the orbiting laboratory by any American entity including NASA itself, The Guardian reported.
+lede: SpaceX logged the first orbital flight of its massive Starship vehicle in a
+  week that also saw the company launch its Crew-13 astronaut mission and additional
+  Falcon rockets, The Guardian reported. A Falcon rocket launched from California
+  three hours after the Crew-13 mission carried more than 100 mini satellites, and
+  a second Falcon was set to carry a classified payload for the National Reconnaissance
+  Office late Thursday night from Florida.
+nut_graf: The Crew-13 mission sent four astronauts to the International Space Station
+  in eight hours, the fastest crewed flight to the orbiting laboratory by any American
+  entity including NASA itself, The Guardian reported.
 primary_entities:
 - SpaceX
 - Starship
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +152,44 @@ related_stories:
   headline: SpaceX launches Crew-13 to ISS with first Black woman to lead a crew
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8527
+  strength: 0.8536
 - slug: 2026-10-01-spacex-launches-nasa-s-crew-13-to-international-space-station
   headline: SpaceX launches NASA's Crew-13 to International Space Station
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8497
+  strength: 0.8507
 - slug: 2026-10-01-spacex-nasa-ready-crew-13-for-potentially-fastest-iss-trip
   headline: SpaceX, NASA ready Crew-13 for potentially fastest ISS trip
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8028
+  strength: 0.8035
 - slug: 2026-09-28-spacex-starship-reaches-orbit-for-first-time-on-flight-14
   headline: SpaceX Starship reaches orbit for first time on Flight 14
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7218
+  strength: 0.7209
 - slug: 2026-09-26-spacex-launches-ussf-385-mission-for-u-s-space-force-from-vandenberg
   headline: SpaceX launches USSF-385 mission for U.S. Space Force from Vandenberg
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6707
+  strength: 0.671
 - slug: 2026-08-28-spacex-begins-months-long-trip-to-return-recovered-starship-to-texas
   headline: SpaceX begins months-long trip to return recovered Starship to Texas
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6781
+  strength: 0.6769
 - slug: 2026-08-25-b1067-completes-record-37th-flight-on-spacex-s-100th-falcon-9-launch-of-2026
-  headline: B1067 completes record 37th flight on SpaceX's 100th Falcon 9 launch of 2026
+  headline: B1067 completes record 37th flight on SpaceX's 100th Falcon 9 launch of
+    2026
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6812
+  strength: 0.6815
 - slug: 2026-07-24-spacex-deploys-starlinks-on-13th-starship-test-flight-after-engine-repairs
   headline: SpaceX deploys Starlinks on 13th Starship test flight after engine repairs
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7713
-- slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
-  headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7114
-- slug: 2026-05-23-spacex-launches-biggest-upgraded-starship-on-test-flight-to-moon-plans
-  headline: SpaceX launches biggest, upgraded Starship on test flight to moon plans
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7519
-- slug: 2026-07-13-faa-clears-spacex-starship-for-test-flight-after-mishap-probe
-  headline: FAA clears SpaceX Starship for test flight after mishap probe
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6826
-- slug: 2026-05-22-spacex-launches-biggest-starship-yet-on-a-test-flight
-  headline: SpaceX launches biggest Starship yet on a test flight
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7323
-- slug: 2026-05-23-spacex-launches-biggest-starship-yet-on-test-flight-aims-at-moon
-  headline: SpaceX launches biggest Starship yet on test flight, aims at moon
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7148
-- slug: 2026-02-16-nasa-spacex-launch-crew-12-replacements-after-first-medical-evacuation
-  headline: NASA, SpaceX launch Crew-12 replacements after first medical evacuation
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7506
-- slug: 2026-04-02-four-astronauts-embark-on-first-lunar-voyage-in-53-years
-  headline: Four astronauts embark on first lunar voyage in 53 years
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7382
-- slug: 2026-06-09-nasa-names-artemis-iii-crew-for-orbital-test-after-moon-landing-delay
-  headline: NASA names Artemis III crew for orbital test after moon landing delay
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6897
-- slug: 2026-04-01-nasa-starts-countdown-for-artemis-ii-moon-mission-with-4-astronauts
-  headline: NASA starts countdown for Artemis II moon mission with 4 astronauts
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7039
-- slug: 2026-05-17-artemis-ii-astronauts-give-high-marks-to-moonship-heat-shield
-  headline: Artemis II astronauts give high marks to moonship heat shield
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6743
-- slug: 2026-01-17-nasa-moon-rocket-rolls-to-pad-ahead-of-first-crewed-lunar-flyby-in-53-years
-  headline: NASA moon rocket rolls to pad ahead of first crewed lunar flyby in 53 years
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.7054
-- slug: 2026-01-15-ailing-astronaut-returns-to-earth-in-nasa-s-first-medical-evacuation
-  headline: Ailing astronaut returns to Earth in NASA's first medical evacuation
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7047
+  strength: 0.7712
 ---
-
 ## Starship reaches orbit as SpaceX logs Crew-13 and Falcon launches
 
 **Subtype:** fact

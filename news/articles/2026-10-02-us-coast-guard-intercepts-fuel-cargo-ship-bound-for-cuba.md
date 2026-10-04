@@ -2,8 +2,12 @@
 headline: US Coast Guard intercepts fuel cargo ship bound for Cuba
 secondary_headline: Grace escorted to Mexico as Trump oil embargo on Cuba continues
 publish_date: '2026-10-02'
-lede: The US Coast Guard intercepted a 91-meter cargo ship carrying fuel bound for Cuba on September 5 in the Caribbean Sea, the agency said — the latest enforcement action under the Trump administration's oil embargo against the island.
-nut_graf: The interception comes as Cuba contends with fuel shortages and blackouts under a US oil blockade implemented earlier this year, after oil flows from traditional suppliers Venezuela and Mexico ended abruptly in January.
+lede: The US Coast Guard intercepted a 91-meter cargo ship carrying fuel bound for
+  Cuba on September 5 in the Caribbean Sea, the agency said — the latest enforcement
+  action under the Trump administration's oil embargo against the island.
+nut_graf: The interception comes as Cuba contends with fuel shortages and blackouts
+  under a US oil blockade implemented earlier this year, after oil flows from traditional
+  suppliers Venezuela and Mexico ended abruptly in January.
 primary_entities:
 - US Coast Guard
 - Cuba
@@ -41,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +148,45 @@ related_stories:
   headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6745
+  strength: 0.6744
 - slug: 2026-07-21-us-cargo-plane-delivers-food-hygiene-kits-to-cuba
   headline: US cargo plane delivers food, hygiene kits to Cuba
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6788
+  strength: 0.679
 - slug: 2026-07-18-cuba-s-grid-fails-again-as-us-blockade-deepens-energy-crisis
   headline: Cuba's grid fails again as US blockade deepens energy crisis
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.6762
+  strength: 0.6757
 - slug: 2026-02-13-mexican-navy-ships-bring-humanitarian-aid-to-cuba-as-u-s-blockade-deepens
   headline: Mexican Navy ships bring humanitarian aid to Cuba as U.S. blockade deepens
   publish_date: '2026-02-13'
   relation: related
-  strength: 0.7105
+  strength: 0.7103
 - slug: 2026-03-20-decades-long-resilience-of-cuba-s-government-in-jeopardy-over-trump-siege
   headline: Decades-long resilience of Cuba’s government in jeopardy over Trump “siege”
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.6923
+  strength: 0.692
 - slug: 2026-04-03-russia-says-it-will-send-second-tanker-to-aid-energy-starved-cuba
   headline: Russia says it will send second tanker to aid energy-starved Cuba
   publish_date: '2026-04-03'
   relation: related
-  strength: 0.6854
+  strength: 0.6856
 - slug: 2026-02-10-pentagon-boards-sanctioned-oil-tanker-in-indian-ocean-after-caribbean-chase
-  headline: Pentagon boards sanctioned oil tanker in Indian Ocean after Caribbean chase
+  headline: Pentagon boards sanctioned oil tanker in Indian Ocean after Caribbean
+    chase
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.696
+  strength: 0.6954
 - slug: 2026-01-15-us-seizes-sixth-sanctioned-oil-tanker-in-caribbean-as-venezuela-campaign-expands
-  headline: US seizes sixth sanctioned oil tanker in Caribbean as Venezuela campaign expands
+  headline: US seizes sixth sanctioned oil tanker in Caribbean as Venezuela campaign
+    expands
   publish_date: '2026-01-15'
   relation: related
-  strength: 0.6962
-- slug: 2026-01-03-coast-guard-searches-for-drug-boat-strike-survivors-as-odds-dwindle
-  headline: Coast Guard searches for drug-boat strike survivors as odds dwindle
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6965
-- slug: 2026-03-31-cuba-to-receive-sanctioned-russian-oil-tanker-first-delivery-this-year
-  headline: Cuba to receive sanctioned Russian oil tanker, first delivery this year
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6791
-- slug: 2026-04-20-cuba-confirms-us-talks-demands-embargo-lifted
-  headline: Cuba confirms US talks, demands embargo lifted
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.668
-- slug: 2026-04-01-russian-tanker-docks-in-cuba-after-u-s-allows-passage-amid-oil-blockade
-  headline: Russian tanker docks in Cuba after U.S. allows passage amid oil blockade
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6717
-- slug: 2026-01-30-trump-signs-order-threatening-tariffs-on-oil-shipments-to-cuba
-  headline: Trump signs order threatening tariffs on oil shipments to Cuba
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6836
-- slug: 2026-03-20-cuba-readies-first-russian-oil-shipment-of-year-as-power-crisis-deepens
-  headline: Cuba readies first Russian oil shipment of year as power crisis deepens
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6681
-- slug: 2026-01-08-us-intercepts-fifth-sanctioned-tanker-as-it-exerts-control-over-venezuela-s-oil
-  headline: US intercepts fifth sanctioned tanker as it exerts control over Venezuela’s oil
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.678
-- slug: 2026-02-16-us-military-boards-sanctioned-oil-tanker-in-indian-ocean-after-caribbean-chase
-  headline: US military boards sanctioned oil tanker in Indian Ocean after Caribbean chase
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6733
-- slug: 2026-03-26-latest-us-strike-on-alleged-drug-boat-kills-4-in-caribbean-sea
-  headline: Latest US strike on alleged drug boat kills 4 in Caribbean Sea
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6621
-- slug: 2026-03-31-trump-says-he-has-no-problem-with-russian-tanker-aiding-cuba
-  headline: Trump says he has ‘no problem’ with Russian tanker aiding Cuba
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6584
-- slug: 2026-01-11-trump-warns-cuba-to-make-a-deal-as-venezuelan-oil-lifeline-goes-dark
-  headline: Trump warns Cuba to make a 'deal' as Venezuelan oil lifeline goes dark
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6708
-- slug: 2026-03-22-cuba-rejects-request-to-import-diesel-for-u-s-embassy-generators
-  headline: Cuba rejects request to import diesel for U.S. embassy generators
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6579
+  strength: 0.6955
 ---
-
 ## US Coast Guard intercepts fuel cargo ship bound for Cuba
 
 **Subtype:** fact

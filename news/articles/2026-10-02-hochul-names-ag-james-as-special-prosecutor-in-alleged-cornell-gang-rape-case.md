@@ -1,9 +1,17 @@
 ---
-headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
+headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape
+  case
 secondary_headline: Hochul cited loss of faith in Tompkins County DA
 publish_date: '2026-10-02'
-lede: Kathy Hochul, New York's governor, on Thursday named state Attorney General Letitia James as special prosecutor to investigate the alleged 2024 gang-rape of a former Cornell University student at a campus fraternity, escalating state oversight after questions surfaced about the local prosecutor's handling and the university's own investigation.
-nut_graf: The appointment came as Tompkins County District Attorney Matthew Van Houten, who had originally declined to bring charges in 2024, said this week he would reopen the case based on new information in the accuser's September lawsuit, and as Cornell agreed to bring in outside lawyers to independently review its handling of the allegations.
+lede: Kathy Hochul, New York's governor, on Thursday named state Attorney General
+  Letitia James as special prosecutor to investigate the alleged 2024 gang-rape of
+  a former Cornell University student at a campus fraternity, escalating state oversight
+  after questions surfaced about the local prosecutor's handling and the university's
+  own investigation.
+nut_graf: The appointment came as Tompkins County District Attorney Matthew Van Houten,
+  who had originally declined to bring charges in 2024, said this week he would reopen
+  the case based on new information in the accuser's September lawsuit, and as Cornell
+  agreed to bring in outside lawyers to independently review its handling of the allegations.
 primary_entities:
 - Kathy Hochul
 - Letitia James
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +147,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
+  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
+  publish_date: '2026-10-01'
+  relation: related
+  strength: 0.9455
+- slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
+  headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8794
+- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
+  headline: Cornell student assembly calls for answers as Hochul appoints special
+    prosecutor
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8678
+- slug: 2026-10-02-lawyer-for-cornell-accuser-accuses-tompkins-da-of-changing-story
+  headline: Lawyer for Cornell accuser accuses Tompkins DA of changing story
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.8595
 - slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent review of Cornell's 2024 assault response
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.853
+  strength: 0.8523
 - slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent probe of Cornell's 2024 assault response
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8374
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
+  strength: 0.8364
+- slug: 2026-10-02-hochul-criticizes-cornell-s-handling-of-sexual-assault-case
+  headline: Hochul criticizes Cornell's handling of sexual assault case
+  publish_date: '2026-10-02'
   relation: related
-  strength: 0.7892
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
+  strength: 0.8121
+- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
+  headline: Cornell students voice anger over alleged 2024 gang rape
+  publish_date: '2026-10-02'
   relation: related
-  strength: 0.7586
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7601
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7182
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7221
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7199
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6622
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6688
-- slug: 2026-09-14-former-columbia-student-khalil-sues-university-over-failure-to-protect-pro-pales
-  headline: Former Columbia student Khalil sues university over failure to protect pro-Palestinian students
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.592
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6057
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5821
-- slug: 2026-02-05-new-york-gov-hochul-names-adrienne-adams-as-running-mate
-  headline: New York Gov. Hochul names Adrienne Adams as running mate
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6321
-- slug: 2026-02-05-new-york-to-send-legal-observers-to-monitor-federal-immigration-agents
-  headline: New York to send legal observers to monitor federal immigration agents
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6284
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5936
-- slug: 2026-05-29-chicago-prosecutor-says-no-carroll-perjury-probe-investigation-targets-nonprofit
-  headline: Chicago prosecutor says no Carroll perjury probe; investigation targets nonprofit funder, source clarifies
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.5767
-- slug: 2026-02-08-word-of-faith-criminal-cases-handed-to-special-prosecutor-in-nc
-  headline: Word of Faith criminal cases handed to special prosecutor in NC
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6171
-- slug: 2026-03-04-new-york-ag-orders-nyu-langone-to-resume-gender-affirming-care
-  headline: New York AG orders NYU Langone to resume gender-affirming care
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6103
-- slug: 2026-05-08-new-york-to-restrict-ice-ties-after-threat-from-trump-border-czar
-  headline: New York to restrict ICE ties after threat from Trump border czar
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5773
+  strength: 0.8064
 ---
-
 ## Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
 
 **Subtype:** fact

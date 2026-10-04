@@ -1,9 +1,19 @@
 ---
-headline: Reporter who covered nearly 500 executions says he's never seen an inmate survive
-secondary_headline: Tennessee halts executions after Pike survives two pentobarbital doses
+headline: Reporter who covered nearly 500 executions says he's never seen an inmate
+  survive
+secondary_headline: Tennessee halts executions after Pike survives two pentobarbital
+  doses
 publish_date: '2026-10-02'
-lede: Michael Graczyk has watched nearly 500 people die by lethal injection in Texas during a 46-year reporting career with the Associated Press, according to BBC News. The 76-year-old told the BBC he has never seen an inmate survive a lethal injection. That anomaly occurred Wednesday night in the Tennessee execution of 50-year-old Christa Pike, who remained breathing after two doses of pentobarbital.
-nut_graf: Governor Bill Lee halted Tennessee's executions and ordered an independent review of the procedure after the failure, the BBC reported. The network noted that botched executions have drawn renewed scrutiny over the past decade as a shortage of the drugs used has pushed some states to change their formulas, procure drugs from more questionable sources, or reintroduce the firing squad as an alternative.
+lede: Michael Graczyk has watched nearly 500 people die by lethal injection in Texas
+  during a 46-year reporting career with the Associated Press, according to BBC News.
+  The 76-year-old told the BBC he has never seen an inmate survive a lethal injection.
+  That anomaly occurred Wednesday night in the Tennessee execution of 50-year-old
+  Christa Pike, who remained breathing after two doses of pentobarbital.
+nut_graf: Governor Bill Lee halted Tennessee's executions and ordered an independent
+  review of the procedure after the failure, the BBC reported. The network noted that
+  botched executions have drawn renewed scrutiny over the past decade as a shortage
+  of the drugs used has pushed some states to change their formulas, procure drugs
+  from more questionable sources, or reintroduce the firing squad as an alternative.
 primary_entities:
 - Michael Graczyk
 - Christa Pike
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.0.0
 publication_mindspec_version: v0.0.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,109 +153,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
+  headline: Tennessee governor halts executions through year after Pike injection
+    fails
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8097
+  strength: 0.8116
 - slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7935
+  strength: 0.7948
+- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
+  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7769
+- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
+  headline: 'Strada''s record: five ''botched'' executions across two states since
+    2022'
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7744
+- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
+  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7715
 - slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
   headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7579
+  strength: 0.7598
+- slug: 2026-10-03-tennessee-prison-chief-resigns-after-christa-pike-s-failed-execution
+  headline: Tennessee prison chief resigns after Christa Pike's failed execution
+  publish_date: '2026-10-03'
+  relation: related
+  strength: 0.7582
 - slug: 2026-10-01-christa-pike-survives-two-tennessee-lethal-injection-attempts
   headline: Christa Pike survives two Tennessee lethal injection attempts
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7639
-- slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7458
-- slug: 2026-10-01-journalists-describe-pike-s-words-and-behavior-at-failed-tennessee-execution
-  headline: Journalists describe Pike's words and behavior at failed Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7444
-- slug: 2026-10-01-christa-pike-reportedly-remains-alive-after-two-injections-in-tennessee-executio
-  headline: Christa Pike reportedly remains alive after two injections in Tennessee execution
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7443
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7241
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6936
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6816
-- slug: 2026-09-29-us-supreme-court-declines-to-halt-tennessee-execution-of-christa-pike
-  headline: US Supreme Court declines to halt Tennessee execution of Christa Pike
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6747
-- slug: 2026-09-30-supreme-court-clears-way-for-christa-pike-execution-in-tennessee
-  headline: Supreme Court clears way for Christa Pike execution in Tennessee
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6625
-- slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
-  headline: Christa Pike execution set as Tennessee governor denies clemency
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.67
-- slug: 2026-09-29-slemmer-s-mother-to-attend-pike-execution-holding-daughter-s-photo
-  headline: Slemmer's mother to attend Pike execution holding daughter's photo
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6523
-- slug: 2026-09-30-sixth-circuit-halts-christa-pike-execution-an-hour-before-it-was-scheduled
-  headline: Sixth Circuit halts Christa Pike execution an hour before it was scheduled
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6424
-- slug: 2026-09-04-tennessee-plans-execution-of-christa-pike-first-woman-since-1819
-  headline: Tennessee plans execution of Christa Pike, first woman since 1819
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6747
-- slug: 2026-08-13-same-day-triple-executions-return-thursday-after-16-year-gap
-  headline: Same-day triple executions return Thursday after 16-year gap
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6481
-- slug: 2026-05-23-tennessee-pauses-execution-of-tony-carruthers-after-iv-difficulties
-  headline: Tennessee pauses execution of Tony Carruthers after IV difficulties
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6689
-- slug: 2026-05-22-tennessee-halts-execution-after-failed-iv-insertion-reprieve-granted
-  headline: Tennessee Halts Execution After Failed IV Insertion; Reprieve Granted
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6575
-- slug: 2026-05-20-tennessee-calls-off-tony-carruthers-execution-after-iv-line-failures-governor-gr
-  headline: Tennessee calls off Tony Carruthers execution after IV line failures; governor grants year reprieve
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6574
+  strength: 0.7643
 analyses:
-- '2026-10-02-differential-diagnosis-places-intravenous-access-failure-as-leading-explanation-'
+- 2026-10-02-differential-diagnosis-places-intravenous-access-failure-as-leading-explanation-
 ---
-
 ## Reporter who covered nearly 500 executions says he's never seen an inmate survive
 
 **Subtype:** fact

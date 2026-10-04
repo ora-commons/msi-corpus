@@ -1,9 +1,20 @@
 ---
 headline: Lawyer says Cornell health system failed student rape accuser
-secondary_headline: Tompkins County DA reopens criminal case less than two weeks after civil lawsuit filed
+secondary_headline: Tompkins County DA reopens criminal case less than two weeks after
+  civil lawsuit filed
 publish_date: '2026-10-01'
-lede: A woman who has accused several men of raping her at Cornell University in 2024 was failed by the school's health system, her lawyer said. Jane Doe, as she is known in court filings, said she told a university doctor two days after the alleged assault that she had contracted a urinary tract infection "in a traumatic way" but that they "didn't really follow up", according to the New York Times. Prosecutors this week announced they were reopening the criminal case, less than two weeks after Doe filed a civil lawsuit alleging she was drugged and raped by seven men at a fraternity house.
-nut_graf: The allegations have produced a civil lawsuit against Cornell, a reopened criminal investigation in Tompkins County, and new scrutiny of what the university's health system and Title IX office did with Doe's disclosure in the weeks after the alleged assault.
+lede: A woman who has accused several men of raping her at Cornell University in 2024
+  was failed by the school's health system, her lawyer said. Jane Doe, as she is known
+  in court filings, said she told a university doctor two days after the alleged assault
+  that she had contracted a urinary tract infection "in a traumatic way" but that
+  they "didn't really follow up", according to the New York Times. Prosecutors this
+  week announced they were reopening the criminal case, less than two weeks after
+  Doe filed a civil lawsuit alleging she was drugged and raped by seven men at a fraternity
+  house.
+nut_graf: The allegations have produced a civil lawsuit against Cornell, a reopened
+  criminal investigation in Tompkins County, and new scrutiny of what the university's
+  health system and Title IX office did with Doe's disclosure in the weeks after the
+  alleged assault.
 primary_entities:
 - Cornell University
 - Jane Doe
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,45 @@ related_stories:
   headline: Cornell accuser told campus police 'I was raped' in 2024 interview
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8356
+  strength: 0.8348
+- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
+  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.783
+- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
+  headline: Cornell students voice anger over alleged 2024 gang rape
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7778
 - slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
+  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault
+    lawsuit
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7949
+  strength: 0.794
 - slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
   headline: Hochul calls for independent probe of Cornell's 2024 assault response
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7799
+  strength: 0.7788
 - slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
+  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang
+    rape
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7867
+  strength: 0.7862
+- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
+  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7619
 - slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
   headline: Sexual assault survivors navigate parallel campus and criminal tracks
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7697
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7607
-- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
-  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7367
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7436
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7353
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7386
-- slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7085
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7203
-- slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
-  headline: Jordan Campbell leads DOJ probes of transgender care for minors
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6413
-- slug: 2026-09-25-jay-z-rape-accuser-recants-allegation-in-sworn-court-declaration
-  headline: Jay-Z rape accuser recants allegation in sworn court declaration
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.628
-- slug: 2026-09-25-new-jersey-lt-gov-caldwell-resigns-after-harassment-ethics-probe
-  headline: New Jersey Lt. Gov. Caldwell resigns after harassment, ethics probe
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6083
-- slug: 2026-09-10-doj-says-berkeley-law-violated-civil-rights-law-in-2024-25-admissions
-  headline: DOJ says Berkeley Law violated civil-rights law in 2024-25 admissions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6094
-- slug: 2026-09-10-16-former-michigan-hockey-players-sue-university-over-alleged-sexual-hazing
-  headline: 16 former Michigan hockey players sue university over alleged sexual hazing
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6086
-- slug: 2026-07-27-weill-cornell-medicine-agrees-to-abuse-prevention-deal-after-doctor-s-conviction
-  headline: Weill Cornell Medicine agrees to abuse prevention deal after doctor's conviction
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6284
-- slug: 2026-06-08-illinois-woman-sues-religious-hospital-for-denying-ectopic-pregnancy-care
-  headline: Illinois woman sues religious hospital for denying ectopic pregnancy care
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6277
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6309
+  strength: 0.7687
 ---
-
 ## Lawyer says Cornell health system failed student rape accuser
 
 **Subtype:** fact

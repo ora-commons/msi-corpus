@@ -2,8 +2,16 @@
 headline: Palantir consultancy link to Burnham's byelection team surfaces
 secondary_headline: February break clause looms over £330m NHS Palantir deal
 publish_date: '2026-10-02'
-lede: Martha Dalton, co-founder of consultancy Lodestone, played a senior role in Andy Burnham's Makerfield byelection campaign that returned him to parliament, The Guardian reported on 2 October 2026. Lodestone worked for US technology company Palantir in 2024 and 2025 on projects including parliamentary events where Palantir engineers demonstrated software to MPs.
-nut_graf: The disclosure comes as Prime Minister Burnham's government is under pressure to scrap Palantir's £330 million contract with NHS England to run a national medical data system. A break clause in the deal is due in February 2027, and health workers campaigning to scrap it protested at the Labour party conference in Liverpool this week.
+lede: Martha Dalton, co-founder of consultancy Lodestone, played a senior role in
+  Andy Burnham's Makerfield byelection campaign that returned him to parliament, The
+  Guardian reported on 2 October 2026. Lodestone worked for US technology company
+  Palantir in 2024 and 2025 on projects including parliamentary events where Palantir
+  engineers demonstrated software to MPs.
+nut_graf: The disclosure comes as Prime Minister Burnham's government is under pressure
+  to scrap Palantir's £330 million contract with NHS England to run a national medical
+  data system. A break clause in the deal is due in February 2027, and health workers
+  campaigning to scrap it protested at the Labour party conference in Liverpool this
+  week.
 primary_entities:
 - Martha Dalton
 - Andy Burnham
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -123,106 +132,41 @@ related_stories:
   headline: Over 44,000 file legal objections to Palantir NHS data platform
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6932
+  strength: 0.6929
 - slug: 2026-09-18-watson-takes-full-time-palantir-role-amid-uk-contract-disputes
   headline: Watson takes full-time Palantir role amid UK contract disputes
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7485
+  strength: 0.7487
 - slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
   headline: Burnham to outline social care and public control plans at Labour conference
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.65
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6145
-- slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6337
-- slug: 2026-09-23-burnham-announces-national-centre-for-information-defence-pitches-ai-standards
-  headline: Burnham announces National Centre for Information Defence, pitches AI standards
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.609
-- slug: 2026-09-21-ed-davey-to-call-for-global-nuclear-style-ai-non-proliferation-treaty-at-lib-dem
-  headline: Ed Davey to call for global nuclear-style AI non-proliferation treaty at Lib Dem conference
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6146
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.607
-- slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
-  headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6161
-- slug: 2026-08-18-stiglitz-led-economists-push-burnham-to-back-ipcc-style-inequality-panel
-  headline: Stiglitz-led economists push Burnham to back IPCC-style inequality panel
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.608
+  strength: 0.6505
 - slug: 2026-06-19-labour-s-andy-burnham-wins-special-election-setting-up-starmer-showdown
   headline: Labour's Andy Burnham wins special election, setting up Starmer showdown
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6724
+  strength: 0.6719
 - slug: 2026-06-04-burnham-says-he-would-seek-to-enter-any-labour-leadership-contest
   headline: Burnham says he would seek to enter any Labour leadership contest
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6885
-- slug: 2026-07-26-burnham-says-he-would-call-out-trump-to-defend-uk-interests
-  headline: Burnham says he would call out Trump to defend UK interests
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6044
+  strength: 0.6879
 - slug: 2026-06-11-makerfield-by-election-could-decide-next-uk-prime-minister-voters-voice-frustrat
-  headline: Makerfield by-election could decide next UK prime minister, voters voice frustration
+  headline: Makerfield by-election could decide next UK prime minister, voters voice
+    frustration
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.6731
+  strength: 0.6722
 - slug: 2026-05-16-burnham-seeks-labour-leadership-path-by-winning-makerfield-by-election
   headline: Burnham seeks Labour leadership path by winning Makerfield by-election
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6903
-- slug: 2026-06-25-trump-calls-uk-pm-frontrunner-burnham-extremely-liberal-mayor-of-a-town
-  headline: Trump calls UK PM frontrunner Burnham 'extremely liberal', 'mayor of a town'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6247
-- slug: 2026-06-24-burnham-s-path-to-no-10-clears-as-preps-for-government-accelerate
-  headline: Burnham's path to No 10 clears as preps for government accelerate
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6217
-- slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
-  headline: MPs press UK regulator to prove Palantir deal won't expose data to US
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6461
-- slug: 2026-05-16-andy-burnham-seeks-return-to-parliament-as-labour-s-top-alternative-to-starmer
-  headline: Andy Burnham seeks return to Parliament as Labour’s top alternative to Starmer
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6451
-- slug: 2026-06-08-top-chefs-back-andy-burnham-for-prime-minister-after-vat-cut-pledge
-  headline: Top chefs back Andy Burnham for prime minister after VAT cut pledge
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6221
+  strength: 0.6896
 analyses:
-- '2026-10-02-burnham-government-s-nhs-data-platform-decision-sits-amid-consultancy-ties-lobby'
+- 2026-10-02-burnham-government-s-nhs-data-platform-decision-sits-amid-consultancy-ties-lobby
 ---
-
 ## Palantir consultancy link to Burnham's byelection team surfaces
 
 **Subtype:** fact
