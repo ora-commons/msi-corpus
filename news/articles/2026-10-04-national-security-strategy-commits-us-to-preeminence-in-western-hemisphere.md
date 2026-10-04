@@ -208,6 +208,8 @@ related_stories:
   publish_date: '2026-06-30'
   relation: related
   strength: 0.6853
+analyses:
+- '2026-10-04-bloomfield-records-us-strategy-accelerating-endogenous-rightward-shift-across-he'
 ---
 ## National security strategy commits US to 'preeminence' in Western Hemisphere
 
@@ -261,3 +263,8 @@ The security-driven shift to the right is likely to outlast Trump himself, accor
 **Publication date:** 2026-10-04
 **Title:** Trump wants control of the entire western hemisphere. Brazil might become his biggest prize | Steve Bloomfield
 **URL:** https://www.theguardian.com/commentisfree/2026/oct/04/donald-trump-western-hemisphere-brazil-elections-lula-bolsonaro
+
+---
+
+<!-- analysis-link:2026-10-04-bloomfield-records-us-strategy-accelerating-endogenous-rightward-shift-across-he -->
+**Going deeper:** [Read MSI's analysis of US hemispheric preeminence strategy →](/analyses/2026-10-04-bloomfield-records-us-strategy-accelerating-endogenous-rightward-shift-across-he)
