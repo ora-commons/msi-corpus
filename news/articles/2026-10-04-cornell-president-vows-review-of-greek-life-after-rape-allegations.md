@@ -1,9 +1,17 @@
 ---
 headline: Cornell president vows review of Greek life after rape allegations
-secondary_headline: Lawsuit alleges university failed to adequately punish accused students
+secondary_headline: Lawsuit alleges university failed to adequately punish accused
+  students
 publish_date: '2026-10-04'
-lede: Cornell University President Michael Kotlikoff said Saturday the Ivy League school will examine the role of fraternities and sororities on campus after a civil lawsuit alleged a student was drugged and raped in 2024 by members of the Chi Phi fraternity. The announcement comes after weeks of public outcry over the university's handling of the allegations and after New York state officials appointed a special prosecutor to investigate.
-nut_graf: The case has reignited scrutiny of how law enforcement and universities handle sexual assault complaints, prompting questions about Greek life's role on campus, disciplinary practices and institutional transparency.
+lede: Cornell University President Michael Kotlikoff said Saturday the Ivy League
+  school will examine the role of fraternities and sororities on campus after a civil
+  lawsuit alleged a student was drugged and raped in 2024 by members of the Chi Phi
+  fraternity. The announcement comes after weeks of public outcry over the university's
+  handling of the allegations and after New York state officials appointed a special
+  prosecutor to investigate.
+nut_graf: The case has reignited scrutiny of how law enforcement and universities
+  handle sexual assault complaints, prompting questions about Greek life's role on
+  campus, disciplinary practices and institutional transparency.
 primary_entities:
 - Cornell University
 - Michael Kotlikoff
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -122,10 +131,11 @@ related_stories:
   relation: related
   strength: 0.802
 - slug: 2026-10-03-greek-life-expansion-spreads-at-us-colleges-as-cornell-allegations-draw-scrutiny
-  headline: Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
+  headline: Greek life expansion spreads at US colleges as Cornell allegations draw
+    scrutiny
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7704
+  strength: 0.7708
 - slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
@@ -135,19 +145,21 @@ related_stories:
   headline: Hochul calls for independent review of Cornell's 2024 assault response
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7786
+  strength: 0.7785
 - slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
   headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7487
+  strength: 0.7488
 - slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
+  headline: Cornell student assembly calls for answers as Hochul appoints special
+    prosecutor
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.741
+  strength: 0.7408
 - slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
+  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang
+    rape
   publish_date: '2026-09-28'
   relation: related
   strength: 0.7636
@@ -155,69 +167,8 @@ related_stories:
   headline: Cornell accuser told campus police 'I was raped' in 2024 interview
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7501
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7494
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7494
-- slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7145
-- slug: 2026-10-03-rebecca-solnit-links-alleged-cornell-gang-rape-to-broader-rape-prone-culture
-  headline: Rebecca Solnit links alleged Cornell gang rape to broader 'rape-prone' culture
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6908
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7043
-- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
-  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6959
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6838
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6749
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7004
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.693
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6895
-- slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
-  headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6535
+  strength: 0.7502
 ---
-
 ## Cornell president vows review of Greek life after rape allegations
 
 **Subtype:** fact
