@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-06-25'
   relation: related
   strength: 0.7019
+analyses:
+- '2026-10-04-vance-s-maha-summit-stages-300-000-corporate-tier-alongside-grassroots-exclusion'
 ---
 ## Vance courts MAHA movement as 2028 positioning intensifies
 
@@ -233,3 +235,8 @@ For Vance, the calculation Caplan described cuts both ways. "If he can get half 
 **Publication date:** 2026-10-04
 **Title:** JD Vance flexing Maha connections as he eyes 2028 election
 **URL:** https://www.theguardian.com/us-news/2026/oct/04/jd-vance-maha-2028-election
+
+---
+
+<!-- analysis-link:2026-10-04-vance-s-maha-summit-stages-300-000-corporate-tier-alongside-grassroots-exclusion -->
+**Going deeper:** [Read MSI's analysis of the MAHA summit access architecture →](/analyses/2026-10-04-vance-s-maha-summit-stages-300-000-corporate-tier-alongside-grassroots-exclusion)
