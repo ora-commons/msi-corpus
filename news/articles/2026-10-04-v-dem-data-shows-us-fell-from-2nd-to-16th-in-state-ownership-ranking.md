@@ -168,6 +168,8 @@ related_stories:
   publish_date: '2026-05-03'
   relation: related
   strength: 0.6505
+analyses:
+- '2026-10-04-v-dem-14-place-us-drop-in-2025-state-ownership-rank-porter-s-patronage-frame-top'
 ---
 ## V-Dem data shows US fell from 2nd to 16th in state-ownership ranking
 
@@ -215,3 +217,8 @@ The Guardian piece is published as a column under the publication's "US economy"
 **Publication date:** 2026-10-04
 **Title:** Republicans say they hate communists. So why do they like Donald Trump?
 **URL:** https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans
+
+---
+
+<!-- analysis-link:2026-10-04-v-dem-14-place-us-drop-in-2025-state-ownership-rank-porter-s-patronage-frame-top -->
+**Going deeper:** [Read MSI's analysis of Trump state-ownership shift, V-Dem 2025 ranking drop, five-characterization MCDM ranking, weighting- →](/analyses/2026-10-04-v-dem-14-place-us-drop-in-2025-state-ownership-rank-porter-s-patronage-frame-top)
