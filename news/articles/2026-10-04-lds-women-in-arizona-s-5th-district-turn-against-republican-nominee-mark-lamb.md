@@ -165,6 +165,8 @@ related_stories:
   publish_date: '2026-07-23'
   relation: related
   strength: 0.6772
+analyses:
+- '2026-10-04-arizona-5th-district-race-tests-whether-lds-voters-break-from-republican-baselin'
 ---
 ## LDS women in Arizona's 5th District turn against Republican nominee Mark Lamb
 
@@ -250,3 +252,8 @@ From Lee's perspective, the needle is moving to the left. An internal poll Lee's
 **Publication date:** 2026-10-04
 **Title:** Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona
 **URL:** https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church
+
+---
+
+<!-- analysis-link:2026-10-04-arizona-5th-district-race-tests-whether-lds-voters-break-from-republican-baselin -->
+**Going deeper:** [Read MSI's analysis of Arizona 5th District race →](/analyses/2026-10-04-arizona-5th-district-race-tests-whether-lds-voters-break-from-republican-baselin)
