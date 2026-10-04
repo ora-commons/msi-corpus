@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6502
+analyses:
+- '2026-10-04-fl-vio-bolsonaro-s-26-8m-film-finance-request-anchors-final-disclosures-before-b'
 ---
 ## Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
 
@@ -227,3 +229,8 @@ Sunday's vote extends well beyond the presidential race. Brazilians will also el
 **Publication date:** 2026-10-04
 **Title:** Brazil goes to polls in decisive election for future of Latin America
 **URL:** https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro
+
+---
+
+<!-- analysis-link:2026-10-04-fl-vio-bolsonaro-s-26-8m-film-finance-request-anchors-final-disclosures-before-b -->
+**Going deeper:** [Read MSI's analysis of Brazil's pre-election disclosures →](/analyses/2026-10-04-fl-vio-bolsonaro-s-26-8m-film-finance-request-anchors-final-disclosures-before-b)
