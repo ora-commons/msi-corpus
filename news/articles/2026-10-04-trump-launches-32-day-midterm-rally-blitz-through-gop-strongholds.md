@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-09-03'
   relation: related
   strength: 0.7638
+analyses:
+- '2026-10-04-trump-s-safe-state-rallies-diverge-from-republican-campaign-calculations'
 ---
 ## Trump launches 32-day midterm rally blitz through GOP strongholds
 
@@ -258,3 +260,8 @@ Pollster John Zogby told The Guardian that Trump appears "very out of touch with
 **Publication date:** 2026-10-04
 **Title:** Trump sets off on midterm blitz – are his trademark rallies a liability for Republicans?
 **URL:** https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans
+
+---
+
+<!-- analysis-link:2026-10-04-trump-s-safe-state-rallies-diverge-from-republican-campaign-calculations -->
+**Going deeper:** [Read MSI's analysis of the midterm rally stakeholder calculus →](/analyses/2026-10-04-trump-s-safe-state-rallies-diverge-from-republican-campaign-calculations)
