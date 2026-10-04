@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-07-23'
   relation: related
   strength: 0.6591
+analyses:
+- '2026-10-04-fundraising-disparity-and-consolidation-failure-shape-florida-20th-primary-resul'
 ---
 ## Wasserman Schultz wins Florida 20th Democratic primary with 45%
 
@@ -251,3 +253,8 @@ When the votes were cast, Wasserman Schultz won the primary with 45%, with the f
 **Publication date:** 2026-10-04
 **Title:** The desperate, failed attempt to keep one Florida district Black
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote
+
+---
+
+<!-- analysis-link:2026-10-04-fundraising-disparity-and-consolidation-failure-shape-florida-20th-primary-resul -->
+**Going deeper:** [Read MSI's analysis of How the Florida 20th primary unfolded →](/analyses/2026-10-04-fundraising-disparity-and-consolidation-failure-shape-florida-20th-primary-resul)
