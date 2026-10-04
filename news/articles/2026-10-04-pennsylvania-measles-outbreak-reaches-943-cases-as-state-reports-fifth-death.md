@@ -2,8 +2,18 @@
 headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
 secondary_headline: Only 7 of Pennsylvania's 67 counties have their own health departments
 publish_date: '2026-10-04'
-lede: Pennsylvania is bracing for a wave of measles cases, with some public health officials concerned that it is "only a matter of time" until the disease spreads beyond the outbreak's epicenter, The Guardian reported Sunday. The state reported its fifth measles-associated death last week amid 943 confirmed cases across 39 counties. Lancaster County has recorded the highest number of cases at 381, believed to be mostly among Amish or similar religious groups with historically low measles, mumps and rubella (MMR) vaccine uptake.
-nut_graf: Contributing to the challenge, according to The Guardian, is that Pennsylvania is one of the few US states where its counties mostly lack their own health department, with only seven of its 67 counties having their own. "I think every county needs a health department, but we're just not set up that way in Pennsylvania while other states are," said Jeanne Franklin, the director of Chester County's health department.
+lede: Pennsylvania is bracing for a wave of measles cases, with some public health
+  officials concerned that it is "only a matter of time" until the disease spreads
+  beyond the outbreak's epicenter, The Guardian reported Sunday. The state reported
+  its fifth measles-associated death last week amid 943 confirmed cases across 39
+  counties. Lancaster County has recorded the highest number of cases at 381, believed
+  to be mostly among Amish or similar religious groups with historically low measles,
+  mumps and rubella (MMR) vaccine uptake.
+nut_graf: Contributing to the challenge, according to The Guardian, is that Pennsylvania
+  is one of the few US states where its counties mostly lack their own health department,
+  with only seven of its 67 counties having their own. "I think every county needs
+  a health department, but we're just not set up that way in Pennsylvania while other
+  states are," said Jeanne Franklin, the director of Chester County's health department.
 primary_entities:
 - Pennsylvania
 - Lancaster County
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,46 @@ related_stories:
   headline: Pennsylvania reports fifth measles-related death of 2026
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8734
+  strength: 0.8738
 - slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
   headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.8533
+  strength: 0.8531
 - slug: 2026-09-24-pennsylvania-measles-outbreak-kills-four-as-health-workers-door-knock-amish-comm
-  headline: Pennsylvania measles outbreak kills four as health workers door-knock Amish communities
+  headline: Pennsylvania measles outbreak kills four as health workers door-knock
+    Amish communities
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8368
+  strength: 0.8367
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7652
+  strength: 0.7655
 - slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
+  headline: Pennsylvania reports fourth measles death in 2026, worst US year since
+    1992
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7962
+  strength: 0.7968
 - slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
   headline: U.S. measles cases reach 3,924, highest in three decades
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.8014
+  strength: 0.8022
 - slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
   headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7969
+  strength: 0.7975
 - slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
+  headline: California warns of measles exposure in six counties after unvaccinated
+    passenger's train travel
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7594
-- slug: 2026-09-15-shapiro-accuses-kennedy-of-antivaccine-conspiracy-theories-amid-measles-surge
-  headline: Shapiro accuses Kennedy of antivaccine conspiracy theories amid measles surge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7696
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8485
-- slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
-  headline: CDC dashboard still excludes four Pennsylvania measles deaths
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7144
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7511
-- slug: 2026-09-17-pennsylvania-conditions-cdc-emergency-help-on-death-count-acknowledgment
-  headline: Pennsylvania conditions CDC emergency help on death count acknowledgment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7332
-- slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
-  headline: Local officials mount vaccine push as US measles deaths rise
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7224
-- slug: 2026-09-14-cdc-shifts-measles-death-tracking-method-as-pennsylvania-outbreak-grows
-  headline: CDC shifts measles death-tracking method as Pennsylvania outbreak grows
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6901
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7207
-- slug: 2026-09-04-coroner-and-cdc-dispute-state-attribution-of-newborn-s-death-to-measles
-  headline: Coroner and CDC dispute state attribution of newborn's death to measles
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7005
-- slug: 2026-08-28-rfk-jr-suggests-two-pennsylvania-measles-deaths-were-fabricated
-  headline: RFK Jr. suggests two Pennsylvania measles deaths were 'fabricated'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7093
-- slug: 2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go
-  headline: US measles tally passes 2025 record with months still to go
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6919
-- slug: 2026-06-13-utah-measles-outbreak-nears-one-year-threatening-us-elimination-status
-  headline: Utah measles outbreak nears one year, threatening US elimination status
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7268
+  strength: 0.7601
 ---
-
 ## Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
 
 **Subtype:** fact
