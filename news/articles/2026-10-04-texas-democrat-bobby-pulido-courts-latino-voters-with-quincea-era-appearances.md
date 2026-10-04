@@ -1,9 +1,20 @@
 ---
 headline: Texas Democrat Bobby Pulido courts Latino voters with quinceañera appearances
-secondary_headline: Texas 15th race tests whether Democrats can win back Trump-shifted Hispanic voters
+secondary_headline: Texas 15th race tests whether Democrats can win back Trump-shifted
+  Hispanic voters
 publish_date: '2026-10-04'
-lede: Bobby Pulido, a Tejano music star running as a Democrat in Texas's 15th congressional district, has performed at 81 quinceañeras and received more than 5,000 invitations to attend the coming-of-age celebrations as part of his campaign against two-term Republican incumbent Monica De La Cruz. The strategy grew from a March video in which De La Cruz derided Pulido as a quinceañera singer. The district, 81% Mexican American, swung to Trump by 18 points in 2024.
-nut_graf: According to the Guardian, Pulido, 53, has framed the race as a mission to take back the congressional seat, help the national Democratic Party regain control of the US House, and offer the party lessons in Mexican American politics. The contest is testing whether Democrats can win back Hispanic voters who shifted to Trump in 2024, when he took 55% of the Texas Hispanic vote, and could shape the fight for control of the House in November's midterms.
+lede: Bobby Pulido, a Tejano music star running as a Democrat in Texas's 15th congressional
+  district, has performed at 81 quinceañeras and received more than 5,000 invitations
+  to attend the coming-of-age celebrations as part of his campaign against two-term
+  Republican incumbent Monica De La Cruz. The strategy grew from a March video in
+  which De La Cruz derided Pulido as a quinceañera singer. The district, 81% Mexican
+  American, swung to Trump by 18 points in 2024.
+nut_graf: According to the Guardian, Pulido, 53, has framed the race as a mission
+  to take back the congressional seat, help the national Democratic Party regain control
+  of the US House, and offer the party lessons in Mexican American politics. The contest
+  is testing whether Democrats can win back Hispanic voters who shifted to Trump in
+  2024, when he took 55% of the Texas Hispanic vote, and could shape the fight for
+  control of the House in November's midterms.
 primary_entities:
 - Bobby Pulido
 - Monica De La Cruz
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +153,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-27-democratic-clergy-and-seminary-students-run-for-congress-on-christian-faith
-  headline: Democratic clergy and seminary students run for Congress on Christian faith
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5848
-- slug: 2026-09-23-gunfluencer-brandon-herrera-leads-gop-bid-for-uvalde-area-house-seat
-  headline: Gunfluencer Brandon Herrera leads GOP bid for Uvalde-area House seat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6055
-- slug: 2026-09-17-salazar-ad-tells-trump-immigration-enforcement-has-gone-too-far
-  headline: Salazar ad tells Trump immigration enforcement has 'gone too far'
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5794
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5829
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.581
-- slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
-  headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5832
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5843
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5805
 - slug: 2026-03-01-democrats-bet-latin-grammy-winner-bobby-pulido-can-flip-texas-house-seat
   headline: Democrats bet Latin Grammy winner Bobby Pulido can flip Texas House seat
   publish_date: '2026-03-01'
   relation: related
-  strength: 0.805
-- slug: 2026-07-25-talarico-courts-border-hispanic-voters-in-texas-senate-race
-  headline: Talarico courts border Hispanic voters in Texas Senate race
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6051
-- slug: 2026-06-23-generational-clash-pits-democrats-against-democrats-in-primaries-across-u-s
-  headline: Generational clash pits Democrats against Democrats in primaries across U.S.
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5837
-- slug: 2026-06-17-wasserman-schultz-primary-run-in-black-majority-district-roils-florida-democrats
-  headline: Wasserman Schultz primary run in Black majority district roils Florida Democrats
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5887
-- slug: 2026-05-21-texas-democrats-seek-to-block-antisemitic-views-candidate-in-runoff
-  headline: Texas Democrats seek to block antisemitic-views candidate in runoff
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6086
-- slug: 2026-05-20-texas-democrats-seek-to-block-antisemitism-accused-candidate-in-runoff
-  headline: Texas Democrats seek to block antisemitism-accused candidate in runoff
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6058
-- slug: 2026-02-19-democrats-recruit-influencers-in-texas-to-reach-latino-voters-before-march-3
-  headline: Democrats recruit influencers in Texas to reach Latino voters before March 3
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6235
-- slug: 2026-03-06-republicans-mine-talarico-s-social-media-history-after-texas-senate-primary-win
-  headline: Republicans mine Talarico's social media history after Texas Senate primary win
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6179
-- slug: 2026-05-25-democrats-slam-texas-house-candidate-over-remarks-seen-as-antisemitic
-  headline: Democrats slam Texas House candidate over remarks seen as antisemitic
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5775
-- slug: 2026-05-13-obama-lunches-with-texas-senate-hopeful-james-talarico-in-austin
-  headline: Obama lunches with Texas Senate hopeful James Talarico in Austin
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5859
-- slug: 2026-05-15-becerra-s-decades-in-office-cut-both-ways-in-tightening-california-governor-race
-  headline: Becerra's decades in office cut both ways in tightening California governor race
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5818
-- slug: 2026-02-11-bad-bunny-s-super-bowl-halftime-show-lands-as-hemisphere-wide-latino-moment
-  headline: Bad Bunny’s Super Bowl halftime show lands as hemisphere-wide Latino moment
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6035
+  strength: 0.8055
 ---
-
 ## Texas Democrat Bobby Pulido courts Latino voters with quinceañera appearances
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: V-Dem data shows US fell from 2nd to 16th in state-ownership ranking
-secondary_headline: Trump took $10bn in equity stakes by November 2025, Guardian column reports
+secondary_headline: Trump took $10bn in equity stakes by November 2025, Guardian column
+  reports
 publish_date: '2026-10-04'
-lede: A Guardian opinion column cites V-Dem project data showing the United States fell from 2nd to 16th in a state-ownership-of-the-economy ranking during 2025, the first year of President Donald Trump's second term. By November 2025, the Trump administration had spent more than $10 billion acquiring equity stakes in companies it deemed essential for national security, including Intel, Westinghouse, and critical-mineral mining ventures, according to columnist Eduardo Porter.
-nut_graf: The column frames the pattern as a significant departure from the market-focused presidencies of Trump's recent predecessors of both parties and as appearing to contradict his anti-communist campaign rhetoric, including television ads in which he pledged to "defeat communism."
+lede: A Guardian opinion column cites V-Dem project data showing the United States
+  fell from 2nd to 16th in a state-ownership-of-the-economy ranking during 2025, the
+  first year of President Donald Trump's second term. By November 2025, the Trump
+  administration had spent more than $10 billion acquiring equity stakes in companies
+  it deemed essential for national security, including Intel, Westinghouse, and critical-mineral
+  mining ventures, according to columnist Eduardo Porter.
+nut_graf: The column frames the pattern as a significant departure from the market-focused
+  presidencies of Trump's recent predecessors of both parties and as appearing to
+  contradict his anti-communist campaign rhetoric, including television ads in which
+  he pledged to "defeat communism."
 primary_entities:
 - Donald Trump
 - Eduardo Porter
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +153,22 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
+  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply
+    chain
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6577
-- slug: 2026-09-30-trump-pairs-anti-communist-rhetoric-with-unorthodox-economic-moves
-  headline: Trump pairs anti-communist rhetoric with unorthodox economic moves
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6211
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.615
-- slug: 2026-09-14-us-democracy-indicators-fall-to-50-year-low-idea-report-finds
-  headline: US democracy indicators fall to 50-year low, IDEA report finds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6255
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6183
-- slug: 2026-09-03-trump-s-iran-sanctions-compared-to-cuba-north-korea-venezuela-syria
-  headline: Trump's Iran sanctions compared to Cuba, North Korea, Venezuela, Syria
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6251
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6092
-- slug: 2026-08-19-lipton-tells-npr-congress-has-declined-to-commit-oversight-to-trump-s-finances
-  headline: Lipton tells NPR Congress has declined to commit oversight to Trump's finances
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6165
-- slug: 2026-08-13-trump-s-businesses-earned-2-2bn-in-2025-ethics-experts-say
-  headline: Trump's businesses earned $2.2bn in 2025, ethics experts say
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6349
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6167
+  strength: 0.656
 - slug: 2026-07-11-trump-administration-takes-10-stake-in-intel-apple-nvidia-sign-deals
   headline: Trump administration takes 10% stake in Intel; Apple, Nvidia sign deals
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.6778
-- slug: 2026-08-07-trump-administration-targets-us-science-and-universities-with-political-controls
-  headline: Trump administration targets US science and universities with political controls
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6173
-- slug: 2026-07-19-china-now-favored-over-us-in-global-opinion-pew-survey-shows
-  headline: China now favored over US in global opinion, Pew survey shows
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6329
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6338
-- slug: 2026-07-18-trump-s-crypto-ventures-net-1-2-billion-as-economists-warn-of-financial-instabil
-  headline: Trump's crypto ventures net $1.2 billion as economists warn of financial instability
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6167
-- slug: 2026-06-26-us-falls-short-of-peer-nations-on-health-food-income-education-data-shows
-  headline: US falls short of peer nations on health, food, income, education, data shows
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6272
+  strength: 0.6788
 - slug: 2026-05-03-trump-says-he-d-back-intel-but-passed-on-taxpayer-stake-in-spirit
   headline: Trump says he’d back Intel, but passed on taxpayer stake in Spirit
   publish_date: '2026-05-03'
   relation: related
   strength: 0.6505
-- slug: 2026-06-06-trump-s-china-trade-war-strategy-flawed-economist-eduardo-porter-says
-  headline: Trump's China trade war strategy flawed, economist Eduardo Porter says
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6096
-- slug: 2026-05-19-trump-discloses-thousands-of-stock-trades-tied-to-policy-ethics-filing-shows
-  headline: Trump discloses thousands of stock trades tied to policy, ethics filing shows
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6156
-- slug: 2026-05-20-trump-discloses-thousands-of-stock-trades-including-nvidia-and-apple
-  headline: Trump discloses thousands of stock trades, including Nvidia and Apple
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6121
 ---
-
 ## V-Dem data shows US fell from 2nd to 16th in state-ownership ranking
 
 **Subtype:** fact
