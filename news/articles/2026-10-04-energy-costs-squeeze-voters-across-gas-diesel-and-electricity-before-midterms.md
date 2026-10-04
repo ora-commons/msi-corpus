@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-09-11'
   relation: related
   strength: 0.7218
+analyses:
+- '2026-10-04-voter-remedies-meet-a-multi-causal-energy-cost-structure-an-analytical-mapping'
 ---
 ## Energy costs squeeze voters across gas, diesel, and electricity before midterms
 
@@ -237,3 +239,8 @@ A lifelong registered Republican, Kirkman switched his party registration to ind
 **Publication date:** 2026-10-04
 **Title:** How Gas, Diesel and Electricity Prices Are Squeezing American Voters
 **URL:** https://www.wsj.com/politics/elections/energy-prices-midterm-voters-e360a372
+
+---
+
+<!-- analysis-link:2026-10-04-voter-remedies-meet-a-multi-causal-energy-cost-structure-an-analytical-mapping -->
+**Going deeper:** [Read MSI's analysis of The structural mismatch between November electoral remedies and the documented drivers of diesel, ga →](/analyses/2026-10-04-voter-remedies-meet-a-multi-causal-energy-cost-structure-an-analytical-mapping)
