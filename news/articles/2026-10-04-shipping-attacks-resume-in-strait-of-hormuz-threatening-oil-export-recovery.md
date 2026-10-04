@@ -121,6 +121,8 @@ related_stories:
   publish_date: '2026-07-16'
   relation: related
   strength: 0.8379
+analyses:
+- '2026-10-04-strait-of-hormuz-shuttle-run-system-concentrates-oil-flow-exposure-at-the-waterw'
 ---
 ## Shipping attacks resume in Strait of Hormuz, threatening oil export recovery
 
@@ -165,3 +167,8 @@ Firm data on shipping flows comes with a lag, because many ships are operating w
 **Publication date:** 2026-10-04
 **Title:** Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping Resurged.
 **URL:** https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9
+
+---
+
+<!-- analysis-link:2026-10-04-strait-of-hormuz-shuttle-run-system-concentrates-oil-flow-exposure-at-the-waterw -->
+**Going deeper:** [Read MSI's analysis of Strait of Hormuz recovery fragility →](/analyses/2026-10-04-strait-of-hormuz-shuttle-run-system-concentrates-oil-flow-exposure-at-the-waterw)
