@@ -194,7 +194,7 @@ Topic tags follow the **IPTC Media Topics** controlled vocabulary (https://www.i
 
 17 Level-1 subjects: arts/culture, conflict/war, crime/justice, disasters, economy, education, environment, health, human interest, labour, lifestyle, politics, religion, science/technology, society, sport, weather.
 
-Level-2 sub-topics cover MSI's actual coverage beats. Full vocabulary in `manifest.json`.
+Level-2 sub-topics cover MSI's actual coverage beats. `manifest.json` lists the Level-1 subjects and points at the level-2 vocabulary by path; that level-2 vocabulary file is not currently published in this repository.
 
 Note: `topic_tags` are populated by a background backfill pass. At the current rebuild, 318 of 21,590 articles (~1.5%) still carry empty `topic_tags: []`. Re-run `rebuild_corpus.py` after the backfill completes to regenerate fully-populated indexes.
 
