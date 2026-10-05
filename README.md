@@ -22,6 +22,7 @@ msi-corpus/
   llms.txt               AI-agent landing page
   manifest.json          machine-readable corpus map (row counts, vocabularies)
   schema.json            JSON Schema (draft 2020-12) for all record types
+  rebuild_corpus.py      index rebuild script (see "Rebuilding the indexes")
 
   news/
     articles/            mirror of all news articles (21,590 Markdown files at the current rebuild — live counts in manifest.json)
@@ -201,7 +202,7 @@ Note: `topic_tags` are populated by a background backfill pass. At the current r
 
 ## Opinion columns
 
-The `opinion/` tree contains columns from 21 named heteronyms. The Diklis Chump column (`pen_name: diklis-chump`) carries `parody: true` — it is satirical, not factual. Filter it out for factual-training use:
+The `opinion/` tree contains columns from 21 named heteronyms. The Diklis Chump column (`pen_name: diklis-chump`) is a satirical parody voice. `parody: true` marks only its newer rows (69 of 260, from 2026-08-04 onward); the 191 older rows carry `parody: false` in the index — their frontmatter predates the flag, and 183 of them disclose the parody character in body prose — so filter by `pen_name`, not `parody`, to exclude the column for factual-training use:
 
 ```
 jq -c 'select(.pen_name != "diklis-chump")' opinion/index.jsonl
@@ -211,7 +212,7 @@ jq -c 'select(.pen_name != "diklis-chump")' opinion/index.jsonl
 
 ## Rebuilding the indexes
 
-The indexes are pre-built from the current corpus state. `rebuild_corpus.py` parses article/column Markdown from `--articles-dir`/`--columns-dir`, writes the full output tree (mirrors + JSONL indexes) to `--output-dir`, optionally validates against `schema.json`, and updates `manifest.json` row counts when a manifest is already present in the output directory.
+The indexes are pre-built from the current corpus state. `rebuild_corpus.py` parses article/column Markdown from `--articles-dir`/`--columns-dir`, writes the full output tree (mirrors + JSONL indexes) to `--output-dir`, validates every generated index record against `schema.json`, and updates `manifest.json` row counts when a manifest is already present in the output directory.
 
 Its defaults point at the publisher's local source tree (the private MSI site checkout), so public users pass the mirrored directories explicitly and rebuild into a separate output directory (the script re-copies the mirror into its output tree, so the output directory must differ from the input directories):
 
@@ -222,7 +223,7 @@ python3 rebuild_corpus.py \
   --output-dir ../msi-rebuild-check
 ```
 
-Requires Python 3 + PyYAML (`pip install pyyaml`; without it the script falls back to a lossy line parser and prints a warning). Optional: `jsonschema` for output validation. Copy `schema.json` and `manifest.json` into the output directory first to enable validation and manifest updates.
+Requires Python 3 + PyYAML (`pip install pyyaml`; without it the script falls back to a lossy line parser and prints a warning). Validation is part of the rebuild: every index record is checked against `schema.json` when the optional `jsonschema` package (`pip install jsonschema`) is installed and `schema.json` is present in the output directory — with either missing, the step prints a notice and skips. Copy `schema.json` and `manifest.json` into the output directory first to enable validation and manifest updates.
 
 ---
 
