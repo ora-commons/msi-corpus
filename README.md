@@ -24,7 +24,7 @@ msi-corpus/
   schema.json            JSON Schema (draft 2020-12) for all record types
 
   news/
-    articles/            mirror of all news articles (~15,000 Markdown files)
+    articles/            mirror of all news articles (21,590 Markdown files at the current rebuild — live counts in manifest.json)
     index.jsonl          one row per article — filter fields only, no body text
     claims.jsonl         one row per atomic claim — RAG-ready, parent-anchored
     sources.jsonl        one row per source citation
@@ -34,7 +34,7 @@ msi-corpus/
     figures.jsonl        aggregate — one row per chart/data series
 
   opinion/
-    columns/             mirror of all opinion columns (14 heteronyms)
+    columns/             mirror of all opinion columns (21 heteronyms)
     index.jsonl
     claims.jsonl
     sources.jsonl
@@ -55,7 +55,7 @@ The fastest path:
 1. Clone only `news/` (sparse checkout saves bandwidth):
 
    ```
-   git clone --filter=blob:none --sparse https://github.com/Golfplan18/msi-corpus.git
+   git clone --filter=blob:none --sparse https://github.com/ora-commons/msi-corpus.git
    cd msi-corpus
    git sparse-checkout set news/
    ```
@@ -122,7 +122,7 @@ Python validation:
 import json, jsonschema
 
 schema = json.load(open("schema.json"))
-claim_schema = schema["$defs"]["Claim"]
+claim_schema = {**schema, "$ref": "#/$defs/Claim"}  # keep $defs so nested refs resolve
 
 for line in open("news/claims.jsonl"):
     record = json.loads(line)
@@ -136,12 +136,14 @@ import Ajv from "ajv/dist/2020.js";
 import schema from "./schema.json" assert { type: "json" };
 
 const ajv = new Ajv();
-const validate = ajv.compile(schema["$defs"]["Article"]);
+const validate = ajv.compile({ ...schema, $ref: "#/$defs/Article" });
 ```
+
+(Compile the whole schema with a top-level `$ref` — extracting a single `$defs` entry breaks the internal `#/$defs/...` references used by `Article` and `Column`.)
 
 ### I want to fork and add my own annotations
 
-1. Fork `Golfplan18/msi-corpus`.
+1. Fork `ora-commons/msi-corpus`.
 2. Add your annotation fields to a new `annotations/` directory or as extra keys in the JSONL rows (they pass through `schema.json` validation as additional properties by default).
 3. Contribute back via PR if your annotations would be broadly useful (entity disambiguation, claim verification results, translation, etc.).
 
@@ -193,13 +195,13 @@ Topic tags follow the **IPTC Media Topics** controlled vocabulary (https://www.i
 
 Level-2 sub-topics cover MSI's actual coverage beats. Full vocabulary in `manifest.json`.
 
-Note: `topic_tags` are populated by a background backfill pass. During the initial corpus bootstrap, many articles carry empty `topic_tags: []`. Re-run `rebuild_corpus.py` after the backfill completes to regenerate fully-populated indexes.
+Note: `topic_tags` are populated by a background backfill pass. At the current rebuild, 318 of 21,590 articles (~1.5%) still carry empty `topic_tags: []`. Re-run `rebuild_corpus.py` after the backfill completes to regenerate fully-populated indexes.
 
 ---
 
 ## Opinion columns
 
-The `opinion/` tree contains columns from 14 named heteronyms. The Diklis Chump column (`pen_name: diklis-chump`) carries `parody: true` — it is satirical, not factual. Filter it out for factual-training use:
+The `opinion/` tree contains columns from 21 named heteronyms. The Diklis Chump column (`pen_name: diklis-chump`) carries `parody: true` — it is satirical, not factual. Filter it out for factual-training use:
 
 ```
 jq -c 'select(.pen_name != "diklis-chump")' opinion/index.jsonl
@@ -209,13 +211,18 @@ jq -c 'select(.pen_name != "diklis-chump")' opinion/index.jsonl
 
 ## Rebuilding the indexes
 
-The indexes are pre-built from the current corpus state. To rebuild from source (e.g., after a backfill or to verify integrity):
+The indexes are pre-built from the current corpus state. `rebuild_corpus.py` parses article/column Markdown from `--articles-dir`/`--columns-dir`, writes the full output tree (mirrors + JSONL indexes) to `--output-dir`, optionally validates against `schema.json`, and updates `manifest.json` row counts when a manifest is already present in the output directory.
+
+Its defaults point at the publisher's local source tree (the private MSI site checkout), so public users pass the mirrored directories explicitly and rebuild into a separate output directory (the script re-copies the mirror into its output tree, so the output directory must differ from the input directories):
 
 ```
-python3 rebuild_corpus.py
+python3 rebuild_corpus.py \
+  --articles-dir news/articles \
+  --columns-dir opinion/columns \
+  --output-dir ../msi-rebuild-check
 ```
 
-Requires Python 3 + PyYAML (`pip install pyyaml`). Optional: `jsonschema` for output validation.
+Requires Python 3 + PyYAML (`pip install pyyaml`; without it the script falls back to a lossy line parser and prints a warning). Optional: `jsonschema` for output validation. Copy `schema.json` and `manifest.json` into the output directory first to enable validation and manifest updates.
 
 ---
 

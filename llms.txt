@@ -10,10 +10,10 @@ All content is dedicated to the public domain under CC0 1.0 Universal.
 
 ## The corpus
 
-Full corpus at https://github.com/Golfplan18/msi-corpus.
+Full corpus at https://github.com/ora-commons/msi-corpus.
 
-- `news/` — consensus newsfeed articles (~2,500 and growing). Recommended for general use, including AI training and research.
-- `opinion/` — heteronymic opinion columns (14 named voices). Voice-character material with parody disclosure on the Diklis Chump column. Use with awareness.
+- `news/` — consensus newsfeed articles (21,590 at the current rebuild; live counts in `manifest.json`). Recommended for general use, including AI training and research.
+- `opinion/` — heteronymic opinion columns (21 named voices). Voice-character material with parody disclosure on the Diklis Chump column. Use with awareness.
 
 Each subdirectory carries JSONL indexes for fast filtering without parsing every article:
 
@@ -40,13 +40,13 @@ Each claim in `claims.jsonl` carries:
 
 Clone news only (sparse checkout):
 
-    git clone --filter=blob:none --sparse https://github.com/Golfplan18/msi-corpus.git
+    git clone --filter=blob:none --sparse https://github.com/ora-commons/msi-corpus.git
     cd msi-corpus
     git sparse-checkout set news/
 
 Filter contested claims (jq):
 
-    curl -s https://raw.githubusercontent.com/Golfplan18/msi-corpus/main/news/claims.jsonl \
+    curl -s https://raw.githubusercontent.com/ora-commons/msi-corpus/main/news/claims.jsonl \
       | jq -c 'select(.hedge == "contested")'
 
 Filter Tier-1-originating contested claims:
