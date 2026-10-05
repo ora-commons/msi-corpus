@@ -52,7 +52,7 @@ CORROBORATION_VOCAB = {
     "primary_plus_secondary", "one_originating_plus_primary_document",
 }
 OUTLET_CLASS_VOCAB = {
-    "wire", "national_daily", "regional", "trade", "primary_document",
+    "wire", "national_daily", "nonprofit", "regional", "trade", "primary_document",
     "government_release", "court_filing", "peer_reviewed", "press_release",
     "social_media", "other",
 }
@@ -650,7 +650,6 @@ def validate_output(output_dir: Path, schema_path: Path):
         "opinion/storylines.jsonl": "StorylineAggregate",
         "opinion/pen_names.jsonl": "PenName",
     }
-    validator = jsonschema.Draft202012Validator(schema)
     for rel_path, type_name in record_type_map.items():
         fpath = output_dir / rel_path
         if not fpath.exists():
@@ -658,13 +657,15 @@ def validate_output(output_dir: Path, schema_path: Path):
         defs = schema.get("$defs", {})
         if type_name not in defs:
             continue
-        type_schema = {"$schema": "https://json-schema.org/draft/2020-12/schema", **defs[type_name]}
+        # Whole schema + top-level $ref so internal $defs references resolve
+        type_schema = {**schema, "$ref": f"#/$defs/{type_name}"}
+        validator = jsonschema.Draft202012Validator(type_schema)
         errors_found = 0
         with fpath.open() as f:
             for i, line in enumerate(f, 1):
                 try:
                     record = json.loads(line)
-                    errs = list(jsonschema.validate(record, type_schema))
+                    errs = list(validator.iter_errors(record))
                     if errs:
                         errors_found += 1
                 except Exception:
