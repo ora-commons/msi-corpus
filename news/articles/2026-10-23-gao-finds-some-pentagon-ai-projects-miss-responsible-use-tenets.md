@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-05-22'
   relation: related
   strength: 0.6715
+analyses:
+- '2026-10-23-gao-review-ties-pentagon-ai-tenet-gap-to-understaffed-office'
 ---
 
 ## GAO finds some Pentagon AI projects miss responsible-use tenets
@@ -281,3 +283,8 @@ The GAO issued two recommendations: the Pentagon should more clearly outline the
 **Publication date:** 2026-10-23
 **Title:** The Pentagon's guidelines for "responsible AI" aren't always followed, report shows
 **URL:** https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war
+
+---
+
+<!-- analysis-link:2026-10-23-gao-review-ties-pentagon-ai-tenet-gap-to-understaffed-office -->
+**Going deeper:** [Read MSI's analysis of the Pentagon AI tenets gap →](/analyses/2026-10-23-gao-review-ties-pentagon-ai-tenet-gap-to-understaffed-office)
