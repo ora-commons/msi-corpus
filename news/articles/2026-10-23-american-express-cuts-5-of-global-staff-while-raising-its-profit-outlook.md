@@ -235,6 +235,8 @@ related_stories:
   publish_date: '2026-01-28'
   relation: related
   strength: 0.6874
+analyses:
+- '2026-10-23-american-express-s-3-500-job-cut-efficiency-plan-cost-cap-or-both'
 ---
 
 ## American Express cuts 5% of global staff while raising its profit outlook
@@ -275,3 +277,8 @@ The week’s corporate announcements coincided with fewer U.S.-based job cuts ov
 **Publication date:** 2026-10-23
 **Title:** American Express to Cut 3,500 Jobs
 **URL:** https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f
+
+---
+
+<!-- analysis-link:2026-10-23-american-express-s-3-500-job-cut-efficiency-plan-cost-cap-or-both -->
+**Going deeper:** [Read MSI's analysis of Follow AmEx’s next quarterly report to see whether its raised profit outlook holds against the cost →](/analyses/2026-10-23-american-express-s-3-500-job-cut-efficiency-plan-cost-cap-or-both)
