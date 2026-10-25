@@ -1,0 +1,276 @@
+---
+headline: American Express profit rises 28% while planning 5% workforce cut
+secondary_headline: Well-to-do customers kept spending after the Platinum Card annual fee increased
+publish_date: '2026-10-23'
+lede: American Express reported third-quarter profit of $3.71 billion, up 28% from a year earlier, as well-to-do customers continued spending aggressively and the company moved the vast majority of its members to a higher-fee Platinum Card. The New York company also said it plans to cut its workforce by 5%, or about 3,500 employees, in its first major job cuts in roughly a decade.
+nut_graf: The earnings report paired higher cardmember spending and fee income with a planned workforce reduction. American Express earned $4.68 per share excluding a one-time gain from its sale of a Global Business Travel Group stake, beating Wall Street estimates.
+primary_entities:
+- American Express
+- Platinum Card
+- Global Business Travel Group
+primary_themes:
+- Corporate earnings
+- Premium credit-card spending
+- Credit-card fees
+- Workforce reductions
+topic_tags:
+- banking
+- business information
+- economy
+- employment
+storyline_nexus: []
+storyline_continuity:
+  decision: none
+  selected_prior_ids: []
+  evaluated_prior_ids: []
+  authorized_context_prior_ids: []
+geographic_location: United States
+floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.3
+- value: accountability_of_power
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.3
+framework_version: 1.5.0
+generation_timestamp: '2026-10-25T12:49:45-07:00'
+source_cluster_id: cluster_ap_2026-10-24_american-express-credit-cards-platinum-f
+gdelt_event_ids: []
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
+license: https://creativecommons.org/publicdomain/zero/1.0/
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_generated: true
+sources:
+  count: 1
+  outlets:
+  - Associated Press
+  outlet_classes:
+  - wire
+  highest_reliability_tier: 1
+  has_originating: true
+  has_primary_document: false
+figures_aggregate:
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links:
+- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
+  relation: related
+  strength: 0.6567
+  confidence: medium
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  relation: related
+  strength: 0.6377
+  confidence: medium
+- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
+  relation: related
+  strength: 0.605
+  confidence: medium
+- slug: 2026-10-21-philip-morris-cuts-earnings-outlook-after-quarterly-profit-decline
+  relation: related
+  strength: 0.6081
+  confidence: medium
+- slug: 2026-09-25-near-premium-credit-cards-draw-younger-consumers-as-top-fees-reach-895
+  relation: related
+  strength: 0.708
+  confidence: medium
+- slug: 2026-10-14-major-banks-post-higher-q3-profits-but-trail-second-quarter-pace
+  relation: related
+  strength: 0.5977
+  confidence: medium
+- slug: 2026-09-30-amex-launches-ai-expense-platform-alongside-new-corporate-card
+  relation: related
+  strength: 0.6582
+  confidence: medium
+- slug: 2026-10-08-aritzia-lifts-fiscal-2027-outlook-after-44-quarterly-revenue-surge
+  relation: related
+  strength: 0.612
+  confidence: medium
+- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
+  relation: related
+  strength: 0.6085
+  confidence: medium
+- slug: 2026-07-24-fewer-delinquencies-premium-card-demand-lift-american-express-profit
+  relation: related
+  strength: 0.8322
+  confidence: medium
+- slug: 2026-09-16-amazon-raises-u-s-core-operations-starting-wage-to-20-an-hour
+  relation: related
+  strength: 0.6112
+  confidence: medium
+- slug: 2026-09-16-amazon-adds-uncapped-grocery-discount-for-us-employees
+  relation: related
+  strength: 0.5978
+  confidence: medium
+- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
+  relation: related
+  strength: 0.6357
+  confidence: medium
+- slug: 2026-07-09-fast-retailing-raises-forecast-after-39-profit-jump-in-third-quarter
+  relation: related
+  strength: 0.6299
+  confidence: medium
+- slug: 2026-07-23-t-mobile-q2-profit-rises-to-3-24b-as-postpaid-revenue-climbs-13
+  relation: related
+  strength: 0.6067
+  confidence: medium
+- slug: 2026-07-22-servicenow-revenue-rises-24-as-federal-demand-boosts-sales
+  relation: related
+  strength: 0.5984
+  confidence: medium
+- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
+  relation: related
+  strength: 0.6086
+  confidence: medium
+- slug: 2026-05-23-rising-fuel-prices-could-shrink-the-value-of-airline-rewards-this-summer
+  relation: related
+  strength: 0.6298
+  confidence: medium
+- slug: 2026-01-13-jpmorgan-chase-q4-profits-rise-9-on-adjusted-basis-as-apple-card-deal-weighs-on-
+  relation: related
+  strength: 0.6584
+  confidence: medium
+- slug: 2026-05-22-what-rising-fuel-prices-mean-for-airline-miles-and-travel-rewards-this-summer
+  relation: related
+  strength: 0.5972
+  confidence: medium
+draft: false
+related_stories:
+- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
+  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8646
+- slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
+  headline: American Express cuts 5% of global staff while raising its profit outlook
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8409
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6859
+- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6851
+- slug: 2026-10-23-booz-allen-raises-fiscal-2027-earnings-outlook
+  headline: Booz Allen raises fiscal 2027 earnings outlook
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6543
+- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
+  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6483
+- slug: 2026-10-21-philip-morris-cuts-earnings-outlook-after-quarterly-profit-decline
+  headline: Philip Morris cuts earnings outlook after quarterly profit decline
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.638
+- slug: 2026-10-20-amazon-plans-more-than-300-000-u-s-holiday-season-hires
+  headline: Amazon plans more than 300,000 U.S. holiday-season hires
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6341
+- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
+  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
+  publish_date: '2026-10-08'
+  relation: related
+  strength: 0.6498
+- slug: 2026-09-30-amex-launches-ai-expense-platform-alongside-new-corporate-card
+  headline: Amex launches AI expense platform alongside new corporate card
+  publish_date: '2026-09-30'
+  relation: related
+  strength: 0.6801
+- slug: 2026-09-25-near-premium-credit-cards-draw-younger-consumers-as-top-fees-reach-895
+  headline: Near-premium credit cards draw younger consumers as top fees reach $895
+  publish_date: '2026-09-25'
+  relation: related
+  strength: 0.6944
+- slug: 2026-07-24-fewer-delinquencies-premium-card-demand-lift-american-express-profit
+  headline: Fewer delinquencies, premium card demand lift American Express profit
+  publish_date: '2026-07-24'
+  relation: related
+  strength: 0.8421
+- slug: 2026-09-16-amazon-raises-u-s-core-operations-starting-wage-to-20-an-hour
+  headline: Amazon raises U.S. core operations starting wage to $20 an hour
+  publish_date: '2026-09-16'
+  relation: related
+  strength: 0.6477
+- slug: 2026-09-16-amazon-adds-uncapped-grocery-discount-for-us-employees
+  headline: Amazon adds uncapped grocery discount for US employees
+  publish_date: '2026-09-16'
+  relation: related
+  strength: 0.6308
+- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
+  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
+  publish_date: '2026-08-31'
+  relation: related
+  strength: 0.6516
+- slug: 2026-08-01-wall-street-gears-for-jobs-report-spacex-earnings-mcdonald-s-results
+  headline: Wall Street gears for jobs report, SpaceX earnings, McDonald's results
+  publish_date: '2026-08-01'
+  relation: related
+  strength: 0.6276
+- slug: 2026-07-23-t-mobile-q2-profit-rises-to-3-24b-as-postpaid-revenue-climbs-13
+  headline: T-Mobile Q2 profit rises to $3.24B as postpaid revenue climbs 13%
+  publish_date: '2026-07-23'
+  relation: related
+  strength: 0.6307
+- slug: 2026-07-09-fast-retailing-raises-forecast-after-39-profit-jump-in-third-quarter
+  headline: Fast Retailing raises forecast after 39% profit jump in third quarter
+  publish_date: '2026-07-09'
+  relation: related
+  strength: 0.6412
+- slug: 2026-01-13-jpmorgan-chase-q4-profits-rise-9-on-adjusted-basis-as-apple-card-deal-weighs-on-
+  headline: JPMorgan Chase Q4 profits rise 9% on adjusted basis as Apple Card deal weighs on results
+  publish_date: '2026-01-13'
+  relation: related
+  strength: 0.6792
+- slug: 2026-06-01-uaw-workers-strike-at-american-axle-plant-halting-key-gm-truck-parts
+  headline: UAW workers strike at American Axle plant, halting key GM truck parts
+  publish_date: '2026-06-01'
+  relation: related
+  strength: 0.6296
+---
+
+## American Express profit rises 28% while planning 5% workforce cut
+
+**Subtype:** fact
+
+- American Express reported third-quarter profit of $3.71 billion, up 28% from a year earlier.
+- American Express earned $4.68 per share excluding a one-time gain from its sale of a Global Business Travel Group stake, above Wall Street estimates.
+- American Express plans to cut its workforce by 5%, or about 3,500 employees, in its first major job cuts in roughly a decade.
+- American Express transitioned the vast majority of its members to a new, higher-fee Platinum Card.
+- American Express reported higher revenue and profit as customers charged more on their cards and paid more to hold an American Express card.
+
+## Well-to-do customers kept spending after the Platinum Card annual fee increased
+
+American Express reported sharply higher third-quarter profit on October 23 as well-to-do customers continued to spend aggressively. The New York company also announced plans for its first major job cuts in roughly a decade.
+
+American Express reported a profit of $3.71 billion, up 28% from a year earlier, or $5.42 a share.
+
+American Express reported higher revenue and profit as customers both charged more on their cards and paid more to hold an American Express card.
+
+The company’s headline result included a one-time gain from its sale of a stake in Global Business Travel Group. Excluding the gain, American Express earned a quarterly per-share profit of $4.68. That figure beat Wall Street estimates.
+
+The third-quarter performance came as American Express transitioned the vast majority of its members to a new, higher-fee Platinum Card.
+
+Last year, American Express updated the Platinum Card, adding several new perks while raising the annual fee from $695 to $895.
+
+Reviews of the update were generally positive at the time.
+
+American Express said it planned to reduce its workforce by 5%, or about 3,500 employees. The announcement represented the company’s first major job cuts in roughly a decade.
+
+## Sources
+
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Ken Sweet
+**Publication date:** 2026-10-23
+**Title:** American Express profit jumps 28% as customers stick with high-fee card
+**URL:** https://apnews.com/article/american-express-credit-cards-platinum-fbe9dcebe7d1477253076208ea22afc2

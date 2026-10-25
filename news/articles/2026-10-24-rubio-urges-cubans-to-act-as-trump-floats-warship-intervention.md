@@ -241,6 +241,8 @@ related_stories:
   publish_date: '2026-03-20'
   relation: related
   strength: 0.7318
+analyses:
+- '2026-10-24-cia-appeal-and-warship-stopover-split-the-u-s-posture-on-cuba-by-audience'
 ---
 
 ## Rubio urges Cubans to act as Trump floats warship intervention
@@ -286,3 +288,8 @@ Rubio's Friday post made the CIA reference explicit, while his 29 September inte
 **Publication date:** 2026-10-24
 **Title:** Rubio tells Cubans ‘now is the time’ to act to see political change
 **URL:** https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump
+
+---
+
+<!-- analysis-link:2026-10-24-cia-appeal-and-warship-stopover-split-the-u-s-posture-on-cuba-by-audience -->
+**Going deeper:** [Read MSI's analysis of the split U.S. posture on Cuba →](/analyses/2026-10-24-cia-appeal-and-warship-stopover-split-the-u-s-posture-on-cuba-by-audience)
