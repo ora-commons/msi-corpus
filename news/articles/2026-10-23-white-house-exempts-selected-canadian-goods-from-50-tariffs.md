@@ -252,6 +252,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-10-23-tariff-exemptions-reallocate-pressure-rather-than-reduce-it'
 ---
 
 ## White House exempts selected Canadian goods from 50% tariffs
@@ -294,3 +296,8 @@ The economies of Maine and other border states are deeply linked to Canada, and 
 **Publication date:** 2026-10-23
 **Title:** White House says the US is lifting tariffs on some Canadian goods
 **URL:** https://www.bbc.co.uk/news/articles/c60qk573yzz8o
+
+---
+
+<!-- analysis-link:2026-10-23-tariff-exemptions-reallocate-pressure-rather-than-reduce-it -->
+**Going deeper:** [Read MSI's analysis of the Canadian tariff exemption reallocation →](/analyses/2026-10-23-tariff-exemptions-reallocate-pressure-rather-than-reduce-it)

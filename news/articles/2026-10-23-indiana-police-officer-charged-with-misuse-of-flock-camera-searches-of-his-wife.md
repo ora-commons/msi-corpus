@@ -244,6 +244,8 @@ related_stories:
   publish_date: '2026-02-03'
   relation: related
   strength: 0.6639
+analyses:
+- '2026-10-23-indiana-case-turns-flock-misuse-into-definitional-contest'
 ---
 
 ## Indiana police officer charged with misuse of Flock camera searches of his wife
@@ -284,3 +286,8 @@ In August, Flock's CEO announced the company would take steps to curb police abu
 **Publication date:** 2026-10-23
 **Title:** Indiana police officer arrested for using Flock cameras to search wife
 **URL:** https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife
+
+---
+
+<!-- analysis-link:2026-10-23-indiana-case-turns-flock-misuse-into-definitional-contest -->
+**Going deeper:** [Read MSI's analysis of who defines Flock misuse →](/analyses/2026-10-23-indiana-case-turns-flock-misuse-into-definitional-contest)
