@@ -1,7 +1,8 @@
 ---
 headline: Jenkins Makes Trump the Punchline and Omits the Diesel Terms
 publish_date: '2026-10-24'
-lede: Jenkins makes Donald Trump the punchline and leaves the diesel deal’s terms off the table.
+lede: Jenkins makes Donald Trump the punchline and leaves the diesel deal’s terms
+  off the table.
 pen_name: phukher-tarlson
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/jenkins-makes-trump-the-punchline-and-omits-the-diesel-terms.png
+  alt: 'Editorial cartoon by Hector Rentier: Jenkins Makes Trump the Punchline and
+    Omits the Diesel Terms'
+  caption: Jenkins diagnosed the man. He never priced the diesel deal.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-24T22:12:54-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving, Nast/Daumier tradition,
+    pure black masses and carved-out whites, exactly one sepia accent (#6B4226). Center:
+    Holman W. Jenkins Jr., silver-haired, w'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-24-hector-paired-with-2026-10-24-phukher-jenkins-makes-trump-the-punchline-and-omits-the-diesel-terms
 ---
+
+![Editorial cartoon by Hector Rentier: Jenkins Makes Trump the Punchline and Omits the Diesel Terms](/cartoons/jenkins-makes-trump-the-punchline-and-omits-the-diesel-terms.png)
+*Jenkins diagnosed the man. He never priced the diesel deal.*
 
 Jenkins makes Donald Trump the punchline and leaves the diesel deal’s terms off the table.
 
