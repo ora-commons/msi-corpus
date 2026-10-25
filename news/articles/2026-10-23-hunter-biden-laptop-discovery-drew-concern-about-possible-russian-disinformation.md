@@ -242,6 +242,8 @@ related_stories:
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6233
+analyses:
+- '2026-10-23-justice-department-charges-former-fbi-officials-as-laptop-provenance-and-motive-'
 ---
 
 ## Hunter Biden laptop discovery drew concern about possible Russian disinformation
@@ -279,3 +281,8 @@ Floris’s legal team expressed outrage at the development coming from the US De
 **Publication date:** 2026-10-23
 **Title:** Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop
 **URL:** https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop
+
+---
+
+<!-- analysis-link:2026-10-23-justice-department-charges-former-fbi-officials-as-laptop-provenance-and-motive- -->
+**Going deeper:** [Read MSI's analysis of the Hunter Biden laptop case →](/analyses/2026-10-23-justice-department-charges-former-fbi-officials-as-laptop-provenance-and-motive-)
