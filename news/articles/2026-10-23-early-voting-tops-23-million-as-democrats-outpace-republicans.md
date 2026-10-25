@@ -236,6 +236,8 @@ related_stories:
   publish_date: '2026-09-14'
   relation: related
   strength: 0.7085
+analyses:
+- '2026-10-23-early-vote-party-gap-exceeds-what-tracker-data-can-support'
 ---
 
 ## Early voting tops 23 million as Democrats outpace Republicans
@@ -272,3 +274,8 @@ The continued use of mail-in voting comes despite executive orders from the Trum
 **Publication date:** 2026-10-23
 **Title:** Surging turnout, with Democrats voting more: key takeaways from early voting data
 **URL:** https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways
+
+---
+
+<!-- analysis-link:2026-10-23-early-vote-party-gap-exceeds-what-tracker-data-can-support -->
+**Going deeper:** [Read MSI's analysis of the early-vote party gap →](/analyses/2026-10-23-early-vote-party-gap-exceeds-what-tracker-data-can-support)
