@@ -1,9 +1,20 @@
 ---
 headline: Macron says some leaders used French unrest for political campaigns
-secondary_headline: Security plans expand as Paris marches and nationwide union protests approach
+secondary_headline: Security plans expand as Paris marches and nationwide union protests
+  approach
 publish_date: '2026-10-21'
-lede: Emmanuel Macron accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain during a visit to Qatar. Macron separately said AI-generated images depicting scenes that never occurred had circulated and called claims that France had been invaded by hordes of migrants and Islamists “completely false.” The gilets jaunes filed plans for a Saturday march through central Paris, and France’s main trade unions called a nationwide mobilisation for 5 November, after violence and looting followed cost-of-living demonstrations.
-nut_graf: Macron’s comments came as France’s government struggled to control unrest six months before presidential elections to choose his successor. The government admitted that it lost control, several countries issued travel warnings, and the yield on France’s benchmark 10-year government bonds passed 5% on Wednesday, its highest since 2002.
+lede: Emmanuel Macron accused Donald Trump and other foreign leaders of making “stupid
+  comments” about France’s street unrest for political gain during a visit to Qatar.
+  Macron separately said AI-generated images depicting scenes that never occurred
+  had circulated and called claims that France had been invaded by hordes of migrants
+  and Islamists “completely false.” The gilets jaunes filed plans for a Saturday march
+  through central Paris, and France’s main trade unions called a nationwide mobilisation
+  for 5 November, after violence and looting followed cost-of-living demonstrations.
+nut_graf: Macron’s comments came as France’s government struggled to control unrest
+  six months before presidential elections to choose his successor. The government
+  admitted that it lost control, several countries issued travel warnings, and the
+  yield on France’s benchmark 10-year government bonds passed 5% on Wednesday, its
+  highest since 2002.
 primary_entities:
 - Emmanuel Macron
 - Donald Trump
@@ -27,7 +38,8 @@ topic_tags:
 - government
 - international relations
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- french-civil-unrest
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -222,7 +235,8 @@ related_stories:
   relation: related
   strength: 0.6879
 - slug: 2026-05-14-macron-faces-backlash-after-demanding-silence-at-africa-summit-panel-in-kenya
-  headline: Macron faces backlash after demanding silence at Africa summit panel in Kenya
+  headline: Macron faces backlash after demanding silence at Africa summit panel in
+    Kenya
   publish_date: '2026-05-14'
   relation: related
   strength: 0.6782
@@ -237,7 +251,8 @@ related_stories:
   relation: related
   strength: 0.6524
 - slug: 2026-03-04-macron-says-france-will-increase-warheads-and-allow-temporary-nuclear-deployment
-  headline: Macron says France will increase warheads and allow temporary nuclear deployment
+  headline: Macron says France will increase warheads and allow temporary nuclear
+    deployment
   publish_date: '2026-03-04'
   relation: related
   strength: 0.6851

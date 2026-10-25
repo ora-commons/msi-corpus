@@ -33,7 +33,8 @@ primary_themes:
 - global energy markets
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -175,6 +176,7 @@ related_stories:
   relation: related
   strength: 0.7837
 ---
+
 ## Analysts say Trump-Russia diesel volumes too small to ease global squeeze
 
 **Subtype:** fact

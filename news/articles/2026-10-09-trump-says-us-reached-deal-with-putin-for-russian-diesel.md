@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - economy
 - election
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -173,6 +174,7 @@ related_stories:
   relation: related
   strength: 0.7415
 ---
+
 ## Trump says US reached deal with Putin for Russian diesel
 
 **Subtype:** fact

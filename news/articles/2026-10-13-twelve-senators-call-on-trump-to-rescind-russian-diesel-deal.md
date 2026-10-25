@@ -32,7 +32,8 @@ primary_themes:
 - Sanctions enforcement
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -207,6 +208,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Twelve senators call on Trump to rescind Russian diesel deal
 
 **Subtype:** fact

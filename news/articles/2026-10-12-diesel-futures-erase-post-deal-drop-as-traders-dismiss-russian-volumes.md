@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - economy
 - government
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ related_stories:
   relation: related
   strength: 0.7299
 ---
+
 ## Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
 
 **Subtype:** fact

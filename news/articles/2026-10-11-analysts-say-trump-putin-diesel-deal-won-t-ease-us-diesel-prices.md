@@ -30,7 +30,8 @@ primary_themes:
 - Energy trade
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,8 +193,9 @@ related_stories:
   relation: related
   strength: 0.8044
 analyses:
-- '2026-10-11-energy-analysts-see-little-us-pump-relief-in-trump-putin-diesel-waiver'
+- 2026-10-11-energy-analysts-see-little-us-pump-relief-in-trump-putin-diesel-waiver
 ---
+
 ## Analysts say Trump-Putin diesel deal won't ease US diesel prices
 
 **Subtype:** fact

@@ -36,7 +36,8 @@ primary_themes:
 - ukraine-conflict
 topic_tags:
 - law
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ related_stories:
   relation: related
   strength: 0.7409
 ---
+
 ## Bipartisan senators urge Trump to reverse Russian diesel deal
 
 **Subtype:** fact

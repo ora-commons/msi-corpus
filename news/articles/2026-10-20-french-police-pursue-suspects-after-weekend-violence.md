@@ -2,8 +2,17 @@
 headline: French police pursue suspects after weekend violence
 secondary_headline: More than 2,500 detained as Paris courts expand fast-track trials
 publish_date: '2026-10-20'
-lede: French police took more than 2,500 people into custody nationwide after a weekend of violence that left shops ransacked and public buildings damaged. Prime Minister Sébastien Lecornu said police were combing through security-camera footage and social-media videos and promised further arrests, while authorities prepared for planned protests Saturday. The Wall Street Journal described the events as “some of the worst unrest to rock the country in years.”
-nut_graf: The expanding arrest caseload came as police union representative Jean-Christophe Couvy said France lacked enough prosecutors and judges, prisons were overcrowded and officers struggled to gather evidence. The government also is pressing a bill scheduled for Senate debate on Oct. 27 that would make members of violent groups liable for damage caused by others.
+lede: French police took more than 2,500 people into custody nationwide after a weekend
+  of violence that left shops ransacked and public buildings damaged. Prime Minister
+  Sébastien Lecornu said police were combing through security-camera footage and social-media
+  videos and promised further arrests, while authorities prepared for planned protests
+  Saturday. The Wall Street Journal described the events as “some of the worst unrest
+  to rock the country in years.”
+nut_graf: The expanding arrest caseload came as police union representative Jean-Christophe
+  Couvy said France lacked enough prosecutors and judges, prisons were overcrowded
+  and officers struggled to gather evidence. The government also is pressing a bill
+  scheduled for Senate debate on Oct. 27 that would make members of violent groups
+  liable for damage caused by others.
 primary_entities:
 - France
 - Paris
@@ -28,7 +37,8 @@ topic_tags:
 - law enforcement
 - prosecution
 - trial
-storyline_nexus: []
+storyline_nexus:
+- french-civil-unrest
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -178,7 +189,8 @@ related_stories:
   relation: related
   strength: 0.6344
 - slug: 2026-05-13-cite-soleil-residents-demand-protection-after-haiti-gang-violence-displaces-hund
-  headline: Cite Soleil residents demand protection after Haiti gang violence displaces hundreds
+  headline: Cite Soleil residents demand protection after Haiti gang violence displaces
+    hundreds
   publish_date: '2026-05-13'
   relation: related
   strength: 0.617
@@ -188,7 +200,8 @@ related_stories:
   relation: related
   strength: 0.6206
 - slug: 2026-06-07-bbc-investigation-reveals-uk-high-street-shops-as-fronts-for-organized-crime
-  headline: BBC investigation reveals UK High Street shops as fronts for organized crime
+  headline: BBC investigation reveals UK High Street shops as fronts for organized
+    crime
   publish_date: '2026-06-07'
   relation: related
   strength: 0.5931
@@ -198,7 +211,8 @@ related_stories:
   relation: related
   strength: 0.6067
 - slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
+  headline: 4 injured after random weekend shootings in Austin; teens in custody,
+    mayor says
   publish_date: '2026-05-17'
   relation: related
   strength: 0.6
@@ -213,12 +227,14 @@ related_stories:
   relation: related
   strength: 0.6025
 - slug: 2026-05-16-thousands-rally-in-london-under-heavy-police-presence-as-rival-protests-and-fa-c
-  headline: Thousands rally in London under heavy police presence as rival protests and FA Cup final coincide
+  headline: Thousands rally in London under heavy police presence as rival protests
+    and FA Cup final coincide
   publish_date: '2026-05-16'
   relation: related
   strength: 0.5966
 - slug: 2026-05-13-cite-soleil-residents-demand-protection-after-gang-attacks-displace-hundreds-in-
-  headline: Cite Soleil residents demand protection after gang attacks displace hundreds in Haiti's capital
+  headline: Cite Soleil residents demand protection after gang attacks displace hundreds
+    in Haiti's capital
   publish_date: '2026-05-13'
   relation: related
   strength: 0.5924
@@ -228,7 +244,8 @@ related_stories:
   relation: related
   strength: 0.5985
 - slug: 2026-04-24-un-says-haiti-s-new-anti-gang-force-has-funding-pledges-ahead-of-deploy-plan
-  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy plan
+  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy
+    plan
   publish_date: '2026-04-24'
   relation: related
   strength: 0.592
@@ -238,7 +255,8 @@ related_stories:
   relation: related
   strength: 0.6065
 - slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
+  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two
+    years
   publish_date: '2026-04-19'
   relation: related
   strength: 0.5917
@@ -248,7 +266,7 @@ related_stories:
   relation: related
   strength: 0.5991
 analyses:
-- '2026-10-20-french-authorities-expand-detention-and-fast-track-courts-as-response-gaps-surfa'
+- 2026-10-20-french-authorities-expand-detention-and-fast-track-courts-as-response-gaps-surfa
 ---
 
 ## French police pursue suspects after weekend violence

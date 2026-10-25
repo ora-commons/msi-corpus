@@ -32,7 +32,8 @@ primary_themes:
 - Fuel markets
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- us-russian-diesel-trade-and-sanctions-policy
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,8 +194,9 @@ related_stories:
   relation: related
   strength: 0.7192
 analyses:
-- '2026-10-12-bipartisan-senate-objection-joins-market-and-diplomatic-tests-of-russian-diesel-'
+- 2026-10-12-bipartisan-senate-objection-joins-market-and-diplomatic-tests-of-russian-diesel-
 ---
+
 ## Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
 
 **Subtype:** fact
