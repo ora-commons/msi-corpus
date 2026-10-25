@@ -168,6 +168,8 @@ related_stories:
   publish_date: '2026-04-10'
   relation: related
   strength: 0.6062
+analyses:
+- '2026-10-23-mount-sinai-leaves-epstein-review-findings-undisclosed-as-trustees-depart'
 ---
 
 ## Glenn Dubin steps down from Mount Sinai board as Epstein ties draw scrutiny
@@ -219,3 +221,8 @@ This past summer, outside Mount Sinai's annual Crystal Party fundraiser at Chels
 **Publication date:** 2026-10-23
 **Title:** Epstein-linked billionaire Glenn Dubin stepped down from Mount Sinai board earlier this year
 **URL:** https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links
+
+---
+
+<!-- analysis-link:2026-10-23-mount-sinai-leaves-epstein-review-findings-undisclosed-as-trustees-depart -->
+**Going deeper:** [Read MSI's analysis of Mount Sinai's unresolved Epstein review →](/analyses/2026-10-23-mount-sinai-leaves-epstein-review-findings-undisclosed-as-trustees-depart)

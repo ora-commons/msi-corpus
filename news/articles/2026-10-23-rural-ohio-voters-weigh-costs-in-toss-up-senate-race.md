@@ -250,6 +250,8 @@ related_stories:
   publish_date: '2026-05-06'
   relation: related
   strength: 0.7262
+analyses:
+- '2026-10-23-rural-cost-pressures-fracture-ohio-senate-loyalties'
 ---
 
 ## Rural Ohio voters weigh costs in toss-up Senate race
@@ -303,3 +305,8 @@ The interviews did not show rural Ohio moving uniformly toward either party. Gib
 **Publication date:** 2026-10-23
 **Title:** Ohio could decide control of the Senate. Its rural voters might decide the winner
 **URL:** https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters
+
+---
+
+<!-- analysis-link:2026-10-23-rural-cost-pressures-fracture-ohio-senate-loyalties -->
+**Going deeper:** [Read MSI's analysis of rural Ohio's cost-split Senate race →](/analyses/2026-10-23-rural-cost-pressures-fracture-ohio-senate-loyalties)
