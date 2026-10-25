@@ -36,7 +36,8 @@ primary_themes:
 topic_tags:
 - corruption
 - government
-storyline_nexus: []
+storyline_nexus:
+- united-states-visa-restrictions-on-latin-american-officials
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.6804
 ---
+
 ## State Department revokes visas of more than 15 Latin American officials and businessmen
 
 **Subtype:** fact

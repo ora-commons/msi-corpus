@@ -1,7 +1,10 @@
 ---
 headline: California Drew a Line in the Silicon — Now Every Other State Has to Follow
 publish_date: '2026-10-03'
-lede: California governor Gavin Newsom signed the most aggressive package of workplace AI protections in the country on 1 October 2026, and the workers who have been screaming about algorithmic management for years have been handed the first real legal weapon of their fight.
+lede: California governor Gavin Newsom signed the most aggressive package of workplace
+  AI protections in the country on 1 October 2026, and the workers who have been screaming
+  about algorithmic management for years have been handed the first real legal weapon
+  of their fight.
 pen_name: stewart-letterkenski
 primary_entities:
 - Gavin Newsom
@@ -44,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +69,28 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/california-drew-a-line-in-the-silicon-now-every-other-state.png
+  alt: 'Editorial cartoon by Hector Rentier: California Drew a Line in the Silicon
+    — Now Every Other State Has to Follow'
+  caption: He didn't fire anyone. The ranking did — and nobody logged why.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:22:38-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel 1:1, heavy cross-hatch wood-engraving in the Nast/Herblock
+    tradition, pure black masses against carved-out whites. PRIMARY FRAME: a composed,
+    fully individuated corporate executive — ordi'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-03-hector-paired-with-2026-10-03-stewart-letterkenski-technology-2026-oct-03-california-ai-law
 ---
+
+![Editorial cartoon by Hector Rentier: California Drew a Line in the Silicon — Now Every Other State Has to Follow](/cartoons/california-drew-a-line-in-the-silicon-now-every-other-state.png)
+*He didn't fire anyone. The ranking did — and nobody logged why.*
 
 California governor Gavin Newsom signed the most aggressive package of workplace AI protections in the country on 1 October 2026, and the workers who have been screaming about algorithmic management for years have been handed the first real legal weapon of their fight. The mechanics are blunt. Bosses can no longer fire a worker on an AI judgment alone. They cannot deploy systems that predict workers' emotional states. They cannot collect neural data — the electrical signals from brains and nerves — without consent. They cannot surveil bathroom breaks. They must tell a worker when an AI-driven layoff is the reason she is out. That is not a wish list. That is statute.
 

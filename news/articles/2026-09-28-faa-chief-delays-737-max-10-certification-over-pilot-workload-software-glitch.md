@@ -26,7 +26,8 @@ primary_themes:
 - Software reliability
 - Regulatory oversight
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+- boeing-737-max-certification
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -122,6 +123,7 @@ related_stories:
   relation: related
   strength: 0.7871
 ---
+
 ## FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
 
 **Subtype:** fact

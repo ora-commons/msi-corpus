@@ -41,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,7 +63,27 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-word-special-now-means-ransom.png
+  alt: 'Editorial cartoon by Hector Rentier: The Word "Special" Now Means Ransom'
+  caption: The award was special. The bill was not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:06:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 wood-engraving panel, heavy cross-hatch, Nast/Daumier register.
+    Center frame: a composed, fully rendered executive in a well-cut suit, seated
+    at a boardroom desk, receiving an oversized env'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-02-hector-paired-with-2026-10-02-ruth-justice-ecial-payouts-for-executives-are-becomin
 ---
+
+![Editorial cartoon by Hector Rentier: The Word "Special" Now Means Ransom](/cartoons/the-word-special-now-means-ransom.png)
+*The award was special. The bill was not.*
 
 Executive pay in America is not broken. It has been replaced. The word "special" has been drained of meaning and refilled with a holdup note, and the money signing it is yours — through the index funds, the target-date funds, the 401(k) that quietly owns a slice of every boardroom in this column. S&P 500 companies shoved out $1.7 billion in these one-off awards last year, a 50 percent jump in twelve months ([the full tally](2026-10-02-s-p-500-companies-raise-special-executive-payouts-50-to-1-7-billion)). A quarter of the index has now handed out multiple. Nearly half have made at least one in the past two years. The pretense that these are reserved for extraordinary wins is dead, and everybody in the room knows it.
 

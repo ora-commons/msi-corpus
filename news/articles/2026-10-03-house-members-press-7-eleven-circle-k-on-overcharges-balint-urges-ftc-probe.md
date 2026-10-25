@@ -36,7 +36,8 @@ topic_tags:
 - business information
 - consumer goods
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- convenience-store-pricing-compliance
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.6527
 ---
+
 ## House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
 
 **Subtype:** fact

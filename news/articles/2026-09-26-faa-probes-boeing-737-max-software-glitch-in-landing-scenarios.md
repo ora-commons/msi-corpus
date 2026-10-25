@@ -25,7 +25,8 @@ primary_themes:
 - commercial aviation
 topic_tags:
 - disaster
-storyline_nexus: []
+storyline_nexus:
+- boeing-737-max-certification
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -130,6 +131,7 @@ related_stories:
   relation: related
   strength: 0.6914
 ---
+
 ## FAA probes Boeing 737 MAX software glitch in landing scenarios
 
 **Subtype:** fact

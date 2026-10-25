@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
 - politics
 - crime, law and justice
-storyline_nexus: []
+storyline_nexus:
+- brazil-s-2026-presidential-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -183,6 +184,7 @@ related_stories:
   relation: related
   strength: 0.7199
 ---
+
 ## Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
 
 **Subtype:** fact

@@ -38,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +60,29 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-supreme-court-is-now-trumps-courthouse-and-this-new.png
+  alt: 'Editorial cartoon by Hector Rentier: The Supreme Court Is Now Trump''s Courthouse,
+    and This New Term Proves It'
+  caption: Twice as many emergency rulings as merits-docket rulings. That is not a
+    court.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:17:03-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving in the Nast tradition,
+    pure black masses balanced against carved-out whites, figure-ground hierarchy
+    by outline weight. Center frame: the Supreme Cou'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-03-hector-paired-with-2026-10-03-joanna-rivera-blackwell-nx-s1-5986341-supreme-court-term-religion-guns-env
 ---
+
+![Editorial cartoon by Hector Rentier: The Supreme Court Is Now Trump's Courthouse, and This New Term Proves It](/cartoons/the-supreme-court-is-now-trumps-courthouse-and-this-new.png)
+*Twice as many emergency rulings as merits-docket rulings. That is not a court.*
 
 The first Monday in October used to mark a beginning. The ritual is familiar to every American who was taught civics by a teacher who believed in it: the justices file back into the marble, the gavel falls, a new term begins. On Monday, when the nine file back into the courtroom at One First Street, the ritual will be back. The institution behind it is not the one most Americans remember. What begins this week is the next chapter of the most consequential transfer of constitutional power in modern American history. The Supreme Court of the United States has, by design and by accumulation, become the auxiliary courthouse of the second Trump administration. The docket lays the transformation bare.
 

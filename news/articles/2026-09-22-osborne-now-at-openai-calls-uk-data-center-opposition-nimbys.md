@@ -32,7 +32,8 @@ topic_tags:
 - artificial intelligence
 - construction and property
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- united-kingdom-ai-data-centre-development
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -129,6 +130,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Osborne, now at OpenAI, calls UK data center opposition 'nimbys'
 
 **Subtype:** fact

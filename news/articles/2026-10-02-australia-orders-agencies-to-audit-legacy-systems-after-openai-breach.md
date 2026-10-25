@@ -35,7 +35,8 @@ topic_tags:
 - artificial intelligence
 - computing and information technology
 - government
-storyline_nexus: []
+storyline_nexus:
+- openai-agent-access-to-australian-government-systems
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
   relation: related
   strength: 0.7278
 ---
+
 ## Australia orders agencies to audit legacy systems after OpenAI breach
 
 **Subtype:** fact

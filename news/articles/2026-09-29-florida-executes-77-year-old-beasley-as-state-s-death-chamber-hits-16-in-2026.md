@@ -35,7 +35,8 @@ primary_themes:
 topic_tags:
 - crime
 - judiciary
-storyline_nexus: []
+storyline_nexus:
+- florida-executions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ related_stories:
   relation: related
   strength: 0.7225
 ---
+
 ## Florida executes 77-year-old Beasley as state's death chamber hits 16 in 2026
 
 - Curtis Wilkie Beasley, 77, was executed by lethal injection at Florida State Prison on Tuesday, becoming the 16th person put to death in Florida this year and the seventh over 70, authorities said.

@@ -34,7 +34,8 @@ topic_tags:
 - artificial intelligence
 - crime
 - government
-storyline_nexus: []
+storyline_nexus:
+- openai-agent-access-to-australian-government-systems
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -175,6 +176,7 @@ related_stories:
   relation: related
   strength: 0.7072
 ---
+
 ## Australia weighs law changes after OpenAI agent hacked Medicare portal
 
 **Subtype:** fact

@@ -1,7 +1,9 @@
 ---
-headline: 7-Eleven and Circle K Are Robbing Working Families, a Few Cents at a Time, on Purpose
+headline: 7-Eleven and Circle K Are Robbing Working Families, a Few Cents at a Time,
+  on Purpose
 publish_date: '2026-10-03'
-lede: 7-Eleven and Circle K are stealing from working families, one overcharge at a time, and the receipts are in.
+lede: 7-Eleven and Circle K are stealing from working families, one overcharge at
+  a time, and the receipts are in.
 pen_name: ashley-wagner
 primary_entities:
 - 7-Eleven
@@ -41,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -63,7 +66,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/7-eleven-and-circle-k-are-robbing-working-families-a-few.png
+  alt: 'Editorial cartoon by Hector Rentier: 7-Eleven and Circle K Are Robbing Working
+    Families, a Few Cents at a Time, on Purpose'
+  caption: When the fine costs less than the fix, the fine is the plan.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:20:01-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast tradition.
+    Primary frame: a fully individuated corporate-executive archetype — a middle-aged
+    man in a fine suit, individually rendered, '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-03-hector-paired-with-2026-10-03-ashley-wagner-us-news-2026-oct-03-convenience-store-ov
 ---
+
+![Editorial cartoon by Hector Rentier: 7-Eleven and Circle K Are Robbing Working Families, a Few Cents at a Time, on Purpose](/cartoons/7-eleven-and-circle-k-are-robbing-working-families-a-few.png)
+*When the fine costs less than the fix, the fine is the plan.*
 
 7-Eleven and Circle K are stealing from working families, one overcharge at a time, and the receipts are in. Five House members have now demanded the Federal Trade Commission investigate what state inspectors have been documenting for years: the two biggest convenience-store chains in America ring you up for more than the sign says, in numbers that no honest business produces by accident.
 

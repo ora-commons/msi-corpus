@@ -45,7 +45,8 @@ primary_themes:
 - Eighth Amendment
 topic_tags:
 - law
-storyline_nexus: []
+storyline_nexus:
+- christa-pike-s-tennessee-execution-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.8559
 ---
+
 ## Lawyers, doctors, and faith leaders call for US death penalty moratorium
 
 Top lawyers, doctors and members of the faith community are calling for a moratorium on the US death penalty after Tennessee's failed attempt to execute Christa Pike left the prisoner alive but in critical condition and receiving life-saving medical care.

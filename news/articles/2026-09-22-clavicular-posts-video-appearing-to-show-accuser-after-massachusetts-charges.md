@@ -28,7 +28,8 @@ primary_themes:
 - sexual-assault-allegations
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- the-massachusetts-criminal-case-against-braden-peters
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -101,6 +102,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Clavicular posts video appearing to show accuser after Massachusetts charges
 
 **Subtype:** fact

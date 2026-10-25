@@ -27,7 +27,8 @@ primary_themes:
 - influencer-culture
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- the-massachusetts-criminal-case-against-braden-peters
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -153,6 +154,7 @@ related_stories:
   relation: related
   strength: 0.8868
 ---
+
 ## Braden Peters to face Cape Cod arraignment on rape, drugging charges
 
 **Subtype:** fact

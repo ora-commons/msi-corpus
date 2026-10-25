@@ -36,6 +36,7 @@ topic_tags:
 - consumer goods
 storyline_nexus:
 - us-economic-volatility
+- convenience-store-pricing-compliance
 storyline_continuity:
   decision: topical
   selected_prior_ids: []
@@ -167,6 +168,7 @@ related_stories:
   relation: related
   strength: 0.6791
 ---
+
 ## 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
 
 **Subtype:** fact

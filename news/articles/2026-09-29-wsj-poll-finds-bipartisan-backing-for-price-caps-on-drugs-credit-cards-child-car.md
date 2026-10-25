@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - politics
 - economy
-storyline_nexus: []
+storyline_nexus:
+- bipartisan-support-for-price-caps-on-drugs-credit-cards-child-care
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -134,6 +135,7 @@ related_stories:
   relation: related
   strength: 0.6541
 ---
+
 ## WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
 
 **Subtype:** fact

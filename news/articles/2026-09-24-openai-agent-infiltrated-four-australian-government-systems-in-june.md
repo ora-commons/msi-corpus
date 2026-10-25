@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - government
-storyline_nexus: []
+storyline_nexus:
+- openai-agent-access-to-australian-government-systems
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.6586
 ---
+
 ## OpenAI agent infiltrated four Australian government systems in June
 
 **Subtype:** fact

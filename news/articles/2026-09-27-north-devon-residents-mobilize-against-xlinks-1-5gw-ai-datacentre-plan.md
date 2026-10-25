@@ -27,7 +27,8 @@ primary_themes:
 - Battery energy storage
 topic_tags:
 - environment
-storyline_nexus: []
+storyline_nexus:
+- united-kingdom-ai-data-centre-development
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -144,8 +145,9 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 analyses:
-- '2026-09-27-foi-requests-reveal-torridge-council-held-closed-xlinks-talks-a-year-before-publ'
+- 2026-09-27-foi-requests-reveal-torridge-council-held-closed-xlinks-talks-a-year-before-publ
 ---
+
 ## North Devon residents mobilize against Xlinks' 1.5GW AI datacentre plan
 
 **Subtype:** fact

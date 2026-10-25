@@ -19,7 +19,8 @@ primary_themes:
 - regulatory scrutiny
 topic_tags:
 - transport
-storyline_nexus: []
+storyline_nexus:
+- boeing-737-max-certification
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -160,6 +161,7 @@ related_stories:
   relation: related
   strength: 0.7008
 ---
+
 ## Software glitch delays approval of Boeing's newest 737 MAX
 
 **Subtype:** fact

@@ -1,5 +1,6 @@
 ---
-headline: '$6.53 a gallon: the diesel squeeze is a foreign-policy receipt, and truckers are signing for it'
+headline: '$6.53 a gallon: the diesel squeeze is a foreign-policy receipt, and truckers
+  are signing for it'
 publish_date: '2026-10-04'
 lede: The math is killing them.
 pen_name: prudence-wonk
@@ -37,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +61,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/653-a-gallon-the-diesel-squeeze-is-a-foreign-policy-receipt.png
+  alt: 'Editorial cartoon by Hector Rentier: $6.53 a gallon: the diesel squeeze is
+    a foreign-policy receipt, and truckers are…'
+  caption: The foreign policy is a receipt. The trucker signs for it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:26:41-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel 1:1 wood-engraving, heavy cross-hatch throughout, figure-ground
+    separated by outline weight, pure black masses balanced against carved-out whites.
+    PRIMARY FRAME, center-left: an independe'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-04-hector-paired-with-2026-10-04-prudence-wonk-e-using-every-trick-they-can-to-survive-
 ---
+
+![Editorial cartoon by Hector Rentier: $6.53 a gallon: the diesel squeeze is a foreign-policy receipt, and truckers are…](/cartoons/653-a-gallon-the-diesel-squeeze-is-a-foreign-policy-receipt.png)
+*The foreign policy is a receipt. The trucker signs for it.*
 
 The math is killing them. At a Flying J off Interstate 10 in Orange, Texas, just across the Louisiana line, the twelve fuel lanes were busy and the concourse was empty. Three rows of brown pleather armchairs faced a TV tuned to the American Heroes Channel to no one in particular. Fourteen showers went mostly unused. Drivers sprinted in, paid, and sprinted back to their rigs. That is the picture: the freight is moving, the men are moving, and the money is moving out of their accounts faster than it comes in. Independent driver Agron Berani filled his 18-wheeler at that pump last week and watched it climb to $944.44 — nearly double what the same 151 gallons would have cost a year ago, when a fill-up ran him around $500. Diesel at that pump Thursday was $6.26. The national average hit $6.53, up nearly $3 from a year ago. Berani, 56, came to this country from Kosovo, voted for Donald Trump the first chance he got, and now blames that same president for the fuel bill that is eating his livelihood. The contradiction isn't hypocrisy. It's arithmetic. That is not a poll number. That is a swing voter in a Peterbilt. A month before the midterms.
 

@@ -30,7 +30,8 @@ primary_themes:
 topic_tags:
 - politics
 - crime
-storyline_nexus: []
+storyline_nexus:
+- united-states-visa-restrictions-on-latin-american-officials
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -172,6 +173,7 @@ related_stories:
   relation: related
   strength: 0.66
 ---
+
 ## Bolivia arrests attorney general two days after US revokes visa
 
 **Subtype:** fact

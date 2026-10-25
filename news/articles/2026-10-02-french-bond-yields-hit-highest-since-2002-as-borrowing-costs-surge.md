@@ -30,7 +30,8 @@ primary_themes:
 - Monetary policy
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- france-s-public-finances-and-european-borrowing-costs
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.8086
 ---
+
 ## French bond yields hit highest since 2002 as borrowing costs surge
 
 **Subtype:** fact

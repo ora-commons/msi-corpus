@@ -23,7 +23,8 @@ primary_themes:
 - Minnesota welfare-fraud case
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- federal-investigation-into-rep-ilhan-omar-s-immigration-and-naturalizati
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.6684
 ---
+
 ## Omar denies brother-marriage allegation as DHS chief cites federal probe
 
 **Subtype:** fact

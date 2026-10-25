@@ -24,7 +24,8 @@ topic_tags:
 - economy
 - government
 - international military intervention
-storyline_nexus: []
+storyline_nexus:
+- australia-s-economic-fallout-from-the-iran-war
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ related_stories:
   relation: related
   strength: 0.6591
 ---
+
 ## Chalmers warns of intensifying budget pressure, insists he is not planning for recession
 
 **Subtype:** fact

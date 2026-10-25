@@ -30,7 +30,8 @@ topic_tags:
 - artificial intelligence
 - climate change
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- technology-ipo-market-volatility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.6984
 ---
+
 ## Oura delays IPO as volatility, AI safety fears stall fall listings
 
 **Subtype:** fact

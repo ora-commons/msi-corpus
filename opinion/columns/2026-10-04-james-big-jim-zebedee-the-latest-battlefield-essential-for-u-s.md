@@ -1,7 +1,8 @@
 ---
 headline: Contractors Took Billions and Handed Soldiers Radios That Die at the Breach
 publish_date: '2026-10-04'
-lede: The Army's contractors took billions and handed soldiers radios that die at the breach.
+lede: The Army's contractors took billions and handed soldiers radios that die at
+  the breach.
 pen_name: james-big-jim-zebedee
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/contractors-took-billions-and-handed-soldiers-radios-that.png
+  alt: 'Editorial cartoon by Hector Rentier: Contractors Took Billions and Handed
+    Soldiers Radios That Die at the Breach'
+  caption: The platter was full. The radio was dead.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:31:39-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 wood-engraving panel, heavy cross-hatch, pure blacks balanced
+    against carved whites. Top edge: a hand-lettered banner-scroll carrying the Eisenhower
+    quotation in full — ''In the councils of '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-04-hector-paired-with-2026-10-04-james-big-jim-zebedee-the-latest-battlefield-essential-for-u-s
 ---
+
+![Editorial cartoon by Hector Rentier: Contractors Took Billions and Handed Soldiers Radios That Die at the Breach](/cartoons/contractors-took-billions-and-handed-soldiers-radios-that.png)
+*The platter was full. The radio was dead.*
 
 The Army's contractors took billions and handed soldiers radios that die at the breach.
 

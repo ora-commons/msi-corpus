@@ -18,7 +18,8 @@ primary_entities: []
 primary_themes: []
 topic_tags:
 - election
-storyline_nexus: []
+storyline_nexus:
+- bipartisan-support-for-price-caps-on-drugs-credit-cards-child-care
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -100,8 +101,9 @@ related_stories:
   relation: related
   strength: 0.671
 analyses:
-- '2026-09-20-anti-establishment-diagnostic-migrates-from-prior-carrier-to-second-term-trump'
+- 2026-09-20-anti-establishment-diagnostic-migrates-from-prior-carrier-to-second-term-trump
 ---
+
 ## Anti-establishment rage reshapes 2026 US midterm landscape
 
 **Subtype:** fact

@@ -1,7 +1,10 @@
 ---
-headline: Bessent Dodged the Medicare Tax on His Hedge-Fund Income. The Courts Forced Him to Pay.
+headline: Bessent Dodged the Medicare Tax on His Hedge-Fund Income. The Courts Forced
+  Him to Pay.
 publish_date: '2026-10-01'
-lede: Scott Bessent dodged the 3.8% Medicare tax on his hedge-fund earnings — the strategy Senate Democrats contended saved him more than $900,000 — and paid only when the federal courts forced his hand.
+lede: Scott Bessent dodged the 3.8% Medicare tax on his hedge-fund earnings — the
+  strategy Senate Democrats contended saved him more than $900,000 — and paid only
+  when the federal courts forced his hand.
 pen_name: thomas-reynolds
 primary_entities:
 - Internal Revenue Service
@@ -41,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,7 +66,28 @@ cross_article_links:
   strength: 0.3831
   confidence: high
 draft: false
+image:
+  url: /cartoons/bessent-dodged-the-medicare-tax-on-his-hedge-fund-income.png
+  alt: 'Editorial cartoon by Hector Rentier: Bessent Dodged the Medicare Tax on His
+    Hedge-Fund Income. The Courts Forced Him to Pay.'
+  caption: He called it restraint. The restraint was his own.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T07:59:25-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving. Center frame: Scott
+    Bessent — mid-sixties, bespectacled, neat silver hair, dark suit, composed and
+    ordinary in feature — kneels in apparent prayer '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-01-hector-paired-with-2026-10-01-thomas-reynolds-policy-hedge-fund-managers-lose-out-on-l
 ---
+
+![Editorial cartoon by Hector Rentier: Bessent Dodged the Medicare Tax on His Hedge-Fund Income. The Courts Forced Him to Pay.](/cartoons/bessent-dodged-the-medicare-tax-on-his-hedge-fund-income.png)
+*He called it restraint. The restraint was his own.*
 
 Scott Bessent dodged the 3.8% Medicare tax on his hedge-fund earnings — the strategy Senate Democrats contended saved him more than $900,000 — and paid only when the federal courts forced his hand. The sitting Treasury Secretary used the limited-partner strategy while running Key Square Group. At his 2025 confirmation hearing, he told senators he was keeping the disputed money in a reserve fund and would respect the outcome of cases that did not involve him. The 2nd and 5th U.S. Circuit Courts of Appeals then ruled against the strategy. Bessent settled with the government this summer, according to a person familiar with the matter. Senate Democrats pressed him again in a letter after the rulings, arguing his wait-and-see posture had run its course and asking whether he had paid. He settled. The agency he now oversees was litigating against the very strategy he had used.
 

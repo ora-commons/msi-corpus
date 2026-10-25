@@ -26,7 +26,8 @@ primary_themes:
 - Criminal justice
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- christa-pike-s-tennessee-execution-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.8002
 ---
+
 ## Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV
 
 **Subtype:** fact

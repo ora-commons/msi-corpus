@@ -41,7 +41,8 @@ topic_tags:
 - economy
 - election
 - politics
-storyline_nexus: []
+storyline_nexus:
+- president-donald-trump-s-2026-midterm-campaign
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,8 +199,9 @@ related_stories:
   relation: related
   strength: 0.7638
 analyses:
-- '2026-10-04-trump-s-safe-state-rallies-diverge-from-republican-campaign-calculations'
+- 2026-10-04-trump-s-safe-state-rallies-diverge-from-republican-campaign-calculations
 ---
+
 ## Trump launches 32-day midterm rally blitz through GOP strongholds
 
 **Subtype:** fact

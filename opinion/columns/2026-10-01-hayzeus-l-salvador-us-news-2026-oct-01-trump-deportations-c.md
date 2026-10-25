@@ -38,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +61,30 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/donald-trump-is-deporting-the-innocent-on-a-stolen-crime.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Is Deporting the Innocent
+    on a Stolen Crime Statistic'
+  caption: He claimed a crime drop that began in 2023 — then removed the innocent.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-06T08:04:16-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving, figure-ground hierarchy
+    by outline weight, pure black masses against carved-out whites.
+
+
+    Center-right: Donald Trump, a fully individuated, recogniza'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-01-hector-paired-with-2026-10-01-hayzeus-l-salvador-us-news-2026-oct-01-trump-deportations-c
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Is Deporting the Innocent on a Stolen Crime Statistic](/cartoons/donald-trump-is-deporting-the-innocent-on-a-stolen-crime.png)
+*He claimed a crime drop that began in 2023 — then removed the innocent.*
 
 Donald Trump is stripping innocent people of their homes on a stolen crime statistic.
 
