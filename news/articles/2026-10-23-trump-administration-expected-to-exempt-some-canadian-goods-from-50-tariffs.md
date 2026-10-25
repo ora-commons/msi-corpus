@@ -242,6 +242,8 @@ related_stories:
   publish_date: '2026-06-14'
   relation: related
   strength: 0.6928
+analyses:
+- '2026-10-23-trump-administration-reportedly-weighs-canada-tariff-relief-for-collins'
 ---
 
 ## Trump administration expected to exempt some Canadian goods from 50% tariffs
@@ -282,3 +284,8 @@ Three points remained unresolved in the report: when the proclamation would arri
 **Publication date:** 2026-10-23
 **Title:** Trump Expected to Remove Some Tariffs on Canada in Bid to Help Susan Collins
 **URL:** https://www.wsj.com/politics/policy/trump-expected-to-remove-some-tariffs-on-canada-in-bid-to-help-susan-collins-6a89ed1d
+
+---
+
+<!-- analysis-link:2026-10-23-trump-administration-reportedly-weighs-canada-tariff-relief-for-collins -->
+**Going deeper:** [Read MSI's analysis of tariff relief and electoral leverage →](/analyses/2026-10-23-trump-administration-reportedly-weighs-canada-tariff-relief-for-collins)
