@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - crime
 - education
-storyline_nexus: []
+storyline_nexus:
+- the-cornell-jane-doe-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.7677
 ---
+
 ## Lawyer says Cornell rape accuser is "under siege" from online sleuths
 
 **Subtype:** fact

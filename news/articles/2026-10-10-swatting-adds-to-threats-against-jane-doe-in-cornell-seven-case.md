@@ -40,7 +40,8 @@ primary_themes:
 - Gaza humanitarian toll
 topic_tags:
 - crime, law and justice
-storyline_nexus: []
+storyline_nexus:
+- the-cornell-jane-doe-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.6772
 ---
+
 ## Swatting adds to threats against Jane Doe in Cornell seven case
 
 **Subtype:** fact
