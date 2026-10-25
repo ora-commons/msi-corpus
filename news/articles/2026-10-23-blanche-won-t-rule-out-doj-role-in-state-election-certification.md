@@ -251,6 +251,8 @@ related_stories:
   publish_date: '2026-05-23'
   relation: related
   strength: 0.6769
+analyses:
+- '2026-10-23-justice-department-certification-cases-expose-unresolved-federal-state-authority'
 ---
 
 ## Blanche won't rule out DOJ role in state election certification
@@ -287,3 +289,8 @@ U.S. Sen. Dan S. Sullivan has held his office since 2015. The Wall Street Journa
 **Publication date:** 2026-10-23
 **Title:** Justice Department Sues to Block Alaska Senate Results If GOP Candidate Loses
 **URL:** https://www.wsj.com/politics/elections/justice-department-sues-to-block-alaska-senate-results-if-gop-candidate-loses-c2597f6c
+
+---
+
+<!-- analysis-link:2026-10-23-justice-department-certification-cases-expose-unresolved-federal-state-authority -->
+**Going deeper:** [Read MSI's analysis of federal intervention in state election certification →](/analyses/2026-10-23-justice-department-certification-cases-expose-unresolved-federal-state-authority)
