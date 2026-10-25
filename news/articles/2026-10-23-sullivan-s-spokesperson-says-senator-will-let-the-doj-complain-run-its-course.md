@@ -252,6 +252,8 @@ related_stories:
   publish_date: '2026-01-12'
   relation: related
   strength: 0.7335
+analyses:
+- '2026-10-23-doj-preemptive-suit-ties-alaska-certification-delay-to-combined-sullivan-tally'
 ---
 
 ## Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
@@ -289,3 +291,8 @@ Trump's statement Friday came after Blanche's Thursday assurance, and the two de
 **Publication date:** 2026-10-23
 **Title:** Justice Department asks courts to block Alaska Senate race if Democrat wins
 **URL:** https://www.upi.com/Top_News/US/2026/10/23/doj-alaska-senate-race/7571792778090/
+
+---
+
+<!-- analysis-link:2026-10-23-doj-preemptive-suit-ties-alaska-certification-delay-to-combined-sullivan-tally -->
+**Going deeper:** [Read MSI's analysis of DOJ's preemptive Alaska certification suit →](/analyses/2026-10-23-doj-preemptive-suit-ties-alaska-certification-delay-to-combined-sullivan-tally)
