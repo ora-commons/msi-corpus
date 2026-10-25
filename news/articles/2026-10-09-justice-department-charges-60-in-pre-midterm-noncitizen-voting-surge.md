@@ -29,7 +29,8 @@ topic_tags:
 - election
 - crime
 - prosecution
-storyline_nexus: []
+storyline_nexus:
+- federal-prosecution-of-noncitizen-voting
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.7537
 ---
+
 ## Justice Department charges 60+ in pre-midterm noncitizen voting surge
 
 **Subtype:** fact
