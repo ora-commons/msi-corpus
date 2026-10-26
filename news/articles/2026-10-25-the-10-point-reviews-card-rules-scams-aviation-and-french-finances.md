@@ -255,6 +255,8 @@ related_stories:
   publish_date: '2026-01-13'
   relation: related
   strength: 0.6365
+analyses:
+- '2026-10-25-card-issuers-tighten-controls-as-institutions-navigate-rising-uncertainty'
 ---
 
 ## The 10-Point reviews card rules, scams, aviation and French finances
@@ -301,3 +303,8 @@ The 10-Point was curated and edited by Bharbi Hazarika and Natasha Dangoor in co
 **Publication date:** 2026-10-25
 **Title:** The Growing Battle Between Credit-Card Firms and Points Junkies
 **URL:** https://www.wsj.com/articles/the-growing-battle-between-credit-card-firms-and-points-junkies-e840b792
+
+---
+
+<!-- analysis-link:2026-10-25-card-issuers-tighten-controls-as-institutions-navigate-rising-uncertainty -->
+**Going deeper:** [Read MSI's analysis of institutional responses to volatile conditions →](/analyses/2026-10-25-card-issuers-tighten-controls-as-institutions-navigate-rising-uncertainty)
