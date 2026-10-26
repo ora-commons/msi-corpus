@@ -1,9 +1,9 @@
 ---
-headline: Prosecutors charge 15 in Southern California healthcare fraud case
-secondary_headline: At least eight arrested; at least six of the 15 charged were doctors
+headline: Prosecutors charge 15 over alleged healthcare fraud in Southern California
+secondary_headline: Network of fake substance-abuse treatment centers allegedly collected more than $1.5 billion
 publish_date: '2026-10-22'
-lede: The U.S. Department of Justice and state prosecutors charged 15 people in Southern California with alleged healthcare fraud and said at least eight of the 15 charged people had been arrested as of Thursday’s announcement. Prosecutors alleged nearly $2 billion in fraudulent healthcare costs in a case involving substance-abuse treatment centers, hospice services and surgeons in California. At least six of the 15 charged people were doctors, according to prosecutors, including one accused of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million.
-nut_graf: Prosecutors charged 15 people, reported that at least eight of the 15 charged people had been arrested so far and alleged nearly $2 billion in fraudulent healthcare costs. The case involved substance-abuse treatment centers, hospice services and surgeons, and at least six of the 15 charged people were doctors.
+lede: The U.S. Department of Justice and state prosecutors charged 15 people in Southern California with alleged healthcare fraud and alleged nearly $2 billion in fraudulent healthcare costs; prosecutors said at least eight of the 15 charged people had been arrested. Federal authorities arrested chiropractor Hany Malek, 61, and the charges named surgeon Harold Tabaie, 78; prosecutors alleged the pair made roughly $134 million through medically unnecessary procedures. No attorneys were listed for either man, and efforts to reach them through phones listed on public records were unsuccessful Thursday morning. At least six of the 15 charged people were doctors, including one accused of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million; prosecutors also alleged that dozens of fake substance-abuse treatment centers collected more than $1.5 billion for addiction treatment that was never provided.
+nut_graf: 'The case alleges nearly $2 billion in fraudulent healthcare costs connected to substance-abuse treatment centers, hospice services and surgeons, with at least six doctors among the 15 charged people. The announcement was followed by a dispute over federal and California responsibility: Gov. Gavin Newsom said most of the fraud targeted in Thursday''s raid was for federal or private insurance, while California helped target the case affecting state-funded public insurance.'
 primary_entities:
 - U.S. Department of Justice
 - National Fraud Enforcement Division
@@ -241,29 +241,46 @@ related_stories:
   strength: 0.6596
 ---
 
-## Prosecutors charge 15 in Southern California healthcare fraud case
+## Prosecutors charge 15 over alleged healthcare fraud in Southern California
 
 **Subtype:** fact
 
-- The U.S. Department of Justice and state prosecutors charged 15 people in Southern California with alleged healthcare fraud.
-- Prosecutors said at least eight of the 15 charged people had been arrested as of Thursday’s announcement.
-- Prosecutors alleged nearly $2 billion in fraudulent healthcare costs involving substance-abuse treatment centers, hospice services and surgeons in California.
-- Prosecutors said at least six of the 15 charged people were doctors.
-- Prosecutors accused one doctor of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million.
+- The U.S. Department of Justice and state prosecutors charged 15 people in Southern California in an alleged healthcare fraud case involving nearly $2 billion.
+- Prosecutors said at least eight of the 15 charged people had been arrested as of Thursday's announcement.
+- Prosecutors said at least six of the 15 charged people were doctors, including one accused of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million.
+- Prosecutors alleged that a network of dozens of fake substance-abuse treatment centers collected more than $1.5 billion for addiction treatment that was never provided.
+- Prosecutors alleged that chiropractor Hany Malek, 61, and surgeon Harold Tabaie, 78, made roughly $134 million through medically unnecessary procedures.
+- Gavin Newsom said most of the fraud targeted in Thursday's raid was for federal or private insurance and that California helped federal authorities target the case affecting state-funded public insurance.
 
-## At least eight arrested; at least six of the 15 charged were doctors
+## Network of fake substance-abuse treatment centers allegedly collected more than $1.5 billion
 
 The U.S. Department of Justice and state prosecutors announced Thursday that 15 people in Southern California had been charged in a healthcare fraud case. At least six of the 15 charged people were doctors, according to prosecutors. Prosecutors also said at least eight of the 15 charged people had been arrested so far.
 
+Prosecutors alleged nearly $2 billion in fraudulent healthcare costs. The alleged fraud involved substance-abuse treatment centers, hospice services and surgeons in California. One of the doctors among those charged was accused of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million. That $130 million allegation concerned one doctor, while nearly $2 billion was the total cited for the case. Prosecutors alleged that a network of dozens of fake substance-abuse treatment centers collected more than $1.5 billion — the bulk of the roughly $2 billion total — for addiction treatment that was never provided.
+
 ## Billing-scheme allegations
 
-Prosecutors alleged nearly $2 billion in fraudulent healthcare costs. The alleged fraud involved substance-abuse treatment centers, hospice services and surgeons in California.
+In the pre-dawn hours of Thursday morning, federal authorities descended on a massive gated house in the upscale residential neighborhood of Tarzana in Los Angeles. There, they arrested Hany Malek, 61, a chiropractor indicted on charges that he posed as a doctor to refer patients for medically unnecessary atherectomies. An atherectomy is an invasive procedure in which a catheter is used to clear plaque from arteries.
 
-One of the doctors among those charged was accused of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million. That $130 million allegation concerned one doctor, while nearly $2 billion was the total cited for the case.
+Prosecutors alleged that Malek referred the patients to his business partner and surgeon, Dr. Harold Tabaie, 78, of Anaheim. They alleged that Tabaie sometimes falsely told patients the initial surgery had been unsuccessful to justify another procedure. The men allegedly made roughly $134 million through the unnecessary procedures.
+
+Both men are charged with four counts of healthcare fraud, and Malek is charged with two additional counts of bank fraud. No attorneys were listed for either Malek or Tabaie. Efforts to reach both men through phones listed on public records were unsuccessful on Thursday morning.
 
 ## Enforcement context
 
-The Associated Press characterized the announcement as coming as President Donald Trump’s administration ramps up efforts to end abuse of federal aid programs. McDonald was flanked by FBI officials and First Assistant U.S. Attorney Bill Essayli at the announcement. “If you treat healthcare patients as dollar bills, the Department of Justice is coming for you,” said Colin M. McDonald, assistant attorney general for the National Fraud Enforcement Division.
+"If you treat healthcare patients as dollar bills, the Department of Justice is coming for you," said Colin M. McDonald, assistant attorney general for the National Fraud Enforcement Division. McDonald was flanked by FBI officials and First Assistant U.S. Attorney Bill Essayli.
+
+Essayli criticized California's state government, which has lately had increasingly public disputes with Trump's federal government, and called the state the "king of fraud." Democratic Gov. Gavin Newsom responded on social media, writing that the majority of the fraud targeted in Thursday's raid was for federal or private insurance. Newsom also wrote that the state helped the federal government in targeting the case that affected state-funded public insurance.
+
+The Associated Press characterized the announcement as coming as President Donald Trump's administration ramps up efforts to end abuse of federal aid programs. The report described the operation as the latest in a recent wave of arrests related to alleged public benefits fraud, an issue that has emerged as a cornerstone of the president's agenda throughout his second term.
+
+Trump and Vice President JD Vance on Tuesday announced a $25 million program to encourage whistleblowers to report suspected fraud in the U.S. government. The Associated Press reported that high-ranking federal officials in recent days "have touted the crackdowns across the country" ahead of a competitive midterm election that will decide the balance of power in the U.S. Congress for the final two years of Trump's second term.
+
+Vance and Attorney General Todd Blanche announced in Cincinnati on Wednesday that the administration had uncovered over $40 million in fraudulent Supplemental Nutrition Assistance Program benefits nationwide since September. Thirteen people in Ohio were indicted as part of that operation.
+
+In Missouri, Republican Gov. Mike Kehoe on Thursday announced a collaborative effort with the U.S. Department of Justice to "aggressively identify, investigate and prosecute fraud" in Medicaid, SNAP and other federally funded benefits administered by the state. “Missouri is all-in in the Trump administration’s unprecedented war on fraud,” Kehoe said while flanked by Missouri Attorney General Catherine Hanaway and two U.S. attorneys. Hanaway said the endeavor was a continuation of existing antifraud efforts, with improved federal-state cooperation.
+
+Associated Press writer David A. Lieb contributed from Jefferson City, Missouri.
 
 ## Sources
 

@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-04-22'
   relation: related
   strength: 0.6192
+analyses:
+- '2026-10-25-federal-filings-place-herndon-s-vehicle-in-a-broader-road-shooting-investigation'
 ---
 
 ## Federal court documents show Herndon has been charged in a second shooting incident
@@ -282,3 +284,8 @@ Federal court documents show that Herndon has been charged in the second shootin
 **Publication date:** 2026-10-25
 **Title:** Suspect in shooting death of teen on Missouri highway charged in second road incident
 **URL:** https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway
+
+---
+
+<!-- analysis-link:2026-10-25-federal-filings-place-herndon-s-vehicle-in-a-broader-road-shooting-investigation -->
+**Going deeper:** [Read MSI's analysis of Herndon’s federal and state cases →](/analyses/2026-10-25-federal-filings-place-herndon-s-vehicle-in-a-broader-road-shooting-investigation)

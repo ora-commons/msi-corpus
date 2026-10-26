@@ -250,6 +250,8 @@ related_stories:
   publish_date: '2026-04-01'
   relation: related
   strength: 0.6739
+analyses:
+- '2026-10-25-independent-senate-campaigns-test-democratic-party-building-strategies'
 ---
 
 ## Independent Senate candidates run in four Trump-won states
@@ -308,3 +310,8 @@ The two races show different Democratic responses to the independent campaigns. 
 **Publication date:** 2026-10-25
 **Title:** Independent candidates sense a moment in the West. Democrats are hoping they're right
 **URL:** https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana
+
+---
+
+<!-- analysis-link:2026-10-25-independent-senate-campaigns-test-democratic-party-building-strategies -->
+**Going deeper:** [Read MSI's analysis of independent Senate campaigns and Democratic strategy →](/analyses/2026-10-25-independent-senate-campaigns-test-democratic-party-building-strategies)
