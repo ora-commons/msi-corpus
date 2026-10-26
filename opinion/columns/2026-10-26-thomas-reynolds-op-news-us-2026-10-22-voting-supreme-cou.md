@@ -36,7 +36,7 @@ cross_article_links:
   relation: extends
   strength: 0.0
   confidence: high
-draft: false
+draft: true
 backlog_release: true
 ---
 
