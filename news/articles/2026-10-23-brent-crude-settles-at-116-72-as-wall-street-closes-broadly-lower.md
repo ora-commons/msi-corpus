@@ -2,8 +2,8 @@
 headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
 secondary_headline: AI-related shares rallied, cushioning a broad decline across the S&P 500
 publish_date: '2026-10-23'
-lede: Wall Street closed broadly lower on Friday, October 23, 2026, as Brent crude oil rose 3.1% to settle at $116.72 a barrel, its highest close since June 2022. The S&P 500 fell 0.5%, the Dow Jones Industrial Average dropped 1.2% and the Nasdaq composite slipped 0.2% after giving up a modest gain.
-nut_graf: 'Friday''s session put two developments on the same screen: crude oil at a close not seen since June 2022, and the S&P 500 absorbing a second consecutive weekly loss. The market''s losses were broad, with nearly three out of every four S&P 500 stocks falling, while a rally in AI-related companies kept the decline from being steeper.'
+lede: Wall Street closed broadly lower on Friday, October 23, 2026, as Brent crude oil rose 3.1% to settle at $116.72 a barrel, its highest close since June 2022. The S&P 500 fell 0.5%, the Dow Jones Industrial Average dropped 1.2% and the Nasdaq composite slipped 0.2% after giving up a modest gain. The U.S. war with Iran had severely cut the world's oil supply, driving energy prices higher. Wall Street expected the Federal Reserve to hold rates steady at its meeting next week but leaned heavily toward another rate hike in December, while U.S. inflation remained above 3% and the upcoming PCE report was expected to show 3.7% September inflation, above the Federal Reserve's 2% target.
+nut_graf: 'Friday''s session put two developments on the same screen: crude oil at a close not seen since June 2022, and the S&P 500 absorbing a second consecutive weekly loss. The market''s losses were broad, with nearly three out of every four S&P 500 stocks falling, while a rally in AI-related companies kept the decline from being steeper. The backdrop also included a Federal Reserve rate increase at its last meeting, Wall Street''s expectation of a rate hold next week and a heavy lean toward another December hike, and an upcoming PCE report expected to show 3.7% September inflation, above the Federal Reserve''s 2% target.'
 primary_entities:
 - Brent crude oil
 - S&P 500
@@ -254,30 +254,46 @@ related_stories:
 
 **Subtype:** fact
 
-- Rising oil prices weighed on Wall Street on Friday, with Brent crude settling at $116.72 a barrel, its highest close since June 2022.
-- The S&P 500 fell 0.5%, adding to its decline from a day earlier and posting a second straight weekly loss.
-- The Dow Jones Industrial Average fell 1.2%.
-- The Nasdaq composite slipped 0.2% after giving up a modest gain.
+- The U.S. war with Iran severely cut the world's oil supply and drove energy prices higher, with Brent crude settling at $116.72 a barrel, its highest close since June 2022, as Wall Street declined.
+- All three major Wall Street indexes closed lower: the S&P 500 fell 0.5% after a prior-day decline and posted a second straight weekly loss, the Dow Jones Industrial Average fell 1.2%, and the Nasdaq composite slipped 0.2%.
 - Nearly three out of every four stocks within the S&P 500 fell on Friday.
-- Micron Technology rose 2.5% on Friday as AI-related companies rallied.
+- Micron Technology rose 2.5% as AI-related companies rallied and helped cushion the broader market decline.
+- Wall Street expected the Federal Reserve to hold rates steady at its meeting next week but leaned heavily toward another rate hike in December.
+- U.S. inflation remained stubbornly above 3%, while the upcoming PCE report was expected to show 3.7% September inflation, sharply above the Federal Reserve's 2% target.
 
 ## AI-related shares rallied, cushioning a broad decline across the S&P 500
 
-Wall Street closed broadly lower on Friday, October 23, 2026, as oil prices climbed to their highest level in more than four years and renewed pressure from crude weighed on trading.
+Wall Street closed broadly lower on Friday, October 23, 2026, as oil prices climbed to their highest level in more than four years and higher crude prices added to pressure on trading.
 
 Brent crude oil rose 3.1% to settle at $116.72 a barrel, a closing price the market has not reached since June 2022. The gain extended a surge that began with the month: the price of Brent crude was below $97 at the start of October.
 
-The S&P 500 fell 0.5%, adding to its decline from a day earlier and leaving the index with a second consecutive weekly loss.
-
-The Dow Jones Industrial Average fell 1.2%, and the Nasdaq composite slipped 0.2% after giving up a modest gain.
+The S&P 500 fell 0.5%, adding to its decline from a day earlier and leaving the index with a second consecutive weekly loss. The Dow Jones Industrial Average fell 1.2%, and the Nasdaq composite slipped 0.2% after giving up a modest gain.
 
 The decline was broad. Nearly three out of every four stocks within the S&P 500 fell on the session, with rising oil prices weighing heavily on the market.
 
+The Associated Press reported that the U.S. war with Iran had severely cut the world's oil supply, driving energy prices higher and fueling a sharp jump in costs ranging from gasoline to food and clothes.
+
 Several AI-related companies rallied on Friday, easing some of the impact from the broader slide. Micron Technology rose 2.5%, Intel gained 1.7%, Microsoft added 0.7% and Advanced Micro Devices closed 1.7% higher.
 
-Those gains cushioned the session without reversing it. The major indexes finished lower together, and the S&P 500's second straight weekly loss came in a session that closed crude at its highest level in more than four years.
+The technology sector's influence was capable of quickly switching over to a heavy weight. Stocks that had benefited from the AI frenzy had been swinging as investors grew more concerned about their path ahead and whether their high prices were justified. Many of those companies had borrowed to fund investments in AI technology, and high interest rates were making those loans more expensive.
 
-Friday's closing data showed a market pulled in two directions at once: an across-the-board decline in the S&P 500 that stretched to a second straight week, and gains in AI-related shares that softened the fall. Between them, the session ended with oil at $116.72 a barrel and all three major Wall Street indexes lower.
+Angelo Kourkafas, senior global strategist at Edward Jones, said in a research note that “Investors appear increasingly focused on the economics of AI, particularly the substantial upfront costs required to build AI infrastructure and the uncertainty around the timing of returns on those investments.”
+
+The latest round of corporate earnings was being closely watched to help determine whether AI investments were paying off or might do so. Several influential AI-related companies were due to report their latest financial results next week, including Google's parent Alphabet, Microsoft and Amazon.
+
+Industrial companies had some of the biggest losses. Caterpillar fell 2.4%. American Express slumped 3.7%, one of several financial stocks that lost ground, despite reporting profits for its most recent quarter that beat analysts' forecasts. The company also announced its first major job cuts in roughly a decade. JPMorgan Chase fell 1.5%, Citigroup dropped 1.5% and Capital One Financial slid 1%.
+
+While higher oil prices weighed down much of the market, they helped boost energy companies. Chevron rose 2.9% and ConocoPhillips gained 3.6%.
+
+European markets closed mostly lower. France's main index fell 0.4%, though yields on French government bonds eased a bit. Treasury yields in the U.S. edged higher following sharp drops on Thursday. The yield on the 10-year Treasury edged up to 4.99% from 4.96% late Thursday. Yields have been rising globally, partly over worries about governments taking on too much debt.
+
+Inflation remains a concern and is stubbornly well above 3% in the U.S. That prompted the Federal Reserve to raise its benchmark interest rate at its last meeting in an effort to cool inflation. Wall Street expects the central bank to hold rates steady at its meeting next week, but is leaning heavily toward another rate hike in December.
+
+Wall Street was also set for several big economic updates next week, including the Fed's preferred measure of inflation. The personal consumption expenditures index, or PCE, is expected to show that inflation rose at a 3.7% rate in September, sharply above the Fed's 2% target.
+
+All told, the S&P 500 fell 39.75 points to 7,623.68. The Dow dropped 652.82 points to 52,215.16, and the Nasdaq gave up 53.52 points to close at 25,955.34.
+
+Those gains cushioned the session without reversing it. The major indexes finished lower together, and the S&P 500's second straight weekly loss came in a session that closed crude at its highest level in more than four years. Friday's closing data showed a market pulled in two directions at once: a broad decline in the S&P 500 that stretched to a second straight week, and gains in AI-related shares that softened the fall. Between them, the session ended with oil at $116.72 a barrel and all three major Wall Street indexes lower.
 
 ## Sources
 

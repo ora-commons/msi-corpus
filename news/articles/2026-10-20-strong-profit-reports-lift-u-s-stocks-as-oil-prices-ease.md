@@ -2,8 +2,8 @@
 headline: Strong profit reports lift U.S. stocks as oil prices ease
 secondary_headline: Dow gains 529 points while artificial-intelligence volatility leaves Nasdaq slightly lower
 publish_date: '2026-10-20'
-lede: Most U.S. stocks rose Tuesday, Oct. 20, 2026, as strong earnings reports from Equifax, Hasbro and other companies helped push the market higher and easing crude oil prices added support. The S&P 500 gained 0.3%, and the Dow Jones Industrial Average advanced 529 points, or 1%. The Nasdaq composite fell less than 0.1% as stocks in the artificial-intelligence industry swung again.
-nut_graf: Profit reports from Equifax, Hasbro and other companies supported a broad U.S. stock-market advance on Oct. 20, 2026, with several companies posting quarterly results above analyst expectations. Easing crude oil prices also helped Wall Street, with oil pulling back after nearing its highest levels since the war with Iran began. High inflation, higher interest rates and volatility in artificial-intelligence shares remained concerns.
+lede: Most U.S. stocks rose Tuesday, Oct. 20, 2026, as strong earnings reports from Equifax, Hasbro and other companies helped push the market higher and easing crude oil prices added support, with Brent crude falling 0.7% to $108.79 after nearing $112. The S&P 500 gained 0.3%, and the Dow Jones Industrial Average advanced 529 points, or 1%. The Nasdaq composite fell less than 0.1% as stocks in the artificial-intelligence industry swung again.
+nut_graf: 'Profit reports from Equifax, Hasbro and other companies supported a broad U.S. stock-market advance on Oct. 20, 2026, with several companies posting quarterly results above analyst expectations. Hasbro said its "Magic: The Gathering" game made more than $600 million in revenue during a quarter for the first time, and Hasbro''s shares climbed 11.2%. AP said Brent crude''s 0.7% drop to $108.79 would relieve some pressure on inflation if it lasted. General Motors fell 6.8% despite reporting a larger-than-expected profit. The company also announced a plan to send up to $20 billion to investors through stock buybacks and gave a full-year 2026 profit forecast whose midpoint fell short of analysts'' expectations.'
 primary_entities:
 - Equifax
 - Hasbro
@@ -247,27 +247,48 @@ related_stories:
 
 **Subtype:** fact
 
-- Strong profit reports from Equifax, Hasbro and other companies lifted most of the U.S. stock market on Tuesday, Oct. 20, 2026.
-- The S&P 500 gained 0.3% on Oct. 20, 2026.
-- The Dow Jones Industrial Average rose 529 points, or 1%.
-- The Nasdaq composite fell less than 0.1% as artificial-intelligence stocks swung again.
-- Easing crude oil prices also supported Wall Street, with oil retreating after nearing its highest levels since the war with Iran began.
+- Strong profit reports from Equifax, Hasbro, 3M and other companies helped lift most of the U.S. stock market on Tuesday, Oct. 20, 2026.
+- The S&P 500 gained 0.3%, the Dow Jones Industrial Average rose 529 points, or 1%, and the Nasdaq composite fell less than 0.1% as AI-related stocks traded unevenly.
+- Equifax rallied 11.3% after reporting a bigger summer profit than analysts expected, despite high mortgage rates slowing some parts of its business.
+- Hasbro said its "Magic: The Gathering" game made more than $600 million in revenue during a quarter for the first time, and Hasbro's shares climbed 11.2%.
+- General Motors fell 6.8% despite reporting a bigger profit than analysts expected, while the company announced a stock-buyback program of up to $20 billion and a full-year 2026 profit forecast whose midpoint fell short of analysts' expectations.
+- Brent crude erased an early gain to fall 0.7% to $108.79, and AP said the decline would relieve some pressure on inflation if it lasted.
 
 ## Dow gains 529 points while artificial-intelligence volatility leaves Nasdaq slightly lower
 
-Most of the U.S. stock market rose Tuesday, Oct. 20, 2026, as strong earnings reports from Equifax, Hasbro and other companies helped push stocks higher. Wall Street also got some help from easing crude oil prices, which pulled back after nearing their highest levels since the war with Iran began. The S&P 500 gained 0.3%, and the Dow Jones Industrial Average advanced 529 points, or 1%. The Nasdaq composite moved against the broader advance, falling less than 0.1% as stocks in the artificial-intelligence industry swung again.
+NEW YORK — Most of the U.S. stock market rose Tuesday, Oct. 20, 2026, following strong profit reports from Equifax, Hasbro, 3M and other companies, while oil prices eased back after nearing their highest levels since the war with Iran began. The S&P 500 added 0.3%, and the Dow Jones Industrial Average rallied 529 points, or 1%, as more swings for stocks in the artificial-intelligence industry sent the Nasdaq composite to a modest loss of less than 0.1%.
 
-Over the long term, stock prices tend to follow the path of corporate profits, and several companies delivered results for the latest quarter that were better than analysts expected. Profit reports from Hasbro and other companies, alongside Equifax's, supported the broad market advance.
+Tuesday's close left the major benchmarks uneven. The S&P 500 rose 21.84 points to 7,712.57. The Dow gained 529.85 points to 52,495.88, while the Nasdaq composite slipped 6.07 points to 26,424.82. [FRED's raw NASDAQ Composite Index series](https://fred.stlouisfed.org/series/NASDAQCOM) showed the index at 26,424.82 as of Oct. 20, 2026, providing a level reference for the session's modest decline.
 
-Equifax rallied 11.3%, one of the market's biggest gains, after reporting a bigger profit for the summer than analysts expected. High mortgage rates slowed some parts of the company's business, but the stronger-than-expected profit result did not prevent a sizable increase in the stock.
+AP noted that stock prices tend to follow the path of corporate profits over the long term and that several companies delivered results for the latest quarter that were better than analysts expected. AP said strong growth expectations generally were what had allowed the U.S. stock market to hit records recently despite worries about high inflation, higher interest rates and other challenges weighing on Wall Street.
 
-Strong growth expectations generally have allowed the U.S. stock market to hit records recently despite worries about high inflation, higher interest rates and other challenges weighing on Wall Street.
+## Earnings lifted Equifax, Hasbro and 3M; Salesforce's announced purchase lifted Braze; GM fell 6.8%
 
-More swings for stocks in the artificial-intelligence industry sent the Nasdaq composite to a modest loss of less than 0.1%. The move left the tech-heavy index behind the gains in the Dow and S&P 500.
+Equifax rallied 11.3%, one of the market's biggest gains, after reporting a bigger profit for the summer than analysts expected, despite high mortgage rates slowing some parts of its business.
 
-[FRED's raw NASDAQ Composite Index series](https://fred.stlouisfed.org/series/NASDAQCOM) showed the index at 26,424.82 as of Oct. 20, 2026, providing a level reference for the session's modest decline.
+Hasbro climbed 11.2% after the toy company said its "Magic: The Gathering" game made more than $600 million in revenue during a quarter for the first time. 3M rose 5.8% after the company behind Ace bandages and Scotch-Brite sponges likewise reported a stronger-than-expected profit, even as AP described shoppers as broadly discouraged by high inflation.
 
-Tuesday's trading left major benchmarks uneven: the Dow and S&P 500 rose, while the Nasdaq slipped slightly and oil prices retreated. Equifax was a major market mover, with its 11.3% increase following a larger-than-expected summer profit despite high mortgage rates slowing some parts of the business.
+Braze, a customer engagement platform, was another winner. Its stock soared 51.7% to $45.57 after Salesforce said it would buy the company for $47.50 in cash for each share.
+
+General Motors sank 6.8% despite reporting a bigger profit than analysts expected, and it announced a program to send up to $20 billion to investors by buying back its stock. AP said the pressure is on companies to deliver bigger profits not only now but also in the future, and GM gave a forecasted range for profit over the full year of 2026 whose midpoint fell short of analysts' expectations.
+
+## Brent crude fell 0.7% to $108.79 after nearing $112
+
+Stocks got a lift after the price for a barrel of Brent crude erased an early gain to fall 0.7% to $108.79. Earlier in the morning, Brent got near $112 and approached its highest price since the war with Iran began in late February. AP said the drop in oil prices would relieve some of the pressure on inflation, if it lasted. Brent's price has been yo-yoing between $97 and $112 per barrel this month on uncertainty about when the energy industry would return to normal.
+
+For now, airlines and other companies with big fuel bills enjoyed the benefit of Tuesday's drop. American Airlines rallied 3.7%, and United Airlines rose 2.3%.
+
+## AI stocks swung in the U.S. and Asia; Europe saw broader index declines
+
+AI-related stocks continued to swirl Tuesday. AP said the group had been at the center of the market's recent uneasiness as euphoria around the technology boom gave way to worries that high interest rates in the bond market would slow the borrowing that had allowed companies to buy so many AI chips. AP also noted that the prior week was the U.S. stock market's worst since June because of weakness for AI-related companies.
+
+CoreWeave has been particularly shaky. It initially fell more than 6% at the start of Tuesday's trading, only to swing to a gain of 5% before pulling back to a rise of 1.7%. AP said such reversals are nothing new for the company, which borrowed money to buy AI chips that it rents out to customers over the cloud. A day earlier, the stock careened between a gain of 7% in the morning and a loss of 3.5% in the afternoon, following the previous week's tumble of roughly 25%.
+
+Tuesday's struggles for AI stocks began in Asia, where the South Korean AI company Elice confronted a rough welcome to the stock market. Its stock dropped 32% in its first day of trading in Seoul, and South Korea's Kospi index fell 3.7% overall.
+
+In other stock markets abroad, indexes in Europe dipped after paring bigger losses from earlier in the day. The CAC 40 in Paris slipped 0.4%, and the FTSE 100 in London fell 0.3%. A day earlier, European indexes fell sharply following violent protests that AP said could ultimately force governments on the continent to increase their spending to ease voters' anger. AP said that could put more pressure on bond markets already strained by worries about heavy government debt loads.
+
+AP Business Writers Yuri Kageyama and Michelle Chapman contributed to this report.
 
 ## Sources
 
