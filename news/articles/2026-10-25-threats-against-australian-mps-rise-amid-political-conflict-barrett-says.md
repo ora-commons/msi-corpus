@@ -240,6 +240,8 @@ related_stories:
   publish_date: '2026-09-08'
   relation: related
   strength: 0.597
+analyses:
+- '2026-10-25-barrett-linking-political-conflict-to-threats-against-australian-mps'
 ---
 
 ## Threats against Australian MPs rise amid political conflict, Barrett says
@@ -279,3 +281,8 @@ Labor minister Catherine King said she had been contending with deteriorating sa
 **Publication date:** 2026-10-25
 **Title:** AFP boss says politicians’ heated rhetoric is fuelling threats against MPs
 **URL:** https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb
+
+---
+
+<!-- analysis-link:2026-10-25-barrett-linking-political-conflict-to-threats-against-australian-mps -->
+**Going deeper:** [Read MSI's analysis of political conflict and threats to MPs →](/analyses/2026-10-25-barrett-linking-political-conflict-to-threats-against-australian-mps)
