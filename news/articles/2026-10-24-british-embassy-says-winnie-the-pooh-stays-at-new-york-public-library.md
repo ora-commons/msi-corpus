@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-01-16'
   relation: related
   strength: 0.5395
+analyses:
+- '2026-10-24-british-embassy-clarifies-pooh-s-new-york-custody-while-leaving-british-access-u'
 ---
 
 ## British Embassy says Winnie-the-Pooh stays at New York Public Library
@@ -292,3 +294,8 @@ The announcement leaves the collection in New York as the character turns 100 th
 **Publication date:** 2026-10-24
 **Title:** Winnie-the-Pooh will remain a New Yorker despite some pushing for a UK return
 **URL:** https://apnews.com/article/winnie-pooh-new-york-public-library-5e61bcb81ed24de8ea25aa442bc56819
+
+---
+
+<!-- analysis-link:2026-10-24-british-embassy-clarifies-pooh-s-new-york-custody-while-leaving-british-access-u -->
+**Going deeper:** [Read MSI's analysis of the Pooh custody dispute →](/analyses/2026-10-24-british-embassy-clarifies-pooh-s-new-york-custody-while-leaving-british-access-u)
