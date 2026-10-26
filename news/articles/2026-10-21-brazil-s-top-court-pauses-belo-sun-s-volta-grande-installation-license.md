@@ -1,9 +1,9 @@
 ---
-headline: Brazil's top court pauses Belo Sun's Volta Grande installation license
-secondary_headline: Ruling addresses project impacts and Indigenous consultation rights
+headline: Brazil's Supreme Court provisionally suspends Belo Sun's Volta Grande license
+secondary_headline: A 2021 assessment warned of waste-dam failure risks downstream
 publish_date: '2026-10-21'
-lede: Brazil's Supreme Court suspended the installation license for Belo Sun Mining Corp.'s proposed Volta Grande gold project in Para state, a major Amazon rainforest mining proposal by a Canadian company. Chief Justice Edson Fachin issued the order Monday, and the court made it public Tuesday. Fachin found that Belo Sun had not demonstrated full compliance with environmental requirements and protections for Indigenous communities.
-nut_graf: The order puts Belo Sun's proposed open-pit development on hold at the licensing stage after the court found that the company had not demonstrated full compliance with environmental and Indigenous-protection requirements. The decision follows years of Indigenous opposition and comes against a backdrop in which the Belo Monte hydroelectric dam has altered the Xingu River's natural flow, affecting fish populations and communities that depend on the waterway.
+lede: Brazil's Supreme Court provisionally suspended the installation license for Belo Sun Mining Corp.'s proposed Volta Grande gold project in Para state after finding the company had not demonstrated full compliance with environmental and Indigenous-protection requirements. Chief Justice Edson Fachin issued the order Monday, and the court made it public Tuesday. The ruling followed years of Indigenous opposition; the Juruna and Arara communities said they were not properly consulted, a claim Belo Sun disputes. A 2021 independent assessment warned that a failure at the proposed mining-waste dam could release waste containing toxic substances, including arsenic and mercury, potentially affecting Indigenous communities more than 40 kilometers downstream.
+nut_graf: The order puts Belo Sun's proposed open-pit development on hold at the licensing stage, but the suspension remains subject to further legal proceedings that could include an agreement under consideration by a federal court. The Associated Press had not received a response from Belo Sun by publication. Indigenous accounts describe reduced Xingu River flows and declining fish populations, while Belo Sun disputes that the Juruna and Arara communities were not properly consulted.
 primary_entities:
 - Brazil's Supreme Court
 - Belo Sun Mining Corp.
@@ -245,28 +245,42 @@ related_stories:
   strength: 0.6006
 ---
 
-## Brazil's top court pauses Belo Sun's Volta Grande installation license
+## Brazil's Supreme Court provisionally suspends Belo Sun's Volta Grande license
 
 **Subtype:** fact
 
-- Brazil's Supreme Court suspended Belo Sun Mining Corp.'s installation license for the proposed Volta Grande gold project in Para state.
+- Brazil's Supreme Court provisionally suspended Belo Sun Mining Corp.'s installation license for the proposed Volta Grande gold project in Para state pending further legal proceedings.
 - Chief Justice Edson Fachin found that Belo Sun Mining Corp. had not demonstrated full compliance with environmental requirements and protections for Indigenous communities.
-- Fachin's compliance finding addressed studies assessing the Volta Grande project's impacts and Indigenous communities' right to be consulted.
-- Indigenous communities opposed the Volta Grande project for years over concerns about its environmental impacts.
-- Belo Sun Mining Corp. proposed an open-pit gold mine along the Xingu River, a major tributary of the Amazon.
-- The Belo Monte hydroelectric dam has dramatically altered the Xingu River's natural flow, affecting fish populations and communities that depend on the waterway.
+- A 2021 independent assessment warned that a failure at the proposed dam could release waste containing toxic substances, including arsenic and mercury, potentially affecting Indigenous communities more than 40 kilometers downstream.
+- Sol Juruna said downstream communities already struggle with reduced river flows and declining fish populations and that a mining-waste dam could further threaten community livelihoods.
+- The Juruna and Arara communities said they were not properly consulted about the Volta Grande project, a claim Belo Sun Mining Corp. disputes.
+- The Associated Press had not received a response from Belo Sun Mining Corp. by publication.
 
-## Ruling addresses project impacts and Indigenous consultation rights
+## A 2021 assessment warned of waste-dam failure risks downstream
 
-Brazil's Supreme Court put the environmental permit for a major Amazon gold project on hold, dealing a setback to the Canadian company behind it. Chief Justice Edson Fachin issued the order Monday, and the court made it public Tuesday. His order suspended the installation license for Belo Sun Mining Corp.'s proposed Volta Grande project in Para state.
+Brazil's Supreme Court provisionally put the environmental permit for a major gold project in the Amazon rainforest on hold, dealing a setback to the Canadian company behind it. Chief Justice Edson Fachin issued the order Monday, and the court made it public Tuesday. His order provisionally suspended the installation license for Belo Sun Mining Corp.'s proposed Volta Grande project in Para state.
 
-The license was the immediate issue; environmental and Indigenous-protection compliance supplied the court's stated legal basis. Fachin found that Belo Sun “had not demonstrated full compliance with environmental requirements and protections for Indigenous communities.”
+The license was the immediate issue; environmental and Indigenous-protection compliance supplied the court's stated legal basis. Fachin found that Belo Sun “had not demonstrated full compliance with environmental requirements and protections for Indigenous communities.” His finding covered studies assessing the project's impacts and Indigenous communities' right to be consulted. Years of opposition from Indigenous communities concerned about the Volta Grande project's environmental impacts preceded the decision. The procedural timing matters because the consultation protection was also part of the specific compliance review, rather than appearing only as context for the communities' opposition.
 
-His finding covered studies assessing the project's impacts and Indigenous communities' right to be consulted. Years of opposition from Indigenous communities concerned about the Volta Grande project's environmental impacts preceded the decision. The procedural timing matters because the consultation protection was also part of the specific compliance review, rather than appearing only as context for the communities' opposition.
+The ruling marks another turn in a yearslong legal battle over the project, which Belo Sun has promoted as one of Brazil's largest potential gold mines. Earlier, the company regained its installation license through a lower court decision in February and subsequently told investors the permit would remain valid until 2029.
 
-Belo Sun's proposal called for an open-pit gold mine along the Xingu River, a major tributary of the Amazon. The project area had already been transformed by the Belo Monte hydroelectric dam, one of Brazil's largest.
+Belo Sun's proposal called for an open-pit gold mine along the Xingu River, a major tributary of the Amazon, in an area already transformed by the Belo Monte hydroelectric dam, one of Brazil's largest.
 
-The Belo Monte dam has dramatically altered the Xingu River's natural flow, affecting fish populations and communities that depend on the waterway. Those effects concern the same waterway where Belo Sun proposed its mine, while Fachin's ruling separately focused on whether the mining company had demonstrated compliance with environmental requirements and Indigenous protections.
+The Belo Monte dam has dramatically altered the Xingu River's natural flow, affecting fish populations and communities that depend on the waterway. Those effects concern the same waterway where Belo Sun proposed its mine, while Fachin's ruling separately focused on whether the mining company had demonstrated compliance with environmental requirements and Indigenous protections. Environmental groups warned that adding a large-scale gold mine could compound those impacts, putting further pressure on ecosystems and Indigenous livelihoods.
+
+Sol Juruna, a member of the Middle Xingu Indigenous Women's Movement, told The Associated Press that communities downstream of the Belo Monte dam are already struggling with reduced river flows and declining fish populations. She fears a proposed mining waste dam near the Xingu River could further threaten their livelihoods. “We know that even the slightest contamination of the river would destroy everything for us,” she said.
+
+According to a 2015 feasibility study, Belo Sun planned to extract 3.52 million ounces of gold over 17 years, excavating more than 600 million tons of material across a 24-square-kilometer (9.2-square-mile) site.
+
+A 2021 independent assessment raised concerns about a proposed dam designed to hold some 35 million cubic meters (1.2 billion cubic feet) of mining waste and water near the Xingu River. Researchers warned that a failure could release waste containing toxic substances, including arsenic and mercury, potentially affecting Indigenous communities more than 40 kilometers (25 miles) downstream.
+
+Brazil's Indigenous affairs agency, FUNAI, identified gaps in studies assessing the mine's impacts on Indigenous communities, including those outside formally demarcated territories, and whether the combined effects of the mine and Belo Monte dam were adequately considered. “FUNAI has maintained that protections must cover all affected Indigenous communities, including those outside formally demarcated territories,” said Ana Alfinito, Brazil legal adviser at Amazon Watch, an environmental and Indigenous rights organization.
+
+The Juruna and Arara Indigenous communities previously said they were not properly consulted about the project, a claim Belo Sun disputes. Indigenous peoples have consultation rights under Brazilian law and International Labour Organization Convention 169. The Associated Press contacted Belo Sun for comment but had not received a response by the time of publication.
+
+The Alliance for the Volta Grande do Xingu, a coalition opposing the mine, welcomed the ruling. But the suspension remains provisional, pending further legal proceedings that could include an agreement under consideration by a federal court.
+
+For Juruna and other Indigenous women opposing the mine, the decision brought relief but not an end to their campaign. “It was happy news for us, even though we all know the fight isn’t over,” she said. “We will keep fighting, keep pushing to get Belo Sun out of the Volta Grande do Xingu. We want them gone.”
 
 ## Sources
 
