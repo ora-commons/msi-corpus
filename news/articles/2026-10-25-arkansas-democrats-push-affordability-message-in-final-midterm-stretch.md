@@ -242,6 +242,8 @@ related_stories:
   publish_date: '2026-03-02'
   relation: related
   strength: 0.7466
+analyses:
+- '2026-10-25-arkansas-democrats-test-a-conditional-conversion-path-through-affordability'
 ---
 
 ## Arkansas Democrats push affordability message in final midterm stretch
@@ -302,3 +304,8 @@ With the midterms in their final days, Shoffner is emphasizing local representat
 **Publication date:** 2026-10-25
 **Title:** In Arkansas, Democrats see an opening at the edge of the competitive midterms map
 **URL:** https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones
+
+---
+
+<!-- analysis-link:2026-10-25-arkansas-democrats-test-a-conditional-conversion-path-through-affordability -->
+**Going deeper:** [Read MSI's analysis of Arkansas's affordability opening and conversion limits →](/analyses/2026-10-25-arkansas-democrats-test-a-conditional-conversion-path-through-affordability)
