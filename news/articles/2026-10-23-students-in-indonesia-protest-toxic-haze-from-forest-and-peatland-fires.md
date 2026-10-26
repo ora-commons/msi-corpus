@@ -244,6 +244,8 @@ related_stories:
   publish_date: '2026-01-21'
   relation: related
   strength: 0.5842
+analyses:
+- '2026-10-23-indonesia-s-haze-response-may-not-contain-smoke-before-2027'
 ---
 
 ## Students in Indonesia protest toxic haze from forest and peatland fires
@@ -280,3 +282,8 @@ Slash-and-burn agricultural practices are common across Cambodia, Laos, Myanmar,
 **Publication date:** 2026-10-23
 **Title:** Southeast Asia's worst haze in over a decade sparks student protests
 **URL:** https://apnews.com/article/haze-fire-pollution-student-protests-indonesia-malaysia-singapore-1a2f903c547411fea34dc0f510da804b
+
+---
+
+<!-- analysis-link:2026-10-23-indonesia-s-haze-response-may-not-contain-smoke-before-2027 -->
+**Going deeper:** [Read MSI's analysis of Indonesia’s haze response and 2027 risk →](/analyses/2026-10-23-indonesia-s-haze-response-may-not-contain-smoke-before-2027)
