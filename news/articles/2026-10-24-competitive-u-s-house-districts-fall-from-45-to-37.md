@@ -248,6 +248,8 @@ related_stories:
   publish_date: '2026-05-20'
   relation: related
   strength: 0.6715
+analyses:
+- '2026-10-24-ap-links-remapping-and-polarization-to-fewer-competitive-house-districts'
 ---
 
 ## Competitive U.S. House districts fall from 45 to 37
@@ -300,3 +302,8 @@ There was palpable excitement, especially after Barringer noted that national De
 **Publication date:** 2026-10-24
 **Title:** Swing US House districts are rapidly disappearing
 **URL:** https://apnews.com/article/midterms-redistricting-gerrymandering-congress-north-carolina-608be19e4c6359d1590717dbead13940
+
+---
+
+<!-- analysis-link:2026-10-24-ap-links-remapping-and-polarization-to-fewer-competitive-house-districts -->
+**Going deeper:** [Read MSI's analysis of competitive House districts and partisan mapmaking →](/analyses/2026-10-24-ap-links-remapping-and-polarization-to-fewer-competitive-house-districts)
