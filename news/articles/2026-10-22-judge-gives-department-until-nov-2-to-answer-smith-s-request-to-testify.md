@@ -1,9 +1,9 @@
 ---
-headline: Judge gives department until Nov. 2 to answer Smith's request to testify
-secondary_headline: Trump's deposition in $10 billion BBC suit set for Dec. 11
+headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
+secondary_headline: Trump must depose by Dec. 11 unless the presiding judge extends discovery
 publish_date: '2026-10-22'
-lede: A federal judge ruled Thursday that the department must respond by Nov. 2 to former special counsel Jack Smith's request to sit for a deposition, leaving unresolved whether he would be allowed to testify. The ruling from U.S. Magistrate Judge Enjoliqué Lett came in the same case in which the judge ordered President Donald Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC.
-nut_graf: The Nov. 2 deadline requires the department to answer Smith's request for permission to testify. Federal rules require current and former employees to receive permission from agency heads before testifying in court cases, and Smith has not received an answer, leaving his participation unresolved. The order came the same day Lett set Dec. 11 for Trump's deposition.
+lede: U.S. Magistrate Judge Enjoliqué Lett ordered the Department of Justice on Thursday to respond by Nov. 2 to former special counsel Jack Smith's request for permission to sit for a deposition in President Donald Trump's $10 billion defamation lawsuit against the BBC. Smith's request remained unanswered, leaving his participation unresolved. In the same case, Lett ordered Trump to sit for a deposition by Dec. 11 unless the presiding judge extended the discovery period; the ruling set a deadline rather than a fixed deposition date.
+nut_graf: The unresolved request came from a letter Smith sent to DOJ saying he would not testify without permission. Separately, Lett said Trump could face sanctions up to dismissal of his lawsuit if he did not sit by Dec. 11, unless the presiding judge extended discovery. The BBC wanted Trump's testimony before the scheduled Dec. 18 end of discovery, and the BBC's lawyers said a later date could be considered if the trial schedule changed.
 primary_entities:
 - Donald Trump
 - BBC
@@ -239,25 +239,46 @@ related_stories:
   strength: 0.6228
 ---
 
-## Judge gives department until Nov. 2 to answer Smith's request to testify
+## Judge orders DOJ to answer Smith's request to testify by Nov. 2
 
 **Subtype:** fact
 
-- U.S. Magistrate Judge Enjoliqué Lett ruled that the department must respond by Nov. 2 to former special counsel Jack Smith's request to sit for a deposition.
-- Smith has requested permission to testify but has not received an answer, leaving his participation unresolved.
-- Federal rules require current and former employees to receive permission from agency heads before testifying in court cases.
-- Lett also ordered Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC.
-- Charles Tobin, attorney for the BBC, said that with two months left in the discovery period, "we still haven't been able to depose the plaintiff."
+- U.S. Magistrate Judge Enjoliqué Lett ordered the Department of Justice to respond by Nov. 2 to Jack Smith's request for permission to testify.
+- Jack Smith told DOJ in a letter that he would not testify without permission.
+- DOJ had not answered Smith's request, leaving his participation unresolved.
+- Judge Lett ordered Donald Trump to sit for a deposition by Dec. 11 unless the presiding judge extended discovery, with sanctions up to dismissal otherwise.
+- BBC attorney Charles Tobin said the BBC wanted Trump's deposition before the scheduled end of discovery on Dec. 18, and the BBC's lawyers said they would consider a later date if the trial schedule changed.
+- BBC attorney Charles Tobin argued the BBC was entitled to Smith's deposition, while Trump's lawyer Alejandro Brito said Smith lacked personal knowledge of Trump's Jan. 6 speech or state of mind.
 
-## Trump's deposition in $10 billion BBC suit set for Dec. 11
+## Trump must depose by Dec. 11 unless the presiding judge extends discovery
 
-U.S. Magistrate Judge Enjoliqué Lett ruled that the department must respond by Nov. 2 to former special counsel Jack Smith's request to sit for a deposition. Federal rules require current and former employees to receive permission from agency heads before testifying in court cases. Smith has requested that permission but has not received an answer, and it remained uncertain whether he would be allowed to testify.
+U.S. Magistrate Judge Enjoliqué Lett ordered the Department of Justice on Thursday to respond by Nov. 2 to former special counsel Jack Smith's request for permission to sit for a deposition in President Donald Trump's $10 billion defamation lawsuit against the BBC. Smith had received no answer, leaving his participation unresolved. In the same case, Lett ordered Trump to sit by Dec. 11 unless the presiding judge extended the discovery period.
 
-The deadline came in the same case in which Lett, on Thursday, ordered President Donald Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC. The order came as lawyers for the British broadcaster complained that Trump had delayed his appearance in his own lawsuit.
+Federal rules require current and former employees to receive permission from agency heads before testifying in court cases. Assistant U.S. Attorney Matthew Feeley told Lett that Smith had sent DOJ a letter saying he would not testify without permission; DOJ had not responded. The Associated Press reported that it seemed unlikely DOJ would grant permission or that Smith would move forward without it.
 
-Charles Tobin, attorney for the BBC, said that with two months left in the discovery period, "we still haven't been able to depose the plaintiff."
+Lett said Trump must sit by Dec. 11 or face sanctions up to dismissal of his lawsuit unless the presiding judge extended the discovery period. The ruling set an outer deadline, not a fixed date for the deposition.
 
-The department's answer is due by Nov. 2, weeks before the Dec. 11 date set for Trump's testimony. Trump's deposition has a fixed date; Smith's participation remains unresolved.
+Discovery, the process in which lawyers for both sides exchange documents and other evidence, was scheduled to end Dec. 18. The BBC's attorneys wanted Trump's deposition before that deadline. Lett said only the presiding judge assigned to the case could alter the trial schedule, and the BBC's lawyers said they would consider a later deposition if the trial schedule was also changed.
+
+The order came as Charles Tobin, attorney for the BBC, complained that Trump had delayed his appearance in his own lawsuit. Tobin said there had been an agreed-upon date of Oct. 16, but Trump had canceled it for a “matter of national importance.” Tobin said Trump was campaigning in Georgia that day and stated, “He was participating in party politics and prioritized that over sitting for the deposition,” Tobin said. With two months left in the discovery period, Tobin said, “we still haven’t been able to depose the plaintiff.”
+
+Trump's attorneys also opposed recording his deposition on video and asked for only a court reporter. Lett ruled that the deposition could be recorded on video for attorneys only, meaning the recording would not be released to the public.
+
+To bolster its defense, the BBC subpoenaed Smith earlier that month. Trump's lawyers argued there was no good reason for Smith, who was not a party to the case, to appear. The BBC said Smith had extensive knowledge of what happened that day.
+
+At the hearing, Tobin argued that Smith had not objected to being deposed and that the only objection was coming from Trump. Tobin said the BBC was not trying to relitigate the events of Jan. 6, but Smith was one of the leading experts on what happened and his deposition could lead to evidence that would help the broadcaster's case. “We can argue later on whether his testimony is admissible,” Tobin said, “but we are entitled to that deposition.”
+
+Trump's lawyer Alejandro Brito countered that Smith had no personal knowledge of Trump's Jan. 6 speech or his state of mind when he delivered it. Brito said all of Smith's knowledge was secondhand and that the special counsel's report and Smith's testimony before Congress were public and available to the BBC's attorneys.
+
+The Associated Press noted that Trump had often avoided depositions. He filed the lawsuit last December, accusing the publicly funded broadcaster of defamation as well as deceptive and unfair trade practices related to a documentary, “Trump: A Second Chance.”
+
+The BBC acknowledged that filmmakers spliced together quotes from different sections of the speech Trump delivered to his supporters on Jan. 6, 2021, before the storming of the U.S. Capitol, to make it appear he was directly urging violence. The broadcaster apologized over the editing, and the head of the BBC and its top news executive both resigned. The BBC has denied Trump's claims that it defamed him.
+
+Lett also allowed the BBC to see records for the total number of applications for membership at Trump's Mar-a-Lago resort in Florida from Jan. 6, 2020, through Jan. 6, 2026, as well as the total cost of membership and initiation fees for new applicants.
+
+Tobin said demonstrating actual damages is one aspect of any defamation case and argued that the popularity of Mar-a-Lago was a significant indicator of Trump's reputation. He described the private club as “a place where he exhibits his reputation in front of people who are important to him.”
+
+Brito argued that Trump did not actually run Mar-a-Lago and that Trump's reputation was not associated with the club.
 
 ## Sources
 
