@@ -255,6 +255,8 @@ related_stories:
   publish_date: '2026-08-19'
   relation: related
   strength: 0.6871
+analyses:
+- '2026-10-25-france-confronts-a-debt-feedback-loop-as-parliamentary-divisions-delay-fiscal-ad'
 ---
 
 ## France’s bond yields climb as debt strains fiscal choices
@@ -317,3 +319,8 @@ The Wall Street Journal’s profile said Mackintosh joined the outlet in 2016 af
 **Publication date:** 2026-10-25
 **Title:** How France Became the Poster Child for Debt Woes
 **URL:** https://www.wsj.com/world/europe/how-france-became-the-poster-child-for-debt-woes-08c64b3d
+
+---
+
+<!-- analysis-link:2026-10-25-france-confronts-a-debt-feedback-loop-as-parliamentary-divisions-delay-fiscal-ad -->
+**Going deeper:** [Read MSI's analysis of France’s debt-fiscal feedback loop →](/analyses/2026-10-25-france-confronts-a-debt-feedback-loop-as-parliamentary-divisions-delay-fiscal-ad)
