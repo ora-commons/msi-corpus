@@ -1,9 +1,9 @@
 ---
-headline: American Express profit rises 28% while planning 5% workforce cut
-secondary_headline: Well-to-do customers kept spending after the Platinum Card annual fee increased
+headline: American Express retains nearly all customers moved to higher-fee Platinum card
+secondary_headline: Net card fees rise more than $400 million; average customer spending climbs 5%
 publish_date: '2026-10-23'
-lede: American Express reported third-quarter profit of $3.71 billion, up 28% from a year earlier, as well-to-do customers continued spending aggressively and the company moved the vast majority of its members to a higher-fee Platinum Card. The New York company also said it plans to cut its workforce by 5%, or about 3,500 employees, in its first major job cuts in roughly a decade.
-nut_graf: The earnings report paired higher cardmember spending and fee income with a planned workforce reduction. American Express earned $4.68 per share excluding a one-time gain from its sale of a Global Business Travel Group stake, beating Wall Street estimates.
+lede: American Express said nearly all customers moved to its higher-fee Platinum Card had decided to keep it. Net card fees rose by more than $400 million from a year earlier, while the average American Express customer spent $6,735 last quarter, up 5%, and transactions per cardmember increased. The New York company reported third-quarter profit of $3.71 billion, up 28%, and said it would cut its workforce by 5%, or about 3,500 employees, in its first major job cuts in roughly a decade.
+nut_graf: The retention, fee and spending figures addressed the question of whether American Express’s wealthier customers would accept the $200 annual-fee increase. Excluding a one-time gain from American Express’s sale of its stake in Global Business Travel Group, the company earned $4.68 per share, above Wall Street estimates, and now forecasts adjusted full-year profit of $17.60 to $17.90 per share after raising the lower end of its previous $17.30 to $17.90 range.
 primary_entities:
 - American Express
 - Platinum Card
@@ -239,33 +239,34 @@ related_stories:
   strength: 0.6296
 ---
 
-## American Express profit rises 28% while planning 5% workforce cut
+## American Express retains nearly all customers moved to higher-fee Platinum card
 
 **Subtype:** fact
 
+- American Express said nearly all customers moved to the higher-fee Platinum Card had decided to keep it.
+- American Express reported net card fees rose by more than $400 million from a year earlier.
+- The average American Express customer spent $6,735 last quarter, up 5% from a year earlier, while transactions per cardmember increased.
 - American Express reported third-quarter profit of $3.71 billion, up 28% from a year earlier.
-- American Express earned $4.68 per share excluding a one-time gain from its sale of a Global Business Travel Group stake, above Wall Street estimates.
-- American Express plans to cut its workforce by 5%, or about 3,500 employees, in its first major job cuts in roughly a decade.
-- American Express transitioned the vast majority of its members to a new, higher-fee Platinum Card.
-- American Express reported higher revenue and profit as customers charged more on their cards and paid more to hold an American Express card.
+- American Express plans to cut its workforce by 5%, or about 3,500 employees, and CEO Steve Squeri said the layoffs were about efficiency rather than a business downturn.
+- American Express now forecasts adjusted full-year profit of $17.60 to $17.90 per share, raising the lower end of its previous $17.30 to $17.90 range.
 
-## Well-to-do customers kept spending after the Platinum Card annual fee increased
+## Net card fees rise more than $400 million; average customer spending climbs 5%
 
-American Express reported sharply higher third-quarter profit on October 23 as well-to-do customers continued to spend aggressively. The New York company also announced plans for its first major job cuts in roughly a decade.
+American Express’s third-quarter performance came as it transitioned the vast majority of its members to a new, higher-fee Platinum Card. The company said nearly all of the customers moved to the card had decided to keep it. Net card fees, which include annual fees on cards such as Platinum, rose by more than $400 million from a year earlier.
 
-American Express reported a profit of $3.71 billion, up 28% from a year earlier, or $5.42 a share.
+Last year, American Express updated the Platinum Card, adding several new perks for cardmembers while raising the annual fee from $695 to $895. Reviews of the update were generally positive at the time. The biggest question for Wall Street was whether cardmembers would accept the $200 increase, even with American Express’s wealthier customer base.
 
-American Express reported higher revenue and profit as customers both charged more on their cards and paid more to hold an American Express card.
+The average American Express customer spent $6,735 on their cards last quarter, or $2,245 a month, up 5% from a year earlier. Cardmembers were also using their cards more, with the number of transactions per cardmember rising.
 
-The company’s headline result included a one-time gain from its sale of a stake in Global Business Travel Group. Excluding the gain, American Express earned a quarterly per-share profit of $4.68. That figure beat Wall Street estimates.
+Chief Financial Officer Christophe Le Caillec said in an interview that some of the higher spending was likely tied to inflation. He pointed to a 10% increase in travel and entertainment spending compared with a year earlier, with 13% growth in dollars spent on airline tickets. Airline ticket prices rose this year because of higher fuel costs and other inflationary pressure.
 
-The third-quarter performance came as American Express transitioned the vast majority of its members to a new, higher-fee Platinum Card.
+American Express’s revenue and profits rose as customers both charged more on their cards and paid more to hold an American Express card. The New York company reported a third-quarter profit of $3.71 billion, up 28% from a year earlier, or $5.42 a share. Excluding a one-time gain from American Express’s sale of its stake in Global Business Travel Group, the company earned a quarterly per-share profit of $4.68, above Wall Street estimates.
 
-Last year, American Express updated the Platinum Card, adding several new perks while raising the annual fee from $695 to $895.
+The company now forecasts adjusted profit of $17.60 to $17.90 per share for the full year, raising the lower end of its previous $17.30 to $17.90 per-share forecast.
 
-Reviews of the update were generally positive at the time.
+American Express said it planned to reduce its workforce by 5%, or about 3,500 employees. The announcement represented the company’s first major job cuts in roughly a decade. CEO Steve Squeri told investors the layoffs were about making the company more efficient, not a reflection of any downturn in business.
 
-American Express said it planned to reduce its workforce by 5%, or about 3,500 employees. The announcement represented the company’s first major job cuts in roughly a decade.
+One concern among investors had been American Express’s rising operating costs. The company has had to compete with other credit-card companies, including Capital One and JPMorgan Chase, on perks and rewards that are costly to manage.
 
 ## Sources
 
