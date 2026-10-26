@@ -244,6 +244,8 @@ related_stories:
   publish_date: '2026-05-17'
   relation: related
   strength: 0.6662
+analyses:
+- '2026-10-23-kenya-traces-an-ebola-cluster-as-nigeria-s-infection-route-remains-unresolved'
 ---
 
 ## Kenya reports second Ebola death as Nigeria investigates first case
@@ -286,3 +288,8 @@ Dyepkazah Shibayan in Abuja, Nigeria, and Mike Stobbe in New York contributed to
 **Publication date:** 2026-10-23
 **Title:** Kenya reports 2nd Ebola death as relative of first patient dies
 **URL:** https://apnews.com/article/kenya-ebola-congo-uganda-nigeria-c96067b4b2fc8d3e35a97e32455e996c
+
+---
+
+<!-- analysis-link:2026-10-23-kenya-traces-an-ebola-cluster-as-nigeria-s-infection-route-remains-unresolved -->
+**Going deeper:** [Read MSI's analysis of Ebola exposure routes and regional transmission →](/analyses/2026-10-23-kenya-traces-an-ebola-cluster-as-nigeria-s-infection-route-remains-unresolved)
