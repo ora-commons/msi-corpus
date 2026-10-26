@@ -248,6 +248,8 @@ related_stories:
   publish_date: '2026-01-07'
   relation: related
   strength: 0.7096
+analyses:
+- '2026-10-23-vivek-ramaswamy-defends-an-ad-that-extends-a-1978-charge-into-a-present-judgment'
 ---
 
 ## Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
@@ -294,3 +296,8 @@ Ramaswamy continued the $4 million campaign to air the advertisement on streamin
 **Publication date:** 2026-10-23
 **Title:** Ramaswamy bus tour rolls as ad with Acton's mother divides the GOP
 **URL:** https://apnews.com/article/vivek-ramaswamy-amy-acton-ad-mother-96855c5c6c508ef3af20d319df3ea820
+
+---
+
+<!-- analysis-link:2026-10-23-vivek-ramaswamy-defends-an-ad-that-extends-a-1978-charge-into-a-present-judgment -->
+**Going deeper:** [Read MSI's analysis of Ohio’s disputed campaign advertisement →](/analyses/2026-10-23-vivek-ramaswamy-defends-an-ad-that-extends-a-1978-charge-into-a-present-judgment)
