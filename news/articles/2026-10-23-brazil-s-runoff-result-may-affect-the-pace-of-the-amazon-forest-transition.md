@@ -1,9 +1,9 @@
 ---
 headline: Brazil's runoff result may affect the pace of the Amazon forest transition
-secondary_headline: Scientists say drier conditions could bring irreversible consequences
+secondary_headline: Models suggest collapse risk, but the proposed 20% forest-loss threshold remains unconfirmed
 publish_date: '2026-10-23'
-lede: Climate scientists and environmentalists cited by The Associated Press said the winner of Sunday's presidential runoff could determine whether and how soon the Amazon rainforest reaches a climate tipping point. President Luiz Inácio Lula da Silva is seeking reelection, and Sen. Flavio Bolsonaro is the opposition presidential candidate.
-nut_graf: The climate scientists and environmentalists cited by The Associated Press describe the heavily debated threshold as a shift from dense, humid, moisture-generating forest to a drier ecosystem. They say the change would bring irreversible consequences for biodiversity and the climate. Brazil contains about 60% of the Amazon, which spans several South American countries and absorbs massive amounts of carbon dioxide.
+lede: Climate scientists and environmentalists cited by The Associated Press said the winner of Sunday's presidential runoff could determine whether and how soon the Amazon rainforest could reach a climate tipping point. President Luiz Inácio Lula da Silva is seeking reelection after pursuing policies to curb deforestation and finance a sustainable economy, while opposition candidate Sen. Flávio Bolsonaro says he does not believe climate change is real and has offered few details on forest protection.
+nut_graf: The Associated Press describes the heavily debated threshold as a shift from dense, humid, moisture-generating forest to a drier ecosystem and says the change would bring irreversible consequences for biodiversity and the climate. Some research links the risk to the combination of losing more than 20% of the forest and global warming of around 2 degrees Celsius since the early 1800s, but David Lapola said observations and experiments have not established that losing 20% would trigger collapse. The Associated Press reports that Brazil contains about 60% of the Amazon, which spans several South American countries and absorbs massive amounts of carbon dioxide.
 primary_entities:
 - Brazil
 - Amazon rainforest
@@ -243,17 +243,23 @@ related_stories:
 **Subtype:** fact
 
 - Brazil's Sunday presidential runoff could determine whether and how soon the Amazon rainforest reaches a climate tipping point, climate scientists and environmentalists cited by The Associated Press say.
-- President Luiz Inácio Lula da Silva is seeking reelection against opposition candidate Sen. Flavio Bolsonaro.
-- President Luiz Inácio Lula da Silva and opposition candidate Flavio Bolsonaro have not made Amazon policy a major campaign topic, The Associated Press reports.
-- Climate scientists and environmentalists cited by The Associated Press describe the heavily debated threshold as a shift from dense, humid, moisture-generating forest to a drier ecosystem.
-- Climate scientists and environmentalists cited by The Associated Press say the shift would bring irreversible consequences for biodiversity and the climate.
-- The Associated Press reports that Brazil contains about 60% of the Amazon, which spans several South American countries.
+- President Luiz Inácio Lula da Silva is seeking reelection after pursuing policies to curb deforestation and finance a sustainable economy, The Associated Press reports.
+- Sen. Flávio Bolsonaro says he does not believe climate change is real and calls for modernized environmental laws and more Amazon landowner decision-making power.
+- Environmentalists say Flávio Bolsonaro's proposals would weaken Amazon safeguards and allow deforestation to accelerate.
+- Bernardo Flores described a possible self-reinforcing collapse, but David Lapola said observations and experiments have not established that losing 20% of the forest would trigger it.
+- A 2024 Nature study led by Bernardo Flores estimated 10% to 47% of the Amazon could face multiple threats by 2050.
 
-## Scientists say drier conditions could bring irreversible consequences
+## Models suggest collapse risk, but the proposed 20% forest-loss threshold remains unconfirmed
 
-The winner of Brazil's Sunday presidential runoff could determine whether and how soon the Amazon rainforest reaches a climate tipping point, according to climate scientists and environmentalists cited by The Associated Press. President Luiz Inácio Lula da Silva is seeking reelection, and Sen. Flavio Bolsonaro is the opposition presidential candidate.
+The winner of Brazil's Sunday presidential runoff could determine whether and how soon the Amazon rainforest reaches a climate tipping point, according to climate scientists and environmentalists cited by The Associated Press. President Luiz Inácio Lula da Silva is seeking reelection, and Sen. Flávio Bolsonaro is the opposition presidential candidate.
 
 President Luiz Inácio Lula da Silva and opposition candidate Flavio Bolsonaro have not made Amazon policy a major campaign topic, The Associated Press reported.
+
+The Associated Press reported that President Luiz Inácio Lula da Silva, who is trying to win a fourth nonconsecutive term, has sought to curb deforestation and finance a sustainable economy through international donations and public and private funding. If he wins, he is expected to continue such policies.
+
+Sen. Flávio Bolsonaro, the son of former President Jair Bolsonaro, has said he does not believe climate change is real while casting himself as an environmental defender. He has offered few details on his plans for forest protection or financing. He has called for a “modernization” of environmental laws and giving landowners in the Amazon more decision-making power, which environmentalists say would weaken safeguards and allow deforestation to accelerate.
+
+The Associated Press reported that deforestation surged under Jair Bolsonaro, who governed from 2019 through 2022, as he dismantled enforcement agencies and loosened environmental norms. Meanwhile, under Lula's current government, the lowest Amazon deforestation rate on record was announced last week.
 
 An Associated Press file photograph shows President Luiz Inácio Lula da Silva, who is running for reelection, gesturing beside opposition presidential candidate Sen. Flavio Bolsonaro during a televised presidential debate in Sao Paulo, Brazil, on Oct. 18, 2026. The debate occurred one week before the runoff election, and the image was credited to AP Photo/Andre Penner and marked as a file photo.
 
@@ -261,11 +267,29 @@ The Associated Press described the Amazon as the world's largest rainforest, spr
 
 The Associated Press said the key threshold was heavily debated among scientists. In simple terms, the threshold would mark the point when the dense, humid, moisture-generating forest shifts to a drier ecosystem.
 
-Climate scientists and environmentalists said the change would come with irreversible consequences for biodiversity and the climate.
+The Associated Press said the change would come with irreversible consequences for biodiversity and the climate.
 
 The Amazon absorbs massive amounts of carbon dioxide, a greenhouse gas that drives global temperature to rise, The Associated Press reported.
 
 The Associated Press said the candidates' different visions for the forest may intersect with a potential tipping point. According to the scientists and environmentalists, the runoff result could affect both whether the threshold arrives and when it arrives.
+
+Scientists define a tipping point as a critical threshold beyond which a small change can trigger a major shift in an ecosystem or climate system. They study such risks in regions or systems like the Amazon, Antarctic ice sheets and circulation patterns of the Atlantic Ocean. For the Amazon, some research suggests that losing more than 20% of the forest, combined with global warming of around 2 degrees Celsius (3.6 degrees Fahrenheit) since the early 1800s, could trigger widespread changes. About 17% of the Amazon has already been cleared, and the current temperature rise is about 1.4 C (2.5 F), The Associated Press reported.
+
+Crossing that threshold could set off a self-reinforcing cycle in which parts of the rainforest lose their ability to recover from drought, fire and other disturbances, giving way to a drier ecosystem. Bernardo Flores, an Earth system resilience expert and member of the Science Panel for the Amazon, an independent scientific initiative dedicated to protecting the basin and guiding sustainable development, said: “As the climate changes and puts increasing stress on the Amazon, the forest holds until it can’t anymore and collapses, either in parts or all at once, a process that could take decades or centuries once the tipping point is crossed.”
+
+David Lapola, who studies how the Amazon responds to rising carbon dioxide levels and is a lead author of an upcoming U.N. climate report chapter on tipping points, is more cautious. He said models suggest a risk of collapse, but observations and experiments have yet to establish that losing 20% of the forest would trigger it. “That doesn’t mean we should stop worrying, that we should forget about this problem. We need to investigate it, to have a scientific task force to get to the bottom of it,” he said.
+
+A 2024 study led by Flores and published in Nature estimated that 10% to 47% of the Amazon could face multiple threats by 2050, potentially turning parts of the forest into different ecosystems and worsening climate change in the region. Flores said scientists cannot know precisely how closely the Amazon is to a tipping point, and forest degradation could mean it is closer than models suggest. “I think the main sign would be the Amazon starting to become very dry and experiencing extensive burning,” he said. Forest degradation, driven by wildfires, logging and drought, affects about 40% of the Amazon and has outpaced clear-cutting in recent years.
+
+Climate scientist Carlos Nobre, among the first to warn that extensive deforestation could push the Amazon past a tipping point, said changes already underway show the forest is approaching that threshold. “Today, we know that the southern Amazon is particularly vulnerable,” Nobre said. “The dry season is now four to five weeks longer. Conditions are approximately 20% to 30% drier, and temperatures are two to three degrees Celsius higher.”
+
+Rising temperatures and more frequent droughts are stressing trees and increasing mortality, weakening even intact forests' ability to absorb more carbon than they release, Lapola said. Those forests could cease to be a net carbon sink by the mid-2030s if the decline continues, though the projection remains uncertain. Parts of the Amazon already emit more carbon dioxide, a greenhouse gas that drives global warming, than they absorb, according to research by Luciana Gatti of Brazil's National Institute for Space Research. Her latest study, published Wednesday in Nature, found that the Amazon released an annual average of 1.17 billion metric tons more carbon dioxide than it absorbed from 2010 through 2024. Fires, worsened by climate change, were the main source of emissions.
+
+Nobre said preventing further damage requires sustained cuts in greenhouse gas emissions and economic alternatives to clearing forests for cattle ranching and farming, the leading drivers of deforestation. “We must achieve zero deforestation, forest degradation and fires,” he said.
+
+At the U.N. climate talks in 2023, Brazil launched its “Arc of Restoration,” an initiative to replant and foster agroforestry practices and set targets to restore 24 million hectares in the southern Brazilian Amazon: 6 million by 2030 and another 18 million by 2050. The Associated Press said meeting such goals could depend on who Brazilians elect Sunday. “If we succeed, we can save the Amazon, the world’s largest tropical rainforest and one of its greatest reservoirs of biodiversity,” Nobre said.
+
+The Associated Press said its climate and environmental coverage receives financial support from multiple private foundations and that AP was solely responsible for all content.
 
 ## Sources
 
