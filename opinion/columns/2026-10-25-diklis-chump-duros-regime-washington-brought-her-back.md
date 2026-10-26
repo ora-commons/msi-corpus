@@ -1,7 +1,8 @@
 ---
 headline: I bought continuity for Maduro’s survivors and called it a transition
 publish_date: '2026-10-25'
-lede: Six months ago, I found Dinorah Figuera caring for elderly people in Spain because she needed to make a living.
+lede: Six months ago, I found Dinorah Figuera caring for elderly people in Spain because
+  she needed to make a living.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -42,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -63,7 +65,29 @@ cross_article_links:
   strength: 0.5731
   confidence: high
 draft: false
+image:
+  url: /cartoons/i-bought-continuity-for-maduros-survivors-and-called-it-a.png
+  alt: 'Editorial cartoon by Hector Rentier: I bought continuity for Maduro’s survivors
+    and called it a transition'
+  caption: The table was built. The calendar was left blank. The voters were never
+    seated.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-25T23:45:47-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Square 1:1 single-panel wood engraving in dense Nast-style cross-hatch,
+    balancing heavy black masses with carved-out whites. Exactly one restrained sepia
+    accent (#6B4226) is the word NO DATE inside th
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-25-hector-paired-with-2026-10-25-diklis-chump-duros-regime-washington-brought-her-back
 ---
+
+![Editorial cartoon by Hector Rentier: I bought continuity for Maduro’s survivors and called it a transition](/cartoons/i-bought-continuity-for-maduros-survivors-and-called-it-a.png)
+*The table was built. The calendar was left blank. The voters were never seated.*
 
 Six months ago, I found Dinorah Figuera caring for elderly people in Spain because she needed to make a living. The 65-year-old doctor and former lawmaker had lost her Venezuelan house, been accused of treason, and watched a close political ally be tortured and killed in government custody. Then a senior State Department official called and offered her the assignment of a lifetime: return and negotiate with the officials who had helped drive her into exile.
 
