@@ -255,6 +255,8 @@ related_stories:
   publish_date: '2026-05-16'
   relation: related
   strength: 0.6587
+analyses:
+- '2026-10-24-ocasio-cortez-s-tour-demonstrates-portable-attention-not-coalition-transfer'
 ---
 
 ## Ocasio-Cortez campaigns across multiple states in final midterm stretch
@@ -307,3 +309,8 @@ At a rally in Columbus, Mississippi, that featured former Vice President Kamala 
 **Publication date:** 2026-10-24
 **Title:** AOC tests her progressive message. The results could help shape her future
 **URL:** https://apnews.com/article/aoc-ocasiocortez-midterms-progressive-president-2028-2d75354a3a5685efc65ff5ab9b7401a6
+
+---
+
+<!-- analysis-link:2026-10-24-ocasio-cortez-s-tour-demonstrates-portable-attention-not-coalition-transfer -->
+**Going deeper:** [Read MSI's analysis of Ocasio-Cortez’s 2026 campaign swing →](/analyses/2026-10-24-ocasio-cortez-s-tour-demonstrates-portable-attention-not-coalition-transfer)
