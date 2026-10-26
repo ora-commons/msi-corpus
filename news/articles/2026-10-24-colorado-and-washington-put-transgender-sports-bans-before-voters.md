@@ -1,6 +1,6 @@
 ---
 headline: Colorado and Washington put transgender sports bans before voters
-secondary_headline: Ballot campaigns bypass lawmakers who rejected earlier bans
+secondary_headline: State proposals would set different sports eligibility rules
 publish_date: '2026-10-24'
 lede: Supporters of bans on transgender women and girls from female sports competitions have put proposed measures on the ballots in Colorado and Washington, two reliably Democratic states whose elected officials have rejected such bans, according to the Associated Press. The campaigns are the first to send the issue directly to voters, after it was debated in many legislatures.
 nut_graf: Supporters say a win in either state would open the door to similar ballot campaigns in other places where lawmakers have blocked bans, and polls cited in Associated Press reporting show Americans generally back the restrictions. The measures put the question to voters in two states where the legislature would not take it up.
@@ -244,25 +244,52 @@ related_stories:
 - Elected officials in both reliably Democratic states had rejected earlier moves to ban transgender women and girls from female sports competitions.
 - The measures would be the first time the issue has gone directly to voters, after it was debated in many state legislatures.
 - Polls cited in Associated Press reporting show Americans generally back the proposed bans.
-- Chris Melody Fields Figueredo, executive director of the Ballot Initiative Strategy Center, said, "What is happening in 2026 is a testing ground for the future."
+- Chris Melody Fields Figueredo, executive director of the Ballot Initiative Strategy Center, said, “What is happening in 2026 is a testing ground for the future.”
+- Neither Colorado nor Washington had an official count of transgender girls in school sports; Let's Go Washington said it had counted 16 athletes, but more could exist.
 
-## Ballot campaigns bypass lawmakers who rejected earlier bans
+## State proposals would set different sports eligibility rules
 
 Supporters of bans on transgender women and girls from female sports competitions have put proposed measures on the ballots in Colorado and Washington, two reliably Democratic states whose elected officials have rejected such bans, according to the Associated Press. The campaigns are the first to send the issue directly to voters, after it was debated in many legislatures.
 
-In both states, activists went around lawmakers to put the proposed bans before voters, the Associated Press reported. Elected officials in Colorado and Washington had rejected moves to bar transgender women and girls from female sports competitions, and the ballot route takes the question to the electorate without the statehouses acting first.
+In both states, activists went around lawmakers to put the proposed bans before voters. The measures would take different forms: Colorado’s ballot proposal covers college sports, while Washington’s would add a healthcare-provider requirement to verify a student’s biological sex.
 
-The measures arrive as some Democratic leaders nationwide recalibrate their approach to transgender issues, particularly sports. Polls show Americans generally support the bans, according to the Associated Press.
+Twenty-seven states — including every state where Republicans control both the legislature and governor’s office — already have such laws. President Donald Trump has taken steps to roll back transgender rights, and the Supreme Court has upheld state sports bans. The efforts have been billed as a way to protect women and girls and keep separate spaces for them, tapping into a concern that has gained momentum.
 
-Supporters are optimistic the two measures will pass, and they say passage would open the door to similar efforts in other places where lawmakers have blocked bans.
+A June poll from Quinnipiac University found that about 7 in 10 registered voters think transgender women and girls should not be allowed to play on female sports teams. About one-quarter think they should be allowed. Democrats were divided, with about half saying transgender women and girls should be allowed and about half saying they should not. Robert Preuhs, a professor of political science at Metropolitan State University of Denver, said the absence of public polls on Colorado’s ballot measure makes it hard to predict whether it will pass. “It’s probably going to get more support than some of the Republican candidates that will run,” Preuhs said.
 
-Chris Melody Fields Figueredo, executive director of the Ballot Initiative Strategy Center, which supports LGBTQ+ rights, framed the two contests as a test for what follows. "What is happening in 2026 is a testing ground for the future," Figueredo said.
+An Arizona measure would broaden an existing ban to include private schools, and a Nebraska measure would add an existing state law to the state constitution.
 
-The ballot route changes which institution decides. In the two states, elected officials have declined to write bans on transgender women and girls in female sports competitions into law; the campaigns now put the proposal to voters instead.
+## Washington would require medical verification
 
-Each measure pairs a reliably Democratic state, where elected officials had resisted such restrictions, with a route that lawmakers did not provide. A win in either state would mean a restriction on transgender women and girls in female sports took effect in a state where elected officials had opposed one, and supporters say that would open the door to similar efforts elsewhere.
+The Washington measure would require a healthcare provider to verify the student’s “biological sex, relying only on one or more of the following: The student’s reproductive anatomy, genetic makeup, or normal endogenously produced testosterone levels.” Let’s Go Washington spokesperson Hallie Herzberg said, “We see that as being as simple as a checkbox.” She said, “Doctors can use the history of the patient from treating them all their lives or their medical history forms.”
 
-What the votes settle is narrow: whether two states put bans on transgender women and girls in female sports competitions into law. What supporters say the results would settle beyond that is whether the ballot route can carry the question in states where legislatures have blocked it.
+Dr. Libby Loft, who opposes the measure, says the language calls for a genital inspection as part of a physical or expensive testing. She said, “I think it doesn’t make any sense to force the working families of … girl sports players in Washington to pay for unnecessary medical tests to be able to weed out an estimated five or 10 girls in the state of Washington, trans girls.” Loft said she fears the verification requirement will lead to fewer girls — transgender or not — playing sports. Rosemary Kacorozki of Renton, Washington, 63, a language interpreter, said, “I’m voting against it primarily because I think medical exams of girls’ genitalia is, like, Middle Ages.”
+
+## Participation totals remain uncertain
+
+Neither Colorado nor Washington has an official count of transgender girls in school sports, and the number is believed to be a sliver of total participants. Let’s Go Washington, which is behind the Washington measure, says it has counted 16 such athletes and that more could exist. The Washington Interscholastic Activities Association has counted about 101,000 girls in the sports it oversees, a figure that double-counts girls who play in multiple sports.
+
+## Athletes and advocates give competing accounts
+
+The argument has been framed around fairness, but Associated Press reporting found no clear consensus on whether transgender women and girls have a competitive advantage. Factors include the age of the athlete, the sport, whether the athlete went through male puberty and how long the athlete received hormone therapy. The reporting also said the idea that girls are being cheated is personal for some athletes.
+
+Ahnaleigh Wilson, a 17-year-old junior at Eastmont High School, about 150 miles (241 kilometers) east of Seattle, has spoken out against allowing transgender girls to compete in girls’ sports since junior high. She said she won all her 1,600-meter races in seventh and eighth grade until she finished second to a transgender athlete in a major meet. “I knew it wasn’t right and it wasn’t fair,” Wilson said. She also said three other transgender athletes she had competed against since then placed better in girls’ races than they would have with the same times against boys. “Women have fought for Title IX and our own categories and it’s very important that we keep the dignity of that, and let women have their own sports and their own spaces to be safe and completely fair,” Wilson said, referencing the federal law that prohibits discrimination based on sex in education programs and activities, including athletics.
+
+Opponents say excluding transgender girls is also unfair. Nadine Bridges, executive director of One Colorado, which is leading the opposition to Colorado’s measure, said: “They will say that they want to protect kids and in particular, young girls,” and warned, “but I don’t understand how you can protect kids and discriminate against kids at the same time.”
+
+## Party strategy and fundraising shape the campaigns
+
+Associated Press reporting said some Democratic leaders nationwide are recalibrating their approach to transgender issues, particularly sports. Imara Jones, an advocate who runs a website featuring stories of transgender people, said the issue is attractive to conservatives because some Democrats agree with them. Since transgender restrictions gained traction this decade, states with Democratic-led governors’ offices and legislatures generally have rejected proposals such as banning transgender people from bathrooms that match their gender identity and restricting gender-affirming care. Most Republican-led states have adopted those policies.
+
+Supporters are optimistic the two measures will pass and say passage could open the door to similar efforts in other places where lawmakers have blocked bans. Chris Melody Fields Figueredo, executive director of the Ballot Initiative Strategy Center, which supports LGBTQ+ rights, said, “What is happening in 2026 is a testing ground for the future.”
+
+Hedge fund manager Brian Heywood is funding Let’s Go Washington, which is also behind two other Washington measures. One would expand parents’ access to school social work and counseling records for their children, and another would repeal a newly adopted tax on incomes over $1 million. Todd Donovan, a Western Washington University political scientist, said Let’s Go is hoping that voters supporting the transgender sports ban would also favor overturning the tax.
+
+Tracy Flint of Ridgefield, Washington, a Democrat and former graphic artist, said she is wrestling with how to vote. “It’s new to my brain, so it’s a really tough one for me,” Flint said. Her husband, Dave Flint, 60, a former Republican who opposes Trump and now votes for Democrats, lamented that an issue affecting so few people had become such a national controversy. “But I guess you still have to address it,” Dave Flint said.
+
+One Colorado’s Bridges said she believes many voters can be persuaded to oppose the Colorado measure, though reaching them is the challenge. Groups registered as opposing the transgender-related measures in Colorado have raised nearly $4 million — more than 20 times what proponents have brought in, but not a lot for a statewide campaign. In Washington, Let’s Go has raised more than $7.8 million to campaign for its three measures, nearly twice as much as the ban opponents.
+
+The ballot route changes which institution decides. In the two states, elected officials have declined to write bans on transgender women and girls in female sports competitions into law; the campaigns now put the proposals to voters. Each measure pairs a reliably Democratic state, where elected officials had resisted such restrictions, with a route that lawmakers did not provide. A win in either state would mean a restriction on transgender women and girls in female sports took effect in a state where elected officials had opposed one, and supporters say that would open the door to similar efforts elsewhere. The votes directly determine whether the two states enact the bans and, in supporters’ view, whether the ballot route can carry the question in states where legislatures have blocked it. Geoff Mulvihill reported from Haddonfield, New Jersey.
 
 ## Sources
 
