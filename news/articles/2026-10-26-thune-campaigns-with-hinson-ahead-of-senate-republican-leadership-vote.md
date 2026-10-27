@@ -254,6 +254,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-10-26-john-thune-s-iowa-campaign-tests-his-senate-leadership-position'
 ---
 
 ## Thune campaigns with Hinson ahead of Senate Republican leadership vote
@@ -314,3 +316,8 @@ If Republicans held the Senate, Thune said part of next year’s agenda would in
 **Publication date:** 2026-10-26
 **Title:** Thune makes final push as he scrambles to save GOP's Senate majority
 **URL:** https://apnews.com/article/john-thune-midterm-elections-senate-majority-republicans-8f1d701189db1189e07b78375f3ad805
+
+---
+
+<!-- analysis-link:2026-10-26-john-thune-s-iowa-campaign-tests-his-senate-leadership-position -->
+**Going deeper:** [Read MSI's analysis of Thune’s Iowa campaign and leadership test →](/analyses/2026-10-26-john-thune-s-iowa-campaign-tests-his-senate-leadership-position)
