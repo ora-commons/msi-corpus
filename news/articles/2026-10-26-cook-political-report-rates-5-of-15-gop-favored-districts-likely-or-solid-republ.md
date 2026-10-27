@@ -250,6 +250,8 @@ related_stories:
   publish_date: '2026-10-09'
   relation: related
   strength: 0.6263
+analyses:
+- '2026-10-26-cook-ratings-leave-most-republican-favored-districts-competitive'
 ---
 
 ## Cook Political Report rates 5 of 15 GOP-favored districts likely or solid Republican
@@ -310,3 +312,8 @@ The newsletter's closing items included NPR's Breakfast Around the World visit t
 **Publication date:** 2026-10-26
 **Title:** Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term
 **URL:** https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva
+
+---
+
+<!-- analysis-link:2026-10-26-cook-ratings-leave-most-republican-favored-districts-competitive -->
+**Going deeper:** [Read MSI's analysis of Republican redistricting’s midterm test →](/analyses/2026-10-26-cook-ratings-leave-most-republican-favored-districts-competitive)
