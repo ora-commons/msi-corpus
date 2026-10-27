@@ -242,6 +242,8 @@ related_stories:
   publish_date: '2026-04-07'
   relation: related
   strength: 0.5759
+analyses:
+- '2026-10-26-fcc-review-tests-a-mismatch-between-satellite-approval-and-constellation-effects'
 ---
 
 ## Reflect Orbital draws criticism after California test of space-based mirrors
@@ -292,3 +294,8 @@ Reflect Orbital said it had held substantive discussions with scientists and ast
 **Publication date:** 2026-10-26
 **Title:** Sunlight at night: US startup’s demonstration of lighting Earth from space draws critcism
 **URL:** https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites
+
+---
+
+<!-- analysis-link:2026-10-26-fcc-review-tests-a-mismatch-between-satellite-approval-and-constellation-effects -->
+**Going deeper:** [Read MSI's analysis of the satellite-mirror constellation dispute →](/analyses/2026-10-26-fcc-review-tests-a-mismatch-between-satellite-approval-and-constellation-effects)
