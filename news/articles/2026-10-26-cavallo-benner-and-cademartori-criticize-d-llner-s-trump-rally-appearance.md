@@ -242,6 +242,8 @@ related_stories:
   publish_date: '2026-04-10'
   relation: related
   strength: 0.6154
+analyses:
+- '2026-10-26-audi-pairs-a-georgia-factory-announcement-with-trump-s-campaign-rally'
 ---
 
 ## Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
@@ -285,3 +287,8 @@ The Georgia rally came days before the 3 November election in the state, which T
 **Publication date:** 2026-10-26
 **Title:** Audi boss under fire in Germany for Trump rally appearance
 **URL:** https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance
+
+---
+
+<!-- analysis-link:2026-10-26-audi-pairs-a-georgia-factory-announcement-with-trump-s-campaign-rally -->
+**Going deeper:** [Read MSI's analysis of Volkswagen-Audi governance, neutrality and labor conflict →](/analyses/2026-10-26-audi-pairs-a-georgia-factory-announcement-with-trump-s-campaign-rally)
