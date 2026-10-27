@@ -1,7 +1,10 @@
 ---
 headline: California Democrats Must Tax the Billionaires or Obey Their Donors
 publish_date: '2026-10-26'
-lede: Dave Regan put a $100 billion health-care tax before California voters; Gavin Newsom, after acknowledging that federal Medicaid cuts could cost the state $25 billion a year, told the union president, “I don’t have a solution, Dave,” and then asked him to withdraw the measure.
+lede: Dave Regan put a $100 billion health-care tax before California voters; Gavin
+  Newsom, after acknowledging that federal Medicaid cuts could cost the state $25
+  billion a year, told the union president, “I don’t have a solution, Dave,” and then
+  asked him to withdraw the measure.
 pen_name: ruth-justice
 primary_entities:
 - California
@@ -31,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +57,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/california-democrats-must-tax-the-billionaires-or-obey.png
+  alt: 'Editorial cartoon by Hector Rentier: California Democrats Must Tax the Billionaires
+    or Obey Their Donors'
+  caption: He knew the Medicaid hole. His answer was a lock on the tax.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-26T22:38:54-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Square 1:1 single panel in the Nast/Daumier wood-engraving manner, rendered
+    with heavy cross-hatch, dense black masses, and carved-out whites. Gavin Newsom
+    occupies the center at a governor’s desk, re
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-26-hector-paired-with-2026-10-26-ruth-justice-politics-california-billionaire-tax-demo
 ---
+
+![Editorial cartoon by Hector Rentier: California Democrats Must Tax the Billionaires or Obey Their Donors](/cartoons/california-democrats-must-tax-the-billionaires-or-obey.png)
+*He knew the Medicaid hole. His answer was a lock on the tax.*
 
 Dave Regan put a $100 billion health-care tax before California voters; Gavin Newsom, after acknowledging that federal Medicaid cuts could cost the state $25 billion a year, told the union president, “I don’t have a solution, Dave,” and then asked him to withdraw the measure. The governor had no answer for the hole and an answer for the tax: kill the tax.
 

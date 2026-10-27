@@ -1,7 +1,8 @@
 ---
 headline: I Built a Business on the Form That Split Talia’s Thumbnail
 publish_date: '2026-10-26'
-lede: Talia is the 49-year-old scanner hand at my Meridian Benefits Center outside Wichita, and I built the line so fast that her thumbnail opens every morning.
+lede: Talia is the 49-year-old scanner hand at my Meridian Benefits Center outside
+  Wichita, and I built the line so fast that her thumbnail opens every morning.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-built-a-business-on-the-form-that-split-talias-thumbnail.png
+  alt: 'Editorial cartoon by Hector Rentier: I Built a Business on the Form That Split
+    Talia’s Thumbnail'
+  caption: He left out the check. The clerks did the work. He kept the margin.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-26T22:42:56-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square 1:1 single panel, rendered in heavy Nast-style wood-engraving
+    cross-hatch, with pure black masses, carved-out whites, and a single restrained
+    #6B4226 sepia accent on the “$0.38 / PACKET” payout'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-26-hector-paired-with-2026-10-26-sterling-i-built-a-business-on-the-form-that-split-talia-s-thumbnail
 ---
+
+![Editorial cartoon by Hector Rentier: I Built a Business on the Form That Split Talia’s Thumbnail](/cartoons/i-built-a-business-on-the-form-that-split-talias-thumbnail.png)
+*He left out the check. The clerks did the work. He kept the margin.*
 
 Talia is the 49-year-old scanner hand at my Meridian Benefits Center outside Wichita, and I built the line so fast that her thumbnail opens every morning. I keep $0.38 on every completed packet. It buys index cards for my desk, not the relief worker who would give Talia a pause between households. The can of beans in your pantry came from a benefits file Talia’s scanner kept open. You paid for those beans. Your can bought her hand at the scanner. I want you to see the whole invoice, because you’ve been reading only the label. May God bless your full pantry and your unexamined record. Michael Greibrok’s [National Review column on noncitizen voting and welfare-office registration](https://www.nationalreview.com/2026/10/noncitizen-voting-is-a-real-problem-and-this-loophole-explains-why/) reports that welfare agencies processed more than 1.5 million voter-registration applications from 2018 through 2020 and explains the federal rule requiring public-assistance offices to serve as voter-registration agencies. The warning is correct. I built the arrangement into my form.
 

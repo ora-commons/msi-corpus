@@ -1,7 +1,8 @@
 ---
 headline: Washington Is Betting Workers’ Lives on an Undefined Nuclear Guarantee
 publish_date: '2026-10-26'
-lede: Washington is betting Europe’s workers’ lives on a nuclear guarantee it refuses to define.
+lede: Washington is betting Europe’s workers’ lives on a nuclear guarantee it refuses
+  to define.
 pen_name: james-big-jim-zebedee
 primary_entities:
 - France
@@ -45,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,16 +63,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-10-26-france-expands-nuclear-deterrence-role-with-10-european-allies.png
-  alt: 'Illustration accompanying article: France expands nuclear deterrence role with 10 European allies'
+  url: /cartoons/washington-is-betting-workers-lives-on-an-undefined-nuclear.png
+  alt: 'Editorial cartoon by Hector Rentier: Washington Is Betting Workers’ Lives
+    on an Undefined Nuclear Guarantee'
+  caption: Workers carry the risk; Paris keeps the switch and the definition.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-10-26T22:32:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single-panel Nast-style wood engraving. At center, a calm,
+    fully individuated senior nuclear planner sits behind a broad command desk; his
+    lined face is legible in three-quarter profile, or
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-10-26-france-expands-nuclear-deterrence-role-with-10-european-allies
   relation: extends
   strength: 0.3536
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-26-hector-paired-with-2026-10-26-james-big-jim-zebedee-ces-nuclear-forces-bring-in-neighbors-to
 ---
+
+![Editorial cartoon by Hector Rentier: Washington Is Betting Workers’ Lives on an Undefined Nuclear Guarantee](/cartoons/washington-is-betting-workers-lives-on-an-undefined-nuclear.png)
+*Workers carry the risk; Paris keeps the switch and the definition.*
 
 Washington is betting Europe’s workers’ lives on a nuclear guarantee it refuses to define.
 
