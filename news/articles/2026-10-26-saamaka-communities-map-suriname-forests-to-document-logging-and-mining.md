@@ -240,6 +240,8 @@ related_stories:
   publish_date: '2026-05-11'
   relation: related
   strength: 0.5407
+analyses:
+- '2026-10-26-apaki-maps-forest-incursions-as-suriname-s-legal-enforcement-remains-incomplete'
 ---
 
 ## Saamaka communities map Suriname forests to document logging and mining
@@ -327,3 +329,8 @@ For Vola, who helped lead the forest patrol, the stakes extend far beyond his ow
 **Publication date:** 2026-10-26
 **Title:** Suriname tribe works to protect forests amid illegal cutting and mining
 **URL:** https://apnews.com/article/saamaka-tribe-suriname-logging-mapping-mining-illegal-land-rights-forest-14c351b8f98f1102a1df0fe539e870ed
+
+---
+
+<!-- analysis-link:2026-10-26-apaki-maps-forest-incursions-as-suriname-s-legal-enforcement-remains-incomplete -->
+**Going deeper:** [Read MSI's analysis of Apaki’s monitoring-and-enforcement gap →](/analyses/2026-10-26-apaki-maps-forest-incursions-as-suriname-s-legal-enforcement-remains-incomplete)

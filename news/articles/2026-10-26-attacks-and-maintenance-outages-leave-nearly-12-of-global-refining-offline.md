@@ -243,6 +243,8 @@ related_stories:
   publish_date: '2026-09-14'
   relation: related
   strength: 0.7397
+analyses:
+- '2026-10-26-refinery-outages-constrain-fuel-recovery-as-repair-delays-and-substitution-limit'
 ---
 
 ## Attacks and maintenance outages leave nearly 12% of global refining offline
@@ -295,3 +297,8 @@ During a trip to India last week, Secretary of State Marco Rubio spoke with Fore
 **Publication date:** 2026-10-26
 **Title:** These Maps Show Why It’s So Hard to Recover the World’s Lost Fuel Supplies
 **URL:** https://www.wsj.com/business/energy-oil/these-maps-show-why-its-so-hard-to-recover-the-worlds-lost-fuel-supplies-11dd7a7c
+
+---
+
+<!-- analysis-link:2026-10-26-refinery-outages-constrain-fuel-recovery-as-repair-delays-and-substitution-limit -->
+**Going deeper:** [Read MSI's analysis of global fuel recovery constraints →](/analyses/2026-10-26-refinery-outages-constrain-fuel-recovery-as-repair-delays-and-substitution-limit)
