@@ -253,6 +253,8 @@ related_stories:
   publish_date: '2026-08-29'
   relation: related
   strength: 0.7041
+analyses:
+- '2026-10-26-trump-turns-el-sayed-s-disputed-allegiance-into-a-senate-security-test'
 ---
 
 ## Trump labels El-Sayed a “jihadist” during Michigan Senate rally
@@ -301,3 +303,8 @@ Enrollment in the Supplemental Nutrition Assistance Program also declined signif
 **Publication date:** 2026-10-26
 **Title:** Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live
 **URL:** https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates
+
+---
+
+<!-- analysis-link:2026-10-26-trump-turns-el-sayed-s-disputed-allegiance-into-a-senate-security-test -->
+**Going deeper:** [Read MSI's analysis of identity-linked security framing →](/analyses/2026-10-26-trump-turns-el-sayed-s-disputed-allegiance-into-a-senate-security-test)
