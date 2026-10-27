@@ -260,6 +260,8 @@ related_stories:
   publish_date: '2026-04-23'
   relation: related
   strength: 0.689
+analyses:
+- '2026-10-26-a-10-company-bloc-concentrates-expected-third-quarter-s-p-500-profit-growth'
 ---
 
 ## Nvidia and Micron account for 34% of expected third-quarter S&P 500 profit growth
@@ -300,3 +302,8 @@ The earnings findings remained prospective: FactSet's 30% figure reflected what 
 **Publication date:** 2026-10-26
 **Title:** Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom
 **URL:** https://www.wsj.com/cfo-journal/audi-announces-its-first-u-s-factory-nvidia-micron-drive-earnings-boom-281693e0
+
+---
+
+<!-- analysis-link:2026-10-26-a-10-company-bloc-concentrates-expected-third-quarter-s-p-500-profit-growth -->
+**Going deeper:** [Read MSI's analysis of expected S&P 500 earnings concentration →](/analyses/2026-10-26-a-10-company-bloc-concentrates-expected-third-quarter-s-p-500-profit-growth)
