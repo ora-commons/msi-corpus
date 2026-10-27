@@ -241,6 +241,8 @@ related_stories:
   publish_date: '2026-05-21'
   relation: related
   strength: 0.6364
+analyses:
+- '2026-10-26-retired-wind-turbines-remain-a-prospective-rare-earth-source-not-proven-commerci'
 ---
 
 ## A few recycling ventures pursue rare-earth supply from retired wind turbines
@@ -287,3 +289,8 @@ The report is by Mark R. Long, editor of WSJ Logistics Report. The team also inc
 **Publication date:** 2026-10-26
 **Title:** South Korea Holds a Key to America’s Shipbuilding Revival
 **URL:** https://www.wsj.com/logistics-report/south-korea-holds-a-key-to-americas-shipbuilding-revival-99b645f7
+
+---
+
+<!-- analysis-link:2026-10-26-retired-wind-turbines-remain-a-prospective-rare-earth-source-not-proven-commerci -->
+**Going deeper:** [Read MSI's analysis of rare-earth recovery from retired turbines →](/analyses/2026-10-26-retired-wind-turbines-remain-a-prospective-rare-earth-source-not-proven-commerci)
