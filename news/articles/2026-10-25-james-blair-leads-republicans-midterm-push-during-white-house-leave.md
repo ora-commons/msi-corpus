@@ -256,6 +256,8 @@ related_stories:
   publish_date: '2026-06-17'
   relation: related
   strength: 0.6207
+analyses:
+- '2026-10-25-james-blair-tests-a-data-led-coalition-without-trump-on-the-ballot'
 ---
 
 ## James Blair leads Republicans' midterm push during White House leave
@@ -317,3 +319,8 @@ On 3 November, voters will determine whether Blair can defy the odds again. The 
 **Publication date:** 2026-10-25
 **Title:** ‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans
+
+---
+
+<!-- analysis-link:2026-10-25-james-blair-tests-a-data-led-coalition-without-trump-on-the-ballot -->
+**Going deeper:** [Read MSI's analysis of Blair’s midterm model →](/analyses/2026-10-25-james-blair-tests-a-data-led-coalition-without-trump-on-the-ballot)
