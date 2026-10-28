@@ -1,9 +1,24 @@
 ---
-headline: Novartis raises profit guidance as lower costs drive third-quarter earnings beat
+headline: Novartis raises profit guidance as lower costs drive third-quarter earnings
+  beat
 secondary_headline: Pluvicto and Kisqali were key top-line underperformers
 publish_date: '2026-10-27'
-lede: 'Novartis reported third-quarter results that beat consensus expectations on core earnings per share and core operating profit, which Jefferies attributed to notably lower operating expenses. The Swiss drugmaker raised full-year guidance that Jefferies said points to core operating profit of $22.1 billion to $22.8 billion. Bernstein said revenue was roughly in line with consensus estimates and identified Pluvicto for prostate cancer and Kisqali for breast cancer among the key top-line underperformers, while Vontobel''s Stefan Schneider separately said the top-line beat came predominantly from older products outperforming and newer drugs struggled to meet expectations. The findings appeared in analyst research notes published Oct. 27, 2026, in The Wall Street Journal''s Health Care Roundup: Market Talks.'
-nut_graf: 'Novartis''s profit beat came from lower operating expenses and productivity gains rather than from a broad-based improvement in new product sales: Jefferies linked the beat to lower operating expenses, and Vontobel''s Stefan Schneider credited productivity improvements. At the company''s November capital markets day, Bank of America analysts said, Novartis could roll its midterm sales growth guidance forward and consider raising peak-sales guidance for key drugs.'
+lede: 'Novartis reported third-quarter results that beat consensus expectations on
+  core earnings per share and core operating profit, which Jefferies attributed to
+  notably lower operating expenses. The Swiss drugmaker raised full-year guidance
+  that Jefferies said points to core operating profit of $22.1 billion to $22.8 billion.
+  Bernstein said revenue was roughly in line with consensus estimates and identified
+  Pluvicto for prostate cancer and Kisqali for breast cancer among the key top-line
+  underperformers, while Vontobel''s Stefan Schneider separately said the top-line
+  beat came predominantly from older products outperforming and newer drugs struggled
+  to meet expectations. The findings appeared in analyst research notes published
+  Oct. 27, 2026, in The Wall Street Journal''s Health Care Roundup: Market Talks.'
+nut_graf: 'Novartis''s profit beat came from lower operating expenses and productivity
+  gains rather than from a broad-based improvement in new product sales: Jefferies
+  linked the beat to lower operating expenses, and Vontobel''s Stefan Schneider credited
+  productivity improvements. At the company''s November capital markets day, Bank
+  of America analysts said, Novartis could roll its midterm sales growth guidance
+  forward and consider raising peak-sales guidance for key drugs.'
 primary_entities:
 - Novartis
 - Bernstein
@@ -47,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,36 +166,11 @@ related_stories:
   publish_date: '2026-10-27'
   relation: related
   strength: 0.6564
-- slug: 2026-10-27-reckitt-lowers-2026-like-for-like-net-revenue-growth-range-for-core-business-to-
-  headline: Reckitt lowers 2026 like-for-like net revenue growth range for core business to 3.5%-4.5%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6365
 - slug: 2026-10-22-newmont-quarterly-profit-rises-to-2-48-billion
   headline: Newmont quarterly profit rises to $2.48 billion
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6528
-- slug: 2026-10-21-philip-morris-cuts-earnings-outlook-after-quarterly-profit-decline
-  headline: Philip Morris cuts earnings outlook after quarterly profit decline
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6498
-- slug: 2026-10-20-analysts-update-energy-payouts-power-growth-and-refining-outlooks
-  headline: Analysts update energy payouts, power growth and refining outlooks
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6429
-- slug: 2026-10-20-adidas-raises-2026-profit-guidance-to-2-5-billion-after-u-s-tariff-refunds
-  headline: Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6424
-- slug: 2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten
-  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6394
+  strength: 0.6531
 - slug: 2026-10-13-johnson-johnson-raises-outlook-as-medical-device-sales-miss-estimates
   headline: Johnson & Johnson raises outlook as medical device sales miss estimates
   publish_date: '2026-10-13'
@@ -189,64 +180,28 @@ related_stories:
   headline: UnitedHealth posts $4.11 billion quarterly profit, raises guidance
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6604
+  strength: 0.6599
 - slug: 2026-10-13-volkswagen-rises-as-analysts-praise-cost-cuts-stellantis-slips-on-2cv
   headline: Volkswagen rises as analysts praise cost-cuts; Stellantis slips on 2CV
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6547
+  strength: 0.6538
 - slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
   headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6687
+  strength: 0.6688
 - slug: 2026-10-08-analyst-notes-move-health-care-shares-fresenius-gland-ihh-astrazeneca
   headline: 'Analyst notes move health care shares: Fresenius, Gland, IHH, AstraZeneca'
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6601
+  strength: 0.6602
 - slug: 2026-09-01-novartis-shares-rise-as-analysts-see-multibillion-dollar-ms-drug-opportunity
   headline: Novartis shares rise as analysts see multibillion-dollar MS drug opportunity
   publish_date: '2026-09-01'
   relation: related
   strength: 0.7029
-- slug: 2026-09-04-analyst-notes-move-shares-of-hutchmed-nakanishi-astrazeneca-and-bayer
-  headline: Analyst notes move shares of Hutchmed, Nakanishi, AstraZeneca, and Bayer
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6454
-- slug: 2026-08-04-continental-reaffirms-tires-guidance-sees-raw-material-costs-climb
-  headline: Continental reaffirms tires guidance, sees raw-material costs climb
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6659
-- slug: 2026-08-14-eqt-offers-a-7-billion-for-cleanaway-as-analysts-trim-energy-outlooks
-  headline: EQT offers A$7 billion for Cleanaway as analysts trim energy outlooks
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6351
-- slug: 2026-07-24-roche-beats-first-half-profit-estimates-as-ceo-flags-deal-discipline
-  headline: Roche beats first-half profit estimates as CEO flags deal discipline
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6667
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6475
-- slug: 2026-07-16-unitedhealth-beats-wall-street-estimates-and-raises-full-year-earnings-outlook
-  headline: UnitedHealth beats Wall Street estimates and raises full-year earnings outlook
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6598
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6673
 ---
-
 ## Novartis raises profit guidance as lower costs drive third-quarter earnings beat
 
 **Subtype:** fact

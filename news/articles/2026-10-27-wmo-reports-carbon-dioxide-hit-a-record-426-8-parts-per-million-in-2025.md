@@ -141,6 +141,8 @@ related_stories:
   publish_date: '2026-01-14'
   relation: related
   strength: 0.686
+analyses:
+- '2026-10-27-wmo-links-record-carbon-dioxide-to-fossil-fuel-emissions-and-long-atmospheric-re'
 ---
 ## WMO reports carbon dioxide hit a record 426.8 parts per million in 2025
 
@@ -178,3 +180,8 @@ The report therefore pairs two different kinds of statement: measured concentrat
 **Publication date:** 2026-10-27
 **Title:** WMO: Carbon dioxide, other emissions reach record high in 2025
 **URL:** https://www.upi.com/Top_News/World-News/2026/10/27/switzerland-world-meteorological-organization-carbon-dioxide-climate/5271793115911/
+
+---
+
+<!-- analysis-link:2026-10-27-wmo-links-record-carbon-dioxide-to-fossil-fuel-emissions-and-long-atmospheric-re -->
+**Going deeper:** [Read MSI's analysis of Record greenhouse-gas accumulation and its sources →](/analyses/2026-10-27-wmo-links-record-carbon-dioxide-to-fossil-fuel-emissions-and-long-atmospheric-re)

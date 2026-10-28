@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8465
+analyses:
+- '2026-10-27-tennessee-highway-patrol-deploys-aviation-assets-for-morley-search-while-breach-'
 ---
 ## Tennessee Highway Patrol deploys aviation assets and troopers for Morley search
 
@@ -218,3 +220,8 @@ The manhunt was under way, with state troopers assisting the search and Morley l
 **Publication date:** 2026-10-27
 **Title:** Manhunt under way for Tennessee killer who escaped prison through a fence
 **URL:** https://www.bbc.co.uk/news/articles/c64g17jqy5ddo
+
+---
+
+<!-- analysis-link:2026-10-27-tennessee-highway-patrol-deploys-aviation-assets-for-morley-search-while-breach- -->
+**Going deeper:** [Read MSI's analysis of Morley’s prison escape and search response →](/analyses/2026-10-27-tennessee-highway-patrol-deploys-aviation-assets-for-morley-search-while-breach-)

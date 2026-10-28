@@ -2,8 +2,18 @@
 headline: John Healey prepares his first budget amid war-driven economic pressure
 secondary_headline: Resolution Foundation puts headroom estimate near £12bn
 publish_date: '2026-10-27'
-lede: UK Chancellor John Healey will deliver his first budget on Wednesday as households and businesses face an economic shock linked to the war in the Middle East, according to The Guardian's preview. Healey must balance “breathing space” for the cost of living, increased growth and the government's fiscal rules while the shock drives up debt-interest costs and unsettles bond markets. The Resolution Foundation estimates that headroom against those rules has fallen to about £12bn from £23.6bn at the spring statement.
-nut_graf: The budget brings proposed household relief and competing claims on constrained public finances into one decision. How much fiscal room remains for cost-of-living support will depend on the Office for Budget Responsibility's assessment of debt costs, inflation, pay growth, employment and productivity as the government pursues regional growth, youth employment and higher defence spending.
+lede: UK Chancellor John Healey will deliver his first budget on Wednesday as households
+  and businesses face an economic shock linked to the war in the Middle East, according
+  to The Guardian's preview. Healey must balance “breathing space” for the cost of
+  living, increased growth and the government's fiscal rules while the shock drives
+  up debt-interest costs and unsettles bond markets. The Resolution Foundation estimates
+  that headroom against those rules has fallen to about £12bn from £23.6bn at the
+  spring statement.
+nut_graf: The budget brings proposed household relief and competing claims on constrained
+  public finances into one decision. How much fiscal room remains for cost-of-living
+  support will depend on the Office for Budget Responsibility's assessment of debt
+  costs, inflation, pay growth, employment and productivity as the government pursues
+  regional growth, youth employment and higher defence spending.
 primary_entities:
 - John Healey
 - Andy Burnham
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,12 +155,13 @@ related_stories:
   headline: John Healey’s budget secrecy comes amid leaks on key policies
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7727
+  strength: 0.7715
 - slug: 2026-10-21-uk-government-records-24-5bn-september-deficit-ahead-of-healey-s-first-budget
-  headline: UK government records £24.5bn September deficit ahead of Healey’s first budget
+  headline: UK government records £24.5bn September deficit ahead of Healey’s first
+    budget
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7739
+  strength: 0.7734
 - slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
   headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
   publish_date: '2026-10-13'
@@ -159,89 +171,28 @@ related_stories:
   headline: Badenoch says Healey's budget will be even worse than Reeves's two
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7429
+  strength: 0.7425
 - slug: 2026-10-11-ifs-warns-iran-war-inflation-will-force-hard-healey-budget-choices
   headline: IFS warns Iran-war inflation will force hard Healey Budget choices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7914
+  strength: 0.7911
 - slug: 2026-10-14-uk-to-shift-vat-collection-to-online-marketplaces-in-first-budget
   headline: UK to shift VAT collection to online marketplaces in first budget
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7576
+  strength: 0.7569
 - slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
   headline: TUC finds UK households paid £13,961 extra on bills since 2021
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7424
+  strength: 0.742
 - slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
   headline: Senior Labour figures privately criticize Healey's budget preparations
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8043
-- slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
-  headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7054
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.8532
-- slug: 2026-10-08-uk-10-year-gilt-yield-hits-19-year-high-amid-global-bond-selloff
-  headline: UK 10-year gilt yield hits 19-year high amid global bond selloff
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7037
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7557
-- slug: 2026-09-22-uk-borrowing-totals-18-3bn-in-august-above-obr-forecast
-  headline: UK borrowing totals £18.3bn in August, above OBR forecast
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7366
-- slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
-  headline: S&P Global UK consumer sentiment index falls to 42.7 in September
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7255
-- slug: 2026-09-24-global-bond-sell-off-raises-uk-gilt-yields-to-near-19-year-high
-  headline: Global bond sell-off raises UK gilt yields to near 19-year high
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7105
-- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
-  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6845
-- slug: 2026-09-23-oecd-cuts-uk-2027-growth-forecast-to-1-on-iran-war-energy-costs
-  headline: OECD cuts UK 2027 growth forecast to 1% on Iran war energy costs
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-20-davey-proposes-2bn-temporary-fuel-duty-cut-before-budget
-  headline: Davey proposes £2bn temporary fuel duty cut before budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7121
-- slug: 2026-09-15-economists-press-uk-chancellor-to-halt-bank-of-england-s-bond-selling
-  headline: Economists press UK chancellor to halt Bank of England's bond-selling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7088
-- slug: 2026-09-15-uk-weighs-joining-canada-led-defence-bank
-  headline: UK weighs joining Canada-led defence bank
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6927
+  strength: 0.8042
 ---
-
 ## John Healey prepares his first budget amid war-driven economic pressure
 
 **Subtype:** fact
