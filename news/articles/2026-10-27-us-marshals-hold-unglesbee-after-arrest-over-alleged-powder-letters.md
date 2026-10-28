@@ -201,6 +201,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-27-complaint-alleges-unglesbee-expected-salt-to-trigger-anthrax-perception-and-hazm'
 ---
 ## US marshals hold Unglesbee after arrest over alleged powder letters
 
@@ -242,3 +244,8 @@ Unglesbee was tentatively scheduled to appear for a detention hearing Wednesday 
 **Publication date:** 2026-10-27
 **Title:** Illinois man arrested after allegedly sending suspicious powder to Congress members using his return address
 **URL:** https://www.theguardian.com/us-news/2026/oct/27/man-sent-powder-congress-arrest
+
+---
+
+<!-- analysis-link:2026-10-27-complaint-alleges-unglesbee-expected-salt-to-trigger-anthrax-perception-and-hazm -->
+**Going deeper:** [Read MSI's analysis of Congressional Response to Suspicious Powder Letters →](/analyses/2026-10-27-complaint-alleges-unglesbee-expected-salt-to-trigger-anthrax-perception-and-hazm)

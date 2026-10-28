@@ -1,9 +1,17 @@
 ---
 headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
-secondary_headline: Nearly 50 million eligible voters fall within the 18-to-29 age group
+secondary_headline: Nearly 50 million eligible voters fall within the 18-to-29 age
+  group
 publish_date: '2026-10-27'
-lede: The Guardian has asked Generation Z voters in the United States whether they plan to vote in the 2026 midterms, which issues matter to them and who or what stands out in the cycle. US Census Bureau data cited by The Guardian show nearly 50 million people aged 18 to 29 are eligible to vote, while nearly half are not registered or civically engaged.
-nut_graf: The request seeks first-hand accounts from a large young electorate one week before the vote. It does not present poll findings; instead, it asks readers to describe their own participation, priorities and the people or subjects they see as notable.
+lede: The Guardian has asked Generation Z voters in the United States whether they
+  plan to vote in the 2026 midterms, which issues matter to them and who or what stands
+  out in the cycle. US Census Bureau data cited by The Guardian show nearly 50 million
+  people aged 18 to 29 are eligible to vote, while nearly half are not registered
+  or civically engaged.
+nut_graf: The request seeks first-hand accounts from a large young electorate one
+  week before the vote. It does not present poll findings; instead, it asks readers
+  to describe their own participation, priorities and the people or subjects they
+  see as notable.
 primary_entities:
 - The Guardian
 - US Census Bureau
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +152,8 @@ related_stories:
   relation: related
   strength: 0.8336
 - slug: 2026-10-27-millions-of-young-voters-can-register-on-election-day-in-22-states-and-dc
-  headline: Millions of young voters can register on election day in 22 states and DC
+  headline: Millions of young voters can register on election day in 22 states and
+    DC
   publish_date: '2026-10-27'
   relation: related
   strength: 0.7269
@@ -153,7 +163,8 @@ related_stories:
   relation: related
   strength: 0.7036
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6644
@@ -177,68 +188,7 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.6606
-- slug: 2026-10-16-navigator-focus-group-finds-some-gen-z-trump-voters-regret-2024-vote
-  headline: Navigator focus group finds some Gen Z Trump voters regret 2024 vote
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6965
-- slug: 2026-10-21-young-candidates-face-barriers-in-an-aging-us-congress
-  headline: Young candidates face barriers in an aging US Congress
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6649
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7147
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7198
-- slug: 2026-10-14-guardian-to-host-reader-q-a-on-us-economy-and-midterms
-  headline: Guardian to host reader Q&A on US economy and midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6741
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6849
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6588
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6888
-- slug: 2026-09-24-guardian-hosts-live-q-a-on-midterm-campaign-spending
-  headline: Guardian hosts live Q&A on midterm campaign spending
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.702
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.661
-- slug: 2026-09-15-guardian-to-host-live-q-a-on-democratic-unity-ahead-of-midterms
-  headline: Guardian to host live Q&A on Democratic unity ahead of midterms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6665
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6509
 ---
-
 ## The Guardian asks Gen Z voters what will guide their 2026 midterms
 
 **Subtype:** fact

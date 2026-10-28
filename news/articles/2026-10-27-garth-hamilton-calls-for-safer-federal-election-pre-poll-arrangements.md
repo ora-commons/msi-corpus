@@ -1,9 +1,23 @@
 ---
 headline: Garth Hamilton calls for safer federal election pre-poll arrangements
-secondary_headline: Interim inquiry report recommends AEC review to ensure adequate arrangements
+secondary_headline: Interim inquiry report recommends AEC review to ensure adequate
+  arrangements
 publish_date: '2026-10-27'
-lede: Garth Hamilton called on Tuesday for a rethink of federal election pre-poll voting, including potentially shortening the time booths are open, amid concerns of threats to voters and volunteers. Hamilton, the Liberal-National MP for the Queensland electorate of Groom and a Toowoomba-based politician, said the length of the pre-polling period, resources at centres and the role of postal voting should be considered as parliament returned this week after the alleged attack on independent MP Helen Haines, who remained in a serious but stable condition after both her legs were amputated.
-nut_graf: The interim report of the parliamentary inquiry into the 2025 election recommends that the Australian Electoral Commission review pre-poll resourcing and duration to ensure adequate arrangements are in place, noting the rising number of people opting to cast their ballot early. The AEC's 2025 election report recorded more than 9 million votes, or 56%, cast at early-voting centres, and the commission has advised the committee that shortening the period would not decrease early voting but would instead increase operational risks.
+lede: Garth Hamilton called on Tuesday for a rethink of federal election pre-poll
+  voting, including potentially shortening the time booths are open, amid concerns
+  of threats to voters and volunteers. Hamilton, the Liberal-National MP for the Queensland
+  electorate of Groom and a Toowoomba-based politician, said the length of the pre-polling
+  period, resources at centres and the role of postal voting should be considered
+  as parliament returned this week after the alleged attack on independent MP Helen
+  Haines, who remained in a serious but stable condition after both her legs were
+  amputated.
+nut_graf: The interim report of the parliamentary inquiry into the 2025 election recommends
+  that the Australian Electoral Commission review pre-poll resourcing and duration
+  to ensure adequate arrangements are in place, noting the rising number of people
+  opting to cast their ballot early. The AEC's 2025 election report recorded more
+  than 9 million votes, or 56%, cast at early-voting centres, and the commission has
+  advised the committee that shortening the period would not decrease early voting
+  but would instead increase operational risks.
 primary_entities:
 - Garth Hamilton
 - Helen Haines
@@ -38,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +155,24 @@ related_stories:
   headline: Threats against Australian MPs rise amid political conflict, Barrett says
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.72
+  strength: 0.7215
 - slug: 2026-10-21-australian-mps-disclose-spending-on-home-and-office-security
   headline: Australian MPs disclose spending on home and office security
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7118
+  strength: 0.7131
 - slug: 2026-10-22-cleeland-calls-threats-sexualised-and-violent-five-weeks-from-victorian-election
-  headline: Cleeland calls threats sexualised and violent five weeks from Victorian election
+  headline: Cleeland calls threats sexualised and violent five weeks from Victorian
+    election
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.698
-- slug: 2026-10-26-haines-remains-in-serious-but-stable-condition-as-parliament-pauses-for-tributes
-  headline: Haines remains in serious but stable condition as parliament pauses for tributes
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.631
+  strength: 0.6994
 - slug: 2026-10-19-police-data-show-more-than-1-000-threats-against-australian-politicians
   headline: Police data show more than 1,000 threats against Australian politicians
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.677
-- slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6465
-- slug: 2026-10-22-police-charge-56-year-old-over-alleged-threats-at-hannah-beazley-s-office
-  headline: Police charge 56-year-old over alleged threats at Hannah Beazley’s office
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6376
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6166
-- slug: 2026-10-25-victorian-auditor-general-examines-police-cell-detention-practices
-  headline: Victorian auditor-general examines police-cell detention practices
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6126
-- slug: 2026-10-21-nugent-remains-in-custody-after-court-appearance-in-haines-case
-  headline: Nugent remains in custody after court appearance in Haines case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6385
-- slug: 2026-10-19-albanese-says-rise-in-temperature-in-australian-politics-after-vehicle-strike-on
-  headline: Albanese says 'rise in temperature' in Australian politics after vehicle strike on Haines
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6478
-- slug: 2026-10-19-australian-mp-helen-haines-critical-after-vehicle-strike-in-wangaratta
-  headline: Australian MP Helen Haines critical after vehicle strike in Wangaratta
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6334
-- slug: 2026-10-21-himes-warner-seek-election-day-contact-from-intelligence-leaders
-  headline: Himes, Warner seek Election Day contact from intelligence leaders
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6111
-- slug: 2026-10-21-australian-inquiry-hears-65-children-were-subject-to-federal-police-operations
-  headline: Australian inquiry hears 65 children were subject to federal police operations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6098
-- slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
-  headline: Democratic attorneys general expand midterm election security planning
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6092
-- slug: 2026-10-19-indi-mp-haines-has-built-parliamentary-identity-on-anti-corruption-work
-  headline: Indi MP Haines has built parliamentary identity on anti-corruption work
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6109
-- slug: 2026-10-19-albanese-says-he-never-wants-politicians-to-lose-community-access
-  headline: Albanese says he never wants politicians to lose community access
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6097
-- slug: 2026-10-16-no-kings-coalition-plans-3-000-early-vote-events-ahead-of-midterms
-  headline: No Kings coalition plans 3,000+ early-vote events ahead of midterms
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6226
-- slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
-  headline: Election deniers revive fraud claims before midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6112
-- slug: 2026-09-27-experts-warn-midterm-counting-window-is-a-vulnerable-period
-  headline: Experts warn midterm counting window is a vulnerable period
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6418
+  strength: 0.6779
 ---
-
 ## Garth Hamilton calls for safer federal election pre-poll arrangements
 
 **Subtype:** fact
