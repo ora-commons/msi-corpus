@@ -1,9 +1,27 @@
 ---
 headline: Quilombolas reclaim Amazon land from bankrupt palm oil company
-secondary_headline: BBF security chief and another executive face pending torture charges
+secondary_headline: BBF security chief and another executive face pending torture
+  charges
 publish_date: '2026-10-22'
-lede: Quilombola communities in Brazil's Amazon basin have reclaimed nearly 32,400 hectares of land from palm oil producer Brasil BioFuels (BBF) following years of blockades, court rulings, and violent confrontations, according to an investigation published Thursday by The Guardian. About 2,300 community members in the Acará valley of Pará state now control territory that was once cultivated for palm oil. The Guardian characterized the region's history as decades of violent displacement and "land theft," and called the campaign the first victory for the communities against biofuel companies in the region.
-nut_graf: The dispute reflects a broader pattern of conflict between traditional communities and the expansion of palm oil cultivation, whose producers receive federal subsidies as a biofuel feedstock and whose operations have spread across traditional quilombola and Indigenous territories. The Guardian's investigation, produced with the Pulitzer Center and the University of California, Berkeley's Human Rights Center, reports pending torture charges against BBF executives, killings in unprosecuted ambushes, and courts' refusal to enforce most BBF land claims. One key government body recognized the quilombolas' rights to much of the reclaimed land. Separately, a provisional ruling by a local court in another producer's dispute found that 72% of the contested land overlapped with areas belonging to quilombola and riverside communities and led to cancellation of 24 land registrations.
+lede: Quilombola communities in Brazil's Amazon basin have reclaimed nearly 32,400
+  hectares of land from palm oil producer Brasil BioFuels (BBF) following years of
+  blockades, court rulings, and violent confrontations, according to an investigation
+  published Thursday by The Guardian. About 2,300 community members in the Acará valley
+  of Pará state now control territory that was once cultivated for palm oil. The Guardian
+  characterized the region's history as decades of violent displacement and "land
+  theft," and called the campaign the first victory for the communities against biofuel
+  companies in the region.
+nut_graf: The dispute reflects a broader pattern of conflict between traditional communities
+  and the expansion of palm oil cultivation, whose producers receive federal subsidies
+  as a biofuel feedstock and whose operations have spread across traditional quilombola
+  and Indigenous territories. The Guardian's investigation, produced with the Pulitzer
+  Center and the University of California, Berkeley's Human Rights Center, reports
+  pending torture charges against BBF executives, killings in unprosecuted ambushes,
+  and courts' refusal to enforce most BBF land claims. One key government body recognized
+  the quilombolas' rights to much of the reclaimed land. Separately, a provisional
+  ruling by a local court in another producer's dispute found that 72% of the contested
+  land overlapped with areas belonging to quilombola and riverside communities and
+  led to cancellation of 24 land registrations.
 primary_entities:
 - Quilombola communities
 - Brasil BioFuels
@@ -45,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +162,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-19-amazon-fires-blanket-manaus-as-brazil-probes-political-motive
-  headline: Amazon fires blanket Manaus as Brazil probes political motive
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6144
 - slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
   headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6657
-- slug: 2026-09-19-brazil-s-wind-farm-growth-draws-a-class-action-lawsuit-over-health-livelihood-im
-  headline: Brazil's wind farm growth draws a class action lawsuit over health, livelihood impacts
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5924
-- slug: 2026-09-08-mexico-s-supreme-court-rules-ammonia-plant-authorization-bypassed-required-indig
-  headline: Mexico's Supreme Court rules ammonia plant authorization bypassed required Indigenous consultation
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6186
-- slug: 2026-08-17-indigenous-environmental-groups-sue-to-halt-lula-backed-amazon-oil-drilling
-  headline: Indigenous, environmental groups sue to halt Lula-backed Amazon oil drilling
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6474
-- slug: 2026-08-26-peru-court-sentences-four-men-for-2023-killing-of-kichwa-leader
-  headline: Peru court sentences four men for 2023 killing of Kichwa leader
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6057
-- slug: 2026-08-25-peruvian-court-sentences-four-men-to-up-to-35-years-for-kichwa-leader-s-killing
-  headline: Peruvian court sentences four men to up to 35 years for Kichwa leader's killing
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6067
-- slug: 2026-08-11-brazil-s-supreme-court-weighs-cases-that-could-reshape-amazon-protections
-  headline: Brazil's Supreme Court weighs cases that could reshape Amazon protections
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6186
-- slug: 2026-07-23-ashaninka-leaders-urge-brazil-protection-as-drug-gangs-encroach-on-amazon-territ
-  headline: Ashaninka leaders urge Brazil protection as drug gangs encroach on Amazon territory
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6319
-- slug: 2026-06-24-colombian-election-result-may-reshape-amazon-rainforest-s-future
-  headline: Colombian election result may reshape Amazon rainforest’s future
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6553
-- slug: 2026-06-19-cattle-removal-on-brazil-s-bananal-island-creates-new-problems-for-indigenous-re
-  headline: Cattle removal on Brazil's Bananal Island creates new problems for Indigenous residents
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6312
-- slug: 2026-06-06-colombia-s-presidential-runoff-stark-choice-for-amazon-fossil-fuels
-  headline: 'Colombia''s presidential runoff: stark choice for Amazon, fossil fuels'
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6303
+  strength: 0.659
 - slug: 2026-04-09-newcomers-arrive-and-amazon-forests-are-cleared-as-brazil-explores-for-oil
-  headline: Newcomers arrive and Amazon forests are cleared as Brazil explores for oil
+  headline: Newcomers arrive and Amazon forests are cleared as Brazil explores for
+    oil
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.6557
-- slug: 2026-06-24-petrobras-head-says-brazil-must-choose-between-fossil-fuel-phaseout-and-tax-reve
-  headline: Petrobras head says Brazil must choose between fossil fuel phaseout and tax revenue
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.594
-- slug: 2026-05-27-brazil-to-invest-75-million-in-amazon-highway-unveils-protection-plan
-  headline: Brazil to invest $75 million in Amazon highway, unveils protection plan
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6067
-- slug: 2026-04-30-brazil-labor-prosecutors-target-jbs-over-beef-tied-to-slavery-like-labor
-  headline: Brazil labor prosecutors target JBS over beef tied to slavery-like labor
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6191
-- slug: 2026-03-15-indigenous-women-tour-ecuador-oil-field-warn-of-amazon-drilling-harms
-  headline: Indigenous women tour Ecuador oil field, warn of Amazon drilling harms
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6309
-- slug: 2026-06-11-brazil-reports-sharp-drop-in-amazon-deforestation-amid-us-tariff-dispute
-  headline: Brazil Reports Sharp Drop in Amazon Deforestation Amid US Tariff Dispute
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5928
-- slug: 2026-06-07-indigenous-practices-reshape-wildfire-strategy-in-brazil-s-cerrado
-  headline: Indigenous practices reshape wildfire strategy in Brazil's Cerrado
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5945
-- slug: 2026-04-09-indigenous-leader-raoni-backs-lula-despite-opposing-amazon-railway
-  headline: Indigenous leader Raoni backs Lula despite opposing Amazon railway
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6146
+  strength: 0.6536
 ---
-
 ## Quilombolas reclaim Amazon land from bankrupt palm oil company
 
 **Subtype:** fact

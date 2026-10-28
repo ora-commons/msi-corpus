@@ -1,9 +1,19 @@
 ---
 headline: Disputed USAF notification leaves UK police without a drink-driving inquiry
-secondary_headline: Christopher Mooty’s later case ended in a British conviction and driving ban
+secondary_headline: Christopher Mooty’s later case ended in a British conviction and
+  driving ban
 publish_date: '2026-10-22'
-lede: Suffolk police say they were not notified of an alleged drink-driving incident involving Christopher Mooty, a USAF airman based at RAF Mildenhall, on 3/4 March 2023. The USAF disputes that account, saying it has no specific written record of notification but sees no reason to believe verbal notice was omitted. The Guardian reported that the missed notification left British authorities unable to investigate the case.
-nut_graf: The USAF pursued the case through a court martial after the allegation was reported to military commanders, while Suffolk police say they were not notified. The disclosures are part of a Guardian investigation that prompted the UK government and police chiefs to establish a high-level inquiry into whether US personnel stationed in Britain are being brought to justice properly.
+lede: Suffolk police say they were not notified of an alleged drink-driving incident
+  involving Christopher Mooty, a USAF airman based at RAF Mildenhall, on 3/4 March
+  2023. The USAF disputes that account, saying it has no specific written record of
+  notification but sees no reason to believe verbal notice was omitted. The Guardian
+  reported that the missed notification left British authorities unable to investigate
+  the case.
+nut_graf: The USAF pursued the case through a court martial after the allegation was
+  reported to military commanders, while Suffolk police say they were not notified.
+  The disclosures are part of a Guardian investigation that prompted the UK government
+  and police chiefs to establish a high-level inquiry into whether US personnel stationed
+  in Britain are being brought to justice properly.
 primary_entities:
 - Christopher Mooty
 - United States Air Force
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +148,8 @@ cross_article_links:
   strength: 0.5818
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-shawn-oliver-ends-massachusetts-lt-governor-bid-after-drunk-driving-arrest
-  headline: Shawn Oliver ends Massachusetts lt. governor bid after drunk-driving arrest
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6025
-- slug: 2026-10-09-mod-u-s-european-command-issue-statements-after-raf-molesworth-arrests
-  headline: MOD, U.S. European Command issue statements after RAF Molesworth arrests
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6048
-- slug: 2026-10-08-uk-arrests-two-latvian-men-at-raf-molesworth-under-national-security-act
-  headline: UK arrests two Latvian men at RAF Molesworth under National Security Act
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5946
-- slug: 2026-10-05-uk-officials-not-briefed-as-us-pulls-b-1-bombers-from-raf-fairford
-  headline: UK officials not briefed as US pulls B-1 bombers from RAF Fairford
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6069
-- slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5859
-- slug: 2026-10-06-new-york-lawmakers-push-to-close-voluntary-intoxication-consent-gap
-  headline: New York lawmakers push to close 'voluntary intoxication' consent gap
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5928
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6141
-- slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
-  headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6094
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6018
-- slug: 2026-09-28-uk-probes-motives-beyond-iran-link-in-raf-fairford-arrests
-  headline: UK probes motives beyond Iran link in RAF Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-27-us-raises-lakenheath-threat-level-after-five-arrests-near-raf-fairford
-  headline: US raises Lakenheath threat level after five arrests near RAF Fairford
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6005
-- slug: 2026-09-27-bbc-verify-geolocates-image-of-arrests-to-raf-fairford-runway-access
-  headline: BBC Verify geolocates image of arrests to RAF Fairford runway access
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5912
-- slug: 2026-09-14-us-removed-london-diplomat-accused-of-child-images-without-warning-uk-police
-  headline: US removed London diplomat accused of child images without warning UK police
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6449
-- slug: 2026-09-28-streeting-says-uk-security-forces-knew-of-raf-fairford-bomb-plot-in-advance
-  headline: Streeting says UK security forces knew of RAF Fairford bomb plot in advance
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5838
-- slug: 2026-07-25-mother-urges-uk-to-press-texas-on-daughter-s-shooting-death
-  headline: Mother urges UK to press Texas on daughter's shooting death
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5975
-- slug: 2026-07-11-four-new-york-times-journalists-ordered-to-testify-before-federal-grand-jury
-  headline: Four New York Times journalists ordered to testify before federal grand jury
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5836
-- slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
-  headline: MPs press UK regulator to prove Palantir deal won't expose data to US
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5857
-- slug: 2026-04-08-prosecutors-seek-tiger-woods-prescription-drug-records-after-florida-dui-arrest
-  headline: Prosecutors seek Tiger Woods’ prescription drug records after Florida DUI arrest
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6063
-- slug: 2026-05-14-kash-patel-denies-drinking-allegations-in-heated-senate-budget-hearing
-  headline: Kash Patel denies drinking allegations in heated Senate budget hearing
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5913
-- slug: 2026-05-13-judge-orders-tiger-woods-prescription-records-released-to-florida-prosecutors
-  headline: Judge orders Tiger Woods' prescription records released to Florida prosecutors
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5887
+related_stories: []
 ---
-
 ## Disputed USAF notification leaves UK police without a drink-driving inquiry
 
 **Subtype:** fact

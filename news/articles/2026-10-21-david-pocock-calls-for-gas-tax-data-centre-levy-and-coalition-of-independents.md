@@ -2,8 +2,17 @@
 headline: David Pocock calls for gas tax, data centre levy and coalition of independents
 secondary_headline: Pocock rules out prime minister bid and stays in the Senate
 publish_date: '2026-10-21'
-lede: Independent ACT senator and former rugby star David Pocock used his first National Press Club speech on October 21 to say he was not launching a bid for prime minister. He proposed a 25% tax on gas exports, a 5% levy on datacentres and transparency reforms for lobbyists, secret meetings with politicians and vested interests, while laying out a longer-term alliance of independents and community political groups.
-nut_graf: Pocock tied the gas-export tax to welfare, health reform and aged care and proposed an alliance of independents and community groups for the next election. The Guardian described him as “extraordinarily successful” in drawing attention to his key issues despite one vote and no longer holding the Senate balance of power, but said the alliance was light on detail and that where it ended up, and whether it got off the ground, would be seen in coming months and years.
+lede: Independent ACT senator and former rugby star David Pocock used his first National
+  Press Club speech on October 21 to say he was not launching a bid for prime minister.
+  He proposed a 25% tax on gas exports, a 5% levy on datacentres and transparency
+  reforms for lobbyists, secret meetings with politicians and vested interests, while
+  laying out a longer-term alliance of independents and community political groups.
+nut_graf: Pocock tied the gas-export tax to welfare, health reform and aged care and
+  proposed an alliance of independents and community groups for the next election.
+  The Guardian described him as “extraordinarily successful” in drawing attention
+  to his key issues despite one vote and no longer holding the Senate balance of power,
+  but said the alliance was light on detail and that where it ended up, and whether
+  it got off the ground, would be seen in coming months and years.
 primary_entities:
 - David Pocock
 - Helen Haines
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +148,8 @@ cross_article_links:
   strength: 0.5754
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
-  headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5958
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5952
-- slug: 2026-10-11-coalition-and-one-nation-leave-cpac-without-plan-to-defeat-labor
-  headline: Coalition and One Nation leave CPAC without plan to defeat Labor
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5935
-- slug: 2026-10-13-peter-lewis-australian-resistance-rises-against-ai-inevitability-doctrine
-  headline: 'Peter Lewis: Australian resistance rises against AI ''inevitability doctrine'''
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5788
-- slug: 2026-10-11-dallas-pastor-frederick-douglass-haynes-iii-runs-for-crockett-s-open-seat
-  headline: Dallas pastor Frederick Douglass Haynes III runs for Crockett's open seat
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5756
-- slug: 2026-10-05-australian-ai-inquiry-demands-openai-explain-its-data-safeguards
-  headline: Australian AI inquiry demands OpenAI explain its data safeguards
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6048
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.602
-- slug: 2026-10-03-pritzker-positions-for-2028-spotlight-while-seeking-third-illinois-term
-  headline: Pritzker positions for 2028 spotlight while seeking third Illinois term
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5912
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5793
-- slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
-  headline: Burnham to outline social care and public control plans at Labour conference
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5936
-- slug: 2026-09-30-greens-leader-shoebridge-tells-abc-voters-want-a-party-that-will-fight-the-1
-  headline: Greens leader Shoebridge tells ABC voters want a party that will fight the 1%
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.585
-- slug: 2026-09-23-taylor-pledges-to-repeal-australian-climate-energy-policies
-  headline: Taylor pledges to repeal Australian climate, energy policies
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5967
-- slug: 2026-09-22-ed-davey-sets-out-17bn-income-tax-cut-plan-at-lib-dem-conference
-  headline: Ed Davey sets out £17bn income tax cut plan at Lib Dem conference
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5985
-- slug: 2026-09-21-ed-davey-to-call-for-global-nuclear-style-ai-non-proliferation-treaty-at-lib-dem
-  headline: Ed Davey to call for global nuclear-style AI non-proliferation treaty at Lib Dem conference
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5925
-- slug: 2026-09-15-australia-weighs-giving-ai-companies-default-access-to-creators-works
-  headline: Australia weighs giving AI companies default access to creators' works
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5809
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5882
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5839
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5799
-- slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5903
-- slug: 2026-08-14-democratic-socialist-oliver-larkin-challenges-jared-moskowitz-in-florida
-  headline: Democratic socialist Oliver Larkin challenges Jared Moskowitz in Florida
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5903
+related_stories: []
 ---
-
 ## David Pocock calls for gas tax, data centre levy and coalition of independents
 
 **Subtype:** fact

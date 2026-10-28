@@ -2,8 +2,13 @@
 headline: GM officials hope to halve vehicle development time with AI and new software
 secondary_headline: OnStar AI agent expected to debut on 2027 Cadillac Lyriq EV
 publish_date: '2026-10-21'
-lede: At a "GM Forward" event in New York City on Wednesday, General Motors officials said they hope to use AI and new software to cut vehicle-development time in half, to about two years. The officials said the shorter cycle could help GM compete with Chinese automakers, which roll out new models more quickly. The company did not share a timeline for cutting development time.
-nut_graf: Company officials said the shorter cycle could help GM compete with Chinese automakers, which roll out new models more quickly.
+lede: At a "GM Forward" event in New York City on Wednesday, General Motors officials
+  said they hope to use AI and new software to cut vehicle-development time in half,
+  to about two years. The officials said the shorter cycle could help GM compete with
+  Chinese automakers, which roll out new models more quickly. The company did not
+  share a timeline for cutting development time.
+nut_graf: Company officials said the shorter cycle could help GM compete with Chinese
+  automakers, which roll out new models more quickly.
 primary_entities:
 - General Motors
 - Mary Barra
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,107 +142,37 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
+  headline: Record copper and elevated steel costs add pressure to GM's full-year
+    outlook
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6564
-- slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
-  headline: Chinese automakers pitch American-style cars as U.S. stays shut
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6257
-- slug: 2026-10-09-geely-to-launch-in-canada-in-2027-as-u-s-weighs-chinese-car-restrictions
-  headline: Geely to launch in Canada in 2027 as U.S. weighs Chinese car restrictions
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6492
 - slug: 2026-10-01-gm-sales-fall-5-5-in-q3-as-u-s-buyers-choose-sedans-small-suvs
   headline: GM sales fall 5.5% in Q3 as U.S. buyers choose sedans, small SUVs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6631
-- slug: 2026-09-29-u-s-car-dealers-face-worst-new-model-drought-in-years
-  headline: U.S. car dealers face worst new-model drought in years
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-15-fedex-cvs-deployers-take-optimistic-side-in-ai-safety-debate
-  headline: FedEx, CVS deployers take 'optimistic side' in AI safety debate
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6295
+  strength: 0.6624
 - slug: 2026-08-21-gm-s-century-long-us-sales-lead-over-toyota-shrinks-to-100-000-vehicles
   headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6871
-- slug: 2026-09-06-hyundai-ford-and-stellantis-plan-us-extended-range-evs
-  headline: Hyundai, Ford and Stellantis plan US extended-range EVs
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6331
-- slug: 2026-09-02-ford-targets-100-000-first-year-sales-for-new-30-000-fathom-electric-truck
-  headline: Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6295
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6272
-- slug: 2026-08-15-ford-and-gm-push-competing-tariff-demands-on-washington
-  headline: Ford and GM push competing tariff demands on Washington
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6347
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6283
+  strength: 0.6867
 - slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
   headline: GM invests $1.5 billion to onshore production, scale defense unit
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6703
+  strength: 0.6702
 - slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
   headline: GM raises 2026 outlook for second time on strong truck and SUV demand
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6509
+  strength: 0.6507
 - slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
   headline: Ford executive chair says US must prepare for Chinese cars to enter market
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6544
-- slug: 2026-07-25-u-s-companies-ditch-pricey-ai-models-for-cheaper-alternatives
-  headline: U.S. companies ditch pricey AI models for cheaper alternatives
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6305
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.628
-- slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
-  headline: China weighs limits on overseas access to its AI models
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6263
-- slug: 2026-06-26-rivian-ceo-warns-automakers-risk-being-woefully-behind-with-ev-retreat
-  headline: Rivian CEO warns automakers risk being 'woefully behind' with EV retreat
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6307
-- slug: 2026-06-28-chinese-ai-matches-anthropic-in-cybersecurity-narrowing-u-s-lead
-  headline: Chinese AI matches Anthropic in cybersecurity, narrowing U.S. lead
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6283
+  strength: 0.6545
 ---
-
 ## GM officials hope to halve vehicle development time with AI and new software
 
 **Subtype:** fact

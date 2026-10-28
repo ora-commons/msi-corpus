@@ -1,9 +1,20 @@
 ---
-headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+  keynote'
 secondary_headline: Musk says SpaceX-Tesla deal would be largest merger ever
 publish_date: '2026-10-21'
-lede: Major U.S. technology stocks rose Wednesday, with the Nasdaq Composite climbing 1.1%, as developments involving SpaceX, Anthropic and Nvidia gave investors some confidence to set aside concerns about the AI trade, at least for the moment. Elon Musk reported that SpaceX was profitable and said the company might merge with Tesla, while a draft of Anthropic's IPO prospectus showed $16.3 billion in revenue in the first half of 2026. At Nvidia's GTC conference in Berlin, Chief Executive Jensen Huang discussed the Vera Rubin systems while navigating a heckler.
-nut_graf: The three developments helped lift the Nasdaq almost all the way back from Friday's selloff, giving investors some confidence to set aside concerns about the AI trade, at least for the moment. Musk reported that SpaceX was profitable. Anthropic's document was a draft prospectus, and Huang's contribution came through his Berlin conference remarks.
+lede: Major U.S. technology stocks rose Wednesday, with the Nasdaq Composite climbing
+  1.1%, as developments involving SpaceX, Anthropic and Nvidia gave investors some
+  confidence to set aside concerns about the AI trade, at least for the moment. Elon
+  Musk reported that SpaceX was profitable and said the company might merge with Tesla,
+  while a draft of Anthropic's IPO prospectus showed $16.3 billion in revenue in the
+  first half of 2026. At Nvidia's GTC conference in Berlin, Chief Executive Jensen
+  Huang discussed the Vera Rubin systems while navigating a heckler.
+nut_graf: The three developments helped lift the Nasdaq almost all the way back from
+  Friday's selloff, giving investors some confidence to set aside concerns about the
+  AI trade, at least for the moment. Musk reported that SpaceX was profitable. Anthropic's
+  document was a draft prospectus, and Huang's contribution came through his Berlin
+  conference remarks.
 primary_entities:
 - Nasdaq Composite
 - SpaceX
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,7 +79,8 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-10-21'
-  caption: NASDAQ Composite closing level on October 21, 2026, when the index rose 1.1% and recovered most of the ground lost in the prior Friday's selloff.
+  caption: NASDAQ Composite closing level on October 21, 2026, when the index rose
+    1.1% and recovered most of the ground lost in the prior Friday's selloff.
 figures_aggregate:
   count: 1
   series_ids:
@@ -157,108 +170,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
+  headline: Wall Street advances as SpaceX beats summer profit expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8541
 - slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
   headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7645
+  strength: 0.7654
 - slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
   headline: SpaceX reports 161% revenue growth driven by Starlink and AI
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7573
-- slug: 2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street
-  headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
-  publish_date: '2026-07-30'
+  strength: 0.7576
+- slug: 2026-10-20-strong-profit-reports-lift-u-s-stocks-as-oil-prices-ease
+  headline: Strong profit reports lift U.S. stocks as oil prices ease
+  publish_date: '2026-10-20'
   relation: related
-  strength: 0.7071
+  strength: 0.7511
+- slug: 2026-10-27-most-asian-stocks-close-higher-after-nvidia-s-2-4-gain
+  headline: Most Asian stocks close higher after Nvidia's 2.4% gain
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.741
+- slug: 2026-10-27-nvidia-advances-2-4-as-asian-indexes-diverge
+  headline: Nvidia advances 2.4% as Asian indexes diverge
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7386
+- slug: 2026-10-22-tesla-posts-28-billion-revenue-musk-says-optimus-could-be-ready-to-ship-by-the-e
+  headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship
+    by the end of next year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7345
 - slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
   headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
   publish_date: '2026-02-26'
   relation: related
   strength: 0.7761
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7248
-- slug: 2026-06-09-tech-stocks-waver-ahead-of-spacex-s-ipo-chip-shares-slide
-  headline: Tech stocks waver ahead of SpaceX's IPO; chip shares slide
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7314
-- slug: 2026-06-12-spacex-shares-surge-19-in-record-ipo-stocks-climb
-  headline: SpaceX Shares Surge 19% in Record IPO; Stocks Climb
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7288
-- slug: 2026-02-19-nvidia-boosts-stocks-as-meta-deal-lifts-s-p-500-and-nasdaq
-  headline: Nvidia boosts stocks as Meta deal lifts S&P 500 and Nasdaq
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7639
-- slug: 2026-06-12-spacex-ipo-and-pending-ai-listings-bind-us-retirement-funds-to-tech-sector-analy
-  headline: SpaceX IPO and pending AI listings bind US retirement funds to tech sector, analysis says
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7227
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7318
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7127
-- slug: 2026-06-12-spacex-ipo-tops-176-company-surpasses-2-trillion-market-cap-on-debut
-  headline: SpaceX IPO tops $176, company surpasses $2 trillion market cap on debut
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7095
-- slug: 2026-06-01-anthropic-files-confidential-ipo-nvidia-pc-push-lifts-tech-stocks
-  headline: Anthropic files confidential IPO, Nvidia PC push lifts tech stocks
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7148
-- slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
-  headline: Tech rally lifts Wall Street to records as oil, inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7115
-- slug: 2026-05-26-another-surge-for-micron-wall-street-s-latest-1-trillion-company-sends-us-stocks
-  headline: Another surge for Micron, Wall Street's latest $1 trillion company, sends US stocks to records
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7045
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.727
-- slug: 2026-01-04-us-stocks-edge-higher-in-a-wobbly-start-to-2026
-  headline: US stocks edge higher in a wobbly start to 2026
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7299
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7249
-- slug: 2026-01-01-us-stocks-edge-higher-in-a-wobbly-start-to-2026
-  headline: US stocks edge higher in a wobbly start to 2026
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7285
-- slug: 2026-01-03-us-stocks-edge-higher-in-a-wobbly-start-to-2026
-  headline: US stocks edge higher in a wobbly start to 2026
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7278
 ---
-
 ## Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote
 
 **Subtype:** fact

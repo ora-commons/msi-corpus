@@ -2,8 +2,19 @@
 headline: Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship
 secondary_headline: Medicaid programs paid $10 billion for autism care last year
 publish_date: '2026-10-21'
-lede: A Wall Street Journal analysis of five of the largest private-equity-backed autism-therapy providers found that average weekly therapy hours for Medicaid patients were 29% higher than competitors’ in 2024. Dealogic counted 59 traditional IPOs by Nasdaq raising nearly $120 billion through Friday, compared with 32 IPOs by the NYSE raising $20 billion. Other Journal briefs covered Demis Hassabis’s views on science, Anthropic’s first-half loss and preparations for an IPO that could help it reach a $2 trillion valuation, and people seeking friends through TikTok and Reddit.
-nut_graf: The five briefs cover $10 billion in Medicaid spending on autism therapy last year, Nasdaq’s lead in traditional IPO fundraising, Demis Hassabis’s views on science, Anthropic’s loss and IPO prospects, and online efforts to find friends. A separate item in the newsletter attributes authorization of the Oct. 14 Starlink slowdown to Elon Musk, while President Trump denied ordering the restrictions.
+lede: A Wall Street Journal analysis of five of the largest private-equity-backed
+  autism-therapy providers found that average weekly therapy hours for Medicaid patients
+  were 29% higher than competitors’ in 2024. Dealogic counted 59 traditional IPOs
+  by Nasdaq raising nearly $120 billion through Friday, compared with 32 IPOs by the
+  NYSE raising $20 billion. Other Journal briefs covered Demis Hassabis’s views on
+  science, Anthropic’s first-half loss and preparations for an IPO that could help
+  it reach a $2 trillion valuation, and people seeking friends through TikTok and
+  Reddit.
+nut_graf: The five briefs cover $10 billion in Medicaid spending on autism therapy
+  last year, Nasdaq’s lead in traditional IPO fundraising, Demis Hassabis’s views
+  on science, Anthropic’s loss and IPO prospects, and online efforts to find friends.
+  A separate item in the newsletter attributes authorization of the Oct. 14 Starlink
+  slowdown to Elon Musk, while President Trump denied ordering the restrictions.
 primary_entities:
 - The Wall Street Journal
 - Medicaid
@@ -62,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,117 +172,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
-  publish_date: '2026-10-20'
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6493
-- slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
-  publish_date: '2026-10-21'
+  strength: 0.6682
+- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6404
-- slug: 2026-10-16-ai-safety-incidents-expose-insurance-gap-in-fast-growing-industry
-  headline: AI safety incidents expose insurance gap in fast-growing industry
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6249
-- slug: 2026-10-12-stalled-ipos-push-venture-backed-ai-firms-toward-m-a
-  headline: Stalled IPOs push venture-backed AI firms toward M&A
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6469
-- slug: 2026-10-15-youtube-in-talks-with-publishers-for-audiobook-feature
-  headline: YouTube in Talks with Publishers for Audiobook Feature
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6273
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6455
-- slug: 2026-10-08-openai-narrows-anthropic-lead-in-business-ai-spending-ahead-of-dual-ipos
-  headline: OpenAI narrows Anthropic lead in business AI spending ahead of dual IPOs
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6363
+  strength: 0.6547
 - slug: 2026-09-30-demos-29-of-q3-ipos-price-below-range-almost-double-prior-four-quarter-high
-  headline: 'Demos: 29% of Q3 IPOs price below range, almost double prior four-quarter high'
+  headline: 'Demos: 29% of Q3 IPOs price below range, almost double prior four-quarter
+    high'
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6708
-- slug: 2026-10-02-aws-pledges-over-1-billion-to-communities-amid-data-center-backlash
-  headline: AWS pledges over $1 billion to communities amid data center backlash
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.637
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6462
-- slug: 2026-09-22-meta-surges-on-ai-agent-app-financial-sector-drops-2-on-ai-fears
-  headline: Meta surges on AI agent app; financial sector drops 2% on AI fears
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.64
-- slug: 2026-09-14-venture-capital-tightens-for-second-wave-ai-startups
-  headline: Venture capital tightens for second-wave AI startups
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6354
-- slug: 2026-08-25-oura-inspire-brands-among-companies-targeting-fall-ipos
-  headline: Oura, Inspire Brands Among Companies Targeting Fall IPOs
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6303
-- slug: 2026-08-14-equity-stake-gains-inflate-amazon-and-alphabet-q2-profit-figures
-  headline: Equity-stake gains inflate Amazon and Alphabet Q2 profit figures
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6344
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6287
-- slug: 2026-07-23-wall-street-firms-pay-up-to-100-000-a-month-for-faster-truth-social-access
-  headline: Wall Street firms pay up to $100,000 a month for faster Truth Social access
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6432
-- slug: 2026-07-25-openai-hack-china-competition-fuel-washington-ai-debate
-  headline: OpenAI hack, China competition fuel Washington AI debate
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6303
+  strength: 0.6711
 - slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
+  headline: Wall Street funnels record capital to AI build-out across equity and debt
+    markets
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6737
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6235
+  strength: 0.6743
 - slug: 2026-06-14-tech-ipos-set-to-deliver-billions-in-charitable-giving-experts-say
   headline: Tech IPOs Set to Deliver Billions in Charitable Giving, Experts Say
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.656
+  strength: 0.6563
 image:
   url: /articles/2026-10-21-five-wall-street-journal-briefs-cover-autism-therapy-ipos-ai-and-friendship.png
-  alt: "Illustration accompanying article: Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship"
+  alt: 'Illustration accompanying article: Five Wall Street Journal briefs cover autism
+    therapy, IPOs, AI and friendship'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship
 
 **Subtype:** fact

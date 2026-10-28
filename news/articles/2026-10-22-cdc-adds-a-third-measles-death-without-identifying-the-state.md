@@ -2,8 +2,18 @@
 headline: CDC adds a third measles death without identifying the state
 secondary_headline: Pennsylvania reports six deaths as the CDC dashboard lists three
 publish_date: '2026-10-22'
-lede: The U.S. Centers for Disease Control and Prevention added a third measles death to its dashboard on Wednesday without identifying the state where it occurred. A spokesperson for the U.S. Department of Health and Human Services said privacy laws and legal restrictions prevented the National Center for Health Statistics from naming the state or providing details about the third individual. Pennsylvania has reported six deaths, including five confirmed deaths, while its most recent case remains under investigation; the U.S. outbreak grew 8% in one week to 4,410 confirmed cases, nearly double last year's count.
-nut_graf: Paul Offit said the absence of a clear picture of what is happening in each state, including a possible measles death, makes risk levels hard to understand. He also said state and local officials may be wary of working alongside CDC staff at what he described as an agency refusing to record accurate data.
+lede: The U.S. Centers for Disease Control and Prevention added a third measles death
+  to its dashboard on Wednesday without identifying the state where it occurred. A
+  spokesperson for the U.S. Department of Health and Human Services said privacy laws
+  and legal restrictions prevented the National Center for Health Statistics from
+  naming the state or providing details about the third individual. Pennsylvania has
+  reported six deaths, including five confirmed deaths, while its most recent case
+  remains under investigation; the U.S. outbreak grew 8% in one week to 4,410 confirmed
+  cases, nearly double last year's count.
+nut_graf: Paul Offit said the absence of a clear picture of what is happening in each
+  state, including a possible measles death, makes risk levels hard to understand.
+  He also said state and local officials may be wary of working alongside CDC staff
+  at what he described as an agency refusing to record accurate data.
 primary_entities:
 - Centers for Disease Control and Prevention
 - U.S. Department of Health and Human Services
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +155,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
+  headline: CDC adds 178 US measles cases as death tallies diverge
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8122
+- slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7549
 - slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
   headline: Pennsylvania reports sixth measles death as state cases top 1,100
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8058
+  strength: 0.8053
 - slug: 2026-10-13-franklin-county-coroner-reports-sixth-measles-death-in-pennsylvania
   headline: Franklin County coroner reports sixth measles death in Pennsylvania
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7304
+  strength: 0.7295
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8054
+  strength: 0.8057
 - slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
   headline: Pennsylvania reports fifth measles-related death of 2026
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7972
+  strength: 0.796
 - slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
   headline: CDC dashboard still excludes four Pennsylvania measles deaths
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8244
+  strength: 0.824
 - slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
   headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7328
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7354
-- slug: 2026-10-04-pennsylvania-measles-outbreak-reaches-943-cases-as-state-reports-fifth-death
-  headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7277
-- slug: 2026-09-14-cdc-shifts-measles-death-tracking-method-as-pennsylvania-outbreak-grows
-  headline: CDC shifts measles death-tracking method as Pennsylvania outbreak grows
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.8131
-- slug: 2026-10-06-hochul-declares-state-emergency-as-new-york-measles-cases-reach-108
-  headline: Hochul declares state emergency as New York measles cases reach 108
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7051
-- slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
-  headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7456
-- slug: 2026-09-17-pennsylvania-conditions-cdc-emergency-help-on-death-count-acknowledgment
-  headline: Pennsylvania conditions CDC emergency help on death count acknowledgment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7728
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7561
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7617
-- slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
-  headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7601
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7287
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7939
-- slug: 2026-09-15-shapiro-accuses-kennedy-of-antivaccine-conspiracy-theories-amid-measles-surge
-  headline: Shapiro accuses Kennedy of antivaccine conspiracy theories amid measles surge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7412
-- slug: 2026-09-24-pennsylvania-measles-outbreak-kills-four-as-health-workers-door-knock-amish-comm
-  headline: Pennsylvania measles outbreak kills four as health workers door-knock Amish communities
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7022
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7374
+  strength: 0.7322
 ---
-
 ## CDC adds a third measles death without identifying the state
 
 **Subtype:** fact

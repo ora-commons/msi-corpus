@@ -2,8 +2,19 @@
 headline: Authorities arrest Kissimmee mayor over $50,000 grant award
 secondary_headline: Espinosa remains mayor as Kissimmee charter silent on arrest
 publish_date: '2026-10-22'
-lede: Kissimmee Mayor Eva Jacquelyn Espinosa was arrested Wednesday on one count each of grand theft and organized scheme to defraud, Florida Attorney General James Uthmeier said. Prosecutors allege Espinosa applied for $50,000 in federal COVID-19 relief funds for businesses she and her immediate family owned or controlled. If convicted, Espinosa faces up to 30 years in prison; the Kissimmee City Charter does not address an arrested mayor, and the city says she will remain in office unless she is suspended, removed or resigns.
-nut_graf: The arrest centers on allegations that Espinosa used a federally funded business-relief program to obtain money for family-controlled businesses and took steps to reduce oversight of the grant process. The city says she remains mayor unless she is suspended, removed or resigns, while attorney Migdalia Perez says the state cannot convert an alleged ethics violation into a criminal offense without proving every element beyond a reasonable doubt.
+lede: Kissimmee Mayor Eva Jacquelyn Espinosa was arrested Wednesday on one count each
+  of grand theft and organized scheme to defraud, Florida Attorney General James Uthmeier
+  said. Prosecutors allege Espinosa applied for $50,000 in federal COVID-19 relief
+  funds for businesses she and her immediate family owned or controlled. If convicted,
+  Espinosa faces up to 30 years in prison; the Kissimmee City Charter does not address
+  an arrested mayor, and the city says she will remain in office unless she is suspended,
+  removed or resigns.
+nut_graf: The arrest centers on allegations that Espinosa used a federally funded
+  business-relief program to obtain money for family-controlled businesses and took
+  steps to reduce oversight of the grant process. The city says she remains mayor
+  unless she is suspended, removed or resigns, while attorney Migdalia Perez says
+  the state cannot convert an alleged ethics violation into a criminal offense without
+  proving every element beyond a reasonable doubt.
 primary_entities:
 - Eva Jacquelyn Espinosa
 - James Uthmeier
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,111 +152,10 @@ cross_article_links:
   strength: 0.6018
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-07-sheinbaum-agrees-to-freeze-ex-officials-accounts-hit-by-u-s-sanctions
-  headline: Sheinbaum agrees to freeze ex-officials' accounts hit by U.S. sanctions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.614
-- slug: 2026-10-08-d-esposito-subpoenas-nine-universities-over-alleged-j-1-visa-abuse
-  headline: D'Esposito subpoenas nine universities over alleged J-1 visa abuse
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5883
-- slug: 2026-08-14-lawrence-mayor-depena-faces-1-5m-pandemic-loan-fraud-charges
-  headline: Lawrence Mayor DePena faces $1.5M pandemic loan fraud charges
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6394
-- slug: 2026-07-25-hawaii-lt-gov-sylvia-luke-indicted-for-alleged-bribe-scheme
-  headline: Hawaii Lt. Gov. Sylvia Luke indicted for alleged bribe scheme
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5972
-- slug: 2026-06-24-former-nyc-chief-of-staff-frank-carone-indicted-in-bribery-scheme
-  headline: Former NYC chief of staff Frank Carone indicted in bribery scheme
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6211
-- slug: 2026-07-07-former-jackson-mayor-pleads-guilty-to-bribery-wire-fraud-money-laundering
-  headline: Former Jackson mayor pleads guilty to bribery, wire fraud, money laundering
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5949
-- slug: 2026-06-05-government-credit-card-misuse-sparks-backlash-as-audits-mount
-  headline: Government credit card misuse sparks backlash as audits mount
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6096
-- slug: 2026-04-03-federal-officials-arrest-8-in-los-angeles-area-medicare-health-care-fraud
-  headline: Federal officials arrest 8 in Los Angeles-area Medicare health care fraud
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6262
-- slug: 2026-02-11-florida-prosecutor-subpoenas-jacksonville-over-alleged-immigration-enforcement-i
-  headline: Florida prosecutor subpoenas Jacksonville over alleged immigration enforcement interference
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6244
-- slug: 2026-05-22-key-figure-in-minnesota-fraud-case-gets-nearly-42-years-in-prison
-  headline: Key figure in Minnesota fraud case gets nearly 42 years in prison
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5935
-- slug: 2025-12-31-florida-congresswoman-cherfilus-mccormick-maintains-innocence-in-covid-funds-cas
-  headline: Florida congresswoman Cherfilus-McCormick maintains innocence in COVID funds case
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6225
-- slug: 2026-05-15-ex-aide-in-california-dems-scheme-pleads-guilty-becerra-faces-scrutiny
-  headline: Ex-aide in California Dems scheme pleads guilty; Becerra faces scrutiny
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5944
-- slug: 2025-12-30-florida-rep-sheila-cherfilus-mccormick-maintains-innocence-in-5m-covid-funds-cas
-  headline: Florida Rep. Sheila Cherfilus-McCormick maintains innocence in $5M COVID funds case
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6187
-- slug: 2026-04-22-houston-amends-ice-cooperation-ordinance-after-abbott-threatens-funding
-  headline: Houston amends ICE cooperation ordinance after Abbott threatens funding
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6006
-- slug: 2026-03-31-four-arrested-in-nyc-homeless-shelter-bribery-probe-council-member-and-hochul-ai
-  headline: Four arrested in NYC homeless shelter bribery probe; council member and Hochul aide named
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6065
-- slug: 2026-05-14-ex-mayor-in-kansas-is-in-custody-of-u-s-immigration-authorities
-  headline: Ex-mayor in Kansas is in custody of U.S. immigration authorities
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5894
-- slug: 2026-01-20-florida-congresswoman-s-covid-funds-arraignment-rescheduled-to-feb-3
-  headline: Florida congresswoman's COVID funds arraignment rescheduled to Feb. 3
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.61
-- slug: 2026-01-20-federal-prosecutors-subpoena-minnesota-officials-in-immigration-enforcement-prob
-  headline: Federal prosecutors subpoena Minnesota officials in immigration enforcement probe
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6099
-- slug: 2026-02-04-florida-congresswoman-pleads-not-guilty-in-5m-covid-19-funds-case
-  headline: Florida congresswoman pleads not guilty in $5M COVID-19 funds case
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.6079
-- slug: 2025-12-29-florida-rep-cherfilus-mccormick-maintains-innocence-in-5m-covid-funds-case
-  headline: Florida Rep. Cherfilus-McCormick maintains innocence in $5M COVID funds case
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.607
+related_stories: []
 analyses:
-- '2026-10-22-arrest-of-kissimmee-mayor-raises-grant-control-questions-without-resolving-crimi'
+- 2026-10-22-arrest-of-kissimmee-mayor-raises-grant-control-questions-without-resolving-crimi
 ---
-
 ## Authorities arrest Kissimmee mayor over $50,000 grant award
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Trump links Hubbard release to Putin call, says U.S. effort cost nothing
-secondary_headline: Russian media cite humanitarian grounds; sister denies mercenary allegation
+secondary_headline: Russian media cite humanitarian grounds; sister denies mercenary
+  allegation
 publish_date: '2026-10-21'
-lede: President Donald Trump said a phone call with Russian President Vladimir Putin last week directly prompted Stephen Hubbard's release and cost the United States nothing. Russian state media said Putin agreed to release Hubbard on humanitarian grounds; Hubbard's sister, Patricia Hubbard Fox, denied Russian prosecutors' allegation that Hubbard had contracted to serve in the Ukrainian military in Kharkiv province for $1,000 a month. Hubbard, 74, was expected to be flown to Texas for medical treatment after four and a half years in custody.
-nut_graf: Trump's account came as U.S. Special Envoy Steve Witkoff held talks with Putin in St. Petersburg. UPI's report also referred to a deal for Russia to supply the United States with 1.8 million tons of diesel, while at least five other U.S. citizens remained in Russian prisons.
+lede: President Donald Trump said a phone call with Russian President Vladimir Putin
+  last week directly prompted Stephen Hubbard's release and cost the United States
+  nothing. Russian state media said Putin agreed to release Hubbard on humanitarian
+  grounds; Hubbard's sister, Patricia Hubbard Fox, denied Russian prosecutors' allegation
+  that Hubbard had contracted to serve in the Ukrainian military in Kharkiv province
+  for $1,000 a month. Hubbard, 74, was expected to be flown to Texas for medical treatment
+  after four and a half years in custody.
+nut_graf: Trump's account came as U.S. Special Envoy Steve Witkoff held talks with
+  Putin in St. Petersburg. UPI's report also referred to a deal for Russia to supply
+  the United States with 1.8 million tons of diesel, while at least five other U.S.
+  citizens remained in Russian prisons.
 primary_entities:
 - Stephen Hubbard
 - Donald Trump
@@ -58,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,104 +171,44 @@ related_stories:
   headline: Trump says Hubbard's release followed direct request to Putin
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.828
+  strength: 0.8272
 - slug: 2026-10-21-stephen-hubbard-returns-home-after-russian-authorities-release-him
   headline: Stephen Hubbard returns home after Russian authorities release him
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8215
+  strength: 0.8218
 - slug: 2026-10-21-trump-tells-reporters-u-s-has-been-focused-on-hubbard
   headline: Trump tells reporters U.S. has been focused on Hubbard
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8054
+  strength: 0.8062
+- slug: 2026-10-21-witkoff-praises-putin-after-hubbard-s-release
+  headline: Witkoff praises Putin after Hubbard’s release
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8058
 - slug: 2026-10-21-putin-says-hubbard-was-at-pulkovo-airport-after-being-sentenced-to-nearly-seven-
-  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly seven years in 2024
+  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly
+    seven years in 2024
   publish_date: '2026-10-21'
   relation: related
   strength: 0.8025
+- slug: 2026-10-22-patricia-hubbard-fox-recounts-hubbard-s-first-moments-of-freedom
+  headline: Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7919
 - slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
   headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7376
+  strength: 0.7379
 - slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
   headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7238
-- slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
-  headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6383
-- slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
-  headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6358
-- slug: 2026-10-18-trump-signs-order-exempting-russia-from-congressional-penalties
-  headline: Trump signs order exempting Russia from congressional penalties
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.638
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6378
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6472
-- slug: 2026-10-11-trump-announces-ukraine-russia-energy-ceasefire-as-houthis-strike-saudi-airport
-  headline: Trump announces Ukraine-Russia energy ceasefire as Houthis strike Saudi airport
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6341
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6241
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6298
-- slug: 2026-10-10-trump-says-ukraine-needs-a-new-president-amid-diesel-deal-dispute
-  headline: Trump says Ukraine needs a new president amid diesel deal dispute
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6271
-- slug: 2026-10-10-russian-strikes-kill-15-in-ukraine-hours-after-trump-diesel-deal
-  headline: Russian strikes kill 15 in Ukraine hours after Trump diesel deal
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6933
-- slug: 2026-03-31-trump-says-he-has-no-problem-with-russian-tanker-aiding-cuba
-  headline: Trump says he has ‘no problem’ with Russian tanker aiding Cuba
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6752
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6431
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6494
+  strength: 0.7239
 ---
-
 ## Trump links Hubbard release to Putin call, says U.S. effort cost nothing
 
 **Subtype:** fact

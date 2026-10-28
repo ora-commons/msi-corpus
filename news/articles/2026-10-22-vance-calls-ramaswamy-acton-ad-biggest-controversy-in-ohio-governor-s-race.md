@@ -2,8 +2,19 @@
 headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
 secondary_headline: Husted tells AP he 'would not have run that ad'
 publish_date: '2026-10-22'
-lede: Vice President JD Vance on Wednesday called an ad by Republican Ohio gubernatorial candidate Vivek Ramaswamy "the biggest controversy" in the state's governor's race, elevating an ad that features comments from Democratic candidate Amy Acton's estranged mother. Donald Trump Jr. has also promoted the ad. The Wall Street Journal's Washington coverage chief Damian Paletta wrote that the race concerns allegations about Amy Acton's childhood and the Ramaswamy ad. Sen. Jon Husted (R., Ohio) told the Associated Press that he "would not have run that ad."
-nut_graf: 'Paletta described the Ohio race as one of the ugliest in recent memory and placed it inside a midterm cycle that has turned personal: "It''s been personal from the get-go," he wrote, as candidates in a number of states tried to tear each other apart. He also reported that a network of super PACs affiliated with President Trump spent more than $237 million between September and mid-October on competitive races, according to Federal Election Commission filings.'
+lede: Vice President JD Vance on Wednesday called an ad by Republican Ohio gubernatorial
+  candidate Vivek Ramaswamy "the biggest controversy" in the state's governor's race,
+  elevating an ad that features comments from Democratic candidate Amy Acton's estranged
+  mother. Donald Trump Jr. has also promoted the ad. The Wall Street Journal's Washington
+  coverage chief Damian Paletta wrote that the race concerns allegations about Amy
+  Acton's childhood and the Ramaswamy ad. Sen. Jon Husted (R., Ohio) told the Associated
+  Press that he "would not have run that ad."
+nut_graf: 'Paletta described the Ohio race as one of the ugliest in recent memory
+  and placed it inside a midterm cycle that has turned personal: "It''s been personal
+  from the get-go," he wrote, as candidates in a number of states tried to tear each
+  other apart. He also reported that a network of super PACs affiliated with President
+  Trump spent more than $237 million between September and mid-October on competitive
+  races, according to Federal Election Commission filings.'
 primary_entities:
 - JD Vance
 - Vivek Ramaswamy
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,117 +163,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
+  headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8285
+- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
+  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.826
+- slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8219
+- slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8128
 - slug: 2026-10-21-ramaswamy-pledges-4m-to-air-attack-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7929
+  strength: 0.7954
+- slug: 2026-10-22-dewine-says-acton-certainly-told-the-truth-in-his-experience
+  headline: DeWine says Acton 'certainly told the truth' in his experience
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7795
 - slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7798
+  strength: 0.7823
 - slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
   headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7792
-- slug: 2026-10-14-ayotte-leads-warmington-in-new-hampshire-governor-reelection-race
-  headline: Ayotte leads Warmington in New Hampshire governor reelection race
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6688
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6514
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6646
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6925
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6929
-- slug: 2026-08-04-cook-political-report-shifts-ohio-governor-race-to-toss-up
-  headline: Cook Political Report shifts Ohio governor race to toss-up
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7033
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6634
-- slug: 2026-04-26-ohio-gop-governor-primary-tests-ramaswamy-as-acton-waits-for-general-election
-  headline: Ohio GOP governor primary tests Ramaswamy as Acton waits for general election
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7526
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6766
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7355
-- slug: 2026-05-03-covid-19-debate-resurfaces-in-ohio-governor-race-between-amy-acton-and-vivek-ram
-  headline: COVID-19 debate resurfaces in Ohio governor race between Amy Acton and Vivek Ramaswamy
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.727
-- slug: 2026-04-27-ohio-gop-primary-for-governor-shows-potential-headwinds-for-ramaswamy
-  headline: Ohio GOP primary for governor shows potential headwinds for Ramaswamy
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7263
-- slug: 2026-05-21-vance-targets-ohio-in-medicaid-fraud-crackdown
-  headline: Vance targets Ohio in Medicaid fraud crackdown
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7077
-- slug: 2026-05-20-vance-expands-medicaid-fraud-push-to-ohio-gop-scrambles-ahead-of-election
-  headline: Vance expands Medicaid fraud push to Ohio, GOP scrambles ahead of election
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7017
-- slug: 2026-05-03-what-to-expect-in-ohio-s-state-primaries-governor-and-congressional-races
-  headline: What to expect in Ohio’s state primaries, governor and congressional races
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6946
-- slug: 2026-05-04-what-to-expect-in-ohio-s-statewide-primaries-for-governor-senate-and-house
-  headline: What to expect in Ohio’s statewide primaries for governor, Senate and House
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6903
-- slug: 2026-01-07-ramaswamy-picks-mccolley-acton-picks-pepper-in-ohio-governor-race
-  headline: Ramaswamy picks McColley, Acton picks Pepper in Ohio governor race
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7075
+  strength: 0.7814
 image:
   url: /articles/2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race.png
-  alt: "Illustration accompanying article: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race"
+  alt: 'Illustration accompanying article: Vance calls Ramaswamy Acton ad biggest
+    controversy in Ohio governor''s race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
 
 **Subtype:** fact

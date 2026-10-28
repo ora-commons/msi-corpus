@@ -1,9 +1,19 @@
 ---
 headline: Carrier's largest-ever investment goes to a new Fort Worth cooling plant
-secondary_headline: Carrier expects data-center equipment sales to reach about $2 billion this year
+secondary_headline: Carrier expects data-center equipment sales to reach about $2
+  billion this year
 publish_date: '2026-10-22'
-lede: Carrier Global plans to invest more than $600 million in a new Fort Worth, Texas, plant that will make cooling equipment for data centers and other large commercial and industrial buildings. The project is the company's largest-ever investment and is expected to more than double Carrier's commercial-chiller production capacity. In the report-time market quote included in The Wall Street Journal's coverage, Carrier Global shares were up 0.53%.
-nut_graf: Carrier's expansion addresses a capacity problem, with Chief Executive Dave Gitlin saying the company cannot keep up with expected demand over the next two years without the Fort Worth facility. Carrier forecasts about $2 billion in data-center equipment sales this year and expects the commercial share of Climate Solutions Americas sales to be close to 40%, compared with 30% traditionally.
+lede: Carrier Global plans to invest more than $600 million in a new Fort Worth, Texas,
+  plant that will make cooling equipment for data centers and other large commercial
+  and industrial buildings. The project is the company's largest-ever investment and
+  is expected to more than double Carrier's commercial-chiller production capacity.
+  In the report-time market quote included in The Wall Street Journal's coverage,
+  Carrier Global shares were up 0.53%.
+nut_graf: Carrier's expansion addresses a capacity problem, with Chief Executive Dave
+  Gitlin saying the company cannot keep up with expected demand over the next two
+  years without the Fort Worth facility. Carrier forecasts about $2 billion in data-center
+  equipment sales this year and expects the commercial share of Climate Solutions
+  Americas sales to be close to 40%, compared with 30% traditionally.
 primary_entities:
 - Carrier Global
 - Fort Worth, Texas
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +152,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-19-aurora-targets-200-autonomous-trucks-in-texas-by-year-end
-  headline: Aurora targets 200 autonomous trucks in Texas by year-end
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6104
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6193
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6226
-- slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6213
 - slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
   headline: US manufacturers pour hundreds of millions into AI data center buildout
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.7018
-- slug: 2026-09-10-global-port-tracker-forecasts-2-31-million-20-foot-equivalent-import-units
-  headline: Global Port Tracker forecasts 2.31 million 20-foot-equivalent import units
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6028
-- slug: 2026-08-12-form-energy-raises-750-million-for-iron-air-battery-expansion
-  headline: Form Energy raises $750 million for iron-air battery expansion
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6295
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6264
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6404
-- slug: 2026-07-06-toyota-to-invest-3-6-billion-to-move-tacoma-production-to-texas
-  headline: Toyota to invest $3.6 billion to move Tacoma production to Texas
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6311
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.605
-- slug: 2026-07-15-u-s-warehouse-construction-rebounds-as-developers-restart-projects
-  headline: U.S. warehouse construction rebounds as developers restart projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6173
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6161
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6192
-- slug: 2026-07-22-openai-raises-cloud-spending-target-to-750-billion-by-2030
-  headline: OpenAI raises cloud spending target to $750 billion by 2030
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6032
-- slug: 2026-07-19-china-s-battery-storage-surges-to-155-gw-chinese-suppliers-capture-90-of-market
-  headline: China's battery storage surges to 155 GW, Chinese suppliers capture 90% of market
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6073
-- slug: 2026-07-18-ai-buildout-expected-to-keep-inflation-elevated-through-year-end
-  headline: AI buildout expected to keep inflation elevated through year-end
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6034
-- slug: 2026-07-10-micron-s-250-billion-plan-sets-stage-for-korean-chip-production-calls
-  headline: Micron's $250 billion plan sets stage for Korean chip production calls
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.607
-- slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
-  headline: Two-thirds of planned US AI datacenters built on drought-hit land
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6381
-- slug: 2026-06-29-ai-data-center-power-demand-threatens-steel-industry-operations
-  headline: AI data center power demand threatens steel industry operations
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6032
+  strength: 0.7011
 ---
-
 ## Carrier's largest-ever investment goes to a new Fort Worth cooling plant
 
 **Subtype:** fact

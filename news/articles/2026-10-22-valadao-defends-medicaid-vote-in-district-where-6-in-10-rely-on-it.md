@@ -1,9 +1,17 @@
 ---
 headline: Valadao defends Medicaid vote in district where 6 in 10 rely on it
-secondary_headline: Last House Republican who backed Trump's impeachment seeks reelection in redrawn seat
+secondary_headline: Last House Republican who backed Trump's impeachment seeks reelection
+  in redrawn seat
 publish_date: '2026-10-22'
-lede: Republican U.S. Rep. David Valadao is defending his House seat against Democratic challenger Randy Villegas in a Nov. 3 contest after voting for the One Big Beautiful Bill Act, a law expected to reduce federal Medicaid spending by more than $900 billion through 2034. Roughly 6 in 10 of his Central Valley constituents are enrolled in Medicaid, and an estimated 60,000 more residents of his district could be without coverage by 2034, according to the Center for American Progress.
-nut_graf: The race is being closely watched as a potential Democratic flip in a year when healthcare costs rank as a top voter concern, with a September KFF poll finding voters trust Democrats over Republicans on the issue by a 2-to-1 margin.
+lede: Republican U.S. Rep. David Valadao is defending his House seat against Democratic
+  challenger Randy Villegas in a Nov. 3 contest after voting for the One Big Beautiful
+  Bill Act, a law expected to reduce federal Medicaid spending by more than $900 billion
+  through 2034. Roughly 6 in 10 of his Central Valley constituents are enrolled in
+  Medicaid, and an estimated 60,000 more residents of his district could be without
+  coverage by 2034, according to the Center for American Progress.
+nut_graf: The race is being closely watched as a potential Democratic flip in a year
+  when healthcare costs rank as a top voter concern, with a September KFF poll finding
+  voters trust Democrats over Republicans on the issue by a 2-to-1 margin.
 primary_entities:
 - David Valadao
 - Randy Villegas
@@ -55,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,113 +166,58 @@ related_stories:
   headline: Valadao, Villegas vie for nation's highest-Medicaid House seat
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8126
+  strength: 0.8128
 - slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
+  headline: Twenty million Medicaid enrollees face new work requirements starting
+    January 1
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7223
-- slug: 2026-10-19-unpaid-idaho-volunteers-place-abortion-rights-measure-on-november-ballot
-  headline: Unpaid Idaho volunteers place abortion rights measure on November ballot
-  publish_date: '2026-10-19'
+  strength: 0.7246
+- slug: 2026-10-26-el-sayed-rallies-rural-michigan-on-medicare-for-all
+  headline: El-Sayed rallies rural Michigan on Medicare for All
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6373
+  strength: 0.6573
+- slug: 2026-10-25-cancer-and-medical-debt-push-texas-voter-from-trump-to-talarico
+  headline: Cancer and medical debt push Texas voter from Trump to Talarico
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6506
 - slug: 2026-10-04-el-sayed-rallies-1-500-nurses-behind-medicare-for-all-in-san-francisco
   headline: El-Sayed rallies 1,500 nurses behind Medicare for All in San Francisco
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6912
-- slug: 2026-10-12-ai-billing-tools-expand-into-growing-us-medical-debt
-  headline: AI billing tools expand into growing US medical debt
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6307
-- slug: 2026-10-13-trump-administration-removes-750-000-from-aca-marketplaces
-  headline: Trump administration removes 750,000 from ACA marketplaces
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6174
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6438
+  strength: 0.6929
 - slug: 2026-09-26-medicaid-meal-programs-show-health-savings-as-states-weigh-funding-cuts
   headline: Medicaid meal programs show health savings as states weigh funding cuts
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6567
-- slug: 2026-10-01-refugees-with-disabilities-lose-medicaid-as-h-r-1-takes-effect
-  headline: Refugees with disabilities lose Medicaid as H.R. 1 takes effect
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6225
+  strength: 0.6597
 - slug: 2026-09-05-valadao-fights-for-reelection-amid-signs-of-latino-disenchantment-with-trump
-  headline: Valadao fights for reelection amid signs of Latino disenchantment with Trump
+  headline: Valadao fights for reelection amid signs of Latino disenchantment with
+    Trump
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.7105
+  strength: 0.7086
 - slug: 2026-08-23-becerra-faces-projected-doubling-of-uninsured-californians-by-2030
   headline: Becerra faces projected doubling of uninsured Californians by 2030
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6747
-- slug: 2026-08-15-wisconsin-canvassers-push-healthcare-message-in-competitive-3rd-district
-  headline: Wisconsin canvassers push healthcare message in competitive 3rd district
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6534
-- slug: 2026-07-22-progressive-democrats-hold-medicare-for-all-hearing-as-uninsured-ranks-grow
-  headline: Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6578
-- slug: 2026-07-22-budget-law-stalls-bipartisan-pre-release-medicaid-effort
-  headline: Budget law stalls bipartisan pre-release Medicaid effort
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6488
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6491
-- slug: 2026-07-20-deloitte-run-medicaid-system-denied-disabled-patients-in-michigan-probe-finds
-  headline: Deloitte-run Medicaid system denied disabled patients in Michigan, probe finds
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6172
-- slug: 2026-06-22-as-trump-administration-slashes-hiv-funding-activists-mount-steady-drumbeat-of-r
-  headline: As Trump administration slashes HIV funding, activists mount 'steady drumbeat' of resistance
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6425
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6218
-- slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
-  headline: Democratic-led states sue to block student loan caps for nursing, health degrees
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6174
-- slug: 2026-05-14-vance-announces-1-3b-medicaid-deferral-medicare-hospice-enrollment-freeze
-  headline: Vance announces $1.3B Medicaid deferral, Medicare hospice enrollment freeze
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.622
+  strength: 0.6758
 image:
   url: /articles/2026-10-22-valadao-defends-medicaid-vote-in-district-where-6-in-10-rely-on-it.png
-  alt: "Illustration accompanying article: Valadao defends Medicaid vote in district where 6 in 10 rely on it"
+  alt: 'Illustration accompanying article: Valadao defends Medicaid vote in district
+    where 6 in 10 rely on it'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Valadao defends Medicaid vote in district where 6 in 10 rely on it
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: Four Salvadoran aviation technicians remain missing after Bukele announces rescue operation in Haiti
-secondary_headline: Haiti government calls the release of four abducted men an absolute priority
+headline: Four Salvadoran aviation technicians remain missing after Bukele announces
+  rescue operation in Haiti
+secondary_headline: Haiti government calls the release of four abducted men an absolute
+  priority
 publish_date: '2026-10-22'
-lede: El Salvador President Nayib Bukele said Wednesday that he had launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti. The men remained missing after gang members opened fire on an armored vehicle in the Santo area of Croix-des-Bouquets, Port-au-Prince.
-nut_graf: The operation left the technicians’ status and scope unclear. It was not immediately clear whether Haitian authorities had received confirmation that the men were alive. It was also not clear whether Bukele intended any further action to be carried out by Salvadoran, Haitian or international security forces in the area. The attack came as gangs were estimated to control 70% of Port-au-Prince.
+lede: El Salvador President Nayib Bukele said Wednesday that he had launched a military
+  operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti.
+  The men remained missing after gang members opened fire on an armored vehicle in
+  the Santo area of Croix-des-Bouquets, Port-au-Prince.
+nut_graf: The operation left the technicians’ status and scope unclear. It was not
+  immediately clear whether Haitian authorities had received confirmation that the
+  men were alive. It was also not clear whether Bukele intended any further action
+  to be carried out by Salvadoran, Haitian or international security forces in the
+  area. The attack came as gangs were estimated to control 70% of Port-au-Prince.
 primary_entities:
 - Nayib Bukele
 - El Salvador
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +155,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-bukele-launches-combat-mission-in-haiti-to-free-four-kidnapped-technicians
+  headline: Bukele launches combat mission in Haiti to free four kidnapped technicians
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.9167
 - slug: 2026-09-29-un-security-council-extends-haiti-anti-gang-force-mandate-six-months
   headline: UN Security Council extends Haiti anti-gang force mandate six months
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6555
+  strength: 0.6553
 - slug: 2026-09-23-abinader-urges-un-to-fill-haiti-force-before-sept-30-mandate-expires
   headline: Abinader urges UN to fill Haiti force before Sept. 30 mandate expires
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6683
+  strength: 0.668
 - slug: 2026-09-20-badio-extradition-unclear-after-18-extradited-in-2021-mo-se-assassination
   headline: Badio extradition unclear after 18 extradited in 2021 Moïse assassination
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6515
-- slug: 2026-09-21-human-rights-watch-calls-on-u-s-to-suspend-haiti-deportations
-  headline: Human Rights Watch calls on U.S. to suspend Haiti deportations
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6437
-- slug: 2026-09-20-us-arrests-18-suspects-in-2021-assassination-of-haitian-president-mo-se
-  headline: US arrests 18 suspects in 2021 assassination of Haitian President Moïse
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6443
-- slug: 2026-08-28-u-s-deports-57-to-haiti-on-second-charter-flight-in-eight-days
-  headline: U.S. deports 57 to Haiti on second charter flight in eight days
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6395
+  strength: 0.6513
 - slug: 2026-05-10-gang-violence-forces-hundreds-to-flee-shutters-hospital-in-haiti-s-capital
   headline: Gang violence forces hundreds to flee, shutters hospital in Haiti’s capital
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6955
+  strength: 0.6954
 - slug: 2026-06-22-us-military-kills-2-in-latest-drug-boat-strike-campaign-death-toll-at-213
-  headline: US military kills 2 in latest drug boat strike; campaign death toll at 213
+  headline: US military kills 2 in latest drug boat strike; campaign death toll at
+    213
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6591
+  strength: 0.6589
 - slug: 2026-04-24-un-says-haiti-s-new-anti-gang-force-has-funding-pledges-ahead-of-deploy-plan
-  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy plan
+  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy
+    plan
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.6924
+  strength: 0.6918
 - slug: 2026-05-13-cite-soleil-residents-demand-protection-after-gang-attacks-displace-hundreds-in-
-  headline: Cite Soleil residents demand protection after gang attacks displace hundreds in Haiti's capital
+  headline: Cite Soleil residents demand protection after gang attacks displace hundreds
+    in Haiti's capital
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6829
-- slug: 2026-05-10-hundreds-flee-haiti-s-capital-as-new-gang-violence-spreads-toward-airport
-  headline: Hundreds flee Haiti’s capital as new gang violence spreads toward airport
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6834
-- slug: 2026-05-14-us-deportations-to-el-salvador-nearly-double-in-early-2026
-  headline: US deportations to El Salvador nearly double in early 2026
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6613
-- slug: 2026-04-02-first-chadian-troop-linked-to-un-backed-haiti-gang-suppression-force-arrives
-  headline: First Chadian troop linked to UN-backed Haiti gang suppression force arrives
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6733
-- slug: 2026-05-13-cite-soleil-residents-demand-protection-after-haiti-gang-violence-displaces-hund
-  headline: Cite Soleil residents demand protection after Haiti gang violence displaces hundreds
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6553
-- slug: 2026-05-14-u-s-deportations-to-el-salvador-nearly-double-as-bukele-aligns-with-trump
-  headline: U.S. deportations to El Salvador nearly double as Bukele aligns with Trump
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6481
-- slug: 2026-05-19-u-s-justice-department-weighs-indicting-ra-l-castro-over-1996-shootdown
-  headline: U.S. Justice Department weighs indicting Raúl Castro over 1996 shootdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6451
-- slug: 2026-05-21-ra-l-castro-indictment-centers-on-exiles-brothers-to-the-rescue
-  headline: Raúl Castro indictment centers on exiles’ Brothers to the Rescue
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.641
-- slug: 2026-05-17-brothers-to-the-rescue-is-at-center-of-us-case-on-ra-l-castro
-  headline: Brothers to the Rescue is at center of US case on Raúl Castro
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6423
-- slug: 2026-05-18-brothers-to-the-rescue-group-tied-to-doj-s-push-to-indict-ra-l-castro
-  headline: Brothers to the Rescue group tied to DOJ’s push to indict Raúl Castro
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6415
-- slug: 2026-05-19-u-s-justice-department-seeks-ra-l-castro-indictment-over-1996-exile-plane-shootd
-  headline: U.S. Justice Department seeks Raúl Castro indictment over 1996 exile plane shootdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6407
+  strength: 0.6826
 ---
-
 ## Four Salvadoran aviation technicians remain missing after Bukele announces rescue operation in Haiti
 
 **Subtype:** fact

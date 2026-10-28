@@ -1,9 +1,21 @@
 ---
 headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
-secondary_headline: Candidates clash over Medicare for All, immigration, Iran and Trump's role
+secondary_headline: Candidates clash over Medicare for All, immigration, Iran and
+  Trump's role
 publish_date: '2026-10-22'
-lede: Democrat Abdul El-Sayed and former Republican Rep. Mike Rogers held their second and final Michigan U.S. Senate debate Wednesday evening, clashing over foreign policy, immigration, health care and Trump. Rogers accused El-Sayed of being “bought off” by the Muslim Brotherhood; El-Sayed denied ties to the group, called the insinuation “shameful” and suggested that Rogers had wrongfully questioned his loyalty to the U.S. Constitution. The hourlong debate came in a Michigan race viewed as crucial to Senate control in November’s midterms.
-nut_graf: Michigan is viewed as a crucial state for Senate control in November’s midterms. The debate sharpened the policy and personal contrasts that have defined the contest, from El-Sayed’s Medicare for All proposal to El-Sayed’s accusation that Rogers was a Trump “sock puppet.” Rogers repeatedly said he would break with Trump if doing so was good for Michigan, while El-Sayed repeatedly raised Rogers’s ties to the president.
+lede: Democrat Abdul El-Sayed and former Republican Rep. Mike Rogers held their second
+  and final Michigan U.S. Senate debate Wednesday evening, clashing over foreign policy,
+  immigration, health care and Trump. Rogers accused El-Sayed of being “bought off”
+  by the Muslim Brotherhood; El-Sayed denied ties to the group, called the insinuation
+  “shameful” and suggested that Rogers had wrongfully questioned his loyalty to the
+  U.S. Constitution. The hourlong debate came in a Michigan race viewed as crucial
+  to Senate control in November’s midterms.
+nut_graf: Michigan is viewed as a crucial state for Senate control in November’s midterms.
+  The debate sharpened the policy and personal contrasts that have defined the contest,
+  from El-Sayed’s Medicare for All proposal to El-Sayed’s accusation that Rogers was
+  a Trump “sock puppet.” Rogers repeatedly said he would break with Trump if doing
+  so was good for Michigan, while El-Sayed repeatedly raised Rogers’s ties to the
+  president.
 primary_entities:
 - Abdul El-Sayed
 - Mike Rogers
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,119 +158,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
+  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8079
 - slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
   headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8501
+  strength: 0.8495
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7608
+- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
+  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7522
+- slug: 2026-10-26-el-sayed-rallies-rural-michigan-on-medicare-for-all
+  headline: El-Sayed rallies rural Michigan on Medicare for All
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7519
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7307
+- slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
+  headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7208
 - slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
   headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7889
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.714
-- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
-  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7786
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7756
-- slug: 2026-10-09-senate-candidates-spar-over-affordability-tariffs-in-three-state-debate-night
-  headline: Senate candidates spar over affordability, tariffs in three-state debate night
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7486
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.718
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7168
-- slug: 2026-10-04-el-sayed-rallies-1-500-nurses-behind-medicare-for-all-in-san-francisco
-  headline: El-Sayed rallies 1,500 nurses behind Medicare for All in San Francisco
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7036
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.742
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7283
-- slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
-  headline: El-Sayed maintains Medicare for All support in Michigan Senate race
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.8206
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7642
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.734
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7071
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7144
-- slug: 2026-08-29-mike-rogers-fundraising-email-says-he-saw-bin-laden-s-body-with-own-eyes
-  headline: Mike Rogers' fundraising email says he saw Bin Laden's body with 'own eyes'
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7075
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7309
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7642
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.717
+  strength: 0.7885
 image:
   url: /articles/2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate.png
-  alt: "Illustration accompanying article: Michigan Senate candidates El-Sayed and Rogers hold final debate"
+  alt: 'Illustration accompanying article: Michigan Senate candidates El-Sayed and
+    Rogers hold final debate'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-22-el-sayed-and-rogers-offer-michigan-voters-a-contrast-without-a-verdict'
+- 2026-10-22-el-sayed-and-rogers-offer-michigan-voters-a-contrast-without-a-verdict
 ---
-
 ## Michigan Senate candidates El-Sayed and Rogers hold final debate
 
 **Subtype:** fact

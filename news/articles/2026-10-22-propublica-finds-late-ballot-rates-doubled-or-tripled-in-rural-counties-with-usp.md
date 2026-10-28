@@ -1,9 +1,22 @@
 ---
-headline: ProPublica finds late-ballot rates doubled or tripled in rural counties with USPS cuts
+headline: ProPublica finds late-ballot rates doubled or tripled in rural counties
+  with USPS cuts
 secondary_headline: USPS says routing measures should minimize Nov. 3 delays
 publish_date: '2026-10-22'
-lede: ProPublica’s analysis of 2026 primary data found that late-ballot rejection rates doubled or tripled from 2022 in rural counties where the U.S. Postal Service cut mail service. The analysis found that related delays endangered the validity of rural ballots across the country, not only in Washington. The effects were clearest in Washington, California, Ohio, North Carolina and Oregon, while urban Spokane’s number of late rejections declined. Postal Service leaders say Nov. 3 delays are less likely under measures that, for the final 10 days, call for separating completed ballots from other first-class mail and delivering local-election ballots on the day they arrive, a period when turnout is typically higher.
-nut_graf: 'Mail voting remains widespread: nearly 1 in 3 Americans voted by mail in 2022 and 2024, and at least seven closely contested congressional districts include areas affected during the primary. Election specialists cited by ProPublica said service changes may still imperil mail-in votes and that the Postal Service’s November plan depends on flawless execution.'
+lede: ProPublica’s analysis of 2026 primary data found that late-ballot rejection
+  rates doubled or tripled from 2022 in rural counties where the U.S. Postal Service
+  cut mail service. The analysis found that related delays endangered the validity
+  of rural ballots across the country, not only in Washington. The effects were clearest
+  in Washington, California, Ohio, North Carolina and Oregon, while urban Spokane’s
+  number of late rejections declined. Postal Service leaders say Nov. 3 delays are
+  less likely under measures that, for the final 10 days, call for separating completed
+  ballots from other first-class mail and delivering local-election ballots on the
+  day they arrive, a period when turnout is typically higher.
+nut_graf: 'Mail voting remains widespread: nearly 1 in 3 Americans voted by mail in
+  2022 and 2024, and at least seven closely contested congressional districts include
+  areas affected during the primary. Election specialists cited by ProPublica said
+  service changes may still imperil mail-in votes and that the Postal Service’s November
+  plan depends on flawless execution.'
 primary_entities:
 - ProPublica
 - U.S. Postal Service
@@ -49,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +165,45 @@ related_stories:
   headline: USPS mail changes risk rejecting late ballots over postmark delays
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7763
+  strength: 0.7748
+- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
+  headline: Early voting tops 23 million as Democrats outpace Republicans
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6874
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6836
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
+  strength: 0.6831
+- slug: 2026-10-23-stewart-attributes-early-voting-surge-to-enthusiasm-and-spending-to-encourage-ea
+  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage
+    early voting
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6795
+  strength: 0.6731
 - slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
+  headline: Late-arriving mail ballots mount in key states as officials push voter
+    outreach
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7801
+  strength: 0.7799
 - slug: 2026-09-23-voter-trust-in-usps-ballot-delivery-drops-13-points-to-2020-levels
   headline: Voter trust in USPS ballot delivery drops 13 points to 2020 levels
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7169
+  strength: 0.7174
 - slug: 2026-09-10-usps-audit-finds-ballot-handling-failures-at-multiple-primary-facilities
   headline: USPS audit finds ballot-handling failures at multiple primary facilities
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7436
+  strength: 0.7422
 - slug: 2026-09-15-bipartisan-state-officials-welcome-supreme-court-mail-ballot-ruling
   headline: Bipartisan state officials welcome Supreme Court mail ballot ruling
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6814
-- slug: 2026-09-15-supreme-court-blocks-usps-mail-ballot-rules-amid-widespread-confusion
-  headline: Supreme Court blocks USPS mail-ballot rules amid widespread confusion
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6784
-- slug: 2026-09-08-oregon-secretary-read-attributes-ballot-rejection-spike-to-usps-hub-consolidatio
-  headline: Oregon Secretary Read attributes ballot-rejection spike to USPS hub consolidation
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.699
-- slug: 2026-09-09-appeals-courts-to-rule-on-trump-usps-mail-ballot-rules-for-midterms
-  headline: Appeals courts to rule on Trump USPS mail ballot rules for midterms
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6864
-- slug: 2026-09-01-whistleblower-report-warns-usps-portal-may-disrupt-midterm-voting
-  headline: Whistleblower report warns USPS portal may disrupt midterm voting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.667
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.7426
-- slug: 2026-07-23-late-arriving-ballots-fuel-spike-in-rejected-california-primary-votes
-  headline: Late-arriving ballots fuel spike in rejected California primary votes
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7388
-- slug: 2026-08-26-24-attorneys-general-pennsylvania-governor-sue-usps-over-mail-voting-rule
-  headline: 24 attorneys general, Pennsylvania governor sue USPS over mail voting rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6606
-- slug: 2026-07-24-wisconsin-lawsuit-seeks-to-allow-late-absentee-voters-to-cast-provisional-ballot
-  headline: Wisconsin lawsuit seeks to allow late absentee voters to cast provisional ballots
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.662
-- slug: 2026-03-24-supreme-court-mail-ballot-case-could-force-states-to-redo-election-plans
-  headline: Supreme Court mail ballot case could force states to redo election plans
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7123
-- slug: 2026-03-25-supreme-court-mail-ballot-case-puts-states-on-edge-for-november-voting
-  headline: Supreme Court mail-ballot case puts states on edge for November voting
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7099
-- slug: 2026-06-02-california-slow-vote-counting-could-delay-primary-results-for-weeks
-  headline: California slow vote counting could delay primary results for weeks
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6808
-- slug: 2026-03-24-supreme-court-questions-counting-late-mail-ballots-in-election-dispute
-  headline: Supreme Court questions counting late mail ballots in election dispute
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7015
-- slug: 2026-03-23-mail-ballot-case-before-supreme-court-could-upend-voting-in-alaska
-  headline: Mail ballot case before Supreme Court could upend voting in Alaska
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6914
+  strength: 0.6795
 ---
-
 ## ProPublica finds late-ballot rates doubled or tripled in rural counties with USPS cuts
 
 **Subtype:** fact

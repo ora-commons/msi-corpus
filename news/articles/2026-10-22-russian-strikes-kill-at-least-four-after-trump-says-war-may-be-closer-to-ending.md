@@ -1,9 +1,20 @@
 ---
-headline: Russian strikes kill at least four after Trump says war may be closer to ending
+headline: Russian strikes kill at least four after Trump says war may be closer to
+  ending
 secondary_headline: Power outages affected six regions; Kyiv bore the heaviest attack
 publish_date: '2026-10-22'
-lede: Russian strikes across Kyiv and other Ukrainian regions killed at least four people and injured 34 overnight, Ukrainian officials said. The attacks followed the Kremlin's statement that it was open to resuming stalled peace talks and President Donald Trump's statement that the situation might be "the closest we've been" to ending the war. UA News separately reported that strikes on energy infrastructure left residents without power across six regions.
-nut_graf: At least four people were killed and 34 were injured as the Kremlin said it was open to resuming stalled peace talks and President Donald Trump said the war might be closer to ending; strikes on energy infrastructure also left residents without power across six regions. The timing placed the casualty toll and six-region outage alongside renewed peace-talk statements while Russian forces struck Ukrainian cities and infrastructure that night.
+lede: Russian strikes across Kyiv and other Ukrainian regions killed at least four
+  people and injured 34 overnight, Ukrainian officials said. The attacks followed
+  the Kremlin's statement that it was open to resuming stalled peace talks and President
+  Donald Trump's statement that the situation might be "the closest we've been" to
+  ending the war. UA News separately reported that strikes on energy infrastructure
+  left residents without power across six regions.
+nut_graf: At least four people were killed and 34 were injured as the Kremlin said
+  it was open to resuming stalled peace talks and President Donald Trump said the
+  war might be closer to ending; strikes on energy infrastructure also left residents
+  without power across six regions. The timing placed the casualty toll and six-region
+  outage alongside renewed peace-talk statements while Russian forces struck Ukrainian
+  cities and infrastructure that night.
 primary_entities:
 - Russia
 - Ukraine
@@ -62,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,107 +173,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8226
+  strength: 0.8224
 - slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
   headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7853
+  strength: 0.7855
 - slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
   headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7918
+  strength: 0.793
 - slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
   headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7829
+  strength: 0.784
 - slug: 2026-10-10-russian-attacks-kill-at-least-19-across-ukraine-overnight
   headline: Russian attacks kill at least 19 across Ukraine overnight
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.794
+  strength: 0.7938
 - slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
   headline: Ukrainian drones hit third Yandex data center in four days
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.775
+  strength: 0.7763
 - slug: 2026-10-10-russian-strikes-kill-15-in-ukraine-hours-after-trump-diesel-deal
   headline: Russian strikes kill 15 in Ukraine hours after Trump diesel deal
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7835
+  strength: 0.7838
 - slug: 2026-09-08-russia-strikes-kyiv-after-u-s-peace-envoys-leave-killing-at-least-2
   headline: Russia strikes Kyiv after U.S. peace envoys leave, killing at least 2
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.8033
-- slug: 2026-09-11-russian-strikes-kill-five-in-pavlohrad-ukrainian-officials-say
-  headline: Russian strikes kill five in Pavlohrad, Ukrainian officials say
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7727
-- slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
-  headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7932
-- slug: 2026-08-01-russian-missiles-kill-nine-in-kyiv-ukraine-cites-air-defense-shortage
-  headline: Russian missiles kill nine in Kyiv, Ukraine cites air defense shortage
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7945
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.806
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7747
-- slug: 2026-03-15-russian-strike-on-kyiv-region-kills-at-least-4-people
-  headline: Russian strike on Kyiv region kills at least 4 people
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.8239
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.8008
-- slug: 2026-06-02-russia-kills-18-in-third-massive-kyiv-attack-in-three-weeks-as-front-stalls
-  headline: Russia kills 18 in third massive Kyiv attack in three weeks as front stalls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7862
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7959
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7866
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7807
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7781
+  strength: 0.8028
 ---
-
 ## Russian strikes kill at least four after Trump says war may be closer to ending
 
 **Subtype:** fact

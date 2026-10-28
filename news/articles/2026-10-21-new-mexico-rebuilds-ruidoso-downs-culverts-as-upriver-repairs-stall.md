@@ -1,9 +1,24 @@
 ---
 headline: New Mexico rebuilds Ruidoso Downs culverts as upriver repairs stall
-secondary_headline: Cobb, Fendley & Associates identified more than 200 at-risk Ruidoso addresses
+secondary_headline: Cobb, Fendley & Associates identified more than 200 at-risk Ruidoso
+  addresses
 publish_date: '2026-10-21'
-lede: New Mexico directed $16 million in public funds toward Ruidoso Downs' track culverts and holding pond while upriver bridge and culvert repairs repeatedly stalled, records reviewed by ProPublica show. Commissioned flood modeling identified more than 200 at-risk addresses, and officials were weighing a buyout estimated at $650 million to move about 1,000 properties before the July 8, 2025 Rio Ruidoso flood killed three people. The investigation also documents an El Rito Media executive's allegation that publisher Richard Connor ordered him to warn a local newspaper manager that journalism was bad for business; Connor denied trying to influence coverage.
-nut_graf: Records trace infrastructure work, relocation policy, public messaging and tourism decisions before the July 8, 2025 disaster, which killed Benjamin Timothy Feagin, Sebastian Rowan Trotter, 7, and Charlotte Emery Trotter, 4. Five anonymous first responders said the tragedy could have been avoided; ProPublica said emails, internal reports and hydrologic assessments supported their accounts. The source also examines post-fire flooding across the American West, reporting that debris flows and floods can wash away entire neighborhoods while communities lack an easily accessible tool for assessing their risk.
+lede: New Mexico directed $16 million in public funds toward Ruidoso Downs' track
+  culverts and holding pond while upriver bridge and culvert repairs repeatedly stalled,
+  records reviewed by ProPublica show. Commissioned flood modeling identified more
+  than 200 at-risk addresses, and officials were weighing a buyout estimated at $650
+  million to move about 1,000 properties before the July 8, 2025 Rio Ruidoso flood
+  killed three people. The investigation also documents an El Rito Media executive's
+  allegation that publisher Richard Connor ordered him to warn a local newspaper manager
+  that journalism was bad for business; Connor denied trying to influence coverage.
+nut_graf: Records trace infrastructure work, relocation policy, public messaging and
+  tourism decisions before the July 8, 2025 disaster, which killed Benjamin Timothy
+  Feagin, Sebastian Rowan Trotter, 7, and Charlotte Emery Trotter, 4. Five anonymous
+  first responders said the tragedy could have been avoided; ProPublica said emails,
+  internal reports and hydrologic assessments supported their accounts. The source
+  also examines post-fire flooding across the American West, reporting that debris
+  flows and floods can wash away entire neighborhoods while communities lack an easily
+  accessible tool for assessing their risk.
 primary_entities:
 - Ruidoso
 - Village of Ruidoso
@@ -67,7 +82,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -169,104 +185,8 @@ related_stories:
   headline: Investigation finds staffing gaps before deadly 2025 Ruidoso flood
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7183
-- slug: 2026-10-19-three-2025-us-disasters-still-await-at-least-10bn-in-long-term-federal-aid
-  headline: Three 2025 US disasters still await at least $10bn in long-term federal aid
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6138
-- slug: 2026-09-28-federal-flood-gaps-let-residents-rebuild-where-storms-already-struck
-  headline: Federal flood gaps let residents rebuild where storms already struck
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6125
-- slug: 2026-07-24-abbott-confirms-third-texas-flood-death-warns-of-dangers-downstream
-  headline: Abbott confirms third Texas flood death, warns of dangers downstream
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6192
-- slug: 2026-08-07-new-mexico-judge-orders-meta-to-pay-942-million-over-harms-to-kids
-  headline: New Mexico judge orders Meta to pay $942 million over harms to kids
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5849
-- slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
-  headline: U.S. faces $37 billion cleanup after Venezuela quakes
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6058
-- slug: 2026-07-22-presidio-argues-border-wall-could-flood-town-in-lawsuit
-  headline: Presidio argues border wall could flood town in lawsuit
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5946
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5958
-- slug: 2026-05-16-mexico-s-invisible-displacement-crisis-as-cartel-violence-displaces-families
-  headline: Mexico’s invisible displacement crisis as cartel violence displaces families
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6199
-- slug: 2026-05-19-new-mexico-wildfire-grows-after-fatal-medical-plane-crash-near-ruidoso
-  headline: New Mexico wildfire grows after fatal medical plane crash near Ruidoso
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6127
-- slug: 2026-05-19-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6075
-- slug: 2026-05-16-cartel-drone-attacks-displace-hundreds-of-indigenous-residents-in-guerrero
-  headline: Cartel drone attacks displace hundreds of Indigenous residents in Guerrero
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6084
-- slug: 2026-05-18-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6042
-- slug: 2026-05-21-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5874
-- slug: 2026-05-22-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5844
-- slug: 2026-05-03-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5911
-- slug: 2026-02-19-new-mexico-reopens-probe-into-epstein-s-former-zorro-ranch
-  headline: New Mexico reopens probe into Epstein’s former Zorro Ranch
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6021
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5943
-- slug: 2026-04-14-uk-inquiry-says-missed-chances-by-family-and-agencies-before-southport-killings
-  headline: UK inquiry says missed chances by family and agencies before Southport killings
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5876
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5857
+  strength: 0.7188
 ---
-
 ## New Mexico rebuilds Ruidoso Downs culverts as upriver repairs stall
 
 **Subtype:** fact

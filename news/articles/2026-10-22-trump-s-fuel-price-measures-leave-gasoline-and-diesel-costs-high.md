@@ -1,9 +1,22 @@
 ---
 headline: Trump's fuel-price measures leave gasoline and diesel costs high
-secondary_headline: 'Poll: Even a $1 gasoline cut would not likely sway most voters polled to vote Republican'
+secondary_headline: 'Poll: Even a $1 gasoline cut would not likely sway most voters
+  polled to vote Republican'
 publish_date: '2026-10-22'
-lede: On October 22, 2026, US gasoline and diesel prices remained substantially higher than a year earlier as President Donald Trump promoted red-dye diesel, temporarily lifted sanctions on Russian diesel imports and announced a one-time $8 billion subsidy for farmers. AAA put gasoline at $4.29 a gallon, more than $1.25 above 2025, and diesel at $6.30, nearly 75% higher. Energy analysts said voters were unlikely to see relief before the November 3 midterms, while a Politico poll found that most voters polled would not likely be swayed to vote Republican even if gasoline fell by $1 a gallon.
-nut_graf: Fuel costs have become a major political issue with fewer than two weeks until the midterms, as drivers describe cutting other expenses and paying more at the pump. The Guardian reported that polls showed gas prices were likely to hurt Republicans in the November 3 midterms. Analysts said the new measures could not lower prices materially without resolving the conflicts that have curtailed global oil and refined-fuel supplies.
+lede: On October 22, 2026, US gasoline and diesel prices remained substantially higher
+  than a year earlier as President Donald Trump promoted red-dye diesel, temporarily
+  lifted sanctions on Russian diesel imports and announced a one-time $8 billion subsidy
+  for farmers. AAA put gasoline at $4.29 a gallon, more than $1.25 above 2025, and
+  diesel at $6.30, nearly 75% higher. Energy analysts said voters were unlikely to
+  see relief before the November 3 midterms, while a Politico poll found that most
+  voters polled would not likely be swayed to vote Republican even if gasoline fell
+  by $1 a gallon.
+nut_graf: Fuel costs have become a major political issue with fewer than two weeks
+  until the midterms, as drivers describe cutting other expenses and paying more at
+  the pump. The Guardian reported that polls showed gas prices were likely to hurt
+  Republicans in the November 3 midterms. Analysts said the new measures could not
+  lower prices materially without resolving the conflicts that have curtailed global
+  oil and refined-fuel supplies.
 primary_entities:
 - Donald Trump
 - AAA
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +163,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal
+  headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8178
 - slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
   headline: Trump pulls fuel-price levers as midterm elections approach
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8384
+  strength: 0.838
 - slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
+  headline: Analysts forecast diesel prices will keep driving inflation until wars
+    end
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.829
+  strength: 0.8286
 - slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
   headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7879
+  strength: 0.7872
 - slug: 2026-10-12-diesel-futures-erase-post-deal-drop-as-traders-dismiss-russian-volumes
   headline: Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7595
+  strength: 0.7591
 - slug: 2026-10-06-trump-weighs-suspending-federal-gas-tax-ahead-of-midterms
   headline: Trump weighs suspending federal gas tax ahead of midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7837
+  strength: 0.7826
 - slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
   headline: Bipartisan senators urge Trump to reverse Russian diesel deal
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7537
+  strength: 0.7541
 - slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
   headline: Trump says US reached deal with Putin for Russian diesel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.755
-- slug: 2026-10-05-trump-orders-dyed-diesel-opened-to-highway-use-defers-excise-tax
-  headline: Trump orders dyed diesel opened to highway use, defers excise tax
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7598
-- slug: 2026-10-04-energy-costs-squeeze-voters-before-midterms
-  headline: Energy costs squeeze voters across gas, diesel, and electricity before midterms
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.751
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7696
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7524
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.783
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7769
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7635
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7722
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7755
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7891
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7551
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7857
-- slug: 2026-09-09-trump-predicts-post-election-end-to-iran-war-and-lower-oil-prices
-  headline: Trump predicts post-election end to Iran war and lower oil prices
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7599
+  strength: 0.7549
 ---
-
 ## Trump's fuel-price measures leave gasoline and diesel costs high
 
 **Subtype:** fact

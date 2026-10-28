@@ -1,9 +1,21 @@
 ---
-headline: IUCN projects 96% of shallow-water reefs face high collapse risk before 2075
-secondary_headline: Scientists say reefs could survive rapid fossil-fuel cuts and strong local conservation
+headline: IUCN projects 96% of shallow-water reefs face high collapse risk before
+  2075
+secondary_headline: Scientists say reefs could survive rapid fossil-fuel cuts and
+  strong local conservation
 publish_date: '2026-10-22'
-lede: An assessment coordinated by the International Union for Conservation of Nature (IUCN) finds that 96% of the world's shallow-water coral reefs face a high risk of ecosystem collapse before 2075 once the expected impacts of global heating are added. The assessment analyzed the current status and future threat levels of 127 coral reef regions, and about 24% of the planet's reefs across more than 80 countries were already critically endangered before the projection was applied. IUCN, an international group that advises the United Nations, coordinated the work.
-nut_graf: 'Coral reefs are known as the rainforests of the sea: a quarter of all known marine species are found in and around them, and the ecosystems support hundreds of millions of people with food, protect shorelines and sustain tourism. An assessment that finds a high risk of ecosystem collapse in 96% of reef regions therefore carries direct consequences for those food supplies, shorelines and tourism economies.'
+lede: An assessment coordinated by the International Union for Conservation of Nature
+  (IUCN) finds that 96% of the world's shallow-water coral reefs face a high risk
+  of ecosystem collapse before 2075 once the expected impacts of global heating are
+  added. The assessment analyzed the current status and future threat levels of 127
+  coral reef regions, and about 24% of the planet's reefs across more than 80 countries
+  were already critically endangered before the projection was applied. IUCN, an international
+  group that advises the United Nations, coordinated the work.
+nut_graf: 'Coral reefs are known as the rainforests of the sea: a quarter of all known
+  marine species are found in and around them, and the ecosystems support hundreds
+  of millions of people with food, protect shorelines and sustain tourism. An assessment
+  that finds a high risk of ecosystem collapse in 96% of reef regions therefore carries
+  direct consequences for those food supplies, shorelines and tourism economies.'
 primary_entities:
 - International Union for Conservation of Nature
 - CORDIO East Africa
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +164,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-first-of-its-kind-iucn-reef-assessment-spans-127-ecoregions-worldwide
+  headline: First-of-its-kind IUCN reef assessment spans 127 ecoregions worldwide
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8565
 - slug: 2026-09-23-scientists-study-pristine-reefs-for-clues-to-heal-damaged-ones
   headline: Scientists study pristine reefs for clues to heal damaged ones
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6742
+  strength: 0.6747
 - slug: 2026-09-23-palmyra-atoll-s-near-pristine-reefs-offer-coral-restoration-lessons
   headline: Palmyra Atoll's near-pristine reefs offer coral restoration lessons
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6581
-- slug: 2026-09-22-tropical-warming-will-outlast-net-zero-emissions-study-finds
-  headline: Tropical warming will outlast net-zero emissions, study finds
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6492
-- slug: 2026-09-23-uk-joins-eu-oceaneye-program-to-improve-extreme-weather-forecasts
-  headline: UK joins EU OceanEye program to improve extreme weather forecasts
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.612
-- slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
-  headline: WMO warns strongest El Niño in 70 years set to intensify into winter
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6284
-- slug: 2026-09-15-peru-raises-coastal-el-ni-o-extraordinary-probability-to-85
-  headline: Peru raises coastal El Niño 'extraordinary' probability to 85%
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6162
-- slug: 2026-09-02-un-report-acknowledges-earth-will-exceed-paris-climate-threshold
-  headline: UN report acknowledges Earth will exceed Paris climate threshold
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.63
-- slug: 2026-08-28-scientists-warn-chile-argentina-peru-face-growing-glacial-flood-risks
-  headline: Scientists warn Chile, Argentina, Peru face growing glacial flood risks
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6189
-- slug: 2026-08-10-florida-wildlife-agencies-announce-coastal-corridor-to-protect-marine-life
-  headline: Florida wildlife agencies announce coastal corridor to protect marine life
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6239
+  strength: 0.6577
 - slug: 2026-06-17-ocean-marine-heatwaves-more-than-triple-since-early-1990s-report-finds
   headline: Ocean marine heatwaves more than triple since early 1990s, report finds
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6693
-- slug: 2026-07-27-noaa-report-finds-gulf-of-maine-ecosystem-unstable-despite-cooling-trend
-  headline: NOAA report finds Gulf of Maine ecosystem unstable despite cooling trend
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6151
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6237
+  strength: 0.6686
 - slug: 2026-05-16-global-warming-reduces-oxygen-in-rivers-worldwide-threatening-fish-and-creating-
-  headline: Global warming reduces oxygen in rivers worldwide, threatening fish and creating dead zones
+  headline: Global warming reduces oxygen in rivers worldwide, threatening fish and
+    creating dead zones
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6627
+  strength: 0.6628
 - slug: 2026-05-08-climate-change-threatens-tens-of-thousands-of-plant-species-studies-warn
   headline: Climate change threatens tens of thousands of plant species, studies warn
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6662
+  strength: 0.6664
 - slug: 2026-05-16-warming-reduces-oxygen-in-rivers-worldwide-study-warns
   headline: Warming reduces oxygen in rivers worldwide, study warns
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6612
+  strength: 0.662
 - slug: 2026-04-29-how-to-prevent-sunscreen-chemicals-from-hurting-coral-reefs
   headline: How to prevent sunscreen chemicals from hurting coral reefs
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.6674
-- slug: 2026-07-01-scientists-fear-el-ni-o-will-worsen-california-seabird-die-off
-  headline: Scientists fear El Niño will worsen California seabird die-off
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6223
-- slug: 2026-06-10-coastal-floods-once-rare-now-12-times-more-likely-study-finds
-  headline: Coastal floods once rare now 12 times more likely, study finds
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6315
-- slug: 2026-06-23-nearly-80-of-datacenters-vulnerable-to-climate-hazards-study-finds
-  headline: Nearly 80% of datacenters vulnerable to climate hazards, study finds
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6195
-- slug: 2026-05-27-un-75-chance-global-warming-breaches-1-5-c-in-next-five-years
-  headline: 'UN: 75% chance global warming breaches 1.5°C in next five years'
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6381
+  strength: 0.6685
 ---
-
 ## IUCN projects 96% of shallow-water reefs face high collapse risk before 2075
 
 **Subtype:** fact

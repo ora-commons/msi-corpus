@@ -1,9 +1,28 @@
 ---
 headline: U.S.-NABEP agreement outlines discounted oil rights and proposed 35% stake
-secondary_headline: No express guarantee for estimated $200 billion in Venezuelan royalties and taxes
+secondary_headline: No express guarantee for estimated $200 billion in Venezuelan
+  royalties and taxes
 publish_date: '2026-10-21'
-lede: ProPublica reviewed an 18-page strategic partnership agreement signed for the United States by Secretary of State Marco Rubio and Defense Secretary Pete Hegseth. Subject to closing conditions and unfinished “Implementation Documents,” the agreement would give the United States the right to purchase 20% of North American Blue Energy Partners' oil at $30 a barrel, acquire a 35% stake in NABEP by acquiring shares in its Barbados-registered parent company and receive first priority to purchase all remaining production for 50 years. It requires no Venezuelan government board seat and does not expressly guarantee an estimated $200 billion in royalties and tax payments to Venezuela. NABEP spokesperson Terry Wade said the agreement was between NABEP and the U.S. government, not Venezuela.
-nut_graf: Trump has said the agreement will secure America's energy dominance for the next century, but ProPublica's analysis said U.S. purchasing rights expire in 50 years while the operating rights appear to conflict with Venezuela's 25-year concession limit. The document also lacks an explicit guarantee of the estimated $200 billion in Venezuelan royalties and taxes that the White House said would benefit the country, and its unfinished “Implementation Documents” leave the proposed U.S. stake and unnamed investors' rights unsettled. Former diplomats and congressional staff said the deal was likely to face scrutiny in both countries; questions raised by four ranking senators about the Pentagon office's legal authority and NABEP's production capacity remain unresolved.
+lede: ProPublica reviewed an 18-page strategic partnership agreement signed for the
+  United States by Secretary of State Marco Rubio and Defense Secretary Pete Hegseth.
+  Subject to closing conditions and unfinished “Implementation Documents,” the agreement
+  would give the United States the right to purchase 20% of North American Blue Energy
+  Partners' oil at $30 a barrel, acquire a 35% stake in NABEP by acquiring shares
+  in its Barbados-registered parent company and receive first priority to purchase
+  all remaining production for 50 years. It requires no Venezuelan government board
+  seat and does not expressly guarantee an estimated $200 billion in royalties and
+  tax payments to Venezuela. NABEP spokesperson Terry Wade said the agreement was
+  between NABEP and the U.S. government, not Venezuela.
+nut_graf: Trump has said the agreement will secure America's energy dominance for
+  the next century, but ProPublica's analysis said U.S. purchasing rights expire in
+  50 years while the operating rights appear to conflict with Venezuela's 25-year
+  concession limit. The document also lacks an explicit guarantee of the estimated
+  $200 billion in Venezuelan royalties and taxes that the White House said would benefit
+  the country, and its unfinished “Implementation Documents” leave the proposed U.S.
+  stake and unnamed investors' rights unsettled. Former diplomats and congressional
+  staff said the deal was likely to face scrutiny in both countries; questions raised
+  by four ranking senators about the Pentagon office's legal authority and NABEP's
+  production capacity remain unresolved.
 primary_entities:
 - United States
 - Venezuela
@@ -61,7 +80,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,104 +183,43 @@ related_stories:
   headline: Senate Democrats challenge Pentagon's 35% stake in Venezuelan oil producer
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7612
+  strength: 0.7618
 - slug: 2026-09-25-pentagon-backed-nabep-aims-to-overtake-chevron-s-venezuelan-oil-output
   headline: Pentagon-backed NABEP aims to overtake Chevron's Venezuelan oil output
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7516
+  strength: 0.7526
 - slug: 2026-08-31-nabep-plans-50-rig-venezuelan-drilling-push-backed-by-trump-administration
   headline: NABEP plans 50-rig Venezuelan drilling push backed by Trump administration
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.8105
+  strength: 0.8106
 - slug: 2026-09-02-venezuelan-assembly-approves-100-year-nabep-oil-pact-covering-17-fields
   headline: Venezuelan assembly approves 100-year Nabep oil pact covering 17 fields
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7794
+  strength: 0.7795
 - slug: 2026-09-25-pentagon-backed-nabep-races-to-expand-in-chevron-s-venezuelan-territory
   headline: Pentagon-backed NABEP races to expand in Chevron's Venezuelan territory
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6525
+  strength: 0.6517
 - slug: 2026-09-02-alejandro-betancourt-leads-us-venezuela-oil-deal-amid-corruption-allegations
   headline: Alejandro Betancourt leads US-Venezuela oil deal amid corruption allegations
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.726
+  strength: 0.7293
 - slug: 2026-08-29-trump-announces-historic-us-venezuela-oil-deal-with-55-us-control
   headline: Trump announces 'historic' US-Venezuela oil deal with 55% US control
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7284
+  strength: 0.7287
 - slug: 2026-08-28-proposed-u-s-stake-in-17-venezuelan-fields-covers-90-billion-barrels
   headline: Proposed U.S. stake in 17 Venezuelan fields covers 90 billion barrels
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7135
-- slug: 2026-09-01-venezuela-s-chavismo-and-opposition-jointly-oppose-trump-oil-deal
-  headline: Venezuela's Chavismo and opposition jointly oppose Trump oil deal
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6911
-- slug: 2026-08-14-bp-joins-uae-and-qatari-partners-on-venezuela-gasfield-licence
-  headline: BP joins UAE and Qatari partners on Venezuela gasfield licence
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6332
-- slug: 2026-01-10-trump-order-shields-venezuelan-oil-revenue-from-judicial-claims
-  headline: Trump order shields Venezuelan oil revenue from judicial claims
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6751
-- slug: 2026-01-07-venezuela-s-vast-oil-reserves-draw-us-interest-but-experts-warn-of-major-hurdles
-  headline: Venezuela's vast oil reserves draw US interest, but experts warn of major hurdles
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6737
-- slug: 2026-01-11-trump-warns-cuba-to-make-a-deal-as-venezuelan-oil-lifeline-goes-dark
-  headline: Trump warns Cuba to make a 'deal' as Venezuelan oil lifeline goes dark
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6692
-- slug: 2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-as-trump-moves-to-control-global-sales
-  headline: US seizes two more Venezuelan oil tankers as Trump moves to control global sales
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6685
-- slug: 2026-01-22-venezuela-advances-oil-reform-allowing-private-company-investment
-  headline: Venezuela advances oil reform allowing private company investment
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6671
-- slug: 2026-01-09-china-s-venezuela-oil-debt-complicates-trump-s-seizure-strategy
-  headline: China's Venezuela oil debt complicates Trump's seizure strategy
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6628
-- slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  headline: Venezuela oil revival faces decade-long timeline and $100 billion investment hurdle
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6597
-- slug: 2026-05-22-trump-applies-venezuela-playbook-to-cuba-but-results-may-differ
-  headline: Trump applies Venezuela playbook to Cuba, but results may differ
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6288
-- slug: 2026-01-05-energy-stocks-surge-after-trump-announces-plans-to-control-venezuela-s-oil-indus
-  headline: Energy stocks surge after Trump announces plans to control Venezuela's oil industry
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6477
-- slug: 2026-01-29-rubio-says-u-s-will-oversee-venezuela-oil-sale-proceeds-under-sanctions
-  headline: Rubio says U.S. will oversee Venezuela oil-sale proceeds under sanctions
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6443
+  strength: 0.7143
 ---
-
 ## U.S.-NABEP agreement outlines discounted oil rights and proposed 35% stake
 
 **Subtype:** fact

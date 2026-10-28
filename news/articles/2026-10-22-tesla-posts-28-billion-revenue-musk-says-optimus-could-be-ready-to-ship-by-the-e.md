@@ -1,9 +1,21 @@
 ---
-headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship by the end of next year
+headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship
+  by the end of next year
 secondary_headline: Tesla and SpaceX formed committees to study a possible merger
 publish_date: '2026-10-22'
-lede: Tesla reported flat third-quarter revenue of $28 billion and a surprise positive $1.5 billion in free cash flow during Wednesday’s earnings call, while Elon Musk said Tesla could be ready to start shipping Optimus humanoid robots to outside companies by the end of next year. Adjusted net income fell 4% to $1.7 billion. A market quote in The Wall Street Journal’s report showed TSLA up 3.41%; separately, Tesla shares fell 3.5% in after-hours trading. Musk also said Tesla and SpaceX had formed special committees to study a potential merger.
-nut_graf: Tesla’s “services and other” segment was its growth driver, rising 33%, while automotive and energy-storage revenue fell 3% and 16%, respectively. The segment includes FSD subscriptions, the Robotaxi business and EV charging. Tesla lowered its 2026 capital-spending plan to about $20 billion, down from an earlier $25 billion estimate, while Musk said the company would still require tens of billions in annual capital spending by 2028.
+lede: Tesla reported flat third-quarter revenue of $28 billion and a surprise positive
+  $1.5 billion in free cash flow during Wednesday’s earnings call, while Elon Musk
+  said Tesla could be ready to start shipping Optimus humanoid robots to outside companies
+  by the end of next year. Adjusted net income fell 4% to $1.7 billion. A market quote
+  in The Wall Street Journal’s report showed TSLA up 3.41%; separately, Tesla shares
+  fell 3.5% in after-hours trading. Musk also said Tesla and SpaceX had formed special
+  committees to study a potential merger.
+nut_graf: Tesla’s “services and other” segment was its growth driver, rising 33%,
+  while automotive and energy-storage revenue fell 3% and 16%, respectively. The segment
+  includes FSD subscriptions, the Robotaxi business and EV charging. Tesla lowered
+  its 2026 capital-spending plan to about $20 billion, down from an earlier $25 billion
+  estimate, while Musk said the company would still require tens of billions in annual
+  capital spending by 2028.
 primary_entities:
 - Tesla
 - SpaceX
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +157,44 @@ related_stories:
   headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8589
+  strength: 0.858
 - slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
   headline: SpaceX reports 161% revenue growth driven by Starlink and AI
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7366
+  strength: 0.7375
 - slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7061
+  strength: 0.7058
+- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
+  headline: Wall Street advances as SpaceX beats summer profit expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7001
 - slug: 2026-10-02-tesla-third-quarter-sales-fall-2-reversing-first-half-gains
   headline: Tesla third-quarter sales fall 2%, reversing first-half gains
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8046
+  strength: 0.804
 - slug: 2026-10-20-musk-says-tesla-spacex-merger-is-under-active-consideration
   headline: Musk says Tesla-SpaceX merger is under active consideration
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6703
+  strength: 0.6715
 - slug: 2026-10-19-musk-pledges-to-give-every-u-s-child-a-spacex-share
   headline: Musk pledges to give every U.S. child a SpaceX share
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6559
+  strength: 0.6572
 - slug: 2026-09-13-tesla-s-us-ev-market-share-climbs-to-52-as-legacy-rivals-retreat
   headline: Tesla's US EV market share climbs to 52% as legacy rivals retreat
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7362
-- slug: 2026-07-22-tesla-r-d-spending-jumps-49-driving-profit-below-analyst-forecasts
-  headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7491
-- slug: 2026-01-30-tesla-profit-falls-to-lowest-since-pandemic-eyes-robotaxis-and-optimus
-  headline: Tesla profit falls to lowest since pandemic; eyes robotaxis and Optimus
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.8197
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6842
-- slug: 2026-08-13-afl-cio-report-finds-ceo-pay-at-top-s-p-500-firms-hit-312-times-worker-wages
-  headline: AFL-CIO report finds CEO pay at top S&P 500 firms hit 312 times worker wages
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6588
-- slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
-  headline: SpaceX shares down by half from June peak as earnings call nears
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6558
-- slug: 2026-07-23-alphabet-posts-negative-free-cash-flow-as-ai-capex-heads-to-205bn
-  headline: Alphabet posts negative free cash flow as AI capex heads to $205bn
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6599
-- slug: 2026-01-03-tesla-loses-top-ev-crown-to-byd-as-musk-tax-break-changes-weigh
-  headline: Tesla loses top EV crown to BYD as Musk, tax break changes weigh
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7441
-- slug: 2026-06-13-a-look-at-elon-musk-s-vast-business-empire-from-spacex-to-tesla
-  headline: A look at Elon Musk's vast business empire, from SpaceX to Tesla
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6965
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7083
-- slug: 2026-01-04-tesla-loses-ev-crown-to-china-s-byd-as-sales-drop-continues-into-2025
-  headline: Tesla loses EV crown to China’s BYD as sales drop continues into 2025
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7259
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6924
-- slug: 2026-05-22-spacex-ipo-prospectus-details-losses-lockups-and-a-1-million-person-mars-goal
-  headline: SpaceX IPO prospectus details losses, lockups and a 1 million-person Mars goal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6895
-- slug: 2026-01-01-tesla-loses-top-ev-seller-title-to-china-s-byd-after-sales-slump
-  headline: Tesla loses top EV seller title to China’s BYD after sales slump
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7109
+  strength: 0.7366
 ---
-
 ## Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship by the end of next year
 
 **Subtype:** fact

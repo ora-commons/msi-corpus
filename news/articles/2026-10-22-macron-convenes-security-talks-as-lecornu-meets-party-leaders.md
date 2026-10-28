@@ -1,9 +1,18 @@
 ---
 headline: Macron convenes security talks as Lecornu meets party leaders
-secondary_headline: Overnight strikes hit Ukraine as Serbia begins final campaign day
+secondary_headline: Overnight strikes hit Ukraine as Serbia begins final campaign
+  day
 publish_date: '2026-10-22'
-lede: The Guardian reported on Thursday, 22 October 2026, that French President Emmanuel Macron, back from a Gulf tour, was convening relevant ministers and intelligence services to consider what could be done to prevent “unsavoury scenes” in French cities as more protests were planned for Saturday. Macron was expected to speak after the meeting.
-nut_graf: The Guardian’s Thursday Europe Live update also reported overnight Russian strikes on port infrastructure facilities in Odesa region and on Kyiv, with no signs that the attacks would stop anytime soon, and Serbia’s final campaigning day before Sunday’s closely contested parliamentary election. Ukraine Foreign Minister Andii Sybiha said only strength would stop the war.
+lede: The Guardian reported on Thursday, 22 October 2026, that French President Emmanuel
+  Macron, back from a Gulf tour, was convening relevant ministers and intelligence
+  services to consider what could be done to prevent “unsavoury scenes” in French
+  cities as more protests were planned for Saturday. Macron was expected to speak
+  after the meeting.
+nut_graf: The Guardian’s Thursday Europe Live update also reported overnight Russian
+  strikes on port infrastructure facilities in Odesa region and on Kyiv, with no signs
+  that the attacks would stop anytime soon, and Serbia’s final campaigning day before
+  Sunday’s closely contested parliamentary election. Ukraine Foreign Minister Andii
+  Sybiha said only strength would stop the war.
 primary_entities:
 - Emmanuel Macron
 - Sébastien Lecornu
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +159,46 @@ related_stories:
   headline: Macron says some leaders used French unrest for political campaigns
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.712
+  strength: 0.7129
 - slug: 2026-10-20-french-police-pursue-suspects-after-weekend-violence
   headline: French police pursue suspects after weekend violence
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7002
+  strength: 0.7009
+- slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6794
+- slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
+  headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+    protests
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6786
+- slug: 2026-10-23-french-authorities-prepare-about-70-000-police-for-saturday-demonstrations
+  headline: French authorities prepare about 70,000 police for Saturday demonstrations
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6686
 - slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
   headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6778
+  strength: 0.6774
 - slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
   headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6693
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6627
+  strength: 0.669
 - slug: 2026-10-01-russia-strikes-kyiv-odesa-energy-sites-in-heaviest-combined-attack-in-months
-  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in months
+  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in
+    months
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7157
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6694
-- slug: 2026-07-14-macron-showcases-european-military-unity-at-bastille-day-parade
-  headline: Macron showcases European military unity at Bastille Day parade
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6975
-- slug: 2026-06-16-g7-leaders-open-summit-talks-in-france-on-ukraine-and-middle-east
-  headline: G7 leaders open summit talks in France on Ukraine and Middle East
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7133
-- slug: 2026-07-07-explosions-wound-4-in-damascus-as-macron-meets-syrian-leader
-  headline: Explosions wound 4 in Damascus as Macron meets Syrian leader
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.662
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6629
-- slug: 2026-01-30-trump-says-putin-agreed-to-pause-strikes-on-kyiv-for-one-week
-  headline: Trump says Putin agreed to pause strikes on Kyiv for one week
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7054
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6816
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6676
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6668
-- slug: 2026-03-04-macron-says-france-will-align-nuclear-deterrence-with-european-allies
-  headline: Macron says France will align nuclear deterrence with European allies
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.686
-- slug: 2026-05-08-ukraine-launches-major-drone-attack-on-russia-ahead-of-victory-day-parade
-  headline: Ukraine launches major drone attack on Russia ahead of Victory Day parade
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6657
-- slug: 2026-02-26-zelenskyy-says-ukraine-will-meet-trump-envoys-in-geneva-next-week
-  headline: Zelenskyy says Ukraine will meet Trump envoys in Geneva next week
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6784
-- slug: 2026-02-13-zelenskyy-questions-allies-on-ukraine-security-guarantees-after-munich-remarks
-  headline: Zelenskyy questions allies on Ukraine security guarantees after Munich remarks
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6783
-- slug: 2026-03-04-macron-says-france-will-increase-warheads-and-allow-temporary-nuclear-deployment
-  headline: Macron says France will increase warheads and allow temporary nuclear deployment
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6736
+  strength: 0.7158
 ---
-
 ## Macron convenes security talks as Lecornu meets party leaders
 
 **Subtype:** fact

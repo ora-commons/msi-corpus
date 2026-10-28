@@ -1,9 +1,19 @@
 ---
 headline: Mamdani and Menin reach carriage-ban deal as union threatens federal suit
-secondary_headline: Council expected to approve June 2028 shutdown; horse-care terms remain unsettled
+secondary_headline: Council expected to approve June 2028 shutdown; horse-care terms
+  remain unsettled
 publish_date: '2026-10-22'
-lede: Mayor Zohran Mamdani and New York City Council Speaker Julie Menin reached a deal on legislation that would shut down Central Park’s licensed horse-carriage industry in June 2028. The New York City Council is expected to approve the bill Thursday, while Transport Workers Union Local 100 said it would sue in federal court if the ban becomes law.
-nut_graf: 'If approved, the legislation would set a June 2028 end date for Central Park’s licensed carriage industry while leaving key details unresolved: who would pay for horses’ care, whether drivers would receive compensation for their horses or financial assistance if they want to retain ownership but need help paying for the horses’ care, and what transition support carriage owners, drivers and stable workers would receive.'
+lede: Mayor Zohran Mamdani and New York City Council Speaker Julie Menin reached a
+  deal on legislation that would shut down Central Park’s licensed horse-carriage
+  industry in June 2028. The New York City Council is expected to approve the bill
+  Thursday, while Transport Workers Union Local 100 said it would sue in federal court
+  if the ban becomes law.
+nut_graf: 'If approved, the legislation would set a June 2028 end date for Central
+  Park’s licensed carriage industry while leaving key details unresolved: who would
+  pay for horses’ care, whether drivers would receive compensation for their horses
+  or financial assistance if they want to retain ownership but need help paying for
+  the horses’ care, and what transition support carriage owners, drivers and stable
+  workers would receive.'
 primary_entities:
 - New York City Council
 - Central Park
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +153,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-central-park-bill-sets-april-deadline-for-transition-of-more-than-150-drivers
+  headline: Central Park bill sets April deadline for transition of more than 150
+    drivers
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.86
 - slug: 2026-10-14-nyc-mayor-council-speaker-agree-to-ban-horse-drawn-carriages
   headline: NYC mayor, council speaker agree to ban horse-drawn carriages
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.885
+  strength: 0.8837
 - slug: 2026-10-22-nyc-council-to-vote-thursday-on-ban-of-central-park-horse-drawn-carriages
   headline: NYC Council to vote Thursday on ban of Central Park horse-drawn carriages
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8298
+  strength: 0.8292
 - slug: 2026-10-13-nyc-council-moves-to-ban-central-park-horse-carriages-by-june-2028
   headline: NYC Council moves to ban Central Park horse carriages by June 2028
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8462
+  strength: 0.8463
+- slug: 2026-10-22-romanch-s-law-sets-june-2028-end-date-requires-transition-plan-next-year
+  headline: Romanch's Law sets June 2028 end date, requires transition plan next year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7642
+- slug: 2026-10-26-mamdani-s-nyc-encampment-policy-draws-criticism-from-residents-and-businesses
+  headline: Mamdani’s NYC encampment policy draws criticism from residents and businesses
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6635
 - slug: 2026-07-20-new-york-city-council-speaker-backs-ban-on-central-park-horse-carriages
   headline: New York City Council speaker backs ban on Central Park horse carriages
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.8031
+  strength: 0.8038
 - slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
   headline: NYC and coalition of cities sue over Trump immigration benefits rule
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.651
-- slug: 2026-09-23-mamdani-turns-greedy-algorithm-remark-into-midterm-targeting-of-corporations
-  headline: Mamdani turns 'greedy algorithm' remark into midterm targeting of corporations
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6014
-- slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
-  headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6797
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6113
-- slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
-  headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6956
-- slug: 2026-08-29-mamdani-sues-to-block-10-000-bonuses-for-nyc-school-aides
-  headline: Mamdani sues to block $10,000 bonuses for NYC school aides
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6379
-- slug: 2026-08-24-business-coalition-sues-mamdani-over-city-grocery-plan
-  headline: Business coalition sues Mamdani over city grocery plan
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6316
-- slug: 2026-08-31-mamdani-rent-freeze-keeps-rents-flat-for-roughly-one-million-nyc-apartments
-  headline: Mamdani rent freeze keeps rents flat for roughly one million NYC apartments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6011
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6815
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6184
-- slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
-  headline: Five landlords challenge NYC rent freeze in state court
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
-  headline: NYC board approves Mamdani's rent freeze for 1 million apartments
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6462
-- slug: 2026-06-17-18-year-old-dies-after-being-thrown-from-central-park-horse-drawn-carriage
-  headline: 18-year-old dies after being thrown from Central Park horse-drawn carriage
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6294
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6304
-- slug: 2026-01-20-sanders-mamdani-rally-striking-nyc-nurses-on-day-9
-  headline: Sanders, Mamdani rally striking NYC nurses on day 9
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6287
-- slug: 2026-03-20-nyc-mayor-mamdani-unveils-community-safety-office-first-step-on-crisis-response-
-  headline: NYC Mayor Mamdani unveils community safety office, first step on crisis response pledge
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6128
+  strength: 0.6504
 ---
-
 ## Mamdani and Menin reach carriage-ban deal as union threatens federal suit
 
 **Subtype:** fact

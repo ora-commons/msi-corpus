@@ -1,9 +1,24 @@
 ---
 headline: Five Social Security proposals to narrow the $29.3 trillion gap
-secondary_headline: Retirement, survivor and disability programs projected to exhaust reserves by 2034
+secondary_headline: Retirement, survivor and disability programs projected to exhaust
+  reserves by 2034
 publish_date: '2026-10-22'
-lede: The Wall Street Journal's Oct. 22 analysis sets out five Social Security policy proposals drawn from the Social Security Administration's Office of the Chief Actuary, showing how far each could narrow the program's projected 75-year shortfall, estimated at $29.3 trillion in present-value dollars, and how long each would postpone the program's 2034 insolvency date, if at all. The options range from gradually raising the normal retirement age to 69 to eliminating the $184,500 payroll-tax cap, with different effects on workers and on Social Security's combined retirement, survivor and disability programs. Lawmakers have not coalesced around a package, and the journal's reporting suggests Congress is a long way from making decisions.
-nut_graf: Social Security already spends more on benefits than it receives in tax revenue, and its combined retirement, survivor and disability programs are projected to exhaust the reserves built up in surplus years by 2034, raising the prospect of benefit cuts that exceed 20%. No one in Congress expects those cuts, and Congress has not figured out what to do instead. The five proposals could narrow the 75-year gap and may or may not postpone insolvency; as the journal frames the policy challenge, it is to shrink or eliminate the gap between cost and revenue.
+lede: The Wall Street Journal's Oct. 22 analysis sets out five Social Security policy
+  proposals drawn from the Social Security Administration's Office of the Chief Actuary,
+  showing how far each could narrow the program's projected 75-year shortfall, estimated
+  at $29.3 trillion in present-value dollars, and how long each would postpone the
+  program's 2034 insolvency date, if at all. The options range from gradually raising
+  the normal retirement age to 69 to eliminating the $184,500 payroll-tax cap, with
+  different effects on workers and on Social Security's combined retirement, survivor
+  and disability programs. Lawmakers have not coalesced around a package, and the
+  journal's reporting suggests Congress is a long way from making decisions.
+nut_graf: Social Security already spends more on benefits than it receives in tax
+  revenue, and its combined retirement, survivor and disability programs are projected
+  to exhaust the reserves built up in surplus years by 2034, raising the prospect
+  of benefit cuts that exceed 20%. No one in Congress expects those cuts, and Congress
+  has not figured out what to do instead. The five proposals could narrow the 75-year
+  gap and may or may not postpone insolvency; as the journal frames the policy challenge,
+  it is to shrink or eliminate the gap between cost and revenue.
 primary_entities:
 - Social Security Administration
 - U.S. Congress
@@ -33,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,110 +147,52 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-rubin-and-dapena-examine-proposals-to-narrow-social-security-s-shortfall
+  headline: Rubin and Dapena examine proposals to narrow Social Security's shortfall
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7262
+- slug: 2026-10-24-uk-basic-state-pension-trails-wealthy-countries-oecd-analysis-shows
+  headline: UK basic state pension trails wealthy countries, OECD analysis shows
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6634
 - slug: 2026-10-14-pew-61-of-americans-see-too-much-economic-inequality-with-partisan-divide
-  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan divide'
+  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan
+    divide'
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6736
+  strength: 0.6738
 - slug: 2026-10-09-report-projects-2-152-yearly-social-security-reduction-from-trump-immigration-po
-  headline: Report projects $2,152 yearly Social Security reduction from Trump immigration policies
+  headline: Report projects $2,152 yearly Social Security reduction from Trump immigration
+    policies
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.653
+  strength: 0.6525
 - slug: 2026-10-08-u-s-budget-deficit-climbs-12-to-nearly-2-trillion-in-fiscal-2026
   headline: U.S. budget deficit climbs 12% to nearly $2 trillion in fiscal 2026
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6539
+  strength: 0.6541
 - slug: 2026-08-30-congress-weighs-bipartisan-social-security-fixes-ahead-of-2032-deadline
   headline: Congress weighs bipartisan Social Security fixes ahead of 2032 deadline
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.7734
+  strength: 0.773
 - slug: 2026-09-24-senior-poverty-rate-rises-for-fifth-straight-year-aarp-foundation-finds
   headline: Senior poverty rate rises for fifth straight year, AARP Foundation finds
   publish_date: '2026-09-24'
   relation: related
   strength: 0.6658
 - slug: 2026-09-15-census-bureau-reports-us-family-income-rose-2-6-in-2025-poverty-fell-to-10-2
-  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell to 10.2%
+  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell
+    to 10.2%
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6565
-- slug: 2026-09-14-house-democrats-introduce-bill-to-ban-medical-debt-wage-garnishment
-  headline: House Democrats introduce bill to ban medical-debt wage garnishment
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6467
-- slug: 2026-06-17-social-security-trust-fund-depletion-looms-as-payroll-taxes-fall-short
-  headline: Social Security trust fund depletion looms as payroll taxes fall short
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.817
-- slug: 2026-06-09-social-security-retirement-fund-projected-to-run-short-by-late-2032-trustees-rep
-  headline: Social Security retirement fund projected to run short by late 2032, trustees report
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7932
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7451
-- slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
-  headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6545
-- slug: 2026-07-14-bipartisan-bill-aims-to-shore-up-social-security
-  headline: Bipartisan bill aims to shore up Social Security
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7005
-- slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
-  headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6554
-- slug: 2026-07-22-wyden-and-neal-propose-limits-on-retirement-accounts-over-10-million
-  headline: Wyden and Neal propose limits on retirement accounts over $10 million
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6471
-- slug: 2026-06-01-courtney-e-martin-outlines-policy-paths-for-u-s-elder-care-crisis-as-baby-boomer
-  headline: Courtney E. Martin outlines policy paths for U.S. elder care crisis as baby boomers age
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6992
-- slug: 2026-06-26-cbo-projects-1-9t-deficit-as-trump-spending-spree-swells
-  headline: CBO projects $1.9T deficit as Trump spending spree swells
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6514
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6576
-- slug: 2026-05-06-white-house-estimates-trump-drug-deals-would-cut-529b-in-10-years
-  headline: White House estimates Trump drug deals would cut $529B in 10 years
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6605
-- slug: 2026-02-12-cbo-projects-higher-deficits-and-debt-over-next-decade
-  headline: CBO projects higher deficits and debt over next decade
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6666
-- slug: 2026-02-05-low-income-west-virginians-face-loss-of-28-subsidized-housing-by-2034
-  headline: Low-income West Virginians face loss of 28% subsidized housing by 2034
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6565
+  strength: 0.6566
 analyses:
-- '2026-10-22-wsj-analysis-maps-social-security-options-across-two-fiscal-horizons'
+- 2026-10-22-wsj-analysis-maps-social-security-options-across-two-fiscal-horizons
 ---
-
 ## Five Social Security proposals to narrow the $29.3 trillion gap
 
 **Subtype:** fact

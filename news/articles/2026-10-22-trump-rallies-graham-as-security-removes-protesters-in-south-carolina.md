@@ -2,8 +2,16 @@
 headline: Trump rallies Graham as security removes protesters in South Carolina
 secondary_headline: The president urged credit for an attendee’s apparent strike
 publish_date: '2026-10-22'
-lede: At a Wednesday rally at Clemson University, President Donald Trump supported Darline Graham as security guards removed multiple protesters. Trump praised a rally attendee who appeared to strike one protester after the person was removed. Graham, elected to the seat of her late brother Sen. Lindsey Graham, is seeking a full six-year term against Democrat Annie Andrews.
-nut_graf: Trump’s appearance put his support for Graham alongside the protest activity that has accompanied his recent rallies, with the president campaigning in the final weeks before the November 3 midterms. Graham’s challenge to Democrat Annie Andrews is part of the broader Republican effort to retain control of the U.S. Senate and House.
+lede: At a Wednesday rally at Clemson University, President Donald Trump supported
+  Darline Graham as security guards removed multiple protesters. Trump praised a rally
+  attendee who appeared to strike one protester after the person was removed. Graham,
+  elected to the seat of her late brother Sen. Lindsey Graham, is seeking a full six-year
+  term against Democrat Annie Andrews.
+nut_graf: Trump’s appearance put his support for Graham alongside the protest activity
+  that has accompanied his recent rallies, with the president campaigning in the final
+  weeks before the November 3 midterms. Graham’s challenge to Democrat Annie Andrews
+  is part of the broader Republican effort to retain control of the U.S. Senate and
+  House.
 primary_entities:
 - Donald Trump
 - Darline Graham
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +154,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
+  headline: Trump holds seven rallies across seven states during midterm push
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6976
+- slug: 2026-10-26-beasley-and-hodges-back-democrat-annie-andrews-for-senate
+  headline: Beasley and Hodges back Democrat Annie Andrews for Senate
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6735
 - slug: 2026-10-20-trump-heads-to-north-carolina-to-stump-for-whatley-with-midterms-two-weeks-away
-  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks away
+  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks
+    away
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6752
+  strength: 0.6738
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6725
+  strength: 0.6703
 - slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
   headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7024
+  strength: 0.6998
 - slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
   headline: Trump launches 32-day midterm rally blitz through GOP strongholds
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6948
+  strength: 0.692
 - slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
   headline: Darline Graham wins South Carolina Senate runoff over Norman
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7881
+  strength: 0.7862
 - slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
   headline: Trump stumps for Whatley in North Carolina Senate race
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7083
-- slug: 2026-08-21-trump-to-hold-friday-rally-ahead-of-south-carolina-runoff
-  headline: Trump to hold Friday rally ahead of South Carolina runoff
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7645
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6726
-- slug: 2026-08-18-rep-norman-questions-trump-endorsement-of-darline-graham-in-sc-senate-runoff
-  headline: Rep. Norman questions Trump endorsement of Darline Graham in SC Senate runoff
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7252
-- slug: 2026-08-08-darline-graham-enters-south-carolina-primary-with-trump-endorsement
-  headline: Darline Graham enters South Carolina primary with Trump endorsement
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7432
-- slug: 2026-08-24-maga-inc-spends-more-than-800-000-on-graham-runoff-outreach
-  headline: MAGA Inc. spends more than $800,000 on Graham runoff outreach
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7007
-- slug: 2026-08-23-tim-scott-says-graham-is-prepared-to-serve-in-senate
-  headline: Tim Scott says Graham is 'prepared to serve' in Senate
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7017
-- slug: 2026-08-14-third-place-finisher-fry-endorses-graham-ahead-of-south-carolina-s-aug-25-senate
-  headline: Third-place finisher Fry endorses Graham ahead of South Carolina's Aug. 25 Senate runoff
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7211
-- slug: 2026-08-11-south-carolina-republicans-cast-ballots-in-special-primary-for-graham-s-seat
-  headline: South Carolina Republicans cast ballots in special primary for Graham's seat
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7201
-- slug: 2026-08-24-darline-graham-ralph-norman-head-to-south-carolina-senate-runoff
-  headline: Darline Graham, Ralph Norman head to South Carolina Senate runoff
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6862
-- slug: 2026-08-14-fry-endorses-graham-ahead-of-south-carolina-senate-primary-runoff
-  headline: Fry endorses Graham ahead of South Carolina Senate primary runoff
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6848
-- slug: 2026-08-19-darline-graham-acknowledges-limited-national-security-knowledge-at-sc-debate
-  headline: Darline Graham acknowledges limited national security knowledge at SC debate
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6661
-- slug: 2026-07-18-rep-ralph-norman-enters-south-carolina-senate-race-despite-trump-endorsement
-  headline: Rep. Ralph Norman enters South Carolina Senate race despite Trump endorsement
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7148
-- slug: 2026-07-16-trump-to-meet-darline-graham-at-white-house-as-new-senator-takes-office
-  headline: Trump to meet Darline Graham at White House as new senator takes office
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7174
-- slug: 2026-08-01-darline-graham-enters-senate-campaign-at-south-carolina-event
-  headline: Darline Graham enters Senate campaign at South Carolina event
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6876
+  strength: 0.7078
 ---
-
 ## Trump rallies Graham as security removes protesters in South Carolina
 
 **Subtype:** fact

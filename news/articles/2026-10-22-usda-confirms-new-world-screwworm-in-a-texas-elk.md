@@ -2,8 +2,17 @@
 headline: USDA confirms New World screwworm in a Texas elk
 secondary_headline: Hunters are asked to report visible maggots and suspicious wounds
 publish_date: '2026-10-22'
-lede: The U.S. Department of Agriculture and the Texas Parks and Wildlife Department have confirmed the first known case of New World screwworm in U.S. wildlife during the current outbreak, in a female elk harvested in Pecos County, Texas. The finding followed laboratory identification of a sample from the elk and came after the USDA detected the parasite in a calf in early June. U.S. farmers have been concerned about a potential outbreak among ranches since that earlier detection.
-nut_graf: The discovery extends the documented U.S. cases to wildlife after a June detection in a calf. The USDA and Texas Parks and Wildlife Department are asking hunters and landowners to report warning signs, while the Food and Drug Administration has issued emergency use authorizations for drugs to prevent and treat the parasite in livestock and pets.
+lede: The U.S. Department of Agriculture and the Texas Parks and Wildlife Department
+  have confirmed the first known case of New World screwworm in U.S. wildlife during
+  the current outbreak, in a female elk harvested in Pecos County, Texas. The finding
+  followed laboratory identification of a sample from the elk and came after the USDA
+  detected the parasite in a calf in early June. U.S. farmers have been concerned
+  about a potential outbreak among ranches since that earlier detection.
+nut_graf: The discovery extends the documented U.S. cases to wildlife after a June
+  detection in a calf. The USDA and Texas Parks and Wildlife Department are asking
+  hunters and landowners to report warning signs, while the Food and Drug Administration
+  has issued emergency use authorizations for drugs to prevent and treat the parasite
+  in livestock and pets.
 primary_entities:
 - New World screwworm
 - U.S. Department of Agriculture
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +150,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-usda-confirms-new-world-screwworm-detected-in-texas-elk
+  headline: USDA confirms New World screwworm detected in Texas elk
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.9268
+- slug: 2026-10-26-mexican-cattle-resume-u-s-border-crossings-under-screwworm-safeguards
+  headline: Mexican cattle resume U.S. border crossings under screwworm safeguards
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7407
 - slug: 2026-09-11-new-world-screwworm-infects-texas-ranch-horse-in-first-us-equine-case
   headline: New World screwworm infects Texas ranch horse in first US equine case
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.8199
-- slug: 2026-10-07-los-angeles-county-documents-first-rabid-raccoon-in-over-50-years
-  headline: Los Angeles County documents first rabid raccoon in over 50 years
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6179
-- slug: 2026-10-03-fda-finds-cyclospora-at-mexican-farm-tied-to-largest-u-s-outbreak
-  headline: FDA finds cyclospora at Mexican farm tied to largest U.S. outbreak
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6247
+  strength: 0.8203
 - slug: 2026-08-27-fda-approves-ivermectin-for-cattle-screwworm-14th-emergency-authorization
   headline: FDA approves ivermectin for cattle screwworm, 14th emergency authorization
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7479
+  strength: 0.7498
 - slug: 2026-06-04-new-world-screwworm-detected-in-texas-calf-first-us-livestock-case-since-1966
-  headline: New World screwworm detected in Texas calf, first US livestock case since 1966
+  headline: New World screwworm detected in Texas calf, first US livestock case since
+    1966
   publish_date: '2026-06-04'
   relation: related
   strength: 0.859
-- slug: 2026-09-23-usda-announces-recall-of-167-639-pounds-of-uninspected-meat
-  headline: USDA announces recall of 167,639 pounds of uninspected meat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6112
 - slug: 2026-06-08-usda-confirms-two-more-screwworm-cases-in-texas-food-supply-safe
   headline: USDA confirms two more screwworm cases in Texas; food supply safe
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.8226
-- slug: 2026-09-23-noaa-documents-first-olive-ridley-sea-turtle-nestings-on-california-coast
-  headline: NOAA documents first olive ridley sea turtle nestings on California coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6027
+  strength: 0.8221
 - slug: 2026-08-22-us-to-resume-mexican-cattle-imports-aug-24-under-screwworm-controls
   headline: US to resume Mexican cattle imports Aug. 24 under screwworm controls
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7027
+  strength: 0.7028
 - slug: 2026-08-19-screwworm-response-halts-texas-shelter-adoptions-raises-euthanasia-risk
   headline: Screwworm response halts Texas shelter adoptions, raises euthanasia risk
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6887
-- slug: 2026-09-14-noaa-documents-nine-new-deep-sea-sponge-species-off-alaska
-  headline: NOAA documents nine new deep-sea sponge species off Alaska
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6076
-- slug: 2026-06-15-new-world-screwworm-returns-to-us-12-cases-detected-in-texas-and-new-mexico
-  headline: New World screwworm returns to US, 12 cases detected in Texas and New Mexico
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7716
-- slug: 2026-06-12-texas-ranchers-fight-return-of-long-eradicated-cattle-killing-parasite
-  headline: Texas Ranchers Fight Return of Long-Eradicated Cattle-Killing Parasite
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7572
-- slug: 2026-07-24-usda-to-lift-more-than-yearlong-ban-on-mexican-cattle-imports-in-30-days
-  headline: USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6994
-- slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
-  headline: Farm workers face elevated risk as screwworm spreads in US south-west
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7348
-- slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7073
-- slug: 2026-08-31-north-carolina-confirms-rabies-in-three-baby-goats-at-harmony-petting-zoo
-  headline: North Carolina confirms rabies in three baby goats at Harmony petting zoo
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6051
-- slug: 2026-08-15-fda-elevates-1-6-million-dozen-egg-recall-to-highest-risk-level
-  headline: FDA elevates 1.6 million-dozen egg recall to highest-risk level
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6125
-- slug: 2026-02-11-us-opens-texas-facility-to-disperse-sterile-screwworm-flies
-  headline: US opens Texas facility to disperse sterile screwworm flies
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7138
-- slug: 2026-07-19-fda-identifies-taylor-farms-lettuce-as-cyclospora-outbreak-source
-  headline: FDA identifies Taylor Farms lettuce as Cyclospora outbreak source
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6219
+  strength: 0.6884
 ---
-
 ## USDA confirms New World screwworm in a Texas elk
 
 **Subtype:** fact

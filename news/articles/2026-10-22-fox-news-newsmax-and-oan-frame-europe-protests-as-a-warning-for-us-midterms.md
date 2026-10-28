@@ -1,9 +1,19 @@
 ---
 headline: Fox News, Newsmax and OAN frame Europe protests as a warning for US midterms
-secondary_headline: The coverage linked unrest abroad to immigration, communism and American identity
+secondary_headline: The coverage linked unrest abroad to immigration, communism and
+  American identity
 publish_date: '2026-10-22'
-lede: On Monday and Tuesday, hosts on Fox News, Newsmax and One America News used images from protests in France and Italy to frame the scenes as a warning for American voters as November's midterm elections approached. The Guardian reported that Donald Trump sought to capitalize on the unrest in France, telling a crowd in Kansas on Monday that “migrants” and “communists” were responsible and that the scenes were “what the radical ‘Dumocrats’ want to do to America.”
-nut_graf: The report traced a recurring campaign message from Trump's Kansas remarks into conservative media coverage. Across Fox News, Newsmax and OAN, hosts used images from France and Italy to discuss immigration, economic and cultural policy, communism and the prospect of violent protests in the United States, with the coverage appearing aimed at the November midterms.
+lede: On Monday and Tuesday, hosts on Fox News, Newsmax and One America News used
+  images from protests in France and Italy to frame the scenes as a warning for American
+  voters as November's midterm elections approached. The Guardian reported that Donald
+  Trump sought to capitalize on the unrest in France, telling a crowd in Kansas on
+  Monday that “migrants” and “communists” were responsible and that the scenes were
+  “what the radical ‘Dumocrats’ want to do to America.”
+nut_graf: The report traced a recurring campaign message from Trump's Kansas remarks
+  into conservative media coverage. Across Fox News, Newsmax and OAN, hosts used images
+  from France and Italy to discuss immigration, economic and cultural policy, communism
+  and the prospect of violent protests in the United States, with the coverage appearing
+  aimed at the November midterms.
 primary_entities:
 - Donald Trump
 - Fox News
@@ -59,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,104 +172,28 @@ related_stories:
   headline: Macron says some leaders used French unrest for political campaigns
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6995
-- slug: 2026-10-20-meichtry-says-le-pen-is-positioned-to-emerge-stronger-pitching-order
-  headline: Meichtry says Le Pen is positioned to emerge stronger, pitching order
-  publish_date: '2026-10-20'
+  strength: 0.7003
+- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
+  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6374
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
+  strength: 0.6826
+- slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
+  headline: Trump draws generally smaller midterm crowds on a multistate rally week
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6419
-- slug: 2026-10-20-federal-agents-probe-white-powder-envelopes-sent-to-congressional-offices
-  headline: Federal agents probe white-powder envelopes sent to congressional offices
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6295
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6231
-- slug: 2026-09-25-white-house-defends-pro-trump-fox-ad-as-public-service-announcement
-  headline: White House defends pro-Trump Fox ad as public service announcement
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6486
+  strength: 0.6513
 - slug: 2026-09-24-white-house-pays-for-pro-trump-ad-airing-on-fox-news-and-newsmax
   headline: White House pays for pro-Trump ad airing on Fox News and Newsmax
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6512
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6364
-- slug: 2026-09-26-trump-confronts-shrinking-influence-as-courts-gop-push-back
-  headline: Trump confronts shrinking influence as courts, GOP push back
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6286
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-22-wednesday-hearing-set-in-press-lawsuit-as-gop-allies-urge-trump-to-focus-on-vote
-  headline: Wednesday hearing set in press lawsuit as GOP allies urge Trump to focus on voters
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6234
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6283
-- slug: 2026-09-15-texas-republicans-condemn-french-s-post-about-ut-fans
-  headline: Texas Republicans condemn French's post about UT fans
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.622
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6259
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6397
+  strength: 0.6519
 - slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
   headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.6487
-- slug: 2026-06-26-trump-paints-democrats-as-godless-communists-in-midterm-preview
-  headline: Trump paints Democrats as 'godless communists' in midterm preview
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6332
-- slug: 2026-06-27-trump-tests-red-scare-message-ahead-of-midterms-at-religious-conference
-  headline: Trump tests ‘red scare’ message ahead of midterms at religious conference
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6313
-- slug: 2026-04-08-trump-s-iran-war-widens-rift-with-european-far-right-deepening-hungary-strain
-  headline: Trump’s Iran war widens rift with European far right, deepening Hungary strain
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6297
-- slug: 2026-01-17-trump-administration-posts-draw-scrutiny-for-far-right-imagery-amid-immigration-
-  headline: Trump administration posts draw scrutiny for far-right imagery amid immigration sweep
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6368
+  strength: 0.6506
 ---
-
 ## Fox News, Newsmax and OAN frame Europe protests as a warning for US midterms
 
 **Subtype:** fact

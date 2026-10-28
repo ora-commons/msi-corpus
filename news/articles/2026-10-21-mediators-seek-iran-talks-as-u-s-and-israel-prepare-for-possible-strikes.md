@@ -2,8 +2,19 @@
 headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
 secondary_headline: Pakistan’s army chief and Qatari diplomats visit Tehran
 publish_date: '2026-10-21'
-lede: Middle East mediators are trying to revive talks with Iran as the U.S. moves another aircraft carrier toward the region and Israel prepares plans for possible new strikes. Pakistan’s army chief, Asim Munir, and Qatari diplomats traveled to Tehran on Tuesday to break the diplomatic deadlock. Trump said the U.S. will not attack Iran before the Nov. 3 midterm elections, but warned that unless Iran rapidly changes its behavior, the U.S. and Israel “will soon finish the job.”
-nut_graf: The talks are intended to avert another round of attacks while the U.S. maintains an oil-shipment blockade and tighter sanctions and Iran resists U.S. demands. Some mediators said offers could include releasing some Iranian funds frozen overseas with interest in exchange for nuclear concessions, such as returning international inspectors; transferring Iran’s enriched uranium stocks to Russia was a separate idea floated by some mediators. Some mediators said Iranian hard-liners blocked an early opening to inspectors.
+lede: Middle East mediators are trying to revive talks with Iran as the U.S. moves
+  another aircraft carrier toward the region and Israel prepares plans for possible
+  new strikes. Pakistan’s army chief, Asim Munir, and Qatari diplomats traveled to
+  Tehran on Tuesday to break the diplomatic deadlock. Trump said the U.S. will not
+  attack Iran before the Nov. 3 midterm elections, but warned that unless Iran rapidly
+  changes its behavior, the U.S. and Israel “will soon finish the job.”
+nut_graf: The talks are intended to avert another round of attacks while the U.S.
+  maintains an oil-shipment blockade and tighter sanctions and Iran resists U.S. demands.
+  Some mediators said offers could include releasing some Iranian funds frozen overseas
+  with interest in exchange for nuclear concessions, such as returning international
+  inspectors; transferring Iran’s enriched uranium stocks to Russia was a separate
+  idea floated by some mediators. Some mediators said Iranian hard-liners blocked
+  an early opening to inspectors.
 primary_entities:
 - Iran
 - United States
@@ -58,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,108 +168,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
+  headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.773
 - slug: 2026-10-08-trump-says-us-will-not-attack-iran-before-midterm-elections
   headline: Trump says US will not attack Iran before midterm elections
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.781
+  strength: 0.7788
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.8203
+  strength: 0.8195
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.8025
+  strength: 0.8012
 - slug: 2026-10-01-pentagon-sends-third-aircraft-carrier-and-up-to-10-000-troops-to-middle-east
-  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
+  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle
+    East
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7739
+  strength: 0.7737
 - slug: 2026-07-26-u-s-pauses-iran-airstrikes-as-diplomatic-efforts-advance
   headline: U.S. pauses Iran airstrikes as diplomatic efforts advance
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.774
+  strength: 0.7728
 - slug: 2026-07-31-trump-vows-to-hit-iran-very-hard-as-diplomacy-collapses
   headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7645
+  strength: 0.7634
 - slug: 2026-07-20-qatar-proposes-10-day-ceasefire-as-us-iran-strikes-continue
   headline: Qatar proposes 10-day ceasefire as US-Iran strikes continue
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7693
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.81
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7794
-- slug: 2026-06-29-iran-does-not-confirm-it-will-join-us-qatar-talks-after-gulf-strikes
-  headline: Iran does not confirm it will join US-Qatar talks after Gulf strikes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.777
-- slug: 2026-05-26-us-conducts-new-defensive-strikes-on-iran-as-trump-says-deal-near
-  headline: US conducts new defensive strikes on Iran as Trump says deal near
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7752
-- slug: 2026-05-27-us-military-says-it-carried-out-self-defense-strikes-in-iran-amid-talks
-  headline: US military says it carried out 'self-defense' strikes in Iran amid talks
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7709
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7628
-- slug: 2026-05-19-trump-s-pressure-campaign-isn-t-moving-iran-as-talks-stay-stalled
-  headline: Trump’s pressure campaign isn’t moving Iran as talks stay stalled
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7642
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7816
-- slug: 2026-05-10-iran-sends-cease-fire-response-trump-rejects-it-as-totally-unacceptable
-  headline: Iran sends cease-fire response; Trump rejects it as ‘totally unacceptable’
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7649
-- slug: 2026-05-10-trump-rejects-iran-s-response-to-us-proposal-to-end-war-as-drone-attacks-test-ce
-  headline: Trump rejects Iran’s response to US proposal to end war as drone attacks test ceasefire
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7611
-- slug: 2026-04-25-witkoff-and-kushner-head-to-pakistan-for-talks-with-iran-s-foreign-minister
-  headline: Witkoff and Kushner head to Pakistan for talks with Iran’s foreign minister
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7669
-- slug: 2026-02-28-trump-not-happy-with-iran-nuclear-talks-says-negotiators-get-more-time
-  headline: Trump not happy with Iran nuclear talks, says negotiators get more time
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7773
-- slug: 2026-01-29-middle-east-tensions-rise-as-iran-currency-sinks-amid-possible-u-s-strike
-  headline: Middle East tensions rise as Iran currency sinks amid possible U.S. strike
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7765
+  strength: 0.77
 ---
-
 ## Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: NSW legalizes terramation as a third end-of-life option
-secondary_headline: Regulations would control the procedure and limit it to specialised facilities
+secondary_headline: Regulations would control the procedure and limit it to specialised
+  facilities
 publish_date: '2026-10-21'
-lede: The NSW Parliament passed legislation on Wednesday making New South Wales the first Australian jurisdiction to legalize terramation, also known as natural organic reduction, as a third end-of-life option alongside burial and cremation. The private member's bill gives the NSW government 18 months to create regulations that would control the practice and limit it to specialised facilities.
-nut_graf: The legislation creates a third legal option for treating dead bodies alongside burial and cremation. The 18-month regulatory process would control terramation and limit it to specialised facilities; the procedure uses microbes to transform a body into soil in about 30 days.
+lede: The NSW Parliament passed legislation on Wednesday making New South Wales the
+  first Australian jurisdiction to legalize terramation, also known as natural organic
+  reduction, as a third end-of-life option alongside burial and cremation. The private
+  member's bill gives the NSW government 18 months to create regulations that would
+  control the practice and limit it to specialised facilities.
+nut_graf: The legislation creates a third legal option for treating dead bodies alongside
+  burial and cremation. The 18-month regulatory process would control terramation
+  and limit it to specialised facilities; the procedure uses microbes to transform
+  a body into soil in about 30 days.
 primary_entities:
 - NSW Parliament
 - New South Wales
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +150,8 @@ cross_article_links:
   strength: 0.5258
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-15-labor-coalition-block-bills-banning-childbirth-shackling-child-strip-searches
-  headline: Labor, Coalition block bills banning childbirth shackling, child strip-searches
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5285
-- slug: 2026-10-06-nsw-commits-to-urgent-review-of-unmarked-communal-burials
-  headline: NSW commits to urgent review of unmarked communal burials
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5754
-- slug: 2026-10-08-lamarre-condon-defense-argues-body-disposal-reflected-panic-over-unexpected-deat
-  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected deaths
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5329
-- slug: 2026-10-08-texas-executes-howard-first-us-execution-since-pike-s-failed-injection
-  headline: Texas executes Howard, first US execution since Pike's failed injection
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5291
-- slug: 2026-10-07-australian-high-court-rejects-mount-pleasant-coalmine-expansion-appeal
-  headline: Australian high court rejects Mount Pleasant coalmine expansion appeal
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5318
-- slug: 2026-10-07-texas-schedules-first-us-execution-since-tennessee-s-botched-pike-injection
-  headline: Texas schedules first US execution since Tennessee's botched Pike injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5246
-- slug: 2026-09-23-taylor-pledges-to-repeal-australian-climate-energy-policies
-  headline: Taylor pledges to repeal Australian climate, energy policies
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5316
-- slug: 2026-09-11-australian-government-shelves-promised-packaging-laws-citing-cost-of-living
-  headline: Australian government shelves promised packaging laws, citing cost of living
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5368
-- slug: 2026-09-11-uk-mps-reject-assisted-dying-bill-for-england-and-wales
-  headline: UK MPs reject assisted dying bill for England and Wales
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5317
-- slug: 2026-09-04-epa-seeks-fresh-public-comment-on-wetlands-water-rule
-  headline: EPA seeks fresh public comment on wetlands water rule
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5215
-- slug: 2026-07-14-environmental-groups-sue-to-block-trump-s-narrowing-of-esa-harm-definition
-  headline: Environmental groups sue to block Trump's narrowing of ESA 'harm' definition
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5221
-- slug: 2026-05-02-caring-about-your-climate-footprint-doesn-t-end-when-you-die
-  headline: Caring about your climate footprint doesn’t end when you die
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5767
-- slug: 2026-03-26-mexico-euthanasia-debate-grows-as-activist-samara-mart-nez-seeks-decriminalizati
-  headline: Mexico euthanasia debate grows as activist Samara Martínez seeks decriminalization
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.5797
-- slug: 2026-06-11-appeals-court-blocks-alabama-nitrogen-hypoxia-execution-state-may-use-other-meth
-  headline: Appeals court blocks Alabama nitrogen hypoxia execution; state may use other methods
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5406
-- slug: 2026-05-28-michigan-democrats-unveil-death-with-dignity-bills-to-allow-physician-assisted-d
-  headline: Michigan Democrats unveil ‘Death with Dignity’ bills to allow physician-assisted death
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5396
-- slug: 2026-05-29-federal-judge-rules-nitrogen-gas-executions-are-constitutional
-  headline: Federal judge rules nitrogen gas executions are constitutional
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.5331
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5326
-- slug: 2026-03-16-scottish-parliament-rejects-assisted-dying-bill-for-terminally-ill-adults
-  headline: Scottish Parliament rejects assisted dying bill for terminally ill adults
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.5461
-- slug: 2026-04-16-alabama-sets-june-nitrogen-execution-for-jeffery-james-lee
-  headline: Alabama sets June nitrogen execution for Jeffery James Lee
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5361
-- slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump
-  headline: EPA drops health-benefit calculations from air pollution rules under Trump
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.5463
+related_stories: []
 ---
-
 ## NSW legalizes terramation as a third end-of-life option
 
 **Subtype:** fact

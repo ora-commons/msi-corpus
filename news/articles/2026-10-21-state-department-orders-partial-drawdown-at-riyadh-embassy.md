@@ -1,9 +1,17 @@
 ---
 headline: State Department orders partial drawdown at Riyadh embassy
-secondary_headline: Deadly Iran-backed Houthi attacks hit Riyadh airport, Saudi energy and oil infrastructure
+secondary_headline: Deadly Iran-backed Houthi attacks hit Riyadh airport, Saudi energy
+  and oil infrastructure
 publish_date: '2026-10-21'
-lede: The U.S. State Department ordered non-essential personnel and family members to leave its embassy in Riyadh, Saudi Arabia, amid an increased threat from Iranian-supported Houthi rebels in Yemen. State Department spokesman Tommy Pigott announced the "ordered departure" in a Wednesday social media post, while the department warned of possible attacks on Saudi airports and other travel disruptions.
-nut_graf: The order follows an earlier evacuation of some U.S. diplomatic personnel from the region during Iranian attacks on U.S. facilities, including embassies, in response to U.S. strikes on Iran. The Saudi Arabia embassy was among the missions closed during that evacuation.
+lede: The U.S. State Department ordered non-essential personnel and family members
+  to leave its embassy in Riyadh, Saudi Arabia, amid an increased threat from Iranian-supported
+  Houthi rebels in Yemen. State Department spokesman Tommy Pigott announced the "ordered
+  departure" in a Wednesday social media post, while the department warned of possible
+  attacks on Saudi airports and other travel disruptions.
+nut_graf: The order follows an earlier evacuation of some U.S. diplomatic personnel
+  from the region during Iranian attacks on U.S. facilities, including embassies,
+  in response to U.S. strikes on Iran. The Saudi Arabia embassy was among the missions
+  closed during that evacuation.
 primary_entities:
 - U.S. State Department
 - Tommy Pigott
@@ -52,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +159,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-dammam-airport-attack-and-drone-debris-at-saudi-oil-facility-kill-three
+  headline: Dammam airport attack and drone debris at Saudi oil facility kill three
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8296
+- slug: 2026-10-24-state-department-cuts-staff-at-four-embassies-after-iran-threat-memo
+  headline: State Department cuts staff at four embassies after Iran threat memo
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7938
+- slug: 2026-10-22-saudi-authorities-blame-houthi-militants-for-dammam-airport-attack
+  headline: Saudi authorities blame Houthi militants for Dammam airport attack
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7816
+- slug: 2026-10-24-us-intelligence-director-says-iran-increased-efforts-to-target-us-personnel
+  headline: US intelligence director says Iran increased efforts to target US personnel
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7582
+- slug: 2026-10-22-saudi-officials-report-two-deaths-in-dammam-airport-strike
+  headline: Saudi officials report two deaths in Dammam airport strike
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7563
+- slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
+  headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7539
 - slug: 2026-10-19-trump-resists-saudi-crown-prince-s-request-for-houthi-airstrikes
   headline: Trump resists Saudi crown prince's request for Houthi airstrikes
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7009
+  strength: 0.7051
 - slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
   headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7553
-- slug: 2026-10-11-houthis-warn-travelers-airlines-to-avoid-saudi-airports-after-riyadh-attack
-  headline: Houthis warn travelers, airlines to avoid Saudi airports after Riyadh attack
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7454
-- slug: 2026-10-09-houthi-attacks-on-riyadh-airport-kill-three-saudis
-  headline: Houthi attacks on Riyadh airport kill three Saudis
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7445
-- slug: 2026-10-10-houthi-strike-on-riyadh-airport-kills-at-least-12-injures-more-than-300
-  headline: Houthi strike on Riyadh airport kills at least 12, injures more than 300
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7115
-- slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
-  headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7084
-- slug: 2026-10-12-malik-us-held-houthi-meeting-before-refusing-to-extend-saudi-military-aid
-  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military aid'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6885
-- slug: 2026-10-12-projectile-hits-riyadh-airport-terminal-day-after-houthi-attack
-  headline: Projectile hits Riyadh airport terminal day after Houthi attack
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6778
-- slug: 2026-10-05-saudi-yemeni-forces-launch-counteroffensive-to-retake-mokha-from-houthis
-  headline: Saudi, Yemeni forces launch counteroffensive to retake Mokha from Houthis
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6913
-- slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
-  headline: Iran threatens US bases as Trump weighs renewed bombing campaign
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7298
-- slug: 2026-09-21-houthis-push-for-red-sea-heights-as-trump-cancels-yemen-airstrikes
-  headline: Houthis push for Red Sea heights as Trump cancels Yemen airstrikes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7077
-- slug: 2026-09-21-houthis-attack-riyadh-saudi-oil-hub-iran-sets-terms-for-us-talks
-  headline: Houthis attack Riyadh, Saudi oil hub; Iran sets terms for US talks
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.701
-- slug: 2026-09-22-g7-demands-iran-stop-arming-houthis-criticizes-attacks-on-saudi-arabia
-  headline: G7 demands Iran stop arming Houthis, criticizes attacks on Saudi Arabia
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6846
-- slug: 2026-09-21-houthis-seize-yemen-s-red-sea-coast-expand-offensive-into-eastern-oil-provinces
-  headline: Houthis seize Yemen's Red Sea coast, expand offensive into eastern oil provinces
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6886
-- slug: 2026-09-16-houthis-seize-yemen-s-red-sea-coast-displacing-over-100-000
-  headline: Houthis seize Yemen's Red Sea coast, displacing over 100,000
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6884
-- slug: 2026-09-16-us-rebuffs-saudi-request-to-intervene-in-yemen-after-houthi-talks
-  headline: US rebuffs Saudi request to intervene in Yemen after Houthi talks
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6825
-- slug: 2026-08-28-state-department-begins-lifting-some-mideast-embassy-restrictions
-  headline: State Department begins lifting some Mideast embassy restrictions
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7041
-- slug: 2026-07-23-trump-threatens-major-military-punishment-on-iran-after-houthi-attack-on-saudi-t
-  headline: Trump threatens 'major military punishment' on Iran after Houthi attack on Saudi tankers
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.685
-- slug: 2026-03-10-state-department-orders-drawdown-at-more-middle-east-diplomatic-missions
-  headline: State Department orders drawdown at more Middle East diplomatic missions
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7686
-- slug: 2026-02-25-state-department-orders-nonessential-u-s-diplomats-to-leave-lebanon
-  headline: State Department orders nonessential U.S. diplomats to leave Lebanon
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7626
+  strength: 0.7582
 ---
-
 ## State Department orders partial drawdown at Riyadh embassy
 
 **Subtype:** fact

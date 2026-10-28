@@ -1,9 +1,28 @@
 ---
-headline: Korean-born adoptees confront records, abuse allegations and citizenship gaps
+headline: Korean-born adoptees confront records, abuse allegations and citizenship
+  gaps
 secondary_headline: Relaunched commission inherited 2,100 unresolved adoption complaints
 publish_date: '2026-10-22'
-lede: More than 100,000 Korean-born adoptees in the United States are confronting questions about their origins after South Korea acknowledged in March 2025 that government policy had enabled private agencies to “mass export” children for sale abroad since the 1950s, sometimes without birth-family consent. The Guardian reported that those uprooted by the adoption system were grappling with false promises of a better life and documented accounts of racist isolation, mistreatment in U.S. homes and institutions, uncertain identity records and pressure before sterilization. Lauren White-Gydas, 37, of Arlee, Montana, alleges that Hope House founder Donna Velvick-Lowry and a visiting psychiatrist pressured her into sterilization at 18; medical records confirm the surgery. South Korea’s government-convened Truth and Reconciliation Commission relaunched in February with 2,100 unresolved complaints inherited from its previous commission, and the country has said international adoption will end by 2029.
-nut_graf: The commission’s findings do not establish that every adoptee was stolen or that every adoption was abusive. Its evidence documents fraud and identity loss, while personal accounts describe racism, family separation, mistreatment in some homes and institutions, pressure before sterilization and continuing citizenship litigation. Jacquelyn Wells was not a stolen baby, though the experience of adoption affected her, her birth family and her children, another generation removed from Korea.
+lede: More than 100,000 Korean-born adoptees in the United States are confronting
+  questions about their origins after South Korea acknowledged in March 2025 that
+  government policy had enabled private agencies to “mass export” children for sale
+  abroad since the 1950s, sometimes without birth-family consent. The Guardian reported
+  that those uprooted by the adoption system were grappling with false promises of
+  a better life and documented accounts of racist isolation, mistreatment in U.S.
+  homes and institutions, uncertain identity records and pressure before sterilization.
+  Lauren White-Gydas, 37, of Arlee, Montana, alleges that Hope House founder Donna
+  Velvick-Lowry and a visiting psychiatrist pressured her into sterilization at 18;
+  medical records confirm the surgery. South Korea’s government-convened Truth and
+  Reconciliation Commission relaunched in February with 2,100 unresolved complaints
+  inherited from its previous commission, and the country has said international adoption
+  will end by 2029.
+nut_graf: The commission’s findings do not establish that every adoptee was stolen
+  or that every adoption was abusive. Its evidence documents fraud and identity loss,
+  while personal accounts describe racism, family separation, mistreatment in some
+  homes and institutions, pressure before sterilization and continuing citizenship
+  litigation. Jacquelyn Wells was not a stolen baby, though the experience of adoption
+  affected her, her birth family and her children, another generation removed from
+  Korea.
 primary_entities:
 - South Korea
 - Truth and Reconciliation Commission
@@ -50,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +168,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6196
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.605
-- slug: 2026-10-08-south-korea-recalls-ukraine-ambassador-over-north-korean-pow-dispute
-  headline: South Korea recalls Ukraine ambassador over North Korean POW dispute
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6246
-- slug: 2026-10-08-human-rights-watch-us-third-country-deportations-to-africa-are-unlawful
-  headline: 'Human Rights Watch: US third-country deportations to Africa are unlawful'
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6241
-- slug: 2026-10-07-arcadia-judge-orders-couple-to-surrender-all-passports-sets-20m-bail
-  headline: Arcadia judge orders couple to surrender all passports, sets $20M bail
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6014
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.622
-- slug: 2026-09-22-uk-to-examine-domestic-abuse-in-hague-child-abduction-cases
-  headline: UK to examine domestic abuse in Hague child-abduction cases
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6468
-- slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
-  headline: Appeals court rules third-country deportation policy unlawful
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6122
-- slug: 2026-09-15-uscis-rejects-dozens-of-afrikaner-refugee-applications
-  headline: USCIS rejects dozens of Afrikaner refugee applications
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6327
-- slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6049
-- slug: 2026-09-03-lawyers-mobilize-to-free-migrant-children-held-in-us-custody
-  headline: Lawyers mobilize to free migrant children held in US custody
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6117
-- slug: 2026-09-02-gowayed-10-258-us-refugees-in-fiscal-2026-were-white-south-africans
-  headline: 'Gowayed: 10,258 US refugees in fiscal 2026 were white South Africans'
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6104
-- slug: 2026-08-09-south-korea-and-u-s-sign-agreement-on-missing-korean-war-service-members
-  headline: South Korea and U.S. sign agreement on missing Korean War service members
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6207
 - slug: 2026-06-10-u-s-rights-officials-meet-families-of-north-korea-detainees-in-seoul
   headline: U.S. rights officials meet families of North Korea detainees in Seoul
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6851
-- slug: 2026-06-25-wyden-accuses-hhs-of-preparing-to-deport-more-than-500-migrant-children
-  headline: Wyden accuses HHS of preparing to deport more than 500 migrant children
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-15-adoptee-threatened-with-deportation-to-iran-granted-asylum
-  headline: Adoptee threatened with deportation to Iran granted asylum
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6165
+  strength: 0.6865
 - slug: 2026-02-23-woman-adopted-by-u-s-war-veteran-faces-deportation-to-iran
   headline: Woman adopted by U.S. war veteran faces deportation to Iran
   publish_date: '2026-02-23'
   relation: related
-  strength: 0.6538
-- slug: 2026-06-05-lee-calls-korean-war-remains-repatriation-compelling-evidence-of-us-south-korea-
-  headline: Lee calls Korean War remains repatriation 'compelling evidence' of US-South Korea alliance
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6148
-- slug: 2026-04-28-ap-investigation-highlights-adopted-kids-confined-by-private-treatment-firms
-  headline: Adopted kids confined by private treatment firms
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6183
-- slug: 2026-05-02-ap-investigation-finds-adopted-kids-harmed-in-for-profit-residential-programs
-  headline: Adopted kids harmed in for-profit residential programs
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6092
+  strength: 0.6516
 ---
-
 ## Korean-born adoptees confront records, abuse allegations and citizenship gaps
 
 **Subtype:** fact

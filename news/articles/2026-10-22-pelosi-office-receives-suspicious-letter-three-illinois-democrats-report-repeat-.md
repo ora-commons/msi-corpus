@@ -1,9 +1,20 @@
 ---
-headline: Pelosi office receives suspicious letter; three Illinois Democrats report repeat mailings
+headline: Pelosi office receives suspicious letter; three Illinois Democrats report
+  repeat mailings
 secondary_headline: FBI and hazardous materials personnel respond to the Skokie letter
 publish_date: '2026-10-22'
-lede: Former House Speaker Nancy Pelosi's district office received a suspicious letter Wednesday that her spokesperson said was consistent with mailings reported by other congressional offices. The letter was the latest in a wave of suspicious mailings — some containing white powder or unknown substances — that has targeted dozens of lawmakers of both parties since Oct. 13. Three Democratic lawmakers from Illinois said separately Wednesday that they had received a second suspicious mailing within the past week. Reps. Jan Schakowsky, Mike Quigley and Brad Schneider each reported new suspicious envelopes, their offices said.
-nut_graf: The mailings come less than three weeks before the Nov. 3 midterm elections and have prompted a coordinated federal investigation involving the FBI, U.S. Capitol Police, U.S. Postal Inspection Service and the Senate Sergeant at Arms. No arrests have been announced, and the contents of the letters remain under investigation.
+lede: Former House Speaker Nancy Pelosi's district office received a suspicious letter
+  Wednesday that her spokesperson said was consistent with mailings reported by other
+  congressional offices. The letter was the latest in a wave of suspicious mailings
+  — some containing white powder or unknown substances — that has targeted dozens
+  of lawmakers of both parties since Oct. 13. Three Democratic lawmakers from Illinois
+  said separately Wednesday that they had received a second suspicious mailing within
+  the past week. Reps. Jan Schakowsky, Mike Quigley and Brad Schneider each reported
+  new suspicious envelopes, their offices said.
+nut_graf: The mailings come less than three weeks before the Nov. 3 midterm elections
+  and have prompted a coordinated federal investigation involving the FBI, U.S. Capitol
+  Police, U.S. Postal Inspection Service and the Senate Sergeant at Arms. No arrests
+  have been announced, and the contents of the letters remain under investigation.
 primary_entities:
 - Nancy Pelosi
 - Jan Schakowsky
@@ -55,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,7 +171,8 @@ related_stories:
   relation: related
   strength: 0.8558
 - slug: 2026-10-21-at-least-nine-more-lawmakers-report-suspicious-envelopes-sent-to-their-offices
-  headline: At least nine more lawmakers report suspicious envelopes sent to their offices
+  headline: At least nine more lawmakers report suspicious envelopes sent to their
+    offices
   publish_date: '2026-10-21'
   relation: related
   strength: 0.81
@@ -167,94 +180,33 @@ related_stories:
   headline: More than a dozen lawmakers report suspicious envelopes sent to offices
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.797
+  strength: 0.7967
 - slug: 2026-10-18-schiff-says-suspicious-envelope-to-california-office-intercepted
   headline: Schiff says suspicious envelope to California office intercepted
   publish_date: '2026-10-18'
   relation: related
   strength: 0.7789
+- slug: 2026-10-26-federal-complaint-accuses-illinois-man-of-mailing-white-powder-to-congress
+  headline: Federal complaint accuses Illinois man of mailing white powder to Congress
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7403
 - slug: 2026-10-19-powder-envelopes-target-three-dozen-congress-offices
   headline: Powder envelopes target over three dozen Congress offices ahead of midterms
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7491
+  strength: 0.7494
 - slug: 2026-10-19-subramanyam-s-leesburg-office-receives-suspicious-white-powder-in-mail
   headline: Subramanyam's Leesburg office receives suspicious white powder in mail
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7439
+  strength: 0.7433
 - slug: 2026-10-15-fbi-probe-adds-new-york-wyoming-capitols-senator-murphy
   headline: FBI probe adds New York, Wyoming capitols, Senator Murphy
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7605
-- slug: 2026-10-14-fbi-investigates-suspicious-powder-mailed-to-election-officials-in-three-states
-  headline: FBI investigates suspicious powder mailed to election officials in three states
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7538
-- slug: 2026-10-15-senate-sergeant-at-arms-image-shows-dsa-return-address-on-election-mailings
-  headline: Senate Sergeant at Arms image shows 'DSA' return address on election mailings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7442
-- slug: 2026-10-15-more-than-100-powder-letters-were-sent-to-thomas-boebert-in-mid-2023
-  headline: More than 100 powder letters were sent to Thomas, Boebert in mid-2023
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7431
-- slug: 2026-10-15-fbi-probes-suspicious-letters-mailed-to-us-election-offices-before-midterms
-  headline: FBI probes suspicious letters mailed to US election offices before midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7407
-- slug: 2026-10-20-federal-agents-probe-white-powder-envelopes-sent-to-congressional-offices
-  headline: Federal agents probe white-powder envelopes sent to congressional offices
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6758
-- slug: 2026-10-14-federal-agents-seize-omar-s-phone-subpoena-relatives-in-criminal-probe
-  headline: Federal agents seize Omar's phone, subpoena relatives in criminal probe
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6178
-- slug: 2026-10-12-democrats-condemn-federal-search-of-ilhan-omar-s-home
-  headline: Democrats condemn federal search of Ilhan Omar's home
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6166
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6581
-- slug: 2026-09-09-appeals-courts-to-rule-on-trump-usps-mail-ballot-rules-for-midterms
-  headline: Appeals courts to rule on Trump USPS mail ballot rules for midterms
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6098
-- slug: 2026-08-10-omar-demands-answers-after-ice-agent-appeared-outside-her-town-hall
-  headline: Omar demands answers after ICE agent appeared outside her town hall
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6088
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6112
-- slug: 2026-01-13-democrats-say-trump-doj-is-investigating-lawmakers-over-iraq-video
-  headline: Democrats say Trump DOJ is investigating lawmakers over Iraq video
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6332
-- slug: 2026-03-05-illinois-sees-candidate-frenzy-in-democratic-march-congressional-primary
-  headline: Illinois sees candidate frenzy in Democratic March congressional primary
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.612
+  strength: 0.7598
 ---
-
 ## Pelosi office receives suspicious letter; three Illinois Democrats report repeat mailings
 
 **Subtype:** fact

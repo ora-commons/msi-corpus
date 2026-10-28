@@ -1,9 +1,22 @@
 ---
 headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
-secondary_headline: Rogers courts Black and Jewish voters ahead of Obama and Trump visits
+secondary_headline: Rogers courts Black and Jewish voters ahead of Obama and Trump
+  visits
 publish_date: '2026-10-22'
-lede: Abdul El-Sayed and Mike Rogers are entering the final weeks of a highly competitive and costly Michigan U.S. Senate race in which El-Sayed's Muslim faith and Middle East positions have become central campaign issues. The Wall Street Journal reported that Rogers is courting Black and Jewish voters while seeking to show loyalty to President Trump and distance on trade and the Iran war. Former President Barack Obama is scheduled to appear with El-Sayed on Saturday evening, and President Trump is scheduled to visit Michigan on Sunday for Rogers and other Republicans.
-nut_graf: At 41, El-Sayed would become the nation's first Muslim senator if elected. The race, in a state President Trump won by 1.4 percentage points in 2024, pits El-Sayed's progressive platform against Rogers, who is courting Black and Jewish voters, parts of the traditional Democratic base that El-Sayed has struggled to fully win over. The Journal said detractors see him as "an insurgent brand of far-left politics that is outside the mainstream," while supporters view him as "proof that progressive ideals have wider appeal than centrists acknowledge."
+lede: Abdul El-Sayed and Mike Rogers are entering the final weeks of a highly competitive
+  and costly Michigan U.S. Senate race in which El-Sayed's Muslim faith and Middle
+  East positions have become central campaign issues. The Wall Street Journal reported
+  that Rogers is courting Black and Jewish voters while seeking to show loyalty to
+  President Trump and distance on trade and the Iran war. Former President Barack
+  Obama is scheduled to appear with El-Sayed on Saturday evening, and President Trump
+  is scheduled to visit Michigan on Sunday for Rogers and other Republicans.
+nut_graf: At 41, El-Sayed would become the nation's first Muslim senator if elected.
+  The race, in a state President Trump won by 1.4 percentage points in 2024, pits
+  El-Sayed's progressive platform against Rogers, who is courting Black and Jewish
+  voters, parts of the traditional Democratic base that El-Sayed has struggled to
+  fully win over. The Journal said detractors see him as "an insurgent brand of far-left
+  politics that is outside the mainstream," while supporters view him as "proof that
+  progressive ideals have wider appeal than centrists acknowledge."
 primary_entities:
 - Abdul El-Sayed
 - Mike Rogers
@@ -55,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,108 +167,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
+  headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.817
 - slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
   headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8146
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
+  strength: 0.8141
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7534
+  strength: 0.8005
+- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
+  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7903
+- slug: 2026-10-24-barack-obama-to-support-abdul-el-sayed-at-detroit-senate-rally
+  headline: Barack Obama to support Abdul El-Sayed at Detroit Senate rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7644
+- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
+  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7608
 - slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
   headline: El-Sayed's universalist campaign lags among Black voters in Michigan
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7941
+  strength: 0.7955
 - slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
   headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8038
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7927
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.8142
-- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
-  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7855
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7393
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7557
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7829
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7562
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.84
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8151
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.8227
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7628
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.8028
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.8218
-- slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
-  headline: El-Sayed maintains Medicare for All support in Michigan Senate race
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.788
-- slug: 2026-08-01-michigan-senate-primary-tests-democratic-party-s-direction
-  headline: Michigan Senate primary tests Democratic Party's direction
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.78
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7947
+  strength: 0.8035
 ---
-
 ## El-Sayed and Rogers enter final weeks of costly Michigan Senate race
 
 **Subtype:** fact

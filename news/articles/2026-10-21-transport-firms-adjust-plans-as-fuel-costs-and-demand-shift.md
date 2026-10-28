@@ -2,8 +2,15 @@
 headline: Transport firms adjust plans as fuel costs and demand shift
 secondary_headline: Starlink reaches half of United flights amid fuel-cost pressure
 publish_date: '2026-10-21'
-lede: United Airlines is planning around elevated oil costs through 2027 as CEO Scott Kirby expects the airline industry to trim capacity. The airline reported third-quarter traffic up 0.7% despite a 62% increase in fuel expense; an Oct. 21 market roundup also tracked rising oil prices and a potential SpaceX-Tesla merger.
-nut_graf: The roundup shows transport companies responding to energy prices and demand through capacity and pricing at airlines, valuation and rate expectations in shipping, Canadian vehicle sales and battery capacity allocation. It also records a separate corporate step, with board committees formed to discuss a possible SpaceX-Tesla combination.
+lede: United Airlines is planning around elevated oil costs through 2027 as CEO Scott
+  Kirby expects the airline industry to trim capacity. The airline reported third-quarter
+  traffic up 0.7% despite a 62% increase in fuel expense; an Oct. 21 market roundup
+  also tracked rising oil prices and a potential SpaceX-Tesla merger.
+nut_graf: The roundup shows transport companies responding to energy prices and demand
+  through capacity and pricing at airlines, valuation and rate expectations in shipping,
+  Canadian vehicle sales and battery capacity allocation. It also records a separate
+  corporate step, with board committees formed to discuss a possible SpaceX-Tesla
+  combination.
 primary_entities:
 - United Airlines
 - Scott Kirby
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +151,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-20-united-airlines-ceo-scott-kirby-calls-for-national-wealth-and-inheritance-taxes
-  headline: United Airlines CEO Scott Kirby calls for national wealth and inheritance taxes
+  headline: United Airlines CEO Scott Kirby calls for national wealth and inheritance
+    taxes
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7325
+  strength: 0.7334
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7201
+- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
+  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7183
 - slug: 2026-10-20-latin-american-airlines-face-rising-fuel-costs-and-higher-fares
   headline: Latin American airlines face rising fuel costs and higher fares
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7038
+  strength: 0.7035
 - slug: 2026-10-09-united-adds-starlink-mlb-streaming-as-delta-ceo-defends-premium-travel
   headline: United adds Starlink MLB streaming as Delta CEO defends premium travel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7507
-- slug: 2026-10-15-lufthansa-s-1-2-billion-euro-tap-stake-carries-steep-cost-bernstein-says
-  headline: Lufthansa's 1.2 billion euro TAP stake carries steep cost, Bernstein says
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6519
+  strength: 0.7505
 - slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
   headline: Boeing aerospace union months into first full contract talks in 14 years
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.666
+  strength: 0.6662
 - slug: 2026-09-29-alaska-air-adds-premium-cabins-lie-flat-suites-and-new-seattle-lounge
   headline: Alaska Air adds premium cabins, lie-flat suites, and new Seattle lounge
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6719
+  strength: 0.672
 - slug: 2026-09-08-ubs-lifts-brent-forecast-to-95-as-middle-east-supply-risk-persists
   headline: UBS lifts Brent forecast to $95 as Middle East supply risk persists
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6692
-- slug: 2026-07-26-united-approaches-delta-about-merger-talks-stall-people-say
-  headline: United approaches Delta about merger, talks stall, people say
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7618
-- slug: 2026-08-17-analysts-cut-jetblue-raise-maersk-and-hapag-lloyd-as-iran-oil-risk-returns
-  headline: Analysts cut JetBlue, raise Maersk and Hapag-Lloyd as Iran oil risk returns
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.662
-- slug: 2026-04-28-united-ceo-scott-kirby-confirms-he-approached-american-about-merger
-  headline: United CEO Scott Kirby confirms he approached American about merger
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7674
-- slug: 2026-08-05-uber-bookings-and-adjusted-earnings-top-estimates-shares-fall-4
-  headline: Uber bookings and adjusted earnings top estimates; shares fall 4%
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6549
-- slug: 2026-07-15-united-airlines-to-sell-empty-middle-seat-as-shared-table-on-select-flights
-  headline: United Airlines to sell empty middle seat as shared table on select flights
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6728
-- slug: 2026-04-10-travelers-face-higher-costs-as-jet-fuel-volatility-squeezes-airlines
-  headline: Travelers face higher costs as jet fuel volatility squeezes airlines
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7387
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6527
-- slug: 2026-07-19-boeing-ceo-says-company-must-shore-up-finances-before-launching-new-plane
-  headline: Boeing CEO says company must shore up finances before launching new plane
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6518
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7268
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6833
-- slug: 2026-04-04-united-raises-bag-fees-and-rolls-out-tiered-premium-fares
-  headline: United raises bag fees and rolls out tiered premium fares
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7205
-- slug: 2026-05-14-united-flight-attendants-ratify-contract-with-31-pay-hike-boarding-pay
-  headline: United flight attendants ratify contract with 31% pay hike, boarding pay
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.704
-- slug: 2026-05-14-united-flight-attendants-ratify-5-year-contract-with-boarding-pay-retro-pay
-  headline: United flight attendants ratify 5-year contract with boarding pay, retro pay
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6951
+  strength: 0.669
 ---
-
 ## Transport firms adjust plans as fuel costs and demand shift
 
 **Subtype:** fact

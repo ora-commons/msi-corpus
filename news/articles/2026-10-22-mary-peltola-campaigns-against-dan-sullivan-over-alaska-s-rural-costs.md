@@ -2,8 +2,17 @@
 headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
 secondary_headline: Ranked-choice voting could prolong Alaska’s ballot count
 publish_date: '2026-10-22'
-lede: Mary Peltola is campaigning across Alaska for the US Senate seat held by two-term Republican Dan Sullivan, focusing on high costs for food, power and fuel in remote communities. With voting scheduled for 3 November, Alaska Democrats see the contest as a top prize, while Peltola and Sullivan are competing over energy policy, jobs and Alaska’s representation in the US Capitol.
-nut_graf: The race places Democrat Mary Peltola, who supports oil and gas and gun rights, against Republican incumbent Dan Sullivan, who points to oil developments, military installations and infrastructure. Peltola opposes Trump’s tariffs and the conflict with Iran, while Sullivan backs expanded drilling. Alaska’s ranked-choice voting system and historically slow ballot count could leave the result unresolved for days.
+lede: Mary Peltola is campaigning across Alaska for the US Senate seat held by two-term
+  Republican Dan Sullivan, focusing on high costs for food, power and fuel in remote
+  communities. With voting scheduled for 3 November, Alaska Democrats see the contest
+  as a top prize, while Peltola and Sullivan are competing over energy policy, jobs
+  and Alaska’s representation in the US Capitol.
+nut_graf: The race places Democrat Mary Peltola, who supports oil and gas and gun
+  rights, against Republican incumbent Dan Sullivan, who points to oil developments,
+  military installations and infrastructure. Peltola opposes Trump’s tariffs and the
+  conflict with Iran, while Sullivan backs expanded drilling. Alaska’s ranked-choice
+  voting system and historically slow ballot count could leave the result unresolved
+  for days.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,117 +150,63 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
+  headline: Sullivan and Peltola court Alaska Native voters before midterms
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7805
+- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
+  headline: Peltola reschedules Alaska Senate campaign events on medical advice
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7559
 - slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
   headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7905
+  strength: 0.7908
+- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
+  headline: Justice Department files pre-election challenge to Alaska Senate certification
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7182
+- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7181
+- slug: 2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo
+  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday
+    and Monday events
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7145
+- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7108
 - slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
   headline: Trump to rally in Arizona and Montana after Alaska stop
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7469
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6737
-- slug: 2026-10-04-energy-costs-squeeze-voters-before-midterms
-  headline: Energy costs squeeze voters across gas, diesel, and electricity before midterms
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6851
-- slug: 2026-10-07-paxton-tells-donors-iran-war-and-fuel-prices-are-republicans-biggest-problem
-  headline: Paxton tells donors Iran war and fuel prices are Republicans' biggest problem
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6682
-- slug: 2026-09-24-peltola-s-campaign-calls-nyt-report-on-her-staff-conduct-exaggerated
-  headline: Peltola's campaign calls NYT report on her staff conduct exaggerated
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7293
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6696
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.8338
-- slug: 2026-09-26-maine-loggers-and-fishers-absorb-rising-costs-from-trump-canada-trade-war
-  headline: Maine loggers and fishers absorb rising costs from Trump-Canada trade war
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6749
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6674
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6959
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7419
-- slug: 2026-08-15-sullivan-campaign-links-peltola-to-harris-after-fundraising-email-rejection
-  headline: Sullivan campaign links Peltola to Harris after fundraising-email rejection
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7298
-- slug: 2026-01-12-peltola-enters-alaska-senate-race-challenging-gop-incumbent-sullivan
-  headline: Peltola enters Alaska Senate race, challenging GOP incumbent Sullivan
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.8382
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.675
-- slug: 2026-07-07-alaska-remote-towns-pay-9-gas-after-iran-war-locks-in-barge-prices
-  headline: Alaska remote towns pay $9 gas after Iran war locks in barge prices
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.739
-- slug: 2026-06-09-challenger-dan-sullivan-says-alaska-senate-run-is-his-choice-not-a-democratic-sc
-  headline: Challenger Dan Sullivan says Alaska Senate run is his choice, not a Democratic scheme
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7492
-- slug: 2026-06-03-two-dan-sullivans-appear-on-alaska-senate-primary-ballot
-  headline: Two Dan Sullivans appear on Alaska Senate primary ballot
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7329
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7103
-- slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
-  headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6754
+  strength: 0.7464
 image:
   url: /articles/2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs.png
-  alt: "Illustration accompanying article: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs"
+  alt: 'Illustration accompanying article: Mary Peltola campaigns against Dan Sullivan
+    over Alaska’s rural costs'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
 
 **Subtype:** fact

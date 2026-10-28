@@ -1,9 +1,20 @@
 ---
 headline: Saudi authorities blame Houthi militants for Dammam airport attack
-secondary_headline: U.S. orders nonemergency government employees and family members to leave Saudi Arabia
+secondary_headline: U.S. orders nonemergency government employees and family members
+  to leave Saudi Arabia
 publish_date: '2026-10-22'
-lede: Saudi Arabia's General Authority of Civil Aviation said an attack on Wednesday hit the international airport in Dammam, killing one person and injuring eight. Saudi authorities blamed Iran-backed Houthi militants, although the Houthis did not appear to have immediately claimed responsibility. The U.S. State Department ordered nonemergency government employees and their family members to leave Saudi Arabia because of increased Houthi hostilities.
-nut_graf: The Dammam strike came after Houthi missile attacks on Riyadh's international airport earlier in October and Houthi attacks on Saudi oil pipelines. Also on Wednesday, the State Department said it ordered the departure of nonemergency U.S. government employees and their family members because of increased Houthi hostilities, citing attacks on civilian airports and other critical infrastructure that have resulted in civilian casualties and severe travel disruptions.
+lede: Saudi Arabia's General Authority of Civil Aviation said an attack on Wednesday
+  hit the international airport in Dammam, killing one person and injuring eight.
+  Saudi authorities blamed Iran-backed Houthi militants, although the Houthis did
+  not appear to have immediately claimed responsibility. The U.S. State Department
+  ordered nonemergency government employees and their family members to leave Saudi
+  Arabia because of increased Houthi hostilities.
+nut_graf: The Dammam strike came after Houthi missile attacks on Riyadh's international
+  airport earlier in October and Houthi attacks on Saudi oil pipelines. Also on Wednesday,
+  the State Department said it ordered the departure of nonemergency U.S. government
+  employees and their family members because of increased Houthi hostilities, citing
+  attacks on civilian airports and other critical infrastructure that have resulted
+  in civilian casualties and severe travel disruptions.
 primary_entities:
 - Saudi Arabia
 - Dammam
@@ -57,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,108 +167,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-saudi-officials-report-two-deaths-in-dammam-airport-strike
+  headline: Saudi officials report two deaths in Dammam airport strike
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.9057
 - slug: 2026-10-22-dammam-airport-attack-and-drone-debris-at-saudi-oil-facility-kill-three
   headline: Dammam airport attack and drone debris at Saudi oil facility kill three
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8975
+  strength: 0.897
 - slug: 2026-10-21-state-department-orders-partial-drawdown-at-riyadh-embassy
   headline: State Department orders partial drawdown at Riyadh embassy
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7826
+  strength: 0.7816
 - slug: 2026-10-09-houthi-attacks-on-riyadh-airport-kill-three-saudis
   headline: Houthi attacks on Riyadh airport kill three Saudis
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8331
+  strength: 0.8329
 - slug: 2026-10-10-houthi-strike-on-riyadh-airport-kills-at-least-12-injures-more-than-300
   headline: Houthi strike on Riyadh airport kills at least 12, injures more than 300
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8238
+  strength: 0.8241
+- slug: 2026-10-24-us-intelligence-director-says-iran-increased-efforts-to-target-us-personnel
+  headline: US intelligence director says Iran increased efforts to target US personnel
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7241
 - slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
   headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7988
+  strength: 0.7984
 - slug: 2026-10-11-houthis-warn-travelers-airlines-to-avoid-saudi-airports-after-riyadh-attack
-  headline: Houthis warn travelers, airlines to avoid Saudi airports after Riyadh attack
+  headline: Houthis warn travelers, airlines to avoid Saudi airports after Riyadh
+    attack
   publish_date: '2026-10-11'
   relation: related
   strength: 0.7852
-- slug: 2026-10-19-trump-resists-saudi-crown-prince-s-request-for-houthi-airstrikes
-  headline: Trump resists Saudi crown prince's request for Houthi airstrikes
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.721
-- slug: 2026-10-12-malik-us-held-houthi-meeting-before-refusing-to-extend-saudi-military-aid
-  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military aid'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7517
-- slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
-  headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7568
-- slug: 2026-10-11-trump-announces-ukraine-russia-energy-ceasefire-as-houthis-strike-saudi-airport
-  headline: Trump announces Ukraine-Russia energy ceasefire as Houthis strike Saudi airport
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7445
-- slug: 2026-10-11-houthi-attack-on-riyadh-airport-forces-trump-to-rethink-midterm-strategy
-  headline: Houthi attack on Riyadh airport forces Trump to rethink midterm strategy
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7291
-- slug: 2026-10-12-projectile-hits-riyadh-airport-terminal-day-after-houthi-attack
-  headline: Projectile hits Riyadh airport terminal day after Houthi attack
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7175
-- slug: 2026-10-05-saudi-yemeni-forces-launch-counteroffensive-to-retake-mokha-from-houthis
-  headline: Saudi, Yemeni forces launch counteroffensive to retake Mokha from Houthis
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7333
-- slug: 2026-09-21-houthis-seize-yemen-s-red-sea-coast-expand-offensive-into-eastern-oil-provinces
-  headline: Houthis seize Yemen's Red Sea coast, expand offensive into eastern oil provinces
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7596
-- slug: 2026-09-22-houthis-push-for-red-sea-heights-as-yemen-clashes-kill-hundreds
-  headline: Houthis push for Red Sea heights as Yemen clashes kill hundreds
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.743
-- slug: 2026-09-11-saudi-arabia-shuts-east-west-pipeline-after-strikes-from-iraq
-  headline: Saudi Arabia shuts East-West pipeline after strikes from Iraq
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7682
-- slug: 2026-09-21-houthis-push-for-red-sea-heights-as-trump-cancels-yemen-airstrikes
-  headline: Houthis push for Red Sea heights as Trump cancels Yemen airstrikes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7278
-- slug: 2026-09-21-houthis-attack-riyadh-saudi-oil-hub-iran-sets-terms-for-us-talks
-  headline: Houthis attack Riyadh, Saudi oil hub; Iran sets terms for US talks
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7258
-- slug: 2026-09-16-houthis-seize-yemen-s-red-sea-coast-displacing-over-100-000
-  headline: Houthis seize Yemen's Red Sea coast, displacing over 100,000
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7414
-- slug: 2026-09-22-g7-demands-iran-stop-arming-houthis-criticizes-attacks-on-saudi-arabia
-  headline: G7 demands Iran stop arming Houthis, criticizes attacks on Saudi Arabia
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7115
 ---
-
 ## Saudi authorities blame Houthi militants for Dammam airport attack
 
 **Subtype:** fact

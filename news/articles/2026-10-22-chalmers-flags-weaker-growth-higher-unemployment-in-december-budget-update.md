@@ -2,8 +2,15 @@
 headline: Chalmers flags weaker growth, higher unemployment in December budget update
 secondary_headline: Markets put Melbourne Cup day rate-hike odds at nearly 60%
 publish_date: '2026-10-22'
-lede: Australian Treasurer Jim Chalmers will say in a speech Friday that the country's December mid-year budget update will project weaker growth and slightly higher unemployment, as economists warn of a difficult six months ahead. The warning comes two days after a senior Reserve Bank official signaled the potential for another interest rate hike in under two weeks' time, with financial markets pricing the probability at nearly 60%.
-nut_graf: Chalmers faces a constrained policy environment where additional cost-of-living relief would risk worsening inflation while spending restraint would invite blame for rising unemployment, Challenger chief economist Jonathan Kearns said.
+lede: Australian Treasurer Jim Chalmers will say in a speech Friday that the country's
+  December mid-year budget update will project weaker growth and slightly higher unemployment,
+  as economists warn of a difficult six months ahead. The warning comes two days after
+  a senior Reserve Bank official signaled the potential for another interest rate
+  hike in under two weeks' time, with financial markets pricing the probability at
+  nearly 60%.
+nut_graf: Chalmers faces a constrained policy environment where additional cost-of-living
+  relief would risk worsening inflation while spending restraint would invite blame
+  for rising unemployment, Challenger chief economist Jonathan Kearns said.
 primary_entities:
 - Jim Chalmers
 - Reserve Bank of Australia
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,117 +147,61 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-chalmers-downgrades-forecasts-for-slower-growth-and-higher-unemployment
+  headline: Chalmers downgrades forecasts for slower growth and higher unemployment
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7942
 - slug: 2026-10-04-chalmers-warns-of-intensifying-budget-pressure-insists-he-is-not-planning-for-re
-  headline: Chalmers warns of intensifying budget pressure, insists he is not planning for recession
+  headline: Chalmers warns of intensifying budget pressure, insists he is not planning
+    for recession
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7812
+  strength: 0.7816
 - slug: 2026-09-30-australian-inflation-rises-to-4-in-august-abs-says
   headline: Australian inflation rises to 4% in August, ABS says
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7515
-- slug: 2026-10-13-imf-scenario-could-push-australian-petrol-up-30-cents-a-litre
-  headline: IMF scenario could push Australian petrol up 30 cents a litre
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6455
+  strength: 0.7522
 - slug: 2026-09-27-gallagher-chalmers-to-present-final-budget-outcome-showing-6bn-improvement
   headline: Gallagher, Chalmers to present final budget outcome showing $6bn improvement
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7304
+  strength: 0.7301
 - slug: 2026-09-28-rba-widely-expected-to-raise-cash-rate-to-4-6-on-tuesday
   headline: RBA widely expected to raise cash rate to 4.6% on Tuesday
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7191
-- slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
-  headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6287
+  strength: 0.72
 - slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
   headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7409
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6472
+  strength: 0.7405
 - slug: 2026-09-20-australian-life-expectancy-forecast-to-reach-89-for-women-by-2066
   headline: Australian life expectancy forecast to reach 89 for women by 2066
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6858
+  strength: 0.686
 - slug: 2026-09-21-chalmers-pledges-domestic-violence-response-after-deadly-nsw-weekend
   headline: Chalmers pledges domestic violence response after deadly NSW weekend
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6782
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6286
-- slug: 2026-09-23-e61-53-of-australian-property-investors-would-pay-more-under-labor-reforms
-  headline: 'e61: 53% of Australian property investors would pay more under Labor reforms'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6291
-- slug: 2026-09-09-rba-s-three-2026-hikes-have-not-returned-inflation-to-2-5-target-deputy-governor
-  headline: RBA's three 2026 hikes have not returned inflation to 2.5% target, deputy governor says
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6789
-- slug: 2026-09-17-corporate-treasurers-push-banks-for-higher-deposit-rates-after-fed-hike
-  headline: Corporate treasurers push banks for higher deposit rates after Fed hike
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6405
-- slug: 2026-09-11-brent-crude-tops-108-as-australian-bond-yields-hit-15-year-high
-  headline: Brent crude tops $108 as Australian bond yields hit 15-year high
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6465
-- slug: 2026-09-16-burke-to-outline-labor-migration-plan-restricting-student-family-visas
-  headline: Burke to outline Labor migration plan restricting student family visas
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6265
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.643
-- slug: 2026-08-11-analysts-assess-banks-trading-platforms-and-wealth-managers
-  headline: Analysts assess banks, trading platforms and wealth managers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6543
-- slug: 2026-07-21-markets-assign-nearly-30-chance-of-rba-rate-hike-in-august-anz-says
-  headline: Markets assign nearly 30% chance of RBA rate hike in August, ANZ says
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6904
-- slug: 2026-06-03-australian-dollar-at-risk-of-fall-on-first-quarter-gdp-cba-says
-  headline: Australian dollar at risk of fall on first-quarter GDP, CBA says
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6786
+  strength: 0.6791
 image:
   url: /articles/2026-10-22-chalmers-flags-weaker-growth-higher-unemployment-in-december-budget-update.png
-  alt: "Illustration accompanying article: Chalmers flags weaker growth, higher unemployment in December budget update"
+  alt: 'Illustration accompanying article: Chalmers flags weaker growth, higher unemployment
+    in December budget update'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Chalmers flags weaker growth, higher unemployment in December budget update
 
 **Subtype:** fact

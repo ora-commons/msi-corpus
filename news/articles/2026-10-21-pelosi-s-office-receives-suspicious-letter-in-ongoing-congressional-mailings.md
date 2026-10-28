@@ -1,9 +1,17 @@
 ---
 headline: Pelosi's office receives suspicious letter in ongoing congressional mailings
-secondary_headline: FBI, US Capitol Police and US Postal Inspection Service investigate the mailings
+secondary_headline: FBI, US Capitol Police and US Postal Inspection Service investigate
+  the mailings
 publish_date: '2026-10-21'
-lede: The office of California representative and former speaker Nancy Pelosi received a "suspicious letter" on Wednesday, The Guardian reported. The Guardian said the incident "appears to be the latest incident of ill-intentioned mailings targeted at US Congress members before the midterm elections." Spokesperson Nicholas Martin said the letter was "consistent with mailings reported by other congressional offices" and that everyone in the office was safe.
-nut_graf: The letter was "consistent with mailings reported by other congressional offices," spokesperson Nicholas Martin said, and everyone in the office was safe. Election offices across the US have also reported receiving suspicious mail.
+lede: The office of California representative and former speaker Nancy Pelosi received
+  a "suspicious letter" on Wednesday, The Guardian reported. The Guardian said the
+  incident "appears to be the latest incident of ill-intentioned mailings targeted
+  at US Congress members before the midterm elections." Spokesperson Nicholas Martin
+  said the letter was "consistent with mailings reported by other congressional offices"
+  and that everyone in the office was safe.
+nut_graf: The letter was "consistent with mailings reported by other congressional
+  offices," spokesperson Nicholas Martin said, and everyone in the office was safe.
+  Election offices across the US have also reported receiving suspicious mail.
 primary_entities:
 - Nancy Pelosi
 - Nicholas Martin
@@ -50,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +157,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-pelosi-office-receives-suspicious-letter-three-illinois-democrats-report-repeat-
+  headline: Pelosi office receives suspicious letter; three Illinois Democrats report
+    repeat mailings
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8766
 - slug: 2026-10-21-at-least-nine-more-lawmakers-report-suspicious-envelopes-sent-to-their-offices
-  headline: At least nine more lawmakers report suspicious envelopes sent to their offices
+  headline: At least nine more lawmakers report suspicious envelopes sent to their
+    offices
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7993
+  strength: 0.7992
 - slug: 2026-10-19-powder-envelopes-target-three-dozen-congress-offices
   headline: Powder envelopes target over three dozen Congress offices ahead of midterms
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8028
+  strength: 0.8023
 - slug: 2026-10-20-more-than-a-dozen-lawmakers-report-suspicious-envelopes-sent-to-offices
   headline: More than a dozen lawmakers report suspicious envelopes sent to offices
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7878
+  strength: 0.7875
 - slug: 2026-10-18-schiff-says-suspicious-envelope-to-california-office-intercepted
   headline: Schiff says suspicious envelope to California office intercepted
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7884
+  strength: 0.7889
 - slug: 2026-10-19-subramanyam-s-leesburg-office-receives-suspicious-white-powder-in-mail
   headline: Subramanyam's Leesburg office receives suspicious white powder in mail
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.749
+  strength: 0.7492
 - slug: 2026-10-15-more-than-100-powder-letters-were-sent-to-thomas-boebert-in-mid-2023
   headline: More than 100 powder letters were sent to Thomas, Boebert in mid-2023
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7702
-- slug: 2026-10-14-fbi-investigates-suspicious-powder-mailed-to-election-officials-in-three-states
-  headline: FBI investigates suspicious powder mailed to election officials in three states
-  publish_date: '2026-10-14'
+  strength: 0.7693
+- slug: 2026-10-26-federal-complaint-accuses-illinois-man-of-mailing-white-powder-to-congress
+  headline: Federal complaint accuses Illinois man of mailing white powder to Congress
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7677
-- slug: 2026-10-15-fbi-probe-adds-new-york-wyoming-capitols-senator-murphy
-  headline: FBI probe adds New York, Wyoming capitols, Senator Murphy
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7599
-- slug: 2026-10-15-fbi-probes-suspicious-letters-mailed-to-us-election-offices-before-midterms
-  headline: FBI probes suspicious letters mailed to US election offices before midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.756
-- slug: 2026-10-15-senate-sergeant-at-arms-image-shows-dsa-return-address-on-election-mailings
-  headline: Senate Sergeant at Arms image shows 'DSA' return address on election mailings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7437
-- slug: 2026-10-20-federal-agents-probe-white-powder-envelopes-sent-to-congressional-offices
-  headline: Federal agents probe white-powder envelopes sent to congressional offices
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.709
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6173
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6214
-- slug: 2026-10-14-federal-agents-seize-omar-s-phone-subpoena-relatives-in-criminal-probe
-  headline: Federal agents seize Omar's phone, subpoena relatives in criminal probe
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6192
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6773
-- slug: 2026-09-09-appeals-courts-to-rule-on-trump-usps-mail-ballot-rules-for-midterms
-  headline: Appeals courts to rule on Trump USPS mail ballot rules for midterms
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6321
-- slug: 2026-09-10-usps-audit-finds-ballot-handling-failures-at-multiple-primary-facilities
-  headline: USPS audit finds ballot-handling failures at multiple primary facilities
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6138
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6337
-- slug: 2026-06-05-federal-prosecutor-opens-election-fraud-investigations-in-california
-  headline: Federal prosecutor opens election fraud investigations in California
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6375
-- slug: 2026-04-08-california-election-watchdog-to-investigate-santa-clara-county-measure-a-mailers
-  headline: California election watchdog to investigate Santa Clara County Measure A mailers
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6416
+  strength: 0.7233
 ---
-
 ## Pelosi's office receives suspicious letter in ongoing congressional mailings
 
 **Subtype:** fact

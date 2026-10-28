@@ -2,8 +2,18 @@
 headline: Justice Department alleges OSU Med admissions favored Black, Hispanic applicants
 secondary_headline: Four admissions mechanisms are at issue in the federal findings
 publish_date: '2026-10-21'
-lede: The Justice Department alleges that four elements of Ohio State University’s College of Medicine’s admissions process favored Black and Hispanic applicants and discriminated against White and Asian applicants in the 2023, 2024 and 2025 incoming classes. Ohio State disputes the findings, says the medical school does not consider race, ethnicity or any other protected class during admissions, and says it will contest the department’s findings. The Civil Rights Division announced the findings Wednesday as part of a broader review of federally funded universities.
-nut_graf: The findings concern OSU Med’s compliance with Title VI of the Civil Rights Act of 1964 and the Supreme Court’s 2023 ruling restricting race-conscious admissions practices. The Civil Rights Division has launched more than 100 investigations, and the Trump administration has announced similar findings involving at least seven other medical schools and at least three law schools.
+lede: The Justice Department alleges that four elements of Ohio State University’s
+  College of Medicine’s admissions process favored Black and Hispanic applicants and
+  discriminated against White and Asian applicants in the 2023, 2024 and 2025 incoming
+  classes. Ohio State disputes the findings, says the medical school does not consider
+  race, ethnicity or any other protected class during admissions, and says it will
+  contest the department’s findings. The Civil Rights Division announced the findings
+  Wednesday as part of a broader review of federally funded universities.
+nut_graf: The findings concern OSU Med’s compliance with Title VI of the Civil Rights
+  Act of 1964 and the Supreme Court’s 2023 ruling restricting race-conscious admissions
+  practices. The Civil Rights Division has launched more than 100 investigations,
+  and the Trump administration has announced similar findings involving at least seven
+  other medical schools and at least three law schools.
 primary_entities:
 - Ohio State University College of Medicine
 - Justice Department
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,106 +154,48 @@ related_stories:
   headline: DOJ says UCLA Law School illegally considered race in admissions
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7947
+  strength: 0.7946
 - slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
   headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.8333
+  strength: 0.8334
+- slug: 2026-10-22-education-civil-rights-investigations-decline-to-roughly-one-third-of-2024-pace
+  headline: Education civil rights investigations decline to roughly one-third of
+    2024 pace
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6615
 - slug: 2026-09-10-doj-says-berkeley-law-violated-civil-rights-law-in-2024-25-admissions
   headline: DOJ says Berkeley Law violated civil-rights law in 2024-25 admissions
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.768
+  strength: 0.7677
 - slug: 2026-10-02-doj-sues-university-of-delaware-over-in-state-tuition-for-undocumented-students
-  headline: DOJ sues University of Delaware over in-state tuition for undocumented students
+  headline: DOJ sues University of Delaware over in-state tuition for undocumented
+    students
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6617
+  strength: 0.6612
 - slug: 2026-07-21-doj-says-uc-san-diego-medical-school-illegally-used-race-in-admissions
   headline: DOJ says UC San Diego medical school illegally used race in admissions
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.8273
+  strength: 0.8274
 - slug: 2026-09-11-doj-files-four-new-suits-over-in-state-tuition-for-noncitizens
   headline: DOJ files four new suits over in-state tuition for noncitizens
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6566
+  strength: 0.656
 - slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
+  headline: Justice Department investigates 15 medical schools over alleged race discrimination
+    in admissions
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.8075
-- slug: 2026-05-15-justice-department-alleges-yale-medical-school-illegally-factored-race-into-admi
-  headline: Justice Department alleges Yale medical school illegally factored race into admissions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.8159
-- slug: 2026-08-06-doj-accuses-duke-law-of-unlawfully-considering-race-in-admissions
-  headline: DOJ accuses Duke Law of unlawfully considering race in admissions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7158
-- slug: 2026-05-15-justice-department-alleges-yale-illegally-considered-race-in-medical-admissions
-  headline: Justice Department alleges Yale illegally considered race in medical admissions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7959
-- slug: 2026-03-27-trump-administration-investigates-race-in-admissions-at-3-medical-schools
-  headline: Trump administration investigates race in admissions at 3 medical schools
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.8124
-- slug: 2026-08-28-justice-department-files-dream-act-tuition-lawsuits-against-four-states
-  headline: Justice Department files Dream Act tuition lawsuits against four states
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6498
-- slug: 2026-08-25-education-department-probes-two-districts-over-race-in-discipline
-  headline: Education Department probes two districts over race in discipline
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6553
-- slug: 2026-05-06-justice-department-finds-ucla-med-school-illegally-considered-race-in-admissions
-  headline: Justice Department finds UCLA med school illegally considered race in admissions
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7588
-- slug: 2026-05-07-ucla-medical-school-used-race-in-admissions-justice-dept-finds
-  headline: UCLA medical school used race in admissions, Justice Dept. finds
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7409
-- slug: 2026-07-20-justice-department-investigates-harvard-s-china-based-financial-aid-programs
-  headline: Justice Department investigates Harvard's China-based financial aid programs
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6616
-- slug: 2026-02-14-justice-department-sues-harvard-for-admissions-data-access-over-race
-  headline: Justice Department sues Harvard for admissions data access over race
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.7076
-- slug: 2026-03-13-17-state-attorneys-general-sue-trump-administration-over-race-data-rule
-  headline: 17 state attorneys general sue Trump administration over race data rule
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6921
-- slug: 2026-05-21-massachusetts-lawsuit-alleges-state-schools-segregate-black-and-latino-students
-  headline: Massachusetts lawsuit alleges state schools segregate Black and Latino students
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6656
-- slug: 2026-02-19-colleges-cut-ties-with-phd-project-after-trump-administration-pressure
-  headline: Colleges cut ties with PhD Project after Trump administration pressure
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.674
+  strength: 0.8068
 analyses:
-- '2026-10-21-justice-department-challenges-four-disputed-osu-med-admissions-mechanisms'
+- 2026-10-21-justice-department-challenges-four-disputed-osu-med-admissions-mechanisms
 ---
-
 ## Justice Department alleges OSU Med admissions favored Black, Hispanic applicants
 
 **Subtype:** fact

@@ -2,8 +2,22 @@
 headline: Trump's August beef import order rattles cattle producers ahead of the midterms
 secondary_headline: David Oman says beef import policy could decide either Iowa race
 publish_date: '2026-10-22'
-lede: The Trump administration's August order suspending tariffs on up to 300,000 metric tons of imported beef has drawn opposition in farm country with the 2026 midterm elections weeks away, and Scott Birker told NPR the policy hurt his operation. Secretary of Agriculture Brooke Rollins has defended the order as a bold attempt to bring down ground beef prices, while Iowa Republican Senate candidate Ashley Hinson has publicly broken with the administration. NPR separately reported limited relief for consumers, with the average ground beef price per pound in September only about 13 cents lower than in August.
-nut_graf: Zach Raff, an incoming livestock economist at Iowa State University, said the U.S. beef herd is at a 75-year low and that, combined with strong demand, it explains the prices consumers see at the store. He also said the import order helped push U.S. cattle prices lower even as the uncertainty it introduced posed the bigger problem for producers. Raff said the beef imports could discourage producers from keeping breeding stock that might expand the herd and, over time, lower prices. The 300,000 metric tons that could be exempt from tariffs represent around 2% of total U.S. beef consumption.
+lede: The Trump administration's August order suspending tariffs on up to 300,000
+  metric tons of imported beef has drawn opposition in farm country with the 2026
+  midterm elections weeks away, and Scott Birker told NPR the policy hurt his operation.
+  Secretary of Agriculture Brooke Rollins has defended the order as a bold attempt
+  to bring down ground beef prices, while Iowa Republican Senate candidate Ashley
+  Hinson has publicly broken with the administration. NPR separately reported limited
+  relief for consumers, with the average ground beef price per pound in September
+  only about 13 cents lower than in August.
+nut_graf: Zach Raff, an incoming livestock economist at Iowa State University, said
+  the U.S. beef herd is at a 75-year low and that, combined with strong demand, it
+  explains the prices consumers see at the store. He also said the import order helped
+  push U.S. cattle prices lower even as the uncertainty it introduced posed the bigger
+  problem for producers. Raff said the beef imports could discourage producers from
+  keeping breeding stock that might expand the herd and, over time, lower prices.
+  The 300,000 metric tons that could be exempt from tariffs represent around 2% of
+  total U.S. beef consumption.
 primary_entities:
 - Scott Birker
 - Ashley Hinson
@@ -49,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +162,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
+  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7075
+- slug: 2026-10-23-u-s-importers-not-foreign-countries-pay-trump-s-canada-tariffs
+  headline: U.S. importers, not foreign countries, pay Trump's Canada tariffs
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6741
 - slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
   headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7583
+  strength: 0.7585
+- slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
+  headline: Immigration enforcement reshapes midterm races as voter disapproval grows
+  publish_date: '2026-10-12'
+  relation: related
+  strength: 0.6609
 - slug: 2026-10-01-egg-prices-drop-more-than-half-under-trump-experts-credit-avian-flu-recovery
   headline: Egg prices drop more than half under Trump; experts credit avian flu recovery
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6897
+  strength: 0.6899
 - slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
   headline: Trump announces 90-day tariff cut on imported ground beef
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.792
+  strength: 0.7933
 - slug: 2026-09-21-grassley-urges-trump-to-embargo-diesel-exports-as-farm-costs-climb
   headline: Grassley urges Trump to embargo diesel exports as farm costs climb
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6994
+  strength: 0.6992
 - slug: 2026-08-25-republican-lawmakers-publicly-oppose-trump-s-beef-import-plan
   headline: Republican lawmakers publicly oppose Trump's beef import plan
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7883
-- slug: 2026-09-17-china-accelerates-u-s-soybean-purchases-ahead-of-trump-xi-meeting
-  headline: China accelerates U.S. soybean purchases ahead of Trump-Xi meeting
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6649
-- slug: 2026-08-21-trump-authorizes-300-000-tons-of-beef-imports-to-ease-prices
-  headline: Trump authorizes 300,000 tons of beef imports to ease prices
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.75
-- slug: 2026-09-17-republicans-break-publicly-with-trump-on-immigration-iran-ahead-of-midterms
-  headline: Republicans break publicly with Trump on immigration, Iran ahead of midterms
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.655
-- slug: 2026-09-01-jbs-shareholder-meets-trump-one-day-before-beef-import-plan
-  headline: JBS shareholder meets Trump one day before beef import plan
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6708
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6653
-- slug: 2026-08-13-tyson-foods-to-shutter-illinois-beef-plant-amid-cattle-shortage
-  headline: Tyson Foods to shutter Illinois beef plant amid cattle shortage
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.66
-- slug: 2026-08-05-record-us-beef-prices-fail-to-lift-profits-for-ranchers-and-meatpackers
-  headline: Record US beef prices fail to lift profits for ranchers and meatpackers
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6587
-- slug: 2026-07-23-trump-singles-out-canada-s-dairy-system-as-tariff-justification
-  headline: Trump singles out Canada's dairy system as tariff justification
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6609
-- slug: 2026-07-11-usda-funding-cuts-hit-iowa-small-farmers-growers-say
-  headline: USDA funding cuts hit Iowa small farmers, growers say
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6639
-- slug: 2026-06-28-trump-seeks-11-billion-in-new-farm-aid-as-government-payments-hit-record
-  headline: Trump seeks $11 billion in new farm aid as government payments hit record
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6713
-- slug: 2026-06-30-usda-plans-500-million-in-payments-to-smaller-meatpackers
-  headline: USDA plans $500 million in payments to smaller meatpackers
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6658
-- slug: 2026-06-30-argentine-beef-shipments-to-us-more-than-quadruple-in-may-after-quota-expansion
-  headline: Argentine beef shipments to US more than quadruple in May after quota expansion
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6624
-- slug: 2026-05-09-trump-administration-settles-meatpacking-antitrust-case-to-lower-grocery-prices
-  headline: Trump administration settles meatpacking antitrust case to lower grocery prices
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6987
-- slug: 2026-04-16-smallest-us-cattle-herd-in-75-years-keeps-beef-prices-near-record
-  headline: Smallest US cattle herd in 75 years keeps beef prices near record
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7013
-- slug: 2026-05-09-trump-administration-settles-meatpacking-antitrust-case
-  headline: Trump administration settles meatpacking antitrust case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6803
+  strength: 0.7886
 ---
-
 ## Trump's August beef import order rattles cattle producers ahead of the midterms
 
 **Subtype:** fact

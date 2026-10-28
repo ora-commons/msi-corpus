@@ -1,9 +1,19 @@
 ---
-headline: Education civil rights investigations decline to roughly one-third of 2024 pace
-secondary_headline: Sexual violence complaints draw 29 investigations and one finding of fault
+headline: Education civil rights investigations decline to roughly one-third of 2024
+  pace
+secondary_headline: Sexual violence complaints draw 29 investigations and one finding
+  of fault
 publish_date: '2026-10-22'
-lede: The Education Department's Office for Civil Rights opened roughly one-third as many school and college investigations per month under the second Trump administration as it did in 2024, according to internal data obtained by ProPublica through litigation. The records show steep declines in sexual violence and racial discrimination cases despite a continuing high volume of complaints.
-nut_graf: The internal records obtained after ProPublica sued the Education Department show OCR opened about 100 investigations per month, roughly one-third of its 2024 pace, while dismissals increased. The disclosure comes as the administration moves to shut down the Education Department and move OCR to the Department of Justice, and the data exclude internally initiated cases after April 9.
+lede: The Education Department's Office for Civil Rights opened roughly one-third
+  as many school and college investigations per month under the second Trump administration
+  as it did in 2024, according to internal data obtained by ProPublica through litigation.
+  The records show steep declines in sexual violence and racial discrimination cases
+  despite a continuing high volume of complaints.
+nut_graf: The internal records obtained after ProPublica sued the Education Department
+  show OCR opened about 100 investigations per month, roughly one-third of its 2024
+  pace, while dismissals increased. The disclosure comes as the administration moves
+  to shut down the Education Department and move OCR to the Department of Justice,
+  and the data exclude internally initiated cases after April 9.
 primary_entities:
 - U.S. Department of Education
 - Office for Civil Rights
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,107 +162,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-07-federal-data-show-black-students-lose-over-four-times-as-many-school-days-to-sus
-  headline: Federal data show Black students lose over four times as many school days to suspension
+  headline: Federal data show Black students lose over four times as many school days
+    to suspension
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.732
-- slug: 2026-10-13-justice-department-threatens-antitrust-probe-of-american-bar-association
-  headline: Justice Department threatens antitrust probe of American Bar Association
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6275
+  strength: 0.7313
 - slug: 2026-09-04-education-department-releases-student-civil-rights-data-six-months-late
   headline: Education Department releases student civil rights data six months late
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.7793
+  strength: 0.7785
 - slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
   headline: Trump administration reverts Title IX rules to 2020 framework
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6639
-- slug: 2026-10-02-doj-says-ucla-law-school-illegally-considered-race-in-admissions
-  headline: DOJ says UCLA Law School illegally considered race in admissions
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6293
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6359
-- slug: 2026-09-25-nces-staffing-cut-to-12-as-us-reading-and-math-scores-hit-25-year-low
-  headline: NCES staffing cut to 12 as US reading and math scores hit 25-year low
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6309
-- slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
-  headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6362
-- slug: 2026-09-24-education-department-dismantling-has-potentially-increased-inefficiency-staff-te
-  headline: Education Department dismantling has potentially increased inefficiency, staff tell NPR
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6276
+  strength: 0.6622
 - slug: 2026-09-10-doj-says-berkeley-law-violated-civil-rights-law-in-2024-25-admissions
   headline: DOJ says Berkeley Law violated civil-rights law in 2024-25 admissions
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6597
+  strength: 0.6596
 - slug: 2026-08-25-education-department-probes-two-districts-over-race-in-discipline
   headline: Education Department probes two districts over race in discipline
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6864
-- slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
-  headline: US domestic violence killings rise while overall homicides fall
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6311
+  strength: 0.6842
 - slug: 2026-01-17-education-department-opens-fewer-sexual-violence-investigations
   headline: Education Department opens fewer sexual violence investigations
   publish_date: '2026-01-17'
   relation: related
-  strength: 0.8068
-- slug: 2026-08-21-education-department-opens-process-to-revoke-aba-law-school-accreditation
-  headline: Education Department opens process to revoke ABA law school accreditation
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6407
+  strength: 0.8062
 - slug: 2026-07-02-federal-civil-rights-data-for-schools-6-months-overdue
   headline: Federal civil rights data for schools 6 months overdue
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7179
+  strength: 0.7161
 - slug: 2026-06-16-trump-administration-shifts-special-education-civil-rights-offices-to-other-agen
-  headline: Trump administration shifts special education, civil rights offices to other agencies
+  headline: Trump administration shifts special education, civil rights offices to
+    other agencies
   publish_date: '2026-06-16'
   relation: related
   strength: 0.695
-- slug: 2026-07-23-justice-department-to-seek-fewer-records-and-set-five-week-timeline-for-merger-r
-  headline: Justice Department to seek fewer records and set five-week timeline for merger reviews
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6329
-- slug: 2026-06-29-education-department-shifts-programs-to-other-agencies-via-interagency-agreement
-  headline: Education Department shifts programs to other agencies via interagency agreements
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6541
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6702
-- slug: 2026-07-01-cap-analysis-nlrb-dismissal-rates-for-unions-workers-rise-under-trump
-  headline: 'CAP analysis: NLRB dismissal rates for unions, workers rise under Trump'
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6433
 ---
-
 ## Education civil rights investigations decline to roughly one-third of 2024 pace
 
 **Subtype:** fact

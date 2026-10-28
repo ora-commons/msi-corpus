@@ -1,9 +1,19 @@
 ---
 headline: Justice Department charges Virginia senator L. Louise Lucas with racketeering
-secondary_headline: Prosecutors allege Lucas used legislative influence to protect business interests
+secondary_headline: Prosecutors allege Lucas used legislative influence to protect
+  business interests
 publish_date: '2026-10-22'
-lede: The Justice Department charged Democratic Virginia state Sen. L. Louise Lucas on Thursday with racketeering and other offenses over an alleged criminal enterprise involving a marijuana dispensary. An indictment unsealed Thursday describes Lucas as the alleged ringleader of a group that includes her two daughters and grandson. A Justice Department spokeswoman said Lucas, 82, surrendered to authorities Thursday morning.
-nut_graf: The allegations focus on whether Lucas used her legislative position to protect a marijuana business from scrutiny and promote laws that would benefit it. The charges follow a long-running investigation into possible bribery and corruption tied to the businesses, which came into public view when federal agents searched her political office and a cannabis shop in May.
+lede: The Justice Department charged Democratic Virginia state Sen. L. Louise Lucas
+  on Thursday with racketeering and other offenses over an alleged criminal enterprise
+  involving a marijuana dispensary. An indictment unsealed Thursday describes Lucas
+  as the alleged ringleader of a group that includes her two daughters and grandson.
+  A Justice Department spokeswoman said Lucas, 82, surrendered to authorities Thursday
+  morning.
+nut_graf: The allegations focus on whether Lucas used her legislative position to
+  protect a marijuana business from scrutiny and promote laws that would benefit it.
+  The charges follow a long-running investigation into possible bribery and corruption
+  tied to the businesses, which came into public view when federal agents searched
+  her political office and a cannabis shop in May.
 primary_entities:
 - L. Louise Lucas
 - Justice Department
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +145,53 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-09-second-cornell-defendant-seeks-james-s-removal-as-special-prosecutor
-  headline: Second Cornell defendant seeks James's removal as special prosecutor
-  publish_date: '2026-10-09'
+- slug: 2026-10-22-virginia-senator-lucas-faces-five-counts-attorney-says-she-will-plead-not-guilty
+  headline: Virginia senator Lucas faces five counts; attorney says she will plead
+    not guilty
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.5673
-- slug: 2026-09-23-fbi-moved-to-investigate-collins-for-bribery-before-trump-derailed-inquiry
-  headline: FBI moved to investigate Collins for bribery before Trump derailed inquiry
-  publish_date: '2026-09-23'
+  strength: 0.8576
+- slug: 2026-10-22-federal-indictment-alleges-lucas-led-a-marijuana-and-money-laundering-scheme
+  headline: Federal indictment alleges Lucas led a marijuana and money-laundering
+    scheme
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.5665
+  strength: 0.8523
+- slug: 2026-10-22-indictment-alleges-lucas-used-political-position-for-codefendant-s-marijuana-lic
+  headline: Indictment alleges Lucas used political position for codefendant's marijuana
+    license
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8321
+- slug: 2026-10-22-prosecutors-allege-louise-lucas-paid-750-000-for-marijuana-license-shell-company
+  headline: Prosecutors allege Louise Lucas paid $750,000 for marijuana-license shell
+    company
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8046
 - slug: 2026-05-07-fbi-raids-virginia-sen-l-louise-lucas-office-and-cannabis-business
   headline: FBI raids Virginia Sen. L. Louise Lucas’ office and cannabis business
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7762
+  strength: 0.7761
 - slug: 2026-05-07-fbi-searches-virginia-senate-leader-l-louise-lucas-office-in-corruption-probe
-  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption probe
+  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption
+    probe
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7626
+  strength: 0.7631
 - slug: 2026-05-06-fbi-raids-virginia-sen-l-louise-lucas-s-office-and-cannabis-shop
   headline: FBI raids Virginia Sen. L. Louise Lucas’s office and cannabis shop
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7584
+  strength: 0.7581
 - slug: 2026-05-06-fbi-searches-virginia-senate-leader-l-louise-lucas-office-in-corruption-probe
-  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption probe
+  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption
+    probe
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7506
-- slug: 2026-09-03-missouri-house-candidate-thomas-ross-faces-drug-conspiracy-charge
-  headline: Missouri House candidate Thomas Ross faces drug conspiracy charge
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5713
-- slug: 2026-07-23-blake-miguez-hopes-to-again-earn-trump-endorsement-after-redistricting
-  headline: Blake Miguez hopes to again earn Trump endorsement after redistricting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5766
-- slug: 2026-07-09-platner-suspends-maine-senate-campaign-after-assault-allegation
-  headline: Platner suspends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5664
-- slug: 2026-04-22-democrats-win-virginia-map-vote-but-redistricting-fights-move-to-courts
-  headline: Democrats win Virginia map vote, but redistricting fights move to courts
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5881
-- slug: 2026-05-15-us-grand-jury-expands-charges-against-jalisco-cartel-second-in-command
-  headline: US grand jury expands charges against Jalisco cartel second-in-command
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5674
-- slug: 2026-05-10-virginia-democrats-ask-supreme-court-to-halt-redistricting-ruling
-  headline: Virginia Democrats ask Supreme Court to halt redistricting ruling
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5657
-- slug: 2026-01-09-ramaswamy-says-he-was-alarmed-after-bodyguard-faces-federal-drug-charges
-  headline: Ramaswamy says he was alarmed after bodyguard faces federal drug charges
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.5887
-- slug: 2026-01-10-ramaswamy-says-alarmed-after-federal-drug-charges-against-family-bodyguard
-  headline: Ramaswamy says alarmed after federal drug charges against family bodyguard
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.5884
-- slug: 2026-04-22-virginia-voters-approve-mid-decade-redistricting-plan-with-legal-fight-ahead
-  headline: Virginia voters approve mid-decade redistricting plan with legal fight ahead
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5706
-- slug: 2026-04-16-ex-nba-player-damon-jones-set-to-plead-guilty-in-basketball-gambling-sweep
-  headline: Ex-NBA player Damon Jones set to plead guilty in basketball gambling sweep
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5716
-- slug: 2026-04-23-democrats-celebrate-virginia-redistricting-win-but-more-legal-battles-loom
-  headline: Democrats celebrate Virginia redistricting win, but more legal battles loom
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5648
-- slug: 2026-04-16-virginia-ex-lieutenant-governor-fairfax-dead-in-apparent-murder-suicide
-  headline: Virginia ex-lieutenant governor Fairfax dead in apparent murder-suicide
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5645
-- slug: 2026-03-10-virginia-senators-vote-to-end-1-6b-annual-tax-break-for-data-centers
-  headline: Virginia senators vote to end $1.6B annual tax break for data centers
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5706
-- slug: 2026-04-06-rural-virginia-voters-weigh-democrats-redistricting-referendum-and-its-consequen
-  headline: Rural Virginia voters weigh Democrats’ redistricting referendum and its consequences
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.5643
+  strength: 0.7508
 ---
-
 ## Justice Department charges Virginia senator L. Louise Lucas with racketeering
 
 **Subtype:** fact

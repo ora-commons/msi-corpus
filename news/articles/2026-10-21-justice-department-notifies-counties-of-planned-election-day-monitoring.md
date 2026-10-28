@@ -2,8 +2,17 @@
 headline: Justice Department notifies counties of planned Election Day monitoring
 secondary_headline: States learned of monitor sites after counties, officials say
 publish_date: '2026-10-21'
-lede: The Justice Department began notifying counties this week that it wants to monitor elections on Election Day, with initial notices reaching Colorado, Florida, Minnesota, Texas and Washington. The department has not released the full list of jurisdictions or said how many places it plans to monitor, and spokesperson Kiersten Pels said those details would come “closer to the election.”
-nut_graf: 'The notification process advances the department''s previously announced nationwide monitoring effort from a broad target to specific county-level outreach, but key deployment questions remain open: which jurisdictions will be covered, how many locations will be monitored and whether local officials will grant access. The rollout also comes amid disputes over federal authority, state voting rules and monitors'' conduct during primary elections.'
+lede: The Justice Department began notifying counties this week that it wants to monitor
+  elections on Election Day, with initial notices reaching Colorado, Florida, Minnesota,
+  Texas and Washington. The department has not released the full list of jurisdictions
+  or said how many places it plans to monitor, and spokesperson Kiersten Pels said
+  those details would come “closer to the election.”
+nut_graf: 'The notification process advances the department''s previously announced
+  nationwide monitoring effort from a broad target to specific county-level outreach,
+  but key deployment questions remain open: which jurisdictions will be covered, how
+  many locations will be monitored and whether local officials will grant access.
+  The rollout also comes amid disputes over federal authority, state voting rules
+  and monitors'' conduct during primary elections.'
 primary_entities:
 - Justice Department
 - Civil Rights Division
@@ -58,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,110 +166,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-election-day-brings-federal-partisan-and-nonprofit-election-monitors
+  headline: Election Day brings federal, partisan and nonprofit election monitors
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8155
 - slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
   headline: Democratic attorneys general expand midterm election security planning
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7244
+  strength: 0.723
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6966
+- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
+  headline: California election officials question DOJ voter list, keep counting
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6934
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6852
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6842
+  strength: 0.6839
 - slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
   headline: DOJ sues California seeking to block counting of alleged noncitizen votes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6913
+  strength: 0.6906
 - slug: 2026-10-14-civil-rights-groups-train-thousands-of-poll-observers-for-midterms
   headline: Civil rights groups train thousands of poll observers for midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6943
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.681
-- slug: 2026-10-07-naacp-sues-trump-doj-over-election-monitor-plans
-  headline: NAACP sues Trump DOJ over election monitor plans
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7222
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6798
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6882
-- slug: 2026-08-21-justice-department-targets-1-000-poll-monitors-for-november-midterms
-  headline: Justice Department targets 1,000 poll monitors for November midterms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.8044
-- slug: 2026-08-18-justice-department-plans-about-1-000-poll-monitors-for-fall-elections
-  headline: Justice Department plans about 1,000 poll monitors for fall elections
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.8064
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6972
-- slug: 2026-09-18-civil-rights-groups-and-unions-sue-to-block-federal-agents-from-polling-places
-  headline: Civil rights groups and unions sue to block federal agents from polling places
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.695
-- slug: 2026-09-14-democrats-launch-nationwide-poll-monitoring-effort-for-november-midterms
-  headline: Democrats launch nationwide poll-monitoring effort for November midterms
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.704
-- slug: 2026-08-28-wyoming-attorney-general-investigates-doj-poll-monitors-flagged-as-aggressive
-  headline: Wyoming attorney general investigates DOJ poll monitors flagged as 'aggressive'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.711
-- slug: 2026-09-03-trump-administration-misses-citizenship-list-deadline-as-epic-files-motion
-  headline: Trump administration misses citizenship list deadline as EPIC files motion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6778
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6857
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7087
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.708
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6724
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7126
+  strength: 0.6936
 analyses:
-- '2026-10-21-justice-department-planning-raises-access-and-authority-questions-before-electio'
+- 2026-10-21-justice-department-planning-raises-access-and-authority-questions-before-electio
 ---
-
 ## Justice Department notifies counties of planned Election Day monitoring
 
 **Subtype:** fact

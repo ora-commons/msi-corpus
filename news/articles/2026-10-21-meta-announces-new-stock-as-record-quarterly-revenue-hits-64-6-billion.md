@@ -1,9 +1,21 @@
 ---
 headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
-secondary_headline: January 2027 effective date leaves Zuckerberg's voting control unchanged
+secondary_headline: January 2027 effective date leaves Zuckerberg's voting control
+  unchanged
 publish_date: '2026-10-21'
-lede: Meta announced a new stock with a January 2027 effective date that will not affect CEO Mark Zuckerberg's voting control, according to The Wall Street Journal's What's News newsletter. The company reported record third-quarter revenue of $64.6 billion, a 26% increase from a year earlier. The results came hours after a New Mexico judge ordered Meta to pay the state $25 billion for misleading users about its data-privacy practices; the state called the verdict one of the largest in U.S. history.
-nut_graf: The new stock is intended to help fund Meta's AI investments without affecting Zuckerberg's voting control. The quarterly results came hours after a $25 billion order for misleading users about data-privacy practices. The same newsletter reported Tesla's lower-than-expected capital spending, Starshield disruption in Ukraine, Witkoff's Russia mission, an election video, AI-assisted cybersecurity and a Rio Grande water crisis.
+lede: Meta announced a new stock with a January 2027 effective date that will not
+  affect CEO Mark Zuckerberg's voting control, according to The Wall Street Journal's
+  What's News newsletter. The company reported record third-quarter revenue of $64.6
+  billion, a 26% increase from a year earlier. The results came hours after a New
+  Mexico judge ordered Meta to pay the state $25 billion for misleading users about
+  its data-privacy practices; the state called the verdict one of the largest in U.S.
+  history.
+nut_graf: The new stock is intended to help fund Meta's AI investments without affecting
+  Zuckerberg's voting control. The quarterly results came hours after a $25 billion
+  order for misleading users about data-privacy practices. The same newsletter reported
+  Tesla's lower-than-expected capital spending, Starshield disruption in Ukraine,
+  Witkoff's Russia mission, an election video, AI-assisted cybersecurity and a Rio
+  Grande water crisis.
 primary_entities:
 - Meta
 - Mark Zuckerberg
@@ -54,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,108 +165,53 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
+  headline: Meta reports 37% profit drop and 15% headcount cut
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.802
+- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.768
 - slug: 2026-10-21-meta-challenges-new-mexico-s-proposed-privacy-penalty-on-constitutional-grounds
-  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
+  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional
+    grounds
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7669
+  strength: 0.7654
+- slug: 2026-10-22-meta-plans-ai-capital-raise-as-future-spending-commitments-rise-to-roughly-825-b
+  headline: Meta plans AI capital raise as future spending commitments rise to roughly
+    $825 billion
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7532
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7415
 - slug: 2026-10-21-judge-francis-mathew-orders-meta-to-pay-new-mexico-25bn
   headline: Judge Francis Mathew orders Meta to pay New Mexico $25bn
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7372
+  strength: 0.7354
 - slug: 2026-10-21-new-mexico-s-meta-case-targeted-statements-that-facebook-data-was-never-shared
-  headline: New Mexico's Meta case targeted statements that Facebook data was never shared
+  headline: New Mexico's Meta case targeted statements that Facebook data was never
+    shared
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7355
-- slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
-  headline: SpaceX reports 161% revenue growth driven by Starlink and AI
+  strength: 0.7342
+- slug: 2026-10-21-judge-finds-communications-among-meta-s-senior-executives-designed-to-mislead-pu
+  headline: Judge finds communications among Meta's senior executives designed to
+    mislead public
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6902
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7164
-- slug: 2026-09-22-meta-surges-on-ai-agent-app-financial-sector-drops-2-on-ai-fears
-  headline: Meta surges on AI agent app; financial sector drops 2% on AI fears
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6943
-- slug: 2026-09-27-meta-expands-muse-agent-access-as-amazon-blocks-purchases
-  headline: Meta expands Muse agent access as Amazon blocks purchases
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6697
-- slug: 2026-09-21-meta-surges-12-as-muse-hits-no-1-on-app-store-truist-sees-28-5b-by-2030
-  headline: Meta surges 12% as Muse hits No. 1 on App Store; Truist sees $28.5B by 2030
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6924
-- slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6909
-- slug: 2026-08-07-new-mexico-judge-orders-meta-to-pay-942-million-over-harms-to-kids
-  headline: New Mexico judge orders Meta to pay $942 million over harms to kids
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7123
-- slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
-  headline: Meta faces lawsuits over teen safety as it pushes into AI
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7105
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7206
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7566
-- slug: 2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show
-  headline: Meta plans AI-powered prediction market app, internal documents show
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7037
-- slug: 2026-06-30-zuckerberg-meets-with-kalshi-ceo-about-acquisition-sources-say
-  headline: Zuckerberg meets with Kalshi CEO about acquisition, sources say
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.697
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6723
-- slug: 2026-01-29-meta-posts-stronger-than-expected-q4-results-though-costs-continue-to-soar
-  headline: Meta posts stronger-than-expected Q4 results though costs continue to soar
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7087
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6941
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6898
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6895
+  strength: 0.7112
 ---
-
 ## Meta announces new stock as record quarterly revenue hits $64.6 billion
 
 **Subtype:** fact

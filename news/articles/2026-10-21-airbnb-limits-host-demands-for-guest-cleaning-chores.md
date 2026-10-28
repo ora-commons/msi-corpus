@@ -2,8 +2,15 @@
 headline: Airbnb limits host demands for guest cleaning chores
 secondary_headline: New rules cover bookings from November 20 and restrict host contracts
 publish_date: '2026-10-21'
-lede: Airbnb has changed its rules to limit what property hosts may ask guests to do, including cleaning tasks such as washing dishes and stripping beds. The company says hosts generally may not ask guests, who are required to pay cleaning fees, to complete tasks normally done by a cleaner, and the policy applies to all reservations booked on or after November 20.
-nut_graf: The change gives guests who are required to pay cleaning fees clearer limits on host requests while leaving hosts able to set property rules. Airbnb said noncompliant requests will be flagged and property owners may appeal; hosts will not be able to impose fines.
+lede: Airbnb has changed its rules to limit what property hosts may ask guests to
+  do, including cleaning tasks such as washing dishes and stripping beds. The company
+  says hosts generally may not ask guests, who are required to pay cleaning fees,
+  to complete tasks normally done by a cleaner, and the policy applies to all reservations
+  booked on or after November 20.
+nut_graf: The change gives guests who are required to pay cleaning fees clearer limits
+  on host requests while leaving hosts able to set property rules. Airbnb said noncompliant
+  requests will be flagged and property owners may appeal; hosts will not be able
+  to impose fines.
 primary_entities:
 - Airbnb
 - TikTok
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +147,8 @@ cross_article_links:
   strength: 0.5394
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-01-dc-law-bars-landlords-from-restricting-tenants-dogs-by-breed-size
-  headline: DC law bars landlords from restricting tenants' dogs by breed, size
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5584
-- slug: 2026-09-14-airbnb-commits-250-million-to-affordable-housing-through-new-accelerator
-  headline: Airbnb commits $250 million to affordable housing through new accelerator
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6039
-- slug: 2026-09-23-u-s-embassy-asks-australia-to-clarify-social-media-law-definitions
-  headline: U.S. embassy asks Australia to clarify social media law definitions
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5524
-- slug: 2026-09-24-judge-orders-mamdani-administration-to-turn-over-rent-freeze-communications
-  headline: Judge orders Mamdani administration to turn over rent freeze communications
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5466
-- slug: 2026-08-26-pennsylvania-creates-database-to-track-expiring-affordable-housing-units
-  headline: Pennsylvania creates database to track expiring affordable housing units
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5593
-- slug: 2026-07-03-swimply-and-rivals-turn-backyard-pools-into-on-demand-rentals
-  headline: Swimply and rivals turn backyard pools into on-demand rentals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6157
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5957
-- slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
-  headline: Five landlords challenge NYC rent freeze in state court
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5433
-- slug: 2026-04-28-uber-expands-to-hotel-bookings-via-expedia-adds-uber-one-discounts
-  headline: Uber expands to hotel bookings via Expedia, adds Uber One discounts
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6109
-- slug: 2026-07-10-new-york-city-bans-deceptive-subscription-traps-under-click-to-cancel-rule
-  headline: New York City bans deceptive subscription traps under click-to-cancel rule
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5562
-- slug: 2026-05-14-us-hotel-bookings-for-world-cup-fall-short-of-expectations-survey-finds
-  headline: US hotel bookings for World Cup fall short of expectations, survey finds
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5839
-- slug: 2026-07-01-california-requires-two-food-date-labels-ends-sell-by
-  headline: California requires two food date labels, ends "sell by"
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5442
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5589
-- slug: 2026-05-14-hotel-bookings-lag-in-u-s-world-cup-host-cities-as-tournament-nears
-  headline: Hotel bookings lag in U.S. World Cup host cities as tournament nears
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5702
-- slug: 2026-04-08-arizona-lawmakers-consider-bills-to-curb-mobile-home-utility-markups
-  headline: Arizona lawmakers consider bills to curb mobile-home utility markups
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5828
-- slug: 2026-05-21-trump-relaxes-refrigerant-rule-in-bid-to-address-grocery-costs
-  headline: Trump relaxes refrigerant rule in bid to address grocery costs
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5545
-- slug: 2026-06-01-uk-government-proposes-national-airline-blacklist-for-abusive-passengers
-  headline: UK government proposes national airline blacklist for abusive passengers
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.543
-- slug: 2026-05-08-renter-friendly-air-conditioning-battery-program-could-cut-energy-bills
-  headline: Renter-friendly air-conditioning battery program could cut energy bills
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5562
-- slug: 2026-02-11-what-to-look-for-when-choosing-nursing-home-or-assisted-living-care
-  headline: What to look for when choosing nursing home or assisted living care
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5686
-- slug: 2026-05-08-guide-to-digital-spring-cleaning-secure-devices-accounts-and-passwords
-  headline: 'Guide to digital spring cleaning: secure devices, accounts, and passwords'
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5448
+related_stories: []
 ---
-
 ## Airbnb limits host demands for guest cleaning chores
 
 **Subtype:** fact

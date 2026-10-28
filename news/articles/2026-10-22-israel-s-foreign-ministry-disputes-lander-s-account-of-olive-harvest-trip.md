@@ -1,9 +1,22 @@
 ---
 headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
-secondary_headline: Ministry says Lander entered restricted area without required coordination
+secondary_headline: Ministry says Lander entered restricted area without required
+  coordination
 publish_date: '2026-10-22'
-lede: Israel's Foreign Ministry disputed Brad Lander's account of a West Bank olive-harvest trip, saying the New York congressional candidate deliberately entered a restricted security area and took part in an unauthorized activity without the required coordination. The ministry said on Wednesday that Lander's volunteer work was more about creating headlines than harvesting olives, calling it a 'stunt' that was 'nothing more than a calculated political provocation.' Lander said the Israeli military detained him for about three hours and then released him, and said he and the other volunteers did not enter a restricted area, pass checkpoints or were told coordination was necessary to harvest olives.
-nut_graf: The exchange places an Israeli government account of a New York congressional candidate's olive-harvest trip directly against his own, and it comes as violence against Palestinians during the West Bank harvest has surged and Israeli settlement activity has increased. Lander said he was released after about three hours, but said the rabbis and other volunteers remained in detention and could face deportation.
+lede: Israel's Foreign Ministry disputed Brad Lander's account of a West Bank olive-harvest
+  trip, saying the New York congressional candidate deliberately entered a restricted
+  security area and took part in an unauthorized activity without the required coordination.
+  The ministry said on Wednesday that Lander's volunteer work was more about creating
+  headlines than harvesting olives, calling it a 'stunt' that was 'nothing more than
+  a calculated political provocation.' Lander said the Israeli military detained him
+  for about three hours and then released him, and said he and the other volunteers
+  did not enter a restricted area, pass checkpoints or were told coordination was
+  necessary to harvest olives.
+nut_graf: The exchange places an Israeli government account of a New York congressional
+  candidate's olive-harvest trip directly against his own, and it comes as violence
+  against Palestinians during the West Bank harvest has surged and Israeli settlement
+  activity has increased. Lander said he was released after about three hours, but
+  said the rabbis and other volunteers remained in detention and could face deportation.
 primary_entities:
 - Brad Lander
 - Israel's Foreign Ministry
@@ -13,7 +26,8 @@ primary_entities:
 - Rabbis for Human Rights
 - West Bank
 primary_themes:
-- Foreign Ministry dispute over entry into a restricted security area and required coordination
+- Foreign Ministry dispute over entry into a restricted security area and required
+  coordination
 - Lander's detention and release after about three hours
 - Continued detention of other volunteers and the possibility of deportation
 - Surge in violence against Palestinians during the olive harvest
@@ -49,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,115 +166,59 @@ related_stories:
   headline: Lander says Israeli military released him after brief West Bank detention
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.864
+  strength: 0.8658
 - slug: 2026-10-21-protect-the-harvest-steering-committee-reports-two-detention-sites
   headline: Protect the Harvest steering committee reports two detention sites
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8401
+  strength: 0.8411
 - slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
-  headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+  headline: Israeli security forces detain Brad Lander and about 80 activists in West
+    Bank
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8263
+  strength: 0.8271
 - slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
   headline: Joshua Schoffman says volunteers complied with order without friction
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8054
+  strength: 0.8053
+- slug: 2026-10-26-israeli-forces-detain-23-member-delegation-seeking-entry-to-west-bank
+  headline: Israeli forces detain 23-member delegation seeking entry to West Bank
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.758
 - slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
   headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7334
+  strength: 0.7349
+- slug: 2026-10-22-report-links-axon-taser-devices-to-alleged-detainee-abuse-in-israeli-custody
+  headline: Report links Axon Taser devices to alleged detainee abuse in Israeli custody
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6887
 - slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
   headline: Israeli court extends detention of 6 men over attacks on foreigners
   publish_date: '2026-10-19'
   relation: related
   strength: 0.7063
-- slug: 2026-10-21-israeli-court-places-four-abu-falah-attack-suspects-under-house-arrest
-  headline: Israeli court places four Abu Falah attack suspects under house arrest
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6776
-- slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6886
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6632
-- slug: 2026-09-08-un-commission-says-israeli-actions-in-syria-may-amount-to-war-crimes
-  headline: UN commission says Israeli actions in Syria may amount to war crimes
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6259
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6493
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6756
-- slug: 2026-07-21-israel-stays-out-of-renewed-us-bombing-campaign-in-iran
-  headline: Israel stays out of renewed US bombing campaign in Iran
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.624
-- slug: 2026-05-16-israeli-forces-operated-secret-desert-camp-inside-iraq-during-iran-war-officials
-  headline: Israeli forces operated secret desert camp inside Iraq during Iran war, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6439
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6299
-- slug: 2026-05-03-spain-urges-release-of-activist-detained-by-israel-after-aid-flotilla
-  headline: Spain urges release of activist detained by Israel after aid flotilla
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6381
-- slug: 2026-05-16-israeli-forces-set-up-temporary-camp-in-iraq-s-desert-during-iran-war
-  headline: Israeli forces set up temporary camp in Iraq’s desert during Iran war
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6285
-- slug: 2026-02-05-un-peacekeepers-in-lebanon-report-surge-of-israeli-aggressive-behavior
-  headline: UN peacekeepers in Lebanon report surge of Israeli “aggressive behavior”
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6463
-- slug: 2026-05-01-israeli-evacuation-warnings-in-lebanon-spark-chaos-amid-war-with-hezbollah
-  headline: Israeli evacuation warnings in Lebanon spark chaos amid war with Hezbollah
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6275
-- slug: 2026-04-15-israeli-police-stop-dozens-of-palestinians-hidden-in-garbage-truck
-  headline: Israeli police stop dozens of Palestinians hidden in garbage truck
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6323
 image:
   url: /articles/2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip.png
-  alt: "Illustration accompanying article: Israel's Foreign Ministry disputes Lander's account of olive harvest trip"
+  alt: 'Illustration accompanying article: Israel''s Foreign Ministry disputes Lander''s
+    account of olive harvest trip'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-22-israel-and-brad-lander-dispute-the-record-behind-a-west-bank-olive-harvest-deten'
+- 2026-10-22-israel-and-brad-lander-dispute-the-record-behind-a-west-bank-olive-harvest-deten
 ---
-
 ## Israel's Foreign Ministry disputes Lander's account of olive harvest trip
 
 **Subtype:** fact

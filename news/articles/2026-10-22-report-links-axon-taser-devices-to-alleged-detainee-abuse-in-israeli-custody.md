@@ -2,8 +2,24 @@
 headline: Report links Axon Taser devices to alleged detainee abuse in Israeli custody
 secondary_headline: Amnesty calls for export restrictions on electroshock devices
 publish_date: '2026-10-22'
-lede: An investigation reported in The Guardian's First Thing newsletter on 22 October has found that Israeli forces are using US-made electroshock weapons on Palestinian detainees, with the American company Axon still supplying the Taser weapons despite evidence they have been used to torture prisoners. Human rights groups condemned allegations of the repeated torture and ill-treatment of detainees held in Israeli detention centres and prisons, Amnesty called for restrictions on exports of such devices, and a spokesperson for the Israel Defense Forces said detainee abuse was strictly prohibited. The same newsletter reported that the Israeli military detained about 80 U.S., Israeli and British volunteers harvesting olives near Bethlehem and that Washington Post photojournalist Heidi Levine gave further details of her assault by Israeli settlers.
-nut_graf: The Guardian reported that Axon continued to supply the Taser weapons. Human rights groups condemned allegations of repeated torture and ill-treatment in Israeli detention centres and prisons; Amnesty called for export restrictions, and an Israel Defense Forces spokesperson said detainee abuse was strictly prohibited. The same First Thing edition reported the detention of about 80 U.S., Israeli and British volunteers harvesting olives near Bethlehem and further details from Washington Post photojournalist Heidi Levine.
+lede: An investigation reported in The Guardian's First Thing newsletter on 22 October
+  has found that Israeli forces are using US-made electroshock weapons on Palestinian
+  detainees, with the American company Axon still supplying the Taser weapons despite
+  evidence they have been used to torture prisoners. Human rights groups condemned
+  allegations of the repeated torture and ill-treatment of detainees held in Israeli
+  detention centres and prisons, Amnesty called for restrictions on exports of such
+  devices, and a spokesperson for the Israel Defense Forces said detainee abuse was
+  strictly prohibited. The same newsletter reported that the Israeli military detained
+  about 80 U.S., Israeli and British volunteers harvesting olives near Bethlehem and
+  that Washington Post photojournalist Heidi Levine gave further details of her assault
+  by Israeli settlers.
+nut_graf: The Guardian reported that Axon continued to supply the Taser weapons. Human
+  rights groups condemned allegations of repeated torture and ill-treatment in Israeli
+  detention centres and prisons; Amnesty called for export restrictions, and an Israel
+  Defense Forces spokesperson said detainee abuse was strictly prohibited. The same
+  First Thing edition reported the detention of about 80 U.S., Israeli and British
+  volunteers harvesting olives near Bethlehem and further details from Washington
+  Post photojournalist Heidi Levine.
 primary_entities:
 - Axon
 - Israel Defense Forces
@@ -61,7 +77,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,107 +177,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
-  headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+  headline: Israeli security forces detain Brad Lander and about 80 activists in West
+    Bank
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7441
+  strength: 0.7445
 - slug: 2026-10-21-lander-says-israeli-military-released-him-after-brief-west-bank-detention
   headline: Lander says Israeli military released him after brief West Bank detention
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7235
+  strength: 0.7237
 - slug: 2026-10-21-protect-the-harvest-steering-committee-reports-two-detention-sites
   headline: Protect the Harvest steering committee reports two detention sites
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7117
+  strength: 0.7122
 - slug: 2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip
   headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7027
+  strength: 0.7029
 - slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
   headline: Joshua Schoffman says volunteers complied with order without friction
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7072
+  strength: 0.7077
 - slug: 2026-10-21-israeli-court-places-four-abu-falah-attack-suspects-under-house-arrest
   headline: Israeli court places four Abu Falah attack suspects under house arrest
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6982
+  strength: 0.6993
 - slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
   headline: Israeli court extends detention of 6 men over attacks on foreigners
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7088
+  strength: 0.7082
 - slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
   headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7205
-- slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7003
-- slug: 2026-10-16-houthis-fire-missiles-at-aden-presidential-palace-killing-five
-  headline: Houthis fire missiles at Aden presidential palace, killing five
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.607
-- slug: 2026-09-26-five-gazans-show-how-the-blockade-reshapes-daily-life
-  headline: Five Gazans show how the blockade reshapes daily life
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6088
-- slug: 2026-08-26-treasury-sanctions-palestine-action-as-global-terrorist-citing-uk-attacks-since-
-  headline: Treasury sanctions Palestine Action as global terrorist, citing UK attacks since 2020
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6291
-- slug: 2026-08-10-netanyahu-rejects-sequencing-of-board-of-peace-s-15-point-gaza-plan
-  headline: Netanyahu rejects sequencing of Board of Peace's 15-point Gaza plan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6135
-- slug: 2026-07-15-90-of-detainees-at-texas-ice-camp-report-beatings-advocates-say
-  headline: 90% of detainees at Texas ICE camp report beatings, advocates say
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6211
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6163
-- slug: 2026-03-13-israel-drops-charges-against-soldiers-accused-in-palestinian-detainee-abuse
-  headline: Israel drops charges against soldiers accused in Palestinian detainee abuse
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6436
-- slug: 2026-05-13-sexual-violence-was-systematic-in-oct-7-attacks-israeli-commission-report-finds
-  headline: Sexual violence was systematic in Oct. 7 attacks, Israeli commission report finds
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6163
-- slug: 2026-05-09-israel-deports-activists-detained-over-aid-flotilla-to-gaza
-  headline: Israel deports activists detained over aid flotilla to Gaza
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6138
-- slug: 2026-04-25-wounded-lebanese-journalist-recounts-hours-after-israeli-strike
-  headline: Wounded Lebanese journalist recounts hours after Israeli strike
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6181
-- slug: 2026-05-03-spain-urges-release-of-activist-detained-by-israel-after-aid-flotilla
-  headline: Spain urges release of activist detained by Israel after aid flotilla
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6134
+  strength: 0.7211
 ---
-
 ## Report links Axon Taser devices to alleged detainee abuse in Israeli custody
 
 **Subtype:** fact

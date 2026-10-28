@@ -1,9 +1,21 @@
 ---
 headline: AIPAC to end candidate endorsements, direct PAC giving after midterms
-secondary_headline: United Democracy Project remains unaffected; AIPAC calls 2026 among toughest environments in recent memory
+secondary_headline: United Democracy Project remains unaffected; AIPAC calls 2026
+  among toughest environments in recent memory
 publish_date: '2026-10-22'
-lede: The American Israel Public Affairs Committee is ending candidate endorsements and direct contributions from its political-action committee after the midterm elections, reversing an approach the group adopted five years ago. In a letter to members Wednesday, AIPAC said “endorsements, direct PAC contributions, and earmarking will no longer be part of our approach” as a growing number of candidates — particularly Democrats — distance themselves from the organization amid the war in Gaza.
-nut_graf: The shift leaves AIPAC's affiliated super PAC, United Democracy Project, unaffected. Federal Election Commission filings show the super PAC raised more than $110 million this election cycle and spent more than $80 million through September 30, while AIPAC said its PAC gave just over $3 million directly to candidates. Super PACs can spend unlimited amounts on independent expenditures such as ads; AIPAC said it would instead recommend contributions to candidates, help direct donations to those candidates and expand individual giving.
+lede: The American Israel Public Affairs Committee is ending candidate endorsements
+  and direct contributions from its political-action committee after the midterm elections,
+  reversing an approach the group adopted five years ago. In a letter to members Wednesday,
+  AIPAC said “endorsements, direct PAC contributions, and earmarking will no longer
+  be part of our approach” as a growing number of candidates — particularly Democrats
+  — distance themselves from the organization amid the war in Gaza.
+nut_graf: The shift leaves AIPAC's affiliated super PAC, United Democracy Project,
+  unaffected. Federal Election Commission filings show the super PAC raised more than
+  $110 million this election cycle and spent more than $80 million through September
+  30, while AIPAC said its PAC gave just over $3 million directly to candidates. Super
+  PACs can spend unlimited amounts on independent expenditures such as ads; AIPAC
+  said it would instead recommend contributions to candidates, help direct donations
+  to those candidates and expand individual giving.
 primary_entities:
 - American Israel Public Affairs Committee
 - United Democracy Project
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,106 +154,45 @@ related_stories:
   headline: Virtually unknown donors gave up to $1 million each to a super PAC
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7496
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6319
-- slug: 2026-10-12-government-kept-spending-on-pro-trump-ads-after-private-funding-pledge
-  headline: Government kept spending on pro-Trump ads after private-funding pledge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6345
-- slug: 2026-10-10-bold-pac-recruits-latino-influencers-as-democrats-court-hispanic-voters
-  headline: BOLD PAC recruits Latino influencers as Democrats court Hispanic voters
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6444
-- slug: 2026-10-08-trump-shifts-self-promotional-ad-funding-to-super-pac
-  headline: Trump shifts self-promotional ad funding to super PAC
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6436
-- slug: 2026-10-06-trump-says-super-pac-will-pay-for-ads-previously-funded-by-government
-  headline: Trump says super PAC will pay for ads previously funded by government
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6499
+  strength: 0.7499
 - slug: 2026-10-01-openai-president-withdraws-25-million-pledge-to-pro-ai-super-pac
   headline: OpenAI president withdraws $25 million pledge to pro-AI super PAC
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6751
+  strength: 0.6753
 - slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
   headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6702
+  strength: 0.6688
 - slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
   headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6559
+  strength: 0.6541
 - slug: 2026-08-06-aipac-linked-super-pacs-pour-millions-into-california-race-against-wahab
   headline: AIPAC-linked super PACs pour millions into California race against Wahab
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.7264
+  strength: 0.7265
 - slug: 2026-07-19-aipac-spending-hits-30m-in-michigan-senate-primary-its-largest-ever
   headline: AIPAC spending hits $30M in Michigan Senate primary, its largest ever
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.7197
+  strength: 0.7193
 - slug: 2026-02-26-aipac-tests-power-in-illinois-primary-amid-democrats-israel-debate
   headline: AIPAC tests power in Illinois primary amid Democrats’ Israel debate
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.7874
-- slug: 2026-08-26-moskowitz-named-top-middle-east-democrat-on-house-foreign-affairs-committee
-  headline: Moskowitz named top Middle East Democrat on House Foreign Affairs Committee
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6282
+  strength: 0.7876
 - slug: 2026-07-12-united-democracy-project-spends-11-million-in-michigan-senate-primary
   headline: United Democracy Project spends $11 million in Michigan Senate primary
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.6858
-- slug: 2026-07-26-nearly-half-of-house-democrats-vote-to-block-israel-military-aid
-  headline: Nearly half of House Democrats vote to block Israel military aid
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6433
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6744
-- slug: 2026-07-14-house-democratic-leaders-split-on-measure-to-cut-3-3b-in-israel-aid
-  headline: House Democratic leaders split on measure to cut $3.3B in Israel aid
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6469
-- slug: 2026-03-19-pritzker-condemns-aipac-after-pro-israel-group-spent-heavily-in-illinois
-  headline: Pritzker condemns AIPAC after pro-Israel group spent heavily in Illinois
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6974
-- slug: 2026-06-10-study-house-party-leaders-steer-campaign-cash-to-vulnerable-members
-  headline: 'Study: House party leaders steer campaign cash to vulnerable members'
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6527
-- slug: 2026-06-30-supreme-court-strikes-down-limits-on-coordinated-party-spending
-  headline: Supreme Court strikes down limits on coordinated party spending
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6343
+  strength: 0.6857
 analyses:
-- '2026-10-22-aipac-s-planned-shift-separates-candidate-support-from-its-institutional-label'
+- 2026-10-22-aipac-s-planned-shift-separates-candidate-support-from-its-institutional-label
 ---
-
 ## AIPAC to end candidate endorsements, direct PAC giving after midterms
 
 **Subtype:** fact

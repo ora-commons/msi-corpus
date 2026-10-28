@@ -2,8 +2,14 @@
 headline: Omar describes pre-dawn federal raid, denies fraud allegations
 secondary_headline: Omar says agents spent nearly five hours searching, took 17 items
 publish_date: '2026-10-22'
-lede: Rep. Ilhan Omar said 10 to 15 federal agents pounded on her door at 6 a.m. on October 12 and spent nearly five hours searching her Washington home, seizing 17 items including several phones, in her first interview since the pre-dawn raid. The Minnesota Democrat spoke on MS Now on Wednesday with host Chris Hayes, denying allegations of immigration fraud and asserting her right to remain in Congress.
-nut_graf: In her first interview since the raid, Omar said the search was designed to appease Trump loyalists after years of denigration of her character, faith and Somali heritage.
+lede: Rep. Ilhan Omar said 10 to 15 federal agents pounded on her door at 6 a.m. on
+  October 12 and spent nearly five hours searching her Washington home, seizing 17
+  items including several phones, in her first interview since the pre-dawn raid.
+  The Minnesota Democrat spoke on MS Now on Wednesday with host Chris Hayes, denying
+  allegations of immigration fraud and asserting her right to remain in Congress.
+nut_graf: In her first interview since the raid, Omar said the search was designed
+  to appease Trump loyalists after years of denigration of her character, faith and
+  Somali heritage.
 primary_entities:
 - Ilhan Omar
 - Donald Trump
@@ -48,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +153,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-omar-says-federal-raid-may-have-exposed-her-washington-address
+  headline: Omar says federal raid may have exposed her Washington address
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8679
 - slug: 2026-10-14-federal-agents-seize-omar-s-phone-subpoena-relatives-in-criminal-probe
   headline: Federal agents seize Omar's phone, subpoena relatives in criminal probe
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8245
+  strength: 0.8238
 - slug: 2026-10-12-federal-agents-search-rep-ilhan-omar-s-washington-home-in-criminal-probe
   headline: Federal agents search Rep. Ilhan Omar's Washington home in criminal probe
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.8275
+  strength: 0.8273
 - slug: 2026-10-15-federal-agents-search-omar-s-washington-home-in-federal-probe
   headline: Federal agents search Omar's Washington home in federal probe
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.805
+  strength: 0.8051
 - slug: 2026-10-18-homan-says-omar-could-be-of-course-denaturalized-and-deported
   headline: Homan says Omar could be 'of course' denaturalized and deported
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7732
+  strength: 0.7734
 - slug: 2026-10-20-mahdawi-calls-omar-immigration-probe-an-abuse-of-power
   headline: Mahdawi calls Omar immigration probe an abuse of power
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7533
+  strength: 0.7539
 - slug: 2026-10-14-federal-probe-aims-to-build-case-to-strip-omar-of-citizenship
   headline: Federal probe aims to build case to strip Omar of citizenship
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7925
+  strength: 0.7923
 - slug: 2026-10-12-homan-disclosed-omar-as-dhs-investigation-target-on-fox-before-home-search
   headline: Homan disclosed Omar as DHS investigation target on Fox before home search
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.802
-- slug: 2026-10-19-obama-calls-federal-omar-probe-so-appalling-and-politically-motivated
-  headline: Obama calls federal Omar probe 'so appalling' and politically motivated
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7559
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.793
-- slug: 2026-10-13-omar-says-i-will-not-be-silenced-after-justice-department-raids-home
-  headline: Omar says 'I will not be silenced' after Justice Department raids home
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7866
-- slug: 2026-10-12-democrats-condemn-federal-search-of-ilhan-omar-s-home
-  headline: Democrats condemn federal search of Ilhan Omar's home
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7742
-- slug: 2026-10-12-trump-and-allies-have-discussed-denaturalizing-omar-expelling-her-from-us
-  headline: Trump and allies have discussed denaturalizing Omar, expelling her from US
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7739
-- slug: 2026-10-14-democracy-defenders-fund-seeks-hatch-act-investigation-of-omar-home-raid
-  headline: Democracy Defenders Fund seeks Hatch Act investigation of Omar home raid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7367
-- slug: 2026-09-26-omar-denies-brother-marriage-allegation-as-dhs-chief-cites-federal-probe
-  headline: Omar denies brother-marriage allegation as DHS chief cites federal probe
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.8236
-- slug: 2026-10-13-nearly-10-million-in-taxpayer-funds-spent-on-trump-ads-after-private-funding-ple
-  headline: Nearly $10 million in taxpayer funds spent on Trump ads after private-funding pledge
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6802
-- slug: 2026-09-09-congressional-conduct-board-recommends-dismissing-omar-disclosure-allegations
-  headline: Congressional conduct board recommends dismissing Omar disclosure allegations
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7279
-- slug: 2026-09-17-omar-to-introduce-make-ice-pay-act-to-redirect-140b-from-ice-cbp
-  headline: Omar to introduce Make ICE Pay Act to redirect $140B from ICE, CBP
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6684
-- slug: 2026-08-10-omar-demands-answers-after-ice-agent-appeared-outside-her-town-hall
-  headline: Omar demands answers after ICE agent appeared outside her town hall
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6979
-- slug: 2026-06-02-ilhan-omar-says-trump-pardons-conflict-with-his-anti-fraud-posture
-  headline: Ilhan Omar says Trump pardons conflict with his anti-fraud posture
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.719
-- slug: 2026-01-29-suspect-in-ilhan-omar-spray-attack-made-pro-trump-posts
-  headline: Suspect in Ilhan Omar spray attack made pro-Trump posts
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7271
+  strength: 0.8013
 ---
-
 ## Omar describes pre-dawn federal raid, denies fraud allegations
 
 **Subtype:** fact

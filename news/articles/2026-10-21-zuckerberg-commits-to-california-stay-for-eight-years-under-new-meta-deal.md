@@ -1,9 +1,18 @@
 ---
 headline: Zuckerberg commits to California stay for eight years under new Meta deal
-secondary_headline: Nonvoting shares release from voting-stock tie over eight years, with up to 20% carve-out
+secondary_headline: Nonvoting shares release from voting-stock tie over eight years,
+  with up to 20% carve-out
 publish_date: '2026-10-21'
-lede: Meta CEO Mark Zuckerberg agreed to maintain his primary residence in California for eight years, according to a company filing released Wednesday. The agreement came after Zuckerberg told Meta board members he was evaluating whether to leave the state in response to a proposed wealth tax set for the November ballot.
-nut_graf: Meta's Founder Alignment Agreement ties Zuckerberg's California residence commitment to an eight-year release schedule for his nonvoting shares, with a carve-out allowing an immediate sale of up to 20% of the new Class C stock. Proposition 40 would apply to billionaires who lived in California on Jan. 1, while state auditors use 19 factors to verify residency claims by wealthy taxpayers who say they have left.
+lede: Meta CEO Mark Zuckerberg agreed to maintain his primary residence in California
+  for eight years, according to a company filing released Wednesday. The agreement
+  came after Zuckerberg told Meta board members he was evaluating whether to leave
+  the state in response to a proposed wealth tax set for the November ballot.
+nut_graf: Meta's Founder Alignment Agreement ties Zuckerberg's California residence
+  commitment to an eight-year release schedule for his nonvoting shares, with a carve-out
+  allowing an immediate sale of up to 20% of the new Class C stock. Proposition 40
+  would apply to billionaires who lived in California on Jan. 1, while state auditors
+  use 19 factors to verify residency claims by wealthy taxpayers who say they have
+  left.
 primary_entities:
 - Mark Zuckerberg
 - Meta Platforms
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +145,52 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
+  headline: Meta reports 37% profit drop and 15% headcount cut
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8158
+- slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7886
+- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7833
+- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7599
+- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
+  headline: Proposition 40 aims to raise $100 billion for California health care
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7305
 - slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
   headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6874
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6552
 - slug: 2026-10-21-meta-challenges-new-mexico-s-proposed-privacy-penalty-on-constitutional-grounds
-  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
+  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional
+    grounds
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6516
-- slug: 2026-10-20-joel-kaplan-to-leave-meta-after-15-years-as-policy-chief
-  headline: Joel Kaplan to leave Meta after 15 years as policy chief
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6397
-- slug: 2026-10-21-new-mexico-s-meta-case-targeted-statements-that-facebook-data-was-never-shared
-  headline: New Mexico's Meta case targeted statements that Facebook data was never shared
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6303
-- slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
-  headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6621
-- slug: 2026-10-21-judge-francis-mathew-orders-meta-to-pay-new-mexico-25bn
-  headline: Judge Francis Mathew orders Meta to pay New Mexico $25bn
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6215
-- slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
-  headline: Newsom backs Prop. 42 barring new California wealth taxes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6234
-- slug: 2026-10-06-zuckerberg-hand-guides-drafting-of-white-house-ai-self-policing-deal
-  headline: Zuckerberg hand-guides drafting of White House AI self-policing deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-16-snap-ceo-says-company-would-be-willing-to-implement-teen-time-limits-after-meta-
-  headline: Snap CEO says company would be willing to implement teen time limits after Meta settlement
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6189
-- slug: 2026-08-10-zuckerberg-sets-out-meta-s-ai-plans-in-a-6-500-word-essay
-  headline: Zuckerberg sets out Meta's AI plans in a 6,500-word essay
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7268
-- slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6254
-- slug: 2026-08-11-zuckerberg-calls-open-weight-models-open-source-ai-in-6-500-word-essay
-  headline: Zuckerberg calls open-weight models 'open source AI' in 6,500-word essay
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6452
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6134
-- slug: 2026-06-30-zuckerberg-meets-with-kalshi-ceo-about-acquisition-sources-say
-  headline: Zuckerberg meets with Kalshi CEO about acquisition, sources say
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6402
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6289
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6391
-- slug: 2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show
-  headline: Meta plans AI-powered prediction market app, internal documents show
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6318
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6282
-- slug: 2026-01-12-meta-names-former-trump-adviser-dina-powell-mccormick-president-and-vice-chairma
-  headline: Meta names former Trump adviser Dina Powell McCormick president and vice chairman
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6692
-- slug: 2026-06-04-tech-backed-candidates-advance-in-california-primary-despite-mahan-loss
-  headline: Tech-backed candidates advance in California primary despite Mahan loss
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6189
+  strength: 0.6512
 ---
-
 ## Zuckerberg commits to California stay for eight years under new Meta deal
 
 **Subtype:** fact

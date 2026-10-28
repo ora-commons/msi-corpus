@@ -2,8 +2,17 @@
 headline: KFF finds family health insurance premiums average $28,000
 secondary_headline: Survey finds 43% of insured workers skipped care due to cost
 publish_date: '2026-10-22'
-lede: A KFF survey of nearly 2,000 employers found the average premium for a family of four now stands at $28,000 per year, with workers paying about $7,000 of that total. A separate Commonwealth Fund report found 43% of workers with employer-sponsored insurance skipped medical care in the past year because of cost.
-nut_graf: The two reports, published the same day by KFF, a nonpartisan health research organization, and the Commonwealth Fund, a nonprofit foundation that supports independent research, arrive as the U.S. uninsured rate has risen over the past two years following the expiration of enhanced Affordable Care Act subsidies and people losing Medicaid after the pandemic emergency ended. Together the findings document how rising costs are reaching Americans across the coverage spectrum, including those with steady employment and job-based insurance.
+lede: A KFF survey of nearly 2,000 employers found the average premium for a family
+  of four now stands at $28,000 per year, with workers paying about $7,000 of that
+  total. A separate Commonwealth Fund report found 43% of workers with employer-sponsored
+  insurance skipped medical care in the past year because of cost.
+nut_graf: The two reports, published the same day by KFF, a nonpartisan health research
+  organization, and the Commonwealth Fund, a nonprofit foundation that supports independent
+  research, arrive as the U.S. uninsured rate has risen over the past two years following
+  the expiration of enhanced Affordable Care Act subsidies and people losing Medicaid
+  after the pandemic emergency ended. Together the findings document how rising costs
+  are reaching Americans across the coverage spectrum, including those with steady
+  employment and job-based insurance.
 primary_entities:
 - KFF
 - Commonwealth Fund
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +149,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-small-business-workers-pay-more-as-employer-health-premiums-climb
+  headline: Small-business workers pay more as employer health premiums climb
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8157
 - slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
   headline: KFF poll finds Medicare for All support at decade high
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6659
+  strength: 0.6639
 - slug: 2026-10-04-el-sayed-rallies-1-500-nurses-behind-medicare-for-all-in-san-francisco
   headline: El-Sayed rallies 1,500 nurses behind Medicare for All in San Francisco
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6609
+  strength: 0.6595
 - slug: 2026-09-15-census-bureau-reports-us-family-income-rose-2-6-in-2025-poverty-fell-to-10-2
-  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell to 10.2%
+  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell
+    to 10.2%
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6822
+  strength: 0.6821
 - slug: 2026-09-21-starbucks-baristas-report-surging-health-insurance-premiums-union-survey-finds
-  headline: Starbucks baristas report surging health insurance premiums, union survey finds
+  headline: Starbucks baristas report surging health insurance premiums, union survey
+    finds
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6541
+  strength: 0.6546
 - slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
   headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7367
+  strength: 0.7361
 - slug: 2026-07-08-aca-insurers-seek-14-median-premium-increase-for-2027
   headline: ACA insurers seek 14% median premium increase for 2027
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7458
-- slug: 2026-08-23-becerra-faces-projected-doubling-of-uninsured-californians-by-2030
-  headline: Becerra faces projected doubling of uninsured Californians by 2030
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6493
+  strength: 0.7471
 - slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
   headline: ACA enrollment projected to drop by nearly 5 million as costs spike
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.7253
-- slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
-  headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6916
-- slug: 2026-05-20-aca-enrollment-projected-to-drop-sharply-amid-rising-costs
-  headline: ACA Enrollment Projected to Drop Sharply Amid Rising Costs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7151
-- slug: 2026-06-18-poll-finds-only-half-of-americans-can-afford-quality-health-care
-  headline: Poll finds only half of Americans can afford quality health care
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6915
-- slug: 2026-04-29-americans-overcharged-150b-a-year-for-insurance-analysis-says
-  headline: Americans overcharged $150B a year for insurance, analysis says
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7211
-- slug: 2026-07-22-progressive-democrats-hold-medicare-for-all-hearing-as-uninsured-ranks-grow
-  headline: Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6501
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7255
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-rise
-  headline: ACA enrollment projected to drop by nearly 5 million as costs rise
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6971
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6547
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  headline: ACA health subsidies expire, leaving millions facing sharply higher premiums in 2026
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6936
-- slug: 2026-02-19-paid-leave-for-caregivers-gains-momentum-as-us-population-ages
-  headline: Paid leave for caregivers gains momentum as US population ages
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6834
-- slug: 2026-01-01-health-care-rises-as-a-priority-for-americans-poll-finds
-  headline: Health care rises as a priority for Americans, poll finds
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6688
-- slug: 2026-01-03-health-care-rises-as-a-priority-for-americans-poll-finds
-  headline: Health care rises as a priority for Americans, poll finds
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6637
+  strength: 0.7246
 ---
-
 ## KFF finds family health insurance premiums average $28,000
 
 **Subtype:** fact

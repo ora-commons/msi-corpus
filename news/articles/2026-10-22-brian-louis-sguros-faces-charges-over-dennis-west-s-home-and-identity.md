@@ -1,9 +1,21 @@
 ---
 headline: Brian Louis Sguros faces charges over Dennis West’s home and identity
-secondary_headline: Affidavit details forged signatures, $210,000 in renovations and ownership filing
+secondary_headline: Affidavit details forged signatures, $210,000 in renovations and
+  ownership filing
 publish_date: '2026-10-22'
-lede: Broward sheriff’s investigators say Lauderhill officer Brian Louis Sguros used Dennis West’s identity to take control of West’s home after taking part in a welfare check where West was found dead. Sguros appeared in Fort Lauderdale on Wednesday on charges that included official misconduct and criminal use of a deceased person’s identification. He was released on a $25,000 bond, and it was unclear whether an attorney represented him.
-nut_graf: The case concerns allegations spanning a welfare-check discovery, years of identity use and renovations, and a property-appraiser filing seeking an ownership claim. The Broward Sheriff’s Office release and arrest affidavit provide the central account; the affidavit’s assertions about forged documents, database access, renovation spending and the property filing remain allegations. Sguros could not be reached for comment, and the available reporting did not establish whether an attorney represented him.
+lede: Broward sheriff’s investigators say Lauderhill officer Brian Louis Sguros used
+  Dennis West’s identity to take control of West’s home after taking part in a welfare
+  check where West was found dead. Sguros appeared in Fort Lauderdale on Wednesday
+  on charges that included official misconduct and criminal use of a deceased person’s
+  identification. He was released on a $25,000 bond, and it was unclear whether an
+  attorney represented him.
+nut_graf: The case concerns allegations spanning a welfare-check discovery, years
+  of identity use and renovations, and a property-appraiser filing seeking an ownership
+  claim. The Broward Sheriff’s Office release and arrest affidavit provide the central
+  account; the affidavit’s assertions about forged documents, database access, renovation
+  spending and the property filing remain allegations. Sguros could not be reached
+  for comment, and the available reporting did not establish whether an attorney represented
+  him.
 primary_entities:
 - Brian Louis Sguros
 - Dennis West
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +153,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
+- slug: 2026-10-22-sguros-says-he-spent-more-than-200-000-repairing-west-s-400-000-home
+  headline: Sguros says he spent more than $200,000 repairing West’s $400,000 home
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.5899
-- slug: 2026-09-11-california-petition-worker-arrested-for-allegedly-paying-skid-row-residents-to-f
-  headline: California petition worker arrested for allegedly paying Skid Row residents to forge signatures
-  publish_date: '2026-09-11'
+  strength: 0.8807
+- slug: 2026-10-22-body-camera-footage-shows-lauderhill-officer-at-welfare-check-in-identity-case
+  headline: Body-camera footage shows Lauderhill officer at welfare check in identity
+    case
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6244
-- slug: 2026-09-18-fargo-police-sued-for-10m-over-false-arrest-from-ai-facial-recognition
-  headline: Fargo police sued for $10m over false arrest from AI facial recognition
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5708
-- slug: 2026-09-12-former-north-carolina-detention-officer-faces-20-felony-forgery-counts
-  headline: Former North Carolina detention officer faces 20 felony forgery counts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5895
-- slug: 2026-09-13-san-jose-fires-officer-for-sharing-flock-data-with-domestic-abuse-suspect
-  headline: San Jose fires officer for sharing Flock data with domestic abuse suspect
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5775
-- slug: 2026-07-27-family-sues-federal-government-after-ice-agents-shot-at-truck-driver-held-three-
-  headline: Family sues federal government after ICE agents shot at truck, driver held three months in detention
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5736
-- slug: 2026-01-26-la-homeless-charity-ceo-charged-in-23-million-fraud-scheme
-  headline: LA homeless charity CEO charged in $23 million fraud scheme
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6228
-- slug: 2026-05-07-search-in-kristin-smart-case-turns-up-evidence-of-human-remains-at-home
-  headline: Search in Kristin Smart case turns up evidence of human remains at home
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5938
-- slug: 2026-05-08-sheriff-says-evidence-suggests-human-remains-at-susan-flores-property
-  headline: Sheriff says evidence suggests human remains at Susan Flores property
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5871
-- slug: 2026-01-30-wisconsin-jury-convicts-demetric-scott-of-forging-threats-against-trump
-  headline: Wisconsin jury convicts Demetric Scott of forging threats against Trump
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.606
-- slug: 2026-05-06-us-authorities-charge-man-using-astor-name-to-steal-450-million-from-mexican-bil
-  headline: US authorities charge man using Astor name to steal $450 million from Mexican billionaire
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5853
-- slug: 2026-05-05-us-charges-man-who-used-astor-name-to-steal-about-450-million
-  headline: US charges man who used Astor name to steal about $450 million
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5849
-- slug: 2026-03-27-honolulu-man-institutionalized-after-mistaken-identity-to-get-975k
-  headline: Honolulu man institutionalized after mistaken identity to get $975K
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.597
-- slug: 2026-05-07-us-authorities-charge-man-with-duping-mexican-billionaire-out-of-450-million
-  headline: US authorities charge man with duping Mexican billionaire out of $450 million
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.584
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5789
-- slug: 2026-04-17-former-alabama-player-charged-in-20m-nfl-impersonation-fraud-scheme
-  headline: Former Alabama player charged in $20M NFL impersonation fraud scheme
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5848
-- slug: 2026-04-10-state-ag-rob-bonta-charges-21-in-hospice-services-fraud-scheme
-  headline: State AG Rob Bonta charges 21 in hospice services fraud scheme
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5834
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5719
-- slug: 2026-04-03-federal-officials-arrest-8-in-los-angeles-area-medicare-health-care-fraud
-  headline: Federal officials arrest 8 in Los Angeles-area Medicare health care fraud
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5778
-- slug: 2026-03-26-wisconsin-man-convicted-of-fraud-for-ordering-others-ballots-without-consent
-  headline: Wisconsin man convicted of fraud for ordering others’ ballots without consent
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.5746
+  strength: 0.8537
 ---
-
 ## Brian Louis Sguros faces charges over Dennis West’s home and identity
 
 **Subtype:** fact

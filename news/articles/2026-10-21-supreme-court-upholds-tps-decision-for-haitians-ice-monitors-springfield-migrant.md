@@ -1,9 +1,20 @@
 ---
-headline: Supreme Court upholds TPS decision for Haitians; ICE monitors Springfield migrants
-secondary_headline: Haitian arrivals in Springfield estimated at 20,000 over five years
+headline: Supreme Court upholds TPS decision for Haitians; ICE monitors Springfield
+  migrants
+secondary_headline: Haitian arrivals in Springfield estimated at 20,000 over five
+  years
 publish_date: '2026-10-21'
-lede: Haitian migrants in Springfield in south-west Ohio face TPS terminations and ICE monitoring, while the Trump administration has said it is conducting law-enforcement operations in the city. The BBC reported that an estimated 20,000 Haitians arrived over five years and that the Supreme Court upheld the administration’s decision to end Temporary Protected Status (TPS) for some 350,000 Haitians in the US.
-nut_graf: The BBC’s reporting documents an ICE monitor on Pierre Damas Bel before his death, a grocery-store customer who likely had lost the right to work, and Rick Johnson’s support for ICE’s deportation drive. Trump made border security and the mass deportation of undocumented migrants core pledges in his 2024 election campaign. The midterm election campaign is closely fought, and Trump says Springfield’s people are “getting their town back.”
+lede: Haitian migrants in Springfield in south-west Ohio face TPS terminations and
+  ICE monitoring, while the Trump administration has said it is conducting law-enforcement
+  operations in the city. The BBC reported that an estimated 20,000 Haitians arrived
+  over five years and that the Supreme Court upheld the administration’s decision
+  to end Temporary Protected Status (TPS) for some 350,000 Haitians in the US.
+nut_graf: The BBC’s reporting documents an ICE monitor on Pierre Damas Bel before
+  his death, a grocery-store customer who likely had lost the right to work, and Rick
+  Johnson’s support for ICE’s deportation drive. Trump made border security and the
+  mass deportation of undocumented migrants core pledges in his 2024 election campaign.
+  The midterm election campaign is closely fought, and Trump says Springfield’s people
+  are “getting their town back.”
 primary_entities:
 - Donald Trump
 - Springfield, south-west Ohio
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +162,43 @@ related_stories:
   headline: Police probe possible suicide of Haitian student wearing ICE monitor
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7701
+  strength: 0.7706
 - slug: 2026-09-06-haitian-tps-expiration-strains-us-care-providers-serving-elderly-and-disabled
   headline: Haitian TPS expiration strains US care providers serving elderly and disabled
   publish_date: '2026-09-06'
   relation: related
-  strength: 0.7707
+  strength: 0.7696
 - slug: 2026-09-15-haitian-tps-revocation-triggers-fear-across-south-florida
   headline: Haitian TPS revocation triggers fear across South Florida
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7279
+  strength: 0.7276
 - slug: 2026-08-12-ice-fits-ankle-monitors-to-ohio-haitians-as-tps-protections-end
   headline: ICE fits ankle monitors to Ohio Haitians as TPS protections end
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.8071
+  strength: 0.8079
 - slug: 2026-07-26-haitians-losing-tps-fear-deportation-to-violence-family-separation
   headline: Haitians losing TPS fear deportation to violence, family separation
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7738
+  strength: 0.7726
 - slug: 2026-08-17-end-of-haitian-tps-leaves-south-florida-employers-facing-labor-shortages
   headline: End of Haitian TPS leaves South Florida employers facing labor shortages
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7175
+  strength: 0.7168
 - slug: 2026-08-05-federal-judge-says-haitian-tps-protections-can-be-terminated
   headline: Federal judge says Haitian TPS protections can be terminated
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7423
+  strength: 0.7422
 - slug: 2026-06-28-mullin-tells-tps-holders-to-seek-permanent-status-or-accept-return-ticket
   headline: Mullin tells TPS holders to seek permanent status or accept return ticket
   publish_date: '2026-06-28'
   relation: related
   strength: 0.7716
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7571
-- slug: 2026-07-10-supreme-court-rules-trump-may-end-tps-for-haitians-syrians-affecting-1-3-million
-  headline: Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting 1.3 million
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7447
-- slug: 2026-07-23-appeals-court-temporarily-blocks-end-of-haitian-tps
-  headline: Appeals court temporarily blocks end of Haitian TPS
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7222
-- slug: 2026-06-29-supreme-court-rules-6-3-to-allow-end-of-tps-for-haitian-and-syrian-immigrants
-  headline: Supreme Court rules 6-3 to allow end of TPS for Haitian and Syrian immigrants
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7502
-- slug: 2026-07-07-supreme-court-tps-ruling-puts-1-3-million-immigrants-at-risk-of-deportation
-  headline: Supreme Court TPS ruling puts 1.3 million immigrants at risk of deportation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.738
-- slug: 2026-07-23-haitian-tps-holders-in-new-bedford-lose-jobs-fear-deportation
-  headline: Haitian TPS holders in New Bedford lose jobs, fear deportation
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7144
-- slug: 2026-07-02-haitian-tps-deportations-threaten-u-s-healthcare-workforce-experts-say
-  headline: Haitian TPS deportations threaten U.S. healthcare workforce, experts say
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7389
-- slug: 2026-06-25-supreme-court-allows-trump-to-end-tps-protections-for-haitians-syrians
-  headline: Supreme Court allows Trump to end TPS protections for Haitians, Syrians
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7426
-- slug: 2026-07-05-gim-nez-urges-trump-administration-to-keep-tps-for-haitians
-  headline: Giménez urges Trump administration to keep TPS for Haitians
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.7253
-- slug: 2026-07-09-supreme-court-ruling-on-tps-could-deepen-caregiver-shortage
-  headline: Supreme Court ruling on TPS could deepen caregiver shortage
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7122
-- slug: 2026-06-26-supreme-court-ruling-leaves-haitian-tps-holders-fearing-deportation
-  headline: Supreme Court ruling leaves Haitian TPS holders fearing deportation
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7182
-- slug: 2026-02-03-federal-judge-blocks-trump-plan-to-end-protections-for-haitians
-  headline: Federal judge blocks Trump plan to end protections for Haitians
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7614
 ---
-
 ## Supreme Court upholds TPS decision for Haitians; ICE monitors Springfield migrants
 
 **Subtype:** fact

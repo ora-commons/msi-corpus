@@ -1,9 +1,16 @@
 ---
 headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-secondary_headline: Republicans' estimated advantage of about eight seats faces the midterm electorate
+secondary_headline: Republicans' estimated advantage of about eight seats faces the
+  midterm electorate
 publish_date: '2026-10-22'
-lede: Voters across much of the South are casting ballots in congressional districts redrawn after President Trump called on state legislatures to redistrict ahead of next month's midterm elections, according to NPR. The year-long remapping cycle tilted an estimated eight more House seats toward Republicans than toward Democrats, with the GOP currently holding a 218-214 majority in the chamber.
-nut_graf: Whether the new districts deliver for Republicans will depend on the political mood in the midterm electorate, which may differ from the 2024 presidential electorate that shaped many of the new lines.
+lede: Voters across much of the South are casting ballots in congressional districts
+  redrawn after President Trump called on state legislatures to redistrict ahead of
+  next month's midterm elections, according to NPR. The year-long remapping cycle
+  tilted an estimated eight more House seats toward Republicans than toward Democrats,
+  with the GOP currently holding a 218-214 majority in the chamber.
+nut_graf: Whether the new districts deliver for Republicans will depend on the political
+  mood in the midterm electorate, which may differ from the 2024 presidential electorate
+  that shaped many of the new lines.
 primary_entities:
 - Donald Trump
 - Republican Party
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +155,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
+  headline: Mid-decade redistricting changed districts for 34.8 million Americans,
+    study finds
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7822
+  strength: 0.783
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.8
+  strength: 0.7991
 - slug: 2026-05-22-southern-republicans-press-redistricting-after-voting-rights-act-ruling
   headline: Southern Republicans press redistricting after Voting Rights Act ruling
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.8565
+  strength: 0.8572
 - slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
   headline: Southern Republicans press redistricting ahead of midterm elections
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.8436
+  strength: 0.8429
 - slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
+  headline: Republican redistricting reshapes congressional maps, affecting millions
+    of voters
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.8382
+  strength: 0.8375
 - slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
   headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.8244
+  strength: 0.8237
 - slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  headline: Trump redistricting push spreads to one-third of states, giving GOP a three-seat edge
+  headline: Trump redistricting push spreads to one-third of states, giving GOP a
+    three-seat edge
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.8491
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7991
+  strength: 0.8478
 - slug: 2026-02-20-midterm-house-campaigns-proceed-amid-ongoing-redistricting-disputes
   headline: Midterm House campaigns proceed amid ongoing redistricting disputes
   publish_date: '2026-02-20'
   relation: related
-  strength: 0.8165
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7937
-- slug: 2026-05-10-southern-states-accelerate-mid-decade-redistricting-as-courts-reshape-congressio
-  headline: Southern states accelerate mid-decade redistricting as courts reshape congressional map
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7916
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7883
-- slug: 2026-05-10-gop-redistricting-confuses-voters-and-burdens-election-officials
-  headline: GOP redistricting confuses voters and burdens election officials
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7766
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7745
-- slug: 2026-02-05-states-scramble-to-gerrymander-us-house-districts-before-midterms
-  headline: States scramble to gerrymander US House districts before midterms
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7942
-- slug: 2026-05-10-after-supreme-court-ruling-gop-led-states-rush-to-redraw-congressional-maps
-  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional maps
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.768
-- slug: 2026-04-15-redistricting-battle-reshapes-u-s-house-map-ahead-of-midterms
-  headline: Redistricting battle reshapes U.S. House map ahead of midterms
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7761
-- slug: 2026-05-20-south-carolina-house-passes-gop-leaning-congressional-map-after-midnight
-  headline: South Carolina House passes GOP-leaning congressional map after midnight
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7613
-- slug: 2026-04-30-supreme-court-ruling-to-reshape-voting-maps-as-primaries-near
-  headline: Supreme Court ruling to reshape voting maps as primaries near
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7699
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7672
+  strength: 0.8153
 ---
-
 ## Voters cast ballots in districts reshaped by Trump's redistricting push
 
 **Subtype:** fact

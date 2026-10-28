@@ -1,9 +1,27 @@
 ---
 headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
-secondary_headline: Fraud directive, Google inquiry and $25 billion Meta order round out report
+secondary_headline: Fraud directive, Google inquiry and $25 billion Meta order round
+  out report
 publish_date: '2026-10-22'
-lede: The creators of PHP disclosed a critical security issue on Wednesday in technology that powers as much as 70% of the world's websites, according to The Wall Street Journal, and the report said hackers could use the issue to take control of any system running the software. U.S. special envoy Steve Witkoff also called Russian President Vladimir Putin a "humanitarian" on Wednesday, a characterization the report said shocked Ukraine and its supporters. The Morning Risk Report also covered a Justice Department fraud-enforcement directive, a bipartisan Senate inquiry to Google about AI tools' impact on schoolchildren, and a New Mexico order requiring Meta Platforms to pay the state $25 billion. Sens. Richard Blumenthal (D., Conn.) and Sen. Josh Hawley (R., Mo.) sent a letter to Google Chief Executive Sundar Pichai Wednesday morning seeking information about what Google knows about its AI products' impact on children's mental health and educational development; The Wall Street Journal said the bipartisan senators' inquiry followed its investigation into the impact of Google's AI tools on schoolchildren.
-nut_graf: The report spans software security, fraud enforcement, technology oversight and Russia-Ukraine diplomacy. It attributed PHP's severity assessment to security engineer Volker Dusch, the tax-count directive to Justice Department fraud-enforcement head Colin McDonald, and the call for a Starlink investigation to Republican Rep. Brian Fitzpatrick of Pennsylvania.
+lede: The creators of PHP disclosed a critical security issue on Wednesday in technology
+  that powers as much as 70% of the world's websites, according to The Wall Street
+  Journal, and the report said hackers could use the issue to take control of any
+  system running the software. U.S. special envoy Steve Witkoff also called Russian
+  President Vladimir Putin a "humanitarian" on Wednesday, a characterization the report
+  said shocked Ukraine and its supporters. The Morning Risk Report also covered a
+  Justice Department fraud-enforcement directive, a bipartisan Senate inquiry to Google
+  about AI tools' impact on schoolchildren, and a New Mexico order requiring Meta
+  Platforms to pay the state $25 billion. Sens. Richard Blumenthal (D., Conn.) and
+  Sen. Josh Hawley (R., Mo.) sent a letter to Google Chief Executive Sundar Pichai
+  Wednesday morning seeking information about what Google knows about its AI products'
+  impact on children's mental health and educational development; The Wall Street
+  Journal said the bipartisan senators' inquiry followed its investigation into the
+  impact of Google's AI tools on schoolchildren.
+nut_graf: The report spans software security, fraud enforcement, technology oversight
+  and Russia-Ukraine diplomacy. It attributed PHP's severity assessment to security
+  engineer Volker Dusch, the tax-count directive to Justice Department fraud-enforcement
+  head Colin McDonald, and the call for a Starlink investigation to Republican Rep.
+  Brian Fitzpatrick of Pennsylvania.
 primary_entities:
 - PHP
 - Volker Dusch
@@ -58,7 +76,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,108 +175,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-php-users-urged-to-patch-two-critical-flaws-or-shut-down-sites
+  headline: PHP users urged to patch two critical flaws or shut down sites
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7427
 - slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
   headline: Millions of exploit attempts target PHP flaw as governments patch systems
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7205
+  strength: 0.72
+- slug: 2026-10-21-governments-and-companies-patch-php-vulnerabilities-found-with-ai-assistance
+  headline: Governments and companies patch PHP vulnerabilities found with AI assistance
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7248
+- slug: 2026-10-22-php-vulnerabilities-trigger-website-shutdowns-amid-ai-assisted-exploitation
+  headline: PHP vulnerabilities trigger website shutdowns amid AI-assisted exploitation
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7038
 - slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
+  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink
+    limits
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6906
+  strength: 0.6895
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6704
 - slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
+  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian
+    hardware
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6722
-- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
-  headline: Zelensky Starlink warning led to informal White House investigation
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6596
-- slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
-  headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
+  strength: 0.6697
+- slug: 2026-10-21-bipartisan-senators-seek-answers-from-google-on-classroom-ai-risks
+  headline: Bipartisan senators seek answers from Google on classroom AI risks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6492
-- slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
-  headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6466
-- slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
-  headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.642
-- slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
-  headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6411
-- slug: 2026-10-21-five-wall-street-journal-briefs-cover-autism-therapy-ipos-ai-and-friendship
-  headline: Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6324
-- slug: 2026-10-20-republican-lawmakers-challenge-trump-s-russia-policy-and-diesel-deal
-  headline: Republican lawmakers challenge Trump’s Russia policy and diesel deal
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6365
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6604
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6599
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6524
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6588
-- slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
-  headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6438
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6427
-- slug: 2026-10-15-uk-defence-secretary-meets-hegseth-at-pentagon-on-ukraine
-  headline: UK defence secretary meets Hegseth at Pentagon on Ukraine
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6423
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6327
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6338
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6404
+  strength: 0.6583
 ---
-
 ## PHP security issue and Witkoff's Putin remarks lead a risk roundup
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: NYC Council to vote Thursday on ban of Central Park horse-drawn carriages
 secondary_headline: Ban follows June death of 18-year-old tourist thrown from carriage
 publish_date: '2026-10-22'
-lede: The New York City Council is set to vote Thursday on a bill to phase out horse-drawn carriages in Central Park by June 2028, legislation backed by Mayor Zohran Mamdani and named for an 18-year-old Indian tourist who died in June after falling from a carriage. Roughly 200 drivers work in the park's carriage industry, an at-times controversial tradition of more than 160 years that has become a popular tourist activity.
-nut_graf: The vote comes after years of debate over the industry and follows the teenager's death in June and a series of horse-related incidents that critics say highlight risks to both animals and the public. Alexus Lawson said New York City carriages were the most regulated in the country, while several drivers rejected claims of animal mistreatment and said the rides posed no safety risk.
+lede: The New York City Council is set to vote Thursday on a bill to phase out horse-drawn
+  carriages in Central Park by June 2028, legislation backed by Mayor Zohran Mamdani
+  and named for an 18-year-old Indian tourist who died in June after falling from
+  a carriage. Roughly 200 drivers work in the park's carriage industry, an at-times
+  controversial tradition of more than 160 years that has become a popular tourist
+  activity.
+nut_graf: The vote comes after years of debate over the industry and follows the teenager's
+  death in June and a series of horse-related incidents that critics say highlight
+  risks to both animals and the public. Alexus Lawson said New York City carriages
+  were the most regulated in the country, while several drivers rejected claims of
+  animal mistreatment and said the rides posed no safety risk.
 primary_entities:
 - New York City Council
 - Central Park
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,113 +152,57 @@ related_stories:
   headline: NYC Council moves to ban Central Park horse carriages by June 2028
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.9307
+  strength: 0.9309
+- slug: 2026-10-22-romanch-s-law-sets-june-2028-end-date-requires-transition-plan-next-year
+  headline: Romanch's Law sets June 2028 end date, requires transition plan next year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8619
+- slug: 2026-10-22-central-park-bill-sets-april-deadline-for-transition-of-more-than-150-drivers
+  headline: Central Park bill sets April deadline for transition of more than 150
+    drivers
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8413
+- slug: 2026-10-22-mamdani-and-menin-reach-carriage-ban-deal-as-union-threatens-federal-suit
+  headline: Mamdani and Menin reach carriage-ban deal as union threatens federal suit
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.841
 - slug: 2026-10-14-nyc-mayor-council-speaker-agree-to-ban-horse-drawn-carriages
   headline: NYC mayor, council speaker agree to ban horse-drawn carriages
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8678
-- slug: 2026-10-16-london-assembly-urges-devolved-robotaxi-authority-as-drivers-plan-protests
-  headline: London Assembly urges devolved robotaxi authority as drivers plan protests
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5866
-- slug: 2026-10-12-mamdani-orders-nypd-use-of-force-review-after-2024-fatal-shooting
-  headline: Mamdani orders NYPD use-of-force review after 2024 fatal shooting
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5739
+  strength: 0.8677
 - slug: 2026-07-20-new-york-city-council-speaker-backs-ban-on-central-park-horse-carriages
   headline: New York City Council speaker backs ban on Central Park horse carriages
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.8139
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6101
+  strength: 0.8145
 - slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
   headline: Central Park horse carriage rides paused after tourist's death
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7561
-- slug: 2026-09-14-nyc-council-members-call-for-ban-on-student-youtube-use-in-schools
-  headline: NYC Council members call for ban on student YouTube use in schools
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5779
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5751
-- slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
-  headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6137
-- slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
-  headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6211
+  strength: 0.7572
 - slug: 2026-06-17-18-year-old-dies-after-being-thrown-from-central-park-horse-drawn-carriage
   headline: 18-year-old dies after being thrown from Central Park horse-drawn carriage
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6983
-- slug: 2026-08-29-mamdani-sues-to-block-10-000-bonuses-for-nyc-school-aides
-  headline: Mamdani sues to block $10,000 bonuses for NYC school aides
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5725
-- slug: 2026-08-26-mamdani-to-unveil-15-member-nyc-business-advisory-council
-  headline: Mamdani to unveil 15-member NYC business advisory council
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5687
-- slug: 2026-08-08-new-york-rat-sightings-fall-22-as-containerization-expands
-  headline: New York rat sightings fall 22% as containerization expands
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5741
-- slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
-  headline: Five landlords challenge NYC rent freeze in state court
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5793
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5745
-- slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
-  headline: NYC board approves Mamdani's rent freeze for 1 million apartments
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5911
-- slug: 2026-04-16-nyc-building-workers-vote-to-authorize-strike-as-contract-deadline-looms
-  headline: NYC building workers vote to authorize strike as contract deadline looms
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5693
+  strength: 0.6992
 image:
   url: /articles/2026-10-22-nyc-council-to-vote-thursday-on-ban-of-central-park-horse-drawn-carriages.png
-  alt: "Illustration accompanying article: NYC Council to vote Thursday on ban of Central Park horse-drawn carriages"
+  alt: 'Illustration accompanying article: NYC Council to vote Thursday on ban of
+    Central Park horse-drawn carriages'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## NYC Council to vote Thursday on ban of Central Park horse-drawn carriages
 
 **Subtype:** fact

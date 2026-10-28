@@ -1,9 +1,20 @@
 ---
-headline: DOE continues to appeal Washington-approved Hanford workers’ compensation claims
+headline: DOE continues to appeal Washington-approved Hanford workers’ compensation
+  claims
 secondary_headline: Washington approved 75% of 102 claims; DOE appealed all but seven
 publish_date: '2026-10-22'
-lede: A ProPublica, Cascade PBS and KUOW report published Oct. 22, 2026, found that the Department of Energy continues to appeal workers’ compensation claims approved by Washington at the Hanford Site. The report identified about 152 claims still under appeal, half involving workers who had died. Washington State Department of Labor and Industries regulators met twice with DOE staff after reporters raised questions and said they were assessing the severity of the pattern.
-nut_graf: The appeals can delay wage replacement, medical care and survivor benefits even after Washington has approved a claim. Washington’s system can provide steady wage replacement or, in some cases, a pension for the rest of an injured employee’s life, and can surpass the federal maximum. The reporting examines the gap between Washington’s 2018 presumption for workers with specified illnesses and the repeated litigation that followed.
+lede: A ProPublica, Cascade PBS and KUOW report published Oct. 22, 2026, found that
+  the Department of Energy continues to appeal workers’ compensation claims approved
+  by Washington at the Hanford Site. The report identified about 152 claims still
+  under appeal, half involving workers who had died. Washington State Department of
+  Labor and Industries regulators met twice with DOE staff after reporters raised
+  questions and said they were assessing the severity of the pattern.
+nut_graf: The appeals can delay wage replacement, medical care and survivor benefits
+  even after Washington has approved a claim. Washington’s system can provide steady
+  wage replacement or, in some cases, a pension for the rest of an injured employee’s
+  life, and can surpass the federal maximum. The reporting examines the gap between
+  Washington’s 2018 presumption for workers with specified illnesses and the repeated
+  litigation that followed.
 primary_entities:
 - Department of Energy
 - Hanford Site
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,117 +154,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-20-coalminers-await-black-lung-benefits-as-disease-cases-hit-50-year-high
-  headline: Coalminers await black-lung benefits as disease cases hit 50-year high
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6317
-- slug: 2026-09-15-gao-finds-doge-program-cost-more-than-9-billion-in-paid-administrative-leave
-  headline: GAO finds DOGE program cost more than $9 billion in paid administrative leave
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6165
-- slug: 2026-09-16-critics-call-doge-cuts-case-study-in-mismanagement-after-gao-paid-leave-report
-  headline: Critics call DOGE cuts 'case study in mismanagement' after GAO paid-leave report
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6122
-- slug: 2026-09-04-washington-mill-faced-54-environmental-violations-before-fatal-tank-collapse
-  headline: Washington mill faced 54 environmental violations before fatal tank collapse
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6306
-- slug: 2026-08-28-15bn-in-la-fire-aid-remains-unappropriated-nearly-600-days-after-the-fires
-  headline: $15bn in LA fire aid remains unappropriated nearly 600 days after the fires
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6145
-- slug: 2026-08-23-us-unions-organize-to-defend-offshore-wind-jobs-from-trump-policies
-  headline: US unions organize to defend offshore wind jobs from Trump policies
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6152
 - slug: 2026-08-02-north-dakota-has-just-two-lawyers-left-for-injured-workers
   headline: North Dakota has just two lawyers left for injured workers
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.6563
-- slug: 2026-08-14-washington-agencies-keep-hiring-misconduct-flagged-officers-after-2021-law-analy
-  headline: Washington agencies keep hiring misconduct-flagged officers after 2021 law, analysis finds
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6261
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6151
-- slug: 2026-06-03-unlawful-firings-leave-federal-workers-with-ptsd-like-symptoms-survey-finds
-  headline: Unlawful firings leave federal workers with PTSD-like symptoms, survey finds
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6167
-- slug: 2026-05-07-jobless-claims-rise-to-200-000-but-stay-near-historic-lows-labor-says
-  headline: Jobless claims rise to 200,000 but stay near historic lows, Labor says
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6305
-- slug: 2026-05-03-fema-tells-court-it-s-offering-jobs-back-to-core-staff-let-go
-  headline: FEMA tells court it’s offering jobs back to CORE staff let go
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6318
-- slug: 2026-04-28-washington-sues-to-force-geo-group-to-allow-health-inspectors-into-tacoma-ice-ja
-  headline: Washington sues to force Geo Group to allow health inspectors into Tacoma ICE jail
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.633
-- slug: 2026-04-29-washington-seeks-order-to-let-health-inspectors-into-geo-group-ice-detention
-  headline: Washington seeks order to let health inspectors into Geo Group ICE detention
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6295
-- slug: 2026-04-15-illinois-lawmakers-refuse-to-accept-corrections-audit-findings-demand-agency-ret
-  headline: Illinois lawmakers refuse to accept corrections audit findings, demand agency return
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6239
-- slug: 2026-01-14-niosh-workers-reinstated-after-mass-layoffs-gutted-federal-workplace-safety-agen
-  headline: NIOSH workers reinstated after mass layoffs gutted federal workplace safety agency
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6341
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.618
-- slug: 2026-04-03-us-jobless-aid-filings-fall-to-202-000-as-layoffs-stay-low-amid-iran-war
-  headline: US jobless aid filings fall to 202,000 as layoffs stay low amid Iran war
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6177
-- slug: 2026-02-13-jobless-claims-dip-again-keeping-us-layoffs-in-a-healthy-range
-  headline: Jobless claims dip again, keeping US layoffs in a healthy range
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6249
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  headline: Abbott threatens $200 million in funding cuts to Texas cities over ICE policies
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6098
+  strength: 0.6575
 image:
   url: /articles/2026-10-22-doe-continues-to-appeal-washington-approved-hanford-workers-compensation-claims.png
-  alt: "Illustration accompanying article: DOE continues to appeal Washington-approved Hanford workers’ compensation claims"
+  alt: 'Illustration accompanying article: DOE continues to appeal Washington-approved
+    Hanford workers’ compensation claims'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## DOE continues to appeal Washington-approved Hanford workers’ compensation claims
 
 **Subtype:** fact

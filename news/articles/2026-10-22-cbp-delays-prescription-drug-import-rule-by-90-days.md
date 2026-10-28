@@ -2,8 +2,16 @@
 headline: CBP delays prescription drug import rule by 90 days
 secondary_headline: Lawmakers urge abandonment as CPPI opposes the rule
 publish_date: '2026-10-22'
-lede: U.S. Customs and Border Protection announced last week that it would delay a prescription-drug import rule for 90 days until Jan. 20, after the rule had been set to take effect Thursday. The rule would add documentation requirements for mailed prescriptions and let CBP refuse packages from pharmacies outside the United States when the medicines are sold in the United States.
-nut_graf: The pause offers a brief reprieve for people who rely on lower-cost medicines from Canada and other countries, but the rule remains in place. Three Florida Republicans and more than 70 Democrats have urged federal agencies to abandon it, while Campaign for Personal Prescription Importation executive director Ken Hunter separately says CBP should exempt personal pharmaceuticals.
+lede: U.S. Customs and Border Protection announced last week that it would delay a
+  prescription-drug import rule for 90 days until Jan. 20, after the rule had been
+  set to take effect Thursday. The rule would add documentation requirements for mailed
+  prescriptions and let CBP refuse packages from pharmacies outside the United States
+  when the medicines are sold in the United States.
+nut_graf: The pause offers a brief reprieve for people who rely on lower-cost medicines
+  from Canada and other countries, but the rule remains in place. Three Florida Republicans
+  and more than 70 Democrats have urged federal agencies to abandon it, while Campaign
+  for Personal Prescription Importation executive director Ken Hunter separately says
+  CBP should exempt personal pharmaceuticals.
 primary_entities:
 - U.S. Customs and Border Protection
 - Department of Homeland Security
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +154,14 @@ related_stories:
   headline: Customs rule will end cheap Canadian prescription drug imports in October
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7266
-- slug: 2026-10-09-usps-mail-changes-risk-rejecting-late-ballots-over-postmark-delays
-  headline: USPS mail changes risk rejecting late ballots over postmark delays
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6235
-- slug: 2026-09-18-clear-labels-act-loses-factory-identifier-requirement-before-senate-vote
-  headline: Clear Labels Act loses factory-identifier requirement before Senate vote
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6234
-- slug: 2026-09-15-supreme-court-blocks-usps-mail-ballot-rules-amid-widespread-confusion
-  headline: Supreme Court blocks USPS mail-ballot rules amid widespread confusion
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6074
-- slug: 2026-09-14-second-judge-blocks-trump-usps-mail-in-voting-rule
-  headline: Second judge blocks Trump USPS mail-in voting rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.607
-- slug: 2026-08-22-usps-mail-in-voting-rule-set-for-wednesday-publication-as-two-court-injunctions-
-  headline: USPS mail-in voting rule set for Wednesday publication as two court injunctions stand
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6144
-- slug: 2026-08-16-fda-traceability-rule-delayed-until-2028-as-cyclosporiasis-outbreak-spreads
-  headline: FDA traceability rule delayed until 2028 as cyclosporiasis outbreak spreads
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6043
-- slug: 2026-07-14-us-bars-americans-in-congo-from-direct-travel-home-amid-ebola-spread
-  headline: US bars Americans in Congo from direct travel home amid Ebola spread
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6145
-- slug: 2026-06-26-cdc-tells-health-programs-to-deprioritize-harm-reduction-within-days
-  headline: CDC tells health programs to deprioritize harm reduction within days
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6215
-- slug: 2026-06-27-at-least-a-dozen-states-pass-laws-reining-in-pharmacy-benefit-managers
-  headline: At least a dozen states pass laws reining in pharmacy benefit managers
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6118
-- slug: 2026-06-25-usps-to-refuse-delivery-of-mail-ballots-in-states-that-withhold-voter-rolls
-  headline: USPS to refuse delivery of mail ballots in states that withhold voter rolls
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6045
+  strength: 0.7267
 - slug: 2026-02-25-attorneys-seek-to-halt-cbp-policy-pressuring-unaccompanied-children-to-self-depo
-  headline: Attorneys seek to halt CBP policy pressuring unaccompanied children to self-deport
+  headline: Attorneys seek to halt CBP policy pressuring unaccompanied children to
+    self-deport
   publish_date: '2026-02-25'
   relation: related
-  strength: 0.6538
-- slug: 2026-05-03-supreme-court-asked-to-restore-mail-access-to-abortion-pill-mifepristone
-  headline: Supreme Court asked to restore mail access to abortion pill mifepristone
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6291
-- slug: 2026-02-26-abogados-buscan-bloquear-pol-tica-de-cbp-que-empuja-a-menores-a-autodeportarse
-  headline: Abogados buscan bloquear política de CBP que empuja a menores a autodeportarse
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6399
-- slug: 2026-05-15-supreme-court-order-leaves-access-to-abortion-pill-unchanged
-  headline: Supreme Court order leaves access to abortion pill unchanged
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6172
-- slug: 2026-05-10-supreme-court-extends-access-to-abortion-pill-mifepristone-until-thursday
-  headline: Supreme Court extends access to abortion pill mifepristone until Thursday
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.617
-- slug: 2026-03-06-cbp-says-new-tariff-refund-system-will-be-ready-in-45-days-covering-166-billion
-  headline: CBP says new tariff refund system will be ready in 45 days, covering $166 billion
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6342
-- slug: 2026-05-15-supreme-court-preserves-access-to-abortion-pill-mifepristone-as-lawsuit-continue
-  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit continues
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6066
-- slug: 2026-01-16-senators-warn-usps-postmark-changes-could-disenfranchise-mail-ballot-voters
-  headline: Senators warn USPS postmark changes could disenfranchise mail-ballot voters
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.631
+  strength: 0.6535
 ---
-
 ## CBP delays prescription drug import rule by 90 days
 
 **Subtype:** fact

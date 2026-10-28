@@ -1,9 +1,17 @@
 ---
 headline: Trump signs law establishing Chiricahua as 64th U.S. national park
-secondary_headline: Bipartisan bill preserves tribal ceremonial access within the Arizona park
+secondary_headline: Bipartisan bill preserves tribal ceremonial access within the
+  Arizona park
 publish_date: '2026-10-22'
-lede: Donald Trump signed legislation on Tuesday establishing the 19-square-mile (49-square-kilometer) Chiricahua National Park in southeastern Arizona, making it the 64th U.S. national park. The measure passed Congress with bipartisan support and was sent to the White House. The site is known among Native Americans as the Land of Standing-Up Rocks and lies within the historical territory of the Chiricahua Apache tribes.
-nut_graf: The designation changes a long-protected Arizona monument into the 64th U.S. national park while preserving Chiricahua Apache access for traditional ceremonies. The new status comes as the National Park Service has undergone workforce cuts under Trump, with maintenance at Chiricahua ranked “low priority.”
+lede: Donald Trump signed legislation on Tuesday establishing the 19-square-mile (49-square-kilometer)
+  Chiricahua National Park in southeastern Arizona, making it the 64th U.S. national
+  park. The measure passed Congress with bipartisan support and was sent to the White
+  House. The site is known among Native Americans as the Land of Standing-Up Rocks
+  and lies within the historical territory of the Chiricahua Apache tribes.
+nut_graf: The designation changes a long-protected Arizona monument into the 64th
+  U.S. national park while preserving Chiricahua Apache access for traditional ceremonies.
+  The new status comes as the National Park Service has undergone workforce cuts under
+  Trump, with maintenance at Chiricahua ranked “low priority.”
 primary_entities:
 - Chiricahua National Park
 - Chiricahua Apache tribes
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +147,24 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-10-contractors-topple-200-year-old-cottonwood-near-arizona-border-after-tree-sit
-  headline: Contractors topple 200-year-old cottonwood near Arizona border after tree-sit
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6185
-- slug: 2026-09-02-patagonia-joins-lawsuit-challenging-trump-s-utah-monument-reductions
-  headline: Patagonia joins lawsuit challenging Trump's Utah monument reductions
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6325
-- slug: 2026-09-05-trump-executive-order-directs-interior-to-weigh-gray-wolf-de-listing
-  headline: Trump executive order directs Interior to weigh gray wolf de-listing
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5998
-- slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
-  headline: Trump administration formally proposes rescinding 2001 Roadless Rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5999
-- slug: 2026-08-28-park-service-report-finds-trump-arch-would-disturb-dozens-of-historic-sites
-  headline: Park Service report finds Trump arch would disturb dozens of historic sites
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5938
-- slug: 2026-08-27-trump-administration-builds-border-wall-on-tohono-o-odham-reservation
-  headline: Trump administration builds border wall on Tohono O'odham reservation
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.593
 - slug: 2026-07-14-trump-shrinks-two-utah-national-monuments-environmentalists-vow-legal-challenge
-  headline: Trump shrinks two Utah national monuments, environmentalists vow legal challenge
+  headline: Trump shrinks two Utah national monuments, environmentalists vow legal
+    challenge
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6803
-- slug: 2026-08-06-park-service-lists-37-historic-sites-that-trump-s-250-foot-arch-would-affect
-  headline: Park Service lists 37 historic sites that Trump's 250-foot arch would affect
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6112
+  strength: 0.6796
 - slug: 2026-07-01-trump-attends-roosevelt-library-opening-as-critics-cite-conservation-rollbacks
   headline: Trump attends Roosevelt library opening as critics cite conservation rollbacks
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6505
-- slug: 2026-07-24-researchers-warn-trump-border-wall-plans-threaten-rare-desert-oasis-and-species
-  headline: Researchers warn Trump border wall plans threaten rare desert oasis and species
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5948
-- slug: 2026-07-23-federal-council-votes-to-narrow-historic-site-protections
-  headline: Federal council votes to narrow historic site protections
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5946
+  strength: 0.6501
 - slug: 2026-05-16-trump-announces-sculpture-garden-honoring-250-american-heroes-along-national-mal
-  headline: Trump announces sculpture garden honoring 250 American heroes along National Mall
+  headline: Trump announces sculpture garden honoring 250 American heroes along National
+    Mall
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6519
-- slug: 2026-05-16-trump-to-build-national-garden-of-american-heroes-near-national-mall
-  headline: Trump to build National Garden of American Heroes near National Mall
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6402
-- slug: 2026-06-15-trump-rescinds-nixon-era-limits-on-off-road-vehicles-on-public-lands
-  headline: Trump rescinds Nixon-era limits on off-road vehicles on public lands
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.62
-- slug: 2026-07-03-trump-heads-to-mount-rushmore-amid-push-to-add-his-face-to-monument
-  headline: Trump heads to Mount Rushmore amid push to add his face to monument
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5925
-- slug: 2026-03-24-trump-administration-places-columbus-statue-replica-near-white-house
-  headline: Trump administration places Columbus statue replica near White House
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6326
-- slug: 2026-05-17-indigenous-leaders-decry-us-border-wall-work-desecrating-sacred-sites
-  headline: Indigenous leaders decry US border-wall work desecrating sacred sites
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6135
-- slug: 2026-05-17-border-wall-construction-desecrates-sacred-indigenous-sites-tribal-leaders-say
-  headline: Border wall construction desecrates sacred Indigenous sites, tribal leaders say
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6105
-- slug: 2026-03-15-federal-forest-land-in-arizona-transferred-for-major-copper-mine
-  headline: Federal forest land in Arizona transferred for major copper mine
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6293
-- slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6101
+  strength: 0.6516
 ---
-
 ## Trump signs law establishing Chiricahua as 64th U.S. national park
 
 **Subtype:** fact

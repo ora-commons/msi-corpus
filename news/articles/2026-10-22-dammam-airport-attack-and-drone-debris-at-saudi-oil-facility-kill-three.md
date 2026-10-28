@@ -1,9 +1,19 @@
 ---
 headline: Dammam airport attack and drone debris at Saudi oil facility kill three
-secondary_headline: State Department order covers US embassy in Riyadh and satellite consulates
+secondary_headline: State Department order covers US embassy in Riyadh and satellite
+  consulates
 publish_date: '2026-10-22'
-lede: One Saudi resident was killed and eight people were injured in Wednesday attacks on King Fahad international airport in Dammam, Saudi Arabia, the Saudi Civil Aviation Authority said. Two people were killed and two others injured when debris from a successfully intercepted drone targeting an oil facility in southeastern Saudi Arabia fell, the Saudi energy ministry said. The State Department separately ordered some diplomats and families of US government employees to leave Saudi Arabia, citing attacks on "civilian airports and other critical infrastructure."
-nut_graf: The State Department cited attacks on civilian airports and other critical infrastructure as its reason for a partial Saudi drawdown. The department denied reports of broader Gulf withdrawals, while reports said Trump had been presented with plans to restart strikes on Iran after the midterm elections.
+lede: One Saudi resident was killed and eight people were injured in Wednesday attacks
+  on King Fahad international airport in Dammam, Saudi Arabia, the Saudi Civil Aviation
+  Authority said. Two people were killed and two others injured when debris from a
+  successfully intercepted drone targeting an oil facility in southeastern Saudi Arabia
+  fell, the Saudi energy ministry said. The State Department separately ordered some
+  diplomats and families of US government employees to leave Saudi Arabia, citing
+  attacks on "civilian airports and other critical infrastructure."
+nut_graf: The State Department cited attacks on civilian airports and other critical
+  infrastructure as its reason for a partial Saudi drawdown. The department denied
+  reports of broader Gulf withdrawals, while reports said Trump had been presented
+  with plans to restart strikes on Iran after the midterm elections.
 primary_entities:
 - US State Department
 - Saudi Arabia
@@ -63,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,110 +172,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-saudi-officials-report-two-deaths-in-dammam-airport-strike
+  headline: Saudi officials report two deaths in Dammam airport strike
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8914
+- slug: 2026-10-22-saudi-authorities-blame-houthi-militants-for-dammam-airport-attack
+  headline: Saudi authorities blame Houthi militants for Dammam airport attack
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8833
 - slug: 2026-10-21-state-department-orders-partial-drawdown-at-riyadh-embassy
   headline: State Department orders partial drawdown at Riyadh embassy
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7982
+  strength: 0.7965
+- slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
+  headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7239
+- slug: 2026-10-24-us-intelligence-director-says-iran-increased-efforts-to-target-us-personnel
+  headline: US intelligence director says Iran increased efforts to target US personnel
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7218
 - slug: 2026-10-09-houthi-attacks-on-riyadh-airport-kill-three-saudis
   headline: Houthi attacks on Riyadh airport kill three Saudis
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7983
+  strength: 0.799
 - slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
   headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7881
+  strength: 0.7882
 - slug: 2026-10-19-trump-resists-saudi-crown-prince-s-request-for-houthi-airstrikes
   headline: Trump resists Saudi crown prince's request for Houthi airstrikes
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7185
-- slug: 2026-10-10-houthi-strike-on-riyadh-airport-kills-at-least-12-injures-more-than-300
-  headline: Houthi strike on Riyadh airport kills at least 12, injures more than 300
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7674
-- slug: 2026-10-11-houthis-warn-travelers-airlines-to-avoid-saudi-airports-after-riyadh-attack
-  headline: Houthis warn travelers, airlines to avoid Saudi airports after Riyadh attack
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7362
-- slug: 2026-10-12-projectile-hits-riyadh-airport-terminal-day-after-houthi-attack
-  headline: Projectile hits Riyadh airport terminal day after Houthi attack
-  publish_date: '2026-10-12'
-  relation: related
   strength: 0.7176
-- slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
-  headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7335
-- slug: 2026-10-12-malik-us-held-houthi-meeting-before-refusing-to-extend-saudi-military-aid
-  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military aid'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7052
-- slug: 2026-10-11-houthi-attack-on-riyadh-airport-forces-trump-to-rethink-midterm-strategy
-  headline: Houthi attack on Riyadh airport forces Trump to rethink midterm strategy
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7102
-- slug: 2026-10-11-trump-announces-ukraine-russia-energy-ceasefire-as-houthis-strike-saudi-airport
-  headline: Trump announces Ukraine-Russia energy ceasefire as Houthis strike Saudi airport
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-02-flydubai-co-pilot-held-as-saudi-led-probe-seeks-cockpit-attack-motive
-  headline: Flydubai co-pilot held as Saudi-led probe seeks cockpit attack motive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7171
-- slug: 2026-09-21-houthis-seize-yemen-s-red-sea-coast-expand-offensive-into-eastern-oil-provinces
-  headline: Houthis seize Yemen's Red Sea coast, expand offensive into eastern oil provinces
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7023
-- slug: 2026-09-11-saudi-arabia-shuts-east-west-pipeline-after-strikes-from-iraq
-  headline: Saudi Arabia shuts East-West pipeline after strikes from Iraq
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7331
-- slug: 2026-09-16-houthis-seize-yemen-s-red-sea-coast-displacing-over-100-000
-  headline: Houthis seize Yemen's Red Sea coast, displacing over 100,000
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7006
-- slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
-  headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7166
-- slug: 2026-06-03-iranian-strikes-shut-kuwait-airport-as-u-s--iran-fighting-intensifies
-  headline: Iranian strikes shut Kuwait Airport as U.S.-Iran fighting intensifies
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.711
-- slug: 2026-03-29-iranian-attack-on-saudi-base-wounds-at-least-10-u-s-troops
-  headline: Iranian attack on Saudi base wounds at least 10 U.S. troops
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7185
-- slug: 2026-03-02-dubai-s-haven-image-is-shaken-by-iranian-airstrikes-damage-in-uae
-  headline: Dubai’s haven image is shaken by Iranian airstrikes, damage in UAE
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.722
-- slug: 2026-03-04-explosions-in-iran-s-capital-as-us-israel-war-enters-5th-day
-  headline: Explosions in Iran’s capital as US, Israel war enters 5th day
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7193
 analyses:
-- '2026-10-22-saudi-attacks-divert-flights-and-reshape-us-exposure-while-escalation-remains-de'
+- 2026-10-22-saudi-attacks-divert-flights-and-reshape-us-exposure-while-escalation-remains-de
 ---
-
 ## Dammam airport attack and drone debris at Saudi oil facility kill three
 
 **Subtype:** fact

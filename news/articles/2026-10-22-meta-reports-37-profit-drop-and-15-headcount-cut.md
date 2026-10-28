@@ -2,8 +2,23 @@
 headline: Meta reports 37% profit drop and 15% headcount cut
 secondary_headline: New Mexico judge orders Meta to pay $25bn over Facebook user data
 publish_date: '2026-10-22'
-lede: Meta reported last-quarter revenue of $64.6bn, up 26% and ahead of expectations of $63.3bn, but profits fell 37% to $13bn. Meta said the profit decline was dragged down by a $9.9bn charge related to a lawsuit concerning child protection and social media addiction, and the company disclosed that its headcount stood at 66,775 at the end of September, 15% fewer than a year earlier. In a separate case, a judge in New Mexico ordered Meta to pay $25bn on Wednesday after a trial found that Meta had misled the public about how it handled Facebook user data. Meta also announced Wednesday night that Chief Executive Mark Zuckerberg has committed to remain a resident of California, or wherever Meta maintains its base, for eight years, in return for new non-voting shares.
-nut_graf: The disclosures show rising revenue alongside a 37% profit decline, a 15% year-over-year reduction in headcount and a $25bn New Mexico order over Meta's handling of Facebook user data. Meta's announced eight-year residency term for Chief Executive Mark Zuckerberg comes with a new class of non-voting shares whose sale proceeds could cover a potential tax bill without diluting his voting control, as Californians prepare to vote early next month on Proposition 40, a one-time 5% tax on the roughly 250 billionaires who live in the state.
+lede: Meta reported last-quarter revenue of $64.6bn, up 26% and ahead of expectations
+  of $63.3bn, but profits fell 37% to $13bn. Meta said the profit decline was dragged
+  down by a $9.9bn charge related to a lawsuit concerning child protection and social
+  media addiction, and the company disclosed that its headcount stood at 66,775 at
+  the end of September, 15% fewer than a year earlier. In a separate case, a judge
+  in New Mexico ordered Meta to pay $25bn on Wednesday after a trial found that Meta
+  had misled the public about how it handled Facebook user data. Meta also announced
+  Wednesday night that Chief Executive Mark Zuckerberg has committed to remain a resident
+  of California, or wherever Meta maintains its base, for eight years, in return for
+  new non-voting shares.
+nut_graf: The disclosures show rising revenue alongside a 37% profit decline, a 15%
+  year-over-year reduction in headcount and a $25bn New Mexico order over Meta's handling
+  of Facebook user data. Meta's announced eight-year residency term for Chief Executive
+  Mark Zuckerberg comes with a new class of non-voting shares whose sale proceeds
+  could cover a potential tax bill without diluting his voting control, as Californians
+  prepare to vote early next month on Proposition 40, a one-time 5% tax on the roughly
+  250 billionaires who live in the state.
 primary_entities:
 - Meta
 - Mark Zuckerberg
@@ -53,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +167,52 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8252
 - slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
   headline: Zuckerberg commits to California stay for eight years under new Meta deal
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8163
+  strength: 0.8183
 - slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
   headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7983
+  strength: 0.7988
 - slug: 2026-10-21-meta-challenges-new-mexico-s-proposed-privacy-penalty-on-constitutional-grounds
-  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
+  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional
+    grounds
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7878
+  strength: 0.7874
 - slug: 2026-10-21-new-mexico-s-meta-case-targeted-statements-that-facebook-data-was-never-shared
-  headline: New Mexico's Meta case targeted statements that Facebook data was never shared
+  headline: New Mexico's Meta case targeted statements that Facebook data was never
+    shared
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7826
+  strength: 0.7811
 - slug: 2026-10-21-judge-francis-mathew-orders-meta-to-pay-new-mexico-25bn
   headline: Judge Francis Mathew orders Meta to pay New Mexico $25bn
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7795
-- slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
-  publish_date: '2026-08-26'
+  strength: 0.7777
+- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.7394
-- slug: 2026-08-28-meta-announces-18bn-settlement-with-new-teen-limits-on-instagram-facebook
-  headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
-  publish_date: '2026-08-28'
+  strength: 0.759
+- slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.7139
-- slug: 2026-08-07-new-mexico-judge-orders-meta-to-pay-942-million-over-harms-to-kids
-  headline: New Mexico judge orders Meta to pay $942 million over harms to kids
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7565
-- slug: 2026-08-20-meta-opens-defense-in-california-youth-mental-health-trial
-  headline: Meta opens defense in California youth mental health trial
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6995
-- slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
-  headline: Meta faces lawsuits over teen safety as it pushes into AI
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7404
-- slug: 2026-08-06-judge-biedcheid-orders-meta-to-pay-567-million-for-youth-services
-  headline: Judge Biedcheid orders Meta to pay $567 million for youth services
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7042
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7578
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7397
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.74
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.736
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7291
-- slug: 2026-03-24-new-mexico-jury-finds-meta-knowingly-harmed-children-to-face-may-phase
-  headline: New Mexico jury finds Meta knowingly harmed children, to face May phase
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.727
-- slug: 2026-03-25-new-mexico-jury-finds-meta-liable-for-harming-children-s-mental-health
-  headline: New Mexico jury finds Meta liable for harming children’s mental health
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7255
-- slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
-  headline: Meta says it could shut down social media platforms in New Mexico
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7123
-- slug: 2026-03-05-new-mexico-trial-weighs-meta-s-internal-research-on-kids-safety
-  headline: New Mexico trial weighs Meta’s internal research on kids’ safety
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7236
+  strength: 0.7569
 ---
-
 ## Meta reports 37% profit drop and 15% headcount cut
 
 **Subtype:** fact

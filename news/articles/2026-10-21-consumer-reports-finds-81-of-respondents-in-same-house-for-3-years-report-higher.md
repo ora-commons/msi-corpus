@@ -1,9 +1,20 @@
 ---
-headline: Consumer Reports finds 81% of respondents in same house for 3+ years report higher electricity bills
-secondary_headline: Survey of 2,003 U.S. adults examines bills, tradeoffs and utility regulation
+headline: Consumer Reports finds 81% of respondents in same house for 3+ years report
+  higher electricity bills
+secondary_headline: Survey of 2,003 U.S. adults examines bills, tradeoffs and utility
+  regulation
 publish_date: '2026-10-21'
-lede: In results reported Wednesday, October 21, 2026, a Consumer Reports survey of 2,003 U.S. adults found that 81% of people who had lived in the same home for at least three years said their electricity bills had climbed during that time. Among respondents whose bills had increased, about three-fourths said the higher costs had strained their finances.
-nut_graf: The survey reported rising bills, financial strain and household coping measures, along with respondents' views about profits, data-center demand, fossil-fuel prices and state utility oversight. Respondents generally said the financial risks and infrastructure costs associated with data centers should not fall on residential customers. Sara Enright said the survey showed people wanted the costs and risks to stay with the corporate entities that create them, rather than residential customers.
+lede: In results reported Wednesday, October 21, 2026, a Consumer Reports survey of
+  2,003 U.S. adults found that 81% of people who had lived in the same home for at
+  least three years said their electricity bills had climbed during that time. Among
+  respondents whose bills had increased, about three-fourths said the higher costs
+  had strained their finances.
+nut_graf: The survey reported rising bills, financial strain and household coping
+  measures, along with respondents' views about profits, data-center demand, fossil-fuel
+  prices and state utility oversight. Respondents generally said the financial risks
+  and infrastructure costs associated with data centers should not fall on residential
+  customers. Sara Enright said the survey showed people wanted the costs and risks
+  to stay with the corporate entities that create them, rather than residential customers.
 primary_entities:
 - Consumer Reports
 - Sara Enright
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +148,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6676
+- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
+  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6628
 - slug: 2026-10-14-september-inflation-3-7-percent-household-strain
   headline: US inflation climbs above forecasts to 3.7% as Americans detail strain
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6712
+  strength: 0.6699
 - slug: 2026-10-14-pew-61-of-americans-see-too-much-economic-inequality-with-partisan-divide
-  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan divide'
+  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan
+    divide'
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6674
+  strength: 0.6663
 - slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
   headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6606
+  strength: 0.6642
 - slug: 2026-10-06-us-drinking-water-costs-rose-62-over-decade-far-outpacing-inflation
   headline: US drinking water costs rose 62% over decade, far outpacing inflation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6793
+  strength: 0.6819
 - slug: 2026-09-29-us-electricity-shutoffs-rise-28-in-hottest-month-on-record-data-shows
   headline: US electricity shutoffs rise 28% in hottest month on record, data shows
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6928
+  strength: 0.6951
 - slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
   headline: Consumer rage rises as Americans face corporate frustrations, survey finds
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7085
-- slug: 2026-07-08-maga-supporters-report-widespread-financial-strain-harris-poll-finds
-  headline: MAGA supporters report widespread financial strain, Harris poll finds
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6656
-- slug: 2026-06-18-average-family-to-spend-800-on-cooling-this-summer-energy-group-says
-  headline: Average family to spend $800 on cooling this summer, energy group says
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6845
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6659
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6752
-- slug: 2026-02-20-six-in-ten-americans-say-they-ve-experienced-extreme-cold-in-past-five-years
-  headline: Six in ten Americans say they've experienced extreme cold in past five years
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7084
-- slug: 2026-06-13-u-s-credit-card-delinquency-nears-2008-peak-amid-lighter-debt-burden
-  headline: U.S. credit card delinquency nears 2008 peak amid lighter debt burden
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6552
-- slug: 2026-04-10-in-coal-rich-west-virginia-power-bills-rival-mortgages-and-rents
-  headline: In coal-rich West Virginia, power bills rival mortgages and rents
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6798
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  headline: West Virginia electricity rates rose 34% in five years, pushing residents to desperate measures
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.693
-- slug: 2026-02-13-rising-energy-costs-fuel-calls-for-data-centers-to-pay-their-own-way
-  headline: Rising energy costs fuel calls for data centers to pay their own way
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.688
-- slug: 2026-05-16-ai-boom-sparks-state-battles-over-utility-profits-and-rising-electricity-bills
-  headline: AI boom sparks state battles over utility profits and rising electricity bills
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6627
-- slug: 2026-04-12-for-some-americans-rising-costs-put-a-new-car-out-of-reach
-  headline: For some Americans, rising costs put a new car out of reach
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6692
-- slug: 2026-05-16-states-fight-utility-rate-hikes-as-ai-expansion-drives-power-company-profits
-  headline: States fight utility rate hikes as AI expansion drives power company profits
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6553
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6739
-- slug: 2026-02-23-california-s-heat-pump-push-faces-high-electricity-cost-barrier
-  headline: California's heat pump push faces high electricity cost barrier
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6724
+  strength: 0.7058
 ---
-
 ## Consumer Reports finds 81% of respondents in same house for 3+ years report higher electricity bills
 
 **Subtype:** fact

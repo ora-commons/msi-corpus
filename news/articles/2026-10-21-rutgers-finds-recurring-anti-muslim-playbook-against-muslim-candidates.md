@@ -1,9 +1,25 @@
 ---
 headline: Rutgers finds recurring anti-Muslim playbook against Muslim candidates
-secondary_headline: Center reports almost 1,900% rise in posts naming El-Sayed after primary win
+secondary_headline: Center reports almost 1,900% rise in posts naming El-Sayed after
+  primary win
 publish_date: '2026-10-21'
-lede: Islamophobic posts naming Abdul El-Sayed rose almost 1,900% in the week after his Michigan Democratic Senate primary win, according to the Center for the Study of Organized Hate. A Rutgers report released Tuesday, covering more than 30 cases since 2001, found that an anti-Muslim playbook had been used against Muslim candidates again and again. The Guardian also reported that CBS News chief legal correspondent Jan Crawford praised questioner Thomas Teepell, described El-Sayed’s response as a “self-own,” then deleted the post and apologized; editor-in-chief Bari Weiss reportedly encouraged network journalists to pursue story angles related to El-Sayed’s supposed sympathy toward the Muslim Brotherhood.
-nut_graf: El-Sayed has repeatedly asked people who questioned his positions on Israel, the Muslim Brotherhood and his faith to explain the premises of their questions. After his primary win, he told Fox’s Jesse Watters, “You want to bring up all this culture war,” during a 25-minute interview about ICE, Sharia and transgender issues, and repeatedly steered the exchange back to prices. The Guardian interpreted that approach as an effort to stop opponents from defining the election around El-Sayed’s identity and keep it focused on the economy and healthcare; the Rutgers review separately documented more than 30 cases since 2001 involving the same anti-Muslim playbook.
+lede: Islamophobic posts naming Abdul El-Sayed rose almost 1,900% in the week after
+  his Michigan Democratic Senate primary win, according to the Center for the Study
+  of Organized Hate. A Rutgers report released Tuesday, covering more than 30 cases
+  since 2001, found that an anti-Muslim playbook had been used against Muslim candidates
+  again and again. The Guardian also reported that CBS News chief legal correspondent
+  Jan Crawford praised questioner Thomas Teepell, described El-Sayed’s response as
+  a “self-own,” then deleted the post and apologized; editor-in-chief Bari Weiss reportedly
+  encouraged network journalists to pursue story angles related to El-Sayed’s supposed
+  sympathy toward the Muslim Brotherhood.
+nut_graf: El-Sayed has repeatedly asked people who questioned his positions on Israel,
+  the Muslim Brotherhood and his faith to explain the premises of their questions.
+  After his primary win, he told Fox’s Jesse Watters, “You want to bring up all this
+  culture war,” during a 25-minute interview about ICE, Sharia and transgender issues,
+  and repeatedly steered the exchange back to prices. The Guardian interpreted that
+  approach as an effort to stop opponents from defining the election around El-Sayed’s
+  identity and keep it focused on the economy and healthcare; the Rutgers review separately
+  documented more than 30 cases since 2001 involving the same anti-Muslim playbook.
 primary_entities:
 - Abdul El-Sayed
 - Rutgers
@@ -66,7 +82,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -168,104 +185,43 @@ related_stories:
   headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7793
+  strength: 0.7784
+- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
+  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7493
+- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
+  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7325
 - slug: 2026-10-18-cbs-correspondent-apologizes-for-post-praising-el-sayed-heckler
   headline: CBS correspondent apologizes for post praising El-Sayed heckler
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7517
+  strength: 0.7512
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7175
+- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
+  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.717
 - slug: 2026-10-19-records-identify-el-sayed-heckler-as-former-hawley-office-director
   headline: Records identify El-Sayed heckler as former Hawley office director
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.728
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
+  strength: 0.7272
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7256
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7371
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6768
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6929
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6639
-- slug: 2026-09-13-researchers-anti-muslim-rhetoric-hits-post-9-11-peak-as-muslim-candidates-win
-  headline: 'Researchers: anti-Muslim rhetoric hits post-9/11 peak as Muslim candidates win'
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7683
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6973
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7555
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6652
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7097
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7074
-- slug: 2026-08-13-abdul-el-sayed-becomes-first-muslim-nominated-by-democrats-for-us-senate
-  headline: Abdul El-Sayed becomes first Muslim nominated by Democrats for US Senate
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7256
-- slug: 2026-08-24-michigan-senate-candidate-el-sayed-distances-himself-from-streamer-piker
-  headline: Michigan Senate candidate El-Sayed distances himself from streamer Piker
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6957
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6629
-- slug: 2026-08-31-vance-attacks-el-sayed-at-michigan-rally-over-usha-vance-comments
-  headline: Vance attacks El-Sayed at Michigan rally over Usha Vance comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6618
-- slug: 2026-09-02-democrats-face-scrutiny-over-hasan-piker-s-role-in-michigan-race
-  headline: Democrats face scrutiny over Hasan Piker’s role in Michigan race
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6556
-- slug: 2026-07-31-el-sayed-tells-detroit-faith-leaders-that-his-muslim-faith-shapes-his-progressiv
-  headline: El-Sayed tells Detroit faith leaders that his Muslim faith shapes his progressive views
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7183
+  strength: 0.6945
 ---
-
 ## Rutgers finds recurring anti-Muslim playbook against Muslim candidates
 
 **Subtype:** fact

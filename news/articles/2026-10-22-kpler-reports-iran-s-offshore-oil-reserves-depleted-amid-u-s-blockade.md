@@ -1,9 +1,23 @@
 ---
 headline: Kpler reports Iran’s offshore oil reserves depleted amid U.S. blockade
-secondary_headline: Central Command says blockade denied Iran at least $25 billion in oil revenue
+secondary_headline: Central Command says blockade denied Iran at least $25 billion
+  in oil revenue
 publish_date: '2026-10-22'
-lede: Kpler analysts said Iran’s offshore oil reserves in Asian waters were fully depleted by mid-October as a U.S. maritime blockade on tankers leaving Iranian ports prevented Tehran from replacing the crude it normally sells to Chinese refineries. U.S. Central Command said the blockade has denied Iran at least $25 billion in oil revenue and will constrain Tehran’s ability to replace destroyed factories and weapons.
-nut_graf: Falakshahi said oil sales are Iran’s largest source of foreign exchange and represent around 30% to 40% of government revenue, while U.S. Central Command said the blockade has denied at least $25 billion in oil revenue. Iran’s currency has fallen by a third against the dollar since early July, contributing to inflation, and Kpler’s estimate of depletion comes as Chinese payments for past cargoes may still arrive. Iran has stored oil in derelict tanks and trucked oil to neighbors, though analysts said overland alternatives will not come close to replacing seaborne exports, and Falakshahi assessed that U.S. economic pressure could either push Iran back into negotiations to accept a nuclear deal or spark internal protests that Iran’s government would face challenges containing.
+lede: Kpler analysts said Iran’s offshore oil reserves in Asian waters were fully
+  depleted by mid-October as a U.S. maritime blockade on tankers leaving Iranian ports
+  prevented Tehran from replacing the crude it normally sells to Chinese refineries.
+  U.S. Central Command said the blockade has denied Iran at least $25 billion in oil
+  revenue and will constrain Tehran’s ability to replace destroyed factories and weapons.
+nut_graf: Falakshahi said oil sales are Iran’s largest source of foreign exchange
+  and represent around 30% to 40% of government revenue, while U.S. Central Command
+  said the blockade has denied at least $25 billion in oil revenue. Iran’s currency
+  has fallen by a third against the dollar since early July, contributing to inflation,
+  and Kpler’s estimate of depletion comes as Chinese payments for past cargoes may
+  still arrive. Iran has stored oil in derelict tanks and trucked oil to neighbors,
+  though analysts said overland alternatives will not come close to replacing seaborne
+  exports, and Falakshahi assessed that U.S. economic pressure could either push Iran
+  back into negotiations to accept a nuclear deal or spark internal protests that
+  Iran’s government would face challenges containing.
 primary_entities:
 - Iran
 - United States
@@ -39,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-iraq-and-pakistan-cut-off-key-land-routes-into-and-out-of-iran
+  headline: Iraq and Pakistan cut off key land routes into and out of Iran
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7087
 - slug: 2026-09-29-iran-s-ability-to-choke-off-hormuz-oil-breaks-down
   headline: Iran's ability to choke off Hormuz oil breaks down
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7276
+  strength: 0.7275
 - slug: 2026-10-01-us-pressure-campaign-leaves-iranian-tankers-stranded-in-asian-waters
   headline: U.S. sanctions pressure strands Iranian tankers off Sri Lanka
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7035
-- slug: 2026-10-02-us-treasury-sanctions-iran-s-auto-rail-sectors-and-russia-linked-network
-  headline: US Treasury sanctions Iran's auto, rail sectors and Russia-linked network
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6874
+  strength: 0.7047
 - slug: 2026-09-17-iran-s-overland-trade-push-falters-amid-border-bottlenecks-and-costs
   headline: Iran's overland trade push falters amid border bottlenecks and costs
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7457
+  strength: 0.7463
 - slug: 2026-09-05-us-blockade-holds-iranian-oil-exports-at-zero-while-gulf-crude-flows
   headline: US blockade holds Iranian oil exports at zero while Gulf crude flows
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.7611
+  strength: 0.7616
 - slug: 2026-09-08-iranian-money-still-passes-through-us-bank-clearing-accounts-officials-say
-  headline: Iranian money still passes through US bank clearing accounts, officials say
+  headline: Iranian money still passes through US bank clearing accounts, officials
+    say
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6928
+  strength: 0.6935
 - slug: 2026-08-21-iran-war-stockpile-drain-fuels-allied-doubts-over-us-deterrent-reach
   headline: Iran war stockpile drain fuels allied doubts over US deterrent reach
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6888
+  strength: 0.6903
 - slug: 2026-07-18-iran-shipped-70-million-barrels-of-oil-to-asia-during-monthlong-truce-window
-  headline: Iran shipped 70 million barrels of oil to Asia during monthlong truce window
+  headline: Iran shipped 70 million barrels of oil to Asia during monthlong truce
+    window
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7502
-- slug: 2026-08-11-hormuz-oil-flows-fall-as-reopening-negotiations-remain-stalled
-  headline: Hormuz oil flows fall as reopening negotiations remain stalled
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6965
-- slug: 2026-07-17-blockade-resumption-threatens-to-grind-iran-s-oil-revenue-to-near-zero
-  headline: Blockade resumption threatens to grind Iran's oil revenue to near zero
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7368
-- slug: 2026-07-09-u-s-oil-stockpiles-stay-near-operational-limits-as-trump-ends-iran-ceasefire
-  headline: U.S. oil stockpiles stay near operational limits as Trump ends Iran ceasefire
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.729
-- slug: 2026-06-18-iran-to-boost-oil-revenue-by-over-60-billion-under-us-peace-deal
-  headline: Iran to boost oil revenue by over $60 billion under US peace deal
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7455
-- slug: 2026-07-05-oecd-crude-stockpiles-sink-to-1990-low-as-tanker-traffic-recovers
-  headline: OECD crude stockpiles sink to 1990 low as tanker traffic recovers
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.7152
-- slug: 2026-05-01-analysis-us-blockade-threatens-iran-s-oil-production-and-global-fuel-supplies
-  headline: 'Analysis: US blockade threatens Iran’s oil production and global fuel supplies'
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7522
-- slug: 2026-06-21-us-sanctions-on-iran-fail-to-force-compliance-as-tehran-finds-workarounds
-  headline: US sanctions on Iran fail to force compliance as Tehran finds workarounds
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7206
-- slug: 2026-06-17-iran-seeks-tens-of-billions-in-frozen-assets-as-negotiations-resume
-  headline: Iran seeks tens of billions in frozen assets as negotiations resume
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7093
-- slug: 2026-06-29-iran-oil-waiver-brings-billions-but-ordinary-iranians-see-little-relief
-  headline: Iran oil waiver brings billions but ordinary Iranians see little relief
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.695
-- slug: 2026-06-02-u-s-crude-exports-hit-record-5-6-million-bpd-in-may-on-asian-demand
-  headline: U.S. crude exports hit record 5.6 million bpd in May on Asian demand
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6991
-- slug: 2026-06-15-oil-executives-warn-of-severe-supply-crunch-as-u-s-depletes-reserve
-  headline: Oil executives warn of severe supply crunch as U.S. depletes reserve
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6879
-- slug: 2026-04-20-oil-rises-5-on-iran-tensions-as-wall-street-stocks-slip
-  headline: Oil rises 5% on Iran tensions as Wall Street stocks slip
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7143
+  strength: 0.7519
 ---
-
 ## Kpler reports Iran’s offshore oil reserves depleted amid U.S. blockade
 
 **Subtype:** fact

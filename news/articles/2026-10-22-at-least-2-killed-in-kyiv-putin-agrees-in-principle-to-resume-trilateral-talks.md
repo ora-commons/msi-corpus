@@ -1,9 +1,19 @@
 ---
-headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
+headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+  talks
 secondary_headline: U.S.-Ukraine row centers on Starshield and Russian diesel
 publish_date: '2026-10-22'
-lede: The Guardian reported that Russian ballistic missiles struck Kyiv overnight, killing at least two people and wounding 22, including four children. The attack came hours after Vladimir Putin said he had agreed in principle to resume three-way negotiations involving Russia, the United States and Ukraine after November 10. Targets included the southern bridge over the Dnipro River, civilian houses, energy infrastructure, an ambulance station, office buildings and a monastery.
-nut_graf: The sequence placed an agreement reached in principle to resume trilateral diplomacy alongside continued attacks on civilian areas and infrastructure. It also highlighted disputes over U.S. military support, sanctions on Russian diesel and the Starshield system, as well as a Ukrainian tunnel operation in partly Russian-occupied Kupiansk.
+lede: The Guardian reported that Russian ballistic missiles struck Kyiv overnight,
+  killing at least two people and wounding 22, including four children. The attack
+  came hours after Vladimir Putin said he had agreed in principle to resume three-way
+  negotiations involving Russia, the United States and Ukraine after November 10.
+  Targets included the southern bridge over the Dnipro River, civilian houses, energy
+  infrastructure, an ambulance station, office buildings and a monastery.
+nut_graf: The sequence placed an agreement reached in principle to resume trilateral
+  diplomacy alongside continued attacks on civilian areas and infrastructure. It also
+  highlighted disputes over U.S. military support, sanctions on Russian diesel and
+  the Starshield system, as well as a Ukrainian tunnel operation in partly Russian-occupied
+  Kupiansk.
 primary_entities:
 - Vladimir Putin
 - Volodymyr Zelenskyy
@@ -60,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,36 +169,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8118
 - slug: 2026-10-21-after-rubio-call-zelenskyy-says-missile-warnings-have-resumed
   headline: After Rubio call, Zelenskyy says missile warnings have resumed
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7419
+  strength: 0.7421
 - slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
   headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7414
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7371
+  strength: 0.7418
 - slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
   headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7389
+  strength: 0.7392
 - slug: 2026-10-10-russian-attacks-kill-at-least-19-across-ukraine-overnight
   headline: Russian attacks kill at least 19 across Ukraine overnight
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7509
+  strength: 0.7513
 - slug: 2026-09-08-russia-strikes-kyiv-after-u-s-peace-envoys-leave-killing-at-least-2
   headline: Russia strikes Kyiv after U.S. peace envoys leave, killing at least 2
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.8507
+  strength: 0.8508
 - slug: 2026-09-11-russia-hits-kyiv-petrol-stations-with-jet-powered-drones-for-first-time
   headline: Russia hits Kyiv petrol stations with jet-powered drones for first time
   publish_date: '2026-09-11'
@@ -198,77 +210,20 @@ related_stories:
   publish_date: '2026-08-05'
   relation: related
   strength: 0.7896
-- slug: 2026-08-01-russian-missiles-kill-nine-in-kyiv-ukraine-cites-air-defense-shortage
-  headline: Russian missiles kill nine in Kyiv, Ukraine cites air defense shortage
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7893
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.8129
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7983
-- slug: 2026-06-02-russia-kills-18-in-third-massive-kyiv-attack-in-three-weeks-as-front-stalls
-  headline: Russia kills 18 in third massive Kyiv attack in three weeks as front stalls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.804
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7907
-- slug: 2026-05-16-death-toll-rises-to-24-after-russian-missile-hits-kyiv-apartment-building
-  headline: Death toll rises to 24 after Russian missile hits Kyiv apartment building
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.779
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7758
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7748
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7756
-- slug: 2026-03-15-russian-strike-on-kyiv-region-kills-at-least-4-people
-  headline: Russian strike on Kyiv region kills at least 4 people
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7842
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7609
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7469
 image:
   url: /articles/2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks.png
-  alt: "Illustration accompanying article: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks"
+  alt: 'Illustration accompanying article: At least 2 killed in Kyiv; Putin agrees
+    in principle to resume trilateral talks'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
 
 **Subtype:** fact
