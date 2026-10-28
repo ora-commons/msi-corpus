@@ -2,8 +2,19 @@
 headline: Some Michigan voters tell NPR household costs outweigh Senate campaign rhetoric
 secondary_headline: Campaign fatigue and reluctance to disclose political preferences
 publish_date: '2026-10-27'
-lede: In an NPR report published Oct. 27, 2026, Michel Martin said many voters she spoke with in Michigan were burned out by the campaign. Reporting from Ann Arbor, she said voters were more concerned about gas, groceries and health care than about the increasingly personal rhetoric of President Trump's campaign; Trump was campaigning in Michigan for Republican Senate candidate Mike Rogers and had called Democrat Abdul El-Sayed a "jihadist." NPR characterized Trump's attacks on El-Sayed in Michigan as anti-Muslim attacks. Martin also found some Michigan voters reluctant to discuss their political preferences openly, regardless of which side they supported.
-nut_graf: 'Martin''s reporting shows a gap between the tone of the Michigan Senate race and the concerns voters voiced: gas, groceries and health care, frustration with the two-party system and fear of speaking openly. Trump''s attacks on El-Sayed grew increasingly personal, while the people Martin interviewed described exhaustion and issue-specific choices.'
+lede: In an NPR report published Oct. 27, 2026, Michel Martin said many voters she
+  spoke with in Michigan were burned out by the campaign. Reporting from Ann Arbor,
+  she said voters were more concerned about gas, groceries and health care than about
+  the increasingly personal rhetoric of President Trump's campaign; Trump was campaigning
+  in Michigan for Republican Senate candidate Mike Rogers and had called Democrat
+  Abdul El-Sayed a "jihadist." NPR characterized Trump's attacks on El-Sayed in Michigan
+  as anti-Muslim attacks. Martin also found some Michigan voters reluctant to discuss
+  their political preferences openly, regardless of which side they supported.
+nut_graf: 'Martin''s reporting shows a gap between the tone of the Michigan Senate
+  race and the concerns voters voiced: gas, groceries and health care, frustration
+  with the two-party system and fear of speaking openly. Trump''s attacks on El-Sayed
+  grew increasingly personal, while the people Martin interviewed described exhaustion
+  and issue-specific choices.'
 primary_entities:
 - Trump
 - Abdul El-Sayed
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,7 +76,10 @@ figures:
   series_id: MICH
   transformation: raw
   as_of: '2026-10-27'
-  caption: Median one-year household inflation expectations were 4.6% as of Oct. 27, 2026, in FRED's raw University of Michigan series. The measure contextualizes reported concerns about gas and groceries but does not establish individual voter preferences.
+  caption: Median one-year household inflation expectations were 4.6% as of Oct. 27,
+    2026, in FRED's raw University of Michigan series. The measure contextualizes
+    reported concerns about gas and groceries but does not establish individual voter
+    preferences.
 figures_aggregate:
   count: 1
   series_ids:
@@ -158,104 +173,43 @@ related_stories:
   headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7521
+  strength: 0.7518
 - slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
   headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7284
-- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
-  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7228
+  strength: 0.7276
 - slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
   headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7294
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7222
 - slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
   headline: Obama rallies for El-Sayed in Michigan Senate race
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7306
+  strength: 0.7301
 - slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
   headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7416
+  strength: 0.7412
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7406
+  strength: 0.7402
 - slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
   headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7716
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7433
-- slug: 2026-10-09-senate-candidates-spar-over-affordability-tariffs-in-three-state-debate-night
-  headline: Senate candidates spar over affordability, tariffs in three-state debate night
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.73
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7342
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.707
-- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
-  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7278
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7133
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7466
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7095
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7407
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7113
-- slug: 2026-08-31-vance-attacks-el-sayed-at-michigan-rally-over-usha-vance-comments
-  headline: Vance attacks El-Sayed at Michigan rally over Usha Vance comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7026
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7092
+  strength: 0.7713
 ---
-
 ## Some Michigan voters tell NPR household costs outweigh Senate campaign rhetoric
 
 **Subtype:** fact
