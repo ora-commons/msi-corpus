@@ -172,6 +172,8 @@ related_stories:
   publish_date: '2026-10-19'
   relation: related
   strength: 0.6779
+analyses:
+- '2026-10-27-inquiry-recommends-pre-poll-review-as-aec-warns-shortening-could-concentrate-dem'
 ---
 ## Garth Hamilton calls for safer federal election pre-poll arrangements
 
@@ -208,3 +210,8 @@ Independent MP Monique Ryan said candidates, volunteers and campaign workers fac
 **Publication date:** 2026-10-27
 **Title:** MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident
 **URL:** https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb
+
+---
+
+<!-- analysis-link:2026-10-27-inquiry-recommends-pre-poll-review-as-aec-warns-shortening-could-concentrate-dem -->
+**Going deeper:** [Read MSI's analysis of federal pre-poll safety trade-offs →](/analyses/2026-10-27-inquiry-recommends-pre-poll-review-as-aec-warns-shortening-could-concentrate-dem)
