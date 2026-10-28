@@ -2,8 +2,20 @@
 headline: Newport moves evacuation shelter away from seafood plant after fire
 secondary_headline: One-mile order covers residences and businesses; fire cause unclear
 publish_date: '2026-10-25'
-lede: The City of Newport, Oregon, moved its evacuation shelter from Sam Case Elementary School to Atonement Lutheran Church farther north, away from the Pacific Seafood processing plant where a fire erupted Sunday morning. The relocation was made as a precaution as a 1-mile (1.6-kilometer) evacuation order covered residences and businesses. City officials urged residents and visitors to stay indoors and wear a mask outside; John Fuller said officials were investigating whether chemicals at the plant posed an ammonia-contamination risk in the air. No injuries had been reported.
-nut_graf: The 1-mile evacuation order covered residences and businesses around the plant and made up what Newport public information officer John Fuller called a “pretty good chunk” of the small town. Moving the shelter farther north, away from the plant, was a precaution. Fuller said officials were investigating potential ammonia contamination in the air due to chemicals at the plant; the fire’s cause remained unclear and no injuries had been reported.
+lede: The City of Newport, Oregon, moved its evacuation shelter from Sam Case Elementary
+  School to Atonement Lutheran Church farther north, away from the Pacific Seafood
+  processing plant where a fire erupted Sunday morning. The relocation was made as
+  a precaution as a 1-mile (1.6-kilometer) evacuation order covered residences and
+  businesses. City officials urged residents and visitors to stay indoors and wear
+  a mask outside; John Fuller said officials were investigating whether chemicals
+  at the plant posed an ammonia-contamination risk in the air. No injuries had been
+  reported.
+nut_graf: The 1-mile evacuation order covered residences and businesses around the
+  plant and made up what Newport public information officer John Fuller called a “pretty
+  good chunk” of the small town. Moving the shelter farther north, away from the plant,
+  was a precaution. Fuller said officials were investigating potential ammonia contamination
+  in the air due to chemicals at the plant; the fire’s cause remained unclear and
+  no injuries had been reported.
 primary_entities:
 - City of Newport
 - Atonement Lutheran Church
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +156,25 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-25-newport-warns-of-possible-ammonia-contamination-after-pacific-seafood-plant-fire
-  headline: Newport warns of possible ammonia contamination after Pacific Seafood plant fire
+  headline: Newport warns of possible ammonia contamination after Pacific Seafood
+    plant fire
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8585
-- slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
-  headline: New Mexico crews search evacuated neighborhoods for flood hazards
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6458
-- slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
-  headline: Four Corners region braces for more storms amid flood cleanup
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6221
-- slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
-  headline: Flooding in Four Corners prompts rooftop rescues and evacuations
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6016
-- slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5952
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6225
-- slug: 2026-08-11-timber-fire-in-big-sur-grows-past-1-700-acres-forcing-evacuations
-  headline: Timber fire in Big Sur grows past 1,700 acres, forcing evacuations
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6021
-- slug: 2026-06-18-los-angeles-warehouse-fire-ammonia-leak-prompt-shelter-in-place-order
-  headline: Los Angeles warehouse fire, ammonia leak prompt shelter-in-place order
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6224
-- slug: 2026-05-22-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6366
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6288
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6185
-- slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6145
-- slug: 2026-05-22-40-000-under-evacuation-orders-after-chemical-tank-leak-in-garden-grove
-  headline: 40,000 under evacuation orders after chemical tank leak in Garden Grove
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6131
-- slug: 2026-03-10-scrap-metal-barge-fire-burns-on-delaware-bay-no-injuries-reported
-  headline: Scrap metal barge fire burns on Delaware Bay; no injuries reported
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6349
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6105
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6034
-- slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near damaged chemical tank extend into holiday weekend
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5989
-- slug: 2026-05-18-sheridan-oregon-tests-river-after-wood-treater-released-toxic-chemicals
-  headline: Sheridan, Oregon tests river after wood treater released toxic chemicals
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6022
-- slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5976
-- slug: 2026-05-24-california-chemical-plant-evacuation-orders-lift-as-explosion-risk-fades
-  headline: California chemical plant evacuation orders lift as explosion risk fades
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5981
+  strength: 0.8592
 image:
   url: /articles/2026-10-25-newport-moves-evacuation-shelter-away-from-seafood-plant-after-fire.png
-  alt: "Illustration accompanying article: Newport moves evacuation shelter away from seafood plant after fire"
+  alt: 'Illustration accompanying article: Newport moves evacuation shelter away from
+    seafood plant after fire'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Newport moves evacuation shelter away from seafood plant after fire
 
 **Subtype:** fact

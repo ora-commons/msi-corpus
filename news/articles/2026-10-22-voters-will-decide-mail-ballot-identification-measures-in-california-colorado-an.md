@@ -1,9 +1,23 @@
 ---
-headline: Voters will decide mail-ballot identification measures in California, Colorado and Nevada
-secondary_headline: California measure backer says four-digit verification is intended to replace ballot signatures
+headline: Voters will decide mail-ballot identification measures in California, Colorado
+  and Nevada
+secondary_headline: California measure backer says four-digit verification is intended
+  to replace ballot signatures
 publish_date: '2026-10-22'
-lede: Voters in California, Colorado and Nevada will decide mail-ballot voter identification measures in the November midterm elections, as advocates seek to require identification numbers on ballots returned by mail. California Proposition 39 would require a government-issued ID for in-person voting or the last four digits of an identification number on mail-in ballots. The proposals are among about 30 November ballot questions affecting state policies on voting and elections, alongside measures on primaries, redistricting, ballot initiatives and constitutional amendments.
-nut_graf: The ballot questions can determine what identification a mail ballot must carry, who advances from party primaries, how congressional districts are drawn and what supermajorities apply to proposed changes. Some voter ID measures mirror policies President Donald Trump has pushed unsuccessfully at the national level and build off a Republican narrative that noncitizen voting is a problem, though data indicates such voting is rare; some municipalities allow noncitizen voting in local elections.
+lede: Voters in California, Colorado and Nevada will decide mail-ballot voter identification
+  measures in the November midterm elections, as advocates seek to require identification
+  numbers on ballots returned by mail. California Proposition 39 would require a government-issued
+  ID for in-person voting or the last four digits of an identification number on mail-in
+  ballots. The proposals are among about 30 November ballot questions affecting state
+  policies on voting and elections, alongside measures on primaries, redistricting,
+  ballot initiatives and constitutional amendments.
+nut_graf: The ballot questions can determine what identification a mail ballot must
+  carry, who advances from party primaries, how congressional districts are drawn
+  and what supermajorities apply to proposed changes. Some voter ID measures mirror
+  policies President Donald Trump has pushed unsuccessfully at the national level
+  and build off a Republican narrative that noncitizen voting is a problem, though
+  data indicates such voting is rare; some municipalities allow noncitizen voting
+  in local elections.
 primary_entities:
 - California
 - Colorado
@@ -46,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +160,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7116
+  strength: 0.7095
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6977
+- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
+  headline: California ballot dispute reaches 9th Circuit
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6868
 - slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
   headline: DOJ sues California seeking to block counting of alleged noncitizen votes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7306
+  strength: 0.7284
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6828
+  strength: 0.6805
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6764
+  strength: 0.6739
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6736
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.687
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7055
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6823
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6793
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6908
-- slug: 2026-04-26-california-to-weigh-tighter-restrictions-on-voter-registration-mail-voting
-  headline: California to weigh tighter restrictions on voter registration, mail voting
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.8394
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6896
-- slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
-  headline: Three states bar student IDs at polls as courts weigh challenges
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7009
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6704
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6882
-- slug: 2026-06-10-shasta-county-measure-b-advances-threatening-california-s-vote-by-mail-system
-  headline: Shasta County Measure B advances, threatening California's vote-by-mail system
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7069
-- slug: 2026-03-21-democrats-call-save-voter-id-bill-too-strict-as-senate-debates
-  headline: Democrats call SAVE voter-ID bill too strict as Senate debates
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.735
-- slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
-  headline: Arizona proof-of-citizenship voting law heads to Supreme Court
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6728
-- slug: 2026-03-18-republicans-press-senate-on-save-citizenship-proof-for-new-voters
-  headline: Republicans press Senate on SAVE citizenship proof for new voters
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7203
-- slug: 2026-01-30-house-republicans-propose-stricter-voting-rules-before-the-midterms
-  headline: House Republicans propose stricter voting rules before the midterms
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7259
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6711
+  strength: 0.6849
 ---
-
 ## Voters will decide mail-ballot identification measures in California, Colorado and Nevada
 
 **Subtype:** fact

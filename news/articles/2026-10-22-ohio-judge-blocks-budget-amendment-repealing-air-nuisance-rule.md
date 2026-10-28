@@ -2,8 +2,15 @@
 headline: Ohio judge blocks budget amendment repealing air nuisance rule
 secondary_headline: Ohio EPA may consider monitoring data to support fines or penalties
 publish_date: '2026-10-22'
-lede: A Franklin County judge blocked an Ohio budget amendment directing state officials to repeal the state's air nuisance rule, ruling that the measure violated the Ohio Constitution's one-subject rule. The decision leaves in place a rule that has been part of the state's Clean Air Act plan since 1974 and preserves a legal route used by residents and the state to challenge industrial pollution.
-nut_graf: The ruling blocks a late-budget effort to remove the rule and preserves the Ohio Environmental Protection Agency's ability to consider community air-monitoring data to support a fine or penalty. Ohio's Attorney General's office is reviewing the ruling and determining next steps but has not said whether it will appeal.
+lede: A Franklin County judge blocked an Ohio budget amendment directing state officials
+  to repeal the state's air nuisance rule, ruling that the measure violated the Ohio
+  Constitution's one-subject rule. The decision leaves in place a rule that has been
+  part of the state's Clean Air Act plan since 1974 and preserves a legal route used
+  by residents and the state to challenge industrial pollution.
+nut_graf: The ruling blocks a late-budget effort to remove the rule and preserves
+  the Ohio Environmental Protection Agency's ability to consider community air-monitoring
+  data to support a fine or penalty. Ohio's Attorney General's office is reviewing
+  the ruling and determining next steps but has not said whether it will appeal.
 primary_entities:
 - Ohio
 - Franklin County
@@ -51,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +157,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5984
 - slug: 2026-09-10-three-states-limit-community-air-data-under-industry-backed-laws
   headline: Three states limit community air data under industry-backed laws
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6687
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6383
-- slug: 2026-08-25-judge-suspends-ohio-voter-registration-document-rule-before-midterms
-  headline: Judge suspends Ohio voter registration document rule before midterms
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.622
-- slug: 2026-06-26-appeals-court-rejects-trump-epa-bid-to-abandon-soot-pollution-rule
-  headline: Appeals court rejects Trump EPA bid to abandon soot pollution rule
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6089
-- slug: 2026-05-01-ohio-county-referendum-tests-power-of-local-bans-on-solar
-  headline: Ohio county referendum tests power of local bans on solar
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6379
-- slug: 2026-05-28-ohio-suspends-data-center-tax-break-as-ai-boom-strains-state-budgets
-  headline: Ohio suspends data center tax break as AI boom strains state budgets
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6207
-- slug: 2026-05-15-ohio-supreme-court-to-hear-case-on-whether-counties-can-keep-home-equity-beyond-
-  headline: Ohio Supreme Court to hear case on whether counties can keep home equity beyond tax debt
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6247
-- slug: 2026-06-16-ohio-gov-dewine-calls-on-state-legislature-to-abolish-death-penalty
-  headline: Ohio Gov. DeWine calls on state legislature to abolish death penalty
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5967
-- slug: 2026-05-30-california-air-regulators-approve-cap-and-trade-changes-drawing-fire-from-all-si
-  headline: California air regulators approve cap-and-trade changes, drawing fire from all sides
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6031
-- slug: 2026-03-21-michigan-pollution-tax-breaks-funnel-millions-while-cities-lack-oversight
-  headline: Michigan pollution tax breaks funnel millions while cities lack oversight
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6278
-- slug: 2026-05-21-ohio-data-center-sales-tax-exemption-cost-1-6-billion-in-2025
-  headline: Ohio data center sales-tax exemption cost $1.6 billion in 2025
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6064
-- slug: 2026-04-14-some-residents-work-to-reverse-local-solar-project-restrictions
-  headline: Some residents work to reverse local solar project restrictions
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6188
-- slug: 2026-01-28-epa-proposes-easing-air-pollution-rule-on-interstate-emissions
-  headline: EPA proposes easing air pollution rule on interstate emissions
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6296
-- slug: 2026-03-21-law-meant-to-clean-michigan-s-air-now-costs-the-state-billions
-  headline: Law meant to clean Michigan’s air now costs the state billions
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6136
-- slug: 2026-05-15-ohio-supreme-court-to-decide-challenge-over-county-property-tax-surplus
-  headline: Ohio Supreme Court to decide challenge over county property-tax surplus
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5921
-- slug: 2026-05-05-trump-doj-seeks-to-block-minnesota-s-climate-fraud-lawsuit
-  headline: Trump DOJ seeks to block Minnesota’s climate fraud lawsuit
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5957
-- slug: 2026-02-19-alabama-gop-bill-would-bar-stricter-pollution-rules-without-proven-harm
-  headline: Alabama GOP bill would bar stricter pollution rules without proven harm
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6123
-- slug: 2026-03-31-jurors-deadlocked-in-trial-of-ex-firstenergy-officials-over-60m-bribery
-  headline: Jurors deadlocked in trial of ex-FirstEnergy officials over $60M bribery
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6052
-- slug: 2026-04-30-epa-and-conservation-groups-challenge-wyoming-s-impaired-water-sample-limits
-  headline: EPA and conservation groups challenge Wyoming’s “impaired” water sample limits
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5934
+  strength: 0.6679
 ---
-
 ## Ohio judge blocks budget amendment repealing air nuisance rule
 
 **Subtype:** fact

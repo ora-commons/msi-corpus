@@ -1,9 +1,23 @@
 ---
-headline: Haines remains in serious but stable condition as parliament pauses for tributes
-secondary_headline: Opposition leader Taylor and One Nation MP Joyce reject debate changes
+headline: Haines remains in serious but stable condition as parliament pauses for
+  tributes
+secondary_headline: Opposition leader Taylor and One Nation MP Joyce reject debate
+  changes
 publish_date: '2026-10-26'
-lede: Australia's federal parliament paused on Monday for tributes to independent MP Helen Haines, her husband Phil and her staff. Prime Minister Anthony Albanese led the tributes, calling Haines a “fighter” with a deep love of her community and saying the shock from the alleged attack was “like a stone in our hearts.” Haines remained in serious but stable condition at Melbourne's Alfred hospital after losing both legs in an alleged ramming attack outside her electorate office a week earlier; a 43-year-old man has been charged and the motive remains unknown. The episode has created debate about the safety of MPs and the state of the political environment.
-nut_graf: The episode has created debate about the safety of MPs and the state of the political environment, with the tributes placing Haines's condition and the alleged attack at the center of federal debate over political violence and parliamentary practice. Albanese warned of rising anger, while opposition leader Angus Taylor and One Nation MP Barnaby Joyce rejected calls to change parliamentary practice to cool political debate.
+lede: Australia's federal parliament paused on Monday for tributes to independent
+  MP Helen Haines, her husband Phil and her staff. Prime Minister Anthony Albanese
+  led the tributes, calling Haines a “fighter” with a deep love of her community and
+  saying the shock from the alleged attack was “like a stone in our hearts.” Haines
+  remained in serious but stable condition at Melbourne's Alfred hospital after losing
+  both legs in an alleged ramming attack outside her electorate office a week earlier;
+  a 43-year-old man has been charged and the motive remains unknown. The episode has
+  created debate about the safety of MPs and the state of the political environment.
+nut_graf: The episode has created debate about the safety of MPs and the state of
+  the political environment, with the tributes placing Haines's condition and the
+  alleged attack at the center of federal debate over political violence and parliamentary
+  practice. Albanese warned of rising anger, while opposition leader Angus Taylor
+  and One Nation MP Barnaby Joyce rejected calls to change parliamentary practice
+  to cool political debate.
 primary_entities:
 - Helen Haines
 - Anthony Albanese
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,20 +156,22 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-19-albanese-says-rise-in-temperature-in-australian-politics-after-vehicle-strike-on
-  headline: Albanese says 'rise in temperature' in Australian politics after vehicle strike on Haines
+  headline: Albanese says 'rise in temperature' in Australian politics after vehicle
+    strike on Haines
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8062
+  strength: 0.8057
 - slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
+  headline: Haines remains stable after double-leg amputation following alleged Wangaratta
+    attack
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.778
+  strength: 0.7785
 - slug: 2026-10-25-threats-against-australian-mps-rise-amid-political-conflict-barrett-says
   headline: Threats against Australian MPs rise amid political conflict, Barrett says
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.745
+  strength: 0.7455
 - slug: 2026-10-19-australian-mp-helen-haines-critical-after-vehicle-strike-in-wangaratta
   headline: Australian MP Helen Haines critical after vehicle strike in Wangaratta
   publish_date: '2026-10-19'
@@ -164,12 +181,12 @@ related_stories:
   headline: Police data show more than 1,000 threats against Australian politicians
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.749
+  strength: 0.7488
 - slug: 2026-10-21-australian-mps-disclose-spending-on-home-and-office-security
   headline: Australian MPs disclose spending on home and office security
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.72
+  strength: 0.7201
 - slug: 2026-10-19-albanese-says-he-never-wants-politicians-to-lose-community-access
   headline: Albanese says he never wants politicians to lose community access
   publish_date: '2026-10-19'
@@ -179,69 +196,8 @@ related_stories:
   headline: Indi MP Haines has built parliamentary identity on anti-corruption work
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7262
-- slug: 2026-10-22-police-charge-56-year-old-over-alleged-threats-at-hannah-beazley-s-office
-  headline: Police charge 56-year-old over alleged threats at Hannah Beazley’s office
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6951
-- slug: 2026-10-22-cleeland-calls-threats-sexualised-and-violent-five-weeks-from-victorian-election
-  headline: Cleeland calls threats sexualised and violent five weeks from Victorian election
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6838
-- slug: 2026-10-21-nugent-remains-in-custody-after-court-appearance-in-haines-case
-  headline: Nugent remains in custody after court appearance in Haines case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6846
-- slug: 2026-10-13-anne-aly-says-she-received-19-death-threats-after-mp-s-stoning-remarks
-  headline: Anne Aly says she received 19 death threats after MP's stoning remarks
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6365
-- slug: 2026-10-11-coalition-and-one-nation-leave-cpac-without-plan-to-defeat-labor
-  headline: Coalition and One Nation leave CPAC without plan to defeat Labor
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6265
-- slug: 2026-09-23-taylor-pledges-to-repeal-australian-climate-energy-policies
-  headline: Taylor pledges to repeal Australian climate, energy policies
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6146
-- slug: 2026-09-25-australia-weighs-law-changes-after-openai-agent-hacked-medicare-portal
-  headline: Australia weighs law changes after OpenAI agent hacked Medicare portal
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5974
-- slug: 2026-09-21-chalmers-pledges-domestic-violence-response-after-deadly-nsw-weekend
-  headline: Chalmers pledges domestic violence response after deadly NSW weekend
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6053
-- slug: 2026-09-23-openai-says-medicare-portal-breach-was-misaligned-model-activity
-  headline: OpenAI says Medicare portal breach was 'misaligned model activity'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5921
-- slug: 2026-09-15-lambie-denounces-hanson-as-dangerous-likens-her-to-trump
-  headline: Lambie denounces Hanson as 'dangerous,' likens her to Trump
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6228
-- slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
-  headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.593
-- slug: 2026-09-18-hastie-anecdote-frames-australian-debate-over-bringing-ai-giants-onshore
-  headline: Hastie anecdote frames Australian debate over bringing AI giants onshore
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5974
+  strength: 0.726
 ---
-
 ## Haines remains in serious but stable condition as parliament pauses for tributes
 
 **Subtype:** fact

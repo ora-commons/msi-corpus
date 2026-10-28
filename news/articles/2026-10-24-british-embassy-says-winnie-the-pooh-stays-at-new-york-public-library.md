@@ -2,8 +2,18 @@
 headline: British Embassy says Winnie-the-Pooh stays at New York Public Library
 secondary_headline: Free exhibit and 3,000-book giveaway mark Pooh's 100th anniversary
 publish_date: '2026-10-24'
-lede: The British Embassy in Washington said Thursday that Winnie-the-Pooh and the other stuffed animals that inspired A.A. Milne's books will remain at the New York Public Library, dispelling reports of a campaign to return the collection to the United Kingdom. The library is marking the character's centennial with a free public exhibit and a giveaway of 3,000 copies of the books, library communications director Melissa Grace said.
-nut_graf: The British Embassy's statement dispelled reports of a campaign to return the collection, and the library has turned the character's anniversary into a public exhibition and book giveaway. The toys came to the United States for a national tour and were donated to the library by publisher Dutton Children's Books in 1987, and the collection's free-gift history has been a point of contrast in the return campaign.
+lede: The British Embassy in Washington said Thursday that Winnie-the-Pooh and the
+  other stuffed animals that inspired A.A. Milne's books will remain at the New York
+  Public Library, dispelling reports of a campaign to return the collection to the
+  United Kingdom. The library is marking the character's centennial with a free public
+  exhibit and a giveaway of 3,000 copies of the books, library communications director
+  Melissa Grace said.
+nut_graf: The British Embassy's statement dispelled reports of a campaign to return
+  the collection, and the library has turned the character's anniversary into a public
+  exhibition and book giveaway. The toys came to the United States for a national
+  tour and were donated to the library by publisher Dutton Children's Books in 1987,
+  and the collection's free-gift history has been a point of contrast in the return
+  campaign.
 primary_entities:
 - New York Public Library
 - British Embassy in Washington
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,111 +153,10 @@ cross_article_links:
   strength: 0.5157
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-04-british-museum-faces-backlash-over-bayeux-tapestry-ticket-access
-  headline: British Museum faces backlash over Bayeux Tapestry ticket access
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.5983
-- slug: 2026-10-10-people-s-house-museum-unveils-gilded-oval-office-replica
-  headline: People's House museum unveils gilded Oval Office replica
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5617
-- slug: 2026-09-25-xi-announces-atlanta-panda-pair-at-trump-summit
-  headline: Xi announces Atlanta panda pair at Trump summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5753
-- slug: 2026-09-12-smithsonian-secretary-bunch-defends-independence-as-he-prepares-to-exit
-  headline: Smithsonian Secretary Bunch defends independence as he prepares to exit
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.576
-- slug: 2026-08-28-state-department-seeks-to-sell-wiley-painting-removed-from-dominican-embassy
-  headline: State Department seeks to sell Wiley painting removed from Dominican embassy
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5334
-- slug: 2026-08-08-us-embassy-seeks-applicants-for-500-000-uk-public-education-grants
-  headline: US embassy seeks applicants for $500,000 UK public education grants
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5536
-- slug: 2026-06-02-puffin-and-bumblebee-among-18-creatures-shortlisted-to-feature-on-banknotes
-  headline: Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5983
-- slug: 2026-04-28-king-charles-iii-and-camilla-visit-new-york-s-9-11-memorial-during-us-trip
-  headline: King Charles III and Camilla visit New York’s 9/11 memorial during US trip
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6093
-- slug: 2026-04-26-china-to-send-giant-pandas-ping-ping-and-fu-shuang-to-atlanta
-  headline: China to send giant pandas Ping Ping and Fu Shuang to Atlanta
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5718
-- slug: 2026-06-23-wsj-reporter-describes-peeling-paint-multicolored-water-at-lincoln-reflecting-po
-  headline: WSJ reporter describes peeling paint, multicolored water at Lincoln Reflecting Pool
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.535
-- slug: 2026-04-26-king-charles-u-s-state-visit-to-spotlight-us-uk-bonds-amid-iran-tensions
-  headline: King Charles' U.S. state visit to spotlight US-UK bonds amid Iran tensions
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5644
-- slug: 2026-06-01-georgia-woman-sets-guinness-record-with-1-581-wonder-woman-items
-  headline: Georgia woman sets Guinness record with 1,581 Wonder Woman items
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.543
-- slug: 2026-05-24-jim-henson-s-creature-shop-opens-queens-doors-for-first-public-tours
-  headline: Jim Henson's Creature Shop opens Queens doors for first public tours
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5366
-- slug: 2026-05-14-usps-unveils-special-bald-eagle-stamps-for-america-s-250th-birthday
-  headline: USPS unveils special bald eagle stamps for America’s 250th birthday
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.538
-- slug: 2026-01-13-smithsonian-hands-exhibit-details-to-white-house-amid-pressure-for-upbeat-us-his
-  headline: Smithsonian hands exhibit details to White House amid pressure for upbeat US history
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.5612
-- slug: 2026-02-16-larry-the-cat-marks-15-years-as-britain-s-first-feline
-  headline: Larry the cat marks 15 years as Britain’s “first feline”
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.558
-- slug: 2026-01-10-250-years-after-common-sense-thomas-paine-still-awaits-a-washington-memorial
-  headline: 250 years after 'Common Sense,' Thomas Paine still awaits a Washington memorial
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.5537
-- slug: 2026-02-20-melania-trump-donates-2025-inaugural-gown-to-smithsonian
-  headline: Melania Trump donates 2025 inaugural gown to Smithsonian
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5404
-- slug: 2026-02-17-judge-orders-trump-administration-to-restore-washington-slavery-exhibit
-  headline: Judge orders Trump administration to restore Washington slavery exhibit
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.5385
-- slug: 2026-01-16-ap-publishes-quiz-on-trump-s-first-year-back-in-the-white-house
-  headline: AP publishes quiz on Trump's first year back in the White House
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5395
+related_stories: []
 analyses:
-- '2026-10-24-british-embassy-clarifies-pooh-s-new-york-custody-while-leaving-british-access-u'
+- 2026-10-24-british-embassy-clarifies-pooh-s-new-york-custody-while-leaving-british-access-u
 ---
-
 ## British Embassy says Winnie-the-Pooh stays at New York Public Library
 
 **Subtype:** fact

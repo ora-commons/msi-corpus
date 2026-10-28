@@ -1,9 +1,19 @@
 ---
 headline: India finds five trafficked orangutans amid expanding exotic-pet trade
-secondary_headline: Indonesia sends experts to verify five Odisha orangutans’ origins and health
+secondary_headline: Indonesia sends experts to verify five Odisha orangutans’ origins
+  and health
 publish_date: '2026-10-26'
-lede: Five baby orangutans — three males and two females aged six to eight months — were found after being left on a plantation in India’s eastern Odisha state in early September, more than 2,700 kilometers (1,700 miles) from their native rainforests in Borneo and Sumatra. Indonesia’s Ministry of Forestry said it sent experts to verify the animals’ origins and health while pursuing their repatriation. The orangutans are now at an Indian zoo, where keepers reportedly have been playing classical music to soothe them.
-nut_graf: The case has prompted scrutiny of how endangered apes enter India, how legal import exceptions and a registration system affect proof of origin, and how authorities verify the animals’ care. Separate findings about a Tapanuli orangutan at Vantara leave questions about another acquisition and its route unresolved.
+lede: Five baby orangutans — three males and two females aged six to eight months
+  — were found after being left on a plantation in India’s eastern Odisha state in
+  early September, more than 2,700 kilometers (1,700 miles) from their native rainforests
+  in Borneo and Sumatra. Indonesia’s Ministry of Forestry said it sent experts to
+  verify the animals’ origins and health while pursuing their repatriation. The orangutans
+  are now at an Indian zoo, where keepers reportedly have been playing classical music
+  to soothe them.
+nut_graf: The case has prompted scrutiny of how endangered apes enter India, how legal
+  import exceptions and a registration system affect proof of origin, and how authorities
+  verify the animals’ care. Separate findings about a Tapanuli orangutan at Vantara
+  leave questions about another acquisition and its route unresolved.
 primary_entities:
 - India
 - Indonesia
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,109 +153,8 @@ cross_article_links:
   strength: 0.5676
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-25-xi-announces-atlanta-panda-pair-at-trump-summit
-  headline: Xi announces Atlanta panda pair at Trump summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5825
-- slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6035
-- slug: 2026-05-27-argentina-seizes-over-700-marine-animals-trafficked-from-kenya-for-exotic-pet-tr
-  headline: Argentina seizes over 700 marine animals trafficked from Kenya for exotic pet trade
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6319
-- slug: 2026-07-01-nearly-400-chinese-fishing-vessels-operate-off-peru-s-southern-coast-researchers
-  headline: Nearly 400 Chinese fishing vessels operate off Peru's southern coast, researchers say
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5929
-- slug: 2026-06-25-latin-american-zoos-launch-campaign-as-wildlife-trade-shifts-online
-  headline: Latin American zoos launch campaign as wildlife trade shifts online
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5889
-- slug: 2026-05-26-argentina-rescues-700-marine-animals-trafficked-from-kenya-in-exotic-wildlife-se
-  headline: Argentina rescues 700 marine animals trafficked from Kenya in exotic wildlife seizure
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6059
-- slug: 2026-06-26-environmental-groups-demand-investigation-into-alligator-alcatraz-everglades-dam
-  headline: Environmental groups demand investigation into Alligator Alcatraz Everglades damage
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5682
-- slug: 2026-03-18-2-men-charged-with-illegal-wildlife-trade-after-hundreds-of-ants-seized-in-kenya
-  headline: 2 men charged with illegal wildlife trade after hundreds of ants seized in Kenya
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6122
-- slug: 2026-03-21-rhinos-return-to-uganda-s-kidepo-valley-after-extinction-from-poaching
-  headline: Rhinos return to Uganda’s Kidepo Valley after extinction from poaching
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6072
-- slug: 2026-05-10-critically-endangered-mountain-bongo-returns-to-kenya-s-wild
-  headline: Critically endangered mountain bongo returns to Kenya’s wild
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5918
-- slug: 2026-04-26-china-to-send-giant-pandas-ping-ping-and-fu-shuang-to-atlanta
-  headline: China to send giant pandas Ping Ping and Fu Shuang to Atlanta
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5912
-- slug: 2026-05-12-lola-ya-bonobo-sanctuary-fosters-orphaned-apes-rescued-from-congo-poachers
-  headline: Lola Ya Bonobo sanctuary fosters orphaned apes rescued from Congo poachers
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.579
-- slug: 2026-06-02-founder-surrenders-louisiana-zoo-after-animal-escapes-usda-violations
-  headline: Founder surrenders Louisiana zoo after animal escapes, USDA violations
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5675
-- slug: 2026-04-30-rare-mountain-bongos-return-to-kenya-from-czech-zoo-for-wild-release
-  headline: Rare mountain bongos return to Kenya from Czech zoo for wild release
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5831
-- slug: 2026-05-06-gold-prices-spark-mining-rush-in-brazil-s-amazon-fueling-deforestation
-  headline: Gold prices spark mining rush in Brazil's Amazon, fueling deforestation
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.58
-- slug: 2026-05-18-japan-s-last-pandas-depart-as-china-ties-worsen
-  headline: Japan's last pandas depart as China ties worsen
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5698
-- slug: 2026-05-18-canada-conditionally-approves-exporting-marineland-s-captive-whales-to-us
-  headline: Canada conditionally approves exporting Marineland's captive whales to US
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.569
-- slug: 2026-05-10-kenya-s-ghost-of-the-forest-mountain-bongo-edges-back-from-the-brink
-  headline: Kenya's 'ghost of the forest' mountain bongo edges back from the brink
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.568
-- slug: 2026-01-12-five-alal-survive-first-year-in-maui-forests-after-two-decades-out-of-the-wild
-  headline: Five ʻalalā survive first year in Maui forests after two decades out of the wild
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5881
-- slug: 2026-02-28-amazon-akuntsu-tribe-had-about-three-women-left-birth-brings-hope
-  headline: Amazon Akuntsu tribe had about three women left; birth brings hope
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5821
+related_stories: []
 ---
-
 ## India finds five trafficked orangutans amid expanding exotic-pet trade
 
 **Subtype:** fact

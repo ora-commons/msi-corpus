@@ -1,9 +1,15 @@
 ---
-headline: Massachusetts voters weigh gun registry law as Idaho voters consider state firearm
+headline: Massachusetts voters weigh gun registry law as Idaho voters consider state
+  firearm
 secondary_headline: Registration deadline comes six days before the referendum
 publish_date: '2026-10-25'
-lede: Massachusetts residents face a Wednesday deadline to register their firearms, six days before voters decide whether to uphold a 2024 gun law. Idaho voters are being asked to advise lawmakers on which of six historic firearms should become the official state gun, a nonbinding measure with different aims.
-nut_graf: The November ballot questions will gauge public opinion in states with different gun ownership rates and political control, but they will not settle the national tension between firearm freedoms and restrictions.
+lede: Massachusetts residents face a Wednesday deadline to register their firearms,
+  six days before voters decide whether to uphold a 2024 gun law. Idaho voters are
+  being asked to advise lawmakers on which of six historic firearms should become
+  the official state gun, a nonbinding measure with different aims.
+nut_graf: The November ballot questions will gauge public opinion in states with different
+  gun ownership rates and political control, but they will not settle the national
+  tension between firearm freedoms and restrictions.
 primary_entities:
 - Massachusetts
 - Idaho
@@ -49,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +158,23 @@ related_stories:
   headline: Young voters split on gun control despite shared fear of mass shootings
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7064
-- slug: 2026-10-22-voters-will-decide-mail-ballot-identification-measures-in-california-colorado-an
-  headline: Voters will decide mail-ballot identification measures in California, Colorado and Nevada
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6405
+  strength: 0.7061
 - slug: 2026-10-19-unpaid-idaho-volunteers-place-abortion-rights-measure-on-november-ballot
   headline: Unpaid Idaho volunteers place abortion rights measure on November ballot
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.658
+  strength: 0.656
 - slug: 2026-09-22-missouri-asks-voters-to-overturn-2024-abortion-protections
   headline: Missouri asks voters to overturn 2024 abortion protections
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7001
-- slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
-  headline: Democrats, retired military lawyers press Trump on National Guard at polls
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6182
-- slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
-  headline: Three states bar student IDs at polls as courts weigh challenges
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6245
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6227
-- slug: 2026-08-07-supreme-court-weighs-trump-bid-to-restrict-mail-in-voting
-  headline: Supreme Court weighs Trump bid to restrict mail-in voting
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.627
-- slug: 2026-07-31-massachusetts-senate-sends-late-pregnancy-abortion-bill-to-governor
-  headline: Massachusetts Senate sends late-pregnancy abortion bill to governor
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6386
+  strength: 0.6999
 - slug: 2026-06-25-massachusetts-house-passes-bill-to-protect-libraries-from-book-bans
   headline: Massachusetts House passes bill to protect libraries from book bans
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.664
-- slug: 2026-06-30-supreme-court-to-review-state-bans-on-ar-15-style-rifles
-  headline: Supreme Court to review state bans on AR-15-style rifles
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6468
-- slug: 2026-06-24-massachusetts-supreme-court-strikes-down-rent-control-ballot-measure
-  headline: Massachusetts Supreme Court Strikes Down Rent-Control Ballot Measure
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6271
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration
-  headline: Montana judge blocks law limiting Election Day voter registration
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6512
-- slug: 2026-05-13-maine-s-ranked-choice-voting-remains-in-constitutional-limbo-with-no-clear-path-
-  headline: Maine's ranked-choice voting remains in constitutional limbo, with no clear path forward
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6375
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration-citing-harm-to
-  headline: Montana judge blocks law limiting Election Day voter registration, citing harm to Native and young voters
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6364
-- slug: 2026-03-07-states-advance-proof-of-citizenship-voting-laws-as-senate-filibuster-stalls-fede
-  headline: States advance proof-of-citizenship voting laws as Senate filibuster stalls federal bill
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6453
-- slug: 2026-05-18-supreme-court-likely-to-strike-down-hawaii-gun-restrictions
-  headline: Supreme Court likely to strike down Hawaii gun restrictions
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6171
-- slug: 2026-05-13-maine-ranked-choice-voting-remains-stuck-in-hybrid-limbo-for-nov-elections
-  headline: Maine ranked-choice voting remains stuck in hybrid limbo for Nov elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6188
-- slug: 2026-04-15-massachusetts-income-tax-cut-ballot-question-divides-business-groups-and-lawmake
-  headline: Massachusetts income tax cut ballot question divides business groups and lawmakers
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6281
-- slug: 2026-02-06-mississippi-senate-advances-measure-to-restore-ballot-initiative-right
-  headline: Mississippi Senate advances measure to restore ballot initiative right
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.635
+  strength: 0.6625
 ---
-
 ## Massachusetts voters weigh gun registry law as Idaho voters consider state firearm
 
 **Subtype:** fact

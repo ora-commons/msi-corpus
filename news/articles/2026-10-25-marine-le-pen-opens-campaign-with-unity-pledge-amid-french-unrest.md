@@ -2,8 +2,30 @@
 headline: Marine Le Pen opens campaign with unity pledge amid French unrest
 secondary_headline: Le Pen's government offer targets voters beyond National Rally
 publish_date: '2026-10-25'
-lede: Marine Le Pen opened her campaign for next year's French presidential election in Orléans on Sunday with an appeal for national unity as weeks of unrest fueled by economic hardship and anger at the government continued. The Wall Street Journal reported that more than 400,000 people marched on Saturday against the rising cost of living and deteriorating public services; the demonstrations were largely peaceful, though clashes with police broke out in several regions. Le Pen proposed economic and public-order measures and said she would step down as head of National Rally's parliamentary group and form a government of national unity with National Rally president Jordan Bardella as prime minister.
-nut_graf: Le Pen's appeal for unity is aimed at winning support beyond National Rally's traditional base as she seeks the presidency for a fourth time, having reached the presidential runoffs in 2017 and 2022 and lost both to Emmanuel Macron. The Wall Street Journal presented her claim to be the only political figure who could pull the country together as reflecting her position of strength. The outlet said she led her rivals by a wide margin in first-round polls, while some surveys put her ahead in a runoff. Separately, an Ipsos poll published Saturday found that 32% to 33.5% of voters would back Le Pen in the first round, little changed from before the unrest. The report said Le Pen had spent more than a decade trying to shed her party's “extremist reputation” and that she remains deeply divisive. A French appeals court upheld her conviction in July for illegally using millions of euros in European Union funds, but her sentence remains suspended pending a final appeal. At Sunday's convention, Union of Jewish Students of France activists interrupted Bardella's speech; party security forcibly removed them, and the group alleged members were assaulted.
+lede: Marine Le Pen opened her campaign for next year's French presidential election
+  in Orléans on Sunday with an appeal for national unity as weeks of unrest fueled
+  by economic hardship and anger at the government continued. The Wall Street Journal
+  reported that more than 400,000 people marched on Saturday against the rising cost
+  of living and deteriorating public services; the demonstrations were largely peaceful,
+  though clashes with police broke out in several regions. Le Pen proposed economic
+  and public-order measures and said she would step down as head of National Rally's
+  parliamentary group and form a government of national unity with National Rally
+  president Jordan Bardella as prime minister.
+nut_graf: Le Pen's appeal for unity is aimed at winning support beyond National Rally's
+  traditional base as she seeks the presidency for a fourth time, having reached the
+  presidential runoffs in 2017 and 2022 and lost both to Emmanuel Macron. The Wall
+  Street Journal presented her claim to be the only political figure who could pull
+  the country together as reflecting her position of strength. The outlet said she
+  led her rivals by a wide margin in first-round polls, while some surveys put her
+  ahead in a runoff. Separately, an Ipsos poll published Saturday found that 32% to
+  33.5% of voters would back Le Pen in the first round, little changed from before
+  the unrest. The report said Le Pen had spent more than a decade trying to shed her
+  party's “extremist reputation” and that she remains deeply divisive. A French appeals
+  court upheld her conviction in July for illegally using millions of euros in European
+  Union funds, but her sentence remains suspended pending a final appeal. At Sunday's
+  convention, Union of Jewish Students of France activists interrupted Bardella's
+  speech; party security forcibly removed them, and the group alleged members were
+  assaulted.
 primary_entities:
 - Marine Le Pen
 - Jordan Bardella
@@ -49,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,107 +171,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
-  headline: French authorities mobilize 70,000 police and soldiers ahead of expected protests
+  headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+    protests
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7269
+  strength: 0.7274
 - slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
   headline: Macron says some leaders used French unrest for political campaigns
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7372
+  strength: 0.7375
 - slug: 2026-10-20-meichtry-says-le-pen-is-positioned-to-emerge-stronger-pitching-order
   headline: Meichtry says Le Pen is positioned to emerge stronger, pitching order
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7286
+  strength: 0.7285
 - slug: 2026-10-23-french-authorities-prepare-about-70-000-police-for-saturday-demonstrations
   headline: French authorities prepare about 70,000 police for Saturday demonstrations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6979
+  strength: 0.6985
 - slug: 2026-10-20-french-police-pursue-suspects-after-weekend-violence
   headline: French police pursue suspects after weekend violence
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6665
-- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
-  headline: Economic populism gains ground as both parties court midterm voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6166
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6499
-- slug: 2026-10-22-fox-news-newsmax-and-oan-frame-europe-protests-as-a-warning-for-us-midterms
-  headline: Fox News, Newsmax and OAN frame Europe protests as a warning for US midterms
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.626
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6137
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6069
+  strength: 0.6673
 - slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
   headline: Youth-led protests over French schools draw hundreds of thousands
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.665
+  strength: 0.6649
 - slug: 2026-10-06-france-s-10-year-borrowing-cost-climbs-to-highest-level-since-2002
   headline: France's 10-year borrowing cost climbs to highest level since 2002
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6725
+  strength: 0.6718
 - slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
   headline: French police fire tear gas as 256,000 rally nationwide for school funding
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6711
-- slug: 2026-09-28-france-s-national-rally-wins-record-14-senate-seats
-  headline: France's National Rally wins record 14 Senate seats
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6875
-- slug: 2026-10-06-parti-qu-b-cois-projected-to-win-quebec-election
-  headline: Parti Québécois projected to win Quebec election
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.609
-- slug: 2026-09-26-macron-defends-multilateralism-in-final-un-speech
-  headline: Macron defends multilateralism in final UN speech
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6138
-- slug: 2026-09-04-reform-uk-and-national-rally-sign-channel-migrant-return-memorandum
-  headline: Reform UK and National Rally sign Channel migrant-return memorandum
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.618
-- slug: 2026-03-14-political-parties-tested-as-french-voters-elect-municipal-leaders
-  headline: Political parties tested as French voters elect municipal leaders
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6847
-- slug: 2026-07-14-macron-showcases-european-military-unity-at-bastille-day-parade
-  headline: Macron showcases European military unity at Bastille Day parade
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6113
-- slug: 2026-06-24-trump-loses-backing-from-europe-s-nationalist-right-as-meloni-feud-erupts
-  headline: Trump loses backing from Europe's nationalist right as Meloni feud erupts
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6247
+  strength: 0.6714
 ---
-
 ## Marine Le Pen opens campaign with unity pledge amid French unrest
 
 **Subtype:** fact

@@ -1,9 +1,27 @@
 ---
-headline: Ocasio-Cortez changes campaign strategy as some DSA members question her path
+headline: Ocasio-Cortez changes campaign strategy as some DSA members question her
+  path
 secondary_headline: FEC filings show Ocasio-Cortez brought in more than $37 million
 publish_date: '2026-10-25'
-lede: Rep. Alexandria Ocasio-Cortez has shifted from backing Democratic primary challengers to contributing to the House Democrats' campaign arm, which supports vulnerable lawmakers, including those who in the past criticized her positions. Federal Election Commission filings show the 37-year-old lawmaker has brought in more than $37 million ahead of the November midterms, making her a top Democratic fundraiser. Ocasio-Cortez says she is considering a 2028 presidential run, while The Wall Street Journal reports that she is weighing a challenge to Senate Minority Leader Chuck Schumer for his New York seat. The Journal says her broader coalition strategy could put at risk support from voters on the political left whom she would need for a bid for the Senate or White House.
-nut_graf: The Wall Street Journal says Ocasio-Cortez's broader coalition strategy could put at risk support from voters on the political left whom she would need for a bid for the Senate or White House. She is up for reelection in November in a New York City district she won by close to 40 percentage points two years ago, and the Journal says she could hold the seat for the foreseeable future. It also reports that she has been ranked among the party's top presidential primary contenders. Ocasio-Cortez has tried to broaden her coalition among Black voters and segments of Make America Healthy Again, while her support for leaders such as Hakeem Jeffries has drawn criticism from some Democratic Socialists of America members.
+lede: Rep. Alexandria Ocasio-Cortez has shifted from backing Democratic primary challengers
+  to contributing to the House Democrats' campaign arm, which supports vulnerable
+  lawmakers, including those who in the past criticized her positions. Federal Election
+  Commission filings show the 37-year-old lawmaker has brought in more than $37 million
+  ahead of the November midterms, making her a top Democratic fundraiser. Ocasio-Cortez
+  says she is considering a 2028 presidential run, while The Wall Street Journal reports
+  that she is weighing a challenge to Senate Minority Leader Chuck Schumer for his
+  New York seat. The Journal says her broader coalition strategy could put at risk
+  support from voters on the political left whom she would need for a bid for the
+  Senate or White House.
+nut_graf: The Wall Street Journal says Ocasio-Cortez's broader coalition strategy
+  could put at risk support from voters on the political left whom she would need
+  for a bid for the Senate or White House. She is up for reelection in November in
+  a New York City district she won by close to 40 percentage points two years ago,
+  and the Journal says she could hold the seat for the foreseeable future. It also
+  reports that she has been ranked among the party's top presidential primary contenders.
+  Ocasio-Cortez has tried to broaden her coalition among Black voters and segments
+  of Make America Healthy Again, while her support for leaders such as Hakeem Jeffries
+  has drawn criticism from some Democratic Socialists of America members.
 primary_entities:
 - Alexandria Ocasio-Cortez
 - Democratic Socialists of America
@@ -60,7 +78,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,104 +181,43 @@ related_stories:
   headline: Ocasio-Cortez campaigns across multiple states in final midterm stretch
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.786
+  strength: 0.7863
 - slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
   headline: Arkansas Democrats push affordability message in final midterm stretch
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6732
+  strength: 0.6731
 - slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
   headline: Economic populism gains ground as both parties court midterm voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6638
+  strength: 0.6655
 - slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6818
+  strength: 0.6831
 - slug: 2026-09-22-ocasio-cortez-leaves-2028-challenge-to-schumer-unresolved
   headline: Ocasio-Cortez leaves 2028 challenge to Schumer unresolved
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8132
+  strength: 0.8128
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6852
+  strength: 0.6849
 - slug: 2026-10-12-marine-veteran-mendoza-challenges-ciscomani-in-arizona-6th-district-race
   headline: Marine veteran Mendoza challenges Ciscomani in Arizona 6th District race
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6629
+  strength: 0.6631
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6665
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6625
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6791
-- slug: 2026-09-24-newsom-urges-democrats-to-link-climate-change-to-kitchen-table-costs
-  headline: Newsom urges Democrats to link climate change to kitchen-table costs
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6758
-- slug: 2026-09-12-dsa-caucuses-range-from-aoc-supporters-to-marxist-leninists
-  headline: DSA caucuses range from AOC supporters to Marxist-Leninists
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7107
-- slug: 2026-08-26-dsa-confirms-ocasio-cortez-rejoined-national-organization-in-august
-  headline: DSA confirms Ocasio-Cortez rejoined national organization in August
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7604
-- slug: 2026-09-05-progressive-candidates-navigate-dsa-ties-as-membership-reaches-120-000
-  headline: Progressive candidates navigate DSA ties as membership reaches 120,000
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7209
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6643
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.683
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6792
-- slug: 2026-09-03-bannon-joins-sanders-ocasio-cortez-in-opposing-new-data-centers
-  headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6694
-- slug: 2026-08-09-ocasio-cortez-documents-egg-freezing-process-online
-  headline: Ocasio-Cortez documents egg-freezing process online
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6872
-- slug: 2026-07-02-el-sayed-earns-ocasio-cortez-endorsement-in-michigan-senate-primary
-  headline: El-Sayed earns Ocasio-Cortez endorsement in Michigan Senate primary
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7076
+  strength: 0.666
 ---
-
 ## Ocasio-Cortez changes campaign strategy as some DSA members question her path
 
 **Subtype:** fact

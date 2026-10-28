@@ -1,9 +1,21 @@
 ---
 headline: First-of-its-kind IUCN reef assessment spans 127 ecoregions worldwide
-secondary_headline: Earlier studies documented coral extinction risk and widespread bleaching
+secondary_headline: Earlier studies documented coral extinction risk and widespread
+  bleaching
 publish_date: '2026-10-22'
-lede: The International Union for Conservation of Nature released a first-of-its-kind reef assessment Thursday spanning 127 tropical and subtropical ecoregions and encompassing 72,726 square miles (188,362 square kilometers) of coral reefs worldwide. The assessment identifies climate change as the “single most consistent threat driving coral reef decline worldwide” and finds that almost all reef ecosystems face a high risk of collapse within 50 years, mostly because of warming oceans and heat waves. IUCN announced the findings on the sidelines of a U.N. biodiversity conference in Albania.
-nut_graf: An IUCN study in Nature published a week earlier found that nearly 44% of reef-building coral species face elevated extinction risk because of climate change. A survey from a year earlier found that harmful bleaching had grown to include 84% of the world's reefs, the most intense in recorded history. Experts said reducing pollution, overfishing and coastal development can complement emissions reductions in helping reefs survive.
+lede: The International Union for Conservation of Nature released a first-of-its-kind
+  reef assessment Thursday spanning 127 tropical and subtropical ecoregions and encompassing
+  72,726 square miles (188,362 square kilometers) of coral reefs worldwide. The assessment
+  identifies climate change as the “single most consistent threat driving coral reef
+  decline worldwide” and finds that almost all reef ecosystems face a high risk of
+  collapse within 50 years, mostly because of warming oceans and heat waves. IUCN
+  announced the findings on the sidelines of a U.N. biodiversity conference in Albania.
+nut_graf: An IUCN study in Nature published a week earlier found that nearly 44% of
+  reef-building coral species face elevated extinction risk because of climate change.
+  A survey from a year earlier found that harmful bleaching had grown to include 84%
+  of the world's reefs, the most intense in recorded history. Experts said reducing
+  pollution, overfishing and coastal development can complement emissions reductions
+  in helping reefs survive.
 primary_entities:
 - International Union for Conservation of Nature
 - United Nations
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,15 +162,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-iucn-projects-96-of-shallow-water-reefs-face-high-collapse-risk-before-2075
-  headline: IUCN projects 96% of shallow-water reefs face high collapse risk before 2075
+  headline: IUCN projects 96% of shallow-water reefs face high collapse risk before
+    2075
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8586
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6056
 - slug: 2026-09-23-scientists-study-pristine-reefs-for-clues-to-heal-damaged-ones
   headline: Scientists study pristine reefs for clues to heal damaged ones
   publish_date: '2026-09-23'
@@ -168,88 +177,12 @@ related_stories:
   publish_date: '2026-09-23'
   relation: related
   strength: 0.6557
-- slug: 2026-09-22-tropical-warming-will-outlast-net-zero-emissions-study-finds
-  headline: Tropical warming will outlast net-zero emissions, study finds
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6022
-- slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
-  headline: WMO warns strongest El Niño in 70 years set to intensify into winter
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5914
-- slug: 2026-09-02-un-report-acknowledges-earth-will-exceed-paris-climate-threshold
-  headline: UN report acknowledges Earth will exceed Paris climate threshold
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.613
-- slug: 2026-08-28-scientists-warn-chile-argentina-peru-face-growing-glacial-flood-risks
-  headline: Scientists warn Chile, Argentina, Peru face growing glacial flood risks
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5961
-- slug: 2026-08-13-fossil-study-prehistoric-co2-surge-withered-forests-not-greened-them
-  headline: 'Fossil study: prehistoric CO2 surge withered forests, not greened them'
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6173
-- slug: 2026-08-10-florida-wildlife-agencies-announce-coastal-corridor-to-protect-marine-life
-  headline: Florida wildlife agencies announce coastal corridor to protect marine life
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5989
-- slug: 2026-07-22-scientists-transport-30-elkhorn-coral-fragments-to-land-hatchery-amid-heat-conce
-  headline: Scientists transport 30 elkhorn coral fragments to land hatchery amid heat concerns
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6075
 - slug: 2026-05-08-climate-change-threatens-tens-of-thousands-of-plant-species-studies-warn
   headline: Climate change threatens tens of thousands of plant species, studies warn
   publish_date: '2026-05-08'
   relation: related
   strength: 0.6543
-- slug: 2026-05-16-global-warming-reduces-oxygen-in-rivers-worldwide-threatening-fish-and-creating-
-  headline: Global warming reduces oxygen in rivers worldwide, threatening fish and creating dead zones
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6471
-- slug: 2026-05-16-warming-reduces-oxygen-in-rivers-worldwide-study-warns
-  headline: Warming reduces oxygen in rivers worldwide, study warns
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6389
-- slug: 2026-06-17-ocean-marine-heatwaves-more-than-triple-since-early-1990s-report-finds
-  headline: Ocean marine heatwaves more than triple since early 1990s, report finds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6174
-- slug: 2026-04-29-how-to-prevent-sunscreen-chemicals-from-hurting-coral-reefs
-  headline: How to prevent sunscreen chemicals from hurting coral reefs
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6428
-- slug: 2026-06-10-coastal-floods-once-rare-now-12-times-more-likely-study-finds
-  headline: Coastal floods once rare now 12 times more likely, study finds
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.606
-- slug: 2026-01-16-ocean-acidification-could-weaken-sharks-teeth-study-finds
-  headline: Ocean acidification could weaken sharks' teeth, study finds
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6413
-- slug: 2026-04-14-scientist-use-dna-in-efforts-to-help-species-adapt-to-climate-change
-  headline: Scientist use DNA in efforts to help species adapt to climate change
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.623
-- slug: 2026-05-19-scientists-revise-global-warming-projections-say-worst-and-best-cases-no-longer-
-  headline: Scientists revise global warming projections, say worst and best cases no longer plausible
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6063
 ---
-
 ## First-of-its-kind IUCN reef assessment spans 127 ecoregions worldwide
 
 **Subtype:** fact

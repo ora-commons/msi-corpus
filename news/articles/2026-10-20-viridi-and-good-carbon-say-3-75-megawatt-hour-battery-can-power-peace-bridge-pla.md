@@ -1,9 +1,22 @@
 ---
-headline: Viridi and Good Carbon say 3.75-megawatt-hour battery can power Peace Bridge Place for several days
+headline: Viridi and Good Carbon say 3.75-megawatt-hour battery can power Peace Bridge
+  Place for several days
 secondary_headline: Forced-failure test supports indoor use without added suppression
 publish_date: '2026-10-20'
-lede: Manufacturer Viridi and developer Good Carbon Co. said Tuesday that the 3.75-megawatt-hour lithium-ion battery system installed at the Peace Bridge Place affordable housing complex in Buffalo, New York, can power the complex for several days and is among the largest battery systems in a U.S. residential building. The system stores excess electricity when power is plentiful and supplies the building when the grid is strained and electricity is costly. Manufacturer Viridi and state officials hope the project will show that large batteries can operate safely where people live and work.
-nut_graf: Large batteries that safely power apartment buildings remain uncommon because of cost and fire-risk concerns, even as experts say deploying them could help replace fossil fuels with renewables. The Peace Bridge Place project is intended to demonstrate safe indoor operation, and its utility arrangement can lower residents' electricity costs. NYSERDA President and CEO Doreen Harris said New York needs more options like the Peace Bridge Place system to maintain a reliable grid and manage costs. Separately, Gov. Kathy Hochul has made that a priority.
+lede: Manufacturer Viridi and developer Good Carbon Co. said Tuesday that the 3.75-megawatt-hour
+  lithium-ion battery system installed at the Peace Bridge Place affordable housing
+  complex in Buffalo, New York, can power the complex for several days and is among
+  the largest battery systems in a U.S. residential building. The system stores excess
+  electricity when power is plentiful and supplies the building when the grid is strained
+  and electricity is costly. Manufacturer Viridi and state officials hope the project
+  will show that large batteries can operate safely where people live and work.
+nut_graf: Large batteries that safely power apartment buildings remain uncommon because
+  of cost and fire-risk concerns, even as experts say deploying them could help replace
+  fossil fuels with renewables. The Peace Bridge Place project is intended to demonstrate
+  safe indoor operation, and its utility arrangement can lower residents' electricity
+  costs. NYSERDA President and CEO Doreen Harris said New York needs more options
+  like the Peace Bridge Place system to maintain a reliable grid and manage costs.
+  Separately, Gov. Kathy Hochul has made that a priority.
 primary_entities:
 - Viridi
 - Good Carbon Co.
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +151,8 @@ cross_article_links:
   strength: 0.5881
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-21-dte-energy-seeks-approval-for-two-gas-plants-amid-michigan-datacenter-growth
-  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.584
-- slug: 2026-10-09-epic-systems-stores-data-center-heat-in-6-100-underground-wells
-  headline: Epic Systems stores data center heat in 6,100 underground wells
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6077
-- slug: 2026-10-09-east-fishkill-enacts-three-year-moratorium-on-large-datacenters
-  headline: East Fishkill enacts three-year moratorium on large datacenters
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.604
-- slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5814
-- slug: 2026-09-29-us-sodium-ion-battery-startups-race-to-challenge-china-s-manufacturing-lead
-  headline: US sodium-ion battery startups race to challenge China's manufacturing lead
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6202
-- slug: 2026-08-03-base-power-raises-1-billion-to-expand-residential-battery-rollout
-  headline: Base Power raises $1 billion to expand residential battery rollout
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6444
-- slug: 2026-08-12-form-energy-raises-750-million-for-iron-air-battery-expansion
-  headline: Form Energy raises $750 million for iron-air battery expansion
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6093
-- slug: 2026-08-11-samsung-sdi-acquires-gm-s-49-99-stake-in-u-s-battery-venture
-  headline: Samsung SDI acquires GM's 49.99% stake in U.S. battery venture
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6077
-- slug: 2026-07-19-china-s-battery-storage-surges-to-155-gw-chinese-suppliers-capture-90-of-market
-  headline: China's battery storage surges to 155 GW, Chinese suppliers capture 90% of market
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5901
-- slug: 2026-05-08-renter-friendly-air-conditioning-battery-program-could-cut-energy-bills
-  headline: Renter-friendly air-conditioning battery program could cut energy bills
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6386
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5898
-- slug: 2026-07-03-lg-honda-joint-venture-begins-ess-battery-production-at-ohio-plant
-  headline: LG-Honda joint venture begins ESS battery production at Ohio plant
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5876
-- slug: 2026-06-05-more-us-states-legalize-plug-in-balcony-solar-as-energy-bills-climb
-  headline: More US states legalize plug-in 'balcony' solar as energy bills climb
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6116
-- slug: 2026-07-05-five-year-old-evs-retain-95-of-battery-range-study-finds
-  headline: Five-year-old EVs retain 95% of battery range, study finds
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5782
-- slug: 2026-06-25-california-program-gives-aging-mobile-home-parks-a-second-life
-  headline: California program gives aging mobile home parks a second life
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5831
-- slug: 2026-06-24-us-cities-built-for-1950s-weather-face-unsurvivable-heat-researchers-warn
-  headline: US Cities Built for 1950s Weather Face Unsurvivable Heat, Researchers Warn
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5814
-- slug: 2026-05-27-cities-swap-asphalt-parking-lots-for-porous-panels-and-plants-to-beat-heat-and-f
-  headline: Cities swap asphalt parking lots for porous panels and plants to beat heat and flooding
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5955
-- slug: 2026-05-19-thermal-energy-storage-project-debuts-beside-south-dakota-ethanol-plant
-  headline: Thermal energy storage project debuts beside South Dakota ethanol plant
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5925
-- slug: 2026-03-25-connecticut-lawmakers-consider-lifting-limits-on-plug-in-solar-panels
-  headline: Connecticut lawmakers consider lifting limits on plug-in solar panels
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6062
-- slug: 2026-02-20-old-batteries-leak-toxins-experts-outline-safe-disposal-steps
-  headline: Old batteries leak toxins; experts outline safe disposal steps
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6012
+related_stories: []
 ---
-
 ## Viridi and Good Carbon say 3.75-megawatt-hour battery can power Peace Bridge Place for several days
 
 **Subtype:** fact

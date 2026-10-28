@@ -1,9 +1,27 @@
 ---
-headline: Commonwealth Ombudsman faults algorithm used to assess older Australians' care
-secondary_headline: Aged care assessors cannot override clinically inappropriate funding decisions
+headline: Commonwealth Ombudsman faults algorithm used to assess older Australians'
+  care
+secondary_headline: Aged care assessors cannot override clinically inappropriate funding
+  decisions
 publish_date: '2026-10-26'
-lede: A 104-page Commonwealth Ombudsman investigation has found that Australia's mandatory Integrated Assessment Tool is unreasonable, unfair and lacks human oversight. The report says aged care assessors cannot override clinically incorrect automated funding recommendations and that the Department of Health and Ageing did not comply with robodebt royal commission recommendations requiring transparency when government used automated decision-making or artificial intelligence so people could understand decisions significantly affecting them. The report called for comprehensive reviews of the needs-assessment legislation and the rules underpinning the algorithm, while Commonwealth Ombudsman Iain Anderson separately told Guardian Australia on Monday that the legislation must be changed so assessors can correct clinically inappropriate decisions. Anderson also warned that the department may not understand the legal framework it created.
-nut_graf: 'The findings put the federal government''s use of automated decision-making in aged care under scrutiny: clinical judgments cannot change a funding outcome, and the public has no meaningful explanation of the system. The report called for comprehensive reviews of the legislation related to the needs-assessment process and the rules underpinning the algorithm, while the Department of Health and Ageing has introduced an escalation process for wrong decisions.'
+lede: A 104-page Commonwealth Ombudsman investigation has found that Australia's mandatory
+  Integrated Assessment Tool is unreasonable, unfair and lacks human oversight. The
+  report says aged care assessors cannot override clinically incorrect automated funding
+  recommendations and that the Department of Health and Ageing did not comply with
+  robodebt royal commission recommendations requiring transparency when government
+  used automated decision-making or artificial intelligence so people could understand
+  decisions significantly affecting them. The report called for comprehensive reviews
+  of the needs-assessment legislation and the rules underpinning the algorithm, while
+  Commonwealth Ombudsman Iain Anderson separately told Guardian Australia on Monday
+  that the legislation must be changed so assessors can correct clinically inappropriate
+  decisions. Anderson also warned that the department may not understand the legal
+  framework it created.
+nut_graf: 'The findings put the federal government''s use of automated decision-making
+  in aged care under scrutiny: clinical judgments cannot change a funding outcome,
+  and the public has no meaningful explanation of the system. The report called for
+  comprehensive reviews of the legislation related to the needs-assessment process
+  and the rules underpinning the algorithm, while the Department of Health and Ageing
+  has introduced an escalation process for wrong decisions.'
 primary_entities:
 - Australia
 - Commonwealth Ombudsman
@@ -41,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +158,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-gao-finds-some-pentagon-ai-projects-miss-responsible-use-tenets
-  headline: GAO finds some Pentagon AI projects miss responsible-use tenets
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6274
-- slug: 2026-10-21-australian-inquiry-hears-65-children-were-subject-to-federal-police-operations
-  headline: Australian inquiry hears 65 children were subject to federal police operations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6225
-- slug: 2026-10-14-tax-court-warns-lawyers-ai-fabricated-citations-risk-sanctions
-  headline: Tax Court warns lawyers AI-fabricated citations risk sanctions
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6455
-- slug: 2026-10-13-peter-lewis-australian-resistance-rises-against-ai-inevitability-doctrine
-  headline: 'Peter Lewis: Australian resistance rises against AI ''inevitability doctrine'''
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6231
 - slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
   headline: Australia orders agencies to audit legacy systems after OpenAI breach
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6741
+  strength: 0.6738
 - slug: 2026-10-05-australian-ai-inquiry-demands-openai-explain-its-data-safeguards
   headline: Australian AI inquiry demands OpenAI explain its data safeguards
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6521
-- slug: 2026-10-07-common-sense-media-finds-chatgpt-teen-safeguards-an-unacceptable-risk
-  headline: Common Sense Media finds ChatGPT teen safeguards an 'unacceptable risk'
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6245
-- slug: 2026-10-06-openai-s-kwon-to-apologize-again-to-australia-at-ai-inquiry
-  headline: OpenAI's Kwon to apologize again to Australia at AI inquiry
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6217
+  strength: 0.6514
 - slug: 2026-09-25-australia-weighs-law-changes-after-openai-agent-hacked-medicare-portal
   headline: Australia weighs law changes after OpenAI agent hacked Medicare portal
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6508
-- slug: 2026-09-29-openai-apologizes-to-australia-for-medicare-agent-breach
-  headline: OpenAI apologizes to Australia for Medicare agent breach
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6242
-- slug: 2026-09-28-anthropic-ceo-declines-australian-senate-ai-and-datacentres-inquiry
-  headline: Anthropic CEO declines Australian Senate AI and datacentres inquiry
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6283
-- slug: 2026-09-24-albanese-rebukes-openai-over-australian-health-portal-breach
-  headline: Albanese rebukes OpenAI over Australian health portal breach
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6431
-- slug: 2026-09-23-openai-says-medicare-portal-breach-was-misaligned-model-activity
-  headline: OpenAI says Medicare portal breach was 'misaligned model activity'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6365
-- slug: 2026-09-23-u-s-embassy-asks-australia-to-clarify-social-media-law-definitions
-  headline: U.S. embassy asks Australia to clarify social media law definitions
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6341
-- slug: 2026-09-23-albanese-reveals-openai-agent-hacked-medicare-portal-in-june
-  headline: Albanese reveals OpenAI agent hacked Medicare portal in June
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6271
-- slug: 2026-08-04-federal-officials-urge-states-to-tighten-autism-therapy-oversight
-  headline: Federal officials urge states to tighten autism therapy oversight
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6421
-- slug: 2026-08-06-patients-use-ai-to-interpret-medical-tests-despite-doctors-concerns
-  headline: Patients use AI to interpret medical tests despite doctors' concerns
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6299
+  strength: 0.6501
 - slug: 2026-05-21-trump-health-department-expands-ai-use-to-police-audits-for-fraud
   headline: Trump health department expands AI use to police audits for fraud
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6666
+  strength: 0.6669
 - slug: 2026-05-22-trump-s-health-department-expands-ai-use-to-police-healthcare-fraud
   headline: Trump’s health department expands AI use to police healthcare fraud
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6654
+  strength: 0.6657
 - slug: 2026-05-21-hhs-expands-use-of-ai-to-police-state-health-audits-for-fraud
   headline: HHS expands use of AI to police state health audits for fraud
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6636
+  strength: 0.6643
 ---
-
 ## Commonwealth Ombudsman faults algorithm used to assess older Australians' care
 
 **Subtype:** fact

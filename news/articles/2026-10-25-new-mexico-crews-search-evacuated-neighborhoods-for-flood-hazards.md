@@ -2,8 +2,18 @@
 headline: New Mexico crews search evacuated neighborhoods for flood hazards
 secondary_headline: Hundreds in Farmington area remain without power as rivers recede
 publish_date: '2026-10-25'
-lede: Crews in New Mexico searched evacuated neighborhoods Sunday for dead animals, downed power lines and other hazards left behind by receding floodwaters. San Juan County Undersheriff Cory Tanner said officials were going house to house to check for hazards, a process that could take days. Fire & Rescue Chief David Vega said residents were anxious to return but warned that hazards remained.
-nut_graf: Undersheriff Cory Tanner said the house-to-house hazard inspection could take days. San Juan County officials said water could be contaminated with chemicals and raw sewage and gas and propane lines could be broken. National Weather Service meteorologist Kris Sanders said little additional rain could make at least small creeks and streams overflow because the soils were saturated. San Juan County had no official totals for damaged homes or evacuees, and hundreds in the Farmington area lacked power.
+lede: Crews in New Mexico searched evacuated neighborhoods Sunday for dead animals,
+  downed power lines and other hazards left behind by receding floodwaters. San Juan
+  County Undersheriff Cory Tanner said officials were going house to house to check
+  for hazards, a process that could take days. Fire & Rescue Chief David Vega said
+  residents were anxious to return but warned that hazards remained.
+nut_graf: Undersheriff Cory Tanner said the house-to-house hazard inspection could
+  take days. San Juan County officials said water could be contaminated with chemicals
+  and raw sewage and gas and propane lines could be broken. National Weather Service
+  meteorologist Kris Sanders said little additional rain could make at least small
+  creeks and streams overflow because the soils were saturated. San Juan County had
+  no official totals for damaged homes or evacuees, and hundreds in the Farmington
+  area lacked power.
 primary_entities:
 - New Mexico
 - San Juan County
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,11 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
+  headline: Flood warning remains in Four Corners as San Juan River nears crest
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7928
 - slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
+  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten
+    surges
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7975
+  strength: 0.7981
 - slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
   headline: Four Corners region braces for more storms amid flood cleanup
   publish_date: '2026-10-25'
@@ -156,103 +173,42 @@ related_stories:
   headline: Flooding in Four Corners prompts rooftop rescues and evacuations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7745
+  strength: 0.7746
+- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
+  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7205
+- slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
+  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding
+    risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6792
 - slug: 2026-10-21-investigation-finds-staffing-gaps-before-deadly-2025-ruidoso-flood
   headline: Investigation finds staffing gaps before deadly 2025 Ruidoso flood
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6624
+  strength: 0.6633
 - slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
   headline: California readies for potentially historic El Niño winter
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6655
-- slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
-  headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6693
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7052
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6844
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.667
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6707
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6709
-- slug: 2026-02-20-crews-use-water-to-reduce-avalanche-risk-while-recovering-california-victims
-  headline: Crews use water to reduce avalanche risk while recovering California victims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6945
-- slug: 2026-04-14-rain-prompts-flood-warnings-watches-across-northern-michigan
-  headline: Rain prompts flood warnings, watches across Northern Michigan
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6805
-- slug: 2026-05-23-crack-found-on-southern-california-chemical-tank-may-reduce-explosion-risk-but-e
-  headline: Crack found on Southern California chemical tank may reduce explosion risk, but evacuations hold
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6643
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6922
-- slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near damaged chemical tank extend into holiday weekend
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.66
-- slug: 2026-01-04-more-storms-forecast-for-california-as-flood-cleanup-continues-after-king-tide-s
-  headline: More storms forecast for California as flood cleanup continues after King Tide surge
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6899
-- slug: 2026-03-31-about-100-superfund-sites-are-vulnerable-to-flooding-storms-wildfires
-  headline: About 100 Superfund sites are vulnerable to flooding, storms, wildfires
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6763
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6563
-- slug: 2026-05-20-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6575
+  strength: 0.6646
 image:
   url: /articles/2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards.png
-  alt: "Illustration accompanying article: New Mexico crews search evacuated neighborhoods for flood hazards"
+  alt: 'Illustration accompanying article: New Mexico crews search evacuated neighborhoods
+    for flood hazards'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## New Mexico crews search evacuated neighborhoods for flood hazards
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: Shooting near Bragg Memorial Stadium injures 12 as police seek tips
-secondary_headline: Six remained hospitalized Sunday morning; one was in critical condition
+secondary_headline: Six remained hospitalized Sunday morning; one was in critical
+  condition
 publish_date: '2026-10-25'
-lede: Tallahassee police said a Saturday-night shooting near Bragg Memorial Stadium injured 12 people, including six minors, during a college football celebration. The shooting occurred near Florida A&M University during homecoming weekend, and 11 victims sustained gunshot wounds. On Sunday, police said no arrests had been made and asked people for tips, photos and video.
-nut_graf: The investigation remained preliminary on Sunday, with no arrests made and police still working to identify those responsible. A preliminary police account said a fight broke out before the shooting in a crowded area, while investigators continued to seek tips, photos and video.
+lede: Tallahassee police said a Saturday-night shooting near Bragg Memorial Stadium
+  injured 12 people, including six minors, during a college football celebration.
+  The shooting occurred near Florida A&M University during homecoming weekend, and
+  11 victims sustained gunshot wounds. On Sunday, police said no arrests had been
+  made and asked people for tips, photos and video.
+nut_graf: The investigation remained preliminary on Sunday, with no arrests made and
+  police still working to identify those responsible. A preliminary police account
+  said a fight broke out before the shooting in a crowded area, while investigators
+  continued to seek tips, photos and video.
 primary_entities:
 - Tallahassee Police Department
 - Lawrence Revell
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,116 +147,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-shooting-near-bragg-memorial-stadium-injures-12-as-police-seek-tips.png
-  alt: 'Illustration accompanying article: Shooting near Bragg Memorial Stadium injures 12 as police seek tips'
+  alt: 'Illustration accompanying article: Shooting near Bragg Memorial Stadium injures
+    12 as police seek tips'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-25-tallahassee-police-report-at-least-12-injured-after-florida-a-m-homecoming-game
-  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming game
+  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming
+    game
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8985
+- slug: 2026-10-26-tallahassee-police-say-monday-a-15-year-old-was-charged-in-florida-a-m-shooting
+  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M
+    shooting
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8863
+- slug: 2026-10-25-revell-initially-reports-no-arrests-after-tallahassee-stadium-area-shooting
+  headline: Revell initially reports no arrests after Tallahassee stadium-area shooting
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8636
 - slug: 2026-10-25-tallahassee-police-investigate-shooting-near-florida-a-m-university
   headline: Tallahassee police investigate shooting near Florida A+M University
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8204
-- slug: 2026-10-04-two-killed-35-injured-in-georgia-block-party-mass-shooting
-  headline: Two killed, 35 injured in Georgia block-party mass shooting
-  publish_date: '2026-10-04'
+- slug: 2026-10-26-revell-says-police-carried-victims-to-responders-because-of-football-game-crowds
+  headline: Revell says police carried victims to responders because of football-game
+    crowds
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6445
-- slug: 2026-10-04-two-dead-in-georgia-block-party-shooting-12-year-old-girl-killed-in-baltimore
-  headline: Two dead in Georgia block-party shooting; 12-year-old girl killed in Baltimore
-  publish_date: '2026-10-04'
+  strength: 0.8188
+- slug: 2026-10-26-tallahassee-police-arrest-15-year-old-after-gunfire-near-famu
+  headline: Tallahassee police arrest 15-year-old after gunfire near FAMU
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6414
-- slug: 2026-09-02-minneapolis-convention-center-shooting-injures-two-officers-multiple-others
-  headline: Minneapolis convention center shooting injures two officers, multiple others
-  publish_date: '2026-09-02'
+  strength: 0.7929
+- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
+  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6067
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6487
-- slug: 2026-08-30-trenton-shooting-kills-2-wounds-8-at-large-street-gathering
-  headline: Trenton shooting kills 2, wounds 8 at large street gathering
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5975
-- slug: 2026-08-16-police-arrest-19-year-old-in-virginia-state-university-shooting-that-wounded-5
-  headline: Police arrest 19-year-old in Virginia State University shooting that wounded 5
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.5951
-- slug: 2026-08-01-five-hurt-in-twin-falls-idaho-shooting-at-in-n-out-burger
-  headline: Five hurt in Twin Falls, Idaho, shooting at In-N-Out Burger
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6072
+  strength: 0.7765
 - slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
   headline: Shooting near University of Iowa wounds five people
   publish_date: '2026-04-19'
   relation: related
   strength: 0.6733
-- slug: 2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis
-  headline: 19 injured in two overnight shootings in Tucson and Minneapolis
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6031
-- slug: 2026-06-07-at-least-12-wounded-in-shooting-near-toledo-festival-police-search-for-suspects
-  headline: At least 12 wounded in shooting near Toledo festival; police search for suspects
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6345
-- slug: 2026-06-20-at-least-12-shot-in-chicago-juneteenth-mass-shooting-police-say
-  headline: At least 12 shot in Chicago Juneteenth mass shooting, police say
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6138
-- slug: 2026-06-07-multiple-people-shot-near-festival-in-toledo-ohio-suspect-at-large
-  headline: Multiple people shot near festival in Toledo, Ohio; suspect at large
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6168
-- slug: 2026-04-22-police-seek-17-year-old-for-attempted-murder-in-shooting-near-iowa-campus
-  headline: Police seek 17-year-old for attempted murder in shooting near Iowa campus
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6328
-- slug: 2026-05-05-shooting-at-oklahoma-lakeside-party-sends-at-least-18-to-hospitals
-  headline: Shooting at Oklahoma lakeside party sends at least 18 to hospitals
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6193
-- slug: 2026-03-02-9-hurt-in-cincinnati-nightclub-shooting-no-arrests-yet-police-say
-  headline: 9 hurt in Cincinnati nightclub shooting; no arrests yet, police say
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.632
-- slug: 2026-04-23-police-seek-17-year-old-on-attempted-murder-charges-after-iowa-city-shooting
-  headline: Police seek 17-year-old on attempted murder charges after Iowa City shooting
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6171
-- slug: 2026-03-02-federal-authorities-join-police-search-for-suspect-in-cincinnati-nightclub-shoot
-  headline: Federal authorities join police search for suspect in Cincinnati nightclub shooting
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6257
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6
 ---
-
 ## Shooting near Bragg Memorial Stadium injures 12 as police seek tips
 
 **Subtype:** fact

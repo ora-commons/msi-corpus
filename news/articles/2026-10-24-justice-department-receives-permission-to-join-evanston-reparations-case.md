@@ -1,9 +1,26 @@
 ---
 headline: Justice Department receives permission to join Evanston reparations case
-secondary_headline: Municipal and university reparations programs continue as federal policies shift
+secondary_headline: Municipal and university reparations programs continue as federal
+  policies shift
 publish_date: '2026-10-24'
-lede: The Justice Department has received a federal judge’s permission to intervene in a lawsuit against Evanston, Illinois, seeking to block the city’s municipal reparations program and its $25,000 housing grant for Black residents whose families were harmed by discriminatory housing policies. The department alleges that Evanston’s actions violate the equal protection clause of the 14th Amendment and the Fair Housing Act. Robin Rue Simmons has spent years trying to answer what repairing slavery’s damage would actually look like, a question that has vexed the United States since abolition; she helped turn that effort into Evanston’s program and is spreading it to more than 100 communities. The intervention comes as the Trump administration pursues efforts to curtail federal support for race-based initiatives and Black history, has issued an anti-DEI order aimed at U.S. universities and has entered the legal fight in Evanston seeking to stop the program.
-nut_graf: The case places race-based benefits under federal equal-protection and fair-housing scrutiny while local and university reparations programs continue. Evanston offers a housing grant, Georgetown University considers descendants for admission, and the Virginia Theological Seminary makes annual cash payments. A March U.N. General Assembly resolution calling for reparations drew support from more than 120 countries, with the United States among three nations voting against.
+lede: The Justice Department has received a federal judge’s permission to intervene
+  in a lawsuit against Evanston, Illinois, seeking to block the city’s municipal reparations
+  program and its $25,000 housing grant for Black residents whose families were harmed
+  by discriminatory housing policies. The department alleges that Evanston’s actions
+  violate the equal protection clause of the 14th Amendment and the Fair Housing Act.
+  Robin Rue Simmons has spent years trying to answer what repairing slavery’s damage
+  would actually look like, a question that has vexed the United States since abolition;
+  she helped turn that effort into Evanston’s program and is spreading it to more
+  than 100 communities. The intervention comes as the Trump administration pursues
+  efforts to curtail federal support for race-based initiatives and Black history,
+  has issued an anti-DEI order aimed at U.S. universities and has entered the legal
+  fight in Evanston seeking to stop the program.
+nut_graf: The case places race-based benefits under federal equal-protection and fair-housing
+  scrutiny while local and university reparations programs continue. Evanston offers
+  a housing grant, Georgetown University considers descendants for admission, and
+  the Virginia Theological Seminary makes annual cash payments. A March U.N. General
+  Assembly resolution calling for reparations drew support from more than 120 countries,
+  with the United States among three nations voting against.
 primary_entities:
 - Evanston, Illinois
 - Robin Rue Simmons
@@ -63,7 +80,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -165,113 +183,53 @@ related_stories:
   headline: Justice Department joins lawsuit challenging Evanston reparations program
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.8378
-- slug: 2026-10-21-justice-department-alleges-osu-med-admissions-favored-black-hispanic-applicants
-  headline: Justice Department alleges OSU Med admissions favored Black, Hispanic applicants
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6384
-- slug: 2026-10-02-doj-sues-university-of-delaware-over-in-state-tuition-for-undocumented-students
-  headline: DOJ sues University of Delaware over in-state tuition for undocumented students
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6408
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6409
-- slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
-  headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6513
+  strength: 0.8383
 - slug: 2026-06-17-trump-administration-sues-evanston-over-housing-reparations-program
   headline: Trump administration sues Evanston over housing reparations program
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.8235
+  strength: 0.8236
 - slug: 2026-09-11-doj-files-four-new-suits-over-in-state-tuition-for-noncitizens
   headline: DOJ files four new suits over in-state tuition for noncitizens
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6616
-- slug: 2026-09-05-federal-magistrate-orders-discovery-into-defunct-1-8bn-compensation-scheme
-  headline: Federal magistrate orders discovery into defunct $1.8bn compensation scheme
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6334
-- slug: 2026-08-28-justice-department-files-dream-act-tuition-lawsuits-against-four-states
-  headline: Justice Department files Dream Act tuition lawsuits against four states
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6288
-- slug: 2026-08-10-doj-targets-new-york-connecticut-vermont-with-dream-act-tuition-complaints
-  headline: DOJ targets New York, Connecticut, Vermont with Dream Act tuition complaints
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6466
-- slug: 2026-07-20-justice-department-investigates-harvard-s-china-based-financial-aid-programs
-  headline: Justice Department investigates Harvard's China-based financial aid programs
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6357
-- slug: 2026-07-10-yale-weighs-second-settlement-offer-as-faculty-alumni-press-leadership-to-resist
-  headline: Yale weighs second settlement offer as faculty, alumni press leadership to resist
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6323
+  strength: 0.6593
 - slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
+  headline: Justice Department investigates 15 medical schools over alleged race discrimination
+    in admissions
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6629
-- slug: 2026-06-30-1996-law-at-center-of-doj-tuition-suits-against-mass-r-i
-  headline: 1996 law at center of DOJ tuition suits against Mass., R.I.
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6339
-- slug: 2026-06-19-law-students-petition-supreme-court-to-extend-workplace-protections-to-federal-c
-  headline: Law students petition Supreme Court to extend workplace protections to federal court employees
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6442
-- slug: 2026-06-25-kansas-doj-seek-to-end-in-state-tuition-for-undocumented-students
-  headline: Kansas, DOJ seek to end in-state tuition for undocumented students
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6309
+  strength: 0.6598
 - slug: 2026-04-23-desantis-signs-florida-law-banning-local-dei-funding-white-men-disfavored
   headline: DeSantis signs Florida law banning local DEI funding; white men ‘disfavored’
   publish_date: '2026-04-23'
   relation: related
-  strength: 0.6606
+  strength: 0.6599
 - slug: 2026-04-22-desantis-signs-florida-law-banning-local-dei-funding-says-white-men-disfavored
   headline: DeSantis signs Florida law banning local DEI funding, says white men ‘disfavored’
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.6541
+  strength: 0.6535
 - slug: 2026-01-22-virginia-ag-jones-withdraws-from-agreement-backing-doj-challenge-to-dream-act
-  headline: Virginia AG Jones withdraws from agreement backing DOJ challenge to Dream Act
+  headline: Virginia AG Jones withdraws from agreement backing DOJ challenge to Dream
+    Act
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.6688
-- slug: 2026-03-27-trump-administration-investigates-race-in-admissions-at-3-medical-schools
-  headline: Trump administration investigates race in admissions at 3 medical schools
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6483
+  strength: 0.666
 image:
   url: /articles/2026-10-24-justice-department-receives-permission-to-join-evanston-reparations-case.png
-  alt: "Illustration accompanying article: Justice Department receives permission to join Evanston reparations case"
+  alt: 'Illustration accompanying article: Justice Department receives permission
+    to join Evanston reparations case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Justice Department receives permission to join Evanston reparations case
 
 **Subtype:** fact

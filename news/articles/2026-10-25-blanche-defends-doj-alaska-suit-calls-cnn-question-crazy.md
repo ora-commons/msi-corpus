@@ -2,8 +2,18 @@
 headline: Blanche defends DOJ Alaska suit, calls CNN question 'crazy'
 secondary_headline: Derek Mueller calls the suit's legal claim 'absurdly thin'
 publish_date: '2026-10-25'
-lede: Attorney General Todd Blanche on Sunday called a CNN host's question "crazy" as he defended the Justice Department's pre-emptive lawsuit to block certification of Alaska's Senate results if the Republican incumbent loses. The exchange on CNN's State of the Union came after host Dana Bash asked whether President Donald Trump might try to overturn the election — "and the result of that could be, God forbid, what we saw after January 6."
-nut_graf: The lawsuit, filed days before the 2026 midterm elections, alleges possible "voter confusion" because two candidates named Dan Sullivan appear on Alaska's ballot. David Becker, executive director of the Center for Election Innovation & Research, called the suit "an unprecedented intervention by the federal government," while Richard H. Pildes said the lawsuit should have "no realistic chance of success in the courts."
+lede: Attorney General Todd Blanche on Sunday called a CNN host's question "crazy"
+  as he defended the Justice Department's pre-emptive lawsuit to block certification
+  of Alaska's Senate results if the Republican incumbent loses. The exchange on CNN's
+  State of the Union came after host Dana Bash asked whether President Donald Trump
+  might try to overturn the election — "and the result of that could be, God forbid,
+  what we saw after January 6."
+nut_graf: The lawsuit, filed days before the 2026 midterm elections, alleges possible
+  "voter confusion" because two candidates named Dan Sullivan appear on Alaska's ballot.
+  David Becker, executive director of the Center for Election Innovation & Research,
+  called the suit "an unprecedented intervention by the federal government," while
+  Richard H. Pildes said the lawsuit should have "no realistic chance of success in
+  the courts."
 primary_entities:
 - Todd Blanche
 - Donald Trump
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,117 +151,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
+  headline: Blanche frames Alaska election suit as federal-law test
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8475
+- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
+  headline: Blanche defends lawsuit to block Alaska Senate certification
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8076
 - slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
   headline: Blanche won't rule out DOJ role in state election certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7883
+  strength: 0.786
+- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
+  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7593
 - slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
   headline: Legal experts say Alaska Senate certification suit has no chance of success
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7559
+  strength: 0.7548
 - slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7511
+  strength: 0.7491
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7429
+  strength: 0.7402
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7392
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7248
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6954
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6654
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6613
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6644
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6468
-- slug: 2026-09-27-blanche-white-house-press-access-is-a-privilege-not-a-right
-  headline: 'Blanche: White House press access is ''a privilege, not a right'''
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6617
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6458
-- slug: 2026-08-07-murkowski-to-oppose-blanche-nomination-over-jan-6-fund-leverage
-  headline: Murkowski to oppose Blanche nomination over Jan. 6 fund leverage
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.659
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.655
-- slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
-  headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.663
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6835
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6518
-- slug: 2026-07-07-over-1-200-former-doj-employees-urge-senate-to-reject-blanche
-  headline: Over 1,200 former DOJ employees urge Senate to reject Blanche
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6431
-- slug: 2026-05-19-blanche-won-t-rule-out-payouts-for-violent-jan-6-participants-as-doj-fund-faces-
-  headline: Blanche won’t rule out payouts for violent Jan. 6 participants as DOJ fund faces scrutiny
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6749
+  strength: 0.7371
 image:
   url: /articles/2026-10-25-blanche-defends-doj-alaska-suit-calls-cnn-question-crazy.png
-  alt: "Illustration accompanying article: Blanche defends DOJ Alaska suit, calls CNN question 'crazy'"
+  alt: 'Illustration accompanying article: Blanche defends DOJ Alaska suit, calls
+    CNN question ''crazy'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Blanche defends DOJ Alaska suit, calls CNN question 'crazy'
 
 **Subtype:** fact

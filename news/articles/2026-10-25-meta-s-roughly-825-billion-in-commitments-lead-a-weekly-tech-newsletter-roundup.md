@@ -1,9 +1,23 @@
 ---
-headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter roundup
-secondary_headline: The same edition covered PHP's security flaw, Apple's iPhone Duo and Anthropic
+headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+  roundup
+secondary_headline: The same edition covered PHP's security flaw, Apple's iPhone Duo
+  and Anthropic
 publish_date: '2026-10-25'
-lede: The Wall Street Journal's weekly Technology newsletter led with Meta's AI spending, reporting that the company plans to keep spending “aggressively” on AI and is creating a new class of nonvoting stock to pay for it. The following morning, Meta disclosed roughly $825 billion in future leases and noncancelable contracts, and investors sent its shares down nearly 8%. The same edition carried an electric-vehicle road test, a first-week verdict on Apple's iPhone Duo, a critical PHP security disclosure and shorter items on Apple's launch readiness, Anthropic's IPO preparations, the arrest of a Saudi national accused of bugging an OpenAI conference room, Trump Accounts funding and extended workplace hours.
-nut_graf: The edition brings Meta's AI financing decisions together with consumer device reviews, a security disclosure affecting software that powers as much as 70% of the world's websites, and shorter items on corporate strategy and workplace practice. It shows how Meta is funding a data-center build-out, what testers found in new hardware, and which risks were flagged around major companies.
+lede: The Wall Street Journal's weekly Technology newsletter led with Meta's AI spending,
+  reporting that the company plans to keep spending “aggressively” on AI and is creating
+  a new class of nonvoting stock to pay for it. The following morning, Meta disclosed
+  roughly $825 billion in future leases and noncancelable contracts, and investors
+  sent its shares down nearly 8%. The same edition carried an electric-vehicle road
+  test, a first-week verdict on Apple's iPhone Duo, a critical PHP security disclosure
+  and shorter items on Apple's launch readiness, Anthropic's IPO preparations, the
+  arrest of a Saudi national accused of bugging an OpenAI conference room, Trump Accounts
+  funding and extended workplace hours.
+nut_graf: The edition brings Meta's AI financing decisions together with consumer
+  device reviews, a security disclosure affecting software that powers as much as
+  70% of the world's websites, and shorter items on corporate strategy and workplace
+  practice. It shows how Meta is funding a data-center build-out, what testers found
+  in new hardware, and which risks were flagged around major companies.
 primary_entities:
 - Meta
 - Mark Zuckerberg
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,107 +164,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-meta-plans-ai-capital-raise-as-future-spending-commitments-rise-to-roughly-825-b
-  headline: Meta plans AI capital raise as future spending commitments rise to roughly $825 billion
+  headline: Meta plans AI capital raise as future spending commitments rise to roughly
+    $825 billion
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8231
+  strength: 0.823
 - slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
   headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7949
+  strength: 0.7959
 - slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
-  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7867
+  strength: 0.7868
 - slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
   headline: Meta reports 37% profit drop and 15% headcount cut
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.757
+  strength: 0.7579
 - slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
   headline: Zuckerberg commits to California stay for eight years under new Meta deal
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7096
+  strength: 0.7106
 - slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
   headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6952
+  strength: 0.6956
 - slug: 2026-09-27-meta-expands-muse-agent-access-as-amazon-blocks-purchases
   headline: Meta expands Muse agent access as Amazon blocks purchases
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7433
+  strength: 0.7428
 - slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
   headline: Meta's Muse AI agent tops App Store, shares jump 11%
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7536
-- slug: 2026-09-21-meta-surges-12-as-muse-hits-no-1-on-app-store-truist-sees-28-5b-by-2030
-  headline: Meta surges 12% as Muse hits No. 1 on App Store; Truist sees $28.5B by 2030
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7335
-- slug: 2026-09-22-meta-surges-on-ai-agent-app-financial-sector-drops-2-on-ai-fears
-  headline: Meta surges on AI agent app; financial sector drops 2% on AI fears
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7289
-- slug: 2026-09-23-meta-s-muse-tops-app-store-as-amazon-blocks-it-from-purchases
-  headline: Meta's Muse tops App Store as Amazon blocks it from purchases
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7172
-- slug: 2026-09-22-meta-s-muse-tops-app-store-lands-shopify-purchase-deal
-  headline: Meta's Muse tops App Store, lands Shopify purchase deal
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6957
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.694
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7119
-- slug: 2026-08-11-zuckerberg-calls-open-weight-models-open-source-ai-in-6-500-word-essay
-  headline: Zuckerberg calls open-weight models 'open source AI' in 6,500-word essay
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7171
-- slug: 2026-08-10-zuckerberg-sets-out-meta-s-ai-plans-in-a-6-500-word-essay
-  headline: Zuckerberg sets out Meta's AI plans in a 6,500-word essay
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7171
-- slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
-  headline: Meta faces lawsuits over teen safety as it pushes into AI
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7362
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7533
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7756
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6941
+  strength: 0.7525
 ---
-
 ## Meta's roughly $825 billion in commitments lead a weekly tech newsletter roundup
 
 **Subtype:** fact

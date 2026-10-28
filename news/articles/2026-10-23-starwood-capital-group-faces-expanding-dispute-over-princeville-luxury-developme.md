@@ -1,9 +1,24 @@
 ---
 headline: Starwood Capital Group faces expanding dispute over Princeville luxury development
-secondary_headline: Non-development dedication renews automatically in five-year increments unless 75% of owners vote otherwise
+secondary_headline: Non-development dedication renews automatically in five-year increments
+  unless 75% of owners vote otherwise
 publish_date: '2026-10-23'
-lede: Starwood Capital Group’s proposal to build luxury homes and condominiums on the closed nine-hole Woods Golf Course in Princeville, an 8,000-acre peninsula resort community on Kaua‘i’s North Shore, has become a widening legal and political dispute. The company, described as a $115 billion global investment company, is appealing a 2025 ruling that favored two homeowners and now faces a proposed class-action suit. A community association director elected with critical backing from Starwood faces removal, while the company separately sought the ouster of the board president and vice president.
-nut_graf: The dispute extends beyond private property views in Princeville’s 8,000-acre peninsula resort community, where a mix of affluent residents, investment-property owners and multinational corporations is divided over the development plan. Homeowners whose properties buffer the abandoned course advocate open-space protections. Conflicts of interest and competing removal petitions have impeded the Princeville at Hanalei Community Association’s work, and General Manager Bryan Allen has resigned. Bernard Markowicz said the community’s tourism-based economic engine is not being properly managed.
+lede: Starwood Capital Group’s proposal to build luxury homes and condominiums on
+  the closed nine-hole Woods Golf Course in Princeville, an 8,000-acre peninsula resort
+  community on Kaua‘i’s North Shore, has become a widening legal and political dispute.
+  The company, described as a $115 billion global investment company, is appealing
+  a 2025 ruling that favored two homeowners and now faces a proposed class-action
+  suit. A community association director elected with critical backing from Starwood
+  faces removal, while the company separately sought the ouster of the board president
+  and vice president.
+nut_graf: The dispute extends beyond private property views in Princeville’s 8,000-acre
+  peninsula resort community, where a mix of affluent residents, investment-property
+  owners and multinational corporations is divided over the development plan. Homeowners
+  whose properties buffer the abandoned course advocate open-space protections. Conflicts
+  of interest and competing removal petitions have impeded the Princeville at Hanalei
+  Community Association’s work, and General Manager Bryan Allen has resigned. Bernard
+  Markowicz said the community’s tourism-based economic engine is not being properly
+  managed.
 primary_entities:
 - Starwood Capital Group
 - Princeville at Hanalei Community Association
@@ -52,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +165,8 @@ cross_article_links:
   strength: 0.5901
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-10-park-service-signs-preliminary-yosemite-land-swap-for-private-resort-road
-  headline: Park Service signs preliminary Yosemite land swap for private resort road
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5851
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5892
-- slug: 2026-09-27-developer-offers-hazle-township-households-10-000-each-for-data-center
-  headline: Developer offers Hazle Township households $10,000 each for data center
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.581
-- slug: 2026-09-22-california-and-new-york-sue-trump-administration-over-offshore-wind-lease-buybac
-  headline: California and New York sue Trump administration over offshore wind lease buybacks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5839
-- slug: 2026-08-30-four-of-ford-s-children-sue-for-control-of-his-600-million-hilltop-stake
-  headline: Four of Ford's children sue for control of his $600 million Hilltop stake
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5803
-- slug: 2026-08-25-spacex-to-build-100-billion-starbase-complex-in-louisiana
-  headline: SpaceX to build $100 billion Starbase complex in Louisiana
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5905
-- slug: 2026-08-17-interior-department-announces-1-22-billion-offshore-wind-lease-buyout
-  headline: Interior Department announces $1.22 billion offshore wind lease buyout
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5837
-- slug: 2026-07-05-residents-push-back-against-luxury-development-in-montana-s-flathead-county
-  headline: Residents push back against luxury development in Montana's Flathead County
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6433
-- slug: 2026-08-07-lim-chap-huat-sues-brookfield-over-aborted-singapore-joint-venture
-  headline: Lim Chap Huat sues Brookfield over aborted Singapore joint venture
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.592
-- slug: 2026-07-24-queens-residents-fight-8b-casino-project-near-flushing-chinatown
-  headline: Queens residents fight $8B casino project near Flushing Chinatown
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5937
-- slug: 2026-07-19-developer-s-10b-data-center-plan-prompts-imperial-valley-fight
-  headline: Developer's $10B data center plan prompts Imperial Valley fight
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6008
-- slug: 2026-06-15-trump-uses-wartime-powers-to-push-75m-oakland-coal-terminal
-  headline: Trump uses wartime powers to push $75M Oakland coal terminal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5994
-- slug: 2026-06-18-big-bend-economic-group-sues-trump-administration-over-border-wall-flood-risks
-  headline: Big Bend economic group sues Trump administration over border wall flood risks
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5847
-- slug: 2026-06-10-environmental-groups-sue-to-block-trump-administration-land-swap-with-spacex
-  headline: Environmental groups sue to block Trump administration land swap with SpaceX
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5905
-- slug: 2026-06-01-social-circle-sues-to-halt-ice-megacenter-plan-amid-infrastructure-fears
-  headline: Social Circle sues to halt ICE megacenter plan amid infrastructure fears
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5954
-- slug: 2026-02-23-proposed-kauai-housing-project-divides-historic-k-loa-town
-  headline: Proposed Kauai housing project divides historic Kōloa town
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6159
-- slug: 2026-06-01-people-inc-bids-over-18bn-to-acquire-remaining-mgm-resorts-stake
-  headline: People Inc bids over $18bn to acquire remaining MGM Resorts stake
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5806
-- slug: 2026-02-16-lawsuit-seeks-to-block-trump-overhaul-of-historic-east-potomac-golf-course
-  headline: Lawsuit seeks to block Trump overhaul of historic East Potomac golf course
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6065
-- slug: 2026-01-28-kauai-coffee-faces-closure-over-lease-impasse-threatening-136-local-jobs
-  headline: Kauai Coffee faces closure over lease impasse, threatening 136 local jobs
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6053
-- slug: 2026-04-14-trump-family-business-deals-raise-fresh-conflict-of-interest-questions
-  headline: Trump family business deals raise fresh conflict-of-interest questions
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5822
+related_stories: []
 ---
-
 ## Starwood Capital Group faces expanding dispute over Princeville luxury development
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: Bucks County Senate race draws more than $7 million in spending
-secondary_headline: Pennsylvania Democrats could gain control of a legislature divided for now
+secondary_headline: Pennsylvania Democrats could gain control of a legislature divided
+  for now
 publish_date: '2026-10-25'
-lede: More than $7 million has been spent in a contested Bucks County state Senate district, where independent voter Jerry Scupp told WHYY's Carmen Russell-Sluchansky he did not know the candidates. Reporting from Harrisburg, Russell-Sluchansky said Democrats were spending millions in Pennsylvania and several other states while a national Republican group acknowledged it was largely playing defense in state legislative campaigns. Congressional votes are just over a week away, and more than 6,100 state legislative seats are up for election this fall.
-nut_graf: Democrats have not controlled Pennsylvania's legislature for more than 30 years, and a Democratic legislative victory this fall would give the party control. Gov. Josh Shapiro's policy proposals are conditioned on both Democrats winning the legislature and his reelection. Political science professor John Kennedy said state governments, lawmakers and governors have a greater impact on everyday life than activity in Washington, D.C., because statehouses set rules on education, taxes, reproductive rights, crime and social-media access.
+lede: More than $7 million has been spent in a contested Bucks County state Senate
+  district, where independent voter Jerry Scupp told WHYY's Carmen Russell-Sluchansky
+  he did not know the candidates. Reporting from Harrisburg, Russell-Sluchansky said
+  Democrats were spending millions in Pennsylvania and several other states while
+  a national Republican group acknowledged it was largely playing defense in state
+  legislative campaigns. Congressional votes are just over a week away, and more than
+  6,100 state legislative seats are up for election this fall.
+nut_graf: Democrats have not controlled Pennsylvania's legislature for more than 30
+  years, and a Democratic legislative victory this fall would give the party control.
+  Gov. Josh Shapiro's policy proposals are conditioned on both Democrats winning the
+  legislature and his reelection. Political science professor John Kennedy said state
+  governments, lawmakers and governors have a greater impact on everyday life than
+  activity in Washington, D.C., because statehouses set rules on education, taxes,
+  reproductive rights, crime and social-media access.
 primary_entities:
 - Pennsylvania
 - Bucks County
@@ -56,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,12 +172,13 @@ related_stories:
   headline: Arkansas Democrats push affordability message in final midterm stretch
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6594
+  strength: 0.659
 - slug: 2026-10-21-brooks-mackenzie-offer-different-childcare-plans-in-pennsylvania-s-7th-district
-  headline: Brooks, Mackenzie offer different childcare plans in Pennsylvania's 7th District
+  headline: Brooks, Mackenzie offer different childcare plans in Pennsylvania's 7th
+    District
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6782
+  strength: 0.6776
 - slug: 2026-10-18-brooks-leads-mackenzie-45-to-40-in-pennsylvania-7th-district-poll
   headline: Brooks leads Mackenzie 45% to 40% in Pennsylvania 7th District poll
   publish_date: '2026-10-18'
@@ -173,89 +188,28 @@ related_stories:
   headline: Senate Leadership Fund adds $8M to defend Ricketts' Nebraska seat
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6738
+  strength: 0.673
 - slug: 2026-10-06-sununu-seeks-senate-comeback-in-new-hampshire-against-pappas
   headline: Sununu seeks Senate comeback in New Hampshire against Pappas
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.671
+  strength: 0.6706
 - slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
   headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6955
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6417
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6501
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6474
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6397
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6462
+  strength: 0.6956
 - slug: 2026-05-18-shapiro-backed-democrats-win-pennsylvania-house-primaries-in-swing-districts
   headline: Shapiro-backed Democrats win Pennsylvania House primaries in swing districts
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.6838
+  strength: 0.6843
 - slug: 2026-05-19-shapiro-backed-democrats-win-pa-house-primaries-as-gop-seats-face-challenge
   headline: Shapiro-backed Democrats win Pa. House primaries as GOP seats face challenge
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.6756
-- slug: 2026-05-19-shapiro-backed-democrats-win-pennsylvania-house-primaries-governor-s-race-set
-  headline: Shapiro-backed Democrats win Pennsylvania House primaries, governor's race set
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6752
-- slug: 2026-05-20-shapiro-backed-democrats-win-pa-house-primaries-set-november-matchups
-  headline: Shapiro-backed Democrats win PA House primaries, set November matchups
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6714
-- slug: 2026-04-24-josh-shapiro-tests-political-power-in-pennsylvania-s-2026-midterms
-  headline: Josh Shapiro tests political power in Pennsylvania’s 2026 midterms
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6644
-- slug: 2026-04-23-josh-shapiro-tests-political-power-in-pennsylvania-s-midterms
-  headline: Josh Shapiro tests political power in Pennsylvania’s midterms
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6592
-- slug: 2026-05-17-pennsylvania-primary-elections-set-for-tuesday-with-key-house-races-in-focus
-  headline: Pennsylvania primary elections set for Tuesday, with key House races in focus
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6476
-- slug: 2026-05-18-pennsylvania-primary-sets-stage-for-democrats-to-target-four-republican-house-se
-  headline: Pennsylvania primary sets stage for Democrats to target four Republican House seats
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6456
-- slug: 2026-01-06-shapiro-reports-30m-for-pennsylvania-reelection-bid-breaking-his-own-state-recor
-  headline: Shapiro reports $30M for Pennsylvania reelection bid, breaking his own state record
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6704
+  strength: 0.6762
 ---
-
 ## Bucks County Senate race draws more than $7 million in spending
 
 **Subtype:** fact

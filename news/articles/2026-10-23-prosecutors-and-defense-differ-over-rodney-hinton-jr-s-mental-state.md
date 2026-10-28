@@ -1,9 +1,21 @@
 ---
 headline: Prosecutors and defense differ over Rodney Hinton Jr.'s mental state
-secondary_headline: Hinton has schizoaffective disorder; Bennett describes a psychotic episode
+secondary_headline: Hinton has schizoaffective disorder; Bennett describes a psychotic
+  episode
 publish_date: '2026-10-23'
-lede: 'Hamilton County Deputy Larry Ray Henderson Jr. was killed in Cincinnati while directing traffic for a college graduation, when Rodney Hinton Jr.''s car struck him. Henderson had retired from the Hamilton County Sheriff''s Office a few months earlier but was still working off-duty assignments. The case focused heavily on Hinton''s mental state during the crash: defense attorney Clyde Bennett II described Hinton as having a psychotic episode and said Hinton was trying to kill himself, while prosecutors said his mental illnesses did not stop him from understanding what was right and wrong. A jury convicted Hinton of murder on Friday.'
-nut_graf: Hinton's teenage son, Ryan, 18, had been fatally shot by a Cincinnati police officer the day before the crash, and Hinton and other family members watched body-camera footage of that shooting a few hours before he drove into Henderson. Hinton faces 15 years to life in prison with parole possible on the murder conviction, and sentencing is scheduled for Nov. 16.
+lede: 'Hamilton County Deputy Larry Ray Henderson Jr. was killed in Cincinnati while
+  directing traffic for a college graduation, when Rodney Hinton Jr.''s car struck
+  him. Henderson had retired from the Hamilton County Sheriff''s Office a few months
+  earlier but was still working off-duty assignments. The case focused heavily on
+  Hinton''s mental state during the crash: defense attorney Clyde Bennett II described
+  Hinton as having a psychotic episode and said Hinton was trying to kill himself,
+  while prosecutors said his mental illnesses did not stop him from understanding
+  what was right and wrong. A jury convicted Hinton of murder on Friday.'
+nut_graf: Hinton's teenage son, Ryan, 18, had been fatally shot by a Cincinnati police
+  officer the day before the crash, and Hinton and other family members watched body-camera
+  footage of that shooting a few hours before he drove into Henderson. Hinton faces
+  15 years to life in prison with parole possible on the murder conviction, and sentencing
+  is scheduled for Nov. 16.
 primary_entities:
 - Rodney Hinton Jr.
 - Larry Ray Henderson Jr.
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,8 @@ related_stories:
   headline: Jury convicts Ohio man of murder in deputy's death
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8652
-- slug: 2026-10-25-federal-court-documents-show-herndon-has-been-charged-in-a-second-shooting-incid
-  headline: Federal court documents show Herndon has been charged in a second shooting incident
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6346
-- slug: 2026-10-21-prosecutors-charge-willie-herndon-with-murder-in-overland-highway-shooting
-  headline: Prosecutors charge Willie Herndon with murder in Overland highway shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6039
-- slug: 2026-09-22-driver-reportedly-convicted-in-death-of-kansas-teacher-whose-husband-was-killed-
-  headline: Driver reportedly convicted in death of Kansas teacher whose husband was killed months later
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6103
-- slug: 2026-09-18-clancy-defense-lawyer-says-he-was-upset-over-holdout-s-refusal-to-acquit
-  headline: Clancy defense lawyer says he was 'upset' over holdout's refusal to acquit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6117
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6156
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6115
-- slug: 2026-07-10-sheriff-places-officer-on-leave-after-mississippi-jail-inmate-death
-  headline: Sheriff places officer on leave after Mississippi jail inmate death
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6105
-- slug: 2026-05-08-former-deputy-found-guilty-of-reckless-homicide-in-casey-goodson-jr-shooting
-  headline: Former deputy found guilty of reckless homicide in Casey Goodson Jr. shooting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6362
-- slug: 2026-05-19-officer-charged-in-fatal-shooting-of-black-man-in-mental-distress
-  headline: Officer charged in fatal shooting of Black man in mental distress
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6179
-- slug: 2026-04-21-california-man-pleads-guilty-in-wrong-way-crash-that-killed-sheriff-recruit
-  headline: California man pleads guilty in wrong-way crash that killed sheriff recruit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6281
-- slug: 2026-05-19-ex-hartford-officer-charged-with-manslaughter-in-mental-health-shooting-death
-  headline: Ex-Hartford officer charged with manslaughter in mental health shooting death
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6086
-- slug: 2026-05-10-driver-rescinds-guilty-plea-in-la-wrong-way-crash-that-killed-recruit
-  headline: Driver rescinds guilty plea in LA wrong-way crash that killed recruit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.612
-- slug: 2026-05-10-driver-withdraws-guilty-plea-in-wrong-way-crash-that-killed-la-sheriff-s-recruit
-  headline: Driver withdraws guilty plea in wrong-way crash that killed LA sheriff's recruit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6092
-- slug: 2026-01-08-dc-officer-terry-bennett-dies-after-being-struck-while-helping-stranded-motorist
-  headline: DC officer Terry Bennett dies after being struck while helping stranded motorist
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6304
-- slug: 2026-05-07-jury-begins-deliberating-in-murder-retrial-of-ohio-deputy-who-killed-goodson
-  headline: Jury begins deliberating in murder retrial of Ohio deputy who killed Goodson
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6039
-- slug: 2026-05-02-michigan-families-and-officials-debate-responses-to-mental-health-crises
-  headline: Michigan families and officials debate responses to mental health crises
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6047
-- slug: 2026-03-09-ntsb-prelim-points-to-main-rotor-issue-in-arizona-police-helicopter-crash
-  headline: NTSB prelim points to main-rotor issue in Arizona police helicopter crash
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6131
-- slug: 2026-01-16-defense-seeks-to-disqualify-utah-prosecutors-in-charlie-kirk-killing-case
-  headline: Defense seeks to disqualify Utah prosecutors in Charlie Kirk killing case
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6163
-- slug: 2026-03-27-ny-town-official-john-reilly-convicted-in-doordash-driver-shooting
-  headline: NY town official John Reilly convicted in DoorDash driver shooting
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6047
+  strength: 0.8642
 ---
-
 ## Prosecutors and defense differ over Rodney Hinton Jr.'s mental state
 
 **Subtype:** fact

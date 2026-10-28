@@ -2,8 +2,16 @@
 headline: Utah judge leaves trial date unset in Tyler Robinson's Charlie Kirk case
 secondary_headline: Defense seeks 2029, while prosecutors propose January 2028
 publish_date: '2026-10-23'
-lede: Utah District Court Judge Tony Graf had been expected to set the trial date during a Friday hearing in Tyler Robinson's case, but no date was set. Robinson is a Utah man accused of killing conservative activist Charlie Kirk at Utah Valley University last year. Defense attorneys suggested a 2029 trial date, while Utah County prosecutors proposed a January 2028 start and said they would be ready by October 2027. Graf scheduled the next hearing for Nov. 9.
-nut_graf: The hearing focused on the defense's preparation timeline and the prosecution's proposed schedule. Erika Kirk's attorney argued that a years-long delay would violate her speedy-trial rights under Utah law as a victim, while President Donald Trump said in a social media post that the trial should occur within a month.
+lede: Utah District Court Judge Tony Graf had been expected to set the trial date
+  during a Friday hearing in Tyler Robinson's case, but no date was set. Robinson
+  is a Utah man accused of killing conservative activist Charlie Kirk at Utah Valley
+  University last year. Defense attorneys suggested a 2029 trial date, while Utah
+  County prosecutors proposed a January 2028 start and said they would be ready by
+  October 2027. Graf scheduled the next hearing for Nov. 9.
+nut_graf: The hearing focused on the defense's preparation timeline and the prosecution's
+  proposed schedule. Erika Kirk's attorney argued that a years-long delay would violate
+  her speedy-trial rights under Utah law as a victim, while President Donald Trump
+  said in a social media post that the trial should occur within a month.
 primary_entities:
 - Tyler Robinson
 - Charlie Kirk
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +152,7 @@ related_stories:
   headline: Utah judge sends Tyler Robinson to trial on aggravated murder
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.8107
+  strength: 0.8102
 - slug: 2026-09-16-erika-kirk-files-claim-saying-utah-valley-failed-to-protect-charlie-kirk
   headline: Erika Kirk files claim saying Utah Valley failed to protect Charlie Kirk
   publish_date: '2026-09-16'
@@ -153,24 +162,25 @@ related_stories:
   headline: Utah judge to weigh aggravated murder trial for Tyler Robinson
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.807
+  strength: 0.8068
 - slug: 2026-08-12-defense-in-kirk-killing-argues-shooter-didn-t-endanger-others
   headline: Defense in Kirk killing argues shooter didn't endanger others
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.7698
+  strength: 0.7701
 - slug: 2026-06-30-charlie-kirk-s-family-to-attend-preliminary-hearing-in-murder-case
   headline: Charlie Kirk's family to attend preliminary hearing in murder case
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.8039
+  strength: 0.8041
 - slug: 2026-07-05-prosecutors-argue-tyler-robinson-should-stand-trial-in-charlie-kirk-killing
   headline: Prosecutors argue Tyler Robinson should stand trial in Charlie Kirk killing
   publish_date: '2026-07-05'
   relation: related
   strength: 0.7718
 - slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
+  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary
+    hearing
   publish_date: '2026-07-10'
   relation: related
   strength: 0.765
@@ -178,69 +188,8 @@ related_stories:
   headline: Lawyers seek to block death penalty in Charlie Kirk killing case
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7802
-- slug: 2026-06-26-prosecutor-held-in-contempt-but-death-penalty-stands-in-charlie-kirk-case
-  headline: Prosecutor held in contempt but death penalty stands in Charlie Kirk case
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7538
-- slug: 2026-05-18-lawyers-ask-to-seal-evidence-in-charlie-kirk-murder-case
-  headline: Lawyers ask to seal evidence in Charlie Kirk murder case
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7762
-- slug: 2026-07-09-widow-of-charlie-kirk-asks-judge-to-display-all-courtroom-evidence
-  headline: Widow of Charlie Kirk asks judge to display all courtroom evidence
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7326
-- slug: 2026-03-30-lawyers-seek-delay-in-may-preliminary-hearing-in-charlie-kirk-case
-  headline: Lawyers seek delay in May preliminary hearing in Charlie Kirk case
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7917
-- slug: 2026-07-09-accused-kirk-killer-told-roommate-he-wished-he-hadn-t-done-it-testimony-shows
-  headline: Accused Kirk killer told roommate he wished he hadn't done it, testimony shows
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7308
-- slug: 2026-03-13-utah-judge-keeps-limited-media-access-in-charlie-kirk-case
-  headline: Utah judge keeps limited media access in Charlie Kirk case
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7938
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7342
-- slug: 2026-04-17-defense-pushes-to-ban-cameras-in-charlie-kirk-murder-trial
-  headline: Defense pushes to ban cameras in Charlie Kirk murder trial
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7791
-- slug: 2026-01-16-defense-seeks-to-disqualify-utah-prosecutors-in-charlie-kirk-killing-case
-  headline: Defense seeks to disqualify Utah prosecutors in Charlie Kirk killing case
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.79
-- slug: 2026-05-18-tyler-robinson-s-lawyers-ask-judge-to-seal-evidence-close-parts-of-july-hearing-
-  headline: Tyler Robinson’s lawyers ask judge to seal evidence, close parts of July hearing in Kirk murder case
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7551
-- slug: 2026-05-09-judge-rejects-request-to-ban-courtroom-cameras-in-charlie-kirk-case
-  headline: Judge rejects request to ban courtroom cameras in Charlie Kirk case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7492
-- slug: 2026-05-09-judge-rejects-bid-to-ban-courtroom-cameras-from-charlie-kirk-murder-case
-  headline: Judge rejects bid to ban courtroom cameras from Charlie Kirk murder case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.749
+  strength: 0.7808
 ---
-
 ## Utah judge leaves trial date unset in Tyler Robinson's Charlie Kirk case
 
 **Subtype:** fact

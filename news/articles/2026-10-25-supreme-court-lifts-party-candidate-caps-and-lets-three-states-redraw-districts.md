@@ -1,9 +1,20 @@
 ---
 headline: Supreme Court lifts party-candidate caps and lets three states redraw districts
-secondary_headline: Parties spent more than $100 million after direct party-candidate coordination limits ended
+secondary_headline: Parties spent more than $100 million after direct party-candidate
+  coordination limits ended
 publish_date: '2026-10-25'
-lede: A June Supreme Court ruling struck down federal limits on direct coordination between political parties and candidates, declaring the caps unconstitutional under the First Amendment. After the ruling, the parties spent more than $100 million on coordinated television advertising, according to AdImpact, with most of that spending coming from the GOP. The court’s April Louisiana v. Callais ruling narrowed the Voting Rights Act and allowed Alabama, Louisiana and Tennessee to dismantle House districts where Black voters had held a majority or near-majority; Republicans are now favored to flip all three seats next month.
-nut_graf: The rulings address coordinated campaign spending, congressional district maps and mail-ballot counting. Lower courts are considering California mail-ballot counting and Alaska’s Senate certification, while any postelection challenge after Nov. 3 might have to be resolved by the Supreme Court.
+lede: A June Supreme Court ruling struck down federal limits on direct coordination
+  between political parties and candidates, declaring the caps unconstitutional under
+  the First Amendment. After the ruling, the parties spent more than $100 million
+  on coordinated television advertising, according to AdImpact, with most of that
+  spending coming from the GOP. The court’s April Louisiana v. Callais ruling narrowed
+  the Voting Rights Act and allowed Alabama, Louisiana and Tennessee to dismantle
+  House districts where Black voters had held a majority or near-majority; Republicans
+  are now favored to flip all three seats next month.
+nut_graf: The rulings address coordinated campaign spending, congressional district
+  maps and mail-ballot counting. Lower courts are considering California mail-ballot
+  counting and Alaska’s Senate certification, while any postelection challenge after
+  Nov. 3 might have to be resolved by the Supreme Court.
 primary_entities:
 - Supreme Court
 - Elena Kagan
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +155,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-supreme-court-lifts-party-candidate-caps-and-lets-three-states-redraw-districts.png
-  alt: 'Illustration accompanying article: Supreme Court lifts party-candidate caps and lets three states redraw districts'
+  alt: 'Illustration accompanying article: Supreme Court lifts party-candidate caps
+    and lets three states redraw districts'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-21-kagan-says-supreme-court-rulings-weakened-democracy-and-intensified-polarization
   headline: Kagan says Supreme Court rulings weakened democracy and intensified polarization
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7058
+  strength: 0.706
 - slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
   headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7014
+  strength: 0.701
 - slug: 2026-09-04-supreme-court-halts-lower-court-ruling-on-party-campaign-tv-ads
   headline: Supreme Court halts lower-court ruling on party campaign TV ads
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.7568
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6743
+  strength: 0.7571
 - slug: 2026-06-30-supreme-court-strikes-down-limits-on-coordinated-party-spending
   headline: Supreme Court strikes down limits on coordinated party spending
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.8318
+  strength: 0.8313
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6904
+  strength: 0.6916
 - slug: 2026-04-30-supreme-court-ruling-to-reshape-voting-maps-as-primaries-near
   headline: Supreme Court ruling to reshape voting maps as primaries near
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.7086
+  strength: 0.7102
 - slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
+  headline: Southern activists mobilize after Supreme Court weakens Voting Rights
+    Act
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6821
+  strength: 0.6832
 - slug: 2026-05-05-redistricting-war-accelerates-winner-take-all-political-combat-in-us
   headline: Redistricting war accelerates winner-take-all political combat in US
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.7016
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6903
-- slug: 2026-06-03-supreme-court-allows-alabama-to-use-map-eliminating-majority-black-district
-  headline: Supreme Court Allows Alabama to Use Map Eliminating Majority-Black District
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6835
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6859
-- slug: 2026-05-02-supreme-court-ruling-stokes-redistricting-battle-in-several-states
-  headline: Supreme Court ruling stokes redistricting battle in several states
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6931
-- slug: 2026-06-05-states-pursue-limited-alternatives-after-supreme-court-weakens-voting-rights-act
-  headline: States pursue limited alternatives after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6741
-- slug: 2026-05-10-after-supreme-court-ruling-gop-led-states-rush-to-redraw-congressional-maps
-  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional maps
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6876
-- slug: 2026-06-02-supreme-court-reinstates-republican-favored-alabama-congressional-districts
-  headline: Supreme Court reinstates Republican-favored Alabama congressional districts
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6753
-- slug: 2026-05-10-gop-redistricting-confuses-voters-and-burdens-election-officials
-  headline: GOP redistricting confuses voters and burdens election officials
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6862
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6775
-- slug: 2026-05-16-civil-rights-groups-rally-in-alabama-after-supreme-court-weakens-voting-rights-a
-  headline: Civil rights groups rally in Alabama after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6767
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6788
+  strength: 0.7026
 ---
-
 ## Supreme Court lifts party-candidate caps and lets three states redraw districts
 
 **Subtype:** fact

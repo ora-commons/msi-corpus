@@ -1,9 +1,26 @@
 ---
 headline: Competitive U.S. House districts fall from 45 to 37
-secondary_headline: A long-standing debate weighs the roles of gerrymandering and residential sorting
+secondary_headline: A long-standing debate weighs the roles of gerrymandering and
+  residential sorting
 publish_date: '2026-10-24'
-lede: 'The number of competitive U.S. House districts fell from 45 to 37 over the past year, narrowing the field of seats that could change hands in the Nov. 3 midterms. The Associated Press reported that the decline accelerated after Republican President Donald Trump sparked a partisan redistricting battle; a long-standing academic debate asks how much of the longer decline reflects gerrymandering and how much reflects Americans living among like-minded voters. Studies cited in the reporting estimate that the House would have about twice as many competitive seats without partisan gerrymandering. North Carolina''s 13th Congressional District shows the shift: Democrat Wiley Nickel won the seat by about 9,000 votes in 2022, while Republican Brad Knott coasted to a margin of more than 70,000 two years later after the state''s Republican-controlled legislature redrew it.'
-nut_graf: The smaller set of competitive districts could put a low ceiling on Democratic gains, though the Associated Press reported that the narrow battlefield could expand slightly and unpredictably in this midterm year. Democrats have expanded their political targets amid the unpopular war with Iran and voter anger over high prices, and both parties are spending on campaigns in Republican areas that normally would not be competitive. Most of the scholars discussed agree that fewer competitive seats lead to greater polarization because legislators are beholden only to primary voters.
+lede: 'The number of competitive U.S. House districts fell from 45 to 37 over the
+  past year, narrowing the field of seats that could change hands in the Nov. 3 midterms.
+  The Associated Press reported that the decline accelerated after Republican President
+  Donald Trump sparked a partisan redistricting battle; a long-standing academic debate
+  asks how much of the longer decline reflects gerrymandering and how much reflects
+  Americans living among like-minded voters. Studies cited in the reporting estimate
+  that the House would have about twice as many competitive seats without partisan
+  gerrymandering. North Carolina''s 13th Congressional District shows the shift: Democrat
+  Wiley Nickel won the seat by about 9,000 votes in 2022, while Republican Brad Knott
+  coasted to a margin of more than 70,000 two years later after the state''s Republican-controlled
+  legislature redrew it.'
+nut_graf: The smaller set of competitive districts could put a low ceiling on Democratic
+  gains, though the Associated Press reported that the narrow battlefield could expand
+  slightly and unpredictably in this midterm year. Democrats have expanded their political
+  targets amid the unpopular war with Iran and voter anger over high prices, and both
+  parties are spending on campaigns in Republican areas that normally would not be
+  competitive. Most of the scholars discussed agree that fewer competitive seats lead
+  to greater polarization because legislators are beholden only to primary voters.
 primary_entities:
 - United States
 - North Carolina
@@ -41,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,118 +158,63 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-competitive-u-s-house-districts-fall-from-45-to-37.png
-  alt: 'Illustration accompanying article: Competitive U.S. House districts fall from 45 to 37'
+  alt: 'Illustration accompanying article: Competitive U.S. House districts fall from
+    45 to 37'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7135
+- slug: 2026-10-26-redrawn-house-races-put-republican-redistricting-advantage-to-the-test
+  headline: Redrawn House races put Republican redistricting advantage to the test
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6935
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6958
-- slug: 2026-10-24-nov-3-midterms-offer-the-2020s-a-last-chance-to-reshape-congress
-  headline: Nov. 3 midterms offer the 2020s a last chance to reshape Congress
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6689
+  strength: 0.6959
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6932
+  strength: 0.6925
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6872
+  strength: 0.6862
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6868
+  strength: 0.6852
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7013
+  strength: 0.7003
 - slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
   headline: US midterm elections on November 3 will determine control of Congress
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6756
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6776
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7269
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7184
-- slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
-  headline: Forecasters rate 43 House races competitive for 2026 control
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7313
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6704
-- slug: 2026-08-05-dccc-adds-12-republican-held-house-seats-to-midterm-target-list
-  headline: DCCC adds 12 Republican-held House seats to midterm target list
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7179
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6761
-- slug: 2026-05-05-redistricting-war-accelerates-winner-take-all-political-combat-in-us
-  headline: Redistricting war accelerates winner-take-all political combat in US
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.707
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6775
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6831
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6736
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6729
-- slug: 2026-05-20-south-carolina-house-passes-gop-leaning-congressional-map-after-midnight
-  headline: South Carolina House passes GOP-leaning congressional map after midnight
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6715
+  strength: 0.6744
 analyses:
-- '2026-10-24-ap-links-remapping-and-polarization-to-fewer-competitive-house-districts'
+- 2026-10-24-ap-links-remapping-and-polarization-to-fewer-competitive-house-districts
 ---
-
 ## Competitive U.S. House districts fall from 45 to 37
 
 **Subtype:** fact

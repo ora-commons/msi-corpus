@@ -1,9 +1,20 @@
 ---
 headline: House working group considers new harassment-reporting safeguards
-secondary_headline: Working group weighs expanded sexual-relationship ban, one-call line and longer filing window
+secondary_headline: Working group weighs expanded sexual-relationship ban, one-call
+  line and longer filing window
 publish_date: '2026-10-24'
-lede: A bipartisan House working group led by Reps. Kat Cammack and Teresa Leger Fernandez is reviewing how Congress handles sexual misconduct after this year's spike in House Ethics Committee investigations related to sexual misconduct. The group is considering expanding the current ban on lawmakers' sexual relationships with members of their own staff or their committees' staff to all congressional staff, creating a one-call harassment-reporting route and giving alleged victims more time to file claims. The task force is expected to release recommended changes after the Nov. 3 elections and has a goal of taking action before the end of the year.
-nut_graf: The review addresses barriers Cammack says leave victims unsure where to get help, distrustful of repercussions and constrained by a 180-day filing window. A longer deadline would require an update to the Congressional Accountability Act; the change would also require Senate support, complicating its prospects.
+lede: A bipartisan House working group led by Reps. Kat Cammack and Teresa Leger Fernandez
+  is reviewing how Congress handles sexual misconduct after this year's spike in House
+  Ethics Committee investigations related to sexual misconduct. The group is considering
+  expanding the current ban on lawmakers' sexual relationships with members of their
+  own staff or their committees' staff to all congressional staff, creating a one-call
+  harassment-reporting route and giving alleged victims more time to file claims.
+  The task force is expected to release recommended changes after the Nov. 3 elections
+  and has a goal of taking action before the end of the year.
+nut_graf: The review addresses barriers Cammack says leave victims unsure where to
+  get help, distrustful of repercussions and constrained by a 180-day filing window.
+  A longer deadline would require an update to the Congressional Accountability Act;
+  the change would also require Senate support, complicating its prospects.
 primary_entities:
 - Kat Cammack
 - Teresa Leger Fernandez
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,19 +160,18 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-house-working-group-considers-new-harassment-reporting-safeguards.png
-  alt: 'Illustration accompanying article: House working group considers new harassment-reporting safeguards'
+  alt: 'Illustration accompanying article: House working group considers new harassment-reporting
+    safeguards'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-24-epstein-files-slip-from-midterm-focus-as-advocates-seek-renewed-scrutiny
-  headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6377
 - slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
   headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
   publish_date: '2026-09-17'
@@ -170,94 +181,40 @@ related_stories:
   headline: House votes 413-2 to formally censure Rep. Chuck Edwards over staff conduct
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6995
+  strength: 0.6987
 - slug: 2026-08-17-house-ethics-committee-opens-sexual-misconduct-investigation-into-rep-jimmy-gome
-  headline: House Ethics Committee opens sexual misconduct investigation into Rep. Jimmy Gomez
+  headline: House Ethics Committee opens sexual misconduct investigation into Rep.
+    Jimmy Gomez
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6942
+  strength: 0.6939
 - slug: 2026-08-27-edwards-defends-interactions-with-female-staff-as-affectionate-not-harassment
   headline: Edwards defends interactions with female staff as affectionate, not harassment
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.662
+  strength: 0.6614
 - slug: 2026-08-18-sexual-misconduct-probes-mount-against-house-members-ahead-of-midterms
   headline: Sexual misconduct probes mount against House members ahead of midterms
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.67
+  strength: 0.6696
 - slug: 2026-08-07-lawmakers-urge-stricter-ethics-enforcement-amid-scandals
   headline: Lawmakers urge stricter ethics enforcement amid scandals
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.685
+  strength: 0.6846
 - slug: 2026-05-15-house-ethics-panel-probes-rep-chuck-edwards-over-harassment-claims
   headline: House ethics panel probes Rep. Chuck Edwards over harassment claims
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.7198
+  strength: 0.7189
 - slug: 2026-05-15-house-ethics-committee-investigates-rep-chuck-edwards-over-harassment-allegation
-  headline: House Ethics Committee investigates Rep. Chuck Edwards over harassment allegations
+  headline: House Ethics Committee investigates Rep. Chuck Edwards over harassment
+    allegations
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.7083
-- slug: 2026-04-15-swalwell-and-gonzales-resign-from-congress-amid-sexual-misconduct-allegations
-  headline: Swalwell and Gonzales resign from Congress amid sexual misconduct allegations
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6814
-- slug: 2026-04-14-rep-tony-gonzales-says-he-will-retire-after-bipartisan-expulsion-calls
-  headline: Rep. Tony Gonzales says he will retire after bipartisan expulsion calls
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6677
-- slug: 2026-01-22-workplace-rights-agency-scraps-anti-harassment-guidance-citing-trump-s-orders
-  headline: Workplace rights agency scraps anti-harassment guidance, citing Trump's orders
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6757
-- slug: 2026-01-08-nebraska-senator-faces-historic-expulsion-vote-over-harassment-allegations
-  headline: Nebraska senator faces historic expulsion vote over harassment allegations
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6683
-- slug: 2026-05-22-congress-urges-telecoms-to-bolster-protections-against-cyberscams
-  headline: Congress urges telecoms to bolster protections against cyberscams
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6391
-- slug: 2026-04-14-democrats-form-task-force-to-use-anti-corruption-message-against-trump
-  headline: Democrats form task force to use anti-corruption message against Trump
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6519
-- slug: 2026-04-14-rep-eric-swalwell-to-resign-after-sexual-misconduct-allegations
-  headline: Rep. Eric Swalwell to resign after sexual misconduct allegations
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6499
-- slug: 2026-04-17-congress-extends-surveillance-powers-to-april-30-after-house-chaos
-  headline: Congress extends surveillance powers to April 30 after House chaos
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6435
-- slug: 2026-03-19-idaho-lawmakers-order-independent-review-of-sexual-assault-in-women-s-prisons
-  headline: Idaho lawmakers order independent review of sexual assault in women’s prisons
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6493
-- slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
-  headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6424
-- slug: 2026-04-26-all-nighters-in-congress-create-dysfunction-after-dark
-  headline: All-nighters in Congress create dysfunction after dark
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6346
+  strength: 0.7073
 ---
-
 ## House working group considers new harassment-reporting safeguards
 
 **Subtype:** fact

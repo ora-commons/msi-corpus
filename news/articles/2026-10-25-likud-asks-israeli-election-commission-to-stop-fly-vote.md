@@ -2,8 +2,18 @@
 headline: Likud asks Israeli election commission to stop Fly&Vote
 secondary_headline: Fly&Vote says lawyers help ensure its work complies with the law
 publish_date: '2026-10-25'
-lede: Benjamin Netanyahu's Likud party asked Israel's election commission to stop Fly&Vote, an initiative of the American nonprofit AID Coalition that helps Israeli expatriates return home to cast Oct. 27 ballots. Under a settlement earlier this month, AID Coalition agreed not to organize additional flights and said it would let airlines set ticket prices. Fly&Vote says it is nonpartisan and works closely with lawyers to ensure that its work complies with the law.
-nut_graf: Likud's challenge to Fly&Vote comes as the program says it works with lawyers to comply with the law and has organized half a dozen flights in an election The Wall Street Journal described as a contest for Netanyahu's political survival. Fly&Vote's survey estimated that 67,000 expatriates would return, and The Wall Street Journal reported the influx could swing a close race. There is no data on how returning expats intend to vote, though many expats say they plan to vote against Netanyahu.
+lede: Benjamin Netanyahu's Likud party asked Israel's election commission to stop
+  Fly&Vote, an initiative of the American nonprofit AID Coalition that helps Israeli
+  expatriates return home to cast Oct. 27 ballots. Under a settlement earlier this
+  month, AID Coalition agreed not to organize additional flights and said it would
+  let airlines set ticket prices. Fly&Vote says it is nonpartisan and works closely
+  with lawyers to ensure that its work complies with the law.
+nut_graf: Likud's challenge to Fly&Vote comes as the program says it works with lawyers
+  to comply with the law and has organized half a dozen flights in an election The
+  Wall Street Journal described as a contest for Netanyahu's political survival. Fly&Vote's
+  survey estimated that 67,000 expatriates would return, and The Wall Street Journal
+  reported the influx could swing a close race. There is no data on how returning
+  expats intend to vote, though many expats say they plan to vote against Netanyahu.
 primary_entities:
 - Israel
 - Benjamin Netanyahu
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +151,41 @@ related_stories:
   headline: Netanyahu faces Eisenkot in Israel's first election since Oct. 7
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7015
-- slug: 2026-10-22-mizrahi-voters-could-decide-israel-s-election-between-netanyahu-and-eisenkot
-  headline: Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
-  publish_date: '2026-10-22'
+  strength: 0.7019
+- slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
+  headline: Poll shows Democrats with House edge as Israelis cast ballots
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.648
-- slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
-  headline: Trump endorses Netanyahu days before Israel's closely contested election
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6466
-- slug: 2026-10-18-netanyahu-warns-eisenkot-win-would-let-iran-obtain-nuclear-weapons
-  headline: Netanyahu warns Eisenkot win would let Iran obtain nuclear weapons
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6464
-- slug: 2026-10-20-hegseth-held-undisclosed-meeting-with-netanyahu-in-israel
-  headline: Hegseth held undisclosed meeting with Netanyahu in Israel
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6308
-- slug: 2026-10-18-trump-s-disputes-with-netanyahu-span-an-iranian-gas-field-hezbollah-and-gaza
-  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and Gaza
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.64
+  strength: 0.6507
 - slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
+  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions
+    push converge
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6724
-- slug: 2026-09-24-netanyahu-arrives-in-new-york-for-defiant-un-speech-as-hundreds-protest
-  headline: Netanyahu arrives in New York for defiant UN speech as hundreds protest
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6333
-- slug: 2026-09-09-uk-announces-sanctions-on-israeli-settlement-trade
-  headline: UK announces sanctions on Israeli settlement trade
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6306
+  strength: 0.6723
 - slug: 2026-07-06-israeli-poll-shows-eisenkot-and-netanyahu-tied-at-23-seats-each
   headline: Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.7065
-- slug: 2026-08-10-netanyahu-rejects-sequencing-of-board-of-peace-s-15-point-gaza-plan
-  headline: Netanyahu rejects sequencing of Board of Peace's 15-point Gaza plan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6491
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6297
-- slug: 2026-07-21-israel-stays-out-of-renewed-us-bombing-campaign-in-iran
-  headline: Israel stays out of renewed US bombing campaign in Iran
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6444
-- slug: 2026-07-10-lebanon-israel-prepare-first-pilot-zones-under-framework-deal
-  headline: Lebanon, Israel prepare first pilot zones under framework deal
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6441
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6298
+  strength: 0.7081
 - slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-knesset-setting-stage-for-elections
-  headline: Netanyahu coalition submits bill to dissolve Knesset, setting stage for elections
+  headline: Netanyahu coalition submits bill to dissolve Knesset, setting stage for
+    elections
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6627
+  strength: 0.6647
 - slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-israel-s-parliament-for-new-electio
-  headline: Netanyahu coalition submits bill to dissolve Israel’s parliament for new elections
+  headline: Netanyahu coalition submits bill to dissolve Israel’s parliament for new
+    elections
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.658
+  strength: 0.6598
 - slug: 2026-03-22-netanyahu-weighs-election-timing-as-iran-and-hezbollah-wars-intensify
   headline: Netanyahu weighs election timing as Iran and Hezbollah wars intensify
   publish_date: '2026-03-22'
   relation: related
-  strength: 0.6657
-- slug: 2026-05-14-supporters-of-ukraine-aid-bill-force-house-vote-as-trump-claims-war-is-ending
-  headline: Supporters of Ukraine aid bill force House vote as Trump claims war is ending
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.632
-- slug: 2026-02-13-netanyahu-seeks-to-strip-israeli-nationality-from-palestinian-citizens-convicted
-  headline: Netanyahu seeks to strip Israeli nationality from Palestinian citizens convicted of violent crimes
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6484
+  strength: 0.6665
 ---
-
 ## Likud asks Israeli election commission to stop Fly&Vote
 
 **Subtype:** fact

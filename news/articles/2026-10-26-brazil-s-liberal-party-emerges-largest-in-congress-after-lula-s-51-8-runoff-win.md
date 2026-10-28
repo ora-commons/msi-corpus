@@ -1,9 +1,21 @@
 ---
-headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff win
+headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff
+  win
 secondary_headline: Lula overcame a first-round deficit to win a fourth term
 publish_date: '2026-10-26'
-lede: Brazil’s right-wing Liberal Party emerged as the largest party in both chambers of Congress, winning 121 of 513 seats in the lower house and a 28-seat bloc in the 81-seat Senate. President Luiz Inácio Lula da Silva won Sunday’s runoff with 51.8% of the vote against Flávio Bolsonaro’s 48.2%, and The Wall Street Journal reported that the outcome leaves him facing a governing challenge, dependent on deals with conservative and centrist lawmakers to advance his agenda.
-nut_graf: Lula’s unprecedented fourth term, won after he lost the first round and then took the runoff for the first time in Brazil’s modern democratic history, leaves him governing with the largest congressional party in both chambers positioned against him. The Liberal Party’s 121 lower-house seats and 28-seat Senate bloc require cross-party deals, while the dispute with Washington over trade, Jair Bolsonaro’s prosecution and what Lula called U.S. interference in the election has already produced tariffs and a diplomatic row over visas.
+lede: Brazil’s right-wing Liberal Party emerged as the largest party in both chambers
+  of Congress, winning 121 of 513 seats in the lower house and a 28-seat bloc in the
+  81-seat Senate. President Luiz Inácio Lula da Silva won Sunday’s runoff with 51.8%
+  of the vote against Flávio Bolsonaro’s 48.2%, and The Wall Street Journal reported
+  that the outcome leaves him facing a governing challenge, dependent on deals with
+  conservative and centrist lawmakers to advance his agenda.
+nut_graf: Lula’s unprecedented fourth term, won after he lost the first round and
+  then took the runoff for the first time in Brazil’s modern democratic history, leaves
+  him governing with the largest congressional party in both chambers positioned against
+  him. The Liberal Party’s 121 lower-house seats and 28-seat Senate bloc require cross-party
+  deals, while the dispute with Washington over trade, Jair Bolsonaro’s prosecution
+  and what Lula called U.S. interference in the election has already produced tariffs
+  and a diplomatic row over visas.
 primary_entities:
 - Luiz Inácio Lula da Silva
 - Flávio Bolsonaro
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,107 +151,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8332
+  strength: 0.8328
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7934
+- slug: 2026-10-27-brazil-s-currency-plunges-as-pollsters-describe-lula-s-comeback
+  headline: Brazil's currency plunges as pollsters describe Lula's comeback
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7739
 - slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
   headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7748
+  strength: 0.7735
+- slug: 2026-10-26-lula-pledges-against-dictatorship-as-brazil-s-victory-draws-global-recognition
+  headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7439
+- slug: 2026-10-26-santander-shares-fall-after-lula-defeats-fl-vio-bolsonaro-in-brazil
+  headline: Santander shares fall after Lula defeats Flávio Bolsonaro in Brazil
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7226
+- slug: 2026-10-27-netherlands-pledges-500-million-to-brazil-backed-forest-fund-after-lula-s-runoff
+  headline: Netherlands pledges $500 million to Brazil-backed forest fund after Lula’s
+    runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.701
 - slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
+  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress
+    seats
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8165
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7982
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7924
-- slug: 2026-10-25-brazil-extends-presidential-runoff-voting-by-two-hours
-  headline: Brazil extends presidential runoff voting by two hours
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6642
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7722
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7567
-- slug: 2026-10-15-brazil-s-senate-approves-40-hour-workweek-in-win-for-lula-ahead-of-runoff
-  headline: Brazil's Senate approves 40-hour workweek in win for Lula ahead of runoff
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7065
-- slug: 2026-10-05-three-bolsonaro-family-members-win-congressional-seats-as-bolsonarista-candidate
-  headline: Three Bolsonaro family members win congressional seats as Bolsonarista candidates expand Brazil's legislature
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7515
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.718
-- slug: 2026-10-12-brazil-s-top-court-clears-fl-vio-bolsonaro-to-visit-house-arrested-father
-  headline: Brazil's top court clears Flávio Bolsonaro to visit house-arrested father
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6899
-- slug: 2026-10-15-brazil-s-workweek-amendment-creates-superemployee-category-for-high-earners
-  headline: Brazil's workweek amendment creates 'superemployee' category for high earners
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6692
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7311
-- slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
-  headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6992
-- slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6754
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7039
-- slug: 2026-10-04-national-security-strategy-commits-us-to-preeminence-in-western-hemisphere
-  headline: National security strategy commits US to 'preeminence' in Western Hemisphere
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6477
-- slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
-  headline: Democrats ask Rubio to address alleged US interference in Brazil election
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6649
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6504
+  strength: 0.8164
 ---
-
 ## Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff win
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: John Healey’s budget secrecy comes amid leaks on key policies
-secondary_headline: Former advisers said sealed budgets could trigger backlash over surprise measures
+secondary_headline: Former advisers said sealed budgets could trigger backlash over
+  surprise measures
 publish_date: '2026-10-25'
-lede: Chancellor John Healey set up defence-style “compartmentalisation” for this week’s budget, yet significant policies were already reported before the fiscal event. A Guardian analysis found that authorised announcements and unauthorised leaks had exposed a higher bank tax, energy support for the most vulnerable and other budget measures. The disclosures illustrate how the Treasury sought to guard market-sensitive information while also building momentum before Wednesday.
-nut_graf: The tension matters because the government wants to limit market-sensitive surprises while using pre-budget announcements to build action and momentum. Former Treasury advisers said a hermetically sealed budget could draw backlash in markets, the media, government MPs and the public, while earlier surprise tax changes had produced political opposition.
+lede: Chancellor John Healey set up defence-style “compartmentalisation” for this
+  week’s budget, yet significant policies were already reported before the fiscal
+  event. A Guardian analysis found that authorised announcements and unauthorised
+  leaks had exposed a higher bank tax, energy support for the most vulnerable and
+  other budget measures. The disclosures illustrate how the Treasury sought to guard
+  market-sensitive information while also building momentum before Wednesday.
+nut_graf: The tension matters because the government wants to limit market-sensitive
+  surprises while using pre-budget announcements to build action and momentum. Former
+  Treasury advisers said a hermetically sealed budget could draw backlash in markets,
+  the media, government MPs and the public, while earlier surprise tax changes had
+  produced political opposition.
 primary_entities:
 - John Healey
 - United Kingdom
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -70,104 +81,44 @@ related_stories:
   headline: UK to shift VAT collection to online marketplaces in first budget
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.789
+  strength: 0.7866
 - slug: 2026-10-21-uk-government-records-24-5bn-september-deficit-ahead-of-healey-s-first-budget
-  headline: UK government records £24.5bn September deficit ahead of Healey’s first budget
+  headline: UK government records £24.5bn September deficit ahead of Healey’s first
+    budget
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7306
+  strength: 0.7323
 - slug: 2026-10-20-badenoch-says-healey-s-budget-will-be-even-worse-than-reeves-s-two
   headline: Badenoch says Healey's budget will be even worse than Reeves's two
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7332
+  strength: 0.7337
 - slug: 2026-10-20-uk-chancellor-healey-rejects-labour-calls-to-raise-capital-gains-tax
   headline: UK chancellor Healey rejects Labour calls to raise capital gains tax
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6963
+  strength: 0.6977
 - slug: 2026-10-21-john-healey-announces-2bn-energy-wealth-fund
   headline: John Healey announces £2bn Energy Wealth Fund
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6823
+  strength: 0.6834
 - slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
   headline: Senior Labour figures privately criticize Healey's budget preparations
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7754
+  strength: 0.7776
 - slug: 2026-10-11-ifs-warns-iran-war-inflation-will-force-hard-healey-budget-choices
   headline: IFS warns Iran-war inflation will force hard Healey Budget choices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6959
+  strength: 0.696
 - slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
   headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6713
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6551
-- slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
-  headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.652
-- slug: 2026-10-08-uk-10-year-gilt-yield-hits-19-year-high-amid-global-bond-selloff
-  headline: UK 10-year gilt yield hits 19-year high amid global bond selloff
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6555
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7817
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.652
-- slug: 2026-09-17-healey-urges-eu-not-to-lock-uk-out-of-made-in-europe-plan
-  headline: Healey urges EU not to lock UK out of 'Made in Europe' plan
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7006
-- slug: 2026-09-17-shadow-chancellor-griffith-urges-healey-to-rule-out-budget-tax-rises
-  headline: Shadow chancellor Griffith urges Healey to rule out budget tax rises
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6953
-- slug: 2026-09-15-economists-press-uk-chancellor-to-halt-bank-of-england-s-bond-selling
-  headline: Economists press UK chancellor to halt Bank of England's bond-selling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6834
-- slug: 2026-09-22-uk-borrowing-totals-18-3bn-in-august-above-obr-forecast
-  headline: UK borrowing totals £18.3bn in August, above OBR forecast
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6548
-- slug: 2026-09-09-jamie-dimon-and-john-healey-meet-wednesday-amid-uk-bank-tax-speculation
-  headline: Jamie Dimon and John Healey meet Wednesday amid UK bank tax speculation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6688
-- slug: 2026-09-08-treasury-auctions-30-year-gilts-at-5-82-highest-yield-since-1998
-  headline: Treasury auctions 30-year gilts at 5.82%, highest yield since 1998
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6538
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6534
+  strength: 0.6717
 ---
-
 ## John Healey’s budget secrecy comes amid leaks on key policies
 
 **Subtype:** fact

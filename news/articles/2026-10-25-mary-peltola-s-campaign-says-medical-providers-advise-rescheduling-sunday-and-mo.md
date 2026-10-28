@@ -1,9 +1,23 @@
 ---
-headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday and Monday events
-secondary_headline: Peltola's campaign says the eight-stop "Alaska Always Tour" is scheduled to resume Tuesday in Homer, Alaska
+headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday
+  and Monday events
+secondary_headline: Peltola's campaign says the eight-stop "Alaska Always Tour" is
+  scheduled to resume Tuesday in Homer, Alaska
 publish_date: '2026-10-25'
-lede: Mary Peltola's campaign said her medical providers recommended rescheduling her Sunday and Monday events to recover after a Saturday car crash that caused minor injuries. The family was driving to a campaign stop and was on their way to the Alaska Federation of Natives Annual Banquet when another vehicle crashed into the vehicle carrying them, and Peltola required medical attention afterward, the campaign said. The campaign said Peltola will resume events Tuesday with a stop in Homer, Alaska.
-nut_graf: The rescheduling comes in the final week of a high-stakes Alaska Senate race that both candidates have tried to rally support among Alaska Native voters, a key constituency in a contest that has become one of the most watched in the nation. President Donald Trump, who held a rally in support of Dan Sullivan earlier this month, said Friday that he told his administration to sue to block certification of the race if the incumbent loses, and the lawsuit cites potential confusion with another candidate listed on the ranked-choice ballot as Daniel J. Sullivan Jr.
+lede: Mary Peltola's campaign said her medical providers recommended rescheduling
+  her Sunday and Monday events to recover after a Saturday car crash that caused minor
+  injuries. The family was driving to a campaign stop and was on their way to the
+  Alaska Federation of Natives Annual Banquet when another vehicle crashed into the
+  vehicle carrying them, and Peltola required medical attention afterward, the campaign
+  said. The campaign said Peltola will resume events Tuesday with a stop in Homer,
+  Alaska.
+nut_graf: The rescheduling comes in the final week of a high-stakes Alaska Senate
+  race that both candidates have tried to rally support among Alaska Native voters,
+  a key constituency in a contest that has become one of the most watched in the nation.
+  President Donald Trump, who held a rally in support of Dan Sullivan earlier this
+  month, said Friday that he told his administration to sue to block certification
+  of the race if the incumbent loses, and the lawsuit cites potential confusion with
+  another candidate listed on the ranked-choice ballot as Daniel J. Sullivan Jr.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +154,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo.png
-  alt: 'Illustration accompanying article: Mary Peltola''s campaign says medical providers advise rescheduling Sunday and Monday…'
+  alt: 'Illustration accompanying article: Mary Peltola''s campaign says medical providers
+    advise rescheduling Sunday and Monday…'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
+  headline: Peltola reschedules Alaska Senate campaign events on medical advice
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8711
 - slug: 2026-10-25-mary-peltola-to-reschedule-fairbanks-and-bethel-events-after-car-crash
   headline: Mary Peltola to reschedule Fairbanks and Bethel events after car crash
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8667
+  strength: 0.8671
+- slug: 2026-10-25-police-describe-rear-end-collision-that-injured-peltola-s-family-in-anchorage
+  headline: Police describe rear-end collision that injured Peltola's family in Anchorage
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.799
+- slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
+  headline: Sullivan and Peltola court Alaska Native voters before midterms
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.757
 - slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
   headline: Justice Department files pre-election challenge to Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7559
+  strength: 0.7575
 - slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7524
+  strength: 0.7542
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.752
+  strength: 0.7532
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7413
-- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
-  headline: Blanche defends lawsuit to block Alaska Senate certification
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7188
-- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
-  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7145
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7142
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7567
-- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
-  headline: Blanche frames Alaska election suit as federal-law test
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6669
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6777
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6742
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6579
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7113
-- slug: 2026-09-24-peltola-s-campaign-calls-nyt-report-on-her-staff-conduct-exaggerated
-  headline: Peltola's campaign calls NYT report on her staff conduct exaggerated
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7126
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6704
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7221
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7009
-- slug: 2026-08-15-sullivan-campaign-links-peltola-to-harris-after-fundraising-email-rejection
-  headline: Sullivan campaign links Peltola to Harris after fundraising-email rejection
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6892
-- slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
-  headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.706
+  strength: 0.7429
 ---
-
 ## Mary Peltola's campaign says medical providers advise rescheduling Sunday and Monday events
 
 **Subtype:** fact

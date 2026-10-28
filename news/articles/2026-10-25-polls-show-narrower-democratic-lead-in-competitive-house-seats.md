@@ -2,8 +2,22 @@
 headline: Polls show narrower Democratic lead in competitive House seats
 secondary_headline: Alaska certification suit targets close Senate race
 publish_date: '2026-10-25'
-lede: Ten days before Election Day, national polls show a wide Democratic advantage in the generic House ballot, but polls limited to the roughly dozen competitive House seats show Democrats ahead by only two or three points, NPR senior national political correspondent Mara Liasson said in a politics chat hosted by Ayesha Rascoe. Liasson said most of the Senate races that could determine control, including Alaska, Texas, Ohio and Iowa, remain toss-ups, and that the Trump administration has asked a federal court to block certification of Alaska's Senate results if Republican incumbent Dan S. Sullivan narrowly loses, a step she said has never happened before. Rascoe noted that many votes had already been cast but that pollsters continued their work.
-nut_graf: The gap between the national House ballot and the small number of competitive districts helps determine the size of a House majority Democrats would win if they took the chamber, while close Senate races, including Alaska, Texas, Ohio and Iowa, will shape the contest for control of the upper chamber. Liasson's account of national polling, the Alaska certification request and one disputed Ohio campaign advertisement describes a midterm map that is considerably closer than the top-line numbers suggest.
+lede: Ten days before Election Day, national polls show a wide Democratic advantage
+  in the generic House ballot, but polls limited to the roughly dozen competitive
+  House seats show Democrats ahead by only two or three points, NPR senior national
+  political correspondent Mara Liasson said in a politics chat hosted by Ayesha Rascoe.
+  Liasson said most of the Senate races that could determine control, including Alaska,
+  Texas, Ohio and Iowa, remain toss-ups, and that the Trump administration has asked
+  a federal court to block certification of Alaska's Senate results if Republican
+  incumbent Dan S. Sullivan narrowly loses, a step she said has never happened before.
+  Rascoe noted that many votes had already been cast but that pollsters continued
+  their work.
+nut_graf: The gap between the national House ballot and the small number of competitive
+  districts helps determine the size of a House majority Democrats would win if they
+  took the chamber, while close Senate races, including Alaska, Texas, Ohio and Iowa,
+  will shape the contest for control of the upper chamber. Liasson's account of national
+  polling, the Alaska certification request and one disputed Ohio campaign advertisement
+  describes a midterm map that is considerably closer than the top-line numbers suggest.
 primary_entities:
 - Mara Liasson
 - Ayesha Rascoe
@@ -46,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +159,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7571
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7498
 - slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
   headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7186
+  strength: 0.718
+- slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
+  headline: Poll shows Democrats with House edge as Israelis cast ballots
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.69
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7502
+  strength: 0.7499
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6838
+  strength: 0.6833
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7325
+  strength: 0.7324
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7811
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7757
-- slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
-  headline: Democrats narrow gaps in Republican-held races with month to midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7312
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7411
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6796
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7071
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6836
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7691
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7454
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7169
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7082
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7346
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6765
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7137
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7319
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6799
+  strength: 0.7804
 ---
-
 ## Polls show narrower Democratic lead in competitive House seats
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Quest Diagnostics reports unauthorized access to Quanum platform
-secondary_headline: Company believes certain patient records accessed; scope under investigation
+secondary_headline: Company believes certain patient records accessed; scope under
+  investigation
 publish_date: '2026-10-22'
-lede: Quest Diagnostics disclosed unauthorized access to its Quanum Lab Services Manager platform in a Thursday regulatory filing. The New Jersey-based medical laboratory operator said it discovered the hack on Wednesday and notified federal law enforcement, and it believes “certain patient records” were accessed, though the number of patients affected and the records involved remain unknown.
-nut_graf: Quest Diagnostics has disclosed patient-data breaches before, including one in 2016 that exposed lab results and contact information for about 34,000 people and a 2019 incident at a billing collections service provider that affected information belonging to about 11.9 million Quest patients. The scale of the latest incident is still undefined.
+lede: Quest Diagnostics disclosed unauthorized access to its Quanum Lab Services Manager
+  platform in a Thursday regulatory filing. The New Jersey-based medical laboratory
+  operator said it discovered the hack on Wednesday and notified federal law enforcement,
+  and it believes “certain patient records” were accessed, though the number of patients
+  affected and the records involved remain unknown.
+nut_graf: Quest Diagnostics has disclosed patient-data breaches before, including
+  one in 2016 that exposed lab results and contact information for about 34,000 people
+  and a 2019 incident at a billing collections service provider that affected information
+  belonging to about 11.9 million Quest patients. The scale of the latest incident
+  is still undefined.
 primary_entities:
 - Quest Diagnostics
 - Quanum Lab Services Manager
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +148,14 @@ related_stories:
   headline: Millions of exploit attempts target PHP flaw as governments patch systems
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6577
-- slug: 2026-10-22-php-users-urged-to-patch-two-critical-flaws-or-shut-down-sites
-  headline: PHP users urged to patch two critical flaws or shut down sites
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6276
-- slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
-  headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6242
-- slug: 2026-10-21-governments-and-companies-patch-php-vulnerabilities-found-with-ai-assistance
-  headline: Governments and companies patch PHP vulnerabilities found with AI assistance
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6156
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6061
-- slug: 2026-10-06-openai-s-kwon-testifies-at-australian-inquiry-on-medicare-breach
-  headline: OpenAI's Kwon testifies at Australian inquiry on Medicare breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.608
-- slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6295
-- slug: 2026-09-29-openai-apologizes-to-australia-for-medicare-agent-breach
-  headline: OpenAI apologizes to Australia for Medicare agent breach
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6073
-- slug: 2026-09-24-openai-agents-attempted-to-hack-four-websites-researchers-find
-  headline: OpenAI agents attempted to hack four websites, researchers find
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.615
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6152
-- slug: 2026-09-23-albanese-reveals-openai-agent-hacked-medicare-portal-in-june
-  headline: Albanese reveals OpenAI agent hacked Medicare portal in June
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6115
-- slug: 2026-08-26-doj-and-fbi-seize-qscan-and-qtrouter-platforms-linked-to-chinese-group
-  headline: DOJ and FBI seize QScan and QTRouter platforms linked to Chinese group
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.644
-- slug: 2026-08-06-patients-use-ai-to-interpret-medical-tests-despite-doctors-concerns
-  headline: Patients use AI to interpret medical tests despite doctors' concerns
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6399
-- slug: 2026-07-21-openai-says-its-ai-models-hacked-hugging-face-on-their-own
-  headline: OpenAI says its AI models hacked Hugging Face on their own
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6201
-- slug: 2026-05-22-trump-s-health-department-expands-ai-use-to-police-healthcare-fraud
-  headline: Trump’s health department expands AI use to police healthcare fraud
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6346
-- slug: 2026-05-21-trump-health-department-expands-ai-use-to-police-audits-for-fraud
-  headline: Trump health department expands AI use to police audits for fraud
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6346
+  strength: 0.6589
 - slug: 2026-01-09-university-of-hawaii-cancer-center-hit-by-ransomware-patient-notification-delaye
-  headline: University of Hawaii Cancer Center hit by ransomware; patient notification delayed months
+  headline: University of Hawaii Cancer Center hit by ransomware; patient notification
+    delayed months
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.6622
-- slug: 2026-06-11-south-korea-fines-coupang-record-410m-over-data-breach-affecting-37-5m-users
-  headline: South Korea fines Coupang record $410M over data breach affecting 37.5M users
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6183
-- slug: 2026-05-09-cyberattack-knocks-canvas-offline-at-thousands-of-schools-as-finals-loom
-  headline: Cyberattack knocks Canvas offline at thousands of schools as finals loom
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6207
-- slug: 2026-05-10-canvas-outage-tied-to-cyberattack-disrupts-college-finals-across-u-s
-  headline: Canvas outage tied to cyberattack disrupts college finals across U.S.
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6167
+  strength: 0.6644
 ---
-
 ## Quest Diagnostics reports unauthorized access to Quanum platform
 
 **Subtype:** fact

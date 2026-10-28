@@ -2,8 +2,20 @@
 headline: Kenya reports second Ebola death as Nigeria investigates first case
 secondary_headline: U.S. rules bar boarding after recent Congo travel
 publish_date: '2026-10-23'
-lede: Kenya's Health Ministry reported the country's second Ebola death on Friday after a 65-year-old close relative of the first patient died in quarantine. Nigeria's health authorities said they had not verified how the country's first Ebola patient contracted the virus, while U.S. officials said travelers who had been in Congo during the previous 21 days could not board flights bound for the United States.
-nut_graf: Kenya's first patient, a 40-year-old Kenyan man living in Congo, traveled via Uganda and tested positive on Oct. 5 before dying that day, while Nigeria's first patient tested positive upon returning from Uganda. Kenya reported no new infections as seven patients received treatment and some quarantined contacts were due to begin release Saturday. U.S. health officials require all passengers boarding international flights to the United States, regardless of origin, to sign a statement attesting they had not been in Congo during the previous 21 days, and the U.S. Centers for Disease Control and Prevention bars travelers who had been in Congo during that period from boarding flights with U.S. destinations.
+lede: Kenya's Health Ministry reported the country's second Ebola death on Friday
+  after a 65-year-old close relative of the first patient died in quarantine. Nigeria's
+  health authorities said they had not verified how the country's first Ebola patient
+  contracted the virus, while U.S. officials said travelers who had been in Congo
+  during the previous 21 days could not board flights bound for the United States.
+nut_graf: Kenya's first patient, a 40-year-old Kenyan man living in Congo, traveled
+  via Uganda and tested positive on Oct. 5 before dying that day, while Nigeria's
+  first patient tested positive upon returning from Uganda. Kenya reported no new
+  infections as seven patients received treatment and some quarantined contacts were
+  due to begin release Saturday. U.S. health officials require all passengers boarding
+  international flights to the United States, regardless of origin, to sign a statement
+  attesting they had not been in Congo during the previous 21 days, and the U.S. Centers
+  for Disease Control and Prevention bars travelers who had been in Congo during that
+  period from boarding flights with U.S. destinations.
 primary_entities:
 - Kenya
 - Nigeria
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,106 +161,46 @@ related_stories:
   headline: Kenya confirms third Ebola case as US quarantine center faces court challenge
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7773
+  strength: 0.7782
+- slug: 2026-10-27-swiss-ebola-patient-and-spouse-arrive-from-nigeria-after-medical-evacuation
+  headline: Swiss Ebola patient and spouse arrive from Nigeria after medical evacuation
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7425
 - slug: 2026-07-14-us-bars-americans-in-congo-from-direct-travel-home-amid-ebola-spread
   headline: US bars Americans in Congo from direct travel home amid Ebola spread
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7662
+  strength: 0.7685
 - slug: 2026-05-27-trump-admin-plans-to-send-ebola-exposed-americans-to-kenya-facility-official-say
-  headline: Trump admin plans to send Ebola-exposed Americans to Kenya facility, official says
+  headline: Trump admin plans to send Ebola-exposed Americans to Kenya facility, official
+    says
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.7426
+  strength: 0.7446
 - slug: 2026-07-14-germany-treats-second-american-ebola-patient-in-frankfurt
   headline: Germany treats second American Ebola patient in Frankfurt
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6891
+  strength: 0.6894
 - slug: 2026-05-27-trump-admin-to-send-ebola-exposed-americans-to-kenya-treatment-facility
   headline: Trump admin to send Ebola‑exposed Americans to Kenya treatment facility
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.7258
+  strength: 0.7276
 - slug: 2026-06-23-kenya-halts-u-s--backed-ebola-facility-after-contempt-ruling
   headline: Kenya halts U.S.-backed Ebola facility after contempt ruling
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7029
+  strength: 0.7045
 - slug: 2026-05-16-new-ebola-outbreak-confirmed-in-eastern-congo-65-deaths-recorded
   headline: New Ebola outbreak confirmed in eastern Congo, 65 deaths recorded
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.7111
-- slug: 2026-05-16-africa-cdc-confirms-new-ebola-outbreak-in-remote-congo-province
-  headline: Africa CDC confirms new Ebola outbreak in remote Congo province
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6942
-- slug: 2026-05-17-oms-declara-emergencia-global-de-salud-por-bola-en-rd-congo-y-uganda
-  headline: OMS declara emergencia global de salud por ébola en RD Congo y Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6935
-- slug: 2026-06-01-hundreds-protest-planned-u-s-ebola-field-hospital-in-kenya
-  headline: Hundreds protest planned U.S. Ebola field hospital in Kenya
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6847
-- slug: 2026-05-16-new-ebola-outbreak-in-congo-declared-pheic-a-quick-guide-to-the-virus
-  headline: New Ebola outbreak in Congo declared PHEIC; a quick guide to the virus
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6933
-- slug: 2026-05-16-who-declares-congo-uganda-ebola-outbreak-public-health-emergency
-  headline: WHO declares Congo, Uganda Ebola outbreak public health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.687
-- slug: 2026-05-16-congo-ebola-outbreak-prompts-who-emergency-as-cases-cross-into-uganda
-  headline: Congo Ebola outbreak prompts WHO emergency as cases cross into Uganda
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6837
-- slug: 2026-05-16-deaths-in-eastern-congo-s-new-ebola-outbreak-climb-to-87
-  headline: Deaths in eastern Congo’s new Ebola outbreak climb to 87
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6835
-- slug: 2026-05-17-who-declares-global-health-emergency-as-ebola-outbreak-spreads-in-congo-and-ugan
-  headline: WHO Declares Global Health Emergency as Ebola Outbreak Spreads in Congo and Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6816
-- slug: 2026-05-17-new-ebola-outbreak-suspected-of-causing-15-deaths-in-congo
-  headline: New Ebola outbreak suspected of causing 15 deaths in Congo
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6816
-- slug: 2026-05-16-death-toll-in-congo-s-new-ebola-outbreak-reaches-87-africa-cdc-says
-  headline: Death toll in Congo’s new Ebola outbreak reaches 87, Africa CDC says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6799
-- slug: 2026-05-16-who-declares-global-health-emergency-over-rare-ebola-outbreak-in-congo-and-ugand
-  headline: WHO declares global health emergency over rare Ebola outbreak in Congo and Uganda
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6748
-- slug: 2026-05-16-who-declares-ebola-outbreak-in-congo-and-uganda-a-global-health-emergency
-  headline: WHO declares Ebola outbreak in Congo and Uganda a global health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6702
-- slug: 2026-05-17-ebola-suspected-outbreak-in-congo-kills-15-among-28-with-symptoms-health-ministr
-  headline: Ebola suspected outbreak in Congo kills 15 among 28 with symptoms, health ministry says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6662
+  strength: 0.7116
 analyses:
-- '2026-10-23-kenya-traces-an-ebola-cluster-as-nigeria-s-infection-route-remains-unresolved'
+- 2026-10-23-kenya-traces-an-ebola-cluster-as-nigeria-s-infection-route-remains-unresolved
 ---
-
 ## Kenya reports second Ebola death as Nigeria investigates first case
 
 **Subtype:** fact

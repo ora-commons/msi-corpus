@@ -1,9 +1,21 @@
 ---
 headline: Trump says Machado lacks the support or respect to lead Venezuela
-secondary_headline: Acting Venezuelan President Delcy Rodríguez was denied entry three times in a week
+secondary_headline: Acting Venezuelan President Delcy Rodríguez was denied entry three
+  times in a week
 publish_date: '2026-10-25'
-lede: President Donald Trump said María Corina Machado did not have the support or respect within Venezuela to lead the country, a statement he made after President Nicolás Maduro was removed from office at the start of the year. Machado returned to the country Sunday for the first time in nearly a year, while the Trump administration has excluded her and Edmundo González Urrutia from its dealings with Caracas. Spokesman David Smolansky called the return “a major step toward a democratic transition and free, fair, and verifiable presidential elections in the near future.”
-nut_graf: Machado’s return followed seven failed attempts in recent months, her advisers said, and a June attempt that she said the government blocked by closing Venezuela’s airspace. UPI reported that the U.S. military overthrew President Nicolás Maduro a month after Machado left the country and has since worked with the acting Venezuelan government. Smolansky described the return as a major step toward democratic transition and free, fair and verifiable presidential elections in the near future.
+lede: President Donald Trump said María Corina Machado did not have the support or
+  respect within Venezuela to lead the country, a statement he made after President
+  Nicolás Maduro was removed from office at the start of the year. Machado returned
+  to the country Sunday for the first time in nearly a year, while the Trump administration
+  has excluded her and Edmundo González Urrutia from its dealings with Caracas. Spokesman
+  David Smolansky called the return “a major step toward a democratic transition and
+  free, fair, and verifiable presidential elections in the near future.”
+nut_graf: Machado’s return followed seven failed attempts in recent months, her advisers
+  said, and a June attempt that she said the government blocked by closing Venezuela’s
+  airspace. UPI reported that the U.S. military overthrew President Nicolás Maduro
+  a month after Machado left the country and has since worked with the acting Venezuelan
+  government. Smolansky described the return as a major step toward democratic transition
+  and free, fair and verifiable presidential elections in the near future.
 primary_entities:
 - María Corina Machado
 - Donald Trump
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,15 +158,26 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-25-trump-says-he-hopes-venezuelan-opposition-leader-mar-a-corina-machado-is-safe
-  headline: Trump says he hopes Venezuelan opposition leader María Corina Machado is safe
+  headline: Trump says he hopes Venezuelan opposition leader María Corina Machado
+    is safe
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8606
+  strength: 0.8609
+- slug: 2026-10-26-venezuela-says-machado-was-free-to-enter-after-u-s-request
+  headline: Venezuela says Machado was free to enter after U.S. request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8168
 - slug: 2026-10-25-venezuela-s-machado-returns-home-after-nearly-11-months-abroad
   headline: Venezuela's Machado returns home after nearly 11 months abroad
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8164
+- slug: 2026-10-26-machado-s-return-revives-venezuela-s-push-for-2027-elections
+  headline: Machado’s return revives Venezuela’s push for 2027 elections
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7979
 - slug: 2026-09-23-machado-remains-blocked-from-venezuela-after-seven-failed-return-attempts
   headline: Machado remains blocked from Venezuela after seven failed return attempts
   publish_date: '2026-09-23'
@@ -163,9 +187,10 @@ related_stories:
   headline: Machado readies return to Venezuela to press for elections
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.8077
+  strength: 0.8083
 - slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
+  headline: Trump advances three-front Latin America push; Machado's reported returns
+    fail
   publish_date: '2026-09-23'
   relation: related
   strength: 0.7554
@@ -173,79 +198,8 @@ related_stories:
   headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7498
-- slug: 2026-09-24-venezuela-s-interim-president-meets-trump-addresses-un-in-new-york
-  headline: Venezuela's interim president meets Trump, addresses UN in New York
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7235
-- slug: 2026-08-01-u-s--backed-venezuela-democracy-talks-begin-without-opposition-leader-machado
-  headline: U.S.-backed Venezuela democracy talks begin without opposition leader Machado
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7834
-- slug: 2026-06-29-venezuela-blocks-machado-return-after-deadly-earthquakes
-  headline: Venezuela blocks Machado return after deadly earthquakes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.8229
-- slug: 2026-07-02-machado-flight-turned-back-after-u-s-officials-intervene
-  headline: Machado flight turned back after U.S. officials intervene
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.8046
-- slug: 2026-01-15-machado-presents-nobel-medal-to-trump-leaves-white-house-with-no-election-commit
-  headline: Machado presents Nobel medal to Trump, leaves White House with no election commitment
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.8018
-- slug: 2026-01-15-machado-gives-trump-her-nobel-peace-prize-medal-at-white-house-meeting
-  headline: Machado gives Trump her Nobel Peace Prize medal at White House meeting
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.8008
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7868
-- slug: 2026-01-16-machado-expresses-confidence-in-venezuelan-democracy-transition-but-offers-no-ti
-  headline: Machado expresses confidence in Venezuelan democracy transition but offers no timetable
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7823
-- slug: 2026-03-13-machado-calls-trump-a-fundamental-ally-despite-u-s-backing-delcy-rodr-guez
-  headline: Machado calls Trump a “fundamental ally” despite U.S. backing Delcy Rodríguez
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7751
-- slug: 2026-03-02-venezuela-opposition-leader-machado-says-she-will-return-in-coming-weeks
-  headline: Venezuela opposition leader Machado says she will return in coming weeks
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7723
-- slug: 2026-01-15-venezuela-s-acting-president-calls-for-foreign-oil-investment-warmer-us-ties
-  headline: Venezuela's acting president calls for foreign oil investment, warmer US ties
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7534
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  headline: Trump vows to 'run' Venezuela after U.S. military operation ousts Maduro
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7295
-- slug: 2026-01-09-venezuela-frees-opposition-leaders-foreign-nationals-after-maduro-capture
-  headline: Venezuela frees opposition leaders, foreign nationals after Maduro's capture
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7251
-- slug: 2026-01-17-ratcliffe-meets-venezuela-acting-president-rodriguez-in-caracas
-  headline: CIA director Ratcliffe meets Venezuela's acting president Rodríguez in Caracas
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.7243
+  strength: 0.7505
 ---
-
 ## Trump says Machado lacks the support or respect to lead Venezuela
 
 **Subtype:** fact

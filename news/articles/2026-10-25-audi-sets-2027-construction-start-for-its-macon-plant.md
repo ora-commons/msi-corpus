@@ -2,8 +2,18 @@
 headline: Audi sets 2027 construction start for its Macon plant
 secondary_headline: Audi says production will begin in the early 2030s
 publish_date: '2026-10-25'
-lede: Audi said construction of its first Georgia plant in Macon was scheduled to begin in 2027 and that production would begin in the early 2030s. President Donald Trump announced Audi's $4.2 billion commitment at a Saturday campaign rally in Perry, Georgia, where he sought to boost Republican candidates ahead of the Nov. 3 midterms. AP reported that Trump made the announcement while trying to deliver on his promise to bolster American manufacturing in the final days before the election.
-nut_graf: President Donald Trump announced Audi's $4.2 billion commitment in the final days before the Nov. 3 midterms. AP reported that the announcement came as Trump tried to deliver on his promise to bolster American manufacturing, while the Republican Party was trying to hold its House and Senate majorities. Audi's schedule put construction in 2027 and production in the early 2030s. Trump said the plant would produce 200,000 cars a year, while Audi said it would create approximately 4,500 jobs.
+lede: Audi said construction of its first Georgia plant in Macon was scheduled to
+  begin in 2027 and that production would begin in the early 2030s. President Donald
+  Trump announced Audi's $4.2 billion commitment at a Saturday campaign rally in Perry,
+  Georgia, where he sought to boost Republican candidates ahead of the Nov. 3 midterms.
+  AP reported that Trump made the announcement while trying to deliver on his promise
+  to bolster American manufacturing in the final days before the election.
+nut_graf: President Donald Trump announced Audi's $4.2 billion commitment in the final
+  days before the Nov. 3 midterms. AP reported that the announcement came as Trump
+  tried to deliver on his promise to bolster American manufacturing, while the Republican
+  Party was trying to hold its House and Senate majorities. Audi's schedule put construction
+  in 2027 and production in the early 2030s. Trump said the plant would produce 200,000
+  cars a year, while Audi said it would create approximately 4,500 jobs.
 primary_entities:
 - Donald Trump
 - Audi
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,103 +156,43 @@ related_stories:
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8921
-- slug: 2026-10-23-trump-directs-150-million-to-boost-u-s-gasoline-and-diesel-production
-  headline: Trump directs $150 million to boost U.S. gasoline and diesel production
-  publish_date: '2026-10-23'
+- slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
+  headline: Audi plans Q7, Q8 and Q9 production in Macon
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6391
+  strength: 0.8566
+- slug: 2026-10-25-audi-plans-macon-plant-to-emphasize-gas-powered-vehicles-and-plug-in-hybrids
+  headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8203
+- slug: 2026-10-26-cavallo-benner-and-cademartori-criticize-d-llner-s-trump-rally-appearance
+  headline: Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.785
+- slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
+  headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.652
 - slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
   headline: Trump says he has spent more than $300 million on the midterm elections
   publish_date: '2026-10-20'
   relation: related
   strength: 0.6512
-- slug: 2026-10-20-trump-announces-8-billion-in-farmer-aid-ahead-of-midterms
-  headline: Trump announces $8 billion in farmer aid ahead of midterms
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6346
-- slug: 2026-10-20-u-s-department-of-agriculture-and-trump-announce-8-billion-farm-aid
-  headline: U.S. Department of Agriculture and Trump announce $8 billion farm aid
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.633
-- slug: 2026-10-21-trump-conditionally-offers-to-settle-veterans-legitimate-camp-lejeune-claims
-  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune claims
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6215
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6256
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6374
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6399
-- slug: 2026-10-07-iowa-approves-1-36bn-in-incentives-for-mesabi-steel-plant-amid-skepticism
-  headline: Iowa approves $1.36bn in incentives for Mesabi steel plant amid skepticism
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6244
 - slug: 2026-09-28-trump-to-unveil-15-billion-mesabi-metallics-steel-mill-in-iowa
   headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
   publish_date: '2026-09-28'
   relation: related
   strength: 0.6582
-- slug: 2026-09-28-trump-unveils-15bn-iowa-steel-plant-by-indian-owned-mesabi-metallics
-  headline: Trump unveils $15bn Iowa steel plant by Indian-owned Mesabi Metallics
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6485
-- slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
-  headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6221
-- slug: 2026-08-24-trump-sets-jan-1-2027-start-for-50-tariffs-on-canadian-vehicles-parts-and-steel
-  headline: Trump sets Jan. 1, 2027 start for 50% tariffs on Canadian vehicles, parts and steel
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6215
 - slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
+  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts
+    in Georgia
   publish_date: '2026-07-22'
   relation: related
   strength: 0.659
-- slug: 2026-06-23-trump-tours-mack-trucks-plant-holds-campaign-style-rally-in-pennsylvania
-  headline: Trump tours Mack Trucks plant, holds campaign-style rally in Pennsylvania
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6906
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6422
-- slug: 2026-02-20-trump-visits-georgia-as-republicans-seek-midterm-boost-amid-election-claims
-  headline: Trump visits Georgia as Republicans seek midterm boost amid election claims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6769
-- slug: 2026-05-02-trump-says-he-will-raise-eu-auto-tariffs-to-25-next-week
-  headline: Trump says he will raise EU auto tariffs to 25% next week
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6315
 ---
-
 ## Audi sets 2027 construction start for its Macon plant
 
 **Subtype:** fact

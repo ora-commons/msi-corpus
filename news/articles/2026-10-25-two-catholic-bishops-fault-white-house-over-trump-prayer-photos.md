@@ -2,8 +2,16 @@
 headline: Two Catholic bishops fault White House over Trump prayer photos
 secondary_headline: Grob said participants did not consent; press office did not answer
 publish_date: '2026-10-25'
-lede: Milwaukee Archbishop Jeffrey Grob said the White House released photos and a video of him and other Catholic bishops praying with President Donald Trump without the participants' consent. The White House press office did not answer whether it had received consent. Des Moines, Iowa, Bishop William Joensen also expressed regret and said the White House had taken advantage of the bishops.
-nut_graf: Grob said the bishops were told the meeting would be a private discussion and that it did not endorse Trump, his policies or his party. Joensen said he wished he had been more shrewd, and Grob apologized for any damage his actions caused. Grob said the White House released the photos and video without the participants' consent; the press office did not answer whether it had received consent.
+lede: Milwaukee Archbishop Jeffrey Grob said the White House released photos and a
+  video of him and other Catholic bishops praying with President Donald Trump without
+  the participants' consent. The White House press office did not answer whether it
+  had received consent. Des Moines, Iowa, Bishop William Joensen also expressed regret
+  and said the White House had taken advantage of the bishops.
+nut_graf: Grob said the bishops were told the meeting would be a private discussion
+  and that it did not endorse Trump, his policies or his party. Joensen said he wished
+  he had been more shrewd, and Grob apologized for any damage his actions caused.
+  Grob said the White House released the photos and video without the participants'
+  consent; the press office did not answer whether it had received consent.
 primary_entities:
 - Jeffrey Grob
 - William Joensen
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +149,34 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-two-catholic-bishops-fault-white-house-over-trump-prayer-photos.png
-  alt: 'Illustration accompanying article: Two Catholic bishops fault White House over Trump prayer photos'
+  alt: 'Illustration accompanying article: Two Catholic bishops fault White House
+    over Trump prayer photos'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-03-mariann-budde-to-resign-as-episcopal-bishop-of-washington-dc
-  headline: Mariann Budde to resign as Episcopal bishop of Washington DC
-  publish_date: '2026-10-03'
+- slug: 2026-10-26-two-catholic-bishops-regret-white-house-release-of-oval-office-prayer
+  headline: Two Catholic bishops regret White House release of Oval Office prayer
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5981
-- slug: 2026-09-21-washington-post-withholds-white-house-photos-past-midnight-in-solidarity
-  headline: Washington Post withholds White House photos past midnight in solidarity
-  publish_date: '2026-09-21'
+  strength: 0.8917
+- slug: 2026-10-26-white-house-spokesperson-calls-trump-greatest-president-for-catholic-americans
+  headline: White House spokesperson calls Trump greatest president for Catholic Americans
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5813
-- slug: 2026-09-22-networks-boycott-white-house-press-pool-after-trump-blocks-cnn
-  headline: Networks boycott White House press pool after Trump blocks CNN
-  publish_date: '2026-09-22'
+  strength: 0.8647
+- slug: 2026-10-26-pew-finds-30-of-us-catholics-approve-of-trump-s-job-performance
+  headline: Pew finds 30% of US Catholics approve of Trump's job performance
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5739
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5779
-- slug: 2026-09-02-vance-tells-evangelical-podcast-antichrist-may-be-walking-among-us
-  headline: Vance tells evangelical podcast antichrist may be 'walking among us'
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5716
-- slug: 2026-07-15-vance-says-trump-administration-absolutely-screwed-up-epstein-files-communicatio
-  headline: Vance says Trump administration 'absolutely screwed up' Epstein files communications
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6126
-- slug: 2026-04-14-many-us-catholics-dismayed-by-trump-s-verbal-attack-on-pope-leo
-  headline: Many US Catholics dismayed by Trump’s verbal attack on Pope Leo
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6478
-- slug: 2026-04-14-trump-refuses-to-apologize-to-pope-leon-xiv-amid-iran-war-tensions
-  headline: Trump refuses to apologize to Pope Leon XIV amid Iran war tensions
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6176
-- slug: 2026-05-17-trump-administration-officials-join-christian-prayer-service-on-national-mall
-  headline: Trump administration officials join Christian prayer service on National Mall
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6009
-- slug: 2026-05-19-debate-grows-over-whether-white-house-correspondents-dinner-should-resume
-  headline: Debate grows over whether White House correspondents’ dinner should resume
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5915
-- slug: 2026-04-14-trump-refuses-to-apologize-to-pope-leo-after-iran-war-criticism
-  headline: Trump refuses to apologize to Pope Leo after Iran-war criticism
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5961
-- slug: 2026-04-15-trump-clashes-with-pope-leo-xiv-over-iran-war-peace-appeals
-  headline: Trump clashes with Pope Leo XIV over Iran war, peace appeals
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5923
-- slug: 2026-03-02-house-oversight-releases-videos-showing-clintons-answer-epstein-questions
-  headline: House Oversight releases videos showing Clintons answer Epstein questions
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.5979
-- slug: 2026-05-15-trump-administration-to-join-rededicate-250-prayer-event-on-national-mall
-  headline: Trump administration to join “Rededicate 250” prayer event on National Mall
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5766
-- slug: 2026-05-17-whca-still-weighs-rescheduling-white-house-correspondents-dinner-after-attack
-  headline: WHCA still weighs rescheduling White House correspondents’ dinner after attack
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5753
-- slug: 2026-05-18-white-house-correspondents-dinner-rescheduling-debated-after-trump-attack
-  headline: White House correspondents’ dinner rescheduling debated after Trump attack
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5718
-- slug: 2026-04-11-trump-and-pope-leo-xiv-at-odds-over-iran-war-amid-ceasefire
-  headline: Trump and Pope Leo XIV at odds over Iran war amid ceasefire
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5821
-- slug: 2026-05-10-trump-s-religious-liberty-panel-weighs-wish-lists-including-ending-church-state-
-  headline: Trump’s religious liberty panel weighs wish lists, including ending church-state separation
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5713
-- slug: 2026-05-09-comisi-n-de-libertad-religiosa-de-trump-busca-tocar-el-muro-iglesia-estado
-  headline: Comisión de libertad religiosa de Trump busca tocar el “muro” Iglesia-Estado
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5717
-- slug: 2026-04-15-vatican-visitors-react-to-trump-s-criticism-of-pope-leo-xiv
-  headline: Vatican visitors react to Trump’s criticism of Pope Leo XIV
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5782
+  strength: 0.7346
 ---
-
 ## Two Catholic bishops fault White House over Trump prayer photos
 
 **Subtype:** fact

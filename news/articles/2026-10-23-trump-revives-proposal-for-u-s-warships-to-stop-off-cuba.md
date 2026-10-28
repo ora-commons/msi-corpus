@@ -1,9 +1,19 @@
 ---
 headline: Trump revives proposal for U.S. warships to stop off Cuba
-secondary_headline: Rubio calls for action while doubting a diplomatic resolution with Cuba
+secondary_headline: Rubio calls for action while doubting a diplomatic resolution
+  with Cuba
 publish_date: '2026-10-23'
-lede: President Donald Trump told a rally for candidates in Fort Myers, Fla., on Friday that one U.S. warship returning from the Middle East could stop about 50 yards off Cuba's coast on its way back from the Iran war and that Secretary of State Marco Rubio could then go to Cuba to finish a deal. The remarks came days before the midterm elections, as voters expressed concern about how the U.S. war on Iran had affected prices for gas and groceries.
-nut_graf: Trump's rally remarks revived a proposal he had first floated earlier this year and came days before the midterm elections. The Associated Press reported that the U.S. side came away unimpressed from recent talks with Cuban officials, leading to additional sanctions on Cuba's government. The dispute unfolded as Cuba continued to face an economic and energy crisis.
+lede: President Donald Trump told a rally for candidates in Fort Myers, Fla., on Friday
+  that one U.S. warship returning from the Middle East could stop about 50 yards off
+  Cuba's coast on its way back from the Iran war and that Secretary of State Marco
+  Rubio could then go to Cuba to finish a deal. The remarks came days before the midterm
+  elections, as voters expressed concern about how the U.S. war on Iran had affected
+  prices for gas and groceries.
+nut_graf: Trump's rally remarks revived a proposal he had first floated earlier this
+  year and came days before the midterm elections. The Associated Press reported that
+  the U.S. side came away unimpressed from recent talks with Cuban officials, leading
+  to additional sanctions on Cuba's government. The dispute unfolded as Cuba continued
+  to face an economic and energy crisis.
 primary_entities:
 - Donald Trump
 - Marco Rubio
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +157,43 @@ related_stories:
   headline: Rubio urges Cubans to act as Trump floats warship intervention
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8827
+  strength: 0.8821
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7216
+  strength: 0.7212
 - slug: 2026-09-21-wealthy-cuban-americans-in-miami-draft-post-communist-cuba-blueprints
   headline: Wealthy Cuban-Americans in Miami draft post-communist Cuba blueprints
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7136
+  strength: 0.711
 - slug: 2026-09-17-trump-and-rubio-allies-compete-for-cuban-assets-as-foreign-firms-exit
   headline: Trump and Rubio allies compete for Cuban assets as foreign firms exit
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7133
+  strength: 0.7123
 - slug: 2026-02-28-trump-says-u-s-could-have-a-friendly-takeover-of-cuba
   headline: Trump says U.S. could have “a friendly takeover of Cuba”
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.7978
+  strength: 0.797
 - slug: 2026-05-22-rubio-doubts-diplomacy-with-cuba-as-trump-threatens-possible-intervention
   headline: Rubio doubts diplomacy with Cuba as Trump threatens possible intervention
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.7615
+  strength: 0.7607
 - slug: 2026-05-21-trump-raises-new-military-threat-against-cuba-as-rubio-doubts-diplomacy
   headline: Trump raises new military threat against Cuba as Rubio doubts diplomacy
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.7545
+  strength: 0.7542
 - slug: 2026-05-21-rubio-expresses-doubt-on-cuba-diplomacy-as-trump-renews-military-threat
   headline: Rubio expresses doubt on Cuba diplomacy as Trump renews military threat
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.7476
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7092
-- slug: 2026-02-02-trump-says-u-s-is-starting-to-talk-to-cuba-amid-oil-cut-pressure
-  headline: Trump says U.S. is starting to talk to Cuba amid oil cut pressure
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.7619
-- slug: 2026-04-18-us-delegation-visits-cuba-in-diplomatic-push-as-trump-signals-post-iran-focus
-  headline: US delegation visits Cuba in diplomatic push as Trump signals post-Iran focus
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.7391
-- slug: 2026-03-18-trump-rubio-call-for-new-cuban-leaders-as-blackouts-worsen-crisis
-  headline: Trump, Rubio call for new Cuban leaders as blackouts worsen crisis
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7455
-- slug: 2026-04-16-d-az-canel-says-cuba-will-fight-if-attacked-as-trump-signals-post-iran-focus-on-
-  headline: Díaz-Canel says Cuba will fight if attacked as Trump signals post-Iran focus on island
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7305
-- slug: 2026-05-08-us-says-it-is-not-planning-imminent-military-action-against-cuba
-  headline: US says it is not planning imminent military action against Cuba
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7223
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7027
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7069
-- slug: 2026-05-25-trump-s-emerging-iran-deal-draws-some-republican-criticism
-  headline: Trump’s emerging Iran deal draws some Republican criticism
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7058
-- slug: 2026-01-11-trump-warns-cuba-to-make-a-deal-as-venezuelan-oil-lifeline-goes-dark
-  headline: Trump warns Cuba to make a 'deal' as Venezuelan oil lifeline goes dark
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.7306
-- slug: 2026-03-31-trump-says-he-has-no-problem-with-russian-tanker-aiding-cuba
-  headline: Trump says he has ‘no problem’ with Russian tanker aiding Cuba
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.72
-- slug: 2026-02-13-mexican-navy-ships-bring-humanitarian-aid-to-cuba-as-u-s-blockade-deepens
-  headline: Mexican Navy ships bring humanitarian aid to Cuba as U.S. blockade deepens
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7266
+  strength: 0.7469
 ---
-
 ## Trump revives proposal for U.S. warships to stop off Cuba
 
 **Subtype:** fact

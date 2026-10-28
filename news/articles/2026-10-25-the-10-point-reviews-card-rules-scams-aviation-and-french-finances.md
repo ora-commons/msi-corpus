@@ -2,8 +2,17 @@
 headline: The 10-Point reviews card rules, scams, aviation and French finances
 secondary_headline: Card agreements let issuers seize rewards and close accounts
 publish_date: '2026-10-25'
-lede: The Wall Street Journal's October 25, 2026 edition of The 10-Point reviews credit-card rewards controls, a romance-scam investigation involving Garrick Stafford, the halt of almost all Riyadh Air flying, French public finances, Yelp buffet searches and a contest at Logan Airport. The lead item reports that Chase and Citi have introduced lifetime bonus limits and that American Express uses dedicated analysts to find “rewards leakage” and abuse.
-nut_graf: The newsletter's lead item examines the conflict between card issuers and customers who intensively pursue bonuses and perks. Card agreements give issuers broad discretion to seize rewards and shut down accounts. The other reports trace a romance-scam unraveling, the halt of almost all Riyadh Air flying, pressure on French finances, growth in all-you-can-eat dining interest and a Logan Airport contest.
+lede: The Wall Street Journal's October 25, 2026 edition of The 10-Point reviews credit-card
+  rewards controls, a romance-scam investigation involving Garrick Stafford, the halt
+  of almost all Riyadh Air flying, French public finances, Yelp buffet searches and
+  a contest at Logan Airport. The lead item reports that Chase and Citi have introduced
+  lifetime bonus limits and that American Express uses dedicated analysts to find
+  “rewards leakage” and abuse.
+nut_graf: The newsletter's lead item examines the conflict between card issuers and
+  customers who intensively pursue bonuses and perks. Card agreements give issuers
+  broad discretion to seize rewards and shut down accounts. The other reports trace
+  a romance-scam unraveling, the halt of almost all Riyadh Air flying, pressure on
+  French finances, growth in all-you-can-eat dining interest and a Logan Airport contest.
 primary_entities:
 - The 10-Point
 - The Wall Street Journal
@@ -57,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,110 +165,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-25-france-s-bond-yields-climb-as-debt-strains-fiscal-choices
-  headline: France’s bond yields climb as debt strains fiscal choices
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6195
-- slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
-  headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6134
-- slug: 2026-10-22-france-s-10-year-bond-yield-rises-above-5-amid-budget-gridlock
-  headline: France’s 10-year bond yield rises above 5% amid budget gridlock
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6054
 - slug: 2026-10-09-trump-vance-back-bill-letting-merchants-pick-card-networks
   headline: Trump, Vance back bill letting merchants pick card networks
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6753
-- slug: 2026-10-21-five-wall-street-journal-briefs-cover-autism-therapy-ipos-ai-and-friendship
-  headline: Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5997
-- slug: 2026-10-15-trump-appointed-regulator-banks-cut-off-trump-sellers-democrats-firearms-firm
-  headline: 'Trump-appointed regulator: Banks cut off Trump sellers, Democrats, firearms firm'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6008
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6223
-- slug: 2026-10-12-uk-welfare-spending-on-track-to-hit-130-billion-as-claims-surge
-  headline: UK welfare spending on track to hit £130 billion as claims surge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6075
-- slug: 2026-10-06-france-s-10-year-borrowing-cost-climbs-to-highest-level-since-2002
-  headline: France's 10-year borrowing cost climbs to highest level since 2002
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6157
-- slug: 2026-10-02-french-bond-yields-hit-highest-since-2002-as-borrowing-costs-surge
-  headline: French bond yields hit highest since 2002 as borrowing costs surge
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.628
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5998
-- slug: 2026-09-25-near-premium-credit-cards-draw-younger-consumers-as-top-fees-reach-895
-  headline: Near-premium credit cards draw younger consumers as top fees reach $895
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6448
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6045
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6251
+  strength: 0.6754
 - slug: 2026-05-22-what-rising-fuel-prices-mean-for-airline-miles-and-travel-rewards-this-summer
-  headline: What rising fuel prices mean for airline miles and travel rewards this summer
+  headline: What rising fuel prices mean for airline miles and travel rewards this
+    summer
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6608
+  strength: 0.6609
 - slug: 2026-05-23-rising-fuel-prices-could-shrink-the-value-of-airline-rewards-this-summer
   headline: Rising fuel prices could shrink the value of airline rewards this summer
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.6585
-- slug: 2026-06-13-u-s-credit-card-delinquency-nears-2008-peak-amid-lighter-debt-burden
-  headline: U.S. credit card delinquency nears 2008 peak amid lighter debt burden
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6111
-- slug: 2026-01-10-trump-calls-for-10-credit-card-interest-rate-cap-banks-push-back
-  headline: Trump calls for 10% credit card interest rate cap; banks push back
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6457
-- slug: 2026-01-17-banks-face-trump-s-jan-20-credit-card-rate-cap-deadline-with-no-clear-answers
-  headline: Banks face Trump's Jan. 20 credit card rate cap deadline with no clear answers
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6402
-- slug: 2026-01-13-wall-street-ceos-warn-trump-on-fed-independence-and-credit-card-cap
-  headline: Wall Street CEOs warn Trump on Fed independence and credit card cap
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6365
+  strength: 0.6586
 analyses:
-- '2026-10-25-card-issuers-tighten-controls-as-institutions-navigate-rising-uncertainty'
+- 2026-10-25-card-issuers-tighten-controls-as-institutions-navigate-rising-uncertainty
 ---
-
 ## The 10-Point reviews card rules, scams, aviation and French finances
 
 **Subtype:** fact

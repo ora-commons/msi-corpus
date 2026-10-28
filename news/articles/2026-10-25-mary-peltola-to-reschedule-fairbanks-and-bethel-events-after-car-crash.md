@@ -2,8 +2,16 @@
 headline: Mary Peltola to reschedule Fairbanks and Bethel events after car crash
 secondary_headline: Anchorage police say crash circumstances remain under investigation
 publish_date: '2026-10-25'
-lede: Mary Peltola and her family sustained minor injuries Saturday when another vehicle crashed into the car carrying them as they traveled in Anchorage to a campaign stop, the Alaska Federation of Natives annual banquet, her campaign said Sunday. Peltola required medical attention, and her campaign said upcoming events in Fairbanks and Bethel would be rescheduled for later in the week as she recovered.
-nut_graf: The collision interrupted the final week of Mary Peltola's campaign in an Alaska Senate race that has drawn national attention, with both candidates trying to rally support from Alaska Native voters, a key constituency. Separately, Donald Trump ordered the Justice Department to block certification of the Alaska Senate election if Republican incumbent Dan Sullivan loses.
+lede: Mary Peltola and her family sustained minor injuries Saturday when another vehicle
+  crashed into the car carrying them as they traveled in Anchorage to a campaign stop,
+  the Alaska Federation of Natives annual banquet, her campaign said Sunday. Peltola
+  required medical attention, and her campaign said upcoming events in Fairbanks and
+  Bethel would be rescheduled for later in the week as she recovered.
+nut_graf: The collision interrupted the final week of Mary Peltola's campaign in an
+  Alaska Senate race that has drawn national attention, with both candidates trying
+  to rally support from Alaska Native voters, a key constituency. Separately, Donald
+  Trump ordered the Justice Department to block certification of the Alaska Senate
+  election if Republican incumbent Dan Sullivan loses.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +149,40 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-mary-peltola-to-reschedule-fairbanks-and-bethel-events-after-car-crash.png
-  alt: 'Illustration accompanying article: Mary Peltola to reschedule Fairbanks and Bethel events after car crash'
+  alt: 'Illustration accompanying article: Mary Peltola to reschedule Fairbanks and
+    Bethel events after car crash'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-25-police-describe-rear-end-collision-that-injured-peltola-s-family-in-anchorage
+  headline: Police describe rear-end collision that injured Peltola's family in Anchorage
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8744
+- slug: 2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo
+  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday
+    and Monday events
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8466
+- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
+  headline: Peltola reschedules Alaska Senate campaign events on medical advice
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7978
 - slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
   headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6689
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6164
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6152
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6145
-- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
-  headline: Blanche defends lawsuit to block Alaska Senate certification
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5941
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5958
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6002
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.593
-- slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5941
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6352
-- slug: 2026-10-18-mass-lt-governor-candidate-shawn-oliver-suspends-campaign-after-crash-arrest
-  headline: Mass. lt. governor candidate Shawn Oliver suspends campaign after crash arrest
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6065
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6091
-- slug: 2026-10-08-sen-gallego-demands-accountability-after-arizona-candidate-alleges-rape
-  headline: Sen. Gallego demands accountability after Arizona candidate alleges rape
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5842
-- slug: 2026-10-07-arizona-house-candidate-alleges-rape-while-repairing-campaign-sign
-  headline: Arizona House candidate alleges rape while repairing campaign sign
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5883
-- slug: 2026-09-24-peltola-s-campaign-calls-nyt-report-on-her-staff-conduct-exaggerated
-  headline: Peltola's campaign calls NYT report on her staff conduct exaggerated
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6458
-- slug: 2026-09-12-maryland-officials-call-for-investigation-after-frederick-ice-clash
-  headline: Maryland officials call for investigation after Frederick ICE clash
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5849
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.5913
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6321
-- slug: 2026-08-15-sullivan-campaign-links-peltola-to-harris-after-fundraising-email-rejection
-  headline: Sullivan campaign links Peltola to Harris after fundraising-email rejection
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6202
-- slug: 2026-01-12-peltola-enters-alaska-senate-race-challenging-gop-incumbent-sullivan
-  headline: Peltola enters Alaska Senate race, challenging GOP incumbent Sullivan
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6645
+  strength: 0.6696
 ---
-
 ## Mary Peltola to reschedule Fairbanks and Bethel events after car crash
 
 **Subtype:** fact

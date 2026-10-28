@@ -1,9 +1,21 @@
 ---
 headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
-secondary_headline: Audi leaves tariff-relief question unresolved ahead of early-2030s production
+secondary_headline: Audi leaves tariff-relief question unresolved ahead of early-2030s
+  production
 publish_date: '2026-10-25'
-lede: Audi plans its Macon, Georgia, factory to emphasize gas-powered vehicles and plug-in hybrids, with Chief Executive Gernot Döllner discussing the product mix in a Sunday interview. The plant will focus on the U.S. market while also producing cars for global export. Audi officials declined to say whether the company would receive tariff relief before production begins in the early 2030s.
-nut_graf: Audi sells thousands of luxury cars in the United States without building any in the country. The Macon project would give Audi its first U.S. production site, but its gas-powered and plug-in-hybrid focus comes as parent Volkswagen scales back global electric-vehicle plans after slower U.S. adoption led the automaker to cancel or delay several battery-powered models. Volkswagen is also seeking to cut 100,000 jobs and potentially close plants in Europe, and Audi officials have not said whether the Macon plant will receive tariff relief before production begins in the early 2030s.
+lede: Audi plans its Macon, Georgia, factory to emphasize gas-powered vehicles and
+  plug-in hybrids, with Chief Executive Gernot Döllner discussing the product mix
+  in a Sunday interview. The plant will focus on the U.S. market while also producing
+  cars for global export. Audi officials declined to say whether the company would
+  receive tariff relief before production begins in the early 2030s.
+nut_graf: Audi sells thousands of luxury cars in the United States without building
+  any in the country. The Macon project would give Audi its first U.S. production
+  site, but its gas-powered and plug-in-hybrid focus comes as parent Volkswagen scales
+  back global electric-vehicle plans after slower U.S. adoption led the automaker
+  to cancel or delay several battery-powered models. Volkswagen is also seeking to
+  cut 100,000 jobs and potentially close plants in Europe, and Audi officials have
+  not said whether the Macon plant will receive tariff relief before production begins
+  in the early 2030s.
 primary_entities:
 - Audi
 - Volkswagen
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +155,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
+  headline: Audi plans Q7, Q8 and Q9 production in Macon
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8506
 - slug: 2026-10-25-audi-plans-first-u-s-factory-in-georgia-with-200-000-car-annual-capacity
   headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8253
+  strength: 0.8237
 - slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
   headline: Audi sets 2027 construction start for its Macon plant
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7837
-- slug: 2026-10-20-reported-eu-hybrid-cap-could-slow-chinese-automakers-share-gains-next-year
-  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next year
-  publish_date: '2026-10-20'
+  strength: 0.7843
+- slug: 2026-10-26-cavallo-benner-and-cademartori-criticize-d-llner-s-trump-rally-appearance
+  headline: Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5818
-- slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
-  headline: Chinese automakers target overseas markets as US and EU tighten access
-  publish_date: '2026-10-15'
+  strength: 0.7341
+- slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
+  headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6017
-- slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
-  headline: Chinese automakers pitch American-style cars as U.S. stays shut
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.604
+  strength: 0.6575
 - slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
   headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6584
-- slug: 2026-10-09-geely-to-launch-in-canada-in-2027-as-u-s-weighs-chinese-car-restrictions
-  headline: Geely to launch in Canada in 2027 as U.S. weighs Chinese car restrictions
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5942
-- slug: 2026-10-06-volvo-ceo-outlines-plan-to-share-more-parts-with-chinese-owner
-  headline: Volvo CEO outlines plan to share more parts with Chinese owner
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6077
-- slug: 2026-10-03-hyundai-s-mu-oz-pitches-car-funded-robotics-path-against-tesla-s-robot-bet
-  headline: Hyundai's Muñoz pitches car-funded robotics path against Tesla's robot bet
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5887
-- slug: 2026-09-29-u-s-car-dealers-face-worst-new-model-drought-in-years
-  headline: U.S. car dealers face worst new-model drought in years
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6031
-- slug: 2026-09-21-german-auto-workers-protest-job-cuts-demand-policy-changes
-  headline: German auto workers protest job cuts, demand policy changes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5959
-- slug: 2026-09-11-ipsen-weighs-return-of-u-s-manufacturing-plant-amid-tariff-pressure
-  headline: Ipsen weighs return of U.S. manufacturing plant amid tariff pressure
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5857
-- slug: 2026-09-02-ford-targets-100-000-first-year-sales-for-new-30-000-fathom-electric-truck
-  headline: Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5932
-- slug: 2026-09-04-volkswagen-board-approves-100-000-job-cuts-by-2030
-  headline: Volkswagen board approves 100,000 job cuts by 2030
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5863
-- slug: 2026-09-03-volkswagen-names-marco-schubert-to-lead-north-american-business
-  headline: Volkswagen names Marco Schubert to lead North American business
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5855
-- slug: 2026-08-15-ford-and-gm-push-competing-tariff-demands-on-washington
-  headline: Ford and GM push competing tariff demands on Washington
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6052
-- slug: 2026-06-26-nissan-americas-chief-aims-to-revive-brand-with-edgy-lineup-u-s-production
-  headline: Nissan Americas chief aims to revive brand with "edgy" lineup, U.S. production
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6397
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6094
-- slug: 2026-06-26-volkswagen-reportedly-planning-up-to-100-000-job-cuts-four-german-plant-closures
-  headline: Volkswagen reportedly planning up to 100,000 job cuts, four German plant closures
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-11-argentina-plans-to-allow-duty-free-import-of-10-000-us-vehicles-annually
-  headline: Argentina plans to allow duty-free import of 10,000 US vehicles annually
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5894
+  strength: 0.6614
 ---
-
 ## Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
 
 **Subtype:** fact

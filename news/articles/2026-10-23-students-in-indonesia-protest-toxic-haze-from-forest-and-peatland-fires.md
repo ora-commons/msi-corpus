@@ -1,8 +1,15 @@
 ---
 headline: Students in Indonesia protest toxic haze from forest and peatland fires
 publish_date: '2026-10-23'
-lede: Thousands of students across Indonesia have protested for days over the government’s response to toxic haze that has blanketed multiple cities and spread across Southeast Asia in recent weeks. On Friday, more than 500 protesters gathered outside the Central Kalimantan Governor’s Office in Palangkaraya, demanding solutions to the haze.
-nut_graf: The protests concern the government’s response to a crisis with public-health consequences across Indonesia and regional backlash beyond its borders. Indonesia’s Ministry of Health reported more than 333,470 residents with acute respiratory illnesses across seven affected provinces since mid-August, while IQAir ranked Singapore and Kuala Lumpur among the world’s most polluted cities this month.
+lede: Thousands of students across Indonesia have protested for days over the government’s
+  response to toxic haze that has blanketed multiple cities and spread across Southeast
+  Asia in recent weeks. On Friday, more than 500 protesters gathered outside the Central
+  Kalimantan Governor’s Office in Palangkaraya, demanding solutions to the haze.
+nut_graf: The protests concern the government’s response to a crisis with public-health
+  consequences across Indonesia and regional backlash beyond its borders. Indonesia’s
+  Ministry of Health reported more than 333,470 residents with acute respiratory illnesses
+  across seven affected provinces since mid-August, while IQAir ranked Singapore and
+  Kuala Lumpur among the world’s most polluted cities this month.
 primary_entities:
 - Indonesia
 - Central Kalimantan
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,106 +156,10 @@ related_stories:
   headline: Indonesia to disperse dry ice over South Sumatra as wildfire haze spreads
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.756
-- slug: 2026-10-19-amazon-fires-blanket-manaus-as-brazil-probes-political-motive
-  headline: Amazon fires blanket Manaus as Brazil probes political motive
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5895
-- slug: 2026-10-21-karachi-garment-workers-describe-fainting-and-lost-wages-amid-extreme-heat
-  headline: Karachi garment workers describe fainting and lost wages amid extreme heat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5665
-- slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
-  headline: French police fire tear gas as 256,000 rally nationwide for school funding
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5947
-- slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
-  headline: Youth-led protests over French schools draw hundreds of thousands
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5652
-- slug: 2026-09-08-mamdani-releases-9-11-documents-showing-city-had-ground-zero-air-concerns
-  headline: Mamdani releases 9/11 documents showing city had Ground Zero air concerns
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5816
-- slug: 2026-07-17-new-yorkers-face-poor-air-quality-as-canadian-wildfire-smoke-blankets-city
-  headline: New Yorkers face poor air quality as Canadian wildfire smoke blankets city
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5684
-- slug: 2026-07-16-canadian-wildfire-smoke-shrouds-northeast-midwest-in-hazardous-air
-  headline: Canadian wildfire smoke shrouds Northeast, Midwest in hazardous air
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.566
-- slug: 2026-07-07-dc-air-quality-hits-worst-in-world-after-record-fireworks
-  headline: DC air quality hits worst in world after record fireworks
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5693
-- slug: 2026-06-25-extreme-heat-endangers-indian-textile-workers-in-surat
-  headline: Extreme heat endangers Indian textile workers in Surat
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5682
-- slug: 2026-06-09-pacoima-residents-fight-hazardous-air-with-hyperlocal-sensor-network
-  headline: Pacoima residents fight hazardous air with hyperlocal sensor network
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5658
-- slug: 2026-03-07-iran-war-strands-tens-of-thousands-of-muslim-pilgrims-in-saudi-arabia
-  headline: Iran war strands tens of thousands of Muslim pilgrims in Saudi Arabia
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5975
-- slug: 2026-03-10-cuban-students-stage-sit-in-at-havana-university-amid-energy-crisis
-  headline: Cuban students stage sit-in at Havana University amid energy crisis
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5955
-- slug: 2026-05-10-mount-dukono-eruption-kills-one-hiker-two-singaporeans-missing
-  headline: Mount Dukono eruption kills one hiker, two Singaporeans missing
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5711
-- slug: 2026-05-11-malaysia-searches-for-14-missing-after-migrant-boat-sinks-off-pangkor
-  headline: Malaysia searches for 14 missing after migrant boat sinks off Pangkor
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5699
-- slug: 2026-05-21-indonesia-tightens-control-over-key-commodities-in-major-trade-takeover
-  headline: Indonesia tightens control over key commodities in major trade takeover
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5639
-- slug: 2026-02-28-protests-persist-at-iranian-colleges-as-us-military-threat-looms
-  headline: Protests persist at Iranian colleges as US military threat looms
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5838
-- slug: 2026-04-28-indonesia-urges-social-media-firms-to-disclose-under-16-account-suspensions
-  headline: Indonesia urges social media firms to disclose under-16 account suspensions
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5676
-- slug: 2026-05-09-indonesian-rescuers-recover-bodies-of-three-hikers-killed-in-mount-dukono-erupti
-  headline: Indonesian rescuers recover bodies of three hikers killed in Mount Dukono eruption
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5628
-- slug: 2026-01-21-southeast-asia-s-coal-demand-undermines-progress-on-clean-energy
-  headline: Southeast Asia’s coal demand undermines progress on clean energy
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5842
+  strength: 0.7546
 analyses:
-- '2026-10-23-indonesia-s-haze-response-may-not-contain-smoke-before-2027'
+- 2026-10-23-indonesia-s-haze-response-may-not-contain-smoke-before-2027
 ---
-
 ## Students in Indonesia protest toxic haze from forest and peatland fires
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Mamdani’s NYC encampment policy draws criticism from residents and businesses
-secondary_headline: March count found nearly 5,000 unsheltered people living on city streets, up 11% from prior year
+secondary_headline: March count found nearly 5,000 unsheltered people living on city
+  streets, up 11% from prior year
 publish_date: '2026-10-26'
-lede: Community and business leaders are criticizing New York City Mayor Zohran Mamdani’s handling of homeless encampments after his administration implemented a policy delaying structure removal for at least seven days. Their primary complaint is that encampments are not being cleared, and the makeshift clusters can span as much as half a city block. Residents and businesses say the delay lets people move across the street and restart the removal clock. City officials said the requirement followed a stipulation reached after New York was sued over its handling of encampments.
-nut_graf: The disagreement centers on whether the delay gives outreach workers enough time to reach people or allows encampments to persist near homes and businesses. Mamdani has introduced a plan to build 200,000 new housing units over the next decade, but community leaders have grown impatient with the mayor for not providing a comprehensive strategy to combat homelessness now.
+lede: Community and business leaders are criticizing New York City Mayor Zohran Mamdani’s
+  handling of homeless encampments after his administration implemented a policy delaying
+  structure removal for at least seven days. Their primary complaint is that encampments
+  are not being cleared, and the makeshift clusters can span as much as half a city
+  block. Residents and businesses say the delay lets people move across the street
+  and restart the removal clock. City officials said the requirement followed a stipulation
+  reached after New York was sued over its handling of encampments.
+nut_graf: The disagreement centers on whether the delay gives outreach workers enough
+  time to reach people or allows encampments to persist near homes and businesses.
+  Mamdani has introduced a plan to build 200,000 new housing units over the next decade,
+  but community leaders have grown impatient with the mayor for not providing a comprehensive
+  strategy to combat homelessness now.
 primary_entities:
 - Zohran Mamdani
 - New York City
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +151,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-central-park-bill-sets-april-deadline-for-transition-of-more-than-150-drivers
-  headline: Central Park bill sets April deadline for transition of more than 150 drivers
+  headline: Central Park bill sets April deadline for transition of more than 150
+    drivers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6802
+  strength: 0.6809
 - slug: 2026-10-01-mamdani-announces-new-york-s-first-antisemitism-strategy
   headline: Mamdani announces New York's first antisemitism strategy
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6869
+  strength: 0.6867
 - slug: 2026-09-29-israeli-jewish-leaders-press-mamdani-over-israel-rhetoric-on-antisemitism-plan
-  headline: Israeli, Jewish leaders press Mamdani over Israel rhetoric on antisemitism plan
+  headline: Israeli, Jewish leaders press Mamdani over Israel rhetoric on antisemitism
+    plan
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6827
+  strength: 0.6831
 - slug: 2026-09-29-nyc-mayor-mamdani-announces-7-4-million-antisemitism-strategy
   headline: NYC Mayor Mamdani announces $7.4 million antisemitism strategy
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6795
+  strength: 0.6804
 - slug: 2026-09-24-judge-orders-mamdani-administration-to-turn-over-rent-freeze-communications
   headline: Judge orders Mamdani administration to turn over rent freeze communications
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6776
+  strength: 0.678
 - slug: 2026-09-21-trump-and-mamdani-hold-third-sit-down-at-gracie-mansion
   headline: Trump and Mamdani hold third sit-down at Gracie Mansion
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6874
+  strength: 0.687
 - slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
   headline: NYC and coalition of cities sue over Trump immigration benefits rule
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6847
+  strength: 0.6836
 - slug: 2026-09-04-mamdani-to-designate-sept-11-as-nyc-day-of-remembrance-and-service
   headline: Mamdani to designate Sept. 11 as NYC Day of Remembrance and Service
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6809
-- slug: 2026-08-31-mamdani-rent-freeze-keeps-rents-flat-for-roughly-one-million-nyc-apartments
-  headline: Mamdani rent freeze keeps rents flat for roughly one million NYC apartments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6848
-- slug: 2026-08-24-business-coalition-sues-mamdani-over-city-grocery-plan
-  headline: Business coalition sues Mamdani over city grocery plan
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6984
-- slug: 2026-02-19-nyc-mayor-zohran-mamdani-restarts-homeless-encampment-sweeps
-  headline: NYC Mayor Zohran Mamdani restarts homeless encampment sweeps
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.8087
-- slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
-  headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.683
-- slug: 2026-08-05-mamdani-dismisses-all-advisers-from-nyc-mayor-s-fund-board
-  headline: Mamdani dismisses all advisers from NYC Mayor's Fund board
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.678
-- slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
-  headline: Five landlords challenge NYC rent freeze in state court
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6948
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6799
-- slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
-  headline: NYC board approves Mamdani's rent freeze for 1 million apartments
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6994
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.7326
-- slug: 2026-04-11-nyc-mayor-zohran-mamdani-s-celebrity-approach-marks-100-days-in-office
-  headline: NYC Mayor Zohran Mamdani’s celebrity approach marks 100 days in office
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.705
-- slug: 2026-06-01-nyc-mayor-mamdani-skips-annual-israel-day-parade
-  headline: NYC Mayor Mamdani skips annual Israel Day parade
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6823
-- slug: 2026-01-03-zohran-mamdani-begins-nyc-mayoral-day-with-subway-commute-revoked-orders
-  headline: Zohran Mamdani begins NYC mayoral day with subway commute, revoked orders
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7103
+  strength: 0.681
 ---
-
 ## Mamdani’s NYC encampment policy draws criticism from residents and businesses
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Orthodox Jewish scholar builds lasting ties with Pennsylvania Amish
-secondary_headline: 2024 book relays findings and experience from first comparative study
+secondary_headline: 2024 book relays findings and experience from first comparative
+  study
 publish_date: '2026-10-22'
-lede: Rivka Neriya-Ben Shahar, an Orthodox Jewish scholar who lives in Jerusalem, has studied Amish communities in Lancaster County, Pennsylvania, since 2011. In an interview with Religion News Service, she described more than 100 visits and said her 2024 book, “Strictly Observant,” relayed her findings and experience from the first comparative study of ultra-Orthodox Jews in Israel and old-order Amish communities. She returned in September for a second project on Amish women, and some women she met as research subjects now count as extended family.
-nut_graf: The relationship has become central to Neriya-Ben Shahar’s work on communities negotiating modernity, technology, family roles, education and health care. Her 2024 book, “Strictly Observant,” relayed her findings and experience from the first comparative study of ultra-Orthodox Jews in Israel and old-order Amish communities, while her next book will focus solely on aspects of Amish women’s lives, such as child-rearing, marriage, prayer, mutual aid and housework.
+lede: Rivka Neriya-Ben Shahar, an Orthodox Jewish scholar who lives in Jerusalem,
+  has studied Amish communities in Lancaster County, Pennsylvania, since 2011. In
+  an interview with Religion News Service, she described more than 100 visits and
+  said her 2024 book, “Strictly Observant,” relayed her findings and experience from
+  the first comparative study of ultra-Orthodox Jews in Israel and old-order Amish
+  communities. She returned in September for a second project on Amish women, and
+  some women she met as research subjects now count as extended family.
+nut_graf: The relationship has become central to Neriya-Ben Shahar’s work on communities
+  negotiating modernity, technology, family roles, education and health care. Her
+  2024 book, “Strictly Observant,” relayed her findings and experience from the first
+  comparative study of ultra-Orthodox Jews in Israel and old-order Amish communities,
+  while her next book will focus solely on aspects of Amish women’s lives, such as
+  child-rearing, marriage, prayer, mutual aid and housework.
 primary_entities:
 - Rivka Neriya-Ben Shahar
 - Jerusalem
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +156,8 @@ cross_article_links:
   strength: 0.5518
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-mizrahi-voters-could-decide-israel-s-election-between-netanyahu-and-eisenkot
-  headline: Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5446
-- slug: 2026-10-07-young-north-american-jews-move-to-israel-as-citizens-keep-leaving
-  headline: Young North American Jews move to Israel as citizens keep leaving
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5518
-- slug: 2026-09-26-harris-campaigns-with-el-sayed-in-michigan-plans-georgia-and-nevada-stops
-  headline: Harris campaigns with El-Sayed in Michigan, plans Georgia and Nevada stops
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5548
-- slug: 2026-09-24-pennsylvania-measles-outbreak-kills-four-as-health-workers-door-knock-amish-comm
-  headline: Pennsylvania measles outbreak kills four as health workers door-knock Amish communities
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5566
-- slug: 2026-09-23-philadelphia-teacher-hannah-gann-admits-lying-about-palestinian-black-identity
-  headline: Philadelphia teacher Hannah Gann admits lying about Palestinian, Black identity
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5604
-- slug: 2026-09-21-book-excerpt-details-democrats-gaza-policy-convention-rift
-  headline: Book excerpt details Democrats' Gaza policy, convention rift
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5566
-- slug: 2026-08-19-ultra-orthodox-clout-grows-in-israel-as-draft-exemption-spurs-protests
-  headline: Ultra-Orthodox clout grows in Israel as draft exemption spurs protests
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5553
-- slug: 2026-08-03-iran-s-chief-rabbi-leads-jewish-community-amid-war-with-israel-and-u-s
-  headline: Iran's chief rabbi leads Jewish community amid war with Israel and U.S.
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5691
-- slug: 2026-08-03-maisoon-ali-says-attackers-set-her-west-bank-home-on-fire
-  headline: Maisoon Ali says attackers set her West Bank home on fire
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5462
-- slug: 2026-07-18-american-jews-divide-sharply-on-israel-identity-and-politics
-  headline: American Jews divide sharply on Israel, identity, and politics
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.555
-- slug: 2026-07-13-younger-jewish-adults-prioritize-holidays-over-israel-support-ap-norc-poll-finds
-  headline: Younger Jewish adults prioritize holidays over Israel support, AP-NORC poll finds
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5604
-- slug: 2026-05-19-israel-allows-women-to-take-rabbinic-exams-for-the-first-time
-  headline: Israel allows women to take rabbinic exams for the first time
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5901
-- slug: 2026-07-08-religious-affiliation-divides-u-s-jews-on-israel-support
-  headline: Religious affiliation divides U.S. Jews on Israel support
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5454
-- slug: 2026-04-08-preserving-rural-jewish-life-is-the-focus-of-a-maine-center-this-passover
-  headline: Preserving rural Jewish life is the focus of a Maine center this Passover
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5855
-- slug: 2026-04-09-preserving-rural-jewish-life-is-the-focus-of-a-maine-center-this-passover
-  headline: Preserving rural Jewish life is the focus of a Maine center this Passover
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5716
-- slug: 2026-04-15-dearborn-s-arab-americans-find-middle-east-peace-further-away-under-trump
-  headline: Dearborn's Arab Americans find Middle East peace further away under Trump
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5681
-- slug: 2026-04-10-maine-center-aims-to-bolster-rural-synagogues-nationwide
-  headline: Maine Center Aims to Bolster Rural Synagogues Nationwide
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5674
-- slug: 2026-02-02-us-rabbis-see-growing-diversity-with-more-women-and-lgbtq-rabbis
-  headline: US rabbis see growing diversity with more women and LGBTQ rabbis
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.5685
-- slug: 2026-04-02-beirut-reels-from-a-growing-displacement-crisis-as-war-rages
-  headline: Beirut reels from a growing displacement crisis as war rages
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5569
-- slug: 2026-04-01-judge-orders-penn-to-provide-records-in-eeoc-antisemitism-probe
-  headline: Judge orders Penn to provide records in EEOC antisemitism probe
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5547
+related_stories: []
 ---
-
 ## Orthodox Jewish scholar builds lasting ties with Pennsylvania Amish
 
 **Subtype:** fact

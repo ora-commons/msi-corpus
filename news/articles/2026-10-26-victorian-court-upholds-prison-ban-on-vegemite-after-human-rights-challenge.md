@@ -1,9 +1,18 @@
 ---
 headline: Victorian court upholds prison ban on Vegemite after human rights challenge
-secondary_headline: Prisoner argued denial of spread infringed his right to practise Australian culture
+secondary_headline: Prisoner argued denial of spread infringed his right to practise
+  Australian culture
 publish_date: '2026-10-26'
-lede: On Monday, Victoria's supreme court dismissed Andre McKechnie's challenge to a ban on Vegemite in Victorian prisons, finding no infringement of his right to adequate food. Justice Claire Harris said the restriction was a proportionate measure tied to prison management, security and prisoner welfare.
-nut_graf: The ruling leaves in place a policy that Corrections Victoria's contraband list says dates to 2006 and cites concerns about narcotic-detection dogs. Vegemite's yeast properties also gave it the potential to be used to brew alcohol. Justice Harris said Vegemite might be regarded as part of Australian culture and the human rights charter might extend to certain foods, but she found the particular refusal justified by the state's prison-management and welfare obligations.
+lede: On Monday, Victoria's supreme court dismissed Andre McKechnie's challenge to
+  a ban on Vegemite in Victorian prisons, finding no infringement of his right to
+  adequate food. Justice Claire Harris said the restriction was a proportionate measure
+  tied to prison management, security and prisoner welfare.
+nut_graf: The ruling leaves in place a policy that Corrections Victoria's contraband
+  list says dates to 2006 and cites concerns about narcotic-detection dogs. Vegemite's
+  yeast properties also gave it the potential to be used to brew alcohol. Justice
+  Harris said Vegemite might be regarded as part of Australian culture and the human
+  rights charter might extend to certain foods, but she found the particular refusal
+  justified by the state's prison-management and welfare obligations.
 primary_entities:
 - Andre McKechnie
 - Justice Claire Harris
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -107,116 +117,25 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-victorian-court-upholds-prison-ban-on-vegemite-after-human-rights-challenge.png
-  alt: 'Illustration accompanying article: Victorian court upholds prison ban on Vegemite after human rights challenge'
+  alt: 'Illustration accompanying article: Victorian court upholds prison ban on Vegemite
+    after human rights challenge'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-25-victorian-auditor-general-examines-police-cell-detention-practices
-  headline: Victorian auditor-general examines police-cell detention practices
-  publish_date: '2026-10-25'
+- slug: 2026-10-26-mckechnie-guilty-of-a-1994-murder-seeks-vegemite-in-his-high-security-cell
+  headline: McKechnie, guilty of a 1994 murder, seeks Vegemite in his high-security
+    cell
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5593
-- slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
-  headline: Federal prison policy would bar transition-related treatment
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5197
-- slug: 2026-10-19-supreme-court-takes-up-home-distilling-tax-case-after-split-rulings
-  headline: Supreme Court takes up home-distilling tax case after split rulings
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5237
-- slug: 2026-10-14-australian-minister-says-cambodia-factories-mass-produce-counterfeit-tobacco
-  headline: Australian minister says Cambodia factories mass-produce counterfeit tobacco
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5259
-- slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
-  headline: FDA proposes allowing some chemicals into food without safety review
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5221
-- slug: 2026-10-09-comcare-warns-of-likely-safety-law-breach-at-australian-detention-centres
-  headline: Comcare warns of likely safety-law breach at Australian detention centres
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5234
-- slug: 2026-10-07-australian-high-court-rejects-mount-pleasant-coalmine-expansion-appeal
-  headline: Australian high court rejects Mount Pleasant coalmine expansion appeal
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5291
-- slug: 2026-09-25-investigators-find-kratom-with-two-deceased-university-of-mississippi-students
-  headline: Investigators find kratom with two deceased University of Mississippi students
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5217
-- slug: 2026-09-11-australian-government-shelves-promised-packaging-laws-citing-cost-of-living
-  headline: Australian government shelves promised packaging laws, citing cost of living
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5184
-- slug: 2026-07-20-supreme-court-to-hear-alaska-bush-pilot-s-plane-seizure-fight-over-six-pack-of-b
-  headline: Supreme Court to hear Alaska bush pilot's plane seizure fight over six-pack of beer
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5214
-- slug: 2026-06-18-supreme-court-rules-government-cannot-automatically-bar-all-drug-users-from-owni
-  headline: Supreme Court rules government cannot automatically bar all drug users from owning guns
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5348
-- slug: 2026-06-29-justice-department-closes-baby-formula-probe-opts-for-civil-penalties
-  headline: Justice Department closes baby formula probe, opts for civil penalties
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5184
-- slug: 2026-05-27-proposed-ban-on-potassium-bromate-could-reshape-new-york-s-pizza-and-bagels
-  headline: Proposed ban on potassium bromate could reshape New York's pizza and bagels
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5339
-- slug: 2026-06-11-appeals-court-blocks-alabama-nitrogen-hypoxia-execution-state-may-use-other-meth
-  headline: Appeals court blocks Alabama nitrogen hypoxia execution; state may use other methods
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5219
-- slug: 2026-04-01-federal-judge-upholds-permit-for-lithium-boron-mine-in-nevada
-  headline: Federal judge upholds permit for lithium-boron mine in Nevada
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5484
-- slug: 2026-05-15-supreme-court-order-leaves-access-to-abortion-pill-unchanged
-  headline: Supreme Court order leaves access to abortion pill unchanged
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5285
-- slug: 2026-05-10-supreme-court-leaves-mifepristone-access-in-place-as-louisiana-case
-  headline: Supreme Court leaves mifepristone access in place as Louisiana case
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5288
-- slug: 2026-05-21-proposed-ban-on-potassium-bromate-could-force-new-york-pizza-bagel-changes
-  headline: Proposed ban on potassium bromate could force New York pizza, bagel changes
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5221
-- slug: 2026-05-15-supreme-court-preserves-access-to-abortion-pill-mifepristone-as-lawsuit-continue
-  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit continues
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5241
-- slug: 2026-04-09-texas-hemp-industry-sues-to-block-smokeable-hemp-ban-and-higher-fees
-  headline: Texas hemp industry sues to block smokeable hemp ban and higher fees
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5216
+  strength: 0.8592
 ---
-
 ## Victorian court upholds prison ban on Vegemite after human rights challenge
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
-secondary_headline: Supreme Court extended voting by two hours after both campaigns sought delays
+headline: Official results show Lula wins Brazil runoff with more than 51% of the
+  vote
+secondary_headline: Supreme Court extended voting by two hours after both campaigns
+  sought delays
 publish_date: '2026-10-25'
-lede: Official results from Sunday's runoff showed Luiz Inácio Lula da Silva elected president of Brazil with more than 51% of the vote, defeating Flávio Bolsonaro, who received more than 48% as more than 96% of ballots had been counted. The result gives Lula a fourth term.
-nut_graf: His return follows his narrow 2022 victory over former President Jair Bolsonaro and extends a political career that already includes three nonconsecutive presidential terms. The closely fought election drew attention to a growing right-wing movement in Latin America, the future of the Amazon rainforest and Brazil's roughly 40-year-old democracy.
+lede: Official results from Sunday's runoff showed Luiz Inácio Lula da Silva elected
+  president of Brazil with more than 51% of the vote, defeating Flávio Bolsonaro,
+  who received more than 48% as more than 96% of ballots had been counted. The result
+  gives Lula a fourth term.
+nut_graf: His return follows his narrow 2022 victory over former President Jair Bolsonaro
+  and extends a political career that already includes three nonconsecutive presidential
+  terms. The closely fought election drew attention to a growing right-wing movement
+  in Latin America, the future of the Amazon rainforest and Brazil's roughly 40-year-old
+  democracy.
 primary_entities:
 - Brazil
 - Luiz Inácio Lula da Silva
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +144,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8433
+- slug: 2026-10-26-brazil-s-liberal-party-emerges-largest-in-congress-after-lula-s-51-8-runoff-win
+  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8%
+    runoff win
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8418
 - slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
   headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8158
+  strength: 0.8155
 - slug: 2026-10-25-brazil-extends-presidential-runoff-voting-by-two-hours
   headline: Brazil extends presidential runoff voting by two hours
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8032
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
+  strength: 0.803
+- slug: 2026-10-26-lula-pledges-against-dictatorship-as-brazil-s-victory-draws-global-recognition
+  headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8416
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
+  strength: 0.7914
+- slug: 2026-10-27-brazil-s-currency-plunges-as-pollsters-describe-lula-s-comeback
+  headline: Brazil's currency plunges as pollsters describe Lula's comeback
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.8292
-- slug: 2026-10-23-brazil-s-runoff-result-may-affect-the-pace-of-the-amazon-forest-transition
-  headline: Brazil's runoff result may affect the pace of the Amazon forest transition
-  publish_date: '2026-10-23'
+  strength: 0.7841
+- slug: 2026-10-26-justice-de-moraes-bars-fl-vio-bolsonaro-from-leaving-brazil-after-runoff-loss
+  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff
+    loss
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7126
-- slug: 2026-10-15-brazil-s-senate-approves-40-hour-workweek-in-win-for-lula-ahead-of-runoff
-  headline: Brazil's Senate approves 40-hour workweek in win for Lula ahead of runoff
-  publish_date: '2026-10-15'
+  strength: 0.7533
+- slug: 2026-10-27-netherlands-pledges-500-million-to-brazil-backed-forest-fund-after-lula-s-runoff
+  headline: Netherlands pledges $500 million to Brazil-backed forest fund after Lula’s
+    runoff victory
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7398
-- slug: 2026-10-23-brazil-runoff-puts-amazon-communities-and-mining-in-focus
-  headline: Brazil runoff puts Amazon communities and mining in focus
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6791
-- slug: 2026-10-12-brazil-s-top-court-clears-fl-vio-bolsonaro-to-visit-house-arrested-father
-  headline: Brazil's top court clears Flávio Bolsonaro to visit house-arrested father
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7469
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7668
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7818
-- slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
-  headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7477
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.758
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7744
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7468
-- slug: 2026-10-15-brazil-s-workweek-amendment-creates-superemployee-category-for-high-earners
-  headline: Brazil's workweek amendment creates 'superemployee' category for high earners
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6804
-- slug: 2026-10-05-three-bolsonaro-family-members-win-congressional-seats-as-bolsonarista-candidate
-  headline: Three Bolsonaro family members win congressional seats as Bolsonarista candidates expand Brazil's legislature
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7329
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7303
-- slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
-  headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.722
-- slug: 2026-10-04-national-security-strategy-commits-us-to-preeminence-in-western-hemisphere
-  headline: National security strategy commits US to 'preeminence' in Western Hemisphere
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6773
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6998
+  strength: 0.7522
 ---
-
 ## Official results show Lula wins Brazil runoff with more than 51% of the vote
 
 **Subtype:** fact

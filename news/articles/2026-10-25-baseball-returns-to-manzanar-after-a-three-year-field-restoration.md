@@ -2,8 +2,19 @@
 headline: Baseball returns to Manzanar after a three-year field restoration
 secondary_headline: Ann Burroughs says Manzanar’s lessons have never been more urgent
 publish_date: '2026-10-25'
-lede: Hundreds of spectators attended a double-header on Manzanar’s restored wartime baseball field in Lone Pine, California, on October 17, 2026. Organizer Dan Kwong used the games to connect Japanese American incarceration with detention camps and mass arrests under the second Trump administration. The gathering also brought together former prisoners, their descendants and players from California’s Japanese American baseball league under National Park Service restrictions on parking, facilities and field activity.
-nut_graf: The event placed Japanese American incarceration, wartime baseball and contemporary detention and mass arrests in the same public forum. National Park Service rules shaped the commemoration, and The Guardian reported that the event’s outspoken politics appeared to cause official nervousness at an agency that had faced political pressure under the Trump administration, which made sweeping cuts that reduced its workforce by 25%.
+lede: Hundreds of spectators attended a double-header on Manzanar’s restored wartime
+  baseball field in Lone Pine, California, on October 17, 2026. Organizer Dan Kwong
+  used the games to connect Japanese American incarceration with detention camps and
+  mass arrests under the second Trump administration. The gathering also brought together
+  former prisoners, their descendants and players from California’s Japanese American
+  baseball league under National Park Service restrictions on parking, facilities
+  and field activity.
+nut_graf: The event placed Japanese American incarceration, wartime baseball and contemporary
+  detention and mass arrests in the same public forum. National Park Service rules
+  shaped the commemoration, and The Guardian reported that the event’s outspoken politics
+  appeared to cause official nervousness at an agency that had faced political pressure
+  under the Trump administration, which made sweeping cuts that reduced its workforce
+  by 25%.
 primary_entities:
 - Dan Kwong
 - Manzanar
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +161,8 @@ cross_article_links:
   strength: 0.5157
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-beverly-hills-school-board-rivals-clash-before-nov-3-vote
-  headline: Beverly Hills school-board rivals clash before Nov. 3 vote
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5466
-- slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
-  headline: Immigration enforcement reshapes midterm races as voter disapproval grows
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5496
-- slug: 2026-10-07-u-s-military-in-okinawa-imposes-monthlong-curfew-after-marine-arrest
-  headline: U.S. military in Okinawa imposes monthlong curfew after Marine arrest
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5721
-- slug: 2026-10-08-uss-lincoln-returns-to-san-diego-after-record-265-day-deployment
-  headline: USS Lincoln returns to San Diego after record 265-day deployment
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5548
-- slug: 2026-10-07-u-s-forces-in-okinawa-order-48-hour-base-lockdown-after-marine-arrest
-  headline: U.S. forces in Okinawa order 48-hour base lockdown after Marine arrest
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5473
-- slug: 2026-10-06-trump-tells-nebraska-rally-he-would-let-iran-take-out-los-angeles-san-diego
-  headline: Trump tells Nebraska rally he would let Iran 'take out' Los Angeles, San Diego
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5489
-- slug: 2026-09-24-orange-county-da-stages-what-is-believed-to-be-first-e-bike-buyback
-  headline: Orange County DA stages what is believed to be first e-bike buyback
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5558
-- slug: 2026-09-22-escobar-says-ice-blocked-oversight-at-camp-east-montana
-  headline: Escobar says ICE blocked oversight at Camp East Montana
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5549
-- slug: 2026-07-23-trump-welcomes-dodgers-to-white-house-for-back-to-back-titles
-  headline: Trump Welcomes Dodgers to White House for Back-to-Back Titles
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5678
-- slug: 2026-06-26-environmental-groups-demand-investigation-into-alligator-alcatraz-everglades-dam
-  headline: Environmental groups demand investigation into Alligator Alcatraz Everglades damage
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5474
-- slug: 2026-06-04-us-canada-mexico-co-host-world-cup-amid-trade-rifts-and-security-fears
-  headline: US, Canada, Mexico co-host World Cup amid trade rifts and security fears
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5647
-- slug: 2026-06-09-trump-s-cultural-influence-wanes-amid-boos-artist-pullouts
-  headline: Trump's cultural influence wanes amid boos, artist pullouts
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5599
-- slug: 2026-06-02-nyc-mayor-mamdani-s-knicks-fandom-is-a-rare-cross-party-bright-spot
-  headline: NYC Mayor Mamdani's Knicks fandom is a rare cross-party bright spot
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5559
-- slug: 2026-06-01-immigrant-rights-groups-mobilize-across-world-cup-host-cities-amid-ice-fears
-  headline: Immigrant rights groups mobilize across World Cup host cities amid ICE fears
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5498
-- slug: 2026-05-07-major-federal-drug-raid-in-los-angeles-spotlights-public-safety-concerns
-  headline: Major federal drug raid in Los Angeles spotlights public safety concerns
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5579
-- slug: 2026-05-08-major-federal-drug-raid-in-los-angeles-spotlights-public-safety-concerns
-  headline: Major federal drug raid in Los Angeles spotlights public safety concerns
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5556
-- slug: 2026-04-16-faa-and-fbi-warn-drone-pilots-after-coors-field-airspace-violations
-  headline: FAA and FBI warn drone pilots after Coors Field airspace violations
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5592
-- slug: 2026-04-10-iranian-american-soccer-fans-weigh-world-cup-pride-against-protest
-  headline: Iranian American soccer fans weigh World Cup pride against protest
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5556
-- slug: 2026-04-18-los-angeles-ordered-to-pay-11-8m-to-man-blinded-by-police-projectile
-  headline: Los Angeles ordered to pay $11.8M to man blinded by police projectile
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.553
-- slug: 2026-03-31-trump-attends-opening-night-of-chicago-at-kennedy-center-in-dc
-  headline: Trump attends opening night of “Chicago” at Kennedy Center in DC
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5488
+related_stories: []
 ---
-
 ## Baseball returns to Manzanar after a three-year field restoration
 
 **Subtype:** fact

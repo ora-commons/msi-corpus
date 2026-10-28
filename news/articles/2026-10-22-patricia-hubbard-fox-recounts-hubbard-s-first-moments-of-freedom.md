@@ -2,8 +2,16 @@
 headline: Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
 secondary_headline: Russian imprisonment lasted more than four years
 publish_date: '2026-10-22'
-lede: Stephen Hubbard was freed Wednesday from a Russian prison after spending more than four years in captivity, but he did not realize he had been released until he was put aboard a plane and saw an American flag, his sister Patricia Hubbard Fox said Thursday. The 74-year-old retired teacher from Michigan was taken to San Antonio for evaluation. Fox said Hubbard was starved and beaten so severely that some fellow inmates from Ukraine had to carry him.
-nut_graf: Fox’s account details what Hubbard experienced before and during his release and describes his condition after more than four years in a Russian prison. The U.S. government under the Biden administration had designated Hubbard as wrongfully detained, while his legal team said he was not involved in any military activity.
+lede: Stephen Hubbard was freed Wednesday from a Russian prison after spending more
+  than four years in captivity, but he did not realize he had been released until
+  he was put aboard a plane and saw an American flag, his sister Patricia Hubbard
+  Fox said Thursday. The 74-year-old retired teacher from Michigan was taken to San
+  Antonio for evaluation. Fox said Hubbard was starved and beaten so severely that
+  some fellow inmates from Ukraine had to carry him.
+nut_graf: Fox’s account details what Hubbard experienced before and during his release
+  and describes his condition after more than four years in a Russian prison. The
+  U.S. government under the Biden administration had designated Hubbard as wrongfully
+  detained, while his legal team said he was not involved in any military activity.
 primary_entities:
 - Stephen Hubbard
 - Patricia Hubbard Fox
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +157,34 @@ related_stories:
   headline: Trump links Hubbard release to Putin call, says U.S. effort cost nothing
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7899
+  strength: 0.7893
 - slug: 2026-10-21-stephen-hubbard-returns-home-after-russian-authorities-release-him
   headline: Stephen Hubbard returns home after Russian authorities release him
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7852
+  strength: 0.7855
 - slug: 2026-10-21-putin-says-hubbard-was-at-pulkovo-airport-after-being-sentenced-to-nearly-seven-
-  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly seven years in 2024
+  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly
+    seven years in 2024
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7558
+  strength: 0.7561
 - slug: 2026-10-21-trump-tells-reporters-u-s-has-been-focused-on-hubbard
   headline: Trump tells reporters U.S. has been focused on Hubbard
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7292
+  strength: 0.7281
 - slug: 2026-10-21-witkoff-praises-putin-after-hubbard-s-release
   headline: Witkoff praises Putin after Hubbard’s release
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7147
+  strength: 0.7149
 - slug: 2026-10-21-trump-says-hubbard-s-release-followed-direct-request-to-putin
   headline: Trump says Hubbard's release followed direct request to Putin
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6758
-- slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
-  headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.626
-- slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
-  headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6241
-- slug: 2026-09-29-gershkovich-says-he-realized-russia-staged-his-arrest-as-hostage-ploy
-  headline: Gershkovich says he realized Russia staged his arrest as hostage ploy
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6157
-- slug: 2026-08-26-u-s-marine-veteran-robert-gilman-returns-from-russia-after-more-than-four-years-
-  headline: U.S. Marine veteran Robert Gilman returns from Russia after more than four years in custody
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6183
-- slug: 2026-08-11-advocates-say-former-us-marine-robert-gilman-released-from-russia
-  headline: Advocates say former US Marine Robert Gilman released from Russia
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6217
-- slug: 2026-07-24-chinese-pastor-freed-after-trump-raised-case-with-xi-recounts-release
-  headline: Chinese pastor freed after Trump raised case with Xi, recounts release
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5992
-- slug: 2026-07-24-nun-detained-by-ice-walking-to-mass-speaks-out-for-first-time
-  headline: Nun detained by ICE walking to Mass speaks out for first time
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5971
-- slug: 2026-06-22-after-nearly-two-years-in-captivity-ukrainian-soldier-comes-home
-  headline: After nearly two years in captivity, Ukrainian soldier comes home
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6183
-- slug: 2026-06-06-maryland-teen-graduates-high-school-after-ice-deported-his-father
-  headline: Maryland teen graduates high school after ICE deported his father
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5965
-- slug: 2026-05-13-85-year-old-french-widow-recounts-16-day-ice-detention-harsh-conditions
-  headline: 85-year-old French widow recounts 16-day ICE detention, harsh conditions
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5994
-- slug: 2026-05-13-85-year-old-french-widow-recounts-ice-detention-in-louisiana
-  headline: 85-year-old French widow recounts ICE detention in Louisiana
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5966
-- slug: 2026-05-16-venezuela-deports-alex-saab-ally-of-maduro-to-face-u-s-probe
-  headline: Venezuela deports Alex Saab, ally of Maduro, to face U.S. probe
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5905
-- slug: 2026-01-16-babson-college-freshman-awaits-return-after-mistaken-ice-deportation-to-honduras
-  headline: Babson College freshman awaits return after mistaken ICE deportation to Honduras
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6096
-- slug: 2026-04-04-toddler-alleges-sexual-abuse-during-federal-immigration-custody-in-texas
-  headline: Toddler alleges sexual abuse during federal immigration custody in Texas
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5945
+  strength: 0.6748
 ---
-
 ## Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Trump criticizes Murkowski after she opposes Alaska certification suit
-secondary_headline: Blanche says the lawsuit targets voter confusion over a second Sullivan
+secondary_headline: Blanche says the lawsuit targets voter confusion over a second
+  Sullivan
 publish_date: '2026-10-25'
-lede: Donald Trump criticized Republican Sen. Lisa Murkowski of Alaska after she said the Justice Department should not have filed a lawsuit seeking to block certification of the state's Senate race if the GOP candidate loses, calling her "Republicans' Worst Senator, by far" on social media. Attorney General Todd Blanche defended the department's lawsuit Sunday, saying on CNN's "State of the Union" that the suit was filed Friday to prevent voter confusion caused by a second Dan Sullivan on the ballot. Trump told reporters Friday that he directed the lawsuit.
-nut_graf: 'The lawsuit arrived days before the Nov. 3 midterms in a race that could help decide control of the Senate: Republicans hold a 53-47 majority, Democrats need a net gain of four seats to win control because Vice President JD Vance would serve as a tiebreaker in a 50-50 Senate, and polls show Peltola leading Sullivan in Alaska.'
+lede: Donald Trump criticized Republican Sen. Lisa Murkowski of Alaska after she said
+  the Justice Department should not have filed a lawsuit seeking to block certification
+  of the state's Senate race if the GOP candidate loses, calling her "Republicans'
+  Worst Senator, by far" on social media. Attorney General Todd Blanche defended the
+  department's lawsuit Sunday, saying on CNN's "State of the Union" that the suit
+  was filed Friday to prevent voter confusion caused by a second Dan Sullivan on the
+  ballot. Trump told reporters Friday that he directed the lawsuit.
+nut_graf: 'The lawsuit arrived days before the Nov. 3 midterms in a race that could
+  help decide control of the Senate: Republicans hold a 53-47 majority, Democrats
+  need a net gain of four seats to win control because Vice President JD Vance would
+  serve as a tiebreaker in a 50-50 Senate, and polls show Peltola leading Sullivan
+  in Alaska.'
 primary_entities:
 - Todd Blanche
 - Lisa Murkowski
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +158,45 @@ related_stories:
   headline: Blanche defends lawsuit to block Alaska Senate certification
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.863
+  strength: 0.8626
 - slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
   headline: Justice Department files pre-election challenge to Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8315
+  strength: 0.8309
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8224
+  strength: 0.8234
 - slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
   headline: Blanche frames Alaska election suit as federal-law test
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8067
+  strength: 0.8058
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8147
+  strength: 0.8149
 - slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8043
+  strength: 0.8047
 - slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
   headline: Legal experts say Alaska Senate certification suit has no chance of success
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7924
+  strength: 0.7922
 - slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
   headline: Blanche won't rule out DOJ role in state election certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7776
-- slug: 2026-10-25-blanche-defends-doj-alaska-suit-calls-cnn-question-crazy
-  headline: Blanche defends DOJ Alaska suit, calls CNN question 'crazy'
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7601
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6998
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6939
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7437
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.67
-- slug: 2026-08-07-murkowski-to-oppose-blanche-nomination-over-jan-6-fund-leverage
-  headline: Murkowski to oppose Blanche nomination over Jan. 6 fund leverage
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7396
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6755
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6858
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6731
-- slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
-  headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.7096
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7268
-- slug: 2026-06-03-two-dan-sullivans-appear-on-alaska-senate-primary-ballot
-  headline: Two Dan Sullivans appear on Alaska Senate primary ballot
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7165
+  strength: 0.7781
 ---
-
 ## Trump criticizes Murkowski after she opposes Alaska certification suit
 
 **Subtype:** fact

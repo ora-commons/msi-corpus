@@ -1,9 +1,21 @@
 ---
 headline: Netflix streams NFL games, plans IMAX release as U.S. engagement slows
-secondary_headline: Netflix names Peter Rice as chief content officer after 1,000 layoffs
+secondary_headline: Netflix names Peter Rice as chief content officer after 1,000
+  layoffs
 publish_date: '2026-10-25'
-lede: Netflix is livestreaming NFL games, plans to stream next summer's Women's World Cup and will release a Brad Pitt film on IMAX this Thanksgiving. Co-CEO Ted Sarandos was tapped to join the board of directors of the American Film Institute this week. Netflix also overhauled its programming unit, laid off 1,000 employees equal to 6% of its workforce, and dismissed its chief content officer, the chair of Netflix film and six other top executives. Sarandos told investors this week that U.S. viewer engagement is slowing.
-nut_graf: Netflix continues to release some movies in theaters before streaming them, is livestreaming NFL games and plans to stream next summer's Women's World Cup. The company is reorganizing its programming unit, has named a new content chief and laid off 1,000 employees. Mandalit del Barco said Netflix appears to be playing catch-up by signing digital content creators, while U.S. engagement slows and television and film companies consolidate.
+lede: Netflix is livestreaming NFL games, plans to stream next summer's Women's World
+  Cup and will release a Brad Pitt film on IMAX this Thanksgiving. Co-CEO Ted Sarandos
+  was tapped to join the board of directors of the American Film Institute this week.
+  Netflix also overhauled its programming unit, laid off 1,000 employees equal to
+  6% of its workforce, and dismissed its chief content officer, the chair of Netflix
+  film and six other top executives. Sarandos told investors this week that U.S. viewer
+  engagement is slowing.
+nut_graf: Netflix continues to release some movies in theaters before streaming them,
+  is livestreaming NFL games and plans to stream next summer's Women's World Cup.
+  The company is reorganizing its programming unit, has named a new content chief
+  and laid off 1,000 employees. Mandalit del Barco said Netflix appears to be playing
+  catch-up by signing digital content creators, while U.S. engagement slows and television
+  and film companies consolidate.
 primary_entities:
 - Netflix
 - Ted Sarandos
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +165,43 @@ related_stories:
   headline: Netflix ousts content chief and film chief in five-day overhaul
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8088
+  strength: 0.8086
 - slug: 2026-10-14-netflix-to-cut-1-000-jobs-as-growth-falls-short
   headline: Netflix to cut 1,000 jobs as growth falls short
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.773
+  strength: 0.7739
 - slug: 2026-10-14-netflix-projects-51-billion-to-51-4-billion-in-2026-revenue
   headline: Netflix projects $51 billion to $51.4 billion in 2026 revenue
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7615
+  strength: 0.7625
 - slug: 2026-10-15-netflix-cuts-roughly-1-000-jobs-declines-to-blame-ai
   headline: Netflix cuts roughly 1,000 jobs, declines to blame AI
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.742
-- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
-  headline: Wall Street advances as SpaceX beats summer profit expectations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6097
-- slug: 2026-10-06-morning-edition-launches-six-state-midterm-reporting-tour
-  headline: Morning Edition launches six-state midterm reporting tour
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6088
+  strength: 0.7423
 - slug: 2026-09-19-bbc-channel-4-itv-cut-thousands-of-jobs-amid-us-streaming-competition
   headline: BBC, Channel 4, ITV cut thousands of jobs amid US streaming competition
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6692
+  strength: 0.6678
 - slug: 2026-07-16-netflix-guidance-disappoints-paypal-talks-advance-openai-denies-theft
   headline: Netflix guidance disappoints, PayPal talks advance, OpenAI denies theft
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7007
+  strength: 0.702
 - slug: 2026-01-20-netflix-earnings-beat-estimates-but-subscriber-growth-plummets
   headline: Netflix earnings beat estimates but subscriber growth plummets
   publish_date: '2026-01-20'
   relation: related
-  strength: 0.7347
+  strength: 0.7365
 - slug: 2026-07-16-netflix-profit-rises-9-percent-q2-shares-fall
   headline: Netflix profit rises 9% in Q2 but shares fall on weaker forecast
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6497
-- slug: 2026-04-16-netflix-cofounder-reed-hastings-to-step-down-from-board-in-june
-  headline: Netflix cofounder Reed Hastings to step down from board in June
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7059
-- slug: 2026-02-28-netflix-walks-away-from-warner-bros-discovery-bid-clearing-path-for-paramount
-  headline: Netflix walks away from Warner Bros. Discovery bid, clearing path for Paramount
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6881
-- slug: 2026-06-29-comcast-to-split-media-and-connectivity-businesses
-  headline: Comcast to split media and connectivity businesses
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6257
-- slug: 2026-06-17-p-g-albertsons-launch-scripted-drama-for-in-store-shoppers
-  headline: P&G, Albertsons launch scripted drama for in-store shoppers
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6081
-- slug: 2026-02-26-paramount-raises-warner-offer-to-31-upping-fee-and-pushing-bid
-  headline: Paramount raises Warner offer to $31, upping fee and pushing bid
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6364
-- slug: 2026-05-07-disney-offsets-fewer-overseas-visitors-with-streaming-and-strong-theme-park-spen
-  headline: Disney offsets fewer overseas visitors with streaming and strong theme-park spending
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6186
-- slug: 2026-05-05-disney-profits-jump-as-streaming-and-u-s-parks-offset-weaker-overseas-travel
-  headline: Disney profits jump as streaming and U.S. parks offset weaker overseas travel
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6164
-- slug: 2026-05-06-disney-results-beat-forecasts-as-streaming-and-u-s-parks-offset-weaker-tourism
-  headline: Disney results beat forecasts as streaming and U.S. parks offset weaker tourism
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6115
-- slug: 2026-04-23-hbo-max-and-paramount-on-1-platform-what-a-warner-paramount-deal-could-mean
-  headline: 'HBO Max and Paramount+ on 1 platform: What a Warner-Paramount deal could mean'
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6127
-- slug: 2026-04-22-hbo-max-and-paramount-to-merge-under-paramount-if-warner-deal-clears
-  headline: HBO Max and Paramount+ to merge under Paramount if Warner deal clears
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6124
+  strength: 0.6513
 ---
-
 ## Netflix streams NFL games, plans IMAX release as U.S. engagement slows
 
 **Subtype:** fact

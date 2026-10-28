@@ -1,9 +1,16 @@
 ---
-headline: Newport warns of possible ammonia contamination after Pacific Seafood plant fire
+headline: Newport warns of possible ammonia contamination after Pacific Seafood plant
+  fire
 secondary_headline: Hundreds evacuated within one-mile radius around processing facility
 publish_date: '2026-10-25'
-lede: Newport, Oregon, urged residents near the Pacific Seafood plant to evacuate on Oct. 25 after a fire at the processing facility, local officials said. The Lincoln County Sheriff's Office reported Level 3 evacuations within a one-mile radius, while the city warned of possible ammonia contamination.
-nut_graf: Public safety actions included an immediate evacuation around the plant and a recommendation that residents in Newport stay indoors or wear a mask outdoors. Pacific Seafood said all employees were accounted for and the company was unaware of any injuries.
+lede: Newport, Oregon, urged residents near the Pacific Seafood plant to evacuate
+  on Oct. 25 after a fire at the processing facility, local officials said. The Lincoln
+  County Sheriff's Office reported Level 3 evacuations within a one-mile radius, while
+  the city warned of possible ammonia contamination.
+nut_graf: Public safety actions included an immediate evacuation around the plant
+  and a recommendation that residents in Newport stay indoors or wear a mask outdoors.
+  Pacific Seafood said all employees were accounted for and the company was unaware
+  of any injuries.
 primary_entities:
 - Newport
 - Pacific Seafood
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,117 +142,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-toledo-orders-about-1-000-residents-to-evacuate-after-chemical-tank-explosion
-  headline: Toledo orders about 1,000 residents to evacuate after chemical tank explosion
-  publish_date: '2026-10-21'
+- slug: 2026-10-25-newport-moves-evacuation-shelter-away-from-seafood-plant-after-fire
+  headline: Newport moves evacuation shelter away from seafood plant after fire
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.5903
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6142
+  strength: 0.8721
 - slug: 2026-05-22-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
   headline: 40,000 ordered to evacuate in Southern California after chemical leak
   publish_date: '2026-05-22'
   relation: related
   strength: 0.656
-- slug: 2026-06-18-los-angeles-warehouse-fire-ammonia-leak-prompt-shelter-in-place-order
-  headline: Los Angeles warehouse fire, ammonia leak prompt shelter-in-place order
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6359
-- slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6427
-- slug: 2026-05-22-40-000-under-evacuation-orders-after-chemical-tank-leak-in-garden-grove
-  headline: 40,000 under evacuation orders after chemical tank leak in Garden Grove
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6267
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6215
-- slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near damaged chemical tank extend into holiday weekend
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6184
-- slug: 2026-06-10-fbi-searches-garden-grove-aerospace-facility-after-chemical-tank-crisis
-  headline: FBI searches Garden Grove aerospace facility after chemical tank crisis
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6079
-- slug: 2026-05-23-evacuations-near-overheated-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near overheated chemical tank extend into holiday weekend
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6154
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6047
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6058
-- slug: 2026-06-11-pentagon-floors-locked-down-after-reported-air-quality-issue
-  headline: Pentagon floors locked down after reported air quality issue
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5907
-- slug: 2026-06-11-hazardous-materials-incident-triggers-pentagon-lockdown-evacuation
-  headline: Hazardous materials incident triggers Pentagon lockdown, evacuation
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5876
-- slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5938
-- slug: 2026-02-03-gas-explosion-injures-3-firefighters-at-new-hampshire-mental-health-center
-  headline: Gas explosion injures 3 firefighters at New Hampshire mental health center
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6191
-- slug: 2026-05-24-california-chemical-plant-evacuation-orders-lift-as-explosion-risk-fades
-  headline: California chemical plant evacuation orders lift as explosion risk fades
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5913
-- slug: 2026-05-23-crack-found-on-southern-california-chemical-tank-may-reduce-explosion-risk-but-e
-  headline: Crack found on Southern California chemical tank may reduce explosion risk, but evacuations hold
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5915
-- slug: 2026-05-25-evacuation-lifted-for-most-after-methyl-methacrylate-tank-crack-in-garden-grove
-  headline: Evacuation lifted for most after methyl methacrylate tank crack in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5903
 image:
   url: /articles/2026-10-25-newport-warns-of-possible-ammonia-contamination-after-pacific-seafood-plant-fire.png
-  alt: "Illustration accompanying article: Newport warns of possible ammonia contamination after Pacific Seafood plant fire"
+  alt: 'Illustration accompanying article: Newport warns of possible ammonia contamination
+    after Pacific Seafood plant fire'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Newport warns of possible ammonia contamination after Pacific Seafood plant fire
 
 **Subtype:** fact

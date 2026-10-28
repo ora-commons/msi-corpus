@@ -2,8 +2,17 @@
 headline: Pope Leo XIV skips Assisi peace gathering after lung cancer surgery
 secondary_headline: Doctors say follow-up X-ray shows Pope Leo XIV recovering well
 publish_date: '2026-10-23'
-lede: Pope Leo XIV will not travel to Assisi next week after his doctors advised against the helicopter journey as he recovers from lung cancer surgery, the Vatican said Friday. The 71-year-old pope had been due to attend a Tuesday gathering marking the 40th anniversary of St. John Paul II's World Day of Prayer for Peace, and will instead send a message to the organizers, interfaith leaders and guests at the "Disarmed and Disarming Peace" event.
-nut_graf: The cancellation is the latest change to Leo's schedule since surgeons removed a lobe where a nodule later diagnosed as malignant was located, the first major health event of his 17-month pontificate. His doctors said a follow-up chest X-ray confirmed he was recovering well, and the Vatican said the pope's activities will be guided by medical advice while he heals.
+lede: Pope Leo XIV will not travel to Assisi next week after his doctors advised against
+  the helicopter journey as he recovers from lung cancer surgery, the Vatican said
+  Friday. The 71-year-old pope had been due to attend a Tuesday gathering marking
+  the 40th anniversary of St. John Paul II's World Day of Prayer for Peace, and will
+  instead send a message to the organizers, interfaith leaders and guests at the "Disarmed
+  and Disarming Peace" event.
+nut_graf: The cancellation is the latest change to Leo's schedule since surgeons removed
+  a lobe where a nodule later diagnosed as malignant was located, the first major
+  health event of his 17-month pontificate. His doctors said a follow-up chest X-ray
+  confirmed he was recovering well, and the Vatican said the pope's activities will
+  be guided by medical advice while he heals.
 primary_entities:
 - Pope Leo XIV
 - Vatican
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,113 +150,56 @@ related_stories:
   headline: Pope Leo XIV returns to room after lung cancer surgery, Vatican says
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7678
+  strength: 0.7668
 - slug: 2026-10-13-vatican-announces-pope-leo-xiv-diagnosed-with-lung-cancer
   headline: Vatican announces Pope Leo XIV diagnosed with lung cancer
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7526
+  strength: 0.7514
 - slug: 2026-10-11-pope-leo-xiv-to-undergo-surgery-to-remove-lung-nodule
   headline: Pope Leo XIV to undergo surgery to remove lung nodule
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7493
+  strength: 0.7486
 - slug: 2026-10-14-doctors-say-pope-leo-s-lung-cancer-prognosis-is-very-good-after-surgery
   headline: Doctors say Pope Leo's lung cancer prognosis is 'very good' after surgery
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7024
+  strength: 0.7025
 - slug: 2026-10-14-louis-prevost-being-treated-for-multiple-myeloma-in-florida-wife-says
   headline: Louis Prevost being treated for multiple myeloma in Florida, wife says
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6684
+  strength: 0.6677
 - slug: 2026-09-25-pope-leo-xiv-opens-france-visit-warning-of-ai-and-nuclear-risks
   headline: Pope Leo XIV opens France visit warning of AI and nuclear risks
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6696
+  strength: 0.669
 - slug: 2026-05-07-pope-leo-calls-for-end-to-fratricidal-hatred-during-pompeii-trip
   headline: Pope Leo calls for end to fratricidal hatred during Pompeii trip
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.6958
+  strength: 0.6954
 - slug: 2026-02-26-pope-leo-xiv-to-visit-monaco-and-four-african-nations-in-2026
   headline: Pope Leo XIV to visit Monaco and four African nations in 2026
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.7114
-- slug: 2026-03-30-pope-leo-xiv-denounces-war-justification-at-palm-sunday-mass
-  headline: Pope Leo XIV denounces war justification at Palm Sunday Mass
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7043
-- slug: 2026-05-16-pope-leo-xiv-to-visit-france-sept-25-28-stop-at-unesco-headquarters
-  headline: Pope Leo XIV to visit France Sept. 25-28, stop at UNESCO headquarters
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6869
-- slug: 2026-05-08-pope-leo-xiv-prays-for-end-to-fratricidal-hatred-on-pompeii-anniversary
-  headline: Pope Leo XIV prays for end to fratricidal hatred on Pompeii anniversary
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6778
-- slug: 2026-05-07-pope-leo-xiv-takes-longer-view-one-year-in-facing-latin-mass-and-germany
-  headline: Pope Leo XIV takes longer-view one year in, facing Latin Mass and Germany
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6765
-- slug: 2026-05-09-taking-stock-of-pope-leo-xiv-s-first-year-and-looming-vatican-tests
-  headline: Taking stock of Pope Leo XIV's first year and looming Vatican tests
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.673
-- slug: 2026-05-16-pope-leo-xiv-to-visit-france-in-september-with-stop-at-unesco
-  headline: Pope Leo XIV to visit France in September with stop at UNESCO
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6696
-- slug: 2026-05-08-pope-leo-xiv-marks-first-year-s-to-do-list-appointments-latin-mass-ai
-  headline: Pope Leo XIV marks first year’s to-do list—appointments, Latin Mass, AI
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6657
-- slug: 2026-01-03-pope-leo-xiv-opens-2026-with-plea-for-peace-after-new-year-s-mass
-  headline: Pope Leo XIV opens 2026 with plea for peace after New Year’s Mass
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6869
-- slug: 2026-03-15-pope-leo-xiv-demands-ceasefire-in-iran-war-appeals-to-leaders
-  headline: Pope Leo XIV demands ceasefire in Iran war, appeals to leaders
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6792
-- slug: 2026-03-15-pope-leo-xiv-s-africa-trip-to-include-mosque-prison-2021-blast-memorial
-  headline: Pope Leo XIV’s Africa trip to include mosque, prison, 2021 blast memorial
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6782
-- slug: 2026-04-01-pope-leo-xiv-says-god-is-king-of-peace-rejecting-war
-  headline: Pope Leo XIV says God is “king of peace” rejecting war
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6735
-- slug: 2026-04-21-pope-leo-recalls-francis-s-legacy-of-mercy-and-solidarity-on-anniversary
-  headline: Pope Leo recalls Francis’s legacy of mercy and solidarity on anniversary
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6678
+  strength: 0.7109
 image:
   url: /articles/2026-10-23-pope-leo-xiv-skips-assisi-peace-gathering-after-lung-cancer-surgery.png
-  alt: "Illustration accompanying article: Pope Leo XIV skips Assisi peace gathering after lung cancer surgery"
+  alt: 'Illustration accompanying article: Pope Leo XIV skips Assisi peace gathering
+    after lung cancer surgery'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Pope Leo XIV skips Assisi peace gathering after lung cancer surgery
 
 **Subtype:** fact

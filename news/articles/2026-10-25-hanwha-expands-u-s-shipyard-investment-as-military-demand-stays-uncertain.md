@@ -2,8 +2,16 @@
 headline: Hanwha expands U.S. shipyard investment as military demand stays uncertain
 secondary_headline: Philadelphia yard aims for combatant-ship certification by 2028
 publish_date: '2026-10-25'
-lede: Hanwha has spent around $350 million since its December 2024 purchase of a Philadelphia shipyard to upgrade the facility. The United States produces less than 1% of the world's ships while China, by far the world's largest ship producer, is expected to take more than three-quarters of new commercial orders this year by tonnage, according to Clarksons Research. Congress also has yet to pass the annual defense bill governing how closely allied shipyards can participate in Navy work.
-nut_graf: 'Hanwha''s Philadelphia program shows how commercial shipbuilding investment can support Navy subcontracts, but higher costs, hiring limits and space constraints have complicated the site. Other allied firms face a separate problem: uncertain Pentagon demand and an annual defense bill that Congress has not passed.'
+lede: Hanwha has spent around $350 million since its December 2024 purchase of a Philadelphia
+  shipyard to upgrade the facility. The United States produces less than 1% of the
+  world's ships while China, by far the world's largest ship producer, is expected
+  to take more than three-quarters of new commercial orders this year by tonnage,
+  according to Clarksons Research. Congress also has yet to pass the annual defense
+  bill governing how closely allied shipyards can participate in Navy work.
+nut_graf: 'Hanwha''s Philadelphia program shows how commercial shipbuilding investment
+  can support Navy subcontracts, but higher costs, hiring limits and space constraints
+  have complicated the site. Other allied firms face a separate problem: uncertain
+  Pentagon demand and an annual defense bill that Congress has not passed.'
 primary_entities:
 - Hanwha
 - Hanwha Ocean
@@ -51,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,6 +158,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
+  headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.661
 - slug: 2026-10-12-iowa-steel-and-philadelphia-shipyard-projects-face-labor-and-pricing-hurdles
   headline: Iowa steel and Philadelphia shipyard projects face labor and pricing hurdles
   publish_date: '2026-10-12'
@@ -158,99 +172,33 @@ related_stories:
   headline: LA, Long Beach ports log busiest-ever September for container imports
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.682
+  strength: 0.6819
 - slug: 2026-10-12-pentagon-reports-china-on-track-for-1-000-nuclear-weapons-by-2030
   headline: Pentagon reports China on track for 1,000 nuclear weapons by 2030
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6754
+  strength: 0.6769
 - slug: 2026-10-13-taiwan-s-7-billion-drone-allocation-draws-13-us-partnership-deals
   headline: Taiwan's $7 billion drone allocation draws 13 US partnership deals
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6573
-- slug: 2026-10-12-trump-s-august-steam-catapult-order-traces-to-unidentified-navy-sailor
-  headline: Trump's August steam catapult order traces to unidentified Navy sailor
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6396
-- slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
-  headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6421
-- slug: 2026-09-30-pentagon-invests-65-million-in-hertha-metals-for-rare-earth-magnet-iron
-  headline: Pentagon invests $65 million in Hertha Metals for rare-earth magnet iron
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6443
+  strength: 0.6559
 - slug: 2026-09-28-u-s-missile-factories-expand-capacity-as-wartime-stockpiles-stay-depleted
   headline: U.S. missile factories expand capacity as wartime stockpiles stay depleted
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6519
-- slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6342
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6382
+  strength: 0.6505
 - slug: 2026-08-10-hanwha-makes-nonbinding-1-billion-offer-for-austal-usa
   headline: Hanwha makes nonbinding $1 billion offer for Austal USA
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7531
-- slug: 2026-09-10-andreessen-horowitz-plans-west-palm-beach-regional-headquarters-for-defense-inve
-  headline: Andreessen Horowitz plans West Palm Beach regional headquarters for defense investments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6349
+  strength: 0.7532
 - slug: 2026-06-22-senate-defense-bill-could-open-navy-shipbuilding-to-south-korean-yards
   headline: Senate defense bill could open Navy shipbuilding to South Korean yards
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.7728
-- slug: 2026-07-02-house-senate-defense-bills-diverge-on-south-korean-shipbuilding-role
-  headline: House, Senate defense bills diverge on South Korean shipbuilding role
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7563
-- slug: 2026-07-24-us-south-korea-open-shipbuilding-center-to-implement-150-billion-masga-plan
-  headline: US, South Korea open shipbuilding center to implement $150 billion MASGA plan
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7227
-- slug: 2026-07-14-navy-seeks-south-korean-shipbuilders-for-destroyers-support-vessels
-  headline: Navy seeks South Korean shipbuilders for destroyers, support vessels
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7229
-- slug: 2026-08-11-trump-signs-solar-import-minimums-expected-to-benefit-hanwha
-  headline: Trump signs solar import minimums expected to benefit Hanwha
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6731
-- slug: 2026-06-28-additional-navy-requests-extend-usns-amelia-earhart-work-at-hj-shipbuilding
-  headline: Additional Navy requests extend USNS Amelia Earhart work at HJ Shipbuilding
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7297
-- slug: 2026-08-07-port-of-los-angeles-peak-shipping-season-extends-as-retailers-keep-importing
-  headline: Port of Los Angeles peak shipping season extends as retailers keep importing
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6434
-- slug: 2026-08-03-pentagon-backs-new-hampshire-refinery-with-500m-loan-for-critical-minerals
-  headline: Pentagon backs New Hampshire refinery with $500M loan for critical minerals
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6464
+  strength: 0.7732
 ---
-
 ## Hanwha expands U.S. shipyard investment as military demand stays uncertain
 
 **Subtype:** fact

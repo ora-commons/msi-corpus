@@ -1,9 +1,20 @@
 ---
-headline: Spanish court turned over activist Chambers’s cellphone to the FBI, lawyer says
+headline: Spanish court turned over activist Chambers’s cellphone to the FBI, lawyer
+  says
 secondary_headline: Asylum application bars extradition as defense seeks phone’s return
 publish_date: '2026-10-25'
-lede: A Spanish court turned over James “Fergie” Chambers’s cellphone to the FBI at some point after Spanish police arrested him in July, without notifying him or his attorneys, according to attorney Aitor Martínez. The defense learned of the transfer while inquiring about the device and has asked an appeals court for its immediate return, a chain-of-custody explanation and disclosure of any U.S. access to its contents. Martínez said the handover violated Spanish law and a 1970 U.S.-Spain extradition treaty.
-nut_graf: Chambers, a U.S. citizen jailed in Madrid, is fighting a U.S. extradition request over alleged support for Hamas and charges associated with a protest against Elbit Systems. Under Spanish law, his asylum application prevents extradition until the process is completed, while Spanish courts could take months to decide whether to surrender him.
+lede: A Spanish court turned over James “Fergie” Chambers’s cellphone to the FBI at
+  some point after Spanish police arrested him in July, without notifying him or his
+  attorneys, according to attorney Aitor Martínez. The defense learned of the transfer
+  while inquiring about the device and has asked an appeals court for its immediate
+  return, a chain-of-custody explanation and disclosure of any U.S. access to its
+  contents. Martínez said the handover violated Spanish law and a 1970 U.S.-Spain
+  extradition treaty.
+nut_graf: Chambers, a U.S. citizen jailed in Madrid, is fighting a U.S. extradition
+  request over alleged support for Hamas and charges associated with a protest against
+  Elbit Systems. Under Spanish law, his asylum application prevents extradition until
+  the process is completed, while Spanish courts could take months to decide whether
+  to surrender him.
 primary_entities:
 - James “Fergie” Chambers
 - Aitor Martínez
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +162,13 @@ related_stories:
   headline: Spain lets US extradition case against activist Chambers proceed
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.766
-- slug: 2026-10-14-federal-agents-seize-omar-s-phone-subpoena-relatives-in-criminal-probe
-  headline: Federal agents seize Omar's phone, subpoena relatives in criminal probe
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6126
+  strength: 0.7652
 - slug: 2026-09-13-spanish-council-of-ministers-to-weigh-us-bid-to-extradite-fergie-chambers
   headline: Spain's council of ministers to weigh US bid to extradite Fergie Chambers
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7466
-- slug: 2026-10-09-two-cuban-men-describe-deportation-to-central-african-republic
-  headline: Two Cuban men describe deportation to Central African Republic
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6072
-- slug: 2026-10-06-abrego-garcia-in-court-tuesday-to-block-liberia-deportation
-  headline: Abrego Garcia in court Tuesday to block Liberia deportation
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6193
-- slug: 2026-09-15-federal-judge-orders-return-of-nicaraguan-woman-deported-mid-case
-  headline: Federal judge orders return of Nicaraguan woman deported mid-case
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6081
-- slug: 2026-09-14-inmates-use-contraband-phones-to-run-scams-from-u-s-prisons
-  headline: Inmates use contraband phones to run scams from U.S. prisons
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6016
-- slug: 2026-08-05-federal-judge-holds-dhs-in-contempt-over-immigration-agents-phone-records
-  headline: Federal judge holds DHS in contempt over immigration agents' phone records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6316
-- slug: 2026-08-18-justice-department-appeals-to-reinstate-brego-garc-a-smuggling-charges
-  headline: Justice Department appeals to reinstate Ábrego García smuggling charges
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6038
-- slug: 2026-08-01-judge-orders-government-to-prove-it-did-not-access-journalist-s-seized-phones
-  headline: Judge orders government to prove it did not access journalist's seized phones
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.634
-- slug: 2026-08-13-miami-detention-hearing-set-for-tate-brothers-in-uk-extradition-case
-  headline: Miami detention hearing set for Tate brothers in UK extradition case
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5994
-- slug: 2026-07-23-prosecution-of-cop-city-protester-tests-federal-anti-destruction-statute
-  headline: Prosecution of Cop City protester tests federal anti-destruction statute
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6083
-- slug: 2026-06-23-justice-department-appeals-dismissal-of-charges-against-abrego-garcia
-  headline: Justice Department appeals dismissal of charges against Abrego Garcia
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6209
-- slug: 2026-05-07-tennessee-rep-ogles-will-get-phone-back-from-justice-department
-  headline: Tennessee Rep. Ogles will get phone back from Justice Department
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6444
-- slug: 2026-05-06-justice-department-agrees-to-return-rep-andy-ogles-phone
-  headline: Justice Department agrees to return Rep. Andy Ogles’ phone
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6357
-- slug: 2026-05-16-ex-sinaloa-security-chief-surrenders-to-u-s-first-of-10-indicted-officials
-  headline: Ex-Sinaloa security chief surrenders to U.S., first of 10 indicted officials
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6067
-- slug: 2026-04-08-u-s-seeks-to-deport-abrego-garcia-to-liberia-despite-costa-rica-deal
-  headline: U.S. seeks to deport Abrego Garcia to Liberia despite Costa Rica deal
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.614
-- slug: 2026-02-22-gay-asylum-seeker-deported-to-cameroon-despite-u-s-judge-s-protection-order
-  headline: Gay asylum-seeker deported to Cameroon despite U.S. judge's protection order
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6205
-- slug: 2026-03-29-judge-orders-better-attorney-access-at-florida-s-alligator-alcatraz
-  headline: Judge orders better attorney access at Florida’s ‘Alligator Alcatraz’
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6115
-- slug: 2026-04-08-timeline-of-kilmar-abrego-garcia-s-fight-over-deportation
-  headline: Timeline of Kilmar Abrego Garcia’s fight over deportation
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6066
+  strength: 0.7462
 ---
-
 ## Spanish court turned over activist Chambers’s cellphone to the FBI, lawyer says
 
 **Subtype:** fact

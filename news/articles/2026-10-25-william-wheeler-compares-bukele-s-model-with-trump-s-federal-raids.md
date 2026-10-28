@@ -1,9 +1,25 @@
 ---
 headline: William Wheeler compares Bukele’s model with Trump’s federal raids
-secondary_headline: El Salvador’s emergency and U.S. raids grew through sequenced measures
+secondary_headline: El Salvador’s emergency and U.S. raids grew through sequenced
+  measures
 publish_date: '2026-10-25'
-lede: A Guardian feature published Oct. 25, 2026 by freelance journalist William Wheeler examines El Salvador President Nayib Bukele’s path to expansive security power and compares it with the Trump administration’s enforcement campaign in U.S. cities. Wheeler traces Bukele’s pre-2022 troop deployments and detention buildup, the emergency’s removal of due process, U.S.-El Salvador migration cooperation and subsequent federal raids, military planning and domestic-terrorism orders. Wheeler also states the analogy’s limits, saying U.S. institutions and political opposition are stronger than in El Salvador; Harvard professor Steven Levitsky says the crises invoked by the administration have not worked.
-nut_graf: 'The feature’s central warning is cumulative: emergency authority, detention, institutional changes and enforcement can combine in ways that are not apparent from any single measure. Wheeler contrasts Bukele’s use of troop deployments, quarantine detentions and the March 2022 emergency with U.S.-El Salvador migration cooperation, $183 billion in available ICE and CBP funds, military planning and domestic-terrorism orders. He also examines whether courts, state officials and citizens can check those powers before an election-related crisis supplies a broader justification for exceptional action.'
+lede: A Guardian feature published Oct. 25, 2026 by freelance journalist William Wheeler
+  examines El Salvador President Nayib Bukele’s path to expansive security power and
+  compares it with the Trump administration’s enforcement campaign in U.S. cities.
+  Wheeler traces Bukele’s pre-2022 troop deployments and detention buildup, the emergency’s
+  removal of due process, U.S.-El Salvador migration cooperation and subsequent federal
+  raids, military planning and domestic-terrorism orders. Wheeler also states the
+  analogy’s limits, saying U.S. institutions and political opposition are stronger
+  than in El Salvador; Harvard professor Steven Levitsky says the crises invoked by
+  the administration have not worked.
+nut_graf: 'The feature’s central warning is cumulative: emergency authority, detention,
+  institutional changes and enforcement can combine in ways that are not apparent
+  from any single measure. Wheeler contrasts Bukele’s use of troop deployments, quarantine
+  detentions and the March 2022 emergency with U.S.-El Salvador migration cooperation,
+  $183 billion in available ICE and CBP funds, military planning and domestic-terrorism
+  orders. He also examines whether courts, state officials and citizens can check
+  those powers before an election-related crisis supplies a broader justification
+  for exceptional action.'
 primary_entities:
 - William Wheeler
 - The Guardian
@@ -54,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +173,33 @@ related_stories:
   headline: Bukele launches combat mission in Haiti to free four kidnapped technicians
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6524
-- slug: 2026-10-22-four-salvadoran-aviation-technicians-remain-missing-after-bukele-announces-rescu
-  headline: Four Salvadoran aviation technicians remain missing after Bukele announces rescue operation in Haiti
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6444
-- slug: 2026-10-04-national-security-strategy-commits-us-to-preeminence-in-western-hemisphere
-  headline: National security strategy commits US to 'preeminence' in Western Hemisphere
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6266
-- slug: 2026-09-25-u-s-troops-join-ecuadorian-police-in-direct-drug-raids
-  headline: U.S. troops join Ecuadorian police in direct drug raids
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.635
-- slug: 2026-08-31-barrientos-ecuador-crime-operations-degrade-gangs-not-state-authority
-  headline: 'Barrientos: Ecuador crime operations degrade gangs, not state authority'
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6173
+  strength: 0.6514
 - slug: 2026-05-14-us-deportations-to-el-salvador-nearly-double-in-early-2026
   headline: US deportations to El Salvador nearly double in early 2026
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7566
+  strength: 0.7551
 - slug: 2026-05-14-u-s-deportations-to-el-salvador-nearly-double-as-bukele-aligns-with-trump
   headline: U.S. deportations to El Salvador nearly double as Bukele aligns with Trump
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7483
+  strength: 0.7466
 - slug: 2026-02-14-shakira-s-el-salvador-residency-draws-fans-as-bukele-rebrands
   headline: Shakira’s El Salvador residency draws fans as Bukele rebrands
   publish_date: '2026-02-14'
   relation: related
-  strength: 0.689
+  strength: 0.6881
 - slug: 2026-03-18-el-salvador-s-bukele-backs-life-sentences-in-constitutional-change
   headline: El Salvador’s Bukele backs life sentences in constitutional change
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6715
-- slug: 2026-05-22-trump-replicates-venezuela-playbook-on-cuba-but-experts-see-different-outcome
-  headline: Trump replicates Venezuela playbook on Cuba, but experts see different outcome
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6423
-- slug: 2026-05-08-el-faro-says-bukele-froze-outlet-assets-in-what-it-calls-persecution
-  headline: El Faro says Bukele froze outlet assets in what it calls persecution
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6486
-- slug: 2026-06-28-trump-banners-fly-over-washington-as-america-marks-250th
-  headline: Trump banners fly over Washington as America marks 250th
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6088
+  strength: 0.6702
 - slug: 2026-03-15-hrw-says-salvador-deportees-detained-in-el-salvador-and-disappeared
   headline: HRW says Salvador deportees detained in El Salvador and disappeared
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.655
-- slug: 2026-05-22-trump-applies-venezuela-playbook-to-cuba-but-results-may-differ
-  headline: Trump applies Venezuela playbook to Cuba, but results may differ
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6256
-- slug: 2026-05-23-trump-applies-venezuela-playbook-to-cuba-but-results-may-differ
-  headline: Trump applies Venezuela playbook to Cuba, but results may differ
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.625
-- slug: 2026-04-28-salvadorans-watch-as-supreme-court-weighs-temporary-protected-status
-  headline: Salvadorans watch as Supreme Court weighs Temporary Protected Status
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6336
-- slug: 2026-01-08-trump-s-tough-talk-after-maduro-capture-evokes-american-imperialism
-  headline: Trump’s tough talk after Maduro capture evokes American imperialism
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6283
-- slug: 2026-01-15-miller-articulates-power-doctrine-behind-venezuela-operation-greenland-ambitions
-  headline: Miller articulates power doctrine behind Venezuela operation, Greenland ambitions
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6277
-- slug: 2026-04-22-el-salvador-opens-mass-trial-of-nearly-500-alleged-ms-13-members
-  headline: El Salvador opens mass trial of nearly 500 alleged MS-13 members
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6057
-- slug: 2026-01-22-one-year-in-trump-has-pursued-broad-policy-agenda-with-mixed-results
-  headline: One Year In, Trump Has Pursued Broad Policy Agenda With Mixed Results
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.617
+  strength: 0.6534
 ---
-
 ## William Wheeler compares Bukele’s model with Trump’s federal raids
 
 **Subtype:** fact

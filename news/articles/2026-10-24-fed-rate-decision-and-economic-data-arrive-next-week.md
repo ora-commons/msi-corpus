@@ -1,9 +1,22 @@
 ---
 headline: Fed rate decision and economic data arrive next week
-secondary_headline: Conference Board confidence survey, GDP estimate and PCE report also due
+secondary_headline: Conference Board confidence survey, GDP estimate and PCE report
+  also due
 publish_date: '2026-10-24'
-lede: The Federal Reserve is expected to hold its benchmark interest rate steady on Wednesday after a September hike, with the Commerce Department's first estimate of third-quarter growth and the September personal consumption expenditures report due Thursday. Economists forecast 1.7% growth for the third quarter and a 3.7% September inflation rate. The Conference Board's consumer-confidence survey arrives Tuesday, and earnings reports from Alphabet, Intel, Amazon and other major companies run through Friday.
-nut_graf: 'The week''s readings arrive weeks before the Nov. 3 midterm elections, with inflation stubbornly high, consumer confidence falling and a somewhat resilient jobs market showing more signs of stress. They land against a split picture: growth supported by a strong stock market and business investment in artificial-intelligence technology, but household budgets squeezed by higher gas and grocery costs. Corporate results could provide more insight into AI-spending plans and how inflation is influencing profits.'
+lede: The Federal Reserve is expected to hold its benchmark interest rate steady on
+  Wednesday after a September hike, with the Commerce Department's first estimate
+  of third-quarter growth and the September personal consumption expenditures report
+  due Thursday. Economists forecast 1.7% growth for the third quarter and a 3.7% September
+  inflation rate. The Conference Board's consumer-confidence survey arrives Tuesday,
+  and earnings reports from Alphabet, Intel, Amazon and other major companies run
+  through Friday.
+nut_graf: 'The week''s readings arrive weeks before the Nov. 3 midterm elections,
+  with inflation stubbornly high, consumer confidence falling and a somewhat resilient
+  jobs market showing more signs of stress. They land against a split picture: growth
+  supported by a strong stock market and business investment in artificial-intelligence
+  technology, but household budgets squeezed by higher gas and grocery costs. Corporate
+  results could provide more insight into AI-spending plans and how inflation is influencing
+  profits.'
 primary_entities:
 - Federal Reserve System
 - The Conference Board
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,34 +158,38 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-fed-rate-decision-and-economic-data-arrive-next-week.png
-  alt: 'Illustration accompanying article: Fed rate decision and economic data arrive next week'
+  alt: 'Illustration accompanying article: Fed rate decision and economic data arrive
+    next week'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
-  headline: Inflation broadens beyond energy as AI buildout lifts computer prices
-  publish_date: '2026-10-14'
+- slug: 2026-10-27-federal-reserve-likely-to-hold-rates-as-inflation-stays-above-target
+  headline: Federal Reserve likely to hold rates as inflation stays above target
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7021
+  strength: 0.7656
 - slug: 2026-10-08-fed-september-minutes-stop-short-of-urging-october-rate-hike
   headline: Fed September minutes stop short of urging October rate hike
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7168
+  strength: 0.7161
 - slug: 2026-09-30-softer-august-pce-reading-lifts-wall-street-trims-october-rate-hike-odds
   headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7398
+  strength: 0.7395
 - slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
   headline: Fed rate hike falls harder on housing than AI investment
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7613
+  strength: 0.761
 - slug: 2026-09-16-federal-reserve-expected-to-raise-benchmark-rate-as-inflation-persists
   headline: Federal Reserve expected to raise benchmark rate as inflation persists
   publish_date: '2026-09-16'
@@ -181,79 +199,19 @@ related_stories:
   headline: Fed votes 9-3 to hold rates, first three-member dissent in decade
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.744
+  strength: 0.7438
 - slug: 2026-09-16-fed-raises-benchmark-rate-a-quarter-point-to-3-75--4-first-hike-since-2023
-  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since 2023
+  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since
+    2023
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7197
+  strength: 0.7208
 - slug: 2026-09-17-corporate-treasurers-push-banks-for-higher-deposit-rates-after-fed-hike
   headline: Corporate treasurers push banks for higher deposit rates after Fed hike
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7107
-- slug: 2026-09-05-wall-street-awaits-august-ppi-and-cpi-inflation-reports
-  headline: Wall Street awaits August PPI and CPI inflation reports
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7448
-- slug: 2026-09-03-fed-s-waller-ties-rate-hike-support-to-next-week-s-inflation-report
-  headline: Fed's Waller ties rate-hike support to next week's inflation report
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7497
-- slug: 2026-08-22-wall-street-awaits-consumer-confidence-and-pce-inflation-reports-next-week
-  headline: Wall Street awaits consumer confidence and PCE inflation reports next week
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7612
-- slug: 2026-08-22-fed-officials-signal-rate-hike-if-inflation-doesn-t-subside
-  headline: Fed officials signal rate hike if inflation doesn't subside
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.755
-- slug: 2026-08-19-fed-minutes-show-many-officials-see-rate-hike-if-inflation-persists
-  headline: Fed minutes show many officials see rate hike if inflation persists
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7329
-- slug: 2026-08-26-inflation-measure-closely-watched-by-fed-shows-3-7-year-over-year-rise-in-july
-  headline: Inflation measure closely watched by Fed shows 3.7% year-over-year rise in July
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7011
-- slug: 2026-08-15-home-depot-target-lowe-s-walmart-report-earnings-alongside-fed-minutes
-  headline: Home Depot, Target, Lowe's, Walmart report earnings alongside Fed minutes
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7218
-- slug: 2026-08-08-us-economic-reports-put-inflation-and-sales-data-on-wall-street-s-calendar
-  headline: US economic reports put inflation and sales data on Wall Street’s calendar
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7147
-- slug: 2026-07-28-fed-chair-warsh-faces-pressure-to-hike-rates-as-inflation-holds-above-target
-  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above target
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7212
-- slug: 2026-01-26-fed-expected-to-hold-rates-steady-as-powell-shifts-back-to-economics
-  headline: Fed expected to hold rates steady as Powell shifts back to economics
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7966
-- slug: 2026-01-29-fed-holds-rates-steady-as-powell-cites-improved-economy-tariff-inflation
-  headline: Fed holds rates steady as Powell cites improved economy, tariff inflation
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7542
-- slug: 2026-03-19-fed-holds-key-rate-as-powell-says-he-ll-stay-through-doj-probe
-  headline: Fed holds key rate as Powell says he’ll stay through DOJ probe
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7227
+  strength: 0.7105
 ---
-
 ## Fed rate decision and economic data arrive next week
 
 **Subtype:** fact

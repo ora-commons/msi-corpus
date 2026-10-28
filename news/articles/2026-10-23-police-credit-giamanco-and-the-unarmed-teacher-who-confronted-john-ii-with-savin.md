@@ -1,9 +1,23 @@
 ---
-headline: Police credit Giamanco and the unarmed teacher who confronted John II with saving lives
-secondary_headline: Giamanco said he took the handgun from his truck before entering school
+headline: Police credit Giamanco and the unarmed teacher who confronted John II with
+  saving lives
+secondary_headline: Giamanco said he took the handgun from his truck before entering
+  school
 publish_date: '2026-10-23'
-lede: Police said Kaylub Giamanco was carrying his gun legally in his truck before he took it from the vehicle and used it in the Oct. 15 intervention inside Silver Rail Elementary in Bend, Oregon, where he fatally shot 16-year-old former student Griffin J. John II. Police credited Giamanco, a 36-year-old Oregon carpenter whose two daughters attend the school, and the unarmed teacher who confronted John II with saving lives. President Donald Trump called Giamanco a "great hero" who "took care of business" a day after the shootings. Giamanco said John II fired at a pickup truck and at a person mowing the school's lawn before climbing a fence and heading toward the building.
-nut_graf: Police said Giamanco was carrying his gun legally in his truck before removing the handgun and entering the school. Trump's response and Giamanco's account of the shooting outside the school provide the political reaction and details of the attack's opening sequence. Three children and a teacher were killed at Silver Rail Elementary.
+lede: Police said Kaylub Giamanco was carrying his gun legally in his truck before
+  he took it from the vehicle and used it in the Oct. 15 intervention inside Silver
+  Rail Elementary in Bend, Oregon, where he fatally shot 16-year-old former student
+  Griffin J. John II. Police credited Giamanco, a 36-year-old Oregon carpenter whose
+  two daughters attend the school, and the unarmed teacher who confronted John II
+  with saving lives. President Donald Trump called Giamanco a "great hero" who "took
+  care of business" a day after the shootings. Giamanco said John II fired at a pickup
+  truck and at a person mowing the school's lawn before climbing a fence and heading
+  toward the building.
+nut_graf: Police said Giamanco was carrying his gun legally in his truck before removing
+  the handgun and entering the school. Trump's response and Giamanco's account of
+  the shooting outside the school provide the political reaction and details of the
+  attack's opening sequence. Three children and a teacher were killed at Silver Rail
+  Elementary.
 primary_entities:
 - Kaylub Giamanco
 - Silver Rail Elementary
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,102 +162,42 @@ related_stories:
   relation: related
   strength: 0.8503
 - slug: 2026-10-23-oregon-father-who-shot-school-attacker-describes-the-children-he-could-not-save
-  headline: Oregon father who shot school attacker describes the children he could not save
+  headline: Oregon father who shot school attacker describes the children he could
+    not save
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8198
+  strength: 0.8203
 - slug: 2026-10-19-2018-post-reportedly-shows-oregon-bystander-in-iraq-veteran-shooting-drills
   headline: 2018 post reportedly shows Oregon bystander in Iraq-veteran shooting drills
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8106
+  strength: 0.8114
 - slug: 2026-10-22-becky-drury-says-she-was-shot-while-trying-to-shut-a-classroom-door
   headline: Becky Drury says she was shot while trying to shut a classroom door
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7221
+  strength: 0.724
 - slug: 2026-10-22-bend-public-schools-reopen-after-silver-rail-elementary-school-shooting
   headline: Bend public schools reopen after Silver Rail Elementary School shooting
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7157
+  strength: 0.7179
 - slug: 2026-10-16-bend-schools-to-close-friday-as-governor-calls-bystander-heroic
   headline: Bend schools to close Friday as governor calls bystander 'heroic'
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7298
+  strength: 0.7313
 - slug: 2026-10-16-oregon-elementary-shooter-used-pump-action-shotgun-bought-by-his-mother
   headline: Oregon elementary shooter used pump-action shotgun bought by his mother
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7267
+  strength: 0.7285
 - slug: 2026-10-16-bend-police-say-teen-forces-entry-to-school-by-shooting-at-locked-doors
   headline: Bend police say teen forces entry to school by shooting at locked doors
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7142
-- slug: 2026-10-16-three-children-and-teacher-killed-in-bend-elementary-school-shooting
-  headline: Three children and teacher killed in Bend elementary school shooting
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6724
-- slug: 2026-10-15-shooting-at-oregon-elementary-school-leaves-five-dead-including-suspect
-  headline: Shooting at Oregon elementary school leaves five dead, including suspect
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6739
-- slug: 2026-10-15-bend-police-confirm-shooting-at-silver-rail-elementary-school-injures-multiple-i
-  headline: Bend police confirm shooting at Silver Rail Elementary School injures multiple, including children
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6696
-- slug: 2026-10-13-atlanta-educator-fatally-ejected-from-six-flags-rollercoaster
-  headline: Atlanta educator fatally ejected from Six Flags rollercoaster
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5909
-- slug: 2026-01-12-uvalde-officer-trial-enters-second-week-as-prosecution-presses-inaction-case
-  headline: Uvalde officer trial enters second week as prosecution presses inaction case
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6318
-- slug: 2026-01-13-uvalde-teacher-testifies-he-saw-black-shadow-with-gun-in-robb-school-attack
-  headline: Uvalde teacher testifies he saw 'black shadow with a gun' in 2022 school attack
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6305
-- slug: 2026-04-20-planned-fight-escalates-into-deadly-shooting-at-n-c-park
-  headline: Planned fight escalates into deadly shooting at N.C. park
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6043
-- slug: 2026-04-15-oklahoma-principal-tackles-disarms-gunman-at-pauls-valley-high-school
-  headline: Oklahoma principal tackles, disarms gunman at Pauls Valley High School
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6006
-- slug: 2026-03-10-georgia-teacher-jason-hughes-dies-in-prank-gone-wrong-teen-charged
-  headline: Georgia teacher Jason Hughes dies in prank gone wrong; teen charged
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6028
-- slug: 2026-03-04-georgia-father-convicted-after-jury-says-he-gave-son-gun-linked-to-school-murder
-  headline: Georgia father convicted after jury says he gave son gun linked to school murders
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6028
-- slug: 2026-01-07-uvalde-families-sob-through-911-calls-as-officer-s-trial-opens-on-police-respons
-  headline: Uvalde families sob through 911 calls as officer's trial opens on police response
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6072
-- slug: 2026-01-03-uvalde-officer-stands-trial-on-child-abandonment-charges-over-2022-school-shooti
-  headline: Uvalde officer stands trial on child abandonment charges over 2022 school shooting
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6069
+  strength: 0.7157
 ---
-
 ## Police credit Giamanco and the unarmed teacher who confronted John II with saving lives
 
 **Subtype:** fact

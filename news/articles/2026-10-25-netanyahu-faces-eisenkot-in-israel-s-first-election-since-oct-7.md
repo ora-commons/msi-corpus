@@ -2,8 +2,23 @@
 headline: Netanyahu faces Eisenkot in Israel's first election since Oct. 7
 secondary_headline: Most polls put Eisenkot's camp ahead with no clear coalition path
 publish_date: '2026-10-25'
-lede: Israeli voters head to the polls Tuesday in Israel's first national election since the Oct. 7, 2023, attacks, choosing between Prime Minister Benjamin Netanyahu's coalition and challenger Gadi Eisenkot's center-right opposition. NPR reported that some Israelis may vote Netanyahu out because he failed to prevent the attack, which NPR described as the deadliest day for Jews since the Holocaust; NPR said Eisenkot's opposition promised more diplomacy and less extremism. Eisenkot has pledged, if elected, to launch an official investigation, and most polls put his camp ahead without a clear coalition majority. Tens of thousands of expatriates are expected to return to vote because Israel does not allow absentee ballots.
-nut_graf: The result may produce a Netanyahu- or Eisenkot-led government, or a stalemate that would leave Netanyahu in power. Netanyahu's campaign emphasizes the wars in Gaza, Lebanon and Iran and argues that Israel is safer since Oct. 7. Eisenkot has pledged, if he wins, to launch an official Oct. 7 inquiry; if Netanyahu loses, Eisenkot has spoken of reaching diplomatic agreements and cautioned that troop withdrawals from Lebanon and Gaza would not happen anytime soon. NPR reported that Israeli military operations have killed more than 74,000 Palestinians and that substantial demand for an Oct. 7 investigation exists while Netanyahu has blocked one in Israel.
+lede: Israeli voters head to the polls Tuesday in Israel's first national election
+  since the Oct. 7, 2023, attacks, choosing between Prime Minister Benjamin Netanyahu's
+  coalition and challenger Gadi Eisenkot's center-right opposition. NPR reported that
+  some Israelis may vote Netanyahu out because he failed to prevent the attack, which
+  NPR described as the deadliest day for Jews since the Holocaust; NPR said Eisenkot's
+  opposition promised more diplomacy and less extremism. Eisenkot has pledged, if
+  elected, to launch an official investigation, and most polls put his camp ahead
+  without a clear coalition majority. Tens of thousands of expatriates are expected
+  to return to vote because Israel does not allow absentee ballots.
+nut_graf: The result may produce a Netanyahu- or Eisenkot-led government, or a stalemate
+  that would leave Netanyahu in power. Netanyahu's campaign emphasizes the wars in
+  Gaza, Lebanon and Iran and argues that Israel is safer since Oct. 7. Eisenkot has
+  pledged, if he wins, to launch an official Oct. 7 inquiry; if Netanyahu loses, Eisenkot
+  has spoken of reaching diplomatic agreements and cautioned that troop withdrawals
+  from Lebanon and Gaza would not happen anytime soon. NPR reported that Israeli military
+  operations have killed more than 74,000 Palestinians and that substantial demand
+  for an Oct. 7 investigation exists while Netanyahu has blocked one in Israel.
 primary_entities:
 - Benjamin Netanyahu
 - Gadi Eisenkot
@@ -47,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,26 +161,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-likud-asks-israeli-election-commission-to-stop-fly-vote
+  headline: Likud asks Israeli election commission to stop Fly&Vote
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.769
+- slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
+  headline: Poll shows Democrats with House edge as Israelis cast ballots
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7502
 - slug: 2026-10-22-mizrahi-voters-could-decide-israel-s-election-between-netanyahu-and-eisenkot
   headline: Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7553
+  strength: 0.7565
 - slug: 2026-10-18-netanyahu-warns-eisenkot-win-would-let-iran-obtain-nuclear-weapons
   headline: Netanyahu warns Eisenkot win would let Iran obtain nuclear weapons
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7811
+  strength: 0.7815
 - slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
   headline: Trump endorses Netanyahu days before Israel's closely contested election
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7587
+  strength: 0.7599
 - slug: 2026-10-18-trump-s-disputes-with-netanyahu-span-an-iranian-gas-field-hezbollah-and-gaza
-  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and Gaza
+  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and
+    Gaza
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7247
+  strength: 0.7249
 - slug: 2026-10-20-hegseth-held-undisclosed-meeting-with-netanyahu-in-israel
   headline: Hegseth held undisclosed meeting with Netanyahu in Israel
   publish_date: '2026-10-20'
@@ -174,79 +201,8 @@ related_stories:
   headline: Vance declines Netanyahu endorsement ahead of Israel election
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6749
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7574
-- slug: 2026-09-24-netanyahu-arrives-in-new-york-for-defiant-un-speech-as-hundreds-protest
-  headline: Netanyahu arrives in New York for defiant UN speech as hundreds protest
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6927
-- slug: 2026-09-28-netanyahu-singles-out-mamdani-at-un-ahead-of-israeli-elections
-  headline: Netanyahu singles out Mamdani at UN ahead of Israeli elections
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6717
-- slug: 2026-07-06-israeli-poll-shows-eisenkot-and-netanyahu-tied-at-23-seats-each
-  headline: Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.8318
-- slug: 2026-08-10-hasan-argues-media-s-embrace-of-eisenkot-ignores-his-record
-  headline: Hasan argues media's embrace of Eisenkot ignores his record
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7019
-- slug: 2026-07-28-netanyahu-trump-hold-first-face-to-face-meeting-since-launching-iran-war
-  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran war
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7245
-- slug: 2026-03-22-netanyahu-weighs-election-timing-as-iran-and-hezbollah-wars-intensify
-  headline: Netanyahu weighs election timing as Iran and Hezbollah wars intensify
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7848
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6727
-- slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-knesset-setting-stage-for-elections
-  headline: Netanyahu coalition submits bill to dissolve Knesset, setting stage for elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7445
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7091
-- slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-israel-s-parliament-for-new-electio
-  headline: Netanyahu coalition submits bill to dissolve Israel’s parliament for new elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7177
-- slug: 2026-06-08-trump-netanyahu-rift-tests-fragile-middle-east-ceasefire
-  headline: Trump-Netanyahu rift tests fragile Middle East ceasefire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6894
-- slug: 2026-06-14-israeli-strike-on-beirut-kills-3-threatens-iran-nuclear-deal
-  headline: Israeli strike on Beirut kills 3, threatens Iran nuclear deal
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6753
-- slug: 2026-05-10-israeli-lawmakers-overwhelmingly-approve-special-tribunal-for-october-2023-attac
-  headline: Israeli Lawmakers Overwhelmingly Approve Special Tribunal for October 2023 Attackers
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6776
+  strength: 0.675
 ---
-
 ## Netanyahu faces Eisenkot in Israel's first election since Oct. 7
 
 **Subtype:** fact

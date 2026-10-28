@@ -1,9 +1,20 @@
 ---
 headline: Tallahassee police investigate shooting near Florida A+M University
-secondary_headline: Police report 11 gunshot wounds, another injured; at least three seriously injured
+secondary_headline: Police report 11 gunshot wounds, another injured; at least three
+  seriously injured
 publish_date: '2026-10-25'
-lede: Tallahassee police are investigating a shooting that authorities said left 11 people with gunshot wounds and injured another person. Florida A+M University said the shooting took place on Perry Street near its campus on Saturday night, while police counted six adults and six juveniles among those injured. At least three victims sustained serious injuries, and nine others were reported in stable condition, police said.
-nut_graf: Initial findings showed a physical altercation preceded the shooting, police said, without elaborating. Police chief Lawrence Revell said children were among those injured. The New York Post reported that an altercation at a homecoming party escalated into gunfire and that a fight between two or three individuals led to shots just before 8 p.m. The Post also reported that the youngest of those shot was 11, while police did not immediately respond to a Reuters request for comment.
+lede: Tallahassee police are investigating a shooting that authorities said left 11
+  people with gunshot wounds and injured another person. Florida A+M University said
+  the shooting took place on Perry Street near its campus on Saturday night, while
+  police counted six adults and six juveniles among those injured. At least three
+  victims sustained serious injuries, and nine others were reported in stable condition,
+  police said.
+nut_graf: Initial findings showed a physical altercation preceded the shooting, police
+  said, without elaborating. Police chief Lawrence Revell said children were among
+  those injured. The New York Post reported that an altercation at a homecoming party
+  escalated into gunfire and that a fight between two or three individuals led to
+  shots just before 8 p.m. The Post also reported that the youngest of those shot
+  was 11, while police did not immediately respond to a Reuters request for comment.
 primary_entities:
 - Florida A+M University
 - Florida Agricultural + Mechanical University
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +151,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-04-two-dead-in-georgia-block-party-shooting-12-year-old-girl-killed-in-baltimore
-  headline: Two dead in Georgia block-party shooting; 12-year-old girl killed in Baltimore
-  publish_date: '2026-10-04'
+- slug: 2026-10-25-tallahassee-police-report-at-least-12-injured-after-florida-a-m-homecoming-game
+  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming
+    game
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6228
-- slug: 2026-10-04-two-killed-35-injured-in-georgia-block-party-mass-shooting
-  headline: Two killed, 35 injured in Georgia block-party mass shooting
-  publish_date: '2026-10-04'
+  strength: 0.8449
+- slug: 2026-10-25-revell-initially-reports-no-arrests-after-tallahassee-stadium-area-shooting
+  headline: Revell initially reports no arrests after Tallahassee stadium-area shooting
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6144
-- slug: 2026-10-05-gbi-joins-vienna-shooting-probe-victims-identified-as-men-ages-20-23
-  headline: GBI joins Vienna shooting probe; victims identified as men ages 20, 23
-  publish_date: '2026-10-05'
+  strength: 0.8381
+- slug: 2026-10-25-shooting-near-bragg-memorial-stadium-injures-12-as-police-seek-tips
+  headline: Shooting near Bragg Memorial Stadium injures 12 as police seek tips
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.5919
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
+  strength: 0.8204
+- slug: 2026-10-26-tallahassee-police-say-monday-a-15-year-old-was-charged-in-florida-a-m-shooting
+  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M
+    shooting
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6453
-- slug: 2026-08-30-trenton-shooting-kills-2-wounds-8-at-large-street-gathering
-  headline: Trenton shooting kills 2, wounds 8 at large street gathering
-  publish_date: '2026-08-30'
+  strength: 0.8165
+- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
+  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6054
-- slug: 2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis
-  headline: 19 injured in two overnight shootings in Tucson and Minneapolis
-  publish_date: '2026-07-19'
+  strength: 0.7773
+- slug: 2026-10-26-tallahassee-police-arrest-15-year-old-after-gunfire-near-famu
+  headline: Tallahassee police arrest 15-year-old after gunfire near FAMU
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6135
+  strength: 0.7759
+- slug: 2026-10-26-revell-says-police-carried-victims-to-responders-because-of-football-game-crowds
+  headline: Revell says police carried victims to responders because of football-game
+    crowds
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7592
 - slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
   headline: Shooting near University of Iowa wounds five people
   publish_date: '2026-04-19'
   relation: related
   strength: 0.6781
-- slug: 2026-04-22-police-seek-17-year-old-for-attempted-murder-in-shooting-near-iowa-campus
-  headline: Police seek 17-year-old for attempted murder in shooting near Iowa campus
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-07-at-least-12-wounded-in-shooting-near-toledo-festival-police-search-for-suspects
-  headline: At least 12 wounded in shooting near Toledo festival; police search for suspects
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.61
-- slug: 2026-06-07-multiple-people-shot-near-festival-in-toledo-ohio-suspect-at-large
-  headline: Multiple people shot near festival in Toledo, Ohio; suspect at large
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6097
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6195
-- slug: 2026-04-23-police-seek-17-year-old-on-attempted-murder-charges-after-iowa-city-shooting
-  headline: Police seek 17-year-old on attempted murder charges after Iowa City shooting
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6229
-- slug: 2026-06-20-at-least-12-shot-in-chicago-juneteenth-mass-shooting-police-say
-  headline: At least 12 shot in Chicago Juneteenth mass shooting, police say
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5905
-- slug: 2026-05-06-shooting-at-lakeside-party-near-oklahoma-city-leaves-1-dead-22-wounded
-  headline: Shooting at lakeside party near Oklahoma City leaves 1 dead, 22 wounded
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6174
-- slug: 2026-06-16-suspect-arrested-in-fatal-wilmington-hospital-shooting
-  headline: Suspect arrested in fatal Wilmington hospital shooting
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5915
-- slug: 2026-05-05-shooting-at-oklahoma-lakeside-party-sends-at-least-18-to-hospitals
-  headline: Shooting at Oklahoma lakeside party sends at least 18 to hospitals
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6112
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5978
-- slug: 2026-05-04-police-seek-suspects-in-amarillo-texas-shooting-that-killed-2-teens
-  headline: Police seek suspects in Amarillo Texas shooting that killed 2 teens
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6032
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6065
-- slug: 2026-03-02-federal-authorities-join-police-search-for-suspect-in-cincinnati-nightclub-shoot
-  headline: Federal authorities join police search for suspect in Cincinnati nightclub shooting
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6125
 ---
-
 ## Tallahassee police investigate shooting near Florida A+M University
 
 **Subtype:** fact

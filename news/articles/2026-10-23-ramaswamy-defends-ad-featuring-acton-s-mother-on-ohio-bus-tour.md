@@ -2,8 +2,20 @@
 headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
 secondary_headline: Husted said he would not have run the advertisement
 publish_date: '2026-10-23'
-lede: Biotech billionaire Vivek Ramaswamy embarked on a statewide Ohio bus tour with fellow Republicans on Friday as he continued a $4 million campaign to air a 60-second advertisement featuring the estranged mother of his Democratic rival, Dr. Amy Acton. With Vice President JD Vance's backing and at President Donald Trump's urging, Ramaswamy defended the commercial during tour stops, characterizing criticism as concocted by Democrats and the news media. Republican Gov. Mike DeWine and former Republican Gov. Bob Taft urged him to stop airing it, and U.S. Sen. Jon Husted said he would not have run it, as Republicans fought to maintain political control of Ohio.
-nut_graf: 'By Friday, the dispute had reached the Ohio Republican Party''s statewide ticket: every living full-term Ohio governor — two Democrats and three Republicans — had spoken out against the advertisement, and U.S. Sen. Jon Husted said he would not have run it. Associated Press reporting draws on Donna Arthur''s account, police and court records documenting Cledith Arthur''s July 1978 arrest and rape charge, and the grand-jury indictment returned that September.'
+lede: Biotech billionaire Vivek Ramaswamy embarked on a statewide Ohio bus tour with
+  fellow Republicans on Friday as he continued a $4 million campaign to air a 60-second
+  advertisement featuring the estranged mother of his Democratic rival, Dr. Amy Acton.
+  With Vice President JD Vance's backing and at President Donald Trump's urging, Ramaswamy
+  defended the commercial during tour stops, characterizing criticism as concocted
+  by Democrats and the news media. Republican Gov. Mike DeWine and former Republican
+  Gov. Bob Taft urged him to stop airing it, and U.S. Sen. Jon Husted said he would
+  not have run it, as Republicans fought to maintain political control of Ohio.
+nut_graf: 'By Friday, the dispute had reached the Ohio Republican Party''s statewide
+  ticket: every living full-term Ohio governor — two Democrats and three Republicans
+  — had spoken out against the advertisement, and U.S. Sen. Jon Husted said he would
+  not have run it. Associated Press reporting draws on Donna Arthur''s account, police
+  and court records documenting Cledith Arthur''s July 1978 arrest and rape charge,
+  and the grand-jury indictment returned that September.'
 primary_entities:
 - Vivek Ramaswamy
 - Amy Acton
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +162,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
-  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.873
+  strength: 0.8731
 - slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
   headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8534
+  strength: 0.8538
 - slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
-  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8528
+  strength: 0.853
 - slug: 2026-10-21-ramaswamy-pledges-4m-to-air-attack-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8544
+  strength: 0.8543
 - slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8452
+  strength: 0.8454
 - slug: 2026-10-22-dewine-says-acton-certainly-told-the-truth-in-his-experience
   headline: DeWine says Acton 'certainly told the truth' in his experience
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8376
+  strength: 0.8379
 - slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
   headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8225
+  strength: 0.8226
 - slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
+  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's
+    race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7953
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7547
-- slug: 2026-10-24-obama-campaigns-for-democrats-as-trump-casts-an-early-vote
-  headline: Obama campaigns for Democrats as Trump casts an early vote
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6851
-- slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
-  headline: Former President Obama criticizes Trump at Ohio midterm rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6665
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7054
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6806
-- slug: 2026-08-04-cook-political-report-shifts-ohio-governor-race-to-toss-up
-  headline: Cook Political Report shifts Ohio governor race to toss-up
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6695
-- slug: 2026-05-03-covid-19-debate-resurfaces-in-ohio-governor-race-between-amy-acton-and-vivek-ram
-  headline: COVID-19 debate resurfaces in Ohio governor race between Amy Acton and Vivek Ramaswamy
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7326
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7174
-- slug: 2026-04-26-ohio-gop-governor-primary-tests-ramaswamy-as-acton-waits-for-general-election
-  headline: Ohio GOP governor primary tests Ramaswamy as Acton waits for general election
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7179
-- slug: 2026-05-21-vance-targets-ohio-in-medicaid-fraud-crackdown
-  headline: Vance targets Ohio in Medicaid fraud crackdown
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7017
-- slug: 2026-05-20-vance-expands-medicaid-fraud-push-to-ohio-gop-scrambles-ahead-of-election
-  headline: Vance expands Medicaid fraud push to Ohio, GOP scrambles ahead of election
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.693
-- slug: 2026-01-07-ramaswamy-picks-mccolley-acton-picks-pepper-in-ohio-governor-race
-  headline: Ramaswamy picks McColley, Acton picks Pepper in Ohio governor race
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7096
+  strength: 0.7958
 analyses:
-- '2026-10-23-vivek-ramaswamy-defends-an-ad-that-extends-a-1978-charge-into-a-present-judgment'
+- 2026-10-23-vivek-ramaswamy-defends-an-ad-that-extends-a-1978-charge-into-a-present-judgment
 ---
-
 ## Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
 
 **Subtype:** fact

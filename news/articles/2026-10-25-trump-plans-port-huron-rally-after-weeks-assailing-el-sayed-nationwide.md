@@ -1,9 +1,17 @@
 ---
 headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
-secondary_headline: El-Sayed dares Trump to Michigan, believing the trip will backfire on Rogers
+secondary_headline: El-Sayed dares Trump to Michigan, believing the trip will backfire
+  on Rogers
 publish_date: '2026-10-25'
-lede: President Donald Trump plans a Port Huron, Michigan, rally on Sunday for Republican U.S. Senate nominee Mike Rogers after weeks of assailing Democratic challenger Abdul El-Sayed at rallies across the country. The Associated Press described El-Sayed as a progressive who won the August primary; Republicans see a chance to pick up retiring Democrat Gary Peters' open Senate seat in the Nov. 3 race.
-nut_graf: Republicans see an open-seat opportunity in Michigan, while progressives hope El-Sayed will help demonstrate their clout in a swing state, which could shape how the 2028 presidential primary unfolds. The planned Trump visit comes as the GOP is weighed down by voters' frustration with the economy and the war with Iran.
+lede: President Donald Trump plans a Port Huron, Michigan, rally on Sunday for Republican
+  U.S. Senate nominee Mike Rogers after weeks of assailing Democratic challenger Abdul
+  El-Sayed at rallies across the country. The Associated Press described El-Sayed
+  as a progressive who won the August primary; Republicans see a chance to pick up
+  retiring Democrat Gary Peters' open Senate seat in the Nov. 3 race.
+nut_graf: Republicans see an open-seat opportunity in Michigan, while progressives
+  hope El-Sayed will help demonstrate their clout in a swing state, which could shape
+  how the 2028 presidential primary unfolds. The planned Trump visit comes as the
+  GOP is weighed down by voters' frustration with the economy and the war with Iran.
 primary_entities:
 - Donald Trump
 - Abdul El-Sayed
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +155,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide.png
-  alt: 'Illustration accompanying article: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide'
+  alt: 'Illustration accompanying article: Trump plans Port Huron rally after weeks
+    assailing El-Sayed nationwide'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
+  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8605
+- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
+  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7738
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7727
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7892
+  strength: 0.7886
+- slug: 2026-10-25-minaj-urges-michigan-republicans-to-vote-at-trump-rally
+  headline: Minaj urges Michigan Republicans to vote at Trump rally
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7635
 - slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
   headline: Obama rallies for El-Sayed in Michigan Senate race
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7516
+  strength: 0.7514
 - slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
   headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.733
+  strength: 0.7324
 - slug: 2026-10-24-barack-obama-to-support-abdul-el-sayed-at-detroit-senate-rally
   headline: Barack Obama to support Abdul El-Sayed at Detroit Senate rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7093
-- slug: 2026-10-19-records-identify-el-sayed-heckler-as-former-hawley-office-director
-  headline: Records identify El-Sayed heckler as former Hawley office director
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7081
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7625
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7605
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7483
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7255
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7023
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7013
-- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
-  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7058
-- slug: 2026-09-23-xi-arrives-in-washington-wednesday-for-state-visit
-  headline: Xi arrives in Washington Wednesday for state visit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7158
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7192
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7144
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7231
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7281
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7137
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.7206
-- slug: 2026-08-13-abdul-el-sayed-becomes-first-muslim-nominated-by-democrats-for-us-senate
-  headline: Abdul El-Sayed becomes first Muslim nominated by Democrats for US Senate
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7038
+  strength: 0.7097
 ---
-
 ## Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
 
 **Subtype:** fact

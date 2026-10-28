@@ -2,8 +2,19 @@
 headline: First study finds mRNA flu vaccine about 27% more effective than standard-dose
 secondary_headline: FDA will approve the mRNA flu shot only for adults 50 and older
 publish_date: '2026-10-25'
-lede: The Centers for Disease Control and Prevention reported that flu activity is rising earlier than usual, and NPR host Ayesha Rascoe told Dr. Ann Falsey, who teaches about infectious diseases at the University of Rochester School of Medicine, that "it's not too late to get your flu vaccine." Falsey said the first study of the new mRNA flu vaccine found it about 27% more effective than the standard-dose flu vaccine for adults 50 and older, the age group in which it was studied and the only group she said the FDA would approve it for.
-nut_graf: For adults 50 and older — whom Falsey said are more at risk for serious infection or illness if they catch the flu — the choice of flu shot now includes an option that Rascoe said is made with the same technology as the COVID-19 shots and that Falsey said can be made faster when a new strain appears. The timing matters because the CDC is reporting flu activity earlier than usual, and Rascoe said it is not too late to get a flu vaccine.
+lede: The Centers for Disease Control and Prevention reported that flu activity is
+  rising earlier than usual, and NPR host Ayesha Rascoe told Dr. Ann Falsey, who teaches
+  about infectious diseases at the University of Rochester School of Medicine, that
+  "it's not too late to get your flu vaccine." Falsey said the first study of the
+  new mRNA flu vaccine found it about 27% more effective than the standard-dose flu
+  vaccine for adults 50 and older, the age group in which it was studied and the only
+  group she said the FDA would approve it for.
+nut_graf: For adults 50 and older — whom Falsey said are more at risk for serious
+  infection or illness if they catch the flu — the choice of flu shot now includes
+  an option that Rascoe said is made with the same technology as the COVID-19 shots
+  and that Falsey said can be made faster when a new strain appears. The timing matters
+  because the CDC is reporting flu activity earlier than usual, and Rascoe said it
+  is not too late to get a flu vaccine.
 primary_entities:
 - Ann Falsey
 - Ayesha Rascoe
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,77 +150,34 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-23-california-reports-9-65-flu-test-positivity-as-west-coast-activity-rises-early
-  headline: California reports 9.65% flu test positivity as West Coast activity rises early
+  headline: California reports 9.65% flu test positivity as West Coast activity rises
+    early
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7061
-- slug: 2026-10-22-personalized-mrna-vaccine-added-to-keytruda-cuts-two-year-melanoma-recurrence-ri
-  headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence risk by 42% in trial
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6051
-- slug: 2026-10-11-american-academy-of-pediatrics-calls-for-ban-on-raw-milk-sales
-  headline: American Academy of Pediatrics calls for ban on raw milk sales
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5827
+  strength: 0.7069
 - slug: 2026-08-06-fda-approves-mflusiva-moderna-s-mrna-flu-vaccine-for-older-adults
   headline: FDA approves mFlusiva, Moderna’s mRNA flu vaccine for older adults
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.7615
-- slug: 2026-09-24-overton-calls-mmr-vaccine-safe-and-effective-at-fda-confirmation-hearing
-  headline: Overton calls MMR vaccine 'safe and effective' at FDA confirmation hearing
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6017
+  strength: 0.7608
 - slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
   headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.795
-- slug: 2026-09-02-four-medical-groups-issue-vaccine-guidance-as-federal-process-remains-frozen
-  headline: Four medical groups issue vaccine guidance as federal process remains frozen
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6265
-- slug: 2026-08-27-fda-approves-pfizer-s-updated-covid-19-vaccine-for-stratus-variant
-  headline: FDA approves Pfizer's updated COVID-19 vaccine for Stratus variant
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6251
+  strength: 0.7943
 - slug: 2026-03-15-flu-vaccine-effectiveness-drops-as-cdc-points-to-subclade-k-mismatch
   headline: Flu vaccine effectiveness drops as CDC points to subclade K mismatch
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.725
-- slug: 2026-08-22-moderna-s-personalized-cancer-vaccine-clears-phase-3-melanoma-trial
-  headline: Moderna's personalized cancer vaccine clears phase 3 melanoma trial
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5863
-- slug: 2026-08-14-summer-covid-19-wave-grows-across-us-experts-say
-  headline: Summer COVID-19 wave grows across US, experts say
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5986
-- slug: 2026-06-29-pentagon-faces-vaccine-deadline-as-boot-camp-flu-outbreak-widens
-  headline: Pentagon faces vaccine deadline as boot camp flu outbreak widens
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6468
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.5898
+  strength: 0.7256
 - slug: 2026-02-19-fda-will-consider-moderna-s-mrna-flu-vaccine-after-all
   headline: FDA will consider Moderna's mRNA flu vaccine after all
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6853
+  strength: 0.6847
 - slug: 2026-01-09-us-flu-activity-dips-slightly-as-health-officials-warn-severe-season-has-not-pea
-  headline: US flu activity dips slightly as health officials warn severe season has not peaked
+  headline: US flu activity dips slightly as health officials warn severe season has
+    not peaked
   publish_date: '2026-01-09'
   relation: related
   strength: 0.6813
@@ -216,29 +185,14 @@ related_stories:
   headline: Moderna says FDA will not consider its mRNA flu vaccine application
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.6759
+  strength: 0.6753
 - slug: 2026-01-06-flu-season-rivals-last-winter-s-epidemic-as-subclade-k-drives-holiday-surge
-  headline: Flu season rivals last winter's epidemic as subclade K drives holiday surge
+  headline: Flu season rivals last winter's epidemic as subclade K drives holiday
+    surge
   publish_date: '2026-01-06'
   relation: related
-  strength: 0.6772
-- slug: 2026-01-16-us-flu-activity-falls-for-second-week-but-experts-warn-season-is-not-over
-  headline: US flu activity falls for second week, but experts warn season is not over
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6764
-- slug: 2026-06-25-pentagon-restores-mandatory-flu-shots-for-recruits-amid-boot-camp-outbreak
-  headline: Pentagon restores mandatory flu shots for recruits amid boot camp outbreak
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5879
-- slug: 2026-06-13-tick-bite-linked-to-alpha-gal-syndrome-cases-rise-fda-approves-first-drug
-  headline: Tick bite linked to alpha-gal syndrome cases rise; FDA approves first drug
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5837
+  strength: 0.6776
 ---
-
 ## First study finds mRNA flu vaccine about 27% more effective than standard-dose
 
 **Subtype:** fact

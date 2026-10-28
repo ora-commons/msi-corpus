@@ -1,9 +1,21 @@
 ---
-headline: Federal court documents show Herndon has been charged in a second shooting incident
-secondary_headline: The 11 October shooting in Herndon’s charge preceded Wilson’s 14 October death
+headline: Federal court documents show Herndon has been charged in a second shooting
+  incident
+secondary_headline: The 11 October shooting in Herndon’s charge preceded Wilson’s
+  14 October death
 publish_date: '2026-10-25'
-lede: Federal court documents show that Willie James Herndon has been charged in a second shooting incident involving a vehicle on 11 October. The earlier incident preceded Alyssa Wilson’s death on 14 October; Wilson, 17, was shot and killed while driving on Interstate 170 in Overland, Missouri. Herndon, 43, of Texas, faces first-degree murder and armed criminal action charges in St Louis county, Missouri, while federal prosecutors in Illinois have charged him with being a felon in possession of a firearm.
-nut_graf: The federal court documents show Herndon has been charged in the second shooting incident, the 11 October vehicle shooting that preceded Wilson’s death on 14 October. The complaint describes a trail from that scene to the Days Inn in Illinois, where Herndon was arrested. Prosecutors said they were conducting ballistics tests to determine whether the recovered casing came from the weapon that killed Wilson.
+lede: Federal court documents show that Willie James Herndon has been charged in a
+  second shooting incident involving a vehicle on 11 October. The earlier incident
+  preceded Alyssa Wilson’s death on 14 October; Wilson, 17, was shot and killed while
+  driving on Interstate 170 in Overland, Missouri. Herndon, 43, of Texas, faces first-degree
+  murder and armed criminal action charges in St Louis county, Missouri, while federal
+  prosecutors in Illinois have charged him with being a felon in possession of a firearm.
+nut_graf: The federal court documents show Herndon has been charged in the second
+  shooting incident, the 11 October vehicle shooting that preceded Wilson’s death
+  on 14 October. The complaint describes a trail from that scene to the Days Inn in
+  Illinois, where Herndon was arrested. Prosecutors said they were conducting ballistics
+  tests to determine whether the recovered casing came from the weapon that killed
+  Wilson.
 primary_entities:
 - Willie James Herndon
 - Alyssa Wilson
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,106 +160,10 @@ related_stories:
   headline: Prosecutors charge Willie Herndon with murder in Overland highway shooting
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8905
-- slug: 2026-10-23-jury-convicts-ohio-man-of-murder-in-deputy-s-death
-  headline: Jury convicts Ohio man of murder in deputy's death
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6359
-- slug: 2026-10-14-harris-county-da-weighs-aggravated-assault-charge-against-ice-officer
-  headline: Harris County DA weighs aggravated-assault charge against ICE officer
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6214
-- slug: 2026-10-03-florida-appeals-court-reverses-both-convictions-in-hot-car-baby-death
-  headline: Florida appeals court reverses both convictions in hot-car baby death
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.613
-- slug: 2026-09-29-prosecutors-charge-garc-s-p-rez-with-assaulting-resisting-impeding-officer
-  headline: Prosecutors charge Garcés Pérez with assaulting, resisting, impeding officer
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6226
-- slug: 2026-09-18-prosecutors-charge-la-woman-with-murder-over-chatsworth-bus-crash
-  headline: Prosecutors charge LA woman with murder over Chatsworth bus crash
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6101
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6087
-- slug: 2026-08-17-louisiana-man-faces-murder-charge-after-driving-wife-s-body-across-states
-  headline: Louisiana man faces murder charge after driving wife's body across states
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6125
-- slug: 2026-08-07-teenager-faces-murder-charge-after-fatal-stabbing-while-wearing-clown-costume
-  headline: Teenager faces murder charge after fatal stabbing while wearing clown costume
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.612
-- slug: 2026-07-13-two-teenagers-arrested-in-east-st-louis-shooting-that-killed-five-family-members
-  headline: Two teenagers arrested in East St. Louis shooting that killed five family members
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6096
-- slug: 2026-05-15-utah-officer-faces-manslaughter-charge-in-unarmed-man-shooting
-  headline: Utah officer faces manslaughter charge in unarmed man shooting
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6231
-- slug: 2026-04-15-prosecutors-charge-man-shot-by-ice-in-california-with-assaulting-officer
-  headline: Prosecutors charge man shot by ICE in California with assaulting officer
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6342
-- slug: 2026-04-08-trial-begins-for-wrongful-death-lawsuit-over-14-year-old-s-lapd-shooting
-  headline: Trial begins for wrongful-death lawsuit over 14-year-old’s LAPD shooting
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.636
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.616
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6124
-- slug: 2026-04-15-bodycam-video-contradicts-st-louis-police-account-in-teen-shooting
-  headline: Bodycam video contradicts St. Louis police account in teen shooting
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6244
-- slug: 2026-05-15-utah-officer-charged-with-manslaughter-in-2024-shooting-of-unarmed-man-through-p
-  headline: Utah officer charged with manslaughter in 2024 shooting of unarmed man through pickup window
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6132
-- slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
-  headline: Man shot by ICE in California arrested by FBI, attorney says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6245
-- slug: 2026-04-22-gun-used-to-kill-8-children-in-louisiana-was-stolen-owner-told-police
-  headline: Gun used to kill 8 children in Louisiana was stolen, owner told police
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6192
+  strength: 0.8896
 analyses:
-- '2026-10-25-federal-filings-place-herndon-s-vehicle-in-a-broader-road-shooting-investigation'
+- 2026-10-25-federal-filings-place-herndon-s-vehicle-in-a-broader-road-shooting-investigation
 ---
-
 ## Federal court documents show Herndon has been charged in a second shooting incident
 
 **Subtype:** fact

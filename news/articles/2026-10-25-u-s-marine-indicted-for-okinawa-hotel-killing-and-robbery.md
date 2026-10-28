@@ -2,8 +2,15 @@
 headline: U.S. Marine indicted for Okinawa hotel killing and robbery
 secondary_headline: Lt. Gen. Watson imposes 30-day Okinawa troop curfew
 publish_date: '2026-10-25'
-lede: Lance Cpl. Devin Jacob Ballard, a 20-year-old U.S. Marine, was indicted Sunday on a charge of robbery causing death in the killing of 39-year-old Japanese woman Anna Yagi at a hotel in Okinawa, according to a copy of the indictment provided by the Naha Public Prosecutors Office. Prosecutors allege that Ballard killed her and stole her backpack; Ballard denies the allegations.
-nut_graf: The case has increased scrutiny of U.S. military personnel in Okinawa, with Gov. Gent Koja and the prefecture's assembly demanding a review of the pact governing military-connected personnel in Japan. III MEF has imposed a 30-day troop curfew while Ballard faces the death penalty or life in prison if convicted.
+lede: Lance Cpl. Devin Jacob Ballard, a 20-year-old U.S. Marine, was indicted Sunday
+  on a charge of robbery causing death in the killing of 39-year-old Japanese woman
+  Anna Yagi at a hotel in Okinawa, according to a copy of the indictment provided
+  by the Naha Public Prosecutors Office. Prosecutors allege that Ballard killed her
+  and stole her backpack; Ballard denies the allegations.
+nut_graf: The case has increased scrutiny of U.S. military personnel in Okinawa, with
+  Gov. Gent Koja and the prefecture's assembly demanding a review of the pact governing
+  military-connected personnel in Japan. III MEF has imposed a 30-day troop curfew
+  while Ballard faces the death penalty or life in prison if convicted.
 primary_entities:
 - Lance Cpl. Devin Jacob Ballard
 - Anna Yagi
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,8 +149,19 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-footage-linked-u-s-marine-arrest-follows-naha-hotel-killing
+  headline: Footage-linked U.S. Marine arrest follows Naha hotel killing
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8768
+- slug: 2026-10-26-japan-s-government-registers-strong-protest-over-okinawa-killing-case
+  headline: Japan's government registers "strong" protest over Okinawa killing case
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8246
 - slug: 2026-10-04-japanese-police-arrest-us-marine-after-cctv-links-him-to-okinawa-hotel-death
-  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel death
+  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel
+    death
   publish_date: '2026-10-04'
   relation: related
   strength: 0.8508
@@ -171,78 +190,7 @@ related_stories:
   publish_date: '2026-10-07'
   relation: related
   strength: 0.7556
-- slug: 2026-10-15-navy-names-adf-member-as-person-of-interest-in-hmas-leeuwin-camera-case
-  headline: Navy names ADF member as person of interest in HMAS Leeuwin camera case
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5684
-- slug: 2026-10-08-indictment-details-alleged-torture-of-american-detainees
-  headline: Indictment details alleged torture of American detainees
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5848
-- slug: 2026-09-12-vicky-kyung-mi-kim-held-on-10-million-bail-in-palm-desert-flagpole-death
-  headline: Vicky Kyung Mi Kim held on $10 million bail in Palm Desert flagpole death
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5681
-- slug: 2026-09-04-morphew-jailed-after-prosecutors-allege-bond-breach-in-wife-s-death-case
-  headline: Morphew jailed after prosecutors allege bond breach in wife's death case
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5699
-- slug: 2026-08-07-yolanda-olejniczak-marodi-pleads-guilty-to-killing-fire-captain-wife
-  headline: Yolanda Olejniczak Marodi pleads guilty to killing fire captain wife
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5766
-- slug: 2026-06-10-navy-culinary-specialist-sentenced-to-44-years-for-killing-fellow-sailor
-  headline: Navy culinary specialist sentenced to 44 years for killing fellow sailor
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5799
-- slug: 2026-04-17-navy-reservist-returned-to-u-s-after-fleeing-to-hong-kong-in-wife-s-freezer-deat
-  headline: Navy reservist returned to U.S. after fleeing to Hong Kong in wife's freezer death
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.582
-- slug: 2026-04-14-doj-charges-teen-stepbrother-in-carnival-cruise-death-sexual-abuse-case
-  headline: DOJ charges teen stepbrother in Carnival Cruise death, sexual abuse case
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.582
-- slug: 2026-05-02-kentucky-man-charged-in-deadly-bank-robbery-after-high-speed-chase
-  headline: Kentucky man charged in deadly bank robbery after high-speed chase
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5715
-- slug: 2026-04-27-latest-u-s-strike-on-suspected-drug-boat-kills-3-in-eastern-pacific
-  headline: Latest U.S. strike on suspected drug boat kills 3 in eastern Pacific
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5691
-- slug: 2026-04-18-kansas-family-sues-over-inmate-s-death-from-alleged-deputy-pressure
-  headline: Kansas family sues over inmate's death from alleged deputy pressure
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5704
-- slug: 2026-04-25-us-army-major-charged-with-plotting-to-aid-cameroon-separatists
-  headline: US Army major charged with plotting to aid Cameroon separatists
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5656
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  headline: Guards accused of beating detainees at Florida's 'Alligator Alcatraz'
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.568
-- slug: 2026-04-22-navy-veteran-charged-in-atlanta-area-shootings-dies-in-jail
-  headline: Navy veteran charged in Atlanta-area shootings dies in jail
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5658
 ---
-
 ## U.S. Marine indicted for Okinawa hotel killing and robbery
 
 **Subtype:** fact

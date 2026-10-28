@@ -2,8 +2,20 @@
 headline: Beatty asks Cooper for Trump administration Kennedy Center records
 secondary_headline: Records and claimed presidential contact
 publish_date: '2026-10-25'
-lede: Attorneys for Rep. Joyce Beatty, an Ohio Democrat, asked U.S. District Judge Christopher Cooper on Sunday to order the Trump administration to turn over Kennedy Center records documenting the scope of Republican President Donald Trump's influence over the center's management. The request covers documents, emails and text messages the administration withheld on the ground that they contain privileged presidential communications. Beatty's lawyers said a list of records in the Kennedy Center's possession suggests Trump has been in “near-constant contact” with management, either directly or through intermediaries. Beatty is challenging Trump's plan to close the performing arts center for renovations.
-nut_graf: The records request is part of a federal court fight over the Kennedy Center's closure and Trump's role in it. Cooper has already ordered the center to remove Trump's name and has barred major physical changes without 30 days' notice; Beatty's lawyers argue the withheld communications bear directly on the issues before the court and that the administration's privilege claim cannot stand.
+lede: Attorneys for Rep. Joyce Beatty, an Ohio Democrat, asked U.S. District Judge
+  Christopher Cooper on Sunday to order the Trump administration to turn over Kennedy
+  Center records documenting the scope of Republican President Donald Trump's influence
+  over the center's management. The request covers documents, emails and text messages
+  the administration withheld on the ground that they contain privileged presidential
+  communications. Beatty's lawyers said a list of records in the Kennedy Center's
+  possession suggests Trump has been in “near-constant contact” with management, either
+  directly or through intermediaries. Beatty is challenging Trump's plan to close
+  the performing arts center for renovations.
+nut_graf: The records request is part of a federal court fight over the Kennedy Center's
+  closure and Trump's role in it. Cooper has already ordered the center to remove
+  Trump's name and has barred major physical changes without 30 days' notice; Beatty's
+  lawyers argue the withheld communications bear directly on the issues before the
+  court and that the administration's privilege claim cannot stand.
 primary_entities:
 - Donald Trump
 - Joyce Beatty
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,45 @@ related_stories:
   headline: Appeals court to weigh Trump claim that presidential records are his
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6789
+  strength: 0.6794
 - slug: 2026-09-16-beatty-requests-emergency-hearing-on-kennedy-center-closure
   headline: Beatty requests emergency hearing on Kennedy Center closure
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7782
-- slug: 2026-09-17-judge-orders-kennedy-center-board-to-give-30-days-notice-on-building-changes
-  headline: Judge orders Kennedy Center board to give 30 days' notice on building changes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.759
+  strength: 0.7776
 - slug: 2026-09-14-beatty-files-court-documents-disputing-kennedy-center-s-safety-claims
   headline: Beatty files court documents disputing Kennedy Center's safety claims
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.77
+  strength: 0.7704
+- slug: 2026-09-17-judge-orders-kennedy-center-board-to-give-30-days-notice-on-building-changes
+  headline: Judge orders Kennedy Center board to give 30 days' notice on building
+    changes
+  publish_date: '2026-09-17'
+  relation: related
+  strength: 0.7581
 - slug: 2026-09-20-beatty-clashes-with-trump-as-kennedy-center-board-votes-to-close-building
   headline: Beatty clashes with Trump as Kennedy Center board votes to close building
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.743
+  strength: 0.7438
 - slug: 2026-09-29-lee-blocks-bipartisan-bill-shielding-kennedy-center-from-demolition
   headline: Lee blocks bipartisan bill shielding Kennedy Center from demolition
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6834
+  strength: 0.6845
 - slug: 2026-09-15-kennedy-center-board-to-vote-on-closure-shelving-trump-renaming-vote
   headline: Kennedy Center board to vote on closure, shelving Trump-renaming vote
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7335
+  strength: 0.7341
 - slug: 2026-09-19-trump-threatens-kennedy-center-demolition-after-court-blocks-renaming-bid
-  headline: Trump threatens Kennedy Center demolition after court blocks renaming bid
+  headline: Trump threatens Kennedy Center demolition after court blocks renaming
+    bid
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7131
-- slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6944
-- slug: 2026-09-15-cooper-no-proof-kennedy-center-donations-hinge-on-trump-name
-  headline: 'Cooper: no proof Kennedy Center donations hinge on Trump name'
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7041
-- slug: 2026-09-19-thousands-rally-at-kennedy-center-over-closure-demolition-fears
-  headline: Thousands rally at Kennedy Center over closure, demolition fears
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6768
-- slug: 2026-09-15-kennedy-center-board-votes-to-close-main-building-after-judge-blocks-trump-name
-  headline: Kennedy Center board votes to close main building after judge blocks Trump name
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6849
-- slug: 2026-09-14-court-filings-detail-10-options-to-add-trump-s-name-to-kennedy-center-facade
-  headline: Court filings detail 10 options to add Trump's name to Kennedy Center facade
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6829
-- slug: 2026-09-14-kennedy-center-director-tells-board-building-is-unsafe
-  headline: Kennedy Center director tells board building is unsafe
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6821
-- slug: 2026-08-19-beatty-asks-judge-cooper-for-earlier-ruling-in-kennedy-center-facade-case
-  headline: Beatty asks Judge Cooper for earlier ruling in Kennedy Center facade case
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7433
-- slug: 2026-08-25-doj-filing-threatens-demolition-of-kennedy-center-if-trump-naming-plan-blocked
-  headline: DOJ filing threatens demolition of Kennedy Center if Trump naming plan blocked
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7206
-- slug: 2026-03-15-judge-rules-joyce-beatty-can-attend-kennedy-center-board-meeting-not-vote
-  headline: Judge rules Joyce Beatty can attend Kennedy Center board meeting, not vote
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7796
-- slug: 2026-06-24-judge-orders-kennedy-center-to-explain-tarp-file-status-report-by-july-31
-  headline: Judge orders Kennedy Center to explain tarp, file status report by July 31
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7278
-- slug: 2026-04-30-groups-urge-judge-to-block-kennedy-center-renovations-by-july-6
-  headline: Groups urge judge to block Kennedy Center renovations by July 6
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7452
-- slug: 2026-07-11-whistleblowers-allege-kennedy-center-rushed-renovations-for-trump-s-events
-  headline: Whistleblowers allege Kennedy Center rushed renovations for Trump's events
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6883
+  strength: 0.7137
 ---
-
 ## Beatty asks Cooper for Trump administration Kennedy Center records
 
 **Subtype:** fact

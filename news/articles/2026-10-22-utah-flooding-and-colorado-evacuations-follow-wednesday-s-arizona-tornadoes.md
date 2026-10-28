@@ -1,9 +1,27 @@
 ---
 headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
-secondary_headline: Rivers forecast to crest Friday morning; rain expected to taper overnight
+secondary_headline: Rivers forecast to crest Friday morning; rain expected to taper
+  overnight
 publish_date: '2026-10-22'
-lede: Severe weather struck the Four Corners region on Thursday, with flooding that swamped dozens of homes in Utah and led to evacuations of low-lying areas in Colorado, a day after tornadoes blew off roofs, knocked trees onto houses and downed power lines in Arizona. In Hurricane in far southwestern Utah, reddish-brown floodwater lapped into and around 80 homes in a neighborhood and 50 recreational vehicles in an RV park, and the city declared a state of emergency. In southern Colorado, rising waters prompted mandatory evacuations along four rivers, including the San Juan River through Pagosa Springs. National Weather Service meteorologists suspect at least three tornadoes touched down as storms swept across central Arizona late Wednesday, and the tornadoes injured at least one person.
-nut_graf: Flooding in Utah and Colorado followed two months of heavy rain that ended a summer of drought. National Weather Service meteorologist Kate Abbott said parts of the Southwest are naturally prone to flash flooding, recent rains have made flooding more likely and her area was saturated and could not take much more moisture without flooding. Rivers were expected to crest Friday morning after rain was forecast to taper off overnight. Weather service meteorologist Ryan Bernhart said warm, moist air moving north from the California coast fuels storms and changing winds can make the storms spin, creating conditions for tornadoes, a development he called very unusual for the area at this time of year.
+lede: Severe weather struck the Four Corners region on Thursday, with flooding that
+  swamped dozens of homes in Utah and led to evacuations of low-lying areas in Colorado,
+  a day after tornadoes blew off roofs, knocked trees onto houses and downed power
+  lines in Arizona. In Hurricane in far southwestern Utah, reddish-brown floodwater
+  lapped into and around 80 homes in a neighborhood and 50 recreational vehicles in
+  an RV park, and the city declared a state of emergency. In southern Colorado, rising
+  waters prompted mandatory evacuations along four rivers, including the San Juan
+  River through Pagosa Springs. National Weather Service meteorologists suspect at
+  least three tornadoes touched down as storms swept across central Arizona late Wednesday,
+  and the tornadoes injured at least one person.
+nut_graf: Flooding in Utah and Colorado followed two months of heavy rain that ended
+  a summer of drought. National Weather Service meteorologist Kate Abbott said parts
+  of the Southwest are naturally prone to flash flooding, recent rains have made flooding
+  more likely and her area was saturated and could not take much more moisture without
+  flooding. Rivers were expected to crest Friday morning after rain was forecast to
+  taper off overnight. Weather service meteorologist Ryan Bernhart said warm, moist
+  air moving north from the California coast fuels storms and changing winds can make
+  the storms spin, creating conditions for tornadoes, a development he called very
+  unusual for the area at this time of year.
 primary_entities:
 - Hurricane, Utah
 - Pagosa Springs, Colorado
@@ -46,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,113 +167,57 @@ related_stories:
   headline: Flooding in Four Corners prompts rooftop rescues and evacuations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8436
+  strength: 0.8435
 - slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
   headline: Four Corners region braces for more storms amid flood cleanup
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7798
+  strength: 0.7794
 - slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
+  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten
+    surges
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7671
+  strength: 0.767
 - slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
   headline: New Mexico crews search evacuated neighborhoods for flood hazards
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7585
+  strength: 0.7579
+- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
+  headline: Flood warning remains in Four Corners as San Juan River nears crest
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7497
 - slug: 2026-10-22-golf-ball-sized-hail-hits-central-and-northern-arizona
   headline: Golf ball-sized hail hits central and northern Arizona
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6747
+  strength: 0.6736
 - slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
   headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.6784
+  strength: 0.6777
 - slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
   headline: Heavy rains drench South Texas, flood rescues top two dozen
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7399
-- slug: 2026-08-20-dover-declares-state-of-emergency-after-likely-tornado-causes-citywide-damage
-  headline: Dover declares state of emergency after likely tornado causes citywide damage
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6674
-- slug: 2026-08-16-indiana-flooding-kills-at-least-6-as-white-river-crests-above-1913-record
-  headline: Indiana flooding kills at least 6 as White River crests above 1913 record
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.664
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7121
-- slug: 2026-06-21-utah-wildfire-forces-evacuation-of-eureka-as-extreme-heat-grips-us-west
-  headline: Utah wildfire forces evacuation of Eureka as extreme heat grips US West
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7241
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.684
-- slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6858
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7006
-- slug: 2026-06-26-nws-issues-first-particularly-dangerous-situation-red-flag-warning-for-utah
-  headline: NWS issues first 'Particularly Dangerous Situation' red flag warning for Utah
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6572
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.7024
-- slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
-  headline: Tornadoes, hail and flooding threaten parts of the Midwest
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6814
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7006
-- slug: 2026-04-15-severe-storms-threaten-plains-and-midwest-again
-  headline: Severe storms threaten Plains and Midwest again
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6785
-- slug: 2026-02-16-tornado-watch-issued-as-storm-system-hits-mississippi-and-louisiana
-  headline: Tornado watch issued as storm system hits Mississippi and Louisiana
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6752
+  strength: 0.7394
 image:
   url: /articles/2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes.png
-  alt: "Illustration accompanying article: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes"
+  alt: 'Illustration accompanying article: Utah flooding and Colorado evacuations
+    follow Wednesday''s Arizona tornadoes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
 
 **Subtype:** fact

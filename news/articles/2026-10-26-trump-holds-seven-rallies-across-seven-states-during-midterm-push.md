@@ -2,8 +2,16 @@
 headline: Trump holds seven rallies across seven states during midterm push
 secondary_headline: Advisers see rallies as a bid to stem Republican losses
 publish_date: '2026-10-26'
-lede: President Trump held seven midterm rallies across seven states in seven days, speaking for more than 11 hours to energize his supporters, according to The Wall Street Journal. The tour ran from Kansas to Michigan through North Carolina, South Carolina, Iowa, Florida and Georgia as advisers targeted low-propensity MAGA voters in red states.
-nut_graf: 'The blitz reflects an attempt to turn Trump’s personal support into Republican turnout even as most analysts expect the GOP to lose the House and possibly the Senate. The approach carries an acknowledged risk: advisers say it can mobilize low-propensity MAGA voters, but some Republicans fear the rallies will energize Democrats and give opponents material to portray Trump as out of touch.'
+lede: President Trump held seven midterm rallies across seven states in seven days,
+  speaking for more than 11 hours to energize his supporters, according to The Wall
+  Street Journal. The tour ran from Kansas to Michigan through North Carolina, South
+  Carolina, Iowa, Florida and Georgia as advisers targeted low-propensity MAGA voters
+  in red states.
+nut_graf: 'The blitz reflects an attempt to turn Trump’s personal support into Republican
+  turnout even as most analysts expect the GOP to lose the House and possibly the
+  Senate. The approach carries an acknowledged risk: advisers say it can mobilize
+  low-propensity MAGA voters, but some Republicans fear the rallies will energize
+  Democrats and give opponents material to portray Trump as out of touch.'
 primary_entities:
 - Trump
 - The Wall Street Journal
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +146,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
+  headline: Trump draws generally smaller midterm crowds on a multistate rally week
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7823
+- slug: 2026-10-27-trump-plans-salina-rally-less-than-two-weeks-after-kansas-visit
+  headline: Trump plans Salina rally less than two weeks after Kansas visit
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7112
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7909
+  strength: 0.7914
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7276
+  strength: 0.7295
+- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
+  headline: Trump heads to Mississippi as Democrats expand battleground maps
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6842
 - slug: 2026-10-23-trump-comments-on-candidates-looks-during-midterm-rallies
   headline: Trump comments on candidates' looks during midterm rallies
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6899
+  strength: 0.6919
 - slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
   headline: Trump says he has spent more than $300 million on the midterm elections
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7098
+  strength: 0.7101
 - slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
   headline: Only one of 54 Republican economy ads in the closest races mentions Trump
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6887
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7943
-- slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
-  headline: Poll finds 66% of Americans say Trump enriching himself
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6754
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7053
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6787
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6985
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7137
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7048
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7079
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6936
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7015
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6964
-- slug: 2026-08-29-trump-focuses-on-legacy-projects-as-400-million-sits-unspent
-  headline: Trump focuses on legacy projects as $400 million sits unspent
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6936
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.687
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6975
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6821
+  strength: 0.6899
 ---
-
 ## Trump holds seven rallies across seven states during midterm push
 
 **Subtype:** fact

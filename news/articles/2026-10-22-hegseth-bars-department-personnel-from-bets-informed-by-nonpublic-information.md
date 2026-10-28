@@ -2,8 +2,23 @@
 headline: Hegseth bars Department personnel from bets informed by nonpublic information
 secondary_headline: Hegseth says financial stakes can warp military judgment
 publish_date: '2026-10-22'
-lede: Defense Secretary Pete Hegseth has directed American service members, intelligence professionals and other Department civilians not to use classified or unclassified but nonpublic information to trade on prediction markets. In a Tuesday-dated memo reviewed by The Associated Press, Hegseth said such transactions can create signals for adversaries, and the memo says violators could face administrative punishment or criminal charges. In April, federal prosecutors and federal regulators charged 38-year-old Master Sgt. Gannon Ken Van Dyke with using his access as a Special Forces member to place a series of bets totaling more than $32,500 on when Maduro might be removed from power. The case concerned his use of classified information about the mission to capture then-Venezuelan President Nicolás Maduro to win more than $400,000 on Polymarket.
-nut_graf: 'Hegseth''s directive ties prediction-market trading to two Pentagon concerns: operational security and the risk that money on an outcome changes a service member''s judgment. The April charge against Van Dyke preceded the directive, and the broader issue drew a White House warning to staff. Kalshi said it fined and suspended three congressional candidates who the company said wagered on the outcome of their own elections in April.'
+lede: Defense Secretary Pete Hegseth has directed American service members, intelligence
+  professionals and other Department civilians not to use classified or unclassified
+  but nonpublic information to trade on prediction markets. In a Tuesday-dated memo
+  reviewed by The Associated Press, Hegseth said such transactions can create signals
+  for adversaries, and the memo says violators could face administrative punishment
+  or criminal charges. In April, federal prosecutors and federal regulators charged
+  38-year-old Master Sgt. Gannon Ken Van Dyke with using his access as a Special Forces
+  member to place a series of bets totaling more than $32,500 on when Maduro might
+  be removed from power. The case concerned his use of classified information about
+  the mission to capture then-Venezuelan President Nicolás Maduro to win more than
+  $400,000 on Polymarket.
+nut_graf: 'Hegseth''s directive ties prediction-market trading to two Pentagon concerns:
+  operational security and the risk that money on an outcome changes a service member''s
+  judgment. The April charge against Van Dyke preceded the directive, and the broader
+  issue drew a White House warning to staff. Kalshi said it fined and suspended three
+  congressional candidates who the company said wagered on the outcome of their own
+  elections in April.'
 primary_entities:
 - Pete Hegseth
 - U.S. Department of Defense
@@ -40,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,112 +159,56 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.9162
+- slug: 2026-10-27-polymarket-election-betting-probes-reportedly-yield-at-least-two-cftc-referrals
+  headline: Polymarket election-betting probes reportedly yield at least two CFTC
+    referrals
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6927
 - slug: 2026-10-11-courts-confront-betting-markets-that-let-users-wager-on-jury-outcomes
   headline: Courts confront betting markets that let users wager on jury outcomes
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.695
+  strength: 0.6944
 - slug: 2026-10-03-fca-engages-peers-over-polymarket-bank-failure-bets
   headline: FCA engages peers over Polymarket bank-failure bets
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6866
+  strength: 0.6881
 - slug: 2026-09-08-states-push-to-ban-prediction-markets-as-election-betting-expands
   headline: States push to ban prediction markets as election betting expands
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6785
+  strength: 0.677
 - slug: 2026-08-29-perez-surrenders-107-000-accepts-three-year-kalshi-ban-in-cftc-settlement
   headline: Perez surrenders $107,000, accepts three-year Kalshi ban in CFTC settlement
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.703
+  strength: 0.7028
 - slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
   headline: White House probe finds it can't track staff bets on prediction markets
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.748
+  strength: 0.7476
 - slug: 2026-04-24-feds-charge-soldier-with-using-intel-to-win-400k-bet-on-maduro-raid
   headline: Feds charge soldier with using intel to win $400K bet on Maduro raid
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.788
-- slug: 2026-08-13-cftc-probes-kalshi-mention-markets-after-white-house-teleprompter-bets
-  headline: CFTC probes Kalshi 'mention markets' after White House teleprompter bets
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6683
-- slug: 2026-04-11-polymarket-flagged-a-classified-info-trade-as-the-maduro-raid-bet-led-to-a-400-0
-  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led to a $400,000 win
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7732
-- slug: 2026-07-16-white-house-teleprompter-operator-made-nearly-100k-betting-on-trump-s-words
-  headline: White House teleprompter operator made nearly $100K betting on Trump's words
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6846
-- slug: 2026-04-27-prediction-markets-face-tighter-scrutiny-as-officials-target-insider-trading
-  headline: Prediction markets face tighter scrutiny as officials target insider trading
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7419
-- slug: 2026-04-29-u-s-soldier-charged-with-using-intel-to-win-400k-on-maduro-raid
-  headline: U.S. soldier charged with using intel to win $400K on Maduro raid
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7387
-- slug: 2026-05-01-senate-bans-its-members-and-staff-from-betting-in-prediction-markets
-  headline: Senate bans its members and staff from betting in prediction markets
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7248
-- slug: 2026-04-25-u-s-soldier-charged-in-polymarket-trades-tied-to-maduro-raid
-  headline: U.S. soldier charged in Polymarket trades tied to Maduro raid
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7158
-- slug: 2026-01-11-anonymous-polymarket-trader-pockets-400-000-on-maduro-bet-raising-insider-tradin
-  headline: Anonymous Polymarket trader pockets $400,000 on Maduro bet, raising insider trading questions
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.7223
-- slug: 2026-04-11-lawmakers-seek-investigations-into-well-timed-polymarket-bets-on-iran-ceasefire
-  headline: Lawmakers seek investigations into well-timed Polymarket bets on Iran ceasefire
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7087
-- slug: 2026-04-17-washington-tightens-scrutiny-of-prediction-markets-over-geopolitical-betting
-  headline: Washington tightens scrutiny of prediction markets over geopolitical betting
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7017
-- slug: 2026-06-10-cftc-to-propose-new-rules-for-prediction-markets-allow-most-sports-bets
-  headline: CFTC to propose new rules for prediction markets, allow most sports bets
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6734
-- slug: 2026-05-28-us-prosecutors-charge-google-engineer-with-insider-trading-on-polymarket
-  headline: US prosecutors charge Google engineer with insider trading on Polymarket
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6703
-- slug: 2026-03-24-kalshi-and-polymarket-ban-insider-trading-by-politicians-and-athletes
-  headline: Kalshi and Polymarket ban insider trading by politicians and athletes
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6944
+  strength: 0.7871
 image:
   url: /articles/2026-10-22-hegseth-bars-department-personnel-from-bets-informed-by-nonpublic-information.png
-  alt: "Illustration accompanying article: Hegseth bars Department personnel from bets informed by nonpublic information"
+  alt: 'Illustration accompanying article: Hegseth bars Department personnel from
+    bets informed by nonpublic information'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Hegseth bars Department personnel from bets informed by nonpublic information
 
 **Subtype:** fact

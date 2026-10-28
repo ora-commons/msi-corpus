@@ -2,8 +2,17 @@
 headline: Fifth Circuit lets parts of Mississippi school DEI ban take effect
 secondary_headline: Plaintiffs have several weeks to seek rehearing
 publish_date: '2026-10-23'
-lede: A Thursday ruling by the U.S. Fifth Circuit Court of Appeals cleared portions of Mississippi's public-school diversity, equity and inclusion restrictions to take effect. The court vacated a lower-court ruling that had blocked enforcement of several sections and clarified that scholarly activities, student activities and groups, and creative engagements are outside the law. Plaintiffs have several weeks to seek rehearing before the law takes effect under the schedule described by their attorney.
-nut_graf: The ruling permits enforcement of training and DEI-program provisions in Mississippi schools while exempting scholarly, student and creative activities. It also narrows several of the plaintiffs' objections and reassigns the case to a different district judge, but the plaintiffs' broader concerns about the law's reach remain unresolved.
+lede: A Thursday ruling by the U.S. Fifth Circuit Court of Appeals cleared portions
+  of Mississippi's public-school diversity, equity and inclusion restrictions to take
+  effect. The court vacated a lower-court ruling that had blocked enforcement of several
+  sections and clarified that scholarly activities, student activities and groups,
+  and creative engagements are outside the law. Plaintiffs have several weeks to seek
+  rehearing before the law takes effect under the schedule described by their attorney.
+nut_graf: The ruling permits enforcement of training and DEI-program provisions in
+  Mississippi schools while exempting scholarly, student and creative activities.
+  It also narrows several of the plaintiffs' objections and reassigns the case to
+  a different district judge, but the plaintiffs' broader concerns about the law's
+  reach remain unresolved.
 primary_entities:
 - Mississippi
 - U.S. Fifth Circuit Court of Appeals
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +150,38 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-08-25-education-department-probes-two-districts-over-race-in-discipline
-  headline: Education Department probes two districts over race in discipline
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6245
 - slug: 2026-07-23-education-department-rescinds-disparate-impact-rule-for-schools
   headline: Education Department rescinds disparate impact rule for schools
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6602
-- slug: 2026-07-23-intentional-discrimination-required-for-school-cases-under-education-dept-rule
-  headline: Intentional discrimination required for school cases under Education Dept. rule
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6425
+  strength: 0.6588
 - slug: 2026-01-21-education-department-drops-appeal-over-anti-dei-funding-threats
   headline: Education Department drops appeal over anti-DEI funding threats
   publish_date: '2026-01-21'
   relation: related
-  strength: 0.7243
-- slug: 2026-07-16-mississippi-digital-wallet-creates-barriers-for-teacher-supply-funds
-  headline: Mississippi digital wallet creates barriers for teacher supply funds
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6278
+  strength: 0.7233
 - slug: 2026-04-04-judge-ends-federal-oversight-of-special-education-in-new-orleans-schools
   headline: Judge ends federal oversight of special education in New Orleans schools
   publish_date: '2026-04-04'
   relation: related
-  strength: 0.6527
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
+  strength: 0.6528
+- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
+  headline: Federal judge blocks Trump's purge of DEI terms from Head Start grant
+    applications
+  publish_date: '2026-01-08'
   relation: related
-  strength: 0.6242
-- slug: 2026-04-07-iowa-appeals-court-lets-state-enforce-k-6-lgbtq-book-ban-curbs-instruction
-  headline: Iowa appeals court lets state enforce K-6 LGBTQ book ban, curbs instruction
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.647
+  strength: 0.6563
 - slug: 2026-01-21-mississippi-participates-in-federal-school-choice-tax-credit-program
   headline: Mississippi participates in federal school-choice tax-credit program
   publish_date: '2026-01-21'
   relation: related
-  strength: 0.6564
-- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  headline: Federal judge blocks Trump's purge of DEI terms from Head Start grant applications
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6563
-- slug: 2026-04-20-mississippi-law-school-mandates-ai-education-for-all-students
-  headline: Mississippi law school mandates AI education for all students
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6401
+  strength: 0.6549
 - slug: 2026-02-21-5th-circuit-lifts-block-on-louisiana-ten-commandments-classroom-law
   headline: 5th Circuit lifts block on Louisiana Ten Commandments classroom law
   publish_date: '2026-02-21'
   relation: related
-  strength: 0.6521
-- slug: 2026-04-23-desantis-signs-florida-law-banning-local-dei-funding-white-men-disfavored
-  headline: DeSantis signs Florida law banning local DEI funding; white men ‘disfavored’
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6384
-- slug: 2026-04-22-texas-appeals-court-allows-ten-commandments-in-public-classrooms
-  headline: Texas appeals court allows Ten Commandments in public classrooms
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6381
-- slug: 2026-04-22-desantis-signs-florida-law-banning-local-dei-funding-says-white-men-disfavored
-  headline: DeSantis signs Florida law banning local DEI funding, says white men ‘disfavored’
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.637
-- slug: 2026-04-23-court-ruling-keeps-ten-commandments-displays-in-texas-public-schools
-  headline: Court ruling keeps Ten Commandments displays in Texas public schools
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6358
-- slug: 2026-04-22-state-laws-expand-ten-commandments-displays-in-public-schools
-  headline: State laws expand Ten Commandments displays in public schools
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6338
-- slug: 2026-03-29-minnesota-judge-dismisses-doj-bid-to-block-in-state-tuition-programs
-  headline: Minnesota judge dismisses DOJ bid to block in-state tuition programs
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6385
-- slug: 2026-02-12-gov-gretchen-whitmer-signs-smartphone-ban-for-michigan-school-classrooms
-  headline: Gov. Gretchen Whitmer signs smartphone ban for Michigan school classrooms
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6409
-- slug: 2026-04-09-minnesota-school-districts-teachers-union-seek-injunction-on-school-enforcement
-  headline: Minnesota school districts, teachers union seek injunction on school enforcement
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6308
+  strength: 0.6505
 ---
-
 ## Fifth Circuit lets parts of Mississippi school DEI ban take effect
 
 **Subtype:** fact

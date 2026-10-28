@@ -1,9 +1,18 @@
 ---
 headline: Dow ends lower as AI shares rebound and European indexes retreat
-secondary_headline: Bond yields climb after French protests as AI spending leans on borrowing
+secondary_headline: Bond yields climb after French protests as AI spending leans on
+  borrowing
 publish_date: '2026-10-19'
-lede: AI-related stocks lifted the S&P 500 0.4% and the Nasdaq composite 1.1% Monday, while the Dow Jones Industrial Average slipped 0.1%. European indexes fell more than 1% after French protests over the rising cost of living and poor school conditions, and government bond yields rose worldwide. AP reported that the U.S. 10-year Treasury yield climbed to 5.14% from 5.09% late Friday. According to FactSet, analysts forecast 29% profit growth for S&P 500 companies from the prior summer.
-nut_graf: Most U.S. stocks outside AI and technology fell, leaving the market’s gains concentrated in the AI-led rebound. Much of the spending on AI chips and data centers has come from borrowed money, and company reports later in the week could provide more detail on the strength of AI-related spending.
+lede: AI-related stocks lifted the S&P 500 0.4% and the Nasdaq composite 1.1% Monday,
+  while the Dow Jones Industrial Average slipped 0.1%. European indexes fell more
+  than 1% after French protests over the rising cost of living and poor school conditions,
+  and government bond yields rose worldwide. AP reported that the U.S. 10-year Treasury
+  yield climbed to 5.14% from 5.09% late Friday. According to FactSet, analysts forecast
+  29% profit growth for S&P 500 companies from the prior summer.
+nut_graf: Most U.S. stocks outside AI and technology fell, leaving the market’s gains
+  concentrated in the AI-led rebound. Much of the spending on AI chips and data centers
+  has come from borrowed money, and company reports later in the week could provide
+  more detail on the strength of AI-related spending.
 primary_entities:
 - Associated Press
 - S&P 500
@@ -60,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -76,7 +86,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-10-19'
-  caption: Federal Reserve Economic Data's raw daily 10-year Treasury yield observation was 5.09% on Oct. 19, 2026. AP separately reported that the 10-year Treasury yield reached 5.14%, up from 5.09% late Friday.
+  caption: Federal Reserve Economic Data's raw daily 10-year Treasury yield observation
+    was 5.09% on Oct. 19, 2026. AP separately reported that the 10-year Treasury yield
+    reached 5.14%, up from 5.09% late Friday.
 figures_aggregate:
   count: 1
   series_ids:
@@ -170,104 +182,43 @@ related_stories:
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8569
-- slug: 2026-10-23-brent-crude-settles-at-116-72-as-wall-street-closes-broadly-lower
-  headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
-  publish_date: '2026-10-23'
+  strength: 0.8557
+- slug: 2026-10-27-nvidia-advances-2-4-as-asian-indexes-diverge
+  headline: Nvidia advances 2.4% as Asian indexes diverge
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7673
+  strength: 0.7669
 - slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
   headline: Wall Street advances as SpaceX beats summer profit expectations
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7667
+  strength: 0.7662
+- slug: 2026-10-23-brent-crude-settles-at-116-72-as-wall-street-closes-broadly-lower
+  headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.766
 - slug: 2026-10-23-ai-stocks-fall-overnight-before-japan-and-south-korea-trade-broadly-flat
   headline: AI stocks fall overnight before Japan and South Korea trade broadly flat
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7637
+  strength: 0.763
+- slug: 2026-10-27-most-asian-stocks-close-higher-after-nvidia-s-2-4-gain
+  headline: Most Asian stocks close higher after Nvidia's 2.4% gain
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.756
 - slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
   headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.7931
+  strength: 0.7922
 - slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
   headline: Tech shares tumble as AI rally doubts grip Wall Street
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7612
-- slug: 2026-05-20-us-stocks-slip-further-from-records-as-bond-yields-climb-oil-eases
-  headline: US stocks slip further from records as bond yields climb, oil eases
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7684
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7544
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7624
-- slug: 2026-05-20-us-stocks-rebound-as-yields-ease-and-oil-prices-pull-back
-  headline: US stocks rebound as yields ease and oil prices pull back
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7596
-- slug: 2026-05-21-us-stocks-recover-as-bond-pressure-eases-and-oil-gives-back-gains
-  headline: US stocks recover as bond pressure eases and oil gives back gains
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7585
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7853
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7561
-- slug: 2026-05-13-wall-street-s-record-run-stumbles-as-oil-jumps-and-ai-chip-stocks-slide
-  headline: Wall Street’s record run stumbles as oil jumps and AI chip stocks slide
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.756
-- slug: 2026-04-29-sinking-ai-stocks-and-rising-oil-prices-weigh-on-wall-street
-  headline: Sinking AI stocks and rising oil prices weigh on Wall Street
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7603
-- slug: 2026-05-18-us-stocks-slip-further-from-records-as-bond-yields-rise
-  headline: US stocks slip further from records as bond yields rise
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7479
-- slug: 2026-05-19-us-stocks-recover-as-bond-pressure-eases-and-oil-prices-fall
-  headline: US stocks recover as bond pressure eases and oil prices fall
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.746
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7709
-- slug: 2026-05-13-wall-street-s-record-run-halts-as-ai-chip-stocks-slide-and-oil-rises
-  headline: Wall Street’s record run halts as AI chip stocks slide and oil rises
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7486
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7668
+  strength: 0.7599
 ---
-
 ## Dow ends lower as AI shares rebound and European indexes retreat
 
 **Subtype:** fact

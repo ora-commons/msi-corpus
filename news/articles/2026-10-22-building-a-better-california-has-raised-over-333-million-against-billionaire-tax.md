@@ -1,9 +1,23 @@
 ---
-headline: Building a Better California has raised over $333 million against billionaire tax
-secondary_headline: Zuckerberg could owe more than $11 billion under California’s proposal
+headline: Building a Better California has raised over $333 million against billionaire
+  tax
+secondary_headline: Zuckerberg could owe more than $11 billion under California’s
+  proposal
 publish_date: '2026-10-22'
-lede: Building a Better California, a political action committee opposing California’s proposed wealth tax and backing other ballot measures designed to nullify it, has raised more than $333 million, with 30% of the money coming from Google co-founder Sergey Brin. By comparison, the “Yes on 40” campaign has raised $32.7 million. If voters approve the measure on Nov. 3, it would levy a one-time 5% tax on the wealth of people who had a primary residence in California as of Jan. 1, 2026, and whose net worth exceeds $1 billion; Forbes’ estimate that Mark Zuckerberg’s net worth exceeds $220 billion would put his liability above $11 billion.
-nut_graf: The fundraising totals show the scale of the campaign surrounding the measure before the Nov. 3 vote. If approved, the tax would apply to people who had a primary residence in California as of Jan. 1, 2026, and whose net worth exceeds $1 billion, while most revenue would backfill federal healthcare funding cuts and 10% would fund education and food assistance. Forbes estimates Mark Zuckerberg’s net worth at more than $220 billion, which would put his liability above $11 billion.
+lede: Building a Better California, a political action committee opposing California’s
+  proposed wealth tax and backing other ballot measures designed to nullify it, has
+  raised more than $333 million, with 30% of the money coming from Google co-founder
+  Sergey Brin. By comparison, the “Yes on 40” campaign has raised $32.7 million. If
+  voters approve the measure on Nov. 3, it would levy a one-time 5% tax on the wealth
+  of people who had a primary residence in California as of Jan. 1, 2026, and whose
+  net worth exceeds $1 billion; Forbes’ estimate that Mark Zuckerberg’s net worth
+  exceeds $220 billion would put his liability above $11 billion.
+nut_graf: The fundraising totals show the scale of the campaign surrounding the measure
+  before the Nov. 3 vote. If approved, the tax would apply to people who had a primary
+  residence in California as of Jan. 1, 2026, and whose net worth exceeds $1 billion,
+  while most revenue would backfill federal healthcare funding cuts and 10% would
+  fund education and food assistance. Forbes estimates Mark Zuckerberg’s net worth
+  at more than $220 billion, which would put his liability above $11 billion.
 primary_entities:
 - Building a Better California
 - Yes on 40
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,9 +167,10 @@ related_stories:
   headline: Proposition 40 aims to raise $100 billion for California health care
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8205
+  strength: 0.8203
 - slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8018
@@ -162,94 +178,34 @@ related_stories:
   headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.829
+  strength: 0.8289
 - slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
   headline: Zuckerberg commits to California stay for eight years under new Meta deal
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7469
+  strength: 0.7467
+- slug: 2026-10-27-estate-tax-liability-change-precedes-migration-among-forbes-400-billionaires
+  headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7301
 - slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
   headline: Meta reports 37% profit drop and 15% headcount cut
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7151
+- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
+  headline: California’s billionaire tax divides Democrats ahead of November vote
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7141
 - slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
-  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6749
-- slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
-  headline: Newsom backs Prop. 42 barring new California wealth taxes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7486
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.688
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7434
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7996
-- slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
-  headline: California AI Investment Draws $366 Billion, More Than Triple Other States
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6721
-- slug: 2026-08-23-becerra-faces-projected-doubling-of-uninsured-californians-by-2030
-  headline: Becerra faces projected doubling of uninsured Californians by 2030
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6484
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7823
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7419
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.696
-- slug: 2026-01-14-proposed-billionaire-tax-in-california-sparks-silicon-valley-uproar
-  headline: Proposed billionaire tax in California sparks Silicon Valley uproar
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7402
-- slug: 2026-06-01-tech-billionaires-pour-unprecedented-sums-into-california-races-ahead-of-primary
-  headline: Tech billionaires pour unprecedented sums into California races ahead of primary
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.702
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6665
-- slug: 2026-02-19-california-proposal-to-tax-billionaires-pits-newsom-against-sanders
-  headline: California proposal to tax billionaires pits Newsom against Sanders
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7098
-- slug: 2026-04-28-billionaire-tom-steyer-takes-on-the-rich-in-california-governor-race
-  headline: Billionaire Tom Steyer takes on the rich in California governor race
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6711
+  strength: 0.6747
 ---
-
 ## Building a Better California has raised over $333 million against billionaire tax
 
 **Subtype:** fact

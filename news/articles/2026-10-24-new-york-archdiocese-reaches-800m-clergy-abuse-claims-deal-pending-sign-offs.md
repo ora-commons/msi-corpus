@@ -2,8 +2,17 @@
 headline: New York archdiocese reaches $800M clergy-abuse claims deal, pending sign-offs
 secondary_headline: Every claimant must sign off before the parties sign the settlement
 publish_date: '2026-10-24'
-lede: The Archdiocese of New York and attorneys for about 1,300 parishioners who said they were sexually abused by clergy have reached an $800 million agreement over their legal claims. Archbishop Ronald Hicks said on Saturday that the deal will not become final until the parties sign it, with signing scheduled for the week of Nov. 6; the parties' May framework also required every claimant to sign off. The agreement would end more than seven years of lawsuits and rank second among U.S. archdiocese settlements involving clergy abuse claims.
-nut_graf: If completed, the agreement would resolve the legal claims of about 1,300 parishioners and end more than seven years of lawsuits in New York. At $800 million, it would rank behind only the Archdiocese of Los Angeles' 2024 settlement among U.S. archdiocese agreements over clergy abuse claims.
+lede: The Archdiocese of New York and attorneys for about 1,300 parishioners who said
+  they were sexually abused by clergy have reached an $800 million agreement over
+  their legal claims. Archbishop Ronald Hicks said on Saturday that the deal will
+  not become final until the parties sign it, with signing scheduled for the week
+  of Nov. 6; the parties' May framework also required every claimant to sign off.
+  The agreement would end more than seven years of lawsuits and rank second among
+  U.S. archdiocese settlements involving clergy abuse claims.
+nut_graf: If completed, the agreement would resolve the legal claims of about 1,300
+  parishioners and end more than seven years of lawsuits in New York. At $800 million,
+  it would rank behind only the Archdiocese of Los Angeles' 2024 settlement among
+  U.S. archdiocese agreements over clergy abuse claims.
 primary_entities:
 - Archdiocese of New York
 - Ronald Hicks
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +146,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-06-new-york-lawmakers-push-to-close-voluntary-intoxication-consent-gap
-  headline: New York lawmakers push to close 'voluntary intoxication' consent gap
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6236
 - slug: 2026-09-30-massachusetts-ag-finds-270-catholic-clerics-abused-nearly-1-000-children
   headline: Massachusetts AG finds 270+ Catholic clerics abused nearly 1,000 children
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6538
+  strength: 0.6544
 - slug: 2026-09-16-new-orleans-priest-accused-of-deaf-community-abuse-dies-at-87
   headline: New Orleans priest accused of deaf-community abuse dies at 87
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6593
+  strength: 0.6603
 - slug: 2026-08-28-new-orleans-catholic-abuse-survivors-call-bankruptcy-amounts-a-farce
   headline: New Orleans Catholic abuse survivors call bankruptcy amounts 'a farce'
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7091
-- slug: 2026-09-18-nyu-langone-upmc-settle-with-doj-to-halt-pediatric-gender-care
-  headline: NYU Langone, UPMC settle with DOJ to halt pediatric gender care
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.634
+  strength: 0.7093
 - slug: 2026-06-29-san-francisco-archdiocese-to-pay-395m-to-settle-abuse-claims
   headline: San Francisco archdiocese to pay $395M to settle abuse claims
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7689
-- slug: 2026-08-27-california-lawmakers-weigh-liability-caps-as-abuse-claims-drive-billions-in-cost
-  headline: California lawmakers weigh liability caps as abuse claims drive billions in costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6348
+  strength: 0.7692
 - slug: 2026-02-19-new-jersey-diocese-to-pay-180-million-in-clergy-abuse-settlement-ap-says
-  headline: New Jersey diocese to pay $180 million in clergy abuse settlement, AP says
+  headline: New Jersey diocese to pay $180 million in clergy abuse settlement, AP
+    says
   publish_date: '2026-02-19'
   relation: related
   strength: 0.7854
-- slug: 2026-09-02-christian-law-enforcement-fellowship-drops-convicted-ex-deputy-chaplain
-  headline: Christian Law Enforcement Fellowship drops convicted ex-deputy chaplain
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6121
 - slug: 2026-02-19-new-jersey-diocese-of-camden-agrees-to-180m-clergy-abuse-settlement
   headline: New Jersey Diocese of Camden agrees to $180M clergy abuse settlement
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.7837
-- slug: 2026-08-31-former-san-diego-deputy-convicted-of-sex-crimes-now-works-as-police-chaplain
-  headline: Former San Diego deputy convicted of sex crimes now works as police chaplain
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6142
-- slug: 2026-07-27-weill-cornell-medicine-agrees-to-abuse-prevention-deal-after-doctor-s-conviction
-  headline: Weill Cornell Medicine agrees to abuse prevention deal after doctor's conviction
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6149
+  strength: 0.7841
 - slug: 2026-06-05-jesuit-school-in-new-orleans-agrees-to-seven-figure-abuse-settlement
   headline: Jesuit school in New Orleans agrees to seven-figure abuse settlement
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6623
+  strength: 0.6622
 - slug: 2026-03-31-spain-signs-deal-on-church-clergy-sex-abuse-victim-compensation
   headline: Spain signs deal on church clergy sex-abuse victim compensation
   publish_date: '2026-03-31'
   relation: related
-  strength: 0.684
-- slug: 2026-07-01-supreme-court-leaves-400-000-fine-in-place-against-lawyer-who-flagged-priest-s-p
-  headline: Supreme Court leaves $400,000 fine in place against lawyer who flagged priest's past
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6338
-- slug: 2026-03-05-what-to-know-about-the-child-abuse-investigation-into-catholic-priests
-  headline: What to know about the child abuse investigation into Catholic priests
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6709
-- slug: 2026-06-02-texas-jury-to-decide-sentence-for-catholic-priest-convicted-of-sexual-assault
-  headline: Texas jury to decide sentence for Catholic priest convicted of sexual assault
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.632
-- slug: 2026-06-04-ohio-state-agrees-to-100m-settlement-with-279-strauss-abuse-victims
-  headline: Ohio State agrees to $100M settlement with 279 Strauss abuse victims
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6275
-- slug: 2026-03-04-rhode-island-ag-report-finds-75-priests-abused-more-than-300-children-since-1950
-  headline: Rhode Island AG report finds 75 priests abused more than 300 children since 1950
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6411
-- slug: 2026-03-02-nyc-paid-117m-in-2025-police-misconduct-settlements-analysis-finds
-  headline: NYC paid $117M in 2025 police misconduct settlements, analysis finds
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6375
+  strength: 0.6842
 ---
-
 ## New York archdiocese reaches $800M clergy-abuse claims deal, pending sign-offs
 
 **Subtype:** fact

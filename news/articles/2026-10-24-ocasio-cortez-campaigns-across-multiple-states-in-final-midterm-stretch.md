@@ -2,8 +2,18 @@
 headline: Ocasio-Cortez campaigns across multiple states in final midterm stretch
 secondary_headline: Ocasio-Cortez draws sizable crowds in Michigan, Maine and Ohio
 publish_date: '2026-10-24'
-lede: Alexandria Ocasio-Cortez campaigned across Michigan, Maine, Ohio, California and Nevada during the final stretch before the Nov. 3 midterms, testing whether her progressive message can help Democrats in competitive 2026 House and Senate races. She packed rooms in Michigan, attracted a filled hall and hundreds of students in Maine, and drew hundreds of students in Ohio while also campaigning in California and Nevada.
-nut_graf: 'The campaign stops give Ocasio-Cortez a test before the Nov. 3 midterms: whether her national following and progressive politics can help competitive House and Senate candidates while she weighs a possible White House or Senate run. Large audiences greeted her in Michigan, Maine and Ohio, but former Rep. Fred Upton and former Bill Clinton adviser Doug Sosnik questioned whether that appeal extends beyond the Democratic base.'
+lede: Alexandria Ocasio-Cortez campaigned across Michigan, Maine, Ohio, California
+  and Nevada during the final stretch before the Nov. 3 midterms, testing whether
+  her progressive message can help Democrats in competitive 2026 House and Senate
+  races. She packed rooms in Michigan, attracted a filled hall and hundreds of students
+  in Maine, and drew hundreds of students in Ohio while also campaigning in California
+  and Nevada.
+nut_graf: 'The campaign stops give Ocasio-Cortez a test before the Nov. 3 midterms:
+  whether her national following and progressive politics can help competitive House
+  and Senate candidates while she weighs a possible White House or Senate run. Large
+  audiences greeted her in Michigan, Maine and Ohio, but former Rep. Fred Upton and
+  former Bill Clinton adviser Doug Sosnik questioned whether that appeal extends beyond
+  the Democratic base.'
 primary_entities:
 - Alexandria Ocasio-Cortez
 - Bernie Sanders
@@ -57,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,110 +166,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-ocasio-cortez-changes-campaign-strategy-as-some-dsa-members-question-her-path
+  headline: Ocasio-Cortez changes campaign strategy as some DSA members question her
+    path
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7779
+- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
+  headline: Arkansas Democrats push affordability message in final midterm stretch
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6919
+- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
+  headline: Candidates campaign directly with rural voters in the midterms
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6711
 - slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
   headline: Former President Obama criticizes Trump at Ohio midterm rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6608
+  strength: 0.6648
 - slug: 2026-10-24-obama-campaigns-for-democrats-as-trump-casts-an-early-vote
   headline: Obama campaigns for Democrats as Trump casts an early vote
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.656
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
+  strength: 0.6603
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6425
-- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6386
-- slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
-  headline: Populist Democrats make the affordability pitch in red-state races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6445
+  strength: 0.6529
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6587
+  strength: 0.6623
 - slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
   headline: Ten midterm races outside the spotlight carry upset potential
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6561
-- slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
-  headline: Democratic Senate candidates split on Medicare for All ahead of midterms
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.645
-- slug: 2026-10-12-marine-veteran-mendoza-challenges-ciscomani-in-arizona-6th-district-race
-  headline: Marine veteran Mendoza challenges Ciscomani in Arizona 6th District race
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6384
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6429
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6615
-- slug: 2026-09-22-ocasio-cortez-leaves-2028-challenge-to-schumer-unresolved
-  headline: Ocasio-Cortez leaves 2028 challenge to Schumer unresolved
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7132
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.639
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6545
-- slug: 2026-09-24-newsom-urges-democrats-to-link-climate-change-to-kitchen-table-costs
-  headline: Newsom urges Democrats to link climate change to kitchen-table costs
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.639
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6495
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6549
-- slug: 2026-07-02-el-sayed-earns-ocasio-cortez-endorsement-in-michigan-senate-primary
-  headline: El-Sayed earns Ocasio-Cortez endorsement in Michigan Senate primary
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.687
-- slug: 2026-07-21-august-primaries-in-michigan-and-minnesota-test-democratic-division
-  headline: August primaries in Michigan and Minnesota test Democratic division
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6504
-- slug: 2026-05-16-democrats-test-red-state-strategy-backing-independents-over-own-nominees
-  headline: 'Democrats test red-state strategy: backing independents over own nominees'
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6587
+  strength: 0.6582
 analyses:
-- '2026-10-24-ocasio-cortez-s-tour-demonstrates-portable-attention-not-coalition-transfer'
+- 2026-10-24-ocasio-cortez-s-tour-demonstrates-portable-attention-not-coalition-transfer
 ---
-
 ## Ocasio-Cortez campaigns across multiple states in final midterm stretch
 
 **Subtype:** fact

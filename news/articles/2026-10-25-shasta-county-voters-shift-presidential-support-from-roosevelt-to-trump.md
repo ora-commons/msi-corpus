@@ -1,9 +1,23 @@
 ---
 headline: Shasta County voters shift presidential support from Roosevelt to Trump
-secondary_headline: Shasta's disputes span industrial decline, election administration and rural health
+secondary_headline: Shasta's disputes span industrial decline, election administration
+  and rural health
 publish_date: '2026-10-25'
-lede: Shasta County voters backed Franklin D. Roosevelt by just over 72% in 1932, while roughly two-thirds backed Donald Trump in 2016, 2020 and 2024, according to The Guardian's Oct. 25, 2026 examination. The Guardian documented the county's industrial contraction and political transformation; historian Richard Walker separately assessed that government aid waned as factories, lumber mills and mines closed. The Guardian also documented some local officials' unsupported claims of election interference. Local Democrats are seeking greater state-party resources, more organizing and community programs; Walker called for major public investment. A redistricting measure called Prop 50 could give the region its first Democratic representative in Congress in nearly 50 years.
-nut_graf: The Guardian presents Shasta as a case study in the Democratic Party's effort to regain rural, working-class voters amid industrial contraction and changes in the party's coalition. The county's present political conflicts include election administration, expected federal Medicaid and rural-health reductions, and a redistricting measure that could alter congressional representation.
+lede: Shasta County voters backed Franklin D. Roosevelt by just over 72% in 1932,
+  while roughly two-thirds backed Donald Trump in 2016, 2020 and 2024, according to
+  The Guardian's Oct. 25, 2026 examination. The Guardian documented the county's industrial
+  contraction and political transformation; historian Richard Walker separately assessed
+  that government aid waned as factories, lumber mills and mines closed. The Guardian
+  also documented some local officials' unsupported claims of election interference.
+  Local Democrats are seeking greater state-party resources, more organizing and community
+  programs; Walker called for major public investment. A redistricting measure called
+  Prop 50 could give the region its first Democratic representative in Congress in
+  nearly 50 years.
+nut_graf: The Guardian presents Shasta as a case study in the Democratic Party's effort
+  to regain rural, working-class voters amid industrial contraction and changes in
+  the party's coalition. The county's present political conflicts include election
+  administration, expected federal Medicaid and rural-health reductions, and a redistricting
+  measure that could alter congressional representation.
 primary_entities:
 - Shasta County
 - California
@@ -44,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +158,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6703
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6278
-- slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
-  headline: Only one of 54 Republican economy ads in the closest races mentions Trump
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6161
-- slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
-  headline: Populist Democrats make the affordability pitch in red-state races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6409
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6136
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6239
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6279
+  strength: 0.6699
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6525
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.628
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6166
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-29-trump-approval-hits-record-lows-as-2024-backers-break-with-president
-  headline: Trump approval hits record lows as 2024 backers break with president
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6195
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6354
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6167
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6362
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.626
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6237
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6134
-- slug: 2026-08-12-tennessee-munitions-town-backs-trump-as-national-approval-falls
-  headline: Tennessee munitions town backs Trump as national approval falls
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6292
-- slug: 2026-08-13-most-nevada-swing-voters-say-they-won-t-dismiss-socialist-candidates
-  headline: Most Nevada swing voters say they won't dismiss socialist candidates
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6217
+  strength: 0.6527
 ---
-
 ## Shasta County voters shift presidential support from Roosevelt to Trump
 
 **Subtype:** fact

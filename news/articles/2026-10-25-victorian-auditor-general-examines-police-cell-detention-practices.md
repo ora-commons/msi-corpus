@@ -1,9 +1,18 @@
 ---
 headline: Victorian auditor-general examines police-cell detention practices
-secondary_headline: Vago's audit statement describes transfers, missed hearings and limited access to lawyers
+secondary_headline: Vago's audit statement describes transfers, missed hearings and
+  limited access to lawyers
 publish_date: '2026-10-25'
-lede: The Victorian auditor-general is auditing police-cell detention after Guardian Australia reported that holding people in cells routinely breached police guidelines. Vago said the review would examine whether Victoria Police and the Department of Justice manage prison and police-cell capacity in a way that supports human rights and the efficient functioning of the justice system.
-nut_graf: The review centers on transfers between stations when police cells fill, including journeys of hundreds of kilometres. Vago said the transfers can mean people miss court appearances and lack easy access to lawyers and health services. The audit is expected to be tabled early next year, while recent bail reforms are likely to increase pressure on prison beds and staff capacity.
+lede: The Victorian auditor-general is auditing police-cell detention after Guardian
+  Australia reported that holding people in cells routinely breached police guidelines.
+  Vago said the review would examine whether Victoria Police and the Department of
+  Justice manage prison and police-cell capacity in a way that supports human rights
+  and the efficient functioning of the justice system.
+nut_graf: The review centers on transfers between stations when police cells fill,
+  including journeys of hundreds of kilometres. Vago said the transfers can mean people
+  miss court appearances and lack easy access to lawyers and health services. The
+  audit is expected to be tabled early next year, while recent bail reforms are likely
+  to increase pressure on prison beds and staff capacity.
 primary_entities:
 - Vago
 - Victoria Police
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,109 +143,8 @@ cross_article_links:
   strength: 0.5627
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-09-comcare-warns-of-likely-safety-law-breach-at-australian-detention-centres
-  headline: Comcare warns of likely safety-law breach at Australian detention centres
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6332
-- slug: 2026-09-28-victoria-police-apologise-over-2023-custody-death-at-broadmeadows-station
-  headline: Victoria Police apologise over 2023 custody death at Broadmeadows station
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6177
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5928
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6022
-- slug: 2026-09-18-australia-to-reopen-visa-overstayer-detention-greens-liken-it-to-trump
-  headline: Australia to reopen visa overstayer detention, Greens liken it to Trump
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6433
-- slug: 2026-09-22-uk-to-examine-domestic-abuse-in-hague-child-abduction-cases
-  headline: UK to examine domestic abuse in Hague child-abduction cases
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.612
-- slug: 2026-09-17-u-n-experts-document-64-torture-cases-in-venezuela-since-maduro-removal
-  headline: U.N. experts document 64 torture cases in Venezuela since Maduro removal
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5933
-- slug: 2026-09-11-nsw-police-settle-trespass-case-after-150-bail-checks-at-aboriginal-mother-s-hom
-  headline: NSW police settle trespass case after 150 bail checks at Aboriginal mother's home
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.59
-- slug: 2026-06-26-un-demands-independent-investigations-into-deaths-in-us-immigration-custody
-  headline: UN demands independent investigations into deaths in US immigration custody
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6065
-- slug: 2026-01-24-chinese-asylum-seeker-who-exposed-xinjiang-abuses-fights-deportation
-  headline: Chinese asylum seeker who exposed Xinjiang abuses fights deportation
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6366
-- slug: 2026-05-27-ice-detainees-dying-by-suicide-at-an-alarming-rate-ap-investigation-finds
-  headline: ICE detainees dying by suicide at an alarming rate, AP investigation finds
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6051
-- slug: 2026-03-20-texas-jails-miss-release-deadlines-leaving-inmates-held-past-sentences
-  headline: Texas jails miss release deadlines, leaving inmates held past sentences
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6267
-- slug: 2026-03-13-immigration-lawyers-accuse-vermont-prisons-of-impeding-legal-access
-  headline: Immigration lawyers accuse Vermont prisons of impeding legal access
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6243
-- slug: 2026-05-08-overflowing-idaho-prisons-send-women-with-good-behavior-to-the-hole
-  headline: Overflowing Idaho prisons send women with good behavior to “the hole”
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6072
-- slug: 2026-04-28-washington-sues-to-force-geo-group-to-allow-health-inspectors-into-tacoma-ice-ja
-  headline: Washington sues to force Geo Group to allow health inspectors into Tacoma ICE jail
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6032
-- slug: 2026-02-05-assaults-on-prison-staff-have-increased-in-michigan-union-says
-  headline: Assaults on prison staff have increased in Michigan, union says
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6114
-- slug: 2026-02-21-venezuela-begins-releasing-political-prisoners-under-amnesty-law
-  headline: Venezuela begins releasing political prisoners under amnesty law
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6072
-- slug: 2026-02-03-vermont-weighs-locked-facility-for-defendants-found-incompetent-to-stand-trial
-  headline: Vermont weighs locked facility for defendants found incompetent to stand trial
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6081
-- slug: 2026-03-14-federal-order-seeks-major-capacity-increase-at-proposed-arizona-ice-center
-  headline: Federal order seeks major capacity increase at proposed Arizona ICE center
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.601
-- slug: 2026-03-04-bill-to-establish-statewide-jail-oversight-in-washington-dies-in-legislature
-  headline: Bill to establish statewide jail oversight in Washington dies in legislature
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6012
+related_stories: []
 ---
-
 ## Victorian auditor-general examines police-cell detention practices
 
 **Subtype:** fact

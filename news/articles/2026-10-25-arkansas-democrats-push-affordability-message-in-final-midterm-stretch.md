@@ -1,9 +1,22 @@
 ---
 headline: Arkansas Democrats push affordability message in final midterm stretch
-secondary_headline: Arkansas Democrats face millions in spending and Cook's Republican ratings
+secondary_headline: Arkansas Democrats face millions in spending and Cook's Republican
+  ratings
 publish_date: '2026-10-25'
-lede: Democratic Senate candidate Hallie Shoffner and other Arkansas Democrats are crisscrossing the state with a message focused on affordability, anti-incumbency and dissatisfaction with the Trump administration as the 2026 midterm election enters its final days. An NPR poll found that voters wanted Congress to act as a check on Trump and trusted Democrats more on issues. Republicans have pre-emptively poured millions into the Senate and 2nd Congressional District races and mounted robust get-out-the-vote efforts, while the Cook Political Report rates the Senate contest Solid Republican and the House seat Likely Republican.
-nut_graf: The Arkansas contests test whether economic pressure, anti-incumbency sentiment and voters’ willingness to cross party lines can produce gains in a state with a strong Republican voting history. NPR’s poll found that voters wanted Congress to act as a check on Trump and trusted Democrats more on issues. Shoffner and Chris Jones are making affordability the common theme, but they face millions in pre-emptive Republican spending and forecasts that rate both races Republican.
+lede: Democratic Senate candidate Hallie Shoffner and other Arkansas Democrats are
+  crisscrossing the state with a message focused on affordability, anti-incumbency
+  and dissatisfaction with the Trump administration as the 2026 midterm election enters
+  its final days. An NPR poll found that voters wanted Congress to act as a check
+  on Trump and trusted Democrats more on issues. Republicans have pre-emptively poured
+  millions into the Senate and 2nd Congressional District races and mounted robust
+  get-out-the-vote efforts, while the Cook Political Report rates the Senate contest
+  Solid Republican and the House seat Likely Republican.
+nut_graf: The Arkansas contests test whether economic pressure, anti-incumbency sentiment
+  and voters’ willingness to cross party lines can produce gains in a state with a
+  strong Republican voting history. NPR’s poll found that voters wanted Congress to
+  act as a check on Trump and trusted Democrats more on issues. Shoffner and Chris
+  Jones are making affordability the common theme, but they face millions in pre-emptive
+  Republican spending and forecasts that rate both races Republican.
 primary_entities:
 - Hallie Shoffner
 - Chris Jones
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,106 +160,47 @@ related_stories:
   headline: Economic populism gains ground as both parties court midterm voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6968
+  strength: 0.6978
+- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6893
 - slug: 2026-10-24-ocasio-cortez-campaigns-across-multiple-states-in-final-midterm-stretch
   headline: Ocasio-Cortez campaigns across multiple states in final midterm stretch
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6928
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6853
+  strength: 0.6923
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7312
+  strength: 0.731
 - slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6872
+  strength: 0.6876
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7137
+  strength: 0.7133
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6985
+  strength: 0.6987
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
   strength: 0.7442
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7119
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7063
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7141
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7139
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7223
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6936
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7192
-- slug: 2026-08-28-democrats-push-affordability-republicans-spotlight-dsa-in-fall-sprint
-  headline: Democrats push affordability, Republicans spotlight DSA in fall sprint
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7089
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.689
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7048
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6864
-- slug: 2026-03-02-arkansas-voters-head-to-tuesday-primaries-with-key-federal-and-state-contests
-  headline: Arkansas voters head to Tuesday primaries with key federal and state contests
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7466
 analyses:
-- '2026-10-25-arkansas-democrats-test-a-conditional-conversion-path-through-affordability'
+- 2026-10-25-arkansas-democrats-test-a-conditional-conversion-path-through-affordability
 ---
-
 ## Arkansas Democrats push affordability message in final midterm stretch
 
 **Subtype:** fact

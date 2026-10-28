@@ -2,8 +2,15 @@
 headline: California’s billionaire tax divides Democrats ahead of November vote
 secondary_headline: Labor unions split as ballot campaigns spend over $300 million
 publish_date: '2026-10-26'
-lede: California voters will decide on Nov. 3 whether to approve a proposed one-time, 5% wealth tax on residents with net assets of $1 billion or more. Proponents estimate the measure could raise about $100 billion from between 200 and 300 California billionaires. The campaign has exposed deep divisions among California Democrats and labor unions.
-nut_graf: The ballot fight has drawn more than $300 million across three initiatives, with roughly 90% of the money aimed at defeating the tax. A federal lawsuit and two outside investigations have also brought allegations of pressure, harassment and extortion into the campaign involving the union that placed the measure on the ballot.
+lede: California voters will decide on Nov. 3 whether to approve a proposed one-time,
+  5% wealth tax on residents with net assets of $1 billion or more. Proponents estimate
+  the measure could raise about $100 billion from between 200 and 300 California billionaires.
+  The campaign has exposed deep divisions among California Democrats and labor unions.
+nut_graf: The ballot fight has drawn more than $300 million across three initiatives,
+  with roughly 90% of the money aimed at defeating the tax. A federal lawsuit and
+  two outside investigations have also brought allegations of pressure, harassment
+  and extortion into the campaign involving the union that placed the measure on the
+  ballot.
 primary_entities:
 - California
 - Gavin Newsom
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,27 +148,34 @@ related_stories:
   headline: Proposition 40 aims to raise $100 billion for California health care
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7506
+  strength: 0.7509
 - slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
   headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
   publish_date: '2026-10-16'
   relation: related
   strength: 0.7927
 - slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
-  headline: Building a Better California has raised over $333 million against billionaire tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7438
+  strength: 0.7443
 - slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
   headline: Newsom backs Prop. 42 barring new California wealth taxes
   publish_date: '2026-10-10'
   relation: related
   strength: 0.8029
 - slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7268
+  strength: 0.7272
+- slug: 2026-10-27-estate-tax-liability-change-precedes-migration-among-forbes-400-billionaires
+  headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6891
 - slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
   headline: Washington millionaire tax faces November repeal vote
   publish_date: '2026-10-07'
@@ -170,74 +185,8 @@ related_stories:
   headline: California Democrats endorse one-time 5% tax on billionaires
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.8342
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.8662
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.8512
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.8185
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.8173
-- slug: 2026-01-14-proposed-billionaire-tax-in-california-sparks-silicon-valley-uproar
-  headline: Proposed billionaire tax in California sparks Silicon Valley uproar
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.8117
-- slug: 2026-02-19-california-proposal-to-tax-billionaires-pits-newsom-against-sanders
-  headline: California proposal to tax billionaires pits Newsom against Sanders
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7981
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6956
-- slug: 2026-06-02-california-governor-primary-exposes-deep-democratic-divide
-  headline: California governor primary exposes deep Democratic divide
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6809
-- slug: 2026-06-01-tech-billionaires-pour-unprecedented-sums-into-california-races-ahead-of-primary
-  headline: Tech billionaires pour unprecedented sums into California races ahead of primary
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6803
-- slug: 2026-06-04-tech-backed-candidates-advance-in-california-primary-despite-mahan-loss
-  headline: Tech-backed candidates advance in California primary despite Mahan loss
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6757
-- slug: 2026-01-15-federal-medi-cal-cuts-force-california-to-weigh-tax-increases-or-coverage-losses
-  headline: Federal Medi-Cal cuts force California to weigh tax increases or coverage losses
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7102
-- slug: 2026-05-07-california-governor-candidates-spar-on-taxes-trump-and-healthcare-in-debate
-  headline: California governor candidates spar on taxes, Trump and healthcare in debate
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6823
-- slug: 2026-03-12-blue-states-consider-tax-on-millionaires-to-help-fund-vital-services
-  headline: Blue states consider tax on millionaires to help fund vital services
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.697
+  strength: 0.8348
 ---
-
 ## California’s billionaire tax divides Democrats ahead of November vote
 
 **Subtype:** fact

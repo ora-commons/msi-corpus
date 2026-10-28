@@ -1,9 +1,18 @@
 ---
 headline: RACGP survey finds all GP care bulk-billed for 63% of Australians
-secondary_headline: Wright points to greater affordability; one-third still could not see a GP when needed
+secondary_headline: Wright points to greater affordability; one-third still could
+  not see a GP when needed
 publish_date: '2026-10-25'
-lede: A Royal Australian College of General Practitioners report found that 63% of Australians are now bulk-billed for all their general-practice care, up from 56% in both 2024 and 2025. The report said the increase was likely a reflection of federal investment in Medicare bulk-billing incentives, but the patient share remained below the 70% recorded in 2019.
-nut_graf: RACGP president Michael Wright said the findings indicated greater affordability, while Australian Bureau of Statistics data showed fewer people delaying care because of cost. Wright and health economist Luke Slawomirski nevertheless said bulk-billing rates alone could not establish timely access, quality of care or patient outcomes; Slawomirski said one-third of patients still could not see a GP when needed.
+lede: A Royal Australian College of General Practitioners report found that 63% of
+  Australians are now bulk-billed for all their general-practice care, up from 56%
+  in both 2024 and 2025. The report said the increase was likely a reflection of federal
+  investment in Medicare bulk-billing incentives, but the patient share remained below
+  the 70% recorded in 2019.
+nut_graf: RACGP president Michael Wright said the findings indicated greater affordability,
+  while Australian Bureau of Statistics data showed fewer people delaying care because
+  of cost. Wright and health economist Luke Slawomirski nevertheless said bulk-billing
+  rates alone could not establish timely access, quality of care or patient outcomes;
+  Slawomirski said one-third of patients still could not see a GP when needed.
 primary_entities:
 - Royal Australian College of General Practitioners
 - Michael Wright
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +150,8 @@ cross_article_links:
   strength: 0.5966
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-kff-finds-family-health-insurance-premiums-average-28-000
-  headline: KFF finds family health insurance premiums average $28,000
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6161
-- slug: 2026-10-22-small-business-workers-pay-more-as-employer-health-premiums-climb
-  headline: Small-business workers pay more as employer health premiums climb
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6062
-- slug: 2026-10-14-greens-coalition-block-australian-bill-cutting-over-65s-health-rebate
-  headline: Greens, Coalition block Australian bill cutting over-65s health rebate
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.607
-- slug: 2026-10-12-ai-billing-tools-expand-into-growing-us-medical-debt
-  headline: AI billing tools expand into growing US medical debt
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5889
-- slug: 2026-10-12-wgea-says-flexible-management-could-narrow-australia-s-gender-pay-gap
-  headline: WGEA says flexible management could narrow Australia's gender pay gap
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5839
-- slug: 2026-09-30-australian-inflation-rises-to-4-in-august-abs-says
-  headline: Australian inflation rises to 4% in August, ABS says
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6197
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5824
-- slug: 2026-09-28-rba-widely-expected-to-raise-cash-rate-to-4-6-on-tuesday
-  headline: RBA widely expected to raise cash rate to 4.6% on Tuesday
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5938
-- slug: 2026-09-28-royal-life-saving-reports-30-drownings-in-2025-26-decade-s-highest
-  headline: Royal Life Saving reports 30 drownings in 2025-26, decade's highest
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5811
-- slug: 2026-09-23-e61-53-of-australian-property-investors-would-pay-more-under-labor-reforms
-  headline: 'e61: 53% of Australian property investors would pay more under Labor reforms'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5899
-- slug: 2026-09-20-australian-life-expectancy-forecast-to-reach-89-for-women-by-2066
-  headline: Australian life expectancy forecast to reach 89 for women by 2066
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.593
-- slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
-  headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5903
-- slug: 2026-09-09-rba-s-three-2026-hikes-have-not-returned-inflation-to-2-5-target-deputy-governor
-  headline: RBA's three 2026 hikes have not returned inflation to 2.5% target, deputy governor says
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5867
-- slug: 2026-07-22-progressive-democrats-hold-medicare-for-all-hearing-as-uninsured-ranks-grow
-  headline: Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5981
-- slug: 2026-06-18-poll-finds-only-half-of-americans-can-afford-quality-health-care
-  headline: Poll finds only half of Americans can afford quality health care
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5981
-- slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
-  headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.583
-- slug: 2026-06-16-australian-health-ai-startup-everlab-raises-46m-from-airtree
-  headline: Australian health AI startup Everlab raises $46M from Airtree
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5889
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
-  headline: ACA enrollment projected to drop by nearly 5 million as costs spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6059
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-rise
-  headline: ACA enrollment projected to drop by nearly 5 million as costs rise
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6014
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6057
+related_stories: []
 ---
-
 ## RACGP survey finds all GP care bulk-billed for 63% of Australians
 
 **Subtype:** fact

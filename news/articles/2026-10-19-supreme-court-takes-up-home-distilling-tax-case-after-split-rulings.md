@@ -2,8 +2,16 @@
 headline: Supreme Court takes up home-distilling tax case after split rulings
 secondary_headline: Fifth Circuit sided with Hobby Distillers Association members
 publish_date: '2026-10-19'
-lede: The U.S. Supreme Court agreed Monday to review a Fifth Circuit ruling that favored Hobby Distillers Association members after federal appeals courts issued conflicting decisions on an 1868 home-distilling ban 11 days apart. A Sixth Circuit panel upheld the ban, while the Fifth Circuit held the prohibition outside Congress' taxing power; the Supreme Court chose the Fifth Circuit decision for review, as the Justice Department preferred.
-nut_graf: The review asks whether Congress' taxing power permits a Reconstruction-era restriction on distilling inside private homes. Plaintiffs say the law exceeds federal authority and could support broader limits on private conduct, while the Justice Department says location restrictions prevented tax evasion and government inspections.
+lede: The U.S. Supreme Court agreed Monday to review a Fifth Circuit ruling that favored
+  Hobby Distillers Association members after federal appeals courts issued conflicting
+  decisions on an 1868 home-distilling ban 11 days apart. A Sixth Circuit panel upheld
+  the ban, while the Fifth Circuit held the prohibition outside Congress' taxing power;
+  the Supreme Court chose the Fifth Circuit decision for review, as the Justice Department
+  preferred.
+nut_graf: The review asks whether Congress' taxing power permits a Reconstruction-era
+  restriction on distilling inside private homes. Plaintiffs say the law exceeds federal
+  authority and could support broader limits on private conduct, while the Justice
+  Department says location restrictions prevented tax evasion and government inspections.
 primary_entities:
 - U.S. Supreme Court
 - Congress
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +152,21 @@ related_stories:
   headline: U.S. Supreme Court to hear challenge to federal home-distilling ban
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8373
-- slug: 2026-09-23-fda-plans-to-speed-authorization-of-flavored-vapes-and-nicotine-pouches
-  headline: FDA plans to speed authorization of flavored vapes and nicotine pouches
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5602
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5597
-- slug: 2026-09-03-supreme-court-ballroom-ruling-highlights-standing-hurdle-for-trump-challengers
-  headline: Supreme Court ballroom ruling highlights standing hurdle for Trump challengers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5708
-- slug: 2026-08-07-california-craft-distillers-face-losing-home-delivery-unless-lawmakers-act
-  headline: California craft distillers face losing home delivery unless lawmakers act
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6021
-- slug: 2026-08-18-canadian-provinces-u-s-alcohol-bans-stall-bilateral-trade-talks
-  headline: Canadian provinces' U.S. alcohol bans stall bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5711
-- slug: 2026-08-07-supreme-court-weighs-trump-bid-to-restrict-mail-in-voting
-  headline: Supreme Court weighs Trump bid to restrict mail-in voting
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.583
-- slug: 2026-07-28-appeals-court-rules-challenge-to-trump-mail-voting-order-premature
-  headline: Appeals court rules challenge to Trump mail voting order premature
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5607
-- slug: 2026-07-01-supreme-court-to-weigh-gop-bid-to-shrink-voter-roll-purge-ban
-  headline: Supreme Court to weigh GOP bid to shrink voter roll purge ban
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5701
-- slug: 2026-06-18-supreme-court-rules-government-cannot-automatically-bar-all-drug-users-from-owni
-  headline: Supreme Court rules government cannot automatically bar all drug users from owning guns
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5825
-- slug: 2026-06-26-hawaii-gun-ruling-draws-praise-from-rights-groups-warnings-from-experts
-  headline: Hawaii gun ruling draws praise from rights groups, warnings from experts
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5704
-- slug: 2026-06-25-supreme-court-strikes-down-hawaii-s-gun-restrictions-on-private-property
-  headline: Supreme Court strikes down Hawaii's gun restrictions on private property
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5669
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5643
-- slug: 2026-06-10-supreme-court-debates-which-founding-fathers-were-drunks
-  headline: Supreme Court Debates Which Founding Fathers Were Drunks
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5775
-- slug: 2026-05-18-supreme-court-likely-to-strike-down-hawaii-gun-restrictions
-  headline: Supreme Court likely to strike down Hawaii gun restrictions
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5741
-- slug: 2026-05-19-supreme-court-sends-native-american-voting-rights-case-back-to-lower-court
-  headline: Supreme Court sends Native American voting rights case back to lower court
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.572
-- slug: 2026-04-09-texas-hemp-industry-sues-to-block-smokeable-hemp-ban-and-higher-fees
-  headline: Texas hemp industry sues to block smokeable hemp ban and higher fees
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5842
-- slug: 2026-04-25-trump-reclassifies-medical-marijuana-to-schedule-iii-hearing-could-expand-change
-  headline: Trump reclassifies medical marijuana to Schedule III; hearing could expand changes
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5719
-- slug: 2026-05-05-redistricting-war-accelerates-winner-take-all-political-combat-in-us
-  headline: Redistricting war accelerates winner-take-all political combat in US
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5672
-- slug: 2026-04-16-jury-finds-live-nation-ran-harmful-concert-venue-monopoly-states-seek-damages
-  headline: Jury finds Live Nation ran harmful concert venue monopoly; states seek damages
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5668
+  strength: 0.8374
 image:
   url: /articles/2026-10-19-supreme-court-takes-up-home-distilling-tax-case-after-split-rulings.png
-  alt: "Illustration accompanying article: Supreme Court takes up home-distilling tax case after split rulings"
+  alt: 'Illustration accompanying article: Supreme Court takes up home-distilling
+    tax case after split rulings'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Supreme Court takes up home-distilling tax case after split rulings
 
 **Subtype:** fact

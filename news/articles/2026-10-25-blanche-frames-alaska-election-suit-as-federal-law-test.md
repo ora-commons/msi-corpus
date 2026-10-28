@@ -29,7 +29,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -51,113 +52,57 @@ related_stories:
   headline: Blanche defends DOJ Alaska suit, calls CNN question 'crazy'
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8438
+  strength: 0.8436
 - slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
   headline: Blanche defends lawsuit to block Alaska Senate certification
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8197
+  strength: 0.8201
 - slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
   headline: Blanche won't rule out DOJ role in state election certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8174
+  strength: 0.8188
 - slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
   headline: Legal experts say Alaska Senate certification suit has no chance of success
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.788
+  strength: 0.7891
+- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
+  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7625
 - slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
   headline: Justice Department files pre-election challenge to Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7587
+  strength: 0.7596
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7559
+  strength: 0.7563
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7517
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7347
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6721
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6723
-- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
-  headline: Judge cites "high likelihood of error" in DHS list of people to visit
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6698
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6693
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6846
-- slug: 2026-10-16-every-federal-judge-to-rule-has-dismissed-doj-voter-data-lawsuits
-  headline: Every federal judge to rule has dismissed DOJ voter-data lawsuits
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6769
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6728
-- slug: 2026-07-23-alaska-sends-over-3-000-citizenship-verification-letters-far-more-than-usual
-  headline: Alaska sends over 3,000 citizenship verification letters — far more than usual
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6786
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.678
-- slug: 2026-04-22-alaska-groups-sue-over-sharing-full-voter-list-with-doj
-  headline: Alaska groups sue over sharing full voter list with DOJ
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7234
-- slug: 2026-04-23-lawsuit-alleges-alaska-officials-voter-data-sharing-with-doj-violates-state-cons
-  headline: Lawsuit alleges Alaska officials’ voter-data sharing with DOJ violates state constitution
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7228
-- slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
-  headline: Arizona proof-of-citizenship voting law heads to Supreme Court
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6716
+  strength: 0.7528
 image:
   url: /articles/2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test.png
-  alt: "Illustration accompanying article: Blanche frames Alaska election suit as federal-law test"
+  alt: 'Illustration accompanying article: Blanche frames Alaska election suit as
+    federal-law test'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Blanche frames Alaska election suit as federal-law test
 
 **Subtype:** fact

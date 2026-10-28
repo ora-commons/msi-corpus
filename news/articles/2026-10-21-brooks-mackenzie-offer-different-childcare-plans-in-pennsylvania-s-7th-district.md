@@ -1,9 +1,21 @@
 ---
-headline: Brooks, Mackenzie offer different childcare plans in Pennsylvania's 7th District
-secondary_headline: Brooks seeks universal prekindergarten; Mackenzie cosponsored a childcare tax-credit expansion
+headline: Brooks, Mackenzie offer different childcare plans in Pennsylvania's 7th
+  District
+secondary_headline: Brooks seeks universal prekindergarten; Mackenzie cosponsored
+  a childcare tax-credit expansion
 publish_date: '2026-10-21'
-lede: Childcare costs are a factor for undecided voters in Pennsylvania's competitive 7th Congressional District, where Democratic nominee Bob Brooks and Republican incumbent Ryan Mackenzie both make childcare part of their pitches to voters. About 16% of district voters were undecided as of September, according to a Franklin and Marshall College poll. The district is one of a handful that will determine which party controls Congress next year.
-nut_graf: For millions of parents of young children, childcare is one of the largest strains on the family budget, and childcare has become an increasingly prominent campaign issue in the 2026 midterms. Brooks and Mackenzie offer different proposals in Pennsylvania's 7th District. The Campaign for a Family Friendly Economy said it spent $60 million this year backing Democrats in congressional and governor's races, then targeted voters in a dozen states with canvassing, ads and mailers.
+lede: Childcare costs are a factor for undecided voters in Pennsylvania's competitive
+  7th Congressional District, where Democratic nominee Bob Brooks and Republican incumbent
+  Ryan Mackenzie both make childcare part of their pitches to voters. About 16% of
+  district voters were undecided as of September, according to a Franklin and Marshall
+  College poll. The district is one of a handful that will determine which party controls
+  Congress next year.
+nut_graf: For millions of parents of young children, childcare is one of the largest
+  strains on the family budget, and childcare has become an increasingly prominent
+  campaign issue in the 2026 midterms. Brooks and Mackenzie offer different proposals
+  in Pennsylvania's 7th District. The Campaign for a Family Friendly Economy said
+  it spent $60 million this year backing Democrats in congressional and governor's
+  races, then targeted voters in a dozen states with canvassing, ads and mailers.
 primary_entities:
 - Bob Brooks
 - Ryan Mackenzie
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,46 @@ related_stories:
   headline: Brooks leads Mackenzie 45% to 40% in Pennsylvania 7th District poll
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.8388
-- slug: 2026-10-24-tom-kean-faces-tight-new-jersey-race-after-months-out-of-public-view
-  headline: Tom Kean faces tight New Jersey race after months out of public view
-  publish_date: '2026-10-24'
+  strength: 0.8391
+- slug: 2026-10-25-bucks-county-senate-race-draws-more-than-7-million-in-spending
+  headline: Bucks County Senate race draws more than $7 million in spending
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6373
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
+  strength: 0.6683
+- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
+  headline: Arkansas Democrats push affordability message in final midterm stretch
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6349
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6254
+  strength: 0.6663
 - slug: 2026-10-01-seven-senators-demand-data-on-childcare-closures-rising-costs
   headline: Seven senators demand data on childcare closures, rising costs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6744
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6269
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6387
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.631
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6416
+  strength: 0.6748
 - slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
+  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks
+    defeat
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6509
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6434
+  strength: 0.6517
 - slug: 2026-08-27-dccc-accuses-mackenzie-of-fabricating-real-estate-career-in-pennsylvania-race
-  headline: DCCC accuses Mackenzie of fabricating real estate career in Pennsylvania race
+  headline: DCCC accuses Mackenzie of fabricating real estate career in Pennsylvania
+    race
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6613
+  strength: 0.6619
 - slug: 2026-08-15-wisconsin-canvassers-push-healthcare-message-in-competitive-3rd-district
   headline: Wisconsin canvassers push healthcare message in competitive 3rd district
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6553
+  strength: 0.6566
 - slug: 2026-06-08-firefighting-union-leader-bob-brooks-targets-pennsylvania-house-seat-in-november
-  headline: Firefighting union leader Bob Brooks targets Pennsylvania House seat in November toss-up
+  headline: Firefighting union leader Bob Brooks targets Pennsylvania House seat in
+    November toss-up
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7441
-- slug: 2026-08-19-400-000-children-on-federal-childcare-assistance-waitlists-report-finds
-  headline: 400,000 children on federal childcare assistance waitlists, report finds
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6337
-- slug: 2026-07-26-jeffries-launches-democrats-affordability-agenda-at-100-day-midterm-mark
-  headline: Jeffries launches Democrats' affordability agenda at 100-day midterm mark
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.667
-- slug: 2026-08-14-house-majority-pac-adds-6-million-in-cleveland-ads-against-max-miller
-  headline: House Majority PAC adds $6 million in Cleveland ads against Max Miller
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6277
-- slug: 2026-03-18-child-care-costs-set-to-feature-in-midterm-election-ads
-  headline: Child care costs set to feature in midterm election ads
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7496
-- slug: 2026-01-14-schumer-says-democrats-are-preparing-for-trump-to-disrupt-and-dispute-the-midter
-  headline: Schumer says Democrats are preparing for Trump to disrupt and dispute the midterms
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6416
-- slug: 2026-01-08-hochul-and-mamdani-unveil-free-child-care-plan-for-nyc-2-year-olds
-  headline: Hochul and Mamdani unveil free child care plan for NYC 2-year-olds
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6378
+  strength: 0.7443
 ---
-
 ## Brooks, Mackenzie offer different childcare plans in Pennsylvania's 7th District
 
 **Subtype:** fact

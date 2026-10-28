@@ -1,9 +1,19 @@
 ---
 headline: Robert John Crawford denies wife's murder as Brisbane trial opens
-secondary_headline: Prosecutor alleges staged death and financial motive after relationship breakdown
+secondary_headline: Prosecutor alleges staged death and financial motive after relationship
+  breakdown
 publish_date: '2026-10-26'
-lede: Robert John Crawford, a 49-year-old former RAAF pilot, pleaded not guilty Monday in the Brisbane supreme court to murdering his wife, Frances Elizabeth Crawford, at Upper Lockyer on July 29, 2024. Prosecutor Chris Cook told the jury that Crawford killed her in the context of a long relationship breakdown and staged her death to appear accidental. Justice Lincoln Crowley told the jury that prosecutors would allege her death resulted from strangulation or blunt-force trauma.
-nut_graf: The prosecution's opening account places the alleged killing within a long relationship breakdown and alleges that Crawford then worked to make the death look accidental. Financial interests in the couple's property and superannuation were among the matters put before the jury, and the defence barrister had not yet delivered an opening statement.
+lede: Robert John Crawford, a 49-year-old former RAAF pilot, pleaded not guilty Monday
+  in the Brisbane supreme court to murdering his wife, Frances Elizabeth Crawford,
+  at Upper Lockyer on July 29, 2024. Prosecutor Chris Cook told the jury that Crawford
+  killed her in the context of a long relationship breakdown and staged her death
+  to appear accidental. Justice Lincoln Crowley told the jury that prosecutors would
+  allege her death resulted from strangulation or blunt-force trauma.
+nut_graf: The prosecution's opening account places the alleged killing within a long
+  relationship breakdown and alleges that Crawford then worked to make the death look
+  accidental. Financial interests in the couple's property and superannuation were
+  among the matters put before the jury, and the defence barrister had not yet delivered
+  an opening statement.
 primary_entities:
 - Robert John Crawford
 - Frances Elizabeth Crawford
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +152,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-14-jury-views-3d-crime-scene-reconstruction-at-lamarre-condon-trial
-  headline: Jury views 3D crime scene reconstruction at Lamarre-Condon trial
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5863
-- slug: 2026-09-21-beau-lamarre-condon-murder-trial-opens-in-sydney-supreme-court
-  headline: Beau Lamarre-Condon murder trial opens in Sydney Supreme Court
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5823
-- slug: 2026-09-08-trial-begins-in-mexico-for-accused-killers-of-australian-surfers-and-american-fr
-  headline: Trial begins in Mexico for accused killers of Australian surfers and American friend
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5754
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5787
-- slug: 2026-08-26-lindsay-clancy-jury-to-begin-deliberations-after-five-week-murder-trial
-  headline: Lindsay Clancy jury to begin deliberations after five-week murder trial
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5884
-- slug: 2026-08-17-louisiana-man-faces-murder-charge-after-driving-wife-s-body-across-states
-  headline: Louisiana man faces murder charge after driving wife's body across states
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5839
-- slug: 2026-08-07-yolanda-olejniczak-marodi-pleads-guilty-to-killing-fire-captain-wife
-  headline: Yolanda Olejniczak Marodi pleads guilty to killing fire captain wife
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5776
 - slug: 2026-05-18-defendant-denies-orchestrating-wife-s-death-in-double-murder-trial
   headline: Defendant denies orchestrating wife's death in double murder trial
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.6545
-- slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5831
-- slug: 2026-07-09-widow-of-charlie-kirk-asks-judge-to-display-all-courtroom-evidence
-  headline: Widow of Charlie Kirk asks judge to display all courtroom evidence
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5831
-- slug: 2026-06-05-brendan-banfield-sentenced-to-life-in-virginia-double-murder
-  headline: Brendan Banfield sentenced to life in Virginia double murder
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6113
-- slug: 2026-06-05-virginia-man-sentenced-to-life-for-double-murder-in-au-pair-plot
-  headline: Virginia man sentenced to life for double murder in au pair plot
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6006
-- slug: 2026-01-11-virginia-man-goes-to-trial-in-double-homicide-au-pair-pleaded-guilty-to-manslaug
-  headline: Virginia man goes to trial in double homicide; au pair pleaded guilty to manslaughter
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6291
-- slug: 2026-01-30-banfield-testifies-he-shot-joseph-ryan-after-stabbing-was-wrong
-  headline: Banfield testifies he shot Joseph Ryan after stabbing was wrong
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6251
-- slug: 2026-01-14-au-pair-testifies-ex-lover-plotted-wife-s-death-in-virginia-double-homicide-tria
-  headline: Au pair testifies ex-lover plotted wife's death in Virginia double homicide trial
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6173
-- slug: 2026-02-03-ex-irs-agent-brendan-banfield-convicted-in-au-pair-affair-double-murder
-  headline: Ex-IRS agent Brendan Banfield convicted in ‘au pair affair’ double murder
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6069
-- slug: 2026-01-31-jury-begins-deliberations-in-virginia-au-pair-affair-double-murder-case
-  headline: Jury begins deliberations in Virginia “au pair affair” double murder case
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6052
-- slug: 2026-01-13-dueling-narratives-open-virginia-au-pair-affair-double-murder-trial
-  headline: Dueling narratives open Virginia 'au pair affair' double murder trial
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6027
-- slug: 2026-02-14-brazilian-au-pair-sentenced-to-maximum-term-in-virginia-double-homicide
-  headline: Brazilian au pair sentenced to maximum term in Virginia double homicide
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.597
-- slug: 2026-02-17-delaware-man-once-married-to-jill-biden-pleads-not-guilty-in-wife-s-death
-  headline: Delaware man once married to Jill Biden pleads not guilty in wife’s death
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.5946
+  strength: 0.6543
 ---
-
 ## Robert John Crawford denies wife's murder as Brisbane trial opens
 
 **Subtype:** fact

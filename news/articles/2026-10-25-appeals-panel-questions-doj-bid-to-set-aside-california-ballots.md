@@ -2,8 +2,22 @@
 headline: Appeals panel questions DOJ bid to set aside California ballots
 secondary_headline: Panel questions voter proof and emergency remedies
 publish_date: '2026-10-25'
-lede: Judge Mark Bennett of the 9th Circuit asked whether California election workers could legally disqualify voters without “extraordinary proof” from the federal government, while Judge Gabriel Sanchez questioned remedies sought so close to election day. California attorney Samuel Siegel told the panel the White House lacked constitutional authority and had not sought congressional authorization, while government attorney Matthew Donnelly said the administration developed the names through a “rigorous process” using its own citizenship data. The panel heard the arguments Sunday as the Trump administration sought to set aside 20,000 California ballots it says could be cast by non-citizens.
-nut_graf: The dispute asks whether the federal government may require California officials to sort citizens from possible non-citizens and set aside ballots while voting is underway. Bennett asked about the proof needed to disqualify voters, while Sanchez asked about the legality and timing of emergency remedies and the appropriateness of appellate intervention. Samuel Siegel, California’s attorney, argued that the White House lacked constitutional authority and that the executive branch had not sought authorization from Congress.
+lede: Judge Mark Bennett of the 9th Circuit asked whether California election workers
+  could legally disqualify voters without “extraordinary proof” from the federal government,
+  while Judge Gabriel Sanchez questioned remedies sought so close to election day.
+  California attorney Samuel Siegel told the panel the White House lacked constitutional
+  authority and had not sought congressional authorization, while government attorney
+  Matthew Donnelly said the administration developed the names through a “rigorous
+  process” using its own citizenship data. The panel heard the arguments Sunday as
+  the Trump administration sought to set aside 20,000 California ballots it says could
+  be cast by non-citizens.
+nut_graf: The dispute asks whether the federal government may require California officials
+  to sort citizens from possible non-citizens and set aside ballots while voting is
+  underway. Bennett asked about the proof needed to disqualify voters, while Sanchez
+  asked about the legality and timing of emergency remedies and the appropriateness
+  of appellate intervention. Samuel Siegel, California’s attorney, argued that the
+  White House lacked constitutional authority and that the executive branch had not
+  sought authorization from Congress.
 primary_entities:
 - 9th Circuit Court of Appeals
 - Department of Justice
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,103 +168,44 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8569
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7999
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7826
+- slug: 2026-10-26-9th-circuit-majority-says-u-s-claimed-emergency-was-at-least-partly-self-constru
+  headline: 9th Circuit majority says U.S. claimed emergency was at least partly self-constructed
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7567
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7542
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7597
+  strength: 0.7595
+- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
+  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7486
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7789
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7339
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7277
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7137
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7179
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7039
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7483
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7172
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.714
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7287
-- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
-  headline: Judge cites "high likelihood of error" in DHS list of people to visit
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6827
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.712
-- slug: 2026-10-16-every-federal-judge-to-rule-has-dismissed-doj-voter-data-lawsuits
-  headline: Every federal judge to rule has dismissed DOJ voter-data lawsuits
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6931
-- slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
-  headline: Solicitor general files appeal to revive blocked immigration-voter database
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7087
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6856
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7051
-- slug: 2026-05-15-attorneys-argue-trump-election-order-exceeds-presidential-authority-in-federal-c
-  headline: Attorneys argue Trump election order exceeds presidential authority in federal court
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.708
+  strength: 0.7782
 ---
-
 ## Appeals panel questions DOJ bid to set aside California ballots
 
 **Subtype:** fact

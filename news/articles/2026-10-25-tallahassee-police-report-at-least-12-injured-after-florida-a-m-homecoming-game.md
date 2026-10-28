@@ -1,9 +1,20 @@
 ---
-headline: Tallahassee police report at least 12 injured after Florida A&M homecoming game
-secondary_headline: Five of the injured released from hospital; police say no arrests made
+headline: Tallahassee police report at least 12 injured after Florida A&M homecoming
+  game
+secondary_headline: Five of the injured released from hospital; police say no arrests
+  made
 publish_date: '2026-10-25'
-lede: In a Sunday morning update, the Tallahassee Police Department said five of the people injured in a shooting outside Florida A&M University's Bragg Memorial Stadium had been released from the hospital, and that one of those still hospitalized was in critical condition. The shooting followed the university's homecoming game, and the department's preliminary count put the number injured at at least 12, including 11 who sustained gunshot wounds. Police said no arrests had been made.
-nut_graf: Tallahassee police said its violent crimes unit was investigating the circumstances surrounding the shooting. Chief Lawrence Revell said police believed the shooting began as a confrontation between two or three people. Revell said detectives were working to determine exactly what happened and identify those responsible, and that the department remained committed to getting answers for these families.
+lede: In a Sunday morning update, the Tallahassee Police Department said five of the
+  people injured in a shooting outside Florida A&M University's Bragg Memorial Stadium
+  had been released from the hospital, and that one of those still hospitalized was
+  in critical condition. The shooting followed the university's homecoming game, and
+  the department's preliminary count put the number injured at at least 12, including
+  11 who sustained gunshot wounds. Police said no arrests had been made.
+nut_graf: Tallahassee police said its violent crimes unit was investigating the circumstances
+  surrounding the shooting. Chief Lawrence Revell said police believed the shooting
+  began as a confrontation between two or three people. Revell said detectives were
+  working to determine exactly what happened and identify those responsible, and that
+  the department remained committed to getting answers for these families.
 primary_entities:
 - Florida A&M University
 - Tallahassee Police Department
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +148,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-shooting-near-bragg-memorial-stadium-injures-12-as-police-seek-tips
+  headline: Shooting near Bragg Memorial Stadium injures 12 as police seek tips
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8998
+- slug: 2026-10-25-revell-initially-reports-no-arrests-after-tallahassee-stadium-area-shooting
+  headline: Revell initially reports no arrests after Tallahassee stadium-area shooting
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8772
+- slug: 2026-10-26-tallahassee-police-say-monday-a-15-year-old-was-charged-in-florida-a-m-shooting
+  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M
+    shooting
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8671
 - slug: 2026-10-25-tallahassee-police-investigate-shooting-near-florida-a-m-university
   headline: Tallahassee police investigate shooting near Florida A+M University
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8472
-- slug: 2026-10-19-aac-says-it-played-on-to-avoid-additional-distress-for-airman-s-family
-  headline: AAC says it played on to avoid 'additional distress' for airman's family
-  publish_date: '2026-10-19'
+  strength: 0.8469
+- slug: 2026-10-26-revell-says-police-carried-victims-to-responders-because-of-football-game-crowds
+  headline: Revell says police carried victims to responders because of football-game
+    crowds
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.614
-- slug: 2026-10-19-air-force-names-airman-who-died-in-utsa-pregame-fall
-  headline: Air Force names airman who died in UTSA pregame fall
-  publish_date: '2026-10-19'
+  strength: 0.844
+- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
+  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.592
-- slug: 2026-10-04-two-dead-in-georgia-block-party-shooting-12-year-old-girl-killed-in-baltimore
-  headline: Two dead in Georgia block-party shooting; 12-year-old girl killed in Baltimore
-  publish_date: '2026-10-04'
+  strength: 0.8145
+- slug: 2026-10-26-tallahassee-police-arrest-15-year-old-after-gunfire-near-famu
+  headline: Tallahassee police arrest 15-year-old after gunfire near FAMU
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6273
-- slug: 2026-10-04-two-killed-35-injured-in-georgia-block-party-mass-shooting
-  headline: Two killed, 35 injured in Georgia block-party mass shooting
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6257
-- slug: 2026-10-05-gbi-joins-vienna-shooting-probe-victims-identified-as-men-ages-20-23
-  headline: GBI joins Vienna shooting probe; victims identified as men ages 20, 23
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6021
-- slug: 2026-08-30-trenton-shooting-kills-2-wounds-8-at-large-street-gathering
-  headline: Trenton shooting kills 2, wounds 8 at large street gathering
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5984
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.632
+  strength: 0.7941
 - slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
   headline: Shooting near University of Iowa wounds five people
   publish_date: '2026-04-19'
   relation: related
-  strength: 0.6663
-- slug: 2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis
-  headline: 19 injured in two overnight shootings in Tucson and Minneapolis
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5948
-- slug: 2026-06-16-suspect-arrested-in-fatal-wilmington-hospital-shooting
-  headline: Suspect arrested in fatal Wilmington hospital shooting
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6121
-- slug: 2026-06-17-suspect-at-large-after-delaware-hospital-shooting-kills-one
-  headline: Suspect at large after Delaware hospital shooting kills one
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6032
-- slug: 2026-03-02-federal-authorities-join-police-search-for-suspect-in-cincinnati-nightclub-shoot
-  headline: Federal authorities join police search for suspect in Cincinnati nightclub shooting
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6351
-- slug: 2026-05-05-shooting-at-oklahoma-lakeside-party-sends-at-least-18-to-hospitals
-  headline: Shooting at Oklahoma lakeside party sends at least 18 to hospitals
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6178
-- slug: 2026-02-17-shooting-at-rhode-island-youth-hockey-rink-kills-3-including-gunman
-  headline: Shooting at Rhode Island youth hockey rink kills 3, including gunman
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6293
-- slug: 2026-03-02-9-hurt-in-cincinnati-nightclub-shooting-no-arrests-yet-police-say
-  headline: 9 hurt in Cincinnati nightclub shooting; no arrests yet, police say
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6226
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.593
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5929
-- slug: 2026-01-12-three-inmates-killed-14-others-injured-in-gang-fight-at-georgia-state-prison
-  headline: Three inmates killed, 14 others injured in gang fight at Georgia state prison
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6135
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5878
+  strength: 0.6666
 ---
-
 ## Tallahassee police report at least 12 injured after Florida A&M homecoming game
 
 **Subtype:** fact

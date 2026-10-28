@@ -1,9 +1,19 @@
 ---
-headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
-secondary_headline: Pennsylvania officials urge full vaccination amid more than 250 hospitalizations
+headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+  status
+secondary_headline: Pennsylvania officials urge full vaccination amid more than 250
+  hospitalizations
 publish_date: '2026-10-25'
-lede: The CDC reported that 96% of people who contracted measles in 2026 were unvaccinated or had unknown vaccination status. Pennsylvania officials urged residents to get fully vaccinated as the outbreak grew, and the Pennsylvania Department of Health reported more than 250 hospitalizations. The department said more than 39,000 measles vaccines were administered statewide during the first three weeks of October, above the average of 25,000 administered statewide in one month.
-nut_graf: The CDC finding applies specifically to people who contracted measles in 2026. Pennsylvania reported more than 250 hospitalizations, while the state response included a call for full vaccination, a provider roundtable and more than 39,000 measles vaccines administered during the first three weeks of October.
+lede: The CDC reported that 96% of people who contracted measles in 2026 were unvaccinated
+  or had unknown vaccination status. Pennsylvania officials urged residents to get
+  fully vaccinated as the outbreak grew, and the Pennsylvania Department of Health
+  reported more than 250 hospitalizations. The department said more than 39,000 measles
+  vaccines were administered statewide during the first three weeks of October, above
+  the average of 25,000 administered statewide in one month.
+nut_graf: The CDC finding applies specifically to people who contracted measles in
+  2026. Pennsylvania reported more than 250 hospitalizations, while the state response
+  included a call for full vaccination, a provider roundtable and more than 39,000
+  measles vaccines administered during the first three weeks of October.
 primary_entities:
 - U.S. Centers for Disease Control and Prevention
 - Pennsylvania Department of Health
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,44 @@ related_stories:
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7983
+  strength: 0.7975
 - slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
   headline: Pennsylvania reports sixth measles death as state cases top 1,100
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8113
+  strength: 0.8105
 - slug: 2026-10-13-franklin-county-coroner-reports-sixth-measles-death-in-pennsylvania
   headline: Franklin County coroner reports sixth measles death in Pennsylvania
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7911
+  strength: 0.7907
 - slug: 2026-10-22-cdc-adds-a-third-measles-death-without-identifying-the-state
   headline: CDC adds a third measles death without identifying the state
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7255
+  strength: 0.725
 - slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
   headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8119
+  strength: 0.811
 - slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
   headline: Pennsylvania reports fifth measles-related death of 2026
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8273
+  strength: 0.8267
 - slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
   headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
   publish_date: '2026-09-26'
   relation: related
   strength: 0.8226
 - slug: 2026-10-04-pennsylvania-measles-outbreak-reaches-943-cases-as-state-reports-fifth-death
-  headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
+  headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth
+    death
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7824
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7661
-- slug: 2026-10-06-hochul-declares-state-emergency-as-new-york-measles-cases-reach-108
-  headline: Hochul declares state emergency as New York measles cases reach 108
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7173
-- slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
-  headline: Annual US measles count exceeds 1991 levels as second death confirmed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7492
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7894
-- slug: 2026-09-24-pennsylvania-measles-outbreak-kills-four-as-health-workers-door-knock-amish-comm
-  headline: Pennsylvania measles outbreak kills four as health workers door-knock Amish communities
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.748
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7882
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7768
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8332
-- slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
-  headline: CDC dashboard still excludes four Pennsylvania measles deaths
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7222
-- slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
-  headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.746
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7276
-- slug: 2026-09-15-shapiro-accuses-kennedy-of-antivaccine-conspiracy-theories-amid-measles-surge
-  headline: Shapiro accuses Kennedy of antivaccine conspiracy theories amid measles surge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7215
+  strength: 0.7818
 ---
-
 ## CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
 
 **Subtype:** fact

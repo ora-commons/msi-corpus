@@ -1,9 +1,25 @@
 ---
 headline: Cancer and medical debt push Texas voter from Trump to Talarico
-secondary_headline: Paxton proposes $25,000 tax deduction for out-of-pocket medical expenses
+secondary_headline: Paxton proposes $25,000 tax deduction for out-of-pocket medical
+  expenses
 publish_date: '2026-10-25'
-lede: Cindy Banda, a 46-year-old breast cancer patient in McAllen, Texas, cast an early ballot for James Talarico, a Democrat running for U.S. Senate, after backing Donald Trump in three previous elections. Banda said treatment costs, including more than $25,000 in medical bills and a medication listed at $16,000 a month, pushed her toward a candidate whose positions on abortion she had opposed for years. Surgeons removed her right breast, and she still did not know whether treatment had eliminated the cancer; doctors had told her it would be tough to beat. The race against Republican Ken Paxton comes as about half of registered voters say health-care costs are a major problem for their families.
-nut_graf: 'Banda''s ballot shows how medical costs are reordering voter priorities in a state where the Senate race is being fought on affordability. About half of registered voters said health-care costs were a major problem for their families in a September Fox News poll, and registered voters were nearly twice as likely to trust Democrats over Republicans to handle health care in an Associated Press-NORC Center for Public Affairs Research poll that month. For Banda the calculus is literal: she will learn on Election Day whether the cancer is in remission or has spread to her organs.'
+lede: Cindy Banda, a 46-year-old breast cancer patient in McAllen, Texas, cast an
+  early ballot for James Talarico, a Democrat running for U.S. Senate, after backing
+  Donald Trump in three previous elections. Banda said treatment costs, including
+  more than $25,000 in medical bills and a medication listed at $16,000 a month, pushed
+  her toward a candidate whose positions on abortion she had opposed for years. Surgeons
+  removed her right breast, and she still did not know whether treatment had eliminated
+  the cancer; doctors had told her it would be tough to beat. The race against Republican
+  Ken Paxton comes as about half of registered voters say health-care costs are a
+  major problem for their families.
+nut_graf: 'Banda''s ballot shows how medical costs are reordering voter priorities
+  in a state where the Senate race is being fought on affordability. About half of
+  registered voters said health-care costs were a major problem for their families
+  in a September Fox News poll, and registered voters were nearly twice as likely
+  to trust Democrats over Republicans to handle health care in an Associated Press-NORC
+  Center for Public Affairs Research poll that month. For Banda the calculus is literal:
+  she will learn on Election Day whether the cancer is in remission or has spread
+  to her organs.'
 primary_entities:
 - Cindy Banda
 - James Talarico
@@ -42,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +157,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
+  headline: Talarico rejects progressive label in Texas Senate race against Paxton
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6953
 - slug: 2026-10-21-neil-bush-says-he-cast-early-ballot-for-talarico-in-texas-senate-race
   headline: Neil Bush says he cast early ballot for Talarico in Texas Senate race
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7091
+  strength: 0.7089
 - slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
   headline: Talarico says Musk is backing Paxton at UT Austin rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6729
+  strength: 0.6724
 - slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
   headline: Talarico and Paxton enter final stretch of Texas Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6719
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7066
+  strength: 0.6714
 - slug: 2026-10-22-valadao-defends-medicaid-vote-in-district-where-6-in-10-rely-on-it
   headline: Valadao defends Medicaid vote in district where 6 in 10 rely on it
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6616
+  strength: 0.6617
+- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
+  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race
+    tightens
+  publish_date: '2026-10-15'
+  relation: related
+  strength: 0.7059
 - slug: 2026-10-15-valadao-villegas-vie-for-nation-s-highest-medicaid-house-seat
   headline: Valadao, Villegas vie for nation's highest-Medicaid House seat
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6895
+  strength: 0.6896
 - slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
   headline: Talarico addresses voters at CNN town hall, defends nine-day absence
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6792
-- slug: 2026-10-13-records-show-two-indicted-americans-at-dubai-party-with-paxton
-  headline: Records show two indicted Americans at Dubai party with Paxton
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.656
-- slug: 2026-10-07-paxton-tells-donors-iran-war-and-fuel-prices-are-republicans-biggest-problem
-  headline: Paxton tells donors Iran war and fuel prices are Republicans' biggest problem
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6675
-- slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
-  headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6574
-- slug: 2026-10-05-talarico-leads-in-texas-senate-polls-while-owning-past-comments
-  headline: Talarico leads in Texas Senate polls while owning past comments
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6725
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6563
-- slug: 2026-09-27-democratic-clergy-and-seminary-students-run-for-congress-on-christian-faith
-  headline: Democratic clergy and seminary students run for Congress on Christian faith
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6689
-- slug: 2026-09-23-trump-mentions-per-hour-on-conservative-podcasts-fall-nearly-70-from-2024-peak
-  headline: Trump mentions per hour on conservative podcasts fall nearly 70% from 2024 peak
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6506
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.688
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7311
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6609
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6747
-- slug: 2026-06-01-texas-senate-general-election-pits-talarico-against-paxton-in-november
-  headline: Texas Senate general election pits Talarico against Paxton in November
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7098
-- slug: 2026-06-19-texas-senate-race-turns-into-a-battle-over-who-is-more-of-a-man
-  headline: Texas Senate Race Turns Into a Battle Over Who Is More of a Man
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6641
+  strength: 0.6787
 ---
-
 ## Cancer and medical debt push Texas voter from Trump to Talarico
 
 **Subtype:** fact

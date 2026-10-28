@@ -1,9 +1,21 @@
 ---
 headline: Shoppers question AI pricing amid company denials and state restrictions
-secondary_headline: FTC issues proposed enforcement policy statement on deceptive or unfair personalized pricing
+secondary_headline: FTC issues proposed enforcement policy statement on deceptive
+  or unfair personalized pricing
 publish_date: '2026-10-26'
-lede: American shoppers are concerned that retailers, restaurants, ride-share companies and grocers are using artificial intelligence and personal data to charge higher prices based on a buyer's needs or profile. Walmart, Kroger and McDonald's deny doing so. Several states have enacted restrictions on data-driven pricing or algorithmic-pricing disclosure requirements, while the Federal Trade Commission has issued a proposed enforcement policy statement on deceptive or unfair personalized pricing.
-nut_graf: The larger issue is how consumers, regulators and retailers distinguish errors, promotions and demand-based pricing from individualized increases. With overall consumer prices more than 29% higher over six years, complaints rose as several states enacted rules restricting data-driven pricing or requiring algorithmic-pricing disclosures. The FTC issued a proposed enforcement policy statement this summer on deceptive or unfair personalized pricing, including cases where consumers reasonably expect prices not to vary with personal data.
+lede: American shoppers are concerned that retailers, restaurants, ride-share companies
+  and grocers are using artificial intelligence and personal data to charge higher
+  prices based on a buyer's needs or profile. Walmart, Kroger and McDonald's deny
+  doing so. Several states have enacted restrictions on data-driven pricing or algorithmic-pricing
+  disclosure requirements, while the Federal Trade Commission has issued a proposed
+  enforcement policy statement on deceptive or unfair personalized pricing.
+nut_graf: The larger issue is how consumers, regulators and retailers distinguish
+  errors, promotions and demand-based pricing from individualized increases. With
+  overall consumer prices more than 29% higher over six years, complaints rose as
+  several states enacted rules restricting data-driven pricing or requiring algorithmic-pricing
+  disclosures. The FTC issued a proposed enforcement policy statement this summer
+  on deceptive or unfair personalized pricing, including cases where consumers reasonably
+  expect prices not to vary with personal data.
 primary_entities:
 - Walmart
 - McDonald's
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +155,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
+  headline: Consumer frustration spans higher prices and perceived artificial intelligence
+    pricing
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7848
+- slug: 2026-10-26-ftc-and-20-states-sue-dollar-general-over-alleged-register-overcharges
+  headline: FTC and 20 states sue Dollar General over alleged register overcharges
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6856
 - slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
   headline: McDonald's faces federal lawsuit over AI pricing tool
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7754
+  strength: 0.7751
 - slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
   headline: Inflation broadens beyond energy as AI buildout lifts computer prices
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6734
+  strength: 0.6725
 - slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+    probe
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.686
+  strength: 0.6852
 - slug: 2026-09-30-ftc-opens-investigation-of-anthropic-and-openai-over-consumer-harm-claims
   headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6625
+  strength: 0.6619
 - slug: 2026-09-17-baldwin-scott-ask-ftc-to-investigate-amazon-walmart-chatbots
   headline: Baldwin, Scott ask FTC to investigate Amazon, Walmart chatbots
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6649
+  strength: 0.664
 - slug: 2026-09-17-mastercard-plans-to-roll-out-agentic-payment-option-with-alchemy
   headline: Mastercard plans to roll out agentic payment option with Alchemy
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6613
-- slug: 2026-09-09-retailers-tighten-return-policies-as-shoppers-face-new-fees-and-shorter-windows
-  headline: Retailers tighten return policies as shoppers face new fees and shorter windows
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6708
-- slug: 2026-08-19-ftc-proposes-policy-on-companies-that-vary-prices-using-shopper-data
-  headline: FTC proposes policy on companies that vary prices using shopper data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7196
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7902
-- slug: 2026-07-30-report-finds-ai-shopping-chatbots-from-amazon-walmart-give-inconsistent-made-in-
-  headline: Report finds AI shopping chatbots from Amazon, Walmart give inconsistent 'Made in USA' product data
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.709
-- slug: 2026-07-25-grocery-prices-up-33-since-2019-as-shoppers-change-buying-habits
-  headline: Grocery prices up 33% since 2019 as shoppers change buying habits
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6694
-- slug: 2026-06-22-california-drivers-sue-gas-stations-over-ai-powered-price-fixing
-  headline: California drivers sue gas stations over AI-powered price fixing
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7057
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6649
-- slug: 2026-06-21-apple-faces-unavoidable-price-increases-as-ai-demand-drives-up-memory-chip-costs
-  headline: Apple faces unavoidable price increases as AI demand drives up memory chip costs
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6961
-- slug: 2026-07-21-amazon-tactics-inflate-prices-across-internet-emails-show
-  headline: Amazon tactics inflate prices across internet, emails show
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6593
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6757
-- slug: 2026-06-03-colorado-governor-vetoes-expansive-surveillance-pricing-ban
-  headline: Colorado governor vetoes expansive surveillance pricing ban
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.689
-- slug: 2026-06-19-memory-chip-shortage-driven-by-ai-demand-squeezes-consumer-tech
-  headline: Memory-chip shortage driven by AI demand squeezes consumer tech
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6583
-- slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
-  headline: Anthropic sued over usage limits on premium AI subscription plans
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6583
-- slug: 2026-05-16-ai-boom-sparks-state-battles-over-utility-profits-and-rising-electricity-bills
-  headline: AI boom sparks state battles over utility profits and rising electricity bills
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6739
+  strength: 0.6606
 ---
-
 ## Shoppers question AI pricing amid company denials and state restrictions
 
 **Subtype:** fact

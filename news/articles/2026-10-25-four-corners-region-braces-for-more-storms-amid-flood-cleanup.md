@@ -2,8 +2,19 @@
 headline: Four Corners region braces for more storms amid flood cleanup
 secondary_headline: Much of the mud and silt left by flooding is sewage-contaminated
 publish_date: '2026-10-25'
-lede: A rain-soaked swath of the southwestern United States braced on Sunday for another round of potentially heavy showers and thunderstorms, days after rain forced evacuations and water rescues in the Four Corners region last week. The National Weather Service issued a flood watch for much of the area where Arizona, Colorado, New Mexico and Utah meet, even as local officials forecast further receding of the swollen rivers.
-nut_graf: San Juan County, New Mexico, residents were trying to clean up flood damage as the southwestern United States braced for another round of potentially heavy showers and thunderstorms. Sheriff Shane Ferrari said about 4 feet of water flooded his home, while County spokesperson Devin Neeley said receding floodwaters left mud and silt, much of it contaminated with sewage, and power outages were affecting multiple areas. The latest flooding followed two months of on-and-off heavy rain caused by tropical moisture coming ashore from the Pacific, after months of drought across the region.
+lede: A rain-soaked swath of the southwestern United States braced on Sunday for another
+  round of potentially heavy showers and thunderstorms, days after rain forced evacuations
+  and water rescues in the Four Corners region last week. The National Weather Service
+  issued a flood watch for much of the area where Arizona, Colorado, New Mexico and
+  Utah meet, even as local officials forecast further receding of the swollen rivers.
+nut_graf: San Juan County, New Mexico, residents were trying to clean up flood damage
+  as the southwestern United States braced for another round of potentially heavy
+  showers and thunderstorms. Sheriff Shane Ferrari said about 4 feet of water flooded
+  his home, while County spokesperson Devin Neeley said receding floodwaters left
+  mud and silt, much of it contaminated with sewage, and power outages were affecting
+  multiple areas. The latest flooding followed two months of on-and-off heavy rain
+  caused by tropical moisture coming ashore from the Pacific, after months of drought
+  across the region.
 primary_entities:
 - Four Corners
 - National Weather Service
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,117 +151,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
+  headline: Flood warning remains in Four Corners as San Juan River nears crest
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8364
+- slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
+  headline: New Mexico crews search evacuated neighborhoods for flood hazards
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8358
 - slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
   headline: Flooding in Four Corners prompts rooftop rescues and evacuations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8019
+  strength: 0.8011
 - slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
+  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten
+    surges
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7865
-- slug: 2026-10-15-santa-ana-winds-raise-california-wildfire-risk-through-saturday
-  headline: Santa Ana winds raise California wildfire risk through Saturday
-  publish_date: '2026-10-15'
+  strength: 0.7858
+- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
+  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6495
+  strength: 0.7816
+- slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
+  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding
+    risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7031
 - slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
   headline: California readies for potentially historic El Niño winter
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6645
+  strength: 0.6641
 - slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
   headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.6644
-- slug: 2026-08-29-federal-and-state-agencies-issue-water-safety-reminders-as-drownings-continue
-  headline: Federal and state agencies issue water-safety reminders as drownings continue
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.653
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7167
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6812
-- slug: 2026-07-12-philadelphia-cleans-up-after-microbursts-damage-buildings-and-streets
-  headline: Philadelphia cleans up after microbursts damage buildings and streets
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6512
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6464
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6837
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7074
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6952
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6648
-- slug: 2026-06-12-body-of-5-year-old-girl-swept-out-to-sea-near-laguna-beach-found
-  headline: Body of 5-year-old girl swept out to sea near Laguna Beach found
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6497
-- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
-  headline: King tides kill two along California coast, advisories issued
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6457
-- slug: 2026-01-04-more-storms-forecast-for-california-as-flood-cleanup-continues-after-king-tide-s
-  headline: More storms forecast for California as flood cleanup continues after King Tide surge
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6897
-- slug: 2026-03-31-about-100-superfund-sites-are-vulnerable-to-flooding-storms-wildfires
-  headline: About 100 Superfund sites are vulnerable to flooding, storms, wildfires
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6707
-- slug: 2026-04-16-health-effects-tied-to-toxic-hydrogen-sulfide-from-tijuana-river-sewage
-  headline: Health effects tied to toxic hydrogen sulfide from Tijuana River sewage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6545
-- slug: 2026-04-15-severe-storms-threaten-plains-and-midwest-again
-  headline: Severe storms threaten Plains and Midwest again
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6538
+  strength: 0.6632
 image:
   url: /articles/2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup.png
-  alt: "Illustration accompanying article: Four Corners region braces for more storms amid flood cleanup"
+  alt: 'Illustration accompanying article: Four Corners region braces for more storms
+    amid flood cleanup'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Four Corners region braces for more storms amid flood cleanup
 
 **Subtype:** fact

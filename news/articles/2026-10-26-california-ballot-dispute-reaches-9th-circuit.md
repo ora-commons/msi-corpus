@@ -1,9 +1,21 @@
 ---
 headline: California ballot dispute reaches 9th Circuit
-secondary_headline: Panel weighs state authority and reliability of federal voter list
+secondary_headline: Panel weighs state authority and reliability of federal voter
+  list
 publish_date: '2026-10-26'
-lede: A three-judge panel of the 9th U.S. Circuit Court of Appeals heard arguments Sunday on the Trump administration's demand that California withhold thousands of mail ballots linked to people the federal government suspects may not be citizens. Two of the three judges appeared skeptical during the rare weekend arguments as the panel examined the request's timing, jurisdiction and constitutional authority. The dispute concerns 20,000 names the administration flagged as likely noncitizens on California's voter rolls.
-nut_graf: The case asks whether federal officials can require California to set aside ballots tied to a government list before they are counted. Seth Waxman, representing Los Angeles County Clerk Dean Logan, said the list was unreliable and that segregation would effectively disenfranchise thousands of eligible voters; Justice Department attorney Matthew Donnelly said California's refusal was allowing noncitizens to vote in violation of state law and causing irreversible harm.
+lede: A three-judge panel of the 9th U.S. Circuit Court of Appeals heard arguments
+  Sunday on the Trump administration's demand that California withhold thousands of
+  mail ballots linked to people the federal government suspects may not be citizens.
+  Two of the three judges appeared skeptical during the rare weekend arguments as
+  the panel examined the request's timing, jurisdiction and constitutional authority.
+  The dispute concerns 20,000 names the administration flagged as likely noncitizens
+  on California's voter rolls.
+nut_graf: The case asks whether federal officials can require California to set aside
+  ballots tied to a government list before they are counted. Seth Waxman, representing
+  Los Angeles County Clerk Dean Logan, said the list was unreliable and that segregation
+  would effectively disenfranchise thousands of eligible voters; Justice Department
+  attorney Matthew Donnelly said California's refusal was allowing noncitizens to
+  vote in violation of state law and causing irreversible harm.
 primary_entities:
 - California
 - 9th U.S. Circuit Court of Appeals
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +156,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8508
+- slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
+  headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8387
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8382
+  strength: 0.838
+- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
+  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.827
+- slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
+  headline: Appeals panel questions DOJ bid to set aside California ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8323
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8251
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
+  strength: 0.8242
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7889
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
+  strength: 0.8021
+- slug: 2026-10-26-9th-circuit-majority-says-u-s-claimed-emergency-was-at-least-partly-self-constru
+  headline: 9th Circuit majority says U.S. claimed emergency was at least partly self-constructed
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8001
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7729
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7587
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7635
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7859
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7359
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7553
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7639
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7553
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6946
-- slug: 2026-10-22-voters-will-decide-mail-ballot-identification-measures-in-california-colorado-an
-  headline: Voters will decide mail-ballot identification measures in California, Colorado and Nevada
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6942
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7129
-- slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
-  headline: Solicitor general files appeal to revive blocked immigration-voter database
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7082
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7052
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7241
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6961
-- slug: 2026-06-02-california-slow-vote-counting-could-delay-primary-results-for-weeks
-  headline: California slow vote counting could delay primary results for weeks
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.701
+  strength: 0.7944
 ---
-
 ## California ballot dispute reaches 9th Circuit
 
 **Subtype:** fact

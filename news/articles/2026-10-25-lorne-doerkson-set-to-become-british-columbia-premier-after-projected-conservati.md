@@ -1,9 +1,18 @@
 ---
-headline: Lorne Doerkson set to become British Columbia premier after projected Conservative majority
+headline: Lorne Doerkson set to become British Columbia premier after projected Conservative
+  majority
 secondary_headline: David Eby accepts responsibility and steps down from NDP leadership
 publish_date: '2026-10-25'
-lede: Lorne Doerkson is set to become British Columbia's premier after the Conservatives were projected to take 64 of the Legislative Assembly's 93 seats in Saturday's snap election. Outgoing Premier David Eby said his New Democratic Party needed a bigger assembly majority to pass policies more quickly and easily when he called the election two years early; BBC News described the call as an attempt to shore up party power. The NDP was projected to win 27 seats, while the BC Green Party won two. Eby resigned as provincial NDP leader and accepted "full responsibility" for the result.
-nut_graf: The projected result would give Doerkson a Conservative majority after an NDP government led by David Eby. Doerkson's platform includes faster forestry and mining permits and a pledge to triple natural-gas production by 2035.
+lede: Lorne Doerkson is set to become British Columbia's premier after the Conservatives
+  were projected to take 64 of the Legislative Assembly's 93 seats in Saturday's snap
+  election. Outgoing Premier David Eby said his New Democratic Party needed a bigger
+  assembly majority to pass policies more quickly and easily when he called the election
+  two years early; BBC News described the call as an attempt to shore up party power.
+  The NDP was projected to win 27 seats, while the BC Green Party won two. Eby resigned
+  as provincial NDP leader and accepted "full responsibility" for the result.
+nut_graf: The projected result would give Doerkson a Conservative majority after an
+  NDP government led by David Eby. Doerkson's platform includes faster forestry and
+  mining permits and a pledge to triple natural-gas production by 2035.
 primary_entities:
 - Lorne Doerkson
 - David Eby
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +148,8 @@ cross_article_links:
   strength: 0.5529
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-carney-backs-pipeline-and-environmental-rule-changes-in-alberta
-  headline: Carney backs pipeline and environmental-rule changes in Alberta
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5817
-- slug: 2026-10-20-albertans-reject-path-to-independence-referendum-projections-show
-  headline: Albertans reject path to independence referendum, projections show
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5803
-- slug: 2026-10-07-parti-qu-b-cois-wins-quebec-election-but-falls-short-of-majority
-  headline: Parti Québécois wins Quebec election but falls short of majority
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6019
-- slug: 2026-10-06-parti-qu-b-cois-projected-to-win-quebec-election
-  headline: Parti Québécois projected to win Quebec election
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6046
-- slug: 2026-09-30-carney-rides-trump-confrontation-into-sweeping-canadian-policy-overhaul
-  headline: Carney rides Trump confrontation into sweeping Canadian policy overhaul
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6032
-- slug: 2026-09-17-canadians-voice-support-for-carney-s-eu-associate-member-welcome
-  headline: Canadians voice support for Carney's EU 'associate member' welcome
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5859
-- slug: 2026-09-01-carney-liberals-sweep-three-by-elections-after-us-trade-rupture
-  headline: Carney Liberals sweep three by-elections after US trade rupture
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6067
-- slug: 2026-08-11-connecticut-democrats-weigh-john-larson-s-bid-for-a-15th-term
-  headline: Connecticut Democrats weigh John Larson's bid for a 15th term
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5811
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5873
-- slug: 2026-06-24-burnham-s-path-to-no-10-clears-as-preps-for-government-accelerate
-  headline: Burnham's path to No 10 clears as preps for government accelerate
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6096
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5828
-- slug: 2026-06-25-unison-chief-endorses-ed-miliband-for-chancellor-in-burnham-government
-  headline: Unison chief endorses Ed Miliband for chancellor in Burnham government
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5898
-- slug: 2026-05-11-challenges-facing-starmer-to-stay-uk-prime-minister-explained
-  headline: Challenges facing Starmer to stay UK prime minister, explained
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6129
-- slug: 2026-05-09-starmer-faces-labour-leadership-pressure-after-local-election-losses
-  headline: Starmer faces Labour leadership pressure after local election losses
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6109
-- slug: 2026-06-19-labour-s-andy-burnham-wins-special-election-setting-up-starmer-showdown
-  headline: Labour's Andy Burnham wins special election, setting up Starmer showdown
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5811
-- slug: 2026-05-09-starmer-fights-to-keep-job-as-labour-lawmakers-call-for-resignation-after-local-
-  headline: Starmer fights to keep job as Labour lawmakers call for resignation after local election losses
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6042
-- slug: 2026-05-09-starmer-says-he-will-not-quit-after-labour-suffers-local-election-losses
-  headline: Starmer says he will not quit after Labour suffers local election losses
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6009
-- slug: 2026-05-09-starmer-refuses-to-quit-after-labour-routed-in-uk-local-elections
-  headline: Starmer refuses to quit after Labour routed in UK local elections
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5951
-- slug: 2026-05-10-uk-elections-starmer-faces-calls-to-resign-after-labour-losses
-  headline: 'UK elections: Starmer faces calls to resign after Labour losses'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5945
-- slug: 2026-05-11-contenders-to-replace-keir-starmer-as-labour-leader-face-uncertainty
-  headline: Contenders to replace Keir Starmer as Labour leader face uncertainty
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5921
+related_stories: []
 ---
-
 ## Lorne Doerkson set to become British Columbia premier after projected Conservative majority
 
 **Subtype:** fact

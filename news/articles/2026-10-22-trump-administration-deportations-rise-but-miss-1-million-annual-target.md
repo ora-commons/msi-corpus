@@ -1,9 +1,17 @@
 ---
 headline: Trump administration deportations rise but miss 1 million annual target
-secondary_headline: Department of Homeland Security stopped regular deportation-data releases in January 2025
+secondary_headline: Department of Homeland Security stopped regular deportation-data
+  releases in January 2025
 publish_date: '2026-10-22'
-lede: A Migration Policy Institute report estimated that the Trump administration deported about 660,000 people during the last fiscal year, up from 620,000 in its first year as arrests ramped up across the United States. The estimate exceeded the yearly average from 2021 to 2024 under Joe Biden but fell short of the administration's promise of 1 million deportations annually.
-nut_graf: The findings show a substantial rise in removals, but they do not resolve the gap between MPI's analysis and the administration's own figures. With regular Department of Homeland Security releases stopped, the public lacks routinely updated federal data to assess the annual estimate or the administration's 1.2 million total.
+lede: A Migration Policy Institute report estimated that the Trump administration
+  deported about 660,000 people during the last fiscal year, up from 620,000 in its
+  first year as arrests ramped up across the United States. The estimate exceeded
+  the yearly average from 2021 to 2024 under Joe Biden but fell short of the administration's
+  promise of 1 million deportations annually.
+nut_graf: The findings show a substantial rise in removals, but they do not resolve
+  the gap between MPI's analysis and the administration's own figures. With regular
+  Department of Homeland Security releases stopped, the public lacks routinely updated
+  federal data to assess the annual estimate or the administration's 1.2 million total.
 primary_entities:
 - Donald Trump
 - Migration Policy Institute
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,116 +147,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-trump-administration-deportations-rise-but-miss-1-million-annual-target.png
-  alt: 'Illustration accompanying article: Trump administration deportations rise but miss 1 million annual target'
+  alt: 'Illustration accompanying article: Trump administration deportations rise
+    but miss 1 million annual target'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
+  headline: Trump administration reshapes US immigration enforcement and admissions
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7692
 - slug: 2026-10-09-report-projects-2-152-yearly-social-security-reduction-from-trump-immigration-po
-  headline: Report projects $2,152 yearly Social Security reduction from Trump immigration policies
+  headline: Report projects $2,152 yearly Social Security reduction from Trump immigration
+    policies
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7376
+  strength: 0.7378
 - slug: 2026-10-01-researchers-dispute-trump-claim-linking-deportations-to-us-homicide-decline
   headline: Researchers dispute Trump claim linking deportations to US homicide decline
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7367
+  strength: 0.7363
 - slug: 2026-10-08-human-rights-watch-us-third-country-deportations-to-africa-are-unlawful
   headline: 'Human Rights Watch: US third-country deportations to Africa are unlawful'
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6834
+  strength: 0.6832
 - slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
   headline: Appeals court rules third-country deportation policy unlawful
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7199
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.678
+  strength: 0.72
 - slug: 2026-08-26-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-october-2022
   headline: ICE arrests hit 49,571 in July, highest monthly tally since October 2022
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7324
+  strength: 0.7325
 - slug: 2026-08-25-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-trump-took-office
-  headline: ICE arrests hit 49,571 in July, highest monthly tally since Trump took office
+  headline: ICE arrests hit 49,571 in July, highest monthly tally since Trump took
+    office
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.715
+  strength: 0.7151
 - slug: 2026-08-26-state-department-pauses-immigrant-visas-prepares-200-000-revocations
   headline: State Department pauses immigrant visas, prepares 200,000 revocations
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6791
-- slug: 2026-07-21-ice-arrested-43-138-in-june-highest-monthly-total-since-trump-took-office
-  headline: ICE arrested 43,138 in June, highest monthly total since Trump took office
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7456
-- slug: 2026-08-11-visa-revocations-top-175-000-under-trump-administration
-  headline: Visa revocations top 175,000 under Trump administration
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7138
-- slug: 2026-03-14-trump-administration-stops-releasing-key-immigration-data-researchers-say
-  headline: Trump administration stops releasing key immigration data, researchers say
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7673
-- slug: 2026-06-14-cuban-deportations-under-trump-more-than-double-first-term-tally
-  headline: Cuban deportations under Trump more than double first-term tally
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7233
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6924
-- slug: 2026-01-28-immigration-crackdown-slows-u-s-population-growth-to-0-5-percent
-  headline: Immigration crackdown slows U.S. population growth to 0.5 percent
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.7545
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7106
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7406
-- slug: 2026-06-30-npr-details-five-trump-immigration-strategies-across-enforcement-courts-and-dete
-  headline: NPR details five Trump immigration strategies across enforcement, courts, and detention
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6779
-- slug: 2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says
-  headline: Trump immigration policies, lower fertility to slow US population growth, CBO says
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7142
-- slug: 2026-02-14-trump-administration-spent-40m-on-third-country-deportations-report-says
-  headline: Trump administration spent $40M on third-country deportations, report says
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.7048
+  strength: 0.6789
 ---
-
 ## Trump administration deportations rise but miss 1 million annual target
 
 **Subtype:** fact

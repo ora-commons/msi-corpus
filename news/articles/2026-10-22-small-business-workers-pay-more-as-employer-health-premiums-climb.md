@@ -1,9 +1,18 @@
 ---
 headline: Small-business workers pay more as employer health premiums climb
-secondary_headline: KFF survey finds worker family premium contributions rose 9% to $7,471
+secondary_headline: KFF survey finds worker family premium contributions rose 9% to
+  $7,471
 publish_date: '2026-10-22'
-lede: Workers covered by employer-sponsored health insurance paid more toward their premiums in 2026, with employees at small businesses bearing the sharpest increases. The 2026 Employer Health Benefits Survey, released Thursday by health care research nonprofit KFF, found covered workers contributed an average of $7,471 toward family coverage premiums, up roughly 9%, or $621, from last year.
-nut_graf: The increases land as health care affordability becomes an important issue for voters in the midterm elections, and the workers hit hardest are concentrated at the smaller employers that employ nearly half of private-sector workers. Matthew Rae said the larger worker share brings up affordability, while Jenna Caligaris described her firm's pressure to maintain coverage and stay competitive.
+lede: Workers covered by employer-sponsored health insurance paid more toward their
+  premiums in 2026, with employees at small businesses bearing the sharpest increases.
+  The 2026 Employer Health Benefits Survey, released Thursday by health care research
+  nonprofit KFF, found covered workers contributed an average of $7,471 toward family
+  coverage premiums, up roughly 9%, or $621, from last year.
+nut_graf: The increases land as health care affordability becomes an important issue
+  for voters in the midterm elections, and the workers hit hardest are concentrated
+  at the smaller employers that employ nearly half of private-sector workers. Matthew
+  Rae said the larger worker share brings up affordability, while Jenna Caligaris
+  described her firm's pressure to maintain coverage and stay competitive.
 primary_entities:
 - KFF
 - Small Business Administration
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +151,46 @@ related_stories:
   headline: KFF finds family health insurance premiums average $28,000
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8115
+  strength: 0.8116
 - slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
+  headline: Twenty million Medicaid enrollees face new work requirements starting
+    January 1
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6629
+  strength: 0.6618
 - slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
   headline: KFF poll finds Medicare for All support at decade high
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6574
+  strength: 0.6567
 - slug: 2026-09-21-starbucks-baristas-report-surging-health-insurance-premiums-union-survey-finds
-  headline: Starbucks baristas report surging health insurance premiums, union survey finds
+  headline: Starbucks baristas report surging health insurance premiums, union survey
+    finds
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6787
+  strength: 0.6778
 - slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
   headline: CDC reports US adults' produce consumption rises with income
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6617
+  strength: 0.6632
 - slug: 2026-09-15-census-bureau-reports-us-family-income-rose-2-6-in-2025-poverty-fell-to-10-2
-  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell to 10.2%
+  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell
+    to 10.2%
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6705
+  strength: 0.6711
 - slug: 2026-09-07-us-unions-gain-411-000-members-in-2025-biggest-jump-since-2008
   headline: US unions gain 411,000 members in 2025, biggest jump since 2008
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6622
+  strength: 0.6633
 - slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
   headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7299
-- slug: 2026-07-08-aca-insurers-seek-14-median-premium-increase-for-2027
-  headline: ACA insurers seek 14% median premium increase for 2027
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6926
-- slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
-  headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6937
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7351
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-rise
-  headline: ACA enrollment projected to drop by nearly 5 million as costs rise
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.715
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
-  headline: ACA enrollment projected to drop by nearly 5 million as costs spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7134
-- slug: 2026-05-20-aca-enrollment-projected-to-drop-sharply-amid-rising-costs
-  headline: ACA Enrollment Projected to Drop Sharply Amid Rising Costs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7019
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6565
-- slug: 2026-06-18-poll-finds-only-half-of-americans-can-afford-quality-health-care
-  headline: Poll finds only half of Americans can afford quality health care
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6611
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  headline: ACA health subsidies expire, leaving millions facing sharply higher premiums in 2026
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.707
-- slug: 2026-01-01-health-care-rises-as-a-priority-for-americans-poll-finds
-  headline: Health care rises as a priority for Americans, poll finds
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7067
-- slug: 2026-01-04-health-care-rises-as-top-government-priority-for-americans-in-2026-poll
-  headline: Health care rises as top government priority for Americans in 2026 poll
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6919
-- slug: 2026-01-03-health-care-rises-as-a-priority-for-americans-poll-finds
-  headline: Health care rises as a priority for Americans, poll finds
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6919
+  strength: 0.7297
 ---
-
 ## Small-business workers pay more as employer health premiums climb
 
 **Subtype:** fact

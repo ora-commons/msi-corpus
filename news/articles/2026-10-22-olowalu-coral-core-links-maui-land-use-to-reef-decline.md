@@ -2,8 +2,18 @@
 headline: Olowalu coral core links Maui land use to reef decline
 secondary_headline: Chemical signatures trace Maui’s sugar era in Olowalu coral
 publish_date: '2026-10-22'
-lede: Researchers led by Sam Kekuewa used a 253-year-old coral core from Maui’s Olowalu reef to examine how land use affected reef growth from 1760 to 2013, a period covering the precolonial era, the rise and fall of the sugar-plantation economy and Maui’s development as a tourist center. The study, published in the September issue of Coral Reefs, found that growth began declining steeply in the late 1960s as the plantation economy boomed. The U.S. Geological Survey called the results the first long-term baseline for understanding ridge-to-reef connectivity on Maui.
-nut_graf: The study links 253 years of coral growth and chemistry to changes on Maui’s land, giving land managers historical context for keeping sediment out of nearshore waters, restoring vegetation and guiding ridge-to-shore decisions. Kekuewa said learning from the reef’s past was imperative for future management amid climate change, the Lahaina fire, more prevalent fires and increasing storm frequencies.
+lede: Researchers led by Sam Kekuewa used a 253-year-old coral core from Maui’s Olowalu
+  reef to examine how land use affected reef growth from 1760 to 2013, a period covering
+  the precolonial era, the rise and fall of the sugar-plantation economy and Maui’s
+  development as a tourist center. The study, published in the September issue of
+  Coral Reefs, found that growth began declining steeply in the late 1960s as the
+  plantation economy boomed. The U.S. Geological Survey called the results the first
+  long-term baseline for understanding ridge-to-reef connectivity on Maui.
+nut_graf: The study links 253 years of coral growth and chemistry to changes on Maui’s
+  land, giving land managers historical context for keeping sediment out of nearshore
+  waters, restoring vegetation and guiding ridge-to-shore decisions. Kekuewa said
+  learning from the reef’s past was imperative for future management amid climate
+  change, the Lahaina fire, more prevalent fires and increasing storm frequencies.
 primary_entities:
 - Olowalu reef
 - Maui
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +154,18 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-iucn-projects-96-of-shallow-water-reefs-face-high-collapse-risk-before-2075
-  headline: IUCN projects 96% of shallow-water reefs face high collapse risk before 2075
+  headline: IUCN projects 96% of shallow-water reefs face high collapse risk before
+    2075
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6508
-- slug: 2026-10-22-first-of-its-kind-iucn-reef-assessment-spans-127-ecoregions-worldwide
-  headline: First-of-its-kind IUCN reef assessment spans 127 ecoregions worldwide
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6105
-- slug: 2026-10-09-kauai-residents-clear-roads-cook-meals-in-hurricane-lowell-s-wake
-  headline: Kauai residents clear roads, cook meals in Hurricane Lowell's wake
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6183
-- slug: 2026-09-23-palmyra-atoll-s-near-pristine-reefs-offer-coral-restoration-lessons
-  headline: Palmyra Atoll's near-pristine reefs offer coral restoration lessons
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6056
-- slug: 2026-09-14-noaa-documents-nine-new-deep-sea-sponge-species-off-alaska
-  headline: NOAA documents nine new deep-sea sponge species off Alaska
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.595
+  strength: 0.6516
 - slug: 2026-04-16-kaua-i-volunteers-map-coconut-rhinoceros-beetle-spread-offer-model-for-hawai-i
-  headline: Kaua'i volunteers map coconut rhinoceros beetle spread, offer model for Hawai'i
+  headline: Kaua'i volunteers map coconut rhinoceros beetle spread, offer model for
+    Hawai'i
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6642
-- slug: 2026-04-01-how-a-hawaii-seabird-thrived-amid-honolulu-s-urban-sprawl
-  headline: How a Hawaii seabird thrived amid Honolulu’s urban sprawl
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6369
-- slug: 2026-01-12-five-alal-survive-first-year-in-maui-forests-after-two-decades-out-of-the-wild
-  headline: Five ʻalalā survive first year in Maui forests after two decades out of the wild
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6445
-- slug: 2026-02-19-hawaii-residents-oppose-plan-to-add-more-telescopes-atop-haleakal
-  headline: Hawaii residents oppose plan to add more telescopes atop Haleakalā
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6361
-- slug: 2026-05-16-hawaii-s-small-farmers-face-50-million-in-damage-after-worst-floods-in-20-years
-  headline: Hawaii's small farmers face $50 million in damage after worst floods in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6081
-- slug: 2026-03-24-worst-hawaii-floods-in-20-years-leave-homes-damaged-and-dozens-rescued-on-oahu
-  headline: Worst Hawaii floods in 20 years leave homes damaged and dozens rescued on Oahu
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6219
-- slug: 2026-04-11-hawaii-flooding-likely-diluted-pesticide-risk-but-bacteria-remain-concern
-  headline: Hawaii flooding likely diluted pesticide risk, but bacteria remain concern
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6111
-- slug: 2026-03-14-beyond-the-burn-zone-maui-wildfires-linked-to-widespread-mental-health-harm
-  headline: 'Beyond the burn zone: Maui wildfires linked to widespread mental health harm'
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6126
-- slug: 2026-05-16-small-farmers-in-a-bind-after-hawaii-s-worst-flooding-in-20-years
-  headline: Small farmers in a bind after Hawaii’s worst flooding in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5916
-- slug: 2026-03-22-hawaii-faces-worst-flooding-in-20-years-as-officials-warn-of-dam-risk
-  headline: Hawaii faces worst flooding in 20 years as officials warn of dam risk
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6085
-- slug: 2026-03-27-honolulu-officials-delayed-evacuation-orders-as-oahu-s-north-shore-flooded
-  headline: Honolulu officials delayed evacuation orders as Oahu’s North Shore flooded
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6071
-- slug: 2026-03-31-neglected-north-shore-waterways-worsened-hawaii-floods-residents-say
-  headline: Neglected North Shore waterways worsened Hawaii floods, residents say
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6039
-- slug: 2026-04-11-beetle-found-on-moloka-i-for-first-time-as-hawaii-mounts-surveys
-  headline: Beetle found on Molokaʻi for first time as Hawaii mounts surveys
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5961
-- slug: 2026-03-21-over-5-500-ordered-to-evacuate-as-flooding-threatens-oahu-dam
-  headline: Over 5,500 ordered to evacuate as flooding threatens Oahu dam
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.5965
-- slug: 2026-04-15-hawaiian-electric-flood-zone-issue-clouds-waiau-power-project-loan-plans
-  headline: Hawaiian Electric flood-zone issue clouds Waiau power project loan plans
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5891
+  strength: 0.6634
 ---
-
 ## Olowalu coral core links Maui land use to reef decline
 
 **Subtype:** fact

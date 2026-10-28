@@ -1,9 +1,20 @@
 ---
 headline: U.S. manufacturers add jobs with higher skill requirements
-secondary_headline: From 2015 to 2025, production-occupation jobs fell while management, business and financial-operations roles expanded
+secondary_headline: From 2015 to 2025, production-occupation jobs fell while management,
+  business and financial-operations roles expanded
 publish_date: '2026-10-26'
-lede: U.S. manufacturers have increased their head count by 72,000 since December after years of declining factory employment. The Wall Street Journal reported that the hiring recovery is shifting toward management, business operations and more technical work as automation changes factory work. Many of the new roles require advanced education or training, raising concerns about worker access and potential skilled-worker shortages.
-nut_graf: The Wall Street Journal reported that higher-skill jobs tend to pay better and create greater profits for employers, boosting growth; economist Susan Houseman said those jobs often involve less “drudgery and mind-numbing tasks.” The shift toward higher-skill factory work also raises barriers for workers without advanced degrees. Employers and industry groups are expanding training as they try to prevent skilled-worker shortages in a more technology-centric manufacturing economy.
+lede: U.S. manufacturers have increased their head count by 72,000 since December
+  after years of declining factory employment. The Wall Street Journal reported that
+  the hiring recovery is shifting toward management, business operations and more
+  technical work as automation changes factory work. Many of the new roles require
+  advanced education or training, raising concerns about worker access and potential
+  skilled-worker shortages.
+nut_graf: The Wall Street Journal reported that higher-skill jobs tend to pay better
+  and create greater profits for employers, boosting growth; economist Susan Houseman
+  said those jobs often involve less “drudgery and mind-numbing tasks.” The shift
+  toward higher-skill factory work also raises barriers for workers without advanced
+  degrees. Employers and industry groups are expanding training as they try to prevent
+  skilled-worker shortages in a more technology-centric manufacturing economy.
 primary_entities:
 - United States
 - Swift Coat
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +155,45 @@ related_stories:
   headline: U.S. employers add 29,000 jobs as job searches take longer
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6711
-- slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
-  headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.668
+  strength: 0.6707
 - slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
   headline: U.S. employers are expected to add 65,000 jobs in August
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6971
+  strength: 0.6961
 - slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
   headline: US manufacturers pour hundreds of millions into AI data center buildout
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6745
+  strength: 0.6734
 - slug: 2026-08-06-jobless-benefit-filings-edge-higher-while-layoffs-stay-low
   headline: Jobless-benefit filings edge higher while layoffs stay low
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6846
+  strength: 0.6836
 - slug: 2026-07-27-major-u-s-companies-resume-hiring-as-ai-s-limits-become-clear
   headline: Major U.S. companies resume hiring as AI's limits become clear
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6927
+  strength: 0.6928
 - slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
+  headline: U.S. labor force faces historic contraction as demographic pressure raises
+    the stakes for AI adoption
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6999
+  strength: 0.7001
 - slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
   headline: AI data center construction booms as factory building slows
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6798
+  strength: 0.6786
 - slug: 2026-06-06-big-business-and-philanthropies-pour-400-million-into-skilled-trades-training
-  headline: Big business and philanthropies pour $400 million into skilled trades training
+  headline: Big business and philanthropies pour $400 million into skilled trades
+    training
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.707
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6968
-- slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
-  headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6736
-- slug: 2026-01-09-u-s-adds-50-000-jobs-in-december-2025-posts-weakest-hiring-since-pandemic
-  headline: U.S. adds 50,000 jobs in December; 2025 posts weakest hiring since pandemic
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7084
-- slug: 2026-02-12-strong-january-hiring-lifts-unemployment-to-4-3-after-heavy-2024-cuts
-  headline: Strong January hiring lifts unemployment to 4.3% after heavy 2024 cuts
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.7042
-- slug: 2026-06-02-u-s-job-openings-hit-two-year-high-at-7-6-million-in-april
-  headline: U.S. job openings hit two-year high at 7.6 million in April
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6724
-- slug: 2026-01-28-layoffs-accelerate-across-corporations-as-hiring-stalls-nationwide
-  headline: Layoffs accelerate across corporations as hiring stalls nationwide
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.7028
-- slug: 2026-03-19-how-trump-s-tariffs-have-hurt-u-s-manufacturers-instead-of-helping-them
-  headline: How Trump’s tariffs have hurt U.S. manufacturers instead of helping them
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6916
-- slug: 2026-04-04-surprise-jobs-rebound-lifts-us-employment-unemployment-dips-to-4-3
-  headline: Surprise jobs rebound lifts US employment; unemployment dips to 4.3%
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6839
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  headline: Weekly jobless claims rise to 208,000 as labor market momentum slows
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6945
-- slug: 2026-04-07-custom-fit-demand-rises-but-fewer-tailors-are-left-to-do-the-work
-  headline: Custom-fit demand rises, but fewer tailors are left to do the work
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6808
-- slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  headline: Job openings near 5-year low in November as low-hire, low-fire market persists
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6873
+  strength: 0.706
 ---
-
 ## U.S. manufacturers add jobs with higher skill requirements
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Independent Senate candidates run in four Trump-won states
-secondary_headline: Nebraska Democrats back Osborn as Montana Democrats divide over Bodnar
+secondary_headline: Nebraska Democrats back Osborn as Montana Democrats divide over
+  Bodnar
 publish_date: '2026-10-25'
-lede: Four independent candidates are running for Senate in Idaho, South Dakota, Montana and Nebraska, states President Trump won handily, as some Democrats back independents they hope can deny Republicans a Senate majority. NPR reported that President Trump's sinking approval ratings and public frustration over affordability buoyed the campaigns, whose candidates argue they offer voters a winning case. Nebraska rancher Dan Morgan supports Dan Osborn, while prominent Montana Democrats have endorsed Seth Bodnar over nominee Alani Bankhead.
-nut_graf: The Democratic strategy gives independents a route to compete in red-leaning states, but the races expose a party divided over whether outsiders can defeat Republicans without weakening its own organization. Nebraska Democrats made their support for Osborn explicit; in Montana, endorsements for Bodnar have created what University of Montana professor Rob Saldin called a bitter split around Democratic nominee Alani Bankhead.
+lede: Four independent candidates are running for Senate in Idaho, South Dakota, Montana
+  and Nebraska, states President Trump won handily, as some Democrats back independents
+  they hope can deny Republicans a Senate majority. NPR reported that President Trump's
+  sinking approval ratings and public frustration over affordability buoyed the campaigns,
+  whose candidates argue they offer voters a winning case. Nebraska rancher Dan Morgan
+  supports Dan Osborn, while prominent Montana Democrats have endorsed Seth Bodnar
+  over nominee Alani Bankhead.
+nut_graf: The Democratic strategy gives independents a route to compete in red-leaning
+  states, but the races expose a party divided over whether outsiders can defeat Republicans
+  without weakening its own organization. Nebraska Democrats made their support for
+  Osborn explicit; in Montana, endorsements for Bodnar have created what University
+  of Montana professor Rob Saldin called a bitter split around Democratic nominee
+  Alani Bankhead.
 primary_entities:
 - Dan Osborn
 - Seth Bodnar
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,110 +163,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
+  headline: Candidates campaign directly with rural voters in the midterms
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7173
+- slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
+  headline: Polls show narrower Democratic lead in competitive House seats
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6536
 - slug: 2026-10-13-173-independent-house-candidates-test-the-size-of-america-s-political-middle
-  headline: 173 independent House candidates test the size of America's political middle
+  headline: 173 independent House candidates test the size of America's political
+    middle
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6807
+  strength: 0.6808
 - slug: 2026-10-13-senate-leadership-fund-adds-8m-to-defend-ricketts-nebraska-seat
   headline: Senate Leadership Fund adds $8M to defend Ricketts' Nebraska seat
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6697
+  strength: 0.6706
 - slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
   headline: Ten midterm races outside the spotlight carry upset potential
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6555
-- slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
-  headline: Democratic Senate candidates split on Medicare for All ahead of midterms
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6514
+  strength: 0.6562
 - slug: 2026-09-24-leaked-audio-shows-osborn-calling-border-wall-a-symbol-of-racism
   headline: Leaked audio shows Osborn calling border wall 'a symbol of racism'
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7379
+  strength: 0.7385
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6576
+  strength: 0.6577
 - slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
   headline: Polls, forecasters favor Democrats as 2026 midterms near
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6655
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6842
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6545
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6516
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6932
-- slug: 2026-05-16-democrats-test-red-state-strategy-by-backing-independents-in-some-races
-  headline: Democrats test red-state strategy by backing independents in some races
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7938
-- slug: 2026-05-16-democrats-test-red-state-strategy-backing-independents-over-own-nominees
-  headline: 'Democrats test red-state strategy: backing independents over own nominees'
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.787
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6849
-- slug: 2026-06-09-voters-head-to-polls-in-maine-nevada-south-carolina-primaries
-  headline: Voters head to polls in Maine, Nevada, South Carolina primaries
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6842
-- slug: 2026-05-10-nebraska-s-tuesday-primary-features-democratic-infighting-over-fake-candidates
-  headline: Nebraska's Tuesday primary features Democratic infighting over 'fake' candidates
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6994
-- slug: 2026-05-10-nebraska-primaries-ricketts-faces-gop-challengers-and-democrats-pick-senate-nomi
-  headline: 'Nebraska primaries: Ricketts faces GOP challengers and Democrats pick Senate nominees'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6742
-- slug: 2026-05-06-trump-backed-candidates-win-majority-of-gop-primary-races-for-indiana-senate
-  headline: Trump-backed candidates win majority of GOP primary races for Indiana Senate
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.667
-- slug: 2026-05-14-too-close-to-call-nebraska-democratic-house-primary-puts-blue-dot-at-stake
-  headline: Too-close-to-call Nebraska Democratic House primary puts 'blue dot' at stake
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6606
-- slug: 2026-04-01-democrats-clash-internally-over-strategy-to-win-back-the-senate
-  headline: Democrats clash internally over strategy to win back the Senate
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6739
+  strength: 0.6657
 analyses:
-- '2026-10-25-independent-senate-campaigns-test-democratic-party-building-strategies'
+- 2026-10-25-independent-senate-campaigns-test-democratic-party-building-strategies
 ---
-
 ## Independent Senate candidates run in four Trump-won states
 
 **Subtype:** fact
