@@ -161,6 +161,8 @@ related_stories:
   publish_date: '2026-10-14'
   relation: related
   strength: 0.6626
+analyses:
+- '2026-10-27-australian-government-weighs-authority-to-amend-inaccurate-aged-care-results'
 ---
 ## Greens seek human override for incorrect aged care funding decisions
 
@@ -208,3 +210,8 @@ For older people whose home support funding depends on the tool, the immediate q
 **Publication date:** 2026-10-27
 **Title:** Greens push for human override in aged care assessment after ombudsman’s scathing report into algorithm tool
 **URL:** https://www.theguardian.com/australia-news/2026/oct/28/greens-push-for-human-overridge-in-aged-care-assessment-after-ombudsmans-scathing-report-into-algorithm-tool
+
+---
+
+<!-- analysis-link:2026-10-27-australian-government-weighs-authority-to-amend-inaccurate-aged-care-results -->
+**Going deeper:** [Read MSI's analysis of who can amend aged-care funding results →](/analyses/2026-10-27-australian-government-weighs-authority-to-amend-inaccurate-aged-care-results)

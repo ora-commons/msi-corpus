@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-10-04'
   relation: related
   strength: 0.6722
+analyses:
+- '2026-10-27-wall-street-journal-poll-maps-cross-ideological-openings-and-coalition-limits'
 ---
 ## Poll finds cross-ideological support for many proposals, sharp divides on others
 
@@ -246,3 +248,8 @@ Zitner's reporting includes a stint covering the emerging sciences of biotechnol
 **Publication date:** 2026-10-27
 **Title:** Conservatives and Liberals Agree on Many of These Policies. Do You, Too?
 **URL:** https://www.wsj.com/politics/policy/conservatives-and-liberals-agree-on-many-of-these-policies-do-you-too-ed9a36eb
+
+---
+
+<!-- analysis-link:2026-10-27-wall-street-journal-poll-maps-cross-ideological-openings-and-coalition-limits -->
+**Going deeper:** [Read MSI's analysis of Cross-ideological coalitions and their limits →](/analyses/2026-10-27-wall-street-journal-poll-maps-cross-ideological-openings-and-coalition-limits)
