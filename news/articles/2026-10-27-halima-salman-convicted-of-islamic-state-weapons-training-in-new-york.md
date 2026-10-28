@@ -2,8 +2,21 @@
 headline: Halima Salman convicted of Islamic State weapons training in New York
 secondary_headline: Defense asks judge to acquit; sentencing set for Feb. 2
 publish_date: '2026-10-27'
-lede: A jury in New York convicted Halima Salman, a 27-year-old U.S. citizen born in Brooklyn, on Tuesday of receiving weapons training from the Islamic State group. AP reported that Salman's father took her to Syria at 17 and arranged her marriage to an Islamic State fighter; Salman testified that she was unable to leave once there. Jurors heard evidence that included a video of Salman holding an assault rifle, a photograph of her with the group's flag and loving text messages she sent to her husband.
-nut_graf: The case turned on how much of what Salman did in Syria was her own choice, and the sides framed it differently. Prosecutors argued that she pledged allegiance, received weapons training and sent loving text messages to her husband. AP reported that Salman's father arranged the marriage. The defense argued that she was a teenager taken across a border by her father and unable to leave Syria, and that the Islamic State fighter she married issued orders she had to follow. With sentencing set for Feb. 2, the defense has asked the judge to set aside the verdict and acquit her, a request that is often made but rarely granted.
+lede: A jury in New York convicted Halima Salman, a 27-year-old U.S. citizen born
+  in Brooklyn, on Tuesday of receiving weapons training from the Islamic State group.
+  AP reported that Salman's father took her to Syria at 17 and arranged her marriage
+  to an Islamic State fighter; Salman testified that she was unable to leave once
+  there. Jurors heard evidence that included a video of Salman holding an assault
+  rifle, a photograph of her with the group's flag and loving text messages she sent
+  to her husband.
+nut_graf: The case turned on how much of what Salman did in Syria was her own choice,
+  and the sides framed it differently. Prosecutors argued that she pledged allegiance,
+  received weapons training and sent loving text messages to her husband. AP reported
+  that Salman's father arranged the marriage. The defense argued that she was a teenager
+  taken across a border by her father and unable to leave Syria, and that the Islamic
+  State fighter she married issued orders she had to follow. With sentencing set for
+  Feb. 2, the defense has asked the judge to set aside the verdict and acquit her,
+  a request that is often made but rarely granted.
 primary_entities:
 - Halima Salman
 - Islamic State
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +155,8 @@ cross_article_links:
   strength: 0.5978
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-17-sharifullah-receives-20-year-federal-term-for-iskp-support
-  headline: Sharifullah receives 20-year federal term for ISKP support
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6008
-- slug: 2026-09-18-us-court-sentences-former-syrian-prison-chief-to-60-years-for-torture
-  headline: US court sentences former Syrian prison chief to 60 years for torture
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5866
-- slug: 2026-08-20-fbi-arrests-albany-woman-in-alleged-isis-plot-targeting-state-capitol
-  headline: FBI arrests Albany woman in alleged ISIS plot targeting state capitol
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.579
-- slug: 2026-07-20-judge-to-rule-on-pamela-smart-s-petition-for-new-trial
-  headline: Judge to rule on Pamela Smart’s petition for new trial
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5856
-- slug: 2026-03-10-authorities-say-nyc-explosives-suspects-claimed-islamic-state-sympathies
-  headline: Authorities say NYC explosives suspects claimed Islamic State sympathies
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6377
-- slug: 2026-04-16-two-men-plead-not-guilty-in-is-inspired-bomb-plot-outside-new-york-mayor-s-mansi
-  headline: Two men plead not guilty in IS-inspired bomb plot outside New York mayor's mansion
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6177
-- slug: 2026-05-13-manhattan-jury-hears-testimony-in-murder-for-hire-trial-for-nyc-art-dealer
-  headline: Manhattan jury hears testimony in murder-for-hire trial for NYC art dealer
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6079
-- slug: 2026-05-23-husband-of-nyc-art-dealer-convicted-of-hiring-hitman-for-killing-in-brazil
-  headline: Husband of NYC art dealer convicted of hiring hitman for killing in Brazil
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5955
-- slug: 2026-05-22-estranged-husband-convicted-in-murder-for-hire-killing-of-nyc-art-dealer
-  headline: Estranged husband convicted in murder-for-hire killing of NYC art dealer
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5917
-- slug: 2026-06-01-iraqi-national-pleads-not-guilty-in-manhattan-to-plotting-18-european-attacks
-  headline: Iraqi national pleads not guilty in Manhattan to plotting 18 European attacks
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5855
-- slug: 2026-02-23-woman-adopted-by-u-s-war-veteran-faces-deportation-to-iran
-  headline: Woman adopted by U.S. war veteran faces deportation to Iran
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6101
-- slug: 2026-05-22-daniel-sikkema-convicted-in-murder-for-hire-of-nyc-art-dealer-brent-sikkema
-  headline: Daniel Sikkema convicted in murder-for-hire of NYC art dealer Brent Sikkema
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5864
-- slug: 2026-03-12-surveillance-video-shows-man-buying-fuse-at-fireworks-store-before-nyc-protest
-  headline: Surveillance video shows man buying fuse at fireworks store before NYC protest
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6024
-- slug: 2026-04-07-dashcam-recorded-men-s-plot-to-use-bombs-at-nyc-protest-prosecutors-say
-  headline: Dashcam recorded men’s plot to use bombs at NYC protest, prosecutors say
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.596
-- slug: 2026-01-29-federal-judge-sentences-man-to-15-years-for-plot-to-kill-alinejad
-  headline: Federal judge sentences man to 15 years for plot to kill Alinejad
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6007
-- slug: 2026-04-09-pakistani-man-pleads-guilty-in-plot-targeting-brooklyn-jewish-center
-  headline: Pakistani man pleads guilty in plot targeting Brooklyn Jewish center
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5898
-- slug: 2026-02-26-brooklyn-man-convicted-of-hate-crime-charges-in-manhattan-assaults
-  headline: Brooklyn man convicted of hate crime charges in Manhattan assaults
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5939
-- slug: 2026-02-25-brooklyn-man-convicted-of-hate-crime-charges-in-manhattan-assaults
-  headline: Brooklyn man convicted of hate crime charges in Manhattan assaults
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5923
-- slug: 2026-04-30-jury-convicts-man-of-aiding-is-group-deadlocks-on-kabul-airport-bomb-link
-  headline: Jury convicts man of aiding IS group, deadlocks on Kabul airport bomb link
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5774
-- slug: 2026-03-31-fbi-says-michigan-synagogue-attacker-was-inspired-by-hezbollah
-  headline: FBI says Michigan synagogue attacker was inspired by Hezbollah
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5857
+related_stories: []
 ---
-
 ## Halima Salman convicted of Islamic State weapons training in New York
 
 **Subtype:** fact

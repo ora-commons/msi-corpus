@@ -2,8 +2,21 @@
 headline: Louisiana residents sue over SpaceX tax deal process
 secondary_headline: Complaint alleges eight violations across four meetings
 publish_date: '2026-10-27'
-lede: Three Vermilion Parish residents and the Vermilion Citizens Coalition sued parish officials in Louisiana on Monday, alleging that decisions connected to SpaceX's $100 billion Starbase Louisiana undertaking violated state open-meeting law. The complaint identifies eight alleged violations across four meetings in July and August, including an ExxonMobil settlement, the revival of a parish industrial development board created to facilitate the tax agreement and approval of a payment in lieu of taxes agreement, known as a PILOT. The PILOT agreement exempts Starbase Louisiana from local property taxes but requires SpaceX to pay $25 million a year. The suit says the relief it seeks could void the tax-incentive agreement reached to land the $100 billion undertaking.
-nut_graf: The dispute centers on the terms attached to the SpaceX Starbase Louisiana tax agreement and on the public-notice process used to approve them. The PILOT agreement supplies $25 million a year in public payments while exempting Starbase Louisiana from local property taxes. The plaintiffs say they are not challenging the project itself, but how parish officials handled land, board appointments and tax terms.
+lede: Three Vermilion Parish residents and the Vermilion Citizens Coalition sued parish
+  officials in Louisiana on Monday, alleging that decisions connected to SpaceX's
+  $100 billion Starbase Louisiana undertaking violated state open-meeting law. The
+  complaint identifies eight alleged violations across four meetings in July and August,
+  including an ExxonMobil settlement, the revival of a parish industrial development
+  board created to facilitate the tax agreement and approval of a payment in lieu
+  of taxes agreement, known as a PILOT. The PILOT agreement exempts Starbase Louisiana
+  from local property taxes but requires SpaceX to pay $25 million a year. The suit
+  says the relief it seeks could void the tax-incentive agreement reached to land
+  the $100 billion undertaking.
+nut_graf: The dispute centers on the terms attached to the SpaceX Starbase Louisiana
+  tax agreement and on the public-notice process used to approve them. The PILOT agreement
+  supplies $25 million a year in public payments while exempting Starbase Louisiana
+  from local property taxes. The plaintiffs say they are not challenging the project
+  itself, but how parish officials handled land, board appointments and tax terms.
 primary_entities:
 - SpaceX
 - Starbase Louisiana
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-starwood-capital-group-faces-expanding-dispute-over-princeville-luxury-developme
-  headline: Starwood Capital Group faces expanding dispute over Princeville luxury development
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6049
-- slug: 2026-09-24-tesla-and-spacex-announce-major-texas-and-louisiana-infrastructure-projects
-  headline: Tesla and SpaceX announce major Texas and Louisiana infrastructure projects
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6415
 - slug: 2026-08-25-spacex-to-build-100-billion-starbase-complex-in-louisiana
   headline: SpaceX to build $100 billion Starbase complex in Louisiana
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7288
-- slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
-  headline: Advocates allege datacenter developers split emissions to avoid EPA review
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5955
+  strength: 0.7296
 - slug: 2026-08-10-pecan-island-residents-oppose-spacex-launch-site-over-bird-habitat
   headline: Pecan Island residents oppose SpaceX launch site over bird habitat
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6889
-- slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.635
-- slug: 2026-08-07-gilroy-residents-protest-amazon-data-center-approved-without-public-vote
-  headline: Gilroy residents protest Amazon data center approved without public vote
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5923
-- slug: 2026-07-10-110m-in-texas-starlink-grants-sure-looks-like-corruption-democratic-ag-nominee-s
-  headline: $110M in Texas Starlink grants 'sure looks like' corruption, Democratic AG nominee says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6255
-- slug: 2026-07-10-texas-democrat-says-110m-starlink-grants-look-like-corruption
-  headline: Texas Democrat says $110M Starlink grants look like corruption
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6188
-- slug: 2026-06-10-environmental-groups-sue-to-block-trump-administration-land-swap-with-spacex
-  headline: Environmental groups sue to block Trump administration land swap with SpaceX
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6423
-- slug: 2026-05-21-inside-spacex-s-ipo-filing-75b-raise-lockups-and-a-1m-person-mars-goal
-  headline: 'Inside SpaceX’s IPO filing: $75B raise, lockups, and a 1M-person Mars goal'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6425
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6398
-- slug: 2026-07-10-texas-democrat-pledges-starlink-grant-investigation-if-elected-ag
-  headline: Texas Democrat pledges Starlink grant investigation if elected AG
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.595
-- slug: 2026-05-22-spacex-ipo-prospectus-details-losses-lockups-and-a-1-million-person-mars-goal
-  headline: SpaceX IPO prospectus details losses, lockups and a 1 million-person Mars goal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.631
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6305
-- slug: 2026-04-28-california-regulators-apologize-to-elon-musk-in-spacex-lawsuit-settlement
-  headline: California regulators apologize to Elon Musk in SpaceX lawsuit settlement
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6389
-- slug: 2026-05-06-orleans-parish-school-board-votes-to-settle-2019-lawsuit-with-city
-  headline: Orleans Parish School Board votes to settle 2019 lawsuit with city
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6234
-- slug: 2026-04-17-supreme-court-sends-louisiana-environmental-lawsuit-to-federal-court
-  headline: Supreme Court sends Louisiana environmental lawsuit to federal court
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6289
-- slug: 2026-05-07-orleans-parish-school-board-settles-2019-lawsuit-over-city-tax-fee-skimming
-  headline: Orleans Parish School Board settles 2019 lawsuit over city tax-fee skimming
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6199
+  strength: 0.6895
 ---
-
 ## Louisiana residents sue over SpaceX tax deal process
 
 **Subtype:** fact
