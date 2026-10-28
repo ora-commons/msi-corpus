@@ -2,8 +2,14 @@
 headline: Cornell University reviews dorm placement of student accused of rape
 secondary_headline: Faculty may vote no confidence in Cornell's president
 publish_date: '2026-10-27'
-lede: Cornell University said it would review how housing officials handled the return of a student disciplined in connection with an alleged 2024 gang rape. According to a Cornell professor, the student was placed in a co-ed dorm with a roommate who did not know about his disciplinary history and remained there for two weeks after an accuser filed a lawsuit in September.
-nut_graf: The housing placement has drawn scrutiny of Cornell President Michael Kotlikoff as faculty debate a possible no-confidence vote, while New York’s attorney general handles the reopened investigation into the 2024 allegations.
+lede: Cornell University said it would review how housing officials handled the return
+  of a student disciplined in connection with an alleged 2024 gang rape. According
+  to a Cornell professor, the student was placed in a co-ed dorm with a roommate who
+  did not know about his disciplinary history and remained there for two weeks after
+  an accuser filed a lawsuit in September.
+nut_graf: The housing placement has drawn scrutiny of Cornell President Michael Kotlikoff
+  as faculty debate a possible no-confidence vote, while New York’s attorney general
+  handles the reopened investigation into the 2024 allegations.
 primary_entities:
 - Cornell University
 - Chi Phi
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +150,45 @@ related_stories:
   headline: Cornell president says he knew of assault report but didn't follow up
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8152
+  strength: 0.8147
 - slug: 2026-10-20-jane-doe-says-cornell-president-s-response-left-her-feeling-disbelieved
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7742
+  strength: 0.7743
 - slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
   headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7737
+  strength: 0.7734
 - slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
   headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8091
+  strength: 0.8086
 - slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
-  headline: The New York Times first publishes Doe's letter; her lawyer authenticates it
+  headline: The New York Times first publishes Doe's letter; her lawyer authenticates
+    it
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.734
+  strength: 0.7345
 - slug: 2026-10-23-jane-doe-s-lawyer-says-she-fears-for-her-safety-as-cornell-civil-case-advances
-  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case advances
+  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case
+    advances
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7113
+  strength: 0.711
 - slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
   headline: Cornell suspends fraternity parties for academic year after rape allegations
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7718
+  strength: 0.7713
 - slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
   headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8049
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7946
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7836
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7625
-- slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
-  headline: Cornell faculty file no-confidence resolution over sexual assault response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7504
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7452
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7662
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7545
-- slug: 2026-10-06-cornell-names-sally-yates-to-lead-independent-rape-case-review
-  headline: Cornell names Sally Yates to lead independent rape-case review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7291
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7239
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7497
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7329
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7441
+  strength: 0.8034
 ---
-
 ## Cornell University reviews dorm placement of student accused of rape
 
 **Subtype:** fact
