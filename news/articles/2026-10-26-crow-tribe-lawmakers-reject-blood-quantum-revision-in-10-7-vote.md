@@ -2,8 +2,18 @@
 headline: Crow Tribe lawmakers reject blood quantum revision in 10-7 vote
 secondary_headline: New legislation, executive action and a referendum remain possible
 publish_date: '2026-10-26'
-lede: The Crow Tribe's Legislature voted 10-7 on Wednesday to reject a bill that would have revised the tribe's blood quantum enrollment standard and expanded eligibility for tribal citizenship. Chairman Frank White Clay and tribal attorney Majel Russell said the tribe's enrollment has declined since 2023, while opposing senators cited scarce federal resources, constitutional requirements and inaccuracies in existing enrollment rolls.
-nut_graf: Wednesday's vote leaves the tribe's one-quarter blood quantum threshold in place. Frank White Clay and Majel Russell argued that declining enrollment required timely action, while opposing senators questioned whether the proposal went far enough and whether existing enrollment records were accurate. Frank White Clay could bring another bill or issue an executive order, while a constitutional referendum remains another route to change membership rules.
+lede: The Crow Tribe's Legislature voted 10-7 on Wednesday to reject a bill that would
+  have revised the tribe's blood quantum enrollment standard and expanded eligibility
+  for tribal citizenship. Chairman Frank White Clay and tribal attorney Majel Russell
+  said the tribe's enrollment has declined since 2023, while opposing senators cited
+  scarce federal resources, constitutional requirements and inaccuracies in existing
+  enrollment rolls.
+nut_graf: Wednesday's vote leaves the tribe's one-quarter blood quantum threshold
+  in place. Frank White Clay and Majel Russell argued that declining enrollment required
+  timely action, while opposing senators questioned whether the proposal went far
+  enough and whether existing enrollment records were accurate. Frank White Clay could
+  bring another bill or issue an executive order, while a constitutional referendum
+  remains another route to change membership rules.
 primary_entities:
 - Crow Tribe
 - Crow Tribal Legislative Branch
@@ -35,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,116 +145,24 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-crow-tribe-lawmakers-reject-blood-quantum-revision-in-10-7-vote.png
-  alt: 'Illustration accompanying article: Crow Tribe lawmakers reject blood quantum revision in 10-7 vote'
+  alt: 'Illustration accompanying article: Crow Tribe lawmakers reject blood quantum
+    revision in 10-7 vote'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-09-29-omb-draft-rule-would-ban-federal-grants-for-voter-registration-drives
-  headline: OMB draft rule would ban federal grants for voter registration drives
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5843
-- slug: 2026-09-09-trump-officials-propose-major-2030-census-overhaul-excluding-noncitizens
-  headline: Trump officials propose major 2030 census overhaul excluding noncitizens
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.604
-- slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
-  headline: Census proposal would exclude refugees and asylum seekers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5878
-- slug: 2026-07-23-black-creeks-sue-muscogee-nation-over-year-old-citizenship-order
-  headline: Black Creeks sue Muscogee Nation over year-old citizenship order
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6128
-- slug: 2026-07-30-lumbee-tribe-gains-federal-recognition-but-health-funding-remains-in-doubt
-  headline: Lumbee Tribe gains federal recognition, but health funding remains in doubt
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5978
-- slug: 2026-07-23-black-creek-freedmen-sue-muscogee-nation-over-citizenship-cards
-  headline: Black Creek Freedmen sue Muscogee Nation over citizenship cards
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6084
 - slug: 2026-03-28-montana-to-expand-eligibility-for-american-indian-college-tuition-waivers
   headline: Montana to expand eligibility for American Indian college tuition waivers
   publish_date: '2026-03-28'
   relation: related
-  strength: 0.6816
-- slug: 2026-02-28-tribal-citizens-descended-from-slaves-face-disparate-treatment-in-oklahoma
-  headline: Tribal citizens descended from slaves face disparate treatment in Oklahoma
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6394
-- slug: 2026-05-17-supreme-court-orders-review-of-native-american-voting-rights-act-ruling
-  headline: Supreme Court orders review of Native American Voting Rights Act ruling
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6128
-- slug: 2026-05-18-supreme-court-sends-native-american-voting-rights-case-back-for-review
-  headline: Supreme Court sends Native American voting-rights case back for review
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6112
-- slug: 2026-05-19-supreme-court-orders-review-of-native-american-voting-rights-case
-  headline: Supreme Court Orders Review of Native American Voting Rights Case
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6106
-- slug: 2026-05-01-voting-rights-ruling-puts-black-caucus-on-edge-as-districts-could-be-redrawn
-  headline: Voting rights ruling puts Black caucus on edge as districts could be redrawn
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6182
-- slug: 2026-05-19-supreme-court-sends-native-american-voting-rights-case-back-to-lower-court
-  headline: Supreme Court sends Native American voting rights case back to lower court
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5988
-- slug: 2026-05-16-civil-rights-groups-rally-in-alabama-after-supreme-court-weakens-voting-rights-a
-  headline: Civil rights groups rally in Alabama after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.591
-- slug: 2026-04-30-states-move-to-respond-after-supreme-court-ruling-limits-race-in-redistricting
-  headline: States move to respond after Supreme Court ruling limits race in redistricting
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.594
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration-citing-harm-to
-  headline: Montana judge blocks law limiting Election Day voter registration, citing harm to Native and young voters
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5884
-- slug: 2026-05-20-supreme-court-sends-native-voting-rights-enforcement-dispute-back-to-lower-court
-  headline: Supreme Court sends Native voting rights enforcement dispute back to lower court
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5845
-- slug: 2026-04-30-supreme-court-weakens-voting-rights-act-section-2-in-louisiana-case
-  headline: Supreme Court weakens Voting Rights Act Section 2 in Louisiana case
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5912
-- slug: 2026-02-26-kansas-law-invalidates-transgender-driver-s-licenses-and-birth-certificates
-  headline: Kansas law invalidates transgender driver's licenses and birth certificates
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.605
-- slug: 2026-05-02-supreme-court-hollows-voting-rights-act-s-section-2-in-louisiana-case
-  headline: Supreme Court hollows Voting Rights Act’s Section 2 in Louisiana case
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5886
+  strength: 0.6823
 ---
-
 ## Crow Tribe lawmakers reject blood quantum revision in 10-7 vote
 
 **Subtype:** fact

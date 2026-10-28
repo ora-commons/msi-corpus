@@ -2,8 +2,17 @@
 headline: Audi plans Q7, Q8 and Q9 production in Macon
 secondary_headline: Some Bratislava output shifts to Georgia plant amid tariff pressure
 publish_date: '2026-10-25'
-lede: Audi plans to build the Q7, Q8 and Q9 SUVs at a new factory in Macon, Georgia, and shift some production from Bratislava, Slovakia, to the Georgia plant. Audi said the $4bn (£3bn) investment in its first U.S. factory would create 4,500 jobs, with the company aiming to build 200,000 SUVs there. Audi chief executive Gernot Döllner announced the project on stage with Donald Trump at a campaign rally on Saturday night.
-nut_graf: The Macon project would move part of Audi's European production to the United States as Volkswagen faces U.S. tariffs and job cuts in Germany. Volkswagen has said Trump's tariffs cost up to €5bn (£4.2bn) a year before lower sales, and The Guardian said the Georgia factory may add to tensions in Germany, where the group has started cutting as many as 100,000 jobs and closing factories.
+lede: Audi plans to build the Q7, Q8 and Q9 SUVs at a new factory in Macon, Georgia,
+  and shift some production from Bratislava, Slovakia, to the Georgia plant. Audi
+  said the $4bn (£3bn) investment in its first U.S. factory would create 4,500 jobs,
+  with the company aiming to build 200,000 SUVs there. Audi chief executive Gernot
+  Döllner announced the project on stage with Donald Trump at a campaign rally on
+  Saturday night.
+nut_graf: The Macon project would move part of Audi's European production to the United
+  States as Volkswagen faces U.S. tariffs and job cuts in Germany. Volkswagen has
+  said Trump's tariffs cost up to €5bn (£4.2bn) a year before lower sales, and The
+  Guardian said the Georgia factory may add to tensions in Germany, where the group
+  has started cutting as many as 100,000 jobs and closing factories.
 primary_entities:
 - Audi
 - Volkswagen
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +160,44 @@ related_stories:
   headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8779
+  strength: 0.8774
 - slug: 2026-10-25-audi-plans-macon-plant-to-emphasize-gas-powered-vehicles-and-plug-in-hybrids
   headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8672
+  strength: 0.8675
 - slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
   headline: Audi sets 2027 construction start for its Macon plant
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8609
+  strength: 0.8611
 - slug: 2026-10-26-cavallo-benner-and-cademartori-criticize-d-llner-s-trump-rally-appearance
   headline: Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8032
+  strength: 0.804
 - slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
   headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6766
+  strength: 0.6779
 - slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
   headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7225
-- slug: 2026-10-07-u-s-ev-sales-fall-almost-50-from-2025-with-7-500-tax-credit-gone-prices-up
-  headline: U.S. EV sales fall almost 50% from 2025 with $7,500 tax credit gone, prices up
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6291
-- slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
-  headline: Trump pulls fuel-price levers as midterm elections approach
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6137
-- slug: 2026-10-02-macquarie-says-g7-diesel-release-won-t-fix-us-energy-problem
-  headline: Macquarie says G7 diesel release won't fix US energy problem
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6132
-- slug: 2026-09-21-german-auto-workers-protest-job-cuts-demand-policy-changes
-  headline: German auto workers protest job cuts, demand policy changes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6431
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-jobs-gas-hits-labor-day-record
-  headline: Jaguar Land Rover cuts 4,000 jobs; gas hits Labor Day record
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6285
-- slug: 2026-09-04-volkswagen-board-approves-100-000-job-cuts-by-2030
-  headline: Volkswagen board approves 100,000 job cuts by 2030
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6325
-- slug: 2026-09-03-volkswagen-names-marco-schubert-to-lead-north-american-business
-  headline: Volkswagen names Marco Schubert to lead North American business
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6316
-- slug: 2026-08-26-canada-s-joly-calls-trump-50-auto-tariff-threat-real
-  headline: Canada's Joly calls Trump 50% auto tariff threat 'real'
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6182
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6177
+  strength: 0.7223
 - slug: 2026-06-26-volkswagen-reportedly-planning-up-to-100-000-job-cuts-four-german-plant-closures
-  headline: Volkswagen reportedly planning up to 100,000 job cuts, four German plant closures
+  headline: Volkswagen reportedly planning up to 100,000 job cuts, four German plant
+    closures
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6724
+  strength: 0.6725
 - slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
   headline: Volkswagen plans to cut car lineup by up to half
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6531
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6243
-- slug: 2026-07-27-porsche-to-cut-5-000-jobs-via-early-retirement-in-agreement-with-workers
-  headline: Porsche to cut 5,000 jobs via early retirement in agreement with workers
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6152
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6166
+  strength: 0.6533
 ---
-
 ## Audi plans Q7, Q8 and Q9 production in Macon
 
 **Subtype:** fact

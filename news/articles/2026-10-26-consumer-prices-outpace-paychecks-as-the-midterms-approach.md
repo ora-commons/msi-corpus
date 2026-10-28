@@ -2,8 +2,23 @@
 headline: Consumer prices outpace paychecks as the midterms approach
 secondary_headline: Diesel costs pressure Republicans in Iowa, Kansas, Ohio and Texas
 publish_date: '2026-10-26'
-lede: One week before the midterm elections, Associated Press reported that consumer prices had risen faster than paychecks for the past 12 months, leaving the average family poorer. Misty Reeder, 48, said her rent had increased by hundreds of dollars during six years of renting, while Renee Blood, 57, said the economy had “improved quite well.” AP described the election as a referendum on President Donald Trump’s second term and said the frustration that powered his 2024 comeback could cost Republicans control of Congress.
-nut_graf: The midterm elections will serve as a referendum on President Donald Trump’s second term, and the same frustration that powered his 2024 comeback could cost Republicans control of Congress, Associated Press reported. Persistent inflation has overshadowed continued economic growth and a low unemployment rate. Voters have blamed Trump’s aggressive tariff policies and the ongoing war with Iran for higher costs, while record-high diesel prices have raised shipping and farming costs. Stephen Moore, who has advised Trump, said he wished Republicans would spend more time discussing rising median incomes and a record-setting stock market. Democratic candidates have accused Trump and other Republicans of corruptly pursuing policies that help billionaire donors at the expense of everyday Americans.
+lede: One week before the midterm elections, Associated Press reported that consumer
+  prices had risen faster than paychecks for the past 12 months, leaving the average
+  family poorer. Misty Reeder, 48, said her rent had increased by hundreds of dollars
+  during six years of renting, while Renee Blood, 57, said the economy had “improved
+  quite well.” AP described the election as a referendum on President Donald Trump’s
+  second term and said the frustration that powered his 2024 comeback could cost Republicans
+  control of Congress.
+nut_graf: The midterm elections will serve as a referendum on President Donald Trump’s
+  second term, and the same frustration that powered his 2024 comeback could cost
+  Republicans control of Congress, Associated Press reported. Persistent inflation
+  has overshadowed continued economic growth and a low unemployment rate. Voters have
+  blamed Trump’s aggressive tariff policies and the ongoing war with Iran for higher
+  costs, while record-high diesel prices have raised shipping and farming costs. Stephen
+  Moore, who has advised Trump, said he wished Republicans would spend more time discussing
+  rising median incomes and a record-setting stock market. Democratic candidates have
+  accused Trump and other Republicans of corruptly pursuing policies that help billionaire
+  donors at the expense of everyday Americans.
 primary_entities:
 - Donald Trump
 - U.S. Republican Party
@@ -55,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -71,17 +87,20 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-26'
-  caption: The chart shows the official U-3 unemployment rate, which stood at 4.2% in the Oct. 26 FRED vintage.
+  caption: The chart shows the official U-3 unemployment rate, which stood at 4.2%
+    in the Oct. 26 FRED vintage.
 - source: fred
   series_id: U6RATE
   transformation: raw
   as_of: '2026-10-26'
-  caption: The broader U-6 measure, which includes discouraged workers and involuntary part-time workers, stood at 7.6% in the same FRED vintage.
+  caption: The broader U-6 measure, which includes discouraged workers and involuntary
+    part-time workers, stood at 7.6% in the same FRED vintage.
 - source: fred
   series_id: FRBATLWGT3MMAUMHWGO
   transformation: raw
   as_of: '2026-10-26'
-  caption: The Atlanta Fed's median wage-growth tracker showed 3.9% for continuously employed workers in a three-month moving average as of Oct. 26.
+  caption: The Atlanta Fed's median wage-growth tracker showed 3.9% for continuously
+    employed workers in a three-month moving average as of Oct. 26.
 figures_aggregate:
   count: 3
   series_ids:
@@ -174,116 +193,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach.png
-  alt: 'Illustration accompanying article: Consumer prices outpace paychecks as the midterms approach'
+  alt: 'Illustration accompanying article: Consumer prices outpace paychecks as the
+    midterms approach'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
+  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.757
 - slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7281
+  strength: 0.7285
+- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
+  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7075
+- slug: 2026-10-27-gop-strategists-issue-warnings-over-iran-war-as-dubow-tips-toward-democrats
+  headline: GOP strategists issue warnings over Iran war as Dubow tips toward Democrats
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7036
 - slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
   headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7796
+  strength: 0.7803
 - slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
   headline: Economic populism gains ground as both parties court midterm voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.706
+  strength: 0.7068
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.762
-- slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
-  headline: Trump's fuel-price measures leave gasoline and diesel costs high
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.702
+  strength: 0.7628
 - slug: 2026-10-20-us-gdp-grew-3-2-since-end-of-2024-faster-than-any-g7-peer
   headline: US GDP grew 3.2% since end of 2024, faster than any G7 peer
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7132
-- slug: 2026-10-14-september-inflation-3-7-percent-household-strain
-  headline: US inflation climbs above forecasts to 3.7% as Americans detail strain
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7272
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7593
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7128
-- slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
-  headline: Inflation broadens beyond energy as AI buildout lifts computer prices
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.702
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7138
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7204
-- slug: 2026-10-04-energy-costs-squeeze-voters-before-midterms
-  headline: Energy costs squeeze voters across gas, diesel, and electricity before midterms
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7299
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7034
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6995
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7586
-- slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
-  headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7153
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7256
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7023
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.699
+  strength: 0.7141
 ---
-
 ## Consumer prices outpace paychecks as the midterms approach
 
 **Subtype:** fact

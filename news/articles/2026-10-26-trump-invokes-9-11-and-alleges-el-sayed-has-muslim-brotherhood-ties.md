@@ -2,8 +2,17 @@
 headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
 secondary_headline: El-Sayed could become the first Muslim elected to the U.S. Senate
 publish_date: '2026-10-26'
-lede: Donald Trump invoked 9/11 during a Michigan rally on Sunday, calling Democratic U.S. Senate candidate Abdul El-Sayed "a jihadist" and warning that if El-Sayed and the Democrats won, they would open the floodgates and invite hordes of jihadists to the United States. El-Sayed rejected the remarks, denied any connection to the Muslim Brotherhood and said Trump was trying to divert attention from gas and grocery costs and access to a doctor.
-nut_graf: The confrontation comes in a Senate contest expected to be among the closest in the midterms, with the seat considered one of a handful that could decide the balance of power in Congress. El-Sayed, a former public health official born in the United States to Egyptian parents, would be the first Muslim elected to the U.S. Senate if he wins.
+lede: Donald Trump invoked 9/11 during a Michigan rally on Sunday, calling Democratic
+  U.S. Senate candidate Abdul El-Sayed "a jihadist" and warning that if El-Sayed and
+  the Democrats won, they would open the floodgates and invite hordes of jihadists
+  to the United States. El-Sayed rejected the remarks, denied any connection to the
+  Muslim Brotherhood and said Trump was trying to divert attention from gas and grocery
+  costs and access to a doctor.
+nut_graf: The confrontation comes in a Senate contest expected to be among the closest
+  in the midterms, with the seat considered one of a handful that could decide the
+  balance of power in Congress. El-Sayed, a former public health official born in
+  the United States to Egyptian parents, would be the first Muslim elected to the
+  U.S. Senate if he wins.
 primary_entities:
 - Donald Trump
 - Abdul El-Sayed
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,43 @@ related_stories:
   headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8516
+  strength: 0.8513
 - slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
   headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.845
+  strength: 0.8451
 - slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
   headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7724
+  strength: 0.7725
 - slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
   headline: Obama rallies for El-Sayed in Michigan Senate race
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7494
+  strength: 0.7492
 - slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
   headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7335
+  strength: 0.7329
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7315
+  strength: 0.7311
 - slug: 2026-10-21-rutgers-finds-recurring-anti-muslim-playbook-against-muslim-candidates
   headline: Rutgers finds recurring anti-Muslim playbook against Muslim candidates
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7349
+  strength: 0.7347
 - slug: 2026-10-19-records-identify-el-sayed-heckler-as-former-hawley-office-director
   headline: Records identify El-Sayed heckler as former Hawley office director
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7382
-- slug: 2026-10-25-minaj-urges-michigan-republicans-to-vote-at-trump-rally
-  headline: Minaj urges Michigan Republicans to vote at Trump rally
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6971
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7338
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7814
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7363
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7459
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7146
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7002
-- slug: 2026-09-13-researchers-anti-muslim-rhetoric-hits-post-9-11-peak-as-muslim-candidates-win
-  headline: 'Researchers: anti-Muslim rhetoric hits post-9/11 peak as Muslim candidates win'
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7599
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7255
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6932
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7418
-- slug: 2026-08-13-abdul-el-sayed-becomes-first-muslim-nominated-by-democrats-for-us-senate
-  headline: Abdul El-Sayed becomes first Muslim nominated by Democrats for US Senate
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7616
+  strength: 0.7378
 ---
-
 ## Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
 
 **Subtype:** fact

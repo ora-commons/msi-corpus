@@ -2,8 +2,17 @@
 headline: Saamaka communities map Suriname forests to document logging and mining
 secondary_headline: Satellite imagery guides patrols into newly detected forest clearings
 publish_date: '2026-10-26'
-lede: Saamaka communities in Suriname are using satellite images, GPS mapping and patrols to document logging and gold mining in forests they have protected for generations. A patrol led by Navaldo Vola found an abandoned excavator and camps on Ebbatop mountain where Saamaka authorities had not approved the activity. The evidence supports efforts to secure government recognition of traditional forest management and collective land rights.
-nut_graf: The mapping initiative, Apaki, documents both new incursions and a long-standing system of clan-based forest rules, but it does not confer legal title. Recognition remains central because the Inter-American Court of Human Rights ordered Suriname in 2007 to demarcate Saamaka territory and grant collective title, a ruling Hugo Jabini says remains largely unimplemented.
+lede: Saamaka communities in Suriname are using satellite images, GPS mapping and
+  patrols to document logging and gold mining in forests they have protected for generations.
+  A patrol led by Navaldo Vola found an abandoned excavator and camps on Ebbatop mountain
+  where Saamaka authorities had not approved the activity. The evidence supports efforts
+  to secure government recognition of traditional forest management and collective
+  land rights.
+nut_graf: The mapping initiative, Apaki, documents both new incursions and a long-standing
+  system of clan-based forest rules, but it does not confer legal title. Recognition
+  remains central because the Inter-American Court of Human Rights ordered Suriname
+  in 2007 to demarcate Saamaka territory and grant collective title, a ruling Hugo
+  Jabini says remains largely unimplemented.
 primary_entities:
 - Saamaka
 - Suriname
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,111 +149,10 @@ cross_article_links:
   strength: 0.5582
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-burgum-orders-removal-of-cadillac-mountain-sign-about-wabanaki-history
-  headline: Burgum orders removal of Cadillac Mountain sign about Wabanaki history
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5904
-- slug: 2026-10-26-juba-floodplain-monitor-accuses-us-airstrikes-of-exploiting-el-ni-o-in-somalia
-  headline: Juba floodplain monitor accuses US airstrikes of exploiting El Niño in Somalia
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.553
-- slug: 2026-10-22-quilombolas-reclaim-amazon-land-from-bankrupt-palm-oil-company
-  headline: Quilombolas reclaim Amazon land from bankrupt palm oil company
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5417
-- slug: 2026-10-22-four-salvadoran-aviation-technicians-remain-missing-after-bukele-announces-rescu
-  headline: Four Salvadoran aviation technicians remain missing after Bukele announces rescue operation in Haiti
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5402
-- slug: 2026-07-23-ashaninka-leaders-urge-brazil-protection-as-drug-gangs-encroach-on-amazon-territ
-  headline: Ashaninka leaders urge Brazil protection as drug gangs encroach on Amazon territory
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5696
-- slug: 2026-05-04-events-mark-missing-and-murdered-indigenous-peoples-awareness-day
-  headline: Events mark Missing and Murdered Indigenous Peoples awareness day
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5681
-- slug: 2026-04-24-highway-work-in-brazil-s-amazon-leads-to-digs-and-new-findings
-  headline: Highway work in Brazil's Amazon leads to digs and new findings
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5716
-- slug: 2026-06-18-gold-exploration-approved-near-lone-pine-pitting-miners-against-tribes-and-envir
-  headline: Gold exploration approved near Lone Pine, pitting miners against tribes and environmentalists
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5387
-- slug: 2026-05-05-tribes-sue-to-halt-exploratory-graphite-drilling-near-black-hills-sacred-site
-  headline: Tribes sue to halt exploratory graphite drilling near Black Hills sacred site
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5608
-- slug: 2026-03-15-indigenous-women-tour-ecuador-oil-field-warn-of-amazon-drilling-harms
-  headline: Indigenous women tour Ecuador oil field, warn of Amazon drilling harms
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5657
-- slug: 2026-01-12-five-alal-survive-first-year-in-maui-forests-after-two-decades-out-of-the-wild
-  headline: Five ʻalalā survive first year in Maui forests after two decades out of the wild
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5695
-- slug: 2026-05-05-indigenous-communities-nationwide-mark-missing-and-murdered-indigenous-peoples-a
-  headline: Indigenous communities nationwide mark Missing and Murdered Indigenous Peoples awareness day
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5488
-- slug: 2026-04-20-indigenous-leaders-convene-at-un-amid-visa-barriers-and-digital-data-risks
-  headline: Indigenous leaders convene at UN amid visa barriers and digital data risks
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5537
-- slug: 2025-12-30-some-south-dakota-tribes-embrace-visitors-as-a-tourism-engine
-  headline: Some South Dakota tribes embrace visitors as a tourism engine
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.5672
-- slug: 2026-03-14-armed-group-ambushes-patrol-kills-security-personnel-in-nigeria-s-plateau
-  headline: Armed group ambushes patrol, kills security personnel in Nigeria’s Plateau
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.5599
-- slug: 2026-05-09-indonesian-rescuers-recover-bodies-of-three-hikers-killed-in-mount-dukono-erupti
-  headline: Indonesian rescuers recover bodies of three hikers killed in Mount Dukono eruption
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.544
-- slug: 2026-04-09-newcomers-arrive-and-amazon-forests-are-cleared-as-brazil-explores-for-oil
-  headline: Newcomers arrive and Amazon forests are cleared as Brazil explores for oil
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5533
-- slug: 2026-04-14-super-typhoon-sinlaku-aims-at-remote-u-s-islands-in-the-pacific
-  headline: Super Typhoon Sinlaku aims at remote U.S. islands in the Pacific
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5514
-- slug: 2026-05-06-gold-prices-spark-mining-rush-in-brazil-s-amazon-fueling-deforestation
-  headline: Gold prices spark mining rush in Brazil's Amazon, fueling deforestation
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5432
-- slug: 2026-05-11-southeast-alaskans-weigh-in-on-draft-tongass-plan-shaping-timber-mining
-  headline: Southeast Alaskans weigh in on draft Tongass plan shaping timber, mining
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5407
+related_stories: []
 analyses:
-- '2026-10-26-apaki-maps-forest-incursions-as-suriname-s-legal-enforcement-remains-incomplete'
+- 2026-10-26-apaki-maps-forest-incursions-as-suriname-s-legal-enforcement-remains-incomplete
 ---
-
 ## Saamaka communities map Suriname forests to document logging and mining
 
 **Subtype:** fact

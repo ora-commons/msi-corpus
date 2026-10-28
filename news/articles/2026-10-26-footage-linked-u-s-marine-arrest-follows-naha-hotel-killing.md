@@ -2,8 +2,21 @@
 headline: Footage-linked U.S. Marine arrest follows Naha hotel killing
 secondary_headline: Japanese media said Ballard evidently matched the suspect description
 publish_date: '2026-10-26'
-lede: NHK and other Japanese media reported that surveillance-camera footage near the scene of Anna Yagi’s killing showed a man entering a room with a woman and later leaving the scene with her belongings. The hotel was in the city of Naha, where Yagi, 39, was found dead about a day before U.S. Marine Devin Jacob Ballard’s October 4 arrest. Japanese media said Ballard evidently matched the description of the suspect in the footage, was confronted and agreed to accompany investigators voluntarily to a local police station. Yagi’s killing prompted protests in Okinawa and Tokyo and triggered a curfew and alcohol ban for U.S. military members stationed on the island.
-nut_graf: NHK and other Japanese outlets reported that surveillance footage preceded Ballard’s October 4 arrest and that he evidently matched the suspect’s description. Yagi’s killing prompted protests in Okinawa and Tokyo and a curfew and alcohol ban for U.S. military members on Okinawa, while Japanese prosecutors later charged him with the alleged strangulation of Yagi and the taking of her backpack, which contained a wallet; he reportedly denied the charges.
+lede: NHK and other Japanese media reported that surveillance-camera footage near
+  the scene of Anna Yagi’s killing showed a man entering a room with a woman and later
+  leaving the scene with her belongings. The hotel was in the city of Naha, where
+  Yagi, 39, was found dead about a day before U.S. Marine Devin Jacob Ballard’s October
+  4 arrest. Japanese media said Ballard evidently matched the description of the suspect
+  in the footage, was confronted and agreed to accompany investigators voluntarily
+  to a local police station. Yagi’s killing prompted protests in Okinawa and Tokyo
+  and triggered a curfew and alcohol ban for U.S. military members stationed on the
+  island.
+nut_graf: NHK and other Japanese outlets reported that surveillance footage preceded
+  Ballard’s October 4 arrest and that he evidently matched the suspect’s description.
+  Yagi’s killing prompted protests in Okinawa and Tokyo and a curfew and alcohol ban
+  for U.S. military members on Okinawa, while Japanese prosecutors later charged him
+  with the alleged strangulation of Yagi and the taking of her backpack, which contained
+  a wallet; he reportedly denied the charges.
 primary_entities:
 - Devin Jacob Ballard
 - Anna Yagi
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +164,44 @@ related_stories:
   headline: U.S. Marine indicted for Okinawa hotel killing and robbery
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8764
+  strength: 0.8775
+- slug: 2026-10-26-japan-s-government-registers-strong-protest-over-okinawa-killing-case
+  headline: Japan's government registers "strong" protest over Okinawa killing case
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8581
 - slug: 2026-10-04-japanese-police-arrest-us-marine-after-cctv-links-him-to-okinawa-hotel-death
-  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel death
+  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel
+    death
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.9007
+  strength: 0.9018
 - slug: 2026-10-05-okinawa-resident-urges-takaichi-to-call-trump-after-us-marine-arrest
   headline: Okinawa resident urges Takaichi to call Trump after US Marine arrest
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.8523
+  strength: 0.8528
 - slug: 2026-10-04-japan-lodges-protest-after-us-marine-accused-of-okinawa-killing
   headline: Japan lodges protest after US Marine accused of Okinawa killing
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.8555
+  strength: 0.8564
 - slug: 2026-10-04-okinawa-police-u-s-marine-suffocated-japanese-woman-at-hotel
   headline: 'Okinawa police: U.S. Marine suffocated Japanese woman at hotel'
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.845
+  strength: 0.8459
 - slug: 2026-10-07-u-s-military-in-okinawa-imposes-monthlong-curfew-after-marine-arrest
   headline: U.S. military in Okinawa imposes monthlong curfew after Marine arrest
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.784
+  strength: 0.785
 - slug: 2026-10-07-u-s-forces-in-okinawa-order-48-hour-base-lockdown-after-marine-arrest
   headline: U.S. forces in Okinawa order 48-hour base lockdown after Marine arrest
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7584
-- slug: 2026-10-15-navy-names-adf-member-as-person-of-interest-in-hmas-leeuwin-camera-case
-  headline: Navy names ADF member as person of interest in HMAS Leeuwin camera case
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5552
-- slug: 2026-10-08-indictment-details-alleged-torture-of-american-detainees
-  headline: Indictment details alleged torture of American detainees
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5575
-- slug: 2026-09-11-okinawa-governor-s-race-tightens-as-voters-prioritize-economy-over-bases
-  headline: Okinawa governor's race tightens as voters prioritize economy over bases
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5568
-- slug: 2026-08-07-yolanda-olejniczak-marodi-pleads-guilty-to-killing-fire-captain-wife
-  headline: Yolanda Olejniczak Marodi pleads guilty to killing fire captain wife
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5628
-- slug: 2026-06-10-navy-culinary-specialist-sentenced-to-44-years-for-killing-fellow-sailor
-  headline: Navy culinary specialist sentenced to 44 years for killing fellow sailor
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5794
-- slug: 2026-04-22-navy-veteran-charged-in-atlanta-area-shootings-dies-in-jail
-  headline: Navy veteran charged in Atlanta-area shootings dies in jail
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5692
-- slug: 2026-04-11-trump-shares-video-of-florida-killing-pointing-to-deportation-agenda
-  headline: Trump shares video of Florida killing, pointing to deportation agenda
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5686
-- slug: 2026-04-17-dispute-over-temperature-preceded-atlanta-area-attacks-that-killed-two
-  headline: Dispute over temperature preceded Atlanta-area attacks that killed two
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5651
-- slug: 2026-04-18-kansas-family-sues-over-inmate-s-death-from-alleged-deputy-pressure
-  headline: Kansas family sues over inmate's death from alleged deputy pressure
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5626
-- slug: 2026-04-17-navy-reservist-returned-to-u-s-after-fleeing-to-hong-kong-in-wife-s-freezer-deat
-  headline: Navy reservist returned to U.S. after fleeing to Hong Kong in wife's freezer death
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5611
-- slug: 2026-02-02-police-officer-killed-another-wounded-in-hotel-room-shootout-near-atlanta
-  headline: Police officer killed, another wounded in hotel room shootout near Atlanta
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.5717
-- slug: 2026-03-25-trial-begins-for-ny-guard-accused-in-fatal-inmate-beating
-  headline: Trial begins for NY guard accused in fatal inmate beating
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.5628
-- slug: 2026-02-10-video-recovered-from-nest-camera-in-nancy-guthrie-case-raises-privacy-questions
-  headline: Video recovered from Nest camera in Nancy Guthrie case raises privacy questions
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.5676
+  strength: 0.7591
 ---
-
 ## Footage-linked U.S. Marine arrest follows Naha hotel killing
 
 **Subtype:** fact

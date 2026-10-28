@@ -2,8 +2,21 @@
 headline: Nuzzo says federal monitoring of farms for viruses appears reduced
 secondary_headline: Disease experts no longer receive regular calls from officials
 publish_date: '2026-10-25'
-lede: Jennifer Nuzzo said federal officials appear to monitor farms for potential viruses less during Donald Trump's second term than during previous administrations. She also said disease experts no longer receive regular calls from officials that used to keep the experts informed about what federal officials were doing. Nuzzo said the calls had allowed experts to question officials and interrogate their ideas, and that without them, activity might go unseen or actions might not receive the scrutiny they deserve. The Guardian reported that shortly after Trump took office, his administration fired federal employees responding to a bird flu outbreak among dairy cows.
-nut_graf: The monitoring and expert-consultation assessments add federal-oversight context to the Utah bird-flu outbreak, where state veterinarian Amanda Price handled the response and sought USDA help. Nuzzo said the human risk was greatest among people who had exposure to sick animals, while the pandemic scenario she described involved the virus combining with an influenza virus and a probability she said could be zero.
+lede: Jennifer Nuzzo said federal officials appear to monitor farms for potential
+  viruses less during Donald Trump's second term than during previous administrations.
+  She also said disease experts no longer receive regular calls from officials that
+  used to keep the experts informed about what federal officials were doing. Nuzzo
+  said the calls had allowed experts to question officials and interrogate their ideas,
+  and that without them, activity might go unseen or actions might not receive the
+  scrutiny they deserve. The Guardian reported that shortly after Trump took office,
+  his administration fired federal employees responding to a bird flu outbreak among
+  dairy cows.
+nut_graf: The monitoring and expert-consultation assessments add federal-oversight
+  context to the Utah bird-flu outbreak, where state veterinarian Amanda Price handled
+  the response and sought USDA help. Nuzzo said the human risk was greatest among
+  people who had exposure to sick animals, while the pandemic scenario she described
+  involved the virus combining with an influenza virus and a probability she said
+  could be zero.
 primary_entities:
 - Jennifer Nuzzo
 - Brown University School of Public Health
@@ -46,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +162,18 @@ related_stories:
   headline: Utah officials issue a verbal hold as bird flu spreads among mink
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.741
+  strength: 0.7412
 - slug: 2026-10-01-egg-prices-drop-more-than-half-under-trump-experts-credit-avian-flu-recovery
   headline: Egg prices drop more than half under Trump; experts credit avian flu recovery
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6717
-- slug: 2026-09-16-trump-administration-cut-or-froze-177bn-in-federal-grants-tracker-finds
-  headline: Trump administration cut or froze $177bn in federal grants, tracker finds
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6265
-- slug: 2026-09-08-fda-inspections-of-foreign-food-sites-down-nearly-35-since-2019-records-show
-  headline: FDA inspections of foreign food sites down nearly 35% since 2019, records show
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6497
-- slug: 2026-09-13-maha-food-agenda-shows-limits-as-outbreaks-cuts-mount
-  headline: MAHA food agenda shows limits as outbreaks, cuts mount
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6153
-- slug: 2026-09-11-former-cdc-officials-warn-cdc-response-to-measles-deaths-threatens-trust
-  headline: Former CDC officials warn CDC response to measles deaths threatens trust
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6155
-- slug: 2026-08-29-researchers-detail-fallout-from-termination-of-over-100-federal-science-panels
-  headline: Researchers detail fallout from termination of over 100 federal science panels
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6321
-- slug: 2026-08-28-trump-picks-overton-to-lead-fda-amid-record-foodborne-outbreaks
-  headline: Trump picks Overton to lead FDA amid record foodborne outbreaks
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6177
+  strength: 0.6713
 - slug: 2026-07-19-federal-cuts-and-policy-rollbacks-leave-us-facing-multiple-crises
   headline: Federal cuts and policy rollbacks leave US facing multiple crises
   publish_date: '2026-07-19'
   relation: related
   strength: 0.6809
-- slug: 2026-08-18-data-tracker-finds-366-federal-datasets-deleted-or-altered-under-trump
-  headline: Data tracker finds 366 federal datasets deleted or altered under Trump
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6243
-- slug: 2026-07-30-farm-workers-report-widespread-fear-reduced-daily-activity-after-immigration-rai
-  headline: Farm workers report widespread fear, reduced daily activity after immigration raids, survey finds
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6332
-- slug: 2026-07-27-fda-delays-food-traceability-rule-cdc-ends-foodnet-before-taylor-farms-cyclospor
-  headline: FDA delays food traceability rule, CDC ends FoodNet before Taylor Farms cyclospora outbreak
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6223
-- slug: 2026-07-03-experts-say-fda-staff-cuts-leave-infant-formula-safety-at-risk
-  headline: Experts say FDA staff cuts leave infant formula safety at risk
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6438
-- slug: 2026-07-24-fda-identifies-second-cyclospora-cluster-of-72-cases-north-carolina-adds-parsley
-  headline: FDA identifies second cyclospora cluster of 72 cases; North Carolina adds parsley and cilantro to investigation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.614
-- slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
-  headline: Farm workers face elevated risk as screwworm spreads in US south-west
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6369
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6321
-- slug: 2026-06-12-texas-ranchers-fight-return-of-long-eradicated-cattle-killing-parasite
-  headline: Texas Ranchers Fight Return of Long-Eradicated Cattle-Killing Parasite
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6197
-- slug: 2026-05-10-experts-question-cdc-s-response-to-cruise-ship-hantavirus-outbreak
-  headline: Experts question CDC’s response to cruise ship hantavirus outbreak
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6352
-- slug: 2026-05-10-cdc-absent-from-global-hantavirus-outbreak-experts-question-preparedness
-  headline: CDC absent from global hantavirus outbreak, experts question preparedness
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6329
-- slug: 2026-06-10-us-measles-cases-top-2-000-as-outbreak-approaches-worst-in-decades
-  headline: US measles cases top 2,000 as outbreak approaches worst in decades
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6135
 ---
-
 ## Nuzzo says federal monitoring of farms for viruses appears reduced
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: McKechnie, guilty of a 1994 murder, seeks Vegemite in his high-security cell
-secondary_headline: McKechnie cites cultural rights; Harris says incarceration made him unhappy
+headline: McKechnie, guilty of a 1994 murder, seeks Vegemite in his high-security
+  cell
+secondary_headline: McKechnie cites cultural rights; Harris says incarceration made
+  him unhappy
 publish_date: '2026-10-26'
-lede: On Monday, Andre McKechnie, found guilty of a 1994 murder in Queensland, asked Victoria's Supreme Court to allow Vegemite into his high-security prison cell. Justice Claire Harris heard the appeal, in which McKechnie argued that denying him the salty breakfast spread violated his cultural rights as an Australian. Harris countered that his unhappiness came from his incarceration, not from the absence of Vegemite.
-nut_graf: The case asked whether denying one prisoner access to a food he described as integral to Australian culture was justified by duties to manage prisons, maintain security and good order, ensure safe custody and protect prisoner welfare. The ruling left in place a restriction that Victorian prisons had applied since about 2006.
+lede: On Monday, Andre McKechnie, found guilty of a 1994 murder in Queensland, asked
+  Victoria's Supreme Court to allow Vegemite into his high-security prison cell. Justice
+  Claire Harris heard the appeal, in which McKechnie argued that denying him the salty
+  breakfast spread violated his cultural rights as an Australian. Harris countered
+  that his unhappiness came from his incarceration, not from the absence of Vegemite.
+nut_graf: The case asked whether denying one prisoner access to a food he described
+  as integral to Australian culture was justified by duties to manage prisons, maintain
+  security and good order, ensure safe custody and protect prisoner welfare. The ruling
+  left in place a restriction that Victorian prisons had applied since about 2006.
 primary_entities:
 - Andre McKechnie
 - Claire Harris
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,8 @@ related_stories:
   headline: Victorian court upholds prison ban on Vegemite after human rights challenge
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.861
-- slug: 2026-10-25-victorian-auditor-general-examines-police-cell-detention-practices
-  headline: Victorian auditor-general examines police-cell detention practices
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5229
-- slug: 2026-10-19-supreme-court-takes-up-home-distilling-tax-case-after-split-rulings
-  headline: Supreme Court takes up home-distilling tax case after split rulings
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.517
-- slug: 2026-10-07-folkston-ice-detainees-launch-hunger-strike-over-prolonged-confinement-condition
-  headline: Folkston ICE detainees launch hunger strike over prolonged confinement, conditions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.523
-- slug: 2026-10-07-lawyer-says-pike-helped-execution-team-find-a-vein-was-kind-and-polite
-  headline: Lawyer says Pike helped execution team find a vein, was 'kind and polite'
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5202
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5354
-- slug: 2026-09-28-victoria-police-apologise-over-2023-custody-death-at-broadmeadows-station
-  headline: Victoria Police apologise over 2023 custody death at Broadmeadows station
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5218
-- slug: 2026-09-11-daniel-billings-sentenced-to-28-years-for-murder-of-molly-ticehurst
-  headline: Daniel Billings sentenced to 28 years for murder of Molly Ticehurst
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5292
-- slug: 2026-08-11-tuskegee-university-enforces-dress-code-banning-durags-bonnets
-  headline: Tuskegee University enforces dress code banning durags, bonnets
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5273
-- slug: 2026-06-29-supreme-court-rules-geofence-warrants-violate-fourth-amendment
-  headline: Supreme Court rules geofence warrants violate Fourth Amendment
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.522
-- slug: 2026-06-23-supreme-court-ruling-could-return-man-freed-through-compassionate-release-to-pri
-  headline: Supreme Court ruling could return man freed through compassionate release to prison
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5224
-- slug: 2026-06-17-house-staff-visit-ghislaine-maxwell-s-prison-after-preferential-treatment-claims
-  headline: House staff visit Ghislaine Maxwell's prison after preferential treatment claims
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5253
-- slug: 2026-05-15-richard-glossip-walks-free-on-bond-after-death-sentence-overturned
-  headline: Richard Glossip walks free on bond after death sentence overturned
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5403
-- slug: 2026-06-10-navy-culinary-specialist-sentenced-to-44-years-for-killing-fellow-sailor
-  headline: Navy culinary specialist sentenced to 44 years for killing fellow sailor
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5194
-- slug: 2026-05-15-vienna-caf-embraces-israel-amid-protests-and-tight-security-at-divided-eurovisio
-  headline: Vienna café embraces Israel amid protests and tight security at divided Eurovision
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5293
-- slug: 2026-02-19-judge-declares-4-men-wrongly-accused-in-1991-austin-yogurt-shop-murders-innocent
-  headline: Judge declares 4 men wrongly accused in 1991 Austin yogurt-shop murders innocent
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5477
-- slug: 2026-05-14-austin-settles-with-men-wrongly-accused-in-1991-yogurt-shop-murders-for-35-milli
-  headline: Austin settles with men wrongly accused in 1991 yogurt shop murders for $35 million
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5206
-- slug: 2026-04-01-supreme-court-probes-whether-mississippi-court-mishandled-jury-bias-claim
-  headline: Supreme Court probes whether Mississippi court mishandled jury bias claim
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5326
-- slug: 2026-04-28-supreme-court-appears-poised-to-allow-geofence-warrants-in-cases-like-chatrie
-  headline: Supreme Court appears poised to allow geofence warrants in cases like Chatrie
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5219
-- slug: 2026-02-08-savannah-guthrie-seeks-her-mom-s-proof-of-life-wary-of-ai-deepfakes
-  headline: Savannah Guthrie seeks her mom’s “proof of life,” wary of AI deepfakes
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5304
+  strength: 0.8629
 ---
-
 ## McKechnie, guilty of a 1994 murder, seeks Vegemite in his high-security cell
 
 **Subtype:** fact

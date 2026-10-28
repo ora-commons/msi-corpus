@@ -1,9 +1,24 @@
 ---
 headline: House Judiciary Democrats ask Blanche to probe Epstein network
-secondary_headline: Committee staff report accuses DOJ of suppressing evidence in FBI's Epstein files
+secondary_headline: Committee staff report accuses DOJ of suppressing evidence in
+  FBI's Epstein files
 publish_date: '2026-10-26'
-lede: House Judiciary Committee Democrats on Monday called on Attorney General Todd Blanche to appoint a special counsel to investigate Jeffrey Epstein's co-conspirators. House Judiciary Committee Democrats released a 53-page staff report titled "We Have Certain Things in Common, Jeffrey" that probes the alleged links between Epstein and President Donald Trump and accuses the president's Department of Justice of systematically suppressing evidence in the FBI's "Epstein Files." Trump has repeatedly denied wrongdoing in connection with Epstein's sex crimes, and White House press secretary Caroline Leavitt said the stories were "nothing more than bad-faith efforts to distract from President Trump's historic accomplishments."
-nut_graf: Rep. Jamie Raskin's proposal would place the investigation of Epstein's co-conspirators and Raskin's allegation of a Justice Department cover-up under a special counsel he described as independent. Raskin cited evidence involving 11 women, while the report accuses the Justice Department of systematically suppressing evidence in the FBI's "Epstein Files." The proposal comes as Trump has repeatedly denied wrongdoing in connection with Epstein's sex crimes and the White House has called the committee's stories a distraction from the president's accomplishments.
+lede: House Judiciary Committee Democrats on Monday called on Attorney General Todd
+  Blanche to appoint a special counsel to investigate Jeffrey Epstein's co-conspirators.
+  House Judiciary Committee Democrats released a 53-page staff report titled "We Have
+  Certain Things in Common, Jeffrey" that probes the alleged links between Epstein
+  and President Donald Trump and accuses the president's Department of Justice of
+  systematically suppressing evidence in the FBI's "Epstein Files." Trump has repeatedly
+  denied wrongdoing in connection with Epstein's sex crimes, and White House press
+  secretary Caroline Leavitt said the stories were "nothing more than bad-faith efforts
+  to distract from President Trump's historic accomplishments."
+nut_graf: Rep. Jamie Raskin's proposal would place the investigation of Epstein's
+  co-conspirators and Raskin's allegation of a Justice Department cover-up under a
+  special counsel he described as independent. Raskin cited evidence involving 11
+  women, while the report accuses the Justice Department of systematically suppressing
+  evidence in the FBI's "Epstein Files." The proposal comes as Trump has repeatedly
+  denied wrongdoing in connection with Epstein's sex crimes and the White House has
+  called the committee's stories a distraction from the president's accomplishments.
 primary_entities:
 - House Judiciary Committee
 - Jeffrey Epstein
@@ -46,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +161,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network.png
-  alt: 'Illustration accompanying article: House Judiciary Democrats ask Blanche to probe Epstein network'
+  alt: 'Illustration accompanying article: House Judiciary Democrats ask Blanche to
+    probe Epstein network'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
   headline: Democrats ready multi-front investigations into Trump administration
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7075
+  strength: 0.708
 - slug: 2026-07-27-epstein-survivors-urge-senators-to-oppose-blanche-s-attorney-general-confirmatio
   headline: Epstein survivors urge senators to oppose Blanche's attorney general confirmation
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7388
+  strength: 0.7385
 - slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
   headline: House committee votes to subpoena Pam Bondi over Epstein files
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.7759
+  strength: 0.7764
 - slug: 2026-02-14-key-democrat-accuses-justice-department-of-spying-on-epstein-file-oversight
   headline: Key Democrat accuses Justice Department of spying on Epstein-file oversight
   publish_date: '2026-02-14'
   relation: related
-  strength: 0.7745
+  strength: 0.7741
 - slug: 2026-06-30-relative-says-jane-doe-4-fears-retaliation-as-epstein-files-dispute-continues
   headline: Relative says Jane Doe 4 fears retaliation as Epstein files dispute continues
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7174
+  strength: 0.7176
 - slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
   headline: Democrats call on Vance to testify over Epstein files handling
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.7299
+  strength: 0.73
 - slug: 2026-06-17-harvard-bard-face-fresh-congressional-questions-on-epstein-ties
   headline: Harvard, Bard Face Fresh Congressional Questions on Epstein Ties
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.72
+  strength: 0.7202
 - slug: 2026-06-04-bondi-testifies-todd-blanche-led-epstein-files-release-won-t-discuss-trump
-  headline: Bondi testifies Todd Blanche led Epstein files release, won't discuss Trump
+  headline: Bondi testifies Todd Blanche led Epstein files release, won't discuss
+    Trump
   publish_date: '2026-06-04'
   relation: related
   strength: 0.7249
-- slug: 2026-02-02-doj-official-plays-down-chance-for-charges-from-epstein-files-release
-  headline: DOJ official plays down chance for charges from Epstein files release
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.7567
-- slug: 2026-02-13-democrats-accuse-justice-department-of-spying-on-lawmakers-reviewing-epstein-fil
-  headline: Democrats accuse Justice Department of spying on lawmakers reviewing Epstein files
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7518
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.7539
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.7493
-- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
-  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump accusation
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7418
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7353
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7208
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.704
-- slug: 2026-03-05-doj-releases-additional-epstein-files-including-uncorroborated-claims-about-trum
-  headline: DOJ releases additional Epstein files, including uncorroborated claims about Trump
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7226
-- slug: 2026-02-10-ghislaine-maxwell-invokes-fifth-amendment-in-house-deposition
-  headline: Ghislaine Maxwell invokes Fifth Amendment in House deposition
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7208
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7142
-- slug: 2026-03-18-pam-bondi-subpoenaed-by-congress-over-epstein-files
-  headline: Pam Bondi subpoenaed by Congress over Epstein files
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7116
 ---
-
 ## House Judiciary Democrats ask Blanche to probe Epstein network
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Peltola reschedules Alaska Senate campaign events on medical advice
 secondary_headline: Contest could help decide balance of power in government
 publish_date: '2026-10-26'
-lede: Campaign manager Cheryl Bruce said Mary Peltola rescheduled Alaska Senate campaign events on medical advice as she recovers from minor injuries sustained in a Saturday car crash involving her and her family. Peltola's campaign said the family was traveling to an event when another driver hit the vehicle they were in. The 53-year-old Democratic candidate, who is a current member of Congress, is trying to unseat Republican Sen. Dan Sullivan in the 3 November midterm elections.
-nut_graf: The Cook Political Report classifies the Alaska Senate race as a “toss-up,” with neither Republicans nor Democrats holding a decisive advantage, and the contest could help decide the balance of power in government. Separately, Trump told the Justice Department last week to file a federal lawsuit seeking to block Alaska Senate certification if Dan Sullivan loses, arguing that another candidate with the same name could confuse voters.
+lede: Campaign manager Cheryl Bruce said Mary Peltola rescheduled Alaska Senate campaign
+  events on medical advice as she recovers from minor injuries sustained in a Saturday
+  car crash involving her and her family. Peltola's campaign said the family was traveling
+  to an event when another driver hit the vehicle they were in. The 53-year-old Democratic
+  candidate, who is a current member of Congress, is trying to unseat Republican Sen.
+  Dan Sullivan in the 3 November midterm elections.
+nut_graf: The Cook Political Report classifies the Alaska Senate race as a “toss-up,”
+  with neither Republicans nor Democrats holding a decisive advantage, and the contest
+  could help decide the balance of power in government. Separately, Trump told the
+  Justice Department last week to file a federal lawsuit seeking to block Alaska Senate
+  certification if Dan Sullivan loses, arguing that another candidate with the same
+  name could confuse voters.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,16 +153,21 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice.png
-  alt: 'Illustration accompanying article: Peltola reschedules Alaska Senate campaign events on medical advice'
+  alt: 'Illustration accompanying article: Peltola reschedules Alaska Senate campaign
+    events on medical advice'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo
-  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday and Monday events
+  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday
+    and Monday events
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8841
@@ -166,7 +182,8 @@ related_stories:
   relation: related
   strength: 0.7982
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
   strength: 0.8072
@@ -181,7 +198,8 @@ related_stories:
   relation: related
   strength: 0.7828
 - slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
   publish_date: '2026-10-23'
   relation: related
   strength: 0.7916
@@ -190,68 +208,7 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.789
-- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
-  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7731
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7847
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7582
-- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
-  headline: Blanche frames Alaska election suit as federal-law test
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7374
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7354
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7346
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7765
-- slug: 2026-09-24-peltola-s-campaign-calls-nyt-report-on-her-staff-conduct-exaggerated
-  headline: Peltola's campaign calls NYT report on her staff conduct exaggerated
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7386
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7194
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7735
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.723
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7618
 ---
-
 ## Peltola reschedules Alaska Senate campaign events on medical advice
 
 **Subtype:** fact

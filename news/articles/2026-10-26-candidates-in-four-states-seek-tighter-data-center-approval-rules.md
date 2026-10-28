@@ -1,9 +1,19 @@
 ---
 headline: Candidates in four states seek tighter data-center approval rules
-secondary_headline: Local opposition has delayed or disrupted projects collectively worth hundreds of billions
+secondary_headline: Local opposition has delayed or disrupted projects collectively
+  worth hundreds of billions
 publish_date: '2026-10-26'
-lede: State and local officials often approve data-center projects, making election outcomes in Texas, Ohio, Michigan and Georgia consequential for which developments proceed and what conditions they face, according to The Wall Street Journal. Candidates are proposing pauses, bans and stricter approval rules amid scrutiny of electricity, water, tax exemptions, community disruptions and community benefits, while local opposition has delayed or disrupted dozens of projects worth hundreds of billions of dollars this year.
-nut_graf: More than 40 local ballot measures, three dozen governor elections and many mayoral and county contests are in play. The immediate stakes are local and state approval rules, while congressional contests are being followed for overall sentiment and the possibility of national restrictions.
+lede: State and local officials often approve data-center projects, making election
+  outcomes in Texas, Ohio, Michigan and Georgia consequential for which developments
+  proceed and what conditions they face, according to The Wall Street Journal. Candidates
+  are proposing pauses, bans and stricter approval rules amid scrutiny of electricity,
+  water, tax exemptions, community disruptions and community benefits, while local
+  opposition has delayed or disrupted dozens of projects worth hundreds of billions
+  of dollars this year.
+nut_graf: More than 40 local ballot measures, three dozen governor elections and many
+  mayoral and county contests are in play. The immediate stakes are local and state
+  approval rules, while congressional contests are being followed for overall sentiment
+  and the possibility of national restrictions.
 primary_entities:
 - Texas
 - Ohio
@@ -56,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,104 +169,44 @@ related_stories:
   headline: Local resistance pressures tech giants ahead of the U.S. midterms
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7361
+  strength: 0.735
+- slug: 2026-10-26-connecticut-towns-adopt-data-center-limits-before-most-project-applications
+  headline: Connecticut towns adopt data center limits before most project applications
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6955
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7558
+  strength: 0.7546
 - slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
+  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm
+    races
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7104
+  strength: 0.7097
 - slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7112
+  strength: 0.7101
 - slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
   headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7049
+  strength: 0.7044
 - slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
   headline: More than 10 states pause or cancel data center tax exemptions
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7498
+  strength: 0.7491
 - slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.766
-- slug: 2026-09-15-anti-datacenter-organizers-run-for-local-offices-across-us
-  headline: Anti-datacenter organizers run for local offices across US
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7151
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7123
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7143
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7056
-- slug: 2026-07-23-hinojosa-seizes-on-data-center-backlash-in-longshot-texas-governor-run
-  headline: Hinojosa seizes on data center backlash in longshot Texas governor run
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7846
-- slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7182
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7381
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7045
-- slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6911
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7007
-- slug: 2026-08-18-shapiro-pulls-data-centers-from-pennsylvania-s-permit-fast-track
-  headline: Shapiro pulls data centers from Pennsylvania's permit fast track
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6999
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7199
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6996
+  strength: 0.7649
 ---
-
 ## Candidates in four states seek tighter data-center approval rules
 
 **Subtype:** fact

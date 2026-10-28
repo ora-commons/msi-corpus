@@ -1,9 +1,19 @@
 ---
 headline: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
-secondary_headline: ProPublica found $470 million stolen electronically from SNAP recipients last year
+secondary_headline: ProPublica found $470 million stolen electronically from SNAP
+  recipients last year
 publish_date: '2026-10-26'
-lede: The U.S. Department of Agriculture has proposed requiring all states to issue chip-enabled Electronic Benefit Transfer cards for Supplemental Nutrition Assistance Program recipients and requiring retailers that accept SNAP benefits to have payment terminals that support tap-to-pay. The proposal targets card skimming, in which thieves extract personal information from payment terminals and drain money from accounts, and opens a 60-day public comment period before a final rule.
-nut_graf: The proposal lands as state SNAP agencies face new budget pressure from the One Big Beautiful Bill Act, and chip-enabled cards are about 10 times as expensive to produce as magnetic-stripe cards, according to the Government Accountability Office. According to the USDA, fewer than a third of states have adopted chip cards or begun the transition.
+lede: The U.S. Department of Agriculture has proposed requiring all states to issue
+  chip-enabled Electronic Benefit Transfer cards for Supplemental Nutrition Assistance
+  Program recipients and requiring retailers that accept SNAP benefits to have payment
+  terminals that support tap-to-pay. The proposal targets card skimming, in which
+  thieves extract personal information from payment terminals and drain money from
+  accounts, and opens a 60-day public comment period before a final rule.
+nut_graf: The proposal lands as state SNAP agencies face new budget pressure from
+  the One Big Beautiful Bill Act, and chip-enabled cards are about 10 times as expensive
+  to produce as magnetic-stripe cards, according to the Government Accountability
+  Office. According to the USDA, fewer than a third of states have adopted chip cards
+  or begun the transition.
 primary_entities:
 - U.S. Department of Agriculture
 - Food and Nutrition Administration
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,116 +149,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-usda-proposes-requiring-chip-enabled-snap-cards-and-tap-to-pay-terminals.png
-  alt: 'Illustration accompanying article: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals'
+  alt: 'Illustration accompanying article: USDA proposes requiring chip-enabled SNAP
+    cards and tap-to-pay terminals'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
   headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8569
+  strength: 0.8564
 - slug: 2026-10-14-federal-funding-cuts-slow-states-shift-to-chip-enabled-ebt-cards
   headline: Federal funding cuts slow states' shift to chip-enabled EBT cards
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7997
+  strength: 0.799
 - slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
   headline: SNAP enrollment drops 13% after Trump administration work requirements
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6819
+  strength: 0.6816
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6723
+  strength: 0.6707
 - slug: 2026-09-20-romanian-crime-rings-exploit-chip-less-u-s-welfare-cards-at-scale
   headline: Romanian crime rings exploit chip-less U.S. welfare cards at scale
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7337
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6457
+  strength: 0.7334
 - slug: 2026-07-07-alaska-snap-error-rate-tops-nation-for-fourth-straight-year-at-23
   headline: Alaska SNAP error rate tops nation for fourth straight year at 23%
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7004
+  strength: 0.6994
 - slug: 2026-07-25-more-than-1-million-children-lose-snap-benefits-after-trump-bill
   headline: More than 1 million children lose SNAP benefits after Trump bill
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.6631
+  strength: 0.6629
 - slug: 2026-04-17-illinois-credit-card-swipe-fee-ban-faces-repeal-push-before-july-deadline
-  headline: Illinois swipe-fee ban on taxes, tips faces repeal push and federal preemption threat
+  headline: Illinois swipe-fee ban on taxes, tips faces repeal push and federal preemption
+    threat
   publish_date: '2026-04-17'
   relation: related
-  strength: 0.6832
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6767
-- slug: 2026-01-07-nevada-seeks-snap-waiver-to-ban-sugary-drinks-and-candy-for-food-aid-recipients
-  headline: Nevada seeks SNAP waiver to ban sugary drinks and candy for food aid recipients
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6933
-- slug: 2026-01-03-trump-officials-seek-to-bar-junk-food-from-snap-but-rules-are-hard
-  headline: Trump officials seek to bar junk food from SNAP, but rules are hard
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6803
-- slug: 2026-02-16-judge-tentatively-blocks-trump-administration-from-accessing-snap-data
-  headline: Judge tentatively blocks Trump administration from accessing SNAP data
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6769
-- slug: 2026-01-01-trump-officials-eye-limits-on-sugary-drinks-and-candy-in-snap-benefits
-  headline: Trump officials eye limits on sugary drinks and candy in SNAP benefits
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.675
-- slug: 2026-04-23-bipartisan-bill-would-let-snap-benefits-buy-rotisserie-chicken
-  headline: Bipartisan bill would let SNAP benefits buy rotisserie chicken
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6558
-- slug: 2026-01-04-trump-officials-consider-banning-junk-food-from-snap-lawmakers-face-barriers
-  headline: Trump officials consider banning “junk food” from SNAP, lawmakers face barriers
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6705
-- slug: 2026-01-10-trump-calls-for-10-credit-card-interest-rate-cap-banks-push-back
-  headline: Trump calls for 10% credit card interest rate cap; banks push back
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6633
-- slug: 2026-01-05-snap-bans-on-soda-candy-and-some-foods-start-jan-1-in-five-states
-  headline: SNAP bans on soda, candy and some foods start Jan. 1 in five states
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6632
-- slug: 2026-04-22-bipartisan-hot-rotisserie-chicken-act-would-let-snap-cover-prepared-meals
-  headline: Bipartisan Hot Rotisserie Chicken Act would let SNAP cover prepared meals
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6465
-- slug: 2026-01-05-nebraska-to-ban-soda-energy-drinks-from-snap-under-first-usda-waiver
-  headline: Nebraska to ban soda, energy drinks from SNAP under first USDA waiver
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6577
+  strength: 0.6823
 ---
-
 ## USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
 
 **Subtype:** fact

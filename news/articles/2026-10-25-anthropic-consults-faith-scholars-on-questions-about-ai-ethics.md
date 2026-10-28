@@ -1,9 +1,21 @@
 ---
 headline: Anthropic consults faith scholars on questions about AI ethics
-secondary_headline: Scholars question whether averaging religious views preserves each tradition
+secondary_headline: Scholars question whether averaging religious views preserves
+  each tradition
 publish_date: '2026-10-25'
-lede: The Associated Press reported that technology executives were warning about AI’s destructive potential while debating the need to develop morally good models and increasingly seeking input from philosophers and faith leaders amid founded and unfounded fears about the technology. Anthropic says it has met with scholars, clergy, philosophers and ethicists from more than 15 religious and cross-cultural groups, while experts warned that extracting moral principles from religion or averaging traditions could privilege some views and distort others. The Associated Press also reported little public scrutiny of what technology companies think religion is or what they hope to gain from it.
-nut_graf: Anthropic says Claude should draw on religious, secular and political perspectives with equal depth and rigor, rather than align with one tradition’s worldview. The dispute centers on whether that combined approach can produce moral guidance without flattening traditions that do not see themselves primarily as systems of ethics.
+lede: The Associated Press reported that technology executives were warning about
+  AI’s destructive potential while debating the need to develop morally good models
+  and increasingly seeking input from philosophers and faith leaders amid founded
+  and unfounded fears about the technology. Anthropic says it has met with scholars,
+  clergy, philosophers and ethicists from more than 15 religious and cross-cultural
+  groups, while experts warned that extracting moral principles from religion or averaging
+  traditions could privilege some views and distort others. The Associated Press also
+  reported little public scrutiny of what technology companies think religion is or
+  what they hope to gain from it.
+nut_graf: Anthropic says Claude should draw on religious, secular and political perspectives
+  with equal depth and rigor, rather than align with one tradition’s worldview. The
+  dispute centers on whether that combined approach can produce moral guidance without
+  flattening traditions that do not see themselves primarily as systems of ethics.
 primary_entities:
 - Anthropic
 - OpenAI
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +162,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
+  headline: Anthropic's IPO filing details compute, customer and data-center risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7245
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7028
+- slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
+  headline: Anthropic says AI research could outpace model safeguards
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.702
+- slug: 2026-10-26-anthropic-expands-claude-tools-for-nonprofits-while-pursuing-an-ipo
+  headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7011
 - slug: 2026-09-16-microsoft-ai-head-warns-anthropic-claude-training-risks-disastrous-harm
   headline: Microsoft AI head warns Anthropic Claude training risks 'disastrous' harm
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.737
+  strength: 0.7391
 - slug: 2026-09-21-anthropic-report-details-ai-model-misuse-by-criminals-state-actors
   headline: Anthropic report details AI model misuse by criminals, state actors
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7107
+  strength: 0.7113
 - slug: 2026-09-19-anthropic-ceo-leads-silicon-valley-china-hawks-in-ai-policy-debate
   headline: Anthropic CEO leads Silicon Valley China hawks in AI policy debate
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7148
+  strength: 0.7155
 - slug: 2026-09-11-anthropic-says-it-disrupted-attempts-to-use-claude-for-biological-weapons
   headline: Anthropic says it disrupted attempts to use Claude for biological weapons
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7168
-- slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
-  headline: Leading AI companies discuss joint standards to limit catastrophic harms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-12-anthropic-ceo-dario-amodei-proposes-three-point-plan-to-slow-ai-development
-  headline: Anthropic CEO Dario Amodei proposes three-point plan to slow AI development
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7023
-- slug: 2026-09-11-iran-linked-group-used-claude-to-try-targeting-u-s-warships-anthropic-says
-  headline: Iran-linked group used Claude to try targeting U.S. warships, Anthropic says
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.704
-- slug: 2026-08-09-scientists-use-ai-to-create-new-virus-family-as-experts-warn-of-misuse
-  headline: Scientists use AI to create new virus family as experts warn of misuse
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6974
-- slug: 2026-05-08-tech-companies-increasingly-seek-faith-leaders-guidance-on-ai-ethics
-  headline: Tech companies increasingly seek faith leaders' guidance on AI ethics
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7737
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7065
-- slug: 2026-06-05-anthropic-urges-industry-coordination-to-pause-advanced-ai-development
-  headline: Anthropic urges industry coordination to pause advanced AI development
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7328
-- slug: 2026-05-19-pope-leo-xiv-to-launch-first-encyclical-on-ai-with-anthropic-co-founder
-  headline: Pope Leo XIV to launch first encyclical on AI with Anthropic co-founder
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7416
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7129
-- slug: 2026-05-21-pope-leo-xiv-to-unveil-ai-focused-encyclical-with-anthropic-co-founder
-  headline: Pope Leo XIV to unveil AI-focused encyclical with Anthropic co-founder
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7186
-- slug: 2026-03-04-anthropic-s-pentagon-standoff-boosts-reputation-but-raises-ai-war-readiness-ques
-  headline: Anthropic’s Pentagon standoff boosts reputation but raises AI-war readiness questions
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.738
-- slug: 2026-06-10-anthropic-invests-200m-to-study-ai-s-impact-on-jobs-and-economy
-  headline: Anthropic invests $200M to study AI’s impact on jobs and economy
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7009
-- slug: 2026-06-15-cybersecurity-experts-urge-white-house-to-reverse-anthropic-ai-restrictions
-  headline: Cybersecurity experts urge White House to reverse Anthropic AI restrictions
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6956
-- slug: 2026-05-25-pope-leo-xiv-issues-first-ai-encyclical-warning-of-inequality-and-war
-  headline: Pope Leo XIV issues first AI encyclical warning of inequality and war
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7001
-- slug: 2026-05-19-pope-leo-xiv-to-unveil-ai-focused-encyclical-with-anthropic-co-founder
-  headline: Pope Leo XIV to unveil AI-focused encyclical with Anthropic co-founder
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6963
-- slug: 2026-03-13-microsoft-asks-court-to-block-trump-pentagon-ban-on-anthropic-ai
-  headline: Microsoft asks court to block Trump Pentagon ban on Anthropic AI
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7034
+  strength: 0.7175
 ---
-
 ## Anthropic consults faith scholars on questions about AI ethics
 
 **Subtype:** fact

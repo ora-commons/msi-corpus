@@ -1,9 +1,17 @@
 ---
 headline: Sullivan and Peltola court Alaska Native voters before midterms
-secondary_headline: Certification lawsuit cites potential voter confusion involving Daniel J. Sullivan Jr.
+secondary_headline: Certification lawsuit cites potential voter confusion involving
+  Daniel J. Sullivan Jr.
 publish_date: '2026-10-25'
-lede: Republican Sen. Dan Sullivan and former Democratic Rep. Mary Peltola appeared at the Alaska Federation of Natives conference in Anchorage as they sought Alaska Native support in the Nov. 3 Senate election. The Associated Press reported that the race is among the most closely watched nationally and that control of the Senate is at stake. Both candidates also highlighted support from Native organizations and leaders.
-nut_graf: The outreach places voter access and Native policy priorities at the center of a Senate contest that could change control of the chamber, while a certification lawsuit cites potential voter confusion involving Daniel J. Sullivan Jr.
+lede: Republican Sen. Dan Sullivan and former Democratic Rep. Mary Peltola appeared
+  at the Alaska Federation of Natives conference in Anchorage as they sought Alaska
+  Native support in the Nov. 3 Senate election. The Associated Press reported that
+  the race is among the most closely watched nationally and that control of the Senate
+  is at stake. Both candidates also highlighted support from Native organizations
+  and leaders.
+nut_graf: The outreach places voter access and Native policy priorities at the center
+  of a Senate contest that could change control of the chamber, while a certification
+  lawsuit cites potential voter confusion involving Daniel J. Sullivan Jr.
 primary_entities:
 - Dan Sullivan
 - Mary Peltola
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +153,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms.png
-  alt: 'Illustration accompanying article: Sullivan and Peltola court Alaska Native voters before midterms'
+  alt: 'Illustration accompanying article: Sullivan and Peltola court Alaska Native
+    voters before midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.836
+  strength: 0.8369
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8237
+  strength: 0.8247
 - slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
   headline: Justice Department files pre-election challenge to Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8225
+  strength: 0.8237
+- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
+  headline: Peltola reschedules Alaska Senate campaign events on medical advice
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8043
 - slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8146
+  strength: 0.8159
 - slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
   headline: Blanche defends lawsuit to block Alaska Senate certification
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7918
+  strength: 0.7927
 - slug: 2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo
-  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday and Monday events
+  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday
+    and Monday events
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7786
+  strength: 0.7781
 - slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
   headline: Trump criticizes Murkowski after she opposes Alaska certification suit
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7687
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.779
-- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
-  headline: Blanche frames Alaska election suit as federal-law test
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7648
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.809
-- slug: 2026-10-25-mary-peltola-to-reschedule-fairbanks-and-bethel-events-after-car-crash
-  headline: Mary Peltola to reschedule Fairbanks and Bethel events after car crash
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7288
-- slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
-  headline: Blanche won't rule out DOJ role in state election certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7389
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7341
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7402
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7856
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7271
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7755
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7197
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.8015
-- slug: 2026-06-03-two-dan-sullivans-appear-on-alaska-senate-primary-ballot
-  headline: Two Dan Sullivans appear on Alaska Senate primary ballot
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7955
+  strength: 0.7702
 ---
-
 ## Sullivan and Peltola court Alaska Native voters before midterms
 
 **Subtype:** fact

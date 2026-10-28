@@ -2,8 +2,21 @@
 headline: Trump draws generally smaller midterm crowds on a multistate rally week
 secondary_headline: Reporters attended every rally from Kansas to Michigan
 publish_date: '2026-10-26'
-lede: The Wall Street Journal reported that its reporters attended every one of President Trump's midterm rallies during the preceding week. The route started in Kansas on Monday and ended in Michigan on Sunday, with stops in North Carolina, South Carolina, Iowa, Florida and Georgia. The outlet said the cheering crowds were generally smaller than when Trump was on the ballot, opposition signs were fleeting, and Trump was reveling in the attention, touting his agenda, stirring the pot and veering off script.
-nut_graf: 'The weeklong itinerary documents the size and character of the campaign events: generally smaller crowds and fleeting opposition signs. The outlet described Trump as reveling in the attention, touting his agenda, stirring the pot and veering off script, while other reports in the same issue covered U.S. manufacturers increasing their head count by 72,000 since December, consumer concern about AI-based pricing, New York City''s six-day encampment-removal policy, the reach of full-cast romantasy audiobooks and divisions among California Democrats over a proposed one-time tax on billionaires.'
+lede: The Wall Street Journal reported that its reporters attended every one of President
+  Trump's midterm rallies during the preceding week. The route started in Kansas on
+  Monday and ended in Michigan on Sunday, with stops in North Carolina, South Carolina,
+  Iowa, Florida and Georgia. The outlet said the cheering crowds were generally smaller
+  than when Trump was on the ballot, opposition signs were fleeting, and Trump was
+  reveling in the attention, touting his agenda, stirring the pot and veering off
+  script.
+nut_graf: 'The weeklong itinerary documents the size and character of the campaign
+  events: generally smaller crowds and fleeting opposition signs. The outlet described
+  Trump as reveling in the attention, touting his agenda, stirring the pot and veering
+  off script, while other reports in the same issue covered U.S. manufacturers increasing
+  their head count by 72,000 since December, consumer concern about AI-based pricing,
+  New York City''s six-day encampment-removal policy, the reach of full-cast romantasy
+  audiobooks and divisions among California Democrats over a proposed one-time tax
+  on billionaires.'
 primary_entities:
 - The Wall Street Journal
 - The 10-Point
@@ -56,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,104 +172,43 @@ related_stories:
   headline: Trump holds seven rallies across seven states during midterm push
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.826
+  strength: 0.8268
+- slug: 2026-10-27-trump-plans-salina-rally-less-than-two-weeks-after-kansas-visit
+  headline: Trump plans Salina rally less than two weeks after Kansas visit
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7101
+- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
+  headline: Trump heads to Mississippi as Democrats expand battleground maps
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6901
 - slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
   headline: Only one of 54 Republican economy ads in the closest races mentions Trump
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7107
+  strength: 0.7095
 - slug: 2026-10-23-trump-comments-on-candidates-looks-during-midterm-rallies
   headline: Trump comments on candidates' looks during midterm rallies
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6985
+  strength: 0.6991
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7161
+  strength: 0.7179
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7434
+  strength: 0.7453
 - slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
   headline: Working-class white voters cool on Republicans, WSJ poll finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6898
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7394
-- slug: 2026-10-13-nearly-10-million-in-taxpayer-funds-spent-on-trump-ads-after-private-funding-ple
-  headline: Nearly $10 million in taxpayer funds spent on Trump ads after private-funding pledge
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6695
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6847
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6813
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6776
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6981
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6913
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6899
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6751
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6847
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6794
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7027
-- slug: 2026-05-22-trump-veers-off-topic-in-new-york-touts-lawler-salt-tax-cuts
-  headline: Trump veers off-topic in New York, touts Lawler SALT tax cuts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6982
-- slug: 2026-06-23-trump-tours-mack-trucks-plant-holds-campaign-style-rally-in-pennsylvania
-  headline: Trump tours Mack Trucks plant, holds campaign-style rally in Pennsylvania
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6724
+  strength: 0.6901
 ---
-
 ## Trump draws generally smaller midterm crowds on a multistate rally week
 
 **Subtype:** fact

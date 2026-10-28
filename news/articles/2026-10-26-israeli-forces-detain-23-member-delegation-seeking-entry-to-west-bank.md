@@ -1,9 +1,19 @@
 ---
 headline: Israeli forces detain 23-member delegation seeking entry to West Bank
-secondary_headline: Progressive International scheduled the group for its Second Ramallah Congress
+secondary_headline: Progressive International scheduled the group for its Second Ramallah
+  Congress
 publish_date: '2026-10-26'
-lede: Israeli forces barred a 23-member international delegation from entering the West Bank on a trip to meet Palestinian children, olive farmers and civil society leaders during the olive harvest season. Sam Tarry, a former Labour MP in the delegation, said the group was detained for nine hours at the Allenby/King Hussein Bridge in Jordan.
-nut_graf: The exclusion came during a violent olive harvest season in the West Bank, when the UN aid coordination office recorded at least 160 Israeli settler attacks linked to the harvest in the first two weeks of October, often under the protection or with the participation of Israeli forces. Delegates said they were questioned and turned back without a reason given, and the embassy of Israel has been contacted for comment.
+lede: Israeli forces barred a 23-member international delegation from entering the
+  West Bank on a trip to meet Palestinian children, olive farmers and civil society
+  leaders during the olive harvest season. Sam Tarry, a former Labour MP in the delegation,
+  said the group was detained for nine hours at the Allenby/King Hussein Bridge in
+  Jordan.
+nut_graf: The exclusion came during a violent olive harvest season in the West Bank,
+  when the UN aid coordination office recorded at least 160 Israeli settler attacks
+  linked to the harvest in the first two weeks of October, often under the protection
+  or with the participation of Israeli forces. Delegates said they were questioned
+  and turned back without a reason given, and the embassy of Israel has been contacted
+  for comment.
 primary_entities:
 - Progressive International
 - Birzeit University
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +162,45 @@ related_stories:
   headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7594
+  strength: 0.76
 - slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
-  headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+  headline: Israeli security forces detain Brad Lander and about 80 activists in West
+    Bank
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7599
+  strength: 0.7603
 - slug: 2026-10-21-protect-the-harvest-steering-committee-reports-two-detention-sites
   headline: Protect the Harvest steering committee reports two detention sites
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7271
+  strength: 0.7269
 - slug: 2026-10-21-lander-says-israeli-military-released-him-after-brief-west-bank-detention
   headline: Lander says Israeli military released him after brief West Bank detention
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7221
+  strength: 0.7218
 - slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
   headline: Joshua Schoffman says volunteers complied with order without friction
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6851
+  strength: 0.6862
 - slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
   headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.71
+  strength: 0.7105
 - slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
   headline: Israeli court extends detention of 6 men over attacks on foreigners
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6905
+  strength: 0.6912
 - slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
+  headline: Israeli police arrest 10 settlers accused of attacking olive pickers,
+    journalists
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6751
-- slug: 2026-10-21-israeli-court-places-four-abu-falah-attack-suspects-under-house-arrest
-  headline: Israeli court places four Abu Falah attack suspects under house arrest
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6533
-- slug: 2026-10-22-report-links-axon-taser-devices-to-alleged-detainee-abuse-in-israeli-custody
-  headline: Report links Axon Taser devices to alleged detainee abuse in Israeli custody
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6156
-- slug: 2026-09-24-netanyahu-arrives-in-new-york-for-defiant-un-speech-as-hundreds-protest
-  headline: Netanyahu arrives in New York for defiant UN speech as hundreds protest
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6552
-- slug: 2026-09-24-abbas-addresses-un-by-video-after-us-denies-palestinian-visas-second-year
-  headline: Abbas addresses UN by video after US denies Palestinian visas second year
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6346
-- slug: 2026-09-25-hague-group-convenes-40-states-at-un-to-defend-international-legal-order
-  headline: Hague Group convenes 40 states at UN to defend international legal order
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.619
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6148
-- slug: 2026-09-17-un-to-vote-thursday-on-abbas-video-address-after-us-visa-denial
-  headline: UN to vote Thursday on Abbas video address after US visa denial
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6193
-- slug: 2026-09-10-australian-labor-group-urges-wong-to-join-israeli-settlement-trade-ban
-  headline: Australian Labor group urges Wong to join Israeli settlement trade ban
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6301
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6869
-- slug: 2026-08-13-israeli-troops-enter-qusra-after-settlers-besiege-palestinian-homes
-  headline: Israeli troops enter Qusra after settlers besiege Palestinian homes
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6152
-- slug: 2026-08-06-democrats-urge-trump-officials-to-restore-west-bank-settler-sanctions
-  headline: Democrats urge Trump officials to restore West Bank settler sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.613
-- slug: 2026-04-15-israeli-police-stop-dozens-of-palestinians-hidden-in-garbage-truck
-  headline: Israeli police stop dozens of Palestinians hidden in garbage truck
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6218
+  strength: 0.6755
 ---
-
 ## Israeli forces detain 23-member delegation seeking entry to West Bank
 
 **Subtype:** fact

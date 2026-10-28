@@ -1,9 +1,26 @@
 ---
 headline: Timerman says US aid, sanctions and tariffs reinforced Latin America's right
-secondary_headline: Terrorist designations strengthened justifications for intervention beyond US borders
+secondary_headline: Terrorist designations strengthened justifications for intervention
+  beyond US borders
 publish_date: '2026-10-26'
-lede: 'In an October 26, 2026 Guardian column, columnist Jordana Timerman wrote that the emerging right-wing alliance across Latin America has developed in close alignment with Donald Trump and his ambitions to reassert US dominance over the hemisphere, describing it as the mirror image of the region''s earlier "pink tide." She said the relationship is mutually reinforcing: right-wing leaders who gained ground through domestic discontent look to Washington to consolidate their power, while the US relies on those same governments and movements to advance its strategic interests. Timerman said US endorsements, sanctions, tariffs, financial assistance and the designation of criminal groups as foreign terrorist organisations had served as the instruments of that alignment, and that Brazil''s resistance to Washington has remained national rather than regional.'
-nut_graf: Timerman's account examines how Washington's political, financial and security tools have reinforced a regional right and shaped the political environment in Brazil, where President Luiz Inácio Lula da Silva won a fourth term in the October 25 runoff. She said Brazil's resistance to Washington has stayed national rather than regional, that the rightward shift is neither inevitable nor irreversible, and that the movement retains substantial electoral support, influence over the political agenda and a powerful ally in Washington.
+lede: 'In an October 26, 2026 Guardian column, columnist Jordana Timerman wrote that
+  the emerging right-wing alliance across Latin America has developed in close alignment
+  with Donald Trump and his ambitions to reassert US dominance over the hemisphere,
+  describing it as the mirror image of the region''s earlier "pink tide." She said
+  the relationship is mutually reinforcing: right-wing leaders who gained ground through
+  domestic discontent look to Washington to consolidate their power, while the US
+  relies on those same governments and movements to advance its strategic interests.
+  Timerman said US endorsements, sanctions, tariffs, financial assistance and the
+  designation of criminal groups as foreign terrorist organisations had served as
+  the instruments of that alignment, and that Brazil''s resistance to Washington has
+  remained national rather than regional.'
+nut_graf: Timerman's account examines how Washington's political, financial and security
+  tools have reinforced a regional right and shaped the political environment in Brazil,
+  where President Luiz Inácio Lula da Silva won a fourth term in the October 25 runoff.
+  She said Brazil's resistance to Washington has stayed national rather than regional,
+  that the rightward shift is neither inevitable nor irreversible, and that the movement
+  retains substantial electoral support, influence over the political agenda and a
+  powerful ally in Washington.
 primary_entities:
 - Brazil
 - Latin America
@@ -51,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +167,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-brazil-s-liberal-party-emerges-largest-in-congress-after-lula-s-51-8-runoff-win
-  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff win
-  publish_date: '2026-10-26'
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6247
+  strength: 0.6623
 - slug: 2026-10-04-national-security-strategy-commits-us-to-preeminence-in-western-hemisphere
   headline: National security strategy commits US to 'preeminence' in Western Hemisphere
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7277
+  strength: 0.7279
 - slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
   headline: Brazil's tight election tests its ability to say 'no' to Trump
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6822
+  strength: 0.6815
 - slug: 2026-10-01-brazil-ag-office-reportedly-files-complaint-over-trump-funding-plan
   headline: Brazil AG office reportedly files complaint over Trump funding plan
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6898
-- slug: 2026-10-13-latinobar-metro-15-of-latin-americans-trust-political-parties
-  headline: 'Latinobarómetro: 15% of Latin Americans trust political parties'
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.623
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6328
-- slug: 2026-10-05-china-overtakes-us-in-latin-americans-positive-view-of-regional-influence
-  headline: China overtakes US in Latin Americans' positive view of regional influence
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6371
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6375
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6304
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6468
-- slug: 2026-09-24-democrats-ask-rubio-to-address-alleged-us-interference-in-brazil-election
-  headline: Democrats ask Rubio to address alleged US interference in Brazil election
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6337
-- slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6249
-- slug: 2026-08-21-lula-and-trump-agree-to-resume-brazil-trade-negotiations
-  headline: Lula and Trump agree to resume Brazil trade negotiations
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6289
-- slug: 2026-08-14-latin-america-s-religious-shift-reshapes-regional-politics
-  headline: Latin America's religious shift reshapes regional politics
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6305
+  strength: 0.6894
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6553
+  strength: 0.6554
 - slug: 2026-06-23-latin-america-s-trump-aligned-leaders-reshape-regional-politics
   headline: Latin America’s Trump-aligned leaders reshape regional politics
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6837
-- slug: 2026-07-18-u-s-imposes-25-tariff-on-brazilian-goods-citing-pix-payment-system
-  headline: U.S. imposes 25% tariff on Brazilian goods, citing PIX payment system
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6386
+  strength: 0.6828
 - slug: 2026-06-30-guardian-says-colombia-race-shows-shift-in-u-s-electoral-interference
   headline: Guardian says Colombia race shows shift in U.S. electoral interference
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6536
-- slug: 2026-07-07-brazil-warns-u-s-terror-designation-of-gangs-risks-military-action
-  headline: Brazil warns U.S. terror designation of gangs risks military action
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6291
-- slug: 2026-04-18-progressive-leaders-rally-in-barcelona-to-defend-rules-based-world-order
-  headline: Progressive leaders rally in Barcelona to defend rules-based world order
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.65
+  strength: 0.6534
 ---
-
 ## Timerman says US aid, sanctions and tariffs reinforced Latin America's right
 
 **Subtype:** fact

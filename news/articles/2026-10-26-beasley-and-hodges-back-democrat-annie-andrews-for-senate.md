@@ -2,8 +2,16 @@
 headline: Beasley and Hodges back Democrat Annie Andrews for Senate
 secondary_headline: Cook Political Report shifts South Carolina to Lean Republican
 publish_date: '2026-10-26'
-lede: Former South Carolina governors David Beasley, a Republican, and Jim Hodges, a Democrat, jointly endorsed Democrat Annie Andrews for the U.S. Senate in a rare joint endorsement video. Andrews, a pediatrician, is seeking to flip the seat held by Republican Darline Graham in an unexpectedly competitive South Carolina Senate race. Recent polling indicated that Graham still held a lead, while the Cook Political Report moved the state from “Likely Republican” to “Lean Republican.”
-nut_graf: The joint endorsement brings together two former governors who once faced each other in an election, at a moment when the South Carolina race has become unexpectedly competitive. It also forms part of a wider 2026 midterm pattern in which Republicans have crossed party lines to endorse Democrats.
+lede: Former South Carolina governors David Beasley, a Republican, and Jim Hodges,
+  a Democrat, jointly endorsed Democrat Annie Andrews for the U.S. Senate in a rare
+  joint endorsement video. Andrews, a pediatrician, is seeking to flip the seat held
+  by Republican Darline Graham in an unexpectedly competitive South Carolina Senate
+  race. Recent polling indicated that Graham still held a lead, while the Cook Political
+  Report moved the state from “Likely Republican” to “Lean Republican.”
+nut_graf: The joint endorsement brings together two former governors who once faced
+  each other in an election, at a moment when the South Carolina race has become unexpectedly
+  competitive. It also forms part of a wider 2026 midterm pattern in which Republicans
+  have crossed party lines to endorse Democrats.
 primary_entities:
 - Annie Andrews
 - David Beasley
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +151,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-beasley-and-hodges-back-democrat-annie-andrews-for-senate.png
-  alt: 'Illustration accompanying article: Beasley and Hodges back Democrat Annie Andrews for Senate'
+  alt: 'Illustration accompanying article: Beasley and Hodges back Democrat Annie
+    Andrews for Senate'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-22-trump-rallies-graham-as-security-removes-protesters-in-south-carolina
   headline: Trump rallies Graham as security removes protesters in South Carolina
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6801
-- slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
-  headline: Democratic Senate candidates split on Medicare for All ahead of midterms
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6557
+  strength: 0.679
 - slug: 2026-08-31-pediatrician-andrews-to-face-darline-graham-in-south-carolina-senate-race
   headline: Pediatrician Andrews to face Darline Graham in South Carolina Senate race
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7314
+  strength: 0.7308
 - slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
   headline: Darline Graham wins South Carolina Senate runoff over Norman
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7228
+  strength: 0.7226
 - slug: 2026-07-26-pediatrician-annie-andrews-aims-to-flip-south-carolina-senate-seat-for-democrats
-  headline: Pediatrician Annie Andrews aims to flip South Carolina Senate seat for Democrats
+  headline: Pediatrician Annie Andrews aims to flip South Carolina Senate seat for
+    Democrats
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7795
+  strength: 0.7797
 - slug: 2026-08-11-south-carolina-republicans-cast-ballots-in-special-primary-for-graham-s-seat
-  headline: South Carolina Republicans cast ballots in special primary for Graham's seat
+  headline: South Carolina Republicans cast ballots in special primary for Graham's
+    seat
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.715
+  strength: 0.716
 - slug: 2026-08-18-rep-norman-questions-trump-endorsement-of-darline-graham-in-sc-senate-runoff
-  headline: Rep. Norman questions Trump endorsement of Darline Graham in SC Senate runoff
+  headline: Rep. Norman questions Trump endorsement of Darline Graham in SC Senate
+    runoff
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6912
+  strength: 0.6909
 - slug: 2026-08-08-darline-graham-enters-south-carolina-primary-with-trump-endorsement
   headline: Darline Graham enters South Carolina primary with Trump endorsement
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.6948
-- slug: 2026-08-14-fry-endorses-graham-ahead-of-south-carolina-senate-primary-runoff
-  headline: Fry endorses Graham ahead of South Carolina Senate primary runoff
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6787
+  strength: 0.6939
 - slug: 2026-08-24-darline-graham-ralph-norman-head-to-south-carolina-senate-runoff
   headline: Darline Graham, Ralph Norman head to South Carolina Senate runoff
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.655
-- slug: 2026-08-14-third-place-finisher-fry-endorses-graham-ahead-of-south-carolina-s-aug-25-senate
-  headline: Third-place finisher Fry endorses Graham ahead of South Carolina's Aug. 25 Senate runoff
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6772
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7046
-- slug: 2026-08-01-darline-graham-enters-senate-campaign-at-south-carolina-event
-  headline: Darline Graham enters Senate campaign at South Carolina event
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6751
-- slug: 2026-08-06-roy-cooper-leads-north-carolina-senate-race-as-republicans-defend-seat
-  headline: Roy Cooper leads North Carolina Senate race as Republicans defend seat
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6635
-- slug: 2026-07-17-south-carolina-reckons-with-lindsey-graham-s-complex-legacy
-  headline: South Carolina reckons with Lindsey Graham's complex legacy
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6729
-- slug: 2026-07-18-rep-ralph-norman-enters-south-carolina-senate-race-despite-trump-endorsement
-  headline: Rep. Ralph Norman enters South Carolina Senate race despite Trump endorsement
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6665
-- slug: 2026-07-12-mcmaster-to-appoint-graham-replacement-as-gop-scrambles-for-senate-seat
-  headline: McMaster to appoint Graham replacement as GOP scrambles for Senate seat
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.663
-- slug: 2026-06-10-evette-wilson-advance-to-runoff-in-south-carolina-gop-governor-primary-mace-lose
-  headline: Evette, Wilson advance to runoff in South Carolina GOP governor primary; Mace loses
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6686
-- slug: 2026-06-09-evette-wilson-head-to-south-carolina-gop-gubernatorial-runoff
-  headline: Evette, Wilson head to South Carolina GOP gubernatorial runoff
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6682
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6662
+  strength: 0.6575
 ---
-
 ## Beasley and Hodges back Democrat Annie Andrews for Senate
 
 **Subtype:** fact

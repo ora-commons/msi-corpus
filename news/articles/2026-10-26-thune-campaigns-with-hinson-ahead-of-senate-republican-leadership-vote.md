@@ -2,8 +2,19 @@
 headline: Thune campaigns with Hinson ahead of Senate Republican leadership vote
 secondary_headline: After Nov. 3, senators meet by secret ballot in the nation’s capital
 publish_date: '2026-10-26'
-lede: Senate Majority Leader John Thune campaigned Friday with Republican Rep. Ashley Hinson in northwest Iowa as Republicans try to retain their Senate majority in the Nov. 3 elections. Hinson is locked in a tight race against Democrat Josh Turek for retiring Sen. Joni Ernst’s seat. Thune also is headed to Ohio to help Republican Sen. Jon Husted, who faces former Democratic Sen. Sherrod Brown.
-nut_graf: The campaign push comes amid intense criticism from the Republican base and President Donald Trump over the Senate’s inability to pass voter legislation this year; Thune said he would not be offended if some Republicans did not want to campaign with him. Iowa voters were mostly focused on issues such as childcare, the economy and farm-input costs, while voters in Iowa and several traditionally Republican states voiced frustration with Trump, the war in Iran, high gasoline prices and high grocery prices. Despite a map favoring Republicans, Democrats remain hopeful of winning the Senate.
+lede: Senate Majority Leader John Thune campaigned Friday with Republican Rep. Ashley
+  Hinson in northwest Iowa as Republicans try to retain their Senate majority in the
+  Nov. 3 elections. Hinson is locked in a tight race against Democrat Josh Turek for
+  retiring Sen. Joni Ernst’s seat. Thune also is headed to Ohio to help Republican
+  Sen. Jon Husted, who faces former Democratic Sen. Sherrod Brown.
+nut_graf: The campaign push comes amid intense criticism from the Republican base
+  and President Donald Trump over the Senate’s inability to pass voter legislation
+  this year; Thune said he would not be offended if some Republicans did not want
+  to campaign with him. Iowa voters were mostly focused on issues such as childcare,
+  the economy and farm-input costs, while voters in Iowa and several traditionally
+  Republican states voiced frustration with Trump, the war in Iran, high gasoline
+  prices and high grocery prices. Despite a map favoring Republicans, Democrats remain
+  hopeful of winning the Senate.
 primary_entities:
 - John Thune
 - Donald Trump
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,119 +157,63 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-rural-ohio-voters-weigh-costs-in-toss-up-senate-race
-  headline: Rural Ohio voters weigh costs in toss-up Senate race
-  publish_date: '2026-10-23'
+- slug: 2026-10-26-some-thune-allies-fear-blame-if-republicans-lose-their-53-47-senate-majority
+  headline: Some Thune allies fear blame if Republicans lose their 53-47 Senate majority
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6687
+  strength: 0.7688
 - slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
   headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6929
+  strength: 0.6927
 - slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
   headline: Polls, forecasters favor Democrats as 2026 midterms near
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6804
+  strength: 0.6802
 - slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
+  headline: GOP's last-ditch affordability push falls short as polls signal chamber
+    jeopardy
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6893
+  strength: 0.6883
 - slug: 2026-10-02-brown-rallies-ohio-unions-in-bid-to-reclaim-senate-seat
   headline: Brown rallies Ohio unions in bid to reclaim Senate seat
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6782
+  strength: 0.6784
 - slug: 2026-10-02-senate-leadership-fund-halts-north-carolina-senate-ad-spending
   headline: Senate Leadership Fund halts North Carolina Senate ad spending
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6763
-- slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
-  headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.67
+  strength: 0.6758
 - slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
   headline: Polls show Democratic edge as Republicans face tough midterm fight
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6782
+  strength: 0.6775
 - slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
   headline: Cook downgrades Iowa Senate race from lean Republican to tossup
   publish_date: '2026-08-22'
   relation: related
   strength: 0.7715
-- slug: 2026-09-16-nyt-siena-poll-democrats-lead-by-nearly-nine-points-as-iowa-battleground-expands
-  headline: 'NYT/Siena poll: Democrats lead by nearly nine points as Iowa battleground expands'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6748
-- slug: 2026-09-03-ted-cruz-promotes-book-courts-iowa-republicans-on-potential-2028-bid
-  headline: Ted Cruz promotes book, courts Iowa Republicans on potential 2028 bid
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6757
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6955
-- slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
-  headline: Iowa Republicans trail in governor's race amid rural economic strain
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6872
-- slug: 2026-06-03-turek-wins-iowa-democratic-senate-primary-will-face-hinson-in-november
-  headline: Turek wins Iowa Democratic Senate primary, will face Hinson in November
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7654
-- slug: 2026-07-28-senate-gop-leader-thune-faces-pressure-from-trump-to-eliminate-filibuster-for-sa
-  headline: Senate GOP leader Thune faces pressure from Trump to eliminate filibuster for SAVE Act
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6962
-- slug: 2026-07-24-senate-gop-leader-says-votes-not-there-for-95b-budget-push
-  headline: Senate GOP leader says votes not there for $95B budget push
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6998
-- slug: 2026-05-15-democrats-debate-iowa-senate-primary-candidates-turek-and-wahls
-  headline: Democrats debate Iowa Senate primary candidates Turek and Wahls
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.755
-- slug: 2026-05-15-turek-wahls-clash-on-electability-in-iowa-senate-democratic-debate
-  headline: Turek, Wahls clash on electability in Iowa Senate Democratic debate
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7446
-- slug: 2026-06-18-trump-frustration-grows-as-senate-gop-leader-thune-keeps-saying-no
-  headline: Trump frustration grows as Senate GOP leader Thune keeps saying no
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7186
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7229
 image:
   url: /articles/2026-10-26-thune-campaigns-with-hinson-ahead-of-senate-republican-leadership-vote.png
-  alt: "Illustration accompanying article: Thune campaigns with Hinson ahead of Senate Republican leadership vote"
+  alt: 'Illustration accompanying article: Thune campaigns with Hinson ahead of Senate
+    Republican leadership vote'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-26-john-thune-s-iowa-campaign-tests-his-senate-leadership-position'
+- 2026-10-26-john-thune-s-iowa-campaign-tests-his-senate-leadership-position
 ---
-
 ## Thune campaigns with Hinson ahead of Senate Republican leadership vote
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Venezuelan authorities detain shrimp magnate José Enrique Rincón after exile
-secondary_headline: Miller Holding operates Lamar facilities as Venezuela’s shrimp output fell more than 90% since 2024
+secondary_headline: Miller Holding operates Lamar facilities as Venezuela’s shrimp
+  output fell more than 90% since 2024
 publish_date: '2026-10-23'
-lede: Venezuelan investigative police detained shrimp magnate José Enrique Rincón at La Chinita International Airport near Maracaibo in June, shortly after he arrived from exile in Panama. Rincón, 62, believed Venezuela’s alignment with the Trump administration after the U.S. overthrow of Nicolás Maduro made it safe to return and reclaim the $700 million Grupo Lamar conglomerate. His relatives say authorities fabricated treason and terrorism charges to justify taking control of Lamar, the country’s dominant farmed-shrimp exporter, in late 2024.
-nut_graf: Nearly 11 months after Maduro’s ouster, The Wall Street Journal’s analysis said Rincón’s ordeal exposed a contradiction in Trump’s plans to turn Venezuela into an investment hub. The analysis said politically motivated jailings and seizures continued under Delcy Rodríguez and a U.S. government apparatus controlling much of the interim leadership, while allies separately said continued Maduro-era seizures threatened Washington’s economic recovery strategy.
+lede: Venezuelan investigative police detained shrimp magnate José Enrique Rincón
+  at La Chinita International Airport near Maracaibo in June, shortly after he arrived
+  from exile in Panama. Rincón, 62, believed Venezuela’s alignment with the Trump
+  administration after the U.S. overthrow of Nicolás Maduro made it safe to return
+  and reclaim the $700 million Grupo Lamar conglomerate. His relatives say authorities
+  fabricated treason and terrorism charges to justify taking control of Lamar, the
+  country’s dominant farmed-shrimp exporter, in late 2024.
+nut_graf: Nearly 11 months after Maduro’s ouster, The Wall Street Journal’s analysis
+  said Rincón’s ordeal exposed a contradiction in Trump’s plans to turn Venezuela
+  into an investment hub. The analysis said politically motivated jailings and seizures
+  continued under Delcy Rodríguez and a U.S. government apparatus controlling much
+  of the interim leadership, while allies separately said continued Maduro-era seizures
+  threatened Washington’s economic recovery strategy.
 primary_entities:
 - José Enrique Rincón
 - Grupo Lamar
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +158,46 @@ related_stories:
   headline: Venezuelan coalition allies press Rodríguez to resist US pursuit of insiders
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6829
-- slug: 2026-10-12-u-s-arrests-colombian-fugitive-tied-to-maduro-on-laundering-charges
-  headline: U.S. arrests Colombian fugitive tied to Maduro on laundering charges
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6465
-- slug: 2026-10-02-un-mission-venezuela-s-repression-institutions-intact-as-abuses-decline
-  headline: 'UN mission: Venezuela''s repression institutions intact as abuses decline'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6456
-- slug: 2026-09-19-machado-readies-return-to-venezuela-to-press-for-elections
-  headline: Machado readies return to Venezuela to press for elections
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6486
+  strength: 0.6818
 - slug: 2026-06-19-venezuela-launches-us-backed-offensive-against-tren-de-aragua-in-mining-region
-  headline: Venezuela launches US-backed offensive against Tren de Aragua in mining region
+  headline: Venezuela launches US-backed offensive against Tren de Aragua in mining
+    region
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.674
+  strength: 0.6743
 - slug: 2026-06-29-venezuela-blocks-machado-return-after-deadly-earthquakes
   headline: Venezuela blocks Machado return after deadly earthquakes
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6563
+  strength: 0.6558
 - slug: 2026-05-16-venezuela-deports-ex-maduro-ally-alex-saab-to-u-s-to-face-criminal-probes
   headline: Venezuela deports ex-Maduro ally Alex Saab to U.S. to face criminal probes
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6535
+  strength: 0.653
 - slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  headline: Rubio tamps down nation-building fears as Trump insists US 'in charge' in Venezuela
+  headline: Rubio tamps down nation-building fears as Trump insists US 'in charge'
+    in Venezuela
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.6775
+  strength: 0.6767
 - slug: 2026-01-09-china-s-venezuela-oil-debt-complicates-trump-s-seizure-strategy
   headline: China's Venezuela oil debt complicates Trump's seizure strategy
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.6663
+  strength: 0.6657
 - slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  headline: Caracas falls quiet as Venezuelans wait to see what comes next after US seizes Maduro
+  headline: Caracas falls quiet as Venezuelans wait to see what comes next after US
+    seizes Maduro
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.6637
+  strength: 0.6632
 - slug: 2026-01-09-venezuela-frees-opposition-leaders-foreign-nationals-after-maduro-capture
   headline: Venezuela frees opposition leaders, foreign nationals after Maduro's capture
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.6605
-- slug: 2026-01-20-us-military-seizes-seventh-venezuelan-oil-tanker
-  headline: US military seizes seventh Venezuelan oil tanker
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6592
-- slug: 2026-03-06-trump-presses-latin-america-to-curb-china-ties-from-chile-to-panama
-  headline: Trump presses Latin America to curb China ties from Chile to Panama
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.654
-- slug: 2026-01-04-maduro-s-immunity-claim-faces-long-odds-noriega-set-the-legal-precedent
-  headline: Maduro's immunity claim faces long odds; Noriega set the legal precedent
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6588
-- slug: 2026-01-01-us-sanctions-4-venezuelan-oil-firms-and-4-tankers-in-maduro-crackdown
-  headline: US sanctions 4 Venezuelan oil firms and 4 tankers in Maduro crackdown
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6572
-- slug: 2026-01-10-cuba-braces-for-collapse-as-u-s-tanker-seizures-cut-venezuelan-oil-supply
-  headline: Cuba braces for collapse as U.S. tanker seizures cut Venezuelan oil supply
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6553
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6554
-- slug: 2026-02-11-venezuelan-opposition-ally-guanipa-returned-to-house-arrest-after-release
-  headline: Venezuelan opposition ally Guanipa returned to house arrest after release
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6524
-- slug: 2026-01-07-venezuela-s-vast-oil-reserves-draw-us-interest-but-experts-warn-of-major-hurdles
-  headline: Venezuela's vast oil reserves draw US interest, but experts warn of major hurdles
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.655
-- slug: 2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-as-trump-moves-to-control-global-sales
-  headline: US seizes two more Venezuelan oil tankers as Trump moves to control global sales
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6538
+  strength: 0.6608
 ---
-
 ## Venezuelan authorities detain shrimp magnate José Enrique Rincón after exile
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Kentucky ostrich farm and restaurant offer alpha-gal patients an alternative
 secondary_headline: CDC estimates 450,000 Americans received an alpha-gal diagnosis
 publish_date: '2026-10-26'
-lede: A Kentucky ostrich farm and a rural western Kentucky restaurant are offering ostrich meat to people with alpha-gal syndrome, a condition in which exposure to meat from mammals can trigger allergic reactions. NPR reporter Hannah Saad, reporting with member station WKMS, described the farm and restaurant in an Oct. 26 report. The CDC estimates 450,000 Americans have been diagnosed with the condition.
-nut_graf: 'Williams''s farm and Todd''s restaurant document two elements of a dietary response to alpha-gal syndrome: producing ostrich meat that lacks the carbohydrate found in most mammals and preparing it in an alpha-gal-friendly kitchen section to prevent cross-contamination. Pace said as many as 1 in 4 people have antibodies to alpha-gal at this point, though not everyone with antibodies has symptoms.'
+lede: A Kentucky ostrich farm and a rural western Kentucky restaurant are offering
+  ostrich meat to people with alpha-gal syndrome, a condition in which exposure to
+  meat from mammals can trigger allergic reactions. NPR reporter Hannah Saad, reporting
+  with member station WKMS, described the farm and restaurant in an Oct. 26 report.
+  The CDC estimates 450,000 Americans have been diagnosed with the condition.
+nut_graf: 'Williams''s farm and Todd''s restaurant document two elements of a dietary
+  response to alpha-gal syndrome: producing ostrich meat that lacks the carbohydrate
+  found in most mammals and preparing it in an alpha-gal-friendly kitchen section
+  to prevent cross-contamination. Pace said as many as 1 in 4 people have antibodies
+  to alpha-gal at this point, though not everyone with antibodies has symptoms.'
 primary_entities:
 - Hannah Saad
 - Leila Fadel
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,14 @@ related_stories:
   headline: Kentucky ostrich farm offers alpha-gal patients a beef alternative
   publish_date: '2026-09-06'
   relation: related
-  strength: 0.8806
-- slug: 2026-10-23-utah-officials-issue-a-verbal-hold-as-bird-flu-spreads-among-mink
-  headline: Utah officials issue a verbal hold as bird flu spreads among mink
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5881
-- slug: 2026-10-21-usda-confirms-new-world-screwworm-detected-in-texas-elk
-  headline: USDA confirms New World screwworm detected in Texas elk
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5869
-- slug: 2026-10-11-american-academy-of-pediatrics-calls-for-ban-on-raw-milk-sales
-  headline: American Academy of Pediatrics calls for ban on raw milk sales
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.615
-- slug: 2026-09-26-golden-corral-s-modular-buffet-lines-keep-all-you-can-eat-margins-workable
-  headline: Golden Corral's modular buffet lines keep all-you-can-eat margins workable
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5985
-- slug: 2026-09-23-usda-announces-recall-of-167-639-pounds-of-uninspected-meat
-  headline: USDA announces recall of 167,639 pounds of uninspected meat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5924
+  strength: 0.8815
 - slug: 2026-06-13-tick-bite-linked-to-alpha-gal-syndrome-cases-rise-fda-approves-first-drug
-  headline: Tick bite linked to alpha-gal syndrome cases rise; FDA approves first drug
+  headline: Tick bite linked to alpha-gal syndrome cases rise; FDA approves first
+    drug
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.7284
-- slug: 2026-08-28-trump-picks-overton-to-lead-fda-amid-record-foodborne-outbreaks
-  headline: Trump picks Overton to lead FDA amid record foodborne outbreaks
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5889
-- slug: 2026-08-24-cdc-links-multi-state-food-poisoning-outbreak-to-alfalfa-sprouts
-  headline: CDC links multi-state food poisoning outbreak to alfalfa sprouts
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5986
-- slug: 2026-08-15-fda-elevates-1-6-million-dozen-egg-recall-to-highest-risk-level
-  headline: FDA elevates 1.6 million-dozen egg recall to highest-risk level
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5998
-- slug: 2026-07-16-taylor-farms-lettuce-supplied-to-taco-bell-linked-to-cyclospora-outbreak
-  headline: Taylor Farms lettuce supplied to Taco Bell linked to Cyclospora outbreak
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6116
-- slug: 2026-07-28-cyclosporiasis-case-count-may-exceed-11-000-cdc-tracking-shows
-  headline: Cyclosporiasis case count may exceed 11,000, CDC tracking shows
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.587
-- slug: 2026-07-19-fda-identifies-taylor-farms-lettuce-as-cyclospora-outbreak-source
-  headline: FDA identifies Taylor Farms lettuce as Cyclospora outbreak source
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5951
-- slug: 2026-07-18-taylor-farms-recalls-shredded-iceberg-lettuce-in-27-states
-  headline: Taylor Farms recalls shredded iceberg lettuce in 27 states
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5963
-- slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
-  headline: Farm workers face elevated risk as screwworm spreads in US south-west
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6161
-- slug: 2026-07-09-taco-bell-pulls-fresh-ingredients-as-cyclospora-outbreak-spreads
-  headline: Taco Bell pulls fresh ingredients as Cyclospora outbreak spreads
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5862
-- slug: 2026-04-30-raw-milk-and-state-laws-ap-report-shows-push-for-wider-access
-  headline: 'Raw milk and state laws: AP report shows push for wider access'
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6103
-- slug: 2026-05-14-elk-refuge-cwd-discovery-prompts-calls-to-reduce-jackson-herd
-  headline: Elk Refuge CWD discovery prompts calls to reduce Jackson herd
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6012
-- slug: 2026-03-27-9-sickened-in-e-coli-outbreak-tied-to-raw-farm-raw-milk-and-cheddar-cheese
-  headline: 9 sickened in E. coli outbreak tied to Raw Farm raw milk and cheddar cheese
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6132
-- slug: 2026-04-30-raw-milk-backers-push-for-wider-availability-despite-outbreak-risks
-  headline: Raw milk backers push for wider availability despite outbreak risks
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.598
+  strength: 0.7295
 ---
-
 ## Kentucky ostrich farm and restaurant offer alpha-gal patients an alternative
 
 **Subtype:** fact

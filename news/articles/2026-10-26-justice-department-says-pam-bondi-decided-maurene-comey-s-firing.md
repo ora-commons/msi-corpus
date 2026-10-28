@@ -1,9 +1,23 @@
 ---
 headline: Justice Department says Pam Bondi decided Maurene Comey's firing
-secondary_headline: Furman limits prosecutor removals to a particular manner and certain reasons
+secondary_headline: Furman limits prosecutor removals to a particular manner and certain
+  reasons
 publish_date: '2026-10-26'
-lede: In court filings, the US Justice Department said former Attorney General Pam Bondi made the decision to fire Maurene Comey, a federal prosecutor in New York who lost her job in July 2025. Federal Judge Jesse Furman’s ruling ordered her reinstatement, found the dismissal violated the US Constitution and fair legal process, and ordered back pay through December 2025, when she accepted a new job. Furman said an attorney general can fire federal prosecutors only “in a particular manner and only for certain reasons,” and the Justice Department said it would appeal.
-nut_graf: The case concerned the legal limits on removing federal prosecutors under the Constitution and fair legal process. Maurene Comey’s lawyers said in a September 2025 complaint that they believed she had been fired “solely or substantially because her father is former FBI Director James B Comey, or because of her perceived political affiliation and beliefs, or both.” The Justice Department said in court filings that former Attorney General Pam Bondi made the decision, while Furman said an attorney general can fire federal prosecutors only “in a particular manner and only for certain reasons.”
+lede: In court filings, the US Justice Department said former Attorney General Pam
+  Bondi made the decision to fire Maurene Comey, a federal prosecutor in New York
+  who lost her job in July 2025. Federal Judge Jesse Furman’s ruling ordered her reinstatement,
+  found the dismissal violated the US Constitution and fair legal process, and ordered
+  back pay through December 2025, when she accepted a new job. Furman said an attorney
+  general can fire federal prosecutors only “in a particular manner and only for certain
+  reasons,” and the Justice Department said it would appeal.
+nut_graf: The case concerned the legal limits on removing federal prosecutors under
+  the Constitution and fair legal process. Maurene Comey’s lawyers said in a September
+  2025 complaint that they believed she had been fired “solely or substantially because
+  her father is former FBI Director James B Comey, or because of her perceived political
+  affiliation and beliefs, or both.” The Justice Department said in court filings
+  that former Attorney General Pam Bondi made the decision, while Furman said an attorney
+  general can fire federal prosecutors only “in a particular manner and only for certain
+  reasons.”
 primary_entities:
 - Maurene Comey
 - James Comey
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +155,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing.png
-  alt: 'Illustration accompanying article: Justice Department says Pam Bondi decided Maurene Comey''s firing'
+  alt: 'Illustration accompanying article: Justice Department says Pam Bondi decided
+    Maurene Comey''s firing'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful
   headline: Federal judge rules Maurene Comey's firing unlawful
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.868
+  strength: 0.8675
 - slug: 2026-10-26-furman-finds-due-process-violation-calls-for-comey-back-pay-possible-return
-  headline: Furman finds due process violation, calls for Comey back pay, possible return
+  headline: Furman finds due process violation, calls for Comey back pay, possible
+    return
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8635
+  strength: 0.8629
 - slug: 2026-10-26-justice-department-plans-appeal-after-judge-finds-comey-eligible-for-backpay
   headline: Justice Department plans appeal after judge finds Comey eligible for backpay
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8562
+  strength: 0.8551
 - slug: 2026-10-26-judge-orders-justice-department-to-reinstate-maurene-comey
   headline: Judge orders Justice Department to reinstate Maurene Comey
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8339
-- slug: 2026-04-29-judge-lets-maurene-comey-wrongful-firing-lawsuit-proceed-against-trump
-  headline: Judge lets Maurene Comey wrongful-firing lawsuit proceed against Trump
-  publish_date: '2026-04-29'
+  strength: 0.8336
+- slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
+  headline: James Comey remains unindicted after defense filed dismissal motion
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8072
-- slug: 2026-08-17-former-face-act-prosecutor-sues-doj-over-april-firing
-  headline: Former FACE Act prosecutor sues DOJ over April firing
-  publish_date: '2026-08-17'
+  strength: 0.7382
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6478
-- slug: 2026-08-19-prosecutors-say-comey-seashell-post-could-be-read-as-trump-threat
-  headline: Prosecutors say Comey seashell post could be read as Trump threat
-  publish_date: '2026-08-19'
+  strength: 0.7375
+- slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
+  headline: Prosecutors say Comey sought to correct Reuters misinformation
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6357
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
+  strength: 0.705
+- slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7411
-- slug: 2026-08-07-fired-federal-prosecutor-sues-justice-department-over-first-amendment-claim
-  headline: Fired federal prosecutor sues Justice Department over First Amendment claim
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6385
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6804
-- slug: 2026-04-04-how-the-epstein-files-dogged-pam-bondi-s-time-as-attorney-general
-  headline: How the Epstein files dogged Pam Bondi's time as attorney general
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6966
-- slug: 2026-01-18-doj-firings-hollow-out-career-staff-as-more-than-6-400-employees-depart
-  headline: DOJ firings hollow out career staff as more than 6,400 employees depart
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.7048
-- slug: 2026-04-01-3-fired-fbi-agents-sue-to-regain-jobs-after-trump-investigation-work
-  headline: 3 fired FBI agents sue to regain jobs after Trump investigation work
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6928
-- slug: 2026-04-03-trump-removes-pam-bondi-as-attorney-general-names-todd-blanche-acting
-  headline: Trump removes Pam Bondi as attorney general, names Todd Blanche acting
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6886
-- slug: 2026-01-13-justice-department-accuses-federal-judge-of-abusing-power-over-prosecutor-s-titl
-  headline: Justice Department accuses federal judge of abusing power over prosecutor's title
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6898
-- slug: 2026-05-31-lead-prosecutor-leaves-james-comey-case-without-explanation
-  headline: Lead prosecutor leaves James Comey case without explanation
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6441
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  headline: Trump administration targets political opponents; Powell and Fed the latest
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6726
-- slug: 2026-06-04-bondi-testifies-todd-blanche-led-epstein-files-release-won-t-discuss-trump
-  headline: Bondi testifies Todd Blanche led Epstein files release, won't discuss Trump
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6345
-- slug: 2026-04-08-acting-ag-todd-blanche-says-only-trump-knows-why-pam-bondi-was-replaced
-  headline: Acting AG Todd Blanche says only Trump knows why Pam Bondi was replaced
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.654
-- slug: 2026-04-18-prosecutor-removed-from-brennan-case-after-raising-legal-concerns
-  headline: Prosecutor removed from Brennan case after raising legal concerns
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6479
+  strength: 0.6866
 ---
-
 ## Justice Department says Pam Bondi decided Maurene Comey's firing
 
 **Subtype:** fact

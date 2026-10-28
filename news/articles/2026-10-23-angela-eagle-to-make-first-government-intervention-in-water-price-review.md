@@ -1,9 +1,21 @@
 ---
 headline: Angela Eagle to make first government intervention in water price review
-secondary_headline: Letter calls for technology investment and early action on leaks and sewage
+secondary_headline: Letter calls for technology investment and early action on leaks
+  and sewage
 publish_date: '2026-10-23'
-lede: 'Environment secretary Angela Eagle has told water companies in England and Wales that she will intervene in the next price review run by the water regulator Ofwat, the first time a government has intervened in the five-year process. In a letter to regulators and water company chief executives, Eagle set out the government''s priorities for the review, which is expected to conclude in 2029: better value for money for billpayers, new technology that reduces costs, and early action on leaks and sewage spills.'
-nut_graf: Ofwat's 2024 price review authorised a £104bn modernisation programme, funded in large part through annual rate increases that will see average water bills rise by 36% over the second half of the decade, and several major suppliers asked this summer to charge billions more. Eagle's letter places government priorities inside a review that has never before drawn ministerial intervention, though it stops short of demanding bill cuts.
+lede: 'Environment secretary Angela Eagle has told water companies in England and
+  Wales that she will intervene in the next price review run by the water regulator
+  Ofwat, the first time a government has intervened in the five-year process. In a
+  letter to regulators and water company chief executives, Eagle set out the government''s
+  priorities for the review, which is expected to conclude in 2029: better value for
+  money for billpayers, new technology that reduces costs, and early action on leaks
+  and sewage spills.'
+nut_graf: Ofwat's 2024 price review authorised a £104bn modernisation programme, funded
+  in large part through annual rate increases that will see average water bills rise
+  by 36% over the second half of the decade, and several major suppliers asked this
+  summer to charge billions more. Eagle's letter places government priorities inside
+  a review that has never before drawn ministerial intervention, though it stops short
+  of demanding bill cuts.
 primary_entities:
 - Angela Eagle
 - Andy Burnham
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
-  headline: Andrea Egan urges Burnham to put public investment in his budget
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6302
-- slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
-  headline: Badenoch pledges to scrap UK future homes standard
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.603
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6458
-- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
-  headline: Cornwall Insight projects 16% rise in UK energy price cap
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6109
 - slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
   headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6686
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6233
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6041
-- slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
-  headline: Burnham to outline social care and public control plans at Labour conference
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6059
-- slug: 2026-09-23-uk-joins-eu-oceaneye-program-to-improve-extreme-weather-forecasts
-  headline: UK joins EU OceanEye program to improve extreme weather forecasts
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6132
-- slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
-  headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6177
-- slug: 2026-09-11-australian-government-shelves-promised-packaging-laws-citing-cost-of-living
-  headline: Australian government shelves promised packaging laws, citing cost of living
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6209
+  strength: 0.6692
 - slug: 2026-08-24-thames-water-creditors-propose-new-board-to-head-off-nationalisation
   headline: Thames Water creditors propose new board to head off nationalisation
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6574
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6133
-- slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
-  headline: EU, UK and Canada pare back climate goals amid energy costs
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6055
-- slug: 2026-08-07-milburn-studies-dublin-apprenticeships-as-uk-youth-neet-rate-climbs
-  headline: Milburn studies Dublin apprenticeships as UK youth Neet rate climbs
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.608
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6345
-- slug: 2026-06-24-progressive-economists-push-back-on-unite-leader-s-attack-on-miliband
-  headline: Progressive economists push back on Unite leader's attack on Miliband
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.603
-- slug: 2026-04-16-states-recalibrate-clean-energy-rules-as-affordability-takes-center-stage
-  headline: States recalibrate clean-energy rules as affordability takes center stage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6273
-- slug: 2026-05-15-epa-proposes-rollback-of-coal-plant-wastewater-limits-citing-ai-driven-energy-de
-  headline: EPA proposes rollback of coal plant wastewater limits, citing AI-driven energy demand
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.607
-- slug: 2026-04-26-boston-area-groups-urge-end-to-sewage-discharges-in-waterways
-  headline: Boston-area groups urge end to sewage discharges in waterways
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6095
+  strength: 0.6584
 ---
-
 ## Angela Eagle to make first government intervention in water price review
 
 **Subtype:** fact

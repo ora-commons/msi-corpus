@@ -1,9 +1,19 @@
 ---
 headline: Trump attacks Bill Maher after interview with Karoline Leavitt
-secondary_headline: Maher questioned Trump’s lame-duck presidency while Leavitt defended him
+secondary_headline: Maher questioned Trump’s lame-duck presidency while Leavitt defended
+  him
 publish_date: '2026-10-26'
-lede: President Donald Trump called late-night television host Bill Maher a “TOTAL LOSER” in a 1,300-word Truth Social post on Sunday evening. The post followed Maher’s interview with former White House press secretary Karoline Leavitt on Real Time with Bill Maher, where Maher asked about Trump’s lame-duck presidency and whether he would pursue “vengeance” if Republicans largely lost the next week’s midterms.
-nut_graf: Trump’s lengthy post attacking Maher came just about a week before the U.S. midterm elections, when Republicans were trying to fend off Democratic challenges. Before the post, Trump had criticized late-night hosts and comedians on his platform. Earlier this year, he called for ABC late-night host Jimmy Kimmel’s show to be terminated after Kimmel joked about Melania Trump, and last year he called for Seth Meyers to be fired.
+lede: President Donald Trump called late-night television host Bill Maher a “TOTAL
+  LOSER” in a 1,300-word Truth Social post on Sunday evening. The post followed Maher’s
+  interview with former White House press secretary Karoline Leavitt on Real Time
+  with Bill Maher, where Maher asked about Trump’s lame-duck presidency and whether
+  he would pursue “vengeance” if Republicans largely lost the next week’s midterms.
+nut_graf: Trump’s lengthy post attacking Maher came just about a week before the U.S.
+  midterm elections, when Republicans were trying to fend off Democratic challenges.
+  Before the post, Trump had criticized late-night hosts and comedians on his platform.
+  Earlier this year, he called for ABC late-night host Jimmy Kimmel’s show to be terminated
+  after Kimmel joked about Melania Trump, and last year he called for Seth Meyers
+  to be fired.
 primary_entities:
 - Donald Trump
 - Bill Maher
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +154,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6089
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6071
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6164
-- slug: 2026-09-10-guardian-column-frames-trump-dallas-speech-as-desperate-last-pitch-to-voters
-  headline: Guardian column frames Trump Dallas speech as 'desperate last pitch' to voters
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6161
-- slug: 2026-08-30-trump-urges-fcc-to-punish-nbc-s-welker-over-mixed-endorsement-remark
-  headline: Trump urges FCC to punish NBC's Welker over 'mixed' endorsement remark
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6491
-- slug: 2026-09-02-trump-urges-fcc-to-rebuke-nbc-s-welker-over-mixed-record-remark
-  headline: Trump urges FCC to rebuke NBC's Welker over 'mixed-record' remark
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6331
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6175
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6068
-- slug: 2026-08-18-white-house-rapid-response-account-attacks-cnn-reporter-over-trump-question
-  headline: White House rapid-response account attacks CNN reporter over Trump question
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6432
-- slug: 2026-08-13-leavitt-s-departure-comes-weeks-before-midterms-with-no-replacement-named
-  headline: Leavitt's departure comes weeks before midterms with no replacement named
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6119
 - slug: 2026-06-07-trump-abruptly-ends-nbc-interview-after-clash-over-rigged-election-claim
   headline: Trump abruptly ends NBC interview after clash over rigged election claim
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.6573
-- slug: 2026-07-18-trump-fires-election-commissioners-pushes-new-voting-rules-after-speech-alleging
-  headline: Trump fires election commissioners, pushes new voting rules after speech alleging the system is broken
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6064
-- slug: 2026-07-17-trump-claims-election-system-so-broken-no-one-can-defend-it
-  headline: Trump claims election system 'so broken no one can defend it'
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6059
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6106
-- slug: 2026-06-28-biden-calls-trump-a-loser-derides-reflecting-pool-renovation
-  headline: Biden calls Trump 'a loser,' derides reflecting pool renovation
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6159
-- slug: 2026-06-12-trump-insults-toward-female-journalists-draw-new-calls-for-press-to-push-back
-  headline: Trump insults toward female journalists draw new calls for press to push back
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6237
-- slug: 2026-06-26-trump-paints-democrats-as-godless-communists-in-midterm-preview
-  headline: Trump paints Democrats as 'godless communists' in midterm preview
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6108
-- slug: 2026-06-13-trump-turns-80-as-white-house-projects-vigor-questions-over-health-persist
-  headline: Trump turns 80 as White House projects vigor, questions over health persist
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6131
-- slug: 2026-02-08-trump-deletes-racist-post-depicting-obamas-as-primates-after-backlash
-  headline: Trump deletes racist post depicting Obamas as primates after backlash
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6315
-- slug: 2026-04-26-trump-to-attend-white-house-correspondents-dinner-after-decades-of-roasts
-  headline: Trump to attend White House correspondents’ dinner after decades of roasts
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6049
+  strength: 0.6574
 ---
-
 ## Trump attacks Bill Maher after interview with Karoline Leavitt
 
 **Subtype:** fact

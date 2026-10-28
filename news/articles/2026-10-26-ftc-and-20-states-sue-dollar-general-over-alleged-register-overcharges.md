@@ -2,8 +2,14 @@
 headline: FTC and 20 states sue Dollar General over alleged register overcharges
 secondary_headline: FTC cites tens of thousands of consumer pricing complaints nationwide
 publish_date: '2026-10-26'
-lede: The Federal Trade Commission and 20 states sued Dollar General on Oct. 26 in the U.S. District Court in Nashville, alleging that the chain charged more for items at the register than prices displayed on shelves, price tags and advertisements. The FTC says the alleged pricing practices are costing consumers millions of dollars.
-nut_graf: The lawsuit concerns alleged overcharges at a chain that the FTC says serves low- and fixed-income shoppers who rely on accurate pricing. The complaint says tens of thousands of consumers have reported that Dollar General did not honor advertised prices and that the company failed to adopt policies adequate to prevent the practice.
+lede: The Federal Trade Commission and 20 states sued Dollar General on Oct. 26 in
+  the U.S. District Court in Nashville, alleging that the chain charged more for items
+  at the register than prices displayed on shelves, price tags and advertisements.
+  The FTC says the alleged pricing practices are costing consumers millions of dollars.
+nut_graf: The lawsuit concerns alleged overcharges at a chain that the FTC says serves
+  low- and fixed-income shoppers who rely on accurate pricing. The complaint says
+  tens of thousands of consumers have reported that Dollar General did not honor advertised
+  prices and that the company failed to adopt policies adequate to prevent the practice.
 primary_entities:
 - Federal Trade Commission
 - Dollar General
@@ -34,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,108 +139,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-ftc-cites-more-than-4-300-failed-dollar-general-price-accuracy-inspections
+  headline: FTC cites more than 4,300 failed Dollar General price-accuracy inspections
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8729
+- slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
+  headline: Consumer frustration spans higher prices and perceived artificial intelligence
+    pricing
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8412
 - slug: 2026-10-22-dollar-general-agrees-to-new-york-overcharge-settlement-with-price-safeguards
   headline: Dollar General agrees to New York overcharge settlement with price safeguards
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7318
+  strength: 0.7339
 - slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
   headline: Shoppers question AI pricing amid company denials and state restrictions
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6918
+  strength: 0.6906
 - slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+    probe
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7115
-- slug: 2026-10-14-investigation-links-skincare-overcharge-complaints-to-mazal-group
-  headline: Investigation links skincare overcharge complaints to Mazal Group
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6216
-- slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
-  headline: McDonald's faces federal lawsuit over AI pricing tool
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6391
+  strength: 0.7113
 - slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
+  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records
+    and reporting show
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6653
+  strength: 0.666
 - slug: 2026-08-31-ftc-and-22-states-sue-amazon-alleging-ad-bid-manipulation-overcharged-sellers
-  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged sellers
+  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged
+    sellers
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7331
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.602
-- slug: 2026-09-09-afl-cio-report-electronic-shelf-labels-could-cost-up-to-191-633-grocery-jobs
-  headline: 'AFL-CIO report: electronic shelf labels could cost up to 191,633 grocery jobs'
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6125
+  strength: 0.732
 - slug: 2026-08-19-ftc-proposes-policy-on-companies-that-vary-prices-using-shopper-data
   headline: FTC proposes policy on companies that vary prices using shopper data
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6511
-- slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
-  headline: Most tariff refunds flow to businesses as consumer repayment lags
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6085
-- slug: 2026-07-03-doj-and-ftc-urge-state-attorneys-general-to-investigate-gasoline-pricing
-  headline: DOJ and FTC urge state attorneys general to investigate gasoline pricing
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6678
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6544
-- slug: 2026-07-20-dollar-tree-faces-lawsuit-over-gooner-sexual-assault-pattern
-  headline: Dollar Tree faces lawsuit over 'gooner' sexual assault pattern
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6182
-- slug: 2026-07-21-amazon-tactics-inflate-prices-across-internet-emails-show
-  headline: Amazon tactics inflate prices across internet, emails show
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6032
-- slug: 2026-06-22-california-drivers-sue-gas-stations-over-ai-powered-price-fixing
-  headline: California drivers sue gas stations over AI-powered price fixing
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.635
-- slug: 2026-06-17-ftc-sues-leading-transgender-health-group-over-gender-affirming-care
-  headline: FTC sues leading transgender health group over gender-affirming care
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6331
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6403
-- slug: 2026-06-15-hidden-car-dealer-fees-persist-despite-ftc-crackdown
-  headline: Hidden Car Dealer Fees Persist Despite FTC Crackdown
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6308
-- slug: 2026-02-27-walmart-to-pay-100m-to-settle-ftc-allegations-over-spark-pay-deception
-  headline: Walmart to pay $100M to settle FTC allegations over Spark pay deception
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6603
+  strength: 0.6524
 ---
-
 ## FTC and 20 states sue Dollar General over alleged register overcharges
 
 **Subtype:** fact

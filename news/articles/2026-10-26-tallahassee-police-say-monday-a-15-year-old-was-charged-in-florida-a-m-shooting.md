@@ -1,9 +1,20 @@
 ---
 headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M shooting
-secondary_headline: Investigators say fight preceded shooting outside Bragg Memorial Stadium
+secondary_headline: Investigators say fight preceded shooting outside Bragg Memorial
+  Stadium
 publish_date: '2026-10-26'
-lede: Tallahassee police said Monday that a 15-year-old boy had been charged with attempted second-degree murder and possession of a firearm by a delinquent in a weekend shooting that wounded 11 people outside Florida A&M University’s Bragg Memorial Stadium. Police said the shooting occurred Saturday night after the university’s homecoming football game and that authorities arrested the teenager Sunday. Police said Sunday that 11 people were hit by gunfire and another person was injured while running away. Six of those hurt were minors, police said Sunday, and authorities said at least three victims suffered serious injuries.
-nut_graf: Tallahassee police said Monday that they had charged a teenager in a Florida A&M University shooting that wounded 11 people; authorities arrested the suspect Sunday. Investigators said a fight broke out before the gunfire and that none of the victims appeared to have been intended targets.
+lede: Tallahassee police said Monday that a 15-year-old boy had been charged with
+  attempted second-degree murder and possession of a firearm by a delinquent in a
+  weekend shooting that wounded 11 people outside Florida A&M University’s Bragg Memorial
+  Stadium. Police said the shooting occurred Saturday night after the university’s
+  homecoming football game and that authorities arrested the teenager Sunday. Police
+  said Sunday that 11 people were hit by gunfire and another person was injured while
+  running away. Six of those hurt were minors, police said Sunday, and authorities
+  said at least three victims suffered serious injuries.
+nut_graf: Tallahassee police said Monday that they had charged a teenager in a Florida
+  A&M University shooting that wounded 11 people; authorities arrested the suspect
+  Sunday. Investigators said a fight broke out before the gunfire and that none of
+  the victims appeared to have been intended targets.
 primary_entities:
 - Florida A&M University
 - Tallahassee
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,10 +156,27 @@ related_stories:
   relation: related
   strength: 0.8863
 - slug: 2026-10-25-tallahassee-police-report-at-least-12-injured-after-florida-a-m-homecoming-game
-  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming game
+  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming
+    game
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8693
+- slug: 2026-10-26-revell-says-police-carried-victims-to-responders-because-of-football-game-crowds
+  headline: Revell says police carried victims to responders because of football-game
+    crowds
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8464
+- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
+  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8461
+- slug: 2026-10-26-tallahassee-police-arrest-15-year-old-after-gunfire-near-famu
+  headline: Tallahassee police arrest 15-year-old after gunfire near FAMU
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8438
 - slug: 2026-10-25-revell-initially-reports-no-arrests-after-tallahassee-stadium-area-shooting
   headline: Revell initially reports no arrests after Tallahassee stadium-area shooting
   publish_date: '2026-10-25'
@@ -158,88 +187,12 @@ related_stories:
   publish_date: '2026-10-25'
   relation: related
   strength: 0.8165
-- slug: 2026-10-25-federal-court-documents-show-herndon-has-been-charged-in-a-second-shooting-incid
-  headline: Federal court documents show Herndon has been charged in a second shooting incident
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.609
-- slug: 2026-10-04-two-dead-in-georgia-block-party-shooting-12-year-old-girl-killed-in-baltimore
-  headline: Two dead in Georgia block-party shooting; 12-year-old girl killed in Baltimore
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6069
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6152
-- slug: 2026-07-13-two-teenagers-arrested-in-east-st-louis-shooting-that-killed-five-family-members
-  headline: Two teenagers arrested in East St. Louis shooting that killed five family members
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6018
 - slug: 2026-04-22-police-seek-17-year-old-for-attempted-murder-in-shooting-near-iowa-campus
   headline: Police seek 17-year-old for attempted murder in shooting near Iowa campus
   publish_date: '2026-04-22'
   relation: related
   strength: 0.6568
-- slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
-  headline: Shooting near University of Iowa wounds five people
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6551
-- slug: 2026-05-10-us-marshals-capture-teen-wanted-in-iowa-city-mass-shooting
-  headline: US marshals capture teen wanted in Iowa City mass shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6447
-- slug: 2026-04-23-police-seek-17-year-old-on-attempted-murder-charges-after-iowa-city-shooting
-  headline: Police seek 17-year-old on attempted murder charges after Iowa City shooting
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6436
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6307
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6289
-- slug: 2026-05-10-u-s-marshals-capture-teen-wanted-in-iowa-city-pedestrian-mall-shooting
-  headline: U.S. Marshals Capture Teen Wanted in Iowa City Pedestrian Mall Shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6329
-- slug: 2026-06-16-suspect-arrested-in-fatal-wilmington-hospital-shooting
-  headline: Suspect arrested in fatal Wilmington hospital shooting
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6043
-- slug: 2026-05-17-3-arrested-in-series-of-random-weekend-shootings-in-austin-texas
-  headline: 3 arrested in series of random weekend shootings in Austin, Texas
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6217
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6183
-- slug: 2026-04-26-teen-charged-in-baton-rouge-mall-shooting-officials-seek-second-suspect
-  headline: Teen charged in Baton Rouge mall shooting; officials seek second suspect
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6206
-- slug: 2026-04-20-planned-fight-escalates-into-deadly-shooting-at-n-c-park
-  headline: Planned fight escalates into deadly shooting at N.C. park
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6198
 ---
-
 ## Tallahassee police say Monday a 15-year-old was charged in Florida A&M shooting
 
 **Subtype:** fact

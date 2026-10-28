@@ -2,8 +2,16 @@
 headline: Federal judge rules Maurene Comey's firing unlawful
 secondary_headline: Furman cites nearly two centuries of Supreme Court precedent
 publish_date: '2026-10-26'
-lede: Federal Judge Jesse M. Furman ruled Monday that the Trump administration unlawfully fired Maurene Comey from her job as a federal prosecutor in New York in July 2025. The daughter of former FBI Director James Comey sued the Justice Department and others, alleging the termination violated the constitutional separation of powers, the First Amendment and the Due Process Clause of the Fifth Amendment.
-nut_graf: The ruling rejects the government's claim that federal prosecutors exercise the president’s “conclusive and preclusive” powers and its position that Congress cannot regulate their removal. Furman invoked nearly two centuries of Supreme Court precedent and described the constitutional system's equilibrium as central to the analysis.
+lede: Federal Judge Jesse M. Furman ruled Monday that the Trump administration unlawfully
+  fired Maurene Comey from her job as a federal prosecutor in New York in July 2025.
+  The daughter of former FBI Director James Comey sued the Justice Department and
+  others, alleging the termination violated the constitutional separation of powers,
+  the First Amendment and the Due Process Clause of the Fifth Amendment.
+nut_graf: The ruling rejects the government's claim that federal prosecutors exercise
+  the president’s “conclusive and preclusive” powers and its position that Congress
+  cannot regulate their removal. Furman invoked nearly two centuries of Supreme Court
+  precedent and described the constitutional system's equilibrium as central to the
+  analysis.
 primary_entities:
 - Maurene Comey
 - Jesse M. Furman
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,116 +146,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful.png
-  alt: 'Illustration accompanying article: Federal judge rules Maurene Comey''s firing unlawful'
+  alt: 'Illustration accompanying article: Federal judge rules Maurene Comey''s firing
+    unlawful'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-15-nine-former-fbi-employees-sue-over-trump-documents-case-firings
-  headline: Nine former FBI employees sue over Trump documents case firings
-  publish_date: '2026-10-15'
+- slug: 2026-10-26-furman-finds-due-process-violation-calls-for-comey-back-pay-possible-return
+  headline: Furman finds due process violation, calls for Comey back pay, possible
+    return
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6566
-- slug: 2026-10-09-trump-forms-committee-to-investigate-fed-governor-cook
-  headline: Trump forms committee to investigate Fed governor Cook
-  publish_date: '2026-10-09'
+  strength: 0.8703
+- slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
+  headline: Justice Department says Pam Bondi decided Maurene Comey's firing
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6493
-- slug: 2026-04-29-judge-lets-maurene-comey-wrongful-firing-lawsuit-proceed-against-trump
-  headline: Judge lets Maurene Comey wrongful-firing lawsuit proceed against Trump
-  publish_date: '2026-04-29'
+  strength: 0.8651
+- slug: 2026-10-26-judge-orders-justice-department-to-reinstate-maurene-comey
+  headline: Judge orders Justice Department to reinstate Maurene Comey
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8709
-- slug: 2026-08-27-lisa-cook-s-attorneys-tell-white-house-trump-has-no-legal-basis-to-fire-her
-  headline: Lisa Cook's attorneys tell White House Trump has no legal basis to fire her
-  publish_date: '2026-08-27'
+  strength: 0.8621
+- slug: 2026-10-26-justice-department-plans-appeal-after-judge-finds-comey-eligible-for-backpay
+  headline: Justice Department plans appeal after judge finds Comey eligible for backpay
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6553
-- slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
-  headline: Trump sends Cook new removal notice despite Supreme Court ruling
-  publish_date: '2026-08-07'
+  strength: 0.8612
+- slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
+  headline: James Comey remains unindicted after defense filed dismissal motion
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6523
-- slug: 2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders
-  headline: Supreme Court gives Trump power to fire agency leaders
-  publish_date: '2026-06-29'
+  strength: 0.7381
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6993
-- slug: 2026-07-20-trump-administration-subpoenas-phone-records-of-nyt-journalists-relatives
-  headline: Trump administration subpoenas phone records of NYT journalists, relatives
-  publish_date: '2026-07-20'
+  strength: 0.7379
+- slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
+  headline: Prosecutors say Comey sought to correct Reuters misinformation
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6547
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
+  strength: 0.6956
+- slug: 2026-10-26-justice-department-charges-james-comey-over-alleged-2016-leak
+  headline: Justice Department charges James Comey over alleged 2016 leak
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6538
-- slug: 2026-06-29-supreme-court-blocks-trump-s-removal-of-fed-governor-cook
-  headline: Supreme Court blocks Trump's removal of Fed governor Cook
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6537
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6635
-- slug: 2026-01-13-justice-department-accuses-federal-judge-of-abusing-power-over-prosecutor-s-titl
-  headline: Justice Department accuses federal judge of abusing power over prosecutor's title
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6955
-- slug: 2026-05-05-federal-appeals-judges-question-trump-s-extended-prosecutor-appointments
-  headline: Federal appeals judges question Trump’s extended prosecutor appointments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6751
-- slug: 2026-04-01-3-fired-fbi-agents-sue-to-regain-jobs-after-trump-investigation-work
-  headline: 3 fired FBI agents sue to regain jobs after Trump investigation work
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6765
-- slug: 2026-01-23-supreme-court-shields-federal-reserve-while-expanding-trump-s-agency-firing-powe
-  headline: Supreme Court shields Federal Reserve while expanding Trump's agency firing power
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6759
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  headline: Trump administration targets political opponents; Powell and Fed the latest
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6755
-- slug: 2026-05-04-appeals-judges-question-trump-s-long-term-interim-top-prosecutor-setup
-  headline: Appeals judges question Trump’s long-term interim top prosecutor setup
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6535
-- slug: 2026-01-20-trump-targets-opponents-with-subpoenas-fed-fight-and-court-cases-ap-says
-  headline: Trump targets opponents with subpoenas, Fed fight and court cases, AP says
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6719
-- slug: 2026-05-03-ap-finds-pattern-of-trump-administration-noncompliance-with-lower-court-orders
-  headline: Pattern of Trump administration noncompliance with lower court orders
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6471
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6548
-- slug: 2026-04-15-trump-justice-department-fires-four-face-act-prosecutors-amid-bias-probe
-  headline: Trump Justice Department fires four FACE Act prosecutors amid bias probe
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6508
+  strength: 0.6726
 ---
-
 ## Federal judge rules Maurene Comey's firing unlawful
 
 **Subtype:** fact

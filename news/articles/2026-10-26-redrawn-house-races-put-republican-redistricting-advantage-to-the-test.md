@@ -1,9 +1,20 @@
 ---
 headline: Redrawn House races put Republican redistricting advantage to the test
-secondary_headline: More than $42 million in advertising went into North Carolina's now-competitive 1st District
+secondary_headline: More than $42 million in advertising went into North Carolina's
+  now-competitive 1st District
 publish_date: '2026-10-26'
-lede: Inside Elections editor Nathan Gonzales said Republican efforts to redraw congressional districts had not delivered the easy House victories the party anticipated. Some seats drawn to favor Republicans remain competitive, and the party is spending heavily to win them. In North Carolina's 1st District, NPR's analysis of AdImpact data found more than $42 million in advertising from Sept. 1 through Election Day. President Trump recently headlined a rally in eastern North Carolina and said close House races required an extra push from him.
-nut_graf: The redraws have not insulated Republicans from the cost of competing in districts the party expected to win easily. Gonzales said incumbent Democrats in several redrawn districts stayed in the race and now appear well positioned to win, while Republicans are pouring millions into seats that were supposed to deliver easy wins.
+lede: Inside Elections editor Nathan Gonzales said Republican efforts to redraw congressional
+  districts had not delivered the easy House victories the party anticipated. Some
+  seats drawn to favor Republicans remain competitive, and the party is spending heavily
+  to win them. In North Carolina's 1st District, NPR's analysis of AdImpact data found
+  more than $42 million in advertising from Sept. 1 through Election Day. President
+  Trump recently headlined a rally in eastern North Carolina and said close House
+  races required an extra push from him.
+nut_graf: The redraws have not insulated Republicans from the cost of competing in
+  districts the party expected to win easily. Gonzales said incumbent Democrats in
+  several redrawn districts stayed in the race and now appear well positioned to win,
+  while Republicans are pouring millions into seats that were supposed to deliver
+  easy wins.
 primary_entities:
 - Republican Party
 - Inside Elections
@@ -55,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +169,45 @@ related_stories:
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7443
+  strength: 0.7455
 - slug: 2026-10-24-competitive-u-s-house-districts-fall-from-45-to-37
   headline: Competitive U.S. House districts fall from 45 to 37
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6884
+  strength: 0.6892
 - slug: 2026-10-25-supreme-court-lifts-party-candidate-caps-and-lets-three-states-redraw-districts
-  headline: Supreme Court lifts party-candidate caps and lets three states redraw districts
+  headline: Supreme Court lifts party-candidate caps and lets three states redraw
+    districts
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6798
+  strength: 0.6804
 - slug: 2026-10-20-trump-heads-to-north-carolina-to-stump-for-whatley-with-midterms-two-weeks-away
-  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks away
+  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks
+    away
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6881
+  strength: 0.6888
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7115
+  strength: 0.7118
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7301
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6796
+  strength: 0.7308
 - slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
   headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7128
+  strength: 0.7133
 - slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
   headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7119
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6823
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6883
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6789
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6821
-- slug: 2026-08-05-dccc-adds-12-republican-held-house-seats-to-midterm-target-list
-  headline: DCCC adds 12 Republican-held House seats to midterm target list
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6951
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6831
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6818
-- slug: 2026-05-20-south-carolina-house-passes-gop-leaning-congressional-map-after-midnight
-  headline: South Carolina House passes GOP-leaning congressional map after midnight
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.685
-- slug: 2026-05-22-southern-republicans-press-redistricting-after-voting-rights-act-ruling
-  headline: Southern Republicans press redistricting after Voting Rights Act ruling
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6825
+  strength: 0.7124
 ---
-
 ## Redrawn House races put Republican redistricting advantage to the test
 
 **Subtype:** fact

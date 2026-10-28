@@ -1,9 +1,22 @@
 ---
 headline: Federal ruling lifts visa ban, but applicants remain stuck abroad
-secondary_headline: Training launched in August as additional screening continued during the pending litigation
+secondary_headline: Training launched in August as additional screening continued
+  during the pending litigation
 publish_date: '2026-10-26'
-lede: A federal judge in August ordered the Trump administration to lift a January ban on immigrant-visa processing for citizens of 75 countries, but thousands of applicants remain stranded abroad without visas, according to NPR. In August, the State Department told NPR it had paused visa processing as it launched training for embassy and consular staff to identify immigrants who could become a public charge; even applicants with approved visas faced additional screening.
-nut_graf: The conflict over immigrant visa processing has separated spouses and children across borders and left Fernando Lizcano, a researcher whom U.S. Citizenship and Immigration Services deemed qualified for an EB-1A visa but who was still awaiting final State Department approval. NPR reported that the delays took an emotional toll on many immigrants and their loved ones whose visas remained in limbo. Attorneys say continued screening leaves the court ruling ineffective in practice, while the State Department says the matter remains in litigation and its website acknowledges that the ban no longer applies.
+lede: A federal judge in August ordered the Trump administration to lift a January
+  ban on immigrant-visa processing for citizens of 75 countries, but thousands of
+  applicants remain stranded abroad without visas, according to NPR. In August, the
+  State Department told NPR it had paused visa processing as it launched training
+  for embassy and consular staff to identify immigrants who could become a public
+  charge; even applicants with approved visas faced additional screening.
+nut_graf: The conflict over immigrant visa processing has separated spouses and children
+  across borders and left Fernando Lizcano, a researcher whom U.S. Citizenship and
+  Immigration Services deemed qualified for an EB-1A visa but who was still awaiting
+  final State Department approval. NPR reported that the delays took an emotional
+  toll on many immigrants and their loved ones whose visas remained in limbo. Attorneys
+  say continued screening leaves the court ruling ineffective in practice, while the
+  State Department says the matter remains in litigation and its website acknowledges
+  that the ban no longer applies.
 primary_entities:
 - Dustin Hoffman
 - Gloria Hoffman
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +164,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-federal-ruling-lifts-visa-ban-but-applicants-remain-stuck-abroad.png
-  alt: 'Illustration accompanying article: Federal ruling lifts visa ban, but applicants remain stuck abroad'
+  alt: 'Illustration accompanying article: Federal ruling lifts visa ban, but applicants
+    remain stuck abroad'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-08-26-state-department-pauses-all-immigrant-visa-applications
   headline: State Department pauses all immigrant visa applications
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7527
+  strength: 0.7507
 - slug: 2026-08-22-vargas-rules-rubio-exceeded-authority-suspending-immigrant-visa-processing
   headline: Vargas rules Rubio exceeded authority suspending immigrant visa processing
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.729
+  strength: 0.7276
 - slug: 2026-08-26-state-department-pauses-immigrant-visas-prepares-200-000-revocations
   headline: State Department pauses immigrant visas, prepares 200,000 revocations
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.696
+  strength: 0.694
 - slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
+  headline: Trump administration immigration changes reach spouses of U.S. citizens,
+    lawyers say
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.7237
+  strength: 0.7226
 - slug: 2026-06-05-federal-judge-cancels-trump-immigration-policies-orders-restart
   headline: Federal judge cancels Trump immigration policies, orders restart
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.7359
+  strength: 0.7349
 - slug: 2026-05-10-us-lifts-hold-on-immigration-applications-for-doctors-leaves-thousands-waiting
-  headline: US lifts hold on immigration applications for doctors, leaves thousands waiting
+  headline: US lifts hold on immigration applications for doctors, leaves thousands
+    waiting
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7427
+  strength: 0.7422
 - slug: 2026-05-23-trump-s-green-card-change-would-send-some-applicants-abroad-to-apply
   headline: Trump’s green-card change would send some applicants abroad to apply
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.7273
+  strength: 0.7262
 - slug: 2026-07-15-administration-developing-100-000-bond-for-green-card-applicants
   headline: Administration developing $100,000 bond for green-card applicants
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6799
-- slug: 2026-05-10-us-lifts-visa-pause-for-doctors-but-many-other-applicants-remain-stuck
-  headline: US lifts visa pause for doctors, but many other applicants remain stuck
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7294
-- slug: 2026-01-14-state-dept-suspends-immigrant-visa-processing-from-75-countries-over-public-char
-  headline: State Dept. suspends immigrant visa processing from 75 countries over public charge concerns
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7499
-- slug: 2026-01-21-brazilians-frustrated-by-us-visa-suspension-but-try-to-remain-hopeful
-  headline: Brazilians frustrated by US visa suspension but try to remain hopeful
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.7417
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7084
-- slug: 2026-01-14-state-dept-suspends-immigrant-visa-processing-for-citizens-of-75-countries
-  headline: State Dept. suspends immigrant visa processing for citizens of 75 countries
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7353
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6779
-- slug: 2026-05-23-trump-administration-to-require-many-green-card-applicants-to-apply-abroad
-  headline: Trump administration to require many green-card applicants to apply abroad
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7012
-- slug: 2026-05-27-trump-administration-revamps-green-card-process-demanding-overseas-applications
-  headline: Trump administration revamps green‑card process, demanding overseas applications
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6986
-- slug: 2026-06-15-daca-renewal-delays-push-dreamers-out-of-jobs-advocates-say
-  headline: DACA renewal delays push Dreamers out of jobs, advocates say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6825
-- slug: 2026-05-22-trump-administration-requires-green-card-applicants-to-apply-from-abroad
-  headline: Trump administration requires green card applicants to apply from abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6802
-- slug: 2026-05-22-trump-administration-mandates-green-card-applicants-leave-u-s-to-apply-abroad
-  headline: Trump administration mandates green card applicants leave U.S. to apply abroad
-  publish_date: '2026-05-22'
-  relation: related
   strength: 0.6789
-- slug: 2026-02-28-trump-administration-orders-new-scrutiny-of-admitted-refugees
-  headline: Trump administration orders new scrutiny of admitted refugees
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6956
 ---
-
 ## Federal ruling lifts visa ban, but applicants remain stuck abroad
 
 **Subtype:** fact

@@ -2,8 +2,20 @@
 headline: Connecticut towns adopt data center limits before most project applications
 secondary_headline: State leaders weigh a statewide pause and tax incentive changes
 publish_date: '2026-10-26'
-lede: Connecticut municipalities have adopted around half a dozen temporary moratoria or complete bans on data center development, according to a review of public meetings and records by The Connecticut Mirror. East Lyme has imposed an indefinite prohibition on all data center development before any local project was announced, while proposals in Cromwell, Colchester, Bristol and Beacon Falls remain at earlier or disputed stages. The Connecticut Mirror characterized the national response to prospective data centers as swift and as having vastly outpaced actual construction or applications.
-nut_graf: The local restrictions have prompted a broader debate over data centers, the pace of technological growth, artificial intelligence and communities’ role in economic development. Democrats in the state Senate say the moment requires new policy, and Senate Majority Leader Bob Duff intends to introduce a statewide moratorium on new data centers. Gov. Ned Lamont is open to discussing changes to a 2021 tax incentive, while municipalities and developers disagree over whether smaller facilities should face the same restrictions as hyperscale projects.
+lede: Connecticut municipalities have adopted around half a dozen temporary moratoria
+  or complete bans on data center development, according to a review of public meetings
+  and records by The Connecticut Mirror. East Lyme has imposed an indefinite prohibition
+  on all data center development before any local project was announced, while proposals
+  in Cromwell, Colchester, Bristol and Beacon Falls remain at earlier or disputed
+  stages. The Connecticut Mirror characterized the national response to prospective
+  data centers as swift and as having vastly outpaced actual construction or applications.
+nut_graf: The local restrictions have prompted a broader debate over data centers,
+  the pace of technological growth, artificial intelligence and communities’ role
+  in economic development. Democrats in the state Senate say the moment requires new
+  policy, and Senate Majority Leader Bob Duff intends to introduce a statewide moratorium
+  on new data centers. Gov. Ned Lamont is open to discussing changes to a 2021 tax
+  incentive, while municipalities and developers disagree over whether smaller facilities
+  should face the same restrictions as hyperscale projects.
 primary_entities:
 - Connecticut
 - East Lyme
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,22 +167,22 @@ related_stories:
   headline: Candidates in four states seek tighter data-center approval rules
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6985
+  strength: 0.6981
 - slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
   headline: Local resistance pressures tech giants ahead of the U.S. midterms
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6673
+  strength: 0.6675
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6628
+  strength: 0.6624
 - slug: 2026-10-09-east-fishkill-enacts-three-year-moratorium-on-large-datacenters
   headline: East Fishkill enacts three-year moratorium on large datacenters
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6907
+  strength: 0.6894
 - slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
   headline: Data center operators redesign sites as 15 states weigh moratoriums
   publish_date: '2026-09-04'
@@ -179,79 +192,18 @@ related_stories:
   headline: More than 10 states pause or cancel data center tax exemptions
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6575
+  strength: 0.6572
 - slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6766
+  strength: 0.6761
 - slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
   headline: Candidates in three states respond to voter concerns over data centers
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.6767
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7085
-- slug: 2026-06-04-seattle-council-committees-pass-year-long-moratorium-on-new-data-centers
-  headline: Seattle council committees pass year-long moratorium on new data centers
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7431
-- slug: 2026-07-14-new-york-governor-signs-one-year-halt-on-large-data-centers
-  headline: New York governor signs one-year halt on large data centers
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6972
-- slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
-  headline: Seattle enacts year-long ban on new AI datacenters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7148
-- slug: 2026-04-15-maine-legislature-approves-nation-s-first-statewide-data-center-moratorium-bill
-  headline: Maine legislature approves nation's first statewide data center moratorium bill
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7239
-- slug: 2026-05-14-texas-county-issues-first-moratorium-on-data-centers-to-study-impacts
-  headline: Texas county issues first moratorium on data centers to study impacts
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.711
-- slug: 2026-01-30-new-orleans-city-council-bans-data-centers-for-a-year-after-concerns
-  headline: New Orleans City Council bans data centers for a year after concerns
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7312
-- slug: 2026-06-06-new-york-lawmakers-approve-one-year-ban-on-large-datacenters
-  headline: New York lawmakers approve one-year ban on large datacenters
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6929
-- slug: 2026-05-14-hill-county-texas-pauses-new-data-centers-in-rural-unincorporated-areas-for-a-ye
-  headline: Hill County Texas pauses new data centers in rural unincorporated areas for a year
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6904
-- slug: 2026-04-26-maine-governor-vetoes-nation-s-first-statewide-data-center-moratorium
-  headline: Maine governor vetoes nation's first statewide data center moratorium
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6942
-- slug: 2026-04-17-ypsilanti-township-calls-12-month-pause-on-water-for-data-centers
-  headline: Ypsilanti Township calls 12-month pause on water for data centers
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6905
-- slug: 2026-06-03-monterey-park-votes-to-permanently-ban-data-centers-a-us-first
-  headline: Monterey Park votes to permanently ban data centers, a US first
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6669
+  strength: 0.6769
 ---
-
 ## Connecticut towns adopt data center limits before most project applications
 
 **Subtype:** fact

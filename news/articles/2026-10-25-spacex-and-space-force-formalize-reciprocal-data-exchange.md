@@ -2,8 +2,18 @@
 headline: SpaceX and Space Force formalize reciprocal data exchange
 secondary_headline: The Space Force receives Starlink camera and sensor access
 publish_date: '2026-10-25'
-lede: The U.S. Space Force has granted SpaceX enhanced access to military tracking data used to monitor objects in orbit and help prevent satellite collisions, according to a statement provided to Breaking Defense. The new contract covers controlled, unclassified portions of the military's High Accuracy Catalog, including data that can track lower-orbit objects as small as about 10 centimeters. Space Force said the arrangement exchanges those sections with commercial companies for information that benefits the U.S. government.
-nut_graf: The arrangement gives SpaceX access to military precision tracking data while giving the government access to Starlink's sensors. It places a private operator inside a sensitive data-sharing relationship as the administration and Congress debate the future of the Traffic Coordination System for Space, the government program intended to coordinate U.S. space traffic.
+lede: The U.S. Space Force has granted SpaceX enhanced access to military tracking
+  data used to monitor objects in orbit and help prevent satellite collisions, according
+  to a statement provided to Breaking Defense. The new contract covers controlled,
+  unclassified portions of the military's High Accuracy Catalog, including data that
+  can track lower-orbit objects as small as about 10 centimeters. Space Force said
+  the arrangement exchanges those sections with commercial companies for information
+  that benefits the U.S. government.
+nut_graf: The arrangement gives SpaceX access to military precision tracking data
+  while giving the government access to Starlink's sensors. It places a private operator
+  inside a sensitive data-sharing relationship as the administration and Congress
+  debate the future of the Traffic Coordination System for Space, the government program
+  intended to coordinate U.S. space traffic.
 primary_entities:
 - SpaceX
 - U.S. Space Force
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,47 @@ related_stories:
   headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6963
+  strength: 0.6968
 - slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
   headline: SpaceX reports 161% revenue growth driven by Starlink and AI
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6607
-- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
-  headline: Ukraine says Starlink speeds are restored after restrictions
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6385
-- slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
-  headline: Trump administration denies requesting Starlink limits for Ukraine's military
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6367
-- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
-  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6266
-- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
-  headline: Trump credits Musk with restoring Ukraine's Starlink service
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6369
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.649
-- slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
-  headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6355
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6398
-- slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
-  headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6256
+  strength: 0.6593
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6579
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.643
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6348
+  strength: 0.658
 - slug: 2026-09-22-spacex-ends-falcon-9-rideshare-sales-tightening-launch-supply-through-2028
-  headline: SpaceX ends Falcon 9 rideshare sales, tightening launch supply through 2028
+  headline: SpaceX ends Falcon 9 rideshare sales, tightening launch supply through
+    2028
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6652
+  strength: 0.6628
 - slug: 2026-09-15-space-force-says-weapons-disclosure-aims-to-normalize-military-s-use-of-orbit
-  headline: Space Force says weapons disclosure aims to normalize military's use of orbit
+  headline: Space Force says weapons disclosure aims to normalize military's use of
+    orbit
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6721
+  strength: 0.6699
 - slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
+  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC
+    waivers
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7023
+  strength: 0.7006
 - slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
   headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.694
+  strength: 0.6915
 - slug: 2026-06-08-spacex-deepens-ties-with-pentagon-wins-multibillion-dollar-space-force-contracts
-  headline: SpaceX deepens ties with Pentagon, wins multibillion-dollar Space Force contracts
+  headline: SpaceX deepens ties with Pentagon, wins multibillion-dollar Space Force
+    contracts
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7098
-- slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
-  headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6522
-- slug: 2026-07-02-spacex-starlink-plans-mobile-service-to-target-at-t-verizon
-  headline: SpaceX Starlink plans mobile service to target AT&T, Verizon
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6656
+  strength: 0.7077
 ---
-
 ## SpaceX and Space Force formalize reciprocal data exchange
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Arcadia couple faces child abuse conspiracy charges; hearing cites 26 children
 secondary_headline: Surrogate suits allege Zhang did not disclose agency ties
 publish_date: '2026-10-25'
-lede: Los Angeles County prosecutors have charged Guojun Xuan and Silvia Zhang with conspiracy to commit child abuse after police searched their Arcadia, California, mansion following the head injury of a two-month-old baby. Deputy District Attorney MacKenzie Cameron Teymouri told a judge at an October 16 hearing that 26 children were involved with the family. Xuan and Zhang deny the charges and remain in custody with bonds set at $20 million each.
-nut_graf: The October 16 hearing about 26 children was part of the criminal prosecution. Separate proceedings include two surrogate lawsuits alleging Zhang failed to disclose ties or connections to the couple's agency and a custody dispute over a baby girl in Virginia. Dr Liang Yu said U.S. law places no cap on the number of surrogacies an intended parent may request and has no requirement to disclose such information.
+lede: Los Angeles County prosecutors have charged Guojun Xuan and Silvia Zhang with
+  conspiracy to commit child abuse after police searched their Arcadia, California,
+  mansion following the head injury of a two-month-old baby. Deputy District Attorney
+  MacKenzie Cameron Teymouri told a judge at an October 16 hearing that 26 children
+  were involved with the family. Xuan and Zhang deny the charges and remain in custody
+  with bonds set at $20 million each.
+nut_graf: The October 16 hearing about 26 children was part of the criminal prosecution.
+  Separate proceedings include two surrogate lawsuits alleging Zhang failed to disclose
+  ties or connections to the couple's agency and a custody dispute over a baby girl
+  in Virginia. Dr Liang Yu said U.S. law places no cap on the number of surrogacies
+  an intended parent may request and has no requirement to disclose such information.
 primary_entities:
 - Guojun Xuan
 - Silvia Zhang
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +159,28 @@ related_stories:
   headline: Arcadia couple charged with abusing at least 14 surrogate-born children
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.895
+  strength: 0.8962
 - slug: 2026-10-06-prosecutors-charge-arcadia-couple-with-conspiracy-to-abuse-14-children
   headline: Prosecutors charge Arcadia couple with conspiracy to abuse 14 children
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8883
+  strength: 0.8903
 - slug: 2026-10-06-arcadia-couple-arrested-on-child-abuse-charges-in-21-child-surrogacy-scheme
   headline: Arcadia couple arrested on child abuse charges in 21-child surrogacy scheme
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8721
+  strength: 0.8727
 - slug: 2026-10-07-arcadia-judge-orders-couple-to-surrender-all-passports-sets-20m-bail
   headline: Arcadia judge orders couple to surrender all passports, sets $20M bail
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8571
-- slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-17-elizabeth-siders-pleads-not-guilty-in-ohio-child-neglect-case
-  headline: Elizabeth Siders pleads not guilty in Ohio child neglect case
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6248
-- slug: 2026-09-19-ice-stopped-tracking-miscarriages-as-pregnant-detainee-arrests-rise
-  headline: ICE stopped tracking miscarriages as pregnant detainee arrests rise
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5974
+  strength: 0.8587
 - slug: 2026-07-31-florida-surrogate-battles-chinese-father-for-custody-of-twin-sons
   headline: Florida surrogate battles Chinese father for custody of twin sons
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.659
-- slug: 2026-08-25-texas-court-hears-surrogacy-custody-case-over-newborn-with-heart-defect
-  headline: Texas court hears surrogacy custody case over newborn with heart defect
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6046
-- slug: 2026-07-30-police-describe-discovering-three-dead-children-in-duxbury-home-as-trial-hears-9
-  headline: Police describe discovering three dead children in Duxbury home as trial hears 911 call
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5947
-- slug: 2026-07-16-kelli-bryant-pleads-no-contest-to-child-abuse-faces-6-year-term
-  headline: Kelli Bryant pleads no contest to child abuse; faces 6-year term
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6031
-- slug: 2026-05-30-former-arcadia-mayor-pleads-guilty-to-acting-as-illegal-chinese-agent
-  headline: Former Arcadia mayor pleads guilty to acting as illegal Chinese agent
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6227
-- slug: 2026-06-25-wyden-accuses-hhs-of-preparing-to-deport-more-than-500-migrant-children
-  headline: Wyden accuses HHS of preparing to deport more than 500 migrant children
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5946
-- slug: 2026-05-13-arcadia-mayor-eileen-wang-resigns-to-plead-guilty-in-china-agent-case
-  headline: Arcadia mayor Eileen Wang resigns, to plead guilty in China-agent case
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6226
-- slug: 2026-05-13-arcadia-california-mayor-resigns-will-plead-guilty-to-acting-as-chinese-agent
-  headline: Arcadia, California mayor resigns, will plead guilty to acting as Chinese agent
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6225
-- slug: 2026-06-04-louisiana-democrat-demands-transparency-on-proposed-ice-family-detention-center
-  headline: Louisiana Democrat demands transparency on proposed ICE family detention center
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6067
-- slug: 2026-03-07-cleveland-judge-sets-2m-bail-for-woman-charged-in-daughters-suitcase-deaths
-  headline: Cleveland judge sets $2M bail for woman charged in daughters' suitcase deaths
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.621
-- slug: 2026-05-02-ap-investigation-finds-adopted-kids-harmed-in-for-profit-residential-programs
-  headline: Adopted kids harmed in for-profit residential programs
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6068
-- slug: 2026-04-06-toddler-allegedly-abused-while-in-federal-immigration-custody-family-says
-  headline: Toddler allegedly abused while in federal immigration custody, family says
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.612
-- slug: 2026-04-26-santa-clara-county-workers-put-on-leave-amid-child-welfare-crisis
-  headline: Santa Clara County workers put on leave amid child welfare crisis
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6039
+  strength: 0.6586
 ---
-
 ## Arcadia couple faces child abuse conspiracy charges; hearing cites 26 children
 
 **Subtype:** fact

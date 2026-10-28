@@ -2,8 +2,15 @@
 headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
 secondary_headline: Top five customers supply a quarter of Anthropic's revenue
 publish_date: '2026-10-26'
-lede: Anthropic publicly filed for a US stock-market listing under the symbol ANT, following a confidential IPO filing with US financial regulators in June. The filing disclosed $16.286 billion in revenue and an $80 billion net loss for the first half of 2026, while analysts and investors have valued the Claude maker at more than $1.5 trillion.
-nut_graf: The public disclosure gives investors their first look at Anthropic's financial health. Its rapid revenue growth and large enterprise customer base sit alongside an $80 billion loss, $6.2 billion in debt, customer concentration and a federal restriction on military contracting.
+lede: Anthropic publicly filed for a US stock-market listing under the symbol ANT,
+  following a confidential IPO filing with US financial regulators in June. The filing
+  disclosed $16.286 billion in revenue and an $80 billion net loss for the first half
+  of 2026, while analysts and investors have valued the Claude maker at more than
+  $1.5 trillion.
+nut_graf: The public disclosure gives investors their first look at Anthropic's financial
+  health. Its rapid revenue growth and large enterprise customer base sit alongside
+  an $80 billion loss, $6.2 billion in debt, customer concentration and a federal
+  restriction on military contracting.
 primary_entities:
 - Anthropic
 - Dario Amodei
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +148,45 @@ related_stories:
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8643
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
+  strength: 0.8642
+- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
+  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time
+    charge
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8186
-- slug: 2026-10-08-openai-narrows-anthropic-lead-in-business-ai-spending-ahead-of-dual-ipos
-  headline: OpenAI narrows Anthropic lead in business AI spending ahead of dual IPOs
-  publish_date: '2026-10-08'
+  strength: 0.8551
+- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7597
-- slug: 2026-09-18-anthropic-shifts-planned-ipo-from-october-to-november
-  headline: Anthropic shifts planned IPO from October to November
-  publish_date: '2026-09-18'
+  strength: 0.8292
+- slug: 2026-10-26-anthropic-reports-321-4bn-in-data-center-leasing-costs-so-far-this-year
+  headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7105
-- slug: 2026-08-25-anthropic-may-present-total-addressable-market-above-30-trillion
-  headline: Anthropic may present total addressable market above $30 trillion
-  publish_date: '2026-08-25'
+  strength: 0.8228
+- slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
+  headline: Anthropic says AI research could outpace model safeguards
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7824
-- slug: 2026-09-14-anthropic-on-track-for-second-straight-profitable-quarter-ft-reports
-  headline: Anthropic on track for second straight profitable quarter, FT reports
-  publish_date: '2026-09-14'
+  strength: 0.8132
+- slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
+  headline: Anthropic's IPO filing details compute, customer and data-center risks
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7208
-- slug: 2026-09-09-anthropic-releases-interactive-tool-for-modeling-ai-economic-impact
-  headline: Anthropic releases interactive tool for modeling AI economic impact
-  publish_date: '2026-09-09'
+  strength: 0.7862
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6868
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
+  strength: 0.7657
+- slug: 2026-10-26-anthropic-expands-claude-tools-for-nonprofits-while-pursuing-an-ipo
+  headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7506
-- slug: 2026-05-29-anthropic-vaults-to-965b-valuation-on-65b-funding-as-claude-demand-surges
-  headline: Anthropic vaults to $965B valuation on $65B funding as Claude demand surges
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.8167
-- slug: 2026-08-25-oura-inspire-brands-among-companies-targeting-fall-ipos
-  headline: Oura, Inspire Brands Among Companies Targeting Fall IPOs
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6932
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7434
-- slug: 2026-06-01-anthropic-files-confidential-ipo-nvidia-pc-push-lifts-tech-stocks
-  headline: Anthropic files confidential IPO, Nvidia PC push lifts tech stocks
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7614
-- slug: 2026-02-13-anthropic-hits-a-380b-valuation-as-it-heightens-rivalry-with-openai
-  headline: Anthropic hits a $380B valuation as it heightens rivalry with OpenAI
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7886
-- slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
-  headline: Anthropic sued over usage limits on premium AI subscription plans
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7393
-- slug: 2026-06-11-anthropic-launches-150m-claude-corps-to-embed-ai-fellows-at-nonprofits
-  headline: Anthropic launches $150M Claude Corps to embed AI fellows at nonprofits
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7417
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7341
-- slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
-  headline: Anthropic commits $100 billion to Amazon cloud platform over decade
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.7506
-- slug: 2026-07-14-openai-files-for-ipo-as-apple-lawsuit-and-leadership-gap-threaten-timing
-  headline: OpenAI files for IPO as Apple lawsuit and leadership gap threaten timing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6929
-- slug: 2026-06-09-anthropic-releases-claude-fable-5-an-ai-tool-it-had-called-too-powerful-for-the-
-  headline: Anthropic releases Claude Fable 5, an AI tool it had called too powerful for the public
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7194
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6972
+  strength: 0.7523
 ---
-
 ## Anthropic files for IPO with $16.286bn revenue and $80bn loss
 
 **Subtype:** fact

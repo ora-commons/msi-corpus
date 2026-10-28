@@ -2,8 +2,17 @@
 headline: Trump heads to Mississippi as Democrats expand battleground maps
 secondary_headline: Senate Democrats need four flips as almost 30 million cast ballots
 publish_date: '2026-10-26'
-lede: President Donald Trump headed to Corinth, Mississippi, on Monday for an evening rally supporting Republican Sen. Cindy Hyde-Smith. The visit came as Democratic challengers expanded the battleground map and Republicans sought to protect a narrow House majority and their Senate advantage. Almost 30 million voters had already cast ballots.
-nut_graf: Trump’s itinerary has taken him to many states he won comfortably in 2024, while Democratic underdogs have expanded the House and Senate battleground maps. Campaigns are under way in Minnesota, Wisconsin, Georgia and Kansas, with the Associated Press describing Kansas as a tight contest. South Carolina has emerged as unexpectedly competitive. The election could shift congressional and statehouse power, making the closing stops consequential beyond their immediate races.
+lede: President Donald Trump headed to Corinth, Mississippi, on Monday for an evening
+  rally supporting Republican Sen. Cindy Hyde-Smith. The visit came as Democratic
+  challengers expanded the battleground map and Republicans sought to protect a narrow
+  House majority and their Senate advantage. Almost 30 million voters had already
+  cast ballots.
+nut_graf: Trump’s itinerary has taken him to many states he won comfortably in 2024,
+  while Democratic underdogs have expanded the House and Senate battleground maps.
+  Campaigns are under way in Minnesota, Wisconsin, Georgia and Kansas, with the Associated
+  Press describing Kansas as a tight contest. South Carolina has emerged as unexpectedly
+  competitive. The election could shift congressional and statehouse power, making
+  the closing stops consequential beyond their immediate races.
 primary_entities:
 - Donald Trump
 - Cindy Hyde-Smith
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,6 +151,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-trump-plans-salina-rally-less-than-two-weeks-after-kansas-visit
+  headline: Trump plans Salina rally less than two weeks after Kansas visit
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8447
+- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8431
 - slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
   headline: Trump draws generally smaller midterm crowds on a multistate rally week
   publish_date: '2026-10-26'
@@ -150,99 +171,29 @@ related_stories:
   headline: Trump holds seven rallies across seven states during midterm push
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6972
+  strength: 0.6969
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.692
+  strength: 0.6924
 - slug: 2026-10-20-trump-heads-to-north-carolina-to-stump-for-whatley-with-midterms-two-weeks-away
-  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks away
+  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks
+    away
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6846
+  strength: 0.6845
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7317
+  strength: 0.7321
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6994
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6898
-- slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
-  headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6887
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7668
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7159
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.69
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.695
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6871
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6777
-- slug: 2026-08-07-black-democrat-scott-colom-aims-to-unseat-hyde-smith-in-mississippi
-  headline: Black Democrat Scott Colom aims to unseat Hyde-Smith in Mississippi
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7469
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7095
-- slug: 2026-08-21-trump-to-hold-friday-rally-ahead-of-south-carolina-runoff
-  headline: Trump to hold Friday rally ahead of South Carolina runoff
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6841
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7236
-- slug: 2026-04-18-trump-backs-primary-challengers-to-indiana-senators-who-rejected-redistricting
-  headline: Trump backs primary challengers to Indiana senators who rejected redistricting
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.7237
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6956
+  strength: 0.6985
 ---
-
 ## Trump heads to Mississippi as Democrats expand battleground maps
 
 **Subtype:** fact

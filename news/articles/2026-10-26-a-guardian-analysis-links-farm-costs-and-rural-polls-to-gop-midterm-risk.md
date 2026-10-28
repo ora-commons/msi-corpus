@@ -2,8 +2,21 @@
 headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
 secondary_headline: Diesel costs, export losses and aid define the dispute
 publish_date: '2026-10-26'
-lede: Rapidly increasing frustration across rural America over economic conditions, Donald Trump's policies and Republican lawmakers is threatening Republican Senate prospects in Kansas, Iowa, Nebraska and Texas, according to a Guardian commentary published Oct. 26, 2026. Polls cited in the analysis show Republican Senate candidates in those states stand a good chance of losing their races, even though Trump won Kansas, Iowa, Nebraska and Texas by 13 percentage points or more in 2024. The commentary also cites an 85% jump in farm bankruptcies over two years, higher diesel and fertilizer costs, reduced exports and Trump's promise of $8 billion in emergency aid for farmers.
-nut_graf: Greenhouse argues that high fuel and fertilizer bills, shrinking export markets, a previous $12 billion bailout and Trump's announced $8 billion emergency-aid program have turned rural economic pain into a political test for Republicans. He says many rural voters feel betrayed, while many farmers who traditionally backed Republicans want to send a message to the party controlling the White House, Senate and House; the accumulated dismay could go far to elect Democratic Senate candidates and independent progressive Dan Osborn in the November midterms.
+lede: Rapidly increasing frustration across rural America over economic conditions,
+  Donald Trump's policies and Republican lawmakers is threatening Republican Senate
+  prospects in Kansas, Iowa, Nebraska and Texas, according to a Guardian commentary
+  published Oct. 26, 2026. Polls cited in the analysis show Republican Senate candidates
+  in those states stand a good chance of losing their races, even though Trump won
+  Kansas, Iowa, Nebraska and Texas by 13 percentage points or more in 2024. The commentary
+  also cites an 85% jump in farm bankruptcies over two years, higher diesel and fertilizer
+  costs, reduced exports and Trump's promise of $8 billion in emergency aid for farmers.
+nut_graf: Greenhouse argues that high fuel and fertilizer bills, shrinking export
+  markets, a previous $12 billion bailout and Trump's announced $8 billion emergency-aid
+  program have turned rural economic pain into a political test for Republicans. He
+  says many rural voters feel betrayed, while many farmers who traditionally backed
+  Republicans want to send a message to the party controlling the White House, Senate
+  and House; the accumulated dismay could go far to elect Democratic Senate candidates
+  and independent progressive Dan Osborn in the November midterms.
 primary_entities:
 - Donald Trump
 - Steven Greenhouse
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +164,45 @@ related_stories:
   headline: Rural Ohio voters weigh costs in toss-up Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7263
+  strength: 0.7257
 - slug: 2026-10-20-trump-announces-8-billion-in-farmer-aid-ahead-of-midterms
   headline: Trump announces $8 billion in farmer aid ahead of midterms
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7398
+  strength: 0.7409
 - slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
   headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7145
+  strength: 0.714
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7456
+  strength: 0.7451
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7298
+  strength: 0.7292
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7174
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.707
+  strength: 0.7157
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7255
+  strength: 0.7265
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7084
-- slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
-  headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7798
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7158
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7272
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7169
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7101
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7166
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.742
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7359
-- slug: 2026-09-21-grassley-urges-trump-to-embargo-diesel-exports-as-farm-costs-climb
-  headline: Grassley urges Trump to embargo diesel exports as farm costs climb
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7236
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7134
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7073
+  strength: 0.7076
 ---
-
 ## A Guardian analysis links farm costs and rural polls to GOP midterm risk
 
 **Subtype:** causal_claim

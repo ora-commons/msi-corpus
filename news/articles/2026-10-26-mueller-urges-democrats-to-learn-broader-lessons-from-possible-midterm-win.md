@@ -1,9 +1,18 @@
 ---
 headline: Mueller urges Democrats to learn broader lessons from possible midterm win
-secondary_headline: Columnist links inflation, debt and foreign policy to Democratic strategy
+secondary_headline: Columnist links inflation, debt and foreign policy to Democratic
+  strategy
 publish_date: '2026-10-26'
-lede: Jan-Werner Mueller wrote in an opinion column in The Guardian published Oct. 26 that Democrats appeared increasingly likely to win a significant victory in the 2026 United States midterms. He argued that Democrats should draw broader lessons from such a win about inflation, economic management, foreign policy and the Republican Party's image, rather than treat it only as a rejection of President Donald Trump.
-nut_graf: The column offers a prospective Democratic strategy rather than a report of a completed election. Mueller says a victory could let the party challenge longstanding Republican claims about economic competence and national security, with his recommendations drawing on assessments of inflation, debt, tax policy, the Iran war and the Biden administration's record.
+lede: Jan-Werner Mueller wrote in an opinion column in The Guardian published Oct.
+  26 that Democrats appeared increasingly likely to win a significant victory in the
+  2026 United States midterms. He argued that Democrats should draw broader lessons
+  from such a win about inflation, economic management, foreign policy and the Republican
+  Party's image, rather than treat it only as a rejection of President Donald Trump.
+nut_graf: The column offers a prospective Democratic strategy rather than a report
+  of a completed election. Mueller says a victory could let the party challenge longstanding
+  Republican claims about economic competence and national security, with his recommendations
+  drawing on assessments of inflation, debt, tax policy, the Iran war and the Biden
+  administration's record.
 primary_entities:
 - Jan-Werner Mueller
 - The Guardian
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,26 +148,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7038
 - slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6924
+  strength: 0.6931
 - slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
   headline: Economic populism gains ground as both parties court midterm voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6836
+  strength: 0.6835
 - slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
   headline: Guardian editorial frames US midterms as cost-of-living, democracy test
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7482
+  strength: 0.7476
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6801
+  strength: 0.6806
 - slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
   headline: El-Sayed says Democrats must win midterms by massive margins
   publish_date: '2026-10-11'
@@ -167,79 +183,13 @@ related_stories:
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6742
+  strength: 0.6739
 - slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
   headline: Young voters under 30 become key 2026 midterm target for both parties
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6738
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6713
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6797
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6867
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
   strength: 0.6736
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.671
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7152
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6787
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6843
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7074
-- slug: 2026-09-03-democrats-expand-midterm-map-into-reliably-republican-territory
-  headline: Democrats expand midterm map into reliably Republican territory
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6805
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6744
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6842
-- slug: 2026-06-15-as-midterms-approach-campaigns-test-whether-internet-fame-can-win-votes
-  headline: As midterms approach, campaigns test whether internet fame can win votes
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6779
 ---
-
 ## Mueller urges Democrats to learn broader lessons from possible midterm win
 
 **Subtype:** fact

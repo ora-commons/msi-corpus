@@ -2,8 +2,19 @@
 headline: James Blair leads Republicans' midterm push during White House leave
 secondary_headline: Affordability and turnout test Blair's midterm model
 publish_date: '2026-10-25'
-lede: James Blair, the 37-year-old White House deputy chief of staff who helped direct Donald Trump's 2024 campaign, has stepped away from his administration role to run Maga Inc and lead Republicans' effort to hold the House and Senate in the 3 November midterms. The Guardian credited Blair's data-driven approach with delivering Trump's 2024 victory but said Trump's unpopularity and Trump's idiosyncratic style did not bode well this time. Blair is also drawing scrutiny over paid advising in Republika Srpska, and Trump has said he expects Blair back at the White House after the midterms.
-nut_graf: Blair says some elements of the 2024 approach carry into the midterms, but he says low-propensity voters are harder to mobilize without Trump on the ballot. The redistricting effort has shown apparent short-term setbacks, and Chris Whipple's account puts affordability at the center of the midterm problem. Trump's expectation that Blair will return to the White House after the election leaves the strategist's longer-term role unresolved.
+lede: James Blair, the 37-year-old White House deputy chief of staff who helped direct
+  Donald Trump's 2024 campaign, has stepped away from his administration role to run
+  Maga Inc and lead Republicans' effort to hold the House and Senate in the 3 November
+  midterms. The Guardian credited Blair's data-driven approach with delivering Trump's
+  2024 victory but said Trump's unpopularity and Trump's idiosyncratic style did not
+  bode well this time. Blair is also drawing scrutiny over paid advising in Republika
+  Srpska, and Trump has said he expects Blair back at the White House after the midterms.
+nut_graf: Blair says some elements of the 2024 approach carry into the midterms, but
+  he says low-propensity voters are harder to mobilize without Trump on the ballot.
+  The redistricting effort has shown apparent short-term setbacks, and Chris Whipple's
+  account puts affordability at the center of the midterm problem. Trump's expectation
+  that Blair will return to the White House after the election leaves the strategist's
+  longer-term role unresolved.
 primary_entities:
 - James Blair
 - Donald Trump
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +69,9 @@ figures:
   series_id: FEDFUNDS
   transformation: raw
   as_of: '2026-10-25'
-  caption: The effective federal funds rate stood at 3.75% at the 25 October 2026 vintage. The monthly average provides context for the borrowing-cost channel behind the affordability problem Blair raised.
+  caption: The effective federal funds rate stood at 3.75% at the 25 October 2026
+    vintage. The monthly average provides context for the borrowing-cost channel behind
+    the affordability problem Blair raised.
 figures_aggregate:
   count: 1
   series_ids:
@@ -148,118 +162,36 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-james-blair-leads-republicans-midterm-push-during-white-house-leave.png
-  alt: 'Illustration accompanying article: James Blair leads Republicans'' midterm push during White House leave'
+  alt: 'Illustration accompanying article: James Blair leads Republicans'' midterm
+    push during White House leave'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6777
+  strength: 0.6773
 - slug: 2026-10-07-trump-distances-himself-from-advisers-after-reported-balkans-consulting
   headline: Trump distances himself from advisers after reported Balkans consulting
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.693
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6356
-- slug: 2026-10-16-navigator-focus-group-finds-some-gen-z-trump-voters-regret-2024-vote
-  headline: Navigator focus group finds some Gen Z Trump voters regret 2024 vote
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6206
-- slug: 2026-10-15-georgia-swing-voters-regret-2024-trump-vote-eye-democratic-midterms
-  headline: Georgia swing voters regret 2024 Trump vote, eye Democratic midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6234
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6228
-- slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
-  headline: Working-class white voters cool on Republicans, WSJ poll finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6175
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6169
-- slug: 2026-10-10-emhoff-privately-would-prefer-harris-not-run-again
-  headline: Emhoff privately would prefer Harris not run again
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6209
-- slug: 2026-10-10-bold-pac-recruits-latino-influencers-as-democrats-court-hispanic-voters
-  headline: BOLD PAC recruits Latino influencers as Democrats court Hispanic voters
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6208
+  strength: 0.6925
 - slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
   headline: Trump launches 32-day midterm rally blitz through GOP strongholds
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6524
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6298
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6175
-- slug: 2026-09-30-trump-s-america-gov-chatbot-contradicts-his-own-public-claims
-  headline: Trump's America.gov chatbot contradicts his own public claims
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6172
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6267
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6354
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6379
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6261
-- slug: 2026-08-24-maga-inc-spends-more-than-800-000-on-graham-runoff-outreach
-  headline: MAGA Inc. spends more than $800,000 on Graham runoff outreach
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6344
-- slug: 2026-06-17-election-lawyer-warns-trump-is-setting-stage-to-contest-november-midterms
-  headline: Election lawyer warns Trump is setting stage to contest November midterms
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6207
+  strength: 0.652
 analyses:
-- '2026-10-25-james-blair-tests-a-data-led-coalition-without-trump-on-the-ballot'
+- 2026-10-25-james-blair-tests-a-data-led-coalition-without-trump-on-the-ballot
 ---
-
 ## James Blair leads Republicans' midterm push during White House leave
 
 **Subtype:** fact

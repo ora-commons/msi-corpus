@@ -1,9 +1,21 @@
 ---
-headline: Nvidia and Micron account for 34% of expected third-quarter S&P 500 profit growth
-secondary_headline: Ten companies account for roughly two-thirds of expected S&P 500 third-quarter profit growth
+headline: Nvidia and Micron account for 34% of expected third-quarter S&P 500 profit
+  growth
+secondary_headline: Ten companies account for roughly two-thirds of expected S&P 500
+  third-quarter profit growth
 publish_date: '2026-10-26'
-lede: FactSet expects S&P 500 companies to report a 30% jump in third-quarter earnings from a year earlier. Nvidia and Micron account for 34% of that expected profit growth, according to a Dow Jones Market Data analysis, while 10 companies, including Broadcom and Meta Platforms, account for roughly two-thirds. The Wall Street Journal said much of Wall Street's optimism rested on the corporate earnings surge, even as profit growth was being driven by a handful of AI giants.
-nut_graf: The forecast indicates a large increase in aggregate S&P 500 earnings, but a Dow Jones Market Data analysis shows that a small group of companies was expected to provide most of the gain. Nvidia and Micron account for 34%, while 10 companies, including Broadcom and Meta Platforms, account for roughly two-thirds. The Wall Street Journal said profit growth was being driven by a handful of AI giants, identifying the concentration behind the market optimism attached to the earnings surge.
+lede: FactSet expects S&P 500 companies to report a 30% jump in third-quarter earnings
+  from a year earlier. Nvidia and Micron account for 34% of that expected profit growth,
+  according to a Dow Jones Market Data analysis, while 10 companies, including Broadcom
+  and Meta Platforms, account for roughly two-thirds. The Wall Street Journal said
+  much of Wall Street's optimism rested on the corporate earnings surge, even as profit
+  growth was being driven by a handful of AI giants.
+nut_graf: The forecast indicates a large increase in aggregate S&P 500 earnings, but
+  a Dow Jones Market Data analysis shows that a small group of companies was expected
+  to provide most of the gain. Nvidia and Micron account for 34%, while 10 companies,
+  including Broadcom and Meta Platforms, account for roughly two-thirds. The Wall
+  Street Journal said profit growth was being driven by a handful of AI giants, identifying
+  the concentration behind the market optimism attached to the earnings surge.
 primary_entities:
 - Nvidia
 - Micron
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,12 +77,15 @@ figures:
   series_id: SP500
   transformation: raw
   as_of: '2026-10-26'
-  caption: The S&P 500 stood at 7,757.17 on Oct. 26, 2026, providing the index-level backdrop for the report's analysis of expected third-quarter profit growth.
+  caption: The S&P 500 stood at 7,757.17 on Oct. 26, 2026, providing the index-level
+    backdrop for the report's analysis of expected third-quarter profit growth.
 - source: fred
   series_id: U6RATE
   transformation: raw
   as_of: '2026-10-26'
-  caption: The broader underemployment rate, including discouraged workers and involuntary part-time workers, stood at 7.6% on Oct. 26, 2026, alongside Audi's announced Macon hiring plan.
+  caption: The broader underemployment rate, including discouraged workers and involuntary
+    part-time workers, stood at 7.6% on Oct. 26, 2026, alongside Audi's announced
+    Macon hiring plan.
 figures_aggregate:
   count: 2
   series_ids:
@@ -160,110 +176,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-most-asian-stocks-close-higher-after-nvidia-s-2-4-gain
+  headline: Most Asian stocks close higher after Nvidia's 2.4% gain
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7162
+- slug: 2026-10-27-nvidia-advances-2-4-as-asian-indexes-diverge
+  headline: Nvidia advances 2.4% as Asian indexes diverge
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7154
 - slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
   headline: Wall Street advances as SpaceX beats summer profit expectations
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7029
+  strength: 0.7038
 - slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6901
-- slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
-  headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6794
+  strength: 0.6913
 - slug: 2026-10-20-strong-profit-reports-lift-u-s-stocks-as-oil-prices-ease
   headline: Strong profit reports lift U.S. stocks as oil prices ease
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6843
+  strength: 0.6852
 - slug: 2026-08-24-nvidia-s-upcoming-earnings-report-puts-ai-trade-to-the-test
   headline: Nvidia's upcoming earnings report puts AI trade to the test
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7019
+  strength: 0.7026
 - slug: 2026-06-30-s-p-500-net-profit-margin-hits-record-14-8-in-first-quarter
   headline: S&P 500 net profit margin hits record 14.8% in first quarter
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.728
+  strength: 0.7276
 - slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
   headline: Stocks post second weekly decline as tech earnings and Fed decision approach
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6836
-- slug: 2026-06-02-fomo-drives-wall-street-pros-into-ai-rally-as-career-risk-outweighs-caution
-  headline: FOMO drives Wall Street pros into AI rally as career risk outweighs caution
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7141
-- slug: 2026-06-01-chip-stocks-power-s-p-500-through-historic-two-month-rally
-  headline: Chip stocks power S&P 500 through historic two-month rally
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.714
-- slug: 2026-06-24-micron-s-blockbuster-earnings-quiet-ai-doubters-shares-soar-14
-  headline: Micron's blockbuster earnings quiet AI doubters; shares soar 14%
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6808
-- slug: 2026-02-19-nvidia-boosts-stocks-as-meta-deal-lifts-s-p-500-and-nasdaq
-  headline: Nvidia boosts stocks as Meta deal lifts S&P 500 and Nasdaq
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.724
-- slug: 2026-06-08-nvidia-tops-wsj-s-inaugural-best-companies-for-the-future-list
-  headline: Nvidia tops WSJ's inaugural Best Companies for the Future list
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6865
-- slug: 2026-05-02-apple-leads-wall-street-to-more-records-as-oil-prices-pull-back
-  headline: Apple leads Wall Street to more records as oil prices pull back
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6961
-- slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
-  headline: Tech rally lifts Wall Street to records as oil, inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6898
-- slug: 2026-05-22-nvidia-s-q1-results-beat-wall-street-on-surging-ai-chip-demand
-  headline: Nvidia’s Q1 results beat Wall Street on surging AI chip demand
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6859
-- slug: 2026-05-26-another-surge-for-micron-wall-street-s-latest-1-trillion-company-sends-us-stocks
-  headline: Another surge for Micron, Wall Street's latest $1 trillion company, sends US stocks to records
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6822
-- slug: 2026-05-15-cisco-boosts-wall-street-records-s-p-hits-another-high-dow-reclaims-50-000
-  headline: Cisco boosts Wall Street records; S&P hits another high, Dow reclaims 50,000
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6863
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7059
-- slug: 2026-05-21-nvidia-q1-beats-wall-street-forecasts-as-ai-chip-demand-stays-strong
-  headline: Nvidia Q1 beats Wall Street forecasts as AI chip demand stays strong
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6796
-- slug: 2026-04-23-us-stocks-rally-to-records-but-brent-oil-tops-100-on-iran-war-worries
-  headline: US stocks rally to records, but Brent oil tops $100 on Iran war worries
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.689
+  strength: 0.6851
 analyses:
-- '2026-10-26-a-10-company-bloc-concentrates-expected-third-quarter-s-p-500-profit-growth'
+- 2026-10-26-a-10-company-bloc-concentrates-expected-third-quarter-s-p-500-profit-growth
 ---
-
 ## Nvidia and Micron account for 34% of expected third-quarter S&P 500 profit growth
 
 **Subtype:** fact

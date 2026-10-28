@@ -1,9 +1,19 @@
 ---
-headline: Justice Department indicts Zohar Pinhasi over alleged ransomware recovery fraud
+headline: Justice Department indicts Zohar Pinhasi over alleged ransomware recovery
+  fraud
 secondary_headline: Federal case alleges more than $19 million in client charges
 publish_date: '2026-10-26'
-lede: Federal prosecutors indicted Florida man Zohar Pinhasi last month on federal charges alleging that he defrauded clients of his Florida-based ransomware data recovery firm, MonsterCloud. The Justice Department says Pinhasi told customers he could restore encrypted files without paying hackers but instead paid ransom demands and charged victims additional fees. A U.S. Attorney’s Office spokesperson said Pinhasi pleaded not guilty.
-nut_graf: The charges concern a recovery service that told customers it could decrypt files without paying hackers while allegedly paying ransom demands and adding recovery fees. Pinhasi’s indictment last month follows ProPublica’s 2019 investigation, which found that MonsterCloud misled clients about whether it paid ransoms and examined how data-recovery firms and insurers fueled the ransomware extortion economy.
+lede: Federal prosecutors indicted Florida man Zohar Pinhasi last month on federal
+  charges alleging that he defrauded clients of his Florida-based ransomware data
+  recovery firm, MonsterCloud. The Justice Department says Pinhasi told customers
+  he could restore encrypted files without paying hackers but instead paid ransom
+  demands and charged victims additional fees. A U.S. Attorney’s Office spokesperson
+  said Pinhasi pleaded not guilty.
+nut_graf: The charges concern a recovery service that told customers it could decrypt
+  files without paying hackers while allegedly paying ransom demands and adding recovery
+  fees. Pinhasi’s indictment last month follows ProPublica’s 2019 investigation, which
+  found that MonsterCloud misled clients about whether it paid ransoms and examined
+  how data-recovery firms and insurers fueled the ransomware extortion economy.
 primary_entities:
 - Zohar Pinhasi
 - MonsterCloud
@@ -33,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -130,109 +141,8 @@ cross_article_links:
   strength: 0.5939
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-zheng-zhao-faces-u-s-charge-over-36-9-million-crypto-scam
-  headline: Zheng Zhao faces U.S. charge over $36.9 million crypto scam
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5849
-- slug: 2026-10-09-kalshi-hires-former-fbi-agent-to-lead-anti-money-laundering-team
-  headline: Kalshi hires former FBI agent to lead anti-money laundering team
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5926
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6364
-- slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5861
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.588
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6414
-- slug: 2026-09-10-hundreds-of-victims-seek-share-of-225-million-seized-in-operation-big-tuna
-  headline: Hundreds of victims seek share of $225 million seized in Operation Big Tuna
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6176
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6029
-- slug: 2026-08-18-georgia-man-faces-165m-crypto-fraud-charges-after-fiji-deportation
-  headline: Georgia man faces $165M crypto fraud charges after Fiji deportation
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.621
-- slug: 2026-08-19-us-charges-17-iranians-for-alleged-cyber-theft-of-university-data
-  headline: US charges 17 Iranians for alleged cyber theft of university data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5903
-- slug: 2026-08-07-federal-prosecutors-review-claims-about-jpmorgan-fraud-reimbursements
-  headline: Federal prosecutors review claims about JPMorgan fraud reimbursements
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5953
-- slug: 2026-07-19-developer-s-10b-data-center-plan-prompts-imperial-valley-fight
-  headline: Developer's $10B data center plan prompts Imperial Valley fight
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5946
-- slug: 2026-07-15-federal-trial-opens-for-israeli-investigator-accused-of-hacking-climate-activist
-  headline: Federal trial opens for Israeli investigator accused of hacking climate activists
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5959
-- slug: 2026-07-07-judge-approves-46-75m-payout-to-victims-of-23andme-data-breach
-  headline: Judge approves $46.75M payout to victims of 23andMe data breach
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5931
-- slug: 2026-06-23-justice-department-unveils-6-5-billion-healthcare-fraud-crackdown
-  headline: Justice Department unveils $6.5 billion healthcare fraud crackdown
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5998
-- slug: 2026-06-15-fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-users
-  headline: FBI warns of Kali365 phishing service targeting Microsoft 365 users
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.602
-- slug: 2026-05-14-instructure-says-hackers-agreed-to-delete-stolen-canvas-data-experts-caution-dea
-  headline: Instructure says hackers agreed to delete stolen Canvas data; experts caution deal may not end threat
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6182
-- slug: 2026-06-18-backdoor-software-in-millions-of-us-home-devices-aids-state-backed-hackers
-  headline: Backdoor software in millions of US home devices aids state-backed hackers
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5938
-- slug: 2026-01-09-university-of-hawaii-cancer-center-hit-by-ransomware-patient-notification-delaye
-  headline: University of Hawaii Cancer Center hit by ransomware; patient notification delayed months
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6309
-- slug: 2026-05-28-us-prosecutors-charge-google-engineer-with-insider-trading-on-polymarket
-  headline: US prosecutors charge Google engineer with insider trading on Polymarket
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5901
+related_stories: []
 ---
-
 ## Justice Department indicts Zohar Pinhasi over alleged ransomware recovery fraud
 
 **Subtype:** fact

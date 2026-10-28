@@ -2,8 +2,20 @@
 headline: Florida expands AI and social-media oversight through courts and legislation
 secondary_headline: Florida court actions and proposed app rules address AI and minors
 publish_date: '2026-10-26'
-lede: The Wall Street Journal reported that Florida is combining company-specific lawsuits and court requests with proposed legislation to regulate artificial intelligence and restrict minors’ access to social media and apps. In a one-week stretch earlier this month, Florida Attorney General James Uthmeier sought restrictions on children’s Meta access, won a ruling allowing a social-media ban for minors and sued Discord over its alleged failure to protect children from predators. Florida also became the first state to file a civil lawsuit against OpenAI and chief executive Sam Altman, alleging that OpenAI knowingly released an unsafe product that facilitates self-harm and violence.
-nut_graf: 'Florida’s mix of company-specific litigation, court requests and proposed app-access legislation contrasts with the Trump administration’s preference for a light-touch national AI regime. The state’s broader agenda has also met resistance: an AI bill of rights died in the House, while a 2024 social-media law drew a preliminary injunction that was later reversed in Florida’s favor.'
+lede: The Wall Street Journal reported that Florida is combining company-specific
+  lawsuits and court requests with proposed legislation to regulate artificial intelligence
+  and restrict minors’ access to social media and apps. In a one-week stretch earlier
+  this month, Florida Attorney General James Uthmeier sought restrictions on children’s
+  Meta access, won a ruling allowing a social-media ban for minors and sued Discord
+  over its alleged failure to protect children from predators. Florida also became
+  the first state to file a civil lawsuit against OpenAI and chief executive Sam Altman,
+  alleging that OpenAI knowingly released an unsafe product that facilitates self-harm
+  and violence.
+nut_graf: 'Florida’s mix of company-specific litigation, court requests and proposed
+  app-access legislation contrasts with the Trump administration’s preference for
+  a light-touch national AI regime. The state’s broader agenda has also met resistance:
+  an AI bill of rights died in the House, while a 2024 social-media law drew a preliminary
+  injunction that was later reversed in Florida’s favor.'
 primary_entities:
 - Florida
 - Ron DeSantis
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,44 @@ related_stories:
   headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6975
+  strength: 0.6978
 - slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
   headline: AI executives call for slowdown after OpenAI swarm cyberattack
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6977
-- slug: 2026-09-22-british-columbia-sues-openai-sam-altman-over-tumbler-ridge-mass-school-shooting
-  headline: British Columbia sues OpenAI, Sam Altman over Tumbler Ridge mass school shooting
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6653
+  strength: 0.6975
 - slug: 2026-09-02-justice-department-backs-openai-in-nyt-copyright-fight-cites-national-security
-  headline: Justice Department backs OpenAI in NYT copyright fight, cites national security
+  headline: Justice Department backs OpenAI in NYT copyright fight, cites national
+    security
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6875
+  strength: 0.6878
 - slug: 2026-06-01-florida-files-first-state-lawsuit-against-openai-over-alleged-harms
   headline: Florida files first state lawsuit against OpenAI over alleged harms
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.8049
+  strength: 0.8047
 - slug: 2026-08-20-meta-opens-defense-in-california-youth-mental-health-trial
   headline: Meta opens defense in California youth mental health trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6998
+  strength: 0.7002
 - slug: 2026-08-17-meta-faces-federal-trial-in-oakland-over-youth-mental-health
   headline: Meta faces federal trial in Oakland over youth mental health
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6894
+  strength: 0.69
 - slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
   headline: Meta faces lawsuits over teen safety as it pushes into AI
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7036
+  strength: 0.7038
 - slug: 2026-06-15-florida-sues-tiktok-over-state-child-social-media-access-law
   headline: Florida sues TikTok over state child social media access law
   publish_date: '2026-06-15'
   relation: related
   strength: 0.7473
-- slug: 2026-04-22-florida-ag-opens-criminal-probe-into-whether-chatgpt-aided-fsu-shooter
-  headline: Florida AG opens criminal probe into whether ChatGPT aided FSU shooter
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7262
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6697
-- slug: 2026-06-11-canada-proposes-social-media-ban-for-children-under-16
-  headline: Canada proposes social media ban for children under 16
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6731
-- slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6692
-- slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
-  headline: Meta says it could shut down social media platforms in New Mexico
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6865
-- slug: 2026-01-22-florida-ag-s-challenge-to-minority-laws-draws-black-lawmakers-rebuke
-  headline: Florida AG's challenge to minority laws draws Black lawmakers' rebuke
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7017
-- slug: 2026-05-04-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6808
-- slug: 2026-04-15-state-court-hears-massachusetts-lawsuit-against-meta-over-addictive-apps-for-kid
-  headline: State court hears Massachusetts lawsuit against Meta over addictive apps for kids
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6856
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6895
-- slug: 2026-05-03-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6769
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6709
 ---
-
 ## Florida expands AI and social-media oversight through courts and legislation
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Six plaintiffs challenge White House press bans without seeking damages
-secondary_headline: Plaintiffs say access restrictions deprive the public of reporting and distort coverage
+secondary_headline: Plaintiffs say access restrictions deprive the public of reporting
+  and distort coverage
 publish_date: '2026-10-26'
-lede: Six plaintiffs challenging the Trump administration's White House media bans asked a New York federal court to block enforcement of the bans, and the suit does not request financial damages. The plaintiffs ask only that the defendants cover their legal fees if they prevail. The Knight First Amendment Institute and Yale Law School's Media and Information Access Clinic filed the case on the plaintiffs' behalf, according to the court filings.
-nut_graf: The suit follows a separate legal challenge from CNN, Politico and MSNOW over the White House's attempts to revoke or restrict their press access, and it asks for no money beyond defendants' legal fees if the plaintiffs prevail. The plaintiffs say the policy deprives the public of reporting and forces journalists who cover Donald Trump to account for the possibility that a critical or ill-advised word about the president may result in their access being summarily restricted or revoked.
+lede: Six plaintiffs challenging the Trump administration's White House media bans
+  asked a New York federal court to block enforcement of the bans, and the suit does
+  not request financial damages. The plaintiffs ask only that the defendants cover
+  their legal fees if they prevail. The Knight First Amendment Institute and Yale
+  Law School's Media and Information Access Clinic filed the case on the plaintiffs'
+  behalf, according to the court filings.
+nut_graf: The suit follows a separate legal challenge from CNN, Politico and MSNOW
+  over the White House's attempts to revoke or restrict their press access, and it
+  asks for no money beyond defendants' legal fees if the plaintiffs prevail. The plaintiffs
+  say the policy deprives the public of reporting and forces journalists who cover
+  Donald Trump to account for the possibility that a critical or ill-advised word
+  about the president may result in their access being summarily restricted or revoked.
 primary_entities:
 - White House
 - Trump administration
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +158,44 @@ related_stories:
   headline: Six citizens ask court to protect White House press access
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8588
+  strength: 0.8589
+- slug: 2026-10-26-seis-ciudadanos-buscan-una-protecci-n-judicial-m-s-amplia-para-el-acceso-de-medi
+  headline: Seis ciudadanos buscan una protección judicial más amplia para el acceso
+    de medios a la Casa Blanca
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8087
 - slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
   headline: Judge blocks Trump from enforcing White House press ban on three outlets
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.764
+  strength: 0.7637
 - slug: 2026-09-21-three-news-outlets-sue-trump-to-restore-white-house-press-credentials
   headline: Three news outlets sue Trump to restore White House press credentials
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.8387
+  strength: 0.8378
 - slug: 2026-09-21-cnn-ms-now-and-politico-sue-trump-over-white-house-reporter-ban
   headline: CNN, MS NOW and Politico sue Trump over White House reporter ban
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.816
+  strength: 0.8154
 - slug: 2026-09-23-doj-argues-white-house-press-access-is-a-privilege-not-a-right
   headline: DOJ argues White House press access is 'a privilege—not a right'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.8068
+  strength: 0.8071
 - slug: 2026-09-29-three-news-outlets-ask-court-to-extend-block-on-white-house-press-ban
   headline: Three news outlets ask court to extend block on White House press ban
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7806
+  strength: 0.7803
 - slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
   headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7798
-- slug: 2026-09-19-officers-bar-cnn-ms-now-and-politico-reporters-from-white-house
-  headline: Officers bar CNN, MS NOW and Politico reporters from White House
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7953
-- slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
-  headline: DoJ tells court White House press access is a privilege, not a right
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7707
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7698
-- slug: 2026-09-24-federal-judge-restores-white-house-press-access-for-three-outlets
-  headline: Federal judge restores White House press access for three outlets
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7571
-- slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7611
-- slug: 2026-09-27-blanche-white-house-press-access-is-a-privilege-not-a-right
-  headline: 'Blanche: White House press access is ''a privilege, not a right'''
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7433
-- slug: 2026-09-24-judge-orders-white-house-to-restore-cnn-ms-now-politico-press-passes
-  headline: Judge orders White House to restore CNN, MS Now, Politico press passes
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7529
-- slug: 2026-09-21-cnn-press-pool-slot-remains-vacant-for-trump-un-trip-after-white-house-ban
-  headline: CNN press pool slot remains vacant for Trump UN trip after White House ban
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7619
-- slug: 2026-09-21-cbs-s-jiang-warns-america-cannot-have-state-tv-in-white-house-press-ban-suit
-  headline: CBS's Jiang warns 'America cannot have state TV' in White House press ban suit
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7601
-- slug: 2026-09-23-judge-appears-inclined-to-restore-cnn-ms-now-politico-press-passes
-  headline: Judge appears inclined to restore CNN, MS NOW, Politico press passes
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7489
-- slug: 2026-09-24-wsj-details-trump-second-term-press-actions-against-outlets
-  headline: WSJ details Trump second-term press actions against outlets
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7439
-- slug: 2026-09-18-cnn-calls-trump-white-house-ban-illegal-assault-on-press-rights
-  headline: CNN calls Trump White House ban 'illegal assault' on press rights
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7676
-- slug: 2026-09-19-ms-now-and-cnn-reporters-denied-white-house-access-under-trump-press-ban
-  headline: MS Now and CNN reporters denied White House access under Trump press ban
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7619
+  strength: 0.7791
 ---
-
 ## Six plaintiffs challenge White House press bans without seeking damages
 
 **Subtype:** fact

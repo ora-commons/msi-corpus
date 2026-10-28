@@ -1,9 +1,21 @@
 ---
 headline: Northwest timber operators cite fuel, labor and infrastructure constraints
-secondary_headline: Several national environmental groups signal plans to sue after formal repeal
+secondary_headline: Several national environmental groups signal plans to sue after
+  formal repeal
 publish_date: '2026-10-26'
-lede: Sean Smith of Starfire Lumber and Jeff Brink of Brink Land Development say an anticipated repeal of the Roadless Rule will not resolve record diesel prices, rising equipment costs, worker shortages, inadequate forest infrastructure or a shrinking federal timber market. The rule has largely blocked new road building and logging projects on some 44 million acres of undeveloped national forests since 2001, and formal repeal is expected by early next year. NPR's Oct. 26 reporting from Cottage Grove and Eugene, Oregon, found support for ending the restriction alongside doubts about whether it could restore the timber industry.
-nut_graf: Although industry experts project a 5% to 10% boost in federal timber sales from overturning the Roadless Rule, industry participants said the change would leave fuel, labor, legal and infrastructure pressures in place. Those pressures rank as more urgent than access to more trees, while several national environmental groups have signaled plans to sue after formal repeal.
+lede: Sean Smith of Starfire Lumber and Jeff Brink of Brink Land Development say an
+  anticipated repeal of the Roadless Rule will not resolve record diesel prices, rising
+  equipment costs, worker shortages, inadequate forest infrastructure or a shrinking
+  federal timber market. The rule has largely blocked new road building and logging
+  projects on some 44 million acres of undeveloped national forests since 2001, and
+  formal repeal is expected by early next year. NPR's Oct. 26 reporting from Cottage
+  Grove and Eugene, Oregon, found support for ending the restriction alongside doubts
+  about whether it could restore the timber industry.
+nut_graf: Although industry experts project a 5% to 10% boost in federal timber sales
+  from overturning the Roadless Rule, industry participants said the change would
+  leave fuel, labor, legal and infrastructure pressures in place. Those pressures
+  rank as more urgent than access to more trees, while several national environmental
+  groups have signaled plans to sue after formal repeal.
 primary_entities:
 - President Trump
 - U.S. Forest Service
@@ -38,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +149,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.642
-- slug: 2026-10-03-midwest-farmers-face-record-diesel-bills-as-soybean-harvest-begins
-  headline: Midwest farmers face record diesel bills as soybean harvest begins
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6417
 - slug: 2026-09-28-trump-administration-finalizes-rule-easing-fuel-economy-standards
   headline: Trump administration finalizes rule easing fuel economy standards
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6646
+  strength: 0.6666
 - slug: 2026-09-28-trump-administration-finalizes-fuel-efficiency-rollback
   headline: Trump administration finalizes fuel efficiency rollback
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.656
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6458
+  strength: 0.6579
 - slug: 2026-09-23-trump-weighs-diesel-export-ban-as-fuel-prices-hit-record-high
   headline: Trump weighs diesel export ban as fuel prices hit record high
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6694
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6407
+  strength: 0.6705
 - slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
   headline: Oil industry scrambles to oppose Trump's diesel export ban
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6596
+  strength: 0.6608
 - slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
+  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export
+    ban
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6502
+  strength: 0.6525
 - slug: 2026-09-23-wright-outlines-voluntary-diesel-export-restrictions-over-ban
   headline: Wright outlines voluntary diesel export restrictions over ban
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6498
-- slug: 2026-09-24-oil-industry-launches-lobbying-push-against-trump-s-diesel-export-restriction
-  headline: Oil industry launches lobbying push against Trump's diesel export restriction
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6439
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6448
+  strength: 0.6505
 - slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
   headline: Trump administration weighs diesel export ban to ease fuel prices
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6634
+  strength: 0.6651
 - slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
   headline: Trump administration formally proposes rescinding 2001 Roadless Rule
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7086
-- slug: 2026-08-18-forest-service-files-proposal-to-scrap-roadless-rule-on-national-forests
-  headline: Forest Service files proposal to scrap roadless rule on national forests
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7184
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7783
-- slug: 2026-08-06-lumber-prices-rise-as-shrinking-supply-outweighs-weak-housing-demand
-  headline: Lumber prices rise as shrinking supply outweighs weak housing demand
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6573
-- slug: 2026-07-09-epa-proposes-scaling-back-heavy-duty-truck-emissions-rules
-  headline: EPA proposes scaling back heavy-duty truck emissions rules
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6636
-- slug: 2026-06-05-trump-administration-moves-to-rescind-roadless-rule-protecting-58-million-acres-
-  headline: Trump administration moves to rescind Roadless Rule protecting 58 million acres of national forests
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6876
-- slug: 2026-06-17-forest-service-says-it-s-fully-staffed-as-wildfires-erupt-in-the-west
-  headline: Forest Service says it's fully staffed as wildfires erupt in the West
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6633
+  strength: 0.71
 ---
-
 ## Northwest timber operators cite fuel, labor and infrastructure constraints
 
 **Subtype:** fact

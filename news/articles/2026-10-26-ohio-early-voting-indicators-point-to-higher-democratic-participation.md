@@ -1,9 +1,22 @@
 ---
 headline: Ohio early-voting indicators point to higher Democratic participation
-secondary_headline: Defiance County had more Democratic-affiliated than Republican early ballots by Oct. 13
+secondary_headline: Defiance County had more Democratic-affiliated than Republican
+  early ballots by Oct. 13
 publish_date: '2026-10-26'
-lede: Democratic-affiliated voters had returned more early ballots than Republican-affiliated voters in rural Defiance County by Oct. 13, despite Donald Trump winning 69% of the vote there in 2024, according to the Ohio secretary of state's data portal. The county had the state's highest ballot-return rate at 19% that day, while The Guardian reported that early-voting indicators in Ohio suggest higher participation among Democratic-affiliated voters than in 2024, especially in predominantly Republican districts. Bowling Green State University professor Robert Alexander cautioned that an apparent increase could reflect concern about the USPS and mail-in voting rather than a final Democratic vote choice.
-nut_graf: Ohio's early-voting indicators suggest higher participation among Democratic-affiliated voters than in 2024 in a state Trump won in the last three presidential elections. The reported trend could affect the U.S. Senate race, the governor's office and competitive House contests, although pollsters warned that early participation might not translate into Democratic votes.
+lede: Democratic-affiliated voters had returned more early ballots than Republican-affiliated
+  voters in rural Defiance County by Oct. 13, despite Donald Trump winning 69% of
+  the vote there in 2024, according to the Ohio secretary of state's data portal.
+  The county had the state's highest ballot-return rate at 19% that day, while The
+  Guardian reported that early-voting indicators in Ohio suggest higher participation
+  among Democratic-affiliated voters than in 2024, especially in predominantly Republican
+  districts. Bowling Green State University professor Robert Alexander cautioned that
+  an apparent increase could reflect concern about the USPS and mail-in voting rather
+  than a final Democratic vote choice.
+nut_graf: Ohio's early-voting indicators suggest higher participation among Democratic-affiliated
+  voters than in 2024 in a state Trump won in the last three presidential elections.
+  The reported trend could affect the U.S. Senate race, the governor's office and
+  competitive House contests, although pollsters warned that early participation might
+  not translate into Democratic votes.
 primary_entities:
 - Kim McCarthy
 - Ohio
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,106 +158,46 @@ related_stories:
   headline: Rural Ohio voters weigh costs in toss-up Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.692
+  strength: 0.6905
+- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
+  headline: Candidates in four states seek tighter data-center approval rules
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6666
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6611
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6804
+  strength: 0.6798
+- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
+  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6548
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6805
+  strength: 0.6799
 - slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
+  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm
+    races
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6862
+  strength: 0.6851
 - slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
   headline: Working-class white voters cool on Republicans, WSJ poll finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.663
-- slug: 2026-10-08-brown-makes-data-centers-central-to-ohio-senate-rematch
-  headline: Brown makes data centers central to Ohio Senate rematch
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6906
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7041
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.666
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6505
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6687
-- slug: 2026-10-02-brown-rallies-ohio-unions-in-bid-to-reclaim-senate-seat
-  headline: Brown rallies Ohio unions in bid to reclaim Senate seat
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6481
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6754
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6505
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6682
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6583
-- slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
-  headline: More than 10 states pause or cancel data center tax exemptions
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6444
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.665
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6465
-- slug: 2026-06-06-ohio-trump-supporters-stay-loyal-as-national-approval-drops
-  headline: Ohio Trump supporters stay loyal as national approval drops
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7208
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6442
+  strength: 0.6603
 analyses:
-- '2026-10-26-ohio-early-returns-show-a-participation-signal-not-a-partisan-verdict'
+- 2026-10-26-ohio-early-returns-show-a-participation-signal-not-a-partisan-verdict
 ---
-
 ## Ohio early-voting indicators point to higher Democratic participation
 
 **Subtype:** fact

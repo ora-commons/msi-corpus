@@ -2,8 +2,13 @@
 headline: Walter Koenig dies at 90; Chekov role spanned 36 episodes and seven films
 secondary_headline: George Takei recalled a friendship that lasted nearly six decades
 publish_date: '2026-10-26'
-lede: Walter Koenig, who played Ensign Pavel Chekov in the original Star Trek television series, died at 90, his representatives announced Monday. His spokesperson told The Hollywood Reporter and The New York Times that Koenig died at his home in Los Angeles.
-nut_graf: Koenig's Chekov role spanned 36 episodes of the original series and all seven original Star Trek movies. Fellow cast member George Takei remembered Koenig as a longtime friend, describing their relationship as lasting nearly six decades.
+lede: Walter Koenig, who played Ensign Pavel Chekov in the original Star Trek television
+  series, died at 90, his representatives announced Monday. His spokesperson told
+  The Hollywood Reporter and The New York Times that Koenig died at his home in Los
+  Angeles.
+nut_graf: Koenig's Chekov role spanned 36 episodes of the original series and all
+  seven original Star Trek movies. Fellow cast member George Takei remembered Koenig
+  as a longtime friend, describing their relationship as lasting nearly six decades.
 primary_entities:
 - Walter Koenig
 - Star Trek
@@ -36,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,18 +64,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-12-breaking-bad-actor-rj-mitte-dies-at-34-in-texas
-  headline: Breaking Bad actor RJ Mitte dies at 34 in Texas
-  publish_date: '2026-10-12'
+- slug: 2026-10-26-koenig-s-chekov-work-draws-two-science-fiction-film-nominations
+  headline: Koenig's Chekov work draws two science-fiction film nominations
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5124
-- slug: 2026-09-13-star-trek-turns-60-with-no-new-tv-show-or-film-confirmed
-  headline: Star Trek turns 60 with no new TV show or film confirmed
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5269
+  strength: 0.8317
 ---
-
 ## Walter Koenig dies at 90; Chekov role spanned 36 episodes and seven films
 
 **Subtype:** fact

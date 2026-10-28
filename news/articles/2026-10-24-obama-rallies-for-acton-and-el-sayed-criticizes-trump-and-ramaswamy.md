@@ -2,8 +2,20 @@
 headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
 secondary_headline: Michigan has high-stakes Senate and governor contests this midterm
 publish_date: '2026-10-24'
-lede: Former President Barack Obama campaigned for Amy Acton in Ohio and Abdul El-Sayed in Michigan on Saturday, telling a packed Detroit high school gym, “Abdul is as Michigan as it gets” and “Abdul shares my values.” Obama condemned critics of El-Sayed, suggesting they were using El-Sayed’s name or his faith to tear him down. In Ohio, he backed gubernatorial candidate Amy Acton and condemned Republican rival Vivek Ramaswamy over an advertisement featuring Acton’s estranged mother. The appearances came before the Nov. 3 midterms, while President Donald Trump defended the Ramaswamy advertisement in Florida.
-nut_graf: 'Obama’s appearances came as Democrats contested two Midwestern battlegrounds: Ohio’s hotly contested governor’s race and Michigan, a critical midterm state with high-stakes contests for the Senate and governor. Obama and Acton characterized Ramaswamy’s advertisement as an exploitation of Acton’s childhood history, while the former president used the rallies to contrast the Democratic candidates with Trump and his Republican allies.'
+lede: Former President Barack Obama campaigned for Amy Acton in Ohio and Abdul El-Sayed
+  in Michigan on Saturday, telling a packed Detroit high school gym, “Abdul is as
+  Michigan as it gets” and “Abdul shares my values.” Obama condemned critics of El-Sayed,
+  suggesting they were using El-Sayed’s name or his faith to tear him down. In Ohio,
+  he backed gubernatorial candidate Amy Acton and condemned Republican rival Vivek
+  Ramaswamy over an advertisement featuring Acton’s estranged mother. The appearances
+  came before the Nov. 3 midterms, while President Donald Trump defended the Ramaswamy
+  advertisement in Florida.
+nut_graf: 'Obama’s appearances came as Democrats contested two Midwestern battlegrounds:
+  Ohio’s hotly contested governor’s race and Michigan, a critical midterm state with
+  high-stakes contests for the Senate and governor. Obama and Acton characterized
+  Ramaswamy’s advertisement as an exploitation of Acton’s childhood history, while
+  the former president used the rallies to contrast the Democratic candidates with
+  Trump and his Republican allies.'
 primary_entities:
 - Barack Obama
 - Donald Trump
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,44 @@ related_stories:
   headline: Obama rallies for El-Sayed in Michigan Senate race
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7814
+  strength: 0.7824
 - slug: 2026-10-24-obama-campaigns-for-democrats-as-trump-casts-an-early-vote
   headline: Obama campaigns for Democrats as Trump casts an early vote
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7616
+  strength: 0.7608
 - slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
   headline: Former President Obama criticizes Trump at Ohio midterm rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7593
+  strength: 0.7582
 - slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
-  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7547
+  strength: 0.7526
 - slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
   headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.741
+  strength: 0.7386
 - slug: 2026-10-22-dewine-says-acton-certainly-told-the-truth-in-his-experience
   headline: DeWine says Acton 'certainly told the truth' in his experience
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7461
+  strength: 0.7439
 - slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
   headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7417
+  strength: 0.7401
 - slug: 2026-10-21-ramaswamy-pledges-4m-to-air-attack-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7456
-- slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
-  headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7506
-- slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
-  headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7418
-- slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
-  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its removal
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7237
-- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7207
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.706
-- slug: 2026-10-24-barack-obama-to-support-abdul-el-sayed-at-detroit-senate-rally
-  headline: Barack Obama to support Abdul El-Sayed at Detroit Senate rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7044
-- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
-  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6814
-- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
-  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.665
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7088
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7309
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.695
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6766
+  strength: 0.7436
 ---
-
 ## Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
 
 **Subtype:** fact

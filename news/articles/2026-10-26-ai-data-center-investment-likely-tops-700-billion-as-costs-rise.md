@@ -1,9 +1,18 @@
 ---
 headline: AI data-center investment likely tops $700 billion as costs rise
-secondary_headline: Economists expect data-center spending to keep pushing inflation at least through year-end
+secondary_headline: Economists expect data-center spending to keep pushing inflation
+  at least through year-end
 publish_date: '2026-10-26'
-lede: Investment in data centers to power artificial intelligence is likely to top $700 billion this year, according to Associated Press reporting. The buildout has made memory chips, computer processors, other equipment and electricity more expensive, and economists expect it to keep pushing up inflation at least through the end of this year.
-nut_graf: The spending surge is already making chips, processors, other equipment and electricity more expensive, with economists expecting inflation pressure at least through year-end. The aggregate investment figure covers the broader AI data-center buildout, while Microsoft's voluntary exit offer and earlier workforce developments are company-specific.
+lede: Investment in data centers to power artificial intelligence is likely to top
+  $700 billion this year, according to Associated Press reporting. The buildout has
+  made memory chips, computer processors, other equipment and electricity more expensive,
+  and economists expect it to keep pushing up inflation at least through the end of
+  this year.
+nut_graf: The spending surge is already making chips, processors, other equipment
+  and electricity more expensive, with economists expecting inflation pressure at
+  least through year-end. The aggregate investment figure covers the broader AI data-center
+  buildout, while Microsoft's voluntary exit offer and earlier workforce developments
+  are company-specific.
 primary_entities:
 - Microsoft Corp.
 - Amy Coleman
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,46 @@ related_stories:
   headline: Microsoft opens voluntary exit offers as AI-related capital spending surges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7928
+  strength: 0.7921
 - slug: 2026-10-26-microsoft-s-april-buyout-program-reportedly-drew-more-than-30-acceptance
   headline: Microsoft's April buyout program reportedly drew more than 30% acceptance
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7202
+  strength: 0.7201
+- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
+  headline: Microsoft buyout reportedly excludes employees in certain divisions, including
+    cybersecurity
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7186
 - slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
+  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global
+    risks
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6963
+  strength: 0.6959
 - slug: 2026-10-02-ai-sector-needs-9-of-us-gdp-in-revenue-by-2032-analysis-finds
   headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7164
+  strength: 0.7159
 - slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
+  headline: US AI infrastructure investment projected at $10.3 trillion from 2025
+    to 2032
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7232
+  strength: 0.7229
 - slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
   headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7092
-- slug: 2026-09-22-samsung-to-allocate-40-of-dram-output-to-ai-memory-by-2027
-  headline: Samsung to allocate 40% of DRAM output to AI memory by 2027
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6856
+  strength: 0.7095
 - slug: 2026-07-18-ai-buildout-expected-to-keep-inflation-elevated-through-year-end
   headline: AI buildout expected to keep inflation elevated through year-end
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.8107
-- slug: 2026-07-13-ai-investment-boom-expected-to-keep-inflation-elevated-through-2026
-  headline: AI investment boom expected to keep inflation elevated through 2026
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7646
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7087
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6857
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7019
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6937
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7111
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6899
-- slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
-  headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7452
-- slug: 2026-07-03-ai-data-centers-consume-as-much-as-12-times-more-water-indirectly-than-directly-
-  headline: AI data centers consume as much as 12 times more water indirectly than directly, lab finds
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.688
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6904
-- slug: 2026-06-11-ai-wealth-boom-drives-san-francisco-home-prices-to-new-highs
-  headline: AI wealth boom drives San Francisco home prices to new highs
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6893
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.689
+  strength: 0.811
 ---
-
 ## AI data-center investment likely tops $700 billion as costs rise
 
 **Subtype:** fact

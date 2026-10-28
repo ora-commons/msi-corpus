@@ -1,9 +1,24 @@
 ---
 headline: UNIDIR to launch first international forum on military AI
-secondary_headline: UNIDIR's parallel efforts address industry conduct and armed-group misuse risks
+secondary_headline: UNIDIR's parallel efforts address industry conduct and armed-group
+  misuse risks
 publish_date: '2026-10-20'
-lede: The U.N. Institute for Disarmament Research plans to launch the first international forum on the military uses of artificial intelligence on Thursday, bringing together participants from government, industry and other sectors. Robin Geiss, who heads the Geneva-based institute, said the initiative addresses concerns that rapidly advancing AI could pose a threat to humanity; he also said the margin for human judgment is increasingly narrow, including in the nuclear domain.
-nut_graf: The launch comes as AI is increasingly used in early-warning systems, information gathering and reconnaissance; Geiss said it is difficult to determine when machines may operate outside human control. UNIDIR's broader agenda includes consultations with defense technology companies, software developers, subcontractors, investors and others. Geiss said UNIDIR was developing a framework of responsible industry behavior that would provide “practical, voluntary guidelines” that follow international law and ensure human rights. The institute also planned a separate initiative focused on the risks of AI misuse by armed groups; Geiss said armed groups already use AI to support operational planning, execution and logistics. Geiss said the U.N. recognizes that global competition to lead on AI poses serious obstacles.
+lede: The U.N. Institute for Disarmament Research plans to launch the first international
+  forum on the military uses of artificial intelligence on Thursday, bringing together
+  participants from government, industry and other sectors. Robin Geiss, who heads
+  the Geneva-based institute, said the initiative addresses concerns that rapidly
+  advancing AI could pose a threat to humanity; he also said the margin for human
+  judgment is increasingly narrow, including in the nuclear domain.
+nut_graf: The launch comes as AI is increasingly used in early-warning systems, information
+  gathering and reconnaissance; Geiss said it is difficult to determine when machines
+  may operate outside human control. UNIDIR's broader agenda includes consultations
+  with defense technology companies, software developers, subcontractors, investors
+  and others. Geiss said UNIDIR was developing a framework of responsible industry
+  behavior that would provide “practical, voluntary guidelines” that follow international
+  law and ensure human rights. The institute also planned a separate initiative focused
+  on the risks of AI misuse by armed groups; Geiss said armed groups already use AI
+  to support operational planning, execution and logistics. Geiss said the U.N. recognizes
+  that global competition to lead on AI poses serious obstacles.
 primary_entities:
 - U.N. Institute for Disarmament Research
 - Robin Geiss
@@ -37,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +155,46 @@ related_stories:
   headline: GAO finds some Pentagon AI projects miss responsible-use tenets
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6747
+  strength: 0.6737
 - slug: 2026-10-11-world-fixated-on-ai-ignores-nuclear-arms-race-columnist-warns
   headline: World fixated on AI ignores nuclear arms race, columnist warns
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6835
+  strength: 0.6837
 - slug: 2026-10-12-anthropic-safety-researcher-hubinger-warns-10-chance-ai-could-kill-all-humans
-  headline: Anthropic safety researcher Hubinger warns 10% chance AI could kill all humans
+  headline: Anthropic safety researcher Hubinger warns 10% chance AI could kill all
+    humans
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6679
+  strength: 0.6675
 - slug: 2026-10-06-global-risk-advisory-council-adds-first-advisory-names-ai-top-brand-risk
   headline: Global Risk Advisory Council adds first advisory, names AI top brand risk
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6937
+  strength: 0.6939
 - slug: 2026-10-05-former-ai-researcher-coxon-tells-nyc-council-humanity-could-lose-control-of-ai
-  headline: Former AI researcher Coxon tells NYC Council humanity could lose control of AI
+  headline: Former AI researcher Coxon tells NYC Council humanity could lose control
+    of AI
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6743
+  strength: 0.6738
 - slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
   headline: UN panel warns AI safeguards failing as world leaders split on governance
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6741
+  strength: 0.6738
 - slug: 2026-09-23-western-leaders-push-for-global-ai-governance-body-at-un
   headline: Western leaders push for global AI governance body at UN
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6812
-- slug: 2026-09-25-microsoft-activists-call-for-ban-on-ai-in-military-targeting-autonomous-weapons-
-  headline: Microsoft activists call for ban on AI in military targeting, autonomous weapons, surveillance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6611
+  strength: 0.6807
 - slug: 2026-09-23-burnham-announces-national-centre-for-information-defence-pitches-ai-standards
-  headline: Burnham announces National Centre for Information Defence, pitches AI standards
+  headline: Burnham announces National Centre for Information Defence, pitches AI
+    standards
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6628
-- slug: 2026-09-20-china-rebuffs-us-calls-to-slow-ai-development-ahead-of-trump-xi-summit
-  headline: China rebuffs US calls to slow AI development ahead of Trump-Xi summit
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6743
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6652
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6791
-- slug: 2026-09-19-uk-joint-committee-on-human-rights-proposes-new-ai-bill-to-address-threats
-  headline: UK Joint Committee on Human Rights proposes new AI bill to address threats
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6718
-- slug: 2026-09-18-lagarde-urges-europe-to-build-its-own-ai-to-avoid-us-china-dependency
-  headline: Lagarde urges Europe to build its own AI to avoid US, China dependency
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6711
-- slug: 2026-09-15-fedex-ceo-calls-ai-defining-technology-that-ceos-must-drive
-  headline: FedEx CEO calls AI 'defining technology' that CEOs must drive
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6714
-- slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
-  headline: Leading AI companies discuss joint standards to limit catastrophic harms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6692
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6619
-- slug: 2026-08-13-hassabis-proposes-industry-funded-ai-safety-standards-body
-  headline: Hassabis proposes industry-funded AI safety standards body
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6676
-- slug: 2026-08-11-ai-researchers-ask-us-to-support-international-limits-on-development-pace
-  headline: AI researchers ask US to support international limits on development pace
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6705
-- slug: 2026-06-19-either-robots-kill-us-or-russians-ai-warfare-hits-point-of-no-return
-  headline: '‘Either robots kill us or Russians’: AI warfare hits point of no return'
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7015
+  strength: 0.6624
 ---
-
 ## UNIDIR to launch first international forum on military AI
 
 **Subtype:** fact

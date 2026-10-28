@@ -1,9 +1,18 @@
 ---
 headline: Draft WA EPA advice says Woodside’s Browse drilling could harm Scott Reef
-secondary_headline: State and commonwealth regulators are assessing Woodside’s proposal before ministers decide
+secondary_headline: State and commonwealth regulators are assessing Woodside’s proposal
+  before ministers decide
 publish_date: '2026-10-26'
-lede: Western Australia's Environmental Protection Authority draft advice warned that Woodside Energy's Browse gasfield could significantly damage Scott Reef's exceptional coral reefs. The 2023 draft, seen by The Guardian, said EPA staff considered oil-spill risks serious enough to invoke the precautionary principle and warned of harm to green turtles and pygmy blue whales. State and commonwealth regulators are still assessing the proposal before environment ministers make the final decision.
-nut_graf: The dispute centers on whether Woodside's added well-control equipment and drilling changes can protect a reef that EPA staff said faced serious or irreversible harm. The state and commonwealth reviews remain unfinished, and the state process includes a final report, a three-week public appeal period and a ministerial decision.
+lede: Western Australia's Environmental Protection Authority draft advice warned that
+  Woodside Energy's Browse gasfield could significantly damage Scott Reef's exceptional
+  coral reefs. The 2023 draft, seen by The Guardian, said EPA staff considered oil-spill
+  risks serious enough to invoke the precautionary principle and warned of harm to
+  green turtles and pygmy blue whales. State and commonwealth regulators are still
+  assessing the proposal before environment ministers make the final decision.
+nut_graf: The dispute centers on whether Woodside's added well-control equipment and
+  drilling changes can protect a reef that EPA staff said faced serious or irreversible
+  harm. The state and commonwealth reviews remain unfinished, and the state process
+  includes a final report, a three-week public appeal period and a ministerial decision.
 primary_entities:
 - Woodside Energy
 - Environmental Protection Authority
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +153,8 @@ cross_article_links:
   strength: 0.6041
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-iucn-projects-96-of-shallow-water-reefs-face-high-collapse-risk-before-2075
-  headline: IUCN projects 96% of shallow-water reefs face high collapse risk before 2075
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6201
-- slug: 2026-09-14-noaa-documents-nine-new-deep-sea-sponge-species-off-alaska
-  headline: NOAA documents nine new deep-sea sponge species off Alaska
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6144
-- slug: 2026-09-11-epa-proposes-weakening-leak-and-equipment-rules-for-700-000-stripper-wells
-  headline: EPA proposes weakening leak and equipment rules for 700,000 stripper wells
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6096
-- slug: 2026-09-04-uk-energy-secretary-expected-to-recommend-jackdaw-gasfield-approval
-  headline: UK energy secretary expected to recommend Jackdaw gasfield approval
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6116
-- slug: 2026-08-16-bureau-weighs-40-lower-basin-cuts-as-reservoirs-shrink
-  headline: Bureau weighs 40% lower-basin cuts as reservoirs shrink
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.606
-- slug: 2026-04-01-trump-waiver-from-endangered-rules-raises-risks-for-rice-s-whale-in-gulf
-  headline: Trump waiver from endangered rules raises risks for Rice’s whale in Gulf
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6421
-- slug: 2026-05-18-sheridan-oregon-tests-river-after-wood-treater-released-toxic-chemicals
-  headline: Sheridan, Oregon tests river after wood treater released toxic chemicals
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6234
-- slug: 2026-04-11-epa-proposes-weakening-rules-for-toxic-coal-ash-groundwater-protections
-  headline: EPA proposes weakening rules for toxic coal ash groundwater protections
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6301
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.615
-- slug: 2026-05-15-epa-proposes-rollback-of-coal-plant-wastewater-limits-citing-ai-driven-energy-de
-  headline: EPA proposes rollback of coal plant wastewater limits, citing AI-driven energy demand
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6138
-- slug: 2026-05-11-southeast-alaskans-weigh-in-on-draft-tongass-plan-shaping-timber-mining
-  headline: Southeast Alaskans weigh in on draft Tongass plan shaping timber, mining
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6133
-- slug: 2026-04-01-trump-officials-exempt-gulf-oil-drilling-from-endangered-species-act
-  headline: Trump officials exempt Gulf oil drilling from Endangered Species Act
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6255
-- slug: 2026-05-11-tongass-plan-revision-draws-criticism-over-timeline-old-growth-protections
-  headline: Tongass plan revision draws criticism over timeline, old-growth protections
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6087
-- slug: 2026-04-26-boston-area-groups-urge-end-to-sewage-discharges-in-waterways
-  headline: Boston-area groups urge end to sewage discharges in waterways
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6114
-- slug: 2026-03-27-trump-seeks-gulf-drilling-exemption-from-endangered-species-act
-  headline: Trump seeks Gulf drilling exemption from Endangered Species Act
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6188
-- slug: 2026-04-22-environment-groups-sue-trump-over-bp-s-kaskida-deepwater-drilling-project
-  headline: Environment groups sue Trump over BP’s Kaskida deepwater drilling project
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6114
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  headline: EPA proposes limits on state Clean Water Act authority for pipelines and data centers
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6246
-- slug: 2026-03-23-trump-s-epa-moves-to-weaken-regional-haze-rule-for-national-parks
-  headline: Trump's EPA moves to weaken regional haze rule for national parks
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6156
-- slug: 2026-04-04-regulators-seek-public-input-for-massive-montana-wyoming-oil-pipeline-proposal
-  headline: Regulators seek public input for massive Montana-Wyoming oil pipeline proposal
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.612
-- slug: 2026-02-01-as-mexico-expands-natural-gas-infrastructure-some-communities-raise-concerns
-  headline: As Mexico expands natural gas infrastructure, some communities raise concerns
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6209
+related_stories: []
 ---
-
 ## Draft WA EPA advice says Woodside’s Browse drilling could harm Scott Reef
 
 **Subtype:** fact

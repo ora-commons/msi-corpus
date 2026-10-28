@@ -1,9 +1,22 @@
 ---
 headline: Reflect Orbital draws criticism after California test of space-based mirrors
-secondary_headline: Four Earthjustice-represented groups asked FCC to reconsider July approval
+secondary_headline: Four Earthjustice-represented groups asked FCC to reconsider July
+  approval
 publish_date: '2026-10-26'
-lede: The Federal Communications Commission approved Reflect Orbital's proposal in July for an initial demonstration satellite planned for next year, and four groups represented by Earthjustice asked the FCC in August to reconsider that approval. Reflect Orbital, a US startup, staged an earlier-this-month night demonstration near Lone Pine, California, using large mobile lights near Mount Whitney to simulate sunlight reflected from an orbiting mirror. Reflect Orbital says it aims to launch 50,000 satellites in the next decade, while environmentalists and astronomers say the system could worsen light pollution, disrupt wildlife and affect human health.
-nut_graf: The FCC's July approval cleared Reflect Orbital's proposal for an initial demonstration, while the August request sought reconsideration of that decision. Reflect Orbital cites emergency response, agriculture, lighting and energy applications; opponents cite astronomy, wildlife, health and climate risks, while the company says it has discussed avoiding astronomical sites, national parks and wildlife-rich areas with scientists and astronomers and supports oversight.
+lede: The Federal Communications Commission approved Reflect Orbital's proposal in
+  July for an initial demonstration satellite planned for next year, and four groups
+  represented by Earthjustice asked the FCC in August to reconsider that approval.
+  Reflect Orbital, a US startup, staged an earlier-this-month night demonstration
+  near Lone Pine, California, using large mobile lights near Mount Whitney to simulate
+  sunlight reflected from an orbiting mirror. Reflect Orbital says it aims to launch
+  50,000 satellites in the next decade, while environmentalists and astronomers say
+  the system could worsen light pollution, disrupt wildlife and affect human health.
+nut_graf: The FCC's July approval cleared Reflect Orbital's proposal for an initial
+  demonstration, while the August request sought reconsideration of that decision.
+  Reflect Orbital cites emergency response, agriculture, lighting and energy applications;
+  opponents cite astronomy, wildlife, health and climate risks, while the company
+  says it has discussed avoiding astronomical sites, national parks and wildlife-rich
+  areas with scientists and astronomers and supports oversight.
 primary_entities:
 - Reflect Orbital
 - Federal Communications Commission
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,111 +155,10 @@ cross_article_links:
   strength: 0.5822
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
-  headline: Advocates allege datacenter developers split emissions to avoid EPA review
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5677
-- slug: 2026-09-15-space-force-says-weapons-disclosure-aims-to-normalize-military-s-use-of-orbit
-  headline: Space Force says weapons disclosure aims to normalize military's use of orbit
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5905
-- slug: 2026-09-15-us-confirms-deployment-of-weapon-in-earth-s-orbit
-  headline: US confirms deployment of weapon in Earth's orbit
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5719
-- slug: 2026-09-03-epa-proposes-ending-public-comment-mandate-for-data-center-air-permits
-  headline: EPA proposes ending public-comment mandate for data center air permits
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5757
-- slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5677
-- slug: 2026-08-17-firesat-satellites-and-ai-cameras-aim-to-catch-wildfires-early
-  headline: FireSat satellites and AI cameras aim to catch wildfires early
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5828
-- slug: 2026-07-28-faa-proposes-waiving-environmental-requirements-for-commercial-space-launches
-  headline: FAA proposes waiving environmental requirements for commercial space launches
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5822
-- slug: 2026-04-28-atacama-desert-skies-in-chile-face-light-pollution-pressure
-  headline: Atacama desert skies in Chile face light-pollution pressure
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6368
-- slug: 2026-06-16-lawmakers-fight-trump-administration-cuts-to-386m-ocean-monitoring-program
-  headline: Lawmakers fight Trump administration cuts to $386m ocean monitoring program
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6065
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5842
-- slug: 2026-06-18-nsf-reverses-decision-to-dismantle-386m-ocean-observatory-network
-  headline: NSF reverses decision to dismantle $386M ocean observatory network
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5965
-- slug: 2026-06-24-trump-faces-pressure-to-release-proof-of-reflecting-pool-sabotage
-  headline: Trump faces pressure to release proof of reflecting pool sabotage
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.588
-- slug: 2026-05-10-nonprofit-sues-to-halt-trump-administration-s-american-flag-blue-repaint-of-nati
-  headline: Nonprofit sues to halt Trump administration's 'American flag blue' repaint of National Mall Reflecting Pool
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5953
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5668
-- slug: 2026-05-10-trump-s-american-flag-blue-repaint-of-the-reflecting-pool-faces-lawsuit
-  headline: Trump’s “American flag blue” repaint of the Reflecting Pool faces lawsuit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5831
-- slug: 2026-05-30-california-air-regulators-approve-cap-and-trade-changes-drawing-fire-from-all-si
-  headline: California air regulators approve cap-and-trade changes, drawing fire from all sides
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.5727
-- slug: 2026-01-12-california-hydrogen-gas-blending-pilot-faces-pushback-from-orange-cove-residents
-  headline: California hydrogen gas-blending pilot faces pushback from Orange Cove residents
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5999
-- slug: 2026-05-19-california-races-to-protect-whales-as-deaths-spike
-  headline: California races to protect whales as deaths spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5663
-- slug: 2026-03-25-connecticut-lawmakers-consider-lifting-limits-on-plug-in-solar-panels
-  headline: Connecticut lawmakers consider lifting limits on plug-in solar panels
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.5789
-- slug: 2026-04-07-trump-orders-ufo-files-released-reigniting-debate-on-whether-aliens-exist
-  headline: Trump orders UFO files released, reigniting debate on whether aliens exist
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5759
+related_stories: []
 analyses:
-- '2026-10-26-fcc-review-tests-a-mismatch-between-satellite-approval-and-constellation-effects'
+- 2026-10-26-fcc-review-tests-a-mismatch-between-satellite-approval-and-constellation-effects
 ---
-
 ## Reflect Orbital draws criticism after California test of space-based mirrors
 
 **Subtype:** fact

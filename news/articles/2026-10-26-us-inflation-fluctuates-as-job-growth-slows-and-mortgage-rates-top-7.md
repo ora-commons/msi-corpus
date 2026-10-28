@@ -2,8 +2,16 @@
 headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
 secondary_headline: Gas prices were the Harris Poll's most common pain point
 publish_date: '2026-10-26'
-lede: US inflation fell below 3% in April 2025, rose after Trump imposed tariffs and again during the Iran war, according to The Guardian's review of economic data published Oct. 26, 2026. The review found that job growth slowed in 2025 while the 30-year mortgage rate returned above 7%. Gas prices were the Harris Poll's most common pain point as the 2026 midterms approached.
-nut_graf: The review frames a divide between daily household costs and financial-market gains as central to the 2026 midterms. Economists described a K-shaped economy and largely saw AI investment as the leading factor behind stock-market acceleration. The wealthiest 1% own nearly half of stock-market investments. Harris Poll respondents reported trouble saving, while higher interest rates made borrowing more expensive.
+lede: US inflation fell below 3% in April 2025, rose after Trump imposed tariffs and
+  again during the Iran war, according to The Guardian's review of economic data published
+  Oct. 26, 2026. The review found that job growth slowed in 2025 while the 30-year
+  mortgage rate returned above 7%. Gas prices were the Harris Poll's most common pain
+  point as the 2026 midterms approached.
+nut_graf: The review frames a divide between daily household costs and financial-market
+  gains as central to the 2026 midterms. Economists described a K-shaped economy and
+  largely saw AI investment as the leading factor behind stock-market acceleration.
+  The wealthiest 1% own nearly half of stock-market investments. Harris Poll respondents
+  reported trouble saving, while higher interest rates made borrowing more expensive.
 primary_entities:
 - Donald Trump
 - The Guardian
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,12 +65,16 @@ figures:
   series_id: MORTGAGE30US
   transformation: raw
   as_of: '2026-10-26'
-  caption: FRED's raw 30-year fixed mortgage rate stood at 7.32% on Oct. 26, 2026, providing a dated measure after The Guardian reported that mortgage rates had moved back above 7%.
+  caption: FRED's raw 30-year fixed mortgage rate stood at 7.32% on Oct. 26, 2026,
+    providing a dated measure after The Guardian reported that mortgage rates had
+    moved back above 7%.
 - source: fred
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-26'
-  caption: FRED's raw official U-3 unemployment rate stood at 4.2% on Oct. 26, 2026, providing a dated measure alongside The Guardian's description of unemployment as just over 4%.
+  caption: FRED's raw official U-3 unemployment rate stood at 4.2% on Oct. 26, 2026,
+    providing a dated measure alongside The Guardian's description of unemployment
+    as just over 4%.
 figures_aggregate:
   count: 2
   series_ids:
@@ -153,116 +166,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7.png
-  alt: 'Illustration accompanying article: US inflation fluctuates as job growth slows and mortgage rates top 7%'
+  alt: 'Illustration accompanying article: US inflation fluctuates as job growth slows
+    and mortgage rates top 7%'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
+  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7903
 - slug: 2026-10-20-us-gdp-grew-3-2-since-end-of-2024-faster-than-any-g7-peer
   headline: US GDP grew 3.2% since end of 2024, faster than any G7 peer
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8127
+  strength: 0.811
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7432
+  strength: 0.7443
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7628
+  strength: 0.7655
 - slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
   headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7609
+  strength: 0.761
 - slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
   headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7736
+  strength: 0.7734
 - slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
   headline: Polls show Democrats leading GOP on economy for first time since 2010
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7417
+  strength: 0.7429
 - slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
   headline: Fed's preferred inflation gauge rises to three-year high in May
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7723
-- slug: 2026-05-03-inflation-jumps-as-gas-soars-mortgage-and-jobs-data-show-mixed-signals
-  headline: Inflation jumps as gas soars; mortgage and jobs data show mixed signals
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.8033
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7796
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
   strength: 0.7724
-- slug: 2026-05-28-key-inflation-gauge-accelerates-to-3-8-in-april-highest-in-three-years
-  headline: Key inflation gauge accelerates to 3.8% in April, highest in three years
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.7648
-- slug: 2026-03-09-trump-s-roaring-economy-hits-rough-start-with-jobs-gas-markets
-  headline: Trump’s ‘roaring’ economy hits rough start with jobs, gas, markets
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7889
-- slug: 2026-03-14-u-s-economy-stumbled-into-2025-s-end-as-iran-war-lifted-energy-costs
-  headline: U.S. economy stumbled into 2025’s end as Iran war lifted energy costs
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7869
-- slug: 2026-05-16-u-s-inflation-hits-3-8-as-iran-war-drives-gas-prices-and-retail-sales-slow
-  headline: U.S. inflation hits 3.8% as Iran war drives gas prices and retail sales slow
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7662
-- slug: 2026-06-12-us-consumer-sentiment-improves-in-june-as-gas-prices-ease
-  headline: US consumer sentiment improves in June as gas prices ease
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7399
-- slug: 2026-05-01-tax-refunds-and-ai-boom-offset-some-u-s-pain-from-iran-war-high-gas-prices
-  headline: Tax refunds and AI boom offset some U.S. pain from Iran war, high gas prices
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.762
-- slug: 2026-05-13-iran-war-fuels-us-inflation-surge-as-consumer-prices-rise-3-8-in-april
-  headline: Iran war fuels US inflation surge as consumer prices rise 3.8% in April
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7534
-- slug: 2026-04-22-trump-s-economy-approval-slips-in-ap-norc-poll-as-iran-war-prices-rise
-  headline: Trump’s economy approval slips in AP-NORC poll as Iran-war prices rise
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7572
-- slug: 2026-04-26-march-retail-sales-rose-as-gas-prices-climbed-but-trump-economy-approval-fell
-  headline: March retail sales rose as gas prices climbed, but Trump economy approval fell
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7526
-- slug: 2026-03-31-us-consumer-confidence-edges-up-in-march-as-gas-prices-surge-with-iran-war
-  headline: US consumer confidence edges up in March as gas prices surge with Iran war
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7595
 ---
-
 ## US inflation fluctuates as job growth slows and mortgage rates top 7%
 
 **Subtype:** fact

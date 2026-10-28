@@ -2,8 +2,19 @@
 headline: Federal vaccine panel lacks members, delaying new vaccine coverage
 secondary_headline: A $40 co-pay highlights barriers to a new flu shot
 publish_date: '2026-10-26'
-lede: Robert F. Kennedy Jr. has not nominated new members of the Advisory Committee on Immunization Practices, preventing the federal panel from issuing new vaccine recommendations even as the US Food and Drug Administration approves new vaccines. Ron Kroening, 63, spent time locating the one pharmacy in his area that stocked a new Moderna mRNA flu vaccine, then paid a $40 co-pay after his insurer cited the lack of an ACIP recommendation. Experts told The Guardian that uncertainty over coverage and access could persist for years.
-nut_graf: 'The consequences extend beyond federal guidance: The Guardian reported that if ACIP does not recommend the Moderna vaccine by the end of 2026, insurers would not be required to cover it until January 2029 at the earliest. Some states will not allow pharmacists to vaccinate without an ACIP recommendation, and insurers have reported delays covering new flu shots for seniors under Medicare despite a legal mandate.'
+lede: Robert F. Kennedy Jr. has not nominated new members of the Advisory Committee
+  on Immunization Practices, preventing the federal panel from issuing new vaccine
+  recommendations even as the US Food and Drug Administration approves new vaccines.
+  Ron Kroening, 63, spent time locating the one pharmacy in his area that stocked
+  a new Moderna mRNA flu vaccine, then paid a $40 co-pay after his insurer cited the
+  lack of an ACIP recommendation. Experts told The Guardian that uncertainty over
+  coverage and access could persist for years.
+nut_graf: 'The consequences extend beyond federal guidance: The Guardian reported
+  that if ACIP does not recommend the Moderna vaccine by the end of 2026, insurers
+  would not be required to cover it until January 2029 at the earliest. Some states
+  will not allow pharmacists to vaccinate without an ACIP recommendation, and insurers
+  have reported delays covering new flu shots for seniors under Medicare despite a
+  legal mandate.'
 primary_entities:
 - Robert F. Kennedy Jr.
 - Advisory Committee on Immunization Practices
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +150,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-25-first-study-finds-mrna-flu-vaccine-about-27-more-effective-than-standard-dose
-  headline: First study finds mRNA flu vaccine about 27% more effective than standard-dose
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6436
-- slug: 2026-10-09-kennedy-announces-steps-to-identify-and-treat-vaccine-complications
-  headline: Kennedy announces steps to identify and treat vaccine complications
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6376
-- slug: 2026-09-23-trump-administration-withholds-covid-vaccines-from-vfc-program-in-at-least-11-st
-  headline: Trump administration withholds COVID vaccines from VFC program in at least 11 states
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6466
 - slug: 2026-09-02-four-medical-groups-issue-vaccine-guidance-as-federal-process-remains-frozen
-  headline: Four medical groups issue vaccine guidance as federal process remains frozen
+  headline: Four medical groups issue vaccine guidance as federal process remains
+    frozen
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.69
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6334
+  strength: 0.6879
 - slug: 2026-06-07-insurers-extend-vaccine-coverage-through-2027-amid-trump-pressure-on-childhood-s
-  headline: Insurers extend vaccine coverage through 2027 amid Trump pressure on childhood shots
+  headline: Insurers extend vaccine coverage through 2027 amid Trump pressure on childhood
+    shots
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.6792
-- slug: 2026-07-14-rfk-jr-panel-restructuring-stalls-update-on-youth-tobacco-cessation
-  headline: RFK Jr. panel restructuring stalls update on youth tobacco cessation
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6438
+  strength: 0.6774
 - slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
   headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6654
+  strength: 0.6645
 - slug: 2026-03-15-judge-blocks-us-changes-to-vaccine-recommendations-for-children
   headline: Judge blocks US changes to vaccine recommendations for children
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7017
+  strength: 0.6984
 - slug: 2026-04-11-white-house-updates-vaccine-panel-rules-to-reflect-kennedy-skepticism
   headline: White House updates vaccine panel rules to reflect Kennedy skepticism
   publish_date: '2026-04-11'
   relation: related
-  strength: 0.68
-- slug: 2026-06-10-leading-ob-gyn-group-breaks-with-cdc-over-maternal-vaccines
-  headline: Leading OB-GYN group breaks with CDC over maternal vaccines
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6487
-- slug: 2026-06-16-acog-issues-first-maternal-vaccination-schedule-diverging-from-cdc
-  headline: ACOG issues first maternal vaccination schedule, diverging from CDC
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.644
+  strength: 0.6773
 - slug: 2026-02-11-moderna-says-fda-will-not-consider-its-mrna-flu-vaccine-application
   headline: Moderna says FDA will not consider its mRNA flu vaccine application
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.6817
-- slug: 2026-06-29-pentagon-faces-vaccine-deadline-as-boot-camp-flu-outbreak-widens
-  headline: Pentagon faces vaccine deadline as boot camp flu outbreak widens
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.624
+  strength: 0.6806
 - slug: 2026-02-19-fda-will-consider-moderna-s-mrna-flu-vaccine-after-all
   headline: FDA will consider Moderna's mRNA flu vaccine after all
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6707
-- slug: 2026-06-19-critical-care-doctor-says-administration-is-withdrawing-children-s-health-protec
-  headline: Critical care doctor says administration is withdrawing children's health protections
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6248
+  strength: 0.6696
 - slug: 2026-03-18-federal-judge-halts-rfk-jr-vaccine-agenda-momentum-as-administration-vows-appeal
-  headline: Federal judge halts RFK Jr. vaccine agenda momentum as administration vows appeal
+  headline: Federal judge halts RFK Jr. vaccine agenda momentum as administration
+    vows appeal
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6599
-- slug: 2026-05-02-trump-administration-appeals-order-blocking-vaccine-recommendation-rollback
-  headline: Trump administration appeals order blocking vaccine recommendation rollback
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6367
-- slug: 2026-05-23-rfk-jr-fires-leaders-of-panel-that-sets-insurance-preventive-care-rules
-  headline: RFK Jr. fires leaders of panel that sets insurance preventive-care rules
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6214
-- slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could harm kids
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6411
+  strength: 0.658
 ---
-
 ## Federal vaccine panel lacks members, delaying new vaccine coverage
 
 **Subtype:** fact

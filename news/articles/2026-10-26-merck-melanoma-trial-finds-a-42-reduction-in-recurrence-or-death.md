@@ -1,9 +1,18 @@
 ---
 headline: Merck melanoma trial finds a 42% reduction in recurrence or death
-secondary_headline: FDA approval could come next year as kidney and bladder trials continue
+secondary_headline: FDA approval could come next year as kidney and bladder trials
+  continue
 publish_date: '2026-10-26'
-lede: Merck presented trial data showing that a personalized mRNA vaccine used with immunotherapy reduced melanoma recurrence or death by 42% over two years. The company presented the results at a European cancer conference over the weekend, and NPR reported that the trial was the first large clinical test of the cancer-vaccine concept. Merck said it plans to apply to the Food and Drug Administration for approval, and NPR reported that approval could come next year.
-nut_graf: Merck is pursuing regulatory approval for the melanoma vaccine while testing similar vaccines in kidney and bladder cancers. The company declined to estimate the melanoma vaccine's cost, and NPR said the complex process of developing a personalized vaccine was likely to make it expensive.
+lede: Merck presented trial data showing that a personalized mRNA vaccine used with
+  immunotherapy reduced melanoma recurrence or death by 42% over two years. The company
+  presented the results at a European cancer conference over the weekend, and NPR
+  reported that the trial was the first large clinical test of the cancer-vaccine
+  concept. Merck said it plans to apply to the Food and Drug Administration for approval,
+  and NPR reported that approval could come next year.
+nut_graf: Merck is pursuing regulatory approval for the melanoma vaccine while testing
+  similar vaccines in kidney and bladder cancers. The company declined to estimate
+  the melanoma vaccine's cost, and NPR said the complex process of developing a personalized
+  vaccine was likely to make it expensive.
 primary_entities:
 - Merck
 - Moderna
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,40 @@ related_stories:
   headline: Moderna's melanoma vaccine cuts recurrence risk; stock falls 19%
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8012
+  strength: 0.801
 - slug: 2026-10-22-personalized-mrna-vaccine-added-to-keytruda-cuts-two-year-melanoma-recurrence-ri
-  headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence risk by 42% in trial
+  headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence
+    risk by 42% in trial
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7913
-- slug: 2026-10-25-first-study-finds-mrna-flu-vaccine-about-27-more-effective-than-standard-dose
-  headline: First study finds mRNA flu vaccine about 27% more effective than standard-dose
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-19-merck-kgaa-s-silence-deal-adds-late-stage-rare-disease-drug-to-pipeline
-  headline: Merck KGaA's Silence deal adds late-stage rare-disease drug to pipeline
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5927
+  strength: 0.7902
 - slug: 2026-08-20-merck-and-moderna-melanoma-vaccine-extends-cancer-free-period-in-phase-3-trial
-  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase 3 trial
+  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase
+    3 trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7893
+  strength: 0.7887
 - slug: 2026-08-22-moderna-s-personalized-cancer-vaccine-clears-phase-3-melanoma-trial
   headline: Moderna's personalized cancer vaccine clears phase 3 melanoma trial
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7649
+  strength: 0.7652
 - slug: 2026-08-19-moderna-shares-more-than-double-after-melanoma-trial
   headline: Moderna shares more than double after melanoma trial
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7399
-- slug: 2026-09-23-fda-panel-weighs-approval-of-first-multi-cancer-blood-test
-  headline: FDA panel weighs approval of first multi-cancer blood test
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6112
-- slug: 2026-09-16-fda-shift-under-acting-commissioner-lifts-rare-disease-biotech-stocks
-  headline: FDA shift under acting commissioner lifts rare-disease biotech stocks
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6164
-- slug: 2026-09-17-trump-medicaid-drug-price-pilot-sees-limited-company-state-uptake
-  headline: Trump Medicaid drug-price pilot sees limited company, state uptake
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5903
-- slug: 2026-09-03-novartis-bristol-myers-pause-car-t-trials-after-deaths-brain-inflammation
-  headline: Novartis, Bristol Myers pause CAR-T trials after deaths, brain inflammation
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5939
+  strength: 0.7398
 - slug: 2026-08-06-fda-approves-replimune-s-tudriqev-for-advanced-melanoma-after-two-rejections
   headline: FDA approves Replimune's Tudriqev for advanced melanoma after two rejections
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.651
+  strength: 0.6501
 - slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
   headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
   publish_date: '2026-06-18'
   relation: related
   strength: 0.6617
-- slug: 2026-07-30-social-media-helps-tanning-resurgence-among-teens-experts-concerned
-  headline: Social media helps tanning resurgence among teens, experts concerned
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6062
-- slug: 2026-08-06-experimental-vaccines-target-inherited-colorectal-cancer-risk
-  headline: Experimental vaccines target inherited colorectal cancer risk
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5893
-- slug: 2026-07-16-fda-approves-merck-s-lipfendra-first-oral-pcsk9-inhibitor
-  headline: FDA approves Merck’s Lipfendra, first oral PCSK9 inhibitor
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.603
-- slug: 2026-02-05-merck-s-experimental-enlicitide-pill-sharply-lowered-ldl-in-study
-  headline: Merck’s experimental enlicitide pill sharply lowered LDL in study
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6493
-- slug: 2026-06-25-germanys-merck-kgaa-to-buy-us-lab-supplier-bio-techne-for-11-4-billion
-  headline: Germany's Merck KGaA to buy US lab supplier Bio-Techne for $11.4 billion
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5989
-- slug: 2026-06-23-covid-19-vaccine-study-published-in-jama-after-cdc-journal-blocked-it
-  headline: COVID-19 vaccine study published in JAMA after CDC journal blocked it
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5978
-- slug: 2026-05-31-pill-targeting-kras-mutations-nearly-doubles-survival-in-pancreatic-cancer-trial
-  headline: Pill targeting KRAS mutations nearly doubles survival in pancreatic cancer trial
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5986
 ---
-
 ## Merck melanoma trial finds a 42% reduction in recurrence or death
 
 **Subtype:** fact

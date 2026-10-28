@@ -2,8 +2,20 @@
 headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
 secondary_headline: Marina Silva is certain Indigenous territories will be preserved
 publish_date: '2026-10-26'
-lede: Luiz Inácio Lula da Silva pledged after Brazil’s presidential runoff that dictatorship and fascism would never return, as political leaders and governments across the spectrum recognized his historic fourth-term victory. Tens of thousands gathered in central São Paulo, where Lula and running mate Geraldo Alckmin addressed the crowd, and the result prompted joyous scenes in São Paulo and cities across Brazil. Mexico’s leftwing President Claudia Sheinbaum said, “Long live democracy, the people of Brazil won.”
-nut_graf: Lula’s victory drew recognition from governments across the spectrum. Former Environment Minister Marina Silva said she was certain Indigenous territories would be preserved and saw no risk of illegal miners returning to destroy these populations. The outcome also left Flávio Bolsonaro rejecting the result while facing federal police investigations over suspected misdeeds, including money laundering; some suspect he is likely to flee to the US when his Senate term ends in February and he loses parliamentary immunity. Bolsonaro maintains his innocence.
+lede: Luiz Inácio Lula da Silva pledged after Brazil’s presidential runoff that dictatorship
+  and fascism would never return, as political leaders and governments across the
+  spectrum recognized his historic fourth-term victory. Tens of thousands gathered
+  in central São Paulo, where Lula and running mate Geraldo Alckmin addressed the
+  crowd, and the result prompted joyous scenes in São Paulo and cities across Brazil.
+  Mexico’s leftwing President Claudia Sheinbaum said, “Long live democracy, the people
+  of Brazil won.”
+nut_graf: Lula’s victory drew recognition from governments across the spectrum. Former
+  Environment Minister Marina Silva said she was certain Indigenous territories would
+  be preserved and saw no risk of illegal miners returning to destroy these populations.
+  The outcome also left Flávio Bolsonaro rejecting the result while facing federal
+  police investigations over suspected misdeeds, including money laundering; some
+  suspect he is likely to flee to the US when his Senate term ends in February and
+  he loses parliamentary immunity. Bolsonaro maintains his innocence.
 primary_entities:
 - Brazil
 - Luiz Inácio Lula da Silva
@@ -57,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,107 +169,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7971
+  strength: 0.7974
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7787
+- slug: 2026-10-27-netherlands-pledges-500-million-to-brazil-backed-forest-fund-after-lula-s-runoff
+  headline: Netherlands pledges $500 million to Brazil-backed forest fund after Lula’s
+    runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7724
 - slug: 2026-10-26-brazil-s-liberal-party-emerges-largest-in-congress-after-lula-s-51-8-runoff-win
-  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff win
+  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8%
+    runoff win
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7515
+  strength: 0.7523
 - slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
   headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7373
+  strength: 0.7383
+- slug: 2026-10-27-brazil-s-currency-plunges-as-pollsters-describe-lula-s-comeback
+  headline: Brazil's currency plunges as pollsters describe Lula's comeback
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7227
 - slug: 2026-10-23-brazil-s-runoff-result-may-affect-the-pace-of-the-amazon-forest-transition
   headline: Brazil's runoff result may affect the pace of the Amazon forest transition
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6877
+  strength: 0.6881
 - slug: 2026-10-23-brazil-runoff-puts-amazon-communities-and-mining-in-focus
   headline: Brazil runoff puts Amazon communities and mining in focus
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.682
-- slug: 2026-10-26-timerman-says-us-aid-sanctions-and-tariffs-reinforced-latin-america-s-right
-  headline: Timerman says US aid, sanctions and tariffs reinforced Latin America's right
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6547
-- slug: 2026-10-25-brazil-extends-presidential-runoff-voting-by-two-hours
-  headline: Brazil extends presidential runoff voting by two hours
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6558
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7388
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7406
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7145
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7157
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7055
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7034
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6926
-- slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
-  headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6582
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6723
-- slug: 2026-09-22-lula-tells-un-general-assembly-brazil-doesn-t-fit-in-anyone-s-backyard
-  headline: Lula tells UN General Assembly Brazil 'doesn't fit in anyone's backyard'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6935
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6797
-- slug: 2026-08-17-indigenous-environmental-groups-sue-to-halt-lula-backed-amazon-oil-drilling
-  headline: Indigenous, environmental groups sue to halt Lula-backed Amazon oil drilling
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6954
-- slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
-  headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.662
+  strength: 0.6827
 ---
-
 ## Lula pledges against dictatorship as Brazil’s victory draws global recognition
 
 **Subtype:** fact

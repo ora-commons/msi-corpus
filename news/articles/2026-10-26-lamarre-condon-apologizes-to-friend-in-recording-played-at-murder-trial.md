@@ -1,9 +1,17 @@
 ---
 headline: Lamarre-Condon apologizes to friend in recording played at murder trial
-secondary_headline: Trial evidence covered alleged confession, trespass admission and claimed self-defense
+secondary_headline: Trial evidence covered alleged confession, trespass admission
+  and claimed self-defense
 publish_date: '2026-10-26'
-lede: The New South Wales Supreme Court played a covert recording on Monday of a prison meeting in which former police officer Beau Lamarre-Condon apologized to a friend for involving him in the case. Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird's Paddington home on 19 February 2024. He has pleaded not guilty to two counts of murder and one charge of aggravated break and enter.
-nut_graf: The evidence put an alleged confession, the circumstances of Lamarre-Condon's entry into the home and his claimed self-defense before the jury. The trial before Justice Natalie Adams continued with Lamarre-Condon maintaining his not-guilty plea.
+lede: The New South Wales Supreme Court played a covert recording on Monday of a prison
+  meeting in which former police officer Beau Lamarre-Condon apologized to a friend
+  for involving him in the case. Lamarre-Condon, 31, is accused of fatally shooting
+  couple Jesse Baird and Luke Davies with his police service weapon in Baird's Paddington
+  home on 19 February 2024. He has pleaded not guilty to two counts of murder and
+  one charge of aggravated break and enter.
+nut_graf: The evidence put an alleged confession, the circumstances of Lamarre-Condon's
+  entry into the home and his claimed self-defense before the jury. The trial before
+  Justice Natalie Adams continued with Lamarre-Condon maintaining his not-guilty plea.
 primary_entities:
 - Beau Lamarre-Condon
 - Jesse Baird
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +148,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-23-friend-testifies-lamarre-condon-asked-for-help-moving-bodies-at-murder-trial
-  headline: Friend testifies Lamarre-Condon asked for help moving bodies at murder trial
+  headline: Friend testifies Lamarre-Condon asked for help moving bodies at murder
+    trial
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8502
+  strength: 0.8453
 - slug: 2026-10-14-jury-views-3d-crime-scene-reconstruction-at-lamarre-condon-trial
   headline: Jury views 3D crime scene reconstruction at Lamarre-Condon trial
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.803
+  strength: 0.8033
 - slug: 2026-10-21-kennedy-testifies-lamarre-condon-played-taylor-swift-song-on-disposal-trip
-  headline: Kennedy testifies Lamarre-Condon played Taylor Swift song on disposal trip
+  headline: Kennedy testifies Lamarre-Condon played Taylor Swift song on disposal
+    trip
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7186
+  strength: 0.7172
 - slug: 2026-10-06-cctv-tracks-lamarre-condon-s-sydney-movements-after-alleged-murders
   headline: CCTV tracks Lamarre-Condon's Sydney movements after alleged murders
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.789
+  strength: 0.7856
 - slug: 2026-10-08-lamarre-condon-defense-argues-body-disposal-reflected-panic-over-unexpected-deat
-  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected deaths
+  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected
+    deaths
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7559
+  strength: 0.7535
 - slug: 2026-09-28-ex-officer-s-friend-testifies-he-described-disposal-plan-months-before-sydney-mu
-  headline: Ex-officer's friend testifies he described disposal plan months before Sydney murders
+  headline: Ex-officer's friend testifies he described disposal plan months before
+    Sydney murders
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7777
+  strength: 0.7748
 - slug: 2026-09-25-ex-officer-faked-cancer-diagnosis-before-sydney-murders-trial-hears
   headline: Ex-officer faked cancer diagnosis before Sydney murders, trial hears
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7829
-- slug: 2026-10-26-robert-john-crawford-denies-wife-s-murder-as-brisbane-trial-opens
-  headline: Robert John Crawford denies wife's murder as Brisbane trial opens
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5876
+  strength: 0.7804
 - slug: 2026-09-21-beau-lamarre-condon-murder-trial-opens-in-sydney-supreme-court
   headline: Beau Lamarre-Condon murder trial opens in Sydney Supreme Court
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.773
-- slug: 2026-10-22-body-camera-footage-shows-lauderhill-officer-at-welfare-check-in-identity-case
-  headline: Body-camera footage shows Lauderhill officer at welfare check in identity case
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5936
-- slug: 2026-09-20-ex-nsw-officer-beau-lamarre-condon-stands-trial-in-sydney-for-2024-murder
-  headline: Ex-NSW officer Beau Lamarre-Condon stands trial in Sydney for 2024 murder
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7562
-- slug: 2026-09-28-victoria-police-apologise-over-2023-custody-death-at-broadmeadows-station
-  headline: Victoria Police apologise over 2023 custody death at Broadmeadows station
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5975
-- slug: 2026-09-11-daniel-billings-sentenced-to-28-years-for-murder-of-molly-ticehurst
-  headline: Daniel Billings sentenced to 28 years for murder of Molly Ticehurst
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5952
-- slug: 2026-09-08-reddington-plans-motion-to-reconsider-clancy-mistrial-later-this-month
-  headline: Reddington plans motion to reconsider Clancy mistrial later this month
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5888
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5971
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6227
-- slug: 2026-07-29-lindsay-clancy-sobs-in-court-as-jury-hears-husband-s-911-call
-  headline: Lindsay Clancy sobs in court as jury hears husband's 911 call
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.5884
-- slug: 2026-07-20-judge-to-rule-on-pamela-smart-s-petition-for-new-trial
-  headline: Judge to rule on Pamela Smart’s petition for new trial
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6011
-- slug: 2026-07-09-accused-kirk-killer-told-roommate-he-wished-he-hadn-t-done-it-testimony-shows
-  headline: Accused Kirk killer told roommate he wished he hadn't done it, testimony shows
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5918
-- slug: 2026-04-16-jay-bryant-signals-guilty-plea-in-jam-master-jay-killing-court-records-show
-  headline: Jay Bryant signals guilty plea in Jam Master Jay killing, court records show
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6099
+  strength: 0.7717
 ---
-
 ## Lamarre-Condon apologizes to friend in recording played at murder trial
 
 **Subtype:** fact

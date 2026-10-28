@@ -1,9 +1,24 @@
 ---
 headline: Attacks and maintenance outages leave nearly 12% of global refining offline
-secondary_headline: Repair delays and minimal expected global supply gains from Russia constrain fuel recovery
+secondary_headline: Repair delays and minimal expected global supply gains from Russia
+  constrain fuel recovery
 publish_date: '2026-10-26'
-lede: Nearly 12% of the world's fuel refining capacity was offline as of Oct. 23, according to Industrial Info Resources, with drone and missile attacks in Russia, Saudi Arabia, Kuwait and the United Arab Emirates and planned refinery maintenance contributing to the losses. President Trump struck an agreement with President Vladimir Putin to lift sanctions and allow hundreds of thousands of tons of Russian diesel exports, but energy analysts said the market effect would likely be minimal because Russia's remaining refineries were already operating at full capacity. The Trump administration is also considering up to $150 million in Defense Production Act spending to expand refining capacity, though any investment could take years to produce additional fuel.
-nut_graf: The scale of the outage comes as Rystad Energy estimates a global diesel shortfall of about 2 million barrels a day. Russian exports under the agreement could move fuel from its domestic market rather than create immediate global supply, while repairs and new refining investment remain constrained by complex facilities, logistics and long construction timelines. The measures under consideration come as high fuel costs drive inflation ahead of the midterm elections.
+lede: Nearly 12% of the world's fuel refining capacity was offline as of Oct. 23,
+  according to Industrial Info Resources, with drone and missile attacks in Russia,
+  Saudi Arabia, Kuwait and the United Arab Emirates and planned refinery maintenance
+  contributing to the losses. President Trump struck an agreement with President Vladimir
+  Putin to lift sanctions and allow hundreds of thousands of tons of Russian diesel
+  exports, but energy analysts said the market effect would likely be minimal because
+  Russia's remaining refineries were already operating at full capacity. The Trump
+  administration is also considering up to $150 million in Defense Production Act
+  spending to expand refining capacity, though any investment could take years to
+  produce additional fuel.
+nut_graf: The scale of the outage comes as Rystad Energy estimates a global diesel
+  shortfall of about 2 million barrels a day. Russian exports under the agreement
+  could move fuel from its domestic market rather than create immediate global supply,
+  while repairs and new refining investment remain constrained by complex facilities,
+  logistics and long construction timelines. The measures under consideration come
+  as high fuel costs drive inflation ahead of the midterm elections.
 primary_entities:
 - Industrial Info Resources
 - Rystad Energy
@@ -45,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,101 +168,40 @@ related_stories:
   headline: Trump says US reached deal with Putin for Russian diesel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7857
+  strength: 0.7858
 - slug: 2026-10-14-refiners-eye-record-profits-as-diesel-shortage-stretches-into-2027
   headline: Refiners eye record profits as diesel shortage stretches into 2027
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7525
+  strength: 0.7523
 - slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
   headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7609
+  strength: 0.7613
 - slug: 2026-10-12-diesel-futures-erase-post-deal-drop-as-traders-dismiss-russian-volumes
   headline: Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7573
+  strength: 0.757
 - slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
   headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7436
+  strength: 0.744
 - slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
   headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7478
+  strength: 0.7481
 - slug: 2026-10-01-ukraine-persists-with-russian-refinery-strikes-despite-trump-pressure
   headline: Ukraine persists with Russian refinery strikes despite Trump pressure
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7825
-- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
-  headline: G7 to coordinate refinery maintenance as diesel supply tightens
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.777
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7627
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7423
-- slug: 2026-09-19-iran-and-ukraine-wars-squeeze-global-diesel-supply-as-refinery-exports-plunge
-  headline: Iran and Ukraine wars squeeze global diesel supply as refinery exports plunge
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7861
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7391
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.77
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7969
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7479
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7518
-- slug: 2026-09-15-russia-fires-200-drones-at-ukraine-hours-after-trump-energy-truce-claim
-  headline: Russia fires 200 drones at Ukraine hours after Trump energy truce claim
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7567
-- slug: 2026-09-15-oil-rises-on-saudi-outage-houthi-gains-diesel-eases-after-trump-claimed-ukraine-
-  headline: Oil rises on Saudi outage, Houthi gains; diesel eases after Trump-claimed Ukraine-Russia halt
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7562
-- slug: 2026-09-14-kasparov-condemns-trump-for-blaming-ukraine-over-diesel-crunch
-  headline: Kasparov condemns Trump for blaming Ukraine over diesel crunch
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7397
+  strength: 0.782
 analyses:
-- '2026-10-26-refinery-outages-constrain-fuel-recovery-as-repair-delays-and-substitution-limit'
+- 2026-10-26-refinery-outages-constrain-fuel-recovery-as-repair-delays-and-substitution-limit
 ---
-
 ## Attacks and maintenance outages leave nearly 12% of global refining offline
 
 **Subtype:** fact

@@ -1,9 +1,14 @@
 ---
 headline: Tennessee authorities hunt for Jacob Morley after prison escape
-secondary_headline: Surveillance footage showed Morley breaching the perimeter fence in uniform
+secondary_headline: Surveillance footage showed Morley breaching the perimeter fence
+  in uniform
 publish_date: '2026-10-26'
-lede: The Tennessee Department of Correction announced Monday that Jacob Morley, 28, had escaped the Northwest Correctional Complex in Tiptonville on Sunday evening. Tennessee officials mounted a manhunt after the escape from the state prison.
-nut_graf: Morley was serving life imprisonment for the 2022 murder of Cody Birchfield. The Tennessee Department of Correction asked anyone with information about Morley’s whereabouts to report it and warned people not to attempt an apprehension.
+lede: The Tennessee Department of Correction announced Monday that Jacob Morley, 28,
+  had escaped the Northwest Correctional Complex in Tiptonville on Sunday evening.
+  Tennessee officials mounted a manhunt after the escape from the state prison.
+nut_graf: Morley was serving life imprisonment for the 2022 murder of Cody Birchfield.
+  The Tennessee Department of Correction asked anyone with information about Morley’s
+  whereabouts to report it and warned people not to attempt an apprehension.
 primary_entities:
 - Jacob Morley
 - Tennessee Department of Correction
@@ -40,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +144,19 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-05-former-christa-pike-lawyer-says-tennessee-was-warned-execution-would-be-cruel
-  headline: Former Christa Pike lawyer says Tennessee was warned execution would be 'cruel'
-  publish_date: '2026-10-05'
+- slug: 2026-10-26-tennessee-department-of-correction-offers-up-to-2-500-reward-for-jacob-morley
+  headline: Tennessee Department of Correction offers up to $2,500 reward for Jacob
+    Morley
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5796
-- slug: 2026-10-03-tennessee-prison-chief-resigns-after-christa-pike-s-failed-execution
-  headline: Tennessee prison chief resigns after Christa Pike's failed execution
-  publish_date: '2026-10-03'
+  strength: 0.8915
+- slug: 2026-10-26-tbi-asks-residents-to-check-cameras-for-jacob-allen-morley-and-stolen-pickup
+  headline: TBI asks residents to check cameras for Jacob Allen Morley and stolen
+    pickup
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5737
-- slug: 2026-10-03-tennessee-corrections-commissioner-strada-resigns-after-failed-pike-execution
-  headline: Tennessee corrections commissioner Strada resigns after failed Pike execution
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5703
-- slug: 2026-09-30-fadp-calls-florida-execution-pace-unprecedented-after-beasley-execution
-  headline: FADP calls Florida execution pace 'unprecedented' after Beasley execution
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.567
-- slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5622
-- slug: 2026-09-29-florida-executes-77-year-old-beasley-as-state-s-death-chamber-hits-16-in-2026
-  headline: Florida executes 77-year-old Beasley as state's death chamber hits 16 in 2026
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5681
-- slug: 2026-09-25-tennessee-plans-360m-for-new-youth-prisons-as-arrests-fall
-  headline: Tennessee plans $360M for new youth prisons as arrests fall
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5674
-- slug: 2026-09-12-jackson-police-say-more-arrests-expected-in-tasia-fortune-homicide
-  headline: Jackson police say more arrests expected in Tasia Fortune homicide
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5654
-- slug: 2026-07-10-sheriff-places-officer-on-leave-after-mississippi-jail-inmate-death
-  headline: Sheriff places officer on leave after Mississippi jail inmate death
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5945
-- slug: 2026-07-14-grand-jury-indicts-50-in-tennessee-prison-murders-and-assaults
-  headline: Grand jury indicts 50 in Tennessee prison murders and assaults
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5723
-- slug: 2026-07-13-family-demands-answers-after-memphis-task-force-agent-kills-man-in-crisis
-  headline: Family demands answers after Memphis task force agent kills man in crisis
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5698
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5636
-- slug: 2026-05-22-tennessee-inmate-s-lawyers-fear-expired-lethal-injection-drugs-ahead-of-executio
-  headline: Tennessee inmate’s lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5902
-- slug: 2026-05-20-tennessee-inmate-lawyers-fear-expired-lethal-injection-drugs-ahead-of-execution
-  headline: Tennessee inmate lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.59
-- slug: 2026-05-20-tennessee-death-row-inmate-s-lawyers-fear-expired-lethal-injection-drugs-ahead-o
-  headline: Tennessee death row inmate’s lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5863
-- slug: 2026-05-21-tennessee-death-row-inmate-s-lawyers-worry-state-may-use-expired-drugs
-  headline: Tennessee death row inmate’s lawyers worry state may use expired drugs
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5834
-- slug: 2026-05-16-chud-the-builder-held-on-1-25m-bond-for-courthouse-shooting
-  headline: ‘Chud the Builder’ held on $1.25M bond for courthouse shooting
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5804
-- slug: 2026-05-08-judge-releases-note-tartaglione-said-he-found-after-epstein-s-jail-attempt
-  headline: Judge releases note Tartaglione said he found after Epstein’s jail attempt
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5742
-- slug: 2026-05-22-tennessee-halts-execution-after-failed-iv-insertion-reprieve-granted
-  headline: Tennessee Halts Execution After Failed IV Insertion; Reprieve Granted
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5674
-- slug: 2026-05-08-who-is-nicholas-tartaglione-jeffrey-epstein-s-former-cellmate
-  headline: Who is Nicholas Tartaglione, Jeffrey Epstein’s former cellmate?
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5705
+  strength: 0.8272
 ---
-
 ## Tennessee authorities hunt for Jacob Morley after prison escape
 
 **Subtype:** fact

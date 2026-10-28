@@ -2,8 +2,18 @@
 headline: Election Day brings federal, partisan and nonprofit election monitors
 secondary_headline: Justice Department plans about 1,000 observers across every state
 publish_date: '2026-10-26'
-lede: Democratic and nonprofit organizations are preparing tens of thousands of poll observers for Election Day, while the Justice Department plans about 1,000 federal staff to monitor voting in every state. The Republican National Committee has enlisted nearly 22,000 poll workers, and Republican-aligned groups are adding their own observers. The preparations come as Democrats raise concerns about federal interference, even though administration and military officials say they have no plans to deploy immigration agents or troops to polling sites.
-nut_graf: Administration and military officials said they have no plans to send immigration agents or troops to polling sites, while local officials and voting-rights groups are preparing for federal monitors. Democratic concerns about intimidation and ballot handling sit alongside Justice Department assurances that observers will remain unarmed and avoid interfering with voting.
+lede: Democratic and nonprofit organizations are preparing tens of thousands of poll
+  observers for Election Day, while the Justice Department plans about 1,000 federal
+  staff to monitor voting in every state. The Republican National Committee has enlisted
+  nearly 22,000 poll workers, and Republican-aligned groups are adding their own observers.
+  The preparations come as Democrats raise concerns about federal interference, even
+  though administration and military officials say they have no plans to deploy immigration
+  agents or troops to polling sites.
+nut_graf: Administration and military officials said they have no plans to send immigration
+  agents or troops to polling sites, while local officials and voting-rights groups
+  are preparing for federal monitors. Democratic concerns about intimidation and ballot
+  handling sit alongside Justice Department assurances that observers will remain
+  unarmed and avoid interfering with voting.
 primary_entities:
 - Donald Trump
 - U.S. Department of Justice
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,99 +166,39 @@ related_stories:
   headline: Democratic attorneys general expand midterm election security planning
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7702
+  strength: 0.7705
 - slug: 2026-10-14-civil-rights-groups-train-thousands-of-poll-observers-for-midterms
   headline: Civil rights groups train thousands of poll observers for midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7899
+  strength: 0.7897
 - slug: 2026-10-07-naacp-sues-trump-doj-over-election-monitor-plans
   headline: NAACP sues Trump DOJ over election monitor plans
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7253
+  strength: 0.7256
 - slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
   headline: Democrats, retired military lawyers press Trump on National Guard at polls
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7629
+  strength: 0.7637
 - slug: 2026-09-14-democrats-launch-nationwide-poll-monitoring-effort-for-november-midterms
   headline: Democrats launch nationwide poll-monitoring effort for November midterms
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7869
+  strength: 0.7885
 - slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
   headline: Supreme Court allows federal database to check voter citizenship
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7286
+  strength: 0.7292
 - slug: 2026-09-18-civil-rights-groups-and-unions-sue-to-block-federal-agents-from-polling-places
-  headline: Civil rights groups and unions sue to block federal agents from polling places
+  headline: Civil rights groups and unions sue to block federal agents from polling
+    places
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.756
-- slug: 2026-09-18-naacp-sues-trump-administration-over-federal-agents-at-polls
-  headline: NAACP sues Trump administration over federal agents at polls
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7178
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7032
-- slug: 2026-08-21-justice-department-targets-1-000-poll-monitors-for-november-midterms
-  headline: Justice Department targets 1,000 poll monitors for November midterms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7712
-- slug: 2026-08-18-justice-department-plans-about-1-000-poll-monitors-for-fall-elections
-  headline: Justice Department plans about 1,000 poll monitors for fall elections
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7644
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7084
-- slug: 2026-09-01-dhs-secretary-mullin-says-ice-could-deploy-to-polling-sites-on-warrants
-  headline: DHS Secretary Mullin says ICE could deploy to polling sites on warrants
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6955
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7093
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6969
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.733
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6992
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6989
-- slug: 2025-12-30-democrats-renew-concerns-trump-will-interfere-with-2026-midterms
-  headline: Democrats renew concerns Trump will interfere with 2026 midterms
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7431
+  strength: 0.7559
 ---
-
 ## Election Day brings federal, partisan and nonprofit election monitors
 
 **Subtype:** fact

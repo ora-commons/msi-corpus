@@ -2,8 +2,24 @@
 headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
 secondary_headline: Bishara Bahbah rebukes Trump as El-Sayed rejects extremist ties
 publish_date: '2026-10-26'
-lede: Donald Trump called Michigan Senate candidate Abdul El-Sayed a “jihadist” who was “on the side of the terrorists” at a rally for Republican candidate Mike Rogers on Sunday, questioned the former Detroit health official’s loyalty to the United States and said he would “have to go through a metal detector before he’s allowed to go into the Senate.” Trump repeatedly invoked 9/11 during the rally, comparing the effort to keep El-Sayed from entering the Senate chamber with the passengers who fought back against the hijackers aboard United Flight 93, according to AP. El-Sayed, who would become the nation’s first Muslim senator if elected, called attacks on his loyalty “shameful” and repeatedly denied ties to extremist groups. Bishara Bahbah, a founder of Arab Americans for Trump whom The Guardian described as a former top Arab American ally of the president, said Trump’s statements were “out of line” and “racist.”
-nut_graf: The exchange came in a Senate contest in which El-Sayed could become the nation’s first Muslim senator, and it drew denials of extremist ties from El-Sayed and a rebuke from the founder of the group that helped lead Trump’s outreach to Arab American voters in 2024. Trump invoked 9/11 during the rally and said El-Sayed would have to pass through a metal detector before entering the Senate, while El-Sayed said attacks on his loyalty were “shameful.”
+lede: Donald Trump called Michigan Senate candidate Abdul El-Sayed a “jihadist” who
+  was “on the side of the terrorists” at a rally for Republican candidate Mike Rogers
+  on Sunday, questioned the former Detroit health official’s loyalty to the United
+  States and said he would “have to go through a metal detector before he’s allowed
+  to go into the Senate.” Trump repeatedly invoked 9/11 during the rally, comparing
+  the effort to keep El-Sayed from entering the Senate chamber with the passengers
+  who fought back against the hijackers aboard United Flight 93, according to AP.
+  El-Sayed, who would become the nation’s first Muslim senator if elected, called
+  attacks on his loyalty “shameful” and repeatedly denied ties to extremist groups.
+  Bishara Bahbah, a founder of Arab Americans for Trump whom The Guardian described
+  as a former top Arab American ally of the president, said Trump’s statements were
+  “out of line” and “racist.”
+nut_graf: The exchange came in a Senate contest in which El-Sayed could become the
+  nation’s first Muslim senator, and it drew denials of extremist ties from El-Sayed
+  and a rebuke from the founder of the group that helped lead Trump’s outreach to
+  Arab American voters in 2024. Trump invoked 9/11 during the rally and said El-Sayed
+  would have to pass through a metal detector before entering the Senate, while El-Sayed
+  said attacks on his loyalty were “shameful.”
 primary_entities:
 - Donald Trump
 - Abdul El-Sayed
@@ -55,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,22 +174,27 @@ related_stories:
   headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.9075
+  strength: 0.9061
+- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
+  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8759
 - slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
   headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7832
+  strength: 0.7824
 - slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
   headline: Obama rallies for El-Sayed in Michigan Senate race
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7576
+  strength: 0.7568
 - slug: 2026-10-25-minaj-urges-michigan-republicans-to-vote-at-trump-rally
   headline: Minaj urges Michigan Republicans to vote at Trump rally
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7414
+  strength: 0.7407
 - slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
   headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
   publish_date: '2026-10-22'
@@ -182,81 +204,15 @@ related_stories:
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7449
+  strength: 0.7448
 - slug: 2026-10-19-records-identify-el-sayed-heckler-as-former-hawley-office-director
   headline: Records identify El-Sayed heckler as former Hawley office director
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.75
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7395
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7963
-- slug: 2026-10-21-rutgers-finds-recurring-anti-muslim-playbook-against-muslim-candidates
-  headline: Rutgers finds recurring anti-Muslim playbook against Muslim candidates
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7143
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.716
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7248
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.686
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7125
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7114
-- slug: 2026-09-13-researchers-anti-muslim-rhetoric-hits-post-9-11-peak-as-muslim-candidates-win
-  headline: 'Researchers: anti-Muslim rhetoric hits post-9/11 peak as Muslim candidates win'
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7326
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7275
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7098
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7088
-- slug: 2026-08-29-mike-rogers-fundraising-email-says-he-saw-bin-laden-s-body-with-own-eyes
-  headline: Mike Rogers' fundraising email says he saw Bin Laden's body with 'own eyes'
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7041
+  strength: 0.7492
 analyses:
-- '2026-10-26-trump-turns-el-sayed-s-disputed-allegiance-into-a-senate-security-test'
+- 2026-10-26-trump-turns-el-sayed-s-disputed-allegiance-into-a-senate-security-test
 ---
-
 ## Trump labels El-Sayed a “jihadist” during Michigan Senate rally
 
 **Subtype:** fact

@@ -2,8 +2,20 @@
 headline: Flood warning remains in Four Corners as San Juan River nears crest
 secondary_headline: Officials warn floodwaters could carry chemicals and raw sewage
 publish_date: '2026-10-26'
-lede: The National Weather Service expected the San Juan River to crest at 31 feet (9.4 meters) Monday before falling below flood stage by Tuesday morning. The Santa Fe County sheriff's office reported one flooding-related death Saturday after a female passenger was swept away during a water rescue. By Monday morning, the river stood 1 1/2 feet (45.7 centimeters) above its 23-foot (7 meters) flood stage in parts of the Southwest's Four Corners region, where a flood warning remained in place. Officials warned returning residents that floodwaters could contain chemicals and raw sewage and that gas and propane lines could be broken.
-nut_graf: In the Farmington area of New Mexico, local officials said swollen rivers were receding, many people remained evacuated and hundreds were without power. Officials warned of possible contamination with chemicals and raw sewage, broken gas and propane lines and other hazards. The projected San Juan River crest was below the 32-foot crest recorded Sept. 10, 1927, but the weather service said elevated levels and possible sewage contamination posed health risks.
+lede: The National Weather Service expected the San Juan River to crest at 31 feet
+  (9.4 meters) Monday before falling below flood stage by Tuesday morning. The Santa
+  Fe County sheriff's office reported one flooding-related death Saturday after a
+  female passenger was swept away during a water rescue. By Monday morning, the river
+  stood 1 1/2 feet (45.7 centimeters) above its 23-foot (7 meters) flood stage in
+  parts of the Southwest's Four Corners region, where a flood warning remained in
+  place. Officials warned returning residents that floodwaters could contain chemicals
+  and raw sewage and that gas and propane lines could be broken.
+nut_graf: In the Farmington area of New Mexico, local officials said swollen rivers
+  were receding, many people remained evacuated and hundreds were without power. Officials
+  warned of possible contamination with chemicals and raw sewage, broken gas and propane
+  lines and other hazards. The projected San Juan River crest was below the 32-foot
+  crest recorded Sept. 10, 1927, but the weather service said elevated levels and
+  possible sewage contamination posed health risks.
 primary_entities:
 - San Juan River
 - Four Corners
@@ -61,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,116 +173,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest.png
-  alt: 'Illustration accompanying article: Flood warning remains in Four Corners as San Juan River nears crest'
+  alt: 'Illustration accompanying article: Flood warning remains in Four Corners as
+    San Juan River nears crest'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
   headline: Four Corners region braces for more storms amid flood cleanup
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8199
+  strength: 0.8191
 - slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
   headline: New Mexico crews search evacuated neighborhoods for flood hazards
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8006
+  strength: 0.8
 - slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
+  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten
+    surges
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8039
+  strength: 0.8037
 - slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
   headline: Flooding in Four Corners prompts rooftop rescues and evacuations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.749
+  strength: 0.7486
 - slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
+  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding
+    risk
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7031
+  strength: 0.7028
 - slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
   headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6995
-- slug: 2026-10-15-santa-ana-winds-raise-california-wildfire-risk-through-saturday
-  headline: Santa Ana winds raise California wildfire risk through Saturday
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6293
-- slug: 2026-09-06-hurricane-marie-generates-life-threatening-surf-at-southern-california-beaches
-  headline: Hurricane Marie generates life-threatening surf at southern California beaches
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6249
-- slug: 2026-08-29-federal-and-state-agencies-issue-water-safety-reminders-as-drownings-continue
-  headline: Federal and state agencies issue water-safety reminders as drownings continue
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6455
-- slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
-  headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6257
+  strength: 0.6996
 - slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
   headline: Heavy rains drench South Texas, flood rescues top two dozen
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7067
+  strength: 0.7069
 - slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
   headline: South Texas flooding prompts dozens of rescues, disaster declaration
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.667
-- slug: 2026-07-24-abbott-confirms-third-texas-flood-death-warns-of-dangers-downstream
-  headline: Abbott confirms third Texas flood death, warns of dangers downstream
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6297
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6858
-- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
-  headline: King tides kill two along California coast, advisories issued
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.666
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6392
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6778
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6455
-- slug: 2026-06-12-body-of-5-year-old-girl-swept-out-to-sea-near-laguna-beach-found
-  headline: Body of 5-year-old girl swept out to sea near Laguna Beach found
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.631
-- slug: 2026-04-16-health-effects-tied-to-toxic-hydrogen-sulfide-from-tijuana-river-sewage
-  headline: Health effects tied to toxic hydrogen sulfide from Tijuana River sewage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6481
+  strength: 0.6668
 ---
-
 ## Flood warning remains in Four Corners as San Juan River nears crest
 
 **Subtype:** fact

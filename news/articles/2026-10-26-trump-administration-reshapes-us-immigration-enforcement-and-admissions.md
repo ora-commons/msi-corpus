@@ -2,8 +2,20 @@
 headline: Trump administration reshapes US immigration enforcement and admissions
 secondary_headline: ICE removals accelerate as refugee admissions fall sharply
 publish_date: '2026-10-26'
-lede: Donald Trump's second administration has sharply reduced border encounters, expanded immigration arrests and removals, restricted refugee and visa pathways, and opened a $1 million visa program, according to a BBC News review published October 26, 2026. The changes have placed immigration at the center of the 2026 midterm campaign even as some voters who favored tougher restrictions question the administration's tactics.
-nut_graf: The BBC review said the administration's border and interior enforcement measures had delivered on two of Trump's signature campaign promises, but legal challenges, business concerns and political discomfort accompanied the shift. Trump cited the wall as a successful policy, and Homeland Security Secretary Markwayne Mullin said border data proved the administration's border promise had been delivered. A New York Times and Siena poll found 50% of voters trusted Democrats to handle immigration, compared with 46% for Republicans, while a Politico and Public First poll found 31% of non-MAGA Republicans believed the campaign had become too aggressive.
+lede: Donald Trump's second administration has sharply reduced border encounters,
+  expanded immigration arrests and removals, restricted refugee and visa pathways,
+  and opened a $1 million visa program, according to a BBC News review published October
+  26, 2026. The changes have placed immigration at the center of the 2026 midterm
+  campaign even as some voters who favored tougher restrictions question the administration's
+  tactics.
+nut_graf: The BBC review said the administration's border and interior enforcement
+  measures had delivered on two of Trump's signature campaign promises, but legal
+  challenges, business concerns and political discomfort accompanied the shift. Trump
+  cited the wall as a successful policy, and Homeland Security Secretary Markwayne
+  Mullin said border data proved the administration's border promise had been delivered.
+  A New York Times and Siena poll found 50% of voters trusted Democrats to handle
+  immigration, compared with 46% for Republicans, while a Politico and Public First
+  poll found 31% of non-MAGA Republicans believed the campaign had become too aggressive.
 primary_entities:
 - Donald Trump
 - Joe Biden
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +157,44 @@ related_stories:
   headline: Trump administration deportations rise but miss 1 million annual target
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7903
+  strength: 0.7908
 - slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
   headline: Immigration enforcement reshapes midterm races as voter disapproval grows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7809
+  strength: 0.7801
 - slug: 2026-10-01-researchers-dispute-trump-claim-linking-deportations-to-us-homicide-decline
   headline: Researchers dispute Trump claim linking deportations to US homicide decline
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7485
+  strength: 0.7499
 - slug: 2026-09-01-trump-administration-escalates-immigration-enforcement-against-truck-drivers
   headline: Trump administration escalates immigration enforcement against truck drivers
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7233
+  strength: 0.7232
 - slug: 2026-08-25-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-trump-took-office
-  headline: ICE arrests hit 49,571 in July, highest monthly tally since Trump took office
+  headline: ICE arrests hit 49,571 in July, highest monthly tally since Trump took
+    office
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7393
+  strength: 0.7419
 - slug: 2026-08-26-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-october-2022
   headline: ICE arrests hit 49,571 in July, highest monthly tally since October 2022
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.719
+  strength: 0.7214
 - slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
   headline: Trump highlights border drop in State of the Union amid enforcement fallout
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.8283
+  strength: 0.8291
 - slug: 2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll
   headline: Trump's immigration approval falls to 39% in AP-NORC poll
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.7288
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7827
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.758
-- slug: 2026-07-21-ice-arrested-43-138-in-june-highest-monthly-total-since-trump-took-office
-  headline: ICE arrested 43,138 in June, highest monthly total since Trump took office
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7336
-- slug: 2026-06-30-npr-details-five-trump-immigration-strategies-across-enforcement-courts-and-dete
-  headline: NPR details five Trump immigration strategies across enforcement, courts, and detention
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7572
-- slug: 2026-01-22-one-year-in-trump-has-pursued-broad-policy-agenda-with-mixed-results
-  headline: One Year In, Trump Has Pursued Broad Policy Agenda With Mixed Results
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7994
-- slug: 2026-06-14-cuban-deportations-under-trump-more-than-double-first-term-tally
-  headline: Cuban deportations under Trump more than double first-term tally
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7511
-- slug: 2026-06-25-supreme-court-hands-trump-double-victory-on-immigration-enforcement
-  headline: Supreme Court hands Trump double victory on immigration enforcement
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.736
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7134
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.7654
-- slug: 2026-03-14-trump-administration-stops-releasing-key-immigration-data-researchers-say
-  headline: Trump administration stops releasing key immigration data, researchers say
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7571
-- slug: 2026-06-15-half-of-aapi-adults-report-upheaval-from-trump-immigration-policies-poll-finds
-  headline: Half of AAPI adults report upheaval from Trump immigration policies, poll finds
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.717
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7533
+  strength: 0.7272
 ---
-
 ## Trump administration reshapes US immigration enforcement and admissions
 
 **Subtype:** fact

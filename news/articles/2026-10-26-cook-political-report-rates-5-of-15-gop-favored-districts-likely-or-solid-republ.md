@@ -1,9 +1,21 @@
 ---
-headline: Cook Political Report rates 5 of 15 GOP-favored districts likely or solid Republican
+headline: Cook Political Report rates 5 of 15 GOP-favored districts likely or solid
+  Republican
 secondary_headline: Lula wins Brazil runoff as France and Serbia protests expand
 publish_date: '2026-10-26'
-lede: NPR's Up First newsletter reported that only five of 15 congressional districts drawn specifically to favor Republicans were rated likely or solid Republican by the Cook Political Report. NPR also reported that leftist Luiz Inácio Lula da Silva defeated Flávio Bolsonaro, the son of former far-right President Jair Bolsonaro, by more than 4 million votes to win a fourth term in Brazil's presidential runoff. The newsletter also covered more than 400,000 people protesting across France, a student-led victory over Aleksandar Vucic's party in Serbia, maternity-cost guidance and AI hurricane forecasting.
-nut_graf: The newsletter's political coverage examines Republican redistricting, weakened support among young and Latino voters, a Brazilian runoff that NPR said appeared to brake a right-wing sweep in Latin America, and youth-led movements over schools, housing costs, corruption and accountability. Health and science items cover maternity expenses, U.S. measles and fertility figures, and AI hurricane forecasting.
+lede: NPR's Up First newsletter reported that only five of 15 congressional districts
+  drawn specifically to favor Republicans were rated likely or solid Republican by
+  the Cook Political Report. NPR also reported that leftist Luiz Inácio Lula da Silva
+  defeated Flávio Bolsonaro, the son of former far-right President Jair Bolsonaro,
+  by more than 4 million votes to win a fourth term in Brazil's presidential runoff.
+  The newsletter also covered more than 400,000 people protesting across France, a
+  student-led victory over Aleksandar Vucic's party in Serbia, maternity-cost guidance
+  and AI hurricane forecasting.
+nut_graf: The newsletter's political coverage examines Republican redistricting, weakened
+  support among young and Latino voters, a Brazilian runoff that NPR said appeared
+  to brake a right-wing sweep in Latin America, and youth-led movements over schools,
+  housing costs, corruption and accountability. Health and science items cover maternity
+  expenses, U.S. measles and fertility figures, and AI hurricane forecasting.
 primary_entities:
 - NPR
 - Cook Political Report
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,109 +164,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7272
 - slug: 2026-10-26-brazil-s-liberal-party-emerges-largest-in-congress-after-lula-s-51-8-runoff-win
-  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff win
+  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8%
+    runoff win
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6965
+  strength: 0.6966
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.686
+- slug: 2026-10-26-consultant-says-republican-gerrymandering-may-backfire
+  headline: Consultant says Republican gerrymandering may backfire
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6644
 - slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
   headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6748
+  strength: 0.6757
+- slug: 2026-10-27-brazil-s-currency-plunges-as-pollsters-describe-lula-s-comeback
+  headline: Brazil's currency plunges as pollsters describe Lula's comeback
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6613
 - slug: 2026-10-26-redrawn-house-races-put-republican-redistricting-advantage-to-the-test
   headline: Redrawn House races put Republican redistricting advantage to the test
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6579
-- slug: 2026-10-26-santander-shares-fall-after-lula-defeats-fl-vio-bolsonaro-in-brazil
-  headline: Santander shares fall after Lula defeats Flávio Bolsonaro in Brazil
+  strength: 0.6576
+- slug: 2026-10-26-timerman-says-us-aid-sanctions-and-tariffs-reinforced-latin-america-s-right
+  headline: Timerman says US aid, sanctions and tariffs reinforced Latin America's
+    right
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.647
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6516
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6623
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7134
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6283
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.711
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6953
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6855
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.689
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6346
-- slug: 2026-10-05-three-bolsonaro-family-members-win-congressional-seats-as-bolsonarista-candidate
-  headline: Three Bolsonaro family members win congressional seats as Bolsonarista candidates expand Brazil's legislature
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6742
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6587
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.672
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6276
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6553
-- slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
-  headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6263
+  strength: 0.6565
 analyses:
-- '2026-10-26-cook-ratings-leave-most-republican-favored-districts-competitive'
+- 2026-10-26-cook-ratings-leave-most-republican-favored-districts-competitive
 ---
-
 ## Cook Political Report rates 5 of 15 GOP-favored districts likely or solid Republican
 
 **Subtype:** fact

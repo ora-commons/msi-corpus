@@ -1,9 +1,21 @@
 ---
 headline: Pennsylvania Senate stalls child sexual assault lookback bill
-secondary_headline: A two-year filing window would cover molestation claims from years ago
+secondary_headline: A two-year filing window would cover molestation claims from years
+  ago
 publish_date: '2026-10-26'
-lede: Pennsylvania's Republican-led Senate did not take up a constitutional amendment that would open a two-year window for child sexual assault survivors to sue over older abuse claims. The measure is set to expire at the end of the legislative session on 30 November after Republican senators attempted to tie it to a separate expansion of voter identification requirements. Democrats accused the Republican Senate majority of playing politics with the bipartisan constitutional move, while Republican leaders claimed victims were being harmed by Democratic inaction on the voter identification measure.
-nut_graf: The stalled proposal would temporarily waive filing deadlines for molestation claims from years ago, allowing survivors to sue alleged attackers after ordinary legal options had expired. Pennsylvania requires constitutional amendments to pass two consecutive legislative sessions with identical language, and the Senate did not take up this year's measure.
+lede: Pennsylvania's Republican-led Senate did not take up a constitutional amendment
+  that would open a two-year window for child sexual assault survivors to sue over
+  older abuse claims. The measure is set to expire at the end of the legislative session
+  on 30 November after Republican senators attempted to tie it to a separate expansion
+  of voter identification requirements. Democrats accused the Republican Senate majority
+  of playing politics with the bipartisan constitutional move, while Republican leaders
+  claimed victims were being harmed by Democratic inaction on the voter identification
+  measure.
+nut_graf: The stalled proposal would temporarily waive filing deadlines for molestation
+  claims from years ago, allowing survivors to sue alleged attackers after ordinary
+  legal options had expired. Pennsylvania requires constitutional amendments to pass
+  two consecutive legislative sessions with identical language, and the Senate did
+  not take up this year's measure.
 primary_entities:
 - Pennsylvania
 - Josh Shapiro
@@ -40,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +151,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-pennsylvania-lawmakers-send-sunshine-act-meeting-notice-fix-to-governor-s-desk
-  headline: Pennsylvania lawmakers send Sunshine Act meeting-notice fix to governor's desk
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6426
-- slug: 2026-10-23-jackson-says-lower-court-sought-to-correct-misleading-new-hampshire-guidance
-  headline: Jackson says lower court sought to correct misleading New Hampshire guidance
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6196
-- slug: 2026-10-22-supreme-court-bars-student-ids-as-backup-identification-in-new-hampshire
-  headline: Supreme Court bars student IDs as backup identification in New Hampshire
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6205
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6174
-- slug: 2026-07-15-pennsylvania-lawmakers-recess-without-fixing-unconstitutional-murder-sentences
-  headline: Pennsylvania lawmakers recess without fixing unconstitutional murder sentences
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6401
-- slug: 2026-07-28-pennsylvania-lawmakers-miss-court-deadline-for-unconstitutional-sentencing-fix
-  headline: Pennsylvania lawmakers miss court deadline for unconstitutional sentencing fix
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6209
-- slug: 2026-07-07-platner-faces-mounting-calls-to-withdraw-from-maine-senate-race-after-assault-al
-  headline: Platner faces mounting calls to withdraw from Maine Senate race after assault allegation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6211
-- slug: 2026-06-04-save-act-fails-in-senate-as-gop-election-overhaul-stalls
-  headline: SAVE Act fails in Senate as GOP election overhaul stalls
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6463
 - slug: 2026-03-22-senate-blocks-transgender-athletes-amendment-during-voting-bill-debate
   headline: Senate blocks transgender athletes amendment during voting bill debate
   publish_date: '2026-03-22'
   relation: related
-  strength: 0.6636
+  strength: 0.6629
 - slug: 2026-03-18-republicans-launch-save-voting-bill-debate-on-senate-floor
   headline: Republicans launch SAVE voting bill debate on Senate floor
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6557
-- slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6211
+  strength: 0.655
 - slug: 2026-02-27-save-act-stalls-in-senate-despite-trump-demands
   headline: SAVE Act stalls in Senate despite Trump demands
   publish_date: '2026-02-27'
   relation: related
-  strength: 0.65
-- slug: 2026-03-13-republicans-plan-talkathon-on-voting-bill-as-they-face-trump-pressure
-  headline: Republicans plan talkathon on voting bill as they face Trump pressure
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6474
-- slug: 2026-04-23-california-lawmakers-seek-to-raise-elderly-parole-age-for-sex-offenders
-  headline: California lawmakers seek to raise elderly parole age for sex offenders
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6352
-- slug: 2026-03-07-states-advance-proof-of-citizenship-voting-laws-as-senate-filibuster-stalls-fede
-  headline: States advance proof-of-citizenship voting laws as Senate filibuster stalls federal bill
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6443
-- slug: 2026-03-18-republicans-press-senate-on-save-citizenship-proof-for-new-voters
-  headline: Republicans press Senate on SAVE citizenship proof for new voters
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6411
-- slug: 2026-03-21-democrats-call-save-voter-id-bill-too-strict-as-senate-debates
-  headline: Democrats call SAVE voter-ID bill too strict as Senate debates
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6403
-- slug: 2026-04-04-tennessee-eases-child-support-rule-for-voting-rights-after-felony
-  headline: Tennessee eases child support rule for voting rights after felony
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6341
-- slug: 2026-03-09-thune-says-senate-will-consider-save-bill-but-votes-aren-t-there
-  headline: Thune says Senate will consider SAVE bill, but votes aren’t there
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6351
-- slug: 2026-04-22-california-lawmakers-rush-to-change-elderly-parole-rules-for-sex-offenders
-  headline: California lawmakers rush to change elderly parole rules for sex offenders
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6235
+  strength: 0.6502
 ---
-
 ## Pennsylvania Senate stalls child sexual assault lookback bill
 
 **Subtype:** fact

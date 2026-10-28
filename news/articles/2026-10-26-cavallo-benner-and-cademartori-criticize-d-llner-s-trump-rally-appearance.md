@@ -1,9 +1,18 @@
 ---
 headline: Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
-secondary_headline: Benner says Macon investment must go before Volkswagen's supervisory board
+secondary_headline: Benner says Macon investment must go before Volkswagen's supervisory
+  board
 publish_date: '2026-10-26'
-lede: Gernot Döllner, the chief executive of Audi, joined Donald Trump on stage at a rally in Perry, Georgia, on Saturday to announce $4bn for a first US factory, days before the US midterm elections. Daniela Cavallo, head of Volkswagen's elected works council, criticized Trump's speech and Döllner's participation. Christiane Benner, head of IG Metall, accused Döllner of being in “flagrant breach” of a code requiring political neutrality in the run-up to elections. Isabel Cademartori, transport spokesperson for the Social Democrats, called Döllner's actions a disgrace.
-nut_graf: The dispute places Audi's $4bn US expansion inside Germany's arguments over political neutrality and industrial employment, while Volkswagen pursues job cuts in Germany and US car-import tariffs weigh on Audi's existing imports.
+lede: Gernot Döllner, the chief executive of Audi, joined Donald Trump on stage at
+  a rally in Perry, Georgia, on Saturday to announce $4bn for a first US factory,
+  days before the US midterm elections. Daniela Cavallo, head of Volkswagen's elected
+  works council, criticized Trump's speech and Döllner's participation. Christiane
+  Benner, head of IG Metall, accused Döllner of being in “flagrant breach” of a code
+  requiring political neutrality in the run-up to elections. Isabel Cademartori, transport
+  spokesperson for the Social Democrats, called Döllner's actions a disgrace.
+nut_graf: The dispute places Audi's $4bn US expansion inside Germany's arguments over
+  political neutrality and industrial employment, while Volkswagen pursues job cuts
+  in Germany and US car-import tariffs weigh on Audi's existing imports.
 primary_entities:
 - Gernot Döllner
 - Audi
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,110 +152,34 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
+  headline: Audi plans Q7, Q8 and Q9 production in Macon
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7718
 - slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
   headline: Audi sets 2027 construction start for its Macon plant
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7562
+  strength: 0.7553
 - slug: 2026-10-25-audi-plans-macon-plant-to-emphasize-gas-powered-vehicles-and-plug-in-hybrids
   headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7408
+  strength: 0.7397
 - slug: 2026-10-25-audi-plans-first-u-s-factory-in-georgia-with-200-000-car-annual-capacity
   headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7032
-- slug: 2026-10-26-nvidia-and-micron-account-for-34-of-expected-third-quarter-s-p-500-profit-growth
-  headline: Nvidia and Micron account for 34% of expected third-quarter S&P 500 profit growth
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.584
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5953
+  strength: 0.7024
 - slug: 2026-09-21-german-auto-workers-protest-job-cuts-demand-policy-changes
   headline: German auto workers protest job cuts, demand policy changes
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6709
-- slug: 2026-09-18-auto-coalition-urges-trump-to-block-chinese-carmakers-ahead-of-xi-summit
-  headline: Auto coalition urges Trump to block Chinese carmakers ahead of Xi summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6242
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5998
-- slug: 2026-09-24-oil-industry-launches-lobbying-push-against-trump-s-diesel-export-restriction
-  headline: Oil industry launches lobbying push against Trump's diesel export restriction
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5867
-- slug: 2026-09-14-ai-ceos-call-for-industry-slowdown-warn-of-extinction-risk
-  headline: AI CEOs call for industry slowdown, warn of extinction risk
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5962
-- slug: 2026-09-16-bannon-sanders-share-stage-at-pro-human-ai-conference-in-washington
-  headline: Bannon, Sanders share stage at 'pro-human' AI conference in Washington
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.588
-- slug: 2026-09-10-duffy-publicly-criticizes-ford-s-business-with-chinese-automotive-firms
-  headline: Duffy publicly criticizes Ford's business with Chinese automotive firms
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5847
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5902
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6142
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6017
-- slug: 2026-06-23-trump-tours-mack-trucks-plant-holds-campaign-style-rally-in-pennsylvania
-  headline: Trump tours Mack Trucks plant, holds campaign-style rally in Pennsylvania
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.603
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6081
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  headline: Trump visits Dearborn Ford plant, defends tariffs as voters worry about rising prices
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6332
-- slug: 2026-06-08-apple-unveils-overhauled-siri-ai-as-tim-cook-bids-farewell-at-wwdc
-  headline: Apple unveils overhauled Siri AI as Tim Cook bids farewell at WWDC
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5908
-- slug: 2026-04-10-dingell-watches-el-sayed-rally-seeing-frustration-and-hope-among-young-voters
-  headline: Dingell watches El-Sayed rally, seeing frustration and hope among young voters
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6154
+  strength: 0.6706
 analyses:
-- '2026-10-26-audi-pairs-a-georgia-factory-announcement-with-trump-s-campaign-rally'
+- 2026-10-26-audi-pairs-a-georgia-factory-announcement-with-trump-s-campaign-rally
 ---
-
 ## Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
 
 **Subtype:** fact

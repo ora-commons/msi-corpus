@@ -1,9 +1,23 @@
 ---
-headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-secondary_headline: DOJ voter-roll policy ruled unlawful as NAACP challenges federal monitors
+headline: Midterms put 35 Senate contests, 39 governorships and local offices on the
+  ballot
+secondary_headline: DOJ voter-roll policy ruled unlawful as NAACP challenges federal
+  monitors
 publish_date: '2026-10-26'
-lede: US voters will go to the polls on November 3 to choose all 435 House seats, 35 Senate contests and 39 governorships, along with thousands of state legislative, local, judicial and ballot-measure races. An early October RealClearPolitics average of national generic polls showed Democrats leading Republicans by 8.2 points, while election-administration disputes include a ruling that the Justice Department's voter-roll policy was unlawful and an NAACP lawsuit challenging federal monitors. The result will determine which party controls Congress for the final two years of President Donald Trump's second term.
-nut_graf: Congressional results will determine which party controls the House and Senate for the final two years of President Donald Trump's second term, while governorships and state legislative contests will shape policy on education, reproductive rights, taxation and election administration. Close contests, state rules for counting early and postal ballots, and possible recounts or legal challenges could delay the final outcome.
+lede: US voters will go to the polls on November 3 to choose all 435 House seats,
+  35 Senate contests and 39 governorships, along with thousands of state legislative,
+  local, judicial and ballot-measure races. An early October RealClearPolitics average
+  of national generic polls showed Democrats leading Republicans by 8.2 points, while
+  election-administration disputes include a ruling that the Justice Department's
+  voter-roll policy was unlawful and an NAACP lawsuit challenging federal monitors.
+  The result will determine which party controls Congress for the final two years
+  of President Donald Trump's second term.
+nut_graf: Congressional results will determine which party controls the House and
+  Senate for the final two years of President Donald Trump's second term, while governorships
+  and state legislative contests will shape policy on education, reproductive rights,
+  taxation and election administration. Close contests, state rules for counting early
+  and postal ballots, and possible recounts or legal challenges could delay the final
+  outcome.
 primary_entities:
 - Donald Trump
 - United States
@@ -44,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +161,43 @@ related_stories:
   headline: US midterm elections on November 3 will determine control of Congress
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.8746
+  strength: 0.8739
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.758
+  strength: 0.7578
+- slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
+  headline: The Guardian seeks US voter priorities for Nov. 3 midterms
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7353
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7214
 - slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
   headline: Polls show narrower Democratic lead in competitive House seats
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7207
+  strength: 0.7208
 - slug: 2026-10-24-nov-3-midterms-offer-the-2020s-a-last-chance-to-reshape-congress
   headline: Nov. 3 midterms offer the 2020s a last chance to reshape Congress
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7253
+  strength: 0.7242
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7876
+  strength: 0.787
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7196
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7524
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7531
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7348
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7433
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7913
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7128
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7284
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7427
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7052
-- slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
-  headline: Forecasters rate 43 House races competitive for 2026 control
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7248
-- slug: 2026-08-05-dccc-adds-12-republican-held-house-seats-to-midterm-target-list
-  headline: DCCC adds 12 Republican-held House seats to midterm target list
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7097
-- slug: 2026-06-10-12-competitive-senate-races-to-watch-as-control-of-chamber-hangs-in-2026
-  headline: 12 competitive Senate races to watch as control of chamber hangs in 2026
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7237
-- slug: 2026-06-05-democrats-need-four-senate-seats-as-2026-races-show-unpredictability
-  headline: Democrats need four Senate seats as 2026 races show unpredictability
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7214
+  strength: 0.7184
 ---
-
 ## Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
 
 **Subtype:** fact

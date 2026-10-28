@@ -2,8 +2,16 @@
 headline: Consultant says Republican gerrymandering may backfire
 secondary_headline: Latino voters are shifting away from both parties, Madrid says
 publish_date: '2026-10-26'
-lede: In an NPR interview published October 26, 2026, political consultant Mike Madrid said Republican maps drawn for advantage may backfire as Latino voters shift away from both parties. Madrid said exit polls showed vote shifts exceeding 20% in some 2026 midterm races and that many of the 17 races redrawn for Republican advantage could produce Republican losses or extremely competitive results.
-nut_graf: Madrid's assessment matters because the maps are intended to shape electoral outcomes, while the voting shift he describes points away from stable support for either party. The account presents one consultant's interpretation of polling and exit-poll results; it does not establish the outcome of the 17 races or independently verify the cited percentages.
+lede: In an NPR interview published October 26, 2026, political consultant Mike Madrid
+  said Republican maps drawn for advantage may backfire as Latino voters shift away
+  from both parties. Madrid said exit polls showed vote shifts exceeding 20% in some
+  2026 midterm races and that many of the 17 races redrawn for Republican advantage
+  could produce Republican losses or extremely competitive results.
+nut_graf: Madrid's assessment matters because the maps are intended to shape electoral
+  outcomes, while the voting shift he describes points away from stable support for
+  either party. The account presents one consultant's interpretation of polling and
+  exit-poll results; it does not establish the outcome of the 17 races or independently
+  verify the cited percentages.
 primary_entities:
 - Mike Madrid
 - Leila Fadel
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +149,49 @@ related_stories:
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7433
+  strength: 0.7438
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6779
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6725
+  strength: 0.6773
 - slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
+  headline: Mid-decade redistricting changed districts for 34.8 million Americans,
+    study finds
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6797
+  strength: 0.6798
 - slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
+  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks
+    defeat
   publish_date: '2026-09-03'
   relation: related
   strength: 0.6854
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.686
+  strength: 0.6862
 - slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
+  headline: Republican redistricting reshapes congressional maps, affecting millions
+    of voters
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.7167
+  strength: 0.7169
 - slug: 2026-05-24-democrats-face-steep-state-hurdles-in-push-to-match-gop-redistricting-gains
-  headline: Democrats face steep state hurdles in push to match GOP redistricting gains
+  headline: Democrats face steep state hurdles in push to match GOP redistricting
+    gains
   publish_date: '2026-05-24'
   relation: related
-  strength: 0.7039
+  strength: 0.7037
 - slug: 2026-05-25-democrats-face-hurdles-matching-gop-redistricting-gains-for-2026-and-2028
   headline: Democrats face hurdles matching GOP redistricting gains for 2026 and 2028
   publish_date: '2026-05-25'
   relation: related
-  strength: 0.6951
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  headline: Trump redistricting push spreads to one-third of states, giving GOP a three-seat edge
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7243
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
   strength: 0.6946
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6904
-- slug: 2026-05-22-southern-republicans-press-redistricting-after-voting-rights-act-ruling
-  headline: Southern Republicans press redistricting after Voting Rights Act ruling
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6892
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6946
-- slug: 2026-04-22-gerrymandering-has-a-long-history-in-us-politics-but-the-limits-remain-unclear
-  headline: Gerrymandering has a long history in US politics, but the limits remain unclear
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6968
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6852
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.683
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  headline: Trump's redistricting push reaches a crossroads as new legislative sessions begin
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6993
-- slug: 2026-02-20-midterm-house-campaigns-proceed-amid-ongoing-redistricting-disputes
-  headline: Midterm House campaigns proceed amid ongoing redistricting disputes
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.696
-- slug: 2026-05-05-redistricting-war-accelerates-winner-take-all-political-combat-in-us
-  headline: Redistricting war accelerates winner-take-all political combat in US
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6785
 ---
-
 ## Consultant says Republican gerrymandering may backfire
 
 **Subtype:** causal_claim

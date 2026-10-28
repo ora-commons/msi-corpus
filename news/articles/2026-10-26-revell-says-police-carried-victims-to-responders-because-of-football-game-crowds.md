@@ -1,9 +1,21 @@
 ---
-headline: Revell says police carried victims to responders because of football-game crowds
+headline: Revell says police carried victims to responders because of football-game
+  crowds
 secondary_headline: Revell said the weekend became 'a night of fear and violence'
 publish_date: '2026-10-26'
-lede: At a Sunday press conference, Tallahassee Police Chief Lawrence Revell said police had to carry victims in their arms to emergency responders because of crowds from the football game. The shooting near Florida A&M University injured 12 people, six of them children. Eleven were injured by gunfire and another person hurt an ankle while fleeing the scene. Police said five had been released from the hospital and six remained hospitalized Sunday, including one in critical condition.
-nut_graf: Revell's account described how crowds from the football game required officers to carry victims to emergency responders after the Saturday shooting near Bragg Memorial Stadium, where an American football game had recently been played. Police arrested Anthony Rivers III, 15, and charged him with 11 counts of attempted second-degree murder and possession of a firearm by a delinquent. Police said the shooting followed an altercation among people who knew one another, none of the victims appeared to have been the intended targets, and additional arrests were possible.
+lede: At a Sunday press conference, Tallahassee Police Chief Lawrence Revell said
+  police had to carry victims in their arms to emergency responders because of crowds
+  from the football game. The shooting near Florida A&M University injured 12 people,
+  six of them children. Eleven were injured by gunfire and another person hurt an
+  ankle while fleeing the scene. Police said five had been released from the hospital
+  and six remained hospitalized Sunday, including one in critical condition.
+nut_graf: Revell's account described how crowds from the football game required officers
+  to carry victims to emergency responders after the Saturday shooting near Bragg
+  Memorial Stadium, where an American football game had recently been played. Police
+  arrested Anthony Rivers III, 15, and charged him with 11 counts of attempted second-degree
+  murder and possession of a firearm by a delinquent. Police said the shooting followed
+  an altercation among people who knew one another, none of the victims appeared to
+  have been the intended targets, and additional arrests were possible.
 primary_entities:
 - Lawrence Revell
 - Anthony Rivers III
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,6 +154,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
+  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8792
 - slug: 2026-10-25-revell-initially-reports-no-arrests-after-tallahassee-stadium-area-shooting
   headline: Revell initially reports no arrests after Tallahassee stadium-area shooting
   publish_date: '2026-10-25'
@@ -152,97 +170,28 @@ related_stories:
   relation: related
   strength: 0.8517
 - slug: 2026-10-26-tallahassee-police-say-monday-a-15-year-old-was-charged-in-florida-a-m-shooting
-  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M shooting
+  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M
+    shooting
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8447
 - slug: 2026-10-25-tallahassee-police-report-at-least-12-injured-after-florida-a-m-homecoming-game
-  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming game
+  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming
+    game
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8459
+  strength: 0.8451
 - slug: 2026-10-25-shooting-near-bragg-memorial-stadium-injures-12-as-police-seek-tips
   headline: Shooting near Bragg Memorial Stadium injures 12 as police seek tips
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8181
+  strength: 0.8175
 - slug: 2026-10-25-tallahassee-police-investigate-shooting-near-florida-a-m-university
   headline: Tallahassee police investigate shooting near Florida A+M University
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7579
-- slug: 2026-09-24-belleville-synagogue-shooting-was-hate-motivated-police-say
-  headline: Belleville synagogue shooting was hate-motivated, police say
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6282
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.627
-- slug: 2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis
-  headline: 19 injured in two overnight shootings in Tucson and Minneapolis
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6293
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6427
-- slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
-  headline: Shooting near University of Iowa wounds five people
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6457
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6409
-- slug: 2026-05-10-u-s-marshals-capture-teen-wanted-in-iowa-city-pedestrian-mall-shooting
-  headline: U.S. Marshals Capture Teen Wanted in Iowa City Pedestrian Mall Shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6321
-- slug: 2026-05-13-man-with-assault-rifle-fires-on-boston-motorists-wounding-two-before-trooper-mar
-  headline: Man with assault rifle fires on Boston motorists, wounding two before trooper, Marine stop him
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6308
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.626
-- slug: 2026-05-10-us-marshals-capture-teen-wanted-in-iowa-city-mass-shooting
-  headline: US marshals capture teen wanted in Iowa City mass shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6292
-- slug: 2026-05-13-man-shoots-at-drivers-near-boston-wounding-two-officials-say
-  headline: Man shoots at drivers near Boston, wounding two, officials say
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6274
-- slug: 2026-05-17-3-arrested-in-series-of-random-weekend-shootings-in-austin-texas
-  headline: 3 arrested in series of random weekend shootings in Austin, Texas
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6252
-- slug: 2026-04-22-police-seek-17-year-old-for-attempted-murder-in-shooting-near-iowa-campus
-  headline: Police seek 17-year-old for attempted murder in shooting near Iowa campus
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6271
-- slug: 2026-04-20-planned-fight-escalates-into-deadly-shooting-at-n-c-park
-  headline: Planned fight escalates into deadly shooting at N.C. park
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6258
+  strength: 0.7575
 ---
-
 ## Revell says police carried victims to responders because of football-game crowds
 
 **Subtype:** fact

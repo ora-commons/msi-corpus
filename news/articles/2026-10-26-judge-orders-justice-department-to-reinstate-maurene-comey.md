@@ -2,8 +2,14 @@
 headline: Judge orders Justice Department to reinstate Maurene Comey
 secondary_headline: Administration argued Congress could not restrict prosecutor removals
 publish_date: '2026-10-26'
-lede: U.S. District Judge Jesse Furman ruled Monday that the Trump administration acted unlawfully when it fired federal prosecutor Maurene Comey. The ruling requires the Justice Department to pay her back pay and reinstate her as an assistant U.S. attorney in the Southern District of New York.
-nut_graf: Furman rejected the Justice Department's constitutional challenge to congressional limits on removing a federal prosecutor. His ruling requires reinstatement for Comey as an assistant U.S. attorney in the Southern District of New York and payment of back pay.
+lede: U.S. District Judge Jesse Furman ruled Monday that the Trump administration
+  acted unlawfully when it fired federal prosecutor Maurene Comey. The ruling requires
+  the Justice Department to pay her back pay and reinstate her as an assistant U.S.
+  attorney in the Southern District of New York.
+nut_graf: Furman rejected the Justice Department's constitutional challenge to congressional
+  limits on removing a federal prosecutor. His ruling requires reinstatement for Comey
+  as an assistant U.S. attorney in the Southern District of New York and payment of
+  back pay.
 primary_entities:
 - Maurene Comey
 - Jesse Furman
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,116 +145,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-judge-orders-justice-department-to-reinstate-maurene-comey.png
-  alt: 'Illustration accompanying article: Judge orders Justice Department to reinstate Maurene Comey'
+  alt: 'Illustration accompanying article: Judge orders Justice Department to reinstate
+    Maurene Comey'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-26-justice-department-plans-appeal-after-judge-finds-comey-eligible-for-backpay
   headline: Justice Department plans appeal after judge finds Comey eligible for backpay
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8743
+- slug: 2026-10-26-furman-finds-due-process-violation-calls-for-comey-back-pay-possible-return
+  headline: Furman finds due process violation, calls for Comey back pay, possible
+    return
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8711
 - slug: 2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful
   headline: Federal judge rules Maurene Comey's firing unlawful
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8619
-- slug: 2026-10-09-trump-forms-committee-to-investigate-fed-governor-cook
-  headline: Trump forms committee to investigate Fed governor Cook
-  publish_date: '2026-10-09'
+- slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
+  headline: Justice Department says Pam Bondi decided Maurene Comey's firing
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6389
-- slug: 2026-04-29-judge-lets-maurene-comey-wrongful-firing-lawsuit-proceed-against-trump
-  headline: Judge lets Maurene Comey wrongful-firing lawsuit proceed against Trump
-  publish_date: '2026-04-29'
+  strength: 0.8477
+- slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
+  headline: James Comey remains unindicted after defense filed dismissal motion
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8418
-- slug: 2026-08-27-lisa-cook-s-attorneys-tell-white-house-trump-has-no-legal-basis-to-fire-her
-  headline: Lisa Cook's attorneys tell White House Trump has no legal basis to fire her
-  publish_date: '2026-08-27'
+  strength: 0.7345
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.638
-- slug: 2026-08-17-former-face-act-prosecutor-sues-doj-over-april-firing
-  headline: Former FACE Act prosecutor sues DOJ over April firing
-  publish_date: '2026-08-17'
+  strength: 0.7308
+- slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6447
-- slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
-  headline: Trump sends Cook new removal notice despite Supreme Court ruling
-  publish_date: '2026-08-07'
+  strength: 0.6848
+- slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
+  headline: Prosecutors say Comey sought to correct Reuters misinformation
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6608
-- slug: 2026-07-27-comey-urges-judge-to-toss-seashell-threat-charge-as-protected-speech
-  headline: Comey urges judge to toss seashell threat charge as protected speech
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6454
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6734
-- slug: 2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders
-  headline: Supreme Court gives Trump power to fire agency leaders
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6474
-- slug: 2026-01-13-justice-department-accuses-federal-judge-of-abusing-power-over-prosecutor-s-titl
-  headline: Justice Department accuses federal judge of abusing power over prosecutor's title
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7002
-- slug: 2026-05-05-federal-appeals-judges-question-trump-s-extended-prosecutor-appointments
-  headline: Federal appeals judges question Trump’s extended prosecutor appointments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.68
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  headline: Trump administration targets political opponents; Powell and Fed the latest
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6747
-- slug: 2026-05-04-appeals-judges-question-trump-s-long-term-interim-top-prosecutor-setup
-  headline: Appeals judges question Trump’s long-term interim top prosecutor setup
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.655
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.655
-- slug: 2026-04-01-3-fired-fbi-agents-sue-to-regain-jobs-after-trump-investigation-work
-  headline: 3 fired FBI agents sue to regain jobs after Trump investigation work
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6591
-- slug: 2026-04-30-comey-returns-to-court-in-case-alleging-86-47-trump-threat
-  headline: Comey returns to court in case alleging ‘86 47’ Trump threat
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6503
-- slug: 2026-02-20-federal-judge-slams-trump-immigration-crackdown-in-scathing-ruling
-  headline: Federal judge slams Trump immigration crackdown in scathing ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6568
-- slug: 2026-02-19-federal-judge-slams-trump-administration-immigration-crackdown-in-ruling
-  headline: Federal judge slams Trump administration immigration crackdown in ruling
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6533
-- slug: 2026-01-20-halligan-leaves-post-as-interim-u-s-attorney-after-court-ruling
-  headline: Halligan leaves post as interim U.S. attorney after court ruling
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6556
+  strength: 0.6776
 ---
-
 ## Judge orders Justice Department to reinstate Maurene Comey
 
 **Subtype:** fact

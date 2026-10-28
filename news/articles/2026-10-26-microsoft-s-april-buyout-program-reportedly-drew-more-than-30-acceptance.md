@@ -1,9 +1,21 @@
 ---
 headline: Microsoft's April buyout program reportedly drew more than 30% acceptance
-secondary_headline: Microsoft says email links with exit offer details will arrive within hours
+secondary_headline: Microsoft says email links with exit offer details will arrive
+  within hours
 publish_date: '2026-10-26'
-lede: Microsoft announced a voluntary retirement program in April that offered buyouts to around 8,600 employees, and more than 30% accepted the offer, according to a person familiar with the matter. Microsoft described its current voluntary exit program as time-limited and said it would provide eligible employees with financial support and career-planning resources, while chief people officer Amy Coleman said eligible workers would receive offer details by email link within hours.
-nut_graf: A memo from Amy Coleman viewed by The Wall Street Journal at the time said April's voluntary retirement program was part of a broader shift by Microsoft to alter its performance system and how it awards bonuses and stock options. Microsoft said Monday that it is extending voluntary buyout offers to thousands of employees across the U.S., U.K., Canada and India; around 60,000 Microsoft employees are eligible for the program, according to a person familiar with the matter. Microsoft had also announced 3,200 job cuts in its Xbox videogames division earlier this year.
+lede: Microsoft announced a voluntary retirement program in April that offered buyouts
+  to around 8,600 employees, and more than 30% accepted the offer, according to a
+  person familiar with the matter. Microsoft described its current voluntary exit
+  program as time-limited and said it would provide eligible employees with financial
+  support and career-planning resources, while chief people officer Amy Coleman said
+  eligible workers would receive offer details by email link within hours.
+nut_graf: A memo from Amy Coleman viewed by The Wall Street Journal at the time said
+  April's voluntary retirement program was part of a broader shift by Microsoft to
+  alter its performance system and how it awards bonuses and stock options. Microsoft
+  said Monday that it is extending voluntary buyout offers to thousands of employees
+  across the U.S., U.K., Canada and India; around 60,000 Microsoft employees are eligible
+  for the program, according to a person familiar with the matter. Microsoft had also
+  announced 3,200 job cuts in its Xbox videogames division earlier this year.
 primary_entities:
 - Microsoft
 - Amy Coleman
@@ -29,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,104 +144,34 @@ related_stories:
   headline: Microsoft opens voluntary exit offers as AI-related capital spending surges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8746
-- slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
-  headline: American Express cuts 5% of global staff while raising its profit outlook
-  publish_date: '2026-10-23'
+  strength: 0.8732
+- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
+  headline: Microsoft buyout reportedly excludes employees in certain divisions, including
+    cybersecurity
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6035
-- slug: 2026-10-20-amazon-plans-more-than-300-000-u-s-holiday-season-hires
-  headline: Amazon plans more than 300,000 U.S. holiday-season hires
-  publish_date: '2026-10-20'
+  strength: 0.8033
+- slug: 2026-10-26-ai-data-center-investment-likely-tops-700-billion-as-costs-rise
+  headline: AI data-center investment likely tops $700 billion as costs rise
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6022
-- slug: 2026-10-08-vance-explains-indentured-servants-line-h-1b-workers-have-to-leave
-  headline: 'Vance explains ''indentured servants'' line: H-1B workers ''have to leave'''
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6459
-- slug: 2026-10-08-microsoft-disputes-vance-s-claim-company-replaced-us-workers-with-h-1b-holders
-  headline: Microsoft disputes Vance's claim company replaced US workers with H-1B holders
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6216
-- slug: 2026-10-07-gears-of-war-e-day-launches-as-xbox-console-exclusive
-  headline: 'Gears of War: E-Day launches as Xbox console exclusive'
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6094
+  strength: 0.7435
 - slug: 2026-09-17-microsoft-overhauls-engineering-structure-in-ai-driven-reorganization
   headline: Microsoft overhauls engineering structure in AI-driven reorganization
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6651
-- slug: 2026-09-27-meta-expands-muse-agent-access-as-amazon-blocks-purchases
-  headline: Meta expands Muse agent access as Amazon blocks purchases
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6083
-- slug: 2026-09-22-xbox-cuts-268-more-jobs-transfers-halo-development-to-activision
-  headline: Xbox cuts 268 more jobs, transfers Halo development to Activision
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6251
-- slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
-  headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6153
-- slug: 2026-09-14-microsoft-publishes-provisional-ai-code-of-conduct
-  headline: Microsoft publishes provisional AI code of conduct
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6168
+  strength: 0.6673
 - slug: 2026-07-16-microsoft-lays-off-about-3-200-at-xbox-divests-five-studios-in-reset
   headline: Microsoft lays off about 3,200 at Xbox, divests five studios in reset
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6955
+  strength: 0.6953
 - slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
   headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.7494
-- slug: 2026-08-13-u-s-job-seekers-add-ai-terms-to-r-sum-s-as-employer-demand-shifts
-  headline: U.S. job seekers add AI terms to résumés as employer demand shifts
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6066
-- slug: 2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street
-  headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6038
-- slug: 2026-07-14-26-meta-employees-sue-alleging-ai-layoff-systems-targeted-workers-on-protected-l
-  headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected leave
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6217
-- slug: 2026-07-19-costco-auto-contributes-9-for-long-term-workers-as-employer-401-k-benefits-vary-
-  headline: Costco auto-contributes 9% for long-term workers as employer 401(k) benefits vary widely
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6141
-- slug: 2026-07-07-huawei-tencent-microsoft-lead-tech-roundup-as-analyst-notes
-  headline: Huawei, Tencent, Microsoft lead tech roundup as analyst notes
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6169
-- slug: 2026-01-29-microsoft-beats-wall-street-expectations-with-81-3b-revenue
-  headline: Microsoft beats Wall Street expectations with $81.3B revenue
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6477
-- slug: 2026-05-15-streamline-operations-how-ai-is-fueling-tech-world-layoffs
-  headline: 'Streamline operations: How AI is fueling tech world layoffs'
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6195
+  strength: 0.7479
 ---
-
 ## Microsoft's April buyout program reportedly drew more than 30% acceptance
 
 **Subtype:** fact

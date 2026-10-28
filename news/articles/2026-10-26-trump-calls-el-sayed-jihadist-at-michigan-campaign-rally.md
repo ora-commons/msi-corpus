@@ -1,9 +1,18 @@
 ---
 headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
-secondary_headline: Rogers and El-Sayed compete for retiring Sen. Gary Peters's open seat
+secondary_headline: Rogers and El-Sayed compete for retiring Sen. Gary Peters's open
+  seat
 publish_date: '2026-10-26'
-lede: President Donald Trump called Michigan Senate candidate Abdul El-Sayed a "jihadist" who was "on the side of the terrorists" during a Sunday campaign rally in Port Huron, Michigan. Trump also said El-Sayed would have to pass through a metal detector before entering the Senate. Bishara Bahbah, a founder of Arab Americans for Trump, called Trump's statements "out of line," saying, "They are crossing a red line. They are racist." Bahbah added, "And people are going to remember that on Nov. 3."
-nut_graf: The Michigan Senate race between El-Sayed and Republican Mike Rogers is among a handful of contests that could determine control of the chamber. El-Sayed, who would become the nation's first Muslim senator if elected, has repeatedly denied ties to extremist groups, while Trump and Rogers have linked him to the Muslim Brotherhood.
+lede: President Donald Trump called Michigan Senate candidate Abdul El-Sayed a "jihadist"
+  who was "on the side of the terrorists" during a Sunday campaign rally in Port Huron,
+  Michigan. Trump also said El-Sayed would have to pass through a metal detector before
+  entering the Senate. Bishara Bahbah, a founder of Arab Americans for Trump, called
+  Trump's statements "out of line," saying, "They are crossing a red line. They are
+  racist." Bahbah added, "And people are going to remember that on Nov. 3."
+nut_graf: The Michigan Senate race between El-Sayed and Republican Mike Rogers is
+  among a handful of contests that could determine control of the chamber. El-Sayed,
+  who would become the nation's first Muslim senator if elected, has repeatedly denied
+  ties to extremist groups, while Trump and Rogers have linked him to the Muslim Brotherhood.
 primary_entities:
 - Donald Trump
 - Abdul El-Sayed
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,26 +152,36 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8853
+- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
+  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8489
 - slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
   headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8464
+  strength: 0.8465
 - slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
   headline: Obama rallies for El-Sayed in Michigan Senate race
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7674
+  strength: 0.7673
 - slug: 2026-10-25-minaj-urges-michigan-republicans-to-vote-at-trump-rally
   headline: Minaj urges Michigan Republicans to vote at Trump rally
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7509
+  strength: 0.7513
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7488
+  strength: 0.7487
 - slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
   headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
   publish_date: '2026-10-22'
@@ -171,79 +191,8 @@ related_stories:
   headline: Records identify El-Sayed heckler as former Hawley office director
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7396
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7916
-- slug: 2026-10-21-rutgers-finds-recurring-anti-muslim-playbook-against-muslim-candidates
-  headline: Rutgers finds recurring anti-Muslim playbook against Muslim candidates
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7155
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7218
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7024
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7522
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.72
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7208
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7019
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.721
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7333
-- slug: 2026-09-13-researchers-anti-muslim-rhetoric-hits-post-9-11-peak-as-muslim-candidates-win
-  headline: 'Researchers: anti-Muslim rhetoric hits post-9/11 peak as Muslim candidates win'
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7538
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6966
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7299
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7202
+  strength: 0.7395
 ---
-
 ## Trump calls El-Sayed 'jihadist' at Michigan campaign rally
 
 **Subtype:** fact

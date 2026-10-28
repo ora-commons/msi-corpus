@@ -1,9 +1,21 @@
 ---
 headline: SNAP enrollment drops 13% after Trump administration work requirements
-secondary_headline: States must cover 75% of SNAP administrative costs beginning in October
+secondary_headline: States must cover 75% of SNAP administrative costs beginning in
+  October
 publish_date: '2026-10-25'
-lede: US Department of Agriculture data show enrollment in the Supplemental Nutrition Assistance Program fell from 41.6 million in July 2025 to 36.5 million in June 2026, a 13% decrease after tighter work requirements took effect. Stakeholders said the Trump administration's changes have pushed more people to seek help from food banks or go hungry. The One Big Beautiful Act also requires states to cover 75% of SNAP administrative costs, up from half.
-nut_graf: Donald Trump and Agriculture Secretary Brooke Rollins have said the changes encourage work and reduce benefit enrollment. Stakeholders said the changes pushed more people to seek help from food banks or go hungry, while the Washington Post reported that fewer students enrolled in SNAP have made free school meals harder for schools to provide. Anti-hunger advocates say the employment data do not support the administration's argument that more people found jobs or saw their wages increase and thus no longer needed food stamps.
+lede: US Department of Agriculture data show enrollment in the Supplemental Nutrition
+  Assistance Program fell from 41.6 million in July 2025 to 36.5 million in June 2026,
+  a 13% decrease after tighter work requirements took effect. Stakeholders said the
+  Trump administration's changes have pushed more people to seek help from food banks
+  or go hungry. The One Big Beautiful Act also requires states to cover 75% of SNAP
+  administrative costs, up from half.
+nut_graf: Donald Trump and Agriculture Secretary Brooke Rollins have said the changes
+  encourage work and reduce benefit enrollment. Stakeholders said the changes pushed
+  more people to seek help from food banks or go hungry, while the Washington Post
+  reported that fewer students enrolled in SNAP have made free school meals harder
+  for schools to provide. Anti-hunger advocates say the employment data do not support
+  the administration's argument that more people found jobs or saw their wages increase
+  and thus no longer needed food stamps.
 primary_entities:
 - Donald Trump
 - Brooke Rollins
@@ -38,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,116 +150,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements.png
-  alt: 'Illustration accompanying article: SNAP enrollment drops 13% after Trump administration work requirements'
+  alt: 'Illustration accompanying article: SNAP enrollment drops 13% after Trump administration
+    work requirements'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.8599
+  strength: 0.8596
 - slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
   headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7197
+  strength: 0.7207
 - slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
+  headline: Twenty million Medicaid enrollees face new work requirements starting
+    January 1
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7047
+  strength: 0.707
 - slug: 2026-10-13-trump-administration-removes-750-000-from-aca-marketplaces
   headline: Trump administration removes 750,000 from ACA marketplaces
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6822
+  strength: 0.6852
 - slug: 2026-08-21-snap-enrollment-falls-more-than-13-as-trump-bill-changes-take-hold
   headline: SNAP enrollment falls more than 13% as Trump bill changes take hold
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.888
+  strength: 0.8889
 - slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
   headline: CDC reports US adults' produce consumption rises with income
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7681
+  strength: 0.769
 - slug: 2026-07-25-more-than-1-million-children-lose-snap-benefits-after-trump-bill
   headline: More than 1 million children lose SNAP benefits after Trump bill
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.852
+  strength: 0.8526
 - slug: 2026-09-17-trump-administration-proposes-dropping-head-start-priority-for-homeless-children
-  headline: Trump administration proposes dropping Head Start priority for homeless children
+  headline: Trump administration proposes dropping Head Start priority for homeless
+    children
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6824
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.798
-- slug: 2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states
-  headline: Trump administration proposes shifting Head Start rules to states
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6888
-- slug: 2026-07-23-trump-administration-ends-landmark-nutrition-program-for-low-income-americans
-  headline: Trump administration ends landmark nutrition program for low-income Americans
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7012
-- slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7703
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6936
-- slug: 2025-12-30-trump-era-work-rules-could-change-snap-medicaid-and-hud-housing-eligibility
-  headline: Trump-era work rules could change SNAP, Medicaid and HUD housing eligibility
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7502
-- slug: 2026-07-07-alaska-snap-error-rate-tops-nation-for-fourth-straight-year-at-23
-  headline: Alaska SNAP error rate tops nation for fourth straight year at 23%
-  publish_date: '2026-07-07'
-  relation: related
   strength: 0.6839
-- slug: 2026-01-08-states-weigh-medicaid-snap-and-taxes-after-trump-s-sweeping-law
-  headline: States weigh Medicaid, SNAP and taxes after Trump’s sweeping law
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7329
-- slug: 2026-06-23-judge-blocks-snap-restrictions-on-soft-drinks-candy
-  headline: Judge blocks SNAP restrictions on soft drinks, candy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6816
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6965
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6849
-- slug: 2026-01-03-snap-bans-soda-and-candy-in-5-states-starting-jan-1
-  headline: SNAP bans soda and candy in 5 states starting Jan. 1
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7081
 ---
-
 ## SNAP enrollment drops 13% after Trump administration work requirements
 
 **Subtype:** fact

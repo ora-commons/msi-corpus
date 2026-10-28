@@ -2,8 +2,16 @@
 headline: European gas prices climb before winter as storage remains below average
 secondary_headline: UK households face a predicted 16% January energy-bill increase
 publish_date: '2026-10-26'
-lede: European wholesale gas prices rose to €97 (£81) per megawatt-hour on Monday, their highest level since 2022, as temperatures across Europe fell and traders priced in stronger heating demand. European gas storage stood at about 75% full, compared with a seasonal average closer to 80%. The Guardian said the move came amid Middle East supply fears and reports that the US and Israel had drawn up plans for renewed strikes on Iran after the US midterm elections.
-nut_graf: Europe is entering winter with gas reserves at their lowest level in more than a decade, while Britain relies on imports to maintain a steady supply. Britain's energy regulators have warned that the UK is expected to pay some of Europe's highest energy costs this winter, and household bills are predicted to rise in January.
+lede: European wholesale gas prices rose to €97 (£81) per megawatt-hour on Monday,
+  their highest level since 2022, as temperatures across Europe fell and traders priced
+  in stronger heating demand. European gas storage stood at about 75% full, compared
+  with a seasonal average closer to 80%. The Guardian said the move came amid Middle
+  East supply fears and reports that the US and Israel had drawn up plans for renewed
+  strikes on Iran after the US midterm elections.
+nut_graf: Europe is entering winter with gas reserves at their lowest level in more
+  than a decade, while Britain relies on imports to maintain a steady supply. Britain's
+  energy regulators have warned that the UK is expected to pay some of Europe's highest
+  energy costs this winter, and household bills are predicted to rise in January.
 primary_entities:
 - Europe
 - UK
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +157,43 @@ related_stories:
   headline: European gas prices rise 3% as EU storage falls well below seasonal average
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8064
+  strength: 0.8068
 - slug: 2026-10-12-uk-heating-oil-prices-climb-past-110p-per-litre-as-winter-nears
   headline: UK heating oil prices climb past 110p per litre as winter nears
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7077
+  strength: 0.7091
 - slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
   headline: Cornwall Insight projects 16% rise in UK energy price cap
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7452
+  strength: 0.746
 - slug: 2026-09-28-uk-energy-price-cap-rises-to-1-723-as-gas-costs-surge
   headline: UK energy price cap rises to £1,723 as gas costs surge
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.734
+  strength: 0.7347
 - slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
   headline: Diesel prices hit records in US and EU as wars curb global supply
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.708
+  strength: 0.7074
 - slug: 2026-08-29-eu-gas-stores-enter-winter-at-13-year-low-as-uk-storage-sits-nearly-empty
   headline: EU gas stores enter winter at 13-year low as UK storage sits nearly empty
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.8232
+  strength: 0.8237
 - slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
   headline: UK joins European diesel-reserve talks after US export-ban warning
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7009
+  strength: 0.7
 - slug: 2026-08-24-european-gas-hits-three-year-high-as-winter-supply-worries-mount
   headline: European gas hits three-year high as winter supply worries mount
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.8224
-- slug: 2026-09-17-germany-state-gas-trader-buy-more
-  headline: Germany pushes state-owned gas trader to buy more gas
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7442
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7177
-- slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
-  headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6841
-- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
-  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.682
-- slug: 2026-09-15-european-gas-prices-supported-as-ing-warns-of-tight-winter-supply
-  headline: European gas prices supported as ING warns of tight winter supply
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7256
-- slug: 2026-09-23-neada-projects-43-rise-in-us-heating-oil-costs-this-winter
-  headline: NEADA projects 43% rise in US heating oil costs this winter
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6822
-- slug: 2026-09-10-ecb-lifts-rate-to-2-5-projects-3-inflation-this-year
-  headline: ECB lifts rate to 2.5%, projects 3% inflation this year
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7051
-- slug: 2026-07-20-european-gas-prices-hit-four-month-high-as-iran-war-threatens-winter-supply
-  headline: European gas prices hit four-month high as Iran war threatens winter supply
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.8171
-- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
-  headline: Oil reaches $105 amid signs Middle East conflict will persist
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6928
-- slug: 2026-08-17-us-gas-climbs-to-4-06-a-gallon-as-60-day-iran-deadline-expires
-  headline: US gas climbs to $4.06 a gallon as 60-day Iran deadline expires
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6932
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6852
-- slug: 2026-05-21-europe-energy-prices-to-stay-above-pre-iran-war-levels-until-end-of-2027
-  headline: Europe energy prices to stay above pre-Iran-war levels until end of 2027
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7172
+  strength: 0.8212
 ---
-
 ## European gas prices climb before winter as storage remains below average
 
 **Subtype:** fact

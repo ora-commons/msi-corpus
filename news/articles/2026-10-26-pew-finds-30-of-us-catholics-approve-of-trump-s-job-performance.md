@@ -1,9 +1,21 @@
 ---
 headline: Pew finds 30% of US Catholics approve of Trump's job performance
-secondary_headline: White House did not directly address questions about the bishops' meeting
+secondary_headline: White House did not directly address questions about the bishops'
+  meeting
 publish_date: '2026-10-26'
-lede: A Pew Research Center survey this month found that 30% of all US Catholics approved of President Donald Trump's job performance, compared with 47% when he returned to the White House in 2025. The same survey found that 42% preferred the Democrats running in local House of Representatives races, while 39% favored Republicans. The findings came less than two weeks before the 3 November midterm elections, which will decide control of Congress, amid questions over a White House meeting with Catholic bishops.
-nut_graf: The survey measured Catholic voter sentiment as the White House faced criticism over the public release of a video of bishops praying with President Donald Trump. The White House did not directly answer questions about the meeting, while spokeswoman Taylor Rogers praised Trump's record with Catholic Americans. Pew also said opinions of Trump's performance had slipped among all major religious groups. The figures came before the 3 November midterm elections, which will decide control of Congress.
+lede: A Pew Research Center survey this month found that 30% of all US Catholics approved
+  of President Donald Trump's job performance, compared with 47% when he returned
+  to the White House in 2025. The same survey found that 42% preferred the Democrats
+  running in local House of Representatives races, while 39% favored Republicans.
+  The findings came less than two weeks before the 3 November midterm elections, which
+  will decide control of Congress, amid questions over a White House meeting with
+  Catholic bishops.
+nut_graf: The survey measured Catholic voter sentiment as the White House faced criticism
+  over the public release of a video of bishops praying with President Donald Trump.
+  The White House did not directly answer questions about the meeting, while spokeswoman
+  Taylor Rogers praised Trump's record with Catholic Americans. Pew also said opinions
+  of Trump's performance had slipped among all major religious groups. The figures
+  came before the 3 November midterm elections, which will decide control of Congress.
 primary_entities:
 - Pew Research Center
 - Donald Trump
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +163,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-white-house-spokesperson-calls-trump-greatest-president-for-catholic-americans
+  headline: White House spokesperson calls Trump greatest president for Catholic Americans
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7439
 - slug: 2026-10-26-two-catholic-bishops-regret-white-house-release-of-oval-office-prayer
   headline: Two Catholic bishops regret White House release of Oval Office prayer
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7111
+  strength: 0.7075
 - slug: 2026-10-25-two-catholic-bishops-fault-white-house-over-trump-prayer-photos
   headline: Two Catholic bishops fault White House over Trump prayer photos
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7093
+  strength: 0.7072
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6989
 - slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
   headline: New York Times/Siena survey records 36% approval for Trump
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7131
+  strength: 0.7153
 - slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6914
+  strength: 0.6933
 - slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.685
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6572
+  strength: 0.6885
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6647
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6882
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6634
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6574
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6942
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.665
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.692
-- slug: 2026-08-16-quinnipiac-poll-puts-trump-approval-at-32-as-leavitt-plans-to-exit
-  headline: Quinnipiac poll puts Trump approval at 32% as Leavitt plans to exit
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6784
-- slug: 2026-07-28-approval-of-supreme-court-drops-to-record-low-33-gallup-finds
-  headline: Approval of Supreme Court drops to record low 33%, Gallup finds
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6753
-- slug: 2026-04-14-many-us-catholics-dismayed-by-trump-s-verbal-attack-on-pope-leo
-  headline: Many US Catholics dismayed by Trump’s verbal attack on Pope Leo
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6897
-- slug: 2026-04-24-ap-norc-poll-shows-trump-losing-approval-among-hispanics-young-adults
-  headline: AP-NORC poll shows Trump losing approval among Hispanics, young adults
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6824
-- slug: 2026-05-25-npr-explores-christian-nationalism-s-growing-influence-on-u-s-government
-  headline: Christian nationalism’s growing influence on U.S. government
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6619
-- slug: 2026-06-01-poll-finds-55-of-americans-question-trump-s-health-as-he-approaches-80
-  headline: Poll finds 55% of Americans question Trump's health as he approaches 80
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6573
+  strength: 0.668
 ---
-
 ## Pew finds 30% of US Catholics approve of Trump's job performance
 
 **Subtype:** fact

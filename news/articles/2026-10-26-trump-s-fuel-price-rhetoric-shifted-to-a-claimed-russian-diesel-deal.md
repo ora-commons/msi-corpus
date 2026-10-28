@@ -1,9 +1,25 @@
 ---
 headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
-secondary_headline: Retailer demand preceded Trump’s diesel claim and proposed $8 billion relief
+secondary_headline: Retailer demand preceded Trump’s diesel claim and proposed $8
+  billion relief
 publish_date: '2026-10-26'
-lede: An Associated Press chronology shows President Donald Trump’s fuel-cost rhetoric shifting from saying gasoline was “falling fast” on Feb. 24 to claiming a Russian diesel deal on Oct. 9 and proposing a harvest fuel-relief program on Oct. 19 that he claimed would provide $8 billion for farmers. His dated statements also included that higher oil prices made money on March 12, a June 29 demand that retailers cut prices and a Sept. 9 prediction that oil prices would start falling after the election. Monday’s national averages were $4.29 per gallon for regular gasoline and $6.35 per gallon for diesel.
-nut_graf: The dated sequence moves from a Feb. 24 claim that gasoline was “falling fast” through a March 12 argument that higher oil prices made money, a June 29 demand for retailer cuts, an Oct. 9 Russian-diesel deal claim and an Oct. 19 harvest fuel-relief proposal that Trump claimed would provide $8 billion for farmers. The Associated Press chronology records oil at $68 per barrel and heading south in June and diesel at a September high of nearly $6.53 per gallon; Monday’s averages were $4.29 per gallon for regular gasoline and $6.35 per gallon for diesel. Higher fuel costs have complicated Republicans’ effort to retain control of Congress, while cost-of-living concerns rank at the top of many voters’ priorities.
+lede: An Associated Press chronology shows President Donald Trump’s fuel-cost rhetoric
+  shifting from saying gasoline was “falling fast” on Feb. 24 to claiming a Russian
+  diesel deal on Oct. 9 and proposing a harvest fuel-relief program on Oct. 19 that
+  he claimed would provide $8 billion for farmers. His dated statements also included
+  that higher oil prices made money on March 12, a June 29 demand that retailers cut
+  prices and a Sept. 9 prediction that oil prices would start falling after the election.
+  Monday’s national averages were $4.29 per gallon for regular gasoline and $6.35
+  per gallon for diesel.
+nut_graf: The dated sequence moves from a Feb. 24 claim that gasoline was “falling
+  fast” through a March 12 argument that higher oil prices made money, a June 29 demand
+  for retailer cuts, an Oct. 9 Russian-diesel deal claim and an Oct. 19 harvest fuel-relief
+  proposal that Trump claimed would provide $8 billion for farmers. The Associated
+  Press chronology records oil at $68 per barrel and heading south in June and diesel
+  at a September high of nearly $6.53 per gallon; Monday’s averages were $4.29 per
+  gallon for regular gasoline and $6.35 per gallon for diesel. Higher fuel costs have
+  complicated Republicans’ effort to retain control of Congress, while cost-of-living
+  concerns rank at the top of many voters’ priorities.
 primary_entities:
 - Donald Trump
 - Iran
@@ -42,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +158,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal.png
-  alt: 'Illustration accompanying article: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal'
+  alt: 'Illustration accompanying article: Trump’s fuel-price rhetoric shifted to
+    a claimed Russian diesel deal'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
   headline: Trump's fuel-price measures leave gasoline and diesel costs high
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8204
+  strength: 0.8207
 - slug: 2026-10-20-u-s-department-of-agriculture-and-trump-announce-8-billion-farm-aid
   headline: U.S. Department of Agriculture and Trump announce $8 billion farm aid
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7797
+  strength: 0.7799
 - slug: 2026-10-20-trump-announces-8-billion-in-farmer-aid-ahead-of-midterms
   headline: Trump announces $8 billion in farmer aid ahead of midterms
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7437
+  strength: 0.7444
 - slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
   headline: Trump pulls fuel-price levers as midterm elections approach
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7981
+  strength: 0.7977
 - slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
   headline: Trump says US reached deal with Putin for Russian diesel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7766
+  strength: 0.7772
 - slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
   headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7573
+  strength: 0.7583
 - slug: 2026-10-12-diesel-futures-erase-post-deal-drop-as-traders-dismiss-russian-volumes
   headline: Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7461
+  strength: 0.7466
 - slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
   headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7445
-- slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
-  headline: Bipartisan senators urge Trump to reverse Russian diesel deal
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7496
-- slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7634
-- slug: 2026-10-06-trump-weighs-suspending-federal-gas-tax-ahead-of-midterms
-  headline: Trump weighs suspending federal gas tax ahead of midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.761
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.767
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7574
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7504
-- slug: 2026-09-09-trump-predicts-post-election-end-to-iran-war-and-lower-oil-prices
-  headline: Trump predicts post-election end to Iran war and lower oil prices
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.778
-- slug: 2026-06-09-trump-says-us-gas-prices-not-very-high-as-4-16-gallon-average-persists
-  headline: Trump says US gas prices ‘not very high’ as $4.16 gallon average persists
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7928
-- slug: 2026-06-30-bessent-warns-oil-companies-to-lower-prices-as-trump-demands-2-50-gas
-  headline: Bessent warns oil companies to lower prices as Trump demands $2.50 gas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7455
-- slug: 2026-06-24-trump-orders-doj-probe-into-oil-companies-over-gasoline-price-gouging-claims
-  headline: Trump orders DOJ probe into oil companies over gasoline price gouging claims
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.751
-- slug: 2026-07-03-doj-and-ftc-urge-state-attorneys-general-to-investigate-gasoline-pricing
-  headline: DOJ and FTC urge state attorneys general to investigate gasoline pricing
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7376
-- slug: 2026-06-18-gas-prices-fall-below-4-on-average-after-trump-signs-iran-deal
-  headline: Gas prices fall below $4 on average after Trump signs Iran deal
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7478
+  strength: 0.7451
 ---
-
 ## Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
 
 **Subtype:** fact

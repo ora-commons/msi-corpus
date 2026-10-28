@@ -1,9 +1,20 @@
 ---
 headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
-secondary_headline: One recycler estimated nearly a ton of rare earths worth close to $100,000
+secondary_headline: One recycler estimated nearly a ton of rare earths worth close
+  to $100,000
 publish_date: '2026-10-26'
-lede: A few recycling ventures are betting that the quickest route to new rare-earth metal supply runs through retired wind turbines, The Wall Street Journal’s Ed Ballard wrote. Some room-size generators in retired turbines contain nearly a ton of rare earths worth close to $100,000, according to one recycler’s estimate. Thousands of retirement-age turbines are awaiting harvest as America’s wind industry ages, though dismantling and material separation remain difficult.
-nut_graf: The Wall Street Journal also reported Audi’s first U.S. factory, truck delays at Iran’s borders and South Korean-backed U.S. shipyard projects. The Audi plan targets American buyers as sales fall elsewhere, the border report concerns trucks waiting at Iran’s borders with Turkey, Afghanistan and Azerbaijan, and the shipbuilding items cover upgrades at Hanwha Ocean’s Philadelphia site and a planned HD Hyundai-Kiewit yard.
+lede: A few recycling ventures are betting that the quickest route to new rare-earth
+  metal supply runs through retired wind turbines, The Wall Street Journal’s Ed Ballard
+  wrote. Some room-size generators in retired turbines contain nearly a ton of rare
+  earths worth close to $100,000, according to one recycler’s estimate. Thousands
+  of retirement-age turbines are awaiting harvest as America’s wind industry ages,
+  though dismantling and material separation remain difficult.
+nut_graf: The Wall Street Journal also reported Audi’s first U.S. factory, truck delays
+  at Iran’s borders and South Korean-backed U.S. shipyard projects. The Audi plan
+  targets American buyers as sales fall elsewhere, the border report concerns trucks
+  waiting at Iran’s borders with Turkey, Afghanistan and Azerbaijan, and the shipbuilding
+  items cover upgrades at Hanwha Ocean’s Philadelphia site and a planned HD Hyundai-Kiewit
+  yard.
 primary_entities:
 - Audi
 - Gernot Döllner
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,106 +157,47 @@ related_stories:
   headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7221
+  strength: 0.7233
 - slug: 2026-10-24-paladin-harvests-rare-earth-metals-from-retired-wind-turbines
   headline: Paladin harvests rare-earth metals from retired wind turbines
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7219
+  strength: 0.7206
 - slug: 2026-10-25-audi-plans-macon-plant-to-emphasize-gas-powered-vehicles-and-plug-in-hybrids
   headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.698
+  strength: 0.6993
+- slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
+  headline: Audi plans Q7, Q8 and Q9 production in Macon
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6945
 - slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
   headline: Audi sets 2027 construction start for its Macon plant
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6687
-- slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6352
-- slug: 2026-10-12-iowa-steel-and-philadelphia-shipyard-projects-face-labor-and-pricing-hurdles
-  headline: Iowa steel and Philadelphia shipyard projects face labor and pricing hurdles
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6444
+  strength: 0.6697
 - slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
+  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply
+    chain
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6837
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6322
-- slug: 2026-09-10-iran-continues-missile-assembly-underground-despite-us-and-israeli-strikes
-  headline: Iran continues missile assembly underground despite US and Israeli strikes
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6428
-- slug: 2026-09-02-u-s-refiners-have-no-plans-to-build-new-plants-citing-long-term-demand-decline
-  headline: U.S. refiners have no plans to build new plants, citing long-term demand decline
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6444
+  strength: 0.6842
 - slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
+  headline: U.S. allocated $46 billion for critical minerals over five years, eight
+    times EU spending, think tank finds
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6956
-- slug: 2026-07-13-aging-infrastructure-and-repeated-draws-cut-strategic-petroleum-reserve-pumping-
-  headline: Aging infrastructure and repeated draws cut Strategic Petroleum Reserve pumping capacity, GAO finds
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6396
+  strength: 0.6959
 - slug: 2026-02-03-trump-launches-project-vault-rare-earths-reserve-with-12b-plan
   headline: Trump launches “Project Vault” rare-earths reserve with $12B plan
   publish_date: '2026-02-03'
   relation: related
-  strength: 0.6906
-- slug: 2026-06-25-army-leases-land-on-bases-for-critical-mineral-processing
-  headline: Army Leases Land on Bases for Critical Mineral Processing
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.639
-- slug: 2026-06-01-usa-rare-earth-plans-200-million-france-expansion-to-cut-china-reliance
-  headline: USA Rare Earth plans $200 million France expansion to cut China reliance
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6531
-- slug: 2026-06-09-western-companies-invest-in-brazil-rare-earths-to-challenge-china-s-dominance
-  headline: Western companies invest in Brazil rare earths to challenge China's dominance
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6358
-- slug: 2026-01-11-greenland-rare-earth-mining-faces-years-of-obstacles-regardless-of-trump-push-ex
-  headline: Greenland rare earth mining faces years of obstacles regardless of Trump push, experts say
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6742
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6435
-- slug: 2026-05-15-trump-halts-u-s-offshore-wind-expansion-as-global-industry-adds-record-capacity
-  headline: Trump halts U.S. offshore wind expansion as global industry adds record capacity
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6406
-- slug: 2026-05-21-investors-pour-millions-into-deep-sea-mining-startups-a-year-after-trump-executi
-  headline: Investors pour millions into deep-sea mining startups a year after Trump executive order
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6364
+  strength: 0.6908
 analyses:
-- '2026-10-26-retired-wind-turbines-remain-a-prospective-rare-earth-source-not-proven-commerci'
+- 2026-10-26-retired-wind-turbines-remain-a-prospective-rare-earth-source-not-proven-commerci
 ---
-
 ## A few recycling ventures pursue rare-earth supply from retired wind turbines
 
 **Subtype:** fact

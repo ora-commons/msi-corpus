@@ -2,8 +2,22 @@
 headline: Footage documents maternal separation in University of Washington study
 secondary_headline: Researchers separated 28 infants after dosing 32 pregnant macaques
 publish_date: '2026-10-26'
-lede: The Guardian reported on October 26, 2026, that video footage released by the animal-rights group Peta revealed, for the first time, filmed experiments at the University of Washington’s National Primate Research Center, where newborn monkeys were separated from their mothers and subjected to neurological tests after prenatal exposure to a neurotoxin. Records show the project dosed 32 pregnant macaques daily, then removed 28 infants after birth for bottle-feeding and incubator care before individual housing at three weeks. The footage was filmed from 2017 through 2019 and released to Peta in September 2026 after a records request; the project ran from 2014 to 2020 and received more than $4.2 million in National Institutes of Health funding.
-nut_graf: The footage documents experiments that remain relevant to disputes over animal welfare and public-health research. The center reports no current infant studies, although protocols for such work remain active, and says the studies contributed to understanding how prenatal domoic acid exposure may affect learning and memory, with the findings remaining relevant to public health. The Guardian reported no clear evidence that the experiments changed public-health recommendations.
+lede: The Guardian reported on October 26, 2026, that video footage released by the
+  animal-rights group Peta revealed, for the first time, filmed experiments at the
+  University of Washington’s National Primate Research Center, where newborn monkeys
+  were separated from their mothers and subjected to neurological tests after prenatal
+  exposure to a neurotoxin. Records show the project dosed 32 pregnant macaques daily,
+  then removed 28 infants after birth for bottle-feeding and incubator care before
+  individual housing at three weeks. The footage was filmed from 2017 through 2019
+  and released to Peta in September 2026 after a records request; the project ran
+  from 2014 to 2020 and received more than $4.2 million in National Institutes of
+  Health funding.
+nut_graf: The footage documents experiments that remain relevant to disputes over
+  animal welfare and public-health research. The center reports no current infant
+  studies, although protocols for such work remain active, and says the studies contributed
+  to understanding how prenatal domoic acid exposure may affect learning and memory,
+  with the findings remaining relevant to public health. The Guardian reported no
+  clear evidence that the experiments changed public-health recommendations.
 primary_entities:
 - Peta
 - University of Washington
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +154,8 @@ cross_article_links:
   strength: 0.5955
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-dna-links-euthanized-coyote-to-atwater-village-attack-on-16-month-old-boy
-  headline: DNA links euthanized coyote to Atwater Village attack on 16-month-old boy
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.606
-- slug: 2026-10-12-anti-vaccine-group-claims-it-sparked-probes-into-texas-measles-doctors
-  headline: Anti-vaccine group claims it sparked probes into Texas measles doctors
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5913
-- slug: 2026-10-08-pediatricians-group-renews-call-for-ban-on-raw-milk-sales
-  headline: Pediatricians group renews call for ban on raw milk sales
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5824
-- slug: 2026-09-28-gates-warns-ai-regulation-needed-to-prevent-billion-deaths
-  headline: Gates warns AI regulation needed to prevent 'billion deaths'
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5782
-- slug: 2026-09-20-cdc-rabies-advisory-follows-beaver-attacks-petting-zoo-exposures-amid-uncertaint
-  headline: CDC rabies advisory follows beaver attacks, petting zoo exposures amid uncertainty
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5998
-- slug: 2026-09-16-stanford-researchers-create-mice-with-human-brain-cells-to-study-disease
-  headline: Stanford researchers create mice with human brain cells to study disease
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.601
-- slug: 2026-09-08-documents-reveal-us-law-enforcement-concerns-over-meta-smart-glasses
-  headline: Documents reveal US law enforcement concerns over Meta smart glasses
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5937
-- slug: 2026-09-08-us-datacenters-draw-wastewater-enforcement-across-multiple-states
-  headline: US datacenters draw wastewater enforcement across multiple states
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5805
-- slug: 2026-08-31-north-carolina-confirms-rabies-in-three-baby-goats-at-harmony-petting-zoo
-  headline: North Carolina confirms rabies in three baby goats at Harmony petting zoo
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5794
-- slug: 2026-07-27-first-us-business-releases-600-000-mosquitoes-across-washington-dc-area
-  headline: First US business releases 600,000 mosquitoes across Washington DC area
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6078
-- slug: 2026-06-14-study-finds-hormone-disrupting-chemicals-in-us-breast-milk-samples
-  headline: Study finds hormone-disrupting chemicals in US breast milk samples
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6365
-- slug: 2026-07-29-scientists-reaffirm-animal-origin-of-covid-19-as-senate-hearing-rekindles-lab-le
-  headline: Scientists reaffirm animal origin of COVID-19 as Senate hearing rekindles lab-leak debate
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.5799
-- slug: 2026-07-06-study-links-air-pollution-to-childhood-obesity-through-impulse-control
-  headline: Study links air pollution to childhood obesity through impulse control
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5917
-- slug: 2026-06-26-house-panel-probes-nih-after-scientists-charged-with-smuggling-mpox
-  headline: House panel probes NIH after scientists charged with smuggling mpox
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5904
-- slug: 2026-03-27-rare-sperm-whale-birth-video-shows-mothers-coordinating-to-protect-calf
-  headline: Rare sperm whale birth video shows mothers coordinating to protect calf
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6162
-- slug: 2026-06-04-three-studies-cited-by-rfk-jr-retracted-or-placed-under-investigation
-  headline: Three studies cited by RFK Jr. retracted or placed under investigation
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5885
-- slug: 2026-04-30-new-fda-study-confirms-safety-of-us-infant-formula
-  headline: New FDA study confirms safety of US infant formula
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6033
-- slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could harm kids
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6091
-- slug: 2026-05-02-ap-investigation-finds-adopted-kids-harmed-in-for-profit-residential-programs
-  headline: Adopted kids harmed in for-profit residential programs
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5814
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-pediatricians-urge-parent-talk-first
-  headline: Jury finds Meta and YouTube liable; pediatricians urge parent “talk first”
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5911
+related_stories: []
 ---
-
 ## Footage documents maternal separation in University of Washington study
 
 **Subtype:** fact

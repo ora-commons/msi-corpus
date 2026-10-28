@@ -2,8 +2,17 @@
 headline: Justice Department plans appeal after judge finds Comey eligible for backpay
 secondary_headline: Furman says attorney general’s removal power has limits
 publish_date: '2026-10-26'
-lede: The Justice Department said it disagreed with U.S. District Judge Jesse Furman’s ruling and plans to appeal the decision, which found Maurene Comey eligible for about five months of backpay and held her removal from the U.S. attorney’s office in Manhattan unlawful. Furman said Congress had granted the attorney general power to remove federal prosecutors, but the authority had limits that were violated in Comey’s case.
-nut_graf: The ruling turns on how far Congress went in granting the attorney general power to remove federal prosecutors, with Furman finding that the authority’s limits were violated in Comey’s case. The Justice Department’s planned appeal challenges the decision’s legal conclusion, while the judge found Comey eligible for about five months of backpay.
+lede: The Justice Department said it disagreed with U.S. District Judge Jesse Furman’s
+  ruling and plans to appeal the decision, which found Maurene Comey eligible for
+  about five months of backpay and held her removal from the U.S. attorney’s office
+  in Manhattan unlawful. Furman said Congress had granted the attorney general power
+  to remove federal prosecutors, but the authority had limits that were violated in
+  Comey’s case.
+nut_graf: The ruling turns on how far Congress went in granting the attorney general
+  power to remove federal prosecutors, with Furman finding that the authority’s limits
+  were violated in Comey’s case. The Justice Department’s planned appeal challenges
+  the decision’s legal conclusion, while the judge found Comey eligible for about
+  five months of backpay.
 primary_entities:
 - Maurene Comey
 - Jesse Furman
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +148,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-furman-finds-due-process-violation-calls-for-comey-back-pay-possible-return
+  headline: Furman finds due process violation, calls for Comey back pay, possible
+    return
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8672
+- slug: 2026-10-26-judge-orders-justice-department-to-reinstate-maurene-comey
+  headline: Judge orders Justice Department to reinstate Maurene Comey
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8633
 - slug: 2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful
   headline: Federal judge rules Maurene Comey's firing unlawful
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8463
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
+  strength: 0.844
+- slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
+  headline: Justice Department says Pam Bondi decided Maurene Comey's firing
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.634
-- slug: 2026-04-29-judge-lets-maurene-comey-wrongful-firing-lawsuit-proceed-against-trump
-  headline: Judge lets Maurene Comey wrongful-firing lawsuit proceed against Trump
-  publish_date: '2026-04-29'
+  strength: 0.83
+- slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
+  headline: James Comey remains unindicted after defense filed dismissal motion
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.8097
-- slug: 2026-08-14-appeals-court-clears-way-for-doj-subpoena-of-transgender-care-provider
-  headline: Appeals court clears way for DOJ subpoena of transgender care provider
-  publish_date: '2026-08-14'
+  strength: 0.706
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6461
-- slug: 2026-08-17-former-face-act-prosecutor-sues-doj-over-april-firing
-  headline: Former FACE Act prosecutor sues DOJ over April firing
-  publish_date: '2026-08-17'
+  strength: 0.6977
+- slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6377
-- slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
-  headline: Trump sends Cook new removal notice despite Supreme Court ruling
-  publish_date: '2026-08-07'
+  strength: 0.6821
+- slug: 2026-10-26-justice-department-charges-james-comey-over-alleged-2016-leak
+  headline: Justice Department charges James Comey over alleged 2016 leak
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.636
-- slug: 2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders
-  headline: Supreme Court gives Trump power to fire agency leaders
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6452
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6617
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6389
-- slug: 2026-05-05-federal-appeals-judges-question-trump-s-extended-prosecutor-appointments
-  headline: Federal appeals judges question Trump’s extended prosecutor appointments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6572
-- slug: 2026-01-13-justice-department-accuses-federal-judge-of-abusing-power-over-prosecutor-s-titl
-  headline: Justice Department accuses federal judge of abusing power over prosecutor's title
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6755
-- slug: 2026-06-01-trump-administration-appeals-federal-order-allowing-all-importers-to-seek-tariff
-  headline: Trump administration appeals federal order allowing all importers to seek tariff refunds
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6394
-- slug: 2026-06-04-justice-department-eyes-alternative-payout-paths-for-trump-allies-after-fund-ret
-  headline: Justice Department Eyes Alternative Payout Paths for Trump Allies After Fund Retreat
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.637
-- slug: 2026-05-04-appeals-judges-question-trump-s-long-term-interim-top-prosecutor-setup
-  headline: Appeals judges question Trump’s long-term interim top prosecutor setup
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.643
-- slug: 2026-04-01-3-fired-fbi-agents-sue-to-regain-jobs-after-trump-investigation-work
-  headline: 3 fired FBI agents sue to regain jobs after Trump investigation work
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6515
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6473
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  headline: Trump administration targets political opponents; Powell and Fed the latest
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6567
-- slug: 2026-01-18-doj-firings-hollow-out-career-staff-as-more-than-6-400-employees-depart
-  headline: DOJ firings hollow out career staff as more than 6,400 employees depart
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.6509
-- slug: 2026-01-12-republican-senators-and-ex-fed-chairs-rally-against-doj-investigation-of-powell
-  headline: Republican senators and ex-Fed chairs rally against DOJ investigation of Powell
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6513
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6516
+  strength: 0.6641
 ---
-
 ## Justice Department plans appeal after judge finds Comey eligible for backpay
 
 **Subtype:** fact

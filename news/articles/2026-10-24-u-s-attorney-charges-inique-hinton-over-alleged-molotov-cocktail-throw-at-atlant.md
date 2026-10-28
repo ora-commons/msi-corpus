@@ -1,9 +1,16 @@
 ---
-headline: U.S. Attorney charges Inique Hinton over alleged Molotov cocktail throw at Atlanta ICE building
+headline: U.S. Attorney charges Inique Hinton over alleged Molotov cocktail throw
+  at Atlanta ICE building
 secondary_headline: If convicted, Hinton faces up to 20 years for the arson charge
 publish_date: '2026-10-24'
-lede: U.S. Attorney Theodore S. Hertzberg said Inique Hinton, a 31-year-old man from Douglasville, Georgia, was charged Friday with attempted arson of a federal building and depredation of government property. The U.S. Attorney’s Office alleged that Hinton threw a Molotov cocktail at a U.S. Immigration and Customs Enforcement building in downtown Atlanta on Tuesday night.
-nut_graf: If convicted, Hinton faces up to 20 years in federal prison for the arson charge and up to 10 years for depredation, according to Hertzberg. The targeted downtown building contains ICE offices and an immigration court.
+lede: U.S. Attorney Theodore S. Hertzberg said Inique Hinton, a 31-year-old man from
+  Douglasville, Georgia, was charged Friday with attempted arson of a federal building
+  and depredation of government property. The U.S. Attorney’s Office alleged that
+  Hinton threw a Molotov cocktail at a U.S. Immigration and Customs Enforcement building
+  in downtown Atlanta on Tuesday night.
+nut_graf: If convicted, Hinton faces up to 20 years in federal prison for the arson
+  charge and up to 10 years for depredation, according to Hertzberg. The targeted
+  downtown building contains ICE offices and an immigration court.
 primary_entities:
 - Inique Hinton
 - Theodore S. Hertzberg
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,52 +149,14 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-fbi-personnel-collect-evidence-at-atlanta-ice-office-after-reported-incendiary-d
-  headline: FBI personnel collect evidence at Atlanta ICE office after reported incendiary-device throw
+  headline: FBI personnel collect evidence at Atlanta ICE office after reported incendiary-device
+    throw
   publish_date: '2026-10-21'
   relation: related
   strength: 0.725
-- slug: 2026-09-24-ice-agents-allegedly-injure-u-s-citizen-in-evanston-mistaken-identity-stop
-  headline: ICE agents allegedly injure U.S. citizen in Evanston mistaken-identity stop
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6219
-- slug: 2026-09-21-federal-agents-wrongly-detain-us-citizen-in-evanston-leaving-him-injured
-  headline: Federal agents wrongly detain US citizen in Evanston, leaving him injured
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6162
-- slug: 2026-09-17-ice-agent-christian-castro-appears-in-minnesota-court-on-immigrant-shooting-char
-  headline: ICE agent Christian Castro appears in Minnesota court on immigrant shooting charges
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.631
-- slug: 2026-09-17-ice-agent-christian-castro-arrested-in-minneapolis-on-state-charges
-  headline: ICE agent Christian Castro arrested in Minneapolis on state charges
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.623
-- slug: 2026-09-17-ice-agent-spends-three-months-in-texas-jail-as-governors-fight-extradition
-  headline: ICE agent spends three months in Texas jail as governors fight extradition
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6162
-- slug: 2026-08-26-federal-judge-to-weigh-minnesota-bid-to-keep-ice-agent-jailed-in-texas
-  headline: Federal judge to weigh Minnesota bid to keep ICE agent jailed in Texas
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6205
-- slug: 2026-07-20-fbi-investigates-incendiary-device-incident-at-manhattan-federal-building
-  headline: FBI investigates incendiary device incident at Manhattan federal building
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6379
-- slug: 2026-07-27-family-sues-federal-government-after-ice-agents-shot-at-truck-driver-held-three-
-  headline: Family sues federal government after ICE agents shot at truck, driver held three months in detention
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.618
 - slug: 2026-06-12-30-month-sentence-for-rock-thrower-who-assaulted-federal-officer-at-portland-ice
-  headline: 30-month sentence for rock-thrower who assaulted federal officer at Portland ICE protest
+  headline: 30-month sentence for rock-thrower who assaulted federal officer at Portland
+    ICE protest
   publish_date: '2026-06-12'
   relation: related
   strength: 0.6509
@@ -200,48 +170,18 @@ related_stories:
   publish_date: '2026-04-14'
   relation: related
   strength: 0.6611
-- slug: 2026-05-19-minnesota-charges-ice-agent-in-jan-14-shooting-of-venezuelan-man
-  headline: Minnesota charges ICE agent in Jan. 14 shooting of Venezuelan man
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6426
 - slug: 2026-04-15-suspect-in-molotov-attack-at-sam-altman-s-home-held-without-bail
   headline: Suspect in Molotov attack at Sam Altman’s home held without bail
   publish_date: '2026-04-15'
   relation: related
   strength: 0.6541
 - slug: 2026-02-02-immigration-raids-protester-sentenced-to-4-years-for-molotov-attack-on-deputies
-  headline: Immigration raids protester sentenced to 4 years for Molotov attack on deputies
+  headline: Immigration raids protester sentenced to 4 years for Molotov attack on
+    deputies
   publish_date: '2026-02-02'
   relation: related
   strength: 0.6607
-- slug: 2026-05-19-minnesota-charges-ice-officer-with-assault-in-jan-14-shooting-of-venezuelan-man
-  headline: Minnesota charges ICE officer with assault in Jan. 14 shooting of Venezuelan man
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6324
-- slug: 2026-05-19-ice-officer-charged-in-shooting-of-venezuelan-man-during-minnesota-immigration-c
-  headline: ICE officer charged in shooting of Venezuelan man during Minnesota immigration crackdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6308
-- slug: 2026-05-18-minnesota-charges-ice-agent-with-assault-in-jan-14-shooting-of-venezuelan-man
-  headline: Minnesota charges ICE agent with assault in Jan. 14 shooting of Venezuelan man
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6276
-- slug: 2026-05-05-man-shot-by-ice-in-california-pleads-not-guilty-to-federal-charges
-  headline: Man shot by ICE in California pleads not guilty to federal charges
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.63
-- slug: 2026-04-11-openai-ceo-sam-altman-home-hit-by-molotov-suspect-arrested
-  headline: OpenAI CEO Sam Altman home hit by Molotov; suspect arrested
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6292
 ---
-
 ## U.S. Attorney charges Inique Hinton over alleged Molotov cocktail throw at Atlanta ICE building
 
 **Subtype:** fact

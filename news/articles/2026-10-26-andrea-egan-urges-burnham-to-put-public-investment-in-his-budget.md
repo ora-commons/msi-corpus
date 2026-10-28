@@ -2,8 +2,20 @@
 headline: Andrea Egan urges Burnham to put public investment in his budget
 secondary_headline: Column calls for public ownership, tax changes and in-house services
 publish_date: '2026-10-26'
-lede: Unison general secretary Andrea Egan urged UK Prime Minister Andy Burnham on October 26 to put a multiyear public-investment program and major tax changes in this week's budget. In an opinion column in The Guardian, Egan said the budget must translate Burnham's break with neoliberalism into serious measures for workers, including restored public-service investment and wages, services brought back in-house and a fairer tax contribution from the wealthy. She said the trade union movement would stand with Burnham only if he maintained his historic ambition to remake Britain in the interests of the working class, while warning that vested interests would resist the change.
-nut_graf: Egan argued that the budget must be the moment when Burnham's program begins to match his rhetoric. She also set out broader priorities for public ownership, trade union support conditioned on Burnham's historic working-class agenda, and a break with vested interests that profited from the existing economic settlement, which might have impoverished the vast majority.
+lede: Unison general secretary Andrea Egan urged UK Prime Minister Andy Burnham on
+  October 26 to put a multiyear public-investment program and major tax changes in
+  this week's budget. In an opinion column in The Guardian, Egan said the budget must
+  translate Burnham's break with neoliberalism into serious measures for workers,
+  including restored public-service investment and wages, services brought back in-house
+  and a fairer tax contribution from the wealthy. She said the trade union movement
+  would stand with Burnham only if he maintained his historic ambition to remake Britain
+  in the interests of the working class, while warning that vested interests would
+  resist the change.
+nut_graf: Egan argued that the budget must be the moment when Burnham's program begins
+  to match his rhetoric. She also set out broader priorities for public ownership,
+  trade union support conditioned on Burnham's historic working-class agenda, and
+  a break with vested interests that profited from the existing economic settlement,
+  which might have impoverished the vast majority.
 primary_entities:
 - Andrea Egan
 - Andy Burnham
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +162,43 @@ related_stories:
   headline: Badenoch says Healey's budget will be even worse than Reeves's two
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6619
+  strength: 0.6621
 - slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
   headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6596
+  strength: 0.6602
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7233
-- slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
-  headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6557
+  strength: 0.7243
 - slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
   headline: Burnham backs universal English social care reform
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7113
+  strength: 0.713
+- slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
+  headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
+  publish_date: '2026-10-09'
+  relation: related
+  strength: 0.6537
 - slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
   headline: Burnham to outline social care and public control plans at Labour conference
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6991
+  strength: 0.6998
 - slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
   headline: Rising energy bills and inflation test Burnham's economic agenda
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6948
+  strength: 0.696
 - slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
   headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6635
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6675
-- slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.68
-- slug: 2026-09-20-uk-minister-says-trump-s-war-with-iran-will-complicate-next-month-s-budget
-  headline: UK minister says Trump's war with Iran will complicate next month's budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6839
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7286
-- slug: 2026-09-22-ed-davey-sets-out-17bn-income-tax-cut-plan-at-lib-dem-conference
-  headline: Ed Davey sets out £17bn income tax cut plan at Lib Dem conference
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.653
-- slug: 2026-09-20-burnham-meets-trump-at-un-planning-firmer-approach-than-starmer-s
-  headline: Burnham meets Trump at UN, planning firmer approach than Starmer's
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6525
-- slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
-  headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6755
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6641
-- slug: 2026-07-23-badenoch-says-burnham-governing-like-manchester-mayor-demands-tax-pledge
-  headline: Badenoch says Burnham governing like Manchester mayor, demands tax pledge
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.733
-- slug: 2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war
-  headline: UK unions urge Burnham to revoke US access to RAF bases over Iran war
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.689
-- slug: 2026-06-25-unison-chief-endorses-ed-miliband-for-chancellor-in-burnham-government
-  headline: Unison chief endorses Ed Miliband for chancellor in Burnham government
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7451
-- slug: 2026-07-22-burnham-balances-voters-bond-markets-with-first-day-moves
-  headline: Burnham balances voters, bond markets with first-day moves
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6926
+  strength: 0.6628
 ---
-
 ## Andrea Egan urges Burnham to put public investment in his budget
 
 **Subtype:** fact

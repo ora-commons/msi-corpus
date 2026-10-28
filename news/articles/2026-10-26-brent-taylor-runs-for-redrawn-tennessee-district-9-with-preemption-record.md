@@ -1,9 +1,24 @@
 ---
 headline: Brent Taylor runs for redrawn Tennessee District 9 with preemption record
-secondary_headline: Pearson calls for schools and jobs as Taylor stresses prosecution and incarceration
+secondary_headline: Pearson calls for schools and jobs as Taylor stresses prosecution
+  and incarceration
 publish_date: '2026-10-26'
-lede: Republican state Sen. Brent Taylor is running for Tennessee's redrawn Congressional District 9 after using a Republican supermajority to push through half a dozen laws that displaced local authority over traffic stops, bail and prosecution in Memphis and Shelby County. The seat had been the state's only majority-Black congressional district for more than four decades before the Republican-led legislature stretched it across half the state and left it majority white; ProPublica reported that Taylor was favored to win because of that redistricting. His Democratic opponent, state Rep. Justin J. Pearson, is running on improving schools and economic opportunities and has raised more campaign money than Taylor.
-nut_graf: The race places Taylor's state-preemption record before voters in a district redrawn by the same Republican-led legislature. His laws limited local authority over traffic stops, barred judges from considering a defendant's ability to pay when setting bail and expanded state review of prosecutorial decisions. ProPublica reported that pretextual traffic stops disproportionately detain Black drivers and that former judge Bill Anderson said Taylor's bail law had its hardest impact on Black residents.
+lede: Republican state Sen. Brent Taylor is running for Tennessee's redrawn Congressional
+  District 9 after using a Republican supermajority to push through half a dozen laws
+  that displaced local authority over traffic stops, bail and prosecution in Memphis
+  and Shelby County. The seat had been the state's only majority-Black congressional
+  district for more than four decades before the Republican-led legislature stretched
+  it across half the state and left it majority white; ProPublica reported that Taylor
+  was favored to win because of that redistricting. His Democratic opponent, state
+  Rep. Justin J. Pearson, is running on improving schools and economic opportunities
+  and has raised more campaign money than Taylor.
+nut_graf: The race places Taylor's state-preemption record before voters in a district
+  redrawn by the same Republican-led legislature. His laws limited local authority
+  over traffic stops, barred judges from considering a defendant's ability to pay
+  when setting bail and expanded state review of prosecutorial decisions. ProPublica
+  reported that pretextual traffic stops disproportionately detain Black drivers and
+  that former judge Bill Anderson said Taylor's bail law had its hardest impact on
+  Black residents.
 primary_entities:
 - Brent Taylor
 - Justin J. Pearson
@@ -45,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +159,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-02-hundreds-rally-in-mississippi-against-republican-redistricting-push
-  headline: Hundreds rally in Mississippi against Republican redistricting push
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6432
 - slug: 2026-08-06-tennessee-primary-tests-map-that-reshapes-memphis-congressional-district
   headline: Tennessee primary tests map that reshapes Memphis congressional district
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.7671
+  strength: 0.7646
 - slug: 2026-08-14-justin-pearson-wins-tennessee-democratic-congressional-primary
   headline: Justin Pearson wins Tennessee Democratic congressional primary
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7411
+  strength: 0.742
 - slug: 2026-07-18-more-than-a-thousand-rally-for-justin-pearson-after-four-memphis-task-force-shoo
-  headline: More than a thousand rally for Justin Pearson after four Memphis task force shootings
+  headline: More than a thousand rally for Justin Pearson after four Memphis task
+    force shootings
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7236
+  strength: 0.7248
 - slug: 2026-06-02-tennessee-republicans-eliminate-memphis-s-lone-black-majority-congressional-dist
-  headline: Tennessee Republicans eliminate Memphis's lone Black-majority congressional district
+  headline: Tennessee Republicans eliminate Memphis's lone Black-majority congressional
+    district
   publish_date: '2026-06-02'
   relation: related
-  strength: 0.7398
+  strength: 0.7371
 - slug: 2026-07-23-federal-judges-allow-tennessee-map-splitting-majority-black-district
   headline: Federal judges allow Tennessee map splitting majority-Black district
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6778
+  strength: 0.6758
 - slug: 2026-05-10-tennessee-splits-memphis-majority-black-district-after-supreme-court-ruling
   headline: Tennessee Splits Memphis Majority-Black District After Supreme Court Ruling
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7272
+  strength: 0.725
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6607
+  strength: 0.6601
 - slug: 2026-05-05-tennessee-gop-targets-memphis-house-seat-as-other-states-move-post-ruling
   headline: Tennessee GOP targets Memphis House seat as other states move post-ruling
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.7204
-- slug: 2026-05-16-rep-steve-cohen-ends-campaign-after-redraw-of-memphis-district
-  headline: Rep. Steve Cohen ends campaign after redraw of Memphis district
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7061
-- slug: 2026-05-08-tennessee-gop-passes-new-house-map-reshaping-memphis-after-voting-rights-act-rul
-  headline: Tennessee GOP passes new House map reshaping Memphis after Voting Rights Act ruling
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7071
-- slug: 2026-05-16-rep-steve-cohen-ending-campaign-after-redraw-of-his-memphis-district
-  headline: Rep. Steve Cohen ending campaign after redraw of his Memphis district
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6972
-- slug: 2026-05-04-tennessee-gop-targets-memphis-house-district-south-carolina-weighs-changes
-  headline: Tennessee GOP targets Memphis House district; South Carolina weighs changes
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6894
-- slug: 2026-05-10-new-political-map-sends-longtime-memphis-neighbors-into-different-districts
-  headline: New political map sends longtime Memphis neighbors into different districts
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6865
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6799
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6776
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6545
-- slug: 2026-05-10-southern-gop-gerrymandering-push-scrambles-primaries-confuses-voters
-  headline: Southern GOP gerrymandering push scrambles primaries, confuses voters
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6562
-- slug: 2026-04-04-tennessee-eases-child-support-rule-for-voting-rights-after-felony
-  headline: Tennessee eases child support rule for voting rights after felony
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6655
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.647
+  strength: 0.7188
 ---
-
 ## Brent Taylor runs for redrawn Tennessee District 9 with preemption record
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-secondary_headline: Reported participants include Xbox, Windows and Microsoft's AI tool Copilot
+headline: Microsoft buyout reportedly excludes employees in certain divisions, including
+  cybersecurity
+secondary_headline: Reported participants include Xbox, Windows and Microsoft's AI
+  tool Copilot
 publish_date: '2026-10-26'
-lede: Bloomberg reported on Monday that employees in certain divisions, including cybersecurity, datacenters and marketing, would not be eligible for Microsoft's buyout offer. Bloomberg also said Xbox, Windows and Copilot, Microsoft's AI tool, would participate, while Microsoft did not respond to a request for comment on further details. The Guardian reported that the broader offer covered 60,000 employees as Microsoft sought to reduce costs amid the rising use of artificial intelligence.
-nut_graf: The division-level details Bloomberg reported identify examples of participating and excluded divisions rather than establishing every part of Microsoft's workforce that can participate in the offer, as the company follows an April voluntary retirement program covering about 7% of its U.S. workforce, then about 125,000 employees. The development also comes amid workforce cuts announced by Meta, Amazon and Oracle as technology companies increased investment in AI.
+lede: Bloomberg reported on Monday that employees in certain divisions, including
+  cybersecurity, datacenters and marketing, would not be eligible for Microsoft's
+  buyout offer. Bloomberg also said Xbox, Windows and Copilot, Microsoft's AI tool,
+  would participate, while Microsoft did not respond to a request for comment on further
+  details. The Guardian reported that the broader offer covered 60,000 employees as
+  Microsoft sought to reduce costs amid the rising use of artificial intelligence.
+nut_graf: The division-level details Bloomberg reported identify examples of participating
+  and excluded divisions rather than establishing every part of Microsoft's workforce
+  that can participate in the offer, as the company follows an April voluntary retirement
+  program covering about 7% of its U.S. workforce, then about 125,000 employees. The
+  development also comes amid workforce cuts announced by Meta, Amazon and Oracle
+  as technology companies increased investment in AI.
 primary_entities:
 - Microsoft
 - Bloomberg
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,43 @@ related_stories:
   headline: Microsoft opens voluntary exit offers as AI-related capital spending surges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8198
+  strength: 0.8214
 - slug: 2026-10-26-microsoft-s-april-buyout-program-reportedly-drew-more-than-30-acceptance
   headline: Microsoft's April buyout program reportedly drew more than 30% acceptance
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8065
+  strength: 0.808
 - slug: 2026-10-26-ai-data-center-investment-likely-tops-700-billion-as-costs-rise
   headline: AI data-center investment likely tops $700 billion as costs rise
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7451
+  strength: 0.7468
 - slug: 2026-10-23-barclays-plans-5-000-job-cuts-amid-ai-driven-technology-changes
   headline: Barclays plans 5,000 job cuts amid AI-driven technology changes
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.656
+  strength: 0.6555
 - slug: 2026-10-20-amazon-bans-meta-platforms-muse-agent-as-analysts-question-access
   headline: Amazon bans Meta Platforms’ Muse agent as analysts question access
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6612
-- slug: 2026-10-08-microsoft-disputes-vance-s-claim-company-replaced-us-workers-with-h-1b-holders
-  headline: Microsoft disputes Vance's claim company replaced US workers with H-1B holders
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6422
+  strength: 0.6602
 - slug: 2026-09-17-microsoft-overhauls-engineering-structure-in-ai-driven-reorganization
   headline: Microsoft overhauls engineering structure in AI-driven reorganization
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7219
-- slug: 2026-09-25-microsoft-activists-call-for-ban-on-ai-in-military-targeting-autonomous-weapons-
-  headline: Microsoft activists call for ban on AI in military targeting, autonomous weapons, surveillance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6478
+  strength: 0.7223
 - slug: 2026-09-22-xbox-cuts-268-more-jobs-transfers-halo-development-to-activision
   headline: Xbox cuts 268 more jobs, transfers Halo development to Activision
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6501
-- slug: 2026-09-22-meta-s-muse-tops-app-store-lands-shopify-purchase-deal
-  headline: Meta's Muse tops App Store, lands Shopify purchase deal
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6456
-- slug: 2026-09-14-microsoft-publishes-provisional-ai-code-of-conduct
-  headline: Microsoft publishes provisional AI code of conduct
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6442
+  strength: 0.6513
 - slug: 2026-07-16-microsoft-lays-off-about-3-200-at-xbox-divests-five-studios-in-reset
   headline: Microsoft lays off about 3,200 at Xbox, divests five studios in reset
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7009
-- slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
-  headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7531
-- slug: 2026-06-23-oracle-cuts-21-000-roles-as-it-pivots-to-ai-annual-report-shows
-  headline: Oracle cuts 21,000 roles as it pivots to AI, annual report shows
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7042
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6464
-- slug: 2026-07-14-26-meta-employees-sue-alleging-ai-layoff-systems-targeted-workers-on-protected-l
-  headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected leave
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6714
-- slug: 2026-05-15-streamline-operations-how-ai-is-fueling-tech-world-layoffs
-  headline: 'Streamline operations: How AI is fueling tech world layoffs'
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7098
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.663
-- slug: 2026-07-07-huawei-tencent-microsoft-lead-tech-roundup-as-analyst-notes
-  headline: Huawei, Tencent, Microsoft lead tech roundup as analyst notes
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6504
-- slug: 2026-05-15-companies-from-cisco-to-meta-cite-ai-as-layoffs-mount
-  headline: Companies from Cisco to Meta cite AI as layoffs mount
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6857
+  strength: 0.7014
 ---
-
 ## Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
 
 **Subtype:** fact

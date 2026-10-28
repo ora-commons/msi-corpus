@@ -2,8 +2,21 @@
 headline: Candidates campaign directly with rural voters in the midterms
 secondary_headline: Wins or narrow losses could shape 2028 strategy and investment
 publish_date: '2026-10-25'
-lede: In the final stretch of the 2026 US midterm elections, Democratic and independent candidates across the Midwest and prairie states are meeting rural voters in person as they present economic issues. Nebraska US Senate candidate Dan Osborn, a former union leader running as a nonpartisan, is touring all 93 Nebraska counties before election day and has about a dozen left. Iowa Democratic US Senate candidate Josh Turek is campaigning in the reddest district Democrats won in the Iowa legislature, where Donald Trump wins by double digits. Wins or narrow losses in these areas could guide national Democrats and independents on where to invest and how to campaign for 2028.
-nut_graf: These campaigns extend beyond the Senate and congressional contests underway. Former US senator Heidi Heitkamp said Democrats and independent populists need to respond directly to gas prices, tariffs, rural hospital healthcare woes and datacenters to rebuild their reputations and ultimately expand their representation. Results in rural areas could shape where national Democrats and independents invest and how they campaign in 2028.
+lede: In the final stretch of the 2026 US midterm elections, Democratic and independent
+  candidates across the Midwest and prairie states are meeting rural voters in person
+  as they present economic issues. Nebraska US Senate candidate Dan Osborn, a former
+  union leader running as a nonpartisan, is touring all 93 Nebraska counties before
+  election day and has about a dozen left. Iowa Democratic US Senate candidate Josh
+  Turek is campaigning in the reddest district Democrats won in the Iowa legislature,
+  where Donald Trump wins by double digits. Wins or narrow losses in these areas could
+  guide national Democrats and independents on where to invest and how to campaign
+  for 2028.
+nut_graf: These campaigns extend beyond the Senate and congressional contests underway.
+  Former US senator Heidi Heitkamp said Democrats and independent populists need to
+  respond directly to gas prices, tariffs, rural hospital healthcare woes and datacenters
+  to rebuild their reputations and ultimately expand their representation. Results
+  in rural areas could shape where national Democrats and independents invest and
+  how they campaign in 2028.
 primary_entities:
 - Dan Osborn
 - Josh Turek
@@ -74,7 +87,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -176,29 +190,25 @@ related_stories:
   headline: Independent Senate candidates run in four Trump-won states
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7504
+  strength: 0.7501
 - slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
   headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6888
+  strength: 0.689
 - slug: 2026-10-23-rural-ohio-voters-weigh-costs-in-toss-up-senate-race
   headline: Rural Ohio voters weigh costs in toss-up Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.688
+  strength: 0.6884
 - slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
   headline: Populist Democrats make the affordability pitch in red-state races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7084
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6655
+  strength: 0.708
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
   strength: 0.6816
@@ -206,74 +216,18 @@ related_stories:
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6742
+  strength: 0.6746
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.683
+  strength: 0.6831
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6846
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7024
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6706
-- slug: 2026-09-24-leaked-audio-shows-osborn-calling-border-wall-a-symbol-of-racism
-  headline: Leaked audio shows Osborn calling border wall 'a symbol of racism'
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6937
-- slug: 2026-09-14-three-midterm-candidates-build-campaigns-on-climate-linked-issues
-  headline: Three midterm candidates build campaigns on climate-linked issues
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6832
-- slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
-  headline: Iowa Republicans trail in governor's race amid rural economic strain
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6982
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6842
-- slug: 2026-08-18-trump-cabinet-officials-campaign-in-iowa-to-bolster-vulnerable-republicans
-  headline: Trump cabinet officials campaign in Iowa to bolster vulnerable Republicans
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6832
-- slug: 2026-06-03-voters-in-tuesday-primaries-set-midterm-matchups-across-key-states
-  headline: Voters in Tuesday primaries set midterm matchups across key states
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7047
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7053
-- slug: 2026-05-16-democrats-test-red-state-strategy-by-backing-independents-in-some-races
-  headline: Democrats test red-state strategy by backing independents in some races
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7109
-- slug: 2026-05-05-democrats-eye-iowa-as-battleground-as-vance-backs-gop-candidates
-  headline: Democrats eye Iowa as battleground as Vance backs GOP candidates
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7135
+  strength: 0.6847
 ---
-
 ## Candidates campaign directly with rural voters in the midterms
 
 **Subtype:** fact

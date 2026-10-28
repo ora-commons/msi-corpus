@@ -1,9 +1,16 @@
 ---
 headline: Tallahassee police arrest 15-year-old after gunfire near FAMU
-secondary_headline: Police say 12 people were injured and the investigation remains ongoing
+secondary_headline: Police say 12 people were injured and the investigation remains
+  ongoing
 publish_date: '2026-10-26'
-lede: Tallahassee police arrested Anthony Rivers III, 15, on Sunday in connection with a Saturday shooting near the Florida Agricultural + Mechanical University that injured 12 people. Police said the investigation was ongoing and further arrests were possible.
-nut_graf: Police said the investigation into the shooting remained ongoing after the arrest of Anthony Rivers III and that further arrests were possible. The shooting injured six adults and six minors; three victims were seriously wounded and one was in critical condition.
+lede: Tallahassee police arrested Anthony Rivers III, 15, on Sunday in connection
+  with a Saturday shooting near the Florida Agricultural + Mechanical University that
+  injured 12 people. Police said the investigation was ongoing and further arrests
+  were possible.
+nut_graf: Police said the investigation into the shooting remained ongoing after the
+  arrest of Anthony Rivers III and that further arrests were possible. The shooting
+  injured six adults and six minors; three victims were seriously wounded and one
+  was in critical condition.
 primary_entities:
 - Anthony Rivers III
 - Tallahassee Police Department
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +147,45 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-tallahassee-police-say-monday-a-15-year-old-was-charged-in-florida-a-m-shooting
-  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M shooting
+- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
+  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8653
+  strength: 0.9008
+- slug: 2026-10-26-tallahassee-police-say-monday-a-15-year-old-was-charged-in-florida-a-m-shooting
+  headline: Tallahassee police say Monday a 15-year-old was charged in Florida A&M
+    shooting
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8642
+- slug: 2026-10-26-revell-says-police-carried-victims-to-responders-because-of-football-game-crowds
+  headline: Revell says police carried victims to responders because of football-game
+    crowds
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8505
 - slug: 2026-10-25-tallahassee-police-report-at-least-12-injured-after-florida-a-m-homecoming-game
-  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming game
+  headline: Tallahassee police report at least 12 injured after Florida A&M homecoming
+    game
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8227
+  strength: 0.8229
 - slug: 2026-10-25-revell-initially-reports-no-arrests-after-tallahassee-stadium-area-shooting
   headline: Revell initially reports no arrests after Tallahassee stadium-area shooting
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8207
+  strength: 0.8226
 - slug: 2026-10-25-shooting-near-bragg-memorial-stadium-injures-12-as-police-seek-tips
   headline: Shooting near Bragg Memorial Stadium injures 12 as police seek tips
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8013
+  strength: 0.8001
 - slug: 2026-10-25-tallahassee-police-investigate-shooting-near-florida-a-m-university
   headline: Tallahassee police investigate shooting near Florida A+M University
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.776
-- slug: 2026-08-16-police-arrest-19-year-old-in-virginia-state-university-shooting-that-wounded-5
-  headline: Police arrest 19-year-old in Virginia State University shooting that wounded 5
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6356
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6352
-- slug: 2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis
-  headline: 19 injured in two overnight shootings in Tucson and Minneapolis
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6039
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6399
-- slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
-  headline: Shooting near University of Iowa wounds five people
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6489
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6271
-- slug: 2026-05-17-3-arrested-in-series-of-random-weekend-shootings-in-austin-texas
-  headline: 3 arrested in series of random weekend shootings in Austin, Texas
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6263
-- slug: 2026-04-22-police-seek-17-year-old-for-attempted-murder-in-shooting-near-iowa-campus
-  headline: Police seek 17-year-old for attempted murder in shooting near Iowa campus
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6293
-- slug: 2026-05-10-us-marshals-capture-teen-wanted-in-iowa-city-mass-shooting
-  headline: US marshals capture teen wanted in Iowa City mass shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6177
-- slug: 2026-04-23-police-seek-17-year-old-on-attempted-murder-charges-after-iowa-city-shooting
-  headline: Police seek 17-year-old on attempted murder charges after Iowa City shooting
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6231
-- slug: 2026-01-20-north-carolina-man-to-plead-guilty-in-mass-shooting-killing-5
-  headline: North Carolina man to plead guilty in mass shooting killing 5
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6277
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6015
-- slug: 2026-04-26-teen-charged-in-baton-rouge-mall-shooting-officials-seek-second-suspect
-  headline: Teen charged in Baton Rouge mall shooting; officials seek second suspect
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6064
-- slug: 2026-05-10-u-s-marshals-capture-teen-wanted-in-iowa-city-pedestrian-mall-shooting
-  headline: U.S. Marshals Capture Teen Wanted in Iowa City Pedestrian Mall Shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5976
-- slug: 2026-05-04-police-seek-suspects-in-amarillo-texas-shooting-that-killed-2-teens
-  headline: Police seek suspects in Amarillo Texas shooting that killed 2 teens
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5967
+  strength: 0.7763
 ---
-
 ## Tallahassee police arrest 15-year-old after gunfire near FAMU
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Some Thune allies fear blame if Republicans lose their 53-47 Senate majority
-secondary_headline: Club for Growth's McIntosh says keeping the Senate will determine Thune's future
+secondary_headline: Club for Growth's McIntosh says keeping the Senate will determine
+  Thune's future
 publish_date: '2026-10-26'
-lede: Some allies of Senate Majority Leader John Thune fear he could take blame from President Trump and others if Republicans lose their 53-47 Senate majority in the midterms, The Wall Street Journal reported. Club for Growth president David McIntosh said, “I think his future will be determined by whether or not we keep the Senate,” while some Republicans aligned with Thune stopped short of saying he had a lock on the top post. Thune has indicated he will seek Senate Republican leader in the 120th Congress regardless of the election result, spokesman Ryan Wrasse said.
-nut_graf: Thune’s leadership bid comes as President Trump and Republican activists press him on the stalled SAVE America Act, while some senators complained that he sidelined affordability votes ahead of the election. Club for Growth president David McIntosh said Thune’s future would be determined by whether Republicans keep the Senate, and South Dakota GOP chairman Jim Eschenbaum predicted that a primary challenge could succeed when Thune seeks reelection in 2028.
+lede: Some allies of Senate Majority Leader John Thune fear he could take blame from
+  President Trump and others if Republicans lose their 53-47 Senate majority in the
+  midterms, The Wall Street Journal reported. Club for Growth president David McIntosh
+  said, “I think his future will be determined by whether or not we keep the Senate,”
+  while some Republicans aligned with Thune stopped short of saying he had a lock
+  on the top post. Thune has indicated he will seek Senate Republican leader in the
+  120th Congress regardless of the election result, spokesman Ryan Wrasse said.
+nut_graf: Thune’s leadership bid comes as President Trump and Republican activists
+  press him on the stalled SAVE America Act, while some senators complained that he
+  sidelined affordability votes ahead of the election. Club for Growth president David
+  McIntosh said Thune’s future would be determined by whether Republicans keep the
+  Senate, and South Dakota GOP chairman Jim Eschenbaum predicted that a primary challenge
+  could succeed when Thune seeks reelection in 2028.
 primary_entities:
 - John Thune
 - Donald Trump
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,113 +158,59 @@ related_stories:
   headline: Thune campaigns with Hinson ahead of Senate Republican leadership vote
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7529
+  strength: 0.7544
+- slug: 2026-10-27-republican-strategists-warn-libertarian-votes-could-shift-u-s-senate-races
+  headline: Republican strategists warn Libertarian votes could shift U.S. Senate
+    races
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.669
 - slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
   headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6548
+  strength: 0.6551
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6646
+  strength: 0.6641
 - slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
+  headline: GOP's last-ditch affordability push falls short as polls signal chamber
+    jeopardy
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6535
+  strength: 0.6533
 - slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
   headline: Polls show Democratic edge as Republicans face tough midterm fight
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6542
+  strength: 0.6539
 - slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6538
+  strength: 0.6532
 - slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
+  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks
+    defeat
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.687
-- slug: 2026-09-10-fetterman-s-gop-convention-video-raises-democratic-loyalty-questions
-  headline: Fetterman's GOP convention video raises Democratic loyalty questions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6559
-- slug: 2026-07-28-senate-gop-leader-thune-faces-pressure-from-trump-to-eliminate-filibuster-for-sa
-  headline: Senate GOP leader Thune faces pressure from Trump to eliminate filibuster for SAVE Act
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7584
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6578
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6823
-- slug: 2026-06-18-trump-frustration-grows-as-senate-gop-leader-thune-keeps-saying-no
-  headline: Trump frustration grows as Senate GOP leader Thune keeps saying no
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7673
-- slug: 2026-06-24-trump-to-meet-senate-republicans-amid-save-act-impasse
-  headline: Trump to meet Senate Republicans amid SAVE Act impasse
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.738
-- slug: 2026-07-24-senate-gop-leader-says-votes-not-there-for-95b-budget-push
-  headline: Senate GOP leader says votes not there for $95B budget push
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7013
-- slug: 2026-06-23-trump-pushes-save-america-act-as-senate-gop-resists-on-voting-rules-and-iran
-  headline: Trump pushes SAVE America Act as Senate GOP resists on voting rules and Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7076
-- slug: 2026-03-09-thune-says-senate-will-consider-save-bill-but-votes-aren-t-there
-  headline: Thune says Senate will consider SAVE bill, but votes aren’t there
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7362
-- slug: 2026-03-13-republicans-plan-talkathon-on-voting-bill-as-they-face-trump-pressure
-  headline: Republicans plan talkathon on voting bill as they face Trump pressure
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7164
-- slug: 2026-02-27-save-act-stalls-in-senate-despite-trump-demands
-  headline: SAVE Act stalls in Senate despite Trump demands
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7171
-- slug: 2026-07-13-gop-returns-to-congress-facing-a-narrower-majority-and-a-stalled-agenda
-  headline: GOP returns to Congress facing a narrower majority and a stalled agenda
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.648
-- slug: 2026-05-19-1b-white-house-security-push-tied-to-trump-ballroom-faces-gop-revolt-ahead-of-vo
-  headline: $1B White House security push tied to Trump ballroom faces GOP revolt ahead of vote
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6529
+  strength: 0.6866
 image:
   url: /articles/2026-10-26-some-thune-allies-fear-blame-if-republicans-lose-their-53-47-senate-majority.png
-  alt: "Illustration accompanying article: Some Thune allies fear blame if Republicans lose their 53-47 Senate majority"
+  alt: 'Illustration accompanying article: Some Thune allies fear blame if Republicans
+    lose their 53-47 Senate majority'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Some Thune allies fear blame if Republicans lose their 53-47 Senate majority
 
 **Subtype:** fact

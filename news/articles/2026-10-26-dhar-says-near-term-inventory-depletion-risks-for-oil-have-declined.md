@@ -2,8 +2,16 @@
 headline: Dhar says near-term inventory-depletion risks for oil have declined
 secondary_headline: Asian oil decline likely reflects a technical correction
 publish_date: '2026-10-26'
-lede: Commonwealth Bank of Australia’s Vivek Dhar said in a note that near-term inventory-depletion risks for oil had declined as Middle East flows reportedly tracked back to around prewar levels. As Brent futures fell in Asian trading, The Wall Street Journal described the move as a likely technical correction after Brent futures ended last week at their highest level since April this year.
-nut_graf: Middle Eastern mediators were seeking to revive negotiations between Washington and Tehran as regional tensions remained elevated. Dhar said near-term inventory-depletion risks had declined as Middle East flows had reportedly tracked back to around prewar levels; he said the flow levels could be high enough to support a rebuild of global oil and refined-product stockpiles.
+lede: Commonwealth Bank of Australia’s Vivek Dhar said in a note that near-term inventory-depletion
+  risks for oil had declined as Middle East flows reportedly tracked back to around
+  prewar levels. As Brent futures fell in Asian trading, The Wall Street Journal described
+  the move as a likely technical correction after Brent futures ended last week at
+  their highest level since April this year.
+nut_graf: Middle Eastern mediators were seeking to revive negotiations between Washington
+  and Tehran as regional tensions remained elevated. Dhar said near-term inventory-depletion
+  risks had declined as Middle East flows had reportedly tracked back to around prewar
+  levels; he said the flow levels could be high enough to support a rebuild of global
+  oil and refined-product stockpiles.
 primary_entities:
 - Vivek Dhar
 - Commonwealth Bank of Australia
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,19 +152,34 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-dhar-says-near-term-inventory-depletion-risks-for-oil-have-declined.png
-  alt: 'Illustration accompanying article: Dhar says near-term inventory-depletion risks for oil have declined'
+  alt: 'Illustration accompanying article: Dhar says near-term inventory-depletion
+    risks for oil have declined'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
-  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
   publish_date: '2026-10-26'
   relation: related
   strength: 0.7477
+- slug: 2026-10-27-oil-falls-as-traders-weigh-u-s--iran-diplomacy-and-election-risks
+  headline: Oil falls as traders weigh U.S.-Iran diplomacy and election risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7436
+- slug: 2026-10-27-oil-futures-fall-as-traders-weigh-tehran-talks-and-houthi-attack-risks
+  headline: Oil futures fall as traders weigh Tehran talks and Houthi attack risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7394
 - slug: 2026-10-22-oil-rises-as-u-s-prepares-iran-strike-options-and-conflict-concerns-return
   headline: Oil rises as U.S. prepares Iran strike options and conflict concerns return
   publish_date: '2026-10-22'
@@ -172,7 +196,8 @@ related_stories:
   relation: related
   strength: 0.7386
 - slug: 2026-10-15-brent-wti-slide-as-iea-says-gulf-crude-shipments-exceed-75-of-prewar-levels
-  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar levels
+  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar
+    levels
   publish_date: '2026-10-15'
   relation: related
   strength: 0.7438
@@ -181,78 +206,7 @@ related_stories:
   publish_date: '2026-10-09'
   relation: related
   strength: 0.751
-- slug: 2026-10-09-brent-wti-fall-as-trump-says-u-s-is-not-planning-iran-strikes-before-midterms
-  headline: Brent, WTI fall as Trump says U.S. is not planning Iran strikes before midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7465
-- slug: 2026-10-06-oil-prices-fall-as-middle-east-exports-recover-shipping-attacks-resume
-  headline: Oil prices fall as Middle East exports recover, shipping attacks resume
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.734
-- slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
-  headline: Oil futures rise as Middle East exports recover to prewar levels
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.757
-- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
-  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7353
-- slug: 2026-09-30-oil-futures-extend-losses-as-persian-gulf-exports-near-2025-average
-  headline: Oil futures extend losses as Persian Gulf exports near 2025 average
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7346
-- slug: 2026-09-25-oil-prices-fall-as-us-iran-diplomacy-hopes-offset-saudi-attack-threats
-  headline: Oil prices fall as US-Iran diplomacy hopes offset Saudi attack threats
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7485
-- slug: 2026-09-23-oil-futures-diverge-as-traders-weigh-us-iran-talks-and-saudi-pipeline-tests
-  headline: Oil futures diverge as traders weigh US-Iran talks and Saudi pipeline tests
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7503
-- slug: 2026-09-23-oil-prices-fall-for-sixth-session-on-saudi-supply-iran-talks
-  headline: Oil prices fall for sixth session on Saudi supply, Iran talks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7376
-- slug: 2026-09-21-oil-extends-slide-to-fourth-session-on-saudi-pipeline-repairs-iran-hopes
-  headline: Oil extends slide to fourth session on Saudi pipeline repairs, Iran hopes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7345
-- slug: 2026-09-17-oil-retreats-from-weekly-highs-as-saudi-arabia-eyes-east-west-pipeline-restart
-  headline: Oil retreats from weekly highs as Saudi Arabia eyes East-West pipeline restart
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7415
-- slug: 2026-09-16-oil-futures-slip-ahead-of-fed-decision-as-saudi-pipeline-repairs-extend
-  headline: Oil futures slip ahead of Fed decision as Saudi pipeline repairs extend
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7428
-- slug: 2026-09-15-oil-rises-on-saudi-outage-houthi-gains-diesel-eases-after-trump-claimed-ukraine-
-  headline: Oil rises on Saudi outage, Houthi gains; diesel eases after Trump-claimed Ukraine-Russia halt
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7336
-- slug: 2026-09-10-oil-and-diesel-futures-hit-multi-month-highs-as-us-iran-conflict-escalates
-  headline: Oil and diesel futures hit multi-month highs as US-Iran conflict escalates
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7435
-- slug: 2026-06-22-oil-prices-fall-to-march-lows-as-us-iran-peace-talks-progress
-  headline: Oil prices fall to March lows as US-Iran peace talks progress
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7575
 ---
-
 ## Dhar says near-term inventory-depletion risks for oil have declined
 
 **Subtype:** fact

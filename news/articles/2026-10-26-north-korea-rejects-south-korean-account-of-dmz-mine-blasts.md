@@ -2,8 +2,19 @@
 headline: North Korea rejects South Korean account of DMZ mine blasts
 secondary_headline: Seoul proposes military talks to verify the line and restore communications
 publish_date: '2026-10-26'
-lede: North Korea's permanent representative to the United Nations told the U.N. Security Council in a Sunday letter that South Korea fabricated September land-mine explosions inside the Demilitarized Zone, the Korean Central News Agency reported Monday. South Korea's military concluded that North Korean troops planted the mines south of the Military Demarcation Line, the military boundary separating the two Koreas, a finding Pyongyang has rejected. The Sept. 21 explosions injured three South Korean soldiers, two seriously.
-nut_graf: The Security Council now has two competing accounts of the September explosions and the border construction around them. South Korea's military said it issued warning broadcasts and fired warning shots when North Korean troops crossed the Military Demarcation Line during construction work. Seoul has separately proposed military talks with Pyongyang to verify the line, restore military communication channels and prevent border confrontations.
+lede: North Korea's permanent representative to the United Nations told the U.N. Security
+  Council in a Sunday letter that South Korea fabricated September land-mine explosions
+  inside the Demilitarized Zone, the Korean Central News Agency reported Monday. South
+  Korea's military concluded that North Korean troops planted the mines south of the
+  Military Demarcation Line, the military boundary separating the two Koreas, a finding
+  Pyongyang has rejected. The Sept. 21 explosions injured three South Korean soldiers,
+  two seriously.
+nut_graf: The Security Council now has two competing accounts of the September explosions
+  and the border construction around them. South Korea's military said it issued warning
+  broadcasts and fired warning shots when North Korean troops crossed the Military
+  Demarcation Line during construction work. Seoul has separately proposed military
+  talks with Pyongyang to verify the line, restore military communication channels
+  and prevent border confrontations.
 primary_entities:
 - North Korea
 - South Korea
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,99 +162,42 @@ related_stories:
   headline: North Korea fires ballistic missile after rejecting Seoul's apology demand
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6934
-- slug: 2026-10-13-kim-tours-new-north-korean-military-museum-showcasing-u-s--range-missiles
-  headline: Kim tours new North Korean military museum showcasing U.S.-range missiles
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-24-south-korea-declines-to-confirm-zelensky-s-announced-north-korean-pow-transfer
-  headline: South Korea declines to confirm Zelensky's announced North Korean POW transfer
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6357
-- slug: 2026-09-23-south-korea-s-lee-calls-for-resumption-of-u-s--north-korea-talks-at-un
-  headline: South Korea's Lee calls for resumption of U.S.-North Korea talks at UN
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.635
-- slug: 2026-09-14-north-korea-stages-combined-firepower-drill-day-after-allied-exercises-conclude
-  headline: North Korea stages combined firepower drill day after allied exercises conclude
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6396
+  strength: 0.6937
 - slug: 2026-08-25-trump-says-north-korea-has-57-nuclear-weapons-expects-kim-meeting
   headline: Trump says North Korea has 57 nuclear weapons, expects Kim meeting
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6812
+  strength: 0.6814
 - slug: 2026-08-27-u-s-clears-sidewinder-missile-sale-to-south-korea-north-korea-warns-of-response
-  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns of response
+  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns
+    of response
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6725
-- slug: 2026-08-31-north-korea-says-u-s-denuclearization-push-will-not-weaken-its-nuclear-arsenal
-  headline: North Korea says U.S. denuclearization push will not weaken its nuclear arsenal
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6424
+  strength: 0.6728
 - slug: 2026-08-21-kim-yo-jong-calls-seoul-a-u-s-puppet-as-south-korea-calls-for-end-to-derogatory-
-  headline: Kim Yo Jong calls Seoul a U.S. puppet as South Korea calls for end to derogatory remarks
+  headline: Kim Yo Jong calls Seoul a U.S. puppet as South Korea calls for end to
+    derogatory remarks
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6621
+  strength: 0.6628
 - slug: 2026-07-31-north-korea-warns-physical-clash-on-peninsula-a-matter-of-time
   headline: North Korea warns physical clash on peninsula a matter of time
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.6541
+  strength: 0.655
 - slug: 2026-06-23-kim-jong-un-orders-accelerated-nuclear-buildup-calls-south-korea-most-hostile-st
-  headline: Kim Jong Un orders accelerated nuclear buildup, calls South Korea 'most hostile state'
+  headline: Kim Jong Un orders accelerated nuclear buildup, calls South Korea 'most
+    hostile state'
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6947
+  strength: 0.6951
 - slug: 2026-06-14-north-korea-says-nuclear-status-is-irreversible-rejects-denuclearization-calls
-  headline: North Korea says nuclear status is irreversible, rejects denuclearization calls
+  headline: North Korea says nuclear status is irreversible, rejects denuclearization
+    calls
   publish_date: '2026-06-14'
   relation: related
   strength: 0.6973
-- slug: 2026-07-21-lavrov-choe-meet-in-moscow-for-third-russia-north-korea-strategic-dialogue
-  headline: Lavrov, Choe meet in Moscow for third Russia-North Korea strategic dialogue
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6304
-- slug: 2026-06-18-kim-yo-jong-rejects-g7-denuclearization-call-says-nuclear-arms-are-core-interest
-  headline: Kim Yo Jong rejects G7 denuclearization call, says nuclear arms are 'core interests'
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6483
-- slug: 2026-06-19-china-rebukes-us-japan-south-korea-over-nuclear-deterrence-talks
-  headline: China rebukes US, Japan, South Korea over nuclear deterrence talks
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6301
-- slug: 2026-04-09-north-korea-says-it-tested-missiles-with-cluster-bomb-warheads
-  headline: North Korea says it tested missiles with cluster-bomb warheads
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6616
-- slug: 2026-03-14-north-korea-s-kim-watches-test-of-rocket-launch-systems-with-daughter
-  headline: North Korea’s Kim watches test of rocket launch systems with daughter
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6617
-- slug: 2026-06-13-us-japan-south-korea-hold-trilateral-talks-on-north-korea
-  headline: US, Japan, South Korea hold trilateral talks on North Korea
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6254
-- slug: 2026-03-15-north-korea-fires-about-10-missiles-toward-sea-seoul-says
-  headline: North Korea fires about 10 missiles toward sea, Seoul says
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6574
 ---
-
 ## North Korea rejects South Korean account of DMZ mine blasts
 
 **Subtype:** fact

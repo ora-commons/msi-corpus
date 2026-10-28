@@ -1,9 +1,22 @@
 ---
 headline: Dubai judge freezes up to $704 million in assets in Russian oil dispute
-secondary_headline: Coral traders allegedly cost Soglayev more than $500 million in lost business
+secondary_headline: Coral traders allegedly cost Soglayev more than $500 million in
+  lost business
 publish_date: '2026-10-26'
-lede: A Dubai judge has ordered Coral traders Etibar Eyyub and Tahir Garayev and 13 other firms and people not to dispose of assets valued at up to $704 million — more than $700 million in proceeds from the sale of Russian energy by Soglayev's opponents — as former Deutsche Bank executive Igor Soglayev fights a dispute over Russian diesel sales in the United Arab Emirates and Brazil. A Dubai arbitration tribunal ordered Soglayev to pay one firm $42 million, while Soglayev alleges Coral undercut DIA33's Brazilian customers and cost him more than $500 million in lost business. The order remains in place while Soglayev appeals a jurisdictional ruling, and the related case in Brazil is continuing.
-nut_graf: 'The case documents the trading structures around Russian oil: the middlemen Western officials describe as the most important enablers of Moscow''s oil sales and the financing of its war in Ukraine, the separate shell companies Soglayev alleges the Coral network used to avoid international attention, and the tanker fleet that forms most of Russia''s shadow fleet.'
+lede: A Dubai judge has ordered Coral traders Etibar Eyyub and Tahir Garayev and 13
+  other firms and people not to dispose of assets valued at up to $704 million — more
+  than $700 million in proceeds from the sale of Russian energy by Soglayev's opponents
+  — as former Deutsche Bank executive Igor Soglayev fights a dispute over Russian
+  diesel sales in the United Arab Emirates and Brazil. A Dubai arbitration tribunal
+  ordered Soglayev to pay one firm $42 million, while Soglayev alleges Coral undercut
+  DIA33's Brazilian customers and cost him more than $500 million in lost business.
+  The order remains in place while Soglayev appeals a jurisdictional ruling, and the
+  related case in Brazil is continuing.
+nut_graf: 'The case documents the trading structures around Russian oil: the middlemen
+  Western officials describe as the most important enablers of Moscow''s oil sales
+  and the financing of its war in Ukraine, the separate shell companies Soglayev alleges
+  the Coral network used to avoid international attention, and the tanker fleet that
+  forms most of Russia''s shadow fleet.'
 primary_entities:
 - Igor Soglayev
 - Coral network
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,9 +156,20 @@ cross_article_links:
   strength: 0.6531
   confidence: medium
 draft: false
-related_stories: []
+related_stories:
+- slug: 2026-05-16-moscow-court-orders-euroclear-to-pay-compensation-to-russia-s-central-bank
+  headline: Moscow court orders Euroclear to pay compensation to Russia’s central
+    bank
+  publish_date: '2026-05-16'
+  relation: related
+  strength: 0.676
+- slug: 2026-05-16-moscow-court-orders-euroclear-to-pay-249-7-billion-to-russian-central-bank-over-
+  headline: Moscow court orders Euroclear to pay €249.7 billion to Russian Central
+    Bank over frozen assets
+  publish_date: '2026-05-16'
+  relation: related
+  strength: 0.672
 ---
-
 ## Dubai judge freezes up to $704 million in assets in Russian oil dispute
 
 **Subtype:** fact

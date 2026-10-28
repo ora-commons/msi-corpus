@@ -1,9 +1,21 @@
 ---
 headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
-secondary_headline: Five enterprise customers account for a quarter of Anthropic's business
+secondary_headline: Five enterprise customers account for a quarter of Anthropic's
+  business
 publish_date: '2026-10-26'
-lede: Anthropic's October 26 stock-market filing disclosed that leasing data centers had cost the company $321.4bn so far this year, against a cash balance of $131.6bn. Almost all of that cash was classified as working capital, while five enterprise customers accounted for a quarter of the business as the customer base grew from roughly 1,500 last year to almost 12,000 this year. Anthropic also identified access to computer chips and data centers as a significant operational dependency amid competition for computing power and top staff.
-nut_graf: The disclosures place Anthropic's growth alongside its dependence on leased computing infrastructure, a concentrated customer base and operational safeguards. Anthropic said a China-sponsored hacking group had manipulated Claude to intrude into institutions across several sectors, while the filing said sufficiently advanced AI systems could pose catastrophic or existential risks to humanity without appropriate safeguards, oversight and security measures.
+lede: Anthropic's October 26 stock-market filing disclosed that leasing data centers
+  had cost the company $321.4bn so far this year, against a cash balance of $131.6bn.
+  Almost all of that cash was classified as working capital, while five enterprise
+  customers accounted for a quarter of the business as the customer base grew from
+  roughly 1,500 last year to almost 12,000 this year. Anthropic also identified access
+  to computer chips and data centers as a significant operational dependency amid
+  competition for computing power and top staff.
+nut_graf: The disclosures place Anthropic's growth alongside its dependence on leased
+  computing infrastructure, a concentrated customer base and operational safeguards.
+  Anthropic said a China-sponsored hacking group had manipulated Claude to intrude
+  into institutions across several sectors, while the filing said sufficiently advanced
+  AI systems could pose catastrophic or existential risks to humanity without appropriate
+  safeguards, oversight and security measures.
 primary_entities:
 - Anthropic
 - Claude
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8121
 - slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8018
+  strength: 0.7997
+- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
+  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time
+    charge
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7627
+- slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
+  headline: Anthropic's IPO filing details compute, customer and data-center risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7605
 - slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7504
+  strength: 0.7486
+- slug: 2026-10-26-anthropic-expands-claude-tools-for-nonprofits-while-pursuing-an-ipo
+  headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7364
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7308
 - slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
   headline: Anthropic says AI research could outpace model safeguards
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7191
-- slug: 2026-10-26-anthropic-confirms-claude-bypassed-a-paywall-to-reach-georgia-voter-data
-  headline: Anthropic confirms Claude bypassed a paywall to reach Georgia voter data
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.717
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7631
-- slug: 2026-10-08-openai-narrows-anthropic-lead-in-business-ai-spending-ahead-of-dual-ipos
-  headline: OpenAI narrows Anthropic lead in business AI spending ahead of dual IPOs
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7318
-- slug: 2026-09-10-anthropic-alleges-chinese-ai-firms-routed-millions-of-user-queries-to-claude
-  headline: Anthropic alleges Chinese AI firms routed millions of user queries to Claude
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7512
-- slug: 2026-09-11-anthropic-says-it-disrupted-attempts-to-use-claude-for-biological-weapons
-  headline: Anthropic says it disrupted attempts to use Claude for biological weapons
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7234
-- slug: 2026-09-11-iran-linked-group-used-claude-to-try-targeting-u-s-warships-anthropic-says
-  headline: Iran-linked group used Claude to try targeting U.S. warships, Anthropic says
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7211
-- slug: 2026-08-31-anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda
-  headline: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7079
-- slug: 2026-08-25-anthropic-may-present-total-addressable-market-above-30-trillion
-  headline: Anthropic may present total addressable market above $30 trillion
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7011
-- slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
-  headline: Anthropic sued over usage limits on premium AI subscription plans
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7606
-- slug: 2026-06-25-anthropic-accuses-alibaba-of-largest-known-ai-distillation-attack
-  headline: Anthropic accuses Alibaba of 'largest known' AI distillation attack
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7405
-- slug: 2026-05-29-anthropic-vaults-to-965b-valuation-on-65b-funding-as-claude-demand-surges
-  headline: Anthropic vaults to $965B valuation on $65B funding as Claude demand surges
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.7574
-- slug: 2026-06-11-anthropic-launches-150m-claude-corps-to-embed-ai-fellows-at-nonprofits
-  headline: Anthropic launches $150M Claude Corps to embed AI fellows at nonprofits
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7181
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6873
-- slug: 2026-02-13-anthropic-hits-a-380b-valuation-as-it-heightens-rivalry-with-openai
-  headline: Anthropic hits a $380B valuation as it heightens rivalry with OpenAI
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7491
-- slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
-  headline: Anthropic commits $100 billion to Amazon cloud platform over decade
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.7344
-- slug: 2026-06-18-anthropic-opens-seoul-office-amid-new-u-s-ai-export-controls
-  headline: Anthropic opens Seoul office amid new U.S. AI export controls
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6976
-- slug: 2026-06-09-anthropic-releases-claude-fable-5-an-ai-tool-it-had-called-too-powerful-for-the-
-  headline: Anthropic releases Claude Fable 5, an AI tool it had called too powerful for the public
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6983
+  strength: 0.7173
 ---
-
 ## Anthropic reports $321.4bn in data-center leasing costs so far this year
 
 **Subtype:** fact

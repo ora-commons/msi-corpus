@@ -1,9 +1,16 @@
 ---
 headline: Private equity firms swap CEOs as investment holding periods lengthen
-secondary_headline: Overall U.S. CEO departures fell 19% from the same period last year
+secondary_headline: Overall U.S. CEO departures fell 19% from the same period last
+  year
 publish_date: '2026-10-26'
-lede: Private equity sponsors are replacing CEOs in some portfolio companies as an exit drought makes buyout companies hold their assets for longer, according to The Wall Street Journal. Challenger, Gray & Christmas counted 1,337 U.S. CEO departures year to date, 19% fewer than the 1,650 recorded in the same period last year.
-nut_graf: Longer holds are shifting buyout firms toward portfolio management, where CEO burnout is an important challenge and sponsor expectations may change. Prospective leaders increasingly are assessed on how they address or integrate AI, and sponsors can add board expertise or executive coaching before replacing a CEO.
+lede: Private equity sponsors are replacing CEOs in some portfolio companies as an
+  exit drought makes buyout companies hold their assets for longer, according to The
+  Wall Street Journal. Challenger, Gray & Christmas counted 1,337 U.S. CEO departures
+  year to date, 19% fewer than the 1,650 recorded in the same period last year.
+nut_graf: Longer holds are shifting buyout firms toward portfolio management, where
+  CEO burnout is an important challenge and sponsor expectations may change. Prospective
+  leaders increasingly are assessed on how they address or integrate AI, and sponsors
+  can add board expertise or executive coaching before replacing a CEO.
 primary_entities:
 - Laura Kreutzer
 - Challenger, Gray & Christmas
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +150,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-13-wharton-survey-daily-ai-use-jumps-16-points-as-skepticism-grows
-  headline: 'Wharton survey: daily AI use jumps 16 points as skepticism grows'
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6485
-- slug: 2026-10-12-stalled-ipos-push-venture-backed-ai-firms-toward-m-a
-  headline: Stalled IPOs push venture-backed AI firms toward M&A
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.644
-- slug: 2026-10-02-sec-proposal-for-semiannual-earnings-reports-draws-280-000-opposing-comments
-  headline: SEC proposal for semiannual earnings reports draws 280,000 opposing comments
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6444
-- slug: 2026-10-02-s-p-500-companies-raise-special-executive-payouts-50-to-1-7-billion
-  headline: S&P 500 companies raise special executive payouts 50% to $1.7 billion
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6434
 - slug: 2026-09-21-leadership-trust-overtakes-model-trust-as-top-ai-rollout-barrier
   headline: Leadership trust overtakes model trust as top AI rollout barrier
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6889
+  strength: 0.6891
 - slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
   headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6539
-- slug: 2026-09-22-some-startups-use-ai-to-cut-head-counts-or-contractors
-  headline: Some startups use AI to cut head counts or contractors
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-15-private-equity-firms-energy-assets-emit-1-5-billion-tons-of-greenhouse-gas-a-yea
-  headline: Private equity firms' energy assets emit 1.5 billion tons of greenhouse gas a year
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6442
-- slug: 2026-09-14-venture-capital-tightens-for-second-wave-ai-startups
-  headline: Venture capital tightens for second-wave AI startups
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6441
-- slug: 2026-09-17-microsoft-overhauls-engineering-structure-in-ai-driven-reorganization
-  headline: Microsoft overhauls engineering structure in AI-driven reorganization
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6276
+  strength: 0.6537
 - slug: 2026-09-04-private-equity-sits-on-record-backlog-of-unsold-us-portfolio-companies
   headline: Private equity sits on record backlog of unsold US portfolio companies
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6585
+  strength: 0.6584
 - slug: 2026-08-03-servicenow-ceo-defends-long-term-bets-as-shares-sit-43-below-52-week-high
-  headline: ServiceNow CEO defends long-term bets as shares sit 43% below 52-week high
+  headline: ServiceNow CEO defends long-term bets as shares sit 43% below 52-week
+    high
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6563
-- slug: 2026-07-27-major-u-s-companies-resume-hiring-as-ai-s-limits-become-clear
-  headline: Major U.S. companies resume hiring as AI's limits become clear
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6471
-- slug: 2026-07-25-s-p-1500-companies-spend-nearly-600m-on-executive-perks
-  headline: S&P 1500 companies spend nearly $600M on executive perks
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6339
+  strength: 0.6565
 - slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
   headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6676
+  strength: 0.668
 - slug: 2026-05-15-companies-from-cisco-to-meta-cite-ai-as-layoffs-mount
   headline: Companies from Cisco to Meta cite AI as layoffs mount
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6744
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6318
+  strength: 0.6746
 - slug: 2026-05-15-streamline-operations-how-ai-is-fueling-tech-world-layoffs
   headline: 'Streamline operations: How AI is fueling tech world layoffs'
   publish_date: '2026-05-15'
   relation: related
   strength: 0.655
-- slug: 2026-06-17-gallup-finds-just-30-of-us-workers-engaged-on-the-job-lowest-in-a-decade
-  headline: Gallup finds just 30% of US workers engaged on the job, lowest in a decade
-  publish_date: '2026-06-17'
+- slug: 2026-03-15-some-companies-tie-ai-to-layoffs-but-reality-is-more-complicated
+  headline: Some companies tie AI to layoffs, but reality is more complicated
+  publish_date: '2026-03-15'
   relation: related
-  strength: 0.632
-- slug: 2026-06-01-private-equity-firms-look-to-rekindled-ipo-market-to-unload-33-000-investments
-  headline: Private-equity firms look to rekindled IPO market to unload 33,000 investments
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6395
+  strength: 0.6619
 ---
-
 ## Private equity firms swap CEOs as investment holding periods lengthen
 
 **Subtype:** fact
