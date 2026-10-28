@@ -1,9 +1,16 @@
 ---
 headline: John Healey prepares first UK budget amid inflation and debt pressure
-secondary_headline: Higher bank-profit surcharge anticipated; higher gambling taxes could add revenue
+secondary_headline: Higher bank-profit surcharge anticipated; higher gambling taxes
+  could add revenue
 publish_date: '2026-10-28'
-lede: John Healey will deliver his first budget statement in the House of Commons on Wednesday under Prime Minister Andy Burnham. U.K. inflation has reached 3.5% as the Iran war disrupts energy markets, while public debt has passed 3 trillion pounds and limits the government's room to spend.
-nut_graf: The statement will set out how the government balances measures aimed at giving households and businesses breathing space from rising costs with public-service spending, defense commitments and debt service as investors watch the U.K. fiscal position.
+lede: John Healey will deliver his first budget statement in the House of Commons
+  on Wednesday under Prime Minister Andy Burnham. U.K. inflation has reached 3.5%
+  as the Iran war disrupts energy markets, while public debt has passed 3 trillion
+  pounds and limits the government's room to spend.
+nut_graf: The statement will set out how the government balances measures aimed at
+  giving households and businesses breathing space from rising costs with public-service
+  spending, defense commitments and debt service as investors watch the U.K. fiscal
+  position.
 primary_entities:
 - John Healey
 - Andy Burnham
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +157,45 @@ related_stories:
   headline: John Healey prepares his first budget amid war-driven economic pressure
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8435
+  strength: 0.8431
 - slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
+  headline: John Healey prepares UK Budget expected to have smaller tax and spending
+    changes
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8191
+  strength: 0.8181
 - slug: 2026-10-21-uk-government-records-24-5bn-september-deficit-ahead-of-healey-s-first-budget
-  headline: UK government records £24.5bn September deficit ahead of Healey’s first budget
+  headline: UK government records £24.5bn September deficit ahead of Healey’s first
+    budget
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7753
+  strength: 0.7754
 - slug: 2026-10-27-welsh-ministers-press-healey-for-rail-cash-and-budget-protection
   headline: Welsh ministers press Healey for rail cash and budget protection
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7304
+  strength: 0.7306
 - slug: 2026-10-11-ifs-warns-iran-war-inflation-will-force-hard-healey-budget-choices
   headline: IFS warns Iran-war inflation will force hard Healey Budget choices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.8111
+  strength: 0.8113
 - slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
   headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.736
+  strength: 0.7372
 - slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
   headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7811
+  strength: 0.7793
 - slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
   headline: Higher petrol and diesel costs drive Britain's September inflation
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7189
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.8252
-- slug: 2026-10-14-uk-to-shift-vat-collection-to-online-marketplaces-in-first-budget
-  headline: UK to shift VAT collection to online marketplaces in first budget
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7408
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7288
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7831
-- slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
-  headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7219
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.8379
-- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
-  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7188
-- slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
-  headline: UK inflation rises to 3.1% in August as fuel prices surge
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7636
-- slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7374
-- slug: 2026-09-20-uk-minister-says-trump-s-war-with-iran-will-complicate-next-month-s-budget
-  headline: UK minister says Trump's war with Iran will complicate next month's budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7229
-- slug: 2026-09-20-davey-proposes-2bn-temporary-fuel-duty-cut-before-budget
-  headline: Davey proposes £2bn temporary fuel duty cut before budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7224
-- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
-  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.732
+  strength: 0.72
 ---
-
 ## John Healey prepares first UK budget amid inflation and debt pressure
 
 **Subtype:** fact
