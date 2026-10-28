@@ -2,8 +2,14 @@
 headline: Hunter Foster resigns from police after killing one-year-old Kohen Wiley
 secondary_headline: Footage shows Foster firing three shots into the vehicle
 publish_date: '2026-10-23'
-lede: Hunter Foster, a Mississippi police officer who shot and killed one-year-old Kohen Wiley during a June 14 response to a reported shoplifting at a Walmart in Senatobia, has resigned from the police department. The Senatobia Board of Aldermen accepted Foster’s resignation on October 21, and it took effect immediately; he had been placed on leave on June 16.
-nut_graf: Foster’s departure follows Mississippi Attorney General Lynn Fitch’s announcement that the shooting was “justified,” while Ben Crump, the civil rights attorney representing Kohen’s family, is calling for a federal investigation and Foster’s decertification.
+lede: Hunter Foster, a Mississippi police officer who shot and killed one-year-old
+  Kohen Wiley during a June 14 response to a reported shoplifting at a Walmart in
+  Senatobia, has resigned from the police department. The Senatobia Board of Aldermen
+  accepted Foster’s resignation on October 21, and it took effect immediately; he
+  had been placed on leave on June 16.
+nut_graf: Foster’s departure follows Mississippi Attorney General Lynn Fitch’s announcement
+  that the shooting was “justified,” while Ben Crump, the civil rights attorney representing
+  Kohen’s family, is calling for a federal investigation and Foster’s decertification.
 primary_entities:
 - Hunter Foster
 - Kohen Wiley
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +149,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
+  headline: Foster remains certified after resigning from Senatobia police force
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.9063
+- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
+  headline: Mississippi releases body-camera footage of fatal toddler police shooting
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.867
+- slug: 2026-10-23-officer-resigns-after-video-release-in-death-of-one-year-old-kohen-wiley
+  headline: Officer resigns after video release in death of one-year-old Kohen Wiley
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8095
 - slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
+  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage
+    surfaces
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.805
+  strength: 0.8059
 - slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
   headline: Autopsy indicates Kohen Wiley shot from side of car, not front
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8029
+  strength: 0.8044
 - slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
   headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7863
+  strength: 0.7874
 - slug: 2026-10-19-mississippi-ag-rules-officer-s-use-of-force-in-1-year-old-s-death-justified
   headline: Mississippi AG rules officer's use of force in 1-year-old's death justified
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7882
+  strength: 0.7885
 - slug: 2026-10-23-mississippi-attorney-general-calls-police-shooting-of-one-year-old-justified
   headline: Mississippi attorney general calls police shooting of one-year-old justified
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6659
-- slug: 2026-10-21-prosecutors-charge-willie-herndon-with-murder-in-overland-highway-shooting
-  headline: Prosecutors charge Willie Herndon with murder in Overland highway shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.599
-- slug: 2026-09-02-senatobia-fires-police-chief-after-report-of-racist-text-messages
-  headline: Senatobia fires police chief after report of racist text messages
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7937
-- slug: 2026-10-12-mamdani-orders-nypd-use-of-force-review-after-2024-fatal-shooting
-  headline: Mamdani orders NYPD use-of-force review after 2024 fatal shooting
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.608
-- slug: 2026-10-10-shane-seiber-10-year-philadelphia-veteran-killed-responding-to-gun-report
-  headline: Shane Seiber, 10-year Philadelphia veteran, killed responding to gun report
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6006
-- slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6001
-- slug: 2026-06-26-mississippi-protesters-demand-footage-after-police-kill-one-year-old-boy
-  headline: Mississippi protesters demand footage after police kill one-year-old boy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.808
-- slug: 2026-06-16-one-year-old-killed-woman-wounded-after-mississippi-police-shoot-at-car
-  headline: One-year-old killed, woman wounded after Mississippi police shoot at car
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7761
-- slug: 2026-06-22-fatal-police-shooting-of-one-year-old-boy-ignites-tensions-in-senatobia-mississi
-  headline: Fatal police shooting of one-year-old boy ignites tensions in Senatobia, Mississippi
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7673
-- slug: 2026-08-31-cedartown-officer-on-leave-after-baby-donkey-heehaw-shot-in-rockmart-pasture
-  headline: Cedartown officer on leave after baby donkey HeeHaw shot in Rockmart pasture
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6051
-- slug: 2026-07-30-seattle-names-sayles-interim-police-chief-days-after-festival-shooting
-  headline: Seattle names Sayles interim police chief days after festival shooting
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5988
-- slug: 2026-07-25-mother-urges-uk-to-press-texas-on-daughter-s-shooting-death
-  headline: Mother urges UK to press Texas on daughter's shooting death
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5965
-- slug: 2026-05-19-ex-hartford-officer-charged-with-manslaughter-in-mental-health-shooting-death
-  headline: Ex-Hartford officer charged with manslaughter in mental health shooting death
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6101
-- slug: 2026-01-09-ohio-review-board-clears-officer-who-fatally-shot-pregnant-ta-kiya-young
-  headline: Ohio review board clears officer who fatally shot pregnant Ta’Kiya Young
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.637
-- slug: 2026-01-10-review-board-clears-officer-connor-grubb-in-fatal-shooting-of-ta-kiya-young
-  headline: Review board clears officer Connor Grubb in fatal shooting of Ta’Kiya Young
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6367
-- slug: 2026-05-28-minneapolis-police-chief-brian-o-hara-resigns-after-investigation-finds-interfer
-  headline: Minneapolis Police Chief Brian O’Hara Resigns After Investigation Finds Interference
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5976
+  strength: 0.6665
 ---
-
 ## Hunter Foster resigns from police after killing one-year-old Kohen Wiley
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
-secondary_headline: Starshield has two variants; Ukraine uses the lower-tier service connected to Starlink
+secondary_headline: Starshield has two variants; Ukraine uses the lower-tier service
+  connected to Starlink
 publish_date: '2026-10-21'
-lede: 'The Wall Street Journal reported that Starshield has two variants: a custom-built satellite network SpaceX launched for the Pentagon and a lower-tier military-grade service connected to commercial Starlink satellites. Ukraine uses the lower-tier service, which uses Starlink equipment. Ukrainian forces use a form of "Starshield as a service" whose infrastructure is owned and controlled by SpaceX. The U.S. government owns the physical Starshield constellation that SpaceX operates, and some Starshield links used in Ukraine were bought with U.S. funds, including through a $138 million contract issued in 2024.'
-nut_graf: The ownership and funding details distinguish the infrastructure used by Ukrainian forces from the U.S.-owned physical constellation. SpaceX controls the "Starshield as a service" infrastructure used in Ukraine, and some Starshield links there were bought with U.S. funds, including through a $138 million contract issued in 2024. The military uses Starlink for battlefield communications and drone control and says the speed limit is causing many drone missions to fail.
+lede: 'The Wall Street Journal reported that Starshield has two variants: a custom-built
+  satellite network SpaceX launched for the Pentagon and a lower-tier military-grade
+  service connected to commercial Starlink satellites. Ukraine uses the lower-tier
+  service, which uses Starlink equipment. Ukrainian forces use a form of "Starshield
+  as a service" whose infrastructure is owned and controlled by SpaceX. The U.S. government
+  owns the physical Starshield constellation that SpaceX operates, and some Starshield
+  links used in Ukraine were bought with U.S. funds, including through a $138 million
+  contract issued in 2024.'
+nut_graf: The ownership and funding details distinguish the infrastructure used by
+  Ukrainian forces from the U.S.-owned physical constellation. SpaceX controls the
+  "Starshield as a service" infrastructure used in Ukraine, and some Starshield links
+  there were bought with U.S. funds, including through a $138 million contract issued
+  in 2024. The military uses Starlink for battlefield communications and drone control
+  and says the speed limit is causing many drone missions to fail.
 primary_entities:
 - SpaceX
 - Starlink
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,17 +157,27 @@ related_stories:
   headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8324
+  strength: 0.8318
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8114
+- slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
+  headline: Ukraine reports Starshield service operating normally after 10-day restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8032
 - slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
   headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8029
+  strength: 0.8032
 - slug: 2026-10-23-ukrainian-officials-report-continued-starshield-failures-above-100-mph
   headline: Ukrainian officials report continued Starshield failures above 100 mph
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7987
+  strength: 0.7983
 - slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
   headline: Trump administration denies requesting Starlink limits for Ukraine's military
   publish_date: '2026-10-23'
@@ -163,84 +187,13 @@ related_stories:
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8251
+  strength: 0.8247
 - slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
   headline: Musk redirects Ukraine Starlink speed cap to US military
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8141
-- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
-  headline: Trump credits Musk with restoring Ukraine's Starlink service
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7652
-- slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
-  headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7618
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.78
-- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
-  headline: Zelensky Starlink warning led to informal White House investigation
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7516
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7426
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7807
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7794
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.739
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7738
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7646
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.756
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7618
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7608
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7537
+  strength: 0.8136
 ---
-
 ## Ukraine's Starshield service is separate from the U.S.-owned constellation
 
 **Subtype:** fact

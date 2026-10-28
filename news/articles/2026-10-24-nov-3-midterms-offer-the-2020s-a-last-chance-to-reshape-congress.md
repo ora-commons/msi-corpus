@@ -1,9 +1,22 @@
 ---
 headline: Nov. 3 midterms offer the 2020s a last chance to reshape Congress
-secondary_headline: Most pollsters, pundits and other prognosticators predict possible Democratic flips
+secondary_headline: Most pollsters, pundits and other prognosticators predict possible
+  Democratic flips
 publish_date: '2026-10-24'
-lede: Nov. 3 offers the 2020s their last opportunity to produce a midterm that makes a big difference in Congress and national politics. NPR's Ron Elving said past midterms with that impact also shifted statehouse power and often signaled changes in state and national political landscapes that have lasted. The 2022 midterms produced a limited shift, while most pollsters, pundits and other prognosticators predict Democrats could flip the House and even the Senate.
-nut_graf: Midterms attract less voter participation and less voter interest than presidential elections. Low-propensity voters tend to tune out when the White House is not at stake, and overall vote totals fall by about one-third compared with presidential years. Even so, midterm voters elect just as many members of Congress and fill just as many state legislative seats as voters in presidential years, and they determine about two-thirds of the nation's governorships. Elving said the current cycle combines economic concerns, including energy prices, and negative stories about incumbents in various offices, just as in the previous 10 midterm cycles.
+lede: Nov. 3 offers the 2020s their last opportunity to produce a midterm that makes
+  a big difference in Congress and national politics. NPR's Ron Elving said past midterms
+  with that impact also shifted statehouse power and often signaled changes in state
+  and national political landscapes that have lasted. The 2022 midterms produced a
+  limited shift, while most pollsters, pundits and other prognosticators predict Democrats
+  could flip the House and even the Senate.
+nut_graf: Midterms attract less voter participation and less voter interest than presidential
+  elections. Low-propensity voters tend to tune out when the White House is not at
+  stake, and overall vote totals fall by about one-third compared with presidential
+  years. Even so, midterm voters elect just as many members of Congress and fill just
+  as many state legislative seats as voters in presidential years, and they determine
+  about two-thirds of the nation's governorships. Elving said the current cycle combines
+  economic concerns, including energy prices, and negative stories about incumbents
+  in various offices, just as in the previous 10 midterm cycles.
 primary_entities:
 - Ron Elving
 - NPR
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,21 +153,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7369
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7229
+  strength: 0.7223
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7052
 - slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7062
+  strength: 0.706
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6951
+  strength: 0.6955
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
@@ -163,84 +188,13 @@ related_stories:
   headline: US midterm elections on November 3 will determine control of Congress
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7688
+  strength: 0.7684
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7429
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6839
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6873
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.693
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6845
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7028
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.672
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7297
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.696
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7388
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6898
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6844
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6904
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6808
-- slug: 2026-08-01-historian-argues-landslide-needed-to-address-democracy-concerns-in-midterms
-  headline: Historian argues landslide needed to address democracy concerns in midterms
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7053
+  strength: 0.7436
 ---
-
 ## Nov. 3 midterms offer the 2020s a last chance to reshape Congress
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Jury convicts Ohio man of murder in deputy's death
-secondary_headline: Hinton faces 15 years to life; sentencing tentatively scheduled for Nov. 16
+secondary_headline: Hinton faces 15 years to life; sentencing tentatively scheduled
+  for Nov. 16
 publish_date: '2026-10-23'
-lede: A jury on Friday found Rodney L Hinton, 40, guilty of murder, reckless homicide and felonious assault in the death of Hamilton County special deputy Larry Henderson, according to authorities. Henderson died after Hinton struck him with his car hours after viewing body-worn camera footage of Cincinnati police shooting and killing his 18-year-old son, Ryan Hinton, the previous day. Hinton faces between 15 years and life in prison, with sentencing tentatively scheduled for 16 November.
-nut_graf: 'Hinton''s trial turned on whether he could be held criminally responsible for actions taken hours after watching video of his son''s shooting death: prosecutors argued he ''tracked'' Henderson with his car, while the defense argued the distress left him unable to distinguish right from wrong. Jurors rejected the insanity defense, and Hinton now faces 15 years to life at a sentencing hearing tentatively scheduled for 16 November.'
+lede: A jury on Friday found Rodney L Hinton, 40, guilty of murder, reckless homicide
+  and felonious assault in the death of Hamilton County special deputy Larry Henderson,
+  according to authorities. Henderson died after Hinton struck him with his car hours
+  after viewing body-worn camera footage of Cincinnati police shooting and killing
+  his 18-year-old son, Ryan Hinton, the previous day. Hinton faces between 15 years
+  and life in prison, with sentencing tentatively scheduled for 16 November.
+nut_graf: 'Hinton''s trial turned on whether he could be held criminally responsible
+  for actions taken hours after watching video of his son''s shooting death: prosecutors
+  argued he ''tracked'' Henderson with his car, while the defense argued the distress
+  left him unable to distinguish right from wrong. Jurors rejected the insanity defense,
+  and Hinton now faces 15 years to life at a sentencing hearing tentatively scheduled
+  for 16 November.'
 primary_entities:
 - Rodney L Hinton
 - Ryan Hinton
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
-  headline: Mississippi releases body-camera footage of fatal toddler police shooting
+- slug: 2026-10-23-prosecutors-and-defense-differ-over-rodney-hinton-jr-s-mental-state
+  headline: Prosecutors and defense differ over Rodney Hinton Jr.'s mental state
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6139
-- slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6043
-- slug: 2026-10-21-prosecutors-charge-willie-herndon-with-murder-in-overland-highway-shooting
-  headline: Prosecutors charge Willie Herndon with murder in Overland highway shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6111
-- slug: 2026-10-03-florida-jury-acquits-ex-deputy-in-fatal-shooting-of-black-air-force-airman
-  headline: Florida jury acquits ex-deputy in fatal shooting of Black Air Force airman
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6216
-- slug: 2026-09-22-driver-reportedly-convicted-in-death-of-kansas-teacher-whose-husband-was-killed-
-  headline: Driver reportedly convicted in death of Kansas teacher whose husband was killed months later
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6155
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6192
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6155
-- slug: 2026-07-10-sheriff-places-officer-on-leave-after-mississippi-jail-inmate-death
-  headline: Sheriff places officer on leave after Mississippi jail inmate death
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6331
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6107
+  strength: 0.8772
 - slug: 2026-05-08-former-deputy-found-guilty-of-reckless-homicide-in-casey-goodson-jr-shooting
   headline: Former deputy found guilty of reckless homicide in Casey Goodson Jr. shooting
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.673
-- slug: 2026-07-23-vance-boelter-gets-life-sentence-for-killing-minnesota-house-speaker-husband
-  headline: Vance Boelter gets life sentence for killing Minnesota House speaker, husband
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6059
-- slug: 2026-05-07-jury-begins-deliberating-in-murder-retrial-of-ohio-deputy-who-killed-goodson
-  headline: Jury begins deliberating in murder retrial of Ohio deputy who killed Goodson
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6399
-- slug: 2026-05-15-utah-officer-faces-manslaughter-charge-in-unarmed-man-shooting
-  headline: Utah officer faces manslaughter charge in unarmed man shooting
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6158
-- slug: 2026-04-22-murder-retrial-begins-in-ohio-for-ex-deputy-jason-meade-in-casey-goodson-jr-kill
-  headline: Murder retrial begins in Ohio for ex-deputy Jason Meade in Casey Goodson Jr. killing
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6212
-- slug: 2026-04-23-murder-retrial-begins-in-ohio-for-ex-deputy-jason-meade-in-casey-goodson-jr-kill
-  headline: Murder retrial begins in Ohio for ex-deputy Jason Meade in Casey Goodson Jr. killing
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6185
-- slug: 2026-02-11-mother-seeks-accountability-for-u-s-airman-roger-fortson-shot-by-fla-deputy
-  headline: Mother seeks accountability for U.S. Airman Roger Fortson shot by Fla. deputy
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6312
-- slug: 2026-05-15-utah-officer-charged-with-manslaughter-in-2024-shooting-of-unarmed-man-through-p
-  headline: Utah officer charged with manslaughter in 2024 shooting of unarmed man through pickup window
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6039
-- slug: 2026-04-15-bodycam-video-contradicts-st-louis-police-account-in-teen-shooting
-  headline: Bodycam video contradicts St. Louis police account in teen shooting
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6117
-- slug: 2026-04-28-man-gets-115-years-to-life-for-2024-killing-of-nypd-officer-diller
-  headline: Man gets 115 years to life for 2024 killing of NYPD officer Diller
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6047
-- slug: 2026-03-27-ny-town-official-john-reilly-convicted-in-doordash-driver-shooting
-  headline: NY town official John Reilly convicted in DoorDash driver shooting
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6099
+  strength: 0.6731
 ---
-
 ## Jury convicts Ohio man of murder in deputy's death
 
 **Subtype:** fact

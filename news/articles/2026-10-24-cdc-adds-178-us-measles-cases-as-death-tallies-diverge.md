@@ -1,9 +1,19 @@
 ---
 headline: CDC adds 178 US measles cases as death tallies diverge
-secondary_headline: Pennsylvania reported 1,338 cases; South Carolina and Utah each exceeded 500
+secondary_headline: Pennsylvania reported 1,338 cases; South Carolina and Utah each
+  exceeded 500
 publish_date: '2026-10-24'
-lede: The Centers for Disease Control and Prevention reported 178 additional measles cases in the United States this week, raising the national total for 2026 to 4,588 as of Friday. Federal health authorities said the illnesses were sickening people across at least 43 outbreaks, including 1,338 cases in Pennsylvania and more than 500 each in South Carolina and Utah. Pennsylvania, which has had the worst outbreak in the nation for months, also reported five measles-associated deaths and was investigating a sixth, while the CDC's national tally listed three deaths.
-nut_graf: Measles is highly contagious, and common symptoms may not send infected people to a doctor, which the report said could leave official totals understated. The new figures also arrive amid uncertainty over federal death reporting and changes to vaccine-injury reporting.
+lede: The Centers for Disease Control and Prevention reported 178 additional measles
+  cases in the United States this week, raising the national total for 2026 to 4,588
+  as of Friday. Federal health authorities said the illnesses were sickening people
+  across at least 43 outbreaks, including 1,338 cases in Pennsylvania and more than
+  500 each in South Carolina and Utah. Pennsylvania, which has had the worst outbreak
+  in the nation for months, also reported five measles-associated deaths and was investigating
+  a sixth, while the CDC's national tally listed three deaths.
+nut_graf: Measles is highly contagious, and common symptoms may not send infected
+  people to a doctor, which the report said could leave official totals understated.
+  The new figures also arrive amid uncertainty over federal death reporting and changes
+  to vaccine-injury reporting.
 primary_entities:
 - Centers for Disease Control and Prevention
 - United States
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +151,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8174
 - slug: 2026-10-22-cdc-adds-a-third-measles-death-without-identifying-the-state
   headline: CDC adds a third measles death without identifying the state
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7832
+  strength: 0.7834
 - slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
   headline: Pennsylvania reports sixth measles death as state cases top 1,100
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8323
+  strength: 0.8317
 - slug: 2026-10-13-franklin-county-coroner-reports-sixth-measles-death-in-pennsylvania
   headline: Franklin County coroner reports sixth measles death in Pennsylvania
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7732
+  strength: 0.7733
 - slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
   headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8051
+  strength: 0.8042
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8303
+  strength: 0.8296
 - slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
   headline: Pennsylvania reports fifth measles-related death of 2026
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8196
+  strength: 0.8197
 - slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
   headline: Pennsylvania measles cases top 1,000 as state reports five deaths
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7764
-- slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
-  headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.8128
-- slug: 2026-10-06-hochul-declares-state-emergency-as-new-york-measles-cases-reach-108
-  headline: Hochul declares state emergency as New York measles cases reach 108
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7458
-- slug: 2026-10-04-pennsylvania-measles-outbreak-reaches-943-cases-as-state-reports-fifth-death
-  headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7438
-- slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
-  headline: CDC dashboard still excludes four Pennsylvania measles deaths
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7674
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.8021
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.791
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7611
-- slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
-  headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7771
-- slug: 2026-09-15-shapiro-accuses-kennedy-of-antivaccine-conspiracy-theories-amid-measles-surge
-  headline: Shapiro accuses Kennedy of antivaccine conspiracy theories amid measles surge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.764
-- slug: 2026-09-14-cdc-shifts-measles-death-tracking-method-as-pennsylvania-outbreak-grows
-  headline: CDC shifts measles death-tracking method as Pennsylvania outbreak grows
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7623
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7477
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7766
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7515
+  strength: 0.7751
 ---
-
 ## CDC adds 178 US measles cases as death tallies diverge
 
 **Subtype:** fact

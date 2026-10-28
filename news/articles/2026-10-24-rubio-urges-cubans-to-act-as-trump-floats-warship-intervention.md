@@ -2,8 +2,18 @@
 headline: Rubio urges Cubans to act as Trump floats warship intervention
 secondary_headline: Trump proposed a naval stop 50 yards off Cuba's coast
 publish_date: '2026-10-24'
-lede: U.S. Secretary of State Marco Rubio urged Cubans seeking political change to act on Friday, moments after Donald Trump said U.S. warships returning from the Iran war would pass Cuba and one of them would stop about 50 yards off the coast before Rubio would be sent to finish a deal. Rubio called for a partnership with the CIA. The remarks revived talk of possible U.S. military intervention as the administration continued sanctions and talks with Cuban officials.
-nut_graf: 'The exchange adds to mixed signals in Washington''s Cuba policy: Trump described a possible naval intervention at Friday''s rally, and days after his United Nations general assembly address last month he had said he did not think the military would be needed. Rubio urged political action while doubting diplomacy. Cuba is also enduring an economic and energy crisis, with blackouts, food shortages and inflation affecting 10 million residents.'
+lede: U.S. Secretary of State Marco Rubio urged Cubans seeking political change to
+  act on Friday, moments after Donald Trump said U.S. warships returning from the
+  Iran war would pass Cuba and one of them would stop about 50 yards off the coast
+  before Rubio would be sent to finish a deal. Rubio called for a partnership with
+  the CIA. The remarks revived talk of possible U.S. military intervention as the
+  administration continued sanctions and talks with Cuban officials.
+nut_graf: 'The exchange adds to mixed signals in Washington''s Cuba policy: Trump
+  described a possible naval intervention at Friday''s rally, and days after his United
+  Nations general assembly address last month he had said he did not think the military
+  would be needed. Rubio urged political action while doubting diplomacy. Cuba is
+  also enduring an economic and energy crisis, with blackouts, food shortages and
+  inflation affecting 10 million residents.'
 primary_entities:
 - Marco Rubio
 - Donald Trump
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,21 +152,21 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-trump-revives-proposal-for-u-s-warships-to-stop-off-cuba
+  headline: Trump revives proposal for U.S. warships to stop off Cuba
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.883
 - slug: 2026-09-21-wealthy-cuban-americans-in-miami-draft-post-communist-cuba-blueprints
   headline: Wealthy Cuban-Americans in Miami draft post-communist Cuba blueprints
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7269
+  strength: 0.7267
 - slug: 2026-09-17-trump-and-rubio-allies-compete-for-cuban-assets-as-foreign-firms-exit
   headline: Trump and Rubio allies compete for Cuban assets as foreign firms exit
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7301
-- slug: 2026-09-10-us-pursues-regional-drug-interdiction-agreements-while-retaining-strikes
-  headline: US pursues regional drug-interdiction agreements while retaining strikes
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7161
+  strength: 0.73
 - slug: 2026-05-22-rubio-doubts-diplomacy-with-cuba-as-trump-threatens-possible-intervention
   headline: Rubio doubts diplomacy with Cuba as Trump threatens possible intervention
   publish_date: '2026-05-22'
@@ -165,12 +176,12 @@ related_stories:
   headline: Trump raises new military threat against Cuba as Rubio doubts diplomacy
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.8093
+  strength: 0.8094
 - slug: 2026-05-21-rubio-expresses-doubt-on-cuba-diplomacy-as-trump-renews-military-threat
   headline: Rubio expresses doubt on Cuba diplomacy as Trump renews military threat
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.802
+  strength: 0.8019
 - slug: 2026-02-28-trump-says-u-s-could-have-a-friendly-takeover-of-cuba
   headline: Trump says U.S. could have “a friendly takeover of Cuba”
   publish_date: '2026-02-28'
@@ -180,71 +191,10 @@ related_stories:
   headline: Rubio says no quick path to Ukraine deal in new bid to restart talks
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7292
-- slug: 2026-03-18-trump-rubio-call-for-new-cuban-leaders-as-blackouts-worsen-crisis
-  headline: Trump, Rubio call for new Cuban leaders as blackouts worsen crisis
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7907
-- slug: 2026-04-18-us-delegation-visits-cuba-in-diplomatic-push-as-trump-signals-post-iran-focus
-  headline: US delegation visits Cuba in diplomatic push as Trump signals post-Iran focus
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.7796
-- slug: 2026-05-08-us-says-it-is-not-planning-imminent-military-action-against-cuba
-  headline: US says it is not planning imminent military action against Cuba
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7554
-- slug: 2026-04-16-d-az-canel-says-cuba-will-fight-if-attacked-as-trump-signals-post-iran-focus-on-
-  headline: Díaz-Canel says Cuba will fight if attacked as Trump signals post-Iran focus on island
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7437
-- slug: 2026-05-15-cia-chief-meets-ra-l-castro-s-grandson-in-havana-us-engagement-hinges-on-change
-  headline: CIA chief meets Raúl Castro’s grandson in Havana; US engagement hinges on change
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7317
-- slug: 2026-06-02-marco-rubio-testifies-before-senate-house-on-budget-foreign-policy
-  headline: Marco Rubio testifies before Senate, House on budget, foreign policy
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7203
-- slug: 2026-03-18-cuba-blackout-deepens-crisis-as-trump-rubio-urge-political-change
-  headline: Cuba blackout deepens crisis as Trump, Rubio urge political change
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7454
-- slug: 2026-03-19-cuba-s-d-az-canel-slams-trump-imminent-action-threat-amid-crisis
-  headline: Cuba’s Díaz-Canel slams Trump “imminent action” threat amid crisis
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7446
-- slug: 2026-02-02-trump-says-u-s-is-starting-to-talk-to-cuba-amid-oil-cut-pressure
-  headline: Trump says U.S. is starting to talk to Cuba amid oil cut pressure
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.7475
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  headline: Rubio tamps down nation-building fears as Trump insists US 'in charge' in Venezuela
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7466
-- slug: 2026-02-27-cuba-and-u-s-investigate-deadly-boat-shooting-rubio-denies-operation
-  headline: Cuba and U.S. investigate deadly boat shooting; Rubio denies operation
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7382
-- slug: 2026-03-20-decades-long-resilience-of-cuba-s-government-in-jeopardy-over-trump-siege
-  headline: Decades-long resilience of Cuba’s government in jeopardy over Trump “siege”
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7318
+  strength: 0.7301
 analyses:
-- '2026-10-24-cia-appeal-and-warship-stopover-split-the-u-s-posture-on-cuba-by-audience'
+- 2026-10-24-cia-appeal-and-warship-stopover-split-the-u-s-posture-on-cuba-by-audience
 ---
-
 ## Rubio urges Cubans to act as Trump floats warship intervention
 
 **Subtype:** fact

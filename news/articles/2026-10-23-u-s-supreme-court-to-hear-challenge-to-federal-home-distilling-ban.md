@@ -1,9 +1,20 @@
 ---
 headline: U.S. Supreme Court to hear challenge to federal home-distilling ban
-secondary_headline: Lower courts split on constitutionality; a ruling could come in summer 2027
+secondary_headline: Lower courts split on constitutionality; a ruling could come in
+  summer 2027
 publish_date: '2026-10-23'
-lede: The U.S. Supreme Court announced this week that it would reconsider 1868 legislation forbidding home distilling. The court will hear a case early next year on whether Congress may continue to bar distilling spirits in private homes, reviving a constitutional challenge to the legislation. Plaintiffs say Congress overstepped its powers by restricting distilling for tax purposes during Reconstruction; government lawyers say the measure was lawful and necessary to stop producers from avoiding taxes. Lower courts have ruled oppositely, and the court could issue a decision in summer 2027.
-nut_graf: The case tests how far Congress’s taxing authority reaches into private homes and whether the almost 160-year-old prohibition survives the challenge. Hobbyists face criminal penalties under federal law, while Missouri and New Hampshire permit limited home production for personal consumption.
+lede: The U.S. Supreme Court announced this week that it would reconsider 1868 legislation
+  forbidding home distilling. The court will hear a case early next year on whether
+  Congress may continue to bar distilling spirits in private homes, reviving a constitutional
+  challenge to the legislation. Plaintiffs say Congress overstepped its powers by
+  restricting distilling for tax purposes during Reconstruction; government lawyers
+  say the measure was lawful and necessary to stop producers from avoiding taxes.
+  Lower courts have ruled oppositely, and the court could issue a decision in summer
+  2027.
+nut_graf: The case tests how far Congress’s taxing authority reaches into private
+  homes and whether the almost 160-year-old prohibition survives the challenge. Hobbyists
+  face criminal penalties under federal law, while Missouri and New Hampshire permit
+  limited home production for personal consumption.
 primary_entities:
 - U.S. Supreme Court
 - Geno Stecks
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,117 +163,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-03-supreme-court-opens-new-term-with-major-religion-guns-climate-cases
-  headline: Supreme Court opens new term with major religion, guns, climate cases
-  publish_date: '2026-10-03'
+- slug: 2026-10-19-supreme-court-takes-up-home-distilling-tax-case-after-split-rulings
+  headline: Supreme Court takes up home-distilling tax case after split rulings
+  publish_date: '2026-10-19'
   relation: related
-  strength: 0.6099
-- slug: 2026-09-23-fda-plans-to-speed-authorization-of-flavored-vapes-and-nicotine-pouches
-  headline: FDA plans to speed authorization of flavored vapes and nicotine pouches
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6009
-- slug: 2026-09-16-u-s-supreme-court-blocks-missouri-s-2025-congressional-map-for-november-election
-  headline: U.S. Supreme Court blocks Missouri's 2025 congressional map for November election
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5946
-- slug: 2026-09-03-supreme-court-ballroom-ruling-highlights-standing-hurdle-for-trump-challengers
-  headline: Supreme Court ballroom ruling highlights standing hurdle for Trump challengers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5905
-- slug: 2026-08-07-california-craft-distillers-face-losing-home-delivery-unless-lawmakers-act
-  headline: California craft distillers face losing home delivery unless lawmakers act
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6357
-- slug: 2026-08-18-canadian-provinces-u-s-alcohol-bans-stall-bilateral-trade-talks
-  headline: Canadian provinces' U.S. alcohol bans stall bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6106
-- slug: 2026-08-05-fauci-faces-thursday-contempt-vote-over-fifth-amendment-refusal
-  headline: Fauci faces Thursday contempt vote over Fifth Amendment refusal
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6012
-- slug: 2026-06-30-supreme-court-to-review-state-bans-on-ar-15-style-rifles
-  headline: Supreme Court to review state bans on AR-15-style rifles
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6195
-- slug: 2026-06-25-supreme-court-strikes-down-hawaii-s-gun-restrictions-on-private-property
-  headline: Supreme Court strikes down Hawaii's gun restrictions on private property
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6058
-- slug: 2026-07-05-u-s-spirits-volume-declines-for-fourth-straight-year-as-drinkers-cut-back
-  headline: U.S. spirits volume declines for fourth straight year as drinkers cut back
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5944
-- slug: 2026-05-18-supreme-court-likely-to-strike-down-hawaii-gun-restrictions
-  headline: Supreme Court likely to strike down Hawaii gun restrictions
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6246
-- slug: 2026-06-18-supreme-court-rules-government-cannot-automatically-bar-all-drug-users-from-owni
-  headline: Supreme Court rules government cannot automatically bar all drug users from owning guns
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5963
-- slug: 2026-06-10-supreme-court-debates-which-founding-fathers-were-drunks
-  headline: Supreme Court Debates Which Founding Fathers Were Drunks
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.594
-- slug: 2026-03-01-supreme-court-to-weigh-federal-ban-on-guns-for-regular-marijuana-users
-  headline: Supreme Court to weigh federal ban on guns for regular marijuana users
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6197
-- slug: 2026-03-02-supreme-court-signals-it-may-loosen-marijuana-ban-on-gun-ownership
-  headline: Supreme Court signals it may loosen marijuana ban on gun ownership
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6163
-- slug: 2026-01-19-hawaii-gun-law-faces-supreme-court-scrutiny-over-private-property-default-rule
-  headline: Hawaii gun law faces Supreme Court scrutiny over private property default rule
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.6163
-- slug: 2026-04-10-live-nation-antitrust-trial-nears-end-as-states-and-company-make-closings
-  headline: Live Nation antitrust trial nears end as states and company make closings
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6007
-- slug: 2026-03-24-missouri-supreme-court-upholds-mid-decade-congressional-redistricting-urged-by-t
-  headline: Missouri Supreme Court upholds mid-decade congressional redistricting urged by Trump
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6042
-- slug: 2026-03-21-supreme-court-weighs-whether-to-allow-grace-periods-for-mail-ballots
-  headline: Supreme Court weighs whether to allow grace periods for mail ballots
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6044
-- slug: 2026-05-05-trump-doj-seeks-to-block-minnesota-s-climate-fraud-lawsuit
-  headline: Trump DOJ seeks to block Minnesota’s climate fraud lawsuit
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5887
+  strength: 0.8543
 image:
   url: /articles/2026-10-23-u-s-supreme-court-to-hear-challenge-to-federal-home-distilling-ban.png
-  alt: "Illustration accompanying article: U.S. Supreme Court to hear challenge to federal home-distilling ban"
+  alt: 'Illustration accompanying article: U.S. Supreme Court to hear challenge to
+    federal home-distilling ban'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. Supreme Court to hear challenge to federal home-distilling ban
 
 **Subtype:** fact

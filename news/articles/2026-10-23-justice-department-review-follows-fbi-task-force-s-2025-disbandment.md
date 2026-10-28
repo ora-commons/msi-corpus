@@ -1,9 +1,23 @@
 ---
 headline: Justice Department review follows FBI task force's 2025 disbandment
-secondary_headline: Patel announced the arrests after promising to prosecute agents and analysts
+secondary_headline: Patel announced the arrests after promising to prosecute agents
+  and analysts
 publish_date: '2026-10-23'
-lede: Justice Department officials under President Trump disbanded the FBI’s task force on foreign influence in U.S. elections in early 2025, accused it of partisanship and launched a review of its work and broader allegations of bias at the bureau. The Justice Department charged former task force members Nikki Floris and Bradley Benavides with one count each of making false statements, and both defendants made their first court appearances Friday morning. FBI Director Kash Patel announced the arrests. Before leading the agency, Patel was one of its harshest critics and had promised prosecutions of agents and analysts if he ever got the job.
-nut_graf: The charges come as The Wall Street Journal reports that a sweeping South Florida investigation—intended, according to officials, to unravel a grand conspiracy against Trump by officials who investigated him over the last decade—was faltering amid inexperience and infighting. In recent weeks, officials privately acknowledged that tying disparate threads into one big conspiracy was not practical and had begun pursuing what they say are narrower but related criminal cases. The Floris-Benavides prosecution is among those cases.
+lede: Justice Department officials under President Trump disbanded the FBI’s task
+  force on foreign influence in U.S. elections in early 2025, accused it of partisanship
+  and launched a review of its work and broader allegations of bias at the bureau.
+  The Justice Department charged former task force members Nikki Floris and Bradley
+  Benavides with one count each of making false statements, and both defendants made
+  their first court appearances Friday morning. FBI Director Kash Patel announced
+  the arrests. Before leading the agency, Patel was one of its harshest critics and
+  had promised prosecutions of agents and analysts if he ever got the job.
+nut_graf: The charges come as The Wall Street Journal reports that a sweeping South
+  Florida investigation—intended, according to officials, to unravel a grand conspiracy
+  against Trump by officials who investigated him over the last decade—was faltering
+  amid inexperience and infighting. In recent weeks, officials privately acknowledged
+  that tying disparate threads into one big conspiracy was not practical and had begun
+  pursuing what they say are narrower but related criminal cases. The Floris-Benavides
+  prosecution is among those cases.
 primary_entities:
 - Justice Department
 - FBI
@@ -54,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,116 +168,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment.png
-  alt: 'Illustration accompanying article: Justice Department review follows FBI task force''s 2025 disbandment'
+  alt: 'Illustration accompanying article: Justice Department review follows FBI task
+    force''s 2025 disbandment'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-23-complaint-alleges-task-force-leaders-misstated-roles-in-hunter-biden-inquiry
+  headline: Complaint alleges task-force leaders misstated roles in Hunter Biden inquiry
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8187
 - slug: 2026-10-23-two-former-fbi-employees-appear-in-court-after-false-statement-complaints
   headline: Two former FBI employees appear in court after false-statement complaints
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7949
-- slug: 2026-10-23-cnn-sources-say-ex-fbi-agents-tried-to-downplay-biden-family-corruption-claims
-  headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption claims
+  strength: 0.7961
+- slug: 2026-10-27-ex-fbi-officials-face-preliminary-hearing-in-hunter-biden-laptop-case
+  headline: Ex-FBI officials face preliminary hearing in Hunter Biden laptop case
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7881
+- slug: 2026-10-23-hunter-biden-laptop-discovery-drew-concern-about-possible-russian-disinformation
+  headline: Hunter Biden laptop discovery drew concern about possible Russian disinformation
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7337
+  strength: 0.7712
+- slug: 2026-10-23-cnn-sources-say-ex-fbi-agents-tried-to-downplay-biden-family-corruption-claims
+  headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption
+    claims
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7345
+- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
+  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6531
 - slug: 2026-10-21-himes-warner-seek-election-day-contact-from-intelligence-leaders
   headline: Himes, Warner seek Election Day contact from intelligence leaders
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6509
+  strength: 0.6505
 - slug: 2026-10-15-nine-former-fbi-employees-sue-over-trump-documents-case-firings
   headline: Nine former FBI employees sue over Trump documents case firings
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6873
-- slug: 2026-10-06-fbi-counterintelligence-squads-face-deep-cuts-as-espionage-threats-grow
-  headline: FBI counterintelligence squads face deep cuts as espionage threats grow
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.689
-- slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
-  headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6582
-- slug: 2026-09-24-jag-firings-dhs-memo-fuel-legal-experts-election-concerns
-  headline: JAG firings, DHS memo fuel legal experts' election concerns
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6505
-- slug: 2026-09-23-times-review-finds-shinyhunters-fbi-data-most-likely-legitimate
-  headline: Times review finds ShinyHunters FBI data 'most likely legitimate'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6347
-- slug: 2026-09-18-patel-rejects-welch-s-election-pledge-request-as-charade-of-lies
-  headline: Patel rejects Welch's election pledge request as 'charade of lies'
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.642
-- slug: 2026-08-14-doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
-  headline: DOJ's new fraud division faces internal strife, stalled investigations
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6518
-- slug: 2026-06-05-fbi-fires-analysts-tied-to-disputed-catholic-extremism-memo
-  headline: FBI fires analysts tied to disputed Catholic extremism memo
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6647
-- slug: 2026-02-12-gabbard-ends-intelligence-reform-task-force
-  headline: Gabbard ends intelligence reform task force
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6859
-- slug: 2026-02-26-fbi-fires-more-agents-who-worked-on-trump-classified-documents-probe
-  headline: FBI fires more agents who worked on Trump classified documents probe
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6841
-- slug: 2026-02-25-fbi-fires-more-agents-who-worked-on-trump-classified-documents-probes
-  headline: FBI fires more agents who worked on Trump classified documents probes
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6833
-- slug: 2026-03-20-ex-fbi-agents-sue-patel-over-firings-tied-to-arctic-frost-probe
-  headline: Ex-FBI agents sue Patel over firings tied to Arctic Frost probe
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6776
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6369
-- slug: 2026-04-01-3-fired-fbi-agents-sue-to-regain-jobs-after-trump-investigation-work
-  headline: 3 fired FBI agents sue to regain jobs after Trump investigation work
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6719
-- slug: 2026-06-11-gabbard-rescinds-havana-syndrome-reports-that-doubted-foreign-involvement
-  headline: Gabbard rescinds Havana Syndrome reports that doubted foreign involvement
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6382
-- slug: 2026-04-15-trump-justice-department-fires-four-face-act-prosecutors-amid-bias-probe
-  headline: Trump Justice Department fires four FACE Act prosecutors amid bias probe
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6481
-- slug: 2026-02-21-trump-administration-staffed-with-election-conspiracy-promoters
-  headline: Trump administration staffed with election conspiracy promoters
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6465
+  strength: 0.6881
 ---
-
 ## Justice Department review follows FBI task force's 2025 disbandment
 
 **Subtype:** fact

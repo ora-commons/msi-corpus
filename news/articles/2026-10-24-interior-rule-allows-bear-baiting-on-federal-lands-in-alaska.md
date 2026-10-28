@@ -2,8 +2,15 @@
 headline: Interior rule allows bear baiting on federal lands in Alaska
 secondary_headline: Federal Register publication sets a mid-November effective date
 publish_date: '2026-10-24'
-lede: The U.S. Interior Department published a rule Friday that allows hunters to bait bears with human food on federal lands in Alaska, replacing a 2024 prohibition. The rule does not specify approved foods and instead defers to state rules that permit baiting; it takes effect in mid-November.
-nut_graf: The dispute affects public safety, federal wildlife management and how Alaska can influence hunting rules on federal land. Opponents say baiting can make bears more aggressive around people, while Animal Protection Law questions the rule's legal foundation and the administration's rationale for shifting control to the state.
+lede: The U.S. Interior Department published a rule Friday that allows hunters to
+  bait bears with human food on federal lands in Alaska, replacing a 2024 prohibition.
+  The rule does not specify approved foods and instead defers to state rules that
+  permit baiting; it takes effect in mid-November.
+nut_graf: The dispute affects public safety, federal wildlife management and how Alaska
+  can influence hunting rules on federal land. Opponents say baiting can make bears
+  more aggressive around people, while Animal Protection Law questions the rule's
+  legal foundation and the administration's rationale for shifting control to the
+  state.
 primary_entities:
 - Alaska
 - U.S. Interior Department
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +144,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-27-wildlife-agencies-in-at-least-15-states-report-rise-in-bear-encounters
-  headline: Wildlife agencies in at least 15 states report rise in bear encounters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.647
-- slug: 2026-09-25-trump-order-directs-agencies-to-prioritize-recreational-fishing
-  headline: Trump order directs agencies to prioritize recreational fishing
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6106
-- slug: 2026-09-05-trump-executive-order-directs-interior-to-weigh-gray-wolf-de-listing
-  headline: Trump executive order directs Interior to weigh gray wolf de-listing
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6325
-- slug: 2026-07-24-usda-to-lift-more-than-yearlong-ban-on-mexican-cattle-imports-in-30-days
-  headline: USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6316
-- slug: 2026-07-10-interior-department-narrows-esa-harm-definition-to-direct-injury-or-killing
-  headline: Interior Department narrows ESA 'harm' definition to direct injury or killing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6439
 - slug: 2026-05-07-judge-oks-alaska-wildlife-agents-killing-bears-from-helicopters-to-protect-carib
-  headline: Judge OKs Alaska wildlife agents killing bears from helicopters to protect caribou
+  headline: Judge OKs Alaska wildlife agents killing bears from helicopters to protect
+    caribou
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.6914
+  strength: 0.69
 - slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
+  headline: Trump administration lifts hunting restrictions in national parks and
+    refuges
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6862
-- slug: 2026-07-14-environmental-groups-sue-to-block-trump-s-narrowing-of-esa-harm-definition
-  headline: Environmental groups sue to block Trump's narrowing of ESA 'harm' definition
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.632
-- slug: 2026-07-11-trump-administration-narrows-habitat-protection-for-endangered-species
-  headline: Trump administration narrows habitat protection for endangered species
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6334
+  strength: 0.6876
 - slug: 2026-05-06-alaska-judge-allows-wildlife-agents-to-kill-bears-by-helicopter-to-save-caribou
-  headline: Alaska judge allows wildlife agents to kill bears by helicopter to save caribou
+  headline: Alaska judge allows wildlife agents to kill bears by helicopter to save
+    caribou
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.6734
+  strength: 0.6723
 - slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
+  headline: Trump administration orders sweeping rollback of hunting restrictions
+    on public lands
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6671
+  strength: 0.669
 - slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands
   headline: Interior Department cancels conservation rule on public lands
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6611
+  strength: 0.6633
 - slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands-a-key-biden-era-po
-  headline: Interior Department cancels conservation rule on public lands, a key Biden-era policy
+  headline: Interior Department cancels conservation rule on public lands, a key Biden-era
+    policy
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6585
+  strength: 0.6609
 - slug: 2026-01-20-interior-revokes-american-prairie-s-bison-grazing-permits-in-montana
   headline: Interior revokes American Prairie's bison grazing permits in Montana
   publish_date: '2026-01-20'
   relation: related
-  strength: 0.6707
-- slug: 2026-04-26-alaska-native-village-seeks-community-led-polar-bear-tourism-comeback
-  headline: Alaska Native village seeks community-led polar bear tourism comeback
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.639
-- slug: 2026-04-11-michigan-to-consider-one-buck-rule-limiting-hunters-to-one-antlered-deer
-  headline: Michigan to consider “one buck rule” limiting hunters to one antlered deer
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6427
-- slug: 2026-05-16-michigan-limits-hunters-to-one-buck-in-lower-peninsula-starting-next-year
-  headline: Michigan limits hunters to one buck in Lower Peninsula starting next year
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6292
-- slug: 2026-05-16-michigan-nrc-votes-to-limit-lower-peninsula-deer-hunters-to-one-buck-per-year
-  headline: Michigan NRC votes to limit Lower Peninsula deer hunters to one buck per year
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6172
-- slug: 2026-01-16-michigan-hunters-can-use-mobile-app-instead-of-paper-kill-tags-starting-march-1
-  headline: Michigan hunters can use mobile app instead of paper kill tags starting March 1
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6297
-- slug: 2025-12-30-florida-s-first-black-bear-hunt-in-a-decade-kills-52-officials-say
-  headline: Florida’s first black bear hunt in a decade kills 52, officials say
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6279
+  strength: 0.6709
 ---
-
 ## Interior rule allows bear baiting on federal lands in Alaska
 
 **Subtype:** fact

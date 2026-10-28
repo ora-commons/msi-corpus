@@ -1,9 +1,16 @@
 ---
 headline: Greg Bovino calls withdrawal from Minneapolis a surrender
-secondary_headline: Retired chief is not responding to lawsuits over Renee Good's killing
+secondary_headline: Retired chief is not responding to lawsuits over Renee Good's
+  killing
 publish_date: '2026-10-24'
-lede: Former US Border Patrol chief Greg Bovino defended the Trump administration's Minneapolis immigration operation in a BBC interview, calling the withdrawal of agents from the city a "surrender". The retired chief also said he was "not responding" to two civil lawsuits filed by Renee Good's family over her killing.
-nut_graf: Bovino's comments put his defense of the Minneapolis operation against the civil lawsuits filed after Good's death and the administration's decision to withdraw agents. The retired chief also called for more deportations and military support for enforcement and floated "exploring" a 2028 presidential run.
+lede: Former US Border Patrol chief Greg Bovino defended the Trump administration's
+  Minneapolis immigration operation in a BBC interview, calling the withdrawal of
+  agents from the city a "surrender". The retired chief also said he was "not responding"
+  to two civil lawsuits filed by Renee Good's family over her killing.
+nut_graf: Bovino's comments put his defense of the Minneapolis operation against the
+  civil lawsuits filed after Good's death and the administration's decision to withdraw
+  agents. The retired chief also called for more deportations and military support
+  for enforcement and floated "exploring" a 2028 presidential run.
 primary_entities:
 - Greg Bovino
 - Renee Good
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +151,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-minnesota-asks-judge-to-compel-federal-evidence-in-two-fatal-shootings
-  headline: Minnesota asks judge to compel federal evidence in two fatal shootings
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7196
 - slug: 2026-10-01-renee-good-s-family-sues-us-government-trump-officials-over-ice-killing
   headline: Renee Good's family sues US government, Trump officials over ICE killing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7823
+  strength: 0.7822
 - slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland shooting draws scrutiny
+  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland
+    shooting draws scrutiny
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.7687
+  strength: 0.7693
 - slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal ICE shooting
+  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal
+    ICE shooting
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.7607
+  strength: 0.7613
+- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
+  headline: Vance calls Minneapolis woman's ICE shooting death 'a tragedy of her own
+    making'
+  publish_date: '2026-01-08'
+  relation: related
+  strength: 0.7542
 - slug: 2026-02-28-family-of-renee-good-mourns-her-death-after-minneapolis-ice-shooting
   headline: Family of Renee Good mourns her death after Minneapolis ICE shooting
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.749
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  headline: Vance calls Minneapolis woman's ICE shooting death 'a tragedy of her own making'
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.753
+  strength: 0.7488
 - slug: 2026-01-27-bovino-architect-of-trump-s-immigration-sweeps-departs-minneapolis
   headline: Bovino, architect of Trump's immigration sweeps, departs Minneapolis
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.7514
+  strength: 0.7515
 - slug: 2026-03-18-gregory-bovino-to-retire-soon-as-border-patrol-s-el-centro-chief
   headline: Gregory Bovino to retire soon as Border Patrol’s El Centro chief
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.7381
+  strength: 0.7385
 - slug: 2026-01-14-good-family-hires-george-floyd-law-firm-to-investigate-minneapolis-ice-killing
-  headline: Good family hires George Floyd law firm to investigate Minneapolis ICE killing
+  headline: Good family hires George Floyd law firm to investigate Minneapolis ICE
+    killing
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.7447
-- slug: 2026-02-03-brothers-of-renee-good-urge-congress-action-after-minneapolis-death
-  headline: Brothers of Renee Good urge Congress action after Minneapolis death
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7425
-- slug: 2026-01-13-doj-declines-civil-rights-probe-into-minneapolis-ice-shooting-as-prosecutors-res
-  headline: DOJ declines civil rights probe into Minneapolis ICE shooting as prosecutors resign
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7398
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  headline: Federal agents deploy tear gas in Minneapolis as five prosecutors resign over Renee Good case
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.736
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  headline: Federal agents ram Minneapolis door, pepper-spray protesters in immigration sweep
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.7356
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  headline: Minneapolis sees second federal shooting as courts, governor push back on immigration sweep
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7336
-- slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
-  headline: Congress weighs response to ICE killing of Minnesota woman Renee Good
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.733
-- slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
-  headline: New ICE officer video raises use-of-force questions in Minneapolis shooting
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7325
-- slug: 2026-01-09-records-identify-minneapolis-ice-shooter-as-iraq-war-veteran-jonathan-ross
-  headline: Records identify Minneapolis ICE shooter as Iraq War veteran Jonathan Ross
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7305
-- slug: 2026-01-27-trump-replaces-minneapolis-immigration-commander-following-fatal-shooting
-  headline: Trump replaces Minneapolis immigration commander following fatal shooting
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7262
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  headline: ICE officer shoots and kills Minneapolis woman during immigration enforcement
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7273
-- slug: 2026-01-29-trump-signals-easing-immigration-tensions-but-enforcement-continues-in-minneapol
-  headline: Trump signals easing immigration tensions, but enforcement continues in Minneapolis
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7236
+  strength: 0.7442
 ---
-
 ## Greg Bovino calls withdrawal from Minneapolis a surrender
 
 **Subtype:** fact

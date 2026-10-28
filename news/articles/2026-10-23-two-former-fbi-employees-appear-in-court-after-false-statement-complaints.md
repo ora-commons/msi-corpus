@@ -1,9 +1,18 @@
 ---
 headline: Two former FBI employees appear in court after false-statement complaints
-secondary_headline: The charges concern 2023 testimony about the FBI's Hunter Biden investigations
+secondary_headline: The charges concern 2023 testimony about the FBI's Hunter Biden
+  investigations
 publish_date: '2026-10-23'
-lede: The Justice Department has charged two former FBI employees, Bradley Benavides and Nikki Floris, with one criminal count each alleging they made false statements to Congress during testimony in 2023 about the FBI's investigations into Hunter Biden. Both cases were filed by complaint, meaning prosecutors have not yet obtained a grand-jury indictment. Benavides and Floris appeared Friday morning in federal court in Washington, D.C., before Magistrate Judge Zia Faruqui.
-nut_graf: The charges concern what the former employees told lawmakers about their roles in the FBI's Hunter Biden investigations, including the bureau's handling of Hunter Biden's laptop before the 2020 election. The allegations remain at the complaint stage because prosecutors have not yet secured grand-jury indictments.
+lede: The Justice Department has charged two former FBI employees, Bradley Benavides
+  and Nikki Floris, with one criminal count each alleging they made false statements
+  to Congress during testimony in 2023 about the FBI's investigations into Hunter
+  Biden. Both cases were filed by complaint, meaning prosecutors have not yet obtained
+  a grand-jury indictment. Benavides and Floris appeared Friday morning in federal
+  court in Washington, D.C., before Magistrate Judge Zia Faruqui.
+nut_graf: The charges concern what the former employees told lawmakers about their
+  roles in the FBI's Hunter Biden investigations, including the bureau's handling
+  of Hunter Biden's laptop before the 2020 election. The allegations remain at the
+  complaint stage because prosecutors have not yet secured grand-jury indictments.
 primary_entities:
 - Justice Department
 - Bradley Benavides
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,117 +153,46 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-15-nine-former-fbi-employees-sue-over-trump-documents-case-firings
-  headline: Nine former FBI employees sue over Trump documents case firings
-  publish_date: '2026-10-15'
+- slug: 2026-10-23-complaint-alleges-task-force-leaders-misstated-roles-in-hunter-biden-inquiry
+  headline: Complaint alleges task-force leaders misstated roles in Hunter Biden inquiry
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6416
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
+  strength: 0.8969
+- slug: 2026-10-27-ex-fbi-officials-face-preliminary-hearing-in-hunter-biden-laptop-case
+  headline: Ex-FBI officials face preliminary hearing in Hunter Biden laptop case
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6416
-- slug: 2026-10-15-more-than-100-powder-letters-were-sent-to-thomas-boebert-in-mid-2023
-  headline: More than 100 powder letters were sent to Thomas, Boebert in mid-2023
-  publish_date: '2026-10-15'
+  strength: 0.8864
+- slug: 2026-10-23-hunter-biden-laptop-discovery-drew-concern-about-possible-russian-disinformation
+  headline: Hunter Biden laptop discovery drew concern about possible Russian disinformation
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.5882
-- slug: 2026-10-09-doj-convenes-grand-jury-in-case-against-cassidy-hutchinson
-  headline: DOJ convenes grand jury in case against Cassidy Hutchinson
-  publish_date: '2026-10-09'
+  strength: 0.8604
+- slug: 2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment
+  headline: Justice Department review follows FBI task force's 2025 disbandment
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6193
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
+  strength: 0.8287
+- slug: 2026-10-23-cnn-sources-say-ex-fbi-agents-tried-to-downplay-biden-family-corruption-claims
+  headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption
+    claims
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6128
-- slug: 2026-09-23-times-review-finds-shinyhunters-fbi-data-most-likely-legitimate
-  headline: Times review finds ShinyHunters FBI data 'most likely legitimate'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6128
-- slug: 2026-09-23-fbi-investigates-breach-of-jobs-website-claimed-by-hacking-group
-  headline: FBI investigates breach of jobs website claimed by hacking group
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6085
-- slug: 2026-09-23-fbi-records-contradict-collins-claims-she-was-cleared-in-navatek-probe
-  headline: FBI records contradict Collins' claims she was cleared in Navatek probe
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.586
-- slug: 2026-08-15-hunter-biden-conducts-wide-ranging-media-tour-across-podcasts-and-substack
-  headline: Hunter Biden conducts wide-ranging media tour across podcasts and Substack
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6408
-- slug: 2026-07-15-federal-trial-opens-for-israeli-investigator-accused-of-hacking-climate-activist
-  headline: Federal trial opens for Israeli investigator accused of hacking climate activists
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5869
-- slug: 2026-07-11-judge-awards-hunter-biden-1-7m-in-defamation-case-against-patrick-byrne
-  headline: Judge awards Hunter Biden $1.7M in defamation case against Patrick Byrne
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5909
-- slug: 2026-05-26-biden-sues-justice-department-to-block-release-of-hur-interview-audio
-  headline: Biden sues Justice Department to block release of Hur interview audio
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6307
-- slug: 2026-05-27-biden-sues-justice-department-to-block-release-of-audio-interviews-from-classifi
-  headline: Biden sues Justice Department to block release of audio interviews from classified documents probe
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6235
-- slug: 2026-06-23-yvonne-woods-pleads-guilty-in-colorado-dna-testing-scandal
-  headline: Yvonne Woods pleads guilty in Colorado DNA testing scandal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5906
-- slug: 2026-05-18-post-seeks-court-order-for-seized-reporter-s-devices
-  headline: Post seeks court order for seized reporter's devices
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6145
-- slug: 2026-03-20-ex-fbi-agents-sue-patel-over-firings-tied-to-arctic-frost-probe
-  headline: Ex-FBI agents sue Patel over firings tied to Arctic Frost probe
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6328
-- slug: 2026-04-01-3-fired-fbi-agents-sue-to-regain-jobs-after-trump-investigation-work
-  headline: 3 fired FBI agents sue to regain jobs after Trump investigation work
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6251
-- slug: 2026-06-06-columnist-accuses-jill-biden-of-rewriting-history-in-memoir
-  headline: Columnist accuses Jill Biden of rewriting history in memoir
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5884
-- slug: 2026-05-18-contractor-indicted-for-leaking-classified-documents-to-post-reporter
-  headline: Contractor indicted for leaking classified documents to Post reporter
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5981
-- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
-  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump accusation
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6009
+  strength: 0.8173
 image:
   url: /articles/2026-10-23-two-former-fbi-employees-appear-in-court-after-false-statement-complaints.png
-  alt: "Illustration accompanying article: Two former FBI employees appear in court after false-statement complaints"
+  alt: 'Illustration accompanying article: Two former FBI employees appear in court
+    after false-statement complaints'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Two former FBI employees appear in court after false-statement complaints
 
 **Subtype:** fact

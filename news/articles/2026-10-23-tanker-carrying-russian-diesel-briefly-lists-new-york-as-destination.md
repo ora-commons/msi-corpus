@@ -1,9 +1,17 @@
 ---
 headline: Tanker carrying Russian diesel briefly lists New York as destination
-secondary_headline: The 40,000-metric-ton cargo could reopen a route unused since 2022
+secondary_headline: The 40,000-metric-ton cargo could reopen a route unused since
+  2022
 publish_date: '2026-10-23'
-lede: A Malta-flagged tanker loaded about 40,000 metric tons of ultra-low-sulfur diesel at Russia’s Primorsk port and briefly listed New York as its destination, according to Kpler data. The Agioi Fanendes then changed the listing to “for orders,” while its ship manager said the discharging port was not confirmed, leaving open whether the cargo would mark renewed direct shipments to the United States.
-nut_graf: The tanker listing follows President Donald Trump’s announcement that Russia would send more than 300,000 metric tons of diesel immediately, with additional cargo expected in November and afterward. The Trump administration suspended sanctions on Russian diesel exports for about six months to help bring down U.S. diesel prices.
+lede: A Malta-flagged tanker loaded about 40,000 metric tons of ultra-low-sulfur diesel
+  at Russia’s Primorsk port and briefly listed New York as its destination, according
+  to Kpler data. The Agioi Fanendes then changed the listing to “for orders,” while
+  its ship manager said the discharging port was not confirmed, leaving open whether
+  the cargo would mark renewed direct shipments to the United States.
+nut_graf: The tanker listing follows President Donald Trump’s announcement that Russia
+  would send more than 300,000 metric tons of diesel immediately, with additional
+  cargo expected in November and afterward. The Trump administration suspended sanctions
+  on Russian diesel exports for about six months to help bring down U.S. diesel prices.
 primary_entities:
 - Agioi Fanendes
 - Russia
@@ -54,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +165,44 @@ related_stories:
   headline: Analysts say Trump-Russia diesel volumes too small to ease global squeeze
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.746
+  strength: 0.7455
 - slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
   headline: Trump says US reached deal with Putin for Russian diesel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7546
+  strength: 0.7549
 - slug: 2026-10-12-diesel-futures-erase-post-deal-drop-as-traders-dismiss-russian-volumes
   headline: Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.725
+  strength: 0.7251
 - slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
   headline: Bipartisan senators urge Trump to reverse Russian diesel deal
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.71
+  strength: 0.7099
 - slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
   headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.703
+  strength: 0.7032
 - slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
+  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under
+    2022 ban
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7023
+  strength: 0.7019
 - slug: 2026-10-13-twelve-senators-call-on-trump-to-rescind-russian-diesel-deal
   headline: Twelve senators call on Trump to rescind Russian diesel deal
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6818
+  strength: 0.6816
 - slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
   headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
   publish_date: '2026-10-11'
   relation: related
   strength: 0.6896
-- slug: 2026-10-09-zelensky-calls-u-s-russian-diesel-deal-a-gift-to-putin
-  headline: Zelensky calls U.S. Russian diesel deal a gift to Putin
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6869
-- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
-  headline: G7 to coordinate refinery maintenance as diesel supply tightens
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7203
-- slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6879
-- slug: 2026-10-05-trump-orders-dyed-diesel-opened-to-highway-use-defers-excise-tax
-  headline: Trump orders dyed diesel opened to highway use, defers excise tax
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.693
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6732
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6772
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6996
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6915
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6874
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6748
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6744
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6736
 ---
-
 ## Tanker carrying Russian diesel briefly lists New York as destination
 
 **Subtype:** fact

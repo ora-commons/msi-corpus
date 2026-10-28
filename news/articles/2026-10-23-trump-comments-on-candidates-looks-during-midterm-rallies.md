@@ -1,9 +1,21 @@
 ---
 headline: Trump comments on candidates' looks during midterm rallies
-secondary_headline: Democrats are expected to win the House, while Senate control remains possible
+secondary_headline: Democrats are expected to win the House, while Senate control
+  remains possible
 publish_date: '2026-10-23'
-lede: Donald Trump repeatedly broke from campaign remarks to comment on men's appearances at rallies across the United States during the two weeks before The Guardian's October 23 report. The Guardian's October 23 report said Trump described Republican Senator Jon Husted's physique at a Youngstown, Ohio, rally held to support Husted, then discussed him at a Kentucky appearance “this week,” when Husted was absent. The Guardian reported that Democrats were expected to win the House comfortably and could clinch the Senate, and it described Trump's popularity as historically low.
-nut_graf: The Guardian said Republicans were expected to struggle, leaving it unclear whether Trump's appearance comments reflected a carefully thought-out strategy or a recurring pattern. Husted, who has represented Ohio in the Senate since 2025, remained a recurring subject after Trump continued discussing him at the Kentucky appearance; the publication assessed that Trump appeared unlikely to stop making the comments.
+lede: Donald Trump repeatedly broke from campaign remarks to comment on men's appearances
+  at rallies across the United States during the two weeks before The Guardian's October
+  23 report. The Guardian's October 23 report said Trump described Republican Senator
+  Jon Husted's physique at a Youngstown, Ohio, rally held to support Husted, then
+  discussed him at a Kentucky appearance “this week,” when Husted was absent. The
+  Guardian reported that Democrats were expected to win the House comfortably and
+  could clinch the Senate, and it described Trump's popularity as historically low.
+nut_graf: The Guardian said Republicans were expected to struggle, leaving it unclear
+  whether Trump's appearance comments reflected a carefully thought-out strategy or
+  a recurring pattern. Husted, who has represented Ohio in the Senate since 2025,
+  remained a recurring subject after Trump continued discussing him at the Kentucky
+  appearance; the publication assessed that Trump appeared unlikely to stop making
+  the comments.
 primary_entities:
 - Donald Trump
 - Jon Husted
@@ -55,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,108 +166,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
+  headline: Trump holds seven rallies across seven states during midterm push
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7278
+- slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
+  headline: Trump draws generally smaller midterm crowds on a multistate rally week
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6824
+- slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
+  headline: Former President Obama criticizes Trump at Ohio midterm rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6691
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6643
 - slug: 2026-10-22-trump-rallies-graham-as-security-removes-protesters-in-south-carolina
   headline: Trump rallies Graham as security removes protesters in South Carolina
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.668
+  strength: 0.6676
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6807
+  strength: 0.6811
 - slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
   headline: Trump launches 32-day midterm rally blitz through GOP strongholds
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7408
+  strength: 0.7415
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6804
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6681
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6634
-- slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
-  headline: Trump stumps for Whatley in North Carolina Senate race
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.676
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6989
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6599
-- slug: 2026-09-10-guardian-column-frames-trump-dallas-speech-as-desperate-last-pitch-to-voters
-  headline: Guardian column frames Trump Dallas speech as 'desperate last pitch' to voters
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6687
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6743
-- slug: 2026-08-31-trump-describes-post-presidency-life-in-recent-speeches
-  headline: Trump describes post-presidency life in recent speeches
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6625
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6618
-- slug: 2026-06-13-trump-turns-80-as-white-house-projects-vigor-questions-over-health-persist
-  headline: Trump turns 80 as White House projects vigor, questions over health persist
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6873
-- slug: 2026-03-12-trump-slams-fellow-republican-massie-during-kentucky-rally
-  headline: Trump slams fellow Republican Massie during Kentucky rally
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.7191
-- slug: 2026-05-26-trump-says-everything-checked-out-perfectly-after-walter-reed-exam
-  headline: Trump says 'everything checked out perfectly' after Walter Reed exam
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6839
-- slug: 2026-05-18-hegseth-targets-massie-in-kentucky-as-he-praises-gallrein
-  headline: Hegseth targets Massie in Kentucky as he praises Gallrein
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6684
-- slug: 2026-05-25-trump-to-undergo-routine-annual-exam-at-walter-reed-after-follow-up
-  headline: Trump to undergo “routine annual” exam at Walter Reed after follow-up
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6639
-- slug: 2026-05-19-hegseth-assails-massie-in-kentucky-primary-praises-trump-backed-challenger
-  headline: Hegseth assails Massie in Kentucky primary, praises Trump-backed challenger
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6604
-- slug: 2026-02-27-trump-won-t-name-his-texas-senate-primary-pick-yet-backs-all-three
-  headline: Trump won’t name his Texas Senate primary pick yet, backs all three
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6765
+  strength: 0.6821
 ---
-
 ## Trump comments on candidates' looks during midterm rallies
 
 **Subtype:** fact

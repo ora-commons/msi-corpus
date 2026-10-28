@@ -2,8 +2,20 @@
 headline: Pentagon files relay claim of silent ‘black triangles’ over sensitive site
 secondary_headline: Expert says report illustrations add little substantive detail
 publish_date: '2026-10-23'
-lede: The Trump administration released a new tranche of Pentagon reports on Friday that includes an account from two anonymous senior military observers of a black triangular object flying over a sensitive site in the western United States earlier this year. The observers said the object moved at a speed they calculated to be 1,800 mph and vanished suddenly and silently within seconds, leaving no exhaust trail or other evidence. The file redacted the location and illustrated the report with nine images rather than photographs of the claimed object.
-nut_graf: 'The disclosure adds a detailed military-observer account to a Pentagon release program intended to bring transparency to decades of classified or secret UFO records. The released material also illustrates the evidentiary limits of that program: the sighting relies on anonymous observers, the location is redacted, and the file offers only illustrative silhouettes rather than photographs or video of the reported object. The timing follows an early burst of releases, while later batches have become less frequent and thinner.'
+lede: The Trump administration released a new tranche of Pentagon reports on Friday
+  that includes an account from two anonymous senior military observers of a black
+  triangular object flying over a sensitive site in the western United States earlier
+  this year. The observers said the object moved at a speed they calculated to be
+  1,800 mph and vanished suddenly and silently within seconds, leaving no exhaust
+  trail or other evidence. The file redacted the location and illustrated the report
+  with nine images rather than photographs of the claimed object.
+nut_graf: 'The disclosure adds a detailed military-observer account to a Pentagon
+  release program intended to bring transparency to decades of classified or secret
+  UFO records. The released material also illustrates the evidentiary limits of that
+  program: the sighting relies on anonymous observers, the location is redacted, and
+  the file offers only illustrative silhouettes rather than photographs or video of
+  the reported object. The timing follows an early burst of releases, while later
+  batches have become less frequent and thinner.'
 primary_entities:
 - Pentagon
 - Donald Trump
@@ -31,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -129,66 +142,36 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-17-aviation-experts-say-trump-arch-likely-safe-for-planes-but-adds-airspace-risk
-  headline: Aviation experts say Trump arch likely safe for planes but adds airspace risk
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6145
-- slug: 2026-09-16-pentagon-watchdog-reports-3-7b-in-iran-strike-equipment-losses
-  headline: Pentagon watchdog reports $3.7B in Iran strike equipment losses
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6124
-- slug: 2026-09-09-guardian-lists-six-trump-9-11-claims-it-says-lack-supporting-evidence
-  headline: Guardian lists six Trump 9/11 claims it says lack supporting evidence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6174
 - slug: 2026-05-10-pentagon-ufo-files-released-as-it-urges-public-to-interpret
   headline: Pentagon UFO files released as it urges public to interpret
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7844
+  strength: 0.7846
 - slug: 2026-05-10-trump-administration-releases-new-batch-of-pentagon-ufo-records
   headline: Trump Administration Releases New Batch of Pentagon UFO Records
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7773
-- slug: 2026-09-03-gao-secret-service-skipped-drone-policy-updates-before-butler-attack
-  headline: 'GAO: Secret Service skipped drone-policy updates before Butler attack'
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6129
+  strength: 0.7775
 - slug: 2026-05-10-pentagon-begins-releasing-ufo-files-as-trump-urges-public-to-interpret
   headline: Pentagon begins releasing UFO files as Trump urges public to interpret
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.772
+  strength: 0.7725
 - slug: 2026-05-10-pentagon-releases-new-uap-files-trump-urges-public-to-interpret-for-themselves
   headline: Pentagon releases new UAP files, Trump urges public to interpret for themselves
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7442
+  strength: 0.7446
 - slug: 2026-05-04-trump-says-pentagon-will-release-very-interesting-ufo-files-soon
   headline: Trump says Pentagon will release “very interesting” UFO files soon
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.7337
+  strength: 0.7347
 - slug: 2026-05-04-trump-stokes-ufo-file-suspense-as-pentagon-prepares-more-releases
   headline: Trump stokes UFO file suspense as Pentagon prepares more releases
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.7233
-- slug: 2026-08-14-guardian-video-examines-trump-s-reported-absence-from-air-force-one-in-turkey
-  headline: Guardian video examines Trump's reported absence from Air Force One in Turkey
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6138
-- slug: 2026-08-12-faa-plans-antenna-relocations-new-procedures-after-marine-one-incident-at-reagan
-  headline: FAA plans antenna relocations, new procedures after Marine One incident at Reagan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6148
+  strength: 0.7243
 - slug: 2026-04-04-nearly-a-century-of-ufo-wonder-u-s-sightings-investigations-and-movies
   headline: 'Nearly a century of UFO wonder: U.S. sightings, investigations, and movies'
   publish_date: '2026-04-04'
@@ -198,39 +181,8 @@ related_stories:
   headline: Trump orders Pentagon to identify and release UFO and alien files
   publish_date: '2026-02-20'
   relation: related
-  strength: 0.7159
-- slug: 2026-04-05-nearly-a-century-of-ufo-lore-spans-sightings-films-and-u-s-probes
-  headline: Nearly a century of UFO lore spans sightings, films and U.S. probes
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.7013
-- slug: 2026-04-07-trump-orders-ufo-files-released-reigniting-debate-on-whether-aliens-exist
-  headline: Trump orders UFO files released, reigniting debate on whether aliens exist
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6982
-- slug: 2026-02-19-trump-orders-agencies-to-release-ufo-and-extraterrestrials-files
-  headline: Trump orders agencies to release UFO and extraterrestrials files
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7064
-- slug: 2026-04-06-nearly-a-century-of-wondering-how-u-s-ufo-claims-evolved-in-reality-and-fiction
-  headline: 'Nearly a century of wondering: How U.S. UFO claims evolved in reality and fiction'
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6931
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6124
-- slug: 2026-04-07-hollywood-crafts-narrative-on-visitors-from-space
-  headline: Hollywood crafts narrative on visitors from space
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6496
+  strength: 0.7173
 ---
-
 ## Pentagon files relay claim of silent ‘black triangles’ over sensitive site
 
 **Subtype:** fact

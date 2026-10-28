@@ -2,8 +2,17 @@
 headline: Iraq and Pakistan cut off key land routes into and out of Iran
 secondary_headline: 17,000 trucks wait at Iran's borders as cargo backs up
 publish_date: '2026-10-23'
-lede: Iraq and Pakistan have cut off key land routes in and out of Iran this week, with Iraq closing the Sheeb border point and Pakistan blocking trucks at the Gabd and Taftan crossings, deepening the isolation of Tehran's economy after months of U.S. naval blockade and sanctions. Thousands of trucks are backed up at Iran's borders, and the Pakistani closures have stranded more than 4,500 metric tons of bottled gas, one of Tehran's last energy exports, on the Iranian side.
-nut_graf: The closures tighten the U.S. economic campaign against Tehran, adding to the pressure after a U.S. naval blockade and tough sanctions on airlines severed most of Iran's shipping and air routes, in an economy where households have lost 90% of their purchasing power in the past year, according to the country's statistical center.
+lede: Iraq and Pakistan have cut off key land routes in and out of Iran this week,
+  with Iraq closing the Sheeb border point and Pakistan blocking trucks at the Gabd
+  and Taftan crossings, deepening the isolation of Tehran's economy after months of
+  U.S. naval blockade and sanctions. Thousands of trucks are backed up at Iran's borders,
+  and the Pakistani closures have stranded more than 4,500 metric tons of bottled
+  gas, one of Tehran's last energy exports, on the Iranian side.
+nut_graf: The closures tighten the U.S. economic campaign against Tehran, adding to
+  the pressure after a U.S. naval blockade and tough sanctions on airlines severed
+  most of Iran's shipping and air routes, in an economy where households have lost
+  90% of their purchasing power in the past year, according to the country's statistical
+  center.
 primary_entities:
 - Iran
 - Iraq
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,12 +154,12 @@ related_stories:
   headline: Kpler reports Iran’s offshore oil reserves depleted amid U.S. blockade
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6876
+  strength: 0.6883
 - slug: 2026-09-17-iran-s-overland-trade-push-falters-amid-border-bottlenecks-and-costs
   headline: Iran's overland trade push falters amid border bottlenecks and costs
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7775
+  strength: 0.7771
 - slug: 2026-10-02-us-treasury-sanctions-iran-s-auto-rail-sectors-and-russia-linked-network
   headline: US Treasury sanctions Iran's auto, rail sectors and Russia-linked network
   publish_date: '2026-10-02'
@@ -159,89 +169,28 @@ related_stories:
   headline: U.S. sanctions pressure strands Iranian tankers off Sri Lanka
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6654
+  strength: 0.666
 - slug: 2026-09-22-us-treasury-ends-exemptions-that-let-foreign-firms-service-iranian-airlines
   headline: US Treasury ends exemptions that let foreign firms service Iranian airlines
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6613
+  strength: 0.6614
 - slug: 2026-09-05-us-blockade-holds-iranian-oil-exports-at-zero-while-gulf-crude-flows
   headline: US blockade holds Iranian oil exports at zero while Gulf crude flows
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.7139
+  strength: 0.7142
 - slug: 2026-08-19-uae-suspends-iran-financial-transactions-under-us-pressure
   headline: UAE suspends Iran financial transactions under US pressure
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6831
+  strength: 0.6836
 - slug: 2026-08-15-us-doubles-iran-economic-pressure-as-tehran-strikes-uae-ships-in-hormuz
   headline: US doubles Iran economic pressure as Tehran strikes UAE ships in Hormuz
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6665
-- slug: 2026-07-17-blockade-resumption-threatens-to-grind-iran-s-oil-revenue-to-near-zero
-  headline: Blockade resumption threatens to grind Iran's oil revenue to near zero
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6745
-- slug: 2026-05-01-analysis-us-blockade-threatens-iran-s-oil-production-and-global-fuel-supplies
-  headline: 'Analysis: US blockade threatens Iran’s oil production and global fuel supplies'
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7107
-- slug: 2026-04-29-israel-s-strikes-and-trump-blockade-batter-iran-s-economy
-  headline: Israel’s strikes and Trump blockade batter Iran’s economy
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6973
-- slug: 2026-05-08-iran-s-grip-on-strait-of-hormuz-jolts-economy-raises-fuel-and-food-risk
-  headline: Iran’s grip on Strait of Hormuz jolts economy, raises fuel and food risk
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6784
-- slug: 2026-04-15-us-navy-blockade-on-iran-halts-sea-trade-tehran-warns-of-wider-gulf-closure
-  headline: US Navy blockade on Iran halts sea trade; Tehran warns of wider Gulf closure
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6808
-- slug: 2026-03-10-iran-war-threatens-persian-gulf-oil-and-gas-links-from-lng-to-refineries
-  headline: Iran war threatens Persian Gulf oil and gas links from LNG to refineries
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6888
-- slug: 2026-03-10-iran-war-squeezes-global-economy-as-strait-of-hormuz-closure-cuts-oil-supply
-  headline: Iran war squeezes global economy as Strait of Hormuz closure cuts oil supply
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6864
-- slug: 2026-03-05-drugs-chips-and-fertilizers-iran-war-disrupts-global-shipments-beyond-oil
-  headline: 'Drugs, chips and fertilizers: Iran war disrupts global shipments beyond oil'
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6805
-- slug: 2026-05-14-war-and-us-blockade-strain-iran-s-economy-as-inflation-hits-highs
-  headline: War and US blockade strain Iran's economy as inflation hits highs
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6604
-- slug: 2026-03-19-unos-90-barcos-cruzan-ormuz-y-muestran-que-ir-n-exporta-petr-leo
-  headline: Unos 90 barcos cruzan Ormuz y muestran que Irán exporta petróleo
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6691
-- slug: 2026-03-19-dozens-of-ships-slip-through-strait-of-hormuz-as-iran-exports-oil
-  headline: Dozens of ships slip through Strait of Hormuz as Iran exports oil
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6687
-- slug: 2026-04-20-iran-s-ceasefire-offer-sidesteps-nuclear-issue-as-talks-stall
-  headline: Iran's ceasefire offer sidesteps nuclear issue as talks stall
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6606
+  strength: 0.6668
 ---
-
 ## Iraq and Pakistan cut off key land routes into and out of Iran
 
 **Subtype:** fact

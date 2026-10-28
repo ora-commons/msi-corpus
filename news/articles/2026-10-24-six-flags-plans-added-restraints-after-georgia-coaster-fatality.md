@@ -1,9 +1,19 @@
 ---
 headline: Six Flags plans added restraints after Georgia coaster fatality
-secondary_headline: Goliath and eight other rides remain closed during the accident investigation
+secondary_headline: Goliath and eight other rides remain closed during the accident
+  investigation
 publish_date: '2026-10-24'
-lede: Six Flags said late Friday that it plans to add seat belts to some of its roller coasters after a deadly incident this month at its Georgia theme park. Chief Executive John Reilly made the announcement in a letter to guests and passholders, saying the additional restraints would be added to the Goliath coaster at Six Flags Over Georgia and similar rides at the company's other parks. Those rides already feature "clamshell" lap bars to keep guests in their seats. Hassan Jihad Ibn Kariem, 42, died after falling from Goliath, and four other passengers were injured.
-nut_graf: Six Flags’ response combines added restraints, an independent review of safety procedures and continued ride closures as the accident investigation continues. The announcement also comes amid separate scrutiny of the X2 coaster at Magic Mountain, where multiple lawsuits allege serious brain injuries.
+lede: Six Flags said late Friday that it plans to add seat belts to some of its roller
+  coasters after a deadly incident this month at its Georgia theme park. Chief Executive
+  John Reilly made the announcement in a letter to guests and passholders, saying
+  the additional restraints would be added to the Goliath coaster at Six Flags Over
+  Georgia and similar rides at the company's other parks. Those rides already feature
+  "clamshell" lap bars to keep guests in their seats. Hassan Jihad Ibn Kariem, 42,
+  died after falling from Goliath, and four other passengers were injured.
+nut_graf: Six Flags’ response combines added restraints, an independent review of
+  safety procedures and continued ride closures as the accident investigation continues.
+  The announcement also comes amid separate scrutiny of the X2 coaster at Magic Mountain,
+  where multiple lawsuits allege serious brain injuries.
 primary_entities:
 - Six Flags
 - Six Flags Over Georgia
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-goliath-rider-thrown-from-seat-hits-coaster-cars-in-fatal-fall
+  headline: Goliath rider thrown from seat hits coaster cars in fatal fall
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.9069
+- slug: 2026-10-24-six-flags-to-reinforce-employee-training-and-safety-reviews-after-goliath-death
+  headline: Six Flags to reinforce employee training and safety reviews after Goliath
+    death
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8874
+- slug: 2026-10-24-seaworld-and-la-ronde-close-rides-using-similar-restraints-after-goliath-death
+  headline: SeaWorld and La Ronde close rides using similar restraints after Goliath
+    death
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8331
 - slug: 2026-10-14-six-flags-temporarily-closes-10-coasters-after-georgia-rider-death
   headline: Six Flags temporarily closes 10 coasters after Georgia rider death
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8348
+  strength: 0.8362
 - slug: 2026-10-14-six-flags-over-georgia-death-is-at-least-seventh-at-park-firm-says
   headline: Six Flags Over Georgia death is at least seventh at park, firm says
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8286
+  strength: 0.8287
 - slug: 2026-10-13-six-flags-closes-nine-rollercoasters-across-six-states-after-georgia-death
   headline: Six Flags closes nine rollercoasters across six states after Georgia death
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8117
+  strength: 0.8121
 - slug: 2026-10-12-cobb-county-police-report-fatal-incident-at-six-flags-over-georgia
   headline: Cobb County police report fatal incident at Six Flags Over Georgia
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.8001
+  strength: 0.8009
 - slug: 2026-10-12-six-flags-says-x2-coaster-retirement-was-the-right-thing-to-do
   headline: Six Flags says X2 coaster retirement was 'the right thing to do'
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7764
-- slug: 2026-10-13-atlanta-educator-fatally-ejected-from-six-flags-rollercoaster
-  headline: Atlanta educator fatally ejected from Six Flags rollercoaster
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.764
-- slug: 2026-10-13-six-flags-closes-similar-attractions-across-parks-after-fatal-georgia-incident
-  headline: Six Flags closes similar attractions across parks after fatal Georgia incident
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7526
-- slug: 2026-09-29-six-flags-permanently-retires-x2-coaster-as-injury-allegations-exceed-100
-  headline: Six Flags permanently retires X2 coaster as injury allegations exceed 100
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6813
-- slug: 2026-09-29-three-neurosurgeons-link-x2-riders-brain-injuries-to-ride-mechanics
-  headline: Three neurosurgeons link X2 riders' brain injuries to ride mechanics
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6746
-- slug: 2026-09-29-wisner-calls-for-government-oversight-of-amusement-rides-after-x2-closure
-  headline: Wisner calls for government oversight of amusement rides after X2 closure
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6696
-- slug: 2026-08-28-six-flags-shuts-x2-rollercoaster-after-riders-report-brain-injuries
-  headline: Six Flags shuts X2 rollercoaster after riders report brain injuries
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7153
-- slug: 2026-08-18-american-airlines-reverses-course-will-add-seat-back-screens-to-domestic-fleet
-  headline: American Airlines reverses course, will add seat-back screens to domestic fleet
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.57
-- slug: 2026-07-16-ntsb-finds-geese-remains-on-helicopter-that-crashed-into-hudson-river-killing-6
-  headline: NTSB finds geese remains on helicopter that crashed into Hudson River, killing 6
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5764
-- slug: 2026-07-09-nhtsa-bans-sale-and-import-of-airbag-inflaters-linked-to-at-least-10-u-s-deaths
-  headline: NHTSA bans sale and import of airbag inflaters linked to at least 10 U.S. deaths
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.566
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5805
-- slug: 2026-01-25-ntsb-to-probe-dc-midair-collision-recommend-fixes-to-prevent-repeats
-  headline: NTSB to probe DC midair collision, recommend fixes to prevent repeats
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.5978
-- slug: 2026-05-15-denver-runway-fatality-reveals-airport-perimeter-security-weakness
-  headline: Denver runway fatality reveals airport perimeter security weakness
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5723
-- slug: 2026-01-22-faa-makes-permanent-safety-rules-from-d-c-plane-crash
-  headline: FAA makes permanent safety rules from D.C. plane crash
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5965
-- slug: 2025-12-31-disney-world-worker-injured-stopping-runaway-prop-boulder-at-indiana-jones-show
-  headline: Disney World worker injured stopping runaway prop boulder at Indiana Jones show
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.5862
-- slug: 2026-03-10-georgia-teacher-jason-hughes-dies-in-prank-gone-wrong-teen-charged
-  headline: Georgia teacher Jason Hughes dies in prank gone wrong; teen charged
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5789
+  strength: 0.7774
 ---
-
 ## Six Flags plans added restraints after Georgia coaster fatality
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
 secondary_headline: US officials, Musk give conflicting accounts of who controls restrictions
 publish_date: '2026-10-23'
-lede: Ukrainian President Volodymyr Zelensky said unexplained limits on the Starlink and Starshield satellite services continue to affect Ukrainian forces, according to a BBC News report published Oct. 23. US officials and Elon Musk offer conflicting accounts of who controls the restrictions, the report said.
-nut_graf: Ukraine relies on the two networks for battlefield communications and drone operations. Starshield allows Ukrainian drone operators to see targets in real time and operate interceptor drones, and the networks use 10,000 satellites to provide connectivity in remote areas and on the battlefield.
+lede: Ukrainian President Volodymyr Zelensky said unexplained limits on the Starlink
+  and Starshield satellite services continue to affect Ukrainian forces, according
+  to a BBC News report published Oct. 23. US officials and Elon Musk offer conflicting
+  accounts of who controls the restrictions, the report said.
+nut_graf: Ukraine relies on the two networks for battlefield communications and drone
+  operations. Starshield allows Ukrainian drone operators to see targets in real time
+  and operate interceptor drones, and the networks use 10,000 satellites to provide
+  connectivity in remote areas and on the battlefield.
 primary_entities:
 - Volodymyr Zelensky
 - Elon Musk
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,11 +148,21 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
+  headline: Ukraine reports Starshield service operating normally after 10-day restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8323
 - slug: 2026-10-23-ukrainian-officials-report-continued-starshield-failures-above-100-mph
   headline: Ukrainian officials report continued Starshield failures above 100 mph
   publish_date: '2026-10-23'
   relation: related
   strength: 0.8192
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.818
 - slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
   headline: Trump credits Musk with restoring Ukraine's Starlink service
   publish_date: '2026-10-22'
@@ -161,88 +178,17 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.806
+- slug: 2026-10-21-ukraine-s-starshield-service-is-separate-from-the-u-s--owned-constellation
+  headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8038
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
   strength: 0.8347
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.8164
-- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
-  headline: Zelensky Starlink warning led to informal White House investigation
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7899
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.817
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.819
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8177
-- slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
-  headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7619
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.803
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7954
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7941
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7995
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.793
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7299
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7684
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7668
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7203
 ---
-
 ## Zelensky says unexplained Starlink limits still affect Ukraine's forces
 
 **Subtype:** fact

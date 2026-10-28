@@ -1,9 +1,17 @@
 ---
 headline: Gunmen kill at least seven at Greek Orthodox church funeral in Jordan
-secondary_headline: King Abdullah II vows harshest retaliation after Karak church shooting
+secondary_headline: King Abdullah II vows harshest retaliation after Karak church
+  shooting
 publish_date: '2026-10-23'
-lede: Gunmen opened fire on a funeral at a Greek Orthodox church in a Christian village south of Amman, Jordan, killing at least seven people and wounding 34 others, The Wall Street Journal reported. King Abdullah II described the Friday attack as terrorism and promised the harshest retaliation. No group had immediately claimed responsibility.
-nut_graf: The Wall Street Journal described the Friday attack in the Karak governorate as “a rare assault on Christians” in the Muslim-majority country neighboring Israel, where Christians represent about 2% of the population. Jordan has also been considered one of the U.S.'s most reliable partners in the Middle East and has been used as a basing point in the Iran war.
+lede: Gunmen opened fire on a funeral at a Greek Orthodox church in a Christian village
+  south of Amman, Jordan, killing at least seven people and wounding 34 others, The
+  Wall Street Journal reported. King Abdullah II described the Friday attack as terrorism
+  and promised the harshest retaliation. No group had immediately claimed responsibility.
+nut_graf: The Wall Street Journal described the Friday attack in the Karak governorate
+  as “a rare assault on Christians” in the Muslim-majority country neighboring Israel,
+  where Christians represent about 2% of the population. Jordan has also been considered
+  one of the U.S.'s most reliable partners in the Middle East and has been used as
+  a basing point in the Iran war.
 primary_entities:
 - Jordan
 - Karak
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +149,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-16-houthis-fire-missiles-at-aden-presidential-palace-killing-five
-  headline: Houthis fire missiles at Aden presidential palace, killing five
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.613
-- slug: 2026-10-13-iran-fortifies-nuclear-sites-and-warns-gulf-allies
-  headline: Iran Fortifies Nuclear Sites and Warns Gulf Allies
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6161
-- slug: 2026-09-02-u-s-strikes-iran-tehran-launches-missiles-at-jordan-drones-at-bahrain
-  headline: U.S. strikes Iran; Tehran launches missiles at Jordan, drones at Bahrain
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.645
 - slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
   headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6688
-- slug: 2026-07-22-iran-missile-strike-on-jordan-base-kills-three-us-service-members
-  headline: Iran missile strike on Jordan base kills three US service members
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6145
-- slug: 2026-07-24-u-s-strikes-iran-for-two-weeks-mobilizes-forces-for-larger-operation
-  headline: U.S. strikes Iran for two weeks, mobilizes forces for larger operation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.611
-- slug: 2026-07-18-iran-attack-in-jordan-kills-two-u-s-service-members
-  headline: Iran attack in Jordan kills two U.S. service members
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6153
-- slug: 2026-05-05-melkite-catholic-bishops-urge-lebanon-and-un-to-protect-southern-churches
-  headline: Melkite Catholic bishops urge Lebanon and UN to protect southern churches
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6364
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6151
-- slug: 2025-12-30-syria-mosque-bombing-in-homs-kills-8-and-wounds-18-during-friday-prayers
-  headline: Syria mosque bombing in Homs kills 8 and wounds 18 during Friday prayers
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6484
-- slug: 2026-05-03-israeli-airstrikes-in-southern-lebanon-kill-7-convent-bulldozed
-  headline: Israeli airstrikes in southern Lebanon kill 7; convent bulldozed
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6243
-- slug: 2025-12-29-syria-mosque-bombing-in-homs-kills-8-wounds-18-during-friday-prayers
-  headline: Syria mosque bombing in Homs kills 8, wounds 18 during Friday prayers
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.645
-- slug: 2026-04-08-lebanon-buries-christian-official-killed-in-israeli-strike-wife-also-dead
-  headline: Lebanon buries Christian official killed in Israeli strike, wife also dead
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6292
-- slug: 2026-04-12-grief-and-rage-in-lebanon-ahead-of-u-s-talks-with-israel
-  headline: Grief and rage in Lebanon ahead of U.S. talks with Israel
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6234
-- slug: 2026-01-16-hard-line-cleric-demands-executions-as-iran-protests-ebb-and-trump-thanks-tehran
-  headline: Hard-line cleric demands executions as Iran protests ebb and Trump thanks Tehran
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6317
-- slug: 2026-03-07-israel-renews-lebanon-strikes-as-war-spreads-to-gulf-states-and-iran-s-leadershi
-  headline: Israel renews Lebanon strikes as war spreads to Gulf states and Iran's leadership cracks
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6249
-- slug: 2026-03-05-iran-spreads-missile-and-drone-fire-across-gulf-to-pressure-u-s-into-diplomatic-
-  headline: Iran spreads missile and drone fire across Gulf to pressure U.S. into diplomatic off-ramp
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6232
-- slug: 2026-03-02-us-and-israel-pound-iran-as-trump-signals-willingness-to-talk
-  headline: US and Israel pound Iran as Trump signals willingness to talk
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6213
-- slug: 2026-01-15-mideast-allies-urge-trump-to-hold-off-on-iran-strikes-as-protest-death-toll-tops
-  headline: Mideast allies urge Trump to hold off on Iran strikes as protest death toll tops 2,600
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6256
-- slug: 2026-03-01-what-to-know-about-the-latest-us-israeli-attacks-on-iran
-  headline: What to know about the latest US-Israeli attacks on Iran
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6179
+  strength: 0.6687
 ---
-
 ## Gunmen kill at least seven at Greek Orthodox church funeral in Jordan
 
 **Subtype:** fact

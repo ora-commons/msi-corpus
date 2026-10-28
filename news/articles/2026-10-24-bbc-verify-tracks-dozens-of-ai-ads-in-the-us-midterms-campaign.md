@@ -2,8 +2,13 @@
 headline: BBC Verify tracks dozens of AI ads in the US midterms campaign
 secondary_headline: Researchers say campaigns are using AI ads more than ever
 publish_date: '2026-10-24'
-lede: BBC Verify tracks dozens of AI ads in the US midterms campaign to assess how campaigns are using them, according to a BBC News report published on 24 October 2026. Researchers say AI ads are being used more than ever ahead of the elections in November.
-nut_graf: BBC Verify's tracking assesses how US campaigns are using AI ads before the November elections. The review includes some ads funded by outside political groups, and ads also came directly from candidates in some key races.
+lede: BBC Verify tracks dozens of AI ads in the US midterms campaign to assess how
+  campaigns are using them, according to a BBC News report published on 24 October
+  2026. Researchers say AI ads are being used more than ever ahead of the elections
+  in November.
+nut_graf: BBC Verify's tracking assesses how US campaigns are using AI ads before
+  the November elections. The review includes some ads funded by outside political
+  groups, and ads also came directly from candidates in some key races.
 primary_entities:
 - BBC Verify
 - BBC News
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,21 +142,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-vanderbilt-researchers-find-governments-shape-chatbot-answers-about-politics
-  headline: Vanderbilt researchers find governments shape chatbot answers about politics
-  publish_date: '2026-10-20'
+- slug: 2026-10-27-false-election-claims-change-form-as-they-spread-through-social-platforms
+  headline: False election claims change form as they spread through social platforms
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.639
-- slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
-  headline: Trump says he has spent more than $300 million on the midterm elections
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6301
-- slug: 2026-10-12-government-kept-spending-on-pro-trump-ads-after-private-funding-pledge
-  headline: Government kept spending on pro-Trump ads after private-funding pledge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6276
+  strength: 0.657
 - slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
@@ -161,11 +157,6 @@ related_stories:
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6569
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.626
 - slug: 2026-09-29-campaign-disclosures-show-17-million-in-federal-ai-spending
   headline: Campaign disclosures show $17 million in federal AI spending
   publish_date: '2026-09-29'
@@ -186,58 +177,12 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.6524
-- slug: 2026-09-16-bannon-sanders-share-stage-at-pro-human-ai-conference-in-washington
-  headline: Bannon, Sanders share stage at 'pro-human' AI conference in Washington
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6453
 - slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
   headline: Campaigns spend $45 million on data center ads in 2026 midterms
   publish_date: '2026-09-05'
   relation: related
   strength: 0.6679
-- slug: 2026-09-14-bbc-asks-people-in-washington-dc-about-concerns-over-ai-development
-  headline: BBC asks people in Washington DC about concerns over AI development
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.635
-- slug: 2026-09-04-candidates-from-both-parties-target-flock-cameras-in-midterm-races
-  headline: Candidates from both parties target Flock cameras in midterm races
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.637
-- slug: 2026-08-11-guardian-editorial-says-ai-money-is-distorting-us-political-debate
-  headline: Guardian editorial says AI money is distorting US political debate
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6727
-- slug: 2026-06-15-ai-generated-campaign-ads-surge-ahead-of-midterms-researchers-say
-  headline: AI-generated campaign ads surge ahead of midterms, researchers say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7315
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7026
-- slug: 2026-06-17-silicon-valley-group-spends-7-million-targeting-ai-regulating-candidate-in-new-y
-  headline: Silicon Valley group spends $7 million targeting AI-regulating candidate in New York primary
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6688
-- slug: 2026-06-22-manhattan-house-primary-becomes-battleground-in-ai-industry-civil-war
-  headline: Manhattan House primary becomes battleground in AI industry civil war
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6636
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6583
 ---
-
 ## BBC Verify tracks dozens of AI ads in the US midterms campaign
 
 **Subtype:** fact

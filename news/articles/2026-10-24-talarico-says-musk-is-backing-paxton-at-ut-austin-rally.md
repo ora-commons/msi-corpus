@@ -1,9 +1,25 @@
 ---
 headline: Talarico says Musk is backing Paxton at UT Austin rally
-secondary_headline: Talarico contrasts voters' interests with billionaire mega-donor support
+secondary_headline: Talarico contrasts voters' interests with billionaire mega-donor
+  support
 publish_date: '2026-10-24'
-lede: At a University of Texas at Austin rally Friday, James Talarico accused Elon Musk of trying to buy influence in Republican Ken Paxton’s Texas Senate campaign and declared, “Texas is not for sale.” Talarico also said, “In all likelihood, if you’ve seen an attack ad on your screens, that was Elon. If you’ve gotten lies in your mailbox, that was Elon. If you received a text message saying scary things about me with scary black and white photos, that was Elon too.” Federal filings show $158 million moving from Musk through the Senate Leadership Fund to Texas PAC, a Republican super PAC supporting Paxton.
-nut_graf: 'The Guardian described the Senate contest as one of the most closely watched 2026 midterm races, which will determine control of Congress, and noted that Democrats were seeking their first statewide win since 1994. Polling showed the race was close: the RealClearPolitics average for polls conducted Oct. 6 to 19 put Talarico 1.8 percentage points ahead, and an Emerson College Polling/Nexstar Media survey found 48% for Talarico and 46% for Paxton. The Guardian reported that Talarico’s grassroots fundraising offset the outside-spending disadvantage. Talarico’s campaign separately reported raising $64 million from July through September, while federal filings traced $158 million to a super PAC supporting Paxton.'
+lede: At a University of Texas at Austin rally Friday, James Talarico accused Elon
+  Musk of trying to buy influence in Republican Ken Paxton’s Texas Senate campaign
+  and declared, “Texas is not for sale.” Talarico also said, “In all likelihood, if
+  you’ve seen an attack ad on your screens, that was Elon. If you’ve gotten lies in
+  your mailbox, that was Elon. If you received a text message saying scary things
+  about me with scary black and white photos, that was Elon too.” Federal filings
+  show $158 million moving from Musk through the Senate Leadership Fund to Texas PAC,
+  a Republican super PAC supporting Paxton.
+nut_graf: 'The Guardian described the Senate contest as one of the most closely watched
+  2026 midterm races, which will determine control of Congress, and noted that Democrats
+  were seeking their first statewide win since 1994. Polling showed the race was close:
+  the RealClearPolitics average for polls conducted Oct. 6 to 19 put Talarico 1.8
+  percentage points ahead, and an Emerson College Polling/Nexstar Media survey found
+  48% for Talarico and 46% for Paxton. The Guardian reported that Talarico’s grassroots
+  fundraising offset the outside-spending disadvantage. Talarico’s campaign separately
+  reported raising $64 million from July through September, while federal filings
+  traced $158 million to a super PAC supporting Paxton.'
 primary_entities:
 - James Talarico
 - Elon Musk
@@ -45,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +160,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
+  headline: Talarico and Paxton enter final stretch of Texas Senate race
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8462
 - slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
   headline: Talarico alleges Musk is trying to buy Texas Senate seat
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8436
+  strength: 0.8432
 - slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
   headline: Musk's Republican midterm giving exceeds $442 million
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8211
+  strength: 0.8219
 - slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8613
+  strength: 0.8615
 - slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
+  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to
+    Paxton PAC
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.865
+  strength: 0.8653
+- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
+  headline: Talarico rejects progressive label in Texas Senate race against Paxton
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7947
 - slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8058
+  strength: 0.8055
 - slug: 2026-10-21-neil-bush-says-he-cast-early-ballot-for-talarico-in-texas-senate-race
   headline: Neil Bush says he cast early ballot for Talarico in Texas Senate race
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7433
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7598
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7563
-- slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
-  headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7529
-- slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
-  headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7804
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7766
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7533
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.8045
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.8046
-- slug: 2026-08-31-talarico-leads-paxton-42-to-39-in-university-of-texas-senate-poll
-  headline: Talarico leads Paxton 42% to 39% in University of Texas Senate poll
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7901
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.742
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7645
-- slug: 2026-06-01-texas-senate-general-election-pits-talarico-against-paxton-in-november
-  headline: Texas Senate general election pits Talarico against Paxton in November
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7839
-- slug: 2026-06-19-texas-senate-race-turns-into-a-battle-over-who-is-more-of-a-man
-  headline: Texas Senate Race Turns Into a Battle Over Who Is More of a Man
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7688
-- slug: 2026-05-22-paxton-spotlights-trump-s-endorsement-in-texas-senate-runoff-vs-cornyn
-  headline: Paxton spotlights Trump’s endorsement in Texas Senate runoff vs. Cornyn
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7541
+  strength: 0.7445
 ---
-
 ## Talarico says Musk is backing Paxton at UT Austin rally
 
 **Subtype:** fact

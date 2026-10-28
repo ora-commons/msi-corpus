@@ -2,8 +2,20 @@
 headline: AfD board sought Trump support to remove UN enemy-state clauses
 secondary_headline: Leaked records show outreach, denials and unanswered approaches
 publish_date: '2026-10-23'
-lede: The Guardian reported that leaked records show Germany’s Alternative für Deutschland (AfD) federal board adopted a January 2017 request asking Donald Trump to support removal of the enemy-state clause from the UN Charter. The archive documents outreach to Trump, MAGA figures and officials, but several approaches produced no reply or meeting and the records do not establish that every proposed contact succeeded. The AfD said a hosting provider had been attacked at the end of September and only a few mailboxes copied, while party sources said the published material appeared to be authentic.
-nut_graf: The archive links the AfD’s policy positions to requests for help from a US president and to contacts with officials and political figures associated with his administrations. It also records internal objections, denials and unanswered approaches, so the material documents outreach without proving that every proposed contact succeeded. The AfD’s electoral gains and effort to form a state government give the disclosures current political significance.
+lede: The Guardian reported that leaked records show Germany’s Alternative für Deutschland
+  (AfD) federal board adopted a January 2017 request asking Donald Trump to support
+  removal of the enemy-state clause from the UN Charter. The archive documents outreach
+  to Trump, MAGA figures and officials, but several approaches produced no reply or
+  meeting and the records do not establish that every proposed contact succeeded.
+  The AfD said a hosting provider had been attacked at the end of September and only
+  a few mailboxes copied, while party sources said the published material appeared
+  to be authentic.
+nut_graf: The archive links the AfD’s policy positions to requests for help from a
+  US president and to contacts with officials and political figures associated with
+  his administrations. It also records internal objections, denials and unanswered
+  approaches, so the material documents outreach without proving that every proposed
+  contact succeeded. The AfD’s electoral gains and effort to form a state government
+  give the disclosures current political significance.
 primary_entities:
 - Alternative für Deutschland (AfD)
 - Germany
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,109 +158,8 @@ cross_article_links:
   strength: 0.6136
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-16-appeals-court-to-weigh-trump-claim-that-presidential-records-are-his
-  headline: Appeals court to weigh Trump claim that presidential records are his
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6236
-- slug: 2026-10-06-afd-s-rausch-elected-saxony-anhalt-parliament-speaker
-  headline: AfD's Rausch elected Saxony-Anhalt parliament speaker
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6163
-- slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
-  headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6081
-- slug: 2026-08-19-four-senate-democrats-ask-warsh-to-confirm-or-correct-trump-call-record
-  headline: Four Senate Democrats ask Warsh to confirm or correct Trump call record
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6112
-- slug: 2026-07-20-trump-administration-subpoenas-phone-records-of-nyt-journalists-relatives
-  headline: Trump administration subpoenas phone records of NYT journalists, relatives
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6234
-- slug: 2026-07-17-trump-uses-prime-time-speech-to-allege-election-system-compromised
-  headline: Trump uses prime-time speech to allege election system compromised
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.61
-- slug: 2026-07-14-british-whistleblower-says-he-uncovered-lutnick-s-undisclosed-epstein-ties
-  headline: British whistleblower says he uncovered Lutnick's undisclosed Epstein ties
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6097
-- slug: 2026-05-26-trump-administration-proposes-ndas-for-current-and-future-federal-employees
-  headline: Trump administration proposes NDAs for current and future federal employees
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6321
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6211
-- slug: 2026-05-27-justice-department-removes-jan-6-news-releases-calls-them-partisan-propaganda
-  headline: Justice Department removes Jan. 6 news releases, calls them 'partisan propaganda'
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6128
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6345
-- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
-  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump accusation
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6332
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6359
-- slug: 2026-04-15-trump-urges-congress-to-extend-section-702-foreign-surveillance-as-votes-stall
-  headline: Trump urges Congress to extend Section 702 foreign surveillance as votes stall
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6213
-- slug: 2026-05-04-trump-says-pentagon-will-release-very-interesting-ufo-files-soon
-  headline: Trump says Pentagon will release “very interesting” UFO files soon
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6143
-- slug: 2026-02-19-trump-orders-agencies-to-release-ufo-and-extraterrestrials-files
-  headline: Trump orders agencies to release UFO and extraterrestrials files
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6289
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.61
-- slug: 2026-04-14-trump-urges-extending-foreign-surveillance-program-as-congress-weighs-changes
-  headline: Trump urges extending foreign surveillance program as Congress weighs changes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6135
-- slug: 2026-01-31-justice-department-releases-3-million-pages-of-epstein-files
-  headline: Justice Department releases 3 million pages of Epstein files
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6234
-- slug: 2026-03-24-trump-voted-by-mail-in-florida-special-election-as-he-pushes-congress-to-curb-it
-  headline: Trump voted by mail in Florida special election as he pushes Congress to curb it
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6162
+related_stories: []
 ---
-
 ## AfD board sought Trump support to remove UN enemy-state clauses
 
 **Subtype:** fact

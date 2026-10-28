@@ -2,8 +2,22 @@
 headline: Four defendants plead guilty over monkey abuse videos shared online
 secondary_headline: Telegram planning and payments to people in Indonesia
 publish_date: '2026-10-23'
-lede: Four people have pleaded guilty to participating in an online conspiracy to produce and distribute videos depicting the torture and sexual abuse of monkeys, the Justice Department said Friday. Ernest Chavez of Arizona pleaded guilty Friday, while Mary Longoria of North Carolina, Kimberly Anglin of Connecticut and Patrick Naylor of North Carolina pleaded guilty in July and August. Court documents describe the defendants and their co-conspirators using Telegram to discuss and plan videos depicting acts of animal abuse. Members of the online groups sent money through online payment applications to people in Indonesia who were willing to carry out and record the requested acts.
-nut_graf: According to court documents, the defendants and their co-conspirators used the messaging application Telegram to discuss and plan videos depicting acts of animal abuse. Members of the online groups sent money through online payment applications to people in Indonesia who were willing to carry out the requested acts and record them. Four people have pleaded guilty, Nicholas Dryden was previously sentenced to nine years in federal prison for his role in the conspiracy, and sentencing remains scheduled for Longoria, Anglin and Naylor.
+lede: Four people have pleaded guilty to participating in an online conspiracy to
+  produce and distribute videos depicting the torture and sexual abuse of monkeys,
+  the Justice Department said Friday. Ernest Chavez of Arizona pleaded guilty Friday,
+  while Mary Longoria of North Carolina, Kimberly Anglin of Connecticut and Patrick
+  Naylor of North Carolina pleaded guilty in July and August. Court documents describe
+  the defendants and their co-conspirators using Telegram to discuss and plan videos
+  depicting acts of animal abuse. Members of the online groups sent money through
+  online payment applications to people in Indonesia who were willing to carry out
+  and record the requested acts.
+nut_graf: According to court documents, the defendants and their co-conspirators used
+  the messaging application Telegram to discuss and plan videos depicting acts of
+  animal abuse. Members of the online groups sent money through online payment applications
+  to people in Indonesia who were willing to carry out the requested acts and record
+  them. Four people have pleaded guilty, Nicholas Dryden was previously sentenced
+  to nine years in federal prison for his role in the conspiracy, and sentencing remains
+  scheduled for Longoria, Anglin and Naylor.
 primary_entities:
 - Justice Department
 - Ernest Chavez
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +154,8 @@ cross_article_links:
   strength: 0.5485
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-15-maduro-and-flores-plead-not-guilty-to-new-torture-conspiracy-charges
-  headline: Maduro and Flores plead not guilty to new torture conspiracy charges
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5812
-- slug: 2026-10-15-maduro-flores-face-20-year-maximum-as-june-14-trial-set-in-u-s-torture-case
-  headline: Maduro, Flores face 20-year maximum as June 14 trial set in U.S. torture case
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5718
-- slug: 2026-10-08-indictment-details-alleged-torture-of-american-detainees
-  headline: Indictment details alleged torture of American detainees
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5877
-- slug: 2026-10-08-flores-ordered-torture-to-protect-family-members-us-indictment-alleges
-  headline: Flores ordered torture to protect family members, US indictment alleges
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.57
-- slug: 2026-09-08-malone-lam-pleads-guilty-to-federal-racketeering-charge
-  headline: Malone Lam pleads guilty to federal racketeering charge
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5623
-- slug: 2026-08-05-two-maryland-men-face-charges-in-exotic-animal-photoshoot-sting
-  headline: Two Maryland men face charges in exotic-animal photoshoot sting
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5711
-- slug: 2026-06-24-12-charged-in-drone-contraband-conspiracy-targeting-federal-prisons
-  headline: 12 charged in drone contraband conspiracy targeting federal prisons
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.565
-- slug: 2026-05-21-two-men-charged-with-ai-deepfake-porn-under-new-take-it-down-law
-  headline: Two men charged with AI deepfake porn under new ‘Take It Down’ law
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5847
-- slug: 2026-06-02-crypto-godfather-pleads-guilty-in-connecticut-abduction-plot
-  headline: Crypto 'Godfather' pleads guilty in Connecticut abduction plot
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5726
-- slug: 2026-05-21-two-men-charged-as-first-defendants-under-federal-ai-deepfake-law
-  headline: Two men charged as first defendants under federal AI deepfake law
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5796
-- slug: 2026-05-23-two-men-charged-with-creating-ai-porn-of-female-celebrities-under-new-law
-  headline: Two men charged with creating AI porn of female celebrities under new law
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5761
-- slug: 2026-05-26-washington-tourist-pleads-not-guilty-to-harassing-hawaiian-monk-seal
-  headline: Washington tourist pleads not guilty to harassing Hawaiian monk seal
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5728
-- slug: 2026-05-22-two-men-charged-with-ai-generated-porn-under-new-take-it-down-law
-  headline: Two men charged with AI-generated porn under new “Take It Down” law
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5729
-- slug: 2026-03-27-jury-finds-instagram-and-youtube-liable-in-landmark-social-media-addiction-trial
-  headline: Jury finds Instagram and YouTube liable in landmark social media addiction trial
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5854
-- slug: 2026-05-15-washington-tourist-charged-after-video-shows-rock-thrown-at-endangered-hawaiian-
-  headline: Washington tourist charged after video shows rock thrown at endangered Hawaiian monk seal
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5632
-- slug: 2026-04-24-u-s-charges-2-chinese-nationals-in-myanmar-cyberscam-compound-case
-  headline: U.S. charges 2 Chinese nationals in Myanmar cyberscam compound case
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5718
-- slug: 2026-05-12-indonesian-prosecutors-seek-18-year-sentence-for-gojek-co-founder-in-chromebook-
-  headline: Indonesian prosecutors seek 18-year sentence for Gojek co-founder in Chromebook corruption case
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5638
-- slug: 2026-03-07-bangladeshi-man-faces-federal-charges-in-alaska-over-sextortion-of-hundreds-of-t
-  headline: Bangladeshi man faces federal charges in Alaska over sextortion of hundreds of teens
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5794
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5714
-- slug: 2026-03-31-onetaste-co-founder-sentenced-to-9-years-in-forced-labor-case
-  headline: OneTaste co-founder sentenced to 9 years in forced labor case
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5686
+related_stories: []
 ---
-
 ## Four defendants plead guilty over monkey abuse videos shared online
 
 **Subtype:** fact

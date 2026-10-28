@@ -1,9 +1,20 @@
 ---
 headline: Blanche won't rule out DOJ role in state election certification
-secondary_headline: California mail-in ballot lawsuit preceded Alaska certification suit
+secondary_headline: California mail-in ballot lawsuit preceded Alaska certification
+  suit
 publish_date: '2026-10-23'
-lede: Attorney General Todd Blanche declined on Thursday to rule out Justice Department involvement in state election-certification processes, saying the department had never intended to improperly interfere with elections. His comments came as the department sued Alaska to block certification of its Senate results if Republican candidate Dan S. Sullivan loses, following a separate California lawsuit seeking to block counting of mail-in ballots received from 20,000 people whom the Trump administration says may not be U.S. citizens.
-nut_graf: Blanche's answer left open whether the Justice Department could become involved in state certification proceedings, even as the department pressed its Alaska request. The remarks placed that question alongside two lawsuits over election administration ahead of the 2026 midterms, including California's dispute over mail-in ballots received from 20,000 people whom the Trump administration says may not be U.S. citizens.
+lede: Attorney General Todd Blanche declined on Thursday to rule out Justice Department
+  involvement in state election-certification processes, saying the department had
+  never intended to improperly interfere with elections. His comments came as the
+  department sued Alaska to block certification of its Senate results if Republican
+  candidate Dan S. Sullivan loses, following a separate California lawsuit seeking
+  to block counting of mail-in ballots received from 20,000 people whom the Trump
+  administration says may not be U.S. citizens.
+nut_graf: Blanche's answer left open whether the Justice Department could become involved
+  in state certification proceedings, even as the department pressed its Alaska request.
+  The remarks placed that question alongside two lawsuits over election administration
+  ahead of the 2026 midterms, including California's dispute over mail-in ballots
+  received from 20,000 people whom the Trump administration says may not be U.S. citizens.
 primary_entities:
 - Todd Blanche
 - Justice Department
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,118 +155,63 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification.png
-  alt: 'Illustration accompanying article: Blanche won''t rule out DOJ role in state election certification'
+  alt: 'Illustration accompanying article: Blanche won''t rule out DOJ role in state
+    election certification'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
+  headline: Blanche frames Alaska election suit as federal-law test
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8489
+- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
+  headline: Blanche defends lawsuit to block Alaska Senate certification
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8313
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7967
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
+  strength: 0.7983
+- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
+  headline: Justice Department files pre-election challenge to Alaska Senate certification
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.7016
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
+  strength: 0.7957
+- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
+  headline: Legal experts say Alaska Senate certification suit has no chance of success
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.7273
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
+  strength: 0.7821
+- slug: 2026-10-25-blanche-defends-doj-alaska-suit-calls-cnn-question-crazy
+  headline: Blanche defends DOJ Alaska suit, calls CNN question 'crazy'
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.7247
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
+  strength: 0.7807
+- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
+  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6755
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
+  strength: 0.7762
+- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6749
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6788
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6774
-- slug: 2026-10-16-every-federal-judge-to-rule-has-dismissed-doj-voter-data-lawsuits
-  headline: Every federal judge to rule has dismissed DOJ voter-data lawsuits
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6744
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6698
-- slug: 2026-08-16-blanche-declines-independence-pledge-as-he-defends-trump-policies
-  headline: Blanche declines independence pledge as he defends Trump policies
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6901
-- slug: 2026-07-07-over-1-200-former-doj-employees-urge-senate-to-reject-blanche
-  headline: Over 1,200 former DOJ employees urge Senate to reject Blanche
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.708
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6728
-- slug: 2026-07-14-blanche-confirmation-hearings-open-as-senators-weigh-conflicts
-  headline: Blanche confirmation hearings open as senators weigh conflicts
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6753
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7031
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6759
-- slug: 2026-07-01-doj-dhs-to-prioritize-birth-tourism-cases-after-supreme-court-birthright-ruling
-  headline: DOJ, DHS to prioritize birth tourism cases after Supreme Court birthright ruling
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.675
-- slug: 2026-05-17-trump-administration-runs-67-million-voter-registrations-through-dhs-eligibility
-  headline: Trump administration runs 67 million voter registrations through DHS eligibility system ahead of midterms
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6925
-- slug: 2026-06-12-alaska-election-official-threatens-to-disqualify-candidate-dan-sullivan-from-sen
-  headline: Alaska election official threatens to disqualify candidate Dan Sullivan from Senate primary
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6709
-- slug: 2026-05-23-blanche-at-center-of-republican-firestorm-over-1-8b-justice-fund
-  headline: Blanche at center of Republican firestorm over $1.8B Justice fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6769
+  strength: 0.7749
 analyses:
-- '2026-10-23-justice-department-certification-cases-expose-unresolved-federal-state-authority'
+- 2026-10-23-justice-department-certification-cases-expose-unresolved-federal-state-authority
 ---
-
 ## Blanche won't rule out DOJ role in state election certification
 
 **Subtype:** fact

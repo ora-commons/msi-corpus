@@ -2,8 +2,20 @@
 headline: Beverly Hills school-board rivals clash before Nov. 3 vote
 secondary_headline: Two seats could flip the board's 3-2 majority
 publish_date: '2026-10-23'
-lede: Jackie Kruger and Judy Manouchehri will meet again Nov. 3 after a Beverly Hills school-board meeting where security escorted Kruger out. Before the escort, Kruger warned Manouchehri that she would sue; Manouchehri responded, “You got to do what you got to do, baby.” At that same meeting, Kruger insisted on reading aloud sexual allegations against a conservative influencer invited to speak to a Jewish club; Manouchehri said the remarks were out of turn, and the superintendent told Kruger, “This is nonagendized, Ms. Kruger.” The Wall Street Journal reported that the two-seat contest has been shaped by national disputes over Israel, the Iran war and President Trump.
-nut_graf: Two seats are on the Beverly Hills Unified School District ballot, and Kruger and Kim Lifschitz hope their wins will topple what they call the board’s conservative 3-2 majority. The campaign has also brought dueling restraining-order petitions, a pending lawsuit and complaints about stolen yard signs into a contest over the district’s direction.
+lede: Jackie Kruger and Judy Manouchehri will meet again Nov. 3 after a Beverly Hills
+  school-board meeting where security escorted Kruger out. Before the escort, Kruger
+  warned Manouchehri that she would sue; Manouchehri responded, “You got to do what
+  you got to do, baby.” At that same meeting, Kruger insisted on reading aloud sexual
+  allegations against a conservative influencer invited to speak to a Jewish club;
+  Manouchehri said the remarks were out of turn, and the superintendent told Kruger,
+  “This is nonagendized, Ms. Kruger.” The Wall Street Journal reported that the two-seat
+  contest has been shaped by national disputes over Israel, the Iran war and President
+  Trump.
+nut_graf: Two seats are on the Beverly Hills Unified School District ballot, and Kruger
+  and Kim Lifschitz hope their wins will topple what they call the board’s conservative
+  3-2 majority. The campaign has also brought dueling restraining-order petitions,
+  a pending lawsuit and complaints about stolen yard signs into a contest over the
+  district’s direction.
 primary_entities:
 - Beverly Hills Unified School District
 - Beverly Hills
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +154,8 @@ cross_article_links:
   strength: 0.5714
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-11-house-control-hinges-on-one-competitive-washington-district
-  headline: House control hinges on one competitive Washington district
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5849
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5791
-- slug: 2026-09-18-florida-progressives-defeat-moms-for-liberty-backed-school-board-candidates
-  headline: Florida progressives defeat Moms for Liberty-backed school board candidates
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.576
-- slug: 2026-08-24-virginia-beach-rematch-emerges-as-bellwether-for-house-control
-  headline: Virginia Beach rematch emerges as bellwether for House control
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5769
-- slug: 2026-08-15-wisconsin-canvassers-push-healthcare-message-in-competitive-3rd-district
-  headline: Wisconsin canvassers push healthcare message in competitive 3rd district
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5954
-- slug: 2026-08-11-wisconsin-democrats-pick-governor-nominee-in-tuesday-primary
-  headline: Wisconsin Democrats pick governor nominee in Tuesday primary
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5748
-- slug: 2026-08-03-crowded-gop-primary-in-washington-s-4th-district-signals-party-s-direction
-  headline: Crowded GOP primary in Washington's 4th District signals party's direction
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5803
-- slug: 2026-07-23-blake-miguez-hopes-to-again-earn-trump-endorsement-after-redistricting
-  headline: Blake Miguez hopes to again earn Trump endorsement after redistricting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5874
-- slug: 2026-07-27-manchin-family-forms-council-to-back-independent-candidates
-  headline: Manchin family forms council to back independent candidates
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5741
-- slug: 2026-06-20-four-democrats-vie-for-manhattan-house-seat-in-test-for-party-s-direction
-  headline: Four Democrats vie for Manhattan House seat in test for party's direction
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5988
-- slug: 2026-06-23-new-yorkers-vote-in-democratic-primaries-testing-left-flank
-  headline: New Yorkers vote in Democratic primaries testing left flank
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5896
-- slug: 2026-06-17-wasserman-schultz-primary-run-in-black-majority-district-roils-florida-democrats
-  headline: Wasserman Schultz primary run in Black majority district roils Florida Democrats
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5881
-- slug: 2026-06-20-schlossberg-fights-for-ny-12-seat-in-record-spending-manhattan-primary
-  headline: Schlossberg fights for NY-12 seat in record-spending Manhattan primary
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5722
-- slug: 2026-06-06-becerra-clinches-general-election-spot-in-california-governor-race
-  headline: Becerra clinches general election spot in California governor race
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5792
-- slug: 2026-05-14-too-close-to-call-nebraska-democratic-house-primary-puts-blue-dot-at-stake
-  headline: Too-close-to-call Nebraska Democratic House primary puts 'blue dot' at stake
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5883
-- slug: 2026-05-21-california-gop-incumbents-calvert-and-kim-battle-over-trump-loyalty-in-primary
-  headline: California GOP incumbents Calvert and Kim battle over Trump loyalty in primary
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5838
-- slug: 2026-05-15-becerra-s-decades-in-office-cut-both-ways-in-tightening-california-governor-race
-  headline: Becerra's decades in office cut both ways in tightening California governor race
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5849
-- slug: 2026-04-06-jack-schlossberg-kennedy-heir-enters-crowded-new-york-city-race
-  headline: Jack Schlossberg, Kennedy heir, enters crowded New York City race
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.5915
-- slug: 2026-05-14-nebraska-democratic-house-primary-between-powell-and-cavanaugh-too-close
-  headline: Nebraska Democratic House primary between Powell and Cavanaugh too close
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5765
-- slug: 2026-04-04-jack-schlossberg-kennedy-heir-enters-crowded-new-york-city-race
-  headline: Jack Schlossberg, Kennedy heir, enters crowded New York City race
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5905
+related_stories: []
 ---
-
 ## Beverly Hills school-board rivals clash before Nov. 3 vote
 
 **Subtype:** fact

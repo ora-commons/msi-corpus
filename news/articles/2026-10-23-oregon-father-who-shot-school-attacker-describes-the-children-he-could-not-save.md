@@ -1,9 +1,22 @@
 ---
-headline: Oregon father who shot school attacker describes the children he could not save
-secondary_headline: Bend police chief says teacher almost certainly helped prevent more bloodshed
+headline: Oregon father who shot school attacker describes the children he could not
+  save
+secondary_headline: Bend police chief says teacher almost certainly helped prevent
+  more bloodshed
 publish_date: '2026-10-23'
-lede: Kaylub Giamanco, the father who shot dead a gunman attacking the elementary school attended by his two daughters in Bend, Oregon, described hearing children plead for their lives and his anguish over the pupils and teacher he could not save. In an interview with Oregon Public Broadcasting that aired Friday, Giamanco said he felt like the "last line of defence" between the children and the gunman and that he "was supposed to be there" that day. Police identified the attacker as Griffin J John II, a 16-year-old former pupil whose motive remains under investigation.
-nut_graf: Giamanco's account provides a detailed chronology of the attack from the man who stopped it, and it arrives as investigators continue to work on a motive for the shooting that killed three boys aged five, eight and 11 and a teacher at Silver Rail Elementary School. It also records what the intervention has cost the father who made it, including his wish to apologise to the families of the children who died and his own account of sleepless nights since.
+lede: Kaylub Giamanco, the father who shot dead a gunman attacking the elementary
+  school attended by his two daughters in Bend, Oregon, described hearing children
+  plead for their lives and his anguish over the pupils and teacher he could not save.
+  In an interview with Oregon Public Broadcasting that aired Friday, Giamanco said
+  he felt like the "last line of defence" between the children and the gunman and
+  that he "was supposed to be there" that day. Police identified the attacker as Griffin
+  J John II, a 16-year-old former pupil whose motive remains under investigation.
+nut_graf: Giamanco's account provides a detailed chronology of the attack from the
+  man who stopped it, and it arrives as investigators continue to work on a motive
+  for the shooting that killed three boys aged five, eight and 11 and a teacher at
+  Silver Rail Elementary School. It also records what the intervention has cost the
+  father who made it, including his wish to apologise to the families of the children
+  who died and his own account of sleepless nights since.
 primary_entities:
 - Kaylub Giamanco
 - Griffin J John II
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,6 +160,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-kaylub-giamanco-calls-for-school-resource-officers-school-safety-funding
+  headline: Kaylub Giamanco calls for school resource officers, school safety funding
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8718
+- slug: 2026-10-23-police-credit-giamanco-and-the-unarmed-teacher-who-confronted-john-ii-with-savin
+  headline: Police credit Giamanco and the unarmed teacher who confronted John II
+    with saving lives
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8539
 - slug: 2026-10-19-2018-post-reportedly-shows-oregon-bystander-in-iraq-veteran-shooting-drills
   headline: 2018 post reportedly shows Oregon bystander in Iraq-veteran shooting drills
   publish_date: '2026-10-19'
@@ -155,99 +180,28 @@ related_stories:
   headline: Oregon elementary shooter used pump-action shotgun bought by his mother
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.78
+  strength: 0.7797
 - slug: 2026-10-16-bend-police-say-teen-forces-entry-to-school-by-shooting-at-locked-doors
   headline: Bend police say teen forces entry to school by shooting at locked doors
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7726
+  strength: 0.7722
 - slug: 2026-10-16-bend-schools-to-close-friday-as-governor-calls-bystander-heroic
   headline: Bend schools to close Friday as governor calls bystander 'heroic'
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7718
+  strength: 0.7711
 - slug: 2026-10-22-becky-drury-says-she-was-shot-while-trying-to-shut-a-classroom-door
   headline: Becky Drury says she was shot while trying to shut a classroom door
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7239
+  strength: 0.7222
 - slug: 2026-10-16-three-children-and-teacher-killed-in-bend-elementary-school-shooting
   headline: Three children and teacher killed in Bend elementary school shooting
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7397
-- slug: 2026-10-15-shooting-at-oregon-elementary-school-leaves-five-dead-including-suspect
-  headline: Shooting at Oregon elementary school leaves five dead, including suspect
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7438
-- slug: 2026-10-22-bend-public-schools-reopen-after-silver-rail-elementary-school-shooting
-  headline: Bend public schools reopen after Silver Rail Elementary School shooting
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.691
-- slug: 2026-10-15-bend-police-confirm-shooting-at-silver-rail-elementary-school-injures-multiple-i
-  headline: Bend police confirm shooting at Silver Rail Elementary School injures multiple, including children
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7242
-- slug: 2026-08-26-eight-killed-at-billings-sunday-dinner-sheriff-says-questions-may-go-unanswered
-  headline: Eight killed at Billings Sunday dinner; sheriff says questions may go unanswered
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5985
-- slug: 2026-08-25-multiple-killed-including-children-in-billings-home-shooting-and-fire
-  headline: Multiple killed, including children, in Billings home shooting and fire
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.593
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6201
-- slug: 2026-04-22-preschool-teacher-in-shreveport-recounts-loss-after-father-kills-children
-  headline: Preschool teacher in Shreveport recounts loss after father kills children
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6014
-- slug: 2026-05-19-opening-statements-in-trial-of-ex-virginia-school-official-charged-after-shootin
-  headline: Opening statements in trial of ex-Virginia school official charged after shooting
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.589
-- slug: 2026-01-12-uvalde-officer-trial-enters-second-week-as-prosecution-presses-inaction-case
-  headline: Uvalde officer trial enters second week as prosecution presses inaction case
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.616
-- slug: 2026-01-07-uvalde-families-sob-through-911-calls-as-officer-s-trial-opens-on-police-respons
-  headline: Uvalde families sob through 911 calls as officer's trial opens on police response
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6117
-- slug: 2026-01-13-uvalde-teacher-testifies-he-saw-black-shadow-with-gun-in-robb-school-attack
-  headline: Uvalde teacher testifies he saw 'black shadow with a gun' in 2022 school attack
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6112
-- slug: 2026-01-21-uvalde-officer-acquitted-in-trial-over-police-response-to-shooting
-  headline: Uvalde officer acquitted in trial over police response to shooting
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6094
-- slug: 2026-04-20-father-fatally-shoots-8-children-in-shreveport-deadliest-in-2-years
-  headline: Father fatally shoots 8 children in Shreveport, deadliest in 2 years
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5933
-- slug: 2026-04-20-community-reels-from-shreveport-shooting-that-killed-eight-children
-  headline: Community Reels From Shreveport Shooting That Killed Eight Children
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5846
+  strength: 0.7389
 ---
-
 ## Oregon father who shot school attacker describes the children he could not save
 
 **Subtype:** fact

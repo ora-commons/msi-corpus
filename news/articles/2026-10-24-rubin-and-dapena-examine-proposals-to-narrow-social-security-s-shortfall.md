@@ -2,8 +2,18 @@
 headline: Rubin and Dapena examine proposals to narrow Social Security's shortfall
 secondary_headline: Newsletter says Social Security is on the path to insolvency
 publish_date: '2026-10-24'
-lede: The Wall Street Journal's Weekend Reads newsletter of Oct. 24, 2026, spotlights a feature by Richard Rubin and Kara Dapena on proposals that would narrow Social Security's funding shortfall and postpone the system's insolvency date. The newsletter describes Social Security as on the path to insolvency and says the ideas under discussion would either boost revenue or cut spending. The same edition carries features on nurse turnover, older grandparents, Apple's folding iPhone and holiday airfares.
-nut_graf: The newsletter frames its Social Security item as a measurement exercise rather than a recommendation, asking how far each idea would close the gap and how long it would postpone insolvency, "if at all." For readers tracking the system's finances, the Oct. 24 edition points toward Rubin and Dapena's analysis instead of supplying the proposals or their costs itself.
+lede: The Wall Street Journal's Weekend Reads newsletter of Oct. 24, 2026, spotlights
+  a feature by Richard Rubin and Kara Dapena on proposals that would narrow Social
+  Security's funding shortfall and postpone the system's insolvency date. The newsletter
+  describes Social Security as on the path to insolvency and says the ideas under
+  discussion would either boost revenue or cut spending. The same edition carries
+  features on nurse turnover, older grandparents, Apple's folding iPhone and holiday
+  airfares.
+nut_graf: The newsletter frames its Social Security item as a measurement exercise
+  rather than a recommendation, asking how far each idea would close the gap and how
+  long it would postpone insolvency, "if at all." For readers tracking the system's
+  finances, the Oct. 24 edition points toward Rubin and Dapena's analysis instead
+  of supplying the proposals or their costs itself.
 primary_entities:
 - Social Security
 - Richard Rubin
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +151,34 @@ related_stories:
   headline: Five Social Security proposals to narrow the $29.3 trillion gap
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7281
+  strength: 0.7311
 - slug: 2026-10-21-five-wall-street-journal-briefs-cover-autism-therapy-ipos-ai-and-friendship
   headline: Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.655
-- slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
-  headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6059
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6518
-- slug: 2026-10-16-ai-safety-incidents-expose-insurance-gap-in-fast-growing-industry
-  headline: AI safety incidents expose insurance gap in fast-growing industry
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6088
-- slug: 2026-10-12-uk-welfare-spending-on-track-to-hit-130-billion-as-claims-surge
-  headline: UK welfare spending on track to hit £130 billion as claims surge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6031
+  strength: 0.6534
 - slug: 2026-09-28-wsj-newsletter-assesses-how-trump-economic-agenda-backfired
   headline: WSJ newsletter assesses how Trump economic agenda backfired
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6582
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6116
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.607
+  strength: 0.6566
 - slug: 2026-08-30-congress-weighs-bipartisan-social-security-fixes-ahead-of-2032-deadline
   headline: Congress weighs bipartisan Social Security fixes ahead of 2032 deadline
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.6678
-- slug: 2026-08-19-global-bond-selloff-drives-up-borrowing-costs-little-relief-in-sight
-  headline: Global bond selloff drives up borrowing costs, little relief in sight
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6054
+  strength: 0.6701
 - slug: 2026-06-17-social-security-trust-fund-depletion-looms-as-payroll-taxes-fall-short
   headline: Social Security trust fund depletion looms as payroll taxes fall short
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6894
-- slug: 2026-08-06-spacex-shares-unlock-putting-early-employees-in-line-for-windfalls
-  headline: SpaceX shares unlock, putting early employees in line for windfalls
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6169
+  strength: 0.6908
 - slug: 2026-06-09-social-security-retirement-fund-projected-to-run-short-by-late-2032-trustees-rep
-  headline: Social Security retirement fund projected to run short by late 2032, trustees report
+  headline: Social Security retirement fund projected to run short by late 2032, trustees
+    report
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.678
-- slug: 2026-07-23-senate-democrats-challenge-social-security-chief-over-pro-trump-email-to-retiree
-  headline: Senate Democrats challenge Social Security chief over pro-Trump email to retirees
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6151
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6442
-- slug: 2026-07-14-bipartisan-bill-aims-to-shore-up-social-security
-  headline: Bipartisan bill aims to shore up Social Security
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6126
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6449
-- slug: 2026-07-07-democratic-project-2029-takes-on-annoyance-economy-with-consumer-protections
-  headline: Democratic Project 2029 takes on 'annoyance economy' with consumer protections
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6082
-- slug: 2026-06-01-courtney-e-martin-outlines-policy-paths-for-u-s-elder-care-crisis-as-baby-boomer
-  headline: Courtney E. Martin outlines policy paths for U.S. elder care crisis as baby boomers age
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6184
+  strength: 0.6783
 ---
-
 ## Rubin and Dapena examine proposals to narrow Social Security's shortfall
 
 **Subtype:** fact

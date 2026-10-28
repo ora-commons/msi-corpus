@@ -1,9 +1,18 @@
 ---
-headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption claims
+headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption
+  claims
 secondary_headline: Flores lawyers deny charges and cite election timing
 publish_date: '2026-10-23'
-lede: Two people briefed on the investigation told CNN that former FBI agents Nikki Flores and Bradley Benavides attempted to downplay allegations of corruption by the Biden family. Flores' lawyers said she was being falsely accused and that the government filed the charges on the eve of an election to push a false narrative for political purposes. U.S. Attorney Jeanine Pirro separately accused both agents of lying to Congress about their involvement in the Foreign Influence Task Force.
-nut_graf: The CNN report concerns the agents' alleged handling of corruption claims, while Flores' lawyers dispute the charges and criticize their timing. Each former agent faces one count of making a false statement after appearing in federal court in Washington, D.C. on Friday, and a hearing was scheduled for Tuesday.
+lede: Two people briefed on the investigation told CNN that former FBI agents Nikki
+  Flores and Bradley Benavides attempted to downplay allegations of corruption by
+  the Biden family. Flores' lawyers said she was being falsely accused and that the
+  government filed the charges on the eve of an election to push a false narrative
+  for political purposes. U.S. Attorney Jeanine Pirro separately accused both agents
+  of lying to Congress about their involvement in the Foreign Influence Task Force.
+nut_graf: The CNN report concerns the agents' alleged handling of corruption claims,
+  while Flores' lawyers dispute the charges and criticize their timing. Each former
+  agent faces one count of making a false statement after appearing in federal court
+  in Washington, D.C. on Friday, and a hearing was scheduled for Tuesday.
 primary_entities:
 - Nikki Flores
 - Bradley Benavides
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +154,44 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-cnn-sources-say-ex-fbi-agents-tried-to-downplay-biden-family-corruption-claims.png
-  alt: 'Illustration accompanying article: CNN sources say ex-FBI agents tried to downplay Biden-family corruption claims'
+  alt: 'Illustration accompanying article: CNN sources say ex-FBI agents tried to
+    downplay Biden-family corruption claims'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-two-former-fbi-employees-appear-in-court-after-false-statement-complaints
   headline: Two former FBI employees appear in court after false-statement complaints
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7939
-- slug: 2026-10-14-federal-agents-seize-omar-s-phone-subpoena-relatives-in-criminal-probe
-  headline: Federal agents seize Omar's phone, subpoena relatives in criminal probe
-  publish_date: '2026-10-14'
+  strength: 0.7911
+- slug: 2026-10-27-ex-fbi-officials-face-preliminary-hearing-in-hunter-biden-laptop-case
+  headline: Ex-FBI officials face preliminary hearing in Hunter Biden laptop case
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6168
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
+  strength: 0.7825
+- slug: 2026-10-23-hunter-biden-laptop-discovery-drew-concern-about-possible-russian-disinformation
+  headline: Hunter Biden laptop discovery drew concern about possible Russian disinformation
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.5992
-- slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
-  headline: Election deniers revive fraud claims before midterms
-  publish_date: '2026-10-06'
+  strength: 0.7793
+- slug: 2026-10-23-complaint-alleges-task-force-leaders-misstated-roles-in-hunter-biden-inquiry
+  headline: Complaint alleges task-force leaders misstated roles in Hunter Biden inquiry
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.5975
-- slug: 2026-09-23-fbi-moved-to-investigate-collins-for-bribery-before-trump-derailed-inquiry
-  headline: FBI moved to investigate Collins for bribery before Trump derailed inquiry
-  publish_date: '2026-09-23'
+  strength: 0.7673
+- slug: 2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment
+  headline: Justice Department review follows FBI task force's 2025 disbandment
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6162
-- slug: 2026-09-23-times-review-finds-shinyhunters-fbi-data-most-likely-legitimate
-  headline: Times review finds ShinyHunters FBI data 'most likely legitimate'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6068
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6044
-- slug: 2026-09-23-fbi-records-contradict-collins-claims-she-was-cleared-in-navatek-probe
-  headline: FBI records contradict Collins' claims she was cleared in Navatek probe
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5947
-- slug: 2026-09-15-wainstein-filing-brennan-is-target-of-separate-lying-to-congress-probe
-  headline: 'Wainstein filing: Brennan is ''target'' of separate lying-to-Congress probe'
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6102
-- slug: 2026-09-18-patel-rejects-welch-s-election-pledge-request-as-charade-of-lies
-  headline: Patel rejects Welch's election pledge request as 'charade of lies'
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5916
-- slug: 2026-08-15-hunter-biden-conducts-wide-ranging-media-tour-across-podcasts-and-substack
-  headline: Hunter Biden conducts wide-ranging media tour across podcasts and Substack
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6312
-- slug: 2026-08-11-frank-kendall-says-he-will-sue-trump-administration-over-revoked-clearance
-  headline: Frank Kendall says he will sue Trump administration over revoked clearance
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5957
-- slug: 2026-07-23-trump-leak-probe-subpoenas-seek-records-of-reporters-relatives
-  headline: Trump leak probe subpoenas seek records of reporters' relatives
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6066
-- slug: 2026-07-23-new-york-times-argues-subpoenas-are-retaliation-for-reporting
-  headline: New York Times argues subpoenas are retaliation for reporting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.602
-- slug: 2026-07-15-vance-says-trump-administration-absolutely-screwed-up-epstein-files-communicatio
-  headline: Vance says Trump administration 'absolutely screwed up' Epstein files communications
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6022
-- slug: 2026-07-14-hunter-biden-says-rule-of-law-prevailed-after-1-7m-defamation-judgment
-  headline: Hunter Biden says 'rule of law prevailed' after $1.7M defamation judgment
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5943
-- slug: 2026-05-26-biden-sues-justice-department-to-block-release-of-hur-interview-audio
-  headline: Biden sues Justice Department to block release of Hur interview audio
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6257
-- slug: 2026-05-27-biden-sues-justice-department-to-block-release-of-audio-interviews-from-classifi
-  headline: Biden sues Justice Department to block release of audio interviews from classified documents probe
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6225
-- slug: 2026-05-18-contractor-indicted-for-leaking-classified-documents-to-post-reporter
-  headline: Contractor indicted for leaking classified documents to Post reporter
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6051
-- slug: 2026-01-15-fbi-searches-washington-post-reporter-s-home-in-leak-probe
-  headline: FBI searches Washington Post reporter’s home in leak probe
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6304
+  strength: 0.7598
 ---
-
 ## CNN sources say ex-FBI agents tried to downplay Biden-family corruption claims
 
 **Subtype:** fact

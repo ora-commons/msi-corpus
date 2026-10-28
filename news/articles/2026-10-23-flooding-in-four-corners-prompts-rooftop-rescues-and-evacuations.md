@@ -1,9 +1,18 @@
 ---
 headline: Flooding in Four Corners prompts rooftop rescues and evacuations
-secondary_headline: New Mexico guard units deploy boats, helicopters and amphibious vehicles
+secondary_headline: New Mexico guard units deploy boats, helicopters and amphibious
+  vehicles
 publish_date: '2026-10-23'
-lede: Severe flooding in the Four Corners region prompted rooftop and water rescues and evacuation orders across parts of New Mexico and Colorado on Friday, October 23, 2026. San Juan County spokesperson Devin Neeley said guard units continued rescuing residents from rooftops and flooded homes as rivers rose and many roads remained impassable. At least one person was injured in earlier tornadoes in Arizona.
-nut_graf: Residents across the four-state region faced a mix of mandatory evacuations and shelter-in-place instructions as rivers in New Mexico rose above forecast crests and roads remained unsafe. The response included county deputies, guard units, helicopters, amphibious vehicles and emergency declarations, while officials continued reporting rescues without releasing a total.
+lede: Severe flooding in the Four Corners region prompted rooftop and water rescues
+  and evacuation orders across parts of New Mexico and Colorado on Friday, October
+  23, 2026. San Juan County spokesperson Devin Neeley said guard units continued rescuing
+  residents from rooftops and flooded homes as rivers rose and many roads remained
+  impassable. At least one person was injured in earlier tornadoes in Arizona.
+nut_graf: Residents across the four-state region faced a mix of mandatory evacuations
+  and shelter-in-place instructions as rivers in New Mexico rose above forecast crests
+  and roads remained unsafe. The response included county deputies, guard units, helicopters,
+  amphibious vehicles and emergency declarations, while officials continued reporting
+  rescues without releasing a total.
 primary_entities:
 - Four Corners region
 - Colorado
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +156,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations.png
-  alt: 'Illustration accompanying article: Flooding in Four Corners prompts rooftop rescues and evacuations'
+  alt: 'Illustration accompanying article: Flooding in Four Corners prompts rooftop
+    rescues and evacuations'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-21-investigation-finds-staffing-gaps-before-deadly-2025-ruidoso-flood
-  headline: Investigation finds staffing gaps before deadly 2025 Ruidoso flood
-  publish_date: '2026-10-21'
+- slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
+  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten
+    surges
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6408
-- slug: 2026-09-28-federal-flood-gaps-let-residents-rebuild-where-storms-already-struck
-  headline: Federal flood gaps let residents rebuild where storms already struck
-  publish_date: '2026-09-28'
+  strength: 0.8788
+- slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
+  headline: New Mexico crews search evacuated neighborhoods for flood hazards
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6365
+  strength: 0.8145
+- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
+  headline: Flood warning remains in Four Corners as San Juan River nears crest
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8071
+- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
+  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7987
+- slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
+  headline: Four Corners region braces for more storms amid flood cleanup
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.768
 - slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
   headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
   publish_date: '2026-08-30'
   relation: related
   strength: 0.6617
-- slug: 2026-08-20-dover-declares-state-of-emergency-after-likely-tornado-causes-citywide-damage
-  headline: Dover declares state of emergency after likely tornado causes citywide damage
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6427
 - slug: 2026-08-16-indiana-flooding-kills-at-least-6-as-white-river-crests-above-1913-record
   headline: Indiana flooding kills at least 6 as White River crests above 1913 record
   publish_date: '2026-08-16'
   relation: related
-  strength: 0.6516
+  strength: 0.6525
 - slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
   headline: Heavy rains drench South Texas, flood rescues top two dozen
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7032
-- slug: 2026-08-15-hogsett-urges-white-river-evacuations-as-central-indiana-floods-prompt-dozens-of
-  headline: Hogsett urges White River evacuations as central Indiana floods prompt dozens of rescues
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6399
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6861
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6834
-- slug: 2026-07-22-west-virginia-floods-prompt-state-of-emergency-national-guard-deployment
-  headline: West Virginia floods prompt state of emergency, National Guard deployment
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6696
-- slug: 2026-07-11-helicopters-rescue-200-from-missouri-summer-camp-as-floods-sweep-southeast
-  headline: Helicopters rescue 200 from Missouri summer camp as floods sweep southeast
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6792
-- slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-24-abbott-confirms-third-texas-flood-death-warns-of-dangers-downstream
-  headline: Abbott confirms third Texas flood death, warns of dangers downstream
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6386
-- slug: 2026-06-29-flash-flooding-kills-at-least-4-in-kentucky-prompting-60-water-rescues
-  headline: Flash flooding kills at least 4 in Kentucky, prompting 60 water rescues
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6578
-- slug: 2026-06-29-tennessee-mother-39-dies-in-culvert-after-rescuing-son-from-flood-waters
-  headline: Tennessee mother, 39, dies in culvert after rescuing son from flood waters
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6405
-- slug: 2026-06-27-four-dead-in-kentucky-flash-flooding-state-of-emergency-declared
-  headline: Four dead in Kentucky flash flooding, state of emergency declared
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6393
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6933
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6589
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.667
-- slug: 2026-02-20-crews-use-water-to-reduce-avalanche-risk-while-recovering-california-victims
-  headline: Crews use water to reduce avalanche risk while recovering California victims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6634
+  strength: 0.7038
 ---
-
 ## Flooding in Four Corners prompts rooftop rescues and evacuations
 
 **Subtype:** fact

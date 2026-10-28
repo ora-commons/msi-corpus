@@ -2,8 +2,14 @@
 headline: Archer begins electric VTOL air-taxi rollout in three Texas markets
 secondary_headline: Boeing agreed to take a nearly 20% stake in Archer
 publish_date: '2026-10-23'
-lede: Archer Aviation said Friday that it is launching electric vertical takeoff and landing air taxi networks in Austin, Houston and the Dallas-Fort Worth area. The company said the launches aim to increase connectivity between major airports, business hubs and tourist destinations, citing high traffic volume as a potential benefit.
-nut_graf: The Texas announcement follows Boeing's August agreement to take a nearly 20% stake in Archer. Archer also recently completed the Northern California leg of its flight tour, meant to show how air taxis could work in urban areas, while the Boeing deal is set to give Archer control of Wisk Aero, SkyGrid and Insitu.
+lede: Archer Aviation said Friday that it is launching electric vertical takeoff and
+  landing air taxi networks in Austin, Houston and the Dallas-Fort Worth area. The
+  company said the launches aim to increase connectivity between major airports, business
+  hubs and tourist destinations, citing high traffic volume as a potential benefit.
+nut_graf: The Texas announcement follows Boeing's August agreement to take a nearly
+  20% stake in Archer. Archer also recently completed the Northern California leg
+  of its flight tour, meant to show how air taxis could work in urban areas, while
+  the Boeing deal is set to give Archer control of Wisk Aero, SkyGrid and Insitu.
 primary_entities:
 - Archer Aviation
 - Boeing
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +145,8 @@ cross_article_links:
   strength: 0.5877
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-aurora-targets-200-autonomous-trucks-in-texas-by-year-end
-  headline: Aurora targets 200 autonomous trucks in Texas by year-end
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5976
-- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
-  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5748
-- slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
-  headline: Transport firms adjust plans as fuel costs and demand shift
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5778
-- slug: 2026-10-08-american-airlines-says-it-will-stop-involuntarily-bumping-passengers
-  headline: American Airlines says it will stop involuntarily bumping passengers
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5879
-- slug: 2026-09-29-alaska-air-adds-premium-cabins-lie-flat-suites-and-new-seattle-lounge
-  headline: Alaska Air adds premium cabins, lie-flat suites, and new Seattle lounge
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6236
-- slug: 2026-10-05-delta-latam-joint-venture-lifts-americas-capacity-31-as-partnership-marks-four-y
-  headline: Delta-LATAM joint venture lifts Americas capacity 31% as partnership marks four years
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5798
-- slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
-  headline: Boeing aerospace union months into first full contract talks in 14 years
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5754
-- slug: 2026-09-17-faa-set-to-deploy-smart-ai-tool-in-washington-airspace-monday
-  headline: FAA set to deploy Smart AI tool in Washington airspace Monday
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5894
-- slug: 2026-09-18-joby-aviation-says-aircraft-completed-first-fully-autonomous-u-s-flight
-  headline: Joby Aviation says aircraft completed first fully autonomous U.S. flight
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5794
-- slug: 2026-09-21-faa-launches-875m-ai-system-to-manage-u-s-airspace
-  headline: FAA launches $875M AI system to manage U.S. airspace
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5656
-- slug: 2026-09-03-tesla-deploys-cybercabs-without-steering-wheels-onto-austin-streets
-  headline: Tesla deploys Cybercabs without steering wheels onto Austin streets
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5959
-- slug: 2026-09-10-u-k-aviation-system-stabilizes-after-week-s-atc-outage
-  headline: U.K. aviation system stabilizes after week's ATC outage
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5674
-- slug: 2026-08-23-amazon-s-zoox-launches-paid-robotaxi-service-in-las-vegas-and-san-francisco
-  headline: Amazon's Zoox launches paid robotaxi service in Las Vegas and San Francisco
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5939
-- slug: 2026-08-18-american-airlines-reverses-course-will-add-seat-back-screens-to-domestic-fleet
-  headline: American Airlines reverses course, will add seat-back screens to domestic fleet
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5844
-- slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
-  headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5916
-- slug: 2026-07-15-united-airlines-to-sell-empty-middle-seat-as-shared-table-on-select-flights
-  headline: United Airlines to sell empty middle seat as shared table on select flights
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5717
-- slug: 2026-07-02-spacex-starlink-plans-mobile-service-to-target-at-t-verizon
-  headline: SpaceX Starlink plans mobile service to target AT&T, Verizon
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5873
-- slug: 2026-07-11-texas-stock-exchange-begins-trading-as-state-challenges-nyse-nasdaq-duopoly
-  headline: Texas Stock Exchange begins trading as state challenges NYSE-Nasdaq duopoly
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5694
-- slug: 2026-07-10-police-struggle-to-ticket-autonomous-taxis-as-robotaxi-fleets-grow
-  headline: Police struggle to ticket autonomous taxis as robotaxi fleets grow
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.567
-- slug: 2026-03-05-china-s-matrix-evtol-demonstrates-big-electric-flying-taxi-potential
-  headline: China’s Matrix eVTOL demonstrates big electric flying-taxi potential
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6251
+related_stories: []
 ---
-
 ## Archer begins electric VTOL air-taxi rollout in three Texas markets
 
 **Subtype:** fact

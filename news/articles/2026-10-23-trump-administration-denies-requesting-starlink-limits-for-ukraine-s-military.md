@@ -1,9 +1,27 @@
 ---
 headline: Trump administration denies requesting Starlink limits for Ukraine's military
-secondary_headline: 'Defense Ministry sources: 100 mph cap remains; no confirmation restrictions lifted'
+secondary_headline: 'Defense Ministry sources: 100 mph cap remains; no confirmation
+  restrictions lifted'
 publish_date: '2026-10-23'
-lede: The Trump administration denied that either the administration or the Pentagon had requested that SpaceX CEO Elon Musk restrict Starshield connection speeds for Ukraine's military. Unnamed Defense Ministry officials told the BBC and The Kyiv Independent that there was no confirmation the restrictions had been lifted, while one source said the 100 mph cap remained in place. UPI reported that the Ukrainian military's Starlink access was restricted on the evening of Oct. 13, with viable connection speeds for hardware, mostly drones, falling from 250 mph to 100 mph or lower. The Starlink problems coincided with a curtailment of U.S.-provided advance intelligence on incoming attacks, and UPI said the two disruptions together left Ukrainian urban centers and critical infrastructure dangerously exposed to airborne Russian strikes.
-nut_graf: One Defense Ministry source said the 100 mph cap severely limited mid-range strikes and high-speed drone interceptions. UPI reported that the Oct. 13 onset cut viable Starlink connection speeds from 250 mph to 100 mph or lower while the Trump administration denied that it or the Pentagon had requested the restrictions. UPI also reported that U.S. advance intelligence gives Ukrainian authorities precious minutes to sound air raid sirens, allowing people to take cover in bomb shelters or underground and allowing schools, hospitals and other vulnerable people to be evacuated.
+lede: The Trump administration denied that either the administration or the Pentagon
+  had requested that SpaceX CEO Elon Musk restrict Starshield connection speeds for
+  Ukraine's military. Unnamed Defense Ministry officials told the BBC and The Kyiv
+  Independent that there was no confirmation the restrictions had been lifted, while
+  one source said the 100 mph cap remained in place. UPI reported that the Ukrainian
+  military's Starlink access was restricted on the evening of Oct. 13, with viable
+  connection speeds for hardware, mostly drones, falling from 250 mph to 100 mph or
+  lower. The Starlink problems coincided with a curtailment of U.S.-provided advance
+  intelligence on incoming attacks, and UPI said the two disruptions together left
+  Ukrainian urban centers and critical infrastructure dangerously exposed to airborne
+  Russian strikes.
+nut_graf: One Defense Ministry source said the 100 mph cap severely limited mid-range
+  strikes and high-speed drone interceptions. UPI reported that the Oct. 13 onset
+  cut viable Starlink connection speeds from 250 mph to 100 mph or lower while the
+  Trump administration denied that it or the Pentagon had requested the restrictions.
+  UPI also reported that U.S. advance intelligence gives Ukrainian authorities precious
+  minutes to sound air raid sirens, allowing people to take cover in bomb shelters
+  or underground and allowing schools, hospitals and other vulnerable people to be
+  evacuated.
 primary_entities:
 - Ukraine
 - United States
@@ -56,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,104 +177,43 @@ related_stories:
   headline: Ukrainian officials report continued Starshield failures above 100 mph
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8809
+  strength: 0.8807
 - slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
   headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8649
+  strength: 0.8654
 - slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
   headline: Trump credits Musk with restoring Ukraine's Starlink service
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8494
+  strength: 0.85
+- slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
+  headline: Ukraine reports Starshield service operating normally after 10-day restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.841
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8406
 - slug: 2026-10-21-starshield-speed-limits-hinder-ukrainian-strike-and-interceptor-drones
   headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
   publish_date: '2026-10-21'
   relation: related
   strength: 0.8115
+- slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
+  headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7954
 - slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
   headline: Zelensky Starlink warning led to informal White House investigation
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8157
-- slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
-  headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8472
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8424
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.8104
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8134
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8111
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7779
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.803
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8024
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8085
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7552
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7964
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7896
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7775
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7632
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7234
+  strength: 0.8151
 ---
-
 ## Trump administration denies requesting Starlink limits for Ukraine's military
 
 **Subtype:** fact

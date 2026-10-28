@@ -2,8 +2,22 @@
 headline: New poll finds Democrats 11 points ahead among registered voters
 secondary_headline: Record-low Republican trust on immigration and rising prices
 publish_date: '2026-10-21'
-lede: 'A Strength In Numbers/Verasight poll of 2,028 respondents conducted Oct. 13-19 found a double-digit preference for Democrats in congressional races: 52% of registered voters and 54% of likely voters favored a Democrat over a Republican. Fifty-eight percent of respondents said the next Congress should act as a check and balance on President Trump, and Trump''s job approval sits at 34%, with 62% disapproving and 50% strongly disapproving, near record lows for his second term. The survey, shared with NPR, carries a margin of sampling error of 2.2 percentage points, meaning results could be about 2.2 points higher or lower.'
-nut_graf: 'The findings describe an electorate that has moved against the Republican Party on the issues it ranks highest: Republicans held a 15-point advantage on trust in immigration and deportations in May 2025 but trail by one point now, and the poll found voters are more likely to say they trust Democrats to handle the economy. The same survey recorded record-low trust in Republicans to handle voters'' leading issues, including immigration and rising prices, with majorities saying they want Congress to roll back or check Trump''s positions on issues including tariffs and trade, health care and artificial intelligence.'
+lede: 'A Strength In Numbers/Verasight poll of 2,028 respondents conducted Oct. 13-19
+  found a double-digit preference for Democrats in congressional races: 52% of registered
+  voters and 54% of likely voters favored a Democrat over a Republican. Fifty-eight
+  percent of respondents said the next Congress should act as a check and balance
+  on President Trump, and Trump''s job approval sits at 34%, with 62% disapproving
+  and 50% strongly disapproving, near record lows for his second term. The survey,
+  shared with NPR, carries a margin of sampling error of 2.2 percentage points, meaning
+  results could be about 2.2 points higher or lower.'
+nut_graf: 'The findings describe an electorate that has moved against the Republican
+  Party on the issues it ranks highest: Republicans held a 15-point advantage on trust
+  in immigration and deportations in May 2025 but trail by one point now, and the
+  poll found voters are more likely to say they trust Democrats to handle the economy.
+  The same survey recorded record-low trust in Republicans to handle voters'' leading
+  issues, including immigration and rising prices, with majorities saying they want
+  Congress to roll back or check Trump''s positions on issues including tariffs and
+  trade, health care and artificial intelligence.'
 primary_entities:
 - Stephen Fowler
 - G. Elliott Morris
@@ -39,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,116 +153,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters.png
-  alt: 'Illustration accompanying article: New poll finds Democrats 11 points ahead among registered voters'
+  alt: 'Illustration accompanying article: New poll finds Democrats 11 points ahead
+    among registered voters'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8095
 - slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
   headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.751
+  strength: 0.7507
+- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
+  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7362
 - slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
   headline: New York Times/Siena survey records 36% approval for Trump
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7123
+  strength: 0.7117
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7893
+  strength: 0.7887
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
   strength: 0.7471
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7068
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7041
 - slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
   headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.8102
+  strength: 0.8097
 - slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
   headline: US midterm elections on November 3 will determine control of Congress
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7425
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7165
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.744
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7277
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7604
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7395
-- slug: 2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll
-  headline: Trump's immigration approval falls to 39% in AP-NORC poll
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7455
-- slug: 2026-05-20-more-republicans-approve-of-trump-on-immigration-than-the-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than the economy, poll finds
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7648
-- slug: 2026-01-16-poll-republicans-back-trump-s-immigration-record-but-say-economy-hasn-t-delivere
-  headline: 'Poll: Republicans back Trump''s immigration record but say economy hasn''t delivered'
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.783
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than economy, poll finds
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7514
-- slug: 2026-05-21-more-republicans-back-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans back Trump on immigration than economy, poll finds
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7454
-- slug: 2026-02-19-many-democrats-still-down-on-their-own-party-ap-norc-poll-finds
-  headline: Many Democrats still down on their own party, AP-NORC poll finds
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7703
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-ap-norc-poll
-  headline: More Republicans approve of Trump on immigration than economy, AP-NORC poll
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7313
+  strength: 0.7422
 ---
-
 ## New poll finds Democrats 11 points ahead among registered voters
 
 **Subtype:** fact

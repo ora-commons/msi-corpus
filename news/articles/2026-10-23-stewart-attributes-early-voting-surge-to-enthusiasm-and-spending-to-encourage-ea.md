@@ -1,9 +1,17 @@
 ---
-headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage early voting
+headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage
+  early voting
 secondary_headline: Early ballot totals do not yet establish overall turnout
 publish_date: '2026-10-23'
-lede: As of Friday morning, nearly 21 million Americans had cast ballots in the midterm elections, according to the University of Florida's Election Lab. MIT professor Charles Stewart said the increase reflected both voter enthusiasm and campaign spending on voter mobilization, while cautioning that early voting totals do not necessarily indicate higher overall turnout.
-nut_graf: The early count tracks ballots cast by mail and in person before Election Day, but it does not establish the eventual size of turnout. Stewart said assessing whether the surge adds voters requires separating early participation from people who would have voted on Election Day anyway.
+lede: As of Friday morning, nearly 21 million Americans had cast ballots in the midterm
+  elections, according to the University of Florida's Election Lab. MIT professor
+  Charles Stewart said the increase reflected both voter enthusiasm and campaign spending
+  on voter mobilization, while cautioning that early voting totals do not necessarily
+  indicate higher overall turnout.
+nut_graf: The early count tracks ballots cast by mail and in person before Election
+  Day, but it does not establish the eventual size of turnout. Stewart said assessing
+  whether the surge adds voters requires separating early participation from people
+  who would have voted on Election Day anyway.
 primary_entities:
 - Charles Stewart
 - University of Florida's Election Lab
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +147,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
+  headline: Early voting tops 23 million as Democrats outpace Republicans
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7961
+- slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
+  headline: Trump draws generally smaller midterm crowds on a multistate rally week
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6604
 - slug: 2026-10-22-propublica-finds-late-ballot-rates-doubled-or-tripled-in-rural-counties-with-usp
-  headline: ProPublica finds late-ballot rates doubled or tripled in rural counties with USPS cuts
+  headline: ProPublica finds late-ballot rates doubled or tripled in rural counties
+    with USPS cuts
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6576
+  strength: 0.656
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6544
+  strength: 0.6524
 - slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
   headline: Young voters split on gun control despite shared fear of mass shootings
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6706
+  strength: 0.6682
 - slug: 2026-10-14-georgia-sets-first-day-midterm-early-voting-record-with-188-667-ballots
   headline: Georgia sets first-day midterm early voting record with 188,667 ballots
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6744
+  strength: 0.6731
 - slug: 2026-10-16-no-kings-coalition-plans-3-000-early-vote-events-ahead-of-midterms
   headline: No Kings coalition plans 3,000+ early-vote events ahead of midterms
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6542
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6448
+  strength: 0.6525
 - slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
   headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6581
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6486
-- slug: 2026-10-04-energy-costs-squeeze-voters-before-midterms
-  headline: Energy costs squeeze voters across gas, diesel, and electricity before midterms
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6392
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.678
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6418
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6561
-- slug: 2026-09-09-democratic-aligned-groups-court-gen-z-voters-with-donuts-and-block-parties
-  headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.637
-- slug: 2026-08-15-democratic-primary-turnout-hits-20-year-highs-in-wisconsin-michigan
-  headline: Democratic primary turnout hits 20-year highs in Wisconsin, Michigan
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6656
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6516
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6653
-- slug: 2026-07-23-late-arriving-ballots-fuel-spike-in-rejected-california-primary-votes
-  headline: Late-arriving ballots fuel spike in rejected California primary votes
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6472
-- slug: 2026-07-02-california-s-june-primary-turnout-hits-40-8-as-ballot-counting-ends
-  headline: California's June primary turnout hits 40.8% as ballot counting ends
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.646
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6402
+  strength: 0.6573
 ---
-
 ## Stewart attributes early-voting surge to enthusiasm and spending to encourage early voting
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Rural Ohio voters weigh costs in toss-up Senate race
 secondary_headline: Rural preferences remain split across party lines
 publish_date: '2026-10-23'
-lede: 'NPR reporting from rural Ohio on October 23, 2026, shows voters in the state''s toss-up U.S. Senate race weighing health insurance, fuel, fertilizer and grocery costs as Republican Sen. Jon Husted and former Democratic Sen. Sherrod Brown seek rural votes. President Donald Trump recently campaigned near Dayton for Husted, while Brown''s campaign is seeking rural support. The interviews reveal no uniform partisan shift: a former Republican farm leader backs Brown, while an independent says he is leaning toward Husted.'
-nut_graf: Although Ohio has shifted from its history as a swing state to a reliably Republican state, Democrats have an opening in 2026 because the governor and U.S. Senate races are toss-ups. Their statewide path requires rural voters who have historically leaned conservative and backed Republicans, and the interviews place economic pressures at the center of those voters' assessments.
+lede: 'NPR reporting from rural Ohio on October 23, 2026, shows voters in the state''s
+  toss-up U.S. Senate race weighing health insurance, fuel, fertilizer and grocery
+  costs as Republican Sen. Jon Husted and former Democratic Sen. Sherrod Brown seek
+  rural votes. President Donald Trump recently campaigned near Dayton for Husted,
+  while Brown''s campaign is seeking rural support. The interviews reveal no uniform
+  partisan shift: a former Republican farm leader backs Brown, while an independent
+  says he is leaning toward Husted.'
+nut_graf: Although Ohio has shifted from its history as a swing state to a reliably
+  Republican state, Democrats have an opening in 2026 because the governor and U.S.
+  Senate races are toss-ups. Their statewide path requires rural voters who have historically
+  leaned conservative and backed Republicans, and the interviews place economic pressures
+  at the center of those voters' assessments.
 primary_entities:
 - Ohio
 - Athens
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,118 +153,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-rural-ohio-voters-weigh-costs-in-toss-up-senate-race.png
-  alt: 'Illustration accompanying article: Rural Ohio voters weigh costs in toss-up Senate race'
+  alt: 'Illustration accompanying article: Rural Ohio voters weigh costs in toss-up
+    Senate race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
+  headline: Candidates campaign directly with rural voters in the midterms
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.711
+- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
+  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.711
+- slug: 2026-10-26-thune-campaigns-with-hinson-ahead-of-senate-republican-leadership-vote
+  headline: Thune campaigns with Hinson ahead of Senate Republican leadership vote
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7029
+- slug: 2026-10-26-ohio-early-voting-indicators-point-to-higher-democratic-participation
+  headline: Ohio early-voting indicators point to higher Democratic participation
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6866
+- slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
+  headline: Former President Obama criticizes Trump at Ohio midterm rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6862
 - slug: 2026-10-08-brown-makes-data-centers-central-to-ohio-senate-rematch
   headline: Brown makes data centers central to Ohio Senate rematch
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7741
+  strength: 0.7721
 - slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
   headline: Populist Democrats make the affordability pitch in red-state races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.695
+  strength: 0.6937
 - slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
+  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm
+    races
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7365
-- slug: 2026-10-02-brown-rallies-ohio-unions-in-bid-to-reclaim-senate-seat
-  headline: Brown rallies Ohio unions in bid to reclaim Senate seat
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7558
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7422
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6646
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7065
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6762
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6897
-- slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
-  headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7066
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6662
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7075
-- slug: 2026-07-26-brown-runs-to-reclaim-ohio-senate-seat
-  headline: Brown runs to reclaim Ohio Senate seat
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7733
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7154
-- slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
-  headline: Iowa Republicans trail in governor's race amid rural economic strain
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7179
-- slug: 2026-08-18-trump-cabinet-officials-campaign-in-iowa-to-bolster-vulnerable-republicans
-  headline: Trump cabinet officials campaign in Iowa to bolster vulnerable Republicans
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7103
-- slug: 2026-08-16-iowa-s-rising-cancer-rates-fuel-midterm-debate-over-farm-links
-  headline: Iowa's rising cancer rates fuel midterm debate over farm links
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6655
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6713
-- slug: 2026-06-06-ohio-trump-supporters-stay-loyal-as-national-approval-drops
-  headline: Ohio Trump supporters stay loyal as national approval drops
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7103
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7262
+  strength: 0.7371
 analyses:
-- '2026-10-23-rural-cost-pressures-fracture-ohio-senate-loyalties'
+- 2026-10-23-rural-cost-pressures-fracture-ohio-senate-loyalties
 ---
-
 ## Rural Ohio voters weigh costs in toss-up Senate race
 
 **Subtype:** fact

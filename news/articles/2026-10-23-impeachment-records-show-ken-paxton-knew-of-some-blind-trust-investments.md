@@ -2,8 +2,20 @@
 headline: Impeachment records show Ken Paxton knew of some blind-trust investments
 secondary_headline: Wildcatter payments overlapped tax debts and Ken Paxton’s impeachment
 publish_date: '2026-10-23'
-lede: A blind trust established by Texas Attorney General Ken Paxton and state Sen. Angela Paxton invested $600,000 in Wildcatter Sand Services, a construction-materials company built by Scott Sherman, who pleaded guilty to mortgage fraud in 2014, according to records reviewed by ProPublica and The Texas Tribune. Previously unreleased records from Paxton's 2023 impeachment investigation show Ken Paxton had knowledge of some trust investments and that Wildcatter companies paid the trust while some of the businesses owed local taxes. The findings come as Paxton, who was acquitted by the Legislature, is now in an expensive and tight U.S. Senate race against Democrat and state lawmaker James Talarico.
-nut_graf: The records place the operation of the trust's conflict safeguards, the Paxtons' financial ties to Wildcatter and Ken Paxton's knowledge of investments at issue during his Senate campaign. They also document tax delinquencies and payments to the trust, but do not establish why the payments were made or how Wildcatter accounted for them.
+lede: A blind trust established by Texas Attorney General Ken Paxton and state Sen.
+  Angela Paxton invested $600,000 in Wildcatter Sand Services, a construction-materials
+  company built by Scott Sherman, who pleaded guilty to mortgage fraud in 2014, according
+  to records reviewed by ProPublica and The Texas Tribune. Previously unreleased records
+  from Paxton's 2023 impeachment investigation show Ken Paxton had knowledge of some
+  trust investments and that Wildcatter companies paid the trust while some of the
+  businesses owed local taxes. The findings come as Paxton, who was acquitted by the
+  Legislature, is now in an expensive and tight U.S. Senate race against Democrat
+  and state lawmaker James Talarico.
+nut_graf: The records place the operation of the trust's conflict safeguards, the
+  Paxtons' financial ties to Wildcatter and Ken Paxton's knowledge of investments
+  at issue during his Senate campaign. They also document tax delinquencies and payments
+  to the trust, but do not establish why the payments were made or how Wildcatter
+  accounted for them.
 primary_entities:
 - Ken Paxton
 - Angela Paxton
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +164,25 @@ related_stories:
   headline: Records show two indicted Americans at Dubai party with Paxton
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6985
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6495
+  strength: 0.6971
 - slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
   headline: Paxton tells donors Washington forces control his Senate campaign
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6606
+  strength: 0.66
 - slug: 2026-09-30-guardian-opinion-column-links-paxton-scandals-to-christian-right-s-texas-network
-  headline: Guardian opinion column links Paxton scandals to Christian right's Texas network
+  headline: Guardian opinion column links Paxton scandals to Christian right's Texas
+    network
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6796
-- slug: 2026-10-05-texas-attorney-general-paxton-opens-unitedhealth-group-investigation
-  headline: Texas Attorney General Paxton opens UnitedHealth Group investigation
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6224
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6286
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6483
-- slug: 2026-08-26-talarico-asks-court-to-release-paxton-s-depositions-ahead-of-texas-senate-race
-  headline: Talarico asks court to release Paxton's depositions ahead of Texas Senate race
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6414
-- slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6333
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6415
-- slug: 2026-07-27-paxton-faces-talarico-in-texas-senate-race-after-defeating-prior-challengers
-  headline: Paxton faces Talarico in Texas Senate race after defeating prior challengers
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6167
-- slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
-  headline: White House probe finds it can't track staff bets on prediction markets
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6205
-- slug: 2026-06-23-senate-democrats-seek-hearings-into-500-million-trump-emirati-crypto-deal
-  headline: Senate Democrats Seek Hearings Into $500 Million Trump-Emirati Crypto Deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6343
-- slug: 2026-06-09-ex-paxton-lawyer-endorses-democrat-talarico-faults-trump-focus
-  headline: Ex-Paxton lawyer endorses Democrat Talarico, faults Trump focus
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6325
-- slug: 2026-05-20-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-runoff
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate runoff
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6356
-- slug: 2026-05-25-democrats-feud-over-stock-trades-while-sharpening-attacks-on-trump
-  headline: Democrats feud over stock trades while sharpening attacks on Trump
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6316
+  strength: 0.6792
 - slug: 2026-03-05-cornyn-releases-attack-video-on-paxton-as-trump-withholds-texas-runoff-endorseme
-  headline: Cornyn releases attack video on Paxton as Trump withholds Texas runoff endorsement
+  headline: Cornyn releases attack video on Paxton as Trump withholds Texas runoff
+    endorsement
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6566
-- slug: 2026-06-01-texas-senate-general-election-pits-talarico-against-paxton-in-november
-  headline: Texas Senate general election pits Talarico against Paxton in November
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-22-paxton-spotlights-trump-s-endorsement-in-texas-senate-runoff-vs-cornyn
-  headline: Paxton spotlights Trump’s endorsement in Texas Senate runoff vs. Cornyn
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6296
+  strength: 0.6563
 ---
-
 ## Impeachment records show Ken Paxton knew of some blind-trust investments
 
 **Subtype:** fact

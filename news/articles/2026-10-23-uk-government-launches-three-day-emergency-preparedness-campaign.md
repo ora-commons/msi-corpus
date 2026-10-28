@@ -2,8 +2,16 @@
 headline: UK government launches three-day emergency preparedness campaign
 secondary_headline: Streeting says advice was not prompted by specific intelligence
 publish_date: '2026-10-23'
-lede: The UK government has launched the “Be Ready” campaign, urging households to keep three days’ worth of food and water, plus other basic supplies, for a national emergency. On Friday, Prime Minister Andy Burnham said unexpected events seemed to be becoming more common and recommended stocking tinned food and bottled water. The campaign warned that severe weather and cyberattacks could disrupt essential services.
-nut_graf: Disaster planning expert Lucy Easthope said the guidance could ease pressure on emergency services by preparing households for disruptions. Defence Secretary Wes Streeting said it was not triggered by a “particular piece of intelligence,” but was part of a broader effort to strengthen national resilience.
+lede: The UK government has launched the “Be Ready” campaign, urging households to
+  keep three days’ worth of food and water, plus other basic supplies, for a national
+  emergency. On Friday, Prime Minister Andy Burnham said unexpected events seemed
+  to be becoming more common and recommended stocking tinned food and bottled water.
+  The campaign warned that severe weather and cyberattacks could disrupt essential
+  services.
+nut_graf: Disaster planning expert Lucy Easthope said the guidance could ease pressure
+  on emergency services by preparing households for disruptions. Defence Secretary
+  Wes Streeting said it was not triggered by a “particular piece of intelligence,”
+  but was part of a broader effort to strengthen national resilience.
 primary_entities:
 - UK
 - Be Ready
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +145,13 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-11-britain-backs-zelenskyy-after-trump-urges-ukraine-to-replace-him
-  headline: Britain backs Zelenskyy after Trump urges Ukraine to replace him
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.629
-- slug: 2026-10-14-burnham-tells-zelensky-uk-will-not-waver-on-ukraine-support
-  headline: Burnham tells Zelensky UK will not waver on Ukraine support
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5943
-- slug: 2026-10-13-uk-accelerates-air-defence-missile-deliveries-ahead-of-zelensky-s-visit
-  headline: UK accelerates air defence missile deliveries ahead of Zelensky's visit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5945
-- slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
-  headline: Badenoch pledges to scrap UK future homes standard
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5937
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6263
-- slug: 2026-10-02-uk-transport-minister-says-country-is-not-facing-diesel-shortage
-  headline: UK transport minister says country is not facing diesel shortage
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6032
-- slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
-  headline: UK joins European diesel-reserve talks after US export-ban warning
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6016
 - slug: 2026-09-17-uk-begins-work-on-dormant-war-book-as-defence-chief-warns-of-russian-threat
-  headline: UK begins work on dormant 'war book' as defence chief warns of Russian threat
+  headline: UK begins work on dormant 'war book' as defence chief warns of Russian
+    threat
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6558
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6027
-- slug: 2026-09-26-burnham-announces-first-time-buyer-scheme-with-2-5-deposit-20-equity-loan
-  headline: Burnham announces first-time buyer scheme with 2.5% deposit, 20% equity loan
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6055
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.593
-- slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6059
-- slug: 2026-09-22-eu-envoy-doors-are-open-for-uk-to-deepen-cooperation
-  headline: 'EU envoy: ''doors are open'' for UK to deepen cooperation'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5963
-- slug: 2026-09-21-burnham-approves-raf-refuelling-for-saudi-warplanes-in-first-deployment
-  headline: Burnham approves RAF refuelling for Saudi warplanes in first deployment
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5942
-- slug: 2026-09-13-rayner-says-uk-unlikely-to-meet-1-5-million-homes-target
-  headline: Rayner says UK unlikely to meet 1.5 million homes target
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6211
-- slug: 2026-09-17-nato-chief-rutte-says-uk-needs-credible-path-to-2035-defence-target
-  headline: NATO chief Rutte says UK needs 'credible path' to 2035 defence target
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.593
-- slug: 2026-09-16-nato-chief-rutte-presses-uk-to-spend-more-on-defence-cites-russia-and-iran
-  headline: NATO chief Rutte presses UK to spend more on defence, cites Russia and Iran
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5937
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6001
-- slug: 2026-08-25-kremlin-adviser-says-uk-drone-plants-could-face-semi-military-response
-  headline: Kremlin adviser says UK drone plants could face 'semi-military' response
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5968
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5965
+  strength: 0.6554
 ---
-
 ## UK government launches three-day emergency preparedness campaign
 
 **Subtype:** fact

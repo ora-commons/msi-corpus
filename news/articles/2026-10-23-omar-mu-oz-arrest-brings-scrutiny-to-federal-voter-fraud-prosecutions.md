@@ -2,8 +2,18 @@
 headline: Omar Muñoz arrest brings scrutiny to federal voter-fraud prosecutions
 secondary_headline: Justice Department promotional video drew criticism before indictment
 publish_date: '2026-10-23'
-lede: Department of Homeland Security investigators arrested Omar Muñoz at his home in Commerce, California, early Monday over allegations that the 72-year-old lawful permanent resident fraudulently registered to vote and made false statements in a citizenship application in which he claimed never to have voted. A DHS agent alleges that he cast ballots several times since 2020, and the Justice Department later posted an edited video of the arrest that legal experts criticized as partisan publicity before he had been indicted.
-nut_graf: The arrest came two weeks before the November midterms as the Trump administration ramped up efforts to charge noncitizens with unlawful voting. Legal scholars and civil-rights lawyers said detaining a defendant accused of a nonviolent voting offense, and the publicity given to the arrest before indictment, departed from federal prosecutorial norms. Muñoz, 72, said he told officers he was frail after six recent surgeries.
+lede: Department of Homeland Security investigators arrested Omar Muñoz at his home
+  in Commerce, California, early Monday over allegations that the 72-year-old lawful
+  permanent resident fraudulently registered to vote and made false statements in
+  a citizenship application in which he claimed never to have voted. A DHS agent alleges
+  that he cast ballots several times since 2020, and the Justice Department later
+  posted an edited video of the arrest that legal experts criticized as partisan publicity
+  before he had been indicted.
+nut_graf: The arrest came two weeks before the November midterms as the Trump administration
+  ramped up efforts to charge noncitizens with unlawful voting. Legal scholars and
+  civil-rights lawyers said detaining a defendant accused of a nonviolent voting offense,
+  and the publicity given to the arrest before indictment, departed from federal prosecutorial
+  norms. Muñoz, 72, said he told officers he was frail after six recent surgeries.
 primary_entities:
 - Omar Muñoz
 - Department of Homeland Security
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +160,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-federal-voter-fraud-cases-target-california-citizenship-applicants
+  headline: Federal voter fraud cases target California citizenship applicants
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7365
 - slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
   headline: DOJ charges 28 California green card holders over alleged illegal voting
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7365
+  strength: 0.7352
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7235
+  strength: 0.7224
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6854
 - slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
   headline: Legal experts call DOJ California ballot lawsuit "a long shot"
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7091
+  strength: 0.7081
+- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
+  headline: Judge cites "high likelihood of error" in DHS list of people to visit
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6818
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6686
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6886
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.66
-- slug: 2026-10-22-omar-says-federal-raid-may-have-exposed-her-washington-address
-  headline: Omar says federal raid may have exposed her Washington address
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.651
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.679
-- slug: 2026-10-18-homan-says-omar-could-be-of-course-denaturalized-and-deported
-  headline: Homan says Omar could be 'of course' denaturalized and deported
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6559
-- slug: 2026-10-15-federal-agents-search-omar-s-washington-home-in-federal-probe
-  headline: Federal agents search Omar's Washington home in federal probe
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6562
-- slug: 2026-10-14-federal-probe-aims-to-build-case-to-strip-omar-of-citizenship
-  headline: Federal probe aims to build case to strip Omar of citizenship
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6608
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6513
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6734
-- slug: 2026-10-12-trump-and-allies-have-discussed-denaturalizing-omar-expelling-her-from-us
-  headline: Trump and allies have discussed denaturalizing Omar, expelling her from US
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6511
-- slug: 2026-09-30-sixth-noncitizen-voting-indictment-of-september-lands-in-minnesota
-  headline: Sixth noncitizen voting indictment of September lands in Minnesota
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6644
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6527
-- slug: 2026-09-14-dhs-whistleblower-says-agents-may-have-broken-state-laws-in-voter-hunt
-  headline: DHS whistleblower says agents may have broken state laws in voter hunt
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6664
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6681
-- slug: 2026-05-17-trump-administration-runs-67-million-voter-registrations-through-dhs-eligibility
-  headline: Trump administration runs 67 million voter registrations through DHS eligibility system ahead of midterms
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6622
-- slug: 2026-05-17-trump-administration-voter-eligibility-checks-raise-purge-fears-ahead-of-midterm
-  headline: Trump administration voter-eligibility checks raise purge fears ahead of midterms
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6595
-- slug: 2026-05-15-ice-detains-joe-ceballos-former-kansas-mayor-over-illegal-voting-as-non-citizen
-  headline: ICE detains Joe Ceballos, former Kansas mayor, over illegal voting as non-citizen
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6567
+  strength: 0.6874
 ---
-
 ## Omar Muñoz arrest brings scrutiny to federal voter-fraud prosecutions
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: Vance stumps for Republicans as questions grow about a 2028 White House bid
+headline: Vance stumps for Republicans as questions grow about a 2028 White House
+  bid
 secondary_headline: Trump's Oval Office answer leaves the endorsement question unsettled
 publish_date: '2026-10-24'
-lede: Vice-president JD Vance has stumped for Republican candidates in Iowa, Florida, Texas, Alaska, Georgia, Michigan and his native Ohio as the congressional midterms intensify, a schedule analysts describe as a possible dry run for a 2028 presidential bid. A day after Vance suggested Donald Trump would endorse him if he runs, Vance shifted awkwardly in the Oval Office while Trump was asked about the remark. Trump said he and Vance had never discussed Vance's presidential prospects, leaving the assertion unconfirmed. Vance's visibility has risen as Trump's popularity has waned, but the path to inherit the MAGA movement remains more complicated than it may appear.
-nut_graf: The strategic questions include the party's struggle to retain congressional seats, Trump's grip on the Republican Party and the historical barriers facing a vice-president seeking the presidency. Some observers also believe personality, rather than ideology, may stymie Vance's ambitions. George H W Bush is the only serving vice-president in modern times to go on and win election as president.
+lede: Vice-president JD Vance has stumped for Republican candidates in Iowa, Florida,
+  Texas, Alaska, Georgia, Michigan and his native Ohio as the congressional midterms
+  intensify, a schedule analysts describe as a possible dry run for a 2028 presidential
+  bid. A day after Vance suggested Donald Trump would endorse him if he runs, Vance
+  shifted awkwardly in the Oval Office while Trump was asked about the remark. Trump
+  said he and Vance had never discussed Vance's presidential prospects, leaving the
+  assertion unconfirmed. Vance's visibility has risen as Trump's popularity has waned,
+  but the path to inherit the MAGA movement remains more complicated than it may appear.
+nut_graf: The strategic questions include the party's struggle to retain congressional
+  seats, Trump's grip on the Republican Party and the historical barriers facing a
+  vice-president seeking the presidency. Some observers also believe personality,
+  rather than ideology, may stymie Vance's ambitions. George H W Bush is the only
+  serving vice-president in modern times to go on and win election as president.
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,116 +162,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-vance-stumps-for-republicans-as-questions-grow-about-a-2028-white-house-bid.png
-  alt: 'Illustration accompanying article: Vance stumps for Republicans as questions grow about a 2028 White House bid'
+  alt: 'Illustration accompanying article: Vance stumps for Republicans as questions
+    grow about a 2028 White House bid'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6818
 - slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
+  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's
+    race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6854
+  strength: 0.686
 - slug: 2026-10-16-guardian-politics-weekly-examines-whether-vance-courts-midterms-or-2028-voters
-  headline: Guardian Politics Weekly examines whether Vance courts midterms or 2028 voters
+  headline: Guardian Politics Weekly examines whether Vance courts midterms or 2028
+    voters
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7227
+  strength: 0.7231
 - slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
   headline: Vance works to rebuild fractured Trump coalition ahead of midterms
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7633
+  strength: 0.7634
 - slug: 2026-10-04-vance-courts-maha-movement-as-2028-positioning-intensifies
   headline: Vance courts MAHA movement as 2028 positioning intensifies
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7144
+  strength: 0.7152
 - slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
   headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7869
-- slug: 2026-09-11-vance-leads-2028-gop-primary-field-at-43-percent-in-new-poll
-  headline: Vance leads 2028 GOP primary field at 43 percent in new poll
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.734
+  strength: 0.7875
 - slug: 2026-09-13-vance-invokes-faith-at-gop-convention-as-2028-positioning-draws-scrutiny
   headline: Vance invokes faith at GOP convention as 2028 positioning draws scrutiny
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7268
+  strength: 0.727
+- slug: 2026-09-11-vance-leads-2028-gop-primary-field-at-43-percent-in-new-poll
+  headline: Vance leads 2028 GOP primary field at 43 percent in new poll
+  publish_date: '2026-09-11'
+  relation: related
+  strength: 0.7337
 - slug: 2026-09-11-vance-delivers-prime-time-speech-on-gop-convention-s-second-night
   headline: Vance delivers prime-time speech on GOP convention's second night
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7151
-- slug: 2026-09-03-ted-cruz-promotes-book-courts-iowa-republicans-on-potential-2028-bid
-  headline: Ted Cruz promotes book, courts Iowa Republicans on potential 2028 bid
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7186
-- slug: 2026-09-10-convention-goers-name-vance-and-rubio-as-top-2028-contenders
-  headline: Convention-goers name Vance and Rubio as top 2028 contenders
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6876
-- slug: 2026-09-01-maga-inc-rarely-spends-in-battleground-states-as-trump-grows-war-chest
-  headline: MAGA Inc. rarely spends in battleground states as Trump grows war chest
-  publish_date: '2026-09-01'
-  relation: related
   strength: 0.7153
-- slug: 2026-09-04-vance-stands-by-carlson-friendship-at-thursday-press-conference
-  headline: Vance stands by Carlson friendship at Thursday press conference
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6973
-- slug: 2026-08-25-trump-and-vance-to-headline-gop-midterm-convention-in-dallas
-  headline: Trump and Vance to headline GOP midterm convention in Dallas
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.69
-- slug: 2026-06-14-vance-says-he-will-discuss-2028-run-with-family-after-midterms
-  headline: Vance says he will discuss 2028 run with family after midterms
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7812
-- slug: 2026-05-19-vance-and-rubio-try-for-2028-messaging-from-white-house-briefing-rostrum
-  headline: Vance and Rubio try for 2028 messaging from White House briefing rostrum
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7627
-- slug: 2026-05-20-vance-takes-the-spotlight-at-white-house-briefing-after-rubio-s-turn
-  headline: Vance takes the spotlight at White House briefing after Rubio’s turn
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7573
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7313
-- slug: 2026-06-03-trump-says-vance-rubio-ticket-for-2028-would-be-unbeatable
-  headline: Trump says Vance-Rubio ticket for 2028 would be 'unbeatable'
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7335
-- slug: 2026-05-04-vance-woos-iowa-gop-voters-ahead-of-2028-while-backing-zach-nunn
-  headline: Vance woos Iowa GOP voters ahead of 2028 while backing Zach Nunn
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7442
 ---
-
 ## Vance stumps for Republicans as questions grow about a 2028 White House bid
 
 **Subtype:** fact

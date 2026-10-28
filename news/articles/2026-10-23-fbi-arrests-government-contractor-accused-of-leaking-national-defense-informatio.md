@@ -1,9 +1,15 @@
 ---
 headline: FBI arrests government contractor accused of leaking national defense information
-secondary_headline: Officials said Brinksman's partner operated a Substack publication and published a fundraising article in September
+secondary_headline: Officials said Brinksman's partner operated a Substack publication
+  and published a fundraising article in September
 publish_date: '2026-10-23'
-lede: The FBI arrested Ian A. Brinksman, 42, of Washington, D.C., on Friday, Oct. 23, after searching his residence, according to UPI, citing officials. Prosecutors charged him with unlawfully transmitting national defense information to a romantic partner, who then published the sensitive material online.
-nut_graf: The case concerns sensitive compartmented information Brinksman was cleared to access and an alleged disclosure beyond his official duties. Prosecutors said Brinksman provided the material to a romantic partner, knowing it would be published.
+lede: The FBI arrested Ian A. Brinksman, 42, of Washington, D.C., on Friday, Oct.
+  23, after searching his residence, according to UPI, citing officials. Prosecutors
+  charged him with unlawfully transmitting national defense information to a romantic
+  partner, who then published the sensitive material online.
+nut_graf: The case concerns sensitive compartmented information Brinksman was cleared
+  to access and an alleged disclosure beyond his official duties. Prosecutors said
+  Brinksman provided the material to a romantic partner, knowing it would be published.
 primary_entities:
 - Ian A. Brinksman
 - FBI
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +147,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-hunter-biden-laptop-discovery-drew-concern-about-possible-russian-disinformation
-  headline: Hunter Biden laptop discovery drew concern about possible Russian disinformation
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5993
-- slug: 2026-10-19-us-prosecutors-allege-saudi-government-support-for-openai-recorder-suspect
-  headline: US prosecutors allege Saudi government support for OpenAI recorder suspect
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6059
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.602
-- slug: 2026-09-23-fbi-investigates-breach-of-jobs-website-claimed-by-hacking-group
-  headline: FBI investigates breach of jobs website claimed by hacking group
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5997
-- slug: 2026-09-17-fbi-memo-warned-ice-agents-could-be-lured-by-fake-tradwife-profiles
-  headline: FBI memo warned ICE agents could be lured by fake tradwife profiles
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5957
-- slug: 2026-09-11-cia-official-accused-in-40-million-gold-bar-theft-reaches-tentative-plea-deal
-  headline: CIA official accused in $40 million gold-bar theft reaches tentative plea deal
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5914
 - slug: 2026-05-18-contractor-indicted-for-leaking-classified-documents-to-post-reporter
   headline: Contractor indicted for leaking classified documents to Post reporter
   publish_date: '2026-05-18'
   relation: related
   strength: 0.7021
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5964
-- slug: 2026-07-15-former-fed-adviser-receives-38-month-prison-sentence-for-false-statements-about-
-  headline: Former Fed adviser receives 38-month prison sentence for false statements about China contacts
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5927
-- slug: 2026-04-14-judge-orders-home-detention-for-courtney-williams-in-classified-leak-case
-  headline: Judge orders home detention for Courtney Williams in classified leak case
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6438
 - slug: 2026-01-15-fbi-searches-washington-post-reporter-s-home-in-leak-probe
   headline: FBI searches Washington Post reporter’s home in leak probe
   publish_date: '2026-01-15'
   relation: related
   strength: 0.6537
-- slug: 2026-05-18-post-seeks-court-order-for-seized-reporter-s-devices
-  headline: Post seeks court order for seized reporter's devices
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6206
-- slug: 2026-04-09-army-veteran-charged-with-leaking-classified-information-to-journalist
-  headline: Army veteran charged with leaking classified information to journalist
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6339
-- slug: 2026-03-05-fbi-investigates-suspicious-cyber-activity-on-system-holding-surveillance-data
-  headline: FBI investigates suspicious cyber activity on system holding surveillance data
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6276
-- slug: 2026-05-26-trump-administration-proposes-ndas-for-current-and-future-federal-employees
-  headline: Trump administration proposes NDAs for current and future federal employees
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5952
-- slug: 2026-03-19-fbi-investigates-whether-joe-kent-leaked-classified-information-after-iran-prote
-  headline: FBI investigates whether Joe Kent leaked classified information after Iran protest
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6122
-- slug: 2026-05-06-faa-contractor-accused-of-emailing-trump-threat-after-searches
-  headline: FAA contractor accused of emailing Trump threat after searches
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5983
-- slug: 2026-02-10-gabbard-s-office-warns-attorney-against-sharing-classified-complaint-with-congre
-  headline: Gabbard’s office warns attorney against sharing classified complaint with Congress
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6149
-- slug: 2026-01-26-treasury-ends-booz-allen-contracts-over-tax-information-leak
-  headline: Treasury ends Booz Allen contracts over tax information leak
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.612
-- slug: 2026-01-15-press-freedom-advocates-worry-raid-on-post-journalist-s-home-chills-reporting
-  headline: Press freedom advocates worry raid on Post journalist’s home chills reporting
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6061
 ---
-
 ## FBI arrests government contractor accused of leaking national defense information
 
 **Subtype:** fact

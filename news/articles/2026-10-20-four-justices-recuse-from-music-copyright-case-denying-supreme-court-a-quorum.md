@@ -1,9 +1,17 @@
 ---
-headline: Four justices recuse from music copyright case, denying Supreme Court a quorum
+headline: Four justices recuse from music copyright case, denying Supreme Court a
+  quorum
 secondary_headline: Experts weigh recusal compliance against an institutional gap
 publish_date: '2026-10-20'
-lede: The U.S. Supreme Court was unable to hear a music copyright case this week after four of its nine justices recused themselves, leaving the court without a quorum. Justices Sonia Sotomayor, Neil Gorsuch, Amy Coney Barrett and Ketanji Brown Jackson all stepped aside; the court did not publicly explain why.
-nut_graf: Roth and other experts called the situation good news, bad news, saying it was a good thing the justices followed the recusal rules. Renee Knake Jefferson, a legal ethics expert at the University of Houston, said the recusals in this case point to a deeper problem because the court has no other justices who can step in and substitute for them.
+lede: The U.S. Supreme Court was unable to hear a music copyright case this week after
+  four of its nine justices recused themselves, leaving the court without a quorum.
+  Justices Sonia Sotomayor, Neil Gorsuch, Amy Coney Barrett and Ketanji Brown Jackson
+  all stepped aside; the court did not publicly explain why.
+nut_graf: Roth and other experts called the situation good news, bad news, saying
+  it was a good thing the justices followed the recusal rules. Renee Knake Jefferson,
+  a legal ethics expert at the University of Houston, said the recusals in this case
+  point to a deeper problem because the court has no other justices who can step in
+  and substitute for them.
 primary_entities:
 - Supreme Court of the United States
 - Sonia Sotomayor
@@ -51,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +159,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-20-four-justices-recuse-from-music-copyright-case-denying-supreme-court-a-quorum.png
-  alt: 'Illustration accompanying article: Four justices recuse from music copyright case, denying Supreme Court a quorum'
+  alt: 'Illustration accompanying article: Four justices recuse from music copyright
+    case, denying Supreme Court a quorum'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5926
-- slug: 2026-09-28-alito-reversal-leaves-climate-case-hinging-on-thomas-and-gorsuch
-  headline: Alito reversal leaves climate case hinging on Thomas and Gorsuch
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5839
-- slug: 2026-09-25-jackson-warns-emergency-docket-risks-end-run-around-standard-review
-  headline: Jackson warns emergency docket risks 'end-run around standard review'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5827
-- slug: 2026-09-05-two-men-without-lawyers-reach-supreme-court-for-fall-arguments
-  headline: Two men without lawyers reach Supreme Court for fall arguments
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5959
-- slug: 2026-09-03-supreme-court-ballroom-ruling-highlights-standing-hurdle-for-trump-challengers
-  headline: Supreme Court ballroom ruling highlights standing hurdle for Trump challengers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5821
-- slug: 2026-08-07-four-house-republicans-seek-south-korea-briefing-on-online-speech-law
-  headline: Four House Republicans seek South Korea briefing on online speech law
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5923
-- slug: 2026-06-28-some-justices-say-they-miss-retired-colleague-stephen-breyer
-  headline: Some justices say they miss retired colleague Stephen Breyer
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.596
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5832
-- slug: 2026-05-26-supreme-court-sides-with-trump-in-immigration-judges-speech-case
-  headline: Supreme Court sides with Trump in immigration judges' speech case
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6066
-- slug: 2026-06-15-supreme-court-denies-hearing-for-98-year-old-judge-suspended-over-fitness-test
-  headline: Supreme Court denies hearing for 98-year-old judge suspended over fitness test
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5901
-- slug: 2026-06-19-law-students-petition-supreme-court-to-extend-workplace-protections-to-federal-c
-  headline: Law students petition Supreme Court to extend workplace protections to federal court employees
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.584
-- slug: 2026-06-01-doj-asks-judge-in-atlanta-to-recuse-herself-from-georgia-election-records-case
-  headline: DOJ asks judge in Atlanta to recuse herself from Georgia election records case
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5969
-- slug: 2026-04-10-sotomayor-says-emergency-docket-relief-for-trump-hinges-on-irreparable-harm
-  headline: Sotomayor says emergency docket relief for Trump hinges on irreparable harm
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6139
-- slug: 2026-04-15-jackson-calls-supreme-court-emergency-orders-scratch-paper-musings-in-yale-speec
-  headline: Jackson calls Supreme Court emergency orders 'scratch-paper musings' in Yale speech
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6121
-- slug: 2026-03-19-judge-throws-doj-attorney-out-of-hearing-over-its-oversight-of-prosecutions
-  headline: Judge throws DOJ attorney out of hearing over its oversight of prosecutions
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6058
-- slug: 2026-05-03-ap-finds-pattern-of-trump-administration-noncompliance-with-lower-court-orders
-  headline: Pattern of Trump administration noncompliance with lower court orders
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5914
-- slug: 2026-03-09-jackson-and-kavanaugh-spar-over-supreme-court-emergency-orders-for-trump
-  headline: Jackson and Kavanaugh spar over Supreme Court emergency orders for Trump
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.5994
-- slug: 2026-02-20-trump-attacks-justices-over-supreme-court-tariff-defeat
-  headline: Trump attacks justices over Supreme Court tariff defeat
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6001
-- slug: 2026-05-06-roberts-says-supreme-court-is-not-political-as-public-trust-slips
-  headline: Roberts says Supreme Court is not political as public trust slips
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5789
-- slug: 2026-01-21-supreme-court-skeptical-of-trump-bid-to-remove-fed-governor-cook
-  headline: Supreme Court skeptical of Trump bid to remove Fed Governor Cook
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5918
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## Four justices recuse from music copyright case, denying Supreme Court a quorum
 
 **Subtype:** fact

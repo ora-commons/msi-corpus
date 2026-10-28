@@ -2,8 +2,18 @@
 headline: Coast Guard swimmer Josh Law recounts rescue of 16 people off Baja coast
 secondary_headline: Waves of 6 to 8 feet in darkness, 140 miles from shore
 publish_date: '2026-10-23'
-lede: Coast Guard rescue swimmer Josh Law, 24, said he pulled 16 people out of the Pacific Ocean during a nighttime helicopter rescue carried out about 140 miles off the coast of Mexico's Baja peninsula. Law reached them by following a searchlight from the aircraft, working in darkness and in waves of 6 to 8 feet. Eleven others from the capsized boat were never found, and the search for them continued for another two days.
-nut_graf: 'Law''s first interview since the rescue describes the physical conditions of an offshore helicopter search: darkness, rotor noise, heavy seas and a searchlight as the only guide. He also described the fatigue of his rescue team and measured it against the condition of the people in the water. It remained unclear whether the boat had gotten lost, suffered engine failure, was swept out to sea or was meant to travel that far.'
+lede: Coast Guard rescue swimmer Josh Law, 24, said he pulled 16 people out of the
+  Pacific Ocean during a nighttime helicopter rescue carried out about 140 miles off
+  the coast of Mexico's Baja peninsula. Law reached them by following a searchlight
+  from the aircraft, working in darkness and in waves of 6 to 8 feet. Eleven others
+  from the capsized boat were never found, and the search for them continued for another
+  two days.
+nut_graf: 'Law''s first interview since the rescue describes the physical conditions
+  of an offshore helicopter search: darkness, rotor noise, heavy seas and a searchlight
+  as the only guide. He also described the fatigue of his rescue team and measured
+  it against the condition of the people in the water. It remained unclear whether
+  the boat had gotten lost, suffered engine failure, was swept out to sea or was meant
+  to travel that far.'
 primary_entities:
 - Josh Law
 - Miyako Miller
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +157,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6476
-- slug: 2026-10-04-coast-guard-locates-debris-from-missing-air-ambulance-off-nantucket
-  headline: Coast Guard locates debris from missing air ambulance off Nantucket
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6309
-- slug: 2026-10-04-coast-guard-identifies-tail-number-c-grjp-in-nantucket-air-ambulance-debris
-  headline: Coast Guard identifies tail number C-GRJP in Nantucket air ambulance debris
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6184
-- slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
-  headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6138
 - slug: 2026-09-11-coast-guard-rescues-alaska-teen-who-clung-to-overturned-bering-sea-boat
   headline: Coast Guard rescues Alaska teen who clung to overturned Bering Sea boat
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6532
-- slug: 2026-09-11-coast-guard-rescues-15-year-old-after-brother-cousin-drown-in-bering-sea
-  headline: Coast Guard rescues 15-year-old after brother, cousin drown in Bering Sea
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-12-mother-says-alaska-teen-prayed-through-two-day-ordeal-atop-capsized-bering-sea-s
-  headline: Mother says Alaska teen prayed through two-day ordeal atop capsized Bering Sea skiff
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6134
-- slug: 2026-08-28-volunteers-climb-overnight-to-reach-climber-stranded-on-sierra-nevada-ledge
-  headline: Volunteers climb overnight to reach climber stranded on Sierra Nevada ledge
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6197
-- slug: 2026-07-15-pontoon-boat-fire-near-alcatraz-leaves-one-missing-17-rescued
-  headline: Pontoon boat fire near Alcatraz leaves one missing, 17 rescued
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6291
+  strength: 0.6527
 - slug: 2026-01-07-coast-guard-rescues-9-from-grounded-alaska-crab-boat-amid-near-gale-winds
   headline: Coast Guard rescues 9 from grounded Alaska crab boat amid near-gale winds
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.6955
-- slug: 2026-07-14-pontoon-boat-carrying-memorial-service-group-sinks-near-alcatraz-1-dead-3-missin
-  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead, 3 missing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.614
-- slug: 2026-07-09-us-rescue-team-says-venezuelan-bureaucracy-delayed-quake-response-by-five-days
-  headline: US rescue team says Venezuelan bureaucracy delayed quake response by five days
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6125
-- slug: 2026-06-18-louisiana-shuttle-driver-rescues-three-tourists-from-rip-current
-  headline: Louisiana shuttle driver rescues three tourists from rip current
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6304
+  strength: 0.6948
 - slug: 2026-02-13-surfers-rescue-six-after-small-motor-boat-capsizes-off-santa-cruz-coast
   headline: Surfers rescue six after small motor boat capsizes off Santa Cruz coast
   publish_date: '2026-02-13'
   relation: related
-  strength: 0.6717
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6358
+  strength: 0.6714
 - slug: 2026-01-03-coast-guard-searches-for-drug-boat-strike-survivors-as-odds-dwindle
   headline: Coast Guard searches for drug-boat strike survivors as odds dwindle
   publish_date: '2026-01-03'
   relation: related
-  strength: 0.6602
-- slug: 2026-05-14-11-survivors-of-plane-ditching-off-florida-rescued-after-five-hours-on-life-raft
-  headline: 11 survivors of plane ditching off Florida rescued after five hours on life raft
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6334
-- slug: 2026-05-15-families-search-for-40-migrants-who-vanished-on-dangerous-sea-route-from-souther
-  headline: Families search for 40 migrants who vanished on dangerous sea route from southern Mexico
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6156
-- slug: 2026-02-01-coast-guard-suspends-search-for-7-after-fishing-boat-sinks-off-mass
-  headline: Coast Guard suspends search for 7 after fishing boat sinks off Mass.
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6394
-- slug: 2026-05-11-malaysia-searches-for-14-missing-after-migrant-boat-sinks-off-pangkor
-  headline: Malaysia searches for 14 missing after migrant boat sinks off Pangkor
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6143
+  strength: 0.661
 ---
-
 ## Coast Guard swimmer Josh Law recounts rescue of 16 people off Baja coast
 
 **Subtype:** fact

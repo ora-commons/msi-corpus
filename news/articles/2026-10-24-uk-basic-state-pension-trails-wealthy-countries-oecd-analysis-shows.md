@@ -2,8 +2,17 @@
 headline: UK basic state pension trails wealthy countries, OECD analysis shows
 secondary_headline: State pension spending is set to top £150bn a year
 publish_date: '2026-10-24'
-lede: The UK's basic state pension provides a lower replacement rate than the average across wealthy countries, according to OECD analysis cited by BBC News. The OECD calculation considers automatic occupational pension enrolment and puts after-tax UK retirement benefits at 54.2% of average UK earnings, compared with 63.2% across wealthy countries.
-nut_graf: BBC News found that automatic workplace enrolment narrows, but does not erase, the UK's pension gap, while people relying only on the state pension remain worse off than many retirees elsewhere. Andy Burnham's planned replacement for the triple lock would likely produce less generous increases. The OECD reckons the amount needed for pensions may be set to soar in many nations by 2060, with exceptions largely among countries deploying changes.
+lede: The UK's basic state pension provides a lower replacement rate than the average
+  across wealthy countries, according to OECD analysis cited by BBC News. The OECD
+  calculation considers automatic occupational pension enrolment and puts after-tax
+  UK retirement benefits at 54.2% of average UK earnings, compared with 63.2% across
+  wealthy countries.
+nut_graf: BBC News found that automatic workplace enrolment narrows, but does not
+  erase, the UK's pension gap, while people relying only on the state pension remain
+  worse off than many retirees elsewhere. Andy Burnham's planned replacement for the
+  triple lock would likely produce less generous increases. The OECD reckons the amount
+  needed for pensions may be set to soar in many nations by 2060, with exceptions
+  largely among countries deploying changes.
 primary_entities:
 - UK
 - OECD
@@ -35,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,104 +147,45 @@ related_stories:
   headline: Five Social Security proposals to narrow the $29.3 trillion gap
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6674
-- slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
-  headline: Higher petrol and diesel costs drive Britain's September inflation
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6397
+  strength: 0.6679
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7617
+  strength: 0.7614
 - slug: 2026-10-14-pew-61-of-americans-see-too-much-economic-inequality-with-partisan-divide
-  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan divide'
+  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan
+    divide'
   publish_date: '2026-10-14'
   relation: related
   strength: 0.6542
-- slug: 2026-10-12-uk-welfare-spending-on-track-to-hit-130-billion-as-claims-surge
-  headline: UK welfare spending on track to hit £130 billion as claims surge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.646
 - slug: 2026-09-23-reform-linked-founder-calls-state-pension-essentially-a-ponzi-scheme
   headline: Reform-linked founder calls state pension 'essentially a Ponzi scheme'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7075
+  strength: 0.7079
 - slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
   headline: Burnham backs universal English social care reform
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6811
-- slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
-  headline: Burnham to outline social care and public control plans at Labour conference
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6411
-- slug: 2026-09-28-uk-energy-price-cap-rises-to-1-723-as-gas-costs-surge
-  headline: UK energy price cap rises to £1,723 as gas costs surge
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6346
-- slug: 2026-09-22-three-women-in-their-20s-describe-life-without-bank-of-mum-and-dad
-  headline: Three women in their 20s describe life without 'Bank of Mum and Dad
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6466
-- slug: 2026-09-23-oecd-raises-2026-growth-forecast-to-2-9-warns-el-ni-o-and-iran-war-pose-risks
-  headline: OECD raises 2026 growth forecast to 2.9%, warns El Niño and Iran war pose risks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6386
+  strength: 0.6815
 - slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
   headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6509
+  strength: 0.651
 - slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
+  headline: UK chancellor John Healey tells Financial Times October 28 budget will
+    be tough
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6543
+  strength: 0.6538
 - slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
   headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6811
-- slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
-  headline: Cost of living tops voters' concerns as Burnham plans UK tour
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6409
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
   strength: 0.682
-- slug: 2026-07-21-uk-unemployment-holds-at-4-9-as-wage-growth-steadies
-  headline: UK unemployment holds at 4.9% as wage growth steadies
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6406
-- slug: 2026-07-22-uk-inflation-falls-to-2-6-in-june-lowest-since-march-2025
-  headline: UK inflation falls to 2.6% in June, lowest since March 2025
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6375
-- slug: 2026-07-01-uk-s-burnham-government-faces-4-7bn-gap-in-starmer-s-defence-plan
-  headline: UK's Burnham government faces £4.7bn gap in Starmer's defence plan
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6431
-- slug: 2026-06-17-social-security-trust-fund-depletion-looms-as-payroll-taxes-fall-short
-  headline: Social Security trust fund depletion looms as payroll taxes fall short
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6552
 ---
-
 ## UK basic state pension trails wealthy countries, OECD analysis shows
 
 **Subtype:** fact

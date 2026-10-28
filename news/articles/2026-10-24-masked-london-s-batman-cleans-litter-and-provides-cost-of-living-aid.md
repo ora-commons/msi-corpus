@@ -1,9 +1,18 @@
 ---
 headline: Masked 'London's Batman' cleans litter and provides cost-of-living aid
-secondary_headline: Niko Omilana and Count Binface denied speculation about the masked figure
+secondary_headline: Niko Omilana and Count Binface denied speculation about the masked
+  figure
 publish_date: '2026-10-24'
-lede: A masked philanthropist calling himself 'London's Batman' has used his first month in London to clear rubbish, pay hospital parking fines, give away fuel and offer discounted food and chocolates. The Guardian described littering as a longstanding problem in London. The figure says his aim is to help people struggling with the cost of living, but his identity remains unconfirmed after Niko Omilana and Count Binface denied speculation that either was behind the mask. His TikTok account had amassed 315,000 followers in just over four weeks, according to The Guardian.
-nut_graf: The Guardian reported a litter cleanup and several cost-of-living assistance actions in London. Its reporting documents the attention surrounding the figure but does not establish who is behind the mask or who funded the activities.
+lede: A masked philanthropist calling himself 'London's Batman' has used his first
+  month in London to clear rubbish, pay hospital parking fines, give away fuel and
+  offer discounted food and chocolates. The Guardian described littering as a longstanding
+  problem in London. The figure says his aim is to help people struggling with the
+  cost of living, but his identity remains unconfirmed after Niko Omilana and Count
+  Binface denied speculation that either was behind the mask. His TikTok account had
+  amassed 315,000 followers in just over four weeks, according to The Guardian.
+nut_graf: The Guardian reported a litter cleanup and several cost-of-living assistance
+  actions in London. Its reporting documents the attention surrounding the figure
+  but does not establish who is behind the mask or who funded the activities.
 primary_entities:
 - London's Batman
 - Niko Omilana
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +150,8 @@ cross_article_links:
   strength: 0.55
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
-  headline: Fox News poll finds government corruption outranks inflation among voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5791
-- slug: 2026-10-20-a-bus-driver-and-a-writer-doubt-burnham-noise-fines-will-change-behaviour
-  headline: A bus driver and a writer doubt Burnham noise fines will change behaviour
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.604
-- slug: 2026-10-18-uk-to-fine-bus-passengers-100-for-loud-music-and-vaping
-  headline: UK to fine bus passengers £100 for loud music and vaping
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.5955
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5915
-- slug: 2026-10-08-uk-regulator-says-brink-s-offer-could-address-4-billion-ncr-atleos-concerns
-  headline: UK regulator says Brink's offer could address $4 billion NCR Atleos concerns
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5651
-- slug: 2026-09-23-mamdani-turns-greedy-algorithm-remark-into-midterm-targeting-of-corporations
-  headline: Mamdani turns 'greedy algorithm' remark into midterm targeting of corporations
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5881
-- slug: 2026-09-18-watt-offers-former-brewdog-investors-free-shares-drawing-ico-data-complaints
-  headline: Watt offers former BrewDog investors free shares, drawing ICO data complaints
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5711
-- slug: 2026-09-12-london-councils-seize-3-393-ebikes-in-2026-exceeding-all-of-2025
-  headline: London councils seize 3,393 ebikes in 2026, exceeding all of 2025
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5904
-- slug: 2026-08-22-london-shops-run-pay-it-forward-schemes-that-could-offset-small-costs
-  headline: London shops run pay-it-forward schemes that could offset small costs
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6278
-- slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
-  headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5763
-- slug: 2026-08-08-new-york-rat-sightings-fall-22-as-containerization-expands
-  headline: New York rat sightings fall 22% as containerization expands
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5797
-- slug: 2026-07-23-badenoch-says-burnham-governing-like-manchester-mayor-demands-tax-pledge
-  headline: Badenoch says Burnham governing like Manchester mayor, demands tax pledge
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5903
-- slug: 2026-06-23-london-new-york-offer-template-for-cities-to-cut-air-pollution-mayors-say
-  headline: London, New York offer template for cities to cut air pollution, mayors say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5995
-- slug: 2026-06-12-snp-embezzler-peter-murrell-spent-stolen-funds-on-toilet-seats-and-instant-coffe
-  headline: SNP embezzler Peter Murrell spent stolen funds on toilet seats and instant coffee
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5983
-- slug: 2026-06-26-armed-police-raid-youtuber-s-airbnb-amid-utah-star-wars-lego-feud
-  headline: Armed police raid YouTuber's Airbnb amid Utah Star Wars Lego feud
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5832
-- slug: 2026-06-07-bbc-investigation-reveals-uk-high-street-shops-as-fronts-for-organized-crime
-  headline: BBC investigation reveals UK High Street shops as fronts for organized crime
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5907
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5819
-- slug: 2026-06-11-makerfield-by-election-could-decide-next-uk-prime-minister-voters-voice-frustrat
-  headline: Makerfield by-election could decide next UK prime minister, voters voice frustration
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5769
-- slug: 2026-06-12-hilton-tells-bbc-his-california-governor-bid-aims-to-save-the-state
-  headline: Hilton tells BBC his California governor bid aims to 'save' the state
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5685
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5963
+related_stories: []
 ---
-
 ## Masked 'London's Batman' cleans litter and provides cost-of-living aid
 
 **Subtype:** fact

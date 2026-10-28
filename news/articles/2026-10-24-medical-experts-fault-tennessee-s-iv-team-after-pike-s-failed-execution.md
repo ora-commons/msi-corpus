@@ -2,8 +2,18 @@
 headline: Medical experts fault Tennessee's IV team after Pike's failed execution
 secondary_headline: Lawyer's timeline details prolonged struggle to establish an IV
 publish_date: '2026-10-24'
-lede: Medical experts said Tennessee's execution team appeared incompetent and fell short of medical standards during Christa Pike's failed lethal injection, based on a chronology her lawyer released in legal proceedings on Thursday. Randy Spivey, who was inside the death chamber for the 30 September attempt, described four unidentified IV team members struggling for almost an hour to establish a line in Pike's arms. Tennessee has since called off executions pending a review.
-nut_graf: The disclosures place Tennessee's lethal-injection procedures and safeguards under medical scrutiny, showing in detail where the execution team struggled to secure an IV line and what experts said should have prompted a stop. Medical experts said the chronology also highlighted fundamental problems with lethal injection, the overwhelmingly dominant form of executions in the United States in the modern era.
+lede: Medical experts said Tennessee's execution team appeared incompetent and fell
+  short of medical standards during Christa Pike's failed lethal injection, based
+  on a chronology her lawyer released in legal proceedings on Thursday. Randy Spivey,
+  who was inside the death chamber for the 30 September attempt, described four unidentified
+  IV team members struggling for almost an hour to establish a line in Pike's arms.
+  Tennessee has since called off executions pending a review.
+nut_graf: The disclosures place Tennessee's lethal-injection procedures and safeguards
+  under medical scrutiny, showing in detail where the execution team struggled to
+  secure an IV line and what experts said should have prompted a stop. Medical experts
+  said the chronology also highlighted fundamental problems with lethal injection,
+  the overwhelmingly dominant form of executions in the United States in the modern
+  era.
 primary_entities:
 - Christa Pike
 - Tennessee
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,46 @@ related_stories:
   headline: Randy Spivey details team doubts before Christa Pike’s failed execution
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8483
+  strength: 0.8487
+- slug: 2026-10-22-tennessee-protocol-specifies-no-steps-if-pike-survives-second-pentobarbital-dose
+  headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital
+    dose
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8376
 - slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
+  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed
+    execution in 14 months
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8015
+  strength: 0.8014
 - slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
+  headline: Christa Pike survives Tennessee execution; governor calls for review of
+    what went wrong
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7832
+  strength: 0.7829
 - slug: 2026-10-07-lawyer-says-pike-helped-execution-team-find-a-vein-was-kind-and-polite
   headline: Lawyer says Pike helped execution team find a vein, was 'kind and polite'
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7892
+  strength: 0.7887
 - slug: 2026-10-10-no-official-explanation-for-why-pike-survived-tennessee-s-failed-execution
   headline: No official explanation for why Pike survived Tennessee's failed execution
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7694
+  strength: 0.7693
 - slug: 2026-10-08-lawyer-reports-seven-needles-one-bent-in-pike-s-arm-after-execution
   headline: Lawyer reports seven needles, one bent, in Pike's arm after execution
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7769
+  strength: 0.7772
 - slug: 2026-10-13-christa-pike-thought-to-be-only-survivor-of-lethal-injection-execution
   headline: Christa Pike thought to be only survivor of lethal-injection execution
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.743
-- slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
-  headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7969
-- slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7953
-- slug: 2026-10-07-judge-orders-preservation-of-pike-execution-chamber-drugs-and-equipment
-  headline: Judge orders preservation of Pike execution chamber drugs and equipment
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7643
-- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7844
-- slug: 2026-09-30-tennessee-doctors-call-for-halt-to-executions-removal-of-medical-staff
-  headline: Tennessee doctors call for halt to executions, removal of medical staff
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7937
-- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
-  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.778
-- slug: 2026-10-07-judge-orders-preservation-of-evidence-in-tennessee-s-failed-pike-execution
-  headline: Judge orders preservation of evidence in Tennessee's failed Pike execution
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7572
-- slug: 2026-10-05-former-christa-pike-lawyer-says-tennessee-was-warned-execution-would-be-cruel
-  headline: Former Christa Pike lawyer says Tennessee was warned execution would be 'cruel'
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7675
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7793
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7682
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7706
-- slug: 2026-10-06-christa-pike-is-conscious-speaking-after-failed-tennessee-execution
-  headline: Christa Pike is conscious, speaking after failed Tennessee execution
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7427
-- slug: 2026-10-03-tennessee-corrections-commissioner-strada-resigns-after-failed-pike-execution
-  headline: Tennessee corrections commissioner Strada resigns after failed Pike execution
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7563
+  strength: 0.742
 ---
-
 ## Medical experts fault Tennessee's IV team after Pike's failed execution
 
 **Subtype:** fact

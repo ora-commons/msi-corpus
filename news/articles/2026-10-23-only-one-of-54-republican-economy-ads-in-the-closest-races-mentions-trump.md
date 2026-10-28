@@ -1,9 +1,24 @@
 ---
 headline: Only one of 54 Republican economy ads in the closest races mentions Trump
-secondary_headline: In the reviewed TikTok sample, videos disputing Trump's economic claims outnumber supporters 16 to one
+secondary_headline: In the reviewed TikTok sample, videos disputing Trump's economic
+  claims outnumber supporters 16 to one
 publish_date: '2026-10-23'
-lede: President Donald Trump has spent the closing weeks of the midterm campaign insisting the economy is booming on his watch, but a Wall Street Journal analysis finds his message drawing more criticism than support almost everywhere else — across thousands of TikTok videos, conservative podcast episodes, cable-news segments and television ads running in the most competitive congressional races — though the podcast and cable results varied by claim and channel. On the slice of TikTok the Journal reviewed, videos disputing his economic claims outnumbered supportive ones by about 16 to one. In the 54 most competitive House and Senate races, only one Republican advertisement about the economy mentioned him.
-nut_graf: The findings land with Republicans defending a slim House majority and a 53-47 Senate edge, and they describe a mixed picture. A recent Journal poll found half of white voters without a college degree said Trump's economic policies made the economy worse, the conservative-media results varied by platform and by claim, and Republican economy advertising in the closest races rarely mentioned the president. Democratic ads center on affordability and gas prices, while some Republican ads acknowledge the hardship without making the president the target.
+lede: President Donald Trump has spent the closing weeks of the midterm campaign insisting
+  the economy is booming on his watch, but a Wall Street Journal analysis finds his
+  message drawing more criticism than support almost everywhere else — across thousands
+  of TikTok videos, conservative podcast episodes, cable-news segments and television
+  ads running in the most competitive congressional races — though the podcast and
+  cable results varied by claim and channel. On the slice of TikTok the Journal reviewed,
+  videos disputing his economic claims outnumbered supportive ones by about 16 to
+  one. In the 54 most competitive House and Senate races, only one Republican advertisement
+  about the economy mentioned him.
+nut_graf: The findings land with Republicans defending a slim House majority and a
+  53-47 Senate edge, and they describe a mixed picture. A recent Journal poll found
+  half of white voters without a college degree said Trump's economic policies made
+  the economy worse, the conservative-media results varied by platform and by claim,
+  and Republican economy advertising in the closest races rarely mentioned the president.
+  Democratic ads center on affordability and gas prices, while some Republican ads
+  acknowledge the hardship without making the president the target.
 primary_entities:
 - Donald Trump
 - Wall Street Journal
@@ -50,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +168,44 @@ related_stories:
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7397
-- slug: 2026-10-23-republicans-test-whether-socialism-warnings-still-resonate-in-midterms
-  headline: Republicans test whether socialism warnings still resonate in midterms
+  strength: 0.7401
+- slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
+  headline: Trump draws generally smaller midterm crowds on a multistate rally week
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.706
+- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
+  headline: Trump holds seven rallies across seven states during midterm push
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7032
+- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
+  headline: Economic populism gains ground as both parties court midterm voters
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6968
+- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
+  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6891
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6863
+  strength: 0.6939
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7119
+  strength: 0.7124
 - slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
   headline: Republican candidates recalibrate on affordability ahead of November midterms
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7423
+  strength: 0.7424
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.719
-- slug: 2026-10-15-florida-s-nixon-tops-tiktok-favorability-among-democrats-schumer-least
-  headline: Florida's Nixon tops TikTok favorability among Democrats; Schumer least
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.688
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6919
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7404
-- slug: 2026-10-08-conservative-podcasts-match-left-leaning-creators-in-affordability-talk
-  headline: Conservative podcasts match left-leaning creators in 'affordability' talk
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6921
-- slug: 2026-10-03-trump-reiterates-5-000-voter-pledge-with-1929-depression-warning
-  headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7023
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6977
-- slug: 2026-09-30-trump-pairs-anti-communist-rhetoric-with-unorthodox-economic-moves
-  headline: Trump pairs anti-communist rhetoric with unorthodox economic moves
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6973
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7036
-- slug: 2026-09-23-trump-mentions-per-hour-on-conservative-podcasts-fall-nearly-70-from-2024-peak
-  headline: Trump mentions per hour on conservative podcasts fall nearly 70% from 2024 peak
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7116
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6911
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6956
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6888
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6888
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.738
+  strength: 0.7192
 ---
-
 ## Only one of 54 Republican economy ads in the closest races mentions Trump
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: Union Pacific, Norfolk Southern and CSX post higher profits amid rail shift
-secondary_headline: Intermodal traffic rose 12.6% amid high diesel prices and tight trucking capacity
+secondary_headline: Intermodal traffic rose 12.6% amid high diesel prices and tight
+  trucking capacity
 publish_date: '2026-10-23'
-lede: Union Pacific, Norfolk Southern and CSX reported higher quarterly revenues and profits as U.S. shippers shifted cargo from highways to rail, according to an Oct. 23 report from The Wall Street Journal. Intermodal containers and trailers transported by U.S. railroads rose 12.6% from a year earlier in the week ended Oct. 17, and each company reported higher third-quarter volume.
-nut_graf: The rail shift increased revenue and volume, but fuel surcharges did not prevent fuel expenses from weighing on margins. The proposed Union Pacific-Norfolk Southern combination also remains contested because federal regulators, customers and rivals argue it would raise freight prices and reduce competition.
+lede: Union Pacific, Norfolk Southern and CSX reported higher quarterly revenues and
+  profits as U.S. shippers shifted cargo from highways to rail, according to an Oct.
+  23 report from The Wall Street Journal. Intermodal containers and trailers transported
+  by U.S. railroads rose 12.6% from a year earlier in the week ended Oct. 17, and
+  each company reported higher third-quarter volume.
+nut_graf: The rail shift increased revenue and volume, but fuel surcharges did not
+  prevent fuel expenses from weighing on margins. The proposed Union Pacific-Norfolk
+  Southern combination also remains contested because federal regulators, customers
+  and rivals argue it would raise freight prices and reduce competition.
 primary_entities:
 - Union Pacific
 - Norfolk Southern
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +153,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
+  headline: Wall Street advances as SpaceX beats summer profit expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6654
 - slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
   headline: Transport firms adjust plans as fuel costs and demand shift
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6625
-- slug: 2026-10-22-logistics-briefs-track-freight-data-industrial-moves-and-corporate-results
-  headline: Logistics briefs track freight data, industrial moves and corporate results
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.646
+  strength: 0.6628
 - slug: 2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten
-  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
+  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies
+    tighten
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6586
+  strength: 0.659
 - slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
   headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.693
-- slug: 2026-10-13-la-long-beach-ports-log-busiest-ever-september-for-container-imports
-  headline: LA, Long Beach ports log busiest-ever September for container imports
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6419
-- slug: 2026-10-12-analysts-say-eu-hybrid-quota-limits-china-s-europe-push-only-at-the-margin
-  headline: Analysts say EU hybrid quota limits China's Europe push only at the margin
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6407
+  strength: 0.6927
 - slug: 2026-10-08-ftc-usda-open-joint-inquiry-into-farm-equipment-market-competition
   headline: FTC, USDA open joint inquiry into farm equipment market competition
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6599
+  strength: 0.6597
 - slug: 2026-09-24-peloton-weighs-moving-bike-treadmill-production-closer-to-us
   headline: Peloton weighs moving bike, treadmill production closer to US
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.678
+  strength: 0.6781
 - slug: 2026-09-17-us-rail-intermodal-hits-august-record-as-j-b-hunt-warns-on-profit
   headline: US rail intermodal hits August record as J.B. Hunt warns on profit
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7022
+  strength: 0.7023
 - slug: 2026-07-23-norfolk-southern-posts-11-revenue-increase-as-freight-demand-trends-improve
   headline: Norfolk Southern posts 11% revenue increase as freight demand trends improve
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.8209
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6393
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6346
-- slug: 2026-09-08-ubs-lifts-brent-forecast-to-95-as-middle-east-supply-risk-persists
-  headline: UBS lifts Brent forecast to $95 as Middle East supply risk persists
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6466
-- slug: 2026-07-22-union-pacific-gives-cn-midwest-rail-access-in-exchange-for-ending-ns-merger-oppo
-  headline: Union Pacific gives CN Midwest rail access in exchange for ending NS merger opposition
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7237
-- slug: 2026-04-22-union-pacific-reports-1-7b-q1-profit-presses-case-for-85b-norfolk-southern-deal
-  headline: Union Pacific reports $1.7B Q1 profit, presses case for $85B Norfolk Southern deal
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7854
-- slug: 2026-04-23-union-pacific-posts-1-7b-q1-profit-plans-renewed-norfolk-southern-merger-bid
-  headline: Union Pacific posts $1.7B Q1 profit, plans renewed Norfolk Southern merger bid
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7805
-- slug: 2026-06-22-rising-trucking-rates-push-u-s-companies-back-to-intermodal-rail
-  headline: Rising trucking rates push U.S. companies back to intermodal rail
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7422
-- slug: 2026-04-30-union-pacific-seeks-stb-approval-again-for-85b-norfolk-southern-deal
-  headline: Union Pacific seeks STB approval again for $85B Norfolk Southern deal
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7577
-- slug: 2026-05-01-union-pacific-ceo-confident-new-stb-filing-will-satisfy-regulators-in-ns-deal
-  headline: Union Pacific CEO confident new STB filing will satisfy regulators in NS deal
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7537
-- slug: 2026-01-22-csx-profit-falls-2-in-fourth-quarter-as-demand-weakens
-  headline: CSX profit falls 2% in fourth quarter as demand weakens
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7668
+  strength: 0.821
 ---
-
 ## Union Pacific, Norfolk Southern and CSX post higher profits amid rail shift
 
 **Subtype:** fact

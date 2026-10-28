@@ -1,9 +1,19 @@
 ---
-headline: Steele-John will not attend parliament next week as an independent investigation continues
-secondary_headline: Seven Greens members urged an inquiry before a parliamentary standards referral
+headline: Steele-John will not attend parliament next week as an independent investigation
+  continues
+secondary_headline: Seven Greens members urged an inquiry before a parliamentary standards
+  referral
 publish_date: '2026-10-24'
-lede: Western Australian Greens senator Jordon Steele-John has confirmed he will not attend parliament next week as allegations that he acted inappropriately toward women between 2017 and 2025 are investigated. Steele-John said he would focus on seeing an independent investigation through to its conclusion.
-nut_graf: Steele-John rejects the allegations, while the complaint signatories said an allegation does not establish fact or guilt. The signatories said a thorough investigation was in the party’s best interests and aligned with community and member expectations. The complaints are subject to a WA Greens-commissioned independent investigation and have been referred to the Independent Parliamentary Standards Commission.
+lede: Western Australian Greens senator Jordon Steele-John has confirmed he will not
+  attend parliament next week as allegations that he acted inappropriately toward
+  women between 2017 and 2025 are investigated. Steele-John said he would focus on
+  seeing an independent investigation through to its conclusion.
+nut_graf: Steele-John rejects the allegations, while the complaint signatories said
+  an allegation does not establish fact or guilt. The signatories said a thorough
+  investigation was in the party’s best interests and aligned with community and member
+  expectations. The complaints are subject to a WA Greens-commissioned independent
+  investigation and have been referred to the Independent Parliamentary Standards
+  Commission.
 primary_entities:
 - Jordon Steele-John
 - Australian Greens
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +151,19 @@ related_stories:
   headline: Greens weigh Steele-John's party expulsion and Senate estimates participation
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8409
+  strength: 0.8414
 - slug: 2026-10-15-greens-senator-steele-john-takes-party-room-leave-denies-inappropriate-comment-a
-  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment allegations
+  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment
+    allegations
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8594
+  strength: 0.8604
 - slug: 2026-10-16-greens-leader-shoebridge-denies-knowledge-of-steele-john-dossier
   headline: Greens leader Shoebridge denies knowledge of Steele-John dossier
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8223
-- slug: 2026-10-22-cleeland-calls-threats-sexualised-and-violent-five-weeks-from-victorian-election
-  headline: Cleeland calls threats sexualised and violent five weeks from Victorian election
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5744
-- slug: 2026-10-21-australian-mps-disclose-spending-on-home-and-office-security
-  headline: Australian MPs disclose spending on home and office security
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5778
-- slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5742
-- slug: 2026-10-20-jane-doe-says-cornell-president-s-response-left-her-feeling-disbelieved
-  headline: Jane Doe says Cornell president's response left her feeling disbelieved
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5751
-- slug: 2026-10-19-australian-mp-helen-haines-critical-after-vehicle-strike-in-wangaratta
-  headline: Australian MP Helen Haines critical after vehicle strike in Wangaratta
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5723
-- slug: 2026-10-08-sen-gallego-demands-accountability-after-arizona-candidate-alleges-rape
-  headline: Sen. Gallego demands accountability after Arizona candidate alleges rape
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5897
-- slug: 2026-10-09-greens-concede-holborn-and-st-pancras-byelection-citing-close-second-to-labour
-  headline: Greens concede Holborn and St Pancras byelection, citing close second to Labour
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.572
-- slug: 2026-10-07-brighton-council-considers-barring-greens-from-venue-over-zionism-motion
-  headline: Brighton council considers barring Greens from venue over Zionism motion
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5731
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5748
-- slug: 2026-09-25-caldwell-s-attorney-rejects-harassment-report-as-multi-layered-hearsay
-  headline: Caldwell's attorney rejects harassment report as 'multi-layered hearsay'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5975
-- slug: 2026-09-25-new-jersey-lt-gov-caldwell-resigns-after-harassment-ethics-probe
-  headline: New Jersey Lt. Gov. Caldwell resigns after harassment, ethics probe
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.594
-- slug: 2026-09-25-report-caldwell-told-staffer-you-young-women-are-looking-for-young-sperm
-  headline: 'Report: Caldwell told staffer ''you young women are looking for young sperm'''
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5723
-- slug: 2026-09-24-sherrill-seeks-caldwell-s-resignation-over-harassment-ethics-probe
-  headline: Sherrill seeks Caldwell's resignation over harassment, ethics probe
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.574
-- slug: 2026-09-04-fetterman-cancels-meetings-skips-hearings-report-finds
-  headline: Fetterman cancels meetings, skips hearings, report finds
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6022
-- slug: 2026-07-07-platner-faces-mounting-calls-to-withdraw-from-maine-senate-race-after-assault-al
-  headline: Platner faces mounting calls to withdraw from Maine Senate race after assault allegation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5728
-- slug: 2026-06-29-senate-ethics-panel-dismisses-misconduct-complaint-against-ruben-gallego
-  headline: Senate Ethics panel dismisses misconduct complaint against Ruben Gallego
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5746
-- slug: 2026-04-14-rep-eric-swalwell-to-resign-after-sexual-misconduct-allegations
-  headline: Rep. Eric Swalwell to resign after sexual misconduct allegations
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6172
+  strength: 0.8226
 ---
-
 ## Steele-John will not attend parliament next week as an independent investigation continues
 
 **Subtype:** fact

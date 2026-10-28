@@ -1,9 +1,27 @@
 ---
 headline: Fox News poll finds government corruption outranks inflation among voters
-secondary_headline: Democrats spent $182 million this year highlighting corruption in House and Senate races
+secondary_headline: Democrats spent $182 million this year highlighting corruption
+  in House and Senate races
 publish_date: '2026-10-24'
-lede: A Fox News poll found that voters ranked government corruption above inflation and gasoline prices as their top concern ahead of the November midterms, with 88% of voters saying they were concerned about corruption in government. President Trump, walking out of the White House on Thursday after a question about longtime adviser Corey Lewandowski, warned political allies that dishonest officials would need to be prosecuted. The Wall Street Journal had earlier reported that Lewandowski faced a Justice Department inquiry into allegations that he profited from his top position at the Department of Homeland Security. The findings came as Democrats spent $182 million this year highlighting corruption in House and Senate races, more than the previous four election cycles combined.
-nut_graf: Democrats are seeking to contrast the high costs everyday Americans are experiencing with allegations of grifting by the president, his family and his allies, while Republican campaign operatives worried that alleged self-dealing could make an already challenging midterm election more difficult. Longtime Trump pollster John McLaughlin said corruption allegations against Republicans were gaining traction with voters who were already anti-Trump, but he doubted the issue was resonating with voters who may be undecided because those voters were voting on their pocketbooks. Political strategists said Republican candidates’ prospects were closely tied to voters’ views of Trump, even though he is not on the November ballot.
+lede: A Fox News poll found that voters ranked government corruption above inflation
+  and gasoline prices as their top concern ahead of the November midterms, with 88%
+  of voters saying they were concerned about corruption in government. President Trump,
+  walking out of the White House on Thursday after a question about longtime adviser
+  Corey Lewandowski, warned political allies that dishonest officials would need to
+  be prosecuted. The Wall Street Journal had earlier reported that Lewandowski faced
+  a Justice Department inquiry into allegations that he profited from his top position
+  at the Department of Homeland Security. The findings came as Democrats spent $182
+  million this year highlighting corruption in House and Senate races, more than the
+  previous four election cycles combined.
+nut_graf: Democrats are seeking to contrast the high costs everyday Americans are
+  experiencing with allegations of grifting by the president, his family and his allies,
+  while Republican campaign operatives worried that alleged self-dealing could make
+  an already challenging midterm election more difficult. Longtime Trump pollster
+  John McLaughlin said corruption allegations against Republicans were gaining traction
+  with voters who were already anti-Trump, but he doubted the issue was resonating
+  with voters who may be undecided because those voters were voting on their pocketbooks.
+  Political strategists said Republican candidates’ prospects were closely tied to
+  voters’ views of Trump, even though he is not on the November ballot.
 primary_entities:
 - Donald Trump
 - Fox News
@@ -44,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +161,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6984
 - slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
   headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7023
+  strength: 0.7024
 - slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7024
+  strength: 0.7027
 - slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
   headline: New York Times/Siena survey records 36% approval for Trump
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6859
+  strength: 0.6872
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7158
+  strength: 0.716
 - slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
   headline: Trump says he has spent more than $300 million on the midterm elections
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.682
+  strength: 0.6829
 - slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
   headline: Democrats elevate Trump corruption claims as midterm campaign issue
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7473
+  strength: 0.7475
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6773
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7047
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.688
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6834
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6858
-- slug: 2026-10-07-paxton-tells-donors-iran-war-and-fuel-prices-are-republicans-biggest-problem
-  headline: Paxton tells donors Iran war and fuel prices are Republicans' biggest problem
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6772
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6763
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6784
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6939
-- slug: 2026-09-16-trump-s-5-000-voter-pledge-draws-fiscal-criticism-from-republicans
-  headline: Trump's $5,000 voter pledge draws fiscal criticism from Republicans
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6804
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7265
-- slug: 2026-08-16-quinnipiac-poll-puts-trump-approval-at-32-as-leavitt-plans-to-exit
-  headline: Quinnipiac poll puts Trump approval at 32% as Leavitt plans to exit
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6888
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7166
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.7015
+  strength: 0.6776
 ---
-
 ## Fox News poll finds government corruption outranks inflation among voters
 
 **Subtype:** fact

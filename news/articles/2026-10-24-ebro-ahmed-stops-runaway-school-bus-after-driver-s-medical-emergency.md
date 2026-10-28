@@ -2,8 +2,16 @@
 headline: Ebro Ahmed stops runaway school bus after driver's medical emergency
 secondary_headline: Saint Paul district said another bus brought 19 students home
 publish_date: '2026-10-24'
-lede: Ebro Ahmed, 27, said he pulled the emergency brake on a runaway school bus in Saint Paul, Minnesota, after the driver had a medical emergency. Ahmed said he noticed the bus’s open door and foam coming from the driver’s mouth before sprinting to the vehicle and leaping through its doorway. Saint Paul’s public school district confirmed the emergency, said paramedics responded and said another bus brought the 19 students home.
-nut_graf: Ahmed’s account describes how he stopped the bus, and the school district confirmed the medical emergency and response. Ahmed said no injuries occurred, the driver was resting at home after a hospital discharge, and another bus brought the 19 students home.
+lede: Ebro Ahmed, 27, said he pulled the emergency brake on a runaway school bus in
+  Saint Paul, Minnesota, after the driver had a medical emergency. Ahmed said he noticed
+  the bus’s open door and foam coming from the driver’s mouth before sprinting to
+  the vehicle and leaping through its doorway. Saint Paul’s public school district
+  confirmed the emergency, said paramedics responded and said another bus brought
+  the 19 students home.
+nut_graf: Ahmed’s account describes how he stopped the bus, and the school district
+  confirmed the medical emergency and response. Ahmed said no injuries occurred, the
+  driver was resting at home after a hospital discharge, and another bus brought the
+  19 students home.
 primary_entities:
 - Ebro Ahmed
 - Saint Paul
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +146,8 @@ cross_article_links:
   strength: 0.5296
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-oregon-father-who-shot-school-attacker-describes-the-children-he-could-not-save
-  headline: Oregon father who shot school attacker describes the children he could not save
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5809
-- slug: 2026-10-23-kaylub-giamanco-calls-for-school-resource-officers-school-safety-funding
-  headline: Kaylub Giamanco calls for school resource officers, school safety funding
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5783
-- slug: 2026-10-22-becky-drury-says-she-was-shot-while-trying-to-shut-a-classroom-door
-  headline: Becky Drury says she was shot while trying to shut a classroom door
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5548
-- slug: 2026-10-19-2018-post-reportedly-shows-oregon-bystander-in-iraq-veteran-shooting-drills
-  headline: 2018 post reportedly shows Oregon bystander in Iraq-veteran shooting drills
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.549
-- slug: 2026-10-16-bend-schools-to-close-friday-as-governor-calls-bystander-heroic
-  headline: Bend schools to close Friday as governor calls bystander 'heroic'
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5516
-- slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
-  headline: Youth-led protests over French schools draw hundreds of thousands
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5556
-- slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
-  headline: French police fire tear gas as 256,000 rally nationwide for school funding
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5585
-- slug: 2026-09-09-police-probe-possible-suicide-of-haitian-student-wearing-ice-monitor
-  headline: Police probe possible suicide of Haitian student wearing ICE monitor
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5747
-- slug: 2026-09-02-police-evacuate-westwood-elementary-in-virginia-after-unspecified-emergency
-  headline: Police evacuate Westwood Elementary in Virginia after unspecified emergency
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5565
-- slug: 2026-04-26-mississippi-students-stop-bus-after-driver-blacks-out-on-highway
-  headline: Mississippi students stop bus after driver blacks out on highway
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.633
-- slug: 2026-07-09-mass-casualty-event-declared-after-bus-crashes-into-building-in-pikesville
-  headline: Mass casualty event declared after bus crashes into building in Pikesville
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5571
-- slug: 2026-06-30-child-found-dead-in-vehicle-outside-plantation-preschool
-  headline: Child found dead in vehicle outside Plantation preschool
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5534
-- slug: 2026-01-16-disabled-u-s-citizen-dragged-from-car-by-ice-agents-in-minneapolis-hospitalized
-  headline: Disabled U.S. citizen dragged from car by ICE agents in Minneapolis, hospitalized
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6044
-- slug: 2026-01-17-tear-gas-floods-minneapolis-family-s-suv-infant-and-two-children-hospitalized
-  headline: Tear gas floods Minneapolis family's SUV; infant and two children hospitalized
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.5854
-- slug: 2026-02-06-minnesota-immigration-crackdown-puts-school-attendance-out-of-reach
-  headline: Minnesota immigration crackdown puts school attendance out of reach
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.5755
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5535
-- slug: 2026-02-10-small-plane-makes-emergency-landing-on-busy-georgia-road-strikes-3-vehicles
-  headline: Small plane makes emergency landing on busy Georgia road, strikes 3 vehicles
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.5689
-- slug: 2026-04-24-ntsb-urges-alcohol-detectors-in-new-school-buses-after-west-virginia-crash
-  headline: NTSB urges alcohol detectors in new school buses after West Virginia crash
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5528
-- slug: 2026-01-07-uvalde-families-sob-through-911-calls-as-officer-s-trial-opens-on-police-respons
-  headline: Uvalde families sob through 911 calls as officer's trial opens on police response
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.5674
-- slug: 2026-04-17-small-aircraft-forces-ups-cargo-plane-to-abort-landing-in-louisville
-  headline: Small aircraft forces UPS cargo plane to abort landing in Louisville
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.549
+related_stories: []
 ---
-
 ## Ebro Ahmed stops runaway school bus after driver's medical emergency
 
 **Subtype:** fact

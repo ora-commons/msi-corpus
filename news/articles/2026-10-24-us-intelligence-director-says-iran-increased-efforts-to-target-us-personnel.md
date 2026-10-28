@@ -1,9 +1,18 @@
 ---
 headline: US intelligence director says Iran increased efforts to target US personnel
-secondary_headline: State Department ordered non-emergency embassy staff out of Saudi Arabia this week
+secondary_headline: State Department ordered non-emergency embassy staff out of Saudi
+  Arabia this week
 publish_date: '2026-10-24'
-lede: US national intelligence director Jay Clayton warned in a memo seen by the BBC that Iran has substantially increased efforts to target US personnel in the Middle East and other areas. The unclassified memo, sent to Secretary of State Marco Rubio on Friday, said the lethal plotting efforts against US citizens had reached advanced stages.
-nut_graf: 'The warning links two pressures on US personnel in the region: Houthi attacks on Saudi airports, part of the broader missile and drone attacks against Saudi Arabia, and what the memo describes as Iranian plotting against US citizens. A US official said both threats are informing embassy staffing decisions, including the ordered departure of non-emergency staff from Saudi Arabia.'
+lede: US national intelligence director Jay Clayton warned in a memo seen by the BBC
+  that Iran has substantially increased efforts to target US personnel in the Middle
+  East and other areas. The unclassified memo, sent to Secretary of State Marco Rubio
+  on Friday, said the lethal plotting efforts against US citizens had reached advanced
+  stages.
+nut_graf: 'The warning links two pressures on US personnel in the region: Houthi attacks
+  on Saudi airports, part of the broader missile and drone attacks against Saudi Arabia,
+  and what the memo describes as Iranian plotting against US citizens. A US official
+  said both threats are informing embassy staffing decisions, including the ordered
+  departure of non-emergency staff from Saudi Arabia.'
 primary_entities:
 - Jay Clayton
 - Iran
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +149,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-state-department-cuts-staff-at-four-embassies-after-iran-threat-memo
+  headline: State Department cuts staff at four embassies after Iran threat memo
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7928
+- slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
+  headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7701
 - slug: 2026-10-21-state-department-orders-partial-drawdown-at-riyadh-embassy
   headline: State Department orders partial drawdown at Riyadh embassy
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.759
+  strength: 0.7585
 - slug: 2026-10-22-dammam-airport-attack-and-drone-debris-at-saudi-oil-facility-kill-three
   headline: Dammam airport attack and drone debris at Saudi oil facility kill three
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.739
+  strength: 0.7381
 - slug: 2026-10-23-iran-threatens-gulf-targets-as-u-s-weighs-renewed-strikes
   headline: Iran threatens Gulf targets as U.S. weighs renewed strikes
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7153
+  strength: 0.7147
 - slug: 2026-10-22-saudi-authorities-blame-houthi-militants-for-dammam-airport-attack
   headline: Saudi authorities blame Houthi militants for Dammam airport attack
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7215
+  strength: 0.7205
 - slug: 2026-10-22-saudi-officials-report-two-deaths-in-dammam-airport-strike
   headline: Saudi officials report two deaths in Dammam airport strike
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7075
-- slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
-  headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.698
-- slug: 2026-10-13-iran-fortifies-nuclear-sites-and-warns-gulf-allies
-  headline: Iran Fortifies Nuclear Sites and Warns Gulf Allies
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7446
+  strength: 0.7067
 - slug: 2026-10-19-trump-resists-saudi-crown-prince-s-request-for-houthi-airstrikes
   headline: Trump resists Saudi crown prince's request for Houthi airstrikes
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7066
-- slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
-  headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7347
-- slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
-  headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7305
-- slug: 2026-10-12-malik-us-held-houthi-meeting-before-refusing-to-extend-saudi-military-aid
-  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military aid'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7002
-- slug: 2026-10-10-houthi-strike-on-riyadh-airport-kills-at-least-12-injures-more-than-300
-  headline: Houthi strike on Riyadh airport kills at least 12, injures more than 300
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7069
-- slug: 2026-10-09-houthi-attacks-on-riyadh-airport-kill-three-saudis
-  headline: Houthi attacks on Riyadh airport kill three Saudis
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7038
-- slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
-  headline: Iran threatens US bases as Trump weighs renewed bombing campaign
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7685
-- slug: 2026-09-21-houthis-attack-riyadh-saudi-oil-hub-iran-sets-terms-for-us-talks
-  headline: Houthis attack Riyadh, Saudi oil hub; Iran sets terms for US talks
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.718
-- slug: 2026-09-21-houthis-push-for-red-sea-heights-as-trump-cancels-yemen-airstrikes
-  headline: Houthis push for Red Sea heights as Trump cancels Yemen airstrikes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7009
-- slug: 2026-07-24-u-s-strikes-iran-for-two-weeks-mobilizes-forces-for-larger-operation
-  headline: U.S. strikes Iran for two weeks, mobilizes forces for larger operation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7382
-- slug: 2026-01-29-middle-east-tensions-rise-as-iran-currency-sinks-amid-possible-u-s-strike
-  headline: Middle East tensions rise as Iran currency sinks amid possible U.S. strike
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7229
-- slug: 2026-03-29-houthi-strikes-widen-iran-u-s--israel-war-as-marines-deploy-to-region
-  headline: Houthi strikes widen Iran-U.S.-Israel war as Marines deploy to region
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7142
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7075
+  strength: 0.7063
 ---
-
 ## US intelligence director says Iran increased efforts to target US personnel
 
 **Subtype:** fact

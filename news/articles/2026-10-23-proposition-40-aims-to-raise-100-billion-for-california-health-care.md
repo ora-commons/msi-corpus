@@ -1,9 +1,19 @@
 ---
 headline: Proposition 40 aims to raise $100 billion for California health care
-secondary_headline: Retroactive eligibility uses $1 billion net worth on January 1, 2026
+secondary_headline: Retroactive eligibility uses $1 billion net worth on January 1,
+  2026
 publish_date: '2026-10-23'
-lede: Proposition 40 would aim to raise $100 billion (£75 billion) to make up for federal funding cuts to California's health-care system. The one-time 5% tax on net worth would apply retroactively to people with net worth of at least $1 billion who resided in California on January 1, 2026. BBC News cited Oprah Winfrey, Mark Zuckerberg, Kim Kardashian and George Lucas among California's mega-wealthy residents, while supporters say the measure would help fill gaps in the state budget.
-nut_graf: A September poll by the Berkeley Institute of Governmental Studies and the Los Angeles Times found 45% of likely voters in favor, 42% opposed and 13% undecided, so the proposal had not clearly won a majority. The measure requires approval from a majority of residents, and Governor Gavin Newsom opposes it because he is concerned wealthy departures could cost California income-tax revenue.
+lede: Proposition 40 would aim to raise $100 billion (£75 billion) to make up for
+  federal funding cuts to California's health-care system. The one-time 5% tax on
+  net worth would apply retroactively to people with net worth of at least $1 billion
+  who resided in California on January 1, 2026. BBC News cited Oprah Winfrey, Mark
+  Zuckerberg, Kim Kardashian and George Lucas among California's mega-wealthy residents,
+  while supporters say the measure would help fill gaps in the state budget.
+nut_graf: A September poll by the Berkeley Institute of Governmental Studies and the
+  Los Angeles Times found 45% of likely voters in favor, 42% opposed and 13% undecided,
+  so the proposal had not clearly won a majority. The measure requires approval from
+  a majority of residents, and Governor Gavin Newsom opposes it because he is concerned
+  wealthy departures could cost California income-tax revenue.
 primary_entities:
 - California
 - Proposition 40
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +153,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7904
+  strength: 0.7907
+- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7734
 - slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
   headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8011
+  strength: 0.8016
+- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
+  headline: California’s billionaire tax divides Democrats ahead of November vote
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7108
 - slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
   headline: Zuckerberg commits to California stay for eight years under new Meta deal
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7073
+  strength: 0.7071
 - slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
   headline: Newsom backs Prop. 42 barring new California wealth taxes
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7673
-- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
-  headline: Meta reports 37% profit drop and 15% headcount cut
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6572
+  strength: 0.7678
 - slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
   headline: Washington millionaire tax faces November repeal vote
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.686
+  strength: 0.6857
 - slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
   headline: California Democrats endorse one-time 5% tax on billionaires
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.793
-- slug: 2026-09-10-trump-promises-500-obamacare-refunds-to-nearly-1-million-enrollees
-  headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6576
-- slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
-  headline: California AI Investment Draws $366 Billion, More Than Triple Other States
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6748
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.8
-- slug: 2026-08-23-becerra-faces-projected-doubling-of-uninsured-californians-by-2030
-  headline: Becerra faces projected doubling of uninsured Californians by 2030
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6657
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7633
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7517
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.75
-- slug: 2026-01-14-proposed-billionaire-tax-in-california-sparks-silicon-valley-uproar
-  headline: Proposed billionaire tax in California sparks Silicon Valley uproar
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7806
-- slug: 2026-02-19-california-proposal-to-tax-billionaires-pits-newsom-against-sanders
-  headline: California proposal to tax billionaires pits Newsom against Sanders
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7599
-- slug: 2026-05-15-california-gov-gavin-newsom-unveils-350b-revised-budget-without-deficit
-  headline: California Gov. Gavin Newsom unveils $350B revised budget without deficit
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.684
-- slug: 2026-01-15-federal-medi-cal-cuts-force-california-to-weigh-tax-increases-or-coverage-losses
-  headline: Federal Medi-Cal cuts force California to weigh tax increases or coverage losses
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7068
-- slug: 2026-05-15-newsom-s-final-350b-california-budget-avoids-deficit-adds-software-tax
-  headline: Newsom's Final $350B California Budget Avoids Deficit, Adds Software Tax
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6757
-- slug: 2026-03-12-blue-states-consider-tax-on-millionaires-to-help-fund-vital-services
-  headline: Blue states consider tax on millionaires to help fund vital services
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6725
+  strength: 0.7933
 ---
-
 ## Proposition 40 aims to raise $100 billion for California health care
 
 **Subtype:** fact

@@ -2,8 +2,20 @@
 headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
 secondary_headline: Vance says low-income families are often the victims of SNAP fraud
 publish_date: '2026-10-23'
-lede: The Trump administration announced an overhaul of the nation's food stamp payment system on Friday, proposing that all 50 states replace magnetic-stripe SNAP benefit cards with chip-enabled cards and tap-to-pay technology. The USDA's Food and Nutrition Administration issued the proposed rule a week after ProPublica published an investigation showing that $470 million in Supplemental Nutrition Assistance Program benefits were stolen from recipients last year, in large part because the cards are technologically outdated.
-nut_graf: The rule would close a gap that more than 40 states have left open, requiring a national switch to card technology that credit and debit cards have used for more than a decade. The estimated federal and state cost is $283 million, against more than $600 million in SNAP and other benefits stolen from existing cards every year. Current and former Food and Nutrition Administration officials and state program administrators told ProPublica they worry the mandate will arrive without the federal funding states need to meet the two-year deadline.
+lede: The Trump administration announced an overhaul of the nation's food stamp payment
+  system on Friday, proposing that all 50 states replace magnetic-stripe SNAP benefit
+  cards with chip-enabled cards and tap-to-pay technology. The USDA's Food and Nutrition
+  Administration issued the proposed rule a week after ProPublica published an investigation
+  showing that $470 million in Supplemental Nutrition Assistance Program benefits
+  were stolen from recipients last year, in large part because the cards are technologically
+  outdated.
+nut_graf: The rule would close a gap that more than 40 states have left open, requiring
+  a national switch to card technology that credit and debit cards have used for more
+  than a decade. The estimated federal and state cost is $283 million, against more
+  than $600 million in SNAP and other benefits stolen from existing cards every year.
+  Current and former Food and Nutrition Administration officials and state program
+  administrators told ProPublica they worry the mandate will arrive without the federal
+  funding states need to meet the two-year deadline.
 primary_entities:
 - U.S. Department of Agriculture
 - Food and Nutrition Administration
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +155,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-usda-proposes-requiring-chip-enabled-snap-cards-and-tap-to-pay-terminals
+  headline: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.9013
 - slug: 2026-10-14-federal-funding-cuts-slow-states-shift-to-chip-enabled-ebt-cards
   headline: Federal funding cuts slow states' shift to chip-enabled EBT cards
   publish_date: '2026-10-14'
   relation: related
   strength: 0.8071
+- slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
+  headline: SNAP enrollment drops 13% after Trump administration work requirements
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7191
 - slug: 2026-10-20-trump-plans-25-million-fraud-tip-program-paying-up-to-30-000
   headline: Trump plans $25 million fraud-tip program paying up to $30,000
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6776
+  strength: 0.6777
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7328
+  strength: 0.7323
 - slug: 2026-09-20-romanian-crime-rings-exploit-chip-less-u-s-welfare-cards-at-scale
   headline: Romanian crime rings exploit chip-less U.S. welfare cards at scale
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7557
-- slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
-  headline: CDC reports US adults' produce consumption rises with income
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6744
+  strength: 0.7563
 - slug: 2026-07-25-more-than-1-million-children-lose-snap-benefits-after-trump-bill
   headline: More than 1 million children lose SNAP benefits after Trump bill
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7148
+  strength: 0.7145
 - slug: 2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states
   headline: Trump administration proposes shifting Head Start rules to states
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6849
-- slug: 2026-07-07-alaska-snap-error-rate-tops-nation-for-fourth-straight-year-at-23
-  headline: Alaska SNAP error rate tops nation for fourth straight year at 23%
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7017
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7228
-- slug: 2026-06-23-judge-blocks-snap-restrictions-on-soft-drinks-candy
-  headline: Judge blocks SNAP restrictions on soft drinks, candy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6902
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6847
-- slug: 2026-02-16-judge-tentatively-blocks-trump-administration-from-accessing-snap-data
-  headline: Judge tentatively blocks Trump administration from accessing SNAP data
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7199
-- slug: 2026-01-07-nevada-seeks-snap-waiver-to-ban-sugary-drinks-and-candy-for-food-aid-recipients
-  headline: Nevada seeks SNAP waiver to ban sugary drinks and candy for food aid recipients
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7051
-- slug: 2026-01-03-trump-officials-seek-to-bar-junk-food-from-snap-but-rules-are-hard
-  headline: Trump officials seek to bar junk food from SNAP, but rules are hard
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7017
-- slug: 2026-01-01-trump-officials-eye-limits-on-sugary-drinks-and-candy-in-snap-benefits
-  headline: Trump officials eye limits on sugary drinks and candy in SNAP benefits
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6985
-- slug: 2026-01-03-snap-bans-soda-and-candy-in-5-states-starting-jan-1
-  headline: SNAP bans soda and candy in 5 states starting Jan. 1
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6966
-- slug: 2026-01-08-states-weigh-medicaid-snap-and-taxes-after-trump-s-sweeping-law
-  headline: States weigh Medicaid, SNAP and taxes after Trump’s sweeping law
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6941
-- slug: 2026-01-21-california-ebt-theft-drops-80-as-trump-pressures-states-on-fraud
-  headline: California EBT theft drops 80% as Trump pressures states on fraud
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6909
-- slug: 2026-01-05-nebraska-to-ban-soda-energy-drinks-from-snap-under-first-usda-waiver
-  headline: Nebraska to ban soda, energy drinks from SNAP under first USDA waiver
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6907
-- slug: 2026-01-05-snap-bans-on-soda-candy-and-some-foods-start-jan-1-in-five-states
-  headline: SNAP bans on soda, candy and some foods start Jan. 1 in five states
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6897
+  strength: 0.6848
 ---
-
 ## USDA proposes requiring chip cards for SNAP benefits in all 50 states
 
 **Subtype:** fact

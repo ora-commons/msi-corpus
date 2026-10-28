@@ -2,8 +2,18 @@
 headline: GAO finds some Pentagon AI projects miss responsible-use tenets
 secondary_headline: Six of 10 officials reported risks in Pentagon AI projects
 publish_date: '2026-10-23'
-lede: A U.S. Government Accountability Office report published Oct. 14 found that some Pentagon weapons and tools using artificial intelligence did not closely follow the department's responsible-AI tenets. Six of 10 officials surveyed said their teams had identified risks with using the projects in an operational environment, while four said requirements for their projects were not aligned with the tenets. The Pentagon is building more than 300 AI-enabled projects and has described itself as an 'AI-first' warfighting force.
-nut_graf: The findings document gaps between the Pentagon's 2021 responsible-AI principles and practices in some projects, uncertainty about monitoring after deployment and an understaffed office that helps personnel understand the guidelines. The report comes as Defense Secretary Pete Hegseth argues that slow oversight poses greater U.S. national-security risks than imperfect alignment.
+lede: A U.S. Government Accountability Office report published Oct. 14 found that
+  some Pentagon weapons and tools using artificial intelligence did not closely follow
+  the department's responsible-AI tenets. Six of 10 officials surveyed said their
+  teams had identified risks with using the projects in an operational environment,
+  while four said requirements for their projects were not aligned with the tenets.
+  The Pentagon is building more than 300 AI-enabled projects and has described itself
+  as an 'AI-first' warfighting force.
+nut_graf: The findings document gaps between the Pentagon's 2021 responsible-AI principles
+  and practices in some projects, uncertainty about monitoring after deployment and
+  an understaffed office that helps personnel understand the guidelines. The report
+  comes as Defense Secretary Pete Hegseth argues that slow oversight poses greater
+  U.S. national-security risks than imperfect alignment.
 primary_entities:
 - U.S. Government Accountability Office
 - Pentagon
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,36 +146,46 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-gao-finds-some-pentagon-ai-projects-miss-responsible-use-tenets.png
-  alt: 'Illustration accompanying article: GAO finds some Pentagon AI projects miss responsible-use tenets'
+  alt: 'Illustration accompanying article: GAO finds some Pentagon AI projects miss
+    responsible-use tenets'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-20-unidir-to-launch-first-international-forum-on-military-ai
+  headline: UNIDIR to launch first international forum on military AI
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6859
 - slug: 2026-10-21-liguori-and-kirsch-resign-from-google-deepmind-over-military-ai-deployments
   headline: Liguori and Kirsch resign from Google DeepMind over military AI deployments
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6787
+  strength: 0.6783
 - slug: 2026-10-14-tax-court-warns-lawyers-ai-fabricated-citations-risk-sanctions
   headline: Tax Court warns lawyers AI-fabricated citations risk sanctions
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6722
+  strength: 0.6712
 - slug: 2026-10-03-white-house-forms-ai-task-force-names-dni-s-clayton-as-chair
   headline: White House forms AI task force, names DNI's Clayton as chair
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.696
+  strength: 0.6958
 - slug: 2026-10-06-global-risk-advisory-council-adds-first-advisory-names-ai-top-brand-risk
   headline: Global Risk Advisory Council adds first advisory, names AI top brand risk
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6792
+  strength: 0.679
 - slug: 2026-10-01-us-military-nearly-intercepted-chinese-ship-on-erroneous-ai-report-cnn-says
-  headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN says
+  headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN
+    says
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6843
@@ -172,81 +193,15 @@ related_stories:
   headline: Senate staff restricted to basic AI tools as Congress debates regulation
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6897
+  strength: 0.6879
 - slug: 2026-09-25-appeals-court-upholds-pentagon-s-supply-chain-risk-label-on-anthropic
   headline: Appeals court upholds Pentagon's supply-chain risk label on Anthropic
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6756
-- slug: 2026-09-25-columnist-argues-ai-s-unpredictability-defies-historical-regulatory-models
-  headline: Columnist argues AI's unpredictability defies historical regulatory models
-  publish_date: '2026-09-25'
-  relation: related
   strength: 0.6748
-- slug: 2026-09-09-pentagon-ai-chief-tells-summit-us-is-working-with-allies-to-avoid-past-mistakes
-  headline: Pentagon AI chief tells summit US is working with allies to avoid past mistakes
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7181
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6734
-- slug: 2026-06-19-either-robots-kill-us-or-russians-ai-warfare-hits-point-of-no-return
-  headline: '‘Either robots kill us or Russians’: AI warfare hits point of no return'
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6958
-- slug: 2026-06-01-military-leaders-urge-caution-on-battlefield-ai-as-pentagon-pushes-adoption
-  headline: Military leaders urge caution on battlefield AI as Pentagon pushes adoption
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7074
-- slug: 2026-05-02-pentagon-signs-deals-with-7-firms-to-bring-ai-into-classified-networks
-  headline: Pentagon signs deals with 7 firms to bring AI into classified networks
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7221
-- slug: 2026-07-02-court-filings-detail-anthropic-pentagon-ai-negotiation-breakdown
-  headline: Court filings detail Anthropic–Pentagon AI negotiation breakdown
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6775
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6828
-- slug: 2026-05-19-judges-appear-split-as-pentagon-fights-anthropic-over-ai-security-risk
-  headline: Judges appear split as Pentagon fights Anthropic over AI security risk
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6823
-- slug: 2026-02-26-hegseth-pressures-anthropic-to-expand-military-access-to-ai-tech
-  headline: Hegseth pressures Anthropic to expand military access to AI tech
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.703
-- slug: 2026-04-17-lawmakers-air-ai-angst-and-safety-fears-at-house-roundtable
-  headline: Lawmakers air AI ‘angst’ and safety fears at House roundtable
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6921
-- slug: 2026-05-20-judges-appear-split-as-pentagon-battles-anthropic-over-ai-security-label
-  headline: Judges appear split as Pentagon battles Anthropic over AI security label
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6735
-- slug: 2026-05-22-trump-s-health-department-expands-ai-use-to-police-healthcare-fraud
-  headline: Trump’s health department expands AI use to police healthcare fraud
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6715
 analyses:
-- '2026-10-23-gao-review-ties-pentagon-ai-tenet-gap-to-understaffed-office'
+- 2026-10-23-gao-review-ties-pentagon-ai-tenet-gap-to-understaffed-office
 ---
-
 ## GAO finds some Pentagon AI projects miss responsible-use tenets
 
 **Subtype:** fact

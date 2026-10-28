@@ -1,9 +1,19 @@
 ---
-headline: Indiana police officer charged with misuse of Flock camera searches of his wife
+headline: Indiana police officer charged with misuse of Flock camera searches of his
+  wife
 secondary_headline: Internal review found searches unrelated to any police investigation
 publish_date: '2026-10-23'
-lede: An Indiana police officer has been arrested on allegations that he misused Flock camera searches hundreds of times in a case involving his wife and a previous acquaintance of hers. Justin Craig, an officer with the Georgetown police department, was charged with official misconduct and two counts of fraud, according to documents reported by WLKY. The searches began in January and continued up to July.
-nut_graf: The arrest places a documented case of police misuse inside a license plate reader network that provides cameras and software to more than 4,800 law enforcement agencies, amid growing bipartisan backlash over alleged privacy violations and data-sharing. It also follows Flock's CEO announcing in August that the company would require agencies to switch on features that can audit the way individual officers use its tracking capabilities.
+lede: An Indiana police officer has been arrested on allegations that he misused Flock
+  camera searches hundreds of times in a case involving his wife and a previous acquaintance
+  of hers. Justin Craig, an officer with the Georgetown police department, was charged
+  with official misconduct and two counts of fraud, according to documents reported
+  by WLKY. The searches began in January and continued up to July.
+nut_graf: The arrest places a documented case of police misuse inside a license plate
+  reader network that provides cameras and software to more than 4,800 law enforcement
+  agencies, amid growing bipartisan backlash over alleged privacy violations and data-sharing.
+  It also follows Flock's CEO announcing in August that the company would require
+  agencies to switch on features that can audit the way individual officers use its
+  tracking capabilities.
 primary_entities:
 - Justin Craig
 - Flock
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,110 +155,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-five-charlotte-officers-resign-sixth-suspended-over-alleged-racist-texts
-  headline: Five Charlotte officers resign, sixth suspended over alleged racist texts
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6376
-- slug: 2026-10-09-flock-safety-to-cut-270-jobs-after-voluntary-buyout
-  headline: Flock Safety to cut 270 jobs after voluntary buyout
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6414
 - slug: 2026-09-23-flock-safety-adds-case-number-requirement-for-license-plate-database-searches
   headline: Flock Safety adds case-number requirement for license-plate database searches
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6872
+  strength: 0.6867
 - slug: 2026-09-13-san-jose-fires-officer-for-sharing-flock-data-with-domestic-abuse-suspect
   headline: San Jose fires officer for sharing Flock data with domestic abuse suspect
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7113
-- slug: 2026-10-02-ban-flock-act-would-bar-federal-agencies-from-using-license-plate-readers
-  headline: Ban Flock Act would bar federal agencies from using license plate readers
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.629
+  strength: 0.7121
 - slug: 2026-09-25-steube-bill-would-require-federal-warrants-for-flock-camera-data
   headline: Steube bill would require federal warrants for Flock camera data
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6567
+  strength: 0.656
 - slug: 2026-09-01-bbc-verify-examines-flock-s-us-license-plate-reader-network
   headline: BBC Verify examines Flock's US license plate reader network
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7044
+  strength: 0.705
 - slug: 2026-08-21-flock-cameras-vandalized-across-at-least-36-states-as-opposition-grows
   headline: Flock cameras vandalized across at least 36 states as opposition grows
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7126
-- slug: 2026-09-17-more-than-100-blue-and-red-towns-pause-or-end-flock-camera-deals-this-year
-  headline: More Than 100 Blue and Red Towns Pause or End Flock Camera Deals This Year
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6265
-- slug: 2026-09-18-fargo-police-sued-for-10m-over-false-arrest-from-ai-facial-recognition
-  headline: Fargo police sued for $10m over false arrest from AI facial recognition
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6133
-- slug: 2026-09-18-texas-halts-new-flock-camera-permits-along-state-roads
-  headline: Texas halts new Flock camera permits along state roads
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6118
+  strength: 0.7122
 - slug: 2026-08-13-flock-safety-to-revise-license-plate-reader-platform-amid-agency-cancellations
   headline: Flock Safety to revise license-plate reader platform amid agency cancellations
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.685
-- slug: 2026-09-04-candidates-from-both-parties-target-flock-cameras-in-midterm-races
-  headline: Candidates from both parties target Flock cameras in midterm races
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.625
-- slug: 2026-08-26-desantis-seeks-new-florida-restrictions-on-automated-license-plate-readers
-  headline: DeSantis seeks new Florida restrictions on automated license plate readers
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6492
+  strength: 0.6841
 - slug: 2026-07-25-activists-disable-flock-license-plate-readers-as-backlash-mounts
   headline: Activists disable Flock license-plate readers as backlash mounts
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7021
-- slug: 2026-08-20-cities-swap-flock-cameras-for-axon-readers-as-surveillance-continues
-  headline: Cities swap Flock cameras for Axon readers as surveillance continues
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6292
-- slug: 2026-08-20-maryland-coalition-asks-state-ag-to-investigate-data-brokers
-  headline: Maryland coalition asks state AG to investigate data brokers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6272
-- slug: 2026-06-10-florida-lawsuit-alleges-wrongful-arrest-after-ai-facial-recognition-error
-  headline: Florida lawsuit alleges wrongful arrest after AI facial recognition error
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6472
+  strength: 0.7008
 - slug: 2026-03-24-nevada-lacks-rules-for-license-plate-reader-cameras-used-by-police
   headline: Nevada lacks rules for license plate reader cameras used by police
   publish_date: '2026-03-24'
   relation: related
   strength: 0.6579
-- slug: 2026-02-03-michigan-debate-over-license-plate-readers-pits-police-utility-vs-privacy
-  headline: Michigan debate over license plate readers pits police utility vs privacy
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6639
 analyses:
-- '2026-10-23-indiana-case-turns-flock-misuse-into-definitional-contest'
+- 2026-10-23-indiana-case-turns-flock-misuse-into-definitional-contest
 ---
-
 ## Indiana police officer charged with misuse of Flock camera searches of his wife
 
 **Subtype:** fact

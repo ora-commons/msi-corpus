@@ -2,8 +2,15 @@
 headline: Wall Street advances as SpaceX beats summer profit expectations
 secondary_headline: Musk says SpaceX took a step to consider a Tesla merger
 publish_date: '2026-10-21'
-lede: U.S. stocks rose Wednesday after strong profit reports from SpaceX, Capital One Financial and other large companies. The S&P 500 gained 0.6%, the Dow Jones Industrial Average added 360 points and the Nasdaq composite climbed 1.1%, while SpaceX shares advanced 7.8%. Elon Musk said SpaceX had taken a step to consider a possible merger with Tesla.
-nut_graf: Several companies reported profits above analyst expectations, supporting the broad market advance, while AI-linked stocks stayed unsettled and Netflix and AT&T fell despite beating profit forecasts. Elon Musk separately said SpaceX had taken a step to consider a possible merger with Tesla.
+lede: U.S. stocks rose Wednesday after strong profit reports from SpaceX, Capital
+  One Financial and other large companies. The S&P 500 gained 0.6%, the Dow Jones
+  Industrial Average added 360 points and the Nasdaq composite climbed 1.1%, while
+  SpaceX shares advanced 7.8%. Elon Musk said SpaceX had taken a step to consider
+  a possible merger with Tesla.
+nut_graf: Several companies reported profits above analyst expectations, supporting
+  the broad market advance, while AI-linked stocks stayed unsettled and Netflix and
+  AT&T fell despite beating profit forecasts. Elon Musk separately said SpaceX had
+  taken a step to consider a possible merger with Tesla.
 primary_entities:
 - SpaceX
 - Tesla
@@ -50,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,7 +74,9 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: 2026-10-21
-  caption: FRED's raw NASDAQ Composite reading stood at 26,702.86 on Oct. 21, 2026. The Associated Press reported the index closed at that level, up 278.04 points, or 1.1%, for the session.
+  caption: FRED's raw NASDAQ Composite reading stood at 26,702.86 on Oct. 21, 2026.
+    The Associated Press reported the index closed at that level, up 278.04 points,
+    or 1.1%, for the session.
 figures_aggregate:
   count: 1
   series_ids:
@@ -157,10 +167,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.82
+  strength: 0.8188
 - slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
   headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
   publish_date: '2026-10-21'
@@ -170,94 +181,33 @@ related_stories:
   headline: SpaceX reports 161% revenue growth driven by Starlink and AI
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7607
+  strength: 0.7603
+- slug: 2026-10-20-strong-profit-reports-lift-u-s-stocks-as-oil-prices-ease
+  headline: Strong profit reports lift U.S. stocks as oil prices ease
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.7655
 - slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
   headline: SpaceX shares down by half from June peak as earnings call nears
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7369
+  strength: 0.7367
 - slug: 2026-07-31-amazon-surge-lifts-s-p-500-as-apple-drop-and-oil-concerns-weigh
   headline: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7426
+  strength: 0.7438
 - slug: 2026-08-01-wall-street-gears-for-jobs-report-spacex-earnings-mcdonald-s-results
   headline: Wall Street gears for jobs report, SpaceX earnings, McDonald's results
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.7238
+  strength: 0.7245
 - slug: 2026-06-12-spacex-shares-surge-19-in-record-ipo-stocks-climb
   headline: SpaceX Shares Surge 19% in Record IPO; Stocks Climb
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7294
-- slug: 2026-06-09-tech-stocks-waver-ahead-of-spacex-s-ipo-chip-shares-slide
-  headline: Tech stocks waver ahead of SpaceX's IPO; chip shares slide
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7306
-- slug: 2026-06-08-u-s-stocks-rebound-as-oil-surge-eases-on-iran-israel-tensions
-  headline: U.S. stocks rebound as oil surge eases on Iran-Israel tensions
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7308
-- slug: 2026-06-12-spacex-ipo-tops-176-company-surpasses-2-trillion-market-cap-on-debut
-  headline: SpaceX IPO tops $176, company surpasses $2 trillion market cap on debut
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.721
-- slug: 2026-05-21-us-stocks-recover-as-bond-pressure-eases-and-oil-gives-back-gains
-  headline: US stocks recover as bond pressure eases and oil gives back gains
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7301
-- slug: 2026-05-06-wall-street-hits-records-as-oil-eases-and-earnings-beat-expectations
-  headline: Wall Street hits records as oil eases and earnings beat expectations
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7358
-- slug: 2026-05-20-oil-s-latest-dip-helps-us-stocks-erase-losses-nasdaq-edges-up
-  headline: Oil’s latest dip helps US stocks erase losses; Nasdaq edges up
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.728
-- slug: 2026-05-02-apple-leads-wall-street-to-more-records-as-oil-prices-pull-back
-  headline: Apple leads Wall Street to more records as oil prices pull back
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7319
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7228
-- slug: 2026-05-20-us-stocks-rebound-as-yields-ease-and-oil-prices-pull-back
-  headline: US stocks rebound as yields ease and oil prices pull back
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7188
-- slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
-  headline: Tech rally lifts Wall Street to records as oil, inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7196
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7362
-- slug: 2026-04-22-us-stocks-rally-to-records-as-brent-tops-100-on-iran-war-worries
-  headline: US stocks rally to records as Brent tops $100 on Iran war worries
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7224
-- slug: 2026-04-23-us-stocks-rally-to-records-but-brent-oil-tops-100-on-iran-war-worries
-  headline: US stocks rally to records, but Brent oil tops $100 on Iran war worries
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7207
+  strength: 0.7302
 ---
-
 ## Wall Street advances as SpaceX beats summer profit expectations
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: Brent tops $117 intraday as tanker attacks disrupt fuel supply
 secondary_headline: AAA reports U.S. regular gasoline averaging $4.29 a gallon
 publish_date: '2026-10-23'
-lede: Brent crude rose 2.9% to $116.46 per barrel Friday and touched $117.45, its highest level since April 30, as fears of renewed U.S. strikes against Iran and attacks in the Middle East raised concerns about global oil supplies. West Texas Intermediate, the U.S. benchmark, rose 3.7% to $103.12 per barrel.
-nut_graf: Higher oil prices have kept U.S. gasoline prices elevated, while attacks on tankers and shipping routes have raised concerns about global oil supplies and shipments through the Strait of Hormuz. AAA said the national average for regular gasoline stood at about $4.29 per gallon Friday.
+lede: Brent crude rose 2.9% to $116.46 per barrel Friday and touched $117.45, its
+  highest level since April 30, as fears of renewed U.S. strikes against Iran and
+  attacks in the Middle East raised concerns about global oil supplies. West Texas
+  Intermediate, the U.S. benchmark, rose 3.7% to $103.12 per barrel.
+nut_graf: Higher oil prices have kept U.S. gasoline prices elevated, while attacks
+  on tankers and shipping routes have raised concerns about global oil supplies and
+  shipments through the Strait of Hormuz. AAA said the national average for regular
+  gasoline stood at about $4.29 per gallon Friday.
 primary_entities:
 - Iran
 - Saudi Arabia
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -176,73 +183,12 @@ related_stories:
   publish_date: '2026-10-08'
   relation: related
   strength: 0.8013
-- slug: 2026-10-08-tanker-struck-near-qatar-as-shipping-strikes-extend-beyond-hormuz
-  headline: Tanker struck near Qatar as shipping strikes extend beyond Hormuz
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7905
 - slug: 2026-10-02-crude-futures-jump-4-4-to-102-31-despite-hormuz-rebound
   headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
   publish_date: '2026-10-02'
   relation: related
   strength: 0.8102
-- slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
-  headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8096
-- slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
-  headline: Oil futures rise as Middle East exports recover to prewar levels
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7949
-- slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
-  headline: Oil prices rise as Trump rejects Iran ceasefire proposal
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7944
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.8473
-- slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
-  headline: Oil rises on Hormuz risks as Saudi crude flows rebound
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7956
-- slug: 2026-09-09-brent-crude-tops-100-as-us-iran-fighting-flares-in-the-gulf
-  headline: Brent crude tops $100 as US-Iran fighting flares in the Gulf
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.8043
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.8125
-- slug: 2026-07-23-brent-crude-tops-100-a-barrel-as-red-sea-attacks-threaten-saudi-export-route
-  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.8176
-- slug: 2026-03-09-crude-prices-top-100-a-barrel-as-iran-war-disrupts-oil-flows
-  headline: Crude prices top $100 a barrel as Iran war disrupts oil flows
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.8679
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8171
-- slug: 2026-05-08-gasoline-prices-rise-again-after-iran-war-strains-strait-of-hormuz
-  headline: Gasoline prices rise again after Iran war strains Strait of Hormuz
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7967
 ---
-
 ## Brent tops $117 intraday as tanker attacks disrupt fuel supply
 
 **Subtype:** fact

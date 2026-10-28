@@ -1,9 +1,21 @@
 ---
 headline: PHP users urged to patch two critical flaws or shut down sites
-secondary_headline: The episode highlights how artificial intelligence is changing web security
+secondary_headline: The episode highlights how artificial intelligence is changing
+  web security
 publish_date: '2026-10-22'
-lede: The organization behind PHP and the FBI's cyber division warned Wednesday of two critical vulnerabilities in the widely used web-development language. The official PHP website and several other organizations and agencies released advisories urging PHP users to patch the flaws or shut down their sites if they could not update them immediately. The PHP Foundation said the vulnerabilities could allow unauthenticated access to sites running PHP, and James Sullivan said attackers could control web servers remotely without a password. The language powers about 70% of websites globally, and AI helped defenders identify how the flaws could be exploited and validate fixes while also giving bad actors more advanced ways to exploit weaknesses.
-nut_graf: Government agencies, corporations and other organizations responded to the warning as the vulnerability episode highlighted how artificial intelligence is changing web security. The possible exposure was immense because PHP powers about 70% of websites globally.
+lede: The organization behind PHP and the FBI's cyber division warned Wednesday of
+  two critical vulnerabilities in the widely used web-development language. The official
+  PHP website and several other organizations and agencies released advisories urging
+  PHP users to patch the flaws or shut down their sites if they could not update them
+  immediately. The PHP Foundation said the vulnerabilities could allow unauthenticated
+  access to sites running PHP, and James Sullivan said attackers could control web
+  servers remotely without a password. The language powers about 70% of websites globally,
+  and AI helped defenders identify how the flaws could be exploited and validate fixes
+  while also giving bad actors more advanced ways to exploit weaknesses.
+nut_graf: Government agencies, corporations and other organizations responded to the
+  warning as the vulnerability episode highlighted how artificial intelligence is
+  changing web security. The possible exposure was immense because PHP powers about
+  70% of websites globally.
 primary_entities:
 - PHP
 - PHP Foundation
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,14 +153,23 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-php-users-urged-to-patch-two-critical-flaws-or-shut-down-sites.png
-  alt: 'Illustration accompanying article: PHP users urged to patch two critical flaws or shut down sites'
+  alt: 'Illustration accompanying article: PHP users urged to patch two critical flaws
+    or shut down sites'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-21-governments-and-companies-patch-php-vulnerabilities-found-with-ai-assistance
+  headline: Governments and companies patch PHP vulnerabilities found with AI assistance
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8873
 - slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
   headline: Millions of exploit attempts target PHP flaw as governments patch systems
   publish_date: '2026-10-22'
@@ -157,99 +179,23 @@ related_stories:
   headline: PHP vulnerabilities trigger website shutdowns amid AI-assisted exploitation
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7754
+  strength: 0.7742
 - slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
   headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7456
-- slug: 2026-10-13-peter-lewis-australian-resistance-rises-against-ai-inevitability-doctrine
-  headline: 'Peter Lewis: Australian resistance rises against AI ''inevitability doctrine'''
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5961
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6015
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5979
-- slug: 2026-09-23-fbi-investigates-breach-of-jobs-website-claimed-by-hacking-group
-  headline: FBI investigates breach of jobs website claimed by hacking group
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6322
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5946
-- slug: 2026-09-23-times-review-finds-shinyhunters-fbi-data-most-likely-legitimate
-  headline: Times review finds ShinyHunters FBI data 'most likely legitimate'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5956
-- slug: 2026-09-18-hacktron-ai-says-it-ethically-hacked-openai-using-anthropic-s-claude
-  headline: Hacktron AI says it 'ethically hacked' OpenAI using Anthropic's Claude
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6093
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6054
-- slug: 2026-08-09-scientists-use-ai-to-create-new-virus-family-as-experts-warn-of-misuse
-  headline: Scientists use AI to create new virus family as experts warn of misuse
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6115
-- slug: 2026-08-05-hackers-attempted-to-breach-at-least-30-minnesota-water-systems
-  headline: Hackers attempted to breach at least 30 Minnesota water systems
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6084
-- slug: 2026-07-24-openai-autonomous-agent-hacks-hugging-face-company-says
-  headline: OpenAI autonomous agent hacks Hugging Face, company says
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6244
-- slug: 2026-08-06-ai-agents-impersonate-hack-and-evade-controls-in-safety-tests
-  headline: AI agents impersonate, hack and evade controls in safety tests
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6004
-- slug: 2026-08-01-rogue-ai-hacking-models-breached-companies-starting-in-april
-  headline: Rogue AI hacking models breached companies starting in April
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.5949
+  strength: 0.7447
 - slug: 2026-05-10-google-says-it-disrupted-an-ai-driven-effort-to-exploit-a-software-bug
   headline: Google says it disrupted an AI-driven effort to exploit a software bug
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6751
+  strength: 0.6758
 - slug: 2026-05-10-google-disrupts-ai-driven-cyberattack-exploiting-unknown-software-vulnerability
   headline: Google disrupts AI-driven cyberattack exploiting unknown software vulnerability
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6646
-- slug: 2026-06-24-anthropic-s-mythos-ai-finds-vulnerabilities-in-classified-u-s-systems-during-tes
-  headline: Anthropic’s Mythos AI finds vulnerabilities in classified U.S. systems during test
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6068
-- slug: 2026-06-15-fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-users
-  headline: FBI warns of Kali365 phishing service targeting Microsoft 365 users
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6118
+  strength: 0.6648
 ---
-
 ## PHP users urged to patch two critical flaws or shut down sites
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Glenn Dubin steps down from Mount Sinai board as Epstein ties draw scrutiny
 secondary_headline: The Dubins' board terms ended this spring; they did not seek re-election
 publish_date: '2026-10-23'
-lede: Hedge fund billionaire Glenn Dubin has stepped down from Mount Sinai's board of trustees after serving on it since 2007, according to sources close to the New York hospital. Mount Sinai said the Dubins' terms ended in the spring and that they did not seek re-election, but the hospital did not say whether its Epstein-related review had concluded, what it found, or whether the review was connected to the departure.
-nut_graf: The departure adds another change to Mount Sinai's leadership as the hospital faces questions about its financial and medical connections to Jeffrey Epstein. Department of Justice files, a New York Times report, a federal lawsuit and a New York State Department of Health statement outline questions the hospital has not answered.
+lede: Hedge fund billionaire Glenn Dubin has stepped down from Mount Sinai's board
+  of trustees after serving on it since 2007, according to sources close to the New
+  York hospital. Mount Sinai said the Dubins' terms ended in the spring and that they
+  did not seek re-election, but the hospital did not say whether its Epstein-related
+  review had concluded, what it found, or whether the review was connected to the
+  departure.
+nut_graf: The departure adds another change to Mount Sinai's leadership as the hospital
+  faces questions about its financial and medical connections to Jeffrey Epstein.
+  Department of Justice files, a New York Times report, a federal lawsuit and a New
+  York State Department of Health statement outline questions the hospital has not
+  answered.
 primary_entities:
 - Glenn Dubin
 - Eva Andersson-Dubin
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -68,110 +78,24 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories:
-- slug: 2026-10-21-lawsuit-says-epstein-lawyer-structured-cash-just-below-10-000
-  headline: Lawsuit says Epstein lawyer structured cash just below $10,000
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6118
-- slug: 2026-10-07-botstein-resigns-from-bard-roles-as-democrats-demand-epstein-linked-probe
-  headline: Botstein resigns from Bard roles as Democrats demand Epstein-linked probe
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6115
-- slug: 2026-09-23-federal-prosecutors-open-probe-into-epstein-s-estate-executors
-  headline: Federal prosecutors open probe into Epstein's estate executors
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6327
 - slug: 2026-07-21-external-review-documents-30-gates-foundation-meetings-with-epstein
   headline: External review documents 30 Gates Foundation meetings with Epstein
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6566
+  strength: 0.6559
 - slug: 2026-07-14-warren-buffett-ends-gates-foundation-donations-after-epstein-ties
   headline: Warren Buffett ends Gates Foundation donations after Epstein ties
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6499
-- slug: 2026-06-17-harvard-bard-face-fresh-congressional-questions-on-epstein-ties
-  headline: Harvard, Bard Face Fresh Congressional Questions on Epstein Ties
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6276
+  strength: 0.6502
 - slug: 2026-04-22-gates-foundation-to-review-epstein-ties-as-bill-gates-faces-scrutiny
   headline: Gates Foundation to review Epstein ties as Bill Gates faces scrutiny
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.656
-- slug: 2026-04-23-gates-foundation-reviewing-epstein-ties-after-emails-raise-questions
-  headline: Gates Foundation reviewing Epstein ties after emails raise questions
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6429
-- slug: 2026-06-10-bill-gates-testifies-before-house-committee-on-epstein-ties
-  headline: Bill Gates testifies before House committee on Epstein ties
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6106
-- slug: 2026-02-18-thomas-pritzker-steps-down-as-hyatt-executive-chairman-after-epstein-links
-  headline: Thomas Pritzker steps down as Hyatt executive chairman after Epstein links
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6374
-- slug: 2026-02-14-israel-s-barak-regrets-knowing-epstein-as-documents-show-long-ties
-  headline: Israel’s Barak regrets knowing Epstein as documents show long ties
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6348
-- slug: 2026-05-03-bard-president-leon-botstein-to-retire-after-epstein-relationship-scrutiny
-  headline: Bard president Leon Botstein to retire after Epstein relationship scrutiny
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6154
-- slug: 2026-02-02-tech-titans-u-s-officials-and-royalty-appear-in-epstein-files
-  headline: Tech titans, U.S. officials and royalty appear in Epstein files
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6323
-- slug: 2026-02-26-bill-gates-spoke-candidly-about-epstein-ties-at-gates-foundation-town-hall
-  headline: Bill Gates spoke candidly about Epstein ties at Gates Foundation town hall
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.624
-- slug: 2026-02-19-les-wexner-tells-congress-he-was-duped-by-jeffrey-epstein
-  headline: Les Wexner tells Congress he was “duped” by Jeffrey Epstein
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6224
-- slug: 2026-04-11-melania-trump-denies-epstein-ties-says-lies-must-end-now
-  headline: Melania Trump denies Epstein ties, says “lies” must end now
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6112
-- slug: 2026-02-13-goldman-sachs-top-lawyer-kathy-ruemmler-to-resign-over-epstein-emails
-  headline: Goldman Sachs’ top lawyer Kathy Ruemmler to resign over Epstein emails
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.62
-- slug: 2026-02-10-fbi-records-say-it-found-scant-evidence-of-epstein-trafficking-ring
-  headline: FBI records say it found scant evidence of Epstein trafficking ring
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6184
-- slug: 2026-02-13-canadian-uk-finance-groups-pause-ventures-with-dp-world-over-epstein-emails
-  headline: Canadian, UK finance groups pause ventures with DP World over Epstein emails
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6172
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6062
+  strength: 0.6557
 analyses:
-- '2026-10-23-mount-sinai-leaves-epstein-review-findings-undisclosed-as-trustees-depart'
+- 2026-10-23-mount-sinai-leaves-epstein-review-findings-undisclosed-as-trustees-depart
 ---
-
 ## Glenn Dubin steps down from Mount Sinai board as Epstein ties draw scrutiny
 
 **Subtype:** fact

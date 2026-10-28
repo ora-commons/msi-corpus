@@ -2,8 +2,20 @@
 headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
 secondary_headline: Panel voters cite economy, labor and immigration priorities
 publish_date: '2026-10-23'
-lede: With the 2026 U.S. midterms less than two weeks away, President Donald Trump and Vice President JD Vance are directing their pre-election message toward Ukraine and France as Democrats gain ground on several major issues in recent polling. Trump is traveling across multiple states as the Republican administration faces questions about affordability, immigration and the Iran war. In an analysis by Callum Jones originally published in The Stakes 2026 newsletter about the midterms, The Guardian said Trump and his allies were trying to “change the subject” even as voters continued to focus on the issues shaping their votes.
-nut_graf: The election will not turn on one national issue, The Guardian's Callum Jones wrote, because voters report different priorities and pressures on the parties to build coalitions. The survey nevertheless showed Republicans losing ground on the economy and immigration while Trump and Vance emphasized Ukraine and France. The result is a test of whether either party can address enough voters' concerns and earn enough trust to assemble a coalition.
+lede: With the 2026 U.S. midterms less than two weeks away, President Donald Trump
+  and Vice President JD Vance are directing their pre-election message toward Ukraine
+  and France as Democrats gain ground on several major issues in recent polling. Trump
+  is traveling across multiple states as the Republican administration faces questions
+  about affordability, immigration and the Iran war. In an analysis by Callum Jones
+  originally published in The Stakes 2026 newsletter about the midterms, The Guardian
+  said Trump and his allies were trying to “change the subject” even as voters continued
+  to focus on the issues shaping their votes.
+nut_graf: The election will not turn on one national issue, The Guardian's Callum
+  Jones wrote, because voters report different priorities and pressures on the parties
+  to build coalitions. The survey nevertheless showed Republicans losing ground on
+  the economy and immigration while Trump and Vance emphasized Ukraine and France.
+  The result is a test of whether either party can address enough voters' concerns
+  and earn enough trust to assemble a coalition.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,7 +162,7 @@ related_stories:
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7652
+  strength: 0.7656
 - slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
   headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
   publish_date: '2026-10-20'
@@ -159,94 +172,34 @@ related_stories:
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7138
+  strength: 0.7143
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7167
+  strength: 0.7168
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7156
+  strength: 0.7157
 - slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
   headline: Immigration enforcement reshapes midterm races as voter disapproval grows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.73
+  strength: 0.7292
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7271
+  strength: 0.7273
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7418
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7342
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7367
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7307
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7225
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7206
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7211
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7143
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7185
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7215
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7179
-- slug: 2026-05-27-trump-is-getting-the-gop-he-wants-but-can-he-win-the-midterms
-  headline: Trump is getting the GOP he wants, but can he win the midterms?
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7342
-- slug: 2026-02-26-trump-starts-midterm-message-push-after-state-of-the-union-trip-to-texas
-  headline: Trump starts midterm message push after State of the Union trip to Texas
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7394
+  strength: 0.7422
 ---
-
 ## Trump shifts campaign focus as Democrats gain ground before 2026 midterms
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Hegseth says Pentagon listed Confucius Institutes as national security threats
 secondary_headline: Hegseth alleges "80 new propaganda cells" appeared across 30 universities
 publish_date: '2026-10-24'
-lede: In a video posted on social media Friday, Defense Secretary Pete Hegseth alleged that "80 new propaganda cells" had appeared across 30 universities under different names and charters. He also said the Pentagon had designated Chinese-funded cultural centers on university campuses, known as Confucius Institutes, as a threat to U.S. national security. The Chinese embassy in Washington did not immediately respond to a request for comment.
-nut_graf: Hegseth's statement linked the centers to the Pentagon's list of institutions that threaten U.S. national security. He also said the Defense Department had dismantled every one of the 80 organizations over the previous two months.
+lede: In a video posted on social media Friday, Defense Secretary Pete Hegseth alleged
+  that "80 new propaganda cells" had appeared across 30 universities under different
+  names and charters. He also said the Pentagon had designated Chinese-funded cultural
+  centers on university campuses, known as Confucius Institutes, as a threat to U.S.
+  national security. The Chinese embassy in Washington did not immediately respond
+  to a request for comment.
+nut_graf: Hegseth's statement linked the centers to the Pentagon's list of institutions
+  that threaten U.S. national security. He also said the Defense Department had dismantled
+  every one of the 80 organizations over the previous two months.
 primary_entities:
 - Pete Hegseth
 - U.S. Defense Department
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,11 +144,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-19-downing-street-rebukes-hegseth-for-downplaying-nato-s-afghan-combat-role
-  headline: Downing Street rebukes Hegseth for downplaying NATO's Afghan combat role
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6219
 - slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
   headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
   publish_date: '2026-09-30'
@@ -151,93 +154,22 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.6521
-- slug: 2026-09-30-hegseth-confirms-20-reduction-in-generals-admirals-at-quantico-address
-  headline: Hegseth confirms 20% reduction in generals, admirals at Quantico address
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6345
-- slug: 2026-09-30-at-least-20-generals-admirals-departed-under-hegseth
-  headline: At least 20 generals, admirals departed under Hegseth
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.626
-- slug: 2026-09-29-hegseth-to-announce-20-cut-to-general-admiral-positions
-  headline: Hegseth to announce 20% cut to general, admiral positions
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6202
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6205
 - slug: 2026-08-18-pentagon-orders-30-universities-to-audit-foreign-research-ties
   headline: Pentagon orders 30 universities to audit foreign research ties
   publish_date: '2026-08-18'
   relation: related
   strength: 0.6985
-- slug: 2026-09-02-hegseth-s-social-media-post-on-canadian-cadets-sparks-bipartisan-backlash
-  headline: Hegseth's social media post on Canadian cadets sparks bipartisan backlash
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.619
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6231
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6126
-- slug: 2026-08-28-hegseth-may-reconvene-top-military-leaders-at-quantico-this-year
-  headline: Hegseth may reconvene top military leaders at Quantico this year
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6167
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6171
-- slug: 2026-08-06-china-bars-dealings-with-7-u-s-entities-after-american-sanctions
-  headline: China bars dealings with 7 U.S. entities after American sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6093
 - slug: 2026-03-05-hegseth-moves-to-end-wokeness-in-military-education-severing-ivy-ties
   headline: Hegseth moves to end “wokeness” in military education, severing Ivy ties
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6782
-- slug: 2026-06-10-hegseth-warns-cuba-against-acquiring-weapons-in-guant-namo-bay-visit
-  headline: Hegseth warns Cuba against acquiring weapons in Guantánamo Bay visit
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6265
-- slug: 2026-06-10-fbi-seizes-13-websites-officials-say-china-used-to-target-us-workers
-  headline: FBI seizes 13 websites officials say China used to target US workers
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6255
 - slug: 2026-02-28-pentagon-to-bar-troops-from-columbia-yale-brown-and-more
   headline: Pentagon to bar troops from Columbia, Yale, Brown and more
   publish_date: '2026-02-28'
   relation: related
   strength: 0.6577
-- slug: 2026-06-18-backdoor-software-in-millions-of-us-home-devices-aids-state-backed-hackers
-  headline: Backdoor software in millions of US home devices aids state-backed hackers
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6063
-- slug: 2026-06-02-hegseth-blocked-nine-air-force-colonel-promotions-delayed-dozens-more
-  headline: Hegseth blocked nine Air Force colonel promotions, delayed dozens more
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6093
 ---
-
 ## Hegseth says Pentagon listed Confucius Institutes as national security threats
 
 **Subtype:** fact

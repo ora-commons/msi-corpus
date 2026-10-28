@@ -1,9 +1,18 @@
 ---
 headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
-secondary_headline: Naval buildup expands Trump's options for renewed operations against Iran
+secondary_headline: Naval buildup expands Trump's options for renewed operations against
+  Iran
 publish_date: '2026-10-24'
-lede: U.S. officials said the government ordered diplomats and staff to leave the embassy in Saudi Arabia and other diplomatic missions and evacuated personnel from military bases across the Middle East as intelligence assessed that suspected Iranian plots to target Americans had reached advanced stages. The moves came as the State Department updated travel advisories for 13 Middle Eastern countries and the Trump administration prepared military options for possible renewed strikes after the Nov. 3 elections.
-nut_graf: U.S. officials said suspected Iranian plots informed the embassy drawdowns and described the military movement as preparation for renewed fighting. The combination left the scale and timing of any renewed U.S. operation unresolved.
+lede: U.S. officials said the government ordered diplomats and staff to leave the
+  embassy in Saudi Arabia and other diplomatic missions and evacuated personnel from
+  military bases across the Middle East as intelligence assessed that suspected Iranian
+  plots to target Americans had reached advanced stages. The moves came as the State
+  Department updated travel advisories for 13 Middle Eastern countries and the Trump
+  administration prepared military options for possible renewed strikes after the
+  Nov. 3 elections.
+nut_graf: U.S. officials said suspected Iranian plots informed the embassy drawdowns
+  and described the military movement as preparation for renewed fighting. The combination
+  left the scale and timing of any renewed U.S. operation unresolved.
 primary_entities:
 - United States
 - Iran
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +160,56 @@ related_stories:
   headline: US intelligence director says Iran increased efforts to target US personnel
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7896
-- slug: 2026-10-21-state-department-orders-partial-drawdown-at-riyadh-embassy
-  headline: State Department orders partial drawdown at Riyadh embassy
-  publish_date: '2026-10-21'
+  strength: 0.7892
+- slug: 2026-10-24-state-department-cuts-staff-at-four-embassies-after-iran-threat-memo
+  headline: State Department cuts staff at four embassies after Iran threat memo
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.779
+  strength: 0.7793
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7786
+  strength: 0.7793
+- slug: 2026-10-21-state-department-orders-partial-drawdown-at-riyadh-embassy
+  headline: State Department orders partial drawdown at Riyadh embassy
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7787
 - slug: 2026-10-22-dammam-airport-attack-and-drone-debris-at-saudi-oil-facility-kill-three
   headline: Dammam airport attack and drone debris at Saudi oil facility kill three
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7639
+  strength: 0.7631
 - slug: 2026-10-23-iran-threatens-gulf-targets-as-u-s-weighs-renewed-strikes
   headline: Iran threatens Gulf targets as U.S. weighs renewed strikes
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.749
+  strength: 0.7489
 - slug: 2026-10-13-iran-fortifies-nuclear-sites-and-warns-gulf-allies
   headline: Iran Fortifies Nuclear Sites and Warns Gulf Allies
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7271
+  strength: 0.7272
 - slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
   headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7279
-- slug: 2026-10-01-pentagon-sends-third-aircraft-carrier-and-up-to-10-000-troops-to-middle-east
-  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7317
-- slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
-  headline: Iran threatens US bases as Trump weighs renewed bombing campaign
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.78
-- slug: 2026-07-31-trump-vows-to-hit-iran-very-hard-as-diplomacy-collapses
-  headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7363
-- slug: 2026-07-22-pentagon-sends-additional-forces-and-medics-to-middle-east-amid-iran-war-deliber
-  headline: Pentagon sends additional forces and medics to Middle East amid Iran war deliberations
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7498
-- slug: 2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war
-  headline: US surges forces to Middle East as Trump weighs expanding Iran war
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7264
-- slug: 2026-01-14-u-s-personnel-advised-to-evacuate-al-udeid-air-base-as-iran-tensions-rise
-  headline: U.S. personnel advised to evacuate Al Udeid Air Base as Iran tensions rise
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7844
-- slug: 2026-03-10-state-department-orders-drawdown-at-more-middle-east-diplomatic-missions
-  headline: State Department orders drawdown at more Middle East diplomatic missions
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7719
-- slug: 2026-01-15-mideast-allies-urge-trump-to-hold-off-on-iran-strikes-as-protest-death-toll-tops
-  headline: Mideast allies urge Trump to hold off on Iran strikes as protest death toll tops 2,600
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7587
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.751
-- slug: 2026-03-04-americans-in-limbo-as-us-draws-down-diplomatic-posts-amid-iran-strikes
-  headline: Americans in limbo as US draws down diplomatic posts amid Iran strikes
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7535
-- slug: 2026-03-05-trump-administration-offers-shifting-rationales-for-iran-strikes-as-war-expands
-  headline: Trump administration offers shifting rationales for Iran strikes as war expands
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7404
-- slug: 2026-04-01-gulf-allies-urge-trump-to-keep-war-pressure-on-iran-until-decisive-shift
-  headline: Gulf allies urge Trump to keep war pressure on Iran until decisive shift
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7323
-- slug: 2026-01-23-pentagon-builds-largest-middle-east-force-in-decades-as-trump-threatens-iran
-  headline: Pentagon builds largest Middle East force in decades as Trump threatens Iran
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.7407
+  strength: 0.7271
 image:
   url: /articles/2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots.png
-  alt: "Illustration accompanying article: U.S. evacuates Middle East personnel over suspected Iranian attack plots"
+  alt: 'Illustration accompanying article: U.S. evacuates Middle East personnel over
+    suspected Iranian attack plots'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. evacuates Middle East personnel over suspected Iranian attack plots
 
 **Subtype:** fact

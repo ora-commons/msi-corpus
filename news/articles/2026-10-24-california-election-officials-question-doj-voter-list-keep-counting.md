@@ -2,8 +2,18 @@
 headline: California election officials question DOJ voter list, keep counting
 secondary_headline: Justice Department says it is not requesting a purge of voters
 publish_date: '2026-10-24'
-lede: Local election officials across California reacted with confusion and frustration to letters from President Donald Trump's Justice Department, with some registrars saying they would keep counting ballots and questioning the accuracy of the federal government's list of 20,000 voters. The Friday letters demanded that county registrars sequester ballots the federal government believes were sent to noncitizen voters, sought sensitive information including Social Security numbers on roughly 20,000 voters, and set a 48-hour deadline, the Associated Press reported.
-nut_graf: 'Registrars face two time-sensitive tasks before the midterms: responding to demands that they sequester particular ballots and supplying sensitive information about roughly 20,000 voters. Justice Department spokeswoman Kiersten Pels said the department was seeking collaboration rather than a purge, while county officials cited errors in the federal list and said they would keep counting ballots.'
+lede: Local election officials across California reacted with confusion and frustration
+  to letters from President Donald Trump's Justice Department, with some registrars
+  saying they would keep counting ballots and questioning the accuracy of the federal
+  government's list of 20,000 voters. The Friday letters demanded that county registrars
+  sequester ballots the federal government believes were sent to noncitizen voters,
+  sought sensitive information including Social Security numbers on roughly 20,000
+  voters, and set a 48-hour deadline, the Associated Press reported.
+nut_graf: 'Registrars face two time-sensitive tasks before the midterms: responding
+  to demands that they sequester particular ballots and supplying sensitive information
+  about roughly 20,000 voters. Justice Department spokeswoman Kiersten Pels said the
+  department was seeking collaboration rather than a purge, while county officials
+  cited errors in the federal list and said they would keep counting ballots.'
 primary_entities:
 - California
 - U.S. Department of Justice
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,107 +163,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8696
+  strength: 0.8687
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.824
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8222
+- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
+  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7853
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8161
+  strength: 0.8167
+- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
+  headline: California ballot dispute reaches 9th Circuit
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7772
 - slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
   headline: Los Angeles County officials question DOJ list of suspected non-citizens
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.799
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
+  strength: 0.7988
+- slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
+  headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7967
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.8032
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8216
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.776
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7997
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7856
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7239
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.749
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.717
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7226
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7208
-- slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
-  headline: Solicitor general files appeal to revive blocked immigration-voter database
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7229
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7475
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7731
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.765
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7507
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7409
+  strength: 0.7707
 ---
-
 ## California election officials question DOJ voter list, keep counting
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: French authorities mobilize 70,000 police and soldiers ahead of expected protests
+headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+  protests
 secondary_headline: Protesters seek school funding, housing aid and cost relief
 publish_date: '2026-10-24'
-lede: Hundreds of thousands of people were expected at rallies across France on October 24, 2026, The Guardian reported. High school students, unionists, “yellow vest” demonstrators and others were expected to demand more government funding for schools and measures to help with housing and the cost of living. French authorities ramped up restrictions on where protesters could march and which groups were authorized to do so, seeking to avoid the looting and property damage seen at the fringes of some protests last weekend. The authorities increased policing by 20% and mobilized 70,000 police officers and soldiers, including elite units and trainee officers.
-nut_graf: The authorities ramped up restrictions on routes and authorized groups in response to last weekend’s looting and property damage, increased policing by 20% and mobilized 70,000 police officers and soldiers. Closures affected Paris transit and businesses, while The Guardian also reported high community tensions after Friday’s shooting west of Paris and a planned National Rally conference in Orléans.
+lede: Hundreds of thousands of people were expected at rallies across France on October
+  24, 2026, The Guardian reported. High school students, unionists, “yellow vest”
+  demonstrators and others were expected to demand more government funding for schools
+  and measures to help with housing and the cost of living. French authorities ramped
+  up restrictions on where protesters could march and which groups were authorized
+  to do so, seeking to avoid the looting and property damage seen at the fringes of
+  some protests last weekend. The authorities increased policing by 20% and mobilized
+  70,000 police officers and soldiers, including elite units and trainee officers.
+nut_graf: The authorities ramped up restrictions on routes and authorized groups in
+  response to last weekend’s looting and property damage, increased policing by 20%
+  and mobilized 70,000 police officers and soldiers. Closures affected Paris transit
+  and businesses, while The Guardian also reported high community tensions after Friday’s
+  shooting west of Paris and a planned National Rally conference in Orléans.
 primary_entities:
 - France
 - Paris
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +158,43 @@ related_stories:
   headline: French authorities prepare about 70,000 police for Saturday demonstrations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.825
+  strength: 0.8246
 - slug: 2026-10-20-french-police-pursue-suspects-after-weekend-violence
   headline: French police pursue suspects after weekend violence
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7766
+  strength: 0.777
 - slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
   headline: Macron says some leaders used French unrest for political campaigns
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7583
+  strength: 0.7574
+- slug: 2026-10-25-marine-le-pen-opens-campaign-with-unity-pledge-amid-french-unrest
+  headline: Marine Le Pen opens campaign with unity pledge amid French unrest
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7327
 - slug: 2026-10-22-macron-convenes-security-talks-as-lecornu-meets-party-leaders
   headline: Macron convenes security talks as Lecornu meets party leaders
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6835
+  strength: 0.6829
 - slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
   headline: French police fire tear gas as 256,000 rally nationwide for school funding
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7724
+  strength: 0.7726
 - slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
   headline: Youth-led protests over French schools draw hundreds of thousands
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7384
-- slug: 2026-10-22-fox-news-newsmax-and-oan-frame-europe-protests-as-a-warning-for-us-midterms
-  headline: Fox News, Newsmax and OAN frame Europe protests as a warning for US midterms
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6505
-- slug: 2026-10-20-meichtry-says-le-pen-is-positioned-to-emerge-stronger-pitching-order
-  headline: Meichtry says Le Pen is positioned to emerge stronger, pitching order
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6458
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6325
-- slug: 2026-10-06-france-s-10-year-borrowing-cost-climbs-to-highest-level-since-2002
-  headline: France's 10-year borrowing cost climbs to highest level since 2002
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6235
+  strength: 0.7376
 - slug: 2026-07-28-macron-warns-france-faces-worst-wildfire-crisis-since-world-war-ii
   headline: Macron warns France faces worst wildfire crisis since World War II
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6763
-- slug: 2026-07-14-macron-showcases-european-military-unity-at-bastille-day-parade
-  headline: Macron showcases European military unity at Bastille Day parade
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6348
-- slug: 2026-06-17-g7-summit-draws-smaller-protests-as-wealth-inequality-focus-sharpens
-  headline: G7 summit draws smaller protests as wealth inequality focus sharpens
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6484
-- slug: 2026-03-14-political-parties-tested-as-french-voters-elect-municipal-leaders
-  headline: Political parties tested as French voters elect municipal leaders
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6778
-- slug: 2026-06-14-iran-war-expected-to-dominate-trump-s-g7-meeting-with-allies
-  headline: Iran war expected to dominate Trump's G7 meeting with allies
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6253
-- slug: 2026-05-18-france-bars-us-ambassador-from-direct-government-access-after-no-show
-  headline: France bars US ambassador from direct government access after no-show
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6332
-- slug: 2026-05-02-may-day-rallies-worldwide-demand-peace-wages-amid-rising-costs
-  headline: May Day rallies worldwide demand peace, wages amid rising costs
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6381
-- slug: 2026-03-16-france-s-far-right-gains-in-first-round-municipal-elections-ahead-of-runoff
-  headline: France’s far right gains in first-round municipal elections ahead of runoff
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6484
-- slug: 2026-05-16-thousands-rally-in-london-under-heavy-police-presence-as-rival-protests-and-fa-c
-  headline: Thousands rally in London under heavy police presence as rival protests and FA Cup final coincide
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6272
-- slug: 2026-05-13-cite-soleil-residents-demand-protection-after-haiti-gang-violence-displaces-hund
-  headline: Cite Soleil residents demand protection after Haiti gang violence displaces hundreds
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6234
+  strength: 0.6751
 ---
-
 ## French authorities mobilize 70,000 police and soldiers ahead of expected protests
 
 **Subtype:** fact

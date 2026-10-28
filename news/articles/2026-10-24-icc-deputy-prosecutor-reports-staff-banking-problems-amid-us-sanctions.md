@@ -1,9 +1,19 @@
 ---
 headline: ICC deputy prosecutor reports staff banking problems amid US sanctions
-secondary_headline: Khan says Gaza war investigation and other cases have made significant progress
+secondary_headline: Khan says Gaza war investigation and other cases have made significant
+  progress
 publish_date: '2026-10-24'
-lede: International Criminal Court deputy prosecutor Nazhat Shameem Khan said new US sanctions are beginning to create banking difficulties for court staff but have not reduced the court’s work. Khan, who is co-running the office pending the appointment of a new chief prosecutor, said the Gaza war investigation and other matters had made significant progress. She spoke to The Guardian as the institution prepared for sanctions due to take effect six months after their Oct. 9 announcement.
-nut_graf: The measures target the ICC as a whole and carry a six-month grace period, but banks are already responding while the court has switched software and is negotiating over banking and insurance. Khan said the full effect could not be anticipated and that investigators were continuing without a decision to reduce the court’s capability or output.
+lede: International Criminal Court deputy prosecutor Nazhat Shameem Khan said new
+  US sanctions are beginning to create banking difficulties for court staff but have
+  not reduced the court’s work. Khan, who is co-running the office pending the appointment
+  of a new chief prosecutor, said the Gaza war investigation and other matters had
+  made significant progress. She spoke to The Guardian as the institution prepared
+  for sanctions due to take effect six months after their Oct. 9 announcement.
+nut_graf: The measures target the ICC as a whole and carry a six-month grace period,
+  but banks are already responding while the court has switched software and is negotiating
+  over banking and insurance. Khan said the full effect could not be anticipated and
+  that investigators were continuing without a decision to reduce the court’s capability
+  or output.
 primary_entities:
 - International Criminal Court
 - Nazhat Shameem Khan
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,39 +147,39 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-icc-deputy-prosecutor-reports-staff-banking-problems-amid-us-sanctions.png
-  alt: 'Illustration accompanying article: ICC deputy prosecutor reports staff banking problems amid US sanctions'
+  alt: 'Illustration accompanying article: ICC deputy prosecutor reports staff banking
+    problems amid US sanctions'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-09-us-imposes-institution-wide-sanctions-on-international-criminal-court
   headline: US imposes institution-wide sanctions on International Criminal Court
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7681
+  strength: 0.7687
 - slug: 2026-10-09-us-imposes-financial-sanctions-on-international-criminal-court
   headline: US imposes financial sanctions on International Criminal Court
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7416
-- slug: 2026-10-22-european-parliament-awards-sakharov-prize-to-international-criminal-court
-  headline: European Parliament awards Sakharov Prize to International Criminal Court
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6397
+  strength: 0.7425
 - slug: 2026-10-09-rubio-announces-us-sanctions-on-international-criminal-court
   headline: Rubio announces US sanctions on International Criminal Court
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7083
+  strength: 0.7085
 - slug: 2026-09-20-us-preparing-institution-wide-icc-sanctions-with-six-to-seven-month-grace-period
-  headline: US preparing institution-wide ICC sanctions with six-to-seven-month grace period
+  headline: US preparing institution-wide ICC sanctions with six-to-seven-month grace
+    period
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7949
+  strength: 0.7954
 - slug: 2026-10-14-judge-blocks-us-sanctions-on-groups-aiding-icc-gaza-probe
   headline: Judge blocks US sanctions on groups aiding ICC Gaza probe
   publish_date: '2026-10-14'
@@ -178,74 +189,18 @@ related_stories:
   headline: Trump criticizes Nobel laureate Pillay hours after her Peace Prize
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6977
+  strength: 0.6981
 - slug: 2026-10-10-nobel-laureate-pillay-calls-us-sanctions-on-icc-unheard-of-unacceptable
   headline: Nobel laureate Pillay calls US sanctions on ICC 'unheard of, unacceptable'
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6699
+  strength: 0.67
 - slug: 2026-09-25-japan-condemns-icc-head-sanctioning-as-dutch-premier-says-hands-off-icc
   headline: Japan condemns ICC head sanctioning as Dutch premier says 'hands off ICC'
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7027
-- slug: 2026-09-25-hague-group-convenes-40-states-at-un-to-defend-international-legal-order
-  headline: Hague Group convenes 40 states at UN to defend international legal order
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.656
-- slug: 2026-08-21-us-sanctions-icc-president-and-trial-lawyer-raising-total-to-13
-  headline: US sanctions ICC president and trial lawyer, raising total to 13
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7327
-- slug: 2026-08-30-us-sanctions-icc-officials-after-warrants-for-putin-and-netanyahu
-  headline: US sanctions ICC officials after warrants for Putin and Netanyahu
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7042
-- slug: 2026-08-18-rubio-sanctions-icc-president-and-senior-trial-lawyer
-  headline: Rubio sanctions ICC president and senior trial lawyer
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7141
-- slug: 2026-07-24-ex-icc-prosecutor-says-trump-fears-prosecution-after-leaving-office
-  headline: Ex-ICC prosecutor says Trump fears prosecution after leaving office
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.745
-- slug: 2026-08-11-four-rights-groups-sue-trump-administration-over-icc-sanctions
-  headline: Four rights groups sue Trump administration over ICC sanctions
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.683
-- slug: 2026-07-24-icc-ousts-chief-prosecutor-karim-khan-in-first-ever-removal
-  headline: ICC ousts chief prosecutor Karim Khan in first-ever removal
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6836
-- slug: 2026-07-13-rubio-launches-campaign-to-dismantle-international-criminal-court
-  headline: Rubio launches campaign to dismantle International Criminal Court
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6822
-- slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
-  headline: Washington targets Cuba’s military network with new restrictions
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6343
-- slug: 2026-07-14-eu-rejects-trump-administration-push-to-dismantle-international-criminal-court
-  headline: EU rejects Trump administration push to dismantle International Criminal Court
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6682
-- slug: 2026-06-18-icc-sets-july-24-vote-on-removing-chief-prosecutor-karim-khan
-  headline: ICC sets July 24 vote on removing chief prosecutor Karim Khan
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6839
+  strength: 0.7024
 ---
-
 ## ICC deputy prosecutor reports staff banking problems amid US sanctions
 
 **Subtype:** fact

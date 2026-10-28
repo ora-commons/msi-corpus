@@ -1,9 +1,16 @@
 ---
 headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
-secondary_headline: Ukraine reports slow Starlink speeds as Trump, Musk say restrictions lifted
+secondary_headline: Ukraine reports slow Starlink speeds as Trump, Musk say restrictions
+  lifted
 publish_date: '2026-10-23'
-lede: Russia and Ukraine agreed Friday to a temporary ceasefire in the occupied southern Ukrainian city of Oleshky, beginning Oct. 27, the White House said. The ceasefire is intended to allow the evacuation of civilians and the delivery of humanitarian aid to the city, where about 2,000 people remain.
-nut_graf: The agreement would open a humanitarian window into a city of about 2,000 people that has been under Russian occupation since February 2022 and has struggled with food and water shortages. First lady Melania Trump's office said she helped broker the ceasefire.
+lede: Russia and Ukraine agreed Friday to a temporary ceasefire in the occupied southern
+  Ukrainian city of Oleshky, beginning Oct. 27, the White House said. The ceasefire
+  is intended to allow the evacuation of civilians and the delivery of humanitarian
+  aid to the city, where about 2,000 people remain.
+nut_graf: The agreement would open a humanitarian window into a city of about 2,000
+  people that has been under Russian occupation since February 2022 and has struggled
+  with food and water shortages. First lady Melania Trump's office said she helped
+  broker the ceasefire.
 primary_entities:
 - Oleshky
 - Russia
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,19 +149,49 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky.png
-  alt: 'Illustration accompanying article: Russia and Ukraine agree to ceasefire in occupied Oleshky'
+  alt: 'Illustration accompanying article: Russia and Ukraine agree to ceasefire in
+    occupied Oleshky'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
   strength: 0.9015
+- slug: 2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump
+  headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8801
+- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
+  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8415
+- slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
+  headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8409
+- slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
+  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+    arrive
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8297
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7189
 - slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
   headline: Trump credits Musk with restoring Ukraine's Starlink service
   publish_date: '2026-10-22'
@@ -164,93 +202,7 @@ related_stories:
   publish_date: '2026-10-20'
   relation: related
   strength: 0.7126
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7368
-- slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
-  headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7203
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7141
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.716
-- slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
-  headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7067
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7118
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7053
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7045
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7015
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7174
-- slug: 2026-10-11-trump-declares-energy-ceasefire-as-russia-keeps-striking-ukraine
-  headline: Trump declares energy ceasefire as Russia keeps striking Ukraine
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7144
-- slug: 2026-10-11-trump-says-russia-and-ukraine-agreed-to-an-energy-ceasefire
-  headline: Trump says Russia and Ukraine agreed to an 'energy ceasefire'
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7139
-- slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
-  headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7044
-- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
-  headline: Ukrainian drones hit third Yandex data center in four days
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7033
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7037
-- slug: 2026-10-11-trump-announces-russia-ukraine-deal-to-halt-energy-strikes
-  headline: Trump announces Russia-Ukraine deal to halt energy strikes
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7018
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7145
 ---
-
 ## Russia and Ukraine agree to ceasefire in occupied Oleshky
 
 **Subtype:** fact

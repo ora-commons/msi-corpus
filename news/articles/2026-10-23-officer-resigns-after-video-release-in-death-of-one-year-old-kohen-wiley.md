@@ -2,8 +2,13 @@
 headline: Officer resigns after video release in death of one-year-old Kohen Wiley
 secondary_headline: Mississippi attorney general announced June shooting 'was justified'
 publish_date: '2026-10-23'
-lede: Body camera and security footage released on 21 October shows the police shooting of one-year-old Kohen Wiley on 14 June in Senatobia, Mississippi. The Mississippi attorney general announced that the shooting "was justified." The officer who shot into the vehicle and killed Wiley resigned from the Senatobia police department after the footage was released.
-nut_graf: The footage gives the public a direct view of the police shooting of a one-year-old, and the officer who fired into the vehicle has since resigned from the department.
+lede: Body camera and security footage released on 21 October shows the police shooting
+  of one-year-old Kohen Wiley on 14 June in Senatobia, Mississippi. The Mississippi
+  attorney general announced that the shooting "was justified." The officer who shot
+  into the vehicle and killed Wiley resigned from the Senatobia police department
+  after the footage was released.
+nut_graf: The footage gives the public a direct view of the police shooting of a one-year-old,
+  and the officer who fired into the vehicle has since resigned from the department.
 primary_entities:
 - Kohen Wiley
 - Senatobia
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,7 +143,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
+  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage
+    surfaces
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8284
@@ -151,6 +158,11 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.8014
+- slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
+  headline: Foster remains certified after resigning from Senatobia police force
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.79
 - slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
   headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
   publish_date: '2026-10-20'
@@ -171,73 +183,7 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.6748
-- slug: 2026-09-02-senatobia-fires-police-chief-after-report-of-racist-text-messages
-  headline: Senatobia fires police chief after report of racist text messages
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.744
-- slug: 2026-06-26-mississippi-protesters-demand-footage-after-police-kill-one-year-old-boy
-  headline: Mississippi protesters demand footage after police kill one-year-old boy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.8135
-- slug: 2026-06-22-fatal-police-shooting-of-one-year-old-boy-ignites-tensions-in-senatobia-mississi
-  headline: Fatal police shooting of one-year-old boy ignites tensions in Senatobia, Mississippi
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.8147
-- slug: 2026-06-16-one-year-old-killed-woman-wounded-after-mississippi-police-shoot-at-car
-  headline: One-year-old killed, woman wounded after Mississippi police shoot at car
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.799
-- slug: 2026-08-27-minneapolis-releases-documents-from-2025-annunciation-church-shooting
-  headline: Minneapolis releases documents from 2025 Annunciation church shooting
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5976
-- slug: 2026-04-15-bodycam-video-contradicts-st-louis-police-account-in-teen-shooting
-  headline: Bodycam video contradicts St. Louis police account in teen shooting
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6421
-- slug: 2026-06-07-pelley-says-weiss-wanted-60-minutes-to-echo-trump-s-account-of-shooting
-  headline: Pelley says Weiss wanted 60 Minutes to echo Trump's account of shooting
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6017
-- slug: 2026-01-08-video-shows-minnesota-ice-shooting-experts-question-tactics-used
-  headline: Video shows Minnesota ICE shooting; experts question tactics used
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6372
-- slug: 2026-04-07-video-shows-minneapolis-chase-ending-in-shooting-and-suspension-of-officers
-  headline: Video shows Minneapolis chase ending in shooting and suspension of officers
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6187
-- slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
-  headline: New ICE officer video raises use-of-force questions in Minneapolis shooting
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6212
-- slug: 2026-01-09-ohio-review-board-clears-officer-who-fatally-shot-pregnant-ta-kiya-young
-  headline: Ohio review board clears officer who fatally shot pregnant Ta’Kiya Young
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6205
-- slug: 2026-03-28-hartford-fires-rookie-officer-joseph-magnano-after-fatal-knife-shooting
-  headline: Hartford fires rookie officer Joseph Magnano after fatal knife shooting
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6055
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6138
 ---
-
 ## Officer resigns after video release in death of one-year-old Kohen Wiley
 
 **Subtype:** fact

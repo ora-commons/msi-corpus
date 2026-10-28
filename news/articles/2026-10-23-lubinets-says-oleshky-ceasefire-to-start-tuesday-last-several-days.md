@@ -2,8 +2,20 @@
 headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
 secondary_headline: Russia's top general orders Kherson-axis ceasefire at 4 a.m. Tuesday
 publish_date: '2026-10-23'
-lede: Dmytro Lubinets, Ukraine's chief negotiator in the talks, told The Associated Press that the local ceasefire with Russia in Russian-occupied Oleshky will start Tuesday, two days before the humanitarian mission begins, and last several days. Gen. Valery Gerasimov, Russia's chief of the general staff, said Russian forces will cease fire on the Kherson axis at 4 a.m. Tuesday in Moscow in connection with the humanitarian operation near Oleshky. The White House announced the ceasefire after first lady Melania Trump brokered the agreement, which Ukrainian, Russian and U.S. negotiators reached Friday.
-nut_graf: The arrangement would let humanitarian aid reach Oleshky, a Russian-occupied town in the war-divided Kherson region of southern Ukraine that the first lady described as "on the brink of disaster," and allow civilians to evacuate. Lubinets said the operation would remove mines on the way to the city before supplies are delivered and evacuations arranged, and that the initiative could act as a model for future humanitarian missions.
+lede: Dmytro Lubinets, Ukraine's chief negotiator in the talks, told The Associated
+  Press that the local ceasefire with Russia in Russian-occupied Oleshky will start
+  Tuesday, two days before the humanitarian mission begins, and last several days.
+  Gen. Valery Gerasimov, Russia's chief of the general staff, said Russian forces
+  will cease fire on the Kherson axis at 4 a.m. Tuesday in Moscow in connection with
+  the humanitarian operation near Oleshky. The White House announced the ceasefire
+  after first lady Melania Trump brokered the agreement, which Ukrainian, Russian
+  and U.S. negotiators reached Friday.
+nut_graf: The arrangement would let humanitarian aid reach Oleshky, a Russian-occupied
+  town in the war-divided Kherson region of southern Ukraine that the first lady described
+  as "on the brink of disaster," and allow civilians to evacuate. Lubinets said the
+  operation would remove mines on the way to the city before supplies are delivered
+  and evacuations arranged, and that the initiative could act as a model for future
+  humanitarian missions.
 primary_entities:
 - Melania Trump
 - Oleshky
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,116 +165,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days.png
-  alt: 'Illustration accompanying article: Lubinets says Oleshky ceasefire to start Tuesday, last several days'
+  alt: 'Illustration accompanying article: Lubinets says Oleshky ceasefire to start
+    Tuesday, last several days'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump
+  headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8615
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8279
+  strength: 0.827
 - slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
   headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.82
+  strength: 0.8191
+- slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
+  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+    arrive
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7889
+- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
+  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7325
 - slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
   headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6709
+  strength: 0.6713
 - slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
   headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6857
+  strength: 0.6863
 - slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
   headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
   publish_date: '2026-10-15'
   relation: related
   strength: 0.6726
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6894
-- slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
-  headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6823
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6806
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6715
-- slug: 2026-10-11-trump-declares-energy-ceasefire-as-russia-keeps-striking-ukraine
-  headline: Trump declares energy ceasefire as Russia keeps striking Ukraine
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6739
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6685
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6871
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6745
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7131
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7032
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6965
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7031
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6732
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6692
-- slug: 2026-04-10-putin-declares-32-hour-ceasefire-in-ukraine-for-orthodox-easter
-  headline: Putin declares 32-hour ceasefire in Ukraine for Orthodox Easter
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6798
 ---
-
 ## Lubinets says Oleshky ceasefire to start Tuesday, last several days
 
 **Subtype:** fact

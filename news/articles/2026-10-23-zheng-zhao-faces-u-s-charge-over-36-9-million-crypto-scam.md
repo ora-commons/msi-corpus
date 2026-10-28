@@ -2,8 +2,26 @@
 headline: Zheng Zhao faces U.S. charge over $36.9 million crypto scam
 secondary_headline: Scammers used fake trading sites to target 174 U.S. victims
 publish_date: '2026-10-23'
-lede: Zheng Zhao, 44, a Chinese national, was extradited from the Netherlands and appeared Friday in the Central District of California, where he was arraigned on a charge of conspiracy to commit money laundering. Federal prosecutors allege Zhao participated in an international criminal network that targeted 174 U.S. victims with fraudulent cryptocurrency investments. According to prosecutors, more than $36.9 million in victim funds was transferred from U.S. bank accounts controlled by conspiracy members to a Deltec Bank account in the Bahamas. Prosecutors said Zhao and his co-conspirators arranged for the money to be converted into Tether before it was transferred to digital wallets controlled in Cambodia; the funds were then distributed to leaders of scam centers operating in the region.
-nut_graf: The Department of Justice alleges that Zhao participated in an international criminal network operating through scam centers in Cambodia that targeted U.S. victims with fraudulent cryptocurrency investments. According to prosecutors, more than $36.9 million in victim funds was transferred from U.S. bank accounts controlled by conspiracy members to a Deltec Bank account in the Bahamas. Prosecutors said Zhao and his co-conspirators arranged for the money to be converted into Tether before it was transferred to digital wallets controlled in Cambodia, after which the funds were distributed to leaders of scam centers operating in the region. Zhao is charged with conspiracy to commit money laundering, and eight other defendants have pleaded guilty in connection with the scheme.
+lede: Zheng Zhao, 44, a Chinese national, was extradited from the Netherlands and
+  appeared Friday in the Central District of California, where he was arraigned on
+  a charge of conspiracy to commit money laundering. Federal prosecutors allege Zhao
+  participated in an international criminal network that targeted 174 U.S. victims
+  with fraudulent cryptocurrency investments. According to prosecutors, more than
+  $36.9 million in victim funds was transferred from U.S. bank accounts controlled
+  by conspiracy members to a Deltec Bank account in the Bahamas. Prosecutors said
+  Zhao and his co-conspirators arranged for the money to be converted into Tether
+  before it was transferred to digital wallets controlled in Cambodia; the funds were
+  then distributed to leaders of scam centers operating in the region.
+nut_graf: The Department of Justice alleges that Zhao participated in an international
+  criminal network operating through scam centers in Cambodia that targeted U.S. victims
+  with fraudulent cryptocurrency investments. According to prosecutors, more than
+  $36.9 million in victim funds was transferred from U.S. bank accounts controlled
+  by conspiracy members to a Deltec Bank account in the Bahamas. Prosecutors said
+  Zhao and his co-conspirators arranged for the money to be converted into Tether
+  before it was transferred to digital wallets controlled in Cambodia, after which
+  the funds were distributed to leaders of scam centers operating in the region. Zhao
+  is charged with conspiracy to commit money laundering, and eight other defendants
+  have pleaded guilty in connection with the scheme.
 primary_entities:
 - Zheng Zhao
 - A. Tysen Duva
@@ -43,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +160,42 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-14-changli-luo-pleads-guilty-to-wire-fraud-against-billionaire-wesley-edens
-  headline: Changli Luo pleads guilty to wire fraud against billionaire Wesley Edens
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6254
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6487
-- slug: 2026-10-02-doj-dismantles-2-million-hamas-funding-network-in-us-france
-  headline: DOJ dismantles $2 million Hamas funding network in US, France
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6367
-- slug: 2026-10-03-venezuelan-man-pleads-not-guilty-in-atm-jackpotting-malware-case
-  headline: Venezuelan man pleads not guilty in ATM jackpotting malware case
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6312
 - slug: 2026-09-08-malone-lam-pleads-guilty-to-federal-racketeering-charge
   headline: Malone Lam pleads guilty to federal racketeering charge
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6628
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.636
+  strength: 0.6632
 - slug: 2026-09-07-malone-lam-faces-tuesday-plea-hearing-over-alleged-240m-bitcoin-theft
   headline: Malone Lam faces Tuesday plea hearing over alleged $240M bitcoin theft
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6598
-- slug: 2026-09-10-hundreds-of-victims-seek-share-of-225-million-seized-in-operation-big-tuna
-  headline: Hundreds of victims seek share of $225 million seized in Operation Big Tuna
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.649
-- slug: 2026-09-12-six-nigerian-fraud-suspects-arrive-in-us-after-cape-town-extradition
-  headline: Six Nigerian fraud suspects arrive in US after Cape Town extradition
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6346
+  strength: 0.6608
 - slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
   headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6633
+  strength: 0.6635
 - slug: 2026-08-18-georgia-man-faces-165m-crypto-fraud-charges-after-fiji-deportation
   headline: Georgia man faces $165M crypto fraud charges after Fiji deportation
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6537
-- slug: 2026-08-07-daniel-gordiano-valenzuela-pleads-guilty-in-nearly-2-million-laundering-case
-  headline: Daniel Gordiano Valenzuela pleads guilty in nearly $2 million laundering case
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6387
-- slug: 2026-08-12-doj-charges-11-in-decade-long-sham-marriage-scheme-targeting-chinese-nationals
-  headline: DOJ charges 11 in decade-long sham marriage scheme targeting Chinese nationals
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6253
+  strength: 0.6546
 - slug: 2026-04-24-u-s-charges-2-chinese-nationals-in-myanmar-cyberscam-compound-case
   headline: U.S. charges 2 Chinese nationals in Myanmar cyberscam compound case
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.7271
+  strength: 0.7279
 - slug: 2026-07-02-alleged-scattered-spider-hacker-extradited-to-us-from-finland
   headline: Alleged Scattered Spider hacker extradited to US from Finland
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6729
-- slug: 2026-06-29-judge-orders-guo-wengui-to-forfeit-889-million-sentences-him-to-30-years
-  headline: Judge orders Guo Wengui to forfeit $889 million, sentences him to 30 years
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6494
-- slug: 2026-07-09-ex-epoch-times-cfo-pleads-guilty-to-money-laundering-conspiracy
-  headline: Ex-Epoch Times CFO pleads guilty to money laundering conspiracy
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6338
-- slug: 2026-07-01-new-york-woman-charged-with-sending-30k-in-crypto-to-palestinian-islamic-jihad
-  headline: New York woman charged with sending $30K in crypto to Palestinian Islamic Jihad
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6291
-- slug: 2026-06-30-four-men-charged-in-529-000-atm-jackpotting-scheme
-  headline: Four men charged in $529,000 ATM 'jackpotting' scheme
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6252
+  strength: 0.6734
 - slug: 2026-02-06-justice-department-targets-cartels-financial-networks-with-cryptocurrency
   headline: Justice Department targets cartels’ financial networks with cryptocurrency
   publish_date: '2026-02-06'
   relation: related
-  strength: 0.6808
+  strength: 0.6804
 ---
-
 ## Zheng Zhao faces U.S. charge over $36.9 million crypto scam
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-secondary_headline: Alaska Supreme Court rejected earlier efforts to remove the namesake candidate
+headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+  loses
+secondary_headline: Alaska Supreme Court rejected earlier efforts to remove the namesake
+  candidate
 publish_date: '2026-10-23'
-lede: The Justice Department filed a federal lawsuit Thursday seeking to block Alaska from certifying its U.S. Senate results if Republican Sen. Dan Sullivan loses by a margin smaller than Dan J. Sullivan's vote total. The department argues that including Dan J. Sullivan on the ballot could lead voters to cast votes for the wrong candidate. Polls suggest Democrat Mary Peltola holds a narrow lead in the final days before the Nov. 3 midterm elections.
-nut_graf: The lawsuit asks a federal judge to delay or bar certification if Dan Sullivan loses and the other Sullivan's vote total suggests possible voter confusion, extending a ballot dispute that previously reached the Alaska Supreme Court into federal court.
+lede: The Justice Department filed a federal lawsuit Thursday seeking to block Alaska
+  from certifying its U.S. Senate results if Republican Sen. Dan Sullivan loses by
+  a margin smaller than Dan J. Sullivan's vote total. The department argues that including
+  Dan J. Sullivan on the ballot could lead voters to cast votes for the wrong candidate.
+  Polls suggest Democrat Mary Peltola holds a narrow lead in the final days before
+  the Nov. 3 midterm elections.
+nut_graf: The lawsuit asks a federal judge to delay or bar certification if Dan Sullivan
+  loses and the other Sullivan's vote total suggests possible voter confusion, extending
+  a ballot dispute that previously reached the Alaska Supreme Court into federal court.
 primary_entities:
 - Alaska
 - Justice Department
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +149,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo.png
-  alt: 'Illustration accompanying article: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses'
+  alt: 'Illustration accompanying article: Justice Department seeks to block Alaska
+    Senate certification if Dan Sullivan loses'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
+- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
+  headline: Justice Department files pre-election challenge to Alaska Senate certification
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.7542
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
+  strength: 0.9025
+- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
+  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6793
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
+  strength: 0.9024
+- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6563
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
+  strength: 0.8817
+- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
+  headline: Legal experts say Alaska Senate certification suit has no chance of success
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.7541
-- slug: 2026-09-24-peltola-s-campaign-calls-nyt-report-on-her-staff-conduct-exaggerated
-  headline: Peltola's campaign calls NYT report on her staff conduct exaggerated
-  publish_date: '2026-09-24'
+  strength: 0.8679
+- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
+  headline: Blanche defends lawsuit to block Alaska Senate certification
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.671
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
+  strength: 0.814
+- slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
+  headline: Blanche won't rule out DOJ role in state election certification
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.7437
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
+  strength: 0.8099
+- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
+  headline: Blanche frames Alaska election suit as federal-law test
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.7298
-- slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
-  headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
-  publish_date: '2026-07-11'
+  strength: 0.8077
+- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
+  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.7871
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.8093
-- slug: 2026-06-30-alaska-supreme-court-rules-challenger-dan-sullivan-can-stay-on-primary-ballot
-  headline: Alaska Supreme Court rules challenger Dan Sullivan can stay on primary ballot
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7785
-- slug: 2026-06-03-two-dan-sullivans-appear-on-alaska-senate-primary-ballot
-  headline: Two Dan Sullivans appear on Alaska Senate primary ballot
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7885
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6839
-- slug: 2026-06-12-alaska-election-official-threatens-to-disqualify-candidate-dan-sullivan-from-sen
-  headline: Alaska election official threatens to disqualify candidate Dan Sullivan from Senate primary
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7657
-- slug: 2026-06-22-alaska-senate-challenger-dan-sullivan-sues-to-get-on-primary-ballot
-  headline: Alaska Senate challenger Dan Sullivan sues to get on primary ballot
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7567
-- slug: 2026-06-09-challenger-dan-sullivan-says-alaska-senate-run-is-his-choice-not-a-democratic-sc
-  headline: Challenger Dan Sullivan says Alaska Senate run is his choice, not a Democratic scheme
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.763
-- slug: 2026-08-15-sullivan-campaign-links-peltola-to-harris-after-fundraising-email-rejection
-  headline: Sullivan campaign links Peltola to Harris after fundraising-email rejection
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6653
-- slug: 2026-06-27-alaska-judge-rules-challenger-dan-sullivan-can-appear-on-primary-ballot
-  headline: Alaska judge rules challenger Dan Sullivan can appear on primary ballot
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7169
-- slug: 2026-01-12-peltola-enters-alaska-senate-race-challenging-gop-incumbent-sullivan
-  headline: Peltola enters Alaska Senate race, challenging GOP incumbent Sullivan
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7248
-- slug: 2026-04-22-alaska-groups-sue-over-sharing-full-voter-list-with-doj
-  headline: Alaska groups sue over sharing full voter list with DOJ
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7075
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6416
+  strength: 0.8044
 ---
-
 ## Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
 
 **Subtype:** fact

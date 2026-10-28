@@ -2,8 +2,18 @@
 headline: Étienne Jarrier says CRS continued gassing orchestra after crowd dispersed
 secondary_headline: Orchestra members had asked CRS for warning before gas deployment
 publish_date: '2026-10-23'
-lede: Riot police encircled Place de la République last Saturday and fired tear-gas canisters to disperse demonstrators while Étienne Jarrier and the Orchestre du Nouveau Monde played on, The Guardian reported. Jarrier said the orchestra kept playing after nearly everyone else had disappeared and gas continued into the central Paris square, then stopped after canisters landed in double bass and music stand cases and started fires. The French Ministry of Defence and Paris police prefecture did not respond.
-nut_graf: 'The account raises an unanswered question about the sequence Jarrier described: why CRS officers kept using tear gas after orchestra members announced a peaceful performance and the surrounding crowd dispersed. Jarrier said members asked CRS representatives to warn them before a charge or gas deployment and were told they would receive warning; the ministry and prefecture did not explain the sequence.'
+lede: Riot police encircled Place de la République last Saturday and fired tear-gas
+  canisters to disperse demonstrators while Étienne Jarrier and the Orchestre du Nouveau
+  Monde played on, The Guardian reported. Jarrier said the orchestra kept playing
+  after nearly everyone else had disappeared and gas continued into the central Paris
+  square, then stopped after canisters landed in double bass and music stand cases
+  and started fires. The French Ministry of Defence and Paris police prefecture did
+  not respond.
+nut_graf: 'The account raises an unanswered question about the sequence Jarrier described:
+  why CRS officers kept using tear gas after orchestra members announced a peaceful
+  performance and the surrounding crowd dispersed. Jarrier said members asked CRS
+  representatives to warn them before a charge or gas deployment and were told they
+  would receive warning; the ministry and prefecture did not explain the sequence.'
 primary_entities:
 - Étienne Jarrier
 - Orchestre du Nouveau Monde
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +160,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
-  headline: Macron says some leaders used French unrest for political campaigns
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5864
-- slug: 2026-10-20-french-police-pursue-suspects-after-weekend-violence
-  headline: French police pursue suspects after weekend violence
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5899
 - slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
   headline: French police fire tear gas as 256,000 rally nationwide for school funding
   publish_date: '2026-10-06'
   relation: related
   strength: 0.6678
-- slug: 2026-10-22-macron-convenes-security-talks-as-lecornu-meets-party-leaders
-  headline: Macron convenes security talks as Lecornu meets party leaders
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5426
-- slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
-  headline: Youth-led protests over French schools draw hundreds of thousands
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6075
-- slug: 2026-06-05-new-jersey-governor-faces-backlash-over-police-response-at-delaney-hall-protests
-  headline: New Jersey governor faces backlash over police response at Delaney Hall protests
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5705
-- slug: 2026-03-30-dozens-arrested-after-no-kings-rally-in-los-angeles
-  headline: Dozens arrested after 'No Kings' rally in Los Angeles
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.5843
-- slug: 2026-02-08-italian-police-fire-tear-gas-as-protesters-clash-near-olympic-venue
-  headline: Italian police fire tear gas as protesters clash near Olympic venue
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5868
-- slug: 2026-06-03-police-block-press-from-delaney-hall-protests-arrest-three-journalists
-  headline: Police block press from Delaney Hall protests, arrest three journalists
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5497
-- slug: 2026-06-01-several-arrested-at-nj-ice-facility-as-protesters-defy-curfew-amid-ongoing-clash
-  headline: Several arrested at NJ ICE facility as protesters defy curfew amid ongoing clashes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5486
-- slug: 2026-02-02-portland-mayor-demands-ice-leave-city-after-tear-gas-used-at-protest
-  headline: Portland mayor demands ICE leave city after tear gas used at protest
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.5795
-- slug: 2026-01-17-tear-gas-floods-minneapolis-family-s-suv-infant-and-two-children-hospitalized
-  headline: Tear gas floods Minneapolis family's SUV; infant and two children hospitalized
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.5718
-- slug: 2026-02-14-knife-wielding-man-fatally-shot-by-police-at-arc-de-triomphe-in-paris
-  headline: Knife-wielding man fatally shot by police at Arc de Triomphe in Paris
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.5663
-- slug: 2026-02-08-greek-police-detain-313-after-riot-police-attacked-near-thessaloniki-university
-  headline: Greek police detain 313 after riot police attacked near Thessaloniki university
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5639
-- slug: 2026-03-07-portland-judge-bars-tear-gas-from-reaching-apartment-complex-near-ice-facility
-  headline: Portland judge bars tear gas from reaching apartment complex near ICE facility
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5595
-- slug: 2026-03-31-haiti-gang-gran-grif-attacks-artibonite-town-activists-say-30-dead
-  headline: Haiti gang Gran Grif attacks Artibonite town; activists say 30 dead
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5524
-- slug: 2026-02-25-louvre-museum-director-resigns-after-crown-jewels-theft-ticket-fraud-probe
-  headline: Louvre Museum director resigns after crown jewels theft, ticket fraud probe
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5583
-- slug: 2026-03-29-french-police-foil-suspected-bomb-plot-outside-bank-of-america-in-paris
-  headline: French police foil suspected bomb plot outside Bank of America in Paris
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5511
-- slug: 2026-03-05-new-jersey-man-pleads-guilty-to-bringing-explosives-to-dc-church-before-red-mass
-  headline: New Jersey man pleads guilty to bringing explosives to DC church before Red Mass
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5538
-- slug: 2026-03-24-uk-police-investigate-after-jewish-charity-ambulances-set-ablaze
-  headline: UK police investigate after Jewish charity ambulances set ablaze
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5495
 ---
-
 ## Étienne Jarrier says CRS continued gassing orchestra after crowd dispersed
 
 **Subtype:** fact

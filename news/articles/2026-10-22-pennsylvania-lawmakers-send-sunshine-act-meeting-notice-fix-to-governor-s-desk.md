@@ -1,9 +1,22 @@
 ---
-headline: Pennsylvania lawmakers send Sunshine Act meeting-notice fix to governor's desk
-secondary_headline: State Supreme Court ruling widened exceptions to the 24-hour agenda rule
+headline: Pennsylvania lawmakers send Sunshine Act meeting-notice fix to governor's
+  desk
+secondary_headline: State Supreme Court ruling widened exceptions to the 24-hour agenda
+  rule
 publish_date: '2026-10-22'
-lede: Pennsylvania lawmakers sent a bill to Gov. Josh Shapiro's desk on Wednesday that would close a loophole in the state's Sunshine Act. The law generally requires local and state government bodies, including school boards and municipal councils, to publicize their voting agendas 24 hours in advance of public meetings, subject to specified exceptions; a state Supreme Court decision late last year expanded those exceptions. State Sens. Patrick Stefano and Jarrett Coleman authored the measure, which passed the Senate unanimously in June and cleared the House 182-21 on Wednesday. A spokesperson for Shapiro said the governor intends to sign the bill.
-nut_graf: 'The 24-hour posting rule is a central transparency requirement under the Sunshine Act: the more people know about what their government is voting on, the better positioned they are to have a voice in the decision-making process. The bill would close the gap the state Supreme Court opened and now awaits Gov. Shapiro''s signature.'
+lede: Pennsylvania lawmakers sent a bill to Gov. Josh Shapiro's desk on Wednesday
+  that would close a loophole in the state's Sunshine Act. The law generally requires
+  local and state government bodies, including school boards and municipal councils,
+  to publicize their voting agendas 24 hours in advance of public meetings, subject
+  to specified exceptions; a state Supreme Court decision late last year expanded
+  those exceptions. State Sens. Patrick Stefano and Jarrett Coleman authored the measure,
+  which passed the Senate unanimously in June and cleared the House 182-21 on Wednesday.
+  A spokesperson for Shapiro said the governor intends to sign the bill.
+nut_graf: 'The 24-hour posting rule is a central transparency requirement under the
+  Sunshine Act: the more people know about what their government is voting on, the
+  better positioned they are to have a voice in the decision-making process. The bill
+  would close the gap the state Supreme Court opened and now awaits Gov. Shapiro''s
+  signature.'
 primary_entities:
 - Josh Shapiro
 - Patrick Stefano
@@ -38,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +150,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-20-california-governor-signs-election-security-bills-making-ballot-seizure-a-felony
-  headline: California governor signs election security bills making ballot seizure a felony
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5996
-- slug: 2026-09-03-trump-administration-misses-citizenship-list-deadline-as-epic-files-motion
-  headline: Trump administration misses citizenship list deadline as EPIC files motion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6222
 - slug: 2026-08-18-shapiro-pulls-data-centers-from-pennsylvania-s-permit-fast-track
   headline: Shapiro pulls data centers from Pennsylvania's permit fast track
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6514
-- slug: 2026-09-03-epa-proposes-ending-public-comment-mandate-for-data-center-air-permits
-  headline: EPA proposes ending public-comment mandate for data center air permits
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5973
-- slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6112
-- slug: 2026-07-23-pennsylvania-budget-relaxes-lead-reporting-standard-for-school-water-tests
-  headline: Pennsylvania budget relaxes lead-reporting standard for school water tests
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6042
-- slug: 2026-07-24-pennsylvania-child-death-review-gets-242-000-far-below-requested-2-5m
-  headline: Pennsylvania child death review gets $242,000, far below requested $2.5M
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5918
-- slug: 2026-05-17-pennsylvania-primary-elections-set-for-tuesday-with-key-house-races-in-focus
-  headline: Pennsylvania primary elections set for Tuesday, with key House races in focus
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-18-california-bill-would-reshape-public-records-law-transparency-advocates-warn
-  headline: California bill would reshape public records law, transparency advocates warn
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5991
-- slug: 2026-04-23-josh-shapiro-tests-political-power-in-pennsylvania-s-midterms
-  headline: Josh Shapiro tests political power in Pennsylvania’s midterms
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6198
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration
-  headline: Montana judge blocks law limiting Election Day voter registration
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6103
-- slug: 2026-05-19-shapiro-backed-democrats-win-pennsylvania-house-primaries-governor-s-race-set
-  headline: Shapiro-backed Democrats win Pennsylvania House primaries, governor's race set
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5977
-- slug: 2026-05-16-california-lawmakers-rush-25-million-grant-to-struggling-hospitals
-  headline: California lawmakers rush $25 million grant to struggling hospitals
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5984
-- slug: 2026-05-21-montana-land-board-overhauls-land-swap-process-after-yearslong-dispute
-  headline: Montana Land Board overhauls land-swap process after yearslong dispute
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5952
-- slug: 2026-05-21-montana-land-board-adopts-new-land-swap-criteria-after-limited-public-notice
-  headline: Montana Land Board adopts new land-swap criteria after limited public notice
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5933
-- slug: 2026-05-22-pa-can-move-ahead-with-broadband-expansion-after-wage-dispute-reversal
-  headline: Pa. can move ahead with broadband expansion after wage-dispute reversal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5922
-- slug: 2026-05-21-pennsylvania-can-move-ahead-with-700m-broadband-expansion-after-federal-wage-dis
-  headline: Pennsylvania can move ahead with $700M broadband expansion after federal wage-dispute reversal
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5924
-- slug: 2026-04-24-josh-shapiro-tests-political-power-in-pennsylvania-s-2026-midterms
-  headline: Josh Shapiro tests political power in Pennsylvania’s 2026 midterms
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6019
-- slug: 2026-05-02-confusion-over-south-dakota-s-new-voter-id-rules-complicates-registration
-  headline: Confusion over South Dakota’s new voter ID rules complicates registration
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.596
-- slug: 2026-04-17-tennessee-senate-votes-18-14-to-expand-school-vouchers-to-35-000
-  headline: Tennessee Senate votes 18-14 to expand school vouchers to 35,000
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5967
+  strength: 0.6517
 ---
-
 ## Pennsylvania lawmakers send Sunshine Act meeting-notice fix to governor's desk
 
 **Subtype:** fact

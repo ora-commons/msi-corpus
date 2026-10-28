@@ -1,9 +1,22 @@
 ---
-headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-secondary_headline: Federal hearing over roughly 20,000 ‘likely’ noncitizen voters set for Tuesday
+headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+  ballots
+secondary_headline: Federal hearing over roughly 20,000 ‘likely’ noncitizen voters
+  set for Tuesday
 publish_date: '2026-10-24'
-lede: Federal prosecutors told California county registrars on Friday to set aside and verify ballots that the Department of Justice said may belong to noncitizens, according to the Los Angeles County registrar's office and a letter obtained by the Associated Press. At least 18 counties received similar letters, giving officials 48 hours to provide identifying information and sequester ballots whose citizenship cannot be verified. The action followed a federal lawsuit seeking to block the counting of votes for roughly 20,000 people labeled “likely” noncitizen voters, with a hearing scheduled for Tuesday.
-nut_graf: The dispute centers on federal requests for voter information that California says could delay certification, undermine the legitimacy of the November midterms and risk disenfranchising citizens. The Guardian reported that data shows illegal voting by noncitizens is rare, difficult to prove and has not been shown to change the outcome of races.
+lede: Federal prosecutors told California county registrars on Friday to set aside
+  and verify ballots that the Department of Justice said may belong to noncitizens,
+  according to the Los Angeles County registrar's office and a letter obtained by
+  the Associated Press. At least 18 counties received similar letters, giving officials
+  48 hours to provide identifying information and sequester ballots whose citizenship
+  cannot be verified. The action followed a federal lawsuit seeking to block the counting
+  of votes for roughly 20,000 people labeled “likely” noncitizen voters, with a hearing
+  scheduled for Tuesday.
+nut_graf: The dispute centers on federal requests for voter information that California
+  says could delay certification, undermine the legitimacy of the November midterms
+  and risk disenfranchising citizens. The Guardian reported that data shows illegal
+  voting by noncitizens is rare, difficult to prove and has not been shown to change
+  the outcome of races.
 primary_entities:
 - Department of Justice
 - California
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -145,108 +159,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8722
+- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
+  headline: California election officials question DOJ voter list, keep counting
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8614
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8201
+- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
+  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8149
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8478
+  strength: 0.8485
+- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
+  headline: California ballot dispute reaches 9th Circuit
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8135
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8121
 - slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
   headline: Legal experts call DOJ California ballot lawsuit "a long shot"
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.839
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.8368
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8168
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8469
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8021
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7679
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8077
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7524
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7783
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7343
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7582
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7195
-- slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
-  headline: Solicitor general files appeal to revive blocked immigration-voter database
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7137
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7617
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7268
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7808
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7611
-- slug: 2026-06-02-california-slow-vote-counting-could-delay-primary-results-for-weeks
-  headline: California slow vote counting could delay primary results for weeks
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7548
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7241
+  strength: 0.8388
 ---
-
 ## California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-secondary_headline: Jeffries names Hegseth removal among Democrats' first acts in a majority
+secondary_headline: Jeffries names Hegseth removal among Democrats' first acts in
+  a majority
 publish_date: '2026-10-23'
-lede: House Democrats are positioning for the removal of Defense Secretary Pete Hegseth, with an impeachment vote likely next month while Republicans still control the chamber and another attempt expected next year if the party takes the House. House Minority Leader Hakeem Jeffries said removing Hegseth would be among the first actions Democrats would take in a majority, and Rep. Thomas Massie (R., Ky.) said he plans to force an impeachment vote shortly after the House returns to session on Nov. 9.
-nut_graf: 'The effort sets up two tracks: a November vote that needs at least two Republicans to join Massie while he holds the seat, and a Democratic majority in January that could open investigations and use subpoena power before deciding whether to call for Hegseth''s resignation or to impeach him.'
+lede: House Democrats are positioning for the removal of Defense Secretary Pete Hegseth,
+  with an impeachment vote likely next month while Republicans still control the chamber
+  and another attempt expected next year if the party takes the House. House Minority
+  Leader Hakeem Jeffries said removing Hegseth would be among the first actions Democrats
+  would take in a majority, and Rep. Thomas Massie (R., Ky.) said he plans to force
+  an impeachment vote shortly after the House returns to session on Nov. 9.
+nut_graf: 'The effort sets up two tracks: a November vote that needs at least two
+  Republicans to join Massie while he holds the seat, and a Democratic majority in
+  January that could open investigations and use subpoena power before deciding whether
+  to call for Hegseth''s resignation or to impeach him.'
 primary_entities:
 - Pete Hegseth
 - Hakeem Jeffries
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,116 +158,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9.png
-  alt: 'Illustration accompanying article: Massie plans Hegseth impeachment vote when House returns Nov. 9'
+  alt: 'Illustration accompanying article: Massie plans Hegseth impeachment vote when
+    House returns Nov. 9'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
+  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump
+    on Iran
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7362
+  strength: 0.735
 - slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
   headline: Massie moves to impeach Hegseth over Iran war
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8086
+  strength: 0.8084
 - slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
   headline: Massie files articles of impeachment against Hegseth over Iran war
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7547
-- slug: 2026-09-29-hegseth-to-announce-20-cut-to-general-admiral-positions
-  headline: Hegseth to announce 20% cut to general, admiral positions
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6877
+  strength: 0.7543
 - slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
   headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6824
+  strength: 0.684
+- slug: 2026-09-29-hegseth-to-announce-20-cut-to-general-admiral-positions
+  headline: Hegseth to announce 20% cut to general, admiral positions
+  publish_date: '2026-09-29'
+  relation: related
+  strength: 0.6875
 - slug: 2026-09-30-at-least-20-generals-admirals-departed-under-hegseth
   headline: At least 20 generals, admirals departed under Hegseth
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6796
+  strength: 0.6802
 - slug: 2026-09-28-himes-readies-house-intelligence-probes-of-spy-industry-s-trump-dealings
   headline: Himes readies House Intelligence probes of spy-industry's Trump dealings
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6795
-- slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
-  headline: Hegseth attacks press, doubles general-officer cut at Quantico
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6667
+  strength: 0.6787
 - slug: 2026-09-16-johnson-cancels-house-votes-avoiding-hegseth-impeachment-resolution
   headline: Johnson cancels House votes, avoiding Hegseth impeachment resolution
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.705
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6905
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7191
-- slug: 2026-09-03-jeffries-previews-democratic-agenda-for-potential-house-majority
-  headline: Jeffries previews Democratic agenda for potential House majority
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6761
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6717
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7181
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7001
-- slug: 2026-07-14-house-democratic-leaders-split-on-measure-to-cut-3-3b-in-israel-aid
-  headline: House Democratic leaders split on measure to cut $3.3B in Israel aid
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6858
-- slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6727
-- slug: 2026-06-26-hegseth-seeks-republican-support-for-1-5t-defense-budget-via-reconciliation
-  headline: Hegseth seeks Republican support for $1.5T defense budget via reconciliation
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7028
-- slug: 2026-05-19-hegseth-targets-massie-in-kentucky-primary-calling-trump-critic-desperate
-  headline: Hegseth targets Massie in Kentucky primary, calling Trump critic ‘desperate’
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7231
-- slug: 2026-05-19-hegseth-assails-massie-in-kentucky-primary-praises-trump-backed-challenger
-  headline: Hegseth assails Massie in Kentucky primary, praises Trump-backed challenger
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7167
+  strength: 0.7043
 ---
-
 ## Massie plans Hegseth impeachment vote when House returns Nov. 9
 
 **Subtype:** fact

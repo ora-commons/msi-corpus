@@ -1,9 +1,20 @@
 ---
 headline: USS George Washington replenishes in Arabian Sea as Iran strikes stay undecided
-secondary_headline: Journal observed flight operations and munitions delivery during rare visit
+secondary_headline: Journal observed flight operations and munitions delivery during
+  rare visit
 publish_date: '2026-10-24'
-lede: On October 24, 2026, The Wall Street Journal reported that American warships in the Middle East are preparing for an escalation in fighting in case President Trump opts for a fresh round of attacks against Iran in the coming weeks, according to U.S. officials familiar with the planning. Separately, The Wall Street Journal documented flight operations and a significant replenishment of munitions and supplies during a rare visit to USS George Washington and a guided-missile destroyer operating in the Arabian Sea. Officials cautioned that no decision had been made.
-nut_graf: The replenishment included a large delivery of standoff land attack missiles and bunker-buster bombs, adding detail to what U.S. officials described as preparations for a possible escalation in fighting. The Pentagon's options process and the caution that no decision has been made leave the question of a fresh round of attacks against Iran unresolved.
+lede: On October 24, 2026, The Wall Street Journal reported that American warships
+  in the Middle East are preparing for an escalation in fighting in case President
+  Trump opts for a fresh round of attacks against Iran in the coming weeks, according
+  to U.S. officials familiar with the planning. Separately, The Wall Street Journal
+  documented flight operations and a significant replenishment of munitions and supplies
+  during a rare visit to USS George Washington and a guided-missile destroyer operating
+  in the Arabian Sea. Officials cautioned that no decision had been made.
+nut_graf: The replenishment included a large delivery of standoff land attack missiles
+  and bunker-buster bombs, adding detail to what U.S. officials described as preparations
+  for a possible escalation in fighting. The Pentagon's options process and the caution
+  that no decision has been made leave the question of a fresh round of attacks against
+  Iran unresolved.
 primary_entities:
 - USS George Washington
 - Nicholas DeLeo
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,28 +150,35 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
+  headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7784
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7367
+  strength: 0.7357
 - slug: 2026-10-08-trump-says-us-will-not-attack-iran-before-midterm-elections
   headline: Trump says US will not attack Iran before midterm elections
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7224
+  strength: 0.7218
 - slug: 2026-10-01-pentagon-sends-third-aircraft-carrier-and-up-to-10-000-troops-to-middle-east
-  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
+  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle
+    East
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.751
+  strength: 0.7514
 - slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
   headline: Iran threatens US bases as Trump weighs renewed bombing campaign
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7305
+  strength: 0.7286
 - slug: 2026-09-03-pentagon-keeps-50-000-troops-in-mideast-as-trump-weighs-declaring-war-over
-  headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over
+  headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war
+    over
   publish_date: '2026-09-03'
   relation: related
   strength: 0.747
@@ -172,74 +191,8 @@ related_stories:
   headline: USS George Washington heads to Middle East as Lincoln deployment continues
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.7416
-- slug: 2026-07-22-pentagon-sends-additional-forces-and-medics-to-middle-east-amid-iran-war-deliber
-  headline: Pentagon sends additional forces and medics to Middle East amid Iran war deliberations
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7456
-- slug: 2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war
-  headline: US surges forces to Middle East as Trump weighs expanding Iran war
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7182
-- slug: 2026-02-25-u-s-builds-largest-middle-east-force-in-decades-as-trump-warns-iran
-  headline: U.S. builds largest Middle East force in decades as Trump warns Iran
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7706
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7097
-- slug: 2026-02-27-us-military-assembles-biggest-middle-east-force-in-decades-experts-warn
-  headline: US military assembles biggest Middle East force in decades, experts warn
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7637
-- slug: 2026-01-23-pentagon-builds-largest-middle-east-force-in-decades-as-trump-threatens-iran
-  headline: Pentagon builds largest Middle East force in decades as Trump threatens Iran
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.7632
-- slug: 2026-04-01-more-u-s-troops-head-to-the-middle-east-as-trump-seeks-iran-talks
-  headline: More U.S. troops head to the Middle East as Trump seeks Iran talks
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7537
-- slug: 2026-02-26-trump-warns-of-possible-iran-action-as-pentagon-builds-middle-east-force
-  headline: Trump warns of possible Iran action as Pentagon builds Middle East force
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7549
-- slug: 2026-05-20-us-military-boards-iranian-flagged-tanker-in-gulf-of-oman
-  headline: US military boards Iranian-flagged tanker in Gulf of Oman
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7171
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7351
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.712
-- slug: 2026-03-24-us-prepares-to-send-at-least-1-000-82nd-airborne-troops-to-middle-east
-  headline: US prepares to send at least 1,000 82nd Airborne troops to Middle East
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.722
-- slug: 2026-01-26-uss-abraham-lincoln-arrives-in-middle-east-as-trump-weighs-iran-action
-  headline: USS Abraham Lincoln arrives in Middle East as Trump weighs Iran action
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.727
+  strength: 0.7421
 ---
-
 ## USS George Washington replenishes in Arabian Sea as Iran strikes stay undecided
 
 **Subtype:** fact

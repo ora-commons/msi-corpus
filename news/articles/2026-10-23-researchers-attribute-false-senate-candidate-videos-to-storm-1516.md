@@ -1,9 +1,21 @@
 ---
 headline: Researchers attribute false Senate-candidate videos to Storm-1516
-secondary_headline: Alethea found one fraudulent video drew roughly 857,000 views in 24 hours
+secondary_headline: Alethea found one fraudulent video drew roughly 857,000 views
+  in 24 hours
 publish_date: '2026-10-23'
-lede: Researchers attributed two fraudulent videos targeting a Democratic U.S. Senate candidate to Russian operators in Storm-1516. Researchers and lawmakers said Kremlin-backed groups are renewing familiar tactics used in previous elections in the U.S. and around the world to sow distrust and discord. The distribution playbook seeks to put false material in front of real people for them to see and repeat. Rep. Jim Himes said lawmakers had seen a classified report showing Russia opposes candidates of either party who have backed Ukraine, but he said there was no indication of the capability or intent to interfere with voting mechanics.
-nut_graf: The reported distribution method starts with false claims or divisive narratives seeded on social media or on fake websites posing as news organizations or think tanks, then carried by state media, automated fake accounts or, increasingly, paid influencers. Researchers expect more false claims and fake videos, with the operations focusing on voting and ballot processing around Election Day.
+lede: Researchers attributed two fraudulent videos targeting a Democratic U.S. Senate
+  candidate to Russian operators in Storm-1516. Researchers and lawmakers said Kremlin-backed
+  groups are renewing familiar tactics used in previous elections in the U.S. and
+  around the world to sow distrust and discord. The distribution playbook seeks to
+  put false material in front of real people for them to see and repeat. Rep. Jim
+  Himes said lawmakers had seen a classified report showing Russia opposes candidates
+  of either party who have backed Ukraine, but he said there was no indication of
+  the capability or intent to interfere with voting mechanics.
+nut_graf: The reported distribution method starts with false claims or divisive narratives
+  seeded on social media or on fake websites posing as news organizations or think
+  tanks, then carried by state media, automated fake accounts or, increasingly, paid
+  influencers. Researchers expect more false claims and fake videos, with the operations
+  focusing on voting and ballot processing around Election Day.
 primary_entities:
 - Russia
 - United States
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +158,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-himes-warner-seek-election-day-contact-from-intelligence-leaders
-  headline: Himes, Warner seek Election Day contact from intelligence leaders
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6387
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6201
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6215
-- slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
-  headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.595
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5957
-- slug: 2026-10-15-florida-s-nixon-tops-tiktok-favorability-among-democrats-schumer-least
-  headline: Florida's Nixon tops TikTok favorability among Democrats; Schumer least
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6318
-- slug: 2026-10-14-senate-report-finds-tinder-scam-detection-models-went-years-without-updates
-  headline: Senate report finds Tinder scam-detection models went years without updates
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6221
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5897
-- slug: 2026-09-05-family-sextorted-via-group-chat-with-ai-generated-image-of-daughter
-  headline: Family sextorted via group chat with AI-generated image of daughter
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5993
 - slug: 2026-08-09-senate-democrats-test-responses-to-possible-election-disruptions
   headline: Senate Democrats test responses to possible election disruptions
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.6519
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5934
-- slug: 2026-08-20-rahil-prakash-says-he-created-fake-election-polls-that-spread
-  headline: Rahil Prakash says he created fake election polls that spread
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5933
-- slug: 2026-06-15-ai-generated-campaign-ads-surge-ahead-of-midterms-researchers-say
-  headline: AI-generated campaign ads surge ahead of midterms, researchers say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6326
-- slug: 2026-06-15-as-midterms-approach-campaigns-test-whether-internet-fame-can-win-votes
-  headline: As midterms approach, campaigns test whether internet fame can win votes
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6075
-- slug: 2026-06-22-wsj-investigation-finds-polymarket-ran-secret-social-media-campaign-with-fake-wi
-  headline: WSJ investigation finds Polymarket ran secret social media campaign with fake winning bets
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6005
-- slug: 2026-06-15-us-coast-guard-finds-dangerous-digital-tools-on-dark-fleet-tankers
-  headline: US Coast Guard finds dangerous digital tools on dark-fleet tankers
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5999
-- slug: 2026-06-08-five-primary-races-show-how-messy-the-2026-midterms-are-getting
-  headline: Five primary races show how messy the 2026 midterms are getting
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5895
-- slug: 2026-05-14-supporters-of-ukraine-aid-bill-force-house-vote-as-trump-claims-war-is-ending
-  headline: Supporters of Ukraine aid bill force House vote as Trump claims war is ending
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5929
-- slug: 2026-03-22-russia-blocks-telegram-related-protests-citing-shifting-local-excuses
-  headline: Russia blocks Telegram-related protests, citing shifting local excuses
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6062
-- slug: 2026-04-26-public-outcry-in-russia-tests-putin-s-rule-as-support-slips
-  headline: Public outcry in Russia tests Putin’s rule as support slips
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.591
+  strength: 0.6532
 ---
-
 ## Researchers attribute false Senate-candidate videos to Storm-1516
 
 **Subtype:** fact

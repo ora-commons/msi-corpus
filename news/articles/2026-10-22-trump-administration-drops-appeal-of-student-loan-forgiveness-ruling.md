@@ -2,8 +2,12 @@
 headline: Trump administration drops appeal of student loan forgiveness ruling
 secondary_headline: The program requires 10 years of service and qualifying payments
 publish_date: '2026-10-22'
-lede: The Trump administration dropped its appeal on Wednesday of a ruling that blocked an executive-order change to the Public Service Loan Forgiveness program. UPI reported that the administration offered no explanation for ending the appeal.
-nut_graf: The July ruling is the latest reported action in the case and barred the government from implementing the order. The retreat ends the administration's current appellate challenge, while UPI reported no explanation for the decision.
+lede: The Trump administration dropped its appeal on Wednesday of a ruling that blocked
+  an executive-order change to the Public Service Loan Forgiveness program. UPI reported
+  that the administration offered no explanation for ending the appeal.
+nut_graf: The July ruling is the latest reported action in the case and barred the
+  government from implementing the order. The retreat ends the administration's current
+  appellate challenge, while UPI reported no explanation for the decision.
 primary_entities:
 - Trump administration
 - Department of Education
@@ -51,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +155,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-trump-administration-drops-appeal-of-student-loan-forgiveness-ruling.png
-  alt: 'Illustration accompanying article: Trump administration drops appeal of student loan forgiveness ruling'
+  alt: 'Illustration accompanying article: Trump administration drops appeal of student
+    loan forgiveness ruling'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-09-29-trump-drops-second-circuit-appeal-of-5m-carroll-verdict
   headline: Trump drops Second Circuit appeal of $5M Carroll verdict
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6983
+  strength: 0.6977
 - slug: 2026-09-26-trump-deploys-pocket-rescission-to-cancel-nearly-1bn-in-approved-funding
   headline: Trump deploys pocket rescission to cancel nearly $1bn in approved funding
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6688
+  strength: 0.6689
 - slug: 2026-06-30-federal-judge-blocks-trump-rule-on-public-service-loan-forgiveness
   headline: Federal judge blocks Trump rule on public service loan forgiveness
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.8114
+  strength: 0.8117
 - slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
   headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.7772
+  strength: 0.7771
 - slug: 2026-07-22-trump-administration-cuts-legal-aid-funding-for-20-000-migrant-children
   headline: Trump administration cuts legal aid funding for 20,000 migrant children
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6833
+  strength: 0.6836
 - slug: 2026-04-14-democrats-seek-to-overturn-trump-rule-changing-public-service-loan-forgiveness
   headline: Democrats seek to overturn Trump rule changing Public Service Loan Forgiveness
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.7566
+  strength: 0.7562
 - slug: 2026-01-16-trump-administration-delays-student-loan-wage-garnishment-restart
   headline: Trump administration delays student loan wage garnishment restart
   publish_date: '2026-01-16'
   relation: related
-  strength: 0.7424
+  strength: 0.743
 - slug: 2026-07-16-trump-administration-caps-foreign-student-visas-at-four-years
   headline: Trump administration caps foreign student visas at four years
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6623
-- slug: 2026-06-29-education-department-shifts-programs-to-other-agencies-via-interagency-agreement
-  headline: Education Department shifts programs to other agencies via interagency agreements
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6782
-- slug: 2026-07-01-save-student-loan-plan-ends-millions-of-borrowers-face-90-day-switch
-  headline: SAVE student loan plan ends, millions of borrowers face 90-day switch
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6678
-- slug: 2026-02-13-trump-bill-save-pause-leave-borrowers-weighing-repayment-options
-  headline: Trump bill, SAVE pause leave borrowers weighing repayment options
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.722
-- slug: 2026-01-21-education-department-drops-appeal-over-anti-dei-funding-threats
-  headline: Education Department drops appeal over anti-DEI funding threats
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.712
-- slug: 2026-06-01-trump-administration-appeals-federal-order-allowing-all-importers-to-seek-tariff
-  headline: Trump administration appeals federal order allowing all importers to seek tariff refunds
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6735
-- slug: 2026-05-19-us-permanently-drops-tax-claims-against-trump-in-expanded-irs-settlement
-  headline: US permanently drops tax claims against Trump in expanded IRS settlement
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6777
-- slug: 2026-03-04-trump-reverses-course-on-law-firm-executive-orders-after-justice-department-shif
-  headline: Trump reverses course on law firm executive orders after Justice Department shift
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6891
-- slug: 2026-05-20-gobierno-de-eeuu-retira-reclamos-fiscales-contra-trump-en-acuerdo-del-irs
-  headline: Gobierno de EEUU retira reclamos fiscales contra Trump en acuerdo del IRS
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6606
-- slug: 2026-05-21-u-s-will-drop-tax-claims-against-trump-in-settlement-tied-to-lawsuit
-  headline: U.S. will drop tax claims against Trump in settlement tied to lawsuit
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6587
-- slug: 2026-05-19-u-s-permanently-drops-tax-claims-against-trump-bars-future-irs-audits
-  headline: U.S. permanently drops tax claims against Trump, bars future IRS audits
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6594
-- slug: 2026-05-19-democratic-led-states-sue-over-trump-caps-on-federal-student-loans
-  headline: Democratic-led states sue over Trump caps on federal student loans
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6592
-- slug: 2026-03-20-treasury-to-take-over-some-student-loan-management-as-education-dismantles
-  headline: Treasury to take over some student loan management as Education dismantles
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6754
+  strength: 0.6624
 ---
-
 ## Trump administration drops appeal of student loan forgiveness ruling
 
 **Subtype:** fact

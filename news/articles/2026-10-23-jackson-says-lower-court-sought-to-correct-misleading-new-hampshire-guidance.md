@@ -2,8 +2,20 @@
 headline: Jackson says lower court sought to correct misleading New Hampshire guidance
 secondary_headline: Ayotte's 2026 law removed student IDs; voter ID dates to 2012
 publish_date: '2026-10-23'
-lede: Ketanji Brown Jackson dissented from the majority in the Supreme Court's unsigned order on New Hampshire's student-ID rules, arguing that the lower-court judge who blocked a state directive was asking officials to correct guidance that “could mislead voters and local election workers.” By October 23, the court had cleared the way for New Hampshire to prohibit student IDs at the polls ahead of the November midterms, in a brief unsigned order that sided with a Republican National Committee-backed appeal. New Hampshire has required voters to present identification since 2012, and Republican Gov. Kelly Ayotte signed a law earlier in 2026 removing student IDs from the list of standard forms of voter ID.
-nut_graf: Voting-rights advocates say the student-ID restriction would disenfranchise young and low-income voters, including young voters who may not have access to a driver's license or passport. Republicans say the directive is needed to combat voter fraud, and The Guardian reported there is little evidence that voter fraud affects the outcome of elections.
+lede: Ketanji Brown Jackson dissented from the majority in the Supreme Court's unsigned
+  order on New Hampshire's student-ID rules, arguing that the lower-court judge who
+  blocked a state directive was asking officials to correct guidance that “could mislead
+  voters and local election workers.” By October 23, the court had cleared the way
+  for New Hampshire to prohibit student IDs at the polls ahead of the November midterms,
+  in a brief unsigned order that sided with a Republican National Committee-backed
+  appeal. New Hampshire has required voters to present identification since 2012,
+  and Republican Gov. Kelly Ayotte signed a law earlier in 2026 removing student IDs
+  from the list of standard forms of voter ID.
+nut_graf: Voting-rights advocates say the student-ID restriction would disenfranchise
+  young and low-income voters, including young voters who may not have access to a
+  driver's license or passport. Republicans say the directive is needed to combat
+  voter fraud, and The Guardian reported there is little evidence that voter fraud
+  affects the outcome of elections.
 primary_entities:
 - U.S. Supreme Court
 - New Hampshire
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,113 +162,58 @@ related_stories:
   headline: Supreme Court bars student IDs as backup identification in New Hampshire
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.806
+  strength: 0.8061
+- slug: 2026-10-22-student-id-ruling-precedes-new-hampshire-s-closely-contested-u-s-senate-race
+  headline: Student ID ruling precedes New Hampshire's closely contested U.S. Senate
+    race
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.786
+- slug: 2026-10-22-voters-will-decide-mail-ballot-identification-measures-in-california-colorado-an
+  headline: Voters will decide mail-ballot identification measures in California,
+    Colorado and Nevada
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6601
+- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
+  headline: Judge cites "high likelihood of error" in DHS list of people to visit
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.655
 - slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
   headline: Three states bar student IDs at polls as courts weigh challenges
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.8205
+  strength: 0.8208
 - slug: 2026-08-25-judge-suspends-ohio-voter-registration-document-rule-before-midterms
   headline: Judge suspends Ohio voter registration document rule before midterms
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6593
+  strength: 0.6591
 - slug: 2026-08-13-appeals-court-restores-texas-mail-ballot-id-assisted-voter-rules
   headline: Appeals court restores Texas mail ballot ID, assisted-voter rules
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6596
+  strength: 0.6593
 - slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
   headline: State election officials tighten voter rolls amid Trump push
   publish_date: '2026-08-11'
   relation: related
   strength: 0.6636
-- slug: 2026-07-21-software-bug-in-new-jersey-motor-vehicle-system-registered-6-600-noncitizens-to-
-  headline: Software bug in New Jersey motor vehicle system registered 6,600 noncitizens to vote
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6432
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration
-  headline: Montana judge blocks law limiting Election Day voter registration
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6867
-- slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
-  headline: Arizona proof-of-citizenship voting law heads to Supreme Court
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6496
-- slug: 2026-06-24-federal-judge-blocks-trump-proof-of-citizenship-voting-order
-  headline: Federal judge blocks Trump proof-of-citizenship voting order
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6544
-- slug: 2026-03-15-gop-save-act-documents-requirement-could-burden-voters-advocate-warns
-  headline: GOP SAVE Act documents requirement could burden voters, advocate warns
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6984
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration-citing-harm-to
-  headline: Montana judge blocks law limiting Election Day voter registration, citing harm to Native and young voters
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6764
-- slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-voting-requirement
-  headline: West Virginia primary tests new photo ID voting requirement
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6745
-- slug: 2026-05-02-confusion-over-south-dakota-s-new-voter-id-rules-complicates-registration
-  headline: Confusion over South Dakota’s new voter ID rules complicates registration
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.675
-- slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-requirement-at-polls
-  headline: West Virginia primary tests new photo ID requirement at polls
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6643
-- slug: 2026-01-30-house-republicans-propose-stricter-voting-rules-before-the-midterms
-  headline: House Republicans propose stricter voting rules before the midterms
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6855
-- slug: 2026-03-18-republicans-press-senate-on-save-citizenship-proof-for-new-voters
-  headline: Republicans press Senate on SAVE citizenship proof for new voters
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6742
-- slug: 2026-02-12-house-gop-advances-save-america-act-voter-id-push-ahead-of-midterms
-  headline: House GOP advances SAVE America Act voter ID push ahead of midterms
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.679
-- slug: 2026-03-21-democrats-call-save-voter-id-bill-too-strict-as-senate-debates
-  headline: Democrats call SAVE voter-ID bill too strict as Senate debates
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6708
-- slug: 2026-03-27-north-carolina-voter-id-law-upheld-by-federal-judge-in-bias-challenge
-  headline: North Carolina voter ID law upheld by federal judge in bias challenge
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6687
-- slug: 2026-05-10-southern-gop-gerrymandering-push-scrambles-primaries-confuses-voters
-  headline: Southern GOP gerrymandering push scrambles primaries, confuses voters
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6444
 image:
   url: /articles/2026-10-23-jackson-says-lower-court-sought-to-correct-misleading-new-hampshire-guidance.png
-  alt: "Illustration accompanying article: Jackson says lower court sought to correct misleading New Hampshire guidance"
+  alt: 'Illustration accompanying article: Jackson says lower court sought to correct
+    misleading New Hampshire guidance'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Jackson says lower court sought to correct misleading New Hampshire guidance
 
 **Subtype:** fact

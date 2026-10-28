@@ -2,8 +2,21 @@
 headline: Federal voter fraud cases target California citizenship applicants
 secondary_headline: Bañuelos-Díaz says he did not know he had registered to vote
 publish_date: '2026-10-23'
-lede: Federal authorities charged 28 legal permanent residents in California on Monday in cases involving allegations of illegally voting or registering to vote, according to The Associated Press. Most of the targeted immigrants had applied for U.S. citizenship and now face charges over alleged false statements on forms or during interviews; the Justice Department said six people would face a misdemeanor voting charge and 22 would face felony charges involving naturalization or voter-registration forms. José Antonio Bañuelos-Díaz, 42, is among those charged; federal documents allege he claimed citizenship in 2007 and lied on later immigration paperwork, but the government has not accused him of casting a ballot.
-nut_graf: The charges could lead to years in prison and thwart naturalization, while the charged immigrants could face deportation if they lied on citizenship applications. California disputes the Justice Department's request to verify the citizenship of roughly 20,000 registered voters, arguing that the state complies with federal law and the administration's figures are likely significantly inflated; California has more than 23 million registered voters.
+lede: Federal authorities charged 28 legal permanent residents in California on Monday
+  in cases involving allegations of illegally voting or registering to vote, according
+  to The Associated Press. Most of the targeted immigrants had applied for U.S. citizenship
+  and now face charges over alleged false statements on forms or during interviews;
+  the Justice Department said six people would face a misdemeanor voting charge and
+  22 would face felony charges involving naturalization or voter-registration forms.
+  José Antonio Bañuelos-Díaz, 42, is among those charged; federal documents allege
+  he claimed citizenship in 2007 and lied on later immigration paperwork, but the
+  government has not accused him of casting a ballot.
+nut_graf: The charges could lead to years in prison and thwart naturalization, while
+  the charged immigrants could face deportation if they lied on citizenship applications.
+  California disputes the Justice Department's request to verify the citizenship of
+  roughly 20,000 registered voters, arguing that the state complies with federal law
+  and the administration's figures are likely significantly inflated; California has
+  more than 23 million registered voters.
 primary_entities:
 - José Antonio Bañuelos-Díaz
 - Pamele Arbues Line
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +159,44 @@ related_stories:
   headline: Legal experts call DOJ California ballot lawsuit "a long shot"
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7968
+  strength: 0.7966
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7585
+  strength: 0.757
 - slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
   headline: DOJ charges 28 California green card holders over alleged illegal voting
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.783
+  strength: 0.7826
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7241
+  strength: 0.7231
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7444
+  strength: 0.7436
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7225
 - slug: 2026-10-23-omar-mu-oz-arrest-brings-scrutiny-to-federal-voter-fraud-prosecutions
   headline: Omar Muñoz arrest brings scrutiny to federal voter-fraud prosecutions
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7053
+  strength: 0.7052
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.726
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7096
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6928
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7304
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6974
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6746
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6796
-- slug: 2026-09-30-sixth-noncitizen-voting-indictment-of-september-lands-in-minnesota
-  headline: Sixth noncitizen voting indictment of September lands in Minnesota
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6913
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7019
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6666
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6889
-- slug: 2026-09-02-immigrant-rights-group-sues-to-block-federal-voter-database-use
-  headline: Immigrant rights group sues to block federal voter database use
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6761
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6837
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6818
+  strength: 0.7259
 ---
-
 ## Federal voter fraud cases target California citizenship applicants
 
 **Subtype:** fact

@@ -2,8 +2,19 @@
 headline: Early voting tops 23 million as Democrats outpace Republicans
 secondary_headline: Georgia turnout already exceeds 40% of 2022 midterm total
 publish_date: '2026-10-23'
-lede: More than 23 million Americans had voted in person or by mail as of Friday afternoon, with 11 days remaining before the US midterm elections, according to the University of Florida's Election Lab. Registered Democrats account for 45% of early ballots returned, compared with 30% from Republicans, a gap strategists worry signals a "red undertow" of Republican voters staying home. Democrats need a net gain of four seats to reclaim the majority in each chamber of Congress.
-nut_graf: Registered Democrats account for 45% of early ballots returned so far, compared with 30% from Republicans, a gap strategists worry signals a "red undertow" of Republican voters staying home ahead of an election that will decide control of both chambers of Congress. With the president's approval ratings at record lows and early voting running ahead of the 2022 midterms in many battleground states, Democrats have been energized while Republicans fight to defend seats in places Trump won by wide margins two years ago.
+lede: More than 23 million Americans had voted in person or by mail as of Friday afternoon,
+  with 11 days remaining before the US midterm elections, according to the University
+  of Florida's Election Lab. Registered Democrats account for 45% of early ballots
+  returned, compared with 30% from Republicans, a gap strategists worry signals a
+  "red undertow" of Republican voters staying home. Democrats need a net gain of four
+  seats to reclaim the majority in each chamber of Congress.
+nut_graf: Registered Democrats account for 45% of early ballots returned so far, compared
+  with 30% from Republicans, a gap strategists worry signals a "red undertow" of Republican
+  voters staying home ahead of an election that will decide control of both chambers
+  of Congress. With the president's approval ratings at record lows and early voting
+  running ahead of the 2022 midterms in many battleground states, Democrats have been
+  energized while Republicans fight to defend seats in places Trump won by wide margins
+  two years ago.
 primary_entities:
 - United States
 - Donald Trump
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +149,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-23-stewart-attributes-early-voting-surge-to-enthusiasm-and-spending-to-encourage-ea
-  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage early voting
+  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage
+    early voting
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7797
+  strength: 0.7793
+- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7786
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.744
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.768
+  strength: 0.7689
 - slug: 2026-10-14-georgia-sets-first-day-midterm-early-voting-record-with-188-667-ballots
   headline: Georgia sets first-day midterm early voting record with 188,667 ballots
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7741
+  strength: 0.7743
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.72
+  strength: 0.7193
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7689
+  strength: 0.769
 - slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7127
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7748
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7718
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7583
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.703
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7558
-- slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
-  headline: Democrats narrow gaps in Republican-held races with month to midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7104
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7194
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7738
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7484
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7474
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7103
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7455
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7402
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7085
+  strength: 0.7119
 analyses:
-- '2026-10-23-early-vote-party-gap-exceeds-what-tracker-data-can-support'
+- 2026-10-23-early-vote-party-gap-exceeds-what-tracker-data-can-support
 ---
-
 ## Early voting tops 23 million as Democrats outpace Republicans
 
 **Subtype:** fact

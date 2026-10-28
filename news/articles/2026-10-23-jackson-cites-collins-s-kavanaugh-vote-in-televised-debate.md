@@ -2,8 +2,19 @@
 headline: Jackson cites Collins's Kavanaugh vote in televised debate
 secondary_headline: Maine Senate race is so far considered a toss-up
 publish_date: '2026-10-23'
-lede: Democratic Senate candidate Troy Jackson challenged Republican Senator Susan Collins during a television debate earlier this month by citing her vote to confirm Brett Kavanaugh. The court subsequently overturned Roe v Wade. The Guardian reported that the Maine re-election race is so far considered a toss-up and will help determine whether Democrats can flip control of Congress.
-nut_graf: Jackson's challenge places Collins's voting record against her frequent efforts to distance herself from President Donald Trump, particularly on trade policy. A New York Times analysis cited by The Guardian found that Collins has broken with her party more than any Republican senator since Trump took office, though her efforts to vote against his policies have rarely succeeded in his second term so far. The Guardian also reported that Trump's trade policy had outraged voters in Maine, where logging, lobstering and fishing were expected to take a hit after this year's tariff announcements.
+lede: Democratic Senate candidate Troy Jackson challenged Republican Senator Susan
+  Collins during a television debate earlier this month by citing her vote to confirm
+  Brett Kavanaugh. The court subsequently overturned Roe v Wade. The Guardian reported
+  that the Maine re-election race is so far considered a toss-up and will help determine
+  whether Democrats can flip control of Congress.
+nut_graf: Jackson's challenge places Collins's voting record against her frequent
+  efforts to distance herself from President Donald Trump, particularly on trade policy.
+  A New York Times analysis cited by The Guardian found that Collins has broken with
+  her party more than any Republican senator since Trump took office, though her efforts
+  to vote against his policies have rarely succeeded in his second term so far. The
+  Guardian also reported that Trump's trade policy had outraged voters in Maine, where
+  logging, lobstering and fishing were expected to take a hit after this year's tariff
+  announcements.
 primary_entities:
 - Susan Collins
 - Troy Jackson
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +156,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-jackson-cites-collins-s-kavanaugh-vote-in-televised-debate.png
-  alt: 'Illustration accompanying article: Jackson cites Collins''s Kavanaugh vote in televised debate'
+  alt: 'Illustration accompanying article: Jackson cites Collins''s Kavanaugh vote
+    in televised debate'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-16-collins-jackson-spar-over-trump-ties-fuel-prices-in-final-maine-senate-debate
-  headline: Collins, Jackson spar over Trump ties, fuel prices in final Maine Senate debate
+  headline: Collins, Jackson spar over Trump ties, fuel prices in final Maine Senate
+    debate
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8064
+  strength: 0.8068
 - slug: 2026-10-07-collins-distances-herself-from-trump-in-maine-senate-debate
   headline: Collins distances herself from Trump in Maine Senate debate
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8187
+  strength: 0.819
 - slug: 2026-10-23-trump-administration-expected-to-exempt-some-canadian-goods-from-50-tariffs
   headline: Trump administration expected to exempt some Canadian goods from 50% tariffs
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7065
+  strength: 0.7066
 - slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
   headline: Democratic Senate candidates split on Medicare for All ahead of midterms
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6859
+  strength: 0.6864
 - slug: 2026-10-06-maine-fishermen-share-mixed-frustrations-in-collins-jackson-senate-race
   headline: Maine fishermen share mixed frustrations in Collins-Jackson Senate race
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7171
+  strength: 0.718
 - slug: 2026-09-26-maine-loggers-and-fishers-absorb-rising-costs-from-trump-canada-trade-war
-  headline: Maine loggers and fishers absorb rising costs from Trump-Canada trade war
+  headline: Maine loggers and fishers absorb rising costs from Trump-Canada trade
+    war
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7442
+  strength: 0.7453
+- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
+  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
+  publish_date: '2026-10-07'
+  relation: related
+  strength: 0.6824
 - slug: 2026-10-09-senate-candidates-spar-over-affordability-tariffs-in-three-state-debate-night
-  headline: Senate candidates spar over affordability, tariffs in three-state debate night
+  headline: Senate candidates spar over affordability, tariffs in three-state debate
+    night
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6699
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6741
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6802
-- slug: 2026-09-07-jackson-courts-maine-union-voters-as-senate-race-enters-final-weeks
-  headline: Jackson courts Maine union voters as Senate race enters final weeks
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.724
-- slug: 2026-09-23-fbi-moved-to-investigate-collins-for-bribery-before-trump-derailed-inquiry
-  headline: FBI moved to investigate Collins for bribery before Trump derailed inquiry
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6622
-- slug: 2026-08-26-reproductive-freedom-for-all-backs-jackson-in-maine-senate-race
-  headline: Reproductive Freedom for All backs Jackson in Maine Senate race
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7502
-- slug: 2026-08-08-troy-jackson-s-logging-roots-shape-his-bid-for-maine-senate-seat
-  headline: Troy Jackson’s logging roots shape his bid for Maine Senate seat
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7686
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6925
-- slug: 2026-09-05-tafoya-challenges-flanagan-for-minnesota-senate-seat
-  headline: Tafoya challenges Flanagan for Minnesota Senate seat
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6509
-- slug: 2026-07-27-harris-endorses-jackson-in-maine-senate-race-boosting-democratic-bid
-  headline: Harris endorses Jackson in Maine Senate race, boosting Democratic bid
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7403
-- slug: 2026-07-24-maine-democrats-to-nominate-troy-jackson-for-senate-race
-  headline: Maine Democrats to nominate Troy Jackson for Senate race
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.739
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6571
-- slug: 2026-07-20-jackson-moves-ahead-in-maine-senate-delegate-race-after-rivals-quit
-  headline: Jackson moves ahead in Maine Senate delegate race after rivals quit
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7172
-- slug: 2026-07-10-troy-jackson-pitched-as-platner-replacement-in-guardian-op-ed
-  headline: Troy Jackson pitched as Platner replacement in Guardian op-ed
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7239
+  strength: 0.6703
 ---
-
 ## Jackson cites Collins's Kavanaugh vote in televised debate
 
 **Subtype:** fact

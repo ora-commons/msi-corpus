@@ -2,8 +2,22 @@
 headline: Tom Kean faces tight New Jersey race after months out of public view
 secondary_headline: Cook shifted the seventh district from toss-up to lean Democratic
 publish_date: '2026-10-24'
-lede: The Cook Political Report moved New Jersey’s seventh congressional district from “toss-up” to “lean Democrat” last month, and The Guardian described the contest between Republican U.S. Rep. Tom Kean and Democrat Rebecca Bennett as tight in one of the wealthiest districts in the nation. The Guardian also reported that the Congressional Leadership Fund and Trump-affiliated Safety and Affordability Pac had reportedly canceled remaining funding for Kean’s district; Kean pointed to $6.2 million from the National Republican Congressional Committee, and his campaign manager said the campaign was fully funded. Democrats selected Bennett, a moderate political newcomer, to challenge Kean, who returned to Congress at the end of June after more than three months out of public view and 100 missed votes without explanation.
-nut_graf: The contest is in one of the nation’s wealthiest districts and has seesawed between Republican and Democratic representation since 2018. Democrats hope Bennett’s moderate stance can appeal to many 2024 Trump voters who have expressed discontent with the economy, while Kean and other Trump-aligned Republicans face the president’s growing unpopularity. Trump’s war with Iran has driven up fuel and grocery costs. Separately, Trump threatened fresh tariffs on global imports.
+lede: The Cook Political Report moved New Jersey’s seventh congressional district
+  from “toss-up” to “lean Democrat” last month, and The Guardian described the contest
+  between Republican U.S. Rep. Tom Kean and Democrat Rebecca Bennett as tight in one
+  of the wealthiest districts in the nation. The Guardian also reported that the Congressional
+  Leadership Fund and Trump-affiliated Safety and Affordability Pac had reportedly
+  canceled remaining funding for Kean’s district; Kean pointed to $6.2 million from
+  the National Republican Congressional Committee, and his campaign manager said the
+  campaign was fully funded. Democrats selected Bennett, a moderate political newcomer,
+  to challenge Kean, who returned to Congress at the end of June after more than three
+  months out of public view and 100 missed votes without explanation.
+nut_graf: The contest is in one of the nation’s wealthiest districts and has seesawed
+  between Republican and Democratic representation since 2018. Democrats hope Bennett’s
+  moderate stance can appeal to many 2024 Trump voters who have expressed discontent
+  with the economy, while Kean and other Trump-aligned Republicans face the president’s
+  growing unpopularity. Trump’s war with Iran has driven up fuel and grocery costs.
+  Separately, Trump threatened fresh tariffs on global imports.
 primary_entities:
 - Tom Kean
 - Rebecca Bennett
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +158,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
+  headline: Arkansas Democrats push affordability message in final midterm stretch
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6643
 - slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
   headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6691
+  strength: 0.6688
 - slug: 2026-10-18-brooks-leads-mackenzie-45-to-40-in-pennsylvania-7th-district-poll
   headline: Brooks leads Mackenzie 45% to 40% in Pennsylvania 7th District poll
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6813
+  strength: 0.6814
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6893
+  strength: 0.6875
 - slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
   headline: Ten midterm races outside the spotlight carry upset potential
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6783
+  strength: 0.6772
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.68
-- slug: 2026-10-02-senate-leadership-fund-halts-north-carolina-senate-ad-spending
-  headline: Senate Leadership Fund halts North Carolina Senate ad spending
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6617
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6611
+  strength: 0.6795
 - slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6995
+  strength: 0.6987
 - slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
   headline: Polls show Democratic edge as Republicans face tough midterm fight
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6674
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6803
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.67
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6641
-- slug: 2026-06-30-gop-rep-tom-kean-jr-returns-to-congress-discloses-depression-diagnosis
-  headline: GOP Rep. Tom Kean Jr. returns to Congress, discloses depression diagnosis
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.8053
-- slug: 2026-03-22-republican-tom-kean-jr-faces-headwinds-as-he-seeks-re-election-in-nj
-  headline: Republican Tom Kean Jr. faces headwinds as he seeks re-election in NJ
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.8139
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6681
-- slug: 2026-06-01-voters-seek-answers-as-new-jersey-rep-tom-kean-jr-remains-absent-from-congress
-  headline: Voters seek answers as New Jersey Rep. Tom Kean Jr. remains absent from Congress
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7721
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6617
-- slug: 2026-06-03-voters-in-tuesday-primaries-set-midterm-matchups-across-key-states
-  headline: Voters in Tuesday primaries set midterm matchups across key states
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6863
-- slug: 2026-06-03-democrats-nominate-army-doctor-paralympian-in-primary-wave
-  headline: Democrats nominate army doctor, Paralympian in primary wave
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.663
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.677
+  strength: 0.6669
 ---
-
 ## Tom Kean faces tight New Jersey race after months out of public view
 
 **Subtype:** fact

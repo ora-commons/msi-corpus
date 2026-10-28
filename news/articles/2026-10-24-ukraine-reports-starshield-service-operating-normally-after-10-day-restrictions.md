@@ -1,9 +1,21 @@
 ---
 headline: Ukraine reports Starshield service operating normally after 10-day restrictions
-secondary_headline: Drone tests show stable Starshield speeds above 400 kilometers an hour
+secondary_headline: Drone tests show stable Starshield speeds above 400 kilometers
+  an hour
 publish_date: '2026-10-24'
-lede: Ukraine's military satellite internet service was working normally again on Saturday morning, Defense Minister Evgeniy Khmara told reporters, raising hopes that a 10-day disruption of the country's Starshield link was ending. Drone tests showed the SpaceX-operated military-grade Starlink connection stable at speeds of over 400 kilometers an hour, Khmara said. Other Ukrainian officials said tests at higher speeds were continuing, and one official said Kyiv still had received no explanation from the United States for the sudden limits.
-nut_graf: The recovery restores a link that Ukrainian forces use to fly interceptor and strike drones. During the disruption, Ukrainian forces said interceptor drones could not fly fast enough to shoot down Russia's long-range Geran drones, which have been bombarding Kyiv and other cities and inflicting mounting civilian casualties. One Ukrainian official said Kyiv still had received no explanation from the United States about why Starshield suddenly faced speed limits.
+lede: Ukraine's military satellite internet service was working normally again on
+  Saturday morning, Defense Minister Evgeniy Khmara told reporters, raising hopes
+  that a 10-day disruption of the country's Starshield link was ending. Drone tests
+  showed the SpaceX-operated military-grade Starlink connection stable at speeds of
+  over 400 kilometers an hour, Khmara said. Other Ukrainian officials said tests at
+  higher speeds were continuing, and one official said Kyiv still had received no
+  explanation from the United States for the sudden limits.
+nut_graf: The recovery restores a link that Ukrainian forces use to fly interceptor
+  and strike drones. During the disruption, Ukrainian forces said interceptor drones
+  could not fly fast enough to shoot down Russia's long-range Geran drones, which
+  have been bombarding Kyiv and other cities and inflicting mounting civilian casualties.
+  One Ukrainian official said Kyiv still had received no explanation from the United
+  States about why Starshield suddenly faced speed limits.
 primary_entities:
 - Ukraine
 - Kyiv
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +162,43 @@ related_stories:
   headline: Ukrainian officials report continued Starshield failures above 100 mph
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.9023
+  strength: 0.9018
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8879
 - slug: 2026-10-21-starshield-speed-limits-hinder-ukrainian-strike-and-interceptor-drones
   headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8693
+  strength: 0.8701
 - slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
   headline: Trump administration denies requesting Starlink limits for Ukraine's military
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8367
+  strength: 0.8385
 - slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
   headline: Trump credits Musk with restoring Ukraine's Starlink service
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8354
+  strength: 0.8356
 - slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
   headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8162
+  strength: 0.8174
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8633
+  strength: 0.8641
 - slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
   headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8138
-- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
-  headline: Zelensky Starlink warning led to informal White House investigation
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8167
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8463
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8385
-- slug: 2026-10-21-ukraine-s-starshield-service-is-separate-from-the-u-s--owned-constellation
-  headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.772
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8123
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7986
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8007
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7865
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7498
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7854
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7847
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7756
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7313
+  strength: 0.8143
 ---
-
 ## Ukraine reports Starshield service operating normally after 10-day restrictions
 
 **Subtype:** fact

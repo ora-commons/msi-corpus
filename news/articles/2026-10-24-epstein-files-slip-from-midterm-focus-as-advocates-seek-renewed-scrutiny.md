@@ -1,9 +1,19 @@
 ---
 headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
-secondary_headline: A proposed transparency bill targets enforcement gaps as disclosure disputes continue
+secondary_headline: A proposed transparency bill targets enforcement gaps as disclosure
+  disputes continue
 publish_date: '2026-10-24'
-lede: As U.S. voters head to the polls for the 2026 midterm elections, Republican strategist Brittany Martinez said immediate concerns such as affordability, gas prices and AI could push the Jeffrey Epstein investigation out of the daily conversation. Survivors’ advocates and political analysts nevertheless said the issue was likely to persist and could regain congressional attention after the House returns from recess.
-nut_graf: At stake is whether Congress adds enforcement to the Epstein disclosure law, opens further investigation and addresses survivors’ financial burdens. The visibility of the issue may recede during the campaign, but advocates say accountability and file releases remain unresolved, while the Justice Department maintains it has met the original law’s requirements.
+lede: As U.S. voters head to the polls for the 2026 midterm elections, Republican
+  strategist Brittany Martinez said immediate concerns such as affordability, gas
+  prices and AI could push the Jeffrey Epstein investigation out of the daily conversation.
+  Survivors’ advocates and political analysts nevertheless said the issue was likely
+  to persist and could regain congressional attention after the House returns from
+  recess.
+nut_graf: At stake is whether Congress adds enforcement to the Epstein disclosure
+  law, opens further investigation and addresses survivors’ financial burdens. The
+  visibility of the issue may recede during the campaign, but advocates say accountability
+  and file releases remain unresolved, while the Justice Department maintains it has
+  met the original law’s requirements.
 primary_entities:
 - Jeffrey Epstein
 - Donald Trump
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +157,44 @@ related_stories:
   headline: Epstein victim's relatives appear in attack ad targeting Jeff Crank
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7113
+  strength: 0.7109
 - slug: 2026-09-16-house-panel-votes-to-hold-leon-black-in-contempt-over-epstein-probe
   headline: House panel votes to hold Leon Black in contempt over Epstein probe
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6908
+  strength: 0.6911
+- slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
+  headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
+  publish_date: '2026-09-16'
+  relation: related
+  strength: 0.6759
 - slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
   headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6865
-- slug: 2026-09-02-comer-threatens-leon-black-with-contempt-ahead-of-thursday-deposition
-  headline: Comer threatens Leon Black with contempt ahead of Thursday deposition
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6758
+  strength: 0.6868
 - slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
   headline: Democrats ready multi-front investigations into Trump administration
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.6953
+  strength: 0.6955
 - slug: 2026-07-27-epstein-survivors-urge-senators-to-oppose-blanche-s-attorney-general-confirmatio
   headline: Epstein survivors urge senators to oppose Blanche's attorney general confirmation
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7072
+  strength: 0.7054
 - slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
+  headline: Congressional inquiry yields no criminal referrals a year after Epstein
+    hearings began
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7216
+  strength: 0.7219
 - slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
   headline: Democrats call on Vance to testify over Epstein files handling
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.7141
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7209
-- slug: 2026-06-30-relative-says-jane-doe-4-fears-retaliation-as-epstein-files-dispute-continues
-  headline: Relative says Jane Doe 4 fears retaliation as Epstein files dispute continues
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6862
-- slug: 2026-05-07-timeline-traces-epstein-probe-and-fight-over-doj-files
-  headline: Timeline traces Epstein probe and fight over DOJ files
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7134
-- slug: 2026-02-07-lawmakers-to-review-unredacted-epstein-files-at-doj-starting-monday
-  headline: Lawmakers to review unredacted Epstein files at DOJ starting Monday
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.7327
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7238
-- slug: 2026-04-04-how-the-epstein-files-dogged-pam-bondi-s-time-as-attorney-general
-  headline: How the Epstein files dogged Pam Bondi's time as attorney general
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7167
-- slug: 2026-01-16-doj-tells-judge-to-reject-congressional-request-for-epstein-files-neutral-overse
-  headline: DOJ tells judge to reject congressional request for Epstein files neutral overseer
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7163
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.7129
-- slug: 2026-02-23-citizen-journalists-mine-newly-released-epstein-documents
-  headline: Citizen journalists mine newly released Epstein documents
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.7051
-- slug: 2026-02-12-bondi-clashes-with-house-judiciary-as-epstein-files-fight-spills-over
-  headline: Bondi clashes with House Judiciary as Epstein files fight spills over
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.7039
-- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
-  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump accusation
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6998
-- slug: 2026-03-05-doj-releases-additional-epstein-files-including-uncorroborated-claims-about-trum
-  headline: DOJ releases additional Epstein files, including uncorroborated claims about Trump
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6874
+  strength: 0.7131
 ---
-
 ## Epstein files slip from midterm focus as advocates seek renewed scrutiny
 
 **Subtype:** fact

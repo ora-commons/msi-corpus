@@ -1,9 +1,17 @@
 ---
 headline: American Express cuts 5% of global staff while raising its profit outlook
-secondary_headline: American Express reported 9% third-quarter sales growth amid strong billings
+secondary_headline: American Express reported 9% third-quarter sales growth amid strong
+  billings
 publish_date: '2026-10-23'
-lede: American Express said Friday it would cut 5% of its global workforce, about 3,500 jobs, to cap rising costs. The credit-card company made the announcement on the same day it reported 9% third-quarter sales growth and said it was boosting its profit outlook for the year.
-nut_graf: American Express announced a global staffing reduction on the same day it reported 9% third-quarter sales growth and said it was boosting its profit outlook for the year. The announcement came during a week of job cuts at Barclays, eBay and Volvo, even as the latest data showed U.S.-based employers announced 20% fewer job cuts in September than in the prior-year period.
+lede: American Express said Friday it would cut 5% of its global workforce, about
+  3,500 jobs, to cap rising costs. The credit-card company made the announcement on
+  the same day it reported 9% third-quarter sales growth and said it was boosting
+  its profit outlook for the year.
+nut_graf: American Express announced a global staffing reduction on the same day it
+  reported 9% third-quarter sales growth and said it was boosting its profit outlook
+  for the year. The announcement came during a week of job cuts at Barclays, eBay
+  and Volvo, even as the latest data showed U.S.-based employers announced 20% fewer
+  job cuts in September than in the prior-year period.
 primary_entities:
 - American Express
 - Stephen Squeri
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,106 +148,46 @@ related_stories:
   headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7472
+  strength: 0.7473
+- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
+  headline: American Express retains nearly all customers moved to higher-fee Platinum
+    card
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7407
 - slug: 2026-10-23-volvo-car-plans-2-500-job-cuts-to-lower-its-break-even-point
   headline: Volvo Car plans 2,500 job cuts to lower its break-even point
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6758
-- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
-  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6381
-- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
-  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6307
-- slug: 2026-10-23-booz-allen-raises-fiscal-2027-earnings-outlook
-  headline: Booz Allen raises fiscal 2027 earnings outlook
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6226
-- slug: 2026-10-20-amazon-plans-more-than-300-000-u-s-holiday-season-hires
-  headline: Amazon plans more than 300,000 U.S. holiday-season hires
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6324
-- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6202
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-30-amex-launches-ai-expense-platform-alongside-new-corporate-card
-  headline: Amex launches AI expense platform alongside new corporate card
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6293
-- slug: 2026-10-02-volvo-car-pulls-full-year-guidance-as-china-sales-plunge-41
-  headline: Volvo Car pulls full-year guidance as China sales plunge 41%
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6192
+  strength: 0.6757
 - slug: 2026-09-02-uber-cuts-3-000-jobs-and-asks-nearly-all-staff-back-to-designated-hubs
   headline: Uber cuts 3,000 jobs and asks nearly all staff back to designated hubs
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6862
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-jobs-gas-hits-labor-day-record
-  headline: Jaguar Land Rover cuts 4,000 jobs; gas hits Labor Day record
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6322
-- slug: 2026-09-04-volkswagen-board-approves-100-000-job-cuts-by-2030
-  headline: Volkswagen board approves 100,000 job cuts by 2030
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6237
-- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6344
+  strength: 0.6872
 - slug: 2026-07-27-porsche-to-cut-5-000-jobs-via-early-retirement-in-agreement-with-workers
   headline: Porsche to cut 5,000 jobs via early retirement in agreement with workers
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6724
+  strength: 0.6723
 - slug: 2026-07-24-fewer-delinquencies-premium-card-demand-lift-american-express-profit
   headline: Fewer delinquencies, premium card demand lift American Express profit
   publish_date: '2026-07-24'
   relation: related
   strength: 0.6766
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.632
-- slug: 2026-06-29-bat-to-cut-5-500-jobs-outsource-3-500-in-ai-driven-restructuring
-  headline: BAT to cut 5,500 jobs, outsource 3,500 in AI-driven restructuring
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6383
 - slug: 2026-01-28-layoffs-accelerate-across-corporations-as-hiring-stalls-nationwide
   headline: Layoffs accelerate across corporations as hiring stalls nationwide
   publish_date: '2026-01-28'
   relation: related
-  strength: 0.6942
+  strength: 0.6937
 - slug: 2026-01-28-amazon-cuts-16-000-corporate-jobs-in-second-layoff-round
   headline: Amazon cuts 16,000 corporate jobs in second layoff round
   publish_date: '2026-01-28'
   relation: related
-  strength: 0.6874
+  strength: 0.6865
 analyses:
-- '2026-10-23-american-express-s-3-500-job-cut-efficiency-plan-cost-cap-or-both'
+- 2026-10-23-american-express-s-3-500-job-cut-efficiency-plan-cost-cap-or-both
 ---
-
 ## American Express cuts 5% of global staff while raising its profit outlook
 
 **Subtype:** fact

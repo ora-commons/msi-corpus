@@ -1,9 +1,17 @@
 ---
 headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case advances
-secondary_headline: Cornell suspends fraternity parties through academic year for safety review
+secondary_headline: Cornell suspends fraternity parties through academic year for
+  safety review
 publish_date: '2026-10-23'
-lede: Lawyer Thomas Giuffra told the BBC ahead of a Friday civil hearing in New York that Jane Doe is living in “constant fear” after threats and a fake emergency call brought armed police to her family’s home. Doe is suing Cornell University, the Chi Phi fraternity and several men who deny wrongdoing, alleging she was drugged and raped at the fraternity house in October 2024. The men have not been charged with any crimes, and a special prosecutor is investigating whether charges are warranted.
-nut_graf: The case now combines civil proceedings, a reopened criminal inquiry overseen by a special prosecutor and Cornell’s response to the allegations, while Doe’s lawyer says he is concerned investigators will pursue evidence that is already “stale.”
+lede: Lawyer Thomas Giuffra told the BBC ahead of a Friday civil hearing in New York
+  that Jane Doe is living in “constant fear” after threats and a fake emergency call
+  brought armed police to her family’s home. Doe is suing Cornell University, the
+  Chi Phi fraternity and several men who deny wrongdoing, alleging she was drugged
+  and raped at the fraternity house in October 2024. The men have not been charged
+  with any crimes, and a special prosecutor is investigating whether charges are warranted.
+nut_graf: The case now combines civil proceedings, a reopened criminal inquiry overseen
+  by a special prosecutor and Cornell’s response to the allegations, while Doe’s lawyer
+  says he is concerned investigators will pursue evidence that is already “stale.”
 primary_entities:
 - Jane Doe
 - Cornell University
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,32 +159,32 @@ related_stories:
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7687
+  strength: 0.7688
 - slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
   headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8101
+  strength: 0.8102
 - slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
   headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8342
+  strength: 0.8343
 - slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
   headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7399
+  strength: 0.7401
 - slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
   headline: Cornell suspends fraternity parties for academic year after rape allegations
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7784
+  strength: 0.7782
 - slug: 2026-10-12-cornell-fraternity-rape-allegation-renews-scrutiny-of-greek-life
   headline: Cornell fraternity rape allegation renews scrutiny of Greek life
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7698
+  strength: 0.7702
 - slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
   headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
   publish_date: '2026-10-02'
@@ -185,69 +194,8 @@ related_stories:
   headline: Cornell president says he knew of assault report but didn't follow up
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7305
-- slug: 2026-10-10-swatting-adds-to-threats-against-jane-doe-in-cornell-seven-case
-  headline: Swatting adds to threats against Jane Doe in Cornell seven case
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7534
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.8021
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7702
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.79
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7866
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7739
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7838
-- slug: 2026-10-08-lawyers-for-cornell-defendant-seek-ag-james-s-removal-as-special-prosecutor
-  headline: Lawyers for Cornell defendant seek AG James's removal as special prosecutor
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7292
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7791
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7778
-- slug: 2026-10-06-cornell-trustees-appoint-sally-yates-to-review-sexual-misconduct-response
-  headline: Cornell trustees appoint Sally Yates to review sexual misconduct response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7307
-- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
-  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7438
+  strength: 0.7306
 ---
-
 ## Jane Doe's lawyer says she fears for her safety as Cornell civil case advances
 
 **Subtype:** fact

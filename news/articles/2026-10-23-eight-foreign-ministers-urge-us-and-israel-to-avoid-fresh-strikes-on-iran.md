@@ -1,9 +1,19 @@
 ---
 headline: Eight foreign ministers urge US and Israel to avoid fresh strikes on Iran
-secondary_headline: Ministers demand Hormuz reopening and an end to Houthi assaults on Saudi Arabia
+secondary_headline: Ministers demand Hormuz reopening and an end to Houthi assaults
+  on Saudi Arabia
 publish_date: '2026-10-23'
-lede: Eight foreign ministers from European and Middle Eastern countries meeting in Istanbul urged the US and Israel on Friday not to launch fresh strikes on Iran. The summit came as talks over Iran's nuclear program remained deadlocked, and ministers warned that renewed fighting would spread the conflict and push oil prices higher. Turkish Foreign Minister Hakan Fidan, a joint convener, said a new military attack would spread the conflict across the region.
-nut_graf: The summit gave European and Middle Eastern ministers a rare opportunity to press for diplomacy while conflicts involving Iran, Yemen and Palestine affected regional security, shipping and energy. German representative Johann Wadephul said the effects of attacks on shipping routes were being felt at petrol pumps and supermarkets, with global supplies of energy and fertiliser disrupted.
+lede: Eight foreign ministers from European and Middle Eastern countries meeting in
+  Istanbul urged the US and Israel on Friday not to launch fresh strikes on Iran.
+  The summit came as talks over Iran's nuclear program remained deadlocked, and ministers
+  warned that renewed fighting would spread the conflict and push oil prices higher.
+  Turkish Foreign Minister Hakan Fidan, a joint convener, said a new military attack
+  would spread the conflict across the region.
+nut_graf: The summit gave European and Middle Eastern ministers a rare opportunity
+  to press for diplomacy while conflicts involving Iran, Yemen and Palestine affected
+  regional security, shipping and energy. German representative Johann Wadephul said
+  the effects of attacks on shipping routes were being felt at petrol pumps and supermarkets,
+  with global supplies of energy and fertiliser disrupted.
 primary_entities:
 - Istanbul
 - Turkey
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +166,43 @@ related_stories:
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.734
+  strength: 0.7323
 - slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
   headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7108
+  strength: 0.7089
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7093
+  strength: 0.7081
 - slug: 2026-09-25-miliband-tells-araghchi-uk-will-not-tolerate-iran-linked-hostile-activity
   headline: Miliband tells Araghchi UK will not tolerate Iran-linked 'hostile activity'
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7154
+  strength: 0.7171
 - slug: 2026-09-25-gulf-states-split-on-iran-talks-as-saudi-arabia-uae-urge-continued-pressure
   headline: Gulf states split on Iran talks as Saudi Arabia, UAE urge continued pressure
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7042
+  strength: 0.703
 - slug: 2026-09-22-g7-demands-iran-stop-arming-houthis-criticizes-attacks-on-saudi-arabia
   headline: G7 demands Iran stop arming Houthis, criticizes attacks on Saudi Arabia
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7148
+  strength: 0.7155
 - slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
   headline: Iran threatens US bases as Trump weighs renewed bombing campaign
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7125
+  strength: 0.712
 - slug: 2026-07-21-israel-stays-out-of-renewed-us-bombing-campaign-in-iran
   headline: Israel stays out of renewed US bombing campaign in Iran
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7456
-- slug: 2026-07-20-qatar-proposes-10-day-ceasefire-as-us-iran-strikes-continue
-  headline: Qatar proposes 10-day ceasefire as US-Iran strikes continue
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7063
-- slug: 2026-03-15-turkey-s-foreign-minister-sees-potential-for-us-iran-back-channel-talks
-  headline: Turkey’s foreign minister sees potential for US-Iran back-channel talks
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7393
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7124
-- slug: 2026-04-03-no-sign-of-war-winding-down-in-mideast-as-friday-dawns-with-strikes
-  headline: No sign of war winding down in Mideast as Friday dawns with strikes
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.73
-- slug: 2026-02-05-france-urges-iran-backed-groups-to-show-restraint-if-us-iran-tensions-escalate
-  headline: France urges Iran-backed groups to show restraint if US-Iran tensions escalate
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7291
-- slug: 2026-03-15-uae-briefly-closes-then-reopens-airspace-after-iranian-missile-threats
-  headline: UAE briefly closes then reopens airspace after Iranian missile threats
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.722
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7192
-- slug: 2026-03-28-rubio-urges-allies-to-reopen-strait-of-hormuz-after-g7-talks-in-france
-  headline: Rubio urges allies to reopen Strait of Hormuz after G7 talks in France
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.7155
-- slug: 2026-04-20-iran-s-ceasefire-offer-sidesteps-nuclear-issue-as-talks-stall
-  headline: Iran's ceasefire offer sidesteps nuclear issue as talks stall
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7076
-- slug: 2026-03-02-world-leaders-urge-peace-as-iran-us-and-israel-trade-strikes
-  headline: World leaders urge peace as Iran, US and Israel trade strikes
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7124
-- slug: 2026-03-20-israel-strikes-tehran-on-nowruz-as-war-roils-gulf-energy-markets
-  headline: Israel strikes Tehran on Nowruz as war roils Gulf energy markets
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7083
-- slug: 2026-03-31-pakistan-to-host-us-iran-talks-after-diplomats-discuss-ways-to-end-war
-  headline: Pakistan to host US-Iran talks after diplomats discuss ways to end war
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7054
+  strength: 0.7447
 ---
-
 ## Eight foreign ministers urge US and Israel to avoid fresh strikes on Iran
 
 **Subtype:** fact

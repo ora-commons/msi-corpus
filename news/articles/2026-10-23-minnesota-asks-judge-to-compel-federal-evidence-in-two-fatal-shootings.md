@@ -1,9 +1,18 @@
 ---
 headline: Minnesota asks judge to compel federal evidence in two fatal shootings
-secondary_headline: Minnesota prosecutors say federal agencies retain clothing, phones and interview recordings
+secondary_headline: Minnesota prosecutors say federal agencies retain clothing, phones
+  and interview recordings
 publish_date: '2026-10-23'
-lede: In October court filings, Minnesota officials said the federal government stopped sharing evidence needed to independently investigate the fatal shootings of Renee Good and Alex Pretti in Minneapolis. An Immigration and Customs Enforcement officer shot Good, and a Customs and Border Patrol agent shot Pretti. Minnesota prosecutors have asked a judge to order the evidence handed over.
-nut_graf: 'Minnesota officials say the pause leaves investigators without materials they need to independently investigate the shootings. The dispute also concerns jurisdiction: the Trump administration has suggested that state prosecutors lack authority to investigate federal officers, while Minnesota officials have said they do not trust the federal government to investigate itself.'
+lede: In October court filings, Minnesota officials said the federal government stopped
+  sharing evidence needed to independently investigate the fatal shootings of Renee
+  Good and Alex Pretti in Minneapolis. An Immigration and Customs Enforcement officer
+  shot Good, and a Customs and Border Patrol agent shot Pretti. Minnesota prosecutors
+  have asked a judge to order the evidence handed over.
+nut_graf: 'Minnesota officials say the pause leaves investigators without materials
+  they need to independently investigate the shootings. The dispute also concerns
+  jurisdiction: the Trump administration has suggested that state prosecutors lack
+  authority to investigate federal officers, while Minnesota officials have said they
+  do not trust the federal government to investigate itself.'
 primary_entities:
 - Minnesota
 - Minneapolis
@@ -59,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,108 +167,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-justice-department-says-no-active-case-existed-when-minnesota-sought-evidence
+  headline: Justice Department says no active case existed when Minnesota sought evidence
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8521
 - slug: 2026-10-01-renee-good-s-family-sues-us-government-trump-officials-over-ice-killing
   headline: Renee Good's family sues US government, Trump officials over ICE killing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7897
+  strength: 0.7895
 - slug: 2026-07-13-hennepin-county-prosecutors-obtain-hard-drives-of-withheld-evidence-in-three-fed
-  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in three federal-shooting cases
+  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in
+    three federal-shooting cases
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.8183
+  strength: 0.8188
 - slug: 2026-03-25-minnesota-officials-sue-trump-administration-over-federal-shooting-deaths
   headline: Minnesota officials sue Trump administration over federal shooting deaths
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.8708
+  strength: 0.8692
 - slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  headline: Minnesota probes federal officers over two killings, wounding and highway assault
+  headline: Minnesota probes federal officers over two killings, wounding and highway
+    assault
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.8097
+  strength: 0.8087
 - slug: 2026-03-24-minnesota-officials-sue-trump-administration-over-shooting-deaths
   headline: Minnesota officials sue Trump administration over shooting deaths
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.815
+  strength: 0.813
 - slug: 2026-05-18-federal-officer-shoots-and-kills-minneapolis-man-in-immigration-sweep
   headline: Federal officer shoots and kills Minneapolis man in immigration sweep
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7863
+  strength: 0.7856
 - slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland shooting draws scrutiny
+  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland
+    shooting draws scrutiny
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.7948
-- slug: 2026-01-27-three-federal-investigations-open-into-minneapolis-nurse-killing-by-border-patro
-  headline: Three federal investigations open into Minneapolis nurse killing by Border Patrol
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.789
-- slug: 2026-02-15-video-evidence-contradicts-immigration-officials-accounts-of-shootings
-  headline: Video evidence contradicts immigration officials’ accounts of shootings
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.7864
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  headline: Federal authorities bar Minnesota from ICE shooting probe, claim no state jurisdiction
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7883
-- slug: 2026-02-02-more-prosecutors-leave-minnesota-u-s-attorney-s-office-ap-sources-say
-  headline: More prosecutors leave Minnesota U.S. attorney’s office, AP sources say
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.7857
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal ICE shooting
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7851
-- slug: 2026-01-26-minnesota-s-misinformation-site-and-evidence-lawsuit-deepen-feud-with-feds
-  headline: Minnesota’s misinformation site and evidence lawsuit deepen feud with feds
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7837
-- slug: 2026-01-25-federal-and-state-officials-clash-over-deadly-minneapolis-shooting
-  headline: Federal and state officials clash over deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7795
-- slug: 2026-01-25-republicans-press-for-investigation-into-fatal-minneapolis-shooting
-  headline: Republicans press for investigation into fatal Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7728
-- slug: 2026-02-08-minneapolis-arrests-protesters-marking-1-month-anniversary-of-renee-good-death
-  headline: Minneapolis arrests protesters marking 1-month anniversary of Renee Good death
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7711
-- slug: 2026-01-25-trump-blames-democrats-for-chaos-after-fatal-minneapolis-immigration-shooting
-  headline: Trump blames Democrats for chaos after fatal Minneapolis immigration shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7678
-- slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
-  headline: Congress weighs response to ICE killing of Minnesota woman Renee Good
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.767
-- slug: 2026-03-27-witness-describes-trauma-after-federal-officers-shot-alex-pretti-in-minnesota
-  headline: Witness describes trauma after federal officers shot Alex Pretti in Minnesota
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7557
-- slug: 2026-01-13-doj-declines-civil-rights-probe-into-minneapolis-ice-shooting-as-prosecutors-res
-  headline: DOJ declines civil rights probe into Minneapolis ICE shooting as prosecutors resign
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7636
+  strength: 0.7955
 ---
-
 ## Minnesota asks judge to compel federal evidence in two fatal shootings
 
 **Subtype:** fact

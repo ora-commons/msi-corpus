@@ -1,9 +1,18 @@
 ---
 headline: Russia and Ukraine agree to localized Oleshky ceasefire
-secondary_headline: Civilian leaders visit, assess residents' needs; evacuees receive coordinated support and transport
+secondary_headline: Civilian leaders visit, assess residents' needs; evacuees receive
+  coordinated support and transport
 publish_date: '2026-10-23'
-lede: Russia and Ukraine have agreed to a localized ceasefire in the Russian-occupied city of Oleshky in Ukraine's Kherson region, the White House said. The truce is scheduled to begin on 29 October. Non-military civilian leaders from both countries will visit residents in their homes and determine what assistance they require. Separately, residents who wish to evacuate will receive coordinated support and transportation. The announcement did not specify how long the ceasefire would last.
-nut_graf: The agreement seeks to open a narrow humanitarian channel to residents who need medical care, medicine, food and clean water while also allowing people who wish to leave to do so. It is a local arrangement, and the White House statement did not set an end date.
+lede: Russia and Ukraine have agreed to a localized ceasefire in the Russian-occupied
+  city of Oleshky in Ukraine's Kherson region, the White House said. The truce is
+  scheduled to begin on 29 October. Non-military civilian leaders from both countries
+  will visit residents in their homes and determine what assistance they require.
+  Separately, residents who wish to evacuate will receive coordinated support and
+  transportation. The announcement did not specify how long the ceasefire would last.
+nut_graf: The agreement seeks to open a narrow humanitarian channel to residents who
+  need medical care, medicine, food and clean water while also allowing people who
+  wish to leave to do so. It is a local arrangement, and the White House statement
+  did not set an end date.
 primary_entities:
 - Melania Trump
 - White House
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,117 +154,61 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
-  publish_date: '2026-10-22'
+- slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
+  headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6792
+  strength: 0.9034
+- slug: 2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump
+  headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8866
+- slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
+  headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8665
+- slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
+  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+    arrive
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8141
+- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
+  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.785
 - slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
   headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7329
+  strength: 0.7331
 - slug: 2026-10-11-trump-says-russia-and-ukraine-agreed-to-an-energy-ceasefire
   headline: Trump says Russia and Ukraine agreed to an 'energy ceasefire'
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7199
+  strength: 0.72
 - slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
   headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6923
-- slug: 2026-10-11-trump-announces-russia-ukraine-deal-to-halt-energy-strikes
-  headline: Trump announces Russia-Ukraine deal to halt energy strikes
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7121
-- slug: 2026-10-11-trump-declares-energy-ceasefire-as-russia-keeps-striking-ukraine
-  headline: Trump declares energy ceasefire as Russia keeps striking Ukraine
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7094
-- slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
-  headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6834
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6972
-- slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
-  headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6903
-- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
-  headline: Ukrainian drones hit third Yandex data center in four days
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6825
-- slug: 2026-10-10-russian-strikes-kill-15-in-ukraine-hours-after-trump-diesel-deal
-  headline: Russian strikes kill 15 in Ukraine hours after Trump diesel deal
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6927
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6947
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7096
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7597
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7546
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7054
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7099
-- slug: 2026-05-09-russia-and-ukraine-accuse-each-other-of-violating-us-brokered-truce
-  headline: Russia and Ukraine accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6916
-- slug: 2026-04-10-putin-declares-32-hour-ceasefire-in-ukraine-for-orthodox-easter
-  headline: Putin declares 32-hour ceasefire in Ukraine for Orthodox Easter
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7009
-- slug: 2026-01-30-trump-says-putin-agreed-to-pause-strikes-on-kyiv-for-one-week
-  headline: Trump says Putin agreed to pause strikes on Kyiv for one week
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7061
+  strength: 0.6918
 image:
   url: /articles/2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire.png
-  alt: "Illustration accompanying article: Russia and Ukraine agree to localized Oleshky ceasefire"
+  alt: 'Illustration accompanying article: Russia and Ukraine agree to localized Oleshky
+    ceasefire'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Russia and Ukraine agree to localized Oleshky ceasefire
 
 **Subtype:** fact

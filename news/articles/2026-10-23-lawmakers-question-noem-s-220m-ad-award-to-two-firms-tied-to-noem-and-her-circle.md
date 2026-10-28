@@ -1,9 +1,23 @@
 ---
-headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and her circle
+headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and her
+  circle
 secondary_headline: DOJ inquiry follows referral from a DHS office made up of lawyers
 publish_date: '2026-10-23'
-lede: Lawmakers pressed former Department of Homeland Security Secretary Kristi Noem shortly before she left office over the process she used to award a $220m (£164m) advertising contract to two companies with ties to Noem and people in her inner circle, BBC News reported. The Justice Department is investigating whether Noem's former top aide Corey Lewandowski personally profited from his DHS role, according to CBS News, the BBC's US partner. The inquiry followed a referral from the DHS inspector general's office, which is made up of lawyers charged with monitoring the agency's conduct and operations.
-nut_graf: The inquiry concerns allegations about Lewandowski's contract authority, grant decisions and use of his DHS role for outside financial gain. It followed a referral from the DHS inspector general's office, which is made up of lawyers charged with monitoring the agency. Separately, lawmakers challenged Noem's $220m advertising award process, which went to two companies with ties to Noem and people in her inner circle. Attorney Adam Trigg said Lewandowski denies wrongdoing and has not been contacted by the Justice Department.
+lede: Lawmakers pressed former Department of Homeland Security Secretary Kristi Noem
+  shortly before she left office over the process she used to award a $220m (£164m)
+  advertising contract to two companies with ties to Noem and people in her inner
+  circle, BBC News reported. The Justice Department is investigating whether Noem's
+  former top aide Corey Lewandowski personally profited from his DHS role, according
+  to CBS News, the BBC's US partner. The inquiry followed a referral from the DHS
+  inspector general's office, which is made up of lawyers charged with monitoring
+  the agency's conduct and operations.
+nut_graf: The inquiry concerns allegations about Lewandowski's contract authority,
+  grant decisions and use of his DHS role for outside financial gain. It followed
+  a referral from the DHS inspector general's office, which is made up of lawyers
+  charged with monitoring the agency. Separately, lawmakers challenged Noem's $220m
+  advertising award process, which went to two companies with ties to Noem and people
+  in her inner circle. Attorney Adam Trigg said Lewandowski denies wrongdoing and
+  has not been contacted by the Justice Department.
 primary_entities:
 - Kristi Noem
 - Corey Lewandowski
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +155,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-justice-department-examines-allegations-that-lewandowski-profited-from-dhs-role
-  headline: Justice Department examines allegations that Lewandowski profited from DHS role
+  headline: Justice Department examines allegations that Lewandowski profited from
+    DHS role
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8215
+  strength: 0.8218
 - slug: 2026-10-22-doj-reportedly-opens-probe-into-former-dhs-official-corey-lewandowski
   headline: DOJ reportedly opens probe into former DHS official Corey Lewandowski
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8173
+  strength: 0.8171
 - slug: 2026-10-23-one-source-says-doj-has-not-yet-issued-subpoenas-in-the-corey-lewandowski-inquir
-  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski inquiry
+  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski
+    inquiry
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8001
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
+  strength: 0.8002
+- slug: 2026-10-23-washington-sun-reports-some-dhs-records-requests-denied-in-lewandowski-s-tenure
+  headline: Washington Sun reports some DHS records requests denied in Lewandowski’s
+    tenure
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6383
+  strength: 0.7728
 - slug: 2026-09-08-lewandowski-allegedly-pitched-government-services-to-qatar-uae-while-at-dhs
-  headline: Lewandowski allegedly pitched government services to Qatar, UAE while at DHS
+  headline: Lewandowski allegedly pitched government services to Qatar, UAE while
+    at DHS
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.8069
-- slug: 2026-10-13-nearly-10-million-in-taxpayer-funds-spent-on-trump-ads-after-private-funding-ple
-  headline: Nearly $10 million in taxpayer funds spent on Trump ads after private-funding pledge
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6142
-- slug: 2026-10-13-trump-weighs-firing-us-ambassador-to-greece-as-inspector-general-probes
-  headline: Trump weighs firing US ambassador to Greece as inspector general probes
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6101
-- slug: 2026-10-12-doj-opens-antitrust-probe-into-five-tv-networks-over-white-house-press-dispute
-  headline: DOJ opens antitrust probe into five TV networks over White House press dispute
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6089
-- slug: 2026-10-11-justice-department-probes-tv-networks-over-white-house-pool-suspension
-  headline: Justice Department probes TV networks over White House pool suspension
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6098
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6153
-- slug: 2026-10-07-dnc-sues-trump-administration-over-taxpayer-funded-self-promotion-ads
-  headline: DNC sues Trump administration over taxpayer-funded self-promotion ads
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6137
-- slug: 2026-09-30-kristi-noem-files-for-divorce-citing-irreconcilable-differences
-  headline: Kristi Noem files for divorce citing irreconcilable differences
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6489
-- slug: 2026-09-30-public-citizen-urges-fcc-to-block-trump-ads-paid-with-public-money
-  headline: Public Citizen urges FCC to block Trump ads paid with public money
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6256
-- slug: 2026-09-27-kennedy-says-taxpayer-funded-trump-ads-are-probably-illegal
-  headline: Kennedy says taxpayer-funded Trump ads are 'probably' illegal
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6074
+  strength: 0.8074
 - slug: 2026-07-10-dhs-inspector-general-finds-lewandowski-may-have-improperly-awarded-contracts
   headline: DHS inspector general finds Lewandowski may have improperly awarded contracts
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.8001
-- slug: 2026-09-01-wyden-jayapal-ask-gao-to-investigate-dhs-use-of-summonses-against-journalists
-  headline: Wyden, Jayapal ask GAO to investigate DHS use of summonses against journalists
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6141
-- slug: 2026-08-29-dhs-uses-obscure-customs-summons-to-obtain-records-on-journalists-nonprofits
-  headline: DHS uses obscure customs summons to obtain records on journalists, nonprofits
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6177
+  strength: 0.8009
 - slug: 2026-03-06-trump-fires-noem-as-dhs-chief-after-220m-ad-blitz-draws-gop-ire
   headline: Trump fires Noem as DHS chief after $220M ad blitz draws GOP ire
   publish_date: '2026-03-06'
   relation: related
-  strength: 0.769
+  strength: 0.7696
 - slug: 2026-03-05-kristi-noem-defends-dhs-immigration-actions-and-spending-in-congress
   headline: Kristi Noem defends DHS immigration actions and spending in Congress
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.7178
-- slug: 2026-06-20-california-s-newsom-under-federal-investigation-leans-into-fight-with-trump
-  headline: California's Newsom, Under Federal Investigation, Leans Into Fight With Trump
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6337
+  strength: 0.718
 ---
-
 ## Lawmakers question Noem's $220m ad award to two firms tied to Noem and her circle
 
 **Subtype:** fact
