@@ -1,9 +1,19 @@
 ---
-headline: Financial firms plan $63 billion vehicle to lease Broadcom AI hardware to Anthropic
-secondary_headline: Broadcom plans residual-value support equal to the first-lien portion
+headline: Financial firms plan $63 billion vehicle to lease Broadcom AI hardware to
+  Anthropic
+secondary_headline: Broadcom plans residual-value support equal to the first-lien
+  portion
 publish_date: '2026-10-26'
-lede: The Wall Street Journal reported on October 26, 2026, that Bank of America, Blackstone, Citi and Morgan Stanley are forming a $63 billion special-purpose vehicle to purchase Broadcom AI infrastructure and lease it to Anthropic. Deliveries to the vehicle are expected to begin next year, while Broadcom plans to provide residual-value support equal to the first-lien portion of the financing.
-nut_graf: The arrangement gives the planned Anthropic computing deployment a dedicated financing structure while Broadcom plans to provide residual-value support equal to the first-lien portion. It came hours after Anthropic unveiled an initial public offering filing that The Wall Street Journal reported could value the company between $1.5 trillion and $2 trillion.
+lede: The Wall Street Journal reported on October 26, 2026, that Bank of America,
+  Blackstone, Citi and Morgan Stanley are forming a $63 billion special-purpose vehicle
+  to purchase Broadcom AI infrastructure and lease it to Anthropic. Deliveries to
+  the vehicle are expected to begin next year, while Broadcom plans to provide residual-value
+  support equal to the first-lien portion of the financing.
+nut_graf: The arrangement gives the planned Anthropic computing deployment a dedicated
+  financing structure while Broadcom plans to provide residual-value support equal
+  to the first-lien portion. It came hours after Anthropic unveiled an initial public
+  offering filing that The Wall Street Journal reported could value the company between
+  $1.5 trillion and $2 trillion.
 primary_entities:
 - Bank of America
 - Blackstone
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +146,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.667
 - slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6625
+  strength: 0.6622
+- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
+  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time
+    charge
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6578
 - slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6508
-- slug: 2026-10-22-meta-plans-ai-capital-raise-as-future-spending-commitments-rise-to-roughly-825-b
-  headline: Meta plans AI capital raise as future spending commitments rise to roughly $825 billion
-  publish_date: '2026-10-22'
+  strength: 0.6509
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.637
+  strength: 0.6508
 - slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
   headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6701
+  strength: 0.6703
 - slug: 2026-10-08-openai-narrows-anthropic-lead-in-business-ai-spending-ahead-of-dual-ipos
   headline: OpenAI narrows Anthropic lead in business AI spending ahead of dual IPOs
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6528
+  strength: 0.6525
 - slug: 2026-09-16-openai-in-early-talks-for-funding-round-at-1-2-trillion-valuation
   headline: OpenAI in early talks for funding round at $1.2 trillion valuation
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6655
-- slug: 2026-09-02-broadcom-s-ai-chip-business-faces-mounting-competition-ahead-of-earnings
-  headline: Broadcom's AI chip business faces mounting competition ahead of earnings
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7081
-- slug: 2026-08-31-anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda
-  headline: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6604
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6679
-- slug: 2026-08-21-blackstone-h-f-and-anthropic-form-ode-to-deploy-ai-at-portfolio-companies
-  headline: Blackstone, H&F and Anthropic form Ode to deploy AI at portfolio companies
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6526
-- slug: 2026-08-10-nvidia-reaches-500-billion-ai-financing-deal-with-wall-street-firms
-  headline: Nvidia reaches $500 billion AI financing deal with Wall Street firms
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6674
-- slug: 2026-07-30-google-guarantees-15-billion-loan-for-anthropic-s-texas-data-center
-  headline: Google guarantees $15 billion loan for Anthropic's Texas data center
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6736
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6487
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6863
-- slug: 2026-06-17-goldman-morgan-stanley-split-teams-for-openai-and-anthropic-ipo-races
-  headline: Goldman, Morgan Stanley split teams for OpenAI and Anthropic IPO races
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6995
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6935
-- slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
-  headline: Anthropic commits $100 billion to Amazon cloud platform over decade
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6861
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6589
-- slug: 2026-06-01-alphabet-plans-80-billion-equity-raise-to-fund-ai-infrastructure-expansion
-  headline: Alphabet plans $80 billion equity raise to fund AI infrastructure expansion
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6545
-- slug: 2026-06-14-tech-ipos-set-to-deliver-billions-in-charitable-giving-experts-say
-  headline: Tech IPOs Set to Deliver Billions in Charitable Giving, Experts Say
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6448
+  strength: 0.6642
 ---
-
 ## Financial firms plan $63 billion vehicle to lease Broadcom AI hardware to Anthropic
 
 **Subtype:** fact

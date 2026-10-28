@@ -1,9 +1,21 @@
 ---
 headline: Justice Department spokeswoman says waiverless filing extended 10-year deadline
-secondary_headline: Criminal information permits charges before prosecutors seek an indictment
+secondary_headline: Criminal information permits charges before prosecutors seek an
+  indictment
 publish_date: '2026-10-26'
-lede: A Justice Department spokeswoman said prosecutors filed a “waiverless criminal information” to extend the 10-year statute of limitations so prosecutors could seek an indictment against former FBI director James Comey. The document, filed in federal court in Washington, D.C., alleges that Comey mishandled national security information in October 2016 that ended up in a New York Times article. The charging document was made public Monday. James Comey denied wrongdoing, said he would fight the charges and accused prosecutors of waiting too long to bring them.
-nut_graf: 'The Justice Department spokeswoman’s explanation centers on the filing mechanism: a criminal information permits charges without an indictment, and the spokeswoman said prosecutors used the waiverless form to extend the 10-year limitations period so prosecutors could seek one. The allegation concerns Comey’s handling of information from 2016, while separate cases against him involving alleged lies to Congress and a 2025 seashell post remain at different procedural stages.'
+lede: A Justice Department spokeswoman said prosecutors filed a “waiverless criminal
+  information” to extend the 10-year statute of limitations so prosecutors could seek
+  an indictment against former FBI director James Comey. The document, filed in federal
+  court in Washington, D.C., alleges that Comey mishandled national security information
+  in October 2016 that ended up in a New York Times article. The charging document
+  was made public Monday. James Comey denied wrongdoing, said he would fight the charges
+  and accused prosecutors of waiting too long to bring them.
+nut_graf: 'The Justice Department spokeswoman’s explanation centers on the filing
+  mechanism: a criminal information permits charges without an indictment, and the
+  spokeswoman said prosecutors used the waiverless form to extend the 10-year limitations
+  period so prosecutors could seek one. The allegation concerns Comey’s handling of
+  information from 2016, while separate cases against him involving alleged lies to
+  Congress and a 2025 seashell post remain at different procedural stages.'
 primary_entities:
 - James Comey
 - Justice Department
@@ -40,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,103 +156,42 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8373
+- slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
+  headline: Prosecutors say Comey sought to correct Reuters misinformation
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8334
 - slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
   headline: James Comey remains unindicted after defense filed dismissal motion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8049
+  strength: 0.8054
 - slug: 2026-10-26-federal-prosecutors-charge-james-comey-with-leaking-national-defense-information
   headline: Federal prosecutors charge James Comey with leaking national defense information
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7996
+  strength: 0.7997
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7818
+- slug: 2026-10-26-yahoo-email-scan-order-links-renewed-comey-case-to-2016-disclosure
+  headline: Yahoo email-scan order links renewed Comey case to 2016 disclosure
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7362
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-in-third-justice-department-prosecution
+  headline: Trump calls James Comey a “dirty cop” in third Justice Department prosecution
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7343
 - slug: 2026-10-26-justice-department-plans-appeal-after-judge-finds-comey-eligible-for-backpay
   headline: Justice Department plans appeal after judge finds Comey eligible for backpay
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6976
-- slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
-  headline: Justice Department says Pam Bondi decided Maurene Comey's firing
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6766
-- slug: 2026-10-26-furman-finds-due-process-violation-calls-for-comey-back-pay-possible-return
-  headline: Furman finds due process violation, calls for Comey back pay, possible return
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6674
-- slug: 2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful
-  headline: Federal judge rules Maurene Comey's firing unlawful
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6562
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6744
-- slug: 2026-09-25-judge-pushes-comey-seashell-case-trial-to-2027
-  headline: Judge pushes Comey seashell-case trial to 2027
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7218
-- slug: 2026-08-19-prosecutors-say-comey-seashell-post-could-be-read-as-trump-threat
-  headline: Prosecutors say Comey seashell post could be read as Trump threat
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7174
-- slug: 2026-08-22-pen-america-criticizes-prosecutors-use-of-comey-novel-in-threat-case
-  headline: PEN America criticizes prosecutors' use of Comey novel in threat case
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6588
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7181
-- slug: 2026-05-31-lead-prosecutor-leaves-james-comey-case-without-explanation
-  headline: Lead prosecutor leaves James Comey case without explanation
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6916
-- slug: 2026-06-15-supreme-court-rejects-carter-page-s-lawsuit-against-james-comey
-  headline: Supreme Court rejects Carter Page's lawsuit against James Comey
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6769
-- slug: 2026-05-08-comey-asks-to-cancel-monday-nc-court-appearance-in-trump-threat-case
-  headline: Comey asks to cancel Monday NC court appearance in Trump threat case
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6971
-- slug: 2026-04-30-comey-returns-to-court-in-case-alleging-86-47-trump-threat
-  headline: Comey returns to court in case alleging ‘86 47’ Trump threat
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6953
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.664
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  headline: Trump administration targets political opponents; Powell and Fed the latest
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6896
-- slug: 2026-01-23-justice-department-calls-smith-report-illicit-and-seeks-permanent-seal
-  headline: Justice Department calls Smith report 'illicit' and seeks permanent seal
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6859
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6848
+  strength: 0.6973
 ---
-
 ## Justice Department spokeswoman says waiverless filing extended 10-year deadline
 
 **Subtype:** fact

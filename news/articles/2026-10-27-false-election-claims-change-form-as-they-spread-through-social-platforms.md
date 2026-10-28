@@ -1,9 +1,23 @@
 ---
 headline: False election claims change form as they spread through social platforms
-secondary_headline: Trust-and-safety teams have lost staff while platforms increasingly use AI for moderation
+secondary_headline: Trust-and-safety teams have lost staff while platforms increasingly
+  use AI for moderation
 publish_date: '2026-10-27'
-lede: Experts cited by The Guardian describe an unprecedented flood of AI-driven disinformation in social media feeds ahead of November's US midterm elections, as tens of millions of Americans prepare to cast their votes. The Guardian identified Meta among the social media companies that have pulled back efforts to protect voters from election-meddling lies, and reported that trust-and-safety teams built after the Cambridge Analytica scandal have seen significant layoffs. Researchers tracking individual cases say false claims change into new versions as they spread, leaving an original correction insufficient to address every version. People cast their votes on the first day of early voting in New York City on Saturday.
-nut_graf: Campaign records, research by the Digital Democracy Institute of the Americas and on-record statements from former Facebook data engineer Frances Haugen describe a gap between the safeguards platforms publicly describe and what campaigns say they can obtain when a lie reaches voters. With the November midterms approaching, the open questions are which rules are enforced, in which languages, and what happens when a federal agency repeats a claim a campaign has documented as false.
+lede: Experts cited by The Guardian describe an unprecedented flood of AI-driven disinformation
+  in social media feeds ahead of November's US midterm elections, as tens of millions
+  of Americans prepare to cast their votes. The Guardian identified Meta among the
+  social media companies that have pulled back efforts to protect voters from election-meddling
+  lies, and reported that trust-and-safety teams built after the Cambridge Analytica
+  scandal have seen significant layoffs. Researchers tracking individual cases say
+  false claims change into new versions as they spread, leaving an original correction
+  insufficient to address every version. People cast their votes on the first day
+  of early voting in New York City on Saturday.
+nut_graf: Campaign records, research by the Digital Democracy Institute of the Americas
+  and on-record statements from former Facebook data engineer Frances Haugen describe
+  a gap between the safeguards platforms publicly describe and what campaigns say
+  they can obtain when a lie reaches voters. With the November midterms approaching,
+  the open questions are which rules are enforced, in which languages, and what happens
+  when a federal agency repeats a claim a campaign has documented as false.
 primary_entities:
 - Meta Platforms
 - X
@@ -48,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +165,44 @@ related_stories:
   headline: BBC Verify tracks dozens of AI ads in the US midterms campaign
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6943
+  strength: 0.6936
 - slug: 2026-10-23-stewart-attributes-early-voting-surge-to-enthusiasm-and-spending-to-encourage-ea
-  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage early voting
+  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage
+    early voting
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6712
+  strength: 0.6726
 - slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
   headline: Democratic attorneys general expand midterm election security planning
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6783
+  strength: 0.6797
 - slug: 2026-10-21-himes-warner-seek-election-day-contact-from-intelligence-leaders
   headline: Himes, Warner seek Election Day contact from intelligence leaders
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6699
+  strength: 0.6696
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6666
+  strength: 0.6669
 - slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
   headline: Election deniers revive fraud claims before midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6795
+  strength: 0.68
 - slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.69
+  strength: 0.6888
 - slug: 2026-10-01-critics-warn-trump-s-conspiratorial-attacks-endanger-us-freedoms-health
   headline: Critics warn Trump's conspiratorial attacks endanger US freedoms, health
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6752
-- slug: 2026-09-27-experts-warn-midterm-counting-window-is-a-vulnerable-period
-  headline: Experts warn midterm counting window is a vulnerable period
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6745
-- slug: 2026-09-22-independent-immigrant-newsrooms-reach-readers-via-whatsapp-sms
-  headline: Independent immigrant newsrooms reach readers via WhatsApp, SMS
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6692
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.674
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6693
-- slug: 2026-08-23-white-house-declines-to-rule-out-national-emergency-over-elections
-  headline: White House declines to rule out national emergency over elections
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6675
-- slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
-  headline: Census noncitizen voting report tied to Trump-aligned think tank
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6723
-- slug: 2026-08-13-us-ai-models-decline-criticism-of-speech-restricting-governments-reports-find
-  headline: US AI models decline criticism of speech-restricting governments, reports find
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6782
-- slug: 2026-06-15-ai-generated-campaign-ads-surge-ahead-of-midterms-researchers-say
-  headline: AI-generated campaign ads surge ahead of midterms, researchers say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.748
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6667
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6792
-- slug: 2026-07-18-trump-fires-election-commissioners-pushes-new-voting-rules-after-speech-alleging
-  headline: Trump fires election commissioners, pushes new voting rules after speech alleging the system is broken
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6801
-- slug: 2026-06-30-guardian-says-colombia-race-shows-shift-in-u-s-electoral-interference
-  headline: Guardian says Colombia race shows shift in U.S. electoral interference
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6687
+  strength: 0.6749
 ---
-
 ## False election claims change form as they spread through social platforms
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: The Guardian seeks US voter priorities for Nov. 3 midterms
 secondary_headline: Voters will also choose governorships in 36 states on Nov. 3
 publish_date: '2026-10-27'
-lede: The Guardian is asking Americans of voting age across the political spectrum to identify the issues that will decide their votes in the Nov. 3 midterm elections. Millions of Americans will vote that day, with control of the House of Representatives and Senate and governorships in 36 states also on the ballot.
-nut_graf: The request comes as The Guardian cited an October New York Times/Siena College poll in which Donald Trump’s approval rating sank to 36%. Most respondents expressed frustration over his handling of the US economy, cost of living and Iran war.
+lede: The Guardian is asking Americans of voting age across the political spectrum
+  to identify the issues that will decide their votes in the Nov. 3 midterm elections.
+  Millions of Americans will vote that day, with control of the House of Representatives
+  and Senate and governorships in 36 states also on the ballot.
+nut_graf: The request comes as The Guardian cited an October New York Times/Siena
+  College poll in which Donald Trump’s approval rating sank to 36%. Most respondents
+  expressed frustration over his handling of the US economy, cost of living and Iran
+  war.
 primary_entities:
 - The Guardian
 - Donald Trump
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +150,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
   strength: 0.7221
@@ -182,68 +190,7 @@ related_stories:
   publish_date: '2026-10-05'
   relation: related
   strength: 0.7826
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6869
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7676
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7132
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7388
-- slug: 2026-10-15-guardian-asks-americans-to-share-personal-recession-indicators
-  headline: Guardian asks Americans to share personal recession indicators
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7031
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6977
-- slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
-  headline: Young voters split on gun control despite shared fear of mass shootings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6871
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6935
-- slug: 2026-09-24-guardian-hosts-live-q-a-on-midterm-campaign-spending
-  headline: Guardian hosts live Q&A on midterm campaign spending
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7194
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6887
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.686
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6862
 ---
-
 ## The Guardian seeks US voter priorities for Nov. 3 midterms
 
 **Subtype:** fact

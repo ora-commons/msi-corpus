@@ -1,9 +1,18 @@
 ---
 headline: Democrats lead House polling as Trump approval stays below 50%
-secondary_headline: Cost of living leads concerns as likely voters emphasize change and election confidence
+secondary_headline: Cost of living leads concerns as likely voters emphasize change
+  and election confidence
 publish_date: '2026-10-27'
-lede: A new NPR/PBS News/Marist poll found Democrats leading the generic House ballot among registered and likely voters, while most likely voters disapproved of President Trump’s job performance. The Oct. 19-20 survey of 1,289 registered voters also found economic pressure, uneven enthusiasm and confidence gaps that could limit the scale of Democratic gains in the 2026 midterms.
-nut_graf: The findings put Democrats in the position of favorites for House control, but they also show why the size of a national polling advantage may not translate into the same number of House seats. Redistricting, uneven enthusiasm among some Democratic constituencies and partisan differences over election confidence all complicate that path.
+lede: A new NPR/PBS News/Marist poll found Democrats leading the generic House ballot
+  among registered and likely voters, while most likely voters disapproved of President
+  Trump’s job performance. The Oct. 19-20 survey of 1,289 registered voters also found
+  economic pressure, uneven enthusiasm and confidence gaps that could limit the scale
+  of Democratic gains in the 2026 midterms.
+nut_graf: The findings put Democrats in the position of favorites for House control,
+  but they also show why the size of a national polling advantage may not translate
+  into the same number of House seats. Redistricting, uneven enthusiasm among some
+  Democratic constituencies and partisan differences over election confidence all
+  complicate that path.
 primary_entities:
 - Trump
 - Democrats
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,44 @@ related_stories:
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8155
+  strength: 0.8152
+- slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
+  headline: Poll shows Democrats with House edge as Israelis cast ballots
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7536
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7205
+  strength: 0.7208
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7393
+  strength: 0.7392
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8303
+  strength: 0.8311
 - slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
   headline: Polls show narrower Democratic lead in competitive House seats
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7097
+  strength: 0.7101
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7739
+  strength: 0.774
 - slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
   headline: New York Times/Siena survey records 36% approval for Trump
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7242
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7106
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.8246
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7115
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7536
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.828
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7119
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7411
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7299
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7411
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7295
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7868
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7428
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7077
+  strength: 0.7244
 ---
-
 ## Democrats lead House polling as Trump approval stays below 50%
 
 **Subtype:** fact

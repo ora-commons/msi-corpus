@@ -1,9 +1,22 @@
 ---
 headline: California Proposition 45 divides YIMBY advocates over fringe development
-secondary_headline: Measure would narrow environmental reviews and cap court timelines for housing
+secondary_headline: Measure would narrow environmental reviews and cap court timelines
+  for housing
 publish_date: '2026-10-26'
-lede: California's Proposition 45 is on the ballot with support from Assemblymember Buffy Wicks and much of the building industry, while Eastbay for Everyone, the Greenbelt Alliance and environmental justice groups oppose the measure. Supporters say it would accelerate housing construction by narrowing reviews under the California Environmental Quality Act and limiting court timelines. The dispute within the pro-housing movement is over where and how much low-density development at metropolitan fringes should occur, not over whether California should build more homes; California YIMBY says some exurban growth is necessary to address the housing shortage.
-nut_graf: The measure would affect more than housing by setting review and litigation deadlines for a broad category of essential projects, including roads, hospitals, schools, clean energy projects, water and broadband infrastructure. It would cover both transit-adjacent urban housing and low-density subdivisions at the metropolitan fringe, making the scope of fringe development a central issue within the pro-housing coalition.
+lede: California's Proposition 45 is on the ballot with support from Assemblymember
+  Buffy Wicks and much of the building industry, while Eastbay for Everyone, the Greenbelt
+  Alliance and environmental justice groups oppose the measure. Supporters say it
+  would accelerate housing construction by narrowing reviews under the California
+  Environmental Quality Act and limiting court timelines. The dispute within the pro-housing
+  movement is over where and how much low-density development at metropolitan fringes
+  should occur, not over whether California should build more homes; California YIMBY
+  says some exurban growth is necessary to address the housing shortage.
+nut_graf: The measure would affect more than housing by setting review and litigation
+  deadlines for a broad category of essential projects, including roads, hospitals,
+  schools, clean energy projects, water and broadband infrastructure. It would cover
+  both transit-adjacent urban housing and low-density subdivisions at the metropolitan
+  fringe, making the scope of fringe development a central issue within the pro-housing
+  coalition.
 primary_entities:
 - California
 - Proposition 45
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +157,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
-  headline: Proposition 40 aims to raise $100 billion for California health care
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6234
-- slug: 2026-10-21-california-board-withdraws-zone-0-rules-expects-november-resubmission
-  headline: California board withdraws Zone 0 rules, expects November resubmission
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6101
-- slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
-  headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6125
 - slug: 2026-02-14-california-lawmakers-eye-factory-built-housing-push-for-2026
   headline: California lawmakers eye factory-built housing push for 2026
   publish_date: '2026-02-14'
   relation: related
-  strength: 0.716
+  strength: 0.7138
 - slug: 2026-04-07-connecticut-churches-seek-faster-approvals-to-build-affordable-housing
   headline: Connecticut churches seek faster approvals to build affordable housing
   publish_date: '2026-04-07'
   relation: related
-  strength: 0.7037
+  strength: 0.7041
 - slug: 2026-04-16-california-cities-scramble-to-comply-with-or-fight-sb-79-housing-rezoning
   headline: California cities scramble to comply with or fight SB 79 housing rezoning
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.7005
+  strength: 0.6991
 - slug: 2026-04-01-california-weighs-state-backed-insurance-for-factory-built-housing
   headline: California weighs state-backed insurance for factory-built housing
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.6589
-- slug: 2026-05-30-california-air-regulators-approve-cap-and-trade-changes-drawing-fire-from-all-si
-  headline: California air regulators approve cap-and-trade changes, drawing fire from all sides
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6288
-- slug: 2026-06-15-trump-uses-wartime-powers-to-push-75m-oakland-coal-terminal
-  headline: Trump uses wartime powers to push $75M Oakland coal terminal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6091
-- slug: 2026-01-23-california-seeks-to-expedite-10-billion-climate-spending-plan
-  headline: California seeks to expedite $10 billion climate spending plan
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6464
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6096
-- slug: 2026-04-08-california-considers-green-jet-fuel-tax-credit-that-critics-say-drains-road-fund
-  headline: California considers green jet fuel tax credit that critics say drains road funds
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6303
-- slug: 2026-05-14-california-sets-2032-deadline-for-recyclable-plastic-packaging-drawing-lawsuits-
-  headline: California sets 2032 deadline for recyclable plastic packaging, drawing lawsuits from both sides
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.617
-- slug: 2026-01-28-california-pollution-rules-years-late-still-insufficient-for-vulnerable-towns
-  headline: California pollution rules, years late, still insufficient for vulnerable towns
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6382
-- slug: 2026-01-14-california-housing-bond-advances-as-rent-control-bill-fails-committee-vote
-  headline: California housing bond advances as rent control bill fails committee vote
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6318
-- slug: 2026-05-14-california-plastic-recycling-rules-spark-court-threats-and-industry-pushback
-  headline: California plastic recycling rules spark court threats and industry pushback
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6081
-- slug: 2026-01-12-california-hydrogen-gas-blending-pilot-faces-pushback-from-orange-cove-residents
-  headline: California hydrogen gas-blending pilot faces pushback from Orange Cove residents
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6271
-- slug: 2026-04-16-california-bill-delays-compliance-with-federal-health-subpoenas-for-trans-aborti
-  headline: California bill delays compliance with federal health subpoenas for trans, abortion care
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6123
-- slug: 2026-03-10-california-has-40-000-affordable-units-ready-but-funding-delays-remain
-  headline: California has 40,000 affordable units ready, but funding delays remain
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6182
-- slug: 2026-02-27-berkeley-city-council-approves-housing-projects-that-sidestep-labor-standards
-  headline: Berkeley City Council approves housing projects that sidestep labor standards
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6179
+  strength: 0.6572
 ---
-
 ## California Proposition 45 divides YIMBY advocates over fringe development
 
 **Subtype:** fact

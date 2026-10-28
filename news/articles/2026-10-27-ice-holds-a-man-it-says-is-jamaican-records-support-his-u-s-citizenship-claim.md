@@ -1,9 +1,19 @@
 ---
-headline: ICE holds a man it says is Jamaican, records support his U.S. citizenship claim
-secondary_headline: Damon Leichty weighs release petition while removal order remains on appeal
+headline: ICE holds a man it says is Jamaican, records support his U.S. citizenship
+  claim
+secondary_headline: Damon Leichty weighs release petition while removal order remains
+  on appeal
 publish_date: '2026-10-27'
-lede: Immigration and Customs Enforcement has detained Phillip James for nearly 10 months while seeking his deportation to Jamaica, although his mother, lawyers and public records say he was born in Florida and is a U.S. citizen. The Department of Homeland Security disputes his citizenship and alleges that his birth certificate was fraudulent, but an Associated Press review found documents supporting his claim. A federal judge is expected to rule on a petition seeking his release.
-nut_graf: The dispute centers on ICE's authority to detain James and how officials assessed conflicting citizenship evidence. Public oversight is also constrained because immigration case records are unavailable online, and James initially represented himself while facing removal proceedings.
+lede: Immigration and Customs Enforcement has detained Phillip James for nearly 10
+  months while seeking his deportation to Jamaica, although his mother, lawyers and
+  public records say he was born in Florida and is a U.S. citizen. The Department
+  of Homeland Security disputes his citizenship and alleges that his birth certificate
+  was fraudulent, but an Associated Press review found documents supporting his claim.
+  A federal judge is expected to rule on a petition seeking his release.
+nut_graf: The dispute centers on ICE's authority to detain James and how officials
+  assessed conflicting citizenship evidence. Public oversight is also constrained
+  because immigration case records are unavailable online, and James initially represented
+  himself while facing removal proceedings.
 primary_entities:
 - Phillip James
 - Immigration and Customs Enforcement
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6367
-- slug: 2026-10-19-obama-calls-federal-omar-probe-so-appalling-and-politically-motivated
-  headline: Obama calls federal Omar probe 'so appalling' and politically motivated
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6336
-- slug: 2026-10-13-immigrants-sue-ice-alleging-agency-withheld-documents-after-release
-  headline: Immigrants sue ICE, alleging agency withheld documents after release
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6456
-- slug: 2026-10-14-federal-probe-aims-to-build-case-to-strip-omar-of-citizenship
-  headline: Federal probe aims to build case to strip Omar of citizenship
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6261
-- slug: 2026-10-06-propublica-documents-over-500-u-s-citizens-detained-by-immigration-agents
-  headline: ProPublica documents over 500 U.S. citizens detained by immigration agents
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6466
-- slug: 2026-09-12-former-north-carolina-detention-officer-faces-20-felony-forgery-counts
-  headline: Former North Carolina detention officer faces 20 felony forgery counts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6219
-- slug: 2026-09-01-ice-detains-76-year-old-permanent-resident-with-stage-4-cancer-during-citizenshi
-  headline: ICE detains 76-year-old permanent resident with stage 4 cancer during citizenship interview
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6225
 - slug: 2026-07-24-ice-detains-british-born-man-who-lived-in-us-since-age-nine
   headline: ICE detains British-born man who lived in US since age nine
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6686
-- slug: 2026-08-02-family-plans-lawsuit-after-haitian-immigrant-froze-to-death-post-ice-release
-  headline: Family plans lawsuit after Haitian immigrant froze to death post-ICE release
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6206
+  strength: 0.6697
 - slug: 2026-05-09-prosecutors-seek-to-revoke-citizenship-of-diplomat-who-spied-for-cuba
   headline: Prosecutors seek to revoke citizenship of diplomat who spied for Cuba
   publish_date: '2026-05-09'
   relation: related
-  strength: 0.6539
-- slug: 2026-06-20-93-of-ice-street-arrests-in-ny-nj-targeted-latinos-investigation-finds
-  headline: 93% of ICE street arrests in NY-NJ targeted Latinos, investigation finds
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6271
-- slug: 2026-06-11-florida-agencies-partner-with-ice-to-aid-trump-immigration-crackdown
-  headline: Florida agencies partner with ICE to aid Trump immigration crackdown
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6193
-- slug: 2026-06-10-ice-letter-acknowledges-collecting-data-on-some-protesters-observers
-  headline: ICE letter acknowledges collecting data on some protesters, observers
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6191
-- slug: 2026-05-15-ice-detains-joe-ceballos-former-kansas-mayor-over-illegal-voting-as-non-citizen
-  headline: ICE detains Joe Ceballos, former Kansas mayor, over illegal voting as non-citizen
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6228
-- slug: 2026-01-29-native-americans-fear-ice-and-rush-to-prove-their-citizenship-in-ids
-  headline: Native Americans fear ICE and rush to prove their citizenship in IDs
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6446
-- slug: 2026-05-18-judge-bans-most-ice-arrests-near-new-york-immigration-courts-then-arrest-follows
-  headline: Judge bans most ICE arrests near New York immigration courts, then arrest follows
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6196
-- slug: 2026-05-19-judge-bars-most-ice-arrests-at-nyc-immigration-courts-man-detained
-  headline: Judge bars most ICE arrests at NYC immigration courts; man detained
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.618
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  headline: Judge orders man shot by ICE in California to remain in custody
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6275
-- slug: 2026-03-31-supreme-court-hears-trump-bid-to-end-birthright-citizenship
-  headline: Supreme Court hears Trump bid to end birthright citizenship
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6233
-- slug: 2026-01-24-government-and-school-offer-conflicting-accounts-in-5-year-old-s-ice-detention
-  headline: Government and school offer conflicting accounts in 5-year-old's ICE detention
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6294
+  strength: 0.6546
 ---
-
 ## ICE holds a man it says is Jamaican, records support his U.S. citizenship claim
 
 **Subtype:** fact

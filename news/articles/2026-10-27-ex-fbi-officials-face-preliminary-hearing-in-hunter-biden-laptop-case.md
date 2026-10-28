@@ -2,8 +2,20 @@
 headline: Ex-FBI officials face preliminary hearing in Hunter Biden laptop case
 secondary_headline: Defense lawyers expected to challenge case at Tuesday hearing
 publish_date: '2026-10-27'
-lede: Former FBI officials Nikki Floris and Bradley Benavides are due back in federal court in Washington on Tuesday for a preliminary hearing in a Justice Department case alleging they lied to Congress about their participation in investigations involving Hunter Biden. The prosecution was announced Friday, and defense lawyers are expected to challenge the case, including by highlighting that the charges were brought through a criminal complaint signed by a magistrate judge rather than a grand-jury indictment. Their lawyers deny the allegations and have described the case as baseless and politically motivated.
-nut_graf: Defense lawyers are expected to challenge the case at the hearing, including by highlighting the unusual fact that the charges were brought through a criminal complaint signed by a magistrate judge rather than a grand-jury indictment. The case also reaches back to the FBI Foreign Influence Task Force's 2020 briefing of Republican senators, the controversy over the laptop's provenance and the task force's 2025 disbandment.
+lede: Former FBI officials Nikki Floris and Bradley Benavides are due back in federal
+  court in Washington on Tuesday for a preliminary hearing in a Justice Department
+  case alleging they lied to Congress about their participation in investigations
+  involving Hunter Biden. The prosecution was announced Friday, and defense lawyers
+  are expected to challenge the case, including by highlighting that the charges were
+  brought through a criminal complaint signed by a magistrate judge rather than a
+  grand-jury indictment. Their lawyers deny the allegations and have described the
+  case as baseless and politically motivated.
+nut_graf: Defense lawyers are expected to challenge the case at the hearing, including
+  by highlighting the unusual fact that the charges were brought through a criminal
+  complaint signed by a magistrate judge rather than a grand-jury indictment. The
+  case also reaches back to the FBI Foreign Influence Task Force's 2020 briefing of
+  Republican senators, the controversy over the laptop's provenance and the task force's
+  2025 disbandment.
 primary_entities:
 - Nikki Floris
 - Bradley Benavides
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +154,44 @@ related_stories:
   headline: Two former FBI employees appear in court after false-statement complaints
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.9015
+  strength: 0.9008
 - slug: 2026-10-23-complaint-alleges-task-force-leaders-misstated-roles-in-hunter-biden-inquiry
   headline: Complaint alleges task-force leaders misstated roles in Hunter Biden inquiry
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8834
+  strength: 0.8822
 - slug: 2026-10-23-hunter-biden-laptop-discovery-drew-concern-about-possible-russian-disinformation
   headline: Hunter Biden laptop discovery drew concern about possible Russian disinformation
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8581
+  strength: 0.8584
 - slug: 2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment
   headline: Justice Department review follows FBI task force's 2025 disbandment
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8323
+  strength: 0.8305
 - slug: 2026-10-23-cnn-sources-say-ex-fbi-agents-tried-to-downplay-biden-family-corruption-claims
-  headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption claims
+  headline: CNN sources say ex-FBI agents tried to downplay Biden-family corruption
+    claims
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8249
+  strength: 0.8258
 - slug: 2026-10-21-himes-warner-seek-election-day-contact-from-intelligence-leaders
   headline: Himes, Warner seek Election Day contact from intelligence leaders
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6522
-- slug: 2026-10-15-nine-former-fbi-employees-sue-over-trump-documents-case-firings
-  headline: Nine former FBI employees sue over Trump documents case firings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6416
+  strength: 0.6526
 - slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
   headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6593
-- slug: 2026-10-09-doj-convenes-grand-jury-in-case-against-cassidy-hutchinson
-  headline: DOJ convenes grand jury in case against Cassidy Hutchinson
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6349
-- slug: 2026-09-23-times-review-finds-shinyhunters-fbi-data-most-likely-legitimate
-  headline: Times review finds ShinyHunters FBI data 'most likely legitimate'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6423
-- slug: 2026-09-23-fbi-investigates-breach-of-jobs-website-claimed-by-hacking-group
-  headline: FBI investigates breach of jobs website claimed by hacking group
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6421
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6319
-- slug: 2026-09-15-wainstein-filing-brennan-is-target-of-separate-lying-to-congress-probe
-  headline: 'Wainstein filing: Brennan is ''target'' of separate lying-to-Congress probe'
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6261
-- slug: 2026-09-15-brennan-attorney-alleges-doj-judge-shopping-before-federal-judge
-  headline: Brennan attorney alleges DOJ 'judge-shopping' before federal judge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6257
-- slug: 2026-09-14-former-cia-director-john-brennan-subpoenaed-for-florida-grand-jury-testimony
-  headline: Former CIA director John Brennan subpoenaed for Florida grand jury testimony
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6281
-- slug: 2026-08-15-hunter-biden-conducts-wide-ranging-media-tour-across-podcasts-and-substack
-  headline: Hunter Biden conducts wide-ranging media tour across podcasts and Substack
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6482
+  strength: 0.6591
 - slug: 2026-05-26-biden-sues-justice-department-to-block-release-of-hur-interview-audio
   headline: Biden sues Justice Department to block release of Hur interview audio
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.6919
-- slug: 2026-07-15-federal-trial-opens-for-israeli-investigator-accused-of-hacking-climate-activist
-  headline: Federal trial opens for Israeli investigator accused of hacking climate activists
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6384
-- slug: 2026-05-27-biden-sues-justice-department-to-block-release-of-audio-interviews-from-classifi
-  headline: Biden sues Justice Department to block release of audio interviews from classified documents probe
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6778
-- slug: 2026-03-20-ex-fbi-agents-sue-patel-over-firings-tied-to-arctic-frost-probe
-  headline: Ex-FBI agents sue Patel over firings tied to Arctic Frost probe
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6629
+  strength: 0.6929
 ---
-
 ## Ex-FBI officials face preliminary hearing in Hunter Biden laptop case
 
 **Subtype:** fact

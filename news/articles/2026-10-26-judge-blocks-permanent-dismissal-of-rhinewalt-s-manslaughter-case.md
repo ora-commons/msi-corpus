@@ -1,9 +1,21 @@
 ---
 headline: Judge blocks permanent dismissal of Rhinewalt’s manslaughter case
-secondary_headline: The attorney general’s temporary dismissal request remains pending before the judge
+secondary_headline: The attorney general’s temporary dismissal request remains pending
+  before the judge
 publish_date: '2026-10-26'
-lede: A Hinds County circuit judge in Mississippi has blocked an effort by Republican Attorney General Lynn Fitch’s office to permanently dismiss the manslaughter case against former Capitol Police officer Michael Lamar Rhinewalt. The ruling by Faye Peterson follows a majority-Black jury’s deadlock in the killing of 25-year-old Jackson man Jaylen Lewis, a Black man, and leaves open the possibility of a second trial, although the attorney general’s request to dismiss the case temporarily remains undecided.
-nut_graf: Peterson rejected the permanent-dismissal request as showing a “bias” toward law enforcement, but said she would consider a temporary dismissal that would allow a future attorney general to decide whether to retry Rhinewalt. The temporary-dismissal motion remains undecided; legal experts expect Rhinewalt to remain clear of prosecution while Fitch serves, and a future attorney general could decide on a retrial after Fitch’s term ends in 2028.
+lede: A Hinds County circuit judge in Mississippi has blocked an effort by Republican
+  Attorney General Lynn Fitch’s office to permanently dismiss the manslaughter case
+  against former Capitol Police officer Michael Lamar Rhinewalt. The ruling by Faye
+  Peterson follows a majority-Black jury’s deadlock in the killing of 25-year-old
+  Jackson man Jaylen Lewis, a Black man, and leaves open the possibility of a second
+  trial, although the attorney general’s request to dismiss the case temporarily remains
+  undecided.
+nut_graf: Peterson rejected the permanent-dismissal request as showing a “bias” toward
+  law enforcement, but said she would consider a temporary dismissal that would allow
+  a future attorney general to decide whether to retry Rhinewalt. The temporary-dismissal
+  motion remains undecided; legal experts expect Rhinewalt to remain clear of prosecution
+  while Fitch serves, and a future attorney general could decide on a retrial after
+  Fitch’s term ends in 2028.
 primary_entities:
 - Michael Lamar Rhinewalt
 - Jaylen Lewis
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +162,8 @@ cross_article_links:
   strength: 0.5965
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-prosecutors-and-defense-differ-over-rodney-hinton-jr-s-mental-state
-  headline: Prosecutors and defense differ over Rodney Hinton Jr.'s mental state
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6392
-- slug: 2026-10-23-jury-convicts-ohio-man-of-murder-in-deputy-s-death
-  headline: Jury convicts Ohio man of murder in deputy's death
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6296
-- slug: 2026-10-08-prosecutor-sees-no-imminent-execution-for-pike-defense-says-no-guarantee
-  headline: Prosecutor sees no imminent execution for Pike; defense says no guarantee
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6172
-- slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
-  headline: Tennessee weighs execution options after Pike survives lethal injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.622
-- slug: 2026-10-07-judge-orders-preservation-of-evidence-in-tennessee-s-failed-pike-execution
-  headline: Judge orders preservation of evidence in Tennessee's failed Pike execution
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6035
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6056
-- slug: 2026-09-27-federal-judge-refers-philadelphia-da-krasner-to-doj-for-investigation
-  headline: Federal judge refers Philadelphia DA Krasner to DOJ for investigation
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6218
-- slug: 2026-09-29-prosecutor-cites-juror-chilling-effect-as-clancy-defense-seeks-trial-notes
-  headline: Prosecutor cites juror 'chilling effect' as Clancy defense seeks trial notes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6042
-- slug: 2026-09-28-judge-sets-5m-bond-for-third-suspect-in-tasia-fortune-death
-  headline: Judge sets $5M bond for third suspect in Tasia Fortune death
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.605
-- slug: 2026-09-17-alabama-to-execute-lee-by-lethal-injection-after-supreme-court-rejects-nitrogen
-  headline: Alabama to execute Lee by lethal injection after Supreme Court rejects nitrogen
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6129
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6056
-- slug: 2026-08-26-judge-rejects-bannon-conviction-dismissal-lets-government-refile-request
-  headline: Judge rejects Bannon conviction dismissal, lets government refile request
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.609
-- slug: 2026-01-03-judge-dismisses-louisville-police-reform-deal-tied-to-breonna-taylor
-  headline: Judge dismisses Louisville police reform deal tied to Breonna Taylor
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.643
-- slug: 2026-05-07-jury-begins-deliberating-in-murder-retrial-of-ohio-deputy-who-killed-goodson
-  headline: Jury begins deliberating in murder retrial of Ohio deputy who killed Goodson
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6182
-- slug: 2026-01-27-youngkin-pardons-ex-police-sergeant-in-fatal-mall-shooting
-  headline: Youngkin pardons ex-police sergeant in fatal mall shooting
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6363
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  headline: Federal authorities bar Minnesota from ICE shooting probe, claim no state jurisdiction
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6357
-- slug: 2026-01-04-federal-judge-dismisses-louisville-police-reform-deal-after-doj-withdrew
-  headline: Federal judge dismisses Louisville police reform deal after DOJ withdrew
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6306
-- slug: 2026-03-30-supreme-court-to-hear-mississippi-death-row-inmate-terry-pitchford-appeal
-  headline: Supreme Court to hear Mississippi death-row inmate Terry Pitchford appeal
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6154
-- slug: 2026-03-21-prosecutors-seek-to-dismiss-charges-against-two-louisville-officers
-  headline: Prosecutors seek to dismiss charges against two Louisville officers
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6142
-- slug: 2026-03-06-federal-judge-weighs-new-york-times-bid-to-block-pentagon-press-credential-polic
-  headline: Federal judge weighs New York Times bid to block Pentagon press credential policy
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6143
+related_stories: []
 ---
-
 ## Judge blocks permanent dismissal of Rhinewalt’s manslaughter case
 
 **Subtype:** fact

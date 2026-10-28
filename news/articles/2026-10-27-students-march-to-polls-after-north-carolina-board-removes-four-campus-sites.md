@@ -1,9 +1,22 @@
 ---
 headline: Students march to polls after North Carolina board removes four campus sites
-secondary_headline: Student groups organize rides while a lawsuit contests polling access
+secondary_headline: Student groups organize rides while a lawsuit contests polling
+  access
 publish_date: '2026-10-27'
-lede: Mostly Black students from North Carolina A&T, Bennett College and the University of North Carolina at Greensboro marched to early voting sites in Greensboro on 15 October, the first day of early voting in North Carolina. The two student marches took about two hours round trip, and students said the trip was worth it because it protected their right to vote. The North Carolina state board of elections had removed on-campus polling places at four universities late last year with Republicans in control of the state; students responded with shuttle services and voting events, and College Democrats of North Carolina sued over the early voting sites.
-nut_graf: The removals created a practical barrier and a legal challenge for students at the affected campuses. College Democrats of North Carolina said in its January lawsuit that more than 60% of WCU students did not have cars and would have to walk nearly two miles to the nearest polling site, in parts along a four-lane highway without sidewalks or guardrails. Student organizers have responded with shuttle services, voting events and marches.
+lede: Mostly Black students from North Carolina A&T, Bennett College and the University
+  of North Carolina at Greensboro marched to early voting sites in Greensboro on 15
+  October, the first day of early voting in North Carolina. The two student marches
+  took about two hours round trip, and students said the trip was worth it because
+  it protected their right to vote. The North Carolina state board of elections had
+  removed on-campus polling places at four universities late last year with Republicans
+  in control of the state; students responded with shuttle services and voting events,
+  and College Democrats of North Carolina sued over the early voting sites.
+nut_graf: The removals created a practical barrier and a legal challenge for students
+  at the affected campuses. College Democrats of North Carolina said in its January
+  lawsuit that more than 60% of WCU students did not have cars and would have to walk
+  nearly two miles to the nearest polling site, in parts along a four-lane highway
+  without sidewalks or guardrails. Student organizers have responded with shuttle
+  services, voting events and marches.
 primary_entities:
 - North Carolina Agricultural & Technical State University
 - Bennett College
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +163,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-jackson-says-lower-court-sought-to-correct-misleading-new-hampshire-guidance
-  headline: Jackson says lower court sought to correct misleading New Hampshire guidance
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6166
-- slug: 2026-10-16-no-kings-coalition-plans-3-000-early-vote-events-ahead-of-midterms
-  headline: No Kings coalition plans 3,000+ early-vote events ahead of midterms
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6091
-- slug: 2026-10-09-jsu-students-march-for-nolan-wells-name-other-young-black-mississippians
-  headline: JSU students march for Nolan Wells, name other young Black Mississippians
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6147
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6022
-- slug: 2026-09-09-democratic-aligned-groups-court-gen-z-voters-with-donuts-and-block-parties
-  headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6223
-- slug: 2026-09-11-doj-files-four-new-suits-over-in-state-tuition-for-noncitizens
-  headline: DOJ files four new suits over in-state tuition for noncitizens
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.603
-- slug: 2026-09-04-education-department-releases-student-civil-rights-data-six-months-late
-  headline: Education Department releases student civil rights data six months late
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6154
 - slug: 2026-02-10-efforts-to-add-early-voting-sites-at-nc-universities-denied-by-judge
   headline: Efforts to add early voting sites at NC universities denied by judge
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.7687
-- slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
-  headline: Three states bar student IDs at polls as courts weigh challenges
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.603
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6021
-- slug: 2026-08-10-doj-targets-new-york-connecticut-vermont-with-dream-act-tuition-complaints
-  headline: DOJ targets New York, Connecticut, Vermont with Dream Act tuition complaints
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6009
-- slug: 2026-07-15-civil-rights-leaders-plan-august-march-on-washington-for-voting-protections
-  headline: Civil rights leaders plan August march on Washington for voting protections
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.64
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6034
-- slug: 2026-05-17-voting-rights-activists-retrace-1965-march-in-montgomery-to-launch-new-redistric
-  headline: Voting rights activists retrace 1965 march in Montgomery to launch new redistricting fight
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6269
-- slug: 2026-05-17-bus-riders-retrace-1965-civil-rights-march-to-renew-fight-after-ruling
-  headline: Bus riders retrace 1965 civil rights march to renew fight after ruling
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6174
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6009
-- slug: 2026-05-17-thousands-rally-in-montgomery-to-defend-black-voting-power-after-scotus
-  headline: Thousands rally in Montgomery to defend Black voting power after SCOTUS
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6114
-- slug: 2026-05-19-naacp-congressional-black-caucus-urge-black-athletes-to-boycott-college-sports-i
-  headline: NAACP, Congressional Black Caucus urge Black athletes to boycott college sports in the South
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6034
-- slug: 2026-05-16-civil-rights-leaders-plan-alabama-rally-to-defend-black-voting-power
-  headline: Civil rights leaders plan Alabama rally to defend Black voting power
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6027
-- slug: 2026-05-17-thousands-rally-in-montgomery-against-voting-rights-rollbacks-calling-supreme-co
-  headline: Thousands rally in Montgomery against voting rights rollbacks, calling Supreme Court ruling a 'moral disgrace'
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6019
+  strength: 0.7679
 ---
-
 ## Students march to polls after North Carolina board removes four campus sites
 
 **Subtype:** fact

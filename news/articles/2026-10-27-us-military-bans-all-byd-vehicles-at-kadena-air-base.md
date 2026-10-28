@@ -2,8 +2,15 @@
 headline: US military bans all BYD vehicles at Kadena air base
 secondary_headline: Restrictions cover privately owned cars, taxis and delivery vehicles
 publish_date: '2026-10-27'
-lede: The US military has banned all BYD vehicles at Kadena air base in Okinawa, Japan, over security concerns, the military said on Tuesday. Effective this week, the restriction covers privately owned cars, taxis and delivery vehicles, with security personnel instructed to block the vehicles and turn drivers away.
-nut_graf: The Kadena decision applies the US response to Chinese smart technology at one of America's biggest overseas military bases, even though US military officials have not identified a specific threat. The policy has an immediate local effect because security personnel must block all BYD vehicles and turn drivers away at the gates.
+lede: The US military has banned all BYD vehicles at Kadena air base in Okinawa, Japan,
+  over security concerns, the military said on Tuesday. Effective this week, the restriction
+  covers privately owned cars, taxis and delivery vehicles, with security personnel
+  instructed to block the vehicles and turn drivers away.
+nut_graf: The Kadena decision applies the US response to Chinese smart technology
+  at one of America's biggest overseas military bases, even though US military officials
+  have not identified a specific threat. The policy has an immediate local effect
+  because security personnel must block all BYD vehicles and turn drivers away at
+  the gates.
 primary_entities:
 - BYD
 - Kadena air base
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,109 +144,8 @@ cross_article_links:
   strength: 0.5727
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-07-u-s-forces-in-okinawa-order-48-hour-base-lockdown-after-marine-arrest
-  headline: U.S. forces in Okinawa order 48-hour base lockdown after Marine arrest
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6504
-- slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
-  headline: Chinese automakers pitch American-style cars as U.S. stays shut
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5979
-- slug: 2026-10-07-u-s-military-in-okinawa-imposes-monthlong-curfew-after-marine-arrest
-  headline: U.S. military in Okinawa imposes monthlong curfew after Marine arrest
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6317
-- slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
-  headline: Chinese automakers target overseas markets as US and EU tighten access
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5818
-- slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5852
-- slug: 2026-10-04-japan-lodges-protest-after-us-marine-accused-of-okinawa-killing
-  headline: Japan lodges protest after US Marine accused of Okinawa killing
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.5951
-- slug: 2026-10-05-okinawa-resident-urges-takaichi-to-call-trump-after-us-marine-arrest
-  headline: Okinawa resident urges Takaichi to call Trump after US Marine arrest
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5871
-- slug: 2026-10-04-japanese-police-arrest-us-marine-after-cctv-links-him-to-okinawa-hotel-death
-  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel death
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.5871
-- slug: 2026-10-04-okinawa-police-u-s-marine-suffocated-japanese-woman-at-hotel
-  headline: 'Okinawa police: U.S. Marine suffocated Japanese woman at hotel'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.5758
-- slug: 2026-09-04-us-military-branches-disable-ad-trackers-on-service-members-devices
-  headline: US military branches disable ad trackers on service members' devices
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6196
-- slug: 2026-09-02-lawmakers-press-army-to-explain-halt-of-173rd-s-drone-warfare-focus
-  headline: Lawmakers press Army to explain halt of 173rd's drone warfare focus
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.576
-- slug: 2026-08-13-state-department-fines-bae-systems-inc-36m-for-104-arms-export-violations
-  headline: State Department fines BAE Systems Inc $36M for 104 arms export violations
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5794
-- slug: 2026-06-09-us-adds-alibaba-byd-to-list-of-companies-with-alleged-chinese-military-ties
-  headline: US adds Alibaba, BYD to list of companies with alleged Chinese military ties
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6497
-- slug: 2026-08-05-china-bans-trade-with-six-us-companies-tightens-drone-export-controls
-  headline: China bans trade with six US companies, tightens drone export controls
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5787
-- slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
-  headline: Washington targets Cuba’s military network with new restrictions
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.575
-- slug: 2026-06-08-pentagon-adds-alibaba-baidu-byd-to-list-of-chinese-military-linked-companies
-  headline: Pentagon adds Alibaba, Baidu, BYD to list of Chinese military-linked companies
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6206
-- slug: 2026-06-22-china-retaliates-bars-dual-use-exports-to-u-s-defense-contractors
-  headline: China retaliates, bars dual-use exports to U.S. defense contractors
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5925
-- slug: 2026-06-21-all-6-u-s-thaad-launchers-reportedly-return-to-south-korea-base
-  headline: All 6 U.S. THAAD launchers reportedly return to South Korea base
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5863
-- slug: 2026-06-25-u-s-bars-polestar-from-selling-new-cars-under-chinese-software-rule
-  headline: U.S. bars Polestar from selling new cars under Chinese software rule
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5732
-- slug: 2026-02-15-more-law-enforcement-agencies-will-soon-have-counter-drone-technology
-  headline: More law enforcement agencies will soon have counter-drone technology
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.6009
+related_stories: []
 ---
-
 ## US military bans all BYD vehicles at Kadena air base
 
 **Subtype:** fact

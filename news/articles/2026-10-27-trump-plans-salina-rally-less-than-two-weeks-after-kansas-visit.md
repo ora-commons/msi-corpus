@@ -2,8 +2,25 @@
 headline: Trump plans Salina rally less than two weeks after Kansas visit
 secondary_headline: More than 30 million voters have cast ballots nationwide
 publish_date: '2026-10-27'
-lede: Officials announced late Monday that President Donald Trump plans to hold a rally Saturday in Salina, Kansas, marking his second visit to the state in less than two weeks. Trump's Mississippi appearance on Monday kicked off a week of aggressive campaigning that will include more stops in states he won comfortably in 2024, including Texas, South Carolina and Iowa, while Vice President JD Vance campaigned for Republicans in Kansas and Montana. The Associated Press reported that Democratic underdogs had expanded the House and Senate battleground maps because of widespread voter discontent over inflation, the Iran war and other aspects of Trump's second presidency; its report separately described Democrats, including progressives, as expanding their efforts. More than 30 million voters had cast ballots, according to The Associated Press's data collected from election administrators across the country. An expert said the early-voting surge was more than voter enthusiasm.
-nut_graf: The Associated Press linked widespread voter discontent over inflation, the Iran war and other aspects of Trump's second presidency to Democratic expansion of the House and Senate battleground maps. The same report said Republicans were spending millions and still might not win districts drawn to favor them. More than 30 million voters had cast ballots, and the House, Senate and statehouses were at stake with a week of campaigning left. An expert said the early-voting surge was more than voter enthusiasm.
+lede: Officials announced late Monday that President Donald Trump plans to hold a
+  rally Saturday in Salina, Kansas, marking his second visit to the state in less
+  than two weeks. Trump's Mississippi appearance on Monday kicked off a week of aggressive
+  campaigning that will include more stops in states he won comfortably in 2024, including
+  Texas, South Carolina and Iowa, while Vice President JD Vance campaigned for Republicans
+  in Kansas and Montana. The Associated Press reported that Democratic underdogs had
+  expanded the House and Senate battleground maps because of widespread voter discontent
+  over inflation, the Iran war and other aspects of Trump's second presidency; its
+  report separately described Democrats, including progressives, as expanding their
+  efforts. More than 30 million voters had cast ballots, according to The Associated
+  Press's data collected from election administrators across the country. An expert
+  said the early-voting surge was more than voter enthusiasm.
+nut_graf: The Associated Press linked widespread voter discontent over inflation,
+  the Iran war and other aspects of Trump's second presidency to Democratic expansion
+  of the House and Senate battleground maps. The same report said Republicans were
+  spending millions and still might not win districts drawn to favor them. More than
+  30 million voters had cast ballots, and the House, Senate and statehouses were at
+  stake with a week of campaigning left. An expert said the early-voting surge was
+  more than voter enthusiasm.
 primary_entities:
 - Donald Trump
 - Salina, Kansas
@@ -49,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +169,44 @@ related_stories:
   headline: Trump heads to Mississippi as Democrats expand battleground maps
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8208
+  strength: 0.8193
+- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7461
 - slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
   headline: Trump holds seven rallies across seven states during midterm push
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7372
+  strength: 0.7368
 - slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
   headline: Trump draws generally smaller midterm crowds on a multistate rally week
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7247
+  strength: 0.7241
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7165
+  strength: 0.7166
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7562
-- slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
-  headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6596
-- slug: 2026-10-21-trump-makes-expanded-executive-power-a-midterm-campaign-argument
-  headline: Trump makes expanded executive power a midterm campaign argument
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.676
+  strength: 0.756
 - slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
   headline: Trump to rally in Arizona and Montana after Alaska stop
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7186
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
+  strength: 0.7182
+- slug: 2026-10-21-trump-makes-expanded-executive-power-a-midterm-campaign-argument
+  headline: Trump makes expanded executive power a midterm campaign argument
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6597
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6649
-- slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
-  headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6671
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7123
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6723
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6752
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6886
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6869
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7199
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6716
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.665
+  strength: 0.6751
 ---
-
 ## Trump plans Salina rally less than two weeks after Kansas visit
 
 **Subtype:** fact

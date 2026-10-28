@@ -2,8 +2,15 @@
 headline: Justice Department asks Washington to hold ballots from suspected noncitizens
 secondary_headline: Steve Hobbs’s office received about 60 Justice Department subpoenas
 publish_date: '2026-10-26'
-lede: The Justice Department asked Washington election officials on Monday to set aside any ballots received from more than 400 people it suspects registered to vote without U.S. citizenship. The request would apply to ballots the people might cast in next month’s midterm until state officials could confirm their legal eligibility to vote.
-nut_graf: The request would affect ballot processing in a state with more than 5 million registered voters and follows a similar California demand under appellate review. Earlier investigations in Nevada and Maricopa County found far fewer noncitizens than the administration had initially alleged.
+lede: The Justice Department asked Washington election officials on Monday to set
+  aside any ballots received from more than 400 people it suspects registered to vote
+  without U.S. citizenship. The request would apply to ballots the people might cast
+  in next month’s midterm until state officials could confirm their legal eligibility
+  to vote.
+nut_graf: The request would affect ballot processing in a state with more than 5 million
+  registered voters and follows a similar California demand under appellate review.
+  Earlier investigations in Nevada and Maricopa County found far fewer noncitizens
+  than the administration had initially alleged.
 primary_entities:
 - Justice Department
 - Washington Secretary of State’s Office
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +150,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.9331
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8106
+  strength: 0.8109
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.786
+  strength: 0.7868
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7732
 - slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
   headline: California ballot dispute reaches 9th Circuit
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7647
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
+  strength: 0.7652
+- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
+  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.771
+  strength: 0.7268
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7377
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7514
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
+  strength: 0.7384
+- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
+  headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7536
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7454
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7513
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7655
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7211
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7524
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7289
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7502
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7178
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.721
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7107
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7212
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7349
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7095
+  strength: 0.7715
 ---
-
 ## Justice Department asks Washington to hold ballots from suspected noncitizens
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Nvidia advances 2.4% as Asian indexes diverge
 secondary_headline: Hong Kong and Shanghai slip as most regional markets gain
 publish_date: '2026-10-27'
-lede: Associated Press reported that Asian stocks were mostly higher Tuesday after an AI-led Wall Street rally led by Nvidia's 2.4% gain, ahead of major corporate earnings and central-bank decisions. South Korea's Kospi had jumped more than 4% and was trading 3.6% higher at 5,667.99 by midday, while Tokyo's Nikkei 225 added 2.2%. Hong Kong's Hang Seng slipped 0.2% and the Shanghai Composite edged down 0.1%.
-nut_graf: Profit reports from huge technology companies this week could provide more detail about AI spending and whether it was producing the profits and productivity that proponents had promised. Alphabet and Microsoft were scheduled to report Wednesday, with Amazon following Thursday, while the Federal Reserve was widely expected to leave the federal funds rate unchanged at Wednesday's meeting.
+lede: Associated Press reported that Asian stocks were mostly higher Tuesday after
+  an AI-led Wall Street rally led by Nvidia's 2.4% gain, ahead of major corporate
+  earnings and central-bank decisions. South Korea's Kospi had jumped more than 4%
+  and was trading 3.6% higher at 5,667.99 by midday, while Tokyo's Nikkei 225 added
+  2.2%. Hong Kong's Hang Seng slipped 0.2% and the Shanghai Composite edged down 0.1%.
+nut_graf: Profit reports from huge technology companies this week could provide more
+  detail about AI spending and whether it was producing the profits and productivity
+  that proponents had promised. Alphabet and Microsoft were scheduled to report Wednesday,
+  with Amazon following Thursday, while the Federal Reserve was widely expected to
+  leave the federal funds rate unchanged at Wednesday's meeting.
 primary_entities:
 - Associated Press
 - Nvidia
@@ -50,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,7 +75,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-10-27'
-  caption: FRED's untransformed 10-Year Treasury Yield series stood at 5.0% on October 27, 2026. Associated Press separately reported that the yield eased to 4.98% from 5.00% late Friday.
+  caption: FRED's untransformed 10-Year Treasury Yield series stood at 5.0% on October
+    27, 2026. Associated Press separately reported that the yield eased to 4.98% from
+    5.00% late Friday.
 figures_aggregate:
   count: 1
   series_ids:
@@ -156,108 +167,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-most-asian-stocks-close-higher-after-nvidia-s-2-4-gain
+  headline: Most Asian stocks close higher after Nvidia's 2.4% gain
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.9028
 - slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7607
+  strength: 0.7614
 - slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
   headline: Wall Street advances as SpaceX beats summer profit expectations
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7342
+  strength: 0.7348
 - slug: 2026-10-16-asian-stocks-rebound-after-tech-selloff-oil-slips
   headline: Asian stocks rebound after tech selloff, oil slips
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.76
+  strength: 0.7603
 - slug: 2026-10-20-strong-profit-reports-lift-u-s-stocks-as-oil-prices-ease
   headline: Strong profit reports lift U.S. stocks as oil prices ease
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7309
+  strength: 0.7306
 - slug: 2026-09-07-nikkei-and-kospi-rise-on-chipmaker-buying-as-oil-climbs-on-u-s--iran-escalation
   headline: Nikkei and Kospi rise on chipmaker buying as oil climbs on U.S.-Iran escalation
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.7658
+  strength: 0.7649
 - slug: 2026-08-13-kospi-leads-asian-shares-higher-after-wall-street-s-near-record-close
   headline: Kospi leads Asian shares higher after Wall Street's near-record close
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7804
+  strength: 0.779
 - slug: 2026-07-22-asian-shares-rise-after-ai-stocks-lead-wall-street-higher
   headline: Asian shares rise after AI stocks lead Wall Street higher
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.8042
-- slug: 2026-08-19-kospi-leads-asian-shares-lower-as-ai-stocks-extend-decline
-  headline: Kospi leads Asian shares lower as AI stocks extend decline
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7429
-- slug: 2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street
-  headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7332
-- slug: 2026-07-31-kospi-posts-record-single-day-gain-as-semiconductor-stocks-rally
-  headline: KOSPI posts record single-day gain as semiconductor stocks rally
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7304
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7315
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.8076
-- slug: 2026-06-29-chipmakers-samsung-and-sk-hynix-lead-kospi-s-125-first-half-rally
-  headline: Chipmakers Samsung and SK Hynix lead Kospi's 125% first-half rally
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7442
-- slug: 2026-02-19-nvidia-boosts-stocks-as-meta-deal-lifts-s-p-500-and-nasdaq
-  headline: Nvidia boosts stocks as Meta deal lifts S&P 500 and Nasdaq
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7873
-- slug: 2026-06-08-south-korean-stocks-crash-8-on-ai-profit-fears-fed-rate-concerns
-  headline: South Korean stocks crash 8% on AI profit fears, Fed rate concerns
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7445
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7488
-- slug: 2026-02-27-nvidia-s-worst-day-since-last-spring-drags-wall-street-lower
-  headline: Nvidia’s worst day since last spring drags Wall Street lower
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.765
-- slug: 2026-06-09-seoul-shares-jump-over-8-on-ai-rebound-iran-israel-ceasefire
-  headline: Seoul shares jump over 8% on AI rebound, Iran-Israel ceasefire
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7276
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7595
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7556
+  strength: 0.8038
 ---
-
 ## Nvidia advances 2.4% as Asian indexes diverge
 
 **Subtype:** fact

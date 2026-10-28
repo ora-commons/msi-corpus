@@ -2,8 +2,15 @@
 headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
 secondary_headline: Up to 2,000 people are stranded as food and medicine dwindle
 publish_date: '2026-10-27'
-lede: A localized ceasefire between Russia and Ukraine took effect at 3 a.m. Tuesday in southern Ukraine, allowing a humanitarian mission to the Russian-occupied town of Oleshky. U.S. first lady Melania Trump brokered the mission, which is intended to bring aid to residents stranded there. The pause was due to last through Saturday, or longer.
-nut_graf: Up to 2,000 people are stranded in Oleshky with dwindling food and medicine, and the U.N. says explosive mines and drone attacks have prevented them from leaving. The mission would bring doctors, medicines, food supplies and water before evacuation corridors open.
+lede: A localized ceasefire between Russia and Ukraine took effect at 3 a.m. Tuesday
+  in southern Ukraine, allowing a humanitarian mission to the Russian-occupied town
+  of Oleshky. U.S. first lady Melania Trump brokered the mission, which is intended
+  to bring aid to residents stranded there. The pause was due to last through Saturday,
+  or longer.
+nut_graf: Up to 2,000 people are stranded in Oleshky with dwindling food and medicine,
+  and the U.N. says explosive mines and drone attacks have prevented them from leaving.
+  The mission would bring doctors, medicines, food supplies and water before evacuation
+  corridors open.
 primary_entities:
 - Melania Trump
 - Oleshky
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +148,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump.png
-  alt: 'Illustration accompanying article: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump'
+  alt: 'Illustration accompanying article: Oleshky ceasefire starts ahead of aid mission
+    brokered by Melania Trump'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
   headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8769
+  strength: 0.8771
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8726
+  strength: 0.8732
 - slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
   headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8715
+  strength: 0.8716
+- slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
+  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+    arrive
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.834
 - slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
   headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
   publish_date: '2026-10-24'
   relation: related
   strength: 0.7936
 - slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.727
+  strength: 0.7265
 - slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7131
+  strength: 0.7128
 - slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
   headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.722
-- slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
-  headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.701
-- slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
-  headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7101
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7094
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7078
-- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
-  headline: Ukrainian drones hit third Yandex data center in four days
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7017
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7369
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7254
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7179
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7159
-- slug: 2026-02-13-russia-launches-barrage-of-missiles-and-drones-in-ukraine-as-talks-stall
-  headline: Russia launches barrage of missiles and drones in Ukraine as talks stall
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7304
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.709
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7085
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7081
+  strength: 0.7221
 ---
-
 ## Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
 
 **Subtype:** fact

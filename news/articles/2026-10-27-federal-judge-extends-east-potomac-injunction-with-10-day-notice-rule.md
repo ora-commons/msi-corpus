@@ -2,8 +2,15 @@
 headline: Federal judge extends East Potomac injunction with 10-day notice rule
 secondary_headline: Order bars additional tree removals during active lawsuit
 publish_date: '2026-10-27'
-lede: U.S. District Judge Ana Reyes extended a preliminary injunction on Monday that bars the Trump administration from removing or damaging additional trees at the East Potomac Golf Course and requires 10 days’ notice in writing before any “irreparable modification” to the course’s “forms or features.” The restrictions apply while the lawsuit remains active at the 106-year-old public golf course in Washington.
-nut_graf: The extension leaves the renovation constrained while the case proceeds. The administration asked Reyes to disregard President Donald Trump’s statements about the renovation, and she expressed astonishment at the request. Reyes also rejected the government’s request that she recuse herself from the case.
+lede: U.S. District Judge Ana Reyes extended a preliminary injunction on Monday that
+  bars the Trump administration from removing or damaging additional trees at the
+  East Potomac Golf Course and requires 10 days’ notice in writing before any “irreparable
+  modification” to the course’s “forms or features.” The restrictions apply while
+  the lawsuit remains active at the 106-year-old public golf course in Washington.
+nut_graf: The extension leaves the renovation constrained while the case proceeds.
+  The administration asked Reyes to disregard President Donald Trump’s statements
+  about the renovation, and she expressed astonishment at the request. Reyes also
+  rejected the government’s request that she recuse herself from the case.
 primary_entities:
 - Ana Reyes
 - Donald Trump
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,54 +147,45 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-federal-judge-extends-east-potomac-injunction-with-10-day-notice-rule.png
-  alt: 'Illustration accompanying article: Federal judge extends East Potomac injunction with 10-day notice rule'
+  alt: 'Illustration accompanying article: Federal judge extends East Potomac injunction
+    with 10-day notice rule'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-05-05-judge-tells-trump-officials-not-to-cut-trees-at-historic-washington-golf-course
-  headline: Judge tells Trump officials not to cut trees at historic Washington golf course
+  headline: Judge tells Trump officials not to cut trees at historic Washington golf
+    course
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.8819
+  strength: 0.8821
 - slug: 2026-09-05-trump-wants-to-turn-dc-s-east-potomac-course-into-world-class-golf-venue
   headline: Trump wants to turn DC's East Potomac course into world-class golf venue
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6985
+  strength: 0.6986
 - slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
   headline: Trump administration formally proposes rescinding 2001 Roadless Rule
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6704
+  strength: 0.6705
 - slug: 2026-02-16-lawsuit-seeks-to-block-trump-overhaul-of-historic-east-potomac-golf-course
   headline: Lawsuit seeks to block Trump overhaul of historic East Potomac golf course
   publish_date: '2026-02-16'
   relation: related
-  strength: 0.7658
+  strength: 0.766
 - slug: 2026-05-06-east-wing-debris-at-dc-golf-course-tested-positive-for-toxic-metals-report
-  headline: 'East Wing debris at DC golf course tested positive for toxic metals: report'
+  headline: 'East Wing debris at DC golf course tested positive for toxic metals:
+    report'
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7349
-- slug: 2026-08-11-appeals-court-says-trump-needs-congressional-ok-for-east-wing-work
-  headline: Appeals court says Trump needs congressional OK for East Wing work
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6382
-- slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
-  headline: Trump sends Cook new removal notice despite Supreme Court ruling
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.635
-- slug: 2026-07-14-environmental-groups-sue-to-block-trump-s-narrowing-of-esa-harm-definition
-  headline: Environmental groups sue to block Trump's narrowing of ESA 'harm' definition
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6289
+  strength: 0.7343
 - slug: 2026-02-12-judge-refuses-to-pause-tps-rollback-for-haitians-reads-threats-in-court
   headline: Judge refuses to pause TPS rollback for Haitians, reads threats in court
   publish_date: '2026-02-12'
@@ -201,54 +200,8 @@ related_stories:
   headline: Groups urge judge to block Kennedy Center renovations by July 6
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.6537
-- slug: 2026-01-16-virginia-judge-allows-third-offshore-wind-project-to-resume-amid-court-losses-fo
-  headline: Virginia judge allows third offshore wind project to resume amid court losses for Trump
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6704
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.637
-- slug: 2026-05-10-trump-presses-washington-renovation-blitz-as-iran-economic-pressures-mount
-  headline: Trump presses Washington renovation blitz as Iran, economic pressures mount
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6399
-- slug: 2026-04-06-trump-administration-asks-appeals-court-to-pause-white-house-ballroom-halt
-  headline: Trump administration asks appeals court to pause White House ballroom halt
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6451
-- slug: 2026-04-04-trump-asks-appeals-court-to-pause-order-halting-white-house-ballroom
-  headline: Trump asks appeals court to pause order halting White House ballroom
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6433
-- slug: 2026-04-16-federal-judge-blocks-above-ground-white-house-ballroom-construction-allows-bunke
-  headline: Federal judge blocks above-ground White House ballroom construction, allows bunker work
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6385
-- slug: 2026-04-18-appeals-court-allows-trump-s-white-house-ballroom-construction-to-resume
-  headline: Appeals court allows Trump's White House ballroom construction to resume
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6357
-- slug: 2026-01-01-trump-administration-ends-leases-for-dc-s-three-public-golf-courses
-  headline: Trump administration ends leases for DC’s three public golf courses
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6466
-- slug: 2026-01-03-trump-administration-terminates-leases-for-washington-s-three-public-golf-course
-  headline: Trump administration terminates leases for Washington’s three public golf courses
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6436
+  strength: 0.6535
 ---
-
 ## Federal judge extends East Potomac injunction with 10-day notice rule
 
 **Subtype:** fact

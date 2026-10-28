@@ -2,8 +2,21 @@
 headline: FTC cites more than 4,300 failed Dollar General price-accuracy inspections
 secondary_headline: Workers cited understaffing for delays in replacing labels
 publish_date: '2026-10-26'
-lede: The Federal Trade Commission's lawsuit against Dollar General cites a December 2025 Guardian investigation that found Dollar General stores failed more than 4,300 government price-accuracy inspections in 23 states over a three-year period. Filed in federal court in Nashville, the 95-page complaint alleges that Dollar General, despite promising convenience, low prices and value, routinely charged customers more at the register than prices displayed on shelves, tags and advertisements. The complaint says the pattern of inaccurate pricing has persisted for years and affects millions of purchases across the country. Dollar General did not respond to questions for this story but has previously said it is committed to providing customers with accurate prices on items purchased in its stores.
-nut_graf: The lawsuit cites the inspection findings and says the investigation article was the subject of significant internal deliberation and discussions within Dollar General. In a statement accompanying the lawsuit, the FTC noted separately that Dollar General markets itself as a low-cost alternative to other retailers and that low- and fixed-income customers rely on the accuracy of its price labels.
+lede: The Federal Trade Commission's lawsuit against Dollar General cites a December
+  2025 Guardian investigation that found Dollar General stores failed more than 4,300
+  government price-accuracy inspections in 23 states over a three-year period. Filed
+  in federal court in Nashville, the 95-page complaint alleges that Dollar General,
+  despite promising convenience, low prices and value, routinely charged customers
+  more at the register than prices displayed on shelves, tags and advertisements.
+  The complaint says the pattern of inaccurate pricing has persisted for years and
+  affects millions of purchases across the country. Dollar General did not respond
+  to questions for this story but has previously said it is committed to providing
+  customers with accurate prices on items purchased in its stores.
+nut_graf: The lawsuit cites the inspection findings and says the investigation article
+  was the subject of significant internal deliberation and discussions within Dollar
+  General. In a statement accompanying the lawsuit, the FTC noted separately that
+  Dollar General markets itself as a low-cost alternative to other retailers and that
+  low- and fixed-income customers rely on the accuracy of its price labels.
 primary_entities:
 - Dollar General
 - Federal Trade Commission
@@ -37,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +153,48 @@ related_stories:
   headline: FTC and 20 states sue Dollar General over alleged register overcharges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8702
+  strength: 0.8698
 - slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
-  headline: Consumer frustration spans higher prices and perceived artificial intelligence pricing
+  headline: Consumer frustration spans higher prices and perceived artificial intelligence
+    pricing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.807
+  strength: 0.8063
 - slug: 2026-10-22-dollar-general-agrees-to-new-york-overcharge-settlement-with-price-safeguards
   headline: Dollar General agrees to New York overcharge settlement with price safeguards
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7542
+  strength: 0.7537
 - slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
   headline: Shoppers question AI pricing amid company denials and state restrictions
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6631
 - slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+    probe
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7334
+  strength: 0.7329
 - slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
+  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records
+    and reporting show
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7342
-- slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
-  headline: McDonald's faces federal lawsuit over AI pricing tool
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6461
-- slug: 2026-09-29-serial-ada-title-iii-lawsuits-strain-small-businesses-spark-reform-push
-  headline: Serial ADA Title III lawsuits strain small businesses, spark reform push
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6211
-- slug: 2026-09-23-usda-announces-recall-of-167-639-pounds-of-uninspected-meat
-  headline: USDA announces recall of 167,639 pounds of uninspected meat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6386
+  strength: 0.7341
 - slug: 2026-09-09-afl-cio-report-electronic-shelf-labels-could-cost-up-to-191-633-grocery-jobs
-  headline: 'AFL-CIO report: electronic shelf labels could cost up to 191,633 grocery jobs'
+  headline: 'AFL-CIO report: electronic shelf labels could cost up to 191,633 grocery
+    jobs'
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6675
+  strength: 0.6672
 - slug: 2026-08-31-ftc-and-22-states-sue-amazon-alleging-ad-bid-manipulation-overcharged-sellers
-  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged sellers
+  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged
+    sellers
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6755
-- slug: 2026-08-19-ftc-proposes-policy-on-companies-that-vary-prices-using-shopper-data
-  headline: FTC proposes policy on companies that vary prices using shopper data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6783
-- slug: 2026-09-09-retailers-tighten-return-policies-as-shoppers-face-new-fees-and-shorter-windows
-  headline: Retailers tighten return policies as shoppers face new fees and shorter windows
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6195
-- slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
-  headline: Most tariff refunds flow to businesses as consumer repayment lags
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6378
-- slug: 2026-07-20-dollar-tree-faces-lawsuit-over-gooner-sexual-assault-pattern
-  headline: Dollar Tree faces lawsuit over 'gooner' sexual assault pattern
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6542
-- slug: 2026-07-30-report-finds-ai-shopping-chatbots-from-amazon-walmart-give-inconsistent-made-in-
-  headline: Report finds AI shopping chatbots from Amazon, Walmart give inconsistent 'Made in USA' product data
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6331
-- slug: 2026-07-21-amazon-tactics-inflate-prices-across-internet-emails-show
-  headline: Amazon tactics inflate prices across internet, emails show
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6364
-- slug: 2026-07-03-doj-and-ftc-urge-state-attorneys-general-to-investigate-gasoline-pricing
-  headline: DOJ and FTC urge state attorneys general to investigate gasoline pricing
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6381
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6544
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6518
+  strength: 0.6754
 ---
-
 ## FTC cites more than 4,300 failed Dollar General price-accuracy inspections
 
 **Subtype:** fact

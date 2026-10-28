@@ -1,9 +1,23 @@
 ---
 headline: Poll shows Democrats with House edge as Israelis cast ballots
-secondary_headline: California ballot hearing set after Trump's Oct. 26 $1 million reward offer
+secondary_headline: California ballot hearing set after Trump's Oct. 26 $1 million
+  reward offer
 publish_date: '2026-10-27'
-lede: A new NPR/PBS News/Marist poll found Democrats leading likely voters by 8 points on the generic congressional ballot and favored to gain control of the U.S. House, while the Senate remained a toss-up. The newsletter separately said signs suggested that a potential Democratic wave could be limited. Israelis were voting in a parliamentary election on Oct. 27, the first time since the Oct. 7, 2023, Hamas attacks that they could choose their national leaders. A federal judge was also scheduled to hear arguments over the Trump administration's bid to compel California to set aside ballots from voters the administration alleges may not be citizens.
-nut_graf: The polling gives Democrats a stronger position in the House contest without resolving the Senate or many individual races, and the newsletter said signs suggested that a potential Democratic wave could be limited. Israel's election has a separate timetable, with seat totals potentially taking days to clarify and the next prime minister subject to negotiations among parties. In the United States, the California legal dispute remained pending, while Eric McDaniel said no credible evidence of voter fraud significant enough to affect U.S. election outcomes had ever been found.
+lede: A new NPR/PBS News/Marist poll found Democrats leading likely voters by 8 points
+  on the generic congressional ballot and favored to gain control of the U.S. House,
+  while the Senate remained a toss-up. The newsletter separately said signs suggested
+  that a potential Democratic wave could be limited. Israelis were voting in a parliamentary
+  election on Oct. 27, the first time since the Oct. 7, 2023, Hamas attacks that they
+  could choose their national leaders. A federal judge was also scheduled to hear
+  arguments over the Trump administration's bid to compel California to set aside
+  ballots from voters the administration alleges may not be citizens.
+nut_graf: The polling gives Democrats a stronger position in the House contest without
+  resolving the Senate or many individual races, and the newsletter said signs suggested
+  that a potential Democratic wave could be limited. Israel's election has a separate
+  timetable, with seat totals potentially taking days to clarify and the next prime
+  minister subject to negotiations among parties. In the United States, the California
+  legal dispute remained pending, while Eric McDaniel said no credible evidence of
+  voter fraud significant enough to affect U.S. election outcomes had ever been found.
 primary_entities:
 - NPR
 - PBS News
@@ -53,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,116 +167,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots.png
-  alt: 'Illustration accompanying article: Poll shows Democrats with House edge as Israelis cast ballots'
+  alt: 'Illustration accompanying article: Poll shows Democrats with House edge as
+    Israelis cast ballots'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
   headline: Democrats lead House polling as Trump approval stays below 50%
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7945
+  strength: 0.7949
 - slug: 2026-10-25-netanyahu-faces-eisenkot-in-israel-s-first-election-since-oct-7
   headline: Netanyahu faces Eisenkot in Israel's first election since Oct. 7
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7595
+  strength: 0.7573
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7115
+  strength: 0.7129
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6897
+  strength: 0.692
 - slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7107
-- slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
-  headline: Trump endorses Netanyahu days before Israel's closely contested election
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7036
+  strength: 0.7108
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.733
+  strength: 0.7335
+- slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
+  headline: Trump endorses Netanyahu days before Israel's closely contested election
+  publish_date: '2026-10-18'
+  relation: related
+  strength: 0.7006
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.725
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7096
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.702
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6876
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7109
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7601
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7182
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6904
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7009
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6993
-- slug: 2026-07-06-israeli-poll-shows-eisenkot-and-netanyahu-tied-at-23-seats-each
-  headline: Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7366
-- slug: 2026-07-26-nearly-half-of-house-democrats-vote-to-block-israel-military-aid
-  headline: Nearly half of House Democrats vote to block Israel military aid
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7105
-- slug: 2026-07-18-american-jews-divide-sharply-on-israel-identity-and-politics
-  headline: American Jews divide sharply on Israel, identity, and politics
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6889
+  strength: 0.7256
 ---
-
 ## Poll shows Democrats with House edge as Israelis cast ballots
 
 **Subtype:** fact

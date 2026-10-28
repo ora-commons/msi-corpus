@@ -2,8 +2,15 @@
 headline: Justice Department charges James Comey over alleged 2016 leak
 secondary_headline: Comey’s lawyers challenge the filing’s timing and legal form
 publish_date: '2026-10-26'
-lede: The Justice Department charged former FBI director James Comey on Monday with two counts of leaking information related to national defense, the third criminal case the Trump administration has brought against him. Prosecutors filed the charges in federal court in Washington, D.C., alleging that Comey leaked information in 2016 and conspired with an unnamed person to provide it to a national news outlet.
-nut_graf: 'The charges provide few details about the alleged disclosure. Comey’s lawyers are contesting the filing on two grounds: their view that the 10-year statute of limitations had expired and their argument that the law required an indictment rather than a criminal information within that period.'
+lede: The Justice Department charged former FBI director James Comey on Monday with
+  two counts of leaking information related to national defense, the third criminal
+  case the Trump administration has brought against him. Prosecutors filed the charges
+  in federal court in Washington, D.C., alleging that Comey leaked information in
+  2016 and conspired with an unnamed person to provide it to a national news outlet.
+nut_graf: 'The charges provide few details about the alleged disclosure. Comey’s lawyers
+  are contesting the filing on two grounds: their view that the 10-year statute of
+  limitations had expired and their argument that the law required an indictment rather
+  than a criminal information within that period.'
 primary_entities:
 - James Comey
 - Justice Department
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +154,44 @@ related_stories:
   headline: Federal prosecutors charge James Comey with leaking national defense information
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.9128
+  strength: 0.9127
+- slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
+  headline: Prosecutors say Comey sought to correct Reuters misinformation
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8257
+- slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
+  headline: James Comey remains unindicted after defense filed dismissal motion
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.822
+- slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8214
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7982
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-in-third-justice-department-prosecution
+  headline: Trump calls James Comey a “dirty cop” in third Justice Department prosecution
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7598
+- slug: 2026-10-26-yahoo-email-scan-order-links-renewed-comey-case-to-2016-disclosure
+  headline: Yahoo email-scan order links renewed Comey case to 2016 disclosure
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7368
 - slug: 2026-10-26-justice-department-plans-appeal-after-judge-finds-comey-eligible-for-backpay
   headline: Justice Department plans appeal after judge finds Comey eligible for backpay
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6837
-- slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
-  headline: Justice Department says Pam Bondi decided Maurene Comey's firing
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6775
-- slug: 2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful
-  headline: Federal judge rules Maurene Comey's firing unlawful
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6568
-- slug: 2026-10-15-nine-former-fbi-employees-sue-over-trump-documents-case-firings
-  headline: Nine former FBI employees sue over Trump documents case firings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6827
-- slug: 2026-09-25-judge-pushes-comey-seashell-case-trial-to-2027
-  headline: Judge pushes Comey seashell-case trial to 2027
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6889
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6691
-- slug: 2026-08-19-prosecutors-say-comey-seashell-post-could-be-read-as-trump-threat
-  headline: Prosecutors say Comey seashell post could be read as Trump threat
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6776
-- slug: 2026-07-27-comey-urges-judge-to-toss-seashell-threat-charge-as-protected-speech
-  headline: Comey urges judge to toss seashell threat charge as protected speech
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6552
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6622
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7113
-- slug: 2026-05-31-lead-prosecutor-leaves-james-comey-case-without-explanation
-  headline: Lead prosecutor leaves James Comey case without explanation
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6899
-- slug: 2026-07-01-john-brennan-sues-trump-administration-to-preserve-investigation-records
-  headline: John Brennan sues Trump administration to preserve investigation records
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6538
-- slug: 2026-06-15-supreme-court-rejects-carter-page-s-lawsuit-against-james-comey
-  headline: Supreme Court rejects Carter Page's lawsuit against James Comey
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6619
-- slug: 2026-04-30-comey-returns-to-court-in-case-alleging-86-47-trump-threat
-  headline: Comey returns to court in case alleging ‘86 47’ Trump threat
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6806
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6538
-- slug: 2026-05-08-comey-asks-to-cancel-monday-nc-court-appearance-in-trump-threat-case
-  headline: Comey asks to cancel Monday NC court appearance in Trump threat case
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6616
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6479
-- slug: 2026-04-14-judge-orders-home-detention-for-courtney-williams-in-classified-leak-case
-  headline: Judge orders home detention for Courtney Williams in classified leak case
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6498
+  strength: 0.6842
 ---
-
 ## Justice Department charges James Comey over alleged 2016 leak
 
 **Subtype:** fact

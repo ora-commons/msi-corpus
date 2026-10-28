@@ -2,8 +2,19 @@
 headline: China has not issued an invitation for a proposed Trump-Xi-Putin summit
 secondary_headline: 'The sticking point: Ukraine or nuclear arms control'
 publish_date: '2026-10-27'
-lede: China has not issued an invitation to host a proposed summit of Xi Jinping, President Trump and Vladimir Putin, and people familiar with the situation told The Wall Street Journal that a disagreement over the agenda is the obstacle. Putin proposed the meeting less than a month before China hosts the Asia-Pacific Economic Cooperation summit in Shenzhen, and Trump is open to the idea, according to the outlet's reporting. A trilateral meeting on Chinese soil could put Xi at the center of diplomacy over the war in Ukraine, and the dispute over what the three leaders would discuss could end the meeting before it begins.
-nut_graf: The Wall Street Journal said a summit in China would demonstrate China's arrival as a superpower on par with the U.S. and provide the mediating role Beijing has coveted but not secured. The outlet also said a summit that sidelines Ukraine could worsen European doubts about Beijing's ties to Moscow and invite outside powers to weigh in on Taiwan.
+lede: China has not issued an invitation to host a proposed summit of Xi Jinping,
+  President Trump and Vladimir Putin, and people familiar with the situation told
+  The Wall Street Journal that a disagreement over the agenda is the obstacle. Putin
+  proposed the meeting less than a month before China hosts the Asia-Pacific Economic
+  Cooperation summit in Shenzhen, and Trump is open to the idea, according to the
+  outlet's reporting. A trilateral meeting on Chinese soil could put Xi at the center
+  of diplomacy over the war in Ukraine, and the dispute over what the three leaders
+  would discuss could end the meeting before it begins.
+nut_graf: The Wall Street Journal said a summit in China would demonstrate China's
+  arrival as a superpower on par with the U.S. and provide the mediating role Beijing
+  has coveted but not secured. The outlet also said a summit that sidelines Ukraine
+  could worsen European doubts about Beijing's ties to Moscow and invite outside powers
+  to weigh in on Taiwan.
 primary_entities:
 - Xi Jinping
 - Vladimir Putin
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +159,43 @@ related_stories:
   headline: Putin proposes Trump-Xi summit in China
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7745
+  strength: 0.7741
 - slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
   headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.8111
+  strength: 0.8113
 - slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
   headline: Trump open to joining Putin and Xi for denuclearization summit
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7771
+  strength: 0.7774
 - slug: 2026-09-27-u-s-officials-deny-china-weapons-plans-after-ambassador-s-xi-offer
   headline: U.S. officials deny China weapons plans after ambassador's Xi offer
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7323
+  strength: 0.7319
 - slug: 2026-09-22-xi-unlikely-to-bring-corporate-executives-to-washington-summit-with-trump
   headline: Xi unlikely to bring corporate executives to Washington summit with Trump
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7509
-- slug: 2026-09-23-china-s-ambassador-lists-four-red-lines-for-trump-xi-meeting
-  headline: China's ambassador lists four red lines for Trump-Xi meeting
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7355
+  strength: 0.7517
 - slug: 2026-09-17-trump-xi-summit-planning-lags-as-key-issues-remain-unresolved
   headline: Trump-Xi summit planning lags as key issues remain unresolved
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7583
+  strength: 0.7591
+- slug: 2026-09-23-china-s-ambassador-lists-four-red-lines-for-trump-xi-meeting
+  headline: China's ambassador lists four red lines for Trump-Xi meeting
+  publish_date: '2026-09-23'
+  relation: related
+  strength: 0.7358
 - slug: 2026-09-24-trump-and-xi-governments-play-down-summit-expectations
   headline: Trump and Xi governments play down summit expectations
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7215
-- slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
-  headline: Trump hosts Xi at White House for state visit on trade and AI
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7232
-- slug: 2026-09-25-trump-xi-summit-features-heavy-pageantry-few-deliverables
-  headline: Trump-Xi summit features heavy pageantry, few deliverables
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7115
-- slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
-  headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7139
-- slug: 2026-09-25-trump-and-xi-conclude-washington-summit-without-ai-accord
-  headline: Trump and Xi conclude Washington summit without AI accord
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7061
-- slug: 2026-09-23-mutual-distrust-killed-chinese-rare-earths-truce-offer-before-trump-xi-summit
-  headline: Mutual distrust killed Chinese rare-earths truce offer before Trump-Xi summit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7103
-- slug: 2026-09-24-xi-proposes-terms-to-avoid-us-china-conflict-at-white-house-summit-with-trump
-  headline: Xi proposes terms to avoid US-China conflict at White House summit with Trump
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7044
-- slug: 2026-09-23-bessent-he-lifeng-propose-ai-safety-mechanism-ahead-of-trump-xi-summit
-  headline: Bessent, He Lifeng propose AI safety mechanism ahead of Trump-Xi summit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7054
-- slug: 2026-09-22-trump-xi-summit-set-for-sept-24-with-trade-taiwan-ai-on-agenda
-  headline: Trump, Xi summit set for Sept. 24 with trade, Taiwan, AI on agenda
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7065
-- slug: 2026-05-13-what-to-know-about-trump-xi-summit-in-beijing
-  headline: What to know about Trump-Xi summit in Beijing
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.744
-- slug: 2026-06-08-xi-arrives-in-pyongyang-for-summit-with-kim-as-both-leaders-seek-to-strengthen-a
-  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen alliance
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7255
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.737
-- slug: 2026-05-16-trump-defers-taiwan-arms-package-after-xi-raises-concerns-at-beijing-summit
-  headline: Trump defers Taiwan arms package after Xi raises concerns at Beijing summit
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7289
+  strength: 0.7208
 ---
-
 ## China has not issued an invitation for a proposed Trump-Xi-Putin summit
 
 **Subtype:** fact

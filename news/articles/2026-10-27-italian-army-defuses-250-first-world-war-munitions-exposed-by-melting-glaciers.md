@@ -1,9 +1,19 @@
 ---
 headline: Italian army defuses 250 First World War munitions exposed by melting glaciers
-secondary_headline: Hikers’ sightings prompted a military sweep across the Trentino Alto Adige region
+secondary_headline: Hikers’ sightings prompted a military sweep across the Trentino
+  Alto Adige region
 publish_date: '2026-10-27'
-lede: The Italian army has removed and neutralised 250 First World War explosives exposed by retreating glaciers in the Dolomites, according to its Julia Alpine brigade. The Guardian reported that the glaciers’ retreat has accelerated over more than a decade. Hikers reported several sightings of bombs during the summer, mostly around Canal San Bovo in the Primiero Valley, prompting an extensive army sweep. The recovered material included 18 Italian 75mm artillery shells and 37 French-made Thevetot mortar bombs.
-nut_graf: Some of the recovered devices had already exploded, but many remained dangerous after more than a century in ice. The operation followed hikers’ reports and covered high-altitude glacier sites where retreating ice has exposed an increasing number of First World War artifacts.
+lede: The Italian army has removed and neutralised 250 First World War explosives
+  exposed by retreating glaciers in the Dolomites, according to its Julia Alpine brigade.
+  The Guardian reported that the glaciers’ retreat has accelerated over more than
+  a decade. Hikers reported several sightings of bombs during the summer, mostly around
+  Canal San Bovo in the Primiero Valley, prompting an extensive army sweep. The recovered
+  material included 18 Italian 75mm artillery shells and 37 French-made Thevetot mortar
+  bombs.
+nut_graf: Some of the recovered devices had already exploded, but many remained dangerous
+  after more than a century in ice. The operation followed hikers’ reports and covered
+  high-altitude glacier sites where retreating ice has exposed an increasing number
+  of First World War artifacts.
 primary_entities:
 - Italian army
 - Julia Alpine brigade
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +156,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-italian-army-defuses-250-first-world-war-munitions-exposed-by-melting-glaciers.png
-  alt: 'Illustration accompanying article: Italian army defuses 250 First World War munitions exposed by melting glaciers'
+  alt: 'Illustration accompanying article: Italian army defuses 250 First World War
+    munitions exposed by melting glaciers'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-10-16-drought-exposes-wwii-remains-and-cold-case-victims-in-shrinking-waterways
-  headline: Drought exposes WWII remains and cold-case victims in shrinking waterways
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5395
-- slug: 2026-10-01-swiss-glaciers-lose-19-4-of-ice-since-2021-report-finds
-  headline: Swiss glaciers lose 19.4% of ice since 2021, report finds
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5523
-- slug: 2026-08-27-glacier-collapse-kills-over-360-along-nepal-china-border
-  headline: Glacier collapse kills over 360 along Nepal-China border
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5289
-- slug: 2026-08-13-swiss-ski-resort-may-use-snowmaking-network-to-fight-wildfires
-  headline: Swiss ski resort may use snowmaking network to fight wildfires
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5589
-- slug: 2026-08-20-brandenburg-deploys-remote-controlled-tanks-to-fight-ordnance-laced-wildfires
-  headline: Brandenburg deploys remote-controlled tanks to fight ordnance-laced wildfires
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5289
-- slug: 2026-08-14-peruvian-navy-raids-illegal-gold-mines-in-amazon-reserve
-  headline: Peruvian navy raids illegal gold mines in Amazon reserve
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5347
-- slug: 2026-08-14-italian-fighter-downs-drone-in-latvian-airspace-nato-investigates
-  headline: Italian fighter downs drone in Latvian airspace, NATO investigates
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5332
-- slug: 2026-07-10-israeli-researchers-test-methods-to-clear-munitions-from-mediterranean-sea
-  headline: Israeli researchers test methods to clear munitions from Mediterranean Sea
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5289
-- slug: 2026-02-08-italian-police-fire-tear-gas-as-protesters-clash-near-olympic-venue
-  headline: Italian police fire tear gas as protesters clash near Olympic venue
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5815
-- slug: 2026-03-22-avalanche-kills-2-skiers-and-injures-five-in-italy-s-south-tyrol
-  headline: Avalanche kills 2 skiers and injures five in Italy’s South Tyrol
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.5674
-- slug: 2026-04-02-italian-coast-guard-finds-19-migrants-dead-and-rescues-58-near-lampedusa
-  headline: Italian coast guard finds 19 migrants dead and rescues 58 near Lampedusa
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5604
-- slug: 2026-05-10-armed-vessels-linked-to-libya-coast-guard-attack-migrant-rescue-ship
-  headline: Armed vessels linked to Libya coast guard attack migrant rescue ship
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5456
-- slug: 2026-05-13-greece-says-ukrainian-built-sea-drone-found-off-lefkada-is-destroyed
-  headline: Greece says Ukrainian-built sea drone found off Lefkada is destroyed
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5429
-- slug: 2026-02-07-meloni-condemns-anti-olympics-protests-in-milan-and-calls-them-enemies-of-italy
-  headline: Meloni condemns anti-Olympics protests in Milan and calls them ‘enemies of Italy’
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.5626
-- slug: 2026-05-17-finnish-divers-join-maldives-search-for-lost-italian-cavers-after-rescue-death
-  headline: Finnish divers join Maldives search for lost Italian cavers after rescue death
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5358
-- slug: 2026-02-13-milan-cortina-volunteers-return-to-help-from-turin-to-the-2026-games
-  headline: Milan-Cortina volunteers return to help, from Turin to the 2026 Games
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5568
-- slug: 2026-01-29-huge-landslide-in-sicily-forces-evacuation-of-more-than-1-500
-  headline: Huge landslide in Sicily forces evacuation of more than 1,500
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.5534
-- slug: 2026-05-16-maldives-suspends-search-for-italian-divers-after-rescue-diver-dies
-  headline: Maldives suspends search for Italian divers after rescue diver dies
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5297
-- slug: 2026-02-16-off-trail-avalanche-kills-2-skiers-on-mont-blanc-injures-1
-  headline: Off-trail avalanche kills 2 skiers on Mont Blanc, injures 1
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.549
-- slug: 2026-03-22-hundreds-of-migrants-vanish-in-the-mediterranean-as-authorities-withhold-data
-  headline: Hundreds of migrants vanish in the Mediterranean as authorities withhold data
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.542
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## Italian army defuses 250 First World War munitions exposed by melting glaciers
 
 **Subtype:** fact

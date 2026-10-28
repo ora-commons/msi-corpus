@@ -1,9 +1,18 @@
 ---
-headline: Reckitt lowers 2026 like-for-like net revenue growth range for core business to 3.5%-4.5%
-secondary_headline: North American net revenue fell 1.3% as Lysol manufacturing was disrupted
+headline: Reckitt lowers 2026 like-for-like net revenue growth range for core business
+  to 3.5%-4.5%
+secondary_headline: North American net revenue fell 1.3% as Lysol manufacturing was
+  disrupted
 publish_date: '2026-10-27'
-lede: Reckitt said Tuesday that it had cut its 2026 like-for-like net revenue growth outlook for its core business to 3.5% to 4.5% from 4% to 5%. The British consumer-goods company, which makes Lysol cleaning spray and Mucinex cough medicine, said a disruption in Lysol manufacturing weighed on North American sales.
-nut_graf: Reckitt's revised 2026 like-for-like net revenue growth forecast for its core business shifts the target lower and makes a fourth-quarter recovery central to the company's plan. The company said temporary manufacturing capacity constraints disrupted Lysol manufacturing and that it anticipates a rebound from Lysol and North America in the fourth quarter as it resolves the issues.
+lede: Reckitt said Tuesday that it had cut its 2026 like-for-like net revenue growth
+  outlook for its core business to 3.5% to 4.5% from 4% to 5%. The British consumer-goods
+  company, which makes Lysol cleaning spray and Mucinex cough medicine, said a disruption
+  in Lysol manufacturing weighed on North American sales.
+nut_graf: Reckitt's revised 2026 like-for-like net revenue growth forecast for its
+  core business shifts the target lower and makes a fourth-quarter recovery central
+  to the company's plan. The company said temporary manufacturing capacity constraints
+  disrupted Lysol manufacturing and that it anticipates a rebound from Lysol and North
+  America in the fourth quarter as it resolves the issues.
 primary_entities:
 - Reckitt
 - Reckitt Benckiser
@@ -33,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,108 +141,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-whirlpool-expects-a-full-year-loss-as-third-quarter-sales-fall-short
-  headline: Whirlpool expects a full-year loss as third-quarter sales fall short
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6386
 - slug: 2026-10-12-reckitt-posts-12-quarters-of-double-digit-growth-in-china-via-social-commerce
   headline: Reckitt posts 12 quarters of double-digit growth in China via social commerce
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6888
-- slug: 2026-10-21-philip-morris-cuts-earnings-outlook-after-quarterly-profit-decline
-  headline: Philip Morris cuts earnings outlook after quarterly profit decline
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6207
-- slug: 2026-10-20-equifax-cuts-guidance-amid-mortgage-pressure-and-uneven-financial-growth
-  headline: Equifax cuts guidance amid mortgage pressure and uneven financial growth
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6062
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6296
-- slug: 2026-10-13-johnson-johnson-raises-outlook-as-medical-device-sales-miss-estimates
-  headline: Johnson & Johnson raises outlook as medical device sales miss estimates
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6021
+  strength: 0.6889
 - slug: 2026-09-16-reckitt-to-expand-wilson-n-c-plant-with-400-million-u-s-investment
   headline: Reckitt to expand Wilson, N.C., plant with $400 million U.S. investment
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7165
-- slug: 2026-10-01-mccormick-quarterly-sales-climb-17-to-2-02-billion-as-profit-falls
-  headline: McCormick quarterly sales climb 17% to $2.02 billion as profit falls
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6022
+  strength: 0.7187
 - slug: 2026-09-03-tyson-cuts-fiscal-2026-revenue-outlook-citing-severe-u-s-cattle-shortage
   headline: Tyson cuts fiscal 2026 revenue outlook, citing severe U.S. cattle shortage
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6617
-- slug: 2026-09-03-lululemon-cuts-annual-outlook-for-second-time-as-americas-sales-fall-8
-  headline: Lululemon cuts annual outlook for second time as Americas sales fall 8%
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6416
-- slug: 2026-08-25-intuit-forecasts-slower-fiscal-2027-growth-shares-drop-14
-  headline: Intuit forecasts slower fiscal 2027 growth, shares drop 14%
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6248
-- slug: 2026-08-20-walmart-quarterly-comparable-sales-rise-2-6-smallest-gain-in-years
-  headline: Walmart quarterly comparable sales rise 2.6%, smallest gain in years
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6114
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6236
-- slug: 2026-08-04-lucid-posts-wider-1-26-billion-loss-as-revenue-rises
-  headline: Lucid posts wider $1.26 billion loss as revenue rises
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6176
-- slug: 2026-08-03-tyson-foods-cuts-profit-outlook-after-575-million-cattle-cost-increase
-  headline: Tyson Foods cuts profit outlook after $575 million cattle-cost increase
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6111
-- slug: 2026-07-28-essilorluxottica-sales-growth-slows-to-8-7-as-smartglasses-revenue-nearly-double
-  headline: EssilorLuxottica sales growth slows to 8.7% as smartglasses revenue nearly doubles
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6166
-- slug: 2026-07-13-oxford-nanopore-shares-slide-11-after-revenue-below-management-expectations
-  headline: Oxford Nanopore shares slide 11% after revenue below management expectations
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6148
-- slug: 2026-07-08-health-care-roundup-resmed-sale-vertex-deal-lilly-forecast
-  headline: 'Health care roundup: ResMed sale, Vertex deal, Lilly forecast'
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6111
-- slug: 2026-06-02-shake-shack-cuts-q2-guidance-shares-fall-9-amid-uncertainty-and-competition
-  headline: Shake Shack cuts Q2 guidance, shares fall 9% amid uncertainty and competition
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6346
-- slug: 2026-06-02-bat-cuts-cigarette-outlook-boosts-vape-revenue-forecast
-  headline: BAT cuts cigarette outlook, boosts vape revenue forecast
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.628
+  strength: 0.6634
 ---
-
 ## Reckitt lowers 2026 like-for-like net revenue growth range for core business to 3.5%-4.5%
 
 **Subtype:** fact

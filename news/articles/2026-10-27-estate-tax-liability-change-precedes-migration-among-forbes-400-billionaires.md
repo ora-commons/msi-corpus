@@ -1,9 +1,22 @@
 ---
 headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
-secondary_headline: Forbes 400 wealth subject to state estate taxes fell from some $203bn to about $122bn
+secondary_headline: Forbes 400 wealth subject to state estate taxes fell from some
+  $203bn to about $122bn
 publish_date: '2026-10-27'
-lede: Economists Enrico Moretti and Daniel Wilson found that more than a fifth of Forbes 400 billionaires who originally lived in states with estate taxes had moved to states without estate taxes by 2010, while only about 1% had moved in the opposite direction. Their research, cited in Eduardo Porter’s October 27, 2026 analysis in The Guardian, estimated that states with estate taxes had lost 23 of the 72 Forbes 400 billionaires who lived there in 2001 by 2017, and that Forbes 400 wealth subject to state estate taxes fell from some $203bn in 2001 to about $122bn 16 years later. Porter used the historical evidence to examine arguments about whether wealthy residents would relocate in response to California’s Proposition 40.
-nut_graf: The Moretti-Wilson research bears on California’s Proposition 40 because the measure targets accumulated wealth, while the earlier study measured migration after changes in estate-tax liability. Porter’s analysis considers the historical migration evidence alongside revenue estimates, litigation risk, asset exemptions, treaty protections, the prospect of a repeated tax and proposed federal changes.
+lede: Economists Enrico Moretti and Daniel Wilson found that more than a fifth of
+  Forbes 400 billionaires who originally lived in states with estate taxes had moved
+  to states without estate taxes by 2010, while only about 1% had moved in the opposite
+  direction. Their research, cited in Eduardo Porter’s October 27, 2026 analysis in
+  The Guardian, estimated that states with estate taxes had lost 23 of the 72 Forbes
+  400 billionaires who lived there in 2001 by 2017, and that Forbes 400 wealth subject
+  to state estate taxes fell from some $203bn in 2001 to about $122bn 16 years later.
+  Porter used the historical evidence to examine arguments about whether wealthy residents
+  would relocate in response to California’s Proposition 40.
+nut_graf: The Moretti-Wilson research bears on California’s Proposition 40 because
+  the measure targets accumulated wealth, while the earlier study measured migration
+  after changes in estate-tax liability. Porter’s analysis considers the historical
+  migration evidence alongside revenue estimates, litigation risk, asset exemptions,
+  treaty protections, the prospect of a repeated tax and proposed federal changes.
 primary_entities:
 - California
 - Proposition 40
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +167,46 @@ related_stories:
   headline: Proposition 40 aims to raise $100 billion for California health care
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7147
+  strength: 0.7152
 - slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7121
+  strength: 0.7126
 - slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
-  headline: Building a Better California has raised over $333 million against billionaire tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6772
-- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
-  headline: California’s billionaire tax divides Democrats ahead of November vote
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.645
-- slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
-  headline: Zuckerberg commits to California stay for eight years under new Meta deal
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6393
+  strength: 0.6779
 - slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
   headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6589
-- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
-  headline: Meta reports 37% profit drop and 15% headcount cut
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6178
+  strength: 0.6593
 - slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
   headline: Newsom backs Prop. 42 barring new California wealth taxes
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6513
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6394
+  strength: 0.6516
 - slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
   headline: California Democrats endorse one-time 5% tax on billionaires
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.6517
+  strength: 0.6521
 - slug: 2026-06-21-musk-s-trillionaire-status-highlights-us-inequality-s-persistence-analyst-says
-  headline: Musk's trillionaire status highlights US inequality's persistence, analyst says
+  headline: Musk's trillionaire status highlights US inequality's persistence, analyst
+    says
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6777
+  strength: 0.6781
 - slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
   headline: Economists offer competing visions to reduce U.S. income inequality
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6823
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6487
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.683
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6439
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6371
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6368
-- slug: 2026-06-01-wealthy-heirs-gather-at-exclusive-retreats-as-families-navigate-record-wealth-tr
-  headline: Wealthy heirs gather at exclusive retreats as families navigate record wealth transfers
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6287
-- slug: 2026-01-14-proposed-billionaire-tax-in-california-sparks-silicon-valley-uproar
-  headline: Proposed billionaire tax in California sparks Silicon Valley uproar
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.661
-- slug: 2026-06-16-economist-warns-trillionaire-era-threatens-democracy
-  headline: Economist warns trillionaire era threatens democracy
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6176
+  strength: 0.6826
 ---
-
 ## Estate-tax liability change precedes migration among Forbes 400 billionaires
 
 **Subtype:** fact

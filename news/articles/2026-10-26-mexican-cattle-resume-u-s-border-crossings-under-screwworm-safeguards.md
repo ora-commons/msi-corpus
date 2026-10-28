@@ -1,9 +1,18 @@
 ---
 headline: Mexican cattle resume U.S. border crossings under screwworm safeguards
-secondary_headline: Reopening restores border trade while drought constrains U.S. cattle herds
+secondary_headline: Reopening restores border trade while drought constrains U.S.
+  cattle herds
 publish_date: '2026-10-26'
-lede: Mexican cattle began moving through the Columbus, New Mexico, border crossing on Monday after U.S. agriculture inspectors cleared the site under safeguards meant to reduce the risk of New World screwworm entering the United States. The port had been closed for nearly two years and is the third to resume Mexican cattle imports as the United States and Mexico work to contain the flesh-eating parasite.
-nut_graf: The reopening gives Mexican ranchers a market and may ease pressure on U.S. cattle supplies as ranchers rebuild herds depleted by drought, but experts caution that shoppers should not expect quick relief in beef prices. Import controls focus on animals moving across the border, while separate fly-trap, drone and sterile-fly measures address insects that can cross independently.
+lede: Mexican cattle began moving through the Columbus, New Mexico, border crossing
+  on Monday after U.S. agriculture inspectors cleared the site under safeguards meant
+  to reduce the risk of New World screwworm entering the United States. The port had
+  been closed for nearly two years and is the third to resume Mexican cattle imports
+  as the United States and Mexico work to contain the flesh-eating parasite.
+nut_graf: The reopening gives Mexican ranchers a market and may ease pressure on U.S.
+  cattle supplies as ranchers rebuild herds depleted by drought, but experts caution
+  that shoppers should not expect quick relief in beef prices. Import controls focus
+  on animals moving across the border, while separate fly-trap, drone and sterile-fly
+  measures address insects that can cross independently.
 primary_entities:
 - New World screwworm
 - Mexico
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +158,44 @@ related_stories:
   headline: USDA confirms New World screwworm detected in Texas elk
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7991
+  strength: 0.7994
 - slug: 2026-10-22-usda-confirms-new-world-screwworm-in-a-texas-elk
   headline: USDA confirms New World screwworm in a Texas elk
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7538
+  strength: 0.755
 - slug: 2026-08-22-us-to-resume-mexican-cattle-imports-aug-24-under-screwworm-controls
   headline: US to resume Mexican cattle imports Aug. 24 under screwworm controls
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.8874
+  strength: 0.8871
 - slug: 2026-09-11-new-world-screwworm-infects-texas-ranch-horse-in-first-us-equine-case
   headline: New World screwworm infects Texas ranch horse in first US equine case
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7556
+  strength: 0.7567
 - slug: 2026-07-24-usda-to-lift-more-than-yearlong-ban-on-mexican-cattle-imports-in-30-days
   headline: USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.8496
-- slug: 2026-10-03-fda-finds-cyclospora-at-mexican-farm-tied-to-largest-u-s-outbreak
-  headline: FDA finds cyclospora at Mexican farm tied to largest U.S. outbreak
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.634
+  strength: 0.8516
 - slug: 2026-08-27-fda-approves-ivermectin-for-cattle-screwworm-14th-emergency-authorization
   headline: FDA approves ivermectin for cattle screwworm, 14th emergency authorization
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7419
+  strength: 0.7435
 - slug: 2026-08-19-screwworm-response-halts-texas-shelter-adoptions-raises-euthanasia-risk
   headline: Screwworm response halts Texas shelter adoptions, raises euthanasia risk
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7557
+  strength: 0.7547
 - slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
+  headline: Illegal cattle trafficking drives screwworm's rapid northward spread,
+    experts warn
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.792
-- slug: 2026-06-04-new-world-screwworm-detected-in-texas-calf-first-us-livestock-case-since-1966
-  headline: New World screwworm detected in Texas calf, first US livestock case since 1966
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.8079
-- slug: 2026-06-12-texas-ranchers-fight-return-of-long-eradicated-cattle-killing-parasite
-  headline: Texas Ranchers Fight Return of Long-Eradicated Cattle-Killing Parasite
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7872
-- slug: 2026-06-15-new-world-screwworm-returns-to-us-12-cases-detected-in-texas-and-new-mexico
-  headline: New World screwworm returns to US, 12 cases detected in Texas and New Mexico
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7816
-- slug: 2026-09-08-fda-inspections-of-foreign-food-sites-down-nearly-35-since-2019-records-show
-  headline: FDA inspections of foreign food sites down nearly 35% since 2019, records show
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6237
-- slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
-  headline: Farm workers face elevated risk as screwworm spreads in US south-west
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7593
-- slug: 2026-06-08-usda-confirms-two-more-screwworm-cases-in-texas-food-supply-safe
-  headline: USDA confirms two more screwworm cases in Texas; food supply safe
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7617
-- slug: 2026-08-13-u-s-fully-resumes-avocado-inspections-in-mexico-s-michoac-n
-  headline: U.S. fully resumes avocado inspections in Mexico's Michoacán
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6532
-- slug: 2026-02-11-us-opens-texas-facility-to-disperse-sterile-screwworm-flies
-  headline: US opens Texas facility to disperse sterile screwworm flies
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7508
-- slug: 2026-08-03-border-wall-groundwater-pumping-halted-after-new-mexico-rancher-complaints
-  headline: Border wall groundwater pumping halted after New Mexico rancher complaints
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6369
-- slug: 2026-04-16-smallest-us-cattle-herd-in-75-years-keeps-beef-prices-near-record
-  headline: Smallest US cattle herd in 75 years keeps beef prices near record
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.666
-- slug: 2026-05-17-china-to-boost-trade-for-us-agricultural-products-including-beef-and-poultry
-  headline: China to boost trade for US agricultural products including beef and poultry
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6407
+  strength: 0.7928
 ---
-
 ## Mexican cattle resume U.S. border crossings under screwworm safeguards
 
 **Subtype:** fact

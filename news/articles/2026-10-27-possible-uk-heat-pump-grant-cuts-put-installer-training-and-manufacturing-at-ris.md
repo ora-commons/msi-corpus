@@ -1,9 +1,18 @@
 ---
-headline: Possible UK heat pump grant cuts put installer training and manufacturing at risk
-secondary_headline: Grants worth up to £9,000 underpin installer sales, apprenticeships and domestic production
+headline: Possible UK heat pump grant cuts put installer training and manufacturing
+  at risk
+secondary_headline: Grants worth up to £9,000 underpin installer sales, apprenticeships
+  and domestic production
 publish_date: '2026-10-27'
-lede: UK heat pump installers fear possible government subsidy cuts ahead of Wednesday’s budget, with businesses saying grants support sales, apprenticeships and domestic production. A government spokesperson said the government does not comment on budget speculation and remains committed to lowering bills and investing in clean, homegrown energy.
-nut_graf: Installers say possible subsidy changes could affect sales, training, domestic production and related trades. The Boiler Upgrade Scheme has offered grants of up to £9,000 since 2022, while government data show that heat in buildings accounts for nearly a fifth of UK greenhouse gas emissions.
+lede: UK heat pump installers fear possible government subsidy cuts ahead of Wednesday’s
+  budget, with businesses saying grants support sales, apprenticeships and domestic
+  production. A government spokesperson said the government does not comment on budget
+  speculation and remains committed to lowering bills and investing in clean, homegrown
+  energy.
+nut_graf: Installers say possible subsidy changes could affect sales, training, domestic
+  production and related trades. The Boiler Upgrade Scheme has offered grants of up
+  to £9,000 since 2022, while government data show that heat in buildings accounts
+  for nearly a fifth of UK greenhouse gas emissions.
 primary_entities:
 - Bill Tuck
 - Sustain Homes
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +156,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
-  headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
-  publish_date: '2026-10-21'
+- slug: 2026-10-27-chris-packham-urges-uk-chancellor-to-cut-24bn-carbon-capture-plan
+  headline: Chris Packham urges UK chancellor to cut £24bn carbon capture plan
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6473
+  strength: 0.6971
 - slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
   headline: TUC finds UK households paid £13,961 extra on bills since 2021
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.676
+  strength: 0.6757
 - slug: 2026-10-12-uk-heating-oil-prices-climb-past-110p-per-litre-as-winter-nears
   headline: UK heating oil prices climb past 110p per litre as winter nears
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6865
-- slug: 2026-10-18-uk-steelmakers-electricity-cost-gap-with-france-hits-three-year-high
-  headline: UK steelmakers' electricity cost gap with France hits three-year high
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6478
-- slug: 2026-10-16-jersey-proposes-fuel-duty-freeze-as-diesel-tops-2-a-litre
-  headline: Jersey proposes fuel duty freeze as diesel tops £2 a litre
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6402
+  strength: 0.6875
 - slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
   headline: Badenoch pledges to scrap UK future homes standard
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6513
-- slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
-  headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6236
-- slug: 2026-10-04-north-sea-oil-workers-back-strike-that-could-disrupt-uk-fuel-supply
-  headline: North Sea oil workers back strike that could disrupt UK fuel supply
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6249
-- slug: 2026-09-28-uk-energy-price-cap-rises-to-1-723-as-gas-costs-surge
-  headline: UK energy price cap rises to £1,723 as gas costs surge
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6439
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6422
-- slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
-  headline: UK joins European diesel-reserve talks after US export-ban warning
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6239
-- slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
-  headline: Healey says UK preparing for diesel export ban as fuel prices hit record
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.62
-- slug: 2026-09-25-uk-consumer-confidence-hits-two-year-high-as-energy-costs-push-up-inflation
-  headline: UK consumer confidence hits two-year high as energy costs push up inflation
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-22-jersey-fuel-duty-cut-proposal-withdrawn-as-businesses-report-price-impact
-  headline: Jersey fuel duty cut proposal withdrawn as businesses report price impact
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6307
-- slug: ineos-mothballs-three-hull-chemical-plants-blaming-uk-gas-prices
-  headline: Ineos mothballs three Hull chemical plants, blaming UK gas prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6262
-- slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
-  headline: S&P Global UK consumer sentiment index falls to 42.7 in September
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6211
-- slug: 2026-09-13-rayner-says-uk-unlikely-to-meet-1-5-million-homes-target
-  headline: Rayner says UK unlikely to meet 1.5 million homes target
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6205
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6279
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6239
-- slug: 2026-07-18-cma-recommends-stronger-protections-for-uk-heating-oil-customers
-  headline: CMA recommends stronger protections for UK heating oil customers
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.64
+  strength: 0.6516
 ---
-
 ## Possible UK heat pump grant cuts put installer training and manufacturing at risk
 
 **Subtype:** fact

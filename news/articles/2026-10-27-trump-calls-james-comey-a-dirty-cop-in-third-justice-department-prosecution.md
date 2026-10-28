@@ -2,8 +2,17 @@
 headline: Trump calls James Comey a “dirty cop” in third Justice Department prosecution
 secondary_headline: Comey says “they’re back again” and “I’m still innocent”
 publish_date: '2026-10-27'
-lede: President Donald Trump called former FBI director James Comey a “dirty cop” at Joint Base Andrews, Maryland, in remarks reported by Reuters. Asked about Comey, Trump said, “I think he’s a dirty cop,” and added, “I don’t know much about it.” Court documents made public Monday showed the Justice Department was attempting a third prosecution over allegations that Comey shared sensitive national security information in 2016.
-nut_graf: Trump’s comments came as the Justice Department was attempting a third prosecution, with a criminal information alleging that Comey shared classified information with a New York Times reporter in October 2016. The Justice Department said it filed the document to stop a 10-year statute of limitations from expiring earlier this month; Trump was campaigning in Mississippi for Republican Senator Cindy Hyde-Smith.
+lede: President Donald Trump called former FBI director James Comey a “dirty cop”
+  at Joint Base Andrews, Maryland, in remarks reported by Reuters. Asked about Comey,
+  Trump said, “I think he’s a dirty cop,” and added, “I don’t know much about it.”
+  Court documents made public Monday showed the Justice Department was attempting
+  a third prosecution over allegations that Comey shared sensitive national security
+  information in 2016.
+nut_graf: Trump’s comments came as the Justice Department was attempting a third prosecution,
+  with a criminal information alleging that Comey shared classified information with
+  a New York Times reporter in October 2016. The Justice Department said it filed
+  the document to stop a 10-year statute of limitations from expiring earlier this
+  month; Trump was campaigning in Mississippi for Republican Senator Cindy Hyde-Smith.
 primary_entities:
 - Donald Trump
 - James Comey
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +158,44 @@ related_stories:
   headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.854
+  strength: 0.8533
 - slug: 2026-10-26-justice-department-charges-james-comey-over-alleged-2016-leak
   headline: Justice Department charges James Comey over alleged 2016 leak
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7822
+  strength: 0.7811
 - slug: 2026-10-26-federal-prosecutors-charge-james-comey-with-leaking-national-defense-information
   headline: Federal prosecutors charge James Comey with leaking national defense information
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7772
+  strength: 0.7763
 - slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
   headline: Prosecutors say Comey sought to correct Reuters misinformation
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7675
+  strength: 0.7663
 - slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
-  headline: Justice Department spokeswoman says waiverless filing extended 10-year deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7545
+  strength: 0.7533
 - slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
   headline: James Comey remains unindicted after defense filed dismissal motion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7467
+  strength: 0.7453
 - slug: 2026-10-26-yahoo-email-scan-order-links-renewed-comey-case-to-2016-disclosure
   headline: Yahoo email-scan order links renewed Comey case to 2016 disclosure
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6605
+  strength: 0.6598
 - slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
   headline: Justice Department says Pam Bondi decided Maurene Comey's firing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6601
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6717
-- slug: 2026-09-29-smith-defends-trump-prosecutions-at-senate-judiciary-hearing
-  headline: Smith defends Trump prosecutions at Senate Judiciary hearing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.67
-- slug: 2026-08-19-prosecutors-say-comey-seashell-post-could-be-read-as-trump-threat
-  headline: Prosecutors say Comey seashell post could be read as Trump threat
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6531
-- slug: 2026-07-18-trump-fires-election-commissioners-pushes-new-voting-rules-after-speech-alleging
-  headline: Trump fires election commissioners, pushes new voting rules after speech alleging the system is broken
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.67
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.696
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6629
-- slug: 2026-05-31-lead-prosecutor-leaves-james-comey-case-without-explanation
-  headline: Lead prosecutor leaves James Comey case without explanation
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6571
-- slug: 2026-02-20-trump-banner-displayed-on-justice-department-headquarters
-  headline: Trump banner displayed on Justice Department headquarters
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6849
-- slug: 2026-01-23-justice-department-calls-smith-report-illicit-and-seeks-permanent-seal
-  headline: Justice Department calls Smith report 'illicit' and seeks permanent seal
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6833
-- slug: 2026-04-30-comey-returns-to-court-in-case-alleging-86-47-trump-threat
-  headline: Comey returns to court in case alleging ‘86 47’ Trump threat
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6642
-- slug: 2026-05-08-comey-asks-to-cancel-monday-nc-court-appearance-in-trump-threat-case
-  headline: Comey asks to cancel Monday NC court appearance in Trump threat case
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6598
-- slug: 2026-01-20-trump-targets-opponents-with-subpoenas-fed-fight-and-court-cases-ap-says
-  headline: Trump targets opponents with subpoenas, Fed fight and court cases, AP says
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6789
+  strength: 0.659
 ---
-
 ## Trump calls James Comey a “dirty cop” in third Justice Department prosecution
 
 **Subtype:** fact

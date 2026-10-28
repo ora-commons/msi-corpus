@@ -1,9 +1,21 @@
 ---
 headline: Silicon Valley parents press public schools to limit classroom technology
-secondary_headline: Private school exits may pull funding from lower-income public schools
+secondary_headline: Private school exits may pull funding from lower-income public
+  schools
 publish_date: '2026-10-27'
-lede: Silicon Valley parents who work in technology are pressing public school districts to reduce classroom screens, phones and other technologies, according to The Guardian’s reporting. San Mateo schools have stopped sending Chromebooks home to students in kindergarten through second grade and imposed a blanket cell phone ban on high schoolers, while Mountain View and Palo Alto have limited other tools. The developments raise a funding question as parents with industry experience demand evidence that classroom technology improves learning and Brown Center on Education Policy director Jon Valant warns that tight budgets can create pressure to replace staff with technology.
-nut_graf: Technology entered classrooms as a promise of more equitable access and remained embedded after remote learning ended. Parents with firsthand industry knowledge now ask districts to show educational gains, while researchers and advocates warn that less-resourced schools may face pressure to substitute devices for staff as families leaving public schools take funding with them.
+lede: Silicon Valley parents who work in technology are pressing public school districts
+  to reduce classroom screens, phones and other technologies, according to The Guardian’s
+  reporting. San Mateo schools have stopped sending Chromebooks home to students in
+  kindergarten through second grade and imposed a blanket cell phone ban on high schoolers,
+  while Mountain View and Palo Alto have limited other tools. The developments raise
+  a funding question as parents with industry experience demand evidence that classroom
+  technology improves learning and Brown Center on Education Policy director Jon Valant
+  warns that tight budgets can create pressure to replace staff with technology.
+nut_graf: Technology entered classrooms as a promise of more equitable access and
+  remained embedded after remote learning ended. Parents with firsthand industry knowledge
+  now ask districts to show educational gains, while researchers and advocates warn
+  that less-resourced schools may face pressure to substitute devices for staff as
+  families leaving public schools take funding with them.
 primary_entities:
 - Silicon Valley
 - San Francisco Waldorf
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,17 +160,17 @@ related_stories:
   headline: Bipartisan senators seek answers from Google on classroom AI risks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7036
+  strength: 0.7028
 - slug: 2026-09-14-nyc-council-members-call-for-ban-on-student-youtube-use-in-schools
   headline: NYC Council members call for ban on student YouTube use in schools
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.716
+  strength: 0.715
 - slug: 2026-08-13-teens-build-tech-free-alternatives-as-school-phone-bans-spread
   headline: Teens build tech-free alternatives as school phone bans spread
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7498
+  strength: 0.7489
 - slug: 2026-09-13-nsw-caps-classroom-screen-time-recommends-daily-pen-and-paper-learning
   headline: NSW caps classroom screen time, recommends daily pen-and-paper learning
   publish_date: '2026-09-13'
@@ -167,84 +180,25 @@ related_stories:
   headline: Parents sue Lower Merion school district over student internet use
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6823
+  strength: 0.6817
 - slug: 2026-09-02-new-york-city-schools-ban-student-facing-ai-through-eighth-grade-for-one-year
-  headline: New York City schools ban student-facing AI through eighth grade for one year
+  headline: New York City schools ban student-facing AI through eighth grade for one
+    year
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6622
+  strength: 0.6621
 - slug: 2026-05-26-nationwide-backlash-against-school-issued-devices-grows-as-los-angeles-leads-cra
-  headline: Nationwide backlash against school-issued devices grows as Los Angeles leads crackdown
+  headline: Nationwide backlash against school-issued devices grows as Los Angeles
+    leads crackdown
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.7771
-- slug: 2026-08-29-study-finds-school-phone-bans-raise-student-well-being-but-not-test-scores
-  headline: Study finds school phone bans raise student well-being but not test scores
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6468
+  strength: 0.7764
 - slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
   headline: School screen bans risk isolating millions of students with disabilities
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7456
-- slug: 2026-06-21-pennsylvania-school-board-vote-ignites-parent-revolt-over-classroom-laptops
-  headline: Pennsylvania school board vote ignites parent revolt over classroom laptops
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7295
-- slug: 2026-05-15-pennsylvania-district-rejects-parent-push-to-let-students-opt-out-of-classroom-l
-  headline: Pennsylvania district rejects parent push to let students opt out of classroom laptops
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7506
-- slug: 2026-05-15-clash-over-classroom-technology-puts-opt-outs-in-focus-at-philly-district
-  headline: Clash over classroom technology puts opt-outs in focus at Philly district
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7427
-- slug: 2026-06-09-sweden-to-ban-mobile-phones-in-schools-as-part-of-global-screen-reversal
-  headline: Sweden to ban mobile phones in schools as part of global screen reversal
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7002
-- slug: 2026-07-04-high-income-families-shift-to-ai-based-and-life-skills-k-8-schools
-  headline: High-income families shift to AI-based and life-skills K-8 schools
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6608
-- slug: 2026-04-29-bill-seeks-to-screen-california-kindergartners-for-basic-math-skills
-  headline: Bill seeks to screen California kindergartners for basic math skills
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6752
-- slug: 2026-05-06-largest-study-finds-mixed-results-for-bell-to-bell-school-phone-bans
-  headline: Largest study finds mixed results for bell-to-bell school phone bans
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6718
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-pediatricians-urge-parent-talk-first
-  headline: Jury finds Meta and YouTube liable; pediatricians urge parent “talk first”
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6776
-- slug: 2026-03-10-connecticut-lawmakers-weigh-statewide-bell-to-bell-cellphone-bans-in-schools
-  headline: Connecticut lawmakers weigh statewide bell-to-bell cellphone bans in schools
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6782
-- slug: 2026-02-21-california-moves-to-tighten-privacy-protections-for-student-data
-  headline: California moves to tighten privacy protections for student data
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6587
-- slug: 2026-01-30-mississippi-lawmakers-advance-bills-to-restrict-cellphone-use-in-schools
-  headline: Mississippi lawmakers advance bills to restrict cellphone use in schools
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6565
+  strength: 0.7454
 ---
-
 ## Silicon Valley parents press public schools to limit classroom technology
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Congressional report finds fragmented U.S. response to overseas scams
-secondary_headline: Americans reported nearly $18 billion in cyberfraud losses to the FBI
+secondary_headline: Americans reported nearly $18 billion in cyberfraud losses to
+  the FBI
 publish_date: '2026-10-27'
-lede: A congressional report released Tuesday found that the U.S. government is not doing enough to fight the surge in cyberscams and that partnerships with the private sector remain fragmented and voluntary. The Joint Economic Committee of the U.S. Congress also said the government lacks a unified accounting of money seized from overseas scam compounds or returned to victims. Americans reported nearly $18 billion in cyberfraud losses to the FBI last year.
-nut_graf: The report calls for a unified federal strategy, stronger cooperation across agencies, a central place for victims to report losses and seek help, and deeper private-sector engagement. Americans reported nearly $18 billion in cyberfraud losses to the FBI last year, while the recovery amounts cited amounted to only a fraction of victims’ losses.
+lede: A congressional report released Tuesday found that the U.S. government is not
+  doing enough to fight the surge in cyberscams and that partnerships with the private
+  sector remain fragmented and voluntary. The Joint Economic Committee of the U.S.
+  Congress also said the government lacks a unified accounting of money seized from
+  overseas scam compounds or returned to victims. Americans reported nearly $18 billion
+  in cyberfraud losses to the FBI last year.
+nut_graf: The report calls for a unified federal strategy, stronger cooperation across
+  agencies, a central place for victims to report losses and seek help, and deeper
+  private-sector engagement. Americans reported nearly $18 billion in cyberfraud losses
+  to the FBI last year, while the recovery amounts cited amounted to only a fraction
+  of victims’ losses.
 primary_entities:
 - Joint Economic Committee of the U.S. Congress
 - Maggie Hassan
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +155,39 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-doj-fraud-chief-directs-prosecutors-to-weigh-tax-charges-in-every-case
-  headline: DOJ fraud chief directs prosecutors to weigh tax charges in every case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6188
-- slug: 2026-10-14-senate-report-finds-tinder-scam-detection-models-went-years-without-updates
-  headline: Senate report finds Tinder scam-detection models went years without updates
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6363
-- slug: 2026-10-14-us-treasury-fines-bank-of-america-1-21-billion-for-compliance-failures
-  headline: US Treasury fines Bank of America $1.21 billion for compliance failures
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.634
-- slug: 2026-10-14-federal-funding-cuts-slow-states-shift-to-chip-enabled-ebt-cards
-  headline: Federal funding cuts slow states' shift to chip-enabled EBT cards
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6337
-- slug: 2026-10-14-treasury-fines-bank-of-america-1-21-billion-for-money-laundering-failures
-  headline: Treasury fines Bank of America $1.21 billion for money-laundering failures
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-13-bank-of-america-hit-with-1-21-billion-in-penalties-from-fincen-occ-and-ofac
-  headline: Bank of America hit with $1.21 billion in penalties from FinCEN, OCC and OFAC
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6232
-- slug: 2026-10-06-fbi-counterintelligence-squads-face-deep-cuts-as-espionage-threats-grow
-  headline: FBI counterintelligence squads face deep cuts as espionage threats grow
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.625
 - slug: 2026-09-02-americans-reported-record-15-9-billion-in-scam-losses-last-year-joint-investigat
-  headline: Americans reported record $15.9 billion in scam losses last year, joint investigation finds
+  headline: Americans reported record $15.9 billion in scam losses last year, joint
+    investigation finds
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7471
+  strength: 0.7481
 - slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
   headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6695
-- slug: 2026-09-14-inmates-use-contraband-phones-to-run-scams-from-u-s-prisons
-  headline: Inmates use contraband phones to run scams from U.S. prisons
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6237
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.644
-- slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
-  headline: US domestic violence killings rise while overall homicides fall
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6168
-- slug: 2026-08-19-lipton-tells-npr-congress-has-declined-to-commit-oversight-to-trump-s-finances
-  headline: Lipton tells NPR Congress has declined to commit oversight to Trump's finances
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6288
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6313
+  strength: 0.6704
 - slug: 2026-05-21-congressional-committee-urges-at-t-verizon-t-mobile-to-step-up-cyberscam-prevent
-  headline: Congressional committee urges AT&T, Verizon, T-Mobile to step up cyberscam prevention
+  headline: Congressional committee urges AT&T, Verizon, T-Mobile to step up cyberscam
+    prevention
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.7118
-- slug: 2026-08-07-federal-prosecutors-review-claims-about-jpmorgan-fraud-reimbursements
-  headline: Federal prosecutors review claims about JPMorgan fraud reimbursements
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6286
+  strength: 0.7116
 - slug: 2026-07-21-southeast-asian-crime-groups-use-tech-to-expand-illicit-economy-un-says
   headline: Southeast Asian crime groups use tech to expand illicit economy, UN says
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6531
+  strength: 0.6533
 - slug: 2026-05-21-congress-urges-at-t-verizon-t-mobile-to-do-more-to-curb-cyberscams
   headline: Congress urges AT&T, Verizon, T-Mobile to do more to curb cyberscams
   publish_date: '2026-05-21'
   relation: related
   strength: 0.7035
-- slug: 2026-07-16-romance-scams-cost-americans-record-1-3-billion-in-2025
-  headline: Romance scams cost Americans record $1.3 billion in 2025
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6493
 - slug: 2026-05-22-congress-urges-telecoms-to-bolster-protections-against-cyberscams
   headline: Congress urges telecoms to bolster protections against cyberscams
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6902
+  strength: 0.6903
 ---
-
 ## Congressional report finds fragmented U.S. response to overseas scams
 
 **Subtype:** fact

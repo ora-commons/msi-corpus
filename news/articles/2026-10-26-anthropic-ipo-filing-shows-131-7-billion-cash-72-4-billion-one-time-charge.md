@@ -1,9 +1,22 @@
 ---
 headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
-secondary_headline: Prospectus details 93 pages of risks; co-founders will hold 50.1% voting power
+secondary_headline: Prospectus details 93 pages of risks; co-founders will hold 50.1%
+  voting power
 publish_date: '2026-10-26'
-lede: Anthropic's IPO prospectus disclosed $131.7 billion in cash and cash-equivalents as of June 30 and $80.7 billion in first-half net losses, including a one-time $72.4 billion charge for an accounting adjustment related to financing agreements. The 335-page filing devoted 93 pages to risk factors, including concerns that advanced AI systems could pose catastrophic or existential risks to humanity. The prospectus disclosed approximately 250 customers that each accounted for at least $10 million in revenue over the past year but did not name Anthropic's biggest customers. Dario Amodei and six other Anthropic co-founders will hold 50.1% of voting power after the IPO.
-nut_graf: The disclosures put Anthropic's cash and cash-equivalents, revenue, losses, customer concentration and governance before prospective investors ahead of a planned public-market debut. They also place the company's planned compute spending beside its warnings that advanced AI systems could pose catastrophic or existential risks to humanity.
+lede: Anthropic's IPO prospectus disclosed $131.7 billion in cash and cash-equivalents
+  as of June 30 and $80.7 billion in first-half net losses, including a one-time $72.4
+  billion charge for an accounting adjustment related to financing agreements. The
+  335-page filing devoted 93 pages to risk factors, including concerns that advanced
+  AI systems could pose catastrophic or existential risks to humanity. The prospectus
+  disclosed approximately 250 customers that each accounted for at least $10 million
+  in revenue over the past year but did not name Anthropic's biggest customers. Dario
+  Amodei and six other Anthropic co-founders will hold 50.1% of voting power after
+  the IPO.
+nut_graf: The disclosures put Anthropic's cash and cash-equivalents, revenue, losses,
+  customer concentration and governance before prospective investors ahead of a planned
+  public-market debut. They also place the company's planned compute spending beside
+  its warnings that advanced AI systems could pose catastrophic or existential risks
+  to humanity.
 primary_entities:
 - Anthropic
 - Dario Amodei
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,99 +165,40 @@ related_stories:
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8571
+  strength: 0.8566
+- slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
+  headline: Anthropic's IPO filing details compute, customer and data-center risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8541
+- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8305
 - slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
   headline: Anthropic says AI research could outpace model safeguards
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8298
+  strength: 0.8299
 - slug: 2026-10-26-anthropic-reports-321-4bn-in-data-center-leasing-costs-so-far-this-year
   headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8043
-- slug: 2026-10-26-anthropic-expands-claude-tools-for-nonprofits-while-pursuing-an-ipo
-  headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
-  publish_date: '2026-10-26'
+  strength: 0.8027
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.733
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
+  strength: 0.7959
+- slug: 2026-10-27-anthropic-excludes-about-72-billion-in-liability-valuation-losses-from-adjusted-
+  headline: Anthropic excludes about $72 billion in liability valuation losses from
+    adjusted profit
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7589
-- slug: 2026-10-08-openai-narrows-anthropic-lead-in-business-ai-spending-ahead-of-dual-ipos
-  headline: OpenAI narrows Anthropic lead in business AI spending ahead of dual IPOs
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7238
-- slug: 2026-09-18-anthropic-shifts-planned-ipo-from-october-to-november
-  headline: Anthropic shifts planned IPO from October to November
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7252
-- slug: 2026-09-14-anthropic-on-track-for-second-straight-profitable-quarter-ft-reports
-  headline: Anthropic on track for second straight profitable quarter, FT reports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7261
-- slug: 2026-09-09-anthropic-releases-interactive-tool-for-modeling-ai-economic-impact
-  headline: Anthropic releases interactive tool for modeling AI economic impact
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7602
-- slug: 2026-08-25-anthropic-may-present-total-addressable-market-above-30-trillion
-  headline: Anthropic may present total addressable market above $30 trillion
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7284
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7532
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7447
-- slug: 2026-07-14-openai-files-for-ipo-as-apple-lawsuit-and-leadership-gap-threaten-timing
-  headline: OpenAI files for IPO as Apple lawsuit and leadership gap threaten timing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6991
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7376
-- slug: 2026-02-13-anthropic-hits-a-380b-valuation-as-it-heightens-rivalry-with-openai
-  headline: Anthropic hits a $380B valuation as it heightens rivalry with OpenAI
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7658
-- slug: 2026-05-29-anthropic-vaults-to-965b-valuation-on-65b-funding-as-claude-demand-surges
-  headline: Anthropic vaults to $965B valuation on $65B funding as Claude demand surges
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.7366
-- slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
-  headline: Anthropic sued over usage limits on premium AI subscription plans
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7224
-- slug: 2026-06-10-anthropic-invests-200m-to-study-ai-s-impact-on-jobs-and-economy
-  headline: Anthropic invests $200M to study AI’s impact on jobs and economy
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7119
+  strength: 0.7631
 ---
-
 ## Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
 
 **Subtype:** fact

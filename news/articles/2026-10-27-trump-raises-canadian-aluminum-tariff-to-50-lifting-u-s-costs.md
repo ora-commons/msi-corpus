@@ -1,9 +1,18 @@
 ---
 headline: Trump raises Canadian aluminum tariff to 50%, lifting U.S. costs
-secondary_headline: Hydropower economics underpin Canada’s supply advantage over U.S. production
+secondary_headline: Hydropower economics underpin Canada’s supply advantage over U.S.
+  production
 publish_date: '2026-10-27'
-lede: President Trump removed Canada’s exemption from a 10% aluminum tariff and raised the rate on Canadian aluminum to 50% after returning to the White House. Canada has supplied about 70% of U.S. aluminum imports in recent years, aided by abundant hydropower that has kept electricity prices from rising as sharply as in the U.S. The levy pushed U.S. aluminum prices to a record premium over global benchmarks, raising costs for automakers and other buyers.
-nut_graf: The tariff’s effects reach industrial supply chains as manufacturers report higher costs and Canadian shipments to Europe have risen. The U.S. has four operating smelters, while the proposed Oklahoma smelter faces a local moratorium on building permits and entitlements and a federal lawsuit.
+lede: President Trump removed Canada’s exemption from a 10% aluminum tariff and raised
+  the rate on Canadian aluminum to 50% after returning to the White House. Canada
+  has supplied about 70% of U.S. aluminum imports in recent years, aided by abundant
+  hydropower that has kept electricity prices from rising as sharply as in the U.S.
+  The levy pushed U.S. aluminum prices to a record premium over global benchmarks,
+  raising costs for automakers and other buyers.
+nut_graf: The tariff’s effects reach industrial supply chains as manufacturers report
+  higher costs and Canadian shipments to Europe have risen. The U.S. has four operating
+  smelters, while the proposed Oklahoma smelter faces a local moratorium on building
+  permits and entitlements and a federal lawsuit.
 primary_entities:
 - Trump
 - Canada
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +154,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-trump-raises-canadian-aluminum-tariff-to-50-lifting-u-s-costs.png
-  alt: 'Illustration accompanying article: Trump raises Canadian aluminum tariff to 50%, lifting U.S. costs'
+  alt: 'Illustration accompanying article: Trump raises Canadian aluminum tariff to
+    50%, lifting U.S. costs'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-u-s-importers-not-foreign-countries-pay-trump-s-canada-tariffs
   headline: U.S. importers, not foreign countries, pay Trump's Canada tariffs
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7616
+  strength: 0.7607
 - slug: 2026-10-23-trump-administration-expected-to-exempt-some-canadian-goods-from-50-tariffs
   headline: Trump administration expected to exempt some Canadian goods from 50% tariffs
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7037
+  strength: 0.7018
 - slug: 2026-09-17-trump-exempts-canadian-metals-from-tariffs-despite-don-t-need-canada-claim
-  headline: Trump exempts Canadian metals from tariffs despite 'don't need Canada' claim
+  headline: Trump exempts Canadian metals from tariffs despite 'don't need Canada'
+    claim
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7643
+  strength: 0.7655
 - slug: 2026-08-26-trump-says-us-doesn-t-need-canada-as-4-million-barrels-of-oil-flow-south-daily
-  headline: Trump says US doesn't need Canada as 4 million barrels of oil flow south daily
+  headline: Trump says US doesn't need Canada as 4 million barrels of oil flow south
+    daily
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7819
+  strength: 0.7829
+- slug: 2026-09-21-canada-hits-harley-davidson-with-50-tariff-as-u-s-motorcycle-ban-nears
+  headline: Canada hits Harley-Davidson with 50% tariff as U.S. motorcycle ban nears
+  publish_date: '2026-09-21'
+  relation: related
+  strength: 0.6926
 - slug: 2026-09-09-trump-orders-import-bans-on-canadian-dairy-alcohol-and-motorcycles
   headline: Trump orders import bans on Canadian dairy, alcohol and motorcycles
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.726
+  strength: 0.7242
 - slug: 2026-07-27-trump-imposes-50-tariff-on-canada-new-tariffs-on-80-nations
   headline: Trump imposes 50% tariff on Canada, new tariffs on 80 nations
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.8011
+  strength: 0.8014
 - slug: 2026-08-29-canada-targets-us-household-goods-in-new-tariffs-as-50-auto-duties-loom
   headline: Canada targets US household goods in new tariffs as 50% auto duties loom
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7293
-- slug: 2026-08-24-trump-sets-jan-1-2027-start-for-50-tariffs-on-canadian-vehicles-parts-and-steel
-  headline: Trump sets Jan. 1, 2027 start for 50% tariffs on Canadian vehicles, parts and steel
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7414
-- slug: 2026-08-30-50-u-s-tariffs-take-effect-on-20-billion-in-canadian-goods-economists-project-90
-  headline: 50% U.S. tariffs take effect on $20 billion in Canadian goods; economists project 90,000 jobs lost
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7166
-- slug: 2026-08-26-carney-announces-20bn-retaliation-as-us-tariffs-on-canada-take-effect
-  headline: Carney announces $20bn retaliation as US tariffs on Canada take effect
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7168
-- slug: 2026-07-20-trump-signs-50-tariff-on-canadian-goods-citing-autos-and-dairy-disputes
-  headline: Trump signs 50% tariff on Canadian goods, citing autos and dairy disputes
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7813
-- slug: 2026-08-18-50-us-tariff-on-canadian-goods-prompts-bilateral-trade-talks
-  headline: 50% US tariff on Canadian goods prompts bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7244
-- slug: 2026-08-19-trump-pauses-50-canada-tariffs-for-three-days-mentions-keystone-xl-revival
-  headline: Trump pauses 50% Canada tariffs for three days, mentions Keystone XL revival
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7184
-- slug: 2026-08-26-canada-to-impose-25-50-tariff-on-us-toilet-paper-starting-september-8
-  headline: Canada to impose 25-50% tariff on US toilet paper starting September 8
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6953
-- slug: 2026-08-02-trump-imposes-50-tariff-on-canada-under-never-before-used-1930-trade-provision
-  headline: Trump imposes 50% tariff on Canada under never-before-used 1930 trade provision
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7229
-- slug: 2026-07-23-trump-imposes-10-12-5-tariffs-on-60-nations-citing-forced-labor
-  headline: Trump imposes 10-12.5% tariffs on 60 nations citing forced labor
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7048
-- slug: 2026-07-25-trump-s-new-tariffs-on-60-nations-take-effect-as-consumer-costs-rise
-  headline: Trump's new tariffs on 60 nations take effect as consumer costs rise
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6951
-- slug: 2026-07-23-trump-singles-out-canada-s-dairy-system-as-tariff-justification
-  headline: Trump singles out Canada's dairy system as tariff justification
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.693
-- slug: 2026-07-23-trump-administration-imposes-10-to-12-5-forced-labor-tariffs-on-countries
-  headline: Trump administration imposes 10% to 12.5% forced-labor tariffs on countries
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6924
-- slug: 2026-06-03-us-imposes-10-12-5-tariffs-on-60-nations-over-forced-labor-concerns
-  headline: US imposes 10-12.5% tariffs on 60 nations over forced labor concerns
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7013
+  strength: 0.7284
 ---
-
 ## Trump raises Canadian aluminum tariff to 50%, lifting U.S. costs
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Trump offers $1 million reward for reports of voter fraud
-secondary_headline: Payment requires arrest and conviction; Trump did not disclose funding
+secondary_headline: Payment requires arrest and conviction; Trump did not disclose
+  funding
 publish_date: '2026-10-26'
-lede: Donald Trump announced a $1 million reward for reports of voter fraud in past elections and the November 2026 midterm elections, payable only after the arrest and conviction of those responsible. Trump did not disclose how he plans to pay for the rewards, and The Guardian said it had reached out to the White House for comment.
-nut_graf: The announcement attaches a cash incentive, and a conviction condition, to the administration's election-fraud claims ahead of the November midterms, at a time when Democratic state attorneys general are coordinating to counter possible federal interference in voting. A 2020 Texas tip offer supplies a precedent for how such rewards are paid out, though Trump's proposal reaches further, covering elections already voted on as well as the midterms.
+lede: Donald Trump announced a $1 million reward for reports of voter fraud in past
+  elections and the November 2026 midterm elections, payable only after the arrest
+  and conviction of those responsible. Trump did not disclose how he plans to pay
+  for the rewards, and The Guardian said it had reached out to the White House for
+  comment.
+nut_graf: The announcement attaches a cash incentive, and a conviction condition,
+  to the administration's election-fraud claims ahead of the November midterms, at
+  a time when Democratic state attorneys general are coordinating to counter possible
+  federal interference in voting. A 2020 Texas tip offer supplies a precedent for
+  how such rewards are paid out, though Trump's proposal reaches further, covering
+  elections already voted on as well as the midterms.
 primary_entities:
 - Donald Trump
 - Rob Bonta
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +149,43 @@ related_stories:
   headline: Trump proposes serving as arbitrator of DOJ fraud tip rewards
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7664
+  strength: 0.7662
 - slug: 2026-10-20-trump-plans-25-million-fraud-tip-program-paying-up-to-30-000
   headline: Trump plans $25 million fraud-tip program paying up to $30,000
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7418
+  strength: 0.742
 - slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
   headline: Fox News poll finds government corruption outranks inflation among voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.683
+  strength: 0.6823
 - slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
   headline: Trump says he has spent more than $300 million on the midterm elections
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7062
+  strength: 0.7067
 - slug: 2026-10-20-fraud-tip-program-makes-first-award-to-nick-shirley
   headline: Fraud-tip program makes first award to Nick Shirley
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6965
+  strength: 0.697
 - slug: 2026-10-03-trump-reiterates-5-000-voter-pledge-with-1929-depression-warning
   headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.707
-- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
-  headline: Democrats elevate Trump corruption claims as midterm campaign issue
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6832
+  strength: 0.7072
 - slug: 2026-10-03-trump-announces-one-time-90-payment-for-20-million-medicare-seniors
   headline: Trump announces one-time $90 payment for 20 million Medicare seniors
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6979
-- slug: 2026-09-30-trump-sends-500-aca-refund-checks-to-nearly-1-million-ahead-of-midterms
-  headline: Trump sends $500 ACA refund checks to nearly 1 million ahead of midterms
-  publish_date: '2026-09-30'
+  strength: 0.6983
+- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
+  headline: Democrats elevate Trump corruption claims as midterm campaign issue
+  publish_date: '2026-10-06'
   relation: related
-  strength: 0.7005
-- slug: 2026-09-10-experts-offer-different-legal-views-of-trump-s-proposed-5-000-payments
-  headline: Experts offer different legal views of Trump's proposed $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7436
-- slug: 2026-09-16-trump-s-5-000-voter-pledge-draws-fiscal-criticism-from-republicans
-  headline: Trump's $5,000 voter pledge draws fiscal criticism from Republicans
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7218
-- slug: 2026-09-10-trump-promises-5000-dividend-to-adult-citizens-if-republicans-keep-congress
-  headline: Trump ties $5,000 adult dividend pledge to Republican control of Congress
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7195
-- slug: 2026-09-15-senate-republicans-push-back-on-trump-s-5-000-election-linked-payments
-  headline: Senate Republicans push back on Trump's $5,000 election-linked payments
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7008
-- slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
-  headline: Current tariff pace would take nearly five years to cover Trump payout
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.713
-- slug: 2026-09-09-trump-pledges-5-000-dividend-if-gop-keeps-both-chambers-in-november
-  headline: Trump pledges $5,000 dividend if GOP keeps both chambers in November
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6949
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6814
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6956
-- slug: 2026-06-17-election-lawyer-warns-trump-is-setting-stage-to-contest-november-midterms
-  headline: Election lawyer warns Trump is setting stage to contest November midterms
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6846
-- slug: 2026-04-15-trump-bets-tax-cuts-for-tips-on-message-help-in-las-vegas-midterms
-  headline: Trump bets tax cuts for tips on message help in Las Vegas midterms
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7037
-- slug: 2026-05-18-trump-allies-fund-doj-plan-for-nearly-1-8b-anti-weaponization-fund
-  headline: Trump allies fund DOJ plan for nearly $1.8B “Anti-Weaponization Fund”
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6901
+  strength: 0.6823
 ---
-
 ## Trump offers $1 million reward for reports of voter fraud
 
 **Subtype:** fact

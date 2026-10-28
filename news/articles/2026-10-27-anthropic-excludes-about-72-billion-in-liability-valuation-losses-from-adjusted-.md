@@ -1,9 +1,21 @@
 ---
-headline: Anthropic excludes about $72 billion in liability valuation losses from adjusted profit
-secondary_headline: Analysts included corresponding Amazon and Alphabet gains in Street earnings
+headline: Anthropic excludes about $72 billion in liability valuation losses from
+  adjusted profit
+secondary_headline: Analysts included corresponding Amazon and Alphabet gains in Street
+  earnings
 publish_date: '2026-10-27'
-lede: Anthropic is directing investors to adjusted net income of $2.7 billion for the first half of the year, compared with an $80.7 billion net loss under generally accepted accounting principles. About $72 billion of the excluded losses came from marking liabilities, including convertible notes, to market values. Anthropic publicly filed its IPO prospectus Monday as it prepares for an initial public offering as soon as November.
-nut_graf: The treatment contrasts with consensus earnings measures at Amazon and Alphabet, which booked paper gains on some of the same financing deals and whose covering analysts included the corresponding gains in Street earnings metrics. Street earnings have no standard definition and feed the most widely collected data for the S&P 500 and other indexes; a Wall Street Journal analysis found gains at the two companies represented about 15% of S&P 500 earnings in the second quarter.
+lede: Anthropic is directing investors to adjusted net income of $2.7 billion for
+  the first half of the year, compared with an $80.7 billion net loss under generally
+  accepted accounting principles. About $72 billion of the excluded losses came from
+  marking liabilities, including convertible notes, to market values. Anthropic publicly
+  filed its IPO prospectus Monday as it prepares for an initial public offering as
+  soon as November.
+nut_graf: The treatment contrasts with consensus earnings measures at Amazon and Alphabet,
+  which booked paper gains on some of the same financing deals and whose covering
+  analysts included the corresponding gains in Street earnings metrics. Street earnings
+  have no standard definition and feed the most widely collected data for the S&P
+  500 and other indexes; a Wall Street Journal analysis found gains at the two companies
+  represented about 15% of S&P 500 earnings in the second quarter.
 primary_entities:
 - Anthropic
 - Amazon
@@ -38,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,107 +150,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
+  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time
+    charge
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.785
+  strength: 0.7865
 - slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7801
+  strength: 0.7794
 - slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
   headline: Anthropic says AI research could outpace model safeguards
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7694
+  strength: 0.7701
 - slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
-  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its IPO filing
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7509
+  strength: 0.7511
 - slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
   headline: Anthropic's IPO filing details compute, customer and data-center risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7438
+  strength: 0.7446
 - slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7443
+  strength: 0.7456
 - slug: 2026-10-26-anthropic-reports-321-4bn-in-data-center-leasing-costs-so-far-this-year
   headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7353
-- slug: 2026-10-26-anthropic-expands-claude-tools-for-nonprofits-while-pursuing-an-ipo
-  headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
-  publish_date: '2026-10-26'
+  strength: 0.7374
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6889
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7167
-- slug: 2026-09-14-anthropic-on-track-for-second-straight-profitable-quarter-ft-reports
-  headline: Anthropic on track for second straight profitable quarter, FT reports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7045
-- slug: 2026-09-18-anthropic-shifts-planned-ipo-from-october-to-november
-  headline: Anthropic shifts planned IPO from October to November
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6706
-- slug: 2026-09-09-anthropic-releases-interactive-tool-for-modeling-ai-economic-impact
-  headline: Anthropic releases interactive tool for modeling AI economic impact
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6949
-- slug: 2026-08-14-equity-stake-gains-inflate-amazon-and-alphabet-q2-profit-figures
-  headline: Equity-stake gains inflate Amazon and Alphabet Q2 profit figures
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7406
-- slug: 2026-08-25-anthropic-may-present-total-addressable-market-above-30-trillion
-  headline: Anthropic may present total addressable market above $30 trillion
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7034
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6937
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7125
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.711
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6862
-- slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
-  headline: Anthropic commits $100 billion to Amazon cloud platform over decade
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.7097
-- slug: 2026-06-02-index-providers-fast-track-mega-ipos-as-spacex-anthropic-go-public
-  headline: Index providers fast-track mega IPOs as SpaceX, Anthropic go public
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6882
+  strength: 0.7212
 ---
-
 ## Anthropic excludes about $72 billion in liability valuation losses from adjusted profit
 
 **Subtype:** fact

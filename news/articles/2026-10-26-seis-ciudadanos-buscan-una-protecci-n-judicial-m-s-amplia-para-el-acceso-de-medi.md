@@ -1,9 +1,22 @@
 ---
-headline: Seis ciudadanos buscan una protección judicial más amplia para el acceso de medios a la Casa Blanca
+headline: Seis ciudadanos buscan una protección judicial más amplia para el acceso
+  de medios a la Casa Blanca
 secondary_headline: La orden protegería a todos los medios que cubren la Casa Blanca
 publish_date: '2026-10-26'
-lede: Seis ciudadanos presentaron el lunes 26 de octubre de 2026 una demanda ante un tribunal federal de distrito de Nueva York contra Donald Trump, la jefa de gabinete de la Casa Blanca Susie Wiles, el director de Comunicaciones de la Casa Blanca Steven Cheung y el director del Servicio Secreto Sean M. Curran. Sostienen que las restricciones al acceso de medios no solo afectan a organizaciones periodísticas, sino que violan el derecho del público a una cobertura independiente del presidente y su gobierno. La acción pide restituir el acceso actual y una orden que proteja a todos los medios que cubren la Casa Blanca frente a represalias, ahora y en el futuro.
-nut_graf: 'El caso amplía el conflicto sobre el acceso de la prensa a la Casa Blanca al incorporar como demandantes a seis ciudadanos que, en la práctica, representan a las audiencias de los medios informativos. La acción desplaza el enfoque de quienes recopilan noticias hacia quienes las consumen y pide un remedio amplio: restituir el acceso actual y proteger a todos los medios que cubren la Casa Blanca frente a represalias, ahora y en el futuro.'
+lede: Seis ciudadanos presentaron el lunes 26 de octubre de 2026 una demanda ante
+  un tribunal federal de distrito de Nueva York contra Donald Trump, la jefa de gabinete
+  de la Casa Blanca Susie Wiles, el director de Comunicaciones de la Casa Blanca Steven
+  Cheung y el director del Servicio Secreto Sean M. Curran. Sostienen que las restricciones
+  al acceso de medios no solo afectan a organizaciones periodísticas, sino que violan
+  el derecho del público a una cobertura independiente del presidente y su gobierno.
+  La acción pide restituir el acceso actual y una orden que proteja a todos los medios
+  que cubren la Casa Blanca frente a represalias, ahora y en el futuro.
+nut_graf: 'El caso amplía el conflicto sobre el acceso de la prensa a la Casa Blanca
+  al incorporar como demandantes a seis ciudadanos que, en la práctica, representan
+  a las audiencias de los medios informativos. La acción desplaza el enfoque de quienes
+  recopilan noticias hacia quienes las consumen y pide un remedio amplio: restituir
+  el acceso actual y proteger a todos los medios que cubren la Casa Blanca frente
+  a represalias, ahora y en el futuro.'
 primary_entities:
 - Donald Trump
 - Casa Blanca
@@ -65,7 +78,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -172,99 +186,38 @@ related_stories:
   headline: Six plaintiffs challenge White House press bans without seeking damages
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8015
+  strength: 0.8019
 - slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
   headline: Judge blocks Trump from enforcing White House press ban on three outlets
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7073
+  strength: 0.7083
 - slug: 2026-09-21-three-news-outlets-sue-trump-to-restore-white-house-press-credentials
   headline: Three news outlets sue Trump to restore White House press credentials
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7682
+  strength: 0.7684
 - slug: 2026-09-21-cnn-ms-now-and-politico-sue-trump-over-white-house-reporter-ban
   headline: CNN, MS NOW and Politico sue Trump over White House reporter ban
   publish_date: '2026-09-21'
   relation: related
   strength: 0.7651
-- slug: 2026-09-23-doj-argues-white-house-press-access-is-a-privilege-not-a-right
-  headline: DOJ argues White House press access is 'a privilege—not a right'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7435
 - slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
   headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7432
+  strength: 0.744
+- slug: 2026-09-23-doj-argues-white-house-press-access-is-a-privilege-not-a-right
+  headline: DOJ argues White House press access is 'a privilege—not a right'
+  publish_date: '2026-09-23'
+  relation: related
+  strength: 0.7439
 - slug: 2026-09-29-three-news-outlets-ask-court-to-extend-block-on-white-house-press-ban
   headline: Three news outlets ask court to extend block on White House press ban
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7158
-- slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.725
-- slug: 2026-09-27-blanche-white-house-press-access-is-a-privilege-not-a-right
-  headline: 'Blanche: White House press access is ''a privilege, not a right'''
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7071
-- slug: 2026-09-21-cbs-s-jiang-warns-america-cannot-have-state-tv-in-white-house-press-ban-suit
-  headline: CBS's Jiang warns 'America cannot have state TV' in White House press ban suit
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.732
-- slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
-  headline: DoJ tells court White House press access is a privilege, not a right
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7173
-- slug: 2026-09-24-federal-judge-restores-white-house-press-access-for-three-outlets
-  headline: Federal judge restores White House press access for three outlets
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7036
-- slug: 2026-09-23-judge-appears-inclined-to-restore-cnn-ms-now-politico-press-passes
-  headline: Judge appears inclined to restore CNN, MS NOW, Politico press passes
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7073
-- slug: 2026-09-19-trump-defends-press-ban-i-don-t-have-to-let-them-into-the-people-s-house
-  headline: 'Trump defends press ban: ''I don''''t have to let them into the people''''s house'''
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7221
-- slug: 2026-09-24-judge-orders-white-house-to-restore-cnn-ms-now-politico-press-passes
-  headline: Judge orders White House to restore CNN, MS Now, Politico press passes
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7009
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7047
-- slug: 2026-09-24-white-house-bars-cnn-ms-now-and-politico-reporters-after-court-order
-  headline: White House bars CNN, MS NOW and Politico reporters after court order
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6995
-- slug: 2026-09-19-officers-bar-cnn-ms-now-and-politico-reporters-from-white-house
-  headline: Officers bar CNN, MS NOW and Politico reporters from White House
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7185
-- slug: 2026-09-22-wednesday-hearing-set-in-press-lawsuit-as-gop-allies-urge-trump-to-focus-on-vote
-  headline: Wednesday hearing set in press lawsuit as GOP allies urge Trump to focus on voters
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7041
+  strength: 0.7161
 ---
-
 ## Seis ciudadanos buscan una protección judicial más amplia para el acceso de medios a la Casa Blanca
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
 secondary_headline: Lake says voters judge economy through lived experience
 publish_date: '2026-10-27'
-lede: US average hourly earnings rose 3% over the last year while consumer prices increased 3.7%, BBC News reported. A Federal Reserve Bank of New York study found that Trump's April 2025 "Liberation Day" tariffs increased consumer-goods prices by about 2.9%. Democratic pollster Celinda Lake said voters judge inflation through personal experience rather than economic indicators.
-nut_graf: BBC News said the wage-price gap helps explain why polls continue to show voters giving Trump poor marks for his handling of the economy. The report said Trump's political challenge may resemble Biden's in 2024, while Lake said voters assess inflation by whether prices have returned to what they were, not merely whether the rate of increase has slowed.
+lede: US average hourly earnings rose 3% over the last year while consumer prices
+  increased 3.7%, BBC News reported. A Federal Reserve Bank of New York study found
+  that Trump's April 2025 "Liberation Day" tariffs increased consumer-goods prices
+  by about 2.9%. Democratic pollster Celinda Lake said voters judge inflation through
+  personal experience rather than economic indicators.
+nut_graf: BBC News said the wage-price gap helps explain why polls continue to show
+  voters giving Trump poor marks for his handling of the economy. The report said
+  Trump's political challenge may resemble Biden's in 2024, while Lake said voters
+  assess inflation by whether prices have returned to what they were, not merely whether
+  the rate of increase has slowed.
 primary_entities:
 - Donald Trump
 - Joe Biden
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +65,8 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-27'
-  caption: FRED's raw U-3 unemployment rate was 4.2% as of 2026-10-27, adding dated labor-market context to the BBC News reporting.
+  caption: FRED's raw U-3 unemployment rate was 4.2% as of 2026-10-27, adding dated
+    labor-market context to the BBC News reporting.
 figures_aggregate:
   count: 1
   series_ids:
@@ -150,37 +160,32 @@ related_stories:
   headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.769
+  strength: 0.7685
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.759
+  strength: 0.7588
 - slug: 2026-10-20-us-gdp-grew-3-2-since-end-of-2024-faster-than-any-g7-peer
   headline: US GDP grew 3.2% since end of 2024, faster than any G7 peer
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7811
+  strength: 0.781
 - slug: 2026-10-14-us-businesses-absorb-nearly-90-of-tariff-costs-new-york-fed-finds
   headline: US businesses absorb nearly 90% of tariff costs, New York Fed finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7968
+  strength: 0.7969
 - slug: 2026-10-08-new-york-fed-study-ties-2-9-point-inflation-rise-to-trump-tariffs
   headline: New York Fed study ties 2.9-point inflation rise to Trump tariffs
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7879
+  strength: 0.7874
 - slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
   headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7457
-- slug: 2026-10-14-september-inflation-3-7-percent-household-strain
-  headline: US inflation climbs above forecasts to 3.7% as Americans detail strain
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7182
+  strength: 0.7451
 - slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
   headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
   publish_date: '2026-09-28'
@@ -190,64 +195,8 @@ related_stories:
   headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7282
-- slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
-  headline: Fed's preferred inflation gauge rises to three-year high in May
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7454
-- slug: 2026-05-28-key-inflation-gauge-accelerates-to-3-8-in-april-highest-in-three-years
-  headline: Key inflation gauge accelerates to 3.8% in April, highest in three years
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.7577
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7476
-- slug: 2026-06-11-lower-income-households-absorb-higher-effective-inflation-as-cpi-rises-4-2-in-ma
-  headline: Lower-income households absorb higher effective inflation as CPI rises 4.2% in May
-  publish_date: '2026-06-11T00:00:00Z'
-  relation: related
-  strength: 0.7347
-- slug: 2026-05-16-trump-returns-from-chinese-state-visit-to-face-inflation-and-affordability-press
-  headline: Trump returns from Chinese state visit to face inflation and affordability pressure
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7359
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7343
-- slug: 2026-05-13-americans-feel-the-pinch-as-iran-war-fuels-u-s-inflation-via-gasoline
-  headline: Americans feel the pinch as Iran war fuels U.S. inflation via gasoline
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7349
-- slug: 2026-01-12-inflation-cools-in-december-but-stays-above-fed-target-food-prices-rise
-  headline: Inflation cools in December but stays above Fed target; food prices rise
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7548
-- slug: 2026-03-09-trump-s-roaring-economy-hits-rough-start-with-jobs-gas-markets
-  headline: Trump’s ‘roaring’ economy hits rough start with jobs, gas, markets
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7397
-- slug: 2026-05-16-u-s-inflation-hits-3-8-as-iran-war-drives-gas-prices-and-retail-sales-slow
-  headline: U.S. inflation hits 3.8% as Iran war drives gas prices and retail sales slow
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7194
-- slug: 2026-02-05-trump-credits-tariffs-for-growth-fact-check-finds-mixed-results-and-inflation
-  headline: Trump credits tariffs for growth. Fact-check finds mixed results and inflation
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7364
+  strength: 0.7283
 ---
-
 ## Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
 
 **Subtype:** fact

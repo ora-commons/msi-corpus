@@ -1,9 +1,22 @@
 ---
 headline: Koenig's Chekov work draws two science-fiction film nominations
-secondary_headline: Koenig later played Alfred Bester, a Psi Corps telepath, in Babylon 5
+secondary_headline: Koenig later played Alfred Bester, a Psi Corps telepath, in Babylon
+  5
 publish_date: '2026-10-26'
-lede: 'The BBC said US actor Walter Koenig was “arguably more integral to the movies,” citing Academy of Science Fiction, Fantasy & Horror nominations for his work on *The Wrath of Khan* (1982) and *The Voyage Home* (1986). Representatives said Koenig, who played Pavel Chekov in the original *Star Trek* series, died of old age at age 90 at his home in North Hollywood on Sunday night, surrounded by his daughter and niece. The report also documented his work in six original-cast movies from 1979 through 1991, a brief seventh appearance in *Generations* in 1994 and a later voice role in *Star Trek: Picard*.'
-nut_graf: The BBC report highlighted Koenig's film work through Academy nominations for *The Wrath of Khan* and *The Voyage Home*. It also documented his run in six original-cast movies, a brief seventh appearance in *Generations*, his writing for the 1973 animated spin-off and a 2019 convention appearance. His Star Trek co-star George Takei led tributes, describing Koenig as a writer, teacher, thoughtful man and loyal friend.
+lede: 'The BBC said US actor Walter Koenig was “arguably more integral to the movies,”
+  citing Academy of Science Fiction, Fantasy & Horror nominations for his work on
+  *The Wrath of Khan* (1982) and *The Voyage Home* (1986). Representatives said Koenig,
+  who played Pavel Chekov in the original *Star Trek* series, died of old age at age
+  90 at his home in North Hollywood on Sunday night, surrounded by his daughter and
+  niece. The report also documented his work in six original-cast movies from 1979
+  through 1991, a brief seventh appearance in *Generations* in 1994 and a later voice
+  role in *Star Trek: Picard*.'
+nut_graf: The BBC report highlighted Koenig's film work through Academy nominations
+  for *The Wrath of Khan* and *The Voyage Home*. It also documented his run in six
+  original-cast movies, a brief seventh appearance in *Generations*, his writing for
+  the 1973 animated spin-off and a 2019 convention appearance. His Star Trek co-star
+  George Takei led tributes, describing Koenig as a writer, teacher, thoughtful man
+  and loyal friend.
 primary_entities:
 - Walter Koenig
 - Pavel Chekov
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -71,59 +85,8 @@ related_stories:
   headline: Walter Koenig dies at 90; Chekov role spanned 36 episodes and seven films
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8357
-- slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
-  headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5026
-- slug: 2026-09-13-star-trek-turns-60-with-no-new-tv-show-or-film-confirmed
-  headline: Star Trek turns 60 with no new TV show or film confirmed
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5411
-- slug: 2026-09-14-60-minutes-iran-rescue-segment-draws-pentagon-propaganda-criticism
-  headline: 60 Minutes Iran rescue segment draws Pentagon propaganda criticism
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.532
-- slug: 2026-09-14-bob-mackie-designer-of-cher-s-revenge-dress-and-elton-john-s-dodgers-costume-die
-  headline: Bob Mackie, designer of Cher's 'revenge' dress and Elton John's Dodgers costume, dies at 87
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5091
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.509
-- slug: 2026-06-08-lithgow-manville-death-of-a-salesman-win-big-at-tony-awards
-  headline: Lithgow, Manville, Death of a Salesman win big at Tony Awards
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5289
-- slug: 2026-06-01-tom-hanks-says-toy-story-5-tackles-children-s-screen-addiction
-  headline: Tom Hanks says Toy Story 5 tackles children's screen addiction
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5268
-- slug: 2026-05-10-david-attenborough-marks-100th-birthday-as-voice-of-the-natural-world
-  headline: David Attenborough marks 100th birthday as voice of the natural world
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5379
-- slug: 2026-05-10-david-attenborough-to-celebrate-100th-birthday-with-bbc-party-at-royal-albert-ha
-  headline: David Attenborough to celebrate 100th birthday with BBC party at Royal Albert Hall
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5218
-- slug: 2026-04-07-hollywood-crafts-narrative-on-visitors-from-space
-  headline: Hollywood crafts narrative on visitors from space
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5066
+  strength: 0.8366
 ---
-
 ## Koenig's Chekov work draws two science-fiction film nominations
 
 **Subtype:** fact

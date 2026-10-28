@@ -1,9 +1,17 @@
 ---
 headline: Federal Reserve likely to hold rates as inflation stays above target
-secondary_headline: Many Fed watchers expect there could be two or three dissents Wednesday
+secondary_headline: Many Fed watchers expect there could be two or three dissents
+  Wednesday
 publish_date: '2026-10-27'
-lede: Federal Reserve policymakers are likely to keep their key interest rate unchanged Wednesday as they conclude the Oct. 27-28 meeting. Futures prices show almost no chance of a quarter-point increase, while investors and economists plan to examine the statement for clues about the Fed's next moves and inflation outlook. The meeting is the fourth under Chairman Kevin Warsh and comes six days before the midterm elections.
-nut_graf: The stakes extend beyond the current rate of about 3.9%. Mortgage costs have risen sharply, gas and grocery prices remain elevated and further Fed increases could push mortgage rates higher. The statement will also shape expectations for December as investors continue to assess Warsh's independence from Trump.
+lede: Federal Reserve policymakers are likely to keep their key interest rate unchanged
+  Wednesday as they conclude the Oct. 27-28 meeting. Futures prices show almost no
+  chance of a quarter-point increase, while investors and economists plan to examine
+  the statement for clues about the Fed's next moves and inflation outlook. The meeting
+  is the fourth under Chairman Kevin Warsh and comes six days before the midterm elections.
+nut_graf: The stakes extend beyond the current rate of about 3.9%. Mortgage costs
+  have risen sharply, gas and grocery prices remain elevated and further Fed increases
+  could push mortgage rates higher. The statement will also shape expectations for
+  December as investors continue to assess Warsh's independence from Trump.
 primary_entities:
 - Federal Reserve
 - Kevin Warsh
@@ -32,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,116 +140,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-federal-reserve-likely-to-hold-rates-as-inflation-stays-above-target.png
-  alt: 'Illustration accompanying article: Federal Reserve likely to hold rates as inflation stays above target'
+  alt: 'Illustration accompanying article: Federal Reserve likely to hold rates as
+    inflation stays above target'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-24-fed-rate-decision-and-economic-data-arrive-next-week
   headline: Fed rate decision and economic data arrive next week
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7522
+  strength: 0.7519
 - slug: 2026-10-08-fed-september-minutes-stop-short-of-urging-october-rate-hike
   headline: Fed September minutes stop short of urging October rate hike
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7743
+  strength: 0.7738
 - slug: 2026-09-16-federal-reserve-expected-to-raise-benchmark-rate-as-inflation-persists
   headline: Federal Reserve expected to raise benchmark rate as inflation persists
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7611
+  strength: 0.7606
 - slug: 2026-09-16-fed-raises-benchmark-rate-a-quarter-point-to-3-75--4-first-hike-since-2023
-  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since 2023
+  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since
+    2023
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.746
+  strength: 0.7458
 - slug: 2026-09-11-fed-votes-9-3-to-hold-rates-first-three-member-dissent-in-decade
   headline: Fed votes 9-3 to hold rates, first three-member dissent in decade
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7626
+  strength: 0.762
 - slug: 2026-09-16-trump-backs-warsh-as-fed-raises-rates-contacts-depart-from-precedent
   headline: Trump backs Warsh as Fed raises rates; contacts depart from precedent
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7368
-- slug: 2026-09-16-duke-survey-finds-29-of-32-former-fed-officials-back-rate-hike
-  headline: Duke survey finds 29 of 32 former Fed officials back rate hike
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7242
-- slug: 2026-08-19-fed-minutes-show-many-officials-see-rate-hike-if-inflation-persists
-  headline: Fed minutes show many officials see rate hike if inflation persists
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7829
+  strength: 0.7367
 - slug: 2026-08-22-fed-officials-signal-rate-hike-if-inflation-doesn-t-subside
   headline: Fed officials signal rate hike if inflation doesn't subside
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7758
-- slug: 2026-09-03-fed-s-waller-ties-rate-hike-support-to-next-week-s-inflation-report
-  headline: Fed's Waller ties rate-hike support to next week's inflation report
-  publish_date: '2026-09-03'
+  strength: 0.7754
+- slug: 2026-08-19-fed-minutes-show-many-officials-see-rate-hike-if-inflation-persists
+  headline: Fed minutes show many officials see rate hike if inflation persists
+  publish_date: '2026-08-19'
   relation: related
-  strength: 0.7345
-- slug: 2026-07-28-fed-chair-warsh-faces-pressure-to-hike-rates-as-inflation-holds-above-target
-  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above target
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.8145
-- slug: 2026-08-04-warsh-points-to-market-tightening-as-fomc-holds-rates-despite-inflation
-  headline: Warsh points to market tightening as FOMC holds rates despite inflation
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7737
-- slug: 2026-07-14-warsh-says-fed-has-no-tolerance-for-high-inflation-offers-no-rate-path
-  headline: Warsh says Fed has 'no tolerance' for high inflation, offers no rate path
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7807
-- slug: 2026-07-08-warsh-era-fed-minutes-reveal-stark-division-on-rate-path
-  headline: Warsh-era Fed minutes reveal stark division on rate path
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7615
-- slug: 2026-06-17-warsh-leads-first-fed-meeting-as-inflation-holds-above-target
-  headline: Warsh leads first Fed meeting as inflation holds above target
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7683
-- slug: 2026-04-26-warsh-edges-closer-to-becoming-fed-chair-but-rate-cut-may-still-wait
-  headline: Warsh edges closer to becoming Fed chair but rate cut may still wait
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7805
-- slug: 2026-01-26-fed-expected-to-hold-rates-steady-as-powell-shifts-back-to-economics
-  headline: Fed expected to hold rates steady as Powell shifts back to economics
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7937
-- slug: 2026-01-29-fed-holds-rates-steady-as-powell-cites-improved-economy-tariff-inflation
-  headline: Fed holds rates steady as Powell cites improved economy, tariff inflation
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7798
-- slug: 2026-03-19-fed-holds-key-rate-as-powell-says-he-ll-stay-through-doj-probe
-  headline: Fed holds key rate as Powell says he’ll stay through DOJ probe
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7667
-- slug: 2026-04-30-senate-banking-advances-kevin-warsh-to-lead-fed-on-13-11-party-line-vote
-  headline: Senate Banking advances Kevin Warsh to lead Fed, on 13-11 party-line vote
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7436
+  strength: 0.7822
 ---
-
 ## Federal Reserve likely to hold rates as inflation stays above target
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Totomboti teaches woodcraft as mining and logging strain Suriname's forest
 secondary_headline: Mining offers cash, but injury and forest loss shape Saamaka choices
 publish_date: '2026-10-26'
-lede: Gold mining and logging are drawing Saamaka men away from tembe woodcarving while damaging a forest that supplies wood, food and resources central to Saamaka cultural traditions. In the village of Piki Seei, Alingo Doekoe and Josasath Liefde described the economic strain, while carvers associated with the Totomboti collective have arranged lessons for local children. An Associated Press report published Oct. 26, 2026, documents the effort to preserve both the craft and the forest.
-nut_graf: Mining offers a route to cash for some Saamaka men, but one miner described losing an arm in a gold mine and Liefde said some young men who left the village for work have died. Doekoe said tourism and sales to foreign visitors can encourage artists to remain in their communities. He also said mining and logging are transforming waterways and destroying conditions needed for forest regeneration.
+lede: Gold mining and logging are drawing Saamaka men away from tembe woodcarving
+  while damaging a forest that supplies wood, food and resources central to Saamaka
+  cultural traditions. In the village of Piki Seei, Alingo Doekoe and Josasath Liefde
+  described the economic strain, while carvers associated with the Totomboti collective
+  have arranged lessons for local children. An Associated Press report published Oct.
+  26, 2026, documents the effort to preserve both the craft and the forest.
+nut_graf: Mining offers a route to cash for some Saamaka men, but one miner described
+  losing an arm in a gold mine and Liefde said some young men who left the village
+  for work have died. Doekoe said tourism and sales to foreign visitors can encourage
+  artists to remain in their communities. He also said mining and logging are transforming
+  waterways and destroying conditions needed for forest regeneration.
 primary_entities:
 - Alingo Doekoe
 - Josasath Liefde
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +151,8 @@ cross_article_links:
   strength: 0.5336
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-26-saamaka-communities-map-suriname-forests-to-document-logging-and-mining
-  headline: Saamaka communities map Suriname forests to document logging and mining
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6422
-- slug: 2026-08-25-tribes-drive-mining-company-from-sacred-black-hills-prairie
-  headline: Tribes drive mining company from sacred Black Hills prairie
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.547
-- slug: 2026-07-23-kaua-i-subsistence-fishermen-feed-families-with-traditional-throwing-net-methods
-  headline: Kauaʻi subsistence fishermen feed families with traditional throwing-net methods
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5529
-- slug: 2026-06-18-gold-exploration-approved-near-lone-pine-pitting-miners-against-tribes-and-envir
-  headline: Gold exploration approved near Lone Pine, pitting miners against tribes and environmentalists
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5613
-- slug: 2026-05-18-kenya-s-hired-mourners-help-grievers-express-loss-in-traditional-rites
-  headline: Kenya’s hired mourners help grievers express loss in traditional rites
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5797
-- slug: 2026-05-12-motherly-affection-at-congo-sanctuary-helps-orphan-bonobos-survive
-  headline: Motherly affection at Congo sanctuary helps orphan bonobos survive
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5718
-- slug: 2026-05-18-how-professional-mourners-aid-the-grieving-in-kenya
-  headline: How professional mourners aid the grieving in Kenya
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5677
-- slug: 2026-05-31-rising-lake-turkana-waters-displace-communities-and-threaten-kenya-s-el-molo
-  headline: Rising Lake Turkana waters displace communities and threaten Kenya's El Molo
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5596
-- slug: 2026-06-24-in-the-ebola-epicenter-a-gold-mining-town-reacts-with-fear-disbelief-and-grit
-  headline: In the Ebola epicenter, a gold-mining town reacts with fear, disbelief and grit
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5396
-- slug: 2026-04-11-in-congo-some-say-an-unconventional-church-could-help-the-nation
-  headline: In Congo, some say an unconventional church could help the nation
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5744
-- slug: 2026-05-12-lola-ya-bonobo-sanctuary-fosters-orphaned-apes-rescued-from-congo-poachers
-  headline: Lola Ya Bonobo sanctuary fosters orphaned apes rescued from Congo poachers
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5625
-- slug: 2026-05-11-southeast-alaskans-weigh-in-on-draft-tongass-plan-shaping-timber-mining
-  headline: Southeast Alaskans weigh in on draft Tongass plan shaping timber, mining
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5616
-- slug: 2026-04-30-toxic-rare-earth-mining-is-poisoning-the-mekong-threatening-global-food
-  headline: Toxic rare earth mining is poisoning the Mekong, threatening global food
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5591
-- slug: 2026-05-11-tongass-plan-revision-draws-criticism-over-timeline-old-growth-protections
-  headline: Tongass plan revision draws criticism over timeline, old-growth protections
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5524
-- slug: 2026-05-17-indigenous-leaders-decry-us-border-wall-work-desecrating-sacred-sites
-  headline: Indigenous leaders decry US border-wall work desecrating sacred sites
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.545
-- slug: 2026-04-26-volunteers-in-newport-rhode-island-plant-native-trees-to-boost-equity
-  headline: Volunteers in Newport, Rhode Island plant native trees to boost equity
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5511
-- slug: 2026-04-01-zen-center-in-california-s-tassajara-mountains-burns-in-attic-blaze
-  headline: Zen center in California’s Tassajara Mountains burns in attic blaze
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5527
-- slug: 2026-04-09-newcomers-arrive-and-amazon-forests-are-cleared-as-brazil-explores-for-oil
-  headline: Newcomers arrive and Amazon forests are cleared as Brazil explores for oil
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5493
-- slug: 2026-03-14-young-people-turn-to-analog-hobbies-to-get-off-their-phones
-  headline: Young people turn to analog hobbies to get off their phones
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.5483
-- slug: 2026-04-07-custom-fit-demand-rises-but-fewer-tailors-are-left-to-do-the-work
-  headline: Custom-fit demand rises, but fewer tailors are left to do the work
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5429
+related_stories: []
 ---
-
 ## Totomboti teaches woodcraft as mining and logging strain Suriname's forest
 
 **Subtype:** fact

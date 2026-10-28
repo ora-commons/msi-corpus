@@ -1,9 +1,25 @@
 ---
 headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
-secondary_headline: Federal judge had ruled the Justice Department unlawfully fired Maurene Comey
+secondary_headline: Federal judge had ruled the Justice Department unlawfully fired
+  Maurene Comey
 publish_date: '2026-10-27'
-lede: 'President Donald Trump said late Monday that he knew little about the Justice Department''s third set of federal charges against former FBI Director James Comey and called him a "dirty cop." Asked by reporters after the charges were unsealed, Trump said, "I don''t know too much about it. I just heard about it," and added: "I think he''s a dirty cop, James Comey, but I know nothing about it." The Justice Department''s charges were unsealed Monday in U.S. District Court in Washington, D.C., only hours after a federal judge ruled that the department unlawfully fired Maurene Comey from her position as an assistant U.S. attorney for the Southern District of New York. Comey''s attorney Patrick Fitzgerald said the Oct. 5 filing was not approved by a judge or issued by a grand jury, and defense attorneys filed a motion to dismiss the charges last week.'
-nut_graf: Trump's late-Monday remarks were his response to federal charges the Justice Department unsealed that day, only hours after a separate ruling that the department unlawfully fired Maurene Comey. Federal prosecutors used a criminal information rather than a grand jury indictment to toll the statute of limitations. Defense attorneys filed a motion to dismiss last week. Fitzgerald said the information was neither approved by a judge nor issued by a grand jury.
+lede: 'President Donald Trump said late Monday that he knew little about the Justice
+  Department''s third set of federal charges against former FBI Director James Comey
+  and called him a "dirty cop." Asked by reporters after the charges were unsealed,
+  Trump said, "I don''t know too much about it. I just heard about it," and added:
+  "I think he''s a dirty cop, James Comey, but I know nothing about it." The Justice
+  Department''s charges were unsealed Monday in U.S. District Court in Washington,
+  D.C., only hours after a federal judge ruled that the department unlawfully fired
+  Maurene Comey from her position as an assistant U.S. attorney for the Southern District
+  of New York. Comey''s attorney Patrick Fitzgerald said the Oct. 5 filing was not
+  approved by a judge or issued by a grand jury, and defense attorneys filed a motion
+  to dismiss the charges last week.'
+nut_graf: Trump's late-Monday remarks were his response to federal charges the Justice
+  Department unsealed that day, only hours after a separate ruling that the department
+  unlawfully fired Maurene Comey. Federal prosecutors used a criminal information
+  rather than a grand jury indictment to toll the statute of limitations. Defense
+  attorneys filed a motion to dismiss last week. Fitzgerald said the information was
+  neither approved by a judge nor issued by a grand jury.
 primary_entities:
 - James Comey
 - Maurene Comey
@@ -44,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +159,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-in-third-justice-department-prosecution
+  headline: Trump calls James Comey a “dirty cop” in third Justice Department prosecution
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8411
 - slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
   headline: James Comey remains unindicted after defense filed dismissal motion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8169
+  strength: 0.8166
 - slug: 2026-10-26-federal-prosecutors-charge-james-comey-with-leaking-national-defense-information
   headline: Federal prosecutors charge James Comey with leaking national defense information
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8009
+  strength: 0.8002
 - slug: 2026-10-26-justice-department-charges-james-comey-over-alleged-2016-leak
   headline: Justice Department charges James Comey over alleged 2016 leak
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7886
+  strength: 0.7881
 - slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
-  headline: Justice Department spokeswoman says waiverless filing extended 10-year deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7773
+  strength: 0.777
 - slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
   headline: Prosecutors say Comey sought to correct Reuters misinformation
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7618
+  strength: 0.7611
 - slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
   headline: Justice Department says Pam Bondi decided Maurene Comey's firing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7173
+  strength: 0.7178
 - slug: 2026-10-26-justice-department-plans-appeal-after-judge-finds-comey-eligible-for-backpay
   headline: Justice Department plans appeal after judge finds Comey eligible for backpay
   publish_date: '2026-10-26'
   relation: related
   strength: 0.7131
-- slug: 2026-10-26-federal-judge-rules-maurene-comey-s-firing-unlawful
-  headline: Federal judge rules Maurene Comey's firing unlawful
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7113
-- slug: 2026-10-26-judge-orders-justice-department-to-reinstate-maurene-comey
-  headline: Judge orders Justice Department to reinstate Maurene Comey
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7056
-- slug: 2026-10-26-furman-finds-due-process-violation-calls-for-comey-back-pay-possible-return
-  headline: Furman finds due process violation, calls for Comey back pay, possible return
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.69
-- slug: 2026-10-26-yahoo-email-scan-order-links-renewed-comey-case-to-2016-disclosure
-  headline: Yahoo email-scan order links renewed Comey case to 2016 disclosure
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6809
-- slug: 2026-08-19-prosecutors-say-comey-seashell-post-could-be-read-as-trump-threat
-  headline: Prosecutors say Comey seashell post could be read as Trump threat
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6638
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6772
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6742
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.693
-- slug: 2026-05-31-lead-prosecutor-leaves-james-comey-case-without-explanation
-  headline: Lead prosecutor leaves James Comey case without explanation
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6699
-- slug: 2026-04-29-judge-lets-maurene-comey-wrongful-firing-lawsuit-proceed-against-trump
-  headline: Judge lets Maurene Comey wrongful-firing lawsuit proceed against Trump
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6843
-- slug: 2026-05-22-trump-says-he-may-release-tax-returns-after-justice-department-deal
-  headline: Trump says he may release tax returns after Justice Department deal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6686
-- slug: 2026-04-03-trump-removes-pam-bondi-as-attorney-general-names-todd-blanche-acting
-  headline: Trump removes Pam Bondi as attorney general, names Todd Blanche acting
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6786
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6697
 ---
-
 ## Trump calls James Comey a 'dirty cop' and says he just heard of charges
 
 **Subtype:** fact

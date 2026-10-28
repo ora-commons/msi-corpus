@@ -1,9 +1,26 @@
 ---
 headline: White House spokesperson calls Trump greatest president for Catholic Americans
-secondary_headline: BBC News reported the administration did not answer questions about the meeting
+secondary_headline: BBC News reported the administration did not answer questions
+  about the meeting
 publish_date: '2026-10-26'
-lede: The White House did not directly address questions about an Oval Office meeting where President Donald Trump and 12 archbishops and bishops prayed, BBC News reported. White House spokesperson Taylor Rogers said in a statement that there has never been a greater president for Catholic Americans than President Donald Trump. Bishop William Joensen of Des Moines, Iowa, said he regarded the invitation as a distinct opportunity to bring the Gospel and the Church's teachings to bear on contemporary matters that impact people in his diocese and beyond, and Archbishop Jeffrey Grob of Milwaukee said he felt a heavy sadness that something so sacred to a group of religious leaders had been manipulated.
-nut_graf: The bishops' statements place the account of how the Oval Office prayer was arranged in public dispute less than two weeks before the midterms, with participating bishops saying they did not seek to endorse Trump or any candidate. Grob said the meeting was in no way an endorsement of the president, his politics or his party; Joensen said no participant intended by taking part to endorse any political party or any individual candidate; and Denver Archbishop James Golka said he did not intend his participation as an endorsement of Trump. The White House released photographs and video of the prayer on Thursday, and BBC News reported that the administration did not directly address questions about the meeting or the bishops' concerns.
+lede: The White House did not directly address questions about an Oval Office meeting
+  where President Donald Trump and 12 archbishops and bishops prayed, BBC News reported.
+  White House spokesperson Taylor Rogers said in a statement that there has never
+  been a greater president for Catholic Americans than President Donald Trump. Bishop
+  William Joensen of Des Moines, Iowa, said he regarded the invitation as a distinct
+  opportunity to bring the Gospel and the Church's teachings to bear on contemporary
+  matters that impact people in his diocese and beyond, and Archbishop Jeffrey Grob
+  of Milwaukee said he felt a heavy sadness that something so sacred to a group of
+  religious leaders had been manipulated.
+nut_graf: The bishops' statements place the account of how the Oval Office prayer
+  was arranged in public dispute less than two weeks before the midterms, with participating
+  bishops saying they did not seek to endorse Trump or any candidate. Grob said the
+  meeting was in no way an endorsement of the president, his politics or his party;
+  Joensen said no participant intended by taking part to endorse any political party
+  or any individual candidate; and Denver Archbishop James Golka said he did not intend
+  his participation as an endorsement of Trump. The White House released photographs
+  and video of the prayer on Thursday, and BBC News reported that the administration
+  did not directly address questions about the meeting or the bishops' concerns.
 primary_entities:
 - Jeffrey Grob
 - William Joensen
@@ -40,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +160,18 @@ related_stories:
   headline: Two Catholic bishops fault White House over Trump prayer photos
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.802
+  strength: 0.803
 - slug: 2026-10-26-two-catholic-bishops-regret-white-house-release-of-oval-office-prayer
   headline: Two Catholic bishops regret White House release of Oval Office prayer
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7948
+  strength: 0.7942
 - slug: 2026-10-26-pew-finds-30-of-us-catholics-approve-of-trump-s-job-performance
   headline: Pew finds 30% of US Catholics approve of Trump's job performance
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7474
-- slug: 2026-10-03-mariann-budde-to-resign-as-episcopal-bishop-of-washington-dc
-  headline: Mariann Budde to resign as Episcopal bishop of Washington DC
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6156
-- slug: 2026-09-03-trump-ranks-himself-greatest-president-historians-rank-him-last
-  headline: Trump ranks himself greatest president; historians rank him last
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.595
-- slug: 2026-05-17-trump-administration-officials-join-christian-prayer-service-on-national-mall
-  headline: Trump administration officials join Christian prayer service on National Mall
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6456
-- slug: 2026-04-14-many-us-catholics-dismayed-by-trump-s-verbal-attack-on-pope-leo
-  headline: Many US Catholics dismayed by Trump’s verbal attack on Pope Leo
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6476
-- slug: 2026-06-26-trump-paints-democrats-as-godless-communists-in-midterm-preview
-  headline: Trump paints Democrats as 'godless communists' in midterm preview
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5983
-- slug: 2026-04-14-trump-refuses-to-apologize-to-pope-leo-after-iran-war-criticism
-  headline: Trump refuses to apologize to Pope Leo after Iran-war criticism
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6296
-- slug: 2026-05-15-trump-administration-joins-prayer-gathering-denounced-as-christian-nationalism
-  headline: Trump administration joins prayer gathering denounced as Christian nationalism
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6179
-- slug: 2026-04-14-trump-refuses-to-apologize-to-pope-leon-xiv-amid-iran-war-tensions
-  headline: Trump refuses to apologize to Pope Leon XIV amid Iran war tensions
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6259
-- slug: 2026-04-26-trump-calls-for-unity-after-third-attempt-but-will-the-tone-last
-  headline: Trump calls for unity after third attempt. But will the tone last?
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6198
-- slug: 2026-05-15-trump-administration-to-join-rededicate-250-prayer-event-on-national-mall
-  headline: Trump administration to join “Rededicate 250” prayer event on National Mall
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.612
-- slug: 2026-04-15-trump-clashes-with-pope-leo-xiv-over-iran-war-peace-appeals
-  headline: Trump clashes with Pope Leo XIV over Iran war, peace appeals
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6194
-- slug: 2026-05-06-trump-renews-criticism-of-pope-leo-threatening-rubio-s-vatican-diplomacy
-  headline: Trump renews criticism of Pope Leo, threatening Rubio’s Vatican diplomacy
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6061
-- slug: 2026-05-25-npr-explores-christian-nationalism-s-growing-influence-on-u-s-government
-  headline: Christian nationalism’s growing influence on U.S. government
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5941
-- slug: 2026-03-18-trump-says-predecessor-regretted-not-attacking-iran-former-presidents-deny-conta
-  headline: Trump says predecessor regretted not attacking Iran; former presidents deny contact
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6157
-- slug: 2026-05-10-pope-leo-xiv-marks-first-year-as-pastor-not-drama-after-trump-sparring
-  headline: Pope Leo XIV marks first year as pastor, not drama, after Trump sparring
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5994
-- slug: 2026-04-11-trump-and-pope-leo-xiv-at-odds-over-iran-war-amid-ceasefire
-  headline: Trump and Pope Leo XIV at odds over Iran war amid ceasefire
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6082
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5996
+  strength: 0.7494
 ---
-
 ## White House spokesperson calls Trump greatest president for Catholic Americans
 
 **Subtype:** fact

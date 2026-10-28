@@ -2,8 +2,19 @@
 headline: Millions of young voters can register on election day in 22 states and DC
 secondary_headline: Only 45% of 18-year-olds are registered nationwide
 publish_date: '2026-10-27'
-lede: With the Nov. 3 midterm election about a week away, Laura W Brill says eligible voters in 22 states and Washington DC can register on election day. The Civics Center founder estimates that 1.7 million 18-year-olds live in those jurisdictions, with almost half not yet registered. In California, she estimates more than 1 million Californians ages 18 to 24 who have not yet registered and are therefore not in the voter file can still vote on election day or during early voting without registering in advance. Brill said the Civics Center's mission is to make voter registration a core part of high school.
-nut_graf: The registration rules create a final opportunity for unregistered 18-year-olds to participate, even as campaign mailings largely reach voters already in voter files. Brill's voter-file analysis links same-day registration with higher turnout, while her broader recommendation is to rebuild systems that bring younger voters into the process before future election cycles.
+lede: With the Nov. 3 midterm election about a week away, Laura W Brill says eligible
+  voters in 22 states and Washington DC can register on election day. The Civics Center
+  founder estimates that 1.7 million 18-year-olds live in those jurisdictions, with
+  almost half not yet registered. In California, she estimates more than 1 million
+  Californians ages 18 to 24 who have not yet registered and are therefore not in
+  the voter file can still vote on election day or during early voting without registering
+  in advance. Brill said the Civics Center's mission is to make voter registration
+  a core part of high school.
+nut_graf: The registration rules create a final opportunity for unregistered 18-year-olds
+  to participate, even as campaign mailings largely reach voters already in voter
+  files. Brill's voter-file analysis links same-day registration with higher turnout,
+  while her broader recommendation is to rebuild systems that bring younger voters
+  into the process before future election cycles.
 primary_entities:
 - Laura W Brill
 - Civics Center
@@ -37,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +147,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6919
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6984
+  strength: 0.699
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6918
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6857
+  strength: 0.686
 - slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
   headline: Monthslong California voter-roll dispute precedes DOJ emergency request
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6658
+  strength: 0.6656
 - slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6525
+  strength: 0.6522
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6664
+  strength: 0.6662
 - slug: 2026-10-23-stewart-attributes-early-voting-surge-to-enthusiasm-and-spending-to-encourage-ea
-  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage early voting
+  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage
+    early voting
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6648
+  strength: 0.665
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6826
-- slug: 2026-10-22-voters-will-decide-mail-ballot-identification-measures-in-california-colorado-an
-  headline: Voters will decide mail-ballot identification measures in California, Colorado and Nevada
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6616
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6711
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6546
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6629
-- slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
-  headline: Young voters split on gun control despite shared fear of mass shootings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6794
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6544
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6625
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6494
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6544
-- slug: 2026-06-21-millions-of-18-year-olds-go-unregistered-to-vote-each-year-analysis-finds
-  headline: Millions of 18-year-olds go unregistered to vote each year, analysis finds
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.8321
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6575
-- slug: 2026-09-09-democratic-aligned-groups-court-gen-z-voters-with-donuts-and-block-parties
-  headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6705
+  strength: 0.6823
 ---
-
 ## Millions of young voters can register on election day in 22 states and DC
 
 **Subtype:** fact

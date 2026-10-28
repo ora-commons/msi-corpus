@@ -1,9 +1,19 @@
 ---
-headline: Consumer frustration spans higher prices and perceived artificial intelligence pricing
-secondary_headline: Restaurant chains and major retailers use pricing methods shoppers call new
+headline: Consumer frustration spans higher prices and perceived artificial intelligence
+  pricing
+secondary_headline: Restaurant chains and major retailers use pricing methods shoppers
+  call new
 publish_date: '2026-10-26'
-lede: 'The Associated Press reported on October 26, 2026, that Americans have become frustrated with higher prices and with what they perceive to be new methods used by restaurant chains and major retailers in setting prices, including the use of artificial intelligence tools. The report described two subjects of that frustration: the level of prices, and the methods used to arrive at them.'
-nut_graf: The AP's account of consumer frustration appeared in the same report that described a federal complaint against Dollar General. The FTC alleged that the chain charged customers more at the register than the prices displayed on shelves and in advertisements. Twenty states joined the complaint in the U.S. District Court for the Middle District of Tennessee.
+lede: 'The Associated Press reported on October 26, 2026, that Americans have become
+  frustrated with higher prices and with what they perceive to be new methods used
+  by restaurant chains and major retailers in setting prices, including the use of
+  artificial intelligence tools. The report described two subjects of that frustration:
+  the level of prices, and the methods used to arrive at them.'
+nut_graf: The AP's account of consumer frustration appeared in the same report that
+  described a federal complaint against Dollar General. The FTC alleged that the chain
+  charged customers more at the register than the prices displayed on shelves and
+  in advertisements. Twenty states joined the complaint in the U.S. District Court
+  for the Middle District of Tennessee.
 primary_entities:
 - Associated Press
 - Federal Trade Commission
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +151,45 @@ related_stories:
   headline: FTC and 20 states sue Dollar General over alleged register overcharges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8171
+  strength: 0.8167
+- slug: 2026-10-26-ftc-cites-more-than-4-300-failed-dollar-general-price-accuracy-inspections
+  headline: FTC cites more than 4,300 failed Dollar General price-accuracy inspections
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7946
 - slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
   headline: Shoppers question AI pricing amid company denials and state restrictions
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7936
+  strength: 0.7929
 - slug: 2026-10-22-dollar-general-agrees-to-new-york-overcharge-settlement-with-price-safeguards
   headline: Dollar General agrees to New York overcharge settlement with price safeguards
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6745
+  strength: 0.6743
 - slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
   headline: McDonald's faces federal lawsuit over AI pricing tool
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7609
+  strength: 0.7603
 - slug: 2026-10-21-consumer-reports-finds-81-of-respondents-in-same-house-for-3-years-report-higher
-  headline: Consumer Reports finds 81% of respondents in same house for 3+ years report higher electricity bills
+  headline: Consumer Reports finds 81% of respondents in same house for 3+ years report
+    higher electricity bills
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6547
+  strength: 0.6544
 - slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+    probe
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.719
+  strength: 0.7182
 - slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
   headline: Inflation broadens beyond energy as AI buildout lifts computer prices
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6581
-- slug: 2026-10-14-september-inflation-3-7-percent-household-strain
-  headline: US inflation climbs above forecasts to 3.7% as Americans detail strain
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6514
-- slug: 2026-09-30-ftc-opens-investigation-of-anthropic-and-openai-over-consumer-harm-claims
-  headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6609
-- slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6828
-- slug: 2026-08-31-ftc-and-22-states-sue-amazon-alleging-ad-bid-manipulation-overcharged-sellers
-  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged sellers
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7183
-- slug: 2026-09-09-afl-cio-report-electronic-shelf-labels-could-cost-up-to-191-633-grocery-jobs
-  headline: 'AFL-CIO report: electronic shelf labels could cost up to 191,633 grocery jobs'
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6712
-- slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
-  headline: Most tariff refunds flow to businesses as consumer repayment lags
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6514
-- slug: 2026-08-19-ftc-proposes-policy-on-companies-that-vary-prices-using-shopper-data
-  headline: FTC proposes policy on companies that vary prices using shopper data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.671
-- slug: 2026-07-30-report-finds-ai-shopping-chatbots-from-amazon-walmart-give-inconsistent-made-in-
-  headline: Report finds AI shopping chatbots from Amazon, Walmart give inconsistent 'Made in USA' product data
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6805
-- slug: 2026-07-21-amazon-tactics-inflate-prices-across-internet-emails-show
-  headline: Amazon tactics inflate prices across internet, emails show
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6837
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7268
-- slug: 2026-06-22-california-drivers-sue-gas-stations-over-ai-powered-price-fixing
-  headline: California drivers sue gas stations over AI-powered price fixing
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7099
-- slug: 2026-07-25-grocery-prices-up-33-since-2019-as-shoppers-change-buying-habits
-  headline: Grocery prices up 33% since 2019 as shoppers change buying habits
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6691
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.693
+  strength: 0.6571
 ---
-
 ## Consumer frustration spans higher prices and perceived artificial intelligence pricing
 
 **Subtype:** fact

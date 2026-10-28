@@ -2,8 +2,19 @@
 headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
 secondary_headline: Proposed 5% share fund could aid nonprofits or AI-affected groups
 publish_date: '2026-10-26'
-lede: Anthropic expanded its Claude support for nonprofits on Monday, even as the artificial intelligence company filed to sell shares to the public for the first time. The maker of the Claude assistant said the moves, including a plugin built with 30 nonprofits and a proposed public benefit fund, were part of a broader strategy for "compounding good."
-nut_graf: Anthropic's nonprofit expansion arrives with the company's first public stock filing and a proposal to commit 5% of its shares to a public benefit fund, sharpening questions about how a public benefit corporation weighs commercial interests, charitable giving and the public interest. Critics said nonprofit pledges can generate goodwill amid concern about AI's dangers and effects on jobs, and Bella DeVaan of the Institute for Policy Studies said public benefit corporations lack a guarantee of acting in the public interest without tax reform and stronger limits on billionaire power.
+lede: Anthropic expanded its Claude support for nonprofits on Monday, even as the
+  artificial intelligence company filed to sell shares to the public for the first
+  time. The maker of the Claude assistant said the moves, including a plugin built
+  with 30 nonprofits and a proposed public benefit fund, were part of a broader strategy
+  for "compounding good."
+nut_graf: Anthropic's nonprofit expansion arrives with the company's first public
+  stock filing and a proposal to commit 5% of its shares to a public benefit fund,
+  sharpening questions about how a public benefit corporation weighs commercial interests,
+  charitable giving and the public interest. Critics said nonprofit pledges can generate
+  goodwill amid concern about AI's dangers and effects on jobs, and Bella DeVaan of
+  the Institute for Policy Studies said public benefit corporations lack a guarantee
+  of acting in the public interest without tax reform and stronger limits on billionaire
+  power.
 primary_entities:
 - Anthropic
 - Claude
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +158,45 @@ related_stories:
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7647
+  strength: 0.7649
 - slug: 2026-10-26-anthropic-reports-321-4bn-in-data-center-leasing-costs-so-far-this-year
   headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7563
+  strength: 0.7567
+- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
+  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.755
 - slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7475
+  strength: 0.7491
+- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7428
+- slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
+  headline: Anthropic's IPO filing details compute, customer and data-center risks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7173
+- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
+  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time
+    charge
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7168
 - slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
   headline: Anthropic says AI research could outpace model safeguards
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7071
-- slug: 2026-10-26-anthropic-confirms-claude-bypassed-a-paywall-to-reach-georgia-voter-data
-  headline: Anthropic confirms Claude bypassed a paywall to reach Georgia voter data
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7029
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7284
-- slug: 2026-10-08-openai-narrows-anthropic-lead-in-business-ai-spending-ahead-of-dual-ipos
-  headline: OpenAI narrows Anthropic lead in business AI spending ahead of dual IPOs
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7442
-- slug: 2026-09-11-anthropic-says-it-disrupted-attempts-to-use-claude-for-biological-weapons
-  headline: Anthropic says it disrupted attempts to use Claude for biological weapons
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7043
-- slug: 2026-09-16-microsoft-ai-head-warns-anthropic-claude-training-risks-disastrous-harm
-  headline: Microsoft AI head warns Anthropic Claude training risks 'disastrous' harm
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6862
-- slug: 2026-06-11-anthropic-launches-150m-claude-corps-to-embed-ai-fellows-at-nonprofits
-  headline: Anthropic launches $150M Claude Corps to embed AI fellows at nonprofits
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8135
-- slug: 2026-06-09-anthropic-releases-claude-fable-5-an-ai-tool-it-had-called-too-powerful-for-the-
-  headline: Anthropic releases Claude Fable 5, an AI tool it had called too powerful for the public
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7682
-- slug: 2026-05-29-anthropic-vaults-to-965b-valuation-on-65b-funding-as-claude-demand-surges
-  headline: Anthropic vaults to $965B valuation on $65B funding as Claude demand surges
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.7616
-- slug: 2026-06-10-anthropic-invests-200m-to-study-ai-s-impact-on-jobs-and-economy
-  headline: Anthropic invests $200M to study AI’s impact on jobs and economy
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7226
-- slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
-  headline: Anthropic commits $100 billion to Amazon cloud platform over decade
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.7459
-- slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
-  headline: Anthropic sued over usage limits on premium AI subscription plans
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7174
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6893
-- slug: 2026-04-23-anthropic-tells-appeals-court-it-can-t-alter-claude-in-classified-networks
-  headline: Anthropic tells appeals court it can’t alter Claude in classified networks
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7349
-- slug: 2026-06-09-anthropic-releases-claude-fable-5-to-general-public-with-safety-guardrails
-  headline: Anthropic releases Claude Fable 5 to general public with safety guardrails
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7113
-- slug: 2026-06-05-anthropic-urges-industry-coordination-to-pause-advanced-ai-development
-  headline: Anthropic urges industry coordination to pause advanced AI development
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7102
-- slug: 2026-02-13-anthropic-hits-a-380b-valuation-as-it-heightens-rivalry-with-openai
-  headline: Anthropic hits a $380B valuation as it heightens rivalry with OpenAI
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.736
+  strength: 0.7081
 ---
-
 ## Anthropic expands Claude tools for nonprofits while pursuing an IPO
 
 **Subtype:** fact

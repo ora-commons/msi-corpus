@@ -2,8 +2,19 @@
 headline: Japan's government registers "strong" protest over Okinawa killing case
 secondary_headline: Some 100 people demonstrated in Naha and Tokyo earlier this month
 publish_date: '2026-10-26'
-lede: Prime Minister Sanae Takaichi said Japan's government had registered a "strong" protest with the US over the case involving the alleged killing of Anna Yagi by a US Marine in Naha, Okinawa. Takaichi called for "strict disciplinary action against US military personnel and thorough measures to prevent a recurrence of such incidents." Some 100 people protested in both Naha and Tokyo earlier this month, while others took to social media to express outrage and demand justice; one user wrote, "Enough is enough."
-nut_graf: Prime Minister Sanae Takaichi said Japan's government had registered a "strong" protest with the US over the case, and she called for strict military discipline; Japanese prosecutors have indicted Devin Jacob Ballard on suspicion of murdering and robbing Anna Yagi. The case is the latest involving a US serviceman in Okinawa, which hosts the highest concentration of around 55,000 US soldiers stationed in Japan.
+lede: Prime Minister Sanae Takaichi said Japan's government had registered a "strong"
+  protest with the US over the case involving the alleged killing of Anna Yagi by
+  a US Marine in Naha, Okinawa. Takaichi called for "strict disciplinary action against
+  US military personnel and thorough measures to prevent a recurrence of such incidents."
+  Some 100 people protested in both Naha and Tokyo earlier this month, while others
+  took to social media to express outrage and demand justice; one user wrote, "Enough
+  is enough."
+nut_graf: Prime Minister Sanae Takaichi said Japan's government had registered a "strong"
+  protest with the US over the case, and she called for strict military discipline;
+  Japanese prosecutors have indicted Devin Jacob Ballard on suspicion of murdering
+  and robbing Anna Yagi. The case is the latest involving a US serviceman in Okinawa,
+  which hosts the highest concentration of around 55,000 US soldiers stationed in
+  Japan.
 primary_entities:
 - Sanae Takaichi
 - Devin Jacob Ballard
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +160,44 @@ related_stories:
   headline: Footage-linked U.S. Marine arrest follows Naha hotel killing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8445
+  strength: 0.8429
 - slug: 2026-10-25-u-s-marine-indicted-for-okinawa-hotel-killing-and-robbery
   headline: U.S. Marine indicted for Okinawa hotel killing and robbery
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8096
+  strength: 0.8102
 - slug: 2026-10-04-japan-lodges-protest-after-us-marine-accused-of-okinawa-killing
   headline: Japan lodges protest after US Marine accused of Okinawa killing
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.888
+  strength: 0.8878
 - slug: 2026-10-05-okinawa-resident-urges-takaichi-to-call-trump-after-us-marine-arrest
   headline: Okinawa resident urges Takaichi to call Trump after US Marine arrest
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.8764
+  strength: 0.8748
 - slug: 2026-10-04-japanese-police-arrest-us-marine-after-cctv-links-him-to-okinawa-hotel-death
-  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel death
+  headline: Japanese police arrest US Marine after CCTV links him to Okinawa hotel
+    death
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.8457
+  strength: 0.8438
 - slug: 2026-10-04-okinawa-police-u-s-marine-suffocated-japanese-woman-at-hotel
   headline: 'Okinawa police: U.S. Marine suffocated Japanese woman at hotel'
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7904
+  strength: 0.7892
 - slug: 2026-10-07-u-s-military-in-okinawa-imposes-monthlong-curfew-after-marine-arrest
   headline: U.S. military in Okinawa imposes monthlong curfew after Marine arrest
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7533
+  strength: 0.7504
 - slug: 2026-10-07-u-s-forces-in-okinawa-order-48-hour-base-lockdown-after-marine-arrest
   headline: U.S. forces in Okinawa order 48-hour base lockdown after Marine arrest
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7497
-- slug: 2026-10-05-u-s-military-kills-four-in-71st-caribbean-drug-boat-strike
-  headline: U.S. military kills four in 71st Caribbean drug-boat strike
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5822
-- slug: 2026-09-24-navy-letter-details-two-lincoln-overboard-incidents-during-deployment
-  headline: Navy letter details two Lincoln overboard incidents during deployment
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5861
-- slug: 2026-09-23-takaichi-calls-on-un-to-remove-enemy-state-charter-references
-  headline: Takaichi calls on UN to remove 'enemy state' charter references
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5877
-- slug: 2026-09-11-okinawa-governor-s-race-tightens-as-voters-prioritize-economy-over-bases
-  headline: Okinawa governor's race tightens as voters prioritize economy over bases
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5854
-- slug: 2026-08-07-takaichi-declines-to-commit-non-nuclear-principles-survive-security-review
-  headline: Takaichi declines to commit non-nuclear principles survive security review
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5941
-- slug: 2026-01-03-trump-invites-japan-s-takaichi-to-us-as-regional-tensions-with-china-mount
-  headline: Trump invites Japan's Takaichi to US as regional tensions with China mount
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6241
-- slug: 2026-03-20-japan-s-takaichi-seeks-reaffirmed-trump-alliance-amid-strait-of-hormuz-push
-  headline: Japan’s Takaichi seeks reaffirmed Trump alliance amid Strait of Hormuz push
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.613
-- slug: 2026-06-05-japan-pm-says-yen-defense-depends-on-economic-strength-not-intervention
-  headline: Japan PM Says Yen Defense Depends on Economic Strength, Not Intervention
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.584
-- slug: 2026-02-18-takaichi-reelected-as-japan-prime-minister-courts-trump-ahead-of-washington-trip
-  headline: Takaichi reelected as Japan prime minister; courts Trump ahead of Washington trip
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6073
-- slug: 2026-04-27-latest-u-s-strike-on-suspected-drug-boat-kills-3-in-eastern-pacific
-  headline: Latest U.S. strike on suspected drug boat kills 3 in eastern Pacific
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.593
-- slug: 2026-04-28-japan-s-takaichi-inaugurates-panel-to-review-security-and-defense-strategy
-  headline: Japan’s Takaichi inaugurates panel to review security and defense strategy
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5892
-- slug: 2026-02-07-japan-s-takaichi-leverages-popularity-to-seek-ldp-win-in-snap-vote
-  headline: Japan’s Takaichi leverages popularity to seek LDP win in snap vote
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6038
+  strength: 0.7461
 ---
-
 ## Japan's government registers "strong" protest over Okinawa killing case
 
 **Subtype:** fact

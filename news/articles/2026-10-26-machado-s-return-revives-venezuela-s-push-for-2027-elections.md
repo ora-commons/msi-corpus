@@ -2,8 +2,17 @@
 headline: Machado’s return revives Venezuela’s push for 2027 elections
 secondary_headline: U.S. backed Machado while working with Rodríguez on oil deals
 publish_date: '2026-10-26'
-lede: Venezuelan opposition leader María Corina Machado returned to Venezuela on Sunday after nearly 11 months abroad, reviving her campaign for free and fair presidential elections in 2027. The Wall Street Journal reported that her return challenges a government with close ties to the Trump administration, even though the U.S. has supported Machado while also working closely with interim President Delcy Rodríguez on oil deals.
-nut_graf: Machado’s return puts her election campaign in direct contact with Venezuelans who rank inflation, low wages and unemployment as the country’s most urgent problems. The move also comes amid explicit government hostility, a U.S. warning to Rodríguez not to move against Machado and a reliance on private security partly made up of former Venezuelan servicemen.
+lede: Venezuelan opposition leader María Corina Machado returned to Venezuela on Sunday
+  after nearly 11 months abroad, reviving her campaign for free and fair presidential
+  elections in 2027. The Wall Street Journal reported that her return challenges a
+  government with close ties to the Trump administration, even though the U.S. has
+  supported Machado while also working closely with interim President Delcy Rodríguez
+  on oil deals.
+nut_graf: Machado’s return puts her election campaign in direct contact with Venezuelans
+  who rank inflation, low wages and unemployment as the country’s most urgent problems.
+  The move also comes amid explicit government hostility, a U.S. warning to Rodríguez
+  not to move against Machado and a reliance on private security partly made up of
+  former Venezuelan servicemen.
 primary_entities:
 - María Corina Machado
 - Delcy Rodríguez
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,18 +151,24 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-venezuela-says-machado-was-free-to-enter-after-u-s-request
+  headline: Venezuela says Machado was free to enter after U.S. request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8164
 - slug: 2026-10-25-venezuela-s-machado-returns-home-after-nearly-11-months-abroad
   headline: Venezuela's Machado returns home after nearly 11 months abroad
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8174
+  strength: 0.8166
 - slug: 2026-10-25-trump-says-machado-lacks-the-support-or-respect-to-lead-venezuela
   headline: Trump says Machado lacks the support or respect to lead Venezuela
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7969
 - slug: 2026-10-25-trump-says-he-hopes-venezuelan-opposition-leader-mar-a-corina-machado-is-safe
-  headline: Trump says he hopes Venezuelan opposition leader María Corina Machado is safe
+  headline: Trump says he hopes Venezuelan opposition leader María Corina Machado
+    is safe
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7784
@@ -160,89 +176,23 @@ related_stories:
   headline: U.S. recruits exiled opposition leader for Venezuela transition talks
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6929
+  strength: 0.6924
 - slug: 2026-09-19-machado-readies-return-to-venezuela-to-press-for-elections
   headline: Machado readies return to Venezuela to press for elections
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.8629
+  strength: 0.8625
 - slug: 2026-09-23-machado-remains-blocked-from-venezuela-after-seven-failed-return-attempts
   headline: Machado remains blocked from Venezuela after seven failed return attempts
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.768
+  strength: 0.7675
 - slug: 2026-09-23-venezuela-s-rodr-guez-pledges-elections-in-un-speech-sets-no-date
   headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7417
-- slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7195
-- slug: 2026-09-24-venezuela-s-interim-president-meets-trump-addresses-un-in-new-york
-  headline: Venezuela's interim president meets Trump, addresses UN in New York
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6925
-- slug: 2026-03-02-venezuela-opposition-leader-machado-says-she-will-return-in-coming-weeks
-  headline: Venezuela opposition leader Machado says she will return in coming weeks
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.8653
-- slug: 2026-08-01-u-s--backed-venezuela-democracy-talks-begin-without-opposition-leader-machado
-  headline: U.S.-backed Venezuela democracy talks begin without opposition leader Machado
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7654
-- slug: 2026-06-29-venezuela-blocks-machado-return-after-deadly-earthquakes
-  headline: Venezuela blocks Machado return after deadly earthquakes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7944
-- slug: 2026-07-02-machado-flight-turned-back-after-u-s-officials-intervene
-  headline: Machado flight turned back after U.S. officials intervene
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7683
-- slug: 2026-03-13-machado-calls-trump-a-fundamental-ally-despite-u-s-backing-delcy-rodr-guez
-  headline: Machado calls Trump a “fundamental ally” despite U.S. backing Delcy Rodríguez
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7959
-- slug: 2026-01-16-machado-expresses-confidence-in-venezuelan-democracy-transition-but-offers-no-ti
-  headline: Machado expresses confidence in Venezuelan democracy transition but offers no timetable
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7982
-- slug: 2026-07-15-venezuela-government-opposition-launch-joint-working-group-for-democratic-transi
-  headline: Venezuela government, opposition launch joint working group for democratic transition
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7232
-- slug: 2026-01-15-venezuela-s-acting-president-calls-for-foreign-oil-investment-warmer-us-ties
-  headline: Venezuela's acting president calls for foreign oil investment, warmer US ties
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7691
-- slug: 2026-01-15-machado-gives-trump-her-nobel-peace-prize-medal-at-white-house-meeting
-  headline: Machado gives Trump her Nobel Peace Prize medal at White House meeting
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7563
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7562
-- slug: 2026-01-15-machado-presents-nobel-medal-to-trump-leaves-white-house-with-no-election-commit
-  headline: Machado presents Nobel medal to Trump, leaves White House with no election commitment
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7374
+  strength: 0.7419
 ---
-
 ## Machado’s return revives Venezuela’s push for 2027 elections
 
 **Subtype:** fact

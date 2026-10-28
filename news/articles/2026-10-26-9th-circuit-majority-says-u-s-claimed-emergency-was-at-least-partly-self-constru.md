@@ -1,9 +1,23 @@
 ---
 headline: 9th Circuit majority says U.S. claimed emergency was at least partly self-constructed
-secondary_headline: Majority cited late filing, legal awareness, voter scale and relief communication
+secondary_headline: Majority cited late filing, legal awareness, voter scale and relief
+  communication
 publish_date: '2026-10-26'
-lede: A majority of the 9th U.S. Circuit Court of Appeals said the United States' claimed emergency over 20,000 California mail ballots was at least partly self-constructed. The panel attributed at least part of the delay to the Justice Department's delay in filing suit, its late recognition that California law governs ballot issuance and processing, its acknowledgment of California's millions of registered voters and a processing schedule aligned with that scale, and its delay in communicating the relief it sought. The court nonetheless declined to rule on the lawsuit before U.S. District Judge David Carter, whose hearing remains set for Tuesday afternoon; two judges agreed with the ruling and a third dissented.
-nut_graf: The court's reasoning placed at least part of the delay on the federal government while leaving the department's allegations about whether non-citizens cast the 20,000 ballots to the district court. The dispute is the Trump administration's latest effort to involve the federal government in how states run elections, and the White House has lost more than two dozen court challenges over the past year seeking to force states to release their voter rolls.
+lede: A majority of the 9th U.S. Circuit Court of Appeals said the United States'
+  claimed emergency over 20,000 California mail ballots was at least partly self-constructed.
+  The panel attributed at least part of the delay to the Justice Department's delay
+  in filing suit, its late recognition that California law governs ballot issuance
+  and processing, its acknowledgment of California's millions of registered voters
+  and a processing schedule aligned with that scale, and its delay in communicating
+  the relief it sought. The court nonetheless declined to rule on the lawsuit before
+  U.S. District Judge David Carter, whose hearing remains set for Tuesday afternoon;
+  two judges agreed with the ruling and a third dissented.
+nut_graf: The court's reasoning placed at least part of the delay on the federal government
+  while leaving the department's allegations about whether non-citizens cast the 20,000
+  ballots to the district court. The dispute is the Trump administration's latest
+  effort to involve the federal government in how states run elections, and the White
+  House has lost more than two dozen court challenges over the past year seeking to
+  force states to release their voter rolls.
 primary_entities:
 - 9th U.S. Circuit Court of Appeals
 - Justice Department
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,7 +157,12 @@ related_stories:
   headline: 9th Circuit declines expedited ruling in DOJ California ballot case
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7946
+  strength: 0.7952
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7948
 - slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
   headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
   publish_date: '2026-10-26'
@@ -152,94 +172,30 @@ related_stories:
   headline: California ballot dispute reaches 9th Circuit
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.777
+  strength: 0.7777
 - slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
   headline: Appeals panel questions DOJ bid to set aside California ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7338
+  strength: 0.7352
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7107
+  strength: 0.7109
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6856
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6926
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6897
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7083
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7142
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7134
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6731
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6739
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6537
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6667
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6643
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6766
-- slug: 2026-09-15-voting-rights-groups-praise-supreme-court-mail-ballot-ruling
-  headline: Voting rights groups praise Supreme Court mail ballot ruling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6702
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6642
-- slug: 2026-09-15-supreme-court-blocks-usps-mail-ballot-rules-amid-widespread-confusion
-  headline: Supreme Court blocks USPS mail-ballot rules amid widespread confusion
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.653
-- slug: 2026-07-25-appeals-court-upholds-injunction-blocking-trump-mail-in-voting-rules
-  headline: Appeals court upholds injunction blocking Trump mail-in voting rules
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6864
+  strength: 0.6939
 ---
-
 ## 9th Circuit majority says U.S. claimed emergency was at least partly self-constructed
 
 **Subtype:** fact

@@ -1,9 +1,24 @@
 ---
 headline: NOAA staffing cuts weaken forecasts as super El Niño is expected to strengthen
-secondary_headline: GAO finds multilingual-alert failures left 26 million people at higher risk
+secondary_headline: GAO finds multilingual-alert failures left 26 million people at
+  higher risk
 publish_date: '2026-10-27'
-lede: U.S. Office of Personnel Management workforce data show that the National Oceanic and Atmospheric Administration lost more than 3,000 staff since January 2025 and brought on 525 new hires over the same period, leaving a 2,500-person deficit as this year’s super El Niño is expected to strengthen through the Northern Hemisphere’s autumn and winter. The Government Accountability Office found that National Weather Service staffing and funding cuts prevented the agency from adequately providing multilingual weather alerts, leaving 26 million people in the United States at higher risk. Former officials and scientists warned that reduced NOAA capacity could expose weaknesses when overlapping extremes arrive.
-nut_graf: NOAA’s work extends far beyond daily forecasts. Its satellites, studies and data-sharing arrangements are used by forecasters worldwide, including for severe-weather tracking across Europe, disaster-response coordination in the Caribbean and monitoring of deforestation and the effects of the climate crisis in the Amazon rainforest. Experts said a reduced workforce could weaken the agency’s ability to prepare communities for overlapping extremes and could prevent important data from being captured for future responses.
+lede: U.S. Office of Personnel Management workforce data show that the National Oceanic
+  and Atmospheric Administration lost more than 3,000 staff since January 2025 and
+  brought on 525 new hires over the same period, leaving a 2,500-person deficit as
+  this year’s super El Niño is expected to strengthen through the Northern Hemisphere’s
+  autumn and winter. The Government Accountability Office found that National Weather
+  Service staffing and funding cuts prevented the agency from adequately providing
+  multilingual weather alerts, leaving 26 million people in the United States at higher
+  risk. Former officials and scientists warned that reduced NOAA capacity could expose
+  weaknesses when overlapping extremes arrive.
+nut_graf: NOAA’s work extends far beyond daily forecasts. Its satellites, studies
+  and data-sharing arrangements are used by forecasters worldwide, including for severe-weather
+  tracking across Europe, disaster-response coordination in the Caribbean and monitoring
+  of deforestation and the effects of the climate crisis in the Amazon rainforest.
+  Experts said a reduced workforce could weaken the agency’s ability to prepare communities
+  for overlapping extremes and could prevent important data from being captured for
+  future responses.
 primary_entities:
 - National Oceanic and Atmospheric Administration
 - National Weather Service
@@ -45,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,7 +163,7 @@ related_stories:
   headline: NOAA scales back El Niño research as super event peaks
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8273
+  strength: 0.8266
 - slug: 2026-10-15-noaa-forecasts-warmer-wetter-us-winter-with-reduced-northern-snowfall
   headline: NOAA forecasts warmer, wetter US winter with reduced northern snowfall
   publish_date: '2026-10-15'
@@ -157,17 +173,17 @@ related_stories:
   headline: Newsom declares California state of emergency ahead of El Niño season
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6674
+  strength: 0.6669
 - slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
   headline: California readies for potentially historic El Niño winter
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6816
+  strength: 0.6811
 - slug: 2026-09-29-el-ni-o-sets-century-record-for-atlantic-hurricane-drought
   headline: El Niño sets century record for Atlantic hurricane drought
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6756
+  strength: 0.6753
 - slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
   headline: WMO warns strongest El Niño in 70 years set to intensify into winter
   publish_date: '2026-09-18'
@@ -177,74 +193,13 @@ related_stories:
   headline: NCES staffing cut to 12 as US reading and math scores hit 25-year low
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6676
+  strength: 0.6663
 - slug: 2026-09-25-nor-easter-lashes-new-england-with-high-winds-heavy-rain
   headline: Nor'easter lashes New England with high winds, heavy rain
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6618
-- slug: 2026-09-15-this-year-s-el-ni-o-ranks-among-the-strongest-on-record
-  headline: This year's El Niño ranks among the strongest on record
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.698
-- slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6755
-- slug: 2026-06-23-former-noaa-official-warns-trump-administration-jeopardized-el-ni-o-forecasting
-  headline: Former NOAA official warns Trump administration jeopardized El Niño forecasting
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7752
-- slug: 2026-08-29-strong-el-ni-o-disrupts-global-commodity-and-shipping-markets
-  headline: Strong El Niño disrupts global commodity and shipping markets
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6616
-- slug: 2026-08-12-noaa-pulls-support-for-annual-arctic-report-card
-  headline: NOAA pulls support for annual Arctic Report Card
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6844
-- slug: 2026-05-22-el-ni-o-may-curb-atlantic-hurricanes-noaa-still-warns-of-damaging-storms
-  headline: El Niño may curb Atlantic hurricanes, NOAA still warns of damaging storms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.751
-- slug: 2026-05-21-el-ni-o-dampens-atlantic-hurricane-risk-but-increases-it-in-pacific
-  headline: El Niño dampens Atlantic hurricane risk, but increases it in Pacific
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7511
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6995
-- slug: 2026-07-19-federal-cuts-and-policy-rollbacks-leave-us-facing-multiple-crises
-  headline: Federal cuts and policy rollbacks leave US facing multiple crises
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6856
-- slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
-  headline: Latin American governments prepare contingency plans for El Niño impacts
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6839
-- slug: 2026-05-23-el-nino-dampens-atlantic-hurricane-risk-but-raises-pacific-storm-threat
-  headline: El Nino dampens Atlantic hurricane risk, but raises Pacific storm threat
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7188
-- slug: 2026-06-11-el-ni-o-forms-in-pacific-forecast-to-reach-historic-strength
-  headline: El Niño forms in Pacific, forecast to reach historic strength
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7039
+  strength: 0.6628
 ---
-
 ## NOAA staffing cuts weaken forecasts as super El Niño is expected to strengthen
 
 **Subtype:** fact

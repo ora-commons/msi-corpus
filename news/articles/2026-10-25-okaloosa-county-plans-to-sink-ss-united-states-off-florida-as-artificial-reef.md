@@ -1,9 +1,15 @@
 ---
-headline: Okaloosa County plans to sink SS United States off Florida as artificial reef
+headline: Okaloosa County plans to sink SS United States off Florida as artificial
+  reef
 secondary_headline: Preservation groups failed to save the liner because of high costs
 publish_date: '2026-10-25'
-lede: Okaloosa County officials in Florida announced that they expect to sink the SS United States off the Florida Gulf Coast during the second week of November. Weather could change the exact dates.
-nut_graf: The plan is intended to make the SS United States the world's largest artificial reef, while supporters hope the sinking will make it a signature diving attraction. Supporters say the project could help generate millions of dollars a year in local tourism spending for scuba shops, charter fishing boats and hotels.
+lede: Okaloosa County officials in Florida announced that they expect to sink the
+  SS United States off the Florida Gulf Coast during the second week of November.
+  Weather could change the exact dates.
+nut_graf: The plan is intended to make the SS United States the world's largest artificial
+  reef, while supporters hope the sinking will make it a signature diving attraction.
+  Supporters say the project could help generate millions of dollars a year in local
+  tourism spending for scuba shops, charter fishing boats and hotels.
 primary_entities:
 - SS United States
 - Okaloosa County
@@ -36,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,109 +140,8 @@ cross_article_links:
   strength: 0.5396
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-iucn-projects-96-of-shallow-water-reefs-face-high-collapse-risk-before-2075
-  headline: IUCN projects 96% of shallow-water reefs face high collapse risk before 2075
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5693
-- slug: 2026-10-10-hurricane-isaias-makes-u-s-gulf-coast-landfall-as-category-2-storm
-  headline: Hurricane Isaias makes U.S. Gulf coast landfall as Category 2 storm
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5968
-- slug: 2026-10-08-hurricane-isaias-targets-u-s-gulf-coast-as-states-of-emergency-expand
-  headline: Hurricane Isaias targets U.S. Gulf coast as states of emergency expand
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5981
-- slug: 2026-10-10-santa-rosa-county-reports-most-roads-impassable-more-than-80-without-power
-  headline: Santa Rosa County reports most roads impassable, more than 80% without power
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5811
-- slug: 2026-10-07-desantis-declares-emergency-for-25-counties-as-isaias-approaches-gulf-coast
-  headline: DeSantis declares emergency for 25 counties as Isaias approaches Gulf Coast
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5954
-- slug: 2026-10-10-three-storms-batter-north-america-as-hurricane-isaias-makes-florida-landfall
-  headline: Three storms batter North America as Hurricane Isaias makes Florida landfall
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5726
-- slug: 2026-10-09-hurricane-isaias-maintains-category-2-strength-heads-toward-u-s-gulf-coast
-  headline: Hurricane Isaias maintains Category 2 strength, heads toward U.S. Gulf Coast
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5738
-- slug: 2026-10-09-hurricane-isaias-strengthens-to-category-3-ahead-of-gulf-coast-landfall
-  headline: Hurricane Isaias strengthens to Category 3 ahead of Gulf coast landfall
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.573
-- slug: 2026-10-08-isaias-becomes-first-2026-atlantic-hurricane-targets-u-s-gulf-coast
-  headline: Isaias becomes first 2026 Atlantic hurricane, targets U.S. Gulf Coast
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5782
-- slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
-  headline: California readies for potentially historic El Niño winter
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5803
-- slug: 2026-09-25-trump-order-directs-agencies-to-prioritize-recreational-fishing
-  headline: Trump order directs agencies to prioritize recreational fishing
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5702
-- slug: 2026-09-23-noaa-documents-first-olive-ridley-sea-turtle-nestings-on-california-coast
-  headline: NOAA documents first olive ridley sea turtle nestings on California coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5771
-- slug: 2026-09-14-noaa-documents-nine-new-deep-sea-sponge-species-off-alaska
-  headline: NOAA documents nine new deep-sea sponge species off Alaska
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5812
-- slug: 2026-08-10-florida-wildlife-agencies-announce-coastal-corridor-to-protect-marine-life
-  headline: Florida wildlife agencies announce coastal corridor to protect marine life
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6081
-- slug: 2026-07-23-georgia-residents-oppose-okefenokee-swamp-s-unesco-world-heritage-bid
-  headline: Georgia residents oppose Okefenokee Swamp's UNESCO World Heritage bid
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6322
-- slug: 2026-08-18-miami-dade-county-removes-9-000-tons-of-sargassum-in-july
-  headline: Miami-Dade County removes 9,000 tons of sargassum in July
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.576
-- slug: 2026-08-19-apparent-human-remains-found-at-lake-mead-as-water-levels-hit-record-low
-  headline: Apparent human remains found at Lake Mead as water levels hit record low
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5701
-- slug: 2026-08-07-rescinded-offshore-survey-rules-may-affect-native-artifacts
-  headline: Rescinded offshore survey rules may affect Native artifacts
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.573
-- slug: 2026-07-20-biologists-band-american-oystercatcher-chicks-on-rhode-island-beach
-  headline: Biologists band American oystercatcher chicks on Rhode Island beach
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5758
-- slug: 2026-06-22-plan-to-auction-over-100-titanic-artifacts-faces-us-government-opposition
-  headline: Plan to auction over 100 Titanic artifacts faces US government opposition
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5883
+related_stories: []
 ---
-
 ## Okaloosa County plans to sink SS United States off Florida as artificial reef
 
 **Subtype:** fact

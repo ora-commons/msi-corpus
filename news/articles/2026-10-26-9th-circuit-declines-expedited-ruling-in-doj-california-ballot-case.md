@@ -1,9 +1,19 @@
 ---
 headline: 9th Circuit declines expedited ruling in DOJ California ballot case
-secondary_headline: District court set to hear ballot-counting dispute before Nov. 3 elections
+secondary_headline: District court set to hear ballot-counting dispute before Nov.
+  3 elections
 publish_date: '2026-10-26'
-lede: The 9th Circuit Court declined Monday to rule on whether California election officials can count roughly 20,000 ballots that the Justice Department alleges belong to noncitizen voters. The decision leaves the federal government and state officials before a federal district judge Tuesday, Oct. 27, as the Republican administration seeks to sequester the votes before the Nov. 3 elections.
-nut_graf: The dispute centers on the Justice Department's claim that California officials missed a 48-hour deadline to review a list of 20,000 people it said were likely noncitizens on the state's voter rolls. The administration asked a federal judge to block counting the corresponding ballots until immigration-status checks are completed; the 9th Circuit's decision not to accelerate the case leaves that request for Tuesday's district-court hearing.
+lede: The 9th Circuit Court declined Monday to rule on whether California election
+  officials can count roughly 20,000 ballots that the Justice Department alleges belong
+  to noncitizen voters. The decision leaves the federal government and state officials
+  before a federal district judge Tuesday, Oct. 27, as the Republican administration
+  seeks to sequester the votes before the Nov. 3 elections.
+nut_graf: The dispute centers on the Justice Department's claim that California officials
+  missed a 48-hour deadline to review a list of 20,000 people it said were likely
+  noncitizens on the state's voter rolls. The administration asked a federal judge
+  to block counting the corresponding ballots until immigration-status checks are
+  completed; the 9th Circuit's decision not to accelerate the case leaves that request
+  for Tuesday's district-court hearing.
 primary_entities:
 - California
 - U.S. Department of Justice
@@ -34,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,26 +144,41 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case.png
-  alt: 'Illustration accompanying article: 9th Circuit declines expedited ruling in DOJ California ballot case'
+  alt: 'Illustration accompanying article: 9th Circuit declines expedited ruling in
+    DOJ California ballot case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8455
 - slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
   headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8421
+  strength: 0.8424
 - slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
   headline: California ballot dispute reaches 9th Circuit
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8097
+  strength: 0.8099
+- slug: 2026-10-26-9th-circuit-majority-says-u-s-claimed-emergency-was-at-least-partly-self-constru
+  headline: 9th Circuit majority says U.S. claimed emergency was at least partly self-constructed
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8006
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
   strength: 0.8144
@@ -160,89 +186,18 @@ related_stories:
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7697
+  strength: 0.77
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7731
+  strength: 0.7733
 - slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
   headline: Appeals panel questions DOJ bid to set aside California ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7491
-- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
-  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7205
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7569
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.743
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7488
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7281
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7682
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7633
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7365
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7245
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7337
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.672
-- slug: 2026-10-16-every-federal-judge-to-rule-has-dismissed-doj-voter-data-lawsuits
-  headline: Every federal judge to rule has dismissed DOJ voter-data lawsuits
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6813
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.69
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6885
+  strength: 0.7494
 ---
-
 ## 9th Circuit declines expedited ruling in DOJ California ballot case
 
 **Subtype:** fact

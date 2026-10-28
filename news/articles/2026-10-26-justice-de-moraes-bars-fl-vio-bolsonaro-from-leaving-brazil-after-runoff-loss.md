@@ -1,9 +1,19 @@
 ---
-headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff loss
+headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff
+  loss
 secondary_headline: Ruling cites money-laundering case and cancels all passports
 publish_date: '2026-10-26'
-lede: Supreme Court justice Alexandre de Moraes barred Senator Flávio Bolsonaro from leaving Brazil and ordered him to surrender all his passports, hours after Bolsonaro lost Sunday’s presidential runoff to President Luiz Inácio Lula da Silva. The order also barred contact with lawyer Willer Tomaz and referenced a federal police money-laundering investigation, while Flávio Bolsonaro said he would file another case seeking to disqualify Lula’s ticket.
-nut_graf: The order came hours after the runoff result, with Flávio Bolsonaro still not conceding defeat and pursuing legal challenges. His Senate term ends early next year, which would leave him without the special jurisdiction afforded to officeholders, and he remains under investigation in another criminal case involving £20 million and a biopic about his father.
+lede: Supreme Court justice Alexandre de Moraes barred Senator Flávio Bolsonaro from
+  leaving Brazil and ordered him to surrender all his passports, hours after Bolsonaro
+  lost Sunday’s presidential runoff to President Luiz Inácio Lula da Silva. The order
+  also barred contact with lawyer Willer Tomaz and referenced a federal police money-laundering
+  investigation, while Flávio Bolsonaro said he would file another case seeking to
+  disqualify Lula’s ticket.
+nut_graf: The order came hours after the runoff result, with Flávio Bolsonaro still
+  not conceding defeat and pursuing legal challenges. His Senate term ends early next
+  year, which would leave him without the special jurisdiction afforded to officeholders,
+  and he remains under investigation in another criminal case involving £20 million
+  and a biopic about his father.
 primary_entities:
 - Flávio Bolsonaro
 - Luiz Inácio Lula da Silva
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +151,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7421
+  strength: 0.7427
 - slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
   headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7396
+  strength: 0.7398
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7213
+- slug: 2026-10-27-brazil-s-currency-plunges-as-pollsters-describe-lula-s-comeback
+  headline: Brazil's currency plunges as pollsters describe Lula's comeback
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7164
 - slug: 2026-10-12-brazil-s-top-court-clears-fl-vio-bolsonaro-to-visit-house-arrested-father
   headline: Brazil's top court clears Flávio Bolsonaro to visit house-arrested father
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.8031
+  strength: 0.804
 - slug: 2026-10-25-brazil-extends-presidential-runoff-voting-by-two-hours
   headline: Brazil extends presidential runoff voting by two hours
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7138
+  strength: 0.7141
 - slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
   headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8042
+  strength: 0.8052
 - slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
+  headline: Brazilian supreme court crisis implicates five justices ahead of October
+    25 runoff
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7571
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7753
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7552
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7498
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7078
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7066
-- slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
-  headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7164
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7009
-- slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
-  headline: Flávio Bolsonaro formally investigated over alleged corruption
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7536
-- slug: 2026-09-13-brazil-s-top-court-lifts-secrecy-on-flavio-bolsonaro-biopic-probe
-  headline: Brazil's top court lifts secrecy on Flavio Bolsonaro biopic probe
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7279
-- slug: 2026-09-09-brazil-supreme-court-justices-clash-over-police-leadership-ahead-of-election
-  headline: Brazil Supreme Court justices clash over police leadership ahead of election
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7077
-- slug: 2026-08-08-brazil-s-supreme-court-denies-bolsonaro-father-s-day-visit-with-sons
-  headline: Brazil's Supreme Court denies Bolsonaro Father's Day visit with sons
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7264
-- slug: 2026-07-30-lula-says-brazil-blocked-us-officials-visas-to-prevent-election-meddling
-  headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7228
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7273
-- slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6955
+  strength: 0.7559
 ---
-
 ## Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff loss
 
 **Subtype:** fact

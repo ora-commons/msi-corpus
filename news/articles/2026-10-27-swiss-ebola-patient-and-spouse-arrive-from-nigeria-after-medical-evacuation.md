@@ -1,9 +1,17 @@
 ---
 headline: Swiss Ebola patient and spouse arrive from Nigeria after medical evacuation
-secondary_headline: Nigerian minister says clinical improvement does not rule out infectiousness
+secondary_headline: Nigerian minister says clinical improvement does not rule out
+  infectiousness
 publish_date: '2026-10-27'
-lede: A Swiss national infected with Ebola and her husband, also a Swiss national, arrived in Switzerland on Monday after medical evacuation from Nigeria, according to Swiss health officials. The woman is being treated at Geneva University Hospital, while her husband is in isolation at Zurich University Hospital.
-nut_graf: The transfer brought the woman into hospital care and her husband into isolation, and Swiss officials said the situation posed no risk to the population. The woman was Nigeria's first Ebola case since 2014; after the evacuation, health officials said Nigeria had no remaining cases while 52 close contacts remaining in Nigeria and the husband in Switzerland remained under monitoring.
+lede: A Swiss national infected with Ebola and her husband, also a Swiss national,
+  arrived in Switzerland on Monday after medical evacuation from Nigeria, according
+  to Swiss health officials. The woman is being treated at Geneva University Hospital,
+  while her husband is in isolation at Zurich University Hospital.
+nut_graf: The transfer brought the woman into hospital care and her husband into isolation,
+  and Swiss officials said the situation posed no risk to the population. The woman
+  was Nigeria's first Ebola case since 2014; after the evacuation, health officials
+  said Nigeria had no remaining cases while 52 close contacts remaining in Nigeria
+  and the husband in Switzerland remained under monitoring.
 primary_entities:
 - Switzerland
 - Nigeria
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +155,24 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-swiss-ebola-patient-and-spouse-arrive-from-nigeria-after-medical-evacuation.png
-  alt: 'Illustration accompanying article: Swiss Ebola patient and spouse arrive from Nigeria after medical evacuation'
+  alt: 'Illustration accompanying article: Swiss Ebola patient and spouse arrive from
+    Nigeria after medical evacuation'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-kenya-reports-second-ebola-death-as-nigeria-investigates-first-case
   headline: Kenya reports second Ebola death as Nigeria investigates first case
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7421
-- slug: 2026-10-19-kenya-confirms-third-ebola-case-as-us-quarantine-center-faces-court-challenge
-  headline: Kenya confirms third Ebola case as US quarantine center faces court challenge
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6253
-- slug: 2026-09-10-drc-ebola-outbreak-fills-butembo-treatment-unit-as-toll-exceeds-3-310
-  headline: DRC Ebola outbreak fills Butembo treatment unit as toll exceeds 3,310
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5959
-- slug: 2026-07-14-germany-treats-second-american-ebola-patient-in-frankfurt
-  headline: Germany treats second American Ebola patient in Frankfurt
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6435
-- slug: 2026-05-25-challenges-in-congo-as-it-fights-to-rein-in-an-ebola-outbreak
-  headline: Challenges in Congo as it fights to rein in an Ebola outbreak
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6349
-- slug: 2026-05-16-new-ebola-outbreak-confirmed-in-eastern-congo-65-deaths-recorded
-  headline: New Ebola outbreak confirmed in eastern Congo, 65 deaths recorded
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6374
-- slug: 2026-05-16-africa-cdc-confirms-new-ebola-outbreak-in-remote-congo-province
-  headline: Africa CDC confirms new Ebola outbreak in remote Congo province
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.635
-- slug: 2026-07-02-ebola-treatment-trial-begins-in-congo-as-bundibugyo-outbreak-grows
-  headline: Ebola treatment trial begins in Congo as Bundibugyo outbreak grows
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6
-- slug: 2026-05-16-congo-ebola-outbreak-prompts-who-emergency-as-cases-cross-into-uganda
-  headline: Congo Ebola outbreak prompts WHO emergency as cases cross into Uganda
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6328
-- slug: 2026-05-16-who-declares-congo-uganda-ebola-outbreak-public-health-emergency
-  headline: WHO declares Congo, Uganda Ebola outbreak public health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6304
-- slug: 2026-05-17-oms-declara-emergencia-global-de-salud-por-bola-en-rd-congo-y-uganda
-  headline: OMS declara emergencia global de salud por ébola en RD Congo y Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6294
-- slug: 2026-06-01-who-chief-visits-ebola-epicenter-in-eastern-congo-as-cases-surge-past-900
-  headline: WHO chief visits Ebola epicenter in eastern Congo as cases surge past 900
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.621
-- slug: 2026-05-24-dr-congo-ebola-cases-rise-as-who-warns-risk-is-very-high
-  headline: DR Congo Ebola cases rise as WHO warns risk is “very high”
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6212
-- slug: 2026-05-16-new-ebola-outbreak-in-congo-declared-pheic-a-quick-guide-to-the-virus
-  headline: New Ebola outbreak in Congo declared PHEIC; a quick guide to the virus
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6188
-- slug: 2026-05-24-suspected-ebola-cases-top-900-in-eastern-congo-as-aid-cuts-and-rebel-violence-ha
-  headline: Suspected Ebola cases top 900 in eastern Congo as aid cuts and rebel violence hamper response
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6079
-- slug: 2026-05-17-who-declares-global-health-emergency-as-ebola-outbreak-spreads-in-congo-and-ugan
-  headline: WHO Declares Global Health Emergency as Ebola Outbreak Spreads in Congo and Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6084
-- slug: 2026-05-22-ugandans-brace-for-stigma-after-ebola-subtype-name-linked-to-bundibugyo
-  headline: Ugandans brace for stigma after Ebola subtype name linked to Bundibugyo
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6058
-- slug: 2026-05-17-new-ebola-outbreak-suspected-of-causing-15-deaths-in-congo
-  headline: New Ebola outbreak suspected of causing 15 deaths in Congo
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6067
-- slug: 2026-05-27-trump-admin-plans-to-send-ebola-exposed-americans-to-kenya-facility-official-say
-  headline: Trump admin plans to send Ebola-exposed Americans to Kenya facility, official says
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6001
-- slug: 2026-05-16-deaths-in-eastern-congo-s-new-ebola-outbreak-climb-to-87
-  headline: Deaths in eastern Congo’s new Ebola outbreak climb to 87
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6052
+  strength: 0.742
 ---
-
 ## Swiss Ebola patient and spouse arrive from Nigeria after medical evacuation
 
 **Subtype:** fact

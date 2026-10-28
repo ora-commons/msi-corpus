@@ -1,9 +1,19 @@
 ---
-headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-secondary_headline: Black turnout and anti-incumbent sentiment remain key election variables
+headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final
+  push
+secondary_headline: Black turnout and anti-incumbent sentiment remain key election
+  variables
 publish_date: '2026-10-27'
-lede: Former Vice President Kamala Harris joined Democratic nominee Scott Colom in Columbus, Mississippi, on Thursday before about a thousand attendees, as both campaigns spent millions in Mississippi during the final weeks before the Nov. 3 election. National polling identified Black turnout, Democratic enthusiasm, fewer Republican base voters and party defections as possible openings for Democrats. President Trump rallied for Republican incumbent Cindy Hyde-Smith in Corinth on Monday.
-nut_graf: Mississippi has close to 40% Black voters, the highest share in the country, but Trump won the state by 23 points in 2024 and the last Democratic senator from Mississippi came in the early 80s. National polling points to Black turnout and party defections as possible openings, though the statewide contest cannot be gerrymandered.
+lede: Former Vice President Kamala Harris joined Democratic nominee Scott Colom in
+  Columbus, Mississippi, on Thursday before about a thousand attendees, as both campaigns
+  spent millions in Mississippi during the final weeks before the Nov. 3 election.
+  National polling identified Black turnout, Democratic enthusiasm, fewer Republican
+  base voters and party defections as possible openings for Democrats. President Trump
+  rallied for Republican incumbent Cindy Hyde-Smith in Corinth on Monday.
+nut_graf: Mississippi has close to 40% Black voters, the highest share in the country,
+  but Trump won the state by 23 points in 2024 and the last Democratic senator from
+  Mississippi came in the early 80s. National polling points to Black turnout and
+  party defections as possible openings, though the statewide contest cannot be gerrymandered.
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,44 @@ related_stories:
   headline: Trump heads to Mississippi as Democrats expand battleground maps
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8416
+  strength: 0.8411
 - slug: 2026-10-27-trump-plans-salina-rally-less-than-two-weeks-after-kansas-visit
   headline: Trump plans Salina rally less than two weeks after Kansas visit
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7874
+  strength: 0.7855
 - slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
   headline: Trump draws generally smaller midterm crowds on a multistate rally week
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6806
+  strength: 0.6804
 - slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
   headline: Arkansas Democrats push affordability message in final midterm stretch
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6836
+  strength: 0.6832
 - slug: 2026-10-25-ocasio-cortez-changes-campaign-strategy-as-some-dsa-members-question-her-path
-  headline: Ocasio-Cortez changes campaign strategy as some DSA members question her path
+  headline: Ocasio-Cortez changes campaign strategy as some DSA members question her
+    path
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.66
+  strength: 0.6596
 - slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
   headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.8105
+  strength: 0.811
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6682
+  strength: 0.667
 - slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
   headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6931
-- slug: 2026-10-16-collins-jackson-spar-over-trump-ties-fuel-prices-in-final-maine-senate-debate
-  headline: Collins, Jackson spar over Trump ties, fuel prices in final Maine Senate debate
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6577
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6692
-- slug: 2026-10-10-emhoff-privately-would-prefer-harris-not-run-again
-  headline: Emhoff privately would prefer Harris not run again
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6591
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6652
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6583
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6585
-- slug: 2026-09-26-harris-campaigns-with-el-sayed-in-michigan-plans-georgia-and-nevada-stops
-  headline: Harris campaigns with El-Sayed in Michigan, plans Georgia and Nevada stops
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.667
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6811
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6731
-- slug: 2026-08-07-black-democrat-scott-colom-aims-to-unseat-hyde-smith-in-mississippi
-  headline: Black Democrat Scott Colom aims to unseat Hyde-Smith in Mississippi
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7394
-- slug: 2026-08-28-democrats-push-affordability-republicans-spotlight-dsa-in-fall-sprint
-  headline: Democrats push affordability, Republicans spotlight DSA in fall sprint
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6598
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6696
+  strength: 0.691
 ---
-
 ## Harris rallies Colom as Mississippi Senate race enters a high-spending final push
 
 **Subtype:** fact

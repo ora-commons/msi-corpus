@@ -1,9 +1,17 @@
 ---
 headline: Chris Packham urges UK chancellor to cut £24bn carbon capture plan
-secondary_headline: 'CCSA: supply-chain contracts could support about 350 UK companies and 5,500 construction jobs'
+secondary_headline: 'CCSA: supply-chain contracts could support about 350 UK companies
+  and 5,500 construction jobs'
 publish_date: '2026-10-27'
-lede: Chris Packham urged the UK chancellor ahead of this week's budget to reduce government plans to spend £24bn on carbon capture and storage. Packham said the money should instead support heat pumps and other measures that could cut emissions and household energy bills, while the government reportedly planned to reduce grants for replacing gas boilers with electric heat pumps.
-nut_graf: 'The dispute sets competing climate priorities before the budget: campaigners want support shifted toward measures they say can reduce emissions and bills, while the government remains committed to carbon capture and an industry group warns that pulling back could undermine investor confidence and deepen industrial decline.'
+lede: Chris Packham urged the UK chancellor ahead of this week's budget to reduce
+  government plans to spend £24bn on carbon capture and storage. Packham said the
+  money should instead support heat pumps and other measures that could cut emissions
+  and household energy bills, while the government reportedly planned to reduce grants
+  for replacing gas boilers with electric heat pumps.
+nut_graf: 'The dispute sets competing climate priorities before the budget: campaigners
+  want support shifted toward measures they say can reduce emissions and bills, while
+  the government remains committed to carbon capture and an industry group warns that
+  pulling back could undermine investor confidence and deepen industrial decline.'
 primary_entities:
 - Chris Packham
 - Ed Miliband
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,50 +151,21 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-27-possible-uk-heat-pump-grant-cuts-put-installer-training-and-manufacturing-at-ris
-  headline: Possible UK heat pump grant cuts put installer training and manufacturing at risk
+  headline: Possible UK heat pump grant cuts put installer training and manufacturing
+    at risk
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7069
-- slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
-  headline: Andrea Egan urges Burnham to put public investment in his budget
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6281
-- slug: 2026-10-23-uk-government-launches-three-day-emergency-preparedness-campaign
-  headline: UK government launches three-day emergency preparedness campaign
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6467
-- slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
-  headline: AI firms seek UK datacentre compact before opposition spreads
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6348
-- slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
-  headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6355
+  strength: 0.7072
 - slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
   headline: Badenoch pledges to scrap UK future homes standard
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6713
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6265
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.649
+  strength: 0.6709
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6543
+  strength: 0.6534
 - slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
   headline: Rising energy bills and inflation test Burnham's economic agenda
   publish_date: '2026-09-27'
@@ -195,54 +175,24 @@ related_stories:
   headline: UK climate committee says Heathrow expansion incompatible with Net Zero
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6511
+  strength: 0.6512
 - slug: 2026-09-13-rayner-says-uk-unlikely-to-meet-1-5-million-homes-target
   headline: Rayner says UK unlikely to meet 1.5 million homes target
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6545
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.634
+  strength: 0.6542
 - slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
   headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6591
+  strength: 0.6587
 - slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
+  headline: UK chancellor John Healey tells Financial Times October 28 budget will
+    be tough
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6554
-- slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
-  headline: EU, UK and Canada pare back climate goals amid energy costs
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6666
-- slug: 2026-09-04-uk-energy-secretary-expected-to-recommend-jackdaw-gasfield-approval
-  headline: UK energy secretary expected to recommend Jackdaw gasfield approval
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6261
-- slug: 2026-07-21-tuc-backs-burnham-s-electricity-vat-cut-pushes-for-bank-tax
-  headline: TUC backs Burnham's electricity VAT cut, pushes for bank tax
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6783
-- slug: 2026-08-18-stiglitz-led-economists-push-burnham-to-back-ipcc-style-inequality-panel
-  headline: Stiglitz-led economists push Burnham to back IPCC-style inequality panel
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6256
-- slug: 2026-07-12-us-carbon-sequestration-boom-sparks-backlash-in-small-towns
-  headline: US carbon sequestration boom sparks backlash in small towns
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6723
+  strength: 0.6548
 ---
-
 ## Chris Packham urges UK chancellor to cut £24bn carbon capture plan
 
 **Subtype:** fact

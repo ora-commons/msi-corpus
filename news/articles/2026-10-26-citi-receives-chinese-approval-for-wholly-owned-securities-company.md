@@ -1,9 +1,23 @@
 ---
 headline: Citi receives Chinese approval for wholly owned securities company
-secondary_headline: Russian diesel tanker signals U.S. voyage before destination shifts to 'for orders'
+secondary_headline: Russian diesel tanker signals U.S. voyage before destination shifts
+  to 'for orders'
 publish_date: '2026-10-26'
-lede: Chinese regulators have approved Citi's plan to set up a wholly owned securities company in China, The Wall Street Journal reported. The license will let the banking group establish an onshore company offering capital markets services to domestic and foreign clients, including underwriting capital markets deals and equities brokerage services. Separately, ship-tracking data showed a Malta-flagged tanker carrying Russian diesel intermittently signaling a voyage to the United States, though the vessel later changed its destination to "for orders," a designation that typically indicates no confirmed final discharge port.
-nut_graf: 'These are separate developments rather than a single event, and each stands at a different stage: Chinese regulators have cleared Citi to operate a wholly owned securities company onshore, a Russian diesel cargo has signaled the United States without confirming a discharge port, state laws and a customer suit have placed algorithmic pricing before regulators and courts, and the U.S.-backed government in Caracas is transferring management of a seized Venezuelan conglomerate to outside investors.'
+lede: Chinese regulators have approved Citi's plan to set up a wholly owned securities
+  company in China, The Wall Street Journal reported. The license will let the banking
+  group establish an onshore company offering capital markets services to domestic
+  and foreign clients, including underwriting capital markets deals and equities brokerage
+  services. Separately, ship-tracking data showed a Malta-flagged tanker carrying
+  Russian diesel intermittently signaling a voyage to the United States, though the
+  vessel later changed its destination to "for orders," a designation that typically
+  indicates no confirmed final discharge port.
+nut_graf: 'These are separate developments rather than a single event, and each stands
+  at a different stage: Chinese regulators have cleared Citi to operate a wholly owned
+  securities company onshore, a Russian diesel cargo has signaled the United States
+  without confirming a discharge port, state laws and a customer suit have placed
+  algorithmic pricing before regulators and courts, and the U.S.-backed government
+  in Caracas is transferring management of a seized Venezuelan conglomerate to outside
+  investors.'
 primary_entities:
 - Citi
 - China
@@ -51,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,107 +165,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-23-chinese-regulators-authorize-citi-to-establish-a-wholly-owned-securities-company
-  headline: Chinese regulators authorize Citi to establish a wholly owned securities company
+  headline: Chinese regulators authorize Citi to establish a wholly owned securities
+    company
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7693
+  strength: 0.7708
 - slug: 2026-10-23-tanker-carrying-russian-diesel-briefly-lists-new-york-as-destination
   headline: Tanker carrying Russian diesel briefly lists New York as destination
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7061
+  strength: 0.7048
 - slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
   headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6508
+  strength: 0.6507
 - slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
   headline: Chinese automakers target overseas markets as US and EU tighten access
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6508
+  strength: 0.6506
 - slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
+  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under
+    2022 ban
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6517
-- slug: 2026-10-12-pentagon-reports-china-on-track-for-1-000-nuclear-weapons-by-2030
-  headline: Pentagon reports China on track for 1,000 nuclear weapons by 2030
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6451
-- slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
-  headline: EU regulators question MMG–Anglo American deal over China supply concerns
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6347
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6456
-- slug: 2026-10-06-at-least-50-chinese-firms-tied-to-fentanyl-precursors-now-sell-unregulated-pepti
-  headline: At least 50 Chinese firms tied to fentanyl precursors now sell unregulated peptides
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6492
-- slug: 2026-09-15-china-enacts-new-exit-restrictions-tied-to-export-control-violations
-  headline: China enacts new exit restrictions tied to export-control violations
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6445
-- slug: 2026-08-31-shein-set-for-1-7-billion-hong-kong-listing-as-ai-and-robotics-drive-chinese-sha
-  headline: Shein set for $1.7 billion Hong Kong listing as AI and robotics drive Chinese share-sales wave
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6346
-- slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
-  headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6399
+  strength: 0.6505
 - slug: 2026-07-28-chinese-regulators-cite-imported-risk-as-ai-stocks-follow-wall-street
   headline: Chinese regulators cite imported risk as AI stocks follow Wall Street
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6646
+  strength: 0.6641
 - slug: 2026-08-03-citi-analysts-say-taiwan-tech-earnings-confirm-early-stage-ai-expansion-with-ben
-  headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
+  headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion,
+    with benefits broadening
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6506
-- slug: 2026-07-28-ftc-investigating-shein-s-u-s-operations-retailer-reveals-in-ipo-filing
-  headline: FTC investigating Shein's U.S. operations, retailer reveals in IPO filing
-  publish_date: '2026-07-28'
+  strength: 0.6519
+- slug: 2026-06-01-china-tightens-outbound-investment-rules-amid-u-s--china-tech-rivalry
+  headline: China tightens outbound investment rules amid U.S.-China tech rivalry
+  publish_date: '2026-06-01'
   relation: related
-  strength: 0.6388
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6417
-- slug: 2026-07-13-chinese-regulator-clears-shein-for-hong-kong-ipo-at-over-40b-valuation
-  headline: Chinese regulator clears Shein for Hong Kong IPO at over $40B valuation
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6371
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6309
-- slug: 2026-07-15-deepseek-prepares-for-shanghai-ipo-as-soon-as-q2-2027
-  headline: DeepSeek prepares for Shanghai IPO as soon as Q2 2027
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6294
+  strength: 0.6588
 ---
-
 ## Citi receives Chinese approval for wholly owned securities company
 
 **Subtype:** fact

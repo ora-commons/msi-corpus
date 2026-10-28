@@ -1,9 +1,23 @@
 ---
 headline: Citation injects in Oklahoma's Bayou without a completed enforcement case
-secondary_headline: State database lists 1,000-plus Citation entries in pollution reports and rule violations
+secondary_headline: State database lists 1,000-plus Citation entries in pollution
+  reports and rule violations
 publish_date: '2026-10-27'
-lede: Oklahoma regulators allowed Citation Oil & Gas to restart wastewater injection wells in the Bayou oil field in 2024 without completing an enforcement case, despite agency staff recommending punishment and state consultants warning that high-pressure injection was fracturing rock and threatening drinking water. A yearlong investigation by The Frontier and ProPublica found that the Oklahoma Corporation Commission has no record of ever fining Citation or completing an enforcement case, even though the agency listed the company more than 1,000 times in a database of pollution reports and other rule violations over the past decade. By October, nearly all of the company’s Bayou injection wells were operating again, many above consultant-recommended pressures, while three recent purge investigations remained active.
-nut_graf: The Bayou case documents how state officials authorized high-pressure oil-production wastewater injection linked to polluted groundwater after agency staff and outside consultants recommended penalties or lower pressures. The original investigation closed without further action, newer pollution cases remained active, and Citation was again operating nearly all of its Bayou injection wells.
+lede: Oklahoma regulators allowed Citation Oil & Gas to restart wastewater injection
+  wells in the Bayou oil field in 2024 without completing an enforcement case, despite
+  agency staff recommending punishment and state consultants warning that high-pressure
+  injection was fracturing rock and threatening drinking water. A yearlong investigation
+  by The Frontier and ProPublica found that the Oklahoma Corporation Commission has
+  no record of ever fining Citation or completing an enforcement case, even though
+  the agency listed the company more than 1,000 times in a database of pollution reports
+  and other rule violations over the past decade. By October, nearly all of the company’s
+  Bayou injection wells were operating again, many above consultant-recommended pressures,
+  while three recent purge investigations remained active.
+nut_graf: The Bayou case documents how state officials authorized high-pressure oil-production
+  wastewater injection linked to polluted groundwater after agency staff and outside
+  consultants recommended penalties or lower pressures. The original investigation
+  closed without further action, newer pollution cases remained active, and Citation
+  was again operating nearly all of its Bayou injection wells.
 primary_entities:
 - Citation Oil & Gas
 - Oklahoma Corporation Commission
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +158,8 @@ related_stories:
   headline: Owner plugs Enid disposal well after investigation reveals permit violations
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6688
-- slug: 2026-09-25-colorado-marijuana-vape-maker-recalls-49-products-over-cancer-linked-solvent
-  headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6066
-- slug: 2026-09-14-abbott-orders-texas-water-board-to-penalize-noncompliant-datacenters
-  headline: Abbott orders Texas water board to penalize noncompliant datacenters
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6033
-- slug: 2026-09-08-us-datacenters-draw-wastewater-enforcement-across-multiple-states
-  headline: US datacenters draw wastewater enforcement across multiple states
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6036
-- slug: 2026-08-12-energy-fuels-to-more-than-double-white-mesa-mill-output-as-tribe-demands-shutdow
-  headline: Energy Fuels to more than double White Mesa Mill output as tribe demands shutdown
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6091
-- slug: 2026-07-13-proposed-keystone-spill-settlement-seeks-26-9m-penalty-2-700-animals-harmed
-  headline: Proposed Keystone spill settlement seeks $26.9M penalty; 2,700 animals harmed
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6469
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.601
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6289
-- slug: 2026-06-05-half-of-california-tested-waterways-contaminated-with-pfas-pesticides-analysis-f
-  headline: Half of California tested waterways contaminated with Pfas pesticides, analysis finds
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6049
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6125
-- slug: 2026-05-18-sheridan-oregon-tests-river-after-wood-treater-released-toxic-chemicals
-  headline: Sheridan, Oregon tests river after wood treater released toxic chemicals
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6083
-- slug: 2026-05-21-federal-officials-grant-final-easement-for-dakota-access-pipeline-crossing
-  headline: Federal officials grant final easement for Dakota Access pipeline crossing
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5999
-- slug: 2026-05-15-epa-proposes-rollback-of-coal-plant-wastewater-limits-citing-ai-driven-energy-de
-  headline: EPA proposes rollback of coal plant wastewater limits, citing AI-driven energy demand
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6002
-- slug: 2026-04-28-california-asks-court-to-order-sable-offshore-to-remove-pipeline
-  headline: California asks court to order Sable Offshore to remove pipeline
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.599
-- slug: 2026-04-03-kentucky-gop-overrides-beshear-on-roundup-cancer-failure-to-warn-shields
-  headline: Kentucky GOP overrides Beshear on Roundup cancer “failure-to-warn” shields
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6041
-- slug: 2026-04-11-hawaii-flooding-likely-diluted-pesticide-risk-but-bacteria-remain-concern
-  headline: Hawaii flooding likely diluted pesticide risk, but bacteria remain concern
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6019
-- slug: 2026-04-17-years-of-dam-danger-warnings-ignored-before-cheboygan-emergency
-  headline: Years of dam danger warnings ignored before Cheboygan emergency
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5986
-- slug: 2026-01-23-california-sues-trump-administration-over-pipeline-restart
-  headline: California sues Trump administration over pipeline restart
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6105
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  headline: EPA proposes limits on state Clean Water Act authority for pipelines and data centers
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6106
-- slug: 2026-02-12-six-months-after-us-steel-clairton-blast-safety-and-pollution-questions-linger
-  headline: Six months after US Steel Clairton blast, safety and pollution questions linger
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.604
+  strength: 0.6686
 ---
-
 ## Citation injects in Oklahoma's Bayou without a completed enforcement case
 
 **Subtype:** fact

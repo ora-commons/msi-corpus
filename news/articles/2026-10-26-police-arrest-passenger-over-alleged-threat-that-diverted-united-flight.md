@@ -1,9 +1,19 @@
 ---
 headline: Police arrest passenger over alleged threat that diverted United flight
-secondary_headline: FAA will investigate amid over 1,400 unruly passenger incidents in 2026
+secondary_headline: FAA will investigate amid over 1,400 unruly passenger incidents
+  in 2026
 publish_date: '2026-10-26'
-lede: On Saturday night, Las Vegas police arrested a 25-year-old passenger who was on a United flight after the man allegedly wrote, while midair, that he was going to “hijack” the plane, according to a copy of the criminal complaint. The alleged message forced the flight to be diverted back to Las Vegas shortly after takeoff Saturday, and the flight returned to the airport less than an hour after departing, according to Flightradar24 data. United confirmed that the 150 passengers on board returned safely.
-nut_graf: The alleged message led to the flight’s return to Las Vegas and an FAA investigation, while the criminal case remains at the arrest and charging stage. The complaint does not specify how the message was sent or whom it was directed to, and an attorney listed for the passenger did not immediately return a request for comment.
+lede: On Saturday night, Las Vegas police arrested a 25-year-old passenger who was
+  on a United flight after the man allegedly wrote, while midair, that he was going
+  to “hijack” the plane, according to a copy of the criminal complaint. The alleged
+  message forced the flight to be diverted back to Las Vegas shortly after takeoff
+  Saturday, and the flight returned to the airport less than an hour after departing,
+  according to Flightradar24 data. United confirmed that the 150 passengers on board
+  returned safely.
+nut_graf: The alleged message led to the flight’s return to Las Vegas and an FAA investigation,
+  while the criminal case remains at the arrest and charging stage. The complaint
+  does not specify how the message was sent or whom it was directed to, and an attorney
+  listed for the passenger did not immediately return a request for comment.
 primary_entities:
 - Las Vegas
 - Newark, New Jersey
@@ -33,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,104 +146,25 @@ related_stories:
   headline: Passenger arrested after stealing tug, crashing it at John Wayne Airport
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6784
-- slug: 2026-10-03-uae-says-flydubai-co-pilot-attacked-captain-with-crash-ax
-  headline: UAE says Flydubai co-pilot attacked captain with crash ax
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5984
-- slug: 2026-09-21-faa-halts-flights-at-three-airports-as-gao-cites-hacking-vulnerabilities
-  headline: FAA halts flights at three airports as GAO cites hacking vulnerabilities
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6031
-- slug: 2026-09-08-long-realty-severs-ties-with-agent-after-air-rage-arrest
-  headline: Long Realty severs ties with agent after air-rage arrest
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6259
-- slug: 2026-08-22-passenger-treated-after-device-fire-on-american-airlines-flight
-  headline: Passenger treated after device fire on American Airlines flight
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6277
+  strength: 0.6763
 - slug: 2026-05-31-united-flight-to-spain-returns-to-newark-after-possible-security-threat
   headline: United flight to Spain returns to Newark after possible security threat
   publish_date: '2026-05-31'
   relation: related
-  strength: 0.697
+  strength: 0.6956
 - slug: 2026-06-08-man-used-fake-boarding-pass-to-board-united-flight-at-houston-airport-feds-say
-  headline: Man used fake boarding pass to board United flight at Houston airport, feds say
+  headline: Man used fake boarding pass to board United flight at Houston airport,
+    feds say
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.6897
-- slug: 2026-07-20-united-employee-threatens-to-call-ice-on-passenger-at-sfo
-  headline: United employee threatens to call ICE on passenger at SFO
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6454
-- slug: 2026-08-06-southwest-blocks-ice-attempt-to-board-dallas-flight-without-judicial-warrant
-  headline: Southwest blocks ICE attempt to board Dallas flight without judicial warrant
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6009
-- slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
-  headline: Airline workers decline to help ICE agents as airport arrests rise
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5957
-- slug: 2026-06-21-american-airlines-passenger-bites-fellow-flyer-pilot-says
-  headline: American Airlines passenger bites fellow flyer, pilot says
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6291
-- slug: 2026-07-17-video-shows-ice-agents-abandoning-arrest-at-las-vegas-airport
-  headline: Video shows ICE agents abandoning arrest at Las Vegas airport
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5983
+  strength: 0.6873
 - slug: 2026-03-28-united-airlines-flight-narrowly-avoids-military-helicopter-near-california-airpo
-  headline: United Airlines flight narrowly avoids military helicopter near California airport
+  headline: United Airlines flight narrowly avoids military helicopter near California
+    airport
   publish_date: '2026-03-28'
   relation: related
-  strength: 0.6599
-- slug: 2026-05-04-united-jet-strikes-light-pole-damages-delivery-truck-while-landing-in-newark
-  headline: United jet strikes light pole, damages delivery truck while landing in Newark
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6491
-- slug: 2026-06-04-man-arrested-at-sacramento-airport-with-bomb-prosecutors-say
-  headline: Man arrested at Sacramento airport with bomb, prosecutors say
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.619
-- slug: 2026-06-22-two-more-arrested-in-alleged-white-house-ufc-attack-plot
-  headline: Two more arrested in alleged White House UFC attack plot
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6012
-- slug: 2026-05-05-united-plane-avoids-catastrophe-after-hitting-truck-light-pole-in-newark
-  headline: United plane avoids catastrophe after hitting truck, light pole in Newark
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6262
-- slug: 2026-02-27-convicted-stowaway-svetlana-dali-arrested-again-after-newark-to-milan-trip
-  headline: Convicted stowaway Svetlana Dali arrested again after Newark-to-Milan trip
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6403
-- slug: 2026-06-04-ntsb-united-jet-was-too-slow-and-too-low-before-newark-landing-accident
-  headline: 'NTSB: United jet was too slow and too low before Newark landing accident'
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6029
-- slug: 2026-02-19-flight-returned-to-houston-after-unruly-passenger-incident-after-takeoff
-  headline: Flight returned to Houston after unruly passenger incident after takeoff
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6222
+  strength: 0.6588
 ---
-
 ## Police arrest passenger over alleged threat that diverted United flight
 
 **Subtype:** fact

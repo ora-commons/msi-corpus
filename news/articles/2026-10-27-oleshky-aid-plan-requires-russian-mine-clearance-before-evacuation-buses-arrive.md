@@ -1,9 +1,22 @@
 ---
-headline: Oleshky aid plan requires Russian mine clearance before evacuation buses arrive
+headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+  arrive
 secondary_headline: Roughly 500 Oleshky residents have registered for evacuation
 publish_date: '2026-10-27'
-lede: Russian forces must clear mines from the road out of the Russian-occupied city of Oleshky in southern Ukraine before humanitarian aid and evacuation buses can arrive under a temporary ceasefire. Roughly 500 residents have registered for evacuation and were told to gather outside the town’s main hospital at 10 a.m. Friday, according to Ksenia Arkhipova, a former resident helping coordinate aid. Aid and buses are scheduled to begin arriving later in the week, so the mission remains contingent on mine clearance.
-nut_graf: 'Ukrainian and Russian officials give sharply different estimates of Oleshky’s remaining population: Ukrainian officials say roughly 2,000 civilians remain, while Russian officials say only a few hundred. Those who remain in Oleshky are mostly elderly and are unable to make the 12-mile journey on foot, while the roads are mined and policed by drones. Ksenia Arkhipova said the evacuation may be residents’ last chance before winter, when mines and snow could obstruct escape and dozens stepped on mines last winter.'
+lede: Russian forces must clear mines from the road out of the Russian-occupied city
+  of Oleshky in southern Ukraine before humanitarian aid and evacuation buses can
+  arrive under a temporary ceasefire. Roughly 500 residents have registered for evacuation
+  and were told to gather outside the town’s main hospital at 10 a.m. Friday, according
+  to Ksenia Arkhipova, a former resident helping coordinate aid. Aid and buses are
+  scheduled to begin arriving later in the week, so the mission remains contingent
+  on mine clearance.
+nut_graf: 'Ukrainian and Russian officials give sharply different estimates of Oleshky’s
+  remaining population: Ukrainian officials say roughly 2,000 civilians remain, while
+  Russian officials say only a few hundred. Those who remain in Oleshky are mostly
+  elderly and are unable to make the 12-mile journey on foot, while the roads are
+  mined and policed by drones. Ksenia Arkhipova said the evacuation may be residents’
+  last chance before winter, when mines and snow could obstruct escape and dozens
+  stepped on mines last winter.'
 primary_entities:
 - Oleshky
 - Melania Trump
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,116 +161,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive.png
-  alt: 'Illustration accompanying article: Oleshky aid plan requires Russian mine clearance before evacuation buses arrive'
+  alt: 'Illustration accompanying article: Oleshky aid plan requires Russian mine
+    clearance before evacuation buses arrive'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump
   headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7918
+  strength: 0.7928
 - slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
   headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7911
+  strength: 0.7927
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7862
+  strength: 0.7869
 - slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
   headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7836
+  strength: 0.7853
 - slug: 2026-10-24-russian-strikes-push-kyiv-toward-a-winter-of-power-outages
   headline: Russian strikes push Kyiv toward a winter of power outages
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6716
+  strength: 0.6673
 - slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
   headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.659
-- slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6426
+  strength: 0.6582
 - slug: 2026-10-10-russian-attacks-kill-at-least-19-across-ukraine-overnight
   headline: Russian attacks kill at least 19 across Ukraine overnight
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6581
-- slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
-  headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.64
-- slug: 2026-10-10-russian-strikes-kill-15-in-ukraine-hours-after-trump-diesel-deal
-  headline: Russian strikes kill 15 in Ukraine hours after Trump diesel deal
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6468
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6378
-- slug: 2026-10-01-ukraine-persists-with-russian-refinery-strikes-despite-trump-pressure
-  headline: Ukraine persists with Russian refinery strikes despite Trump pressure
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6386
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6476
+  strength: 0.657
 - slug: 2026-09-19-russia-holds-first-wartime-parliamentary-vote-in-annexed-ukrainian-regions
   headline: Russia holds first wartime parliamentary vote in annexed Ukrainian regions
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6527
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6465
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6859
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6593
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6486
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6527
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6481
+  strength: 0.65
 ---
-
 ## Oleshky aid plan requires Russian mine clearance before evacuation buses arrive
 
 **Subtype:** fact

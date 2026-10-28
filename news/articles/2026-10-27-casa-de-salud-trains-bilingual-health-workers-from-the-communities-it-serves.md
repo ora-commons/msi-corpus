@@ -2,8 +2,22 @@
 headline: Casa de Salud trains bilingual health workers from the communities it serves
 secondary_headline: Latinos account for about 6% of the U.S. physician workforce
 publish_date: '2026-10-27'
-lede: Casa de Salud, a primary care clinic in Albuquerque, New Mexico, has trained more than 300 bilingual high school and college students through a year-long health apprentice program founded in 2005. Apprentices rotate through clinic stations — from the front desk to the lab — while attending high school or college, and the program aims to help students from marginalized backgrounds enter medical programs and stay in their communities. The model arrives as 32 of New Mexico's 33 counties face a healthcare workforce shortage.
-nut_graf: Casa de Salud's apprenticeship responds to healthcare workforce shortages, particularly in rural areas and within Spanish-speaking communities, by helping students enter medical programs and remain in their communities. The clinic's tracking shows at least a third of the students it has followed have gone into healthcare, with more than half of those attending medical school. Alejandra Casarrubias, among the program's first students, is now a registered nurse at the clinic; 16 alumni have gone to school to become physician assistants; Fabian Corral is currently enrolled in a physician assistant program; and Gisselle Martinez is working toward certification as a nurse anesthetist.
+lede: Casa de Salud, a primary care clinic in Albuquerque, New Mexico, has trained
+  more than 300 bilingual high school and college students through a year-long health
+  apprentice program founded in 2005. Apprentices rotate through clinic stations —
+  from the front desk to the lab — while attending high school or college, and the
+  program aims to help students from marginalized backgrounds enter medical programs
+  and stay in their communities. The model arrives as 32 of New Mexico's 33 counties
+  face a healthcare workforce shortage.
+nut_graf: Casa de Salud's apprenticeship responds to healthcare workforce shortages,
+  particularly in rural areas and within Spanish-speaking communities, by helping
+  students enter medical programs and remain in their communities. The clinic's tracking
+  shows at least a third of the students it has followed have gone into healthcare,
+  with more than half of those attending medical school. Alejandra Casarrubias, among
+  the program's first students, is now a registered nurse at the clinic; 16 alumni
+  have gone to school to become physician assistants; Fabian Corral is currently enrolled
+  in a physician assistant program; and Gisselle Martinez is working toward certification
+  as a nurse anesthetist.
 primary_entities:
 - Casa de Salud
 - Albuquerque
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +152,8 @@ cross_article_links:
   strength: 0.5867
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-26-unm-health-system-diverts-ambulances-amid-new-mexico-cybersecurity-issue
-  headline: UNM Health System diverts ambulances amid New Mexico cybersecurity issue
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5972
-- slug: 2026-10-23-black-honors-college-at-sacramento-state-enrolls-more-than-800-students
-  headline: Black Honors College at Sacramento State enrolls more than 800 students
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5844
-- slug: 2026-10-08-la-county-partners-with-hospitals-to-auto-screen-patients-for-financial-aid
-  headline: LA County partners with hospitals to auto-screen patients for financial aid
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5974
-- slug: 2026-09-29-haaland-centers-addiction-recovery-in-new-mexico-governor-bid
-  headline: Haaland centers addiction recovery in New Mexico governor bid
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.589
-- slug: 2026-09-28-arizona-rep-grijalva-files-three-bills-to-fund-english-learner-services
-  headline: Arizona Rep. Grijalva files three bills to fund English learner services
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5788
-- slug: 2026-09-16-california-gun-violence-workers-say-ice-enforcement-reshaped-their-work
-  headline: California gun-violence workers say ICE enforcement reshaped their work
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5786
-- slug: 2026-08-25-after-17-years-in-prison-villarruel-mentors-la-youth-affected-by-gun-violence
-  headline: After 17 years in prison, Villarruel mentors LA youth affected by gun violence
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5804
-- slug: 2026-08-07-shipping-container-telehealth-clinic-serves-rural-texas-town
-  headline: Shipping container telehealth clinic serves rural Texas town
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6082
-- slug: 2026-08-04-texas-camp-for-queer-trans-youth-draws-from-region-with-no-queer-youth-organizat
-  headline: Texas camp for queer, trans youth draws from region with no queer youth organizations
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.585
-- slug: 2026-07-11-foreign-doctors-fill-healthcare-gap-in-quake-ravaged-venezuela
-  headline: Foreign doctors fill healthcare gap in quake-ravaged Venezuela
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6121
-- slug: 2026-07-21-massachusetts-senate-advances-bill-to-ease-primary-care-doctor-shortage
-  headline: Massachusetts Senate advances bill to ease primary care doctor shortage
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5955
-- slug: 2026-07-08-venezuela-earthquake-survivors-confront-healthcare-crisis-after-3-535-deaths
-  headline: Venezuela earthquake survivors confront healthcare crisis after 3,535 deaths
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6085
-- slug: 2026-07-21-more-men-enter-nursing-as-demand-grows-and-male-dominated-industries-decline
-  headline: More men enter nursing as demand grows and male-dominated industries decline
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5802
-- slug: 2026-06-06-big-business-and-philanthropies-pour-400-million-into-skilled-trades-training
-  headline: Big business and philanthropies pour $400 million into skilled trades training
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.596
-- slug: 2026-06-02-hawaii-grant-covers-med-school-for-doctors-who-pledge-rural-service
-  headline: Hawaii grant covers med school for doctors who pledge rural service
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5958
-- slug: 2026-02-08-preschool-programs-in-san-antonio-aim-to-narrow-gaps-in-kindergarten-readiness
-  headline: Preschool programs in San Antonio aim to narrow gaps in kindergarten readiness
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6206
-- slug: 2026-03-01-pediatric-hospital-screens-for-reading-ability-as-literacy-rates-lag
-  headline: Pediatric hospital screens for reading ability as literacy rates lag
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6099
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5794
-- slug: 2026-05-10-california-s-first-teacher-apprenticeship-program-aims-to-cut-vacancies
-  headline: California’s first teacher apprenticeship program aims to cut vacancies
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5908
-- slug: 2026-03-26-indian-health-service-chips-away-at-construction-backlog-for-aging-clinics
-  headline: Indian Health Service chips away at construction backlog for aging clinics
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6018
+related_stories: []
 ---
-
 ## Casa de Salud trains bilingual health workers from the communities it serves
 
 **Subtype:** fact

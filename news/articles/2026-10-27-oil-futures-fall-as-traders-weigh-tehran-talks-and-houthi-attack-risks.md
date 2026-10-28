@@ -1,9 +1,20 @@
 ---
 headline: Oil futures fall as traders weigh Tehran talks and Houthi attack risks
-secondary_headline: Saudi coalition reports missile interception and infrastructure destruction in Yemen
+secondary_headline: Saudi coalition reports missile interception and infrastructure
+  destruction in Yemen
 publish_date: '2026-10-27'
-lede: Oil futures fell Tuesday as traders weighed fresh efforts to ease Iran-related tensions against Houthi attacks on Saudi Arabia and risks to shipping through the Strait of Hormuz, according to The Wall Street Journal. December Brent crude futures fell 0.8% to $114.93 a barrel, while December West Texas Intermediate futures dropped 0.9% to $100.90 a barrel. Monday's developments included talks in Tehran, an Omani outline for restoring navigation through the Strait of Hormuz, and a Saudi-led coalition report of a missile interception.
-nut_graf: The price move came as diplomacy offered possible steps to ease tensions and restore navigation while the coalition reported continuing missile threats. Oman said political obstacles remained, and Omani Foreign Minister Badr Albusaidi said the proposed temporary arrangement would require compromises by both Washington and Tehran.
+lede: Oil futures fell Tuesday as traders weighed fresh efforts to ease Iran-related
+  tensions against Houthi attacks on Saudi Arabia and risks to shipping through the
+  Strait of Hormuz, according to The Wall Street Journal. December Brent crude futures
+  fell 0.8% to $114.93 a barrel, while December West Texas Intermediate futures dropped
+  0.9% to $100.90 a barrel. Monday's developments included talks in Tehran, an Omani
+  outline for restoring navigation through the Strait of Hormuz, and a Saudi-led coalition
+  report of a missile interception.
+nut_graf: The price move came as diplomacy offered possible steps to ease tensions
+  and restore navigation while the coalition reported continuing missile threats.
+  Oman said political obstacles remained, and Omani Foreign Minister Badr Albusaidi
+  said the proposed temporary arrangement would require compromises by both Washington
+  and Tehran.
 primary_entities:
 - Brent crude
 - West Texas Intermediate
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +154,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
-  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8967
+  strength: 0.8956
 - slug: 2026-10-21-crude-futures-rise-as-hormuz-threats-offset-recovering-middle-east-exports
   headline: Crude futures rise as Hormuz threats offset recovering Middle East exports
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7941
+  strength: 0.7926
 - slug: 2026-10-19-brent-falls-1-8-as-trump-waives-russia-sanctions
   headline: Brent falls 1.8% as Trump waives Russia sanctions
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7874
+  strength: 0.7871
 - slug: 2026-10-13-oil-prices-fall-middle-east-risks-russian-diesel
   headline: Brent slides 0.9% as Strait of Hormuz oil flows run 38% below prewar baseline
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8189
+  strength: 0.8178
 - slug: 2026-10-06-oil-prices-fall-as-middle-east-exports-recover-shipping-attacks-resume
   headline: Oil prices fall as Middle East exports recover, shipping attacks resume
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8449
+  strength: 0.8433
 - slug: 2026-10-15-brent-wti-slide-as-iea-says-gulf-crude-shipments-exceed-75-of-prewar-levels
-  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar levels
+  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar
+    levels
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.785
+  strength: 0.7839
 - slug: 2026-10-12-december-brent-falls-0-2-to-104-53-after-post-riyadh-rally-reverses
   headline: December Brent falls 0.2% to $104.53 after post-Riyadh rally reverses
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7858
+  strength: 0.7853
 - slug: 2026-09-30-oil-futures-extend-losses-as-persian-gulf-exports-near-2025-average
   headline: Oil futures extend losses as Persian Gulf exports near 2025 average
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8368
-- slug: 2026-10-09-brent-wti-fall-as-trump-appears-to-rule-out-iran-strikes-before-midterms
-  headline: Brent, WTI fall as Trump appears to rule out Iran strikes before midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7821
-- slug: 2026-09-25-oil-prices-fall-as-us-iran-diplomacy-hopes-offset-saudi-attack-threats
-  headline: Oil prices fall as US-Iran diplomacy hopes offset Saudi attack threats
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.8382
-- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
-  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8042
-- slug: 2026-09-18-oil-prices-fall-on-reports-some-saudi-crude-reached-asia-through-oman
-  headline: Oil prices fall on reports some Saudi crude reached Asia through Oman
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.8504
-- slug: 2026-09-24-oil-prices-fall-saudi-pipeline-restart-iran-talks
-  headline: Oil prices fall as Saudi pipeline restarts and U.S.-Iran contacts continue
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.8247
-- slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
-  headline: Oil prices rise as Trump rejects Iran ceasefire proposal
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8038
-- slug: 2026-09-16-oil-futures-slip-ahead-of-fed-decision-as-saudi-pipeline-repairs-extend
-  headline: Oil futures slip ahead of Fed decision as Saudi pipeline repairs extend
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.8233
-- slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
-  headline: Oil rises on Hormuz risks as Saudi crude flows rebound
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.781
-- slug: 2026-08-26-oil-prices-fall-as-iran-oman-propose-temporary-hormuz-shipping-route
-  headline: Oil prices fall as Iran, Oman propose temporary Hormuz shipping route
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.8294
-- slug: 2026-08-28-oil-holds-near-90-as-us-declines-to-return-to-iran-interim-hormuz-deal
-  headline: Oil holds near $90 as US declines to return to Iran interim Hormuz deal
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.789
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.8186
-- slug: 2026-07-28-oil-prices-extend-losses-as-u-s--iran-lull-spurs-strait-of-hormuz-diplomacy
-  headline: Oil prices extend losses as U.S.-Iran lull spurs Strait of Hormuz diplomacy
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.8309
+  strength: 0.8358
 ---
-
 ## Oil futures fall as traders weigh Tehran talks and Houthi attack risks
 
 **Subtype:** fact

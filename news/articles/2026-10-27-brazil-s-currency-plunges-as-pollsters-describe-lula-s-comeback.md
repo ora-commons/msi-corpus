@@ -1,9 +1,23 @@
 ---
 headline: Brazil's currency plunges as pollsters describe Lula's comeback
-secondary_headline: Political scientists, pollsters and Lula attribute the comeback to hope and fear
+secondary_headline: Political scientists, pollsters and Lula attribute the comeback
+  to hope and fear
 publish_date: '2026-10-27'
-lede: Brazil's currency plunged and stocks lost almost 20% early Monday as investors reacted to Luiz Inácio Lula da Silva's unexpected resurgence in Brazil's presidential runoff and the prospect of another leftist government. Political scientists, pollsters and Lula himself pointed to a mix of hope and fear as the explanation for the comeback, with a grassroots mobilization that brought young and elderly voters to the polls. Much of that mobilization was driven by André Janones, a former bus conductor turned congressman allied with Lula's Workers' Party, whose pro-Lula WhatsApp channel grew from 50,000 followers to nearly 11 million in three weeks.
-nut_graf: The accounting matters because Lula had been politically all but written off three weeks earlier and the right had already begun selecting ministers for a new government. Political scientists said some voters may have switched from Flávio Bolsonaro, and Leandro Gabiati said the most convincing explanation was a coalition driven more by opposition to Bolsonarismo than by identification with the president himself. Investors reacted to the prospect of another leftist administration while disputes over election administration and judicial authority remained unresolved.
+lede: Brazil's currency plunged and stocks lost almost 20% early Monday as investors
+  reacted to Luiz Inácio Lula da Silva's unexpected resurgence in Brazil's presidential
+  runoff and the prospect of another leftist government. Political scientists, pollsters
+  and Lula himself pointed to a mix of hope and fear as the explanation for the comeback,
+  with a grassroots mobilization that brought young and elderly voters to the polls.
+  Much of that mobilization was driven by André Janones, a former bus conductor turned
+  congressman allied with Lula's Workers' Party, whose pro-Lula WhatsApp channel grew
+  from 50,000 followers to nearly 11 million in three weeks.
+nut_graf: The accounting matters because Lula had been politically all but written
+  off three weeks earlier and the right had already begun selecting ministers for
+  a new government. Political scientists said some voters may have switched from Flávio
+  Bolsonaro, and Leandro Gabiati said the most convincing explanation was a coalition
+  driven more by opposition to Bolsonarismo than by identification with the president
+  himself. Investors reacted to the prospect of another leftist administration while
+  disputes over election administration and judicial authority remained unresolved.
 primary_entities:
 - Luiz Inácio Lula da Silva
 - Flávio Bolsonaro
@@ -46,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +158,8 @@ cross_article_links:
   strength: 0.7005
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.799
-- slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
-  headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.8017
-- slug: 2026-10-26-brazil-s-liberal-party-emerges-largest-in-congress-after-lula-s-51-8-runoff-win
-  headline: Brazil’s Liberal Party emerges largest in Congress after Lula’s 51.8% runoff win
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7838
-- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
-  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7615
-- slug: 2026-10-26-santander-shares-fall-after-lula-defeats-fl-vio-bolsonaro-in-brazil
-  headline: Santander shares fall after Lula defeats Flávio Bolsonaro in Brazil
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7441
-- slug: 2026-10-26-lula-pledges-against-dictatorship-as-brazil-s-victory-draws-global-recognition
-  headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7242
-- slug: 2026-10-26-justice-de-moraes-bars-fl-vio-bolsonaro-from-leaving-brazil-after-runoff-loss
-  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff loss
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7035
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7666
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7706
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7316
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7461
-- slug: 2026-10-15-brazil-s-senate-approves-40-hour-workweek-in-win-for-lula-ahead-of-runoff
-  headline: Brazil's Senate approves 40-hour workweek in win for Lula ahead of runoff
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6871
-- slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6902
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7224
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7073
-- slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
-  headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6882
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7103
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.672
-- slug: 2026-10-01-picanha-and-prices-loom-over-brazil-s-tight-presidential-election
-  headline: Picanha and prices loom over Brazil's tight presidential election
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6919
-- slug: 2026-10-05-three-bolsonaro-family-members-win-congressional-seats-as-bolsonarista-candidate
-  headline: Three Bolsonaro family members win congressional seats as Bolsonarista candidates expand Brazil's legislature
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6672
+related_stories: []
 ---
-
 ## Brazil's currency plunges as pollsters describe Lula's comeback
 
 **Subtype:** fact

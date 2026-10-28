@@ -1,9 +1,21 @@
 ---
 headline: Polymarket election-betting probes reportedly yield at least two CFTC referrals
-secondary_headline: Bautista says Polymarket surveillance generates hundreds of daily election-betting alerts
+secondary_headline: Bautista says Polymarket surveillance generates hundreds of daily
+  election-betting alerts
 publish_date: '2026-10-27'
-lede: At least two Polymarket investigations into election-related bets have been referred to the U.S. Commodity Futures Trading Commission, according to a person familiar with the probes who was not authorized to speak publicly. Shana Bautista, Polymarket's head of global intelligence and investigations, said the company has investigated “dozens” of election-related bets. Bautista said a 16-person team and a new election surveillance system are policing election bets ahead of the Nov. 3 midterms.
-nut_graf: The reported referrals come as crypto and prediction markets expand while federal policing of prediction markets remains limited. NPR reported that the CFTC has done little to police the fast-growing sector over the past two years and has largely left the work to companies. The industry also faces legal challenges from states and political pushback from lawmakers who argue that election betting poses serious risks to the democratic process.
+lede: At least two Polymarket investigations into election-related bets have been
+  referred to the U.S. Commodity Futures Trading Commission, according to a person
+  familiar with the probes who was not authorized to speak publicly. Shana Bautista,
+  Polymarket's head of global intelligence and investigations, said the company has
+  investigated “dozens” of election-related bets. Bautista said a 16-person team and
+  a new election surveillance system are policing election bets ahead of the Nov.
+  3 midterms.
+nut_graf: The reported referrals come as crypto and prediction markets expand while
+  federal policing of prediction markets remains limited. NPR reported that the CFTC
+  has done little to police the fast-growing sector over the past two years and has
+  largely left the work to companies. The industry also faces legal challenges from
+  states and political pushback from lawmakers who argue that election betting poses
+  serious risks to the democratic process.
 primary_entities:
 - Shana Bautista
 - Polymarket
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +162,45 @@ related_stories:
   headline: CFTC enforcement fell nearly 80% as prediction market approvals tripled
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7463
-- slug: 2026-10-11-courts-confront-betting-markets-that-let-users-wager-on-jury-outcomes
-  headline: Courts confront betting markets that let users wager on jury outcomes
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7301
+  strength: 0.7452
 - slug: 2026-09-24-new-york-ag-james-sues-polymarket-u-s-alleging-illegal-gambling
   headline: New York AG James sues Polymarket U.S., alleging illegal gambling
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7538
+  strength: 0.7505
 - slug: 2026-09-08-states-push-to-ban-prediction-markets-as-election-betting-expands
   headline: States push to ban prediction markets as election betting expands
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7678
+  strength: 0.7659
 - slug: 2026-09-11-bubblemaps-finds-19-polymarket-accounts-won-98-of-bets-on-kpmg-audited-firms
-  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited firms
+  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited
+    firms
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7334
+  strength: 0.731
 - slug: 2026-08-29-perez-surrenders-107-000-accepts-three-year-kalshi-ban-in-cftc-settlement
   headline: Perez surrenders $107,000, accepts three-year Kalshi ban in CFTC settlement
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7466
-- slug: 2026-08-13-cftc-probes-kalshi-mention-markets-after-white-house-teleprompter-bets
-  headline: CFTC probes Kalshi 'mention markets' after White House teleprompter bets
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7775
+  strength: 0.7458
 - slug: 2026-09-02-split-appeals-rulings-put-kalshi-oversight-before-supreme-court
   headline: Split appeals rulings put Kalshi oversight before Supreme Court
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7289
+  strength: 0.7282
+- slug: 2026-08-13-cftc-probes-kalshi-mention-markets-after-white-house-teleprompter-bets
+  headline: CFTC probes Kalshi 'mention markets' after White House teleprompter bets
+  publish_date: '2026-08-13'
+  relation: related
+  strength: 0.7765
 - slug: 2026-08-28-prakash-denies-betting-on-races-covered-by-his-fake-median-strategies-polls
-  headline: Prakash denies betting on races covered by his fake Median Strategies polls
+  headline: Prakash denies betting on races covered by his fake Median Strategies
+    polls
   publish_date: '2026-08-28'
   relation: related
   strength: 0.7336
-- slug: 2026-08-12-nyc-council-investigates-polymarket-kalshi-coinbase-gemini-titan
-  headline: NYC Council investigates Polymarket, Kalshi, Coinbase, Gemini Titan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.7539
-- slug: 2026-07-26-wisconsin-warns-election-bets-could-cost-voters-their-ballot
-  headline: Wisconsin warns election bets could cost voters their ballot
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7787
-- slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
-  headline: White House probe finds it can't track staff bets on prediction markets
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7645
-- slug: 2026-06-26-lawmakers-call-for-federal-probe-of-polymarket-over-deceptive-advertising
-  headline: Lawmakers call for federal probe of Polymarket over deceptive advertising
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.785
-- slug: 2026-04-27-prediction-markets-face-tighter-scrutiny-as-officials-target-insider-trading
-  headline: Prediction markets face tighter scrutiny as officials target insider trading
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.8097
-- slug: 2026-06-10-cftc-to-propose-new-rules-for-prediction-markets-allow-most-sports-bets
-  headline: CFTC to propose new rules for prediction markets, allow most sports bets
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7795
-- slug: 2026-07-16-white-house-teleprompter-operator-made-nearly-100k-betting-on-trump-s-words
-  headline: White House teleprompter operator made nearly $100K betting on Trump's words
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7416
-- slug: 2026-06-08-kalshi-and-polymarket-bar-affiliates-from-spreading-election-misinformation
-  headline: Kalshi and Polymarket bar affiliates from spreading election misinformation
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7634
-- slug: 2026-03-24-kalshi-and-polymarket-ban-insider-trading-by-politicians-and-athletes
-  headline: Kalshi and Polymarket ban insider trading by politicians and athletes
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7915
-- slug: 2026-04-17-washington-tightens-scrutiny-of-prediction-markets-over-geopolitical-betting
-  headline: Washington tightens scrutiny of prediction markets over geopolitical betting
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7841
-- slug: 2026-04-11-polymarket-flagged-a-classified-info-trade-as-the-maduro-raid-bet-led-to-a-400-0
-  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led to a $400,000 win
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7851
 ---
-
 ## Polymarket election-betting probes reportedly yield at least two CFTC referrals
 
 **Subtype:** fact

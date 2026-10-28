@@ -2,8 +2,14 @@
 headline: Venezuelan crude reaches Texas as Trump and Rubio plan Port Arthur visit
 secondary_headline: Rubio's campaign role is unclear as Paxton's Senate race is tight
 publish_date: '2026-10-27'
-lede: President Donald Trump and Secretary of State Marco Rubio plan to visit Port Arthur, Texas, on Tuesday to show off a newly arrived oil tanker filled with Venezuelan crude, according to a congressional aide and two U.S. officials. The visit coincides with Trump rallies in Corpus Christi and Lubbock as he campaigns for Republican candidates in the midterms.
-nut_graf: The visit brings a Venezuelan oil shipment and a tight U.S. Senate race into the same Texas itinerary. Rubio would also be making his first campaign-style road trip with Trump since the president began campaigning across the country.
+lede: President Donald Trump and Secretary of State Marco Rubio plan to visit Port
+  Arthur, Texas, on Tuesday to show off a newly arrived oil tanker filled with Venezuelan
+  crude, according to a congressional aide and two U.S. officials. The visit coincides
+  with Trump rallies in Corpus Christi and Lubbock as he campaigns for Republican
+  candidates in the midterms.
+nut_graf: The visit brings a Venezuelan oil shipment and a tight U.S. Senate race
+  into the same Texas itinerary. Rubio would also be making his first campaign-style
+  road trip with Trump since the president began campaigning across the country.
 primary_entities:
 - Donald Trump
 - Marco Rubio
@@ -47,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +152,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-venezuela-says-machado-was-free-to-enter-after-u-s-request
-  headline: Venezuela says Machado was free to enter after U.S. request
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6517
 - slug: 2026-10-23-trump-revives-proposal-for-u-s-warships-to-stop-off-cuba
   headline: Trump revives proposal for U.S. warships to stop off Cuba
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6714
-- slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
-  headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
-  publish_date: '2026-10-25'
+  strength: 0.6733
+- slug: 2026-10-26-venezuela-says-machado-was-free-to-enter-after-u-s-request
+  headline: Venezuela says Machado was free to enter after U.S. request
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6443
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6476
+  strength: 0.6504
 - slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
   headline: Trump campaigns in Texas and Oklahoma for GOP candidates
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.655
-- slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6373
+  strength: 0.6575
 - slug: 2026-09-01-chevron-to-expand-venezuela-operations-as-energy-secretary-plans-visit
   headline: Chevron to expand Venezuela operations as Energy Secretary plans visit
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6899
-- slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
-  headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6469
+  strength: 0.6844
 - slug: 2026-08-28-proposed-u-s-stake-in-17-venezuelan-fields-covers-90-billion-barrels
   headline: Proposed U.S. stake in 17 Venezuelan fields covers 90 billion barrels
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6578
+  strength: 0.6517
 - slug: 2026-06-24-rubio-seeks-to-reassure-gulf-allies-on-iran-deal-during-mideast-trip
   headline: Rubio seeks to reassure Gulf allies on Iran deal during Mideast trip
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6484
+  strength: 0.6505
 - slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  headline: Rubio tamps down nation-building fears as Trump insists US 'in charge' in Venezuela
+  headline: Rubio tamps down nation-building fears as Trump insists US 'in charge'
+    in Venezuela
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.6937
+  strength: 0.6914
 - slug: 2026-02-26-trump-won-t-name-texas-senate-primary-pick-yet-as-rivals-court-him
   headline: Trump won’t name Texas Senate primary pick yet as rivals court him
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6712
-- slug: 2026-01-08-trump-calls-on-oil-executives-to-invest-in-venezuela-after-maduro-ouster
-  headline: Trump calls on oil executives to invest in Venezuela after Maduro ouster
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6745
-- slug: 2026-02-12-energy-secretary-chris-wright-visits-venezuela-to-assess-oil-overhaul
-  headline: Energy Secretary Chris Wright visits Venezuela to assess oil overhaul
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6699
-- slug: 2026-02-27-trump-won-t-name-his-texas-senate-primary-pick-yet-backs-all-three
-  headline: Trump won’t name his Texas Senate primary pick yet, backs all three
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6638
-- slug: 2026-02-11-us-energy-secretary-visits-venezuela-to-assess-oil-overhaul-signals-shifting-san
-  headline: US energy secretary visits Venezuela to assess oil overhaul, signals shifting sanctions
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6654
-- slug: 2026-02-17-rubio-endorses-orb-n-s-bid-for-a-5th-term-in-hungary-ahead-of-april-vote
-  headline: Rubio endorses Orbán’s bid for a 5th term in Hungary ahead of April vote
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6543
-- slug: 2026-01-12-trump-says-he-is-inclined-to-keep-exxonmobil-out-of-venezuela-after-ceo-balks
-  headline: Trump says he is inclined to keep ExxonMobil out of Venezuela after CEO balks
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6546
-- slug: 2026-01-06-rubio-hegseth-brief-lawmakers-as-questions-mount-over-venezuela-next-steps
-  headline: Rubio, Hegseth brief lawmakers as questions mount over Venezuela next steps
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6541
-- slug: 2026-01-29-rubio-says-u-s-will-oversee-venezuela-oil-sale-proceeds-under-sanctions
-  headline: Rubio says U.S. will oversee Venezuela oil-sale proceeds under sanctions
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6526
+  strength: 0.6714
 ---
-
 ## Venezuelan crude reaches Texas as Trump and Rubio plan Port Arthur visit
 
 **Subtype:** fact

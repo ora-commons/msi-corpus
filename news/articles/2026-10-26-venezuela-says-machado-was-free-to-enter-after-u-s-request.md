@@ -1,9 +1,18 @@
 ---
 headline: Venezuela says Machado was free to enter after U.S. request
-secondary_headline: Rubio said relief should be the priority immediately after June earthquakes
+secondary_headline: Rubio said relief should be the priority immediately after June
+  earthquakes
 publish_date: '2026-10-26'
-lede: Secretary of State Marco Rubio said Monday that the Trump administration told Venezuela’s interim authorities “weeks and weeks ago” that opposition leader María Corina Machado should be allowed to return. Machado returned to Venezuela Sunday after the government of acting President Delcy Rodríguez said she was free to enter.
-nut_graf: Rubio said the Trump administration would watch events closely and urge all sides to comply with Venezuela’s new electoral process. Rubio also said the United States needed to use its leverage with the government and interim authorities to move the process forward responsibly, with an election as the U.S. goal. His comments followed an agreement on reforms intended to allow free and fair elections at some point in 2027 and Machado’s return to Venezuela.
+lede: Secretary of State Marco Rubio said Monday that the Trump administration told
+  Venezuela’s interim authorities “weeks and weeks ago” that opposition leader María
+  Corina Machado should be allowed to return. Machado returned to Venezuela Sunday
+  after the government of acting President Delcy Rodríguez said she was free to enter.
+nut_graf: Rubio said the Trump administration would watch events closely and urge
+  all sides to comply with Venezuela’s new electoral process. Rubio also said the
+  United States needed to use its leverage with the government and interim authorities
+  to move the process forward responsibly, with an election as the U.S. goal. His
+  comments followed an agreement on reforms intended to allow free and fair elections
+  at some point in 2027 and Machado’s return to Venezuela.
 primary_entities:
 - Marco Rubio
 - María Corina Machado
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +155,44 @@ related_stories:
   headline: Machado’s return revives Venezuela’s push for 2027 elections
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8282
+  strength: 0.8286
 - slug: 2026-10-25-trump-says-machado-lacks-the-support-or-respect-to-lead-venezuela
   headline: Trump says Machado lacks the support or respect to lead Venezuela
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8132
+  strength: 0.8148
 - slug: 2026-10-25-venezuela-s-machado-returns-home-after-nearly-11-months-abroad
   headline: Venezuela's Machado returns home after nearly 11 months abroad
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.795
+  strength: 0.7968
 - slug: 2026-10-25-trump-says-he-hopes-venezuelan-opposition-leader-mar-a-corina-machado-is-safe
-  headline: Trump says he hopes Venezuelan opposition leader María Corina Machado is safe
+  headline: Trump says he hopes Venezuelan opposition leader María Corina Machado
+    is safe
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7764
+  strength: 0.7782
 - slug: 2026-10-25-u-s-recruits-exiled-opposition-leader-for-venezuela-transition-talks
   headline: U.S. recruits exiled opposition leader for Venezuela transition talks
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7171
+  strength: 0.7177
 - slug: 2026-09-19-machado-readies-return-to-venezuela-to-press-for-elections
   headline: Machado readies return to Venezuela to press for elections
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.8044
+  strength: 0.8072
 - slug: 2026-09-23-machado-remains-blocked-from-venezuela-after-seven-failed-return-attempts
   headline: Machado remains blocked from Venezuela after seven failed return attempts
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7567
+  strength: 0.759
 - slug: 2026-09-23-venezuela-s-rodr-guez-pledges-elections-in-un-speech-sets-no-date
   headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7414
-- slug: 2026-09-23-trump-advances-three-front-latin-america-push-machado-s-reported-returns-fail
-  headline: Trump advances three-front Latin America push; Machado's reported returns fail
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7292
-- slug: 2026-08-01-u-s--backed-venezuela-democracy-talks-begin-without-opposition-leader-machado
-  headline: U.S.-backed Venezuela democracy talks begin without opposition leader Machado
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7774
-- slug: 2026-06-29-venezuela-blocks-machado-return-after-deadly-earthquakes
-  headline: Venezuela blocks Machado return after deadly earthquakes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.8027
-- slug: 2026-07-02-machado-flight-turned-back-after-u-s-officials-intervene
-  headline: Machado flight turned back after U.S. officials intervene
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7871
-- slug: 2026-07-15-venezuela-government-opposition-launch-joint-working-group-for-democratic-transi
-  headline: Venezuela government, opposition launch joint working group for democratic transition
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7558
-- slug: 2026-03-02-venezuela-opposition-leader-machado-says-she-will-return-in-coming-weeks
-  headline: Venezuela opposition leader Machado says she will return in coming weeks
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.8125
-- slug: 2026-03-13-machado-calls-trump-a-fundamental-ally-despite-u-s-backing-delcy-rodr-guez
-  headline: Machado calls Trump a “fundamental ally” despite U.S. backing Delcy Rodríguez
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7724
-- slug: 2026-01-15-machado-gives-trump-her-nobel-peace-prize-medal-at-white-house-meeting
-  headline: Machado gives Trump her Nobel Peace Prize medal at White House meeting
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7642
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7566
-- slug: 2026-01-06-rubio-hegseth-brief-lawmakers-as-questions-mount-over-venezuela-next-steps
-  headline: Rubio, Hegseth brief lawmakers as questions mount over Venezuela next steps
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.7539
-- slug: 2026-01-16-machado-expresses-confidence-in-venezuelan-democracy-transition-but-offers-no-ti
-  headline: Machado expresses confidence in Venezuelan democracy transition but offers no timetable
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7507
-- slug: 2026-03-05-us-and-venezuela-agree-to-restore-diplomatic-relations-after-maduro-s-ouster
-  headline: US and Venezuela agree to restore diplomatic relations after Maduro's ouster
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7394
+  strength: 0.742
 ---
-
 ## Venezuela says Machado was free to enter after U.S. request
 
 **Subtype:** fact

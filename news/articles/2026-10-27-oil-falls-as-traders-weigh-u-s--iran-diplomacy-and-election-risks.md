@@ -1,9 +1,16 @@
 ---
 headline: Oil falls as traders weigh U.S.-Iran diplomacy and election risks
-secondary_headline: Jefferies sees Origin dividend upside while cutting AGL Energy price target
+secondary_headline: Jefferies sees Origin dividend upside while cutting AGL Energy
+  price target
 publish_date: '2026-10-27'
-lede: Oil futures fell Monday as traders assessed Middle Eastern mediators' efforts to revive U.S.-Iran negotiations while the U.S. prepared additional military options against Iran, according to The Wall Street Journal. The journal's Energy & Utilities Roundup also reported analyst expectations for an Origin Energy dividend surprise and a reduced AGL Energy price target.
-nut_graf: 'Aaron Kildow of Sparta Commodities described the market''s central question as binary: war or no war. The roundup paired that geopolitical risk with company forecasts for LNG and power assets and a rise in gold as oil prices eased.'
+lede: Oil futures fell Monday as traders assessed Middle Eastern mediators' efforts
+  to revive U.S.-Iran negotiations while the U.S. prepared additional military options
+  against Iran, according to The Wall Street Journal. The journal's Energy & Utilities
+  Roundup also reported analyst expectations for an Origin Energy dividend surprise
+  and a reduced AGL Energy price target.
+nut_graf: 'Aaron Kildow of Sparta Commodities described the market''s central question
+  as binary: war or no war. The roundup paired that geopolitical risk with company
+  forecasts for LNG and power assets and a rise in gold as oil prices eased.'
 primary_entities:
 - The Wall Street Journal
 - Origin Energy
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,17 +150,18 @@ related_stories:
   headline: Oil futures fall as traders weigh Tehran talks and Houthi attack risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8087
-- slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
-  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows recover
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7567
+  strength: 0.8084
 - slug: 2026-10-26-dhar-says-near-term-inventory-depletion-risks-for-oil-have-declined
   headline: Dhar says near-term inventory-depletion risks for oil have declined
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7561
+  strength: 0.7563
+- slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7562
 - slug: 2026-10-22-oil-rises-as-u-s-prepares-iran-strike-options-and-conflict-concerns-return
   headline: Oil rises as U.S. prepares Iran strike options and conflict concerns return
   publish_date: '2026-10-22'
@@ -162,9 +171,10 @@ related_stories:
   headline: Brent, WTI fall as Trump appears to rule out Iran strikes before midterms
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7659
+  strength: 0.7658
 - slug: 2026-10-09-brent-wti-fall-as-trump-says-u-s-is-not-planning-iran-strikes-before-midterms
-  headline: Brent, WTI fall as Trump says U.S. is not planning Iran strikes before midterms
+  headline: Brent, WTI fall as Trump says U.S. is not planning Iran strikes before
+    midterms
   publish_date: '2026-10-09'
   relation: related
   strength: 0.7461
@@ -172,74 +182,13 @@ related_stories:
   headline: Oil prices fall as Middle East exports recover, shipping attacks resume
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7481
+  strength: 0.7476
 - slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
   headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7612
-- slug: 2026-09-25-oil-prices-fall-as-us-iran-diplomacy-hopes-offset-saudi-attack-threats
-  headline: Oil prices fall as US-Iran diplomacy hopes offset Saudi attack threats
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7721
-- slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
-  headline: Oil prices rise as Trump rejects Iran ceasefire proposal
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7451
-- slug: 2026-09-23-oil-futures-diverge-as-traders-weigh-us-iran-talks-and-saudi-pipeline-tests
-  headline: Oil futures diverge as traders weigh US-Iran talks and Saudi pipeline tests
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7494
-- slug: 2026-07-28-oil-prices-extend-losses-as-u-s--iran-lull-spurs-strait-of-hormuz-diplomacy
-  headline: Oil prices extend losses as U.S.-Iran lull spurs Strait of Hormuz diplomacy
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7739
-- slug: 2026-08-11-oil-prices-erase-gains-on-u-s--iran-progress-reports
-  headline: Oil prices erase gains on U.S.-Iran progress reports
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7456
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7466
-- slug: 2026-08-03-brent-crude-falls-5-2-after-trump-says-iran-talks-will-begin-monday
-  headline: Brent crude falls 5.2% after Trump says Iran talks will begin Monday
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.7452
-- slug: 2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet
-  headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7442
-- slug: 2026-06-22-oil-prices-fall-to-march-lows-as-us-iran-peace-talks-progress
-  headline: Oil prices fall to March lows as US-Iran peace talks progress
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7598
-- slug: 2026-06-01-gold-falls-on-firmer-dollar-as-u-s--iran-talks-remain-unsettled
-  headline: Gold falls on firmer dollar as U.S.-Iran talks remain unsettled
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7702
-- slug: 2026-06-12-oil-falls-as-trump-calls-off-iran-strikes-bp-india-power-in-focus
-  headline: Oil falls as Trump calls off Iran strikes; BP, India power in focus
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7622
-- slug: 2026-06-16-oil-falls-strait-of-hormuz-reopening-eyed-as-u-s--iran-deal-nears
-  headline: Oil Falls, Strait of Hormuz Reopening Eyed as U.S.-Iran Deal Nears
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7561
+  strength: 0.7603
 ---
-
 ## Oil falls as traders weigh U.S.-Iran diplomacy and election risks
 
 **Subtype:** fact

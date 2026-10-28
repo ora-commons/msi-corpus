@@ -2,8 +2,16 @@
 headline: Tata Motors' provisional Iveco holding exceeds 89% after tender
 secondary_headline: Tata's 14.4-euro-per-share offer values Iveco at $4.36 billion
 publish_date: '2026-10-27'
-lede: Tata Motors cleared a threshold condition in its proposed takeover of Iveco Group after a majority of Iveco shareholders tendered their shares, according to a filing published by Iveco on behalf of Tata. The filing said Tata Motors provisionally reached a shareholding of more than 89% of Iveco's common share capital, net of treasury shares, and that the acceptances satisfy the threshold condition for the proposed takeover.
-nut_graf: The shareholder acceptances satisfy the condition attached to the agreement Tata Motors reached last year to buy Iveco's commercial vehicles business. The transaction was structured to require the spinoff of Iveco's defense business first, and Italy's Leonardo agreed to buy that business earlier this year.
+lede: Tata Motors cleared a threshold condition in its proposed takeover of Iveco
+  Group after a majority of Iveco shareholders tendered their shares, according to
+  a filing published by Iveco on behalf of Tata. The filing said Tata Motors provisionally
+  reached a shareholding of more than 89% of Iveco's common share capital, net of
+  treasury shares, and that the acceptances satisfy the threshold condition for the
+  proposed takeover.
+nut_graf: The shareholder acceptances satisfy the condition attached to the agreement
+  Tata Motors reached last year to buy Iveco's commercial vehicles business. The transaction
+  was structured to require the spinoff of Iveco's defense business first, and Italy's
+  Leonardo agreed to buy that business earlier this year.
 primary_entities:
 - Tata Motors
 - Iveco Group
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +147,8 @@ cross_article_links:
   strength: 0.5672
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-26-citi-receives-chinese-approval-for-wholly-owned-securities-company
-  headline: Citi receives Chinese approval for wholly owned securities company
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5486
-- slug: 2026-10-20-reported-eu-hybrid-cap-could-slow-chinese-automakers-share-gains-next-year
-  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next year
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5494
-- slug: 2026-10-13-volkswagen-rises-as-analysts-praise-cost-cuts-stellantis-slips-on-2cv
-  headline: Volkswagen rises as analysts praise cost-cuts; Stellantis slips on 2CV
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5454
-- slug: 2026-10-06-volvo-ceo-outlines-plan-to-share-more-parts-with-chinese-owner
-  headline: Volvo CEO outlines plan to share more parts with Chinese owner
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5512
-- slug: 2026-09-28-nvidia-board-approves-record-150-billion-stock-buyback-increase
-  headline: Nvidia board approves record $150 billion stock buyback increase
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5626
-- slug: 2026-09-29-oil-rises-as-us-iran-talks-stall-daimler-truck-volvo-manage-backlog-delivery
-  headline: Oil rises as US-Iran talks stall; Daimler Truck, Volvo manage backlog delivery
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5463
-- slug: 2026-09-28-nhtsa-fuel-rule-ends-credit-trading-that-benefited-tesla
-  headline: NHTSA fuel rule ends credit trading that benefited Tesla
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5504
-- slug: 2026-09-18-volvo-car-cco-calls-chinese-competition-an-existential-threat-to-some-european-c
-  headline: Volvo Car CCO calls Chinese competition an existential threat to some European carmakers
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5476
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5481
-- slug: 2026-07-31-analysts-flag-magna-margin-gains-ferrari-beat-caution-on-renault-results
-  headline: Analysts flag Magna margin gains, Ferrari beat; caution on Renault results
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5522
-- slug: 2026-07-05-easyjet-agrees-in-principle-to-castlelake-s-5-2bn-takeover-bid
-  headline: EasyJet agrees in principle to Castlelake's £5.2bn takeover bid
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5748
-- slug: 2026-07-27-ford-motor-secures-pentagon-contract-to-develop-next-army-tactical-truck
-  headline: Ford Motor secures Pentagon contract to develop next Army tactical truck
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.546
-- slug: 2026-07-21-altana-acquires-ai-platform-to-automate-customs-entries
-  headline: Altana acquires AI platform to automate customs entries
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5504
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.545
-- slug: 2026-06-30-maersk-shares-gain-on-conflict-driven-rates-mercedes-ferrari-upgraded
-  headline: Maersk shares gain on conflict-driven rates; Mercedes, Ferrari upgraded
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5583
-- slug: 2026-06-08-intesa-sanpaolo-banco-bpm-vie-for-monte-dei-paschi-in-italian-banking-battle
-  headline: Intesa Sanpaolo, Banco BPM vie for Monte dei Paschi in Italian banking battle
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5763
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5457
-- slug: 2026-06-09-porsche-lufthansa-uber-nvidia-analysts-assess-auto-and-transport-sector
-  headline: 'Porsche, Lufthansa, Uber-Nvidia: Analysts Assess Auto and Transport Sector'
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5497
-- slug: 2026-06-01-castlelake-considers-3bn-easyjet-takeover-airline-calls-bid-opportunistic
-  headline: Castlelake considers £3bn easyJet takeover; airline calls bid opportunistic
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5493
-- slug: 2026-06-05-fedex-freight-spinoff-poised-to-benefit-as-ism-manufacturing-expands
-  headline: FedEx Freight spinoff poised to benefit as ISM manufacturing expands
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5467
+related_stories: []
 ---
-
 ## Tata Motors' provisional Iveco holding exceeds 89% after tender
 
 **Subtype:** fact

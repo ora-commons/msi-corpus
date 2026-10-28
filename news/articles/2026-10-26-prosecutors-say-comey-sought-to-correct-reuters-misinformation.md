@@ -2,8 +2,20 @@
 headline: Prosecutors say Comey sought to correct Reuters misinformation
 secondary_headline: Criminal information was filed under seal on Oct. 6, 2016
 publish_date: '2026-10-26'
-lede: Prosecutors allege that former FBI Director James Comey sought to correct misinformation that had appeared in the press through Reuters the day before a New York Times story and directed his staff to speak with a journalist about accuracy concerns. They allege those actions illegally transferred classified information. The Justice Department filed the criminal information under seal on Oct. 6, 2016, 10 years after the story appeared, but Comey's lawyers say the statute required an indictment within 10 years and that an information cannot substitute. Their request to dismiss the filing remains pending.
-nut_graf: 'The newly unsealed filing supplies the government''s specific theory: Comey used contacts with a New York Times journalist to correct what prosecutors called Reuters misinformation, allegedly transferring classified information. The case now turns on whether the Justice Department''s Oct. 6, 2016 filing tolls the 10-year statute of limitations, which Comey''s lawyers say required an indictment within that period.'
+lede: Prosecutors allege that former FBI Director James Comey sought to correct misinformation
+  that had appeared in the press through Reuters the day before a New York Times story
+  and directed his staff to speak with a journalist about accuracy concerns. They
+  allege those actions illegally transferred classified information. The Justice Department
+  filed the criminal information under seal on Oct. 6, 2016, 10 years after the story
+  appeared, but Comey's lawyers say the statute required an indictment within 10 years
+  and that an information cannot substitute. Their request to dismiss the filing remains
+  pending.
+nut_graf: 'The newly unsealed filing supplies the government''s specific theory: Comey
+  used contacts with a New York Times journalist to correct what prosecutors called
+  Reuters misinformation, allegedly transferring classified information. The case
+  now turns on whether the Justice Department''s Oct. 6, 2016 filing tolls the 10-year
+  statute of limitations, which Comey''s lawyers say required an indictment within
+  that period.'
 primary_entities:
 - James Comey
 - Justice Department
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +156,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation.png
-  alt: 'Illustration accompanying article: Prosecutors say Comey sought to correct Reuters misinformation'
+  alt: 'Illustration accompanying article: Prosecutors say Comey sought to correct
+    Reuters misinformation'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-26-justice-department-spokeswoman-says-waiverless-filing-extended-10-year-deadline
-  headline: Justice Department spokeswoman says waiverless filing extended 10-year deadline
+  headline: Justice Department spokeswoman says waiverless filing extended 10-year
+    deadline
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7995
+  strength: 0.7993
 - slug: 2026-10-26-justice-department-charges-james-comey-over-alleged-2016-leak
   headline: Justice Department charges James Comey over alleged 2016 leak
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7948
+  strength: 0.7939
 - slug: 2026-10-26-federal-prosecutors-charge-james-comey-with-leaking-national-defense-information
   headline: Federal prosecutors charge James Comey with leaking national defense information
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7749
+  strength: 0.7746
 - slug: 2026-10-26-yahoo-email-scan-order-links-renewed-comey-case-to-2016-disclosure
   headline: Yahoo email-scan order links renewed Comey case to 2016 disclosure
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7619
+  strength: 0.7625
 - slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
   headline: James Comey remains unindicted after defense filed dismissal motion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.752
+  strength: 0.7516
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
+  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7321
+- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-in-third-justice-department-prosecution
+  headline: Trump calls James Comey a “dirty cop” in third Justice Department prosecution
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7128
 - slug: 2026-10-26-justice-department-says-pam-bondi-decided-maurene-comey-s-firing
   headline: Justice Department says Pam Bondi decided Maurene Comey's firing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6609
-- slug: 2026-10-26-seis-ciudadanos-buscan-una-protecci-n-judicial-m-s-amplia-para-el-acceso-de-medi
-  headline: Seis ciudadanos buscan una protección judicial más amplia para el acceso de medios a la Casa Blanca
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6606
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6557
-- slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6671
-- slug: 2026-09-25-judge-pushes-comey-seashell-case-trial-to-2027
-  headline: Judge pushes Comey seashell-case trial to 2027
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.656
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6594
-- slug: 2026-08-19-prosecutors-say-comey-seashell-post-could-be-read-as-trump-threat
-  headline: Prosecutors say Comey seashell post could be read as Trump threat
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6811
-- slug: 2026-07-23-trump-leak-probe-subpoenas-seek-records-of-reporters-relatives
-  headline: Trump leak probe subpoenas seek records of reporters' relatives
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6952
-- slug: 2026-07-20-trump-administration-subpoenas-phone-records-of-nyt-journalists-relatives
-  headline: Trump administration subpoenas phone records of NYT journalists, relatives
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6888
-- slug: 2026-07-23-new-york-times-argues-subpoenas-are-retaliation-for-reporting
-  headline: New York Times argues subpoenas are retaliation for reporting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6682
-- slug: 2026-07-27-comey-urges-judge-to-toss-seashell-threat-charge-as-protected-speech
-  headline: Comey urges judge to toss seashell threat charge as protected speech
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6615
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6673
-- slug: 2026-04-29-comey-indicted-again-over-86-47-seashell-photo-officials-call-threat
-  headline: Comey indicted again over '86 47' seashell photo officials call threat
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6783
-- slug: 2026-05-20-ex-prosecutor-charged-with-sending-sealed-jack-smith-report-to-herself
-  headline: Ex-prosecutor charged with sending sealed Jack Smith report to herself
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6645
-- slug: 2026-05-31-lead-prosecutor-leaves-james-comey-case-without-explanation
-  headline: Lead prosecutor leaves James Comey case without explanation
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6552
+  strength: 0.6608
 ---
-
 ## Prosecutors say Comey sought to correct Reuters misinformation
 
 **Subtype:** fact
