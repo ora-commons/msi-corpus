@@ -1,9 +1,21 @@
 ---
 headline: Military data center advances as residents challenge linked Haleakalā telescopes
-secondary_headline: The projects faced different reviews on state conservation and private land
+secondary_headline: The projects faced different reviews on state conservation and
+  private land
 publish_date: '2026-10-27'
-lede: Federal officials are building a two-story, 56,000-square-foot military laboratory and data center in Kīhei that would remotely operate telescopes planned for Haleakalā. The nearly $100 million Secure Integration Support Laboratory is under construction at the Maui Research and Technology Park, while the U.S. Air Force and U.S. Space Force have proposed up to seven telescopes in a state conservation district on the mountain's 10,000-foot summit.
-nut_graf: 'The controversy centers on disclosure and environmental review: residents have questioned how a Kīhei laboratory already under construction could support a telescope project that still requires an environmental impact statement and public feedback. The Kīhei draft assessment did not include detailed water-use information, but projected reduced water and energy consumption by the Air Force on Maui over the life of the facility and identified “short-term minor adverse effects on potable water use” during the early stages of the project.'
+lede: Federal officials are building a two-story, 56,000-square-foot military laboratory
+  and data center in Kīhei that would remotely operate telescopes planned for Haleakalā.
+  The nearly $100 million Secure Integration Support Laboratory is under construction
+  at the Maui Research and Technology Park, while the U.S. Air Force and U.S. Space
+  Force have proposed up to seven telescopes in a state conservation district on the
+  mountain's 10,000-foot summit.
+nut_graf: 'The controversy centers on disclosure and environmental review: residents
+  have questioned how a Kīhei laboratory already under construction could support
+  a telescope project that still requires an environmental impact statement and public
+  feedback. The Kīhei draft assessment did not include detailed water-use information,
+  but projected reduced water and energy consumption by the Air Force on Maui over
+  the life of the facility and identified “short-term minor adverse effects on potable
+  water use” during the early stages of the project.'
 primary_entities:
 - Secure Integration Support Laboratory
 - U.S. Air Force
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +158,34 @@ related_stories:
   headline: Olowalu coral core links Maui land use to reef decline
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6508
+  strength: 0.6505
 - slug: 2026-02-19-hawaii-residents-oppose-plan-to-add-more-telescopes-atop-haleakal
   headline: Hawaii residents oppose plan to add more telescopes atop Haleakalā
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.839
-- slug: 2026-08-26-piketon-weighs-500bn-ai-datacenter-jobs-against-health-environmental-risks
-  headline: Piketon weighs $500bn AI datacenter jobs against health, environmental risks
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6268
-- slug: 2026-08-12-project-tango-datacenter-faces-palm-beach-county-opposition-over-algae
-  headline: Project Tango datacenter faces Palm Beach County opposition over algae
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6154
+  strength: 0.8389
 - slug: 2026-04-30-kaua-i-s-waimea-canyon-to-get-faa-weather-cameras-for-air-tours
   headline: Kauaʻi’s Waimea Canyon to get FAA weather cameras for air tours
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.6908
+  strength: 0.691
 - slug: 2026-04-15-hawaiian-electric-flood-zone-issue-clouds-waiau-power-project-loan-plans
   headline: Hawaiian Electric flood-zone issue clouds Waiau power project loan plans
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6731
+  strength: 0.6728
 - slug: 2026-02-23-proposed-kauai-housing-project-divides-historic-k-loa-town
   headline: Proposed Kauai housing project divides historic Kōloa town
   publish_date: '2026-02-23'
   relation: related
-  strength: 0.6784
+  strength: 0.6783
 - slug: 2026-04-16-kaua-i-volunteers-map-coconut-rhinoceros-beetle-spread-offer-model-for-hawai-i
-  headline: Kaua'i volunteers map coconut rhinoceros beetle spread, offer model for Hawai'i
+  headline: Kaua'i volunteers map coconut rhinoceros beetle spread, offer model for
+    Hawai'i
   publish_date: '2026-04-16'
   relation: related
   strength: 0.6579
-- slug: 2026-05-02-army-proposes-3-gigawatt-fort-bliss-ai-data-center-raising-power-and-water-quest
-  headline: Army proposes 3-gigawatt Fort Bliss AI data center, raising power and water questions
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6475
-- slug: 2026-04-17-ypsilanti-township-calls-12-month-pause-on-water-for-data-centers
-  headline: Ypsilanti Township calls 12-month pause on water for data centers
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.646
-- slug: 2026-06-14-o-leary-blames-china-for-utah-data-center-opposition
-  headline: O'Leary blames China for Utah data center opposition
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6172
-- slug: 2026-02-05-sheriff-s-drones-could-start-flying-over-waik-k-as-soon-as-march
-  headline: Sheriff’s drones could start flying over Waikīkī as soon as March
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6466
-- slug: 2026-06-02-trump-administration-plans-to-dismantle-368-million-ocean-monitoring-network
-  headline: Trump administration plans to dismantle $368 million ocean monitoring network
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6145
-- slug: 2026-03-05-hawaii-land-board-backs-state-purchase-of-h-ena-beach-park-parcels
-  headline: Hawaii land board backs state purchase of Hā‘ena Beach Park parcels
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6422
-- slug: 2026-02-13-as-ai-investors-eye-montana-for-data-centers-communities-brace-for-water-impacts
-  headline: As AI investors eye Montana for data centers, communities brace for water impacts
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6433
-- slug: 2026-04-24-michigan-utility-approves-12-month-water-ban-for-data-centers
-  headline: Michigan utility approves 12-month water ban for data centers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6257
-- slug: 2026-03-21-over-5-500-ordered-to-evacuate-as-flooding-threatens-oahu-dam
-  headline: Over 5,500 ordered to evacuate as flooding threatens Oahu dam
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6282
-- slug: 2026-04-16-hawaii-agency-approves-4-9m-land-purchase-to-acquire-hazardous-wahiaw-dam
-  headline: Hawaii agency approves $4.9M land purchase to acquire hazardous Wahiawā dam
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6208
-- slug: 2026-01-12-five-alal-survive-first-year-in-maui-forests-after-two-decades-out-of-the-wild
-  headline: Five ʻalalā survive first year in Maui forests after two decades out of the wild
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6318
-- slug: 2026-03-05-hawai-i-school-panic-button-program-stalls-as-contractor-faces-federal-bribery-p
-  headline: Hawaiʻi school panic button program stalls as contractor faces federal bribery probe
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6264
 ---
-
 ## Military data center advances as residents challenge linked Haleakalā telescopes
 
 **Subtype:** fact

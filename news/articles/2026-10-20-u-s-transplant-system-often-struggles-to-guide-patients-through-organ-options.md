@@ -2,8 +2,18 @@
 headline: U.S. transplant system often struggles to guide patients through organ options
 secondary_headline: About 1 in 5 donated organs goes unused as hospital criteria diverge
 publish_date: '2026-10-20'
-lede: Katherine Screws received an intestine transplant in June 2025 after waiting three years for a replacement following a May 2022 car crash, despite an initial prediction of about six months. OneLegacy nurse Lisa Stocks helped Screws compare transplant centers after all nine of OneLegacy's 2024 offers for her were declined, and Screws received the organ within weeks of registering at a second hospital. Her experience highlights limited guidance in a system where about 1 in 5 donated organs go unused.
-nut_graf: Transplant candidates can face organ-specific waiting lists, differing hospital acceptance criteria and decisions about whether to accept an organ that does not meet their preferences. Regulators are considering changes to the nation's 55 organ procurement organizations, while Medicare is testing financial incentives or penalties to increase kidney transplants and reduce unused donated kidneys.
+lede: Katherine Screws received an intestine transplant in June 2025 after waiting
+  three years for a replacement following a May 2022 car crash, despite an initial
+  prediction of about six months. OneLegacy nurse Lisa Stocks helped Screws compare
+  transplant centers after all nine of OneLegacy's 2024 offers for her were declined,
+  and Screws received the organ within weeks of registering at a second hospital.
+  Her experience highlights limited guidance in a system where about 1 in 5 donated
+  organs go unused.
+nut_graf: Transplant candidates can face organ-specific waiting lists, differing hospital
+  acceptance criteria and decisions about whether to accept an organ that does not
+  meet their preferences. Regulators are considering changes to the nation's 55 organ
+  procurement organizations, while Medicare is testing financial incentives or penalties
+  to increase kidney transplants and reduce unused donated kidneys.
 primary_entities:
 - Katherine Screws
 - Lisa Stocks
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +159,18 @@ related_stories:
   headline: SRTR adds tools for comparing U.S. transplant centers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7215
-- slug: 2026-10-22-randy-spivey-details-team-doubts-before-christa-pike-s-failed-execution
-  headline: Randy Spivey details team doubts before Christa Pike’s failed execution
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5965
-- slug: 2026-10-22-tennessee-protocol-specifies-no-steps-if-pike-survives-second-pentobarbital-dose
-  headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital dose
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5785
-- slug: 2026-10-24-medical-experts-fault-tennessee-s-iv-team-after-pike-s-failed-execution
-  headline: Medical experts fault Tennessee's IV team after Pike's failed execution
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5744
-- slug: 2026-10-11-christa-pike-survives-lethal-injection-as-us-executions-hit-a-16-year-high
-  headline: Christa Pike survives lethal injection as US executions hit a 16-year high
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5821
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6135
-- slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5763
-- slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5892
-- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
-  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5878
-- slug: 2026-10-05-former-christa-pike-lawyer-says-tennessee-was-warned-execution-would-be-cruel
-  headline: Former Christa Pike lawyer says Tennessee was warned execution would be 'cruel'
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5715
-- slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
-  headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5786
-- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5774
-- slug: 2026-09-27-survey-fewer-than-3-of-us-sickle-cell-patients-receive-red-blood-cell-exchange
-  headline: 'Survey: fewer than 3% of US sickle cell patients receive red blood cell exchange'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5889
-- slug: 2026-09-05-new-endometriosis-tests-raise-hopes-but-remain-unavailable-in-u-s
-  headline: New endometriosis tests raise hopes but remain unavailable in U.S.
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5964
-- slug: 2026-08-05-trump-administration-moves-to-decertify-kentucky-organ-donation-group
-  headline: Trump administration moves to decertify Kentucky organ donation group
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5974
+  strength: 0.7226
 - slug: 2026-01-14-public-mistrust-drives-first-drop-in-us-kidney-transplants-in-over-a-decade
   headline: Public mistrust drives first drop in US kidney transplants in over a decade
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.6897
+  strength: 0.6902
 - slug: 2026-01-30-medicare-proposes-new-rules-to-expand-deceased-organ-use-and-oversight
   headline: Medicare proposes new rules to expand deceased organ use and oversight
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.6824
-- slug: 2026-07-20-deloitte-run-medicaid-system-denied-disabled-patients-in-michigan-probe-finds
-  headline: Deloitte-run Medicaid system denied disabled patients in Michigan, probe finds
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5784
-- slug: 2026-07-22-budget-law-stalls-bipartisan-pre-release-medicaid-effort
-  headline: Budget law stalls bipartisan pre-release Medicaid effort
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5722
-- slug: 2026-03-13-biased-kidney-test-fix-credits-black-candidates-with-waiting-time
-  headline: Biased kidney test fix credits Black candidates with waiting time
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6478
+  strength: 0.6836
 ---
-
 ## U.S. transplant system often struggles to guide patients through organ options
 
 **Subtype:** fact
