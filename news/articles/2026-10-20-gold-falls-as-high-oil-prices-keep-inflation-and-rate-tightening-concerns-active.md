@@ -1,9 +1,26 @@
 ---
-headline: Gold falls as high oil prices keep inflation and rate-tightening concerns active
+headline: Gold falls as high oil prices keep inflation and rate-tightening concerns
+  active
 secondary_headline: 'Steuart: housing slump threatens Canadian lumber producers'
 publish_date: '2026-10-20'
-lede: Front-month gold futures slipped 0.4% in New York to $4,122.40 a troy ounce on October 20, settling lower for a second consecutive session as high oil prices kept inflation and interest-rate expectations in focus. Silver gained 1.3% to $57.706 a troy ounce. TD Cowen analyst Sean Steuart said a deepening slump in U.S. home construction is threatening Canadian lumber producers, with September housing starts down 5.2% to an annualized 1.221 million units, missing estimates by 6.4% and hitting near six-year lows. Separate items covered BHP Group's first-quarter copper output, Anglo American's third-quarter production update and Citi analyst Ryan Davis's assessment of Press Metal Aluminium's power-supply risk.
-nut_graf: High oil prices and renewed inflation concerns kept expectations of tighter central-bank policy in focus, weighing on gold even as central-bank gold purchases offered support, according to Fawad Razaqzada of Forex.com. TD Cowen analyst Sean Steuart said the deepening U.S. housing slump is threatening Canadian lumber producers. RBC Capital Markets said BHP's realized copper price was 8% above its expectation. J.P. Morgan analyst Dominic O'Kane said Anglo American's lower full-year copper-cost guidance should lead to a small upward revision to full-year earnings consensus. Citi analyst Ryan Davis identified reduced power supply as Press Metal Aluminium's most immediate risk.
+lede: Front-month gold futures slipped 0.4% in New York to $4,122.40 a troy ounce
+  on October 20, settling lower for a second consecutive session as high oil prices
+  kept inflation and interest-rate expectations in focus. Silver gained 1.3% to $57.706
+  a troy ounce. TD Cowen analyst Sean Steuart said a deepening slump in U.S. home
+  construction is threatening Canadian lumber producers, with September housing starts
+  down 5.2% to an annualized 1.221 million units, missing estimates by 6.4% and hitting
+  near six-year lows. Separate items covered BHP Group's first-quarter copper output,
+  Anglo American's third-quarter production update and Citi analyst Ryan Davis's assessment
+  of Press Metal Aluminium's power-supply risk.
+nut_graf: High oil prices and renewed inflation concerns kept expectations of tighter
+  central-bank policy in focus, weighing on gold even as central-bank gold purchases
+  offered support, according to Fawad Razaqzada of Forex.com. TD Cowen analyst Sean
+  Steuart said the deepening U.S. housing slump is threatening Canadian lumber producers.
+  RBC Capital Markets said BHP's realized copper price was 8% above its expectation.
+  J.P. Morgan analyst Dominic O'Kane said Anglo American's lower full-year copper-cost
+  guidance should lead to a small upward revision to full-year earnings consensus.
+  Citi analyst Ryan Davis identified reduced power supply as Press Metal Aluminium's
+  most immediate risk.
 primary_entities:
 - Fawad Razaqzada
 - Sean Steuart
@@ -56,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -72,7 +90,10 @@ figures:
   series_id: HOUST
   transformation: raw
   as_of: '2026-10-20'
-  caption: Total U.S. housing starts stood at 1.221 million annualized units in September, near a six-year low. TD Cowen said residential construction accounts for 31% of North American lumber volume, making housing data relevant to Canadian lumber demand.
+  caption: Total U.S. housing starts stood at 1.221 million annualized units in September,
+    near a six-year low. TD Cowen said residential construction accounts for 31% of
+    North American lumber volume, making housing data relevant to Canadian lumber
+    demand.
 figures_aggregate:
   count: 1
   series_ids:
@@ -166,104 +187,43 @@ related_stories:
   headline: Gold falls as Kooijman sees oil likely reinforcing hawkish rate expectations
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8235
+  strength: 0.8245
+- slug: 2026-10-22-silver-falls-4-5-aslam-cites-yields-dollar-and-oil-linked-inflation
+  headline: Silver falls 4.5%; Aslam cites yields, dollar and oil-linked inflation
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7754
 - slug: 2026-10-15-gold-and-silver-fall-after-u-s-september-cpi-tops-estimates
   headline: Gold and silver fall after U.S. September CPI tops estimates
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7448
+  strength: 0.7453
 - slug: 2026-10-14-gold-silver-fall-after-hotter-than-expected-core-cpi-print
   headline: Gold, silver fall after hotter-than-expected core CPI print
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7495
+  strength: 0.7499
 - slug: 2026-10-20-equifax-cuts-guidance-amid-mortgage-pressure-and-uneven-financial-growth
   headline: Equifax cuts guidance amid mortgage pressure and uneven financial growth
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6536
-- slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.644
+  strength: 0.654
 - slug: 2026-09-28-gold-falls-to-seven-week-low-as-analysts-weigh-basf-evonik-merger
   headline: Gold falls to seven-week low as analysts weigh BASF/Evonik merger
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6661
-- slug: 2026-09-10-us-existing-home-sales-fall-to-slowest-pace-in-over-a-year
-  headline: US existing home sales fall to slowest pace in over a year
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6445
+  strength: 0.6669
 - slug: 2026-09-04-analysts-lift-bhp-copper-cost-outlook-start-nexgen-energy-at-buy
   headline: Analysts lift BHP copper cost outlook, start NexGen Energy at buy
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6586
+  strength: 0.657
 - slug: 2026-08-06-lumber-prices-rise-as-shrinking-supply-outweighs-weak-housing-demand
   headline: Lumber prices rise as shrinking supply outweighs weak housing demand
   publish_date: '2026-08-06'
   relation: related
   strength: 0.6804
-- slug: 2026-06-11-gold-outlook-supported-by-hedge-demand-state-street-says
-  headline: Gold outlook supported by hedge demand, State Street says
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7374
-- slug: 2026-06-01-gold-falls-on-firmer-dollar-as-u-s--iran-talks-remain-unsettled
-  headline: Gold falls on firmer dollar as U.S.-Iran talks remain unsettled
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7238
-- slug: 2026-08-03-gold-edges-higher-as-iran-diplomacy-talks-ease-oil-inflation-worries
-  headline: Gold edges higher as Iran diplomacy talks ease oil, inflation worries
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6443
-- slug: 2026-06-19-gold-falls-bhp-jansen-costs-climb-in-mixed-basic-materials-week
-  headline: Gold falls, BHP Jansen costs climb in mixed basic-materials week
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6923
-- slug: 2026-06-10-us-futures-fall-as-markets-await-inflation-data-ahead-of-fed-decision
-  headline: US Futures Fall as Markets Await Inflation Data Ahead of Fed Decision
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6677
-- slug: 2026-06-08-gold-rises-as-uob-sees-prices-climbing-back-to-5-000-by-early-2027
-  headline: Gold rises as UOB sees prices climbing back to $5,000 by early 2027
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6601
-- slug: 2026-06-23-when-falling-housing-prices-help-and-when-they-hurt-the-economy
-  headline: When falling housing prices help and when they hurt the economy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6456
-- slug: 2026-06-05-oil-prices-fall-iran-talks-supply-cliff-looms
-  headline: Oil falls 2.7% as Iran talks fuel optimism; supply cliff looms
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6521
-- slug: 2026-06-08-analysts-diverge-on-steel-gold-and-mining-outlooks-amid-trade-shifts
-  headline: Analysts diverge on steel, gold, and mining outlooks amid trade shifts
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6485
-- slug: 2026-06-05-u-s-natural-gas-futures-retreat-as-storage-tightening-supports-market
-  headline: U.S. Natural Gas Futures Retreat as Storage Tightening Supports Market
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6416
-- slug: 2026-01-31-gold-hits-fresh-record-as-consumers-rush-to-buy-and-sell-experts-advise-caution
-  headline: Gold hits fresh record as consumers rush to buy and sell, experts advise caution
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6707
 ---
-
 ## Gold falls as high oil prices keep inflation and rate-tightening concerns active
 
 **Subtype:** fact

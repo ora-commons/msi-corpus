@@ -1,9 +1,18 @@
 ---
 headline: Cuba’s 60-plus share is nearly twice the regional rate, 2025 data show
-secondary_headline: If birth and emigration trends continue, ONEI projects older Cubans could comprise 36% by 2040
+secondary_headline: If birth and emigration trends continue, ONEI projects older Cubans
+  could comprise 36% by 2040
 publish_date: '2026-10-21'
-lede: Cuba had the oldest population in Latin America and the Caribbean in 2025, with 26.7% of residents age 60 or older, according to data released by the National Office of Statistics and Information. The share was nearly twice the regional average of 13.4%, while Cuba’s population stood at 9,434,593.
-nut_graf: The loss of more than 1 million people of working age over five years has placed growing financial pressure on Cuba’s public healthcare and social security systems. Separately, if current birth and emigration trends continue, ONEI projects that people age 60 or older could account for 36% of the population by 2040; that outcome would require substantial changes to public policies and social care services in the short and medium term.
+lede: Cuba had the oldest population in Latin America and the Caribbean in 2025, with
+  26.7% of residents age 60 or older, according to data released by the National Office
+  of Statistics and Information. The share was nearly twice the regional average of
+  13.4%, while Cuba’s population stood at 9,434,593.
+nut_graf: The loss of more than 1 million people of working age over five years has
+  placed growing financial pressure on Cuba’s public healthcare and social security
+  systems. Separately, if current birth and emigration trends continue, ONEI projects
+  that people age 60 or older could account for 36% of the population by 2040; that
+  outcome would require substantial changes to public policies and social care services
+  in the short and medium term.
 primary_entities:
 - Cuba
 - National Office of Statistics and Information
@@ -54,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,108 +162,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-09-nicaragua-cuba-venezuela-remain-in-tier-3-in-2026-trafficking-report
-  headline: Nicaragua, Cuba, Venezuela remain in Tier 3 in 2026 trafficking report
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5922
-- slug: 2026-09-21-wealthy-cuban-americans-in-miami-draft-post-communist-cuba-blueprints
-  headline: Wealthy Cuban-Americans in Miami draft post-communist Cuba blueprints
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.602
-- slug: 2026-09-23-canada-s-annual-population-growth-hits-lowest-pace-since-world-war-ii
-  headline: Canada's annual population growth hits lowest pace since World War II
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.588
-- slug: 2026-09-10-latin-america-projected-to-grow-2-2-in-2026-eclac-says
-  headline: Latin America projected to grow 2.2% in 2026, ECLAC says
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6086
-- slug: 2026-09-08-cuba-reports-record-8-08-billion-in-annual-u-s-embargo-losses
-  headline: Cuba reports record $8.08 billion in annual U.S. embargo losses
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6046
-- slug: 2026-09-01-latin-american-marriage-and-birth-rates-decline-official-data-show
-  headline: Latin American marriage and birth rates decline, official data show
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6161
-- slug: 2026-08-27-latin-america-stuck-in-low-growth-trap-eclac-projects-2-2-for-2026
-  headline: Latin America stuck in low-growth trap, ECLAC projects 2.2% for 2026
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5962
-- slug: 2026-08-28-cuba-to-begin-school-year-tuesday-with-73-of-teaching-posts-filled
-  headline: Cuba to begin school year Tuesday with 73% of teaching posts filled
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5882
 - slug: 2026-06-24-number-of-people-aged-60-and-older-expected-to-reach-1-4-billion-by-2030-un-data
-  headline: Number of people aged 60 and older expected to reach 1.4 billion by 2030, UN data shows
+  headline: Number of people aged 60 and older expected to reach 1.4 billion by 2030,
+    UN data shows
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.696
-- slug: 2026-08-09-cuba-adds-solar-capacity-with-china-s-help-as-blackouts-persist
-  headline: Cuba adds solar capacity with China's help as blackouts persist
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6077
-- slug: 2026-08-03-forbes-drops-bordeaux-several-spanish-destinations-over-wildfire-risk
-  headline: Forbes drops Bordeaux, several Spanish destinations over wildfire risk
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5878
+  strength: 0.6967
 - slug: 2026-04-28-elderly-cubans-left-to-fend-for-themselves-as-cuba-crisis-deepens
   headline: Elderly Cubans left to fend for themselves as Cuba crisis deepens
   publish_date: '2026-04-28'
   relation: related
-  strength: 0.6718
-- slug: 2026-07-16-latin-america-stuck-at-low-growth-as-region-enters-fourth-straight-weak-year
-  headline: Latin America stuck at low growth as region enters fourth straight weak year
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6007
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5961
+  strength: 0.6728
 - slug: 2026-05-01-aging-hawai-i-faces-shortage-of-nearly-60-000-homes-by-2050-report-says
   headline: Aging Hawai‘i faces shortage of nearly 60,000 homes by 2050, report says
   publish_date: '2026-05-01'
   relation: related
-  strength: 0.6517
-- slug: 2026-06-12-the-americas-lead-world-in-forced-displacement-with-22-8-million-un-report-says
-  headline: The Americas lead world in forced displacement with 22.8 million, UN report says
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-05-argentines-over-65-return-to-work-as-milei-austerity-erodes-pension-buying-power
-  headline: Argentines over 65 return to work as Milei austerity erodes pension buying power
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6289
-- slug: 2026-06-14-cuban-deportations-under-trump-more-than-double-first-term-tally
-  headline: Cuban deportations under Trump more than double first-term tally
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.613
-- slug: 2026-06-09-imf-warns-costa-rica-on-pension-reserves-security-risks-in-favorable-review
-  headline: IMF warns Costa Rica on pension reserves, security risks in favorable review
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6109
-- slug: 2026-06-12-miami-to-havana-lifeline-of-goods-slows-cuba-s-economic-collapse
-  headline: Miami-to-Havana Lifeline of Goods Slows Cuba’s Economic Collapse
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6
+  strength: 0.6515
 ---
-
 ## Cuba’s 60-plus share is nearly twice the regional rate, 2025 data show
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Interior awards LiveView a $343,000 lease for US Park Police cameras
-secondary_headline: Records omit trailer count, deployment sites and any link to Trump’s announcement
+secondary_headline: Records omit trailer count, deployment sites and any link to Trump’s
+  announcement
 publish_date: '2026-10-21'
-lede: Federal contract records show that the Department of the Interior, which oversees the US Park Police, awarded Utah-based LiveView Technologies a $343,000 lease for mobile surveillance cameras to the US Park Police on 14 September. The fully obligated government contract runs through the end of February, but the records do not specify how many camera trailers are covered or where they were deployed.
-nut_graf: The lease adds to LiveView Technologies’ federal business amid President Donald Trump’s claim that vandals damaged the reflecting pool and his statement that security cameras were installed there. Charges have since been dismissed, and federal records do not establish that the security cameras mentioned in Trump’s post were covered by the Park Police lease.
+lede: Federal contract records show that the Department of the Interior, which oversees
+  the US Park Police, awarded Utah-based LiveView Technologies a $343,000 lease for
+  mobile surveillance cameras to the US Park Police on 14 September. The fully obligated
+  government contract runs through the end of February, but the records do not specify
+  how many camera trailers are covered or where they were deployed.
+nut_graf: The lease adds to LiveView Technologies’ federal business amid President
+  Donald Trump’s claim that vandals damaged the reflecting pool and his statement
+  that security cameras were installed there. Charges have since been dismissed, and
+  federal records do not establish that the security cameras mentioned in Trump’s
+  post were covered by the Park Police lease.
 primary_entities:
 - US Park Police
 - LiveView Technologies
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,34 +155,15 @@ related_stories:
   headline: Reflecting pool contractor admits installation flaws in its repair plan
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.663
-- slug: 2026-08-31-texas-redirects-1-insurance-fee-into-thousands-of-flock-cameras
-  headline: Texas redirects $1 insurance fee into thousands of Flock cameras
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6294
-- slug: 2026-08-21-white-house-priorities-push-approved-park-maintenance-to-low-priority-list
-  headline: White House priorities push approved park maintenance to 'low priority' list
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6425
+  strength: 0.6634
 - slug: 2026-06-24-trump-faces-pressure-to-release-proof-of-reflecting-pool-sabotage
   headline: Trump faces pressure to release proof of reflecting pool sabotage
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.7185
-- slug: 2026-08-13-critics-warn-trump-s-demands-risk-undermining-national-park-service
-  headline: Critics warn Trump's demands risk undermining National Park Service
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.636
-- slug: 2026-08-06-trump-presses-pirro-over-reflecting-pool-case-after-charges-dropped
-  headline: Trump presses Pirro over reflecting pool case after charges dropped
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6201
+  strength: 0.7184
 - slug: 2026-06-21-trump-says-vandals-cut-gash-in-reflecting-pool-blames-algae-and-peeling-paint
-  headline: Trump says vandals cut gash in reflecting pool, blames algae and peeling paint
+  headline: Trump says vandals cut gash in reflecting pool, blames algae and peeling
+    paint
   publish_date: '2026-06-21'
   relation: related
   strength: 0.6578
@@ -180,69 +171,20 @@ related_stories:
   headline: Trump blames vandalism for algae, peeling paint at $14.2M reflecting pool
   publish_date: '2026-06-20'
   relation: related
-  strength: 0.6526
-- slug: 2026-06-23-dc-man-arrested-near-reflecting-pool-plans-to-fight-obscenity-charge
-  headline: DC man arrested near reflecting pool plans to fight obscenity charge
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6486
-- slug: 2026-07-02-former-olympic-canoeist-indicted-for-vandalizing-lincoln-memorial-reflecting-poo
-  headline: Former Olympic canoeist indicted for vandalizing Lincoln Memorial Reflecting Pool
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6217
-- slug: 2026-06-05-water-returns-to-lincoln-memorial-reflecting-pool-after-contentious-repaint
-  headline: Water returns to Lincoln Memorial Reflecting Pool after contentious repaint
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6461
-- slug: 2026-06-28-greenwater-services-partly-owned-by-trump-s-friend-cafaro-lands-1-7m-no-bid-pool
-  headline: Greenwater Services, partly owned by Trump's friend Cafaro, lands $1.7M no-bid pool contract
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-20-trump-s-dc-renovation-blitz-closes-landmarks-frustrates-visitors
-  headline: Trump's DC renovation blitz closes landmarks, frustrates visitors
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6284
+  strength: 0.653
 - slug: 2026-01-03-trump-administration-terminates-leases-for-washington-s-three-public-golf-course
-  headline: Trump administration terminates leases for Washington’s three public golf courses
+  headline: Trump administration terminates leases for Washington’s three public golf
+    courses
   publish_date: '2026-01-03'
   relation: related
   strength: 0.6755
 - slug: 2026-05-08-trump-tours-lincoln-memorial-reflecting-pool-paint-job-he-calls-american-flag-bl
-  headline: Trump tours Lincoln Memorial reflecting pool paint job he calls “American flag blue”
+  headline: Trump tours Lincoln Memorial reflecting pool paint job he calls “American
+    flag blue”
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6502
-- slug: 2026-06-16-algae-thwarts-trump-s-14-2m-bid-for-american-flag-blue-reflecting-pool
-  headline: Algae thwarts Trump's $14.2m bid for American-flag-blue reflecting pool
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6175
-- slug: 2026-05-10-trump-presses-washington-renovation-blitz-as-iran-economic-pressures-mount
-  headline: Trump presses Washington renovation blitz as Iran, economic pressures mount
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6356
-- slug: 2026-05-10-nonprofit-sues-to-halt-trump-administration-s-american-flag-blue-repaint-of-nati
-  headline: Nonprofit sues to halt Trump administration's 'American flag blue' repaint of National Mall Reflecting Pool
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.632
-- slug: 2026-04-24-trump-says-lincoln-memorial-reflecting-pool-is-being-coated
-  headline: Trump says Lincoln Memorial Reflecting Pool is being coated
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6362
-- slug: 2026-05-27-trump-plays-mayor-at-cabinet-meeting-detailing-dc-renovations
-  headline: Trump plays mayor at Cabinet meeting, detailing DC renovations
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6184
+  strength: 0.6507
 ---
-
 ## Interior awards LiveView a $343,000 lease for US Park Police cameras
 
 **Subtype:** fact

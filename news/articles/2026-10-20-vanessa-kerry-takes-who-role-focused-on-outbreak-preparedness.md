@@ -1,8 +1,17 @@
 ---
 headline: Vanessa Kerry takes WHO role focused on outbreak preparedness
 publish_date: '2026-10-20'
-lede: Dr. Vanessa Kerry has begun a new job as the World Health Organization's special envoy for health resilience. Kerry said the role will be guided by "strong systems, primary care and the ability to respond." She also said preparedness means building health-system infrastructure before an emergency rather than intervening only after an outbreak begins.
-nut_graf: Kerry previously served as WHO's first special envoy for climate change and health and currently directs global health and climate policy at Harvard School of Public Health. She founded and leads Seed Global Health, which has built resilience in lower-resource countries for over a decade. Kerry said countries know their priorities for caring for their populations, and she called for ample funding to address the biggest disease burdens.
+lede: Dr. Vanessa Kerry has begun a new job as the World Health Organization's special
+  envoy for health resilience. Kerry said the role will be guided by "strong systems,
+  primary care and the ability to respond." She also said preparedness means building
+  health-system infrastructure before an emergency rather than intervening only after
+  an outbreak begins.
+nut_graf: Kerry previously served as WHO's first special envoy for climate change
+  and health and currently directs global health and climate policy at Harvard School
+  of Public Health. She founded and leads Seed Global Health, which has built resilience
+  in lower-resource countries for over a decade. Kerry said countries know their priorities
+  for caring for their populations, and she called for ample funding to address the
+  biggest disease burdens.
 primary_entities:
 - Vanessa Kerry
 - World Health Organization
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,118 +143,21 @@ cross_article_links:
   strength: 0.5362
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-kenya-confirms-third-ebola-case-as-us-quarantine-center-faces-court-challenge
-  headline: Kenya confirms third Ebola case as US quarantine center faces court challenge
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5882
-- slug: 2026-09-08-unpaid-drc-ebola-workers-violate-burial-protocols-video-shows
-  headline: Unpaid DRC Ebola workers violate burial protocols, video shows
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5995
-- slug: 2026-07-16-whatsapp-voice-notes-fuel-ebola-misinformation-as-congo-outbreak-tops-2-000
-  headline: WhatsApp voice notes fuel Ebola misinformation as Congo outbreak tops 2,000
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5867
-- slug: 2026-05-17-who-declares-global-health-emergency-as-ebola-outbreak-spreads-in-congo-and-ugan
-  headline: WHO Declares Global Health Emergency as Ebola Outbreak Spreads in Congo and Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6404
-- slug: 2026-05-24-dr-congo-ebola-cases-rise-as-who-warns-risk-is-very-high
-  headline: DR Congo Ebola cases rise as WHO warns risk is “very high”
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6301
-- slug: 2026-06-01-who-chief-visits-ebola-epicenter-in-eastern-congo-as-cases-surge-past-900
-  headline: WHO chief visits Ebola epicenter in eastern Congo as cases surge past 900
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6207
-- slug: 2026-05-16-who-declares-global-health-emergency-over-rare-ebola-outbreak-in-congo-and-ugand
-  headline: WHO declares global health emergency over rare Ebola outbreak in Congo and Uganda
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.628
-- slug: 2026-05-16-who-declares-congo-uganda-ebola-outbreak-public-health-emergency
-  headline: WHO declares Congo, Uganda Ebola outbreak public health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6276
-- slug: 2026-05-16-who-declares-ebola-outbreak-in-congo-and-uganda-a-global-health-emergency
-  headline: WHO declares Ebola outbreak in Congo and Uganda a global health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6254
-- slug: 2026-05-23-ugandans-bristle-at-name-bundibugyo-tied-to-rare-ebola-type
-  headline: Ugandans bristle at name “Bundibugyo” tied to rare Ebola type
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6193
-- slug: 2026-05-16-who-declares-congo-and-uganda-ebola-outbreak-a-global-health-emergency
-  headline: WHO declares Congo and Uganda Ebola outbreak a global health emergency
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6216
-- slug: 2026-06-26-cdc-raises-ebola-outbreak-response-to-highest-level
-  headline: CDC raises Ebola outbreak response to highest level
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.584
-- slug: 2026-05-25-challenges-in-congo-as-it-fights-to-rein-in-an-ebola-outbreak
-  headline: Challenges in Congo as it fights to rein in an Ebola outbreak
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6093
-- slug: 2026-06-08-ex-usaid-official-says-ebola-response-was-blocked-as-agency-was-dismantled
-  headline: Ex-USAID official says Ebola response was blocked as agency was dismantled
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5977
-- slug: 2026-07-02-ebola-treatment-trial-begins-in-congo-as-bundibugyo-outbreak-grows
-  headline: Ebola treatment trial begins in Congo as Bundibugyo outbreak grows
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5731
-- slug: 2026-05-22-ugandans-brace-for-stigma-after-ebola-subtype-name-linked-to-bundibugyo
-  headline: Ugandans brace for stigma after Ebola subtype name linked to Bundibugyo
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6056
-- slug: 2026-05-17-oms-declara-emergencia-global-de-salud-por-bola-en-rd-congo-y-uganda
-  headline: OMS declara emergencia global de salud por ébola en RD Congo y Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6062
-- slug: 2026-05-16-congo-ebola-outbreak-prompts-who-emergency-as-cases-cross-into-uganda
-  headline: Congo Ebola outbreak prompts WHO emergency as cases cross into Uganda
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6065
-- slug: 2026-05-16-new-ebola-outbreak-in-congo-declared-pheic-a-quick-guide-to-the-virus
-  headline: New Ebola outbreak in Congo declared PHEIC; a quick guide to the virus
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6059
-- slug: 2026-05-17-new-ebola-outbreak-suspected-of-causing-15-deaths-in-congo
-  headline: New Ebola outbreak suspected of causing 15 deaths in Congo
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5942
+related_stories: []
 image:
   url: /articles/2026-10-20-vanessa-kerry-takes-who-role-focused-on-outbreak-preparedness.png
-  alt: "Illustration accompanying article: Vanessa Kerry takes WHO role focused on outbreak preparedness"
+  alt: 'Illustration accompanying article: Vanessa Kerry takes WHO role focused on
+    outbreak preparedness'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Vanessa Kerry takes WHO role focused on outbreak preparedness
 
 **Subtype:** fact

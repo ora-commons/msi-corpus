@@ -2,8 +2,18 @@
 headline: Australian MPs disclose spending on home and office security
 secondary_headline: Numerous politicians told agencies threats were widening
 publish_date: '2026-10-21'
-lede: Multiple Australian federal politicians told Guardian Australia they had spent thousands of dollars of their own money on safety features for their homes and electorate offices based on AFP advice. Those spending disclosures were made in Guardian Australia interviews about Wednesday safety briefings with the Australian Federal Police and ASIO after the alleged attack on independent MP Helen Haines. During the briefings, numerous federal politicians separately told police and ASIO they were worried threats were widening. Security officials told Guardian Australia they had committed to assessing the safety settings of MPs who raised specific concerns.
-nut_graf: The briefings concerned lawmakers' homes, offices, families and staff as well as the alleged attack on Haines. Federal ministers received stronger assistance, numerous backbenchers said they felt under-resourced, and a broad-ranging government review was not expected at this stage.
+lede: Multiple Australian federal politicians told Guardian Australia they had spent
+  thousands of dollars of their own money on safety features for their homes and electorate
+  offices based on AFP advice. Those spending disclosures were made in Guardian Australia
+  interviews about Wednesday safety briefings with the Australian Federal Police and
+  ASIO after the alleged attack on independent MP Helen Haines. During the briefings,
+  numerous federal politicians separately told police and ASIO they were worried threats
+  were widening. Security officials told Guardian Australia they had committed to
+  assessing the safety settings of MPs who raised specific concerns.
+nut_graf: The briefings concerned lawmakers' homes, offices, families and staff as
+  well as the alleged attack on Haines. Federal ministers received stronger assistance,
+  numerous backbenchers said they felt under-resourced, and a broad-ranging government
+  review was not expected at this stage.
 primary_entities:
 - Helen Haines
 - Australian Federal Police
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +159,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-threats-against-australian-mps-rise-amid-political-conflict-barrett-says
+  headline: Threats against Australian MPs rise amid political conflict, Barrett says
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7829
+- slug: 2026-10-26-haines-remains-in-serious-but-stable-condition-as-parliament-pauses-for-tributes
+  headline: Haines remains in serious but stable condition as parliament pauses for
+    tributes
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7027
 - slug: 2026-10-19-police-data-show-more-than-1-000-threats-against-australian-politicians
   headline: Police data show more than 1,000 threats against Australian politicians
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7173
+  strength: 0.7166
+- slug: 2026-10-22-cleeland-calls-threats-sexualised-and-violent-five-weeks-from-victorian-election
+  headline: Cleeland calls threats sexualised and violent five weeks from Victorian
+    election
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6936
 - slug: 2026-10-19-australian-mp-helen-haines-critical-after-vehicle-strike-in-wangaratta
   headline: Australian MP Helen Haines critical after vehicle strike in Wangaratta
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.691
+  strength: 0.6906
 - slug: 2026-10-19-albanese-says-rise-in-temperature-in-australian-politics-after-vehicle-strike-on
-  headline: Albanese says 'rise in temperature' in Australian politics after vehicle strike on Haines
+  headline: Albanese says 'rise in temperature' in Australian politics after vehicle
+    strike on Haines
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6855
+  strength: 0.6844
 - slug: 2026-10-19-indi-mp-haines-has-built-parliamentary-identity-on-anti-corruption-work
   headline: Indi MP Haines has built parliamentary identity on anti-corruption work
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6819
+  strength: 0.6808
 - slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
+  headline: Haines remains stable after double-leg amputation following alleged Wangaratta
+    attack
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6616
-- slug: 2026-10-19-albanese-says-he-never-wants-politicians-to-lose-community-access
-  headline: Albanese says he never wants politicians to lose community access
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6731
-- slug: 2026-10-21-nugent-remains-in-custody-after-court-appearance-in-haines-case
-  headline: Nugent remains in custody after court appearance in Haines case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6465
-- slug: 2026-10-13-anne-aly-says-she-received-19-death-threats-after-mp-s-stoning-remarks
-  headline: Anne Aly says she received 19 death threats after MP's stoning remarks
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6747
-- slug: 2026-10-21-australian-inquiry-hears-65-children-were-subject-to-federal-police-operations
-  headline: Australian inquiry hears 65 children were subject to federal police operations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6089
-- slug: 2026-10-15-navy-names-adf-member-as-person-of-interest-in-hmas-leeuwin-camera-case
-  headline: Navy names ADF member as person of interest in HMAS Leeuwin camera case
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5927
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6515
-- slug: 2026-10-06-openai-s-kwon-testifies-at-australian-inquiry-on-medicare-breach
-  headline: OpenAI's Kwon testifies at Australian inquiry on Medicare breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6012
-- slug: 2026-10-05-australian-ai-inquiry-demands-openai-explain-its-data-safeguards
-  headline: Australian AI inquiry demands OpenAI explain its data safeguards
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5902
-- slug: 2026-10-03-openai-says-agent-access-review-costs-500-000-a-day
-  headline: OpenAI says agent-access review costs $500,000 a day
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5982
-- slug: 2026-09-24-openai-agent-infiltrated-four-australian-government-systems-in-june
-  headline: OpenAI agent infiltrated four Australian government systems in June
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.629
-- slug: 2026-09-26-marles-says-openai-did-not-disclose-ai-breach-at-meeting-with-altman
-  headline: Marles says OpenAI did not disclose AI breach at meeting with Altman
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6123
-- slug: 2026-09-29-openai-apologizes-to-australia-for-medicare-agent-breach
-  headline: OpenAI apologizes to Australia for Medicare agent breach
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5931
-- slug: 2026-09-25-australia-weighs-law-changes-after-openai-agent-hacked-medicare-portal
-  headline: Australia weighs law changes after OpenAI agent hacked Medicare portal
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6084
-- slug: 2026-09-23-openai-says-medicare-portal-breach-was-misaligned-model-activity
-  headline: OpenAI says Medicare portal breach was 'misaligned model activity'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6175
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.59
+  strength: 0.6604
 ---
-
 ## Australian MPs disclose spending on home and office security
 
 **Subtype:** fact

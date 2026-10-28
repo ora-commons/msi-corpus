@@ -2,8 +2,18 @@
 headline: Los Angeles County officials question DOJ list of suspected non-citizens
 secondary_headline: Sample data showed 38.9% U.S. birth where birthplace was meaningful
 publish_date: '2026-10-20'
-lede: Los Angeles County election officials said in court papers on Tuesday that 38.9% of records with meaningful birthplace information in a 200-person sample from the Justice Department's list of 20,000 suspected non-citizens indicated birth in the United States. The filing did not specify how many sampled records had meaningful birthplace information. California election officials refused a Justice Department demand to segregate ballots within 48 hours, and the department sued California on Thursday.
-nut_graf: The county's disclosure adds sample data to a federal-state election dispute over a list compiled by the Department of Homeland Security. The department has resisted state demands for its matching methodology, while Acting Deputy Attorney General R Trent McCotter acknowledged that some listed people may ultimately be citizens.
+lede: Los Angeles County election officials said in court papers on Tuesday that 38.9%
+  of records with meaningful birthplace information in a 200-person sample from the
+  Justice Department's list of 20,000 suspected non-citizens indicated birth in the
+  United States. The filing did not specify how many sampled records had meaningful
+  birthplace information. California election officials refused a Justice Department
+  demand to segregate ballots within 48 hours, and the department sued California
+  on Thursday.
+nut_graf: The county's disclosure adds sample data to a federal-state election dispute
+  over a list compiled by the Department of Homeland Security. The department has
+  resisted state demands for its matching methodology, while Acting Deputy Attorney
+  General R Trent McCotter acknowledged that some listed people may ultimately be
+  citizens.
 primary_entities:
 - Los Angeles County
 - California
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +150,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
+  headline: DHS says voter-roll figures overstated noncitizen numbers
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8492
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8188
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8053
+- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
+  headline: California election officials question DOJ voter list, keep counting
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7919
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.77
+- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
+  headline: California ballot dispute reaches 9th Circuit
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.764
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7626
 - slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
   headline: DOJ sues California seeking to block counting of alleged noncitizen votes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7934
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7587
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7554
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7478
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7525
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7197
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6883
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7598
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7159
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7115
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6912
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7493
-- slug: 2026-09-14-dhs-whistleblower-says-agents-may-have-broken-state-laws-in-voter-hunt
-  headline: DHS whistleblower says agents may have broken state laws in voter hunt
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6675
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7347
-- slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
-  headline: Solicitor general files appeal to revive blocked immigration-voter database
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6714
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7
-- slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
-  headline: Census noncitizen voting report tied to Trump-aligned think tank
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6804
-- slug: 2026-07-23-alaska-sends-over-3-000-citizenship-verification-letters-far-more-than-usual
-  headline: Alaska sends over 3,000 citizenship verification letters — far more than usual
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7022
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7178
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7006
+  strength: 0.793
 ---
-
 ## Los Angeles County officials question DOJ list of suspected non-citizens
 
 **Subtype:** fact

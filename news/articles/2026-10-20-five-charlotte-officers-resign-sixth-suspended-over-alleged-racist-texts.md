@@ -2,8 +2,14 @@
 headline: Five Charlotte officers resign, sixth suspended over alleged racist texts
 secondary_headline: Texts surfaced during CMPD probe into Flock camera misuse
 publish_date: '2026-10-20'
-lede: Five Charlotte-Mecklenburg police officers have resigned and a sixth remains suspended after allegedly exchanging racist text messages, Police Chief Estella Patterson said Thursday. The messages, which Patterson called 'deeply troubling,' surfaced during a department investigation into misuse of the Flock license-plate camera system.
-nut_graf: Patterson has asked the FBI to open a civil rights investigation, ordered audits of body-camera footage and arrest records tied to the officers, and said she intends to seek revocation of their state law enforcement certifications.
+lede: Five Charlotte-Mecklenburg police officers have resigned and a sixth remains
+  suspended after allegedly exchanging racist text messages, Police Chief Estella
+  Patterson said Thursday. The messages, which Patterson called 'deeply troubling,'
+  surfaced during a department investigation into misuse of the Flock license-plate
+  camera system.
+nut_graf: Patterson has asked the FBI to open a civil rights investigation, ordered
+  audits of body-camera footage and arrest records tied to the officers, and said
+  she intends to seek revocation of their state law enforcement certifications.
 primary_entities:
 - Charlotte-Mecklenburg Police Department
 - Estella Patterson
@@ -49,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -127,110 +134,20 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6324
 - slug: 2026-09-13-san-jose-fires-officer-for-sharing-flock-data-with-domestic-abuse-suspect
   headline: San Jose fires officer for sharing Flock data with domestic abuse suspect
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6885
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6121
-- slug: 2026-09-25-steube-bill-would-require-federal-warrants-for-flock-camera-data
-  headline: Steube bill would require federal warrants for Flock camera data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6254
+  strength: 0.6893
 - slug: 2026-09-17-more-than-100-blue-and-red-towns-pause-or-end-flock-camera-deals-this-year
-  headline: More Than 100 Blue and Red Towns Pause or End Flock Camera Deals This Year
+  headline: More Than 100 Blue and Red Towns Pause or End Flock Camera Deals This
+    Year
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.649
-- slug: 2026-09-18-texas-halts-new-flock-camera-permits-along-state-roads
-  headline: Texas halts new Flock camera permits along state roads
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6234
-- slug: 2026-09-12-maryland-officials-call-for-investigation-after-frederick-ice-clash
-  headline: Maryland officials call for investigation after Frederick ICE clash
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6262
-- slug: 2026-09-08-documents-reveal-us-law-enforcement-concerns-over-meta-smart-glasses
-  headline: Documents reveal US law enforcement concerns over Meta smart glasses
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6163
-- slug: 2026-08-21-flock-cameras-vandalized-across-at-least-36-states-as-opposition-grows
-  headline: Flock cameras vandalized across at least 36 states as opposition grows
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6413
-- slug: 2026-09-01-bbc-verify-examines-flock-s-us-license-plate-reader-network
-  headline: BBC Verify examines Flock's US license plate reader network
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6085
-- slug: 2026-08-13-flock-safety-to-revise-license-plate-reader-platform-amid-agency-cancellations
-  headline: Flock Safety to revise license-plate reader platform amid agency cancellations
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6417
-- slug: 2026-08-26-desantis-seeks-new-florida-restrictions-on-automated-license-plate-readers
-  headline: DeSantis seeks new Florida restrictions on automated license plate readers
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6054
-- slug: 2026-08-20-cities-swap-flock-cameras-for-axon-readers-as-surveillance-continues
-  headline: Cities swap Flock cameras for Axon readers as surveillance continues
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6062
-- slug: 2026-08-10-omar-demands-answers-after-ice-agent-appeared-outside-her-town-hall
-  headline: Omar demands answers after ICE agent appeared outside her town hall
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6106
-- slug: 2026-07-25-activists-disable-flock-license-plate-readers-as-backlash-mounts
-  headline: Activists disable Flock license-plate readers as backlash mounts
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6167
-- slug: 2026-07-22-house-democrats-say-1-ice-officer-referred-for-discipline-since-trump-took-offic
-  headline: House Democrats say 1 ICE officer referred for discipline since Trump took office
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6129
-- slug: 2026-06-19-dhs-plan-to-give-local-police-ice-facial-recognition-app-revealed
-  headline: DHS plan to give local police ICE facial recognition app revealed
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6114
-- slug: 2026-03-05-out-of-state-police-access-silicon-valley-license-plate-readers
-  headline: Out-of-state police access Silicon Valley license plate readers
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6231
-- slug: 2026-03-24-nevada-lacks-rules-for-license-plate-reader-cameras-used-by-police
-  headline: Nevada lacks rules for license plate reader cameras used by police
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6042
-- slug: 2026-02-03-michigan-debate-over-license-plate-readers-pits-police-utility-vs-privacy
-  headline: Michigan debate over license plate readers pits police utility vs privacy
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6108
+  strength: 0.6503
 analyses:
-- '2026-10-20-patterson-s-response-to-alleged-racist-texts-broadens-cmpd-audit-scope'
+- 2026-10-20-patterson-s-response-to-alleged-racist-texts-broadens-cmpd-audit-scope
 ---
-
 ## Five Charlotte officers resign, sixth suspended over alleged racist texts
 
 **Subtype:** fact

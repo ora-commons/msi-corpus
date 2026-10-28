@@ -2,8 +2,14 @@
 headline: Florida gambling helpline director sentenced for $1.4 million theft
 secondary_headline: Sullivan received nine years and eight and a half months in prison
 publish_date: '2026-10-21'
-lede: Florida judge Timothy Register sentenced Philip Sullivan to nine years and eight and a half months in prison on 16 October for a $1.4 million theft from Royal American, the Panama City Beach real-estate company where he served as chief financial officer. By March 2025, Sullivan had become director of the Florida Council on Compulsive Gambling's 888-Admit-It hotline, according to his LinkedIn profile.
-nut_graf: The case documents how Sullivan said gambling addiction led to a $1.4 million workplace theft and how he later directed a state gambling hotline, where he said he spoke with more than 460 people facing similar struggles.
+lede: Florida judge Timothy Register sentenced Philip Sullivan to nine years and eight
+  and a half months in prison on 16 October for a $1.4 million theft from Royal American,
+  the Panama City Beach real-estate company where he served as chief financial officer.
+  By March 2025, Sullivan had become director of the Florida Council on Compulsive
+  Gambling's 888-Admit-It hotline, according to his LinkedIn profile.
+nut_graf: The case documents how Sullivan said gambling addiction led to a $1.4 million
+  workplace theft and how he later directed a state gambling hotline, where he said
+  he spoke with more than 460 people facing similar struggles.
 primary_entities:
 - Philip Sullivan
 - Timothy Register
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +145,8 @@ cross_article_links:
   strength: 0.5808
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-06-former-cia-official-pleads-guilty-to-wire-fraud-in-gold-bar-scheme
-  headline: Former CIA official pleads guilty to wire fraud in gold bar scheme
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5786
-- slug: 2026-10-07-former-cia-officer-pleads-guilty-to-194-million-scheme
-  headline: Former CIA officer pleads guilty to $194 million scheme
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.562
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5553
-- slug: 2026-09-02-americans-reported-record-15-9-billion-in-scam-losses-last-year-joint-investigat
-  headline: Americans reported record $15.9 billion in scam losses last year, joint investigation finds
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6152
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5706
-- slug: 2026-09-01-georgia-gop-faces-fallout-from-140m-first-liberty-ponzi-scheme
-  headline: Georgia GOP faces fallout from $140M First Liberty Ponzi scheme
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5654
-- slug: 2026-08-27-florida-grand-jury-recommends-deposit-law-after-10m-misappropriation-finding
-  headline: Florida grand jury recommends deposit law after $10M 'misappropriation' finding
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5558
-- slug: 2026-08-09-scammers-posing-as-officers-take-25-000-from-florida-woman
-  headline: Scammers posing as officers take $25,000 from Florida woman
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5958
-- slug: 2026-08-19-desantis-suspends-palm-beach-clerk-caruso-after-child-sexual-abuse-arrest
-  headline: DeSantis suspends Palm Beach clerk Caruso after child sexual abuse arrest
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5573
-- slug: 2026-07-24-thomas-goldstein-gets-6-years-for-tax-evasion-mortgage-fraud
-  headline: Thomas Goldstein gets 6 years for tax evasion, mortgage fraud
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5981
-- slug: 2026-06-04-widow-sues-betfair-over-gambling-addict-s-death-in-landmark-uk-case
-  headline: Widow sues Betfair over gambling addict's death in landmark UK case
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5676
-- slug: 2026-02-26-supreme-court-litigator-thomas-goldstein-convicted-in-tax-evasion-case
-  headline: Supreme Court litigator Thomas Goldstein convicted in tax-evasion case
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5901
-- slug: 2026-02-25-supreme-court-litigator-convicted-of-tax-evasion-over-poker-winnings
-  headline: Supreme Court litigator convicted of tax evasion over poker winnings
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5885
-- slug: 2026-01-21-financial-adviser-pleads-guilty-in-380m-ponzi-scheme
-  headline: Financial adviser pleads guilty in $380M Ponzi scheme
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5887
-- slug: 2026-05-02-michigan-families-and-officials-debate-responses-to-mental-health-crises
-  headline: Michigan families and officials debate responses to mental health crises
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5647
-- slug: 2026-04-29-businessman-miles-burt-marshall-pleads-guilty-in-50m-new-york-ponzi
-  headline: Businessman Miles “Burt” Marshall pleads guilty in $50M New York Ponzi
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5654
-- slug: 2026-04-16-ex-nba-player-damon-jones-set-to-plead-guilty-in-basketball-gambling-sweep
-  headline: Ex-NBA player Damon Jones set to plead guilty in basketball gambling sweep
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5679
-- slug: 2026-02-20-former-new-haven-police-chief-arrested-for-85-000-theft
-  headline: Former New Haven police chief arrested for $85,000 theft
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5788
-- slug: 2026-04-20-gotti-s-grandson-sentenced-to-15-months-for-covid-19-loan-fraud
-  headline: Gotti's grandson sentenced to 15 months for COVID-19 loan fraud
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.563
-- slug: 2026-05-14-ex-brooklyn-judge-charged-with-5-million-real-estate-fraud
-  headline: Ex-Brooklyn judge charged with $5 million real estate fraud
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5531
+related_stories: []
 ---
-
 ## Florida gambling helpline director sentenced for $1.4 million theft
 
 **Subtype:** fact

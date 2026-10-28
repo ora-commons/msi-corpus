@@ -1,9 +1,19 @@
 ---
 headline: Prosecutors charge Willie Herndon with murder in Overland highway shooting
-secondary_headline: Surveillance footage and license-plate readers led authorities to the Texas couple
+secondary_headline: Surveillance footage and license-plate readers led authorities
+  to the Texas couple
 publish_date: '2026-10-21'
-lede: St. Louis County Prosecutor Melissa Price Smith announced Monday that Willie Herndon, 43, has been charged with first-degree murder and armed criminal action in the October 14 shooting death of 17-year-old Alyssa Wilson. Prosecutors said Willie Herndon fired a gun at Wilson’s vehicle. Taiya Herndon, 45, Willie Herndon’s wife, also faces a charge of hindering prosecution. Wilson died after gunfire struck her vehicle on Interstate 170 in Overland, Missouri, while she was headed to a Halloween celebration at the St. Louis Zoo.
-nut_graf: The charges follow an investigation that used surveillance footage and automated license-plate reader data to identify the Texas couple. Investigators have not disclosed what may have prompted the shooting, and Jack Abell said Wilson had no relationship with either accused person.
+lede: St. Louis County Prosecutor Melissa Price Smith announced Monday that Willie
+  Herndon, 43, has been charged with first-degree murder and armed criminal action
+  in the October 14 shooting death of 17-year-old Alyssa Wilson. Prosecutors said
+  Willie Herndon fired a gun at Wilson’s vehicle. Taiya Herndon, 45, Willie Herndon’s
+  wife, also faces a charge of hindering prosecution. Wilson died after gunfire struck
+  her vehicle on Interstate 170 in Overland, Missouri, while she was headed to a Halloween
+  celebration at the St. Louis Zoo.
+nut_graf: The charges follow an investigation that used surveillance footage and automated
+  license-plate reader data to identify the Texas couple. Investigators have not disclosed
+  what may have prompted the shooting, and Jack Abell said Wilson had no relationship
+  with either accused person.
 primary_entities:
 - Alyssa Wilson
 - Willie Herndon
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +149,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-federal-court-documents-show-herndon-has-been-charged-in-a-second-shooting-incid
+  headline: Federal court documents show Herndon has been charged in a second shooting
+    incident
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8864
 - slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
   headline: Autopsy indicates Kohen Wiley shot from side of car, not front
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6501
-- slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
-  headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6148
-- slug: 2026-10-19-mississippi-ag-rules-officer-s-use-of-force-in-1-year-old-s-death-justified
-  headline: Mississippi AG rules officer's use of force in 1-year-old's death justified
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6112
-- slug: 2026-10-03-florida-appeals-court-reverses-both-convictions-in-hot-car-baby-death
-  headline: Florida appeals court reverses both convictions in hot-car baby death
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6222
-- slug: 2026-09-25-maryland-hunter-74-charged-with-manslaughter-in-delaware-woman-s-shooting-death
-  headline: Maryland hunter, 74, charged with manslaughter in Delaware woman's shooting death
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.616
-- slug: 2026-09-18-prosecutors-charge-la-woman-with-murder-over-chatsworth-bus-crash
-  headline: Prosecutors charge LA woman with murder over Chatsworth bus crash
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6183
-- slug: 2026-08-17-louisiana-man-faces-murder-charge-after-driving-wife-s-body-across-states
-  headline: Louisiana man faces murder charge after driving wife's body across states
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6097
-- slug: 2026-07-02-texas-man-faces-manslaughter-charge-in-fatal-tesla-crash-into-katy-home
-  headline: Texas man faces manslaughter charge in fatal Tesla crash into Katy home
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6102
-- slug: 2026-06-16-one-year-old-killed-woman-wounded-after-mississippi-police-shoot-at-car
-  headline: One-year-old killed, woman wounded after Mississippi police shoot at car
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6234
-- slug: 2026-06-24-second-federal-investigation-opened-into-fatal-tesla-crash-in-texas
-  headline: Second federal investigation opened into fatal Tesla crash in Texas
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6157
+  strength: 0.6505
 - slug: 2026-04-08-trial-begins-for-wrongful-death-lawsuit-over-14-year-old-s-lapd-shooting
   headline: Trial begins for wrongful-death lawsuit over 14-year-old’s LAPD shooting
   publish_date: '2026-04-08'
   relation: related
-  strength: 0.6533
-- slug: 2025-12-30-oklahoma-man-charged-with-manslaughter-after-stray-bullet-kills-neighbor
-  headline: Oklahoma man charged with manslaughter after stray bullet kills neighbor
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6445
-- slug: 2026-05-15-utah-officer-faces-manslaughter-charge-in-unarmed-man-shooting
-  headline: Utah officer faces manslaughter charge in unarmed man shooting
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6169
-- slug: 2026-04-07-trial-to-begin-in-lapd-wrongful-death-suit-over-14-year-old-shooting
-  headline: Trial to begin in LAPD wrongful-death suit over 14-year-old shooting
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6287
-- slug: 2026-05-02-kentucky-man-charged-in-deadly-bank-robbery-after-high-speed-chase
-  headline: Kentucky man charged in deadly bank robbery after high-speed chase
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6163
-- slug: 2025-12-29-oklahoma-man-charged-with-manslaughter-after-stray-bullet-kills-neighbor
-  headline: Oklahoma man charged with manslaughter after stray bullet kills neighbor
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6242
-- slug: 2026-04-11-iowa-woman-pleads-not-guilty-in-ashley-okland-killing
-  headline: Iowa woman pleads not guilty in Ashley Okland killing
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6094
-- slug: 2026-02-14-arizona-man-indicted-on-murder-charges-after-state-helicopter-crash
-  headline: Arizona man indicted on murder charges after state helicopter crash
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6149
-- slug: 2026-01-12-new-dhs-video-shows-minutes-before-ice-officer-fatally-shot-renee-good-in-minnea
-  headline: New DHS video shows minutes before ICE officer fatally shot Renee Good in Minneapolis
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6164
-- slug: 2026-02-05-arizona-officers-mourn-2-killed-in-helicopter-crash-during-shootout
-  headline: Arizona officers mourn 2 killed in helicopter crash during shootout
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6141
+  strength: 0.6522
 ---
-
 ## Prosecutors charge Willie Herndon with murder in Overland highway shooting
 
 **Subtype:** fact

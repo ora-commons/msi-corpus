@@ -3,8 +3,18 @@ headline: Nearly half of active-duty military families report food insecurity in
 secondary_headline: Pay raises have not kept pace with housing and childcare costs
 slug: nearly-half-active-duty-military-families-food-insecurity-2025
 publish_date: '2026-10-20'
-lede: Nearly half of enlisted families struggled to afford enough food in 2025. Military Families Advisory Network research found that nearly half of all active-duty military families experienced food insecurity, more than double the 2023 rate. At the Armed Services YMCA in Harker Heights, Texas, a few dozen active-duty and retired family members waited for free groceries, while ASYMCA programs serving more than 50 military installations saw demand rise 23% in 2025.
-nut_graf: Congress has known for decades how to solve military food insecurity, but eligibility and application rules have limited participation in recent assistance programs. The Family Subsistence Supplemental Allowance denied 97% of applicants in 2013 before it was discontinued in 2016; its replacement, authorized in 2021, provided the supplement to 77 families in 2023. SNAP also counts a military housing allowance as income, creating another barrier in high-cost markets.
+lede: Nearly half of enlisted families struggled to afford enough food in 2025. Military
+  Families Advisory Network research found that nearly half of all active-duty military
+  families experienced food insecurity, more than double the 2023 rate. At the Armed
+  Services YMCA in Harker Heights, Texas, a few dozen active-duty and retired family
+  members waited for free groceries, while ASYMCA programs serving more than 50 military
+  installations saw demand rise 23% in 2025.
+nut_graf: Congress has known for decades how to solve military food insecurity, but
+  eligibility and application rules have limited participation in recent assistance
+  programs. The Family Subsistence Supplemental Allowance denied 97% of applicants
+  in 2013 before it was discontinued in 2016; its replacement, authorized in 2021,
+  provided the supplement to 77 families in 2023. SNAP also counts a military housing
+  allowance as income, creating another barrier in high-cost markets.
 primary_entities:
 - Military Families Advisory Network
 - Armed Services YMCA
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,111 +155,10 @@ cross_article_links:
   strength: 0.5765
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-wfp-ends-support-for-over-half-a-million-palestinians-in-gaza
-  headline: WFP ends support for over half a million Palestinians in Gaza
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6049
-- slug: 2026-10-09-maricopa-county-s-family-housing-hub-helped-6-percent-of-assessed-families
-  headline: Maricopa County's family housing hub helped 6 percent of assessed families
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5939
-- slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
-  headline: SNAP enrollment falls almost 13% as new federal requirements take hold
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6156
-- slug: 2026-09-24-senior-poverty-rate-rises-for-fifth-straight-year-aarp-foundation-finds
-  headline: Senior poverty rate rises for fifth straight year, AARP Foundation finds
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6337
-- slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
-  headline: CDC reports US adults' produce consumption rises with income
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6456
-- slug: 2026-09-15-census-bureau-reports-us-family-income-rose-2-6-in-2025-poverty-fell-to-10-2
-  headline: Census Bureau reports US family income rose 2.6% in 2025; poverty fell to 10.2%
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6184
-- slug: 2026-09-17-40-of-pediatricians-see-families-avoiding-care-over-immigration-concerns
-  headline: 40% of pediatricians see families avoiding care over immigration concerns
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5838
-- slug: 2026-09-07-affordable-designated-units-sit-empty-as-poorest-renters-cannot-pay
-  headline: Affordable-designated units sit empty as poorest renters cannot pay
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6001
-- slug: 2026-08-19-federal-firefighters-challenge-usfs-chief-s-fully-staffed-assurances
-  headline: Federal firefighters challenge USFS chief's 'fully staffed' assurances
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5898
-- slug: 2026-08-05-record-us-beef-prices-fail-to-lift-profits-for-ranchers-and-meatpackers
-  headline: Record US beef prices fail to lift profits for ranchers and meatpackers
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5937
-- slug: 2026-07-21-un-report-finds-healthy-diet-cost-up-25-since-2021
-  headline: UN report finds healthy diet cost up 25% since 2021
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6199
-- slug: 2026-07-30-farm-workers-report-widespread-fear-reduced-daily-activity-after-immigration-rai
-  headline: Farm workers report widespread fear, reduced daily activity after immigration raids, survey finds
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5857
-- slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
-  headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5993
-- slug: 2026-06-19-pentagon-says-it-needs-80-billion-for-iran-war-other-costs
-  headline: Pentagon says it needs $80 billion for Iran war, other costs
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6094
-- slug: 2026-03-23-nonprofits-unions-and-airports-feed-tsa-officers-as-shutdown-drags
-  headline: Nonprofits, unions and airports feed TSA officers as shutdown drags
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6149
-- slug: 2026-05-14-iran-war-s-energy-shock-lifts-us-grocery-prices-but-effects-lag
-  headline: Iran war’s energy shock lifts US grocery prices, but effects lag
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5893
-- slug: 2026-02-02-partial-government-shutdown-what-it-means-for-pentagon-dhs-food-aid
-  headline: 'Partial government shutdown: what it means for Pentagon, DHS, food aid'
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6092
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5874
-- slug: 2026-04-03-inspection-finds-dozens-of-violations-at-major-ice-camp-in-texas
-  headline: Inspection finds dozens of violations at major ICE camp in Texas
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5955
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.5971
+related_stories: []
 analyses:
-- '2026-10-20-military-compensation-and-benefit-barriers-compound-food-insecurity-among-active'
+- 2026-10-20-military-compensation-and-benefit-barriers-compound-food-insecurity-among-active
 ---
-
 ## Nearly half of active-duty military families report food insecurity in 2025
 
 **Subtype:** fact

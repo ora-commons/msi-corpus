@@ -1,9 +1,22 @@
 ---
 headline: Federal prisons hold about 2,000 transgender people
-secondary_headline: More than 600 federal prisoners were receiving hormone treatment as of last year
+secondary_headline: More than 600 federal prisoners were receiving hormone treatment
+  as of last year
 publish_date: '2026-10-21'
-lede: About 2,000 transgender people are incarcerated in federal prisons nationwide, and court documents showed more than 600 federal prisoners were receiving hormone treatment as of last year. A sworn statement from a prison official said only two people in federal custody had ever received sex-trait modification surgeries. On Wednesday, the Supreme Court temporarily kept in place an order blocking a Bureau of Prisons policy that would treat gender dysphoria with psychological therapy while barring hormone therapy, clothing accommodations and sex-trait modification surgeries.
-nut_graf: The figures describe the population and care involved in a policy that would bar hormone treatment, sex-trait modification surgeries and clothing accommodations. Advocates say the care is medically necessary for transgender people who have acute mental health needs and are especially vulnerable in prisons; the Trump administration says hormones, surgeries and social supports are not appropriate treatments for gender dysphoria and pose security risks in prisons. The temporary Supreme Court order leaves the dispute unresolved.
+lede: About 2,000 transgender people are incarcerated in federal prisons nationwide,
+  and court documents showed more than 600 federal prisoners were receiving hormone
+  treatment as of last year. A sworn statement from a prison official said only two
+  people in federal custody had ever received sex-trait modification surgeries. On
+  Wednesday, the Supreme Court temporarily kept in place an order blocking a Bureau
+  of Prisons policy that would treat gender dysphoria with psychological therapy while
+  barring hormone therapy, clothing accommodations and sex-trait modification surgeries.
+nut_graf: The figures describe the population and care involved in a policy that would
+  bar hormone treatment, sex-trait modification surgeries and clothing accommodations.
+  Advocates say the care is medically necessary for transgender people who have acute
+  mental health needs and are especially vulnerable in prisons; the Trump administration
+  says hormones, surgeries and social supports are not appropriate treatments for
+  gender dysphoria and pose security risks in prisons. The temporary Supreme Court
+  order leaves the dispute unresolved.
 primary_entities:
 - Bureau of Prisons
 - Supreme Court
@@ -33,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,116 +146,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-federal-prisons-hold-about-2-000-transgender-people.png
-  alt: 'Illustration accompanying article: Federal prisons hold about 2,000 transgender people'
+  alt: 'Illustration accompanying article: Federal prisons hold about 2,000 transgender
+    people'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
+  headline: Federal prison policy would bar transition-related treatment
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.875
 - slug: 2026-10-21-supreme-court-rejects-bid-to-end-gender-affirming-care-in-federal-prisons
   headline: Supreme Court rejects bid to end gender-affirming care in federal prisons
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.824
+  strength: 0.8229
+- slug: 2026-10-21-judge-blocks-prison-policy-bureau-cited-zero-evidence-from-health-professionals
+  headline: Judge blocks prison policy; Bureau cited zero evidence from health professionals
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7456
 - slug: 2026-09-28-trump-administration-appeals-transgender-inmate-care-ruling-to-supreme-court
-  headline: Trump administration appeals transgender inmate care ruling to Supreme Court
+  headline: Trump administration appeals transgender inmate care ruling to Supreme
+    Court
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.773
+  strength: 0.7713
 - slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
   headline: Jordan Campbell leads DOJ probes of transgender care for minors
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6732
-- slug: 2026-09-30-hhs-report-links-gender-affirming-care-support-to-left-wing-authoritarianism
-  headline: HHS report links gender-affirming care support to 'left-wing authoritarianism'
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6411
+  strength: 0.6735
 - slug: 2026-09-18-nyu-langone-upmc-settle-with-doj-to-halt-pediatric-gender-care
   headline: NYU Langone, UPMC settle with DOJ to halt pediatric gender care
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6499
+  strength: 0.65
 - slug: 2026-09-05-nine-arrested-at-massachusetts-ag-s-office-in-trans-care-protest
   headline: Nine arrested at Massachusetts AG's office in trans care protest
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6535
+  strength: 0.6538
 - slug: 2026-08-14-appeals-court-clears-way-for-doj-subpoena-of-transgender-care-provider
   headline: Appeals court clears way for DOJ subpoena of transgender care provider
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6886
-- slug: 2026-08-28-trump-administration-asks-supreme-court-to-allow-pentagon-transgender-troop-ban
-  headline: Trump administration asks Supreme Court to allow Pentagon transgender troop ban
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6469
-- slug: 2026-07-29-judge-says-trump-administration-violated-order-on-transgender-inmate-transfers
-  headline: Judge says Trump administration violated order on transgender inmate transfers
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6892
-- slug: 2026-07-22-federal-judge-orders-pentagon-to-compare-testosterone-policies-for-trans-and-cis
-  headline: Federal judge orders Pentagon to compare testosterone policies for trans and cisgender troops
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6788
-- slug: 2026-06-02-federal-appeals-court-blocks-trump-from-expelling-transgender-troops
-  headline: Federal appeals court blocks Trump from expelling transgender troops
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7008
-- slug: 2026-06-24-judge-blocks-subpoena-for-medical-records-of-transgender-youth-in-new-york
-  headline: Judge blocks subpoena for medical records of transgender youth in New York
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6755
-- slug: 2026-05-15-federal-judge-blocks-trump-administration-from-seeking-trans-youth-records
-  headline: Federal judge blocks Trump administration from seeking trans youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6921
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6906
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6794
-- slug: 2026-05-15-federal-judge-blocks-doj-subpoenas-for-rhode-island-transgender-youth-records
-  headline: Federal judge blocks DOJ subpoenas for Rhode Island transgender youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6752
-- slug: 2026-03-21-judge-rules-u-s-overreached-with-transgender-health-care-declaration
-  headline: Judge rules U.S. overreached with transgender health care declaration
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6898
-- slug: 2026-05-16-kansas-judge-blocks-gender-affirming-care-ban-as-texas-children-s-settles-with-s
-  headline: Kansas judge blocks gender-affirming care ban as Texas Children’s settles with state
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.668
-- slug: 2026-01-26-doj-drops-effort-to-obtain-transgender-patients-records
-  headline: DOJ drops effort to obtain transgender patients' records
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6936
-- slug: 2026-01-03-federal-workers-file-complaint-over-trump-s-gender-affirming-care-insurance-ban
-  headline: Federal workers file complaint over Trump’s gender-affirming care insurance ban
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.674
+  strength: 0.6874
 ---
-
 ## Federal prisons hold about 2,000 transgender people
 
 **Subtype:** fact

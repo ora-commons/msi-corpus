@@ -160,7 +160,17 @@ related_stories:
   headline: Homan says Omar could be 'of course' denaturalized and deported
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7966
+  strength: 0.7976
+- slug: 2026-10-22-omar-says-federal-raid-may-have-exposed-her-washington-address
+  headline: Omar says federal raid may have exposed her Washington address
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7773
+- slug: 2026-10-22-omar-describes-pre-dawn-federal-raid-denies-fraud-allegations
+  headline: Omar describes pre-dawn federal raid, denies fraud allegations
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7488
 - slug: 2026-10-15-federal-agents-search-omar-s-washington-home-in-federal-probe
   headline: Federal agents search Omar's Washington home in federal probe
   publish_date: '2026-10-15'
@@ -170,93 +180,23 @@ related_stories:
   headline: Obama calls federal Omar probe 'so appalling' and politically motivated
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7526
+  strength: 0.7529
 - slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
   headline: Partisan clash erupts over Omar home search ahead of midterms
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7937
+  strength: 0.7936
 - slug: 2026-10-12-trump-and-allies-have-discussed-denaturalizing-omar-expelling-her-from-us
   headline: Trump and allies have discussed denaturalizing Omar, expelling her from
     US
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7805
+  strength: 0.7804
 - slug: 2026-10-12-homan-disclosed-omar-as-dhs-investigation-target-on-fox-before-home-search
   headline: Homan disclosed Omar as DHS investigation target on Fox before home search
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7763
-- slug: 2026-10-14-federal-probe-aims-to-build-case-to-strip-omar-of-citizenship
-  headline: Federal probe aims to build case to strip Omar of citizenship
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7582
-- slug: 2026-10-14-federal-agents-seize-omar-s-phone-subpoena-relatives-in-criminal-probe
-  headline: Federal agents seize Omar's phone, subpoena relatives in criminal probe
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7484
-- slug: 2026-10-12-democrats-condemn-federal-search-of-ilhan-omar-s-home
-  headline: Democrats condemn federal search of Ilhan Omar's home
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7565
-- slug: 2026-10-12-federal-agents-search-rep-ilhan-omar-s-washington-home-in-criminal-probe
-  headline: Federal agents search Rep. Ilhan Omar's Washington home in criminal probe
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7493
-- slug: 2026-10-13-omar-says-i-will-not-be-silenced-after-justice-department-raids-home
-  headline: Omar says 'I will not be silenced' after Justice Department raids home
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7261
-- slug: 2026-10-14-democracy-defenders-fund-seeks-hatch-act-investigation-of-omar-home-raid
-  headline: Democracy Defenders Fund seeks Hatch Act investigation of Omar home raid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6868
-- slug: 2026-09-26-omar-denies-brother-marriage-allegation-as-dhs-chief-cites-federal-probe
-  headline: Omar denies brother-marriage allegation as DHS chief cites federal probe
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7212
-- slug: 2026-09-21-trump-and-mamdani-hold-third-sit-down-at-gracie-mansion
-  headline: Trump and Mamdani hold third sit-down at Gracie Mansion
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6495
-- slug: 2026-09-17-omar-to-introduce-make-ice-pay-act-to-redirect-140b-from-ice-cbp
-  headline: Omar to introduce Make ICE Pay Act to redirect $140B from ICE, CBP
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6427
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6453
-- slug: 2026-09-09-congressional-conduct-board-recommends-dismissing-omar-disclosure-allegations
-  headline: Congressional conduct board recommends dismissing Omar disclosure allegations
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6493
-- slug: 2026-08-10-omar-demands-answers-after-ice-agent-appeared-outside-her-town-hall
-  headline: Omar demands answers after ICE agent appeared outside her town hall
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6722
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6447
-- slug: 2026-02-18-immigration-judge-halts-deportation-of-mohsen-mahdawi-in-procedural-ruling
-  headline: Immigration judge halts deportation of Mohsen Mahdawi in procedural ruling
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6804
+  strength: 0.777
 image:
   url: /articles/2026-10-20-mahdawi-calls-omar-immigration-probe-an-abuse-of-power.png
   alt: 'Illustration accompanying article: Mahdawi calls Omar immigration probe an
@@ -271,7 +211,6 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
-
 ## Mahdawi calls Omar immigration probe an abuse of power
 
 **Subtype:** fact

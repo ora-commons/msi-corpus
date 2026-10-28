@@ -2,8 +2,20 @@
 headline: Himes, Warner seek Election Day contact from intelligence leaders
 secondary_headline: Pre-election meddling assessments not delivered, Democrats say
 publish_date: '2026-10-21'
-lede: The top Democrats on the House and Senate intelligence committees said Wednesday they are operating under the presumption that President Trump and his allies will allege fraud related to this year's midterms to justify election interference. Warner said claiming foreign interference in the voting process is one way Trump could do that, and the lawmakers are preparing for a possible foreign-interference claim. Himes and Warner, both members of the Gang of Eight, said they have made clear to Director of National Intelligence Jay Clayton and other intelligence leaders that they must be reachable by phone on and after Election Day if Trump alleges foreign interference.
-nut_graf: Both lawmakers said they had made clear that Jay Clayton and other intelligence leaders must be immediately reachable by phone on and after Election Day if Trump alleges foreign interference. Himes said he was prepared to state publicly that he had received no such briefing or information and had no reason to believe the hypothetical claim was accurate.
+lede: The top Democrats on the House and Senate intelligence committees said Wednesday
+  they are operating under the presumption that President Trump and his allies will
+  allege fraud related to this year's midterms to justify election interference. Warner
+  said claiming foreign interference in the voting process is one way Trump could
+  do that, and the lawmakers are preparing for a possible foreign-interference claim.
+  Himes and Warner, both members of the Gang of Eight, said they have made clear to
+  Director of National Intelligence Jay Clayton and other intelligence leaders that
+  they must be reachable by phone on and after Election Day if Trump alleges foreign
+  interference.
+nut_graf: Both lawmakers said they had made clear that Jay Clayton and other intelligence
+  leaders must be immediately reachable by phone on and after Election Day if Trump
+  alleges foreign interference. Himes said he was prepared to state publicly that
+  he had received no such briefing or information and had no reason to believe the
+  hypothetical claim was accurate.
 primary_entities:
 - Jim Himes
 - Mark Warner
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,106 +160,45 @@ related_stories:
   headline: Democratic attorneys general expand midterm election security planning
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7074
+  strength: 0.707
+- slug: 2026-10-26-election-day-brings-federal-partisan-and-nonprofit-election-monitors
+  headline: Election Day brings federal, partisan and nonprofit election monitors
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6868
+- slug: 2026-10-27-false-election-claims-change-form-as-they-spread-through-social-platforms
+  headline: False election claims change form as they spread through social platforms
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.668
 - slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
   headline: DOJ sues California seeking to block counting of alleged noncitizen votes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.668
+  strength: 0.6686
 - slug: 2026-10-14-democracy-defenders-fund-seeks-hatch-act-investigation-of-omar-home-raid
   headline: Democracy Defenders Fund seeks Hatch Act investigation of Omar home raid
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6726
+  strength: 0.6737
 - slug: 2026-09-28-himes-readies-house-intelligence-probes-of-spy-industry-s-trump-dealings
   headline: Himes readies House Intelligence probes of spy-industry's Trump dealings
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7443
+  strength: 0.7452
 - slug: 2026-09-27-experts-warn-midterm-counting-window-is-a-vulnerable-period
   headline: Experts warn midterm counting window is a vulnerable period
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7331
+  strength: 0.7342
 - slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
   headline: Democrats outline investigation priorities if they win Congress
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6632
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6616
-- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
-  headline: Democrats elevate Trump corruption claims as midterm campaign issue
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6728
-- slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
-  headline: Democrats, retired military lawyers press Trump on National Guard at polls
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7176
-- slug: 2026-09-14-democrats-launch-nationwide-poll-monitoring-effort-for-november-midterms
-  headline: Democrats launch nationwide poll-monitoring effort for November midterms
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6878
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6629
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6711
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7249
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7049
-- slug: 2026-08-23-white-house-declines-to-rule-out-national-emergency-over-elections
-  headline: White House declines to rule out national emergency over elections
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6718
-- slug: 2026-08-09-senate-democrats-test-responses-to-possible-election-disruptions
-  headline: Senate Democrats test responses to possible election disruptions
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6821
-- slug: 2026-07-21-senate-panel-advances-jay-clayton-s-dni-nomination-along-party-lines
-  headline: Senate panel advances Jay Clayton's DNI nomination along party lines
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.662
-- slug: 2026-07-17-trump-uses-prime-time-speech-to-allege-election-system-compromised
-  headline: Trump uses prime-time speech to allege election system compromised
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6637
-- slug: 2025-12-30-democrats-renew-concerns-trump-will-interfere-with-2026-midterms
-  headline: Democrats renew concerns Trump will interfere with 2026 midterms
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7208
-- slug: 2026-04-14-trump-urges-extending-foreign-surveillance-program-as-congress-weighs-changes
-  headline: Trump urges extending foreign surveillance program as Congress weighs changes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7045
+  strength: 0.6634
 analyses:
-- '2026-10-21-lawmakers-prepare-rapid-congressional-response-to-a-possible-midterms-interferen'
+- 2026-10-21-lawmakers-prepare-rapid-congressional-response-to-a-possible-midterms-interferen
 ---
-
 ## Himes, Warner seek Election Day contact from intelligence leaders
 
 **Subtype:** fact

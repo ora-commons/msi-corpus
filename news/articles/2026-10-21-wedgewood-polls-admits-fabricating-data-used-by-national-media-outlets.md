@@ -2,8 +2,24 @@
 headline: Wedgewood Polls admits fabricating data used by national media outlets
 secondary_headline: Decision Desk HQ and New York Times removed Wedgewood results
 publish_date: '2026-10-21'
-lede: Wedgewood Polls said in a Tuesday social-media statement that it fabricated polling numbers to test whether national media outlets and polling databases would publish and include them without independent verification. Newsweek, The Hill, Breitbart, The Daily Beast and Washington Examiner published surveys containing the fabricated figures, while The New York Times, Nate Silver, VoteHub and FiftyPlusOne included Wedgewood results in polling databases. Decision Desk HQ then removed 17 polls from race-level lists and averages, and The New York Times removed all Wedgewood polls from its tracking project.
-nut_graf: Newsweek, The Hill, Breitbart, The Daily Beast and Washington Examiner reproduced Wedgewood Polls’ fabricated surveys, while The New York Times, Nate Silver, VoteHub and FiftyPlusOne included Wedgewood results in polling databases. After Wedgewood’s admission, Decision Desk HQ removed 17 polls from race-level lists and averages, and The New York Times removed all Wedgewood polls from its tracking project. Michigan state Sen. Mallory McMorrow said the figures showed that her support had plunged; she said donations then dried up and volunteers were left “devastated.” The episode followed a similar August case involving Median Strategies, whose fake polls spread across Wisconsin, Nevada and California. Median Strategies abruptly shut down and withdrew its polling after questions from a Los Angeles Times reporter.
+lede: Wedgewood Polls said in a Tuesday social-media statement that it fabricated
+  polling numbers to test whether national media outlets and polling databases would
+  publish and include them without independent verification. Newsweek, The Hill, Breitbart,
+  The Daily Beast and Washington Examiner published surveys containing the fabricated
+  figures, while The New York Times, Nate Silver, VoteHub and FiftyPlusOne included
+  Wedgewood results in polling databases. Decision Desk HQ then removed 17 polls from
+  race-level lists and averages, and The New York Times removed all Wedgewood polls
+  from its tracking project.
+nut_graf: Newsweek, The Hill, Breitbart, The Daily Beast and Washington Examiner reproduced
+  Wedgewood Polls’ fabricated surveys, while The New York Times, Nate Silver, VoteHub
+  and FiftyPlusOne included Wedgewood results in polling databases. After Wedgewood’s
+  admission, Decision Desk HQ removed 17 polls from race-level lists and averages,
+  and The New York Times removed all Wedgewood polls from its tracking project. Michigan
+  state Sen. Mallory McMorrow said the figures showed that her support had plunged;
+  she said donations then dried up and volunteers were left “devastated.” The episode
+  followed a similar August case involving Median Strategies, whose fake polls spread
+  across Wisconsin, Nevada and California. Median Strategies abruptly shut down and
+  withdrew its polling after questions from a Los Angeles Times reporter.
 primary_entities:
 - Wedgewood Polls
 - FiftyPlusOne
@@ -51,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +166,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
-  headline: Democratic attorneys general expand midterm election security planning
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5936
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5949
-- slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
-  headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6111
-- slug: 2026-09-30-survey-finds-voters-across-parties-back-price-caps-on-drugs-child-care
-  headline: Survey finds voters across parties back price caps on drugs, child care
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6133
-- slug: 2026-09-21-wsj-to-deploy-ai-tool-analyzing-tiktoks-podcasts-for-midterm-coverage
-  headline: WSJ to deploy AI tool analyzing TikToks, podcasts for midterm coverage
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.616
-- slug: 2026-09-21-washington-post-withholds-white-house-photos-past-midnight-in-solidarity
-  headline: Washington Post withholds White House photos past midnight in solidarity
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5914
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5925
-- slug: 2026-09-10-boyd-links-erosion-of-census-safeguards-to-administration-actions
-  headline: Boyd links erosion of census safeguards to administration actions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6056
-- slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
-  headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6084
 - slug: 2026-08-20-rahil-prakash-says-he-created-fake-election-polls-that-spread
   headline: Rahil Prakash says he created fake election polls that spread
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6647
-- slug: 2026-08-28-wyoming-attorney-general-investigates-doj-poll-monitors-flagged-as-aggressive
-  headline: Wyoming attorney general investigates DOJ poll monitors flagged as 'aggressive'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6095
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6156
-- slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
-  headline: Census noncitizen voting report tied to Trump-aligned think tank
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6252
-- slug: 2026-08-29-dhs-uses-obscure-customs-summons-to-obtain-records-on-journalists-nonprofits
-  headline: DHS uses obscure customs summons to obtain records on journalists, nonprofits
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5945
-- slug: 2026-08-28-prakash-denies-betting-on-races-covered-by-his-fake-median-strategies-polls
-  headline: Prakash denies betting on races covered by his fake Median Strategies polls
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5922
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5968
-- slug: 2026-07-09-cheyenne-hunt-surfaced-allegations-that-felled-democrats-platner-swalwell
-  headline: Cheyenne Hunt surfaced allegations that felled Democrats Platner, Swalwell
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5942
-- slug: 2026-04-11-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6217
-- slug: 2026-06-11-gabbard-rescinds-havana-syndrome-reports-that-doubted-foreign-involvement
-  headline: Gabbard rescinds Havana Syndrome reports that doubted foreign involvement
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5907
-- slug: 2026-04-09-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6129
+  strength: 0.6645
 ---
-
 ## Wedgewood Polls admits fabricating data used by national media outlets
 
 **Subtype:** fact

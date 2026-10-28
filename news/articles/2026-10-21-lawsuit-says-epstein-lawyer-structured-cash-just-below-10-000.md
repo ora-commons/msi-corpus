@@ -1,9 +1,23 @@
 ---
 headline: Lawsuit says Epstein lawyer structured cash just below $10,000
-secondary_headline: Complaint cites 2017 email on 'latest batch of medical expenses for girls'
+secondary_headline: Complaint cites 2017 email on 'latest batch of medical expenses
+  for girls'
 publish_date: '2026-10-21'
-lede: The New Mexico lawsuit against Jeffrey Epstein's estate co-executors alleges that Darren Indyke, Epstein's longtime lawyer, deliberately structured cash withdrawals just below the $10,000 federal reporting threshold, and it cites a 2017 email in which accountant Richard Kahn wrote about "the latest batch of medical expenses for girls." Attorney General Raúl Torrez filed the complaint Wednesday in federal court in New Mexico, accusing the two men of helping Epstein obtain cash he used to pay girls and young women and of helping conceal his abuse through a web of corporate entities and bank accounts.
-nut_graf: Indyke and Kahn control the assets in Epstein's estate and could receive some proceeds if money remains, according to the complaint, which seeks to strip them of their gains from their association with Epstein and ensure assets from the estate are distributed to victims. The estate, valued at about $578 million shortly after he died, has been depleted to just over $107 million, while the two men could collect as much as $75 million under a trust Epstein set up before his death, the lawsuit says.
+lede: The New Mexico lawsuit against Jeffrey Epstein's estate co-executors alleges
+  that Darren Indyke, Epstein's longtime lawyer, deliberately structured cash withdrawals
+  just below the $10,000 federal reporting threshold, and it cites a 2017 email in
+  which accountant Richard Kahn wrote about "the latest batch of medical expenses
+  for girls." Attorney General Raúl Torrez filed the complaint Wednesday in federal
+  court in New Mexico, accusing the two men of helping Epstein obtain cash he used
+  to pay girls and young women and of helping conceal his abuse through a web of corporate
+  entities and bank accounts.
+nut_graf: Indyke and Kahn control the assets in Epstein's estate and could receive
+  some proceeds if money remains, according to the complaint, which seeks to strip
+  them of their gains from their association with Epstein and ensure assets from the
+  estate are distributed to victims. The estate, valued at about $578 million shortly
+  after he died, has been depleted to just over $107 million, while the two men could
+  collect as much as $75 million under a trust Epstein set up before his death, the
+  lawsuit says.
 primary_entities:
 - Darren Indyke
 - Richard Kahn
@@ -54,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,11 +167,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-new-mexico-sues-epstein-estate-co-executors-over-alleged-sexual-abuse-and-human-
-  headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse and human trafficking
+- slug: 2026-10-21-new-mexico-suit-targets-epstein-trust-payouts-and-survivor-compensation-terms
+  headline: New Mexico suit targets Epstein trust payouts and survivor compensation
+    terms
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8338
+  strength: 0.835
+- slug: 2026-10-21-new-mexico-sues-epstein-estate-co-executors-over-alleged-sexual-abuse-and-human-
+  headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse
+    and human trafficking
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8331
+- slug: 2026-10-21-epstein-survivors-back-new-mexico-lawsuit-against-estate-executors
+  headline: Epstein survivors back New Mexico lawsuit against estate executors
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8144
 - slug: 2026-09-23-federal-prosecutors-open-probe-into-epstein-s-estate-executors
   headline: Federal prosecutors open probe into Epstein's estate executors
   publish_date: '2026-09-23'
@@ -166,94 +193,24 @@ related_stories:
   headline: Two women sue Epstein estate over alleged possession of child abuse material
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7037
+  strength: 0.7027
 - slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
   headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6639
+  strength: 0.6633
 - slug: 2026-08-27-judge-approves-bank-of-america-s-72-5m-settlement-with-epstein-victims
   headline: Judge approves Bank of America's $72.5M settlement with Epstein victims
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6664
+  strength: 0.6669
 - slug: 2026-08-19-house-oversight-chair-threatens-leon-black-with-contempt-over-epstein-probe
-  headline: House oversight chair threatens Leon Black with contempt over Epstein probe
+  headline: House oversight chair threatens Leon Black with contempt over Epstein
+    probe
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6586
-- slug: 2026-08-05-new-mexico-sues-doj-over-epstein-ranch-investigation-records
-  headline: New Mexico sues DOJ over Epstein ranch investigation records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6789
-- slug: 2026-08-01-new-mexico-ag-says-doj-missed-deadline-for-epstein-ranch-files
-  headline: New Mexico AG says DOJ missed deadline for Epstein ranch files
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6731
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7112
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7138
-- slug: 2026-06-26-leon-black-to-testify-friday-before-house-panel-investigating-epstein-ties
-  headline: Leon Black to testify Friday before House panel investigating Epstein ties
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6504
-- slug: 2026-02-10-fbi-records-say-it-found-scant-evidence-of-epstein-trafficking-ring
-  headline: FBI records say it found scant evidence of Epstein trafficking ring
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6957
-- slug: 2026-02-20-new-mexico-ag-reopens-probe-into-alleged-illegal-activity-at-epstein-s-zorro-ran
-  headline: New Mexico AG reopens probe into alleged illegal activity at Epstein’s Zorro Ranch
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6898
-- slug: 2026-04-04-judge-approves-72-5-million-fund-for-women-abused-by-jeffrey-epstein
-  headline: Judge approves $72.5 million fund for women abused by Jeffrey Epstein
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6795
-- slug: 2026-03-12-lawmakers-depose-epstein-accountant-on-wealth-business-ties
-  headline: Lawmakers depose Epstein accountant on wealth, business ties
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6805
-- slug: 2026-02-19-new-mexico-reopens-probe-into-epstein-s-former-zorro-ranch
-  headline: New Mexico reopens probe into Epstein’s former Zorro Ranch
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6834
-- slug: 2026-06-03-trump-appointee-leading-205bn-agency-had-personal-ties-to-epstein-emails-show
-  headline: Trump appointee leading $205bn agency had personal ties to Epstein, emails show
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6492
-- slug: 2026-02-07-fbi-investigation-of-jeffrey-epstein-found-scant-evidence-of-a-trafficking-ring
-  headline: FBI investigation of Jeffrey Epstein found scant evidence of a trafficking ring
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6793
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6671
-- slug: 2026-02-13-epstein-files-show-academics-sought-funding-amid-fallout-over-ties
-  headline: Epstein files show academics sought funding amid fallout over ties
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6628
+  strength: 0.6574
 ---
-
 ## Lawsuit says Epstein lawyer structured cash just below $10,000
 
 **Subtype:** fact

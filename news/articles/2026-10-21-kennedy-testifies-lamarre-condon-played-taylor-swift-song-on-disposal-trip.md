@@ -1,9 +1,20 @@
 ---
 headline: Kennedy testifies Lamarre-Condon played Taylor Swift song on disposal trip
-secondary_headline: Friend describes blue tarp, lemony smell and two-hour drive to Bungonia
+secondary_headline: Friend describes blue tarp, lemony smell and two-hour drive to
+  Bungonia
 publish_date: '2026-10-21'
-lede: A friend testified Wednesday at the NSW Supreme Court that Beau Lamarre-Condon played Taylor Swift's "No Body, No Crime" in a white van as they drove toward Bungonia on 21 February 2024. Elizabeth Kennedy, known to the court under that pseudonym, described a trip involving a blue tarp, a lemony smell and a stop at Bunnings Goulburn during the alleged disposal of the bodies of Jesse Baird and Luke Davies. Lamarre-Condon, 31, has pleaded not guilty to two counts of murder and one count of aggravated break and enter; his defence says the men were accidentally shot in self-defence.
-nut_graf: The testimony focused on Lamarre-Condon's conduct after the alleged shootings, including the journey to Bungonia and what Kennedy observed in the van. The defence says Lamarre-Condon "panicked considerably," cleaned up the scene and disposed of the bodies, while Kennedy disputed suggestions that she saw Baird's body or chose the song. The trial before Justice Natalie Adams continues.
+lede: A friend testified Wednesday at the NSW Supreme Court that Beau Lamarre-Condon
+  played Taylor Swift's "No Body, No Crime" in a white van as they drove toward Bungonia
+  on 21 February 2024. Elizabeth Kennedy, known to the court under that pseudonym,
+  described a trip involving a blue tarp, a lemony smell and a stop at Bunnings Goulburn
+  during the alleged disposal of the bodies of Jesse Baird and Luke Davies. Lamarre-Condon,
+  31, has pleaded not guilty to two counts of murder and one count of aggravated break
+  and enter; his defence says the men were accidentally shot in self-defence.
+nut_graf: The testimony focused on Lamarre-Condon's conduct after the alleged shootings,
+  including the journey to Bungonia and what Kennedy observed in the van. The defence
+  says Lamarre-Condon "panicked considerably," cleaned up the scene and disposed of
+  the bodies, while Kennedy disputed suggestions that she saw Baird's body or chose
+  the song. The trial before Justice Natalie Adams continues.
 primary_entities:
 - Beau Lamarre-Condon
 - Jesse Baird
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,26 +151,39 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-friend-testifies-lamarre-condon-asked-for-help-moving-bodies-at-murder-trial
+  headline: Friend testifies Lamarre-Condon asked for help moving bodies at murder
+    trial
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7459
+- slug: 2026-10-26-lamarre-condon-apologizes-to-friend-in-recording-played-at-murder-trial
+  headline: Lamarre-Condon apologizes to friend in recording played at murder trial
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7426
 - slug: 2026-10-08-lamarre-condon-defense-argues-body-disposal-reflected-panic-over-unexpected-deat
-  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected deaths
+  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected
+    deaths
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7458
+  strength: 0.7456
 - slug: 2026-10-14-jury-views-3d-crime-scene-reconstruction-at-lamarre-condon-trial
   headline: Jury views 3D crime scene reconstruction at Lamarre-Condon trial
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7052
+  strength: 0.7048
 - slug: 2026-10-06-cctv-tracks-lamarre-condon-s-sydney-movements-after-alleged-murders
   headline: CCTV tracks Lamarre-Condon's Sydney movements after alleged murders
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7438
+  strength: 0.7443
 - slug: 2026-09-28-ex-officer-s-friend-testifies-he-described-disposal-plan-months-before-sydney-mu
-  headline: Ex-officer's friend testifies he described disposal plan months before Sydney murders
+  headline: Ex-officer's friend testifies he described disposal plan months before
+    Sydney murders
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7418
+  strength: 0.7421
 - slug: 2026-09-25-ex-officer-faked-cancer-diagnosis-before-sydney-murders-trial-hears
   headline: Ex-officer faked cancer diagnosis before Sydney murders, trial hears
   publish_date: '2026-09-25'
@@ -168,79 +193,8 @@ related_stories:
   headline: Beau Lamarre-Condon murder trial opens in Sydney Supreme Court
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6641
-- slug: 2026-09-20-ex-nsw-officer-beau-lamarre-condon-stands-trial-in-sydney-for-2024-murder
-  headline: Ex-NSW officer Beau Lamarre-Condon stands trial in Sydney for 2024 murder
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6586
-- slug: 2026-09-22-attorney-for-clancy-holdout-juror-calls-defense-motion-looney-tunes
-  headline: Attorney for Clancy holdout juror calls defense motion 'Looney Tunes'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5859
-- slug: 2026-09-25-crump-challenges-wells-drowning-finding-with-phone-and-autopsy-data
-  headline: Crump challenges Wells drowning finding with phone and autopsy data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5646
-- slug: 2026-09-08-celeste-rivas-hernandez-s-family-calls-for-death-penalty-in-d4vd-murder-trial
-  headline: Celeste Rivas Hernandez's family calls for death penalty in D4vd murder trial
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5801
-- slug: 2026-07-27-prosecutors-detail-slain-girl-s-final-texts-in-d4vd-hearing
-  headline: Prosecutors detail slain girl's final texts in D4vd hearing
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5711
-- slug: 2026-07-21-d4vd-faces-preliminary-hearing-in-killing-of-14-year-old-girl
-  headline: D4vd faces preliminary hearing in killing of 14-year-old girl
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5784
-- slug: 2026-07-24-medical-examiner-identifies-two-stab-wounds-in-d4vd-hearing
-  headline: Medical examiner identifies two stab wounds in D4vd hearing
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5694
-- slug: 2026-05-19-luigi-mangione-trial-judge-allows-gun-and-notebook-as-evidence
-  headline: 'Luigi Mangione trial: Judge allows gun and notebook as evidence'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5883
-- slug: 2026-05-17-judge-allows-gun-and-notebook-as-evidence-in-luigi-mangione-trial
-  headline: Judge allows gun and notebook as evidence in Luigi Mangione trial
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5874
-- slug: 2026-05-19-judge-allows-gun-and-notebook-as-evidence-in-luigi-mangione-trial
-  headline: Judge allows gun and notebook as evidence in Luigi Mangione trial
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5861
-- slug: 2026-05-18-luigi-mangione-trial-gun-and-notebook-allowed-as-evidence
-  headline: 'Luigi Mangione trial: Gun and notebook allowed as evidence'
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5768
-- slug: 2026-05-13-man-sentenced-to-two-years-in-theft-of-beyonc-s-unreleased-music-from-atlanta-su
-  headline: Man sentenced to two years in theft of Beyoncé's unreleased music from Atlanta SUV
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5776
-- slug: 2026-05-13-man-pleads-guilty-in-atlanta-auto-break-in-tied-to-beyonc-music
-  headline: Man pleads guilty in Atlanta auto break-in tied to Beyoncé music
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5704
-- slug: 2026-05-01-texas-executes-james-broadnax-after-supreme-court-denies-stay-request
-  headline: Texas executes James Broadnax after Supreme Court denies stay request
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5743
+  strength: 0.6643
 ---
-
 ## Kennedy testifies Lamarre-Condon played Taylor Swift song on disposal trip
 
 **Subtype:** fact

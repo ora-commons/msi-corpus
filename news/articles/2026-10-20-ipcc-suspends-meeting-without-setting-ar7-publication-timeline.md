@@ -2,8 +2,15 @@
 headline: IPCC suspends meeting without setting AR7 publication timeline
 secondary_headline: Delay could keep AR7 from informing 2028 emissions pledges
 publish_date: '2026-10-20'
-lede: The UN-convened Intergovernmental Panel on Climate Change suspended a weeklong meeting in Addis Ababa on Friday without setting a firm timetable for its seventh assessment report. The unresolved schedule leaves future scientific advice to governments in doubt ahead of the Cop31 climate summit in Turkey next month.
-nut_graf: Many scientists and experts worry that a delay could prevent AR7 from informing the next round of pledges of emissions cuts due to be discussed at the Cop33 climate summit in late 2028. Under the 2015 Paris agreement, 2028 is also the year of the second global stocktake, which will scrutinize governments' emissions pledges against the goal of holding temperature rises to 1.5C above preindustrial levels.
+lede: The UN-convened Intergovernmental Panel on Climate Change suspended a weeklong
+  meeting in Addis Ababa on Friday without setting a firm timetable for its seventh
+  assessment report. The unresolved schedule leaves future scientific advice to governments
+  in doubt ahead of the Cop31 climate summit in Turkey next month.
+nut_graf: Many scientists and experts worry that a delay could prevent AR7 from informing
+  the next round of pledges of emissions cuts due to be discussed at the Cop33 climate
+  summit in late 2028. Under the 2015 Paris agreement, 2028 is also the year of the
+  second global stocktake, which will scrutinize governments' emissions pledges against
+  the goal of holding temperature rises to 1.5C above preindustrial levels.
 primary_entities:
 - Intergovernmental Panel on Climate Change
 - Addis Ababa
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +147,8 @@ cross_article_links:
   strength: 0.6391
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
-  headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6374
-- slug: 2026-09-23-miliband-briefs-foreign-ministers-on-suppressed-uk-climate-security-report
-  headline: Miliband briefs foreign ministers on suppressed UK climate security report
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6061
-- slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
-  headline: World leaders at Climate Week link fossil fuels to wars and economic risk
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5998
-- slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
-  headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6107
-- slug: 2026-09-02-un-report-acknowledges-earth-will-exceed-paris-climate-threshold
-  headline: UN report acknowledges Earth will exceed Paris climate threshold
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.625
-- slug: 2026-08-28-un-desertification-talks-close-in-mongolia-without-drought-agreement
-  headline: UN desertification talks close in Mongolia without drought agreement
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6138
-- slug: 2026-05-19-scientists-revise-global-warming-projections-say-worst-and-best-cases-no-longer-
-  headline: Scientists revise global warming projections, say worst and best cases no longer plausible
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6414
-- slug: 2026-05-20-un-general-assembly-backs-icj-climate-ruling-despite-us-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite US opposition
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6288
-- slug: 2026-04-26-colombia-hosts-global-summit-to-tackle-fossil-fuel-reliance
-  headline: Colombia hosts global summit to tackle fossil fuel reliance
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6381
-- slug: 2026-05-21-un-general-assembly-backs-icj-climate-ruling-despite-u-s-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite U.S. opposition
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6263
-- slug: 2026-05-23-un-general-assembly-backs-advisory-opinion-on-climate-duties-after-us-opposition
-  headline: UN General Assembly backs advisory opinion on climate duties after US opposition
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6249
-- slug: 2026-05-19-scientists-narrow-climate-worst-and-best-case-projections-but-1-5-goal-slipping
-  headline: Scientists narrow climate worst and best case projections, but 1.5 goal slipping
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6187
-- slug: 2026-05-22-un-general-assembly-backs-icj-climate-ruling-after-u-s-opposes-measure
-  headline: UN General Assembly backs ICJ climate ruling after U.S. opposes measure
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6151
-- slug: 2026-05-20-un-general-assembly-backs-international-court-climate-ruling-141-8
-  headline: UN General Assembly backs international court climate ruling, 141-8
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6146
-- slug: 2026-05-20-scientists-narrow-climate-warming-futures-but-say-1-5-c-is-slipping
-  headline: Scientists narrow climate warming futures, but say 1.5°C is slipping
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6124
-- slug: 2026-05-02-maritime-nations-keep-working-on-global-carbon-fee-for-shipping
-  headline: Maritime nations keep working on global carbon fee for shipping
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.62
-- slug: 2026-05-18-scientists-revise-global-warming-futures-say-1-5-c-goal-slipping
-  headline: Scientists revise global warming futures, say 1.5°C goal slipping
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6094
-- slug: 2026-02-16-us-urges-vanuatu-to-withdraw-un-climate-reparations-draft
-  headline: US urges Vanuatu to withdraw UN climate reparations draft
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6244
-- slug: 2026-04-17-colombia-minister-says-iran-crisis-should-spur-faster-shift-from-fossil-fuels
-  headline: Colombia minister says Iran crisis should spur faster shift from fossil fuels
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6074
-- slug: 2026-04-28-colombia-climate-conference-spotlights-finance-squeeze-slowing-fossil-fuel-shift
-  headline: Colombia climate conference spotlights finance squeeze slowing fossil-fuel shift
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6025
+related_stories: []
 ---
-
 ## IPCC suspends meeting without setting AR7 publication timeline
 
 **Subtype:** fact

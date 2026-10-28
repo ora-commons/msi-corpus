@@ -2,8 +2,19 @@
 headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
 secondary_headline: Conservatives pledge to scrap inheritance tax on family homes
 publish_date: '2026-10-20'
-lede: On October 20, Liberal Democrat leader Daisy Cooper urged the government to put a windfall tax on banks, saying the revenue could reduce the cost of petrol, diesel and transport fares. Conservative leader Kemi Badenoch rejected the proposal, arguing that it would hit bank shareholders, including people's pension funds. Trade unions and the Liberal Democrats have urged the government to raise money through a windfall tax on banks.
-nut_graf: The dispute over bank taxation and household transport costs sits alongside Conservative proposals on inheritance tax and childcare support, as well as Badenoch's positions on welfare and pensions. The latest figures showed government borrowing of £18.3bn in August and the government paying £8.8bn on its debt, the highest level since records began in 1997. The Budget is unlikely to detail changes to the welfare system; those are expected once former Cabinet Minister Alan Milburn produces his review into young people and work.
+lede: On October 20, Liberal Democrat leader Daisy Cooper urged the government to
+  put a windfall tax on banks, saying the revenue could reduce the cost of petrol,
+  diesel and transport fares. Conservative leader Kemi Badenoch rejected the proposal,
+  arguing that it would hit bank shareholders, including people's pension funds. Trade
+  unions and the Liberal Democrats have urged the government to raise money through
+  a windfall tax on banks.
+nut_graf: The dispute over bank taxation and household transport costs sits alongside
+  Conservative proposals on inheritance tax and childcare support, as well as Badenoch's
+  positions on welfare and pensions. The latest figures showed government borrowing
+  of £18.3bn in August and the government paying £8.8bn on its debt, the highest level
+  since records began in 1997. The Budget is unlikely to detail changes to the welfare
+  system; those are expected once former Cabinet Minister Alan Milburn produces his
+  review into young people and work.
 primary_entities:
 - Daisy Cooper
 - Kemi Badenoch
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +163,43 @@ related_stories:
   headline: Badenoch says Healey's budget will be even worse than Reeves's two
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7565
+  strength: 0.7575
 - slug: 2026-10-20-uk-chancellor-healey-rejects-labour-calls-to-raise-capital-gains-tax
   headline: UK chancellor Healey rejects Labour calls to raise capital gains tax
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6661
-- slug: 2026-10-20-united-airlines-ceo-scott-kirby-calls-for-national-wealth-and-inheritance-taxes
-  headline: United Airlines CEO Scott Kirby calls for national wealth and inheritance taxes
-  publish_date: '2026-10-20'
+  strength: 0.6664
+- slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
+  headline: Andrea Egan urges Burnham to put public investment in his budget
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6445
-- slug: 2026-10-14-uk-to-shift-vat-collection-to-online-marketplaces-in-first-budget
-  headline: UK to shift VAT collection to online marketplaces in first budget
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6452
-- slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
-  headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.639
-- slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
-  headline: Badenoch pledges to scrap UK future homes standard
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6495
+  strength: 0.6509
 - slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
   headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6534
+  strength: 0.6546
 - slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
   headline: Senior Labour figures privately criticize Healey's budget preparations
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6874
-- slug: 2026-10-08-uk-10-year-gilt-yield-hits-19-year-high-amid-global-bond-selloff
-  headline: UK 10-year gilt yield hits 19-year high amid global bond selloff
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6427
+  strength: 0.689
 - slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
   headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6619
+  strength: 0.6621
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6511
+  strength: 0.6517
 - slug: 2026-09-22-ed-davey-sets-out-17bn-income-tax-cut-plan-at-lib-dem-conference
   headline: Ed Davey sets out £17bn income tax cut plan at Lib Dem conference
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6798
-- slug: 2026-09-17-shadow-chancellor-griffith-urges-healey-to-rule-out-budget-tax-rises
-  headline: Shadow chancellor Griffith urges Healey to rule out budget tax rises
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-09-jamie-dimon-and-john-healey-meet-wednesday-amid-uk-bank-tax-speculation
-  headline: Jamie Dimon and John Healey meet Wednesday amid UK bank tax speculation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7128
-- slug: 2026-09-24-global-bond-sell-off-raises-uk-gilt-yields-to-near-19-year-high
-  headline: Global bond sell-off raises UK gilt yields to near 19-year high
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.645
-- slug: 2026-09-20-davey-proposes-2bn-temporary-fuel-duty-cut-before-budget
-  headline: Davey proposes £2bn temporary fuel duty cut before budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6607
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7198
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6996
-- slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
-  headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6703
-- slug: 2026-09-15-economists-press-uk-chancellor-to-halt-bank-of-england-s-bond-selling
-  headline: Economists press UK chancellor to halt Bank of England's bond-selling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6378
+  strength: 0.6801
 ---
-
 ## Daisy Cooper urges windfall tax on banks as Badenoch rejects one
 
 **Subtype:** fact

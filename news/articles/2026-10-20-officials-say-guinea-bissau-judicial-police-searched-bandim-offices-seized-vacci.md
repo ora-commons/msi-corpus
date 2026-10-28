@@ -1,9 +1,18 @@
 ---
-headline: Officials say Guinea-Bissau judicial police searched Bandim offices, seized vaccine doses
-secondary_headline: Nantote disputes reports of hepatitis B trial involving 7,000 newborns
+headline: Officials say Guinea-Bissau judicial police searched Bandim offices, seized
+  vaccine doses
+secondary_headline: Nantote disputes reports of hepatitis B trial involving 7,000
+  newborns
 publish_date: '2026-10-20'
-lede: Officials said on Facebook that Guinea-Bissau's judicial police searched Bandim Health Project offices on Monday and seized doses of hepatitis B vaccine. The researchers are involved in a redesigned study that would withhold the vaccine from 7,000 newborns; Guinea-Bissau health minister Quinhin Nantote disputed reports that the trial would proceed.
-nut_graf: The proposed study would leave 7,000 newborns without hepatitis B vaccine for their first six weeks. The World Health Organization calls any trial that withholds the vaccine unethical, while Robert F. Kennedy Jr. has called the researchers "the deities of vaccine research" at a recent anti-vaccine conference.
+lede: Officials said on Facebook that Guinea-Bissau's judicial police searched Bandim
+  Health Project offices on Monday and seized doses of hepatitis B vaccine. The researchers
+  are involved in a redesigned study that would withhold the vaccine from 7,000 newborns;
+  Guinea-Bissau health minister Quinhin Nantote disputed reports that the trial would
+  proceed.
+nut_graf: The proposed study would leave 7,000 newborns without hepatitis B vaccine
+  for their first six weeks. The World Health Organization calls any trial that withholds
+  the vaccine unethical, while Robert F. Kennedy Jr. has called the researchers "the
+  deities of vaccine research" at a recent anti-vaccine conference.
 primary_entities:
 - Guinea-Bissau
 - Guinea-Bissau judicial police
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: CC0-1.0
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,6 +155,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-lead-researcher-says-guinea-bissau-hepatitis-b-trial-will-not-proceed
+  headline: Lead researcher says Guinea-Bissau hepatitis B trial will not proceed
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8364
 - slug: 2026-10-14-guinea-bissau-denies-authorizing-hepatitis-b-vaccine-trial-in-newborns
   headline: Guinea-Bissau denies authorizing hepatitis B vaccine trial in newborns
   publish_date: '2026-10-14'
@@ -154,101 +169,15 @@ related_stories:
   headline: Danish panel clears hepatitis B trial in Guinea-Bissau despite resignations
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8049
-- slug: 2026-10-12-anti-vaccine-group-claims-it-sparked-probes-into-texas-measles-doctors
-  headline: Anti-vaccine group claims it sparked probes into Texas measles doctors
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5806
-- slug: 2026-10-14-paxton-probes-texas-pediatricians-over-vaccine-incentives-as-measles-spreads
-  headline: Paxton probes Texas pediatricians over vaccine incentives as measles spreads
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.565
-- slug: 2026-09-29-startup-urges-congress-to-lift-ban-on-gene-edited-embryos
-  headline: Startup urges Congress to lift ban on gene-edited embryos
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5855
-- slug: 2026-09-23-trump-administration-withholds-covid-vaccines-from-vfc-program-in-at-least-11-st
-  headline: Trump administration withholds COVID vaccines from VFC program in at least 11 states
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5675
-- slug: 2026-08-27-obtained-letter-contradicts-kennedy-s-senate-testimony-on-samoa-trip
-  headline: Obtained letter contradicts Kennedy's Senate testimony on Samoa trip
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6253
+  strength: 0.8043
 - slug: 2026-01-22-guinea-bissau-suspends-hepatitis-b-vaccine-study-for-ethics-review
   headline: Guinea-Bissau suspends hepatitis B vaccine study for ethics review
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.7669
-- slug: 2026-08-28-rfk-jr-suggests-two-pennsylvania-measles-deaths-were-fabricated
-  headline: RFK Jr. suggests two Pennsylvania measles deaths were 'fabricated'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5747
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5911
-- slug: 2026-06-04-three-studies-cited-by-rfk-jr-retracted-or-placed-under-investigation
-  headline: Three studies cited by RFK Jr. retracted or placed under investigation
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6124
-- slug: 2026-03-22-new-parents-shun-proven-newborn-preventive-care-in-push-for-natural
-  headline: New parents shun proven newborn preventive care in push for “natural”
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6401
-- slug: 2026-06-15-rfk-jr-under-fire-for-letter-pressing-journal-over-retracted-vaccine-study
-  headline: RFK Jr. under fire for letter pressing journal over retracted vaccine study
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.597
-- slug: 2026-06-25-new-emails-contradict-rfk-jr-claim-that-samoa-trip-was-not-about-vaccines
-  headline: New emails contradict RFK Jr. claim that Samoa trip was not about vaccines
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5804
-- slug: 2026-06-19-critical-care-doctor-says-administration-is-withdrawing-children-s-health-protec
-  headline: Critical care doctor says administration is withdrawing children's health protections
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5862
-- slug: 2026-06-17-parents-turn-to-unproven-stem-cell-autism-treatments-backed-by-rfk-jr
-  headline: Parents turn to unproven stem cell autism treatments backed by RFK Jr.
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5831
-- slug: 2026-06-26-cdc-tells-health-programs-to-deprioritize-harm-reduction-within-days
-  headline: CDC tells health programs to deprioritize harm reduction within days
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5737
-- slug: 2026-05-30-trump-orders-agencies-to-adopt-hhs-study-recommending-narrower-childhood-vaccine
-  headline: Trump orders agencies to adopt HHS study recommending narrower childhood vaccine schedule
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.5704
-- slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could harm kids
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6056
-- slug: 2026-05-09-rwanda-critic-aimable-karasira-dies-in-custody-rights-group-seeks-probe
-  headline: Rwanda critic Aimable Karasira dies in custody; rights group seeks probe
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5794
+  strength: 0.7668
 analyses:
-- '2026-10-20-guinea-bissau-police-seizure-leaves-bandim-trial-authorization-unresolved'
+- 2026-10-20-guinea-bissau-police-seizure-leaves-bandim-trial-authorization-unresolved
 ---
-
 ## Officials say Guinea-Bissau judicial police searched Bandim offices, seized vaccine doses
 
 **Subtype:** fact

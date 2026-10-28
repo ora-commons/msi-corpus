@@ -1,9 +1,19 @@
 ---
 headline: Inquiry into planned RAF Fairford attack involves seven men after re-arrests
-secondary_headline: Section 3 criminalizes conduct likely to materially assist a foreign intelligence service
+secondary_headline: Section 3 criminalizes conduct likely to materially assist a foreign
+  intelligence service
 publish_date: '2026-10-20'
-lede: British police re-arrested two men on Tuesday in connection with a planned attack on RAF Fairford, the air base where American planes were stored last month, officials said. The men were a 24-year-old British man and a 25-year-old British-Iranian man. Police said they were arrested on suspicion of helping Iran’s foreign intelligence service.
-nut_graf: Laurence Taylor said seven men have been arrested in connection with the Fairford investigation, including the two men re-arrested on Tuesday. Section 3 makes it a crime to engage in conduct “likely to materially assist a foreign intelligence service,” while five other men remain on bail. Taylor said evidence gathering continues and that police consider Iranian state involvement highly likely. British Prime Minister Andy Burnham said the plot was likely tied to Iran, a claim Iran has denied.
+lede: British police re-arrested two men on Tuesday in connection with a planned attack
+  on RAF Fairford, the air base where American planes were stored last month, officials
+  said. The men were a 24-year-old British man and a 25-year-old British-Iranian man.
+  Police said they were arrested on suspicion of helping Iran’s foreign intelligence
+  service.
+nut_graf: Laurence Taylor said seven men have been arrested in connection with the
+  Fairford investigation, including the two men re-arrested on Tuesday. Section 3
+  makes it a crime to engage in conduct “likely to materially assist a foreign intelligence
+  service,” while five other men remain on bail. Taylor said evidence gathering continues
+  and that police consider Iranian state involvement highly likely. British Prime
+  Minister Andy Burnham said the plot was likely tied to Iran, a claim Iran has denied.
 primary_entities:
 - RAF Fairford
 - British police
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,7 +165,8 @@ related_stories:
   relation: related
   strength: 0.8497
 - slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
+  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone
+    plot
   publish_date: '2026-10-08'
   relation: related
   strength: 0.7973
@@ -169,7 +181,8 @@ related_stories:
   relation: related
   strength: 0.8248
 - slug: 2026-10-12-uk-formally-attributes-fairford-incident-to-irgc-further-sanctions-to-follow
-  headline: UK formally attributes Fairford incident to IRGC; further sanctions to follow
+  headline: UK formally attributes Fairford incident to IRGC; further sanctions to
+    follow
   publish_date: '2026-10-12'
   relation: related
   strength: 0.771
@@ -178,68 +191,7 @@ related_stories:
   publish_date: '2026-09-29'
   relation: related
   strength: 0.8402
-- slug: 2026-10-04-officials-frame-raf-fairford-bail-release-as-investigative-decision
-  headline: Officials frame RAF Fairford bail release as 'investigative decision'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.8138
-- slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
-  headline: Farmer's midnight call leads to five arrests near RAF Fairford
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8375
-- slug: 2026-09-28-police-identify-five-arrested-near-raf-fairford-as-london-men-in-their-20s
-  headline: Police identify five arrested near RAF Fairford as London men in their 20s
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8127
-- slug: 2026-10-05-u-s-pulls-12-b-1-bombers-from-u-k-base-over-iranian-drone-plot
-  headline: U.S. pulls 12 B-1 bombers from U.K. base over Iranian drone plot
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7755
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8116
-- slug: 2026-09-27-uk-police-arrest-five-near-raf-fairford-on-terrorism-suspicion
-  headline: UK police arrest five near RAF Fairford on terrorism suspicion
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.8148
-- slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
-  headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8086
-- slug: 2026-10-05-uk-officials-not-briefed-as-us-pulls-b-1-bombers-from-raf-fairford
-  headline: UK officials not briefed as US pulls B-1 bombers from RAF Fairford
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7666
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7959
-- slug: 2026-09-29-rubio-says-foreign-actor-clearly-behind-raf-fairford-plot-cites-no-evidence
-  headline: Rubio says foreign actor 'clearly' behind RAF Fairford plot, cites no evidence
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7902
-- slug: 2026-09-27-trump-says-raf-fairford-suspects-looking-to-do-big-damage
-  headline: Trump says RAF Fairford suspects 'looking to do big damage'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7977
-- slug: 2026-10-04-trump-criticises-uk-release-of-raf-fairford-suspects-on-bail
-  headline: Trump criticises UK release of RAF Fairford suspects on bail
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7555
 ---
-
 ## Inquiry into planned RAF Fairford attack involves seven men after re-arrests
 
 **Subtype:** fact

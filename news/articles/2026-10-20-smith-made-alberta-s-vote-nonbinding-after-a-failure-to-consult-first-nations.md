@@ -1,9 +1,21 @@
 ---
 headline: Smith made Alberta's vote nonbinding after a failure to consult First Nations
-secondary_headline: Very preliminary results suggest many of Smith's nine questions may pass
+secondary_headline: Very preliminary results suggest many of Smith's nine questions
+  may pass
 publish_date: '2026-10-20'
-lede: Premier Smith made Monday's Alberta independence vote nonbinding to bypass a court decision that had blocked an earlier pro-separation petition because it failed to consult Indigenous First Nations whose land would be affected if Alberta separated. Smith had also lowered the petition threshold to put the citizen-led campaign on the ballot. The BBC reported that critics called the decision a "dangerous" gamble because the independence push was widely expected to fail while still giving her restive base what it wanted. Preliminary results rejected a move toward a binding referendum by more than two-thirds, but the final tally was not complete.
-nut_graf: The two ballot choices let Smith pursue the citizen campaign despite the Indigenous First Nations consultation failure that had blocked an earlier petition. That approach drew criticism even as preliminary results showed more than two-thirds rejecting a binding referendum, while very early returns suggested many of Smith's nine autonomy questions might pass.
+lede: Premier Smith made Monday's Alberta independence vote nonbinding to bypass a
+  court decision that had blocked an earlier pro-separation petition because it failed
+  to consult Indigenous First Nations whose land would be affected if Alberta separated.
+  Smith had also lowered the petition threshold to put the citizen-led campaign on
+  the ballot. The BBC reported that critics called the decision a "dangerous" gamble
+  because the independence push was widely expected to fail while still giving her
+  restive base what it wanted. Preliminary results rejected a move toward a binding
+  referendum by more than two-thirds, but the final tally was not complete.
+nut_graf: The two ballot choices let Smith pursue the citizen campaign despite the
+  Indigenous First Nations consultation failure that had blocked an earlier petition.
+  That approach drew criticism even as preliminary results showed more than two-thirds
+  rejecting a binding referendum, while very early returns suggested many of Smith's
+  nine autonomy questions might pass.
 primary_entities:
 - Smith
 - Alberta
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,108 +166,41 @@ related_stories:
   headline: Alberta to vote Monday on path to binding separation referendum
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8077
+  strength: 0.8079
+- slug: 2026-10-20-carney-backs-pipeline-and-environmental-rule-changes-in-alberta
+  headline: Carney backs pipeline and environmental-rule changes in Alberta
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6941
 - slug: 2026-10-16-carney-urges-albertans-to-vote-against-separation-at-calgary-rally
   headline: Carney urges Albertans to vote against separation at Calgary rally
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7203
+  strength: 0.7211
 - slug: 2026-10-07-alberta-to-vote-october-19-on-whether-to-pursue-independence-referendum
   headline: Alberta to vote October 19 on whether to pursue independence referendum
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6902
-- slug: 2026-10-16-carney-pushes-nation-building-projects-as-alberta-prepares-independence-vote
-  headline: Carney pushes nation-building projects as Alberta prepares independence vote
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5923
-- slug: 2026-10-07-parti-qu-b-cois-wins-quebec-election-but-falls-short-of-majority
-  headline: Parti Québécois wins Quebec election but falls short of majority
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6222
-- slug: 2026-10-06-parti-qu-b-cois-projected-to-win-quebec-election
-  headline: Parti Québécois projected to win Quebec election
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.598
-- slug: 2026-09-13-alaska-drops-voter-misconduct-cases-against-american-samoans-after-appeals-court
-  headline: Alaska drops voter-misconduct cases against American Samoans after appeals court ruling
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5772
+  strength: 0.6907
 - slug: 2026-07-11-alberta-independence-referendum-battle-takes-shape-at-calgary-stampede
   headline: Alberta independence referendum battle takes shape at Calgary Stampede
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.7181
-- slug: 2026-05-05-alberta-separatists-file-signatures-to-seek-referendum-on-leaving-canada
-  headline: Alberta separatists file signatures to seek referendum on leaving Canada
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6217
-- slug: 2026-05-22-supreme-court-dismisses-alabama-bid-to-execute-inmate-with-borderline-id
-  headline: Supreme Court dismisses Alabama bid to execute inmate with borderline ID
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6053
-- slug: 2026-06-17-canadian-panel-recommends-indefinite-exclusion-of-mental-illness-from-assisted-d
-  headline: Canadian panel recommends indefinite exclusion of mental illness from assisted dying
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5855
-- slug: 2026-05-21-supreme-court-dismisses-alabama-bid-to-execute-inmate-with-borderline-id
-  headline: Supreme Court dismisses Alabama bid to execute inmate with borderline ID
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6015
-- slug: 2026-05-21-supreme-court-dismisses-alabama-bid-to-execute-inmate-with-intellectual-disabili
-  headline: Supreme Court dismisses Alabama bid to execute inmate with intellectual disability
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5971
-- slug: 2026-01-15-alaska-appeals-court-to-rule-on-felony-voter-charges-tied-to-american-samoa
-  headline: Alaska appeals court to rule on felony voter charges tied to American Samoa
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-03-supreme-court-allows-alabama-to-use-map-eliminating-majority-black-district
-  headline: Supreme Court Allows Alabama to Use Map Eliminating Majority-Black District
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5763
-- slug: 2026-01-06-former-arizona-lawmaker-sentenced-to-probation-for-forged-petition-signatures
-  headline: Former Arizona lawmaker sentenced to probation for forged petition signatures
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6145
-- slug: 2026-05-10-supreme-court-halts-alabama-plan-for-a-house-map-with-2-black-districts
-  headline: Supreme Court halts Alabama plan for a House map with 2 Black districts
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5884
-- slug: 2026-05-17-what-to-expect-in-alabama-s-primaries-amid-map-triggered-delays
-  headline: What to expect in Alabama’s primaries amid map-triggered delays
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5842
-- slug: 2026-05-18-supreme-court-sends-native-american-voting-rights-case-back-for-review
-  headline: Supreme Court sends Native American voting-rights case back for review
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5755
+  strength: 0.7187
 image:
   url: /articles/2026-10-20-smith-made-alberta-s-vote-nonbinding-after-a-failure-to-consult-first-nations.png
-  alt: "Illustration accompanying article: Smith made Alberta's vote nonbinding after a failure to consult First Nations"
+  alt: 'Illustration accompanying article: Smith made Alberta''s vote nonbinding after
+    a failure to consult First Nations'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Smith made Alberta's vote nonbinding after a failure to consult First Nations
 
 **Subtype:** fact

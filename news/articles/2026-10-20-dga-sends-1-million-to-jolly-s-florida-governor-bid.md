@@ -1,9 +1,18 @@
 ---
 headline: DGA sends $1 million to Jolly's Florida governor bid
-secondary_headline: Jolly campaign says Clinton's Miami fundraiser drew more than $3 million
+secondary_headline: Jolly campaign says Clinton's Miami fundraiser drew more than
+  $3 million
 publish_date: '2026-10-20'
-lede: The Democratic Governors Association said Tuesday it is sending $1 million to David Jolly's campaign for Florida governor. Former President Bill Clinton campaigned with Jolly in South Florida on Tuesday and headlined a Tuesday-morning Miami fundraiser that Jolly's campaign said raised more than $3 million. The contribution comes as national Democrats seek to put Florida back in play after recent election losses and a period in which they had largely abandoned the state.
-nut_graf: The contribution gives national Democrats a late opportunity to compete in a state they had largely stopped contesting. Byron Donalds leads in polling and fundraising, while the Cook Political Report's rating change and recent local Democratic victories point to a more competitive race.
+lede: The Democratic Governors Association said Tuesday it is sending $1 million to
+  David Jolly's campaign for Florida governor. Former President Bill Clinton campaigned
+  with Jolly in South Florida on Tuesday and headlined a Tuesday-morning Miami fundraiser
+  that Jolly's campaign said raised more than $3 million. The contribution comes as
+  national Democrats seek to put Florida back in play after recent election losses
+  and a period in which they had largely abandoned the state.
+nut_graf: The contribution gives national Democrats a late opportunity to compete
+  in a state they had largely stopped contesting. Byron Donalds leads in polling and
+  fundraising, while the Cook Political Report's rating change and recent local Democratic
+  victories point to a more competitive race.
 primary_entities:
 - David Jolly
 - Byron Donalds
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +149,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-20-dga-sends-1-million-to-jolly-s-florida-governor-bid.png
-  alt: 'Illustration accompanying article: DGA sends $1 million to Jolly''s Florida governor bid'
+  alt: 'Illustration accompanying article: DGA sends $1 million to Jolly''s Florida
+    governor bid'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-23-byron-donalds-plans-to-join-trump-in-fort-myers-after-avoiding-his-name
+  headline: Byron Donalds plans to join Trump in Fort Myers after avoiding his name
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7203
 - slug: 2026-10-04-donalds-builds-florida-governor-bid-on-brooklyn-to-naples-transformation
   headline: Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7557
+  strength: 0.7554
 - slug: 2026-10-04-donalds-navigates-trump-ties-in-tightening-florida-governor-s-race
   headline: Donalds navigates Trump ties in tightening Florida governor's race
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.754
+  strength: 0.7542
 - slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
   headline: Democrats narrow gaps in Republican-held races with month to midterms
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6854
+  strength: 0.6855
 - slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
   headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6668
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6277
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6383
-- slug: 2026-09-22-donalds-strips-trump-mentions-from-campaign-website
-  headline: Donalds strips Trump mentions from campaign website
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6452
+  strength: 0.6662
 - slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
+  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's
+    race
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7245
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
+  strength: 0.7247
+- slug: 2026-08-13-jolly-courts-florida-seniors-as-democratic-governor-candidate
+  headline: Jolly courts Florida seniors as Democratic governor candidate
+  publish_date: '2026-08-13'
   relation: related
-  strength: 0.6344
+  strength: 0.6725
 - slug: 2026-08-14-democratic-socialist-oliver-larkin-challenges-jared-moskowitz-in-florida
   headline: Democratic socialist Oliver Larkin challenges Jared Moskowitz in Florida
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6566
-- slug: 2026-08-24-maga-inc-spends-more-than-800-000-on-graham-runoff-outreach
-  headline: MAGA Inc. spends more than $800,000 on Graham runoff outreach
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.629
-- slug: 2026-08-06-roy-cooper-leads-north-carolina-senate-race-as-republicans-defend-seat
-  headline: Roy Cooper leads North Carolina Senate race as Republicans defend seat
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6633
-- slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
-  headline: Record seven Black gubernatorial nominees set for November ballots
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.627
-- slug: 2026-08-19-angie-nixon-defeats-vindman-in-florida-democratic-senate-primary
-  headline: Angie Nixon defeats Vindman in Florida Democratic Senate primary
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.626
-- slug: 2026-08-17-florida-voters-head-to-polls-tuesday-for-governor-senate-house
-  headline: Florida voters head to polls Tuesday for governor, Senate, House
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6253
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6295
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6595
-- slug: 2026-04-17-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6439
-- slug: 2026-04-16-democrats-boast-fundraising-in-key-senate-races-as-gop-advantage-persists
-  headline: Democrats boast fundraising in key Senate races as GOP advantage persists
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6436
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6248
+  strength: 0.6557
 ---
-
 ## DGA sends $1 million to Jolly's Florida governor bid
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Jane Doe says Cornell president's response left her feeling disbelieved
 secondary_headline: Cornell disputes her account of a January 2025 meeting
 publish_date: '2026-10-20'
-lede: Jane Doe, a former Cornell University student identified by that pseudonym in court records, told Cornell’s faculty senate in a two-page letter dated 14 October that President Michael Kotlikoff’s response left her feeling “unsupported and disbelieved.” She shared a disputed second-hand account of a January 2025 meeting as the senate prepares to debate a no-confidence resolution in Cornell’s administration. Cornell says Doe’s account is incorrect and says the question concerned bystanders rather than Doe’s reporting.
-nut_graf: The letter gives faculty senators a disputed account of the president’s response before their scheduled no-confidence debate. Cornell’s handling of Doe’s 2024 assault allegations has drawn backlash, while all seven men named in her lawsuit deny wrongdoing and none has been criminally charged.
+lede: Jane Doe, a former Cornell University student identified by that pseudonym in
+  court records, told Cornell’s faculty senate in a two-page letter dated 14 October
+  that President Michael Kotlikoff’s response left her feeling “unsupported and disbelieved.”
+  She shared a disputed second-hand account of a January 2025 meeting as the senate
+  prepares to debate a no-confidence resolution in Cornell’s administration. Cornell
+  says Doe’s account is incorrect and says the question concerned bystanders rather
+  than Doe’s reporting.
+nut_graf: The letter gives faculty senators a disputed account of the president’s
+  response before their scheduled no-confidence debate. Cornell’s handling of Doe’s
+  2024 assault allegations has drawn backlash, while all seven men named in her lawsuit
+  deny wrongdoing and none has been criminally charged.
 primary_entities:
 - Cornell University
 - Jane Doe
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +149,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
+  headline: The New York Times first publishes Doe's letter; her lawyer authenticates
+    it
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8916
+- slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
+  headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8464
 - slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
   headline: Cornell president says he knew of assault report but didn't follow up
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8185
+  strength: 0.8168
+- slug: 2026-10-23-jane-doe-s-lawyer-says-she-fears-for-her-safety-as-cornell-civil-case-advances
+  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case
+    advances
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7255
 - slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
   headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7666
+  strength: 0.7638
 - slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
   headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7167
+  strength: 0.7122
 - slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
   headline: Cornell suspends fraternity parties for academic year after rape allegations
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7007
+  strength: 0.6976
 - slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
   headline: Cornell students voice anger over alleged 2024 gang rape
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7478
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7461
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7429
-- slug: 2026-10-10-swatting-adds-to-threats-against-jane-doe-in-cornell-seven-case
-  headline: Swatting adds to threats against Jane Doe in Cornell seven case
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6921
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7129
-- slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
-  headline: Cornell faculty file no-confidence resolution over sexual assault response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7124
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6958
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.728
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6967
-- slug: 2026-10-06-cornell-trustees-appoint-sally-yates-to-review-sexual-misconduct-response
-  headline: Cornell trustees appoint Sally Yates to review sexual misconduct response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6733
-- slug: 2026-10-06-cornell-names-sally-yates-to-lead-independent-rape-case-review
-  headline: Cornell names Sally Yates to lead independent rape-case review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6728
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7135
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.693
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6674
-- slug: 2026-09-29-trump-administration-reverts-title-ix-rules-to-2020-framework
-  headline: Trump administration reverts Title IX rules to 2020 framework
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.686
+  strength: 0.7425
 ---
-
 ## Jane Doe says Cornell president's response left her feeling disbelieved
 
 **Subtype:** fact

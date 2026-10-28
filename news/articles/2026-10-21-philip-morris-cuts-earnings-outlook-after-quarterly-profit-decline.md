@@ -1,9 +1,17 @@
 ---
 headline: Philip Morris cuts earnings outlook after quarterly profit decline
-secondary_headline: Smoke-free sales rise 4.1% as U.S. Zyn shipments reach 3.2 billion pouches
+secondary_headline: Smoke-free sales rise 4.1% as U.S. Zyn shipments reach 3.2 billion
+  pouches
 publish_date: '2026-10-21'
-lede: Philip Morris International reported higher third-quarter revenue on Wednesday but lower earnings, with net revenue rising 5.5% to $11.4 billion and earnings falling to $2.12 a share from $2.23 a year earlier. The tobacco company said inflationary pressures and increased investment weighed on profit. It also lowered its full-year earnings forecast, while shares fell 2.5% to $195 in premarket trading.
-nut_graf: Philip Morris International reported higher revenue but a reduced full-year earnings range, even as its smoke-free business expanded. The new adjusted forecast is below the guidance issued last month, while the shares declined in premarket trading.
+lede: Philip Morris International reported higher third-quarter revenue on Wednesday
+  but lower earnings, with net revenue rising 5.5% to $11.4 billion and earnings falling
+  to $2.12 a share from $2.23 a year earlier. The tobacco company said inflationary
+  pressures and increased investment weighed on profit. It also lowered its full-year
+  earnings forecast, while shares fell 2.5% to $195 in premarket trading.
+nut_graf: Philip Morris International reported higher revenue but a reduced full-year
+  earnings range, even as its smoke-free business expanded. The new adjusted forecast
+  is below the guidance issued last month, while the shares declined in premarket
+  trading.
 primary_entities:
 - Philip Morris International
 - Zyn
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,21 +144,26 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-whirlpool-expects-a-full-year-loss-as-third-quarter-sales-fall-short
+  headline: Whirlpool expects a full-year loss as third-quarter sales fall short
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6876
+- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
+  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6517
 - slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
   headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7272
-- slug: 2026-10-13-domino-s-q3-profit-tops-estimates-as-u-s-same-store-sales-growth-slows-to-0-3
-  headline: Domino's Q3 profit tops estimates as U.S. same-store sales growth slows to 0.3%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6388
+  strength: 0.7277
 - slug: 2026-07-22-philip-morris-revenue-rises-10-on-smoke-free-international-growth
   headline: Philip Morris revenue rises 10% on smoke-free, international growth
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.8917
+  strength: 0.8921
 - slug: 2026-09-23-general-mills-reports-lower-q1-profit-sales-holds-full-year-eps-outlook
   headline: General Mills reports lower Q1 profit, sales, holds full-year EPS outlook
   publish_date: '2026-09-23'
@@ -159,84 +173,18 @@ related_stories:
   headline: Shein shares fall 14% as first post-IPO earnings disappoint
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6601
+  strength: 0.6599
 - slug: 2026-09-09-philip-morris-expands-zyn-lineup-with-new-strengths-zyn-ultra
   headline: Philip Morris expands Zyn lineup with new strengths, Zyn Ultra
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6875
+  strength: 0.6879
 - slug: 2026-09-03-tyson-cuts-fiscal-2026-revenue-outlook-citing-severe-u-s-cattle-shortage
   headline: Tyson cuts fiscal 2026 revenue outlook, citing severe U.S. cattle shortage
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6647
-- slug: 2026-06-02-philip-morris-takes-500m-impairment-charge-on-canadian-affiliate
-  headline: Philip Morris takes $500M impairment charge on Canadian affiliate
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7746
-- slug: 2026-07-28-philips-shares-fall-as-order-intake-slips-on-north-america-delays
-  headline: Philips shares fall as order intake slips on North America delays
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6979
-- slug: 2026-08-20-walmart-quarterly-comparable-sales-rise-2-6-smallest-gain-in-years
-  headline: Walmart quarterly comparable sales rise 2.6%, smallest gain in years
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6487
-- slug: 2026-08-03-tyson-foods-cuts-profit-outlook-after-575-million-cattle-cost-increase
-  headline: Tyson Foods cuts profit outlook after $575 million cattle-cost increase
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6782
-- slug: 2026-07-27-philip-morris-opens-1-2-billion-zyn-manufacturing-campus-in-colorado
-  headline: Philip Morris opens $1.2 billion Zyn manufacturing campus in Colorado
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6869
-- slug: 2026-08-07-under-armour-cuts-revenue-outlook-as-north-america-sales-drop-9
-  headline: Under Armour cuts revenue outlook as North America sales drop 9%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6623
-- slug: 2026-08-10-hims-hers-lifts-annual-forecast-as-quarterly-costs-drive-loss
-  headline: Hims & Hers lifts annual forecast as quarterly costs drive loss
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6439
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6532
-- slug: 2026-08-06-papa-john-s-cuts-outlook-and-suspends-quarterly-dividend
-  headline: Papa John's cuts outlook and suspends quarterly dividend
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.645
-- slug: 2026-08-05-motorola-solutions-raises-outlook-after-q2-profit-and-revenue-beat-estimates
-  headline: Motorola Solutions raises outlook after Q2 profit and revenue beat estimates
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6453
-- slug: 2026-07-22-molina-healthcare-profit-falls-as-membership-declines
-  headline: Molina Healthcare profit falls as membership declines
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6689
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6631
-- slug: 2026-07-31-analysts-flag-magna-margin-gains-ferrari-beat-caution-on-renault-results
-  headline: Analysts flag Magna margin gains, Ferrari beat; caution on Renault results
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6441
+  strength: 0.6648
 ---
-
 ## Philip Morris cuts earnings outlook after quarterly profit decline
 
 **Subtype:** fact

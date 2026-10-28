@@ -2,8 +2,19 @@
 headline: Equifax cuts guidance amid mortgage pressure and uneven financial growth
 secondary_headline: Canadian home prices stabilize as borrowing costs rise again
 publish_date: '2026-10-20'
-lede: On Oct. 20, Equifax reduced its midpoint 2026 revenue guidance to $6.661 billion, reflecting reduced U.S. mortgage-related revenue after a sharp mortgage-market decline late in the third quarter. Higher borrowing costs and dampened home-buying trends were weighing on the year. CEO Mark Begor separately expected the much weaker U.S. mortgage market seen in the latter half of the third quarter to continue through the remainder of 2026. Equifax shares rose 6% premarket.
-nut_graf: The roundup places Equifax's warning beside corporate outlooks and official economic data from several regions. BNP Paribas said the People's Bank of China was likely to hold its policy rate steady for the rest of 2026. The Dubai Data and Statistics Establishment reported growth in financial and insurance activities and healthcare and social work alongside contraction in trade, transportation and storage, and real estate; analysts also tied Equifax and Canadian housing to borrowing costs, Axis Bank to margins, and Singapore Exchange to trading volumes.
+lede: On Oct. 20, Equifax reduced its midpoint 2026 revenue guidance to $6.661 billion,
+  reflecting reduced U.S. mortgage-related revenue after a sharp mortgage-market decline
+  late in the third quarter. Higher borrowing costs and dampened home-buying trends
+  were weighing on the year. CEO Mark Begor separately expected the much weaker U.S.
+  mortgage market seen in the latter half of the third quarter to continue through
+  the remainder of 2026. Equifax shares rose 6% premarket.
+nut_graf: The roundup places Equifax's warning beside corporate outlooks and official
+  economic data from several regions. BNP Paribas said the People's Bank of China
+  was likely to hold its policy rate steady for the rest of 2026. The Dubai Data and
+  Statistics Establishment reported growth in financial and insurance activities and
+  healthcare and social work alongside contraction in trade, transportation and storage,
+  and real estate; analysts also tied Equifax and Canadian housing to borrowing costs,
+  Axis Bank to margins, and Singapore Exchange to trading volumes.
 primary_entities:
 - Equifax
 - Mark Begor
@@ -63,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -168,108 +180,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-gold-falls-as-high-oil-prices-keep-inflation-and-rate-tightening-concerns-active
+  headline: Gold falls as high oil prices keep inflation and rate-tightening concerns
+    active
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6627
+- slug: 2026-10-21-gold-falls-as-kooijman-sees-oil-likely-reinforcing-hawkish-rate-expectations
+  headline: Gold falls as Kooijman sees oil likely reinforcing hawkish rate expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6599
 - slug: 2026-10-14-major-banks-post-higher-q3-profits-but-trail-second-quarter-pace
   headline: Major banks post higher Q3 profits but trail second-quarter pace
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6978
+  strength: 0.6964
+- slug: 2026-10-25-u-s-home-sellers-cut-prices-and-offer-concessions-as-buyers-gain-leverage
+  headline: U.S. home sellers cut prices and offer concessions as buyers gain leverage
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.65
 - slug: 2026-10-15-analysts-see-singapore-bank-profits-fall-ice-plans-livestock-futures
   headline: Analysts see Singapore bank profits fall; ICE plans livestock futures
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6633
+  strength: 0.6643
 - slug: 2026-08-27-royal-bank-of-canada-reports-record-c-6-02-billion-in-fiscal-third-quarter
   headline: Royal Bank of Canada reports record C$6.02 billion in fiscal third quarter
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.669
+  strength: 0.6653
 - slug: 2026-08-27-30-year-mortgage-rate-holds-at-6-65-near-2026-high
   headline: 30-year mortgage rate holds at 6.65%, near 2026 high
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6577
+  strength: 0.6589
 - slug: 2026-08-20-u-s-mortgage-rates-ease-for-a-second-week-but-stay-elevated
   headline: U.S. mortgage rates ease for a second week but stay elevated
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.669
-- slug: 2026-08-13-freddie-mac-reports-30-year-mortgage-rate-at-6-67-first-weekly-decline-in-six-we
-  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline in six weeks
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6471
-- slug: 2026-05-18-home-depot-profits-dip-but-beat-expectations-as-spring-demand-holds
-  headline: Home Depot profits dip but beat expectations as spring demand holds
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6896
-- slug: 2026-05-18-home-depot-profit-falls-but-beats-expectations-as-spring-buying-offsets-housing-
-  headline: Home Depot profit falls but beats expectations as spring buying offsets housing pressure
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6838
-- slug: 2026-06-27-canada-slips-into-technical-recession-as-carney-urges-patience
-  headline: Canada slips into technical recession as Carney urges patience
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6455
-- slug: 2026-06-05-30-year-mortgage-rate-holds-at-6-48-as-fed-s-limited-influence-frustrates-homebu
-  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates homebuyers
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.664
-- slug: 2026-06-01-uk-house-prices-fall-as-middle-east-crisis-dents-buyer-confidence
-  headline: UK house prices fall as Middle East crisis dents buyer confidence
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6513
-- slug: 2026-06-02-canada-s-economy-contracted-0-1-in-q1-as-carney-ties-weakness-to-policy-restruct
-  headline: Canada's economy contracted 0.1% in Q1 as Carney ties weakness to policy restructuring
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6463
-- slug: 2026-04-15-high-oil-prices-and-geopolitical-uncertainty-cloud-bank-profit-outlook
-  headline: High oil prices and geopolitical uncertainty cloud bank profit outlook
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6691
-- slug: 2026-02-23-home-depot-tops-expectations-but-customers-pull-back-on-spending
-  headline: Home Depot tops expectations, but customers pull back on spending
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.675
-- slug: 2026-04-14-white-house-economists-estimate-10-million-home-us-housing-shortage
-  headline: White House economists estimate 10 million-home US housing shortage
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6644
-- slug: 2026-01-08-cbo-projects-fed-rate-cuts-in-2026-as-treasury-yields-mortgage-costs-set-to-rise
-  headline: CBO projects Fed rate cuts in 2026 as Treasury yields, mortgage costs set to rise
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6739
-- slug: 2026-04-18-home-sales-fall-to-9-month-low-as-mortgage-relief-fails-to-spur-buyers
-  headline: Home sales fall to 9-month low as mortgage relief fails to spur buyers
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.657
-- slug: 2026-04-14-existing-home-sales-sink-to-9-month-low-as-spring-buyers-stay-sidelined
-  headline: Existing home sales sink to 9-month low as spring buyers stay sidelined
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6572
-- slug: 2026-04-14-white-house-economists-estimate-u-s-housing-shortage-of-10-million-homes
-  headline: White House economists estimate U.S. housing shortage of 10 million homes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6517
-- slug: 2026-02-19-average-us-long-term-mortgage-rate-dips-to-6-01-lowest-in-more-than-3-years
-  headline: Average US long-term mortgage rate dips to 6.01%, lowest in more than 3 years
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6619
+  strength: 0.6699
 ---
-
 ## Equifax cuts guidance amid mortgage pressure and uneven financial growth
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Israeli court places four Abu Falah attack suspects under house arrest
-secondary_headline: Witnesses say Palestinian youths used slingshots to hold back settlers
+secondary_headline: Witnesses say Palestinian youths used slingshots to hold back
+  settlers
 publish_date: '2026-10-21'
-lede: An Israeli court on Wednesday released four suspects in the attack on Washington Post photojournalist Heidi Levine and placed them under house arrest after finding insufficient evidence to keep them in custody. Levine, discharged from a hospital the same day, said young Palestinian men shielded her from masked Israeli settlers during Friday's olive harvest in Abu Falah and said she plans to return to reporting in the West Bank.
-nut_graf: Police said 10 suspects had been arrested after the attack on Levine and a separate Saturday assault near Taybeh. Levine's account adds detail about the intervention that witnesses said ended the beating, the injuries and property she described, and the dispute over video evidence and official responses.
+lede: An Israeli court on Wednesday released four suspects in the attack on Washington
+  Post photojournalist Heidi Levine and placed them under house arrest after finding
+  insufficient evidence to keep them in custody. Levine, discharged from a hospital
+  the same day, said young Palestinian men shielded her from masked Israeli settlers
+  during Friday's olive harvest in Abu Falah and said she plans to return to reporting
+  in the West Bank.
+nut_graf: Police said 10 suspects had been arrested after the attack on Levine and
+  a separate Saturday assault near Taybeh. Levine's account adds detail about the
+  intervention that witnesses said ended the beating, the injuries and property she
+  described, and the dispute over video evidence and official responses.
 primary_entities:
 - Heidi Levine
 - Jasper Nathaniel
@@ -56,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,107 +165,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
+  headline: Israeli police arrest 10 settlers accused of attacking olive pickers,
+    journalists
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8478
+  strength: 0.8454
 - slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
   headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7885
+  strength: 0.786
 - slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
   headline: Israeli court extends detention of 6 men over attacks on foreigners
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7573
+  strength: 0.7563
 - slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
-  headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+  headline: Israeli security forces detain Brad Lander and about 80 activists in West
+    Bank
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7329
+  strength: 0.7314
 - slug: 2026-10-21-lander-says-israeli-military-released-him-after-brief-west-bank-detention
   headline: Lander says Israeli military released him after brief West Bank detention
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7178
+  strength: 0.7169
 - slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
   headline: Joshua Schoffman says volunteers complied with order without friction
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6802
-- slug: 2026-10-21-protect-the-harvest-steering-committee-reports-two-detention-sites
-  headline: Protect the Harvest steering committee reports two detention sites
-  publish_date: '2026-10-21'
+  strength: 0.6796
+- slug: 2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip
+  headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6607
-- slug: 2026-08-03-maisoon-ali-says-attackers-set-her-west-bank-home-on-fire
-  headline: Maisoon Ali says attackers set her West Bank home on fire
-  publish_date: '2026-08-03'
+  strength: 0.6765
+- slug: 2026-10-22-report-links-axon-taser-devices-to-alleged-detainee-abuse-in-israeli-custody
+  headline: Report links Axon Taser devices to alleged detainee abuse in Israeli custody
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6596
-- slug: 2026-08-13-israeli-troops-enter-qusra-after-settlers-besiege-palestinian-homes
-  headline: Israeli troops enter Qusra after settlers besiege Palestinian homes
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6174
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6188
-- slug: 2026-04-25-wounded-lebanese-journalist-recounts-hours-after-israeli-strike
-  headline: Wounded Lebanese journalist recounts hours after Israeli strike
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6703
-- slug: 2026-06-07-iran-fires-waves-of-missiles-at-israel-after-israeli-airstrike-on-beirut
-  headline: Iran fires waves of missiles at Israel after Israeli airstrike on Beirut
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6245
-- slug: 2026-02-17-israel-to-charge-settler-filmed-firing-gun-during-west-bank-killing
-  headline: Israel to charge settler filmed firing gun during West Bank killing
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6517
-- slug: 2026-04-12-grief-and-rage-in-lebanon-ahead-of-u-s-talks-with-israel
-  headline: Grief and rage in Lebanon ahead of U.S. talks with Israel
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6328
-- slug: 2026-04-11-israel-and-hezbollah-escalate-attacks-ahead-of-crucial-talks
-  headline: Israel and Hezbollah escalate attacks ahead of crucial talks
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6321
-- slug: 2026-02-04-women-returning-to-gaza-say-israeli-troops-bound-and-interrogated-them
-  headline: Women returning to Gaza say Israeli troops bound and interrogated them
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.6399
-- slug: 2026-03-29-israeli-airstrike-in-southern-lebanon-kills-three-journalists
-  headline: Israeli airstrike in southern Lebanon kills three journalists
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6292
-- slug: 2026-05-02-israeli-police-arrest-man-suspected-of-attacking-nun-near-jerusalem-s-old-city
-  headline: Israeli police arrest man suspected of attacking nun near Jerusalem’s Old City
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6146
-- slug: 2026-04-10-lebanon-mourns-deadliest-day-in-renewed-war-as-israel-authorizes-talks
-  headline: Lebanon mourns deadliest day in renewed war as Israel authorizes talks
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6213
-- slug: 2026-03-10-backlash-against-hezbollah-as-war-flares-in-lebanon
-  headline: Backlash against Hezbollah as war flares in Lebanon
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6281
+  strength: 0.6706
 ---
-
 ## Israeli court places four Abu Falah attack suspects under house arrest
 
 **Subtype:** fact

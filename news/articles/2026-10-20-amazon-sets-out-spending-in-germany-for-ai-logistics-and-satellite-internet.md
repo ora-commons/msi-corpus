@@ -1,9 +1,17 @@
 ---
 headline: Amazon sets out spending in Germany for AI, logistics and satellite internet
-secondary_headline: A second Berlin lab would double Amazon’s robotics and AI research presence
+secondary_headline: A second Berlin lab would double Amazon’s robotics and AI research
+  presence
 publish_date: '2026-10-20'
-lede: Amazon said it would invest more than 16 billion euros ($17.94 billion) in Germany next year across artificial-intelligence infrastructure, high-speed satellite internet, logistics and Prime Video content. The company outlined the commitment at an investment summit in Germany and said 4.8 billion euros would go to cloud and data-center infrastructure. Amazon also said it would open a second robotics and AI research lab in Berlin.
-nut_graf: The announcement brings together Amazon’s cloud and data-center capacity, AI infrastructure, satellite connectivity, logistics and entertainment investments in Germany, Europe’s largest economy. The announcement follows broader European spending by tech giants on data centers, cloud services and AI infrastructure.
+lede: Amazon said it would invest more than 16 billion euros ($17.94 billion) in Germany
+  next year across artificial-intelligence infrastructure, high-speed satellite internet,
+  logistics and Prime Video content. The company outlined the commitment at an investment
+  summit in Germany and said 4.8 billion euros would go to cloud and data-center infrastructure.
+  Amazon also said it would open a second robotics and AI research lab in Berlin.
+nut_graf: The announcement brings together Amazon’s cloud and data-center capacity,
+  AI infrastructure, satellite connectivity, logistics and entertainment investments
+  in Germany, Europe’s largest economy. The announcement follows broader European
+  spending by tech giants on data centers, cloud services and AI infrastructure.
 primary_entities:
 - Amazon
 - Germany
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +155,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-amazon-bans-meta-platforms-muse-agent-as-analysts-question-access
+  headline: Amazon bans Meta Platforms’ Muse agent as analysts question access
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6505
 - slug: 2026-10-05-deutsche-telekom-projects-1-1-billion-euros-in-ai-driven-savings-by-2027
   headline: Deutsche Telekom projects 1.1 billion euros in AI-driven savings by 2027
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7061
+  strength: 0.7058
 - slug: 2026-09-24-amazon-to-build-100-million-indiana-robotics-plant-doubling-robot-capacity
   headline: Amazon to build $100 million Indiana robotics plant, doubling robot capacity
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6937
+  strength: 0.693
 - slug: 2026-09-29-amd-to-acquire-world-labs-for-8-2b-as-physical-ai-interest-grows
   headline: AMD to acquire World Labs for $8.2B as physical-AI interest grows
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6535
+  strength: 0.6533
 - slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
+  headline: US AI infrastructure investment projected at $10.3 trillion from 2025
+    to 2032
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6685
-- slug: 2026-09-30-amazon-and-constellation-agree-to-expand-calvert-cliffs-nuclear-plant
-  headline: Amazon and Constellation agree to expand Calvert Cliffs nuclear plant
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6308
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6357
+  strength: 0.6671
 - slug: 2026-09-09-google-announces-15-1-billion-ai-infrastructure-investment-in-finland
   headline: Google announces $15.1 billion AI infrastructure investment in Finland
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6809
-- slug: 2026-09-22-samsung-to-allocate-40-of-dram-output-to-ai-memory-by-2027
-  headline: Samsung to allocate 40% of DRAM output to AI memory by 2027
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6202
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6262
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6337
+  strength: 0.6793
 - slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
+  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting
+    out spare capacity
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.6691
+  strength: 0.6682
 - slug: 2026-07-11-microsoft-amazon-and-google-emissions-rise-nearly-a-fifth-in-year
   headline: Microsoft, Amazon and Google emissions rise nearly a fifth in year
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.6534
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6333
-- slug: 2026-06-08-amazon-and-corning-sign-multibillion-dollar-fiber-optic-deal-for-ai-data-centers
-  headline: Amazon and Corning sign multibillion-dollar fiber optic deal for AI data centers
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6752
-- slug: 2026-07-11-big-tech-carbon-emissions-jump-nearly-19-to-rival-france
-  headline: Big tech carbon emissions jump nearly 19% to rival France
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6375
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6561
-- slug: 2026-06-13-uk-unveils-1-1bn-ai-hardware-investment-new-child-safety-demands-at-london-tech-
-  headline: UK unveils £1.1bn AI hardware investment, new child safety demands at London Tech Week
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6457
-- slug: 2026-04-30-amazon-reports-higher-first-quarter-profits-as-aws-growth-accelerates
-  headline: Amazon reports higher first-quarter profits as AWS growth accelerates
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6579
-- slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
-  headline: Anthropic commits $100 billion to Amazon cloud platform over decade
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6558
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6258
+  strength: 0.651
 ---
-
 ## Amazon sets out spending in Germany for AI, logistics and satellite internet
 
 **Subtype:** fact

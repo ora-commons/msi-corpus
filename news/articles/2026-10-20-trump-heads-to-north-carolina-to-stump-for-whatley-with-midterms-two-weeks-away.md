@@ -1,9 +1,16 @@
 ---
-headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks away
+headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks
+  away
 secondary_headline: Senate's top GOP super PAC pulls $71m from North Carolina ads
 publish_date: '2026-10-20'
-lede: President Donald Trump is traveling to Greenville, North Carolina, to campaign for Republican Senate nominee Michael Whatley. The North Carolina stop is the second in a seven-day midterm campaign blitz through states Trump won in 2024, with the elections two weeks away.
-nut_graf: Whatley trails former Democratic Gov. Roy Cooper in public polling for the open Senate seat, a contest The Guardian described as "an uphill battle." Earlier this month, the Senate's top GOP super PAC pulled $71 million in North Carolina advertising to redirect those funds into the Kansas Senate race.
+lede: President Donald Trump is traveling to Greenville, North Carolina, to campaign
+  for Republican Senate nominee Michael Whatley. The North Carolina stop is the second
+  in a seven-day midterm campaign blitz through states Trump won in 2024, with the
+  elections two weeks away.
+nut_graf: Whatley trails former Democratic Gov. Roy Cooper in public polling for the
+  open Senate seat, a contest The Guardian described as "an uphill battle." Earlier
+  this month, the Senate's top GOP super PAC pulled $71 million in North Carolina
+  advertising to redirect those funds into the Kansas Senate race.
 primary_entities:
 - Donald Trump
 - Michael Whatley
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,16 +147,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
+  headline: Trump holds seven rallies across seven states during midterm push
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6956
+- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
+  headline: Trump heads to Mississippi as Democrats expand battleground maps
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6806
+- slug: 2026-10-22-trump-rallies-graham-as-security-removes-protesters-in-south-carolina
+  headline: Trump rallies Graham as security removes protesters in South Carolina
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6751
+- slug: 2026-10-21-trump-conditionally-offers-to-settle-veterans-legitimate-camp-lejeune-claims
+  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune
+    claims
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6729
+- slug: 2026-10-26-redrawn-house-races-put-republican-redistricting-advantage-to-the-test
+  headline: Redrawn House races put Republican redistricting advantage to the test
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6679
 - slug: 2026-10-02-senate-leadership-fund-halts-north-carolina-senate-ad-spending
   headline: Senate Leadership Fund halts North Carolina Senate ad spending
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7394
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6639
 - slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
   headline: Trump stumps for Whatley in North Carolina Senate race
   publish_date: '2026-09-17'
@@ -159,88 +188,7 @@ related_stories:
   publish_date: '2026-10-10'
   relation: related
   strength: 0.68
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7023
-- slug: 2026-10-02-hayes-says-slf-swindled-him-into-north-carolina-political-ad-after-son-s-murder
-  headline: Hayes says SLF 'swindled' him into North Carolina political ad after son's murder
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6909
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6798
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6661
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6704
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6836
-- slug: 2026-08-06-roy-cooper-leads-north-carolina-senate-race-as-republicans-defend-seat
-  headline: Roy Cooper leads North Carolina Senate race as Republicans defend seat
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7678
-- slug: 2026-08-21-trump-to-hold-friday-rally-ahead-of-south-carolina-runoff
-  headline: Trump to hold Friday rally ahead of South Carolina runoff
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7296
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6642
-- slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
-  headline: Darline Graham wins South Carolina Senate runoff over Norman
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.676
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7141
-- slug: 2026-08-08-darline-graham-enters-south-carolina-primary-with-trump-endorsement
-  headline: Darline Graham enters South Carolina primary with Trump endorsement
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6698
-- slug: 2026-03-09-trump-s-pick-faces-democrat-roy-cooper-in-pivotal-north-carolina-senate-race
-  headline: Trump's pick faces Democrat Roy Cooper in pivotal North Carolina Senate race
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.758
-- slug: 2026-05-14-voters-weigh-tax-cuts-against-inflation-in-north-carolina-senate-race
-  headline: Voters weigh tax cuts against inflation in North Carolina Senate race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7235
-- slug: 2026-03-02-roy-cooper-and-michael-whatley-win-north-carolina-senate-nominations
-  headline: Roy Cooper and Michael Whatley win North Carolina Senate nominations
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7275
-- slug: 2026-05-14-north-carolina-senate-race-pits-trump-tax-cuts-against-inflation-pressure
-  headline: North Carolina Senate race pits Trump tax cuts against inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6836
 ---
-
 ## Trump heads to North Carolina to stump for Whatley with midterms two weeks away
 
 **Subtype:** fact

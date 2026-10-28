@@ -1,9 +1,22 @@
 ---
 headline: Talarico alleges Musk is trying to buy Texas Senate seat
-secondary_headline: Musk channels more than $150 million to Paxton's Texas Senate bid
+secondary_headline: Musk channels more than $150 million to Paxton's Texas Senate
+  bid
 publish_date: '2026-10-21'
-lede: James Talarico, the Democratic Senate candidate in Texas, released a video Tuesday accusing Elon Musk of trying to buy the state's Senate seat, alleging Musk is using more than $150 million to help Republican Ken Paxton. The Wall Street Journal's Politics newsletter referenced a Journal report Tuesday that Musk ordered a slowdown of Starlink service used in Ukraine last week and later discussed the matter with President Donald Trump; the slowdown made it much harder for Ukraine to defend itself, the newsletter said. Before the Journal's article, the White House said it did not know how the slowdown happened, and Trump said he would like to know who was behind the decision.
-nut_graf: Musk's Texas spending and the reported Starlink action both come as Musk has re-entered midterm politics after leaving the Trump administration in May, briefly launching his own political party and then returning to the GOP fold. The newsletter said Democrats are now using Musk to build their own coalition, a role he had played for Republicans in 2024.
+lede: James Talarico, the Democratic Senate candidate in Texas, released a video Tuesday
+  accusing Elon Musk of trying to buy the state's Senate seat, alleging Musk is using
+  more than $150 million to help Republican Ken Paxton. The Wall Street Journal's
+  Politics newsletter referenced a Journal report Tuesday that Musk ordered a slowdown
+  of Starlink service used in Ukraine last week and later discussed the matter with
+  President Donald Trump; the slowdown made it much harder for Ukraine to defend itself,
+  the newsletter said. Before the Journal's article, the White House said it did not
+  know how the slowdown happened, and Trump said he would like to know who was behind
+  the decision.
+nut_graf: Musk's Texas spending and the reported Starlink action both come as Musk
+  has re-entered midterm politics after leaving the Trump administration in May, briefly
+  launching his own political party and then returning to the GOP fold. The newsletter
+  said Democrats are now using Musk to build their own coalition, a role he had played
+  for Republicans in 2024.
 primary_entities:
 - James Talarico
 - Elon Musk
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +163,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
+  headline: Talarico says Musk is backing Paxton at UT Austin rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8432
 - slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8165
+  strength: 0.8156
+- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
+  headline: Talarico and Paxton enter final stretch of Texas Senate race
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7637
+- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
+  headline: Musk's Republican midterm giving exceeds $442 million
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7592
 - slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
+  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to
+    Paxton PAC
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7961
+  strength: 0.7955
+- slug: 2026-10-27-robert-reich-urges-defunding-of-elon-musk-over-starlink-limits
+  headline: Robert Reich urges defunding of Elon Musk over Starlink limits
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7485
 - slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7631
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
+  strength: 0.7623
+- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
+  headline: Talarico rejects progressive label in Texas Senate race against Paxton
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7262
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7345
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7285
-- slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
-  headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7249
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7067
-- slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
-  headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.705
-- slug: 2026-10-05-talarico-leads-in-texas-senate-polls-while-owning-past-comments
-  headline: Talarico leads in Texas Senate polls while owning past comments
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.72
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7087
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7265
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.743
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7449
-- slug: 2026-08-31-talarico-leads-paxton-42-to-39-in-university-of-texas-senate-poll
-  headline: Talarico leads Paxton 42% to 39% in University of Texas Senate poll
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7417
-- slug: 2026-09-05-maga-inc-launches-10-million-texas-senate-ad-campaign
-  headline: MAGA Inc. launches $10 million Texas Senate ad campaign
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7174
-- slug: 2026-08-14-musk-plans-100-million-for-gop-midterm-voter-turnout
-  headline: Musk plans $100 million for GOP midterm voter-turnout
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7296
-- slug: 2026-07-10-texas-democrat-says-110m-starlink-grants-look-like-corruption
-  headline: Texas Democrat says $110M Starlink grants look like corruption
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7241
-- slug: 2026-07-10-110m-in-texas-starlink-grants-sure-looks-like-corruption-democratic-ag-nominee-s
-  headline: $110M in Texas Starlink grants 'sure looks like' corruption, Democratic AG nominee says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7199
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7039
+  strength: 0.7387
 ---
-
 ## Talarico alleges Musk is trying to buy Texas Senate seat
 
 **Subtype:** fact

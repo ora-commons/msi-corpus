@@ -1,9 +1,18 @@
 ---
 headline: Toledo orders more than 900 residents out after M.C. Tank Terminal explosion
-secondary_headline: Mayor Wade Kapszukiewicz says CSX rail lines shut down; one deputy injured
+secondary_headline: Mayor Wade Kapszukiewicz says CSX rail lines shut down; one deputy
+  injured
 publish_date: '2026-10-21'
-lede: City officials said more than 900 residents were ordered to evacuate after a chemical tank exploded at M.C. Tank Terminal in north Toledo, Ohio. Mayor Wade Kapszukiewicz said at a Wednesday morning press conference that the explosion happened around 9:30 p.m. EDT Tuesday. One Lucas County sheriff's deputy was injured during the response but was able to drive himself to the hospital.
-nut_graf: The response combined evacuation and shelter-in-place orders, while officials said dense fog in the area complicated monitoring and made drones unable to see the site from above. United Press International reported that glycidyl methacrylate can cause eye irritation and possibly burning in the eyes, while long-term exposure can cause cancer.
+lede: City officials said more than 900 residents were ordered to evacuate after a
+  chemical tank exploded at M.C. Tank Terminal in north Toledo, Ohio. Mayor Wade Kapszukiewicz
+  said at a Wednesday morning press conference that the explosion happened around
+  9:30 p.m. EDT Tuesday. One Lucas County sheriff's deputy was injured during the
+  response but was able to drive himself to the hospital.
+nut_graf: The response combined evacuation and shelter-in-place orders, while officials
+  said dense fog in the area complicated monitoring and made drones unable to see
+  the site from above. United Press International reported that glycidyl methacrylate
+  can cause eye irritation and possibly burning in the eyes, while long-term exposure
+  can cause cancer.
 primary_entities:
 - M.C. Tank Terminal
 - City of Toledo
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +152,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-toledo-orders-more-than-900-residents-out-after-m-c-tank-terminal-explosion.png
-  alt: 'Illustration accompanying article: Toledo orders more than 900 residents out after M.C. Tank Terminal explosion'
+  alt: 'Illustration accompanying article: Toledo orders more than 900 residents out
+    after M.C. Tank Terminal explosion'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-21-toledo-orders-about-1-000-residents-to-evacuate-after-chemical-tank-explosion
+  headline: Toledo orders about 1,000 residents to evacuate after chemical tank explosion
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.9214
 - slug: 2026-08-18-explosions-spark-large-fire-at-toledo-industrial-recycling-plant
   headline: Explosions spark large fire at Toledo industrial recycling plant
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7064
+  strength: 0.7059
 - slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
   headline: Evacuations near damaged chemical tank extend into holiday weekend
   publish_date: '2026-05-25'
   relation: related
-  strength: 0.7814
+  strength: 0.781
 - slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
+  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange
+    County
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.7695
+  strength: 0.7692
 - slug: 2026-05-24-cracked-chemical-tank-triggers-evacuation-at-gkn-aerospace-in-california
   headline: Cracked chemical tank triggers evacuation at GKN Aerospace in California
   publish_date: '2026-05-24'
   relation: related
-  strength: 0.7626
+  strength: 0.7625
 - slug: 2026-05-22-40-000-under-evacuation-orders-after-chemical-tank-leak-in-garden-grove
   headline: 40,000 under evacuation orders after chemical tank leak in Garden Grove
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.7616
+  strength: 0.7613
 - slug: 2026-05-23-evacuations-near-overheated-chemical-tank-extend-into-holiday-weekend
   headline: Evacuations near overheated chemical tank extend into holiday weekend
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.7609
+  strength: 0.7606
 - slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
+  headline: Officials lift evacuation orders for some residents near damaged chemical
+    tank in Garden Grove
   publish_date: '2026-05-25'
   relation: related
-  strength: 0.7567
-- slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7564
-- slug: 2026-05-22-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.747
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7401
-- slug: 2026-05-24-california-chemical-plant-evacuation-orders-lift-as-explosion-risk-fades
-  headline: California chemical plant evacuation orders lift as explosion risk fades
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7364
-- slug: 2026-05-27-final-evacuation-orders-lifted-for-16-000-near-damaged-garden-grove-chemical-tan
-  headline: Final evacuation orders lifted for 16,000 near damaged Garden Grove chemical tank
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7342
-- slug: 2026-05-24-garden-grove-chemical-tank-evacuation-partially-lifted-after-crack-relieves-pres
-  headline: Garden Grove chemical tank evacuation partially lifted after crack relieves pressure
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7338
-- slug: 2026-05-25-evacuation-lifted-for-most-after-methyl-methacrylate-tank-crack-in-garden-grove
-  headline: Evacuation lifted for most after methyl methacrylate tank crack in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7324
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.729
-- slug: 2026-06-10-fbi-searches-garden-grove-aerospace-facility-after-chemical-tank-crisis
-  headline: FBI searches Garden Grove aerospace facility after chemical tank crisis
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7169
-- slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.712
-- slug: 2026-05-24-partial-evacuation-lift-allows-34-000-california-residents-to-return-home
-  headline: Partial evacuation lift allows 34,000 California residents to return home
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7116
-- slug: 2026-05-23-crack-found-on-southern-california-chemical-tank-may-reduce-explosion-risk-but-e
-  headline: Crack found on Southern California chemical tank may reduce explosion risk, but evacuations hold
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6926
-- slug: 2026-05-23-40-000-evacuated-as-damaged-chemical-tank-overheats-in-garden-grove
-  headline: 40,000 evacuated as damaged chemical tank overheats in Garden Grove
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6914
+  strength: 0.7559
 ---
-
 ## Toledo orders more than 900 residents out after M.C. Tank Terminal explosion
 
 **Subtype:** fact

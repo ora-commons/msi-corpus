@@ -2,8 +2,15 @@
 headline: Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds
 secondary_headline: Third-quarter sales set a record as operating profit rose 37%
 publish_date: '2026-10-20'
-lede: Adidas raised its 2026 operating-profit guidance to €2.5 billion on Tuesday after receiving about $224.3 million in U.S. tariff refunds. The German sports company also reported record third-quarter revenue of €7.25 billion and operating profit of €1.01 billion, up 37% from a year earlier. Adidas said the refunds, worth around €200 million, represented the majority of its total claims.
-nut_graf: Adidas raised its 2026 operating-profit guidance to €2.5 billion, up from €2.3 billion, after receiving about $224.3 million in U.S. tariff refunds. The Wall Street Journal reported that difficult market conditions had prevented Adidas from raising forecasts in recent months.
+lede: Adidas raised its 2026 operating-profit guidance to €2.5 billion on Tuesday
+  after receiving about $224.3 million in U.S. tariff refunds. The German sports company
+  also reported record third-quarter revenue of €7.25 billion and operating profit
+  of €1.01 billion, up 37% from a year earlier. Adidas said the refunds, worth around
+  €200 million, represented the majority of its total claims.
+nut_graf: Adidas raised its 2026 operating-profit guidance to €2.5 billion, up from
+  €2.3 billion, after receiving about $224.3 million in U.S. tariff refunds. The Wall
+  Street Journal reported that difficult market conditions had prevented Adidas from
+  raising forecasts in recent months.
 primary_entities:
 - Adidas
 - Bjorn Gulden
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,63 +144,40 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6657
+- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
+  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.659
 - slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
   headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
   publish_date: '2026-10-20'
   relation: related
   strength: 0.6564
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6486
 - slug: 2026-10-08-aritzia-lifts-fiscal-2027-outlook-after-44-quarterly-revenue-surge
   headline: Aritzia lifts fiscal 2027 outlook after 44% quarterly revenue surge
   publish_date: '2026-10-08'
   relation: related
   strength: 0.672
-- slug: 2026-10-13-unitedhealth-posts-4-11-billion-quarterly-profit-raises-guidance
-  headline: UnitedHealth posts $4.11 billion quarterly profit, raises guidance
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6407
 - slug: 2026-10-08-adidas-sues-australian-label-white-fox-over-four-stripe-design
   headline: Adidas sues Australian label White Fox over four-stripe design
   publish_date: '2026-10-08'
   relation: related
   strength: 0.6635
-- slug: 2026-10-09-wto-raises-2026-goods-trade-growth-forecast-to-3-9-on-ai-boom
-  headline: WTO raises 2026 goods-trade growth forecast to 3.9% on AI boom
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6425
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6461
-- slug: 2026-10-06-lamb-weston-raises-fiscal-2027-outlook-after-q1-earnings-beat
-  headline: Lamb Weston raises fiscal 2027 outlook after Q1 earnings beat
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6397
-- slug: 2026-10-01-nike-reports-11bn-quarterly-revenue-missing-analyst-expectations
-  headline: Nike reports $11bn quarterly revenue, missing analyst expectations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6396
-- slug: 2026-09-14-on-holding-holds-prices-as-wholesale-growth-slows-to-4-8
-  headline: On Holding holds prices as wholesale growth slows to 4.8%
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6419
 - slug: 2026-08-28-byd-s-second-quarter-net-profit-rises-30-as-exports-lift-margins
   headline: BYD's second-quarter net profit rises 30% as exports lift margins
   publish_date: '2026-08-28'
   relation: related
   strength: 0.6797
 - slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
+  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff
+    refunds lift profits
   publish_date: '2026-08-31'
   relation: related
   strength: 0.6672
@@ -201,52 +186,20 @@ related_stories:
   publish_date: '2026-08-04'
   relation: related
   strength: 0.6922
-- slug: 2026-08-07-under-armour-cuts-revenue-outlook-as-north-america-sales-drop-9
-  headline: Under Armour cuts revenue outlook as North America sales drop 9%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6825
-- slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
-  headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.668
-- slug: 2026-08-06-deutsche-telekom-raises-buyback-plan-and-lifts-free-cash-flow-guidance
-  headline: Deutsche Telekom raises buyback plan and lifts free-cash-flow guidance
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6716
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6618
-- slug: 2026-08-13-orsted-posts-lower-profit-on-write-downs-keeps-projects-on-schedule
-  headline: Orsted posts lower profit on write-downs, keeps projects on schedule
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6412
-- slug: 2026-08-07-wendy-s-withdraws-outlook-cuts-dividend-as-u-s-sales-drop-7
-  headline: Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6436
-- slug: 2026-08-06-datadog-cites-lower-usage-from-major-ai-customer-in-2026-outlook
-  headline: Datadog cites lower usage from major AI customer in 2026 outlook
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6441
 image:
   url: /articles/2026-10-20-adidas-raises-2026-profit-guidance-to-2-5-billion-after-u-s-tariff-refunds.png
-  alt: "Illustration accompanying article: Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds"
+  alt: 'Illustration accompanying article: Adidas raises 2026 profit guidance to €2.5
+    billion after U.S. tariff refunds'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds
 
 **Subtype:** fact

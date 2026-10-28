@@ -2,8 +2,14 @@
 headline: Ukrainian anti-corruption police search National Bank of Ukraine premises
 secondary_headline: No detentions or suspicion notices issued, police say
 publish_date: '2026-10-21'
-lede: Ukraine's anti-corruption police said detectives were searching the premises of the National Bank of Ukraine and the home address of one of the central bank's employees, Reuters reported, in coverage carried by The Guardian's Europe liveblog. The anti-corruption police said in a Telegram statement that no one had been detained or issued a suspicion notice.
-nut_graf: The National Bank of Ukraine did not immediately respond to a request for comment. The Guardian's Europe liveblog carried the Reuters dispatch under the headline "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine."
+lede: Ukraine's anti-corruption police said detectives were searching the premises
+  of the National Bank of Ukraine and the home address of one of the central bank's
+  employees, Reuters reported, in coverage carried by The Guardian's Europe liveblog.
+  The anti-corruption police said in a Telegram statement that no one had been detained
+  or issued a suspicion notice.
+nut_graf: The National Bank of Ukraine did not immediately respond to a request for
+  comment. The Guardian's Europe liveblog carried the Reuters dispatch under the headline
+  "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine."
 primary_entities:
 - National Bank of Ukraine
 - Ukraine's anti-corruption police
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,78 +153,20 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6614
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6374
-- slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
-  headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6259
-- slug: 2026-10-21-stephen-hubbard-returns-home-after-russian-authorities-release-him
-  headline: Stephen Hubbard returns home after Russian authorities release him
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6258
-- slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
-  headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6254
-- slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
-  headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6219
-- slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
-  headline: Zelensky says Putin needs more US pressure to curb attacks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6408
 - slug: 2026-09-10-russia-says-it-detained-russian-guard-at-british-embassy-over-alleged-plot
-  headline: Russia says it detained Russian guard at British embassy over alleged plot
+  headline: Russia says it detained Russian guard at British embassy over alleged
+    plot
   publish_date: '2026-09-10'
   relation: related
   strength: 0.6814
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6154
-- slug: 2026-09-14-eu-s-kallas-calls-russian-train-strike-message-to-the-western-world
-  headline: EU's Kallas calls Russian train strike 'message to the western world'
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6152
-- slug: 2026-09-08-kushner-meets-russia-s-dmitriev-in-moscow-on-ukraine-peace-track
-  headline: Kushner meets Russia's Dmitriev in Moscow on Ukraine peace track
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6365
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6403
-- slug: 2026-08-26-cia-director-ratcliffe-met-russian-intelligence-in-moscow-kremlin-says
-  headline: CIA director Ratcliffe met Russian intelligence in Moscow, Kremlin says
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6419
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6222
 - slug: 2026-05-11-ukraine-names-zelenskyy-ex-chief-of-staff-yermak-suspect-in-graft-probe
   headline: Ukraine names Zelenskyy ex-chief of staff Yermak suspect in graft probe
   publish_date: '2026-05-11'
   relation: related
   strength: 0.6823
 - slug: 2026-05-11-ukraine-anti-graft-agencies-name-ex-zelenskyy-chief-of-staff-suspect-in-10-5m-la
-  headline: Ukraine anti-graft agencies name ex-Zelenskyy chief of staff suspect in $10.5M laundering probe
+  headline: Ukraine anti-graft agencies name ex-Zelenskyy chief of staff suspect in
+    $10.5M laundering probe
   publish_date: '2026-05-11'
   relation: related
   strength: 0.6784
@@ -231,18 +180,12 @@ related_stories:
   publish_date: '2026-01-05'
   relation: related
   strength: 0.6702
-- slug: 2026-05-14-ukraine-anti-corruption-watchdogs-name-zelenskyy-ex-chief-of-staff-andrii-yermak
-  headline: Ukraine anti-corruption watchdogs name Zelenskyy ex-chief of staff Andrii Yermak suspect in graft probe
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6352
 - slug: 2026-02-26-zelenskyy-says-ukraine-will-meet-trump-envoys-in-geneva-next-week
   headline: Zelenskyy says Ukraine will meet Trump envoys in Geneva next week
   publish_date: '2026-02-26'
   relation: related
   strength: 0.6544
 ---
-
 ## Ukrainian anti-corruption police search National Bank of Ukraine premises
 
 **Subtype:** fact

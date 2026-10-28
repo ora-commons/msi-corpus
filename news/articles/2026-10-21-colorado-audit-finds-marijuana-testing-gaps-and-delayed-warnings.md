@@ -1,9 +1,19 @@
 ---
 headline: Colorado audit finds marijuana testing gaps and delayed warnings
-secondary_headline: Nearly 75% of marijuana processed for eventual sale lacked pesticide tests, 2023-2025
+secondary_headline: Nearly 75% of marijuana processed for eventual sale lacked pesticide
+  tests, 2023-2025
 publish_date: '2026-10-21'
-lede: A Colorado state audit released Monday found that nearly 75% of marijuana processed for eventual sale from 2023 through 2025 evaded pesticide testing. The report also identified missed inspection schedules, insufficient random dispensary checks and delayed public warnings about potentially contaminated products. Auditors said the deficiencies increased the risk of contaminants or inaccurate potency labels, although they did not find evidence of widespread health and safety issues.
-nut_graf: State auditors did not find evidence of widespread health and safety issues, but they said deficiencies in testing, inspections and warnings still left consumers vulnerable. MED said it would assess testing exemptions under state laws and regulations, and Deputy Senior Director Kyle Lambert said the agency might revisit independent sample collection.
+lede: A Colorado state audit released Monday found that nearly 75% of marijuana processed
+  for eventual sale from 2023 through 2025 evaded pesticide testing. The report also
+  identified missed inspection schedules, insufficient random dispensary checks and
+  delayed public warnings about potentially contaminated products. Auditors said the
+  deficiencies increased the risk of contaminants or inaccurate potency labels, although
+  they did not find evidence of widespread health and safety issues.
+nut_graf: State auditors did not find evidence of widespread health and safety issues,
+  but they said deficiencies in testing, inspections and warnings still left consumers
+  vulnerable. MED said it would assess testing exemptions under state laws and regulations,
+  and Deputy Senior Director Kyle Lambert said the agency might revisit independent
+  sample collection.
 primary_entities:
 - Colorado
 - Marijuana Enforcement Division
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +152,13 @@ related_stories:
   headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7523
-- slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
-  headline: FDA proposes allowing some chemicals into food without safety review
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6335
-- slug: 2026-09-26-study-identifies-485-breast-cancer-linked-chemicals-in-us-pesticide-products
-  headline: Study identifies 485 breast cancer-linked chemicals in US pesticide products
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6355
-- slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6364
-- slug: 2026-09-23-usda-announces-recall-of-167-639-pounds-of-uninspected-meat
-  headline: USDA announces recall of 167,639 pounds of uninspected meat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6159
-- slug: 2026-09-10-three-states-limit-community-air-data-under-industry-backed-laws
-  headline: Three states limit community air data under industry-backed laws
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6164
-- slug: 2026-08-23-study-finds-unlabeled-toxic-chemicals-in-85-of-personal-care-products-tested
-  headline: Study finds unlabeled toxic chemicals in 85% of personal care products tested
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6463
+  strength: 0.7518
 - slug: 2026-07-10-pre-hire-marijuana-testing-declines-across-u-s-workplaces
   headline: Pre-hire marijuana testing declines across U.S. workplaces
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6723
-- slug: 2026-06-25-supreme-court-shields-monsanto-from-roundup-failure-to-warn-claims
-  headline: Supreme Court shields Monsanto from Roundup failure-to-warn claims
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6142
-- slug: 2026-06-05-half-of-california-tested-waterways-contaminated-with-pfas-pesticides-analysis-f
-  headline: Half of California tested waterways contaminated with Pfas pesticides, analysis finds
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6267
-- slug: 2026-02-20-california-parole-board-s-drug-test-approach-undermines-addiction-treatment
-  headline: California parole board’s drug-test approach undermines addiction treatment
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6505
-- slug: 2026-05-23-fda-staff-blindsided-by-new-vaping-policy-that-allows-more-e-cigarettes-and-nico
-  headline: FDA staff blindsided by new vaping policy that allows more e‑cigarettes and nicotine pouches
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6165
-- slug: 2026-04-30-new-fda-study-confirms-safety-of-us-infant-formula
-  headline: New FDA study confirms safety of US infant formula
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6229
-- slug: 2026-04-15-illinois-lawmakers-refuse-to-accept-corrections-audit-findings-demand-agency-ret
-  headline: Illinois lawmakers refuse to accept corrections audit findings, demand agency return
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6256
-- slug: 2026-02-19-report-finds-16-nevada-insurers-shortchange-mental-health-care-coverage
-  headline: Report finds 16 Nevada insurers shortchange mental health care coverage
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6362
-- slug: 2026-02-19-california-parole-board-doctors-warn-unreliable-drug-tests-derail-addiction-care
-  headline: California parole board doctors warn unreliable drug tests derail addiction care
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6341
-- slug: 2026-02-11-illegal-cannabis-farms-leave-hazardous-waste-across-california-s-forests
-  headline: Illegal cannabis farms leave hazardous waste across California’s forests
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6329
-- slug: 2026-04-15-fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr
-  headline: FDA to weigh easing limits on unproven peptides favored by RFK Jr.
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6165
-- slug: 2026-03-09-vermont-audit-says-child-care-oversight-gaps-could-cost-federal-funds
-  headline: Vermont audit says child care oversight gaps could cost federal funds
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6247
-- slug: 2026-02-24-federal-regulators-fine-colorado-dairy-over-six-deaths-from-toxic-gas
-  headline: Federal regulators fine Colorado dairy over six deaths from toxic gas
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6242
+  strength: 0.6722
 ---
-
 ## Colorado audit finds marijuana testing gaps and delayed warnings
 
 **Subtype:** fact

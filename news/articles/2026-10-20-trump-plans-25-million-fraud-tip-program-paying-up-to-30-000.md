@@ -2,8 +2,16 @@
 headline: Trump plans $25 million fraud-tip program paying up to $30,000
 secondary_headline: White House says Trump plans to give Nick Shirley a $10,000 check
 publish_date: '2026-10-20'
-lede: WASHINGTON — President Trump plans to announce a $25 million program on Tuesday that would pay up to $30,000 for tips leading to government fraud convictions, according to the White House. The Justice Department will administer the program as part of Vice President JD Vance’s antifraud task force.
-nut_graf: The tip-reward program is the latest in a series of antifraud efforts. Last month, Vance’s antifraud task force said it would remove hundreds of thousands of enrollments from the Affordable Care Act’s public exchanges, saying those enrollees did not meet eligibility requirements or did not exist at all. Trump has tied the initiative to a multiyear Minnesota fraud scandal; Gov. Tim Walz dropped his bid for a third term earlier this year in the wake of that scandal.
+lede: WASHINGTON — President Trump plans to announce a $25 million program on Tuesday
+  that would pay up to $30,000 for tips leading to government fraud convictions, according
+  to the White House. The Justice Department will administer the program as part of
+  Vice President JD Vance’s antifraud task force.
+nut_graf: The tip-reward program is the latest in a series of antifraud efforts. Last
+  month, Vance’s antifraud task force said it would remove hundreds of thousands of
+  enrollments from the Affordable Care Act’s public exchanges, saying those enrollees
+  did not meet eligibility requirements or did not exist at all. Trump has tied the
+  initiative to a multiyear Minnesota fraud scandal; Gov. Tim Walz dropped his bid
+  for a third term earlier this year in the wake of that scandal.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +146,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-fraud-tip-program-makes-first-award-to-nick-shirley
+  headline: Fraud-tip program makes first award to Nick Shirley
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8193
+- slug: 2026-10-20-trump-proposes-serving-as-arbitrator-of-doj-fraud-tip-rewards
+  headline: Trump proposes serving as arbitrator of DOJ fraud tip rewards
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.7893
+- slug: 2026-10-26-trump-offers-1-million-reward-for-reports-of-voter-fraud
+  headline: Trump offers $1 million reward for reports of voter fraud
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7407
+- slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
+  headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7006
 - slug: 2026-10-13-trump-administration-removes-750-000-from-aca-marketplaces
   headline: Trump administration removes 750,000 from ACA marketplaces
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6853
-- slug: 2026-10-09-trump-vance-back-bill-letting-merchants-pick-card-networks
-  headline: Trump, Vance back bill letting merchants pick card networks
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6764
-- slug: 2026-10-03-trump-announces-one-time-90-payment-for-20-million-medicare-seniors
-  headline: Trump announces one-time $90 payment for 20 million Medicare seniors
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6753
+  strength: 0.6852
 - slug: 2026-09-23-vance-cancels-760-000-aca-enrollees-citing-fraud-projects-2-2b-savings
   headline: Vance cancels 760,000 ACA enrollees citing fraud, projects $2.2B savings
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7141
-- slug: 2026-09-30-trump-sends-500-aca-refund-checks-to-nearly-1-million-ahead-of-midterms
-  headline: Trump sends $500 ACA refund checks to nearly 1 million ahead of midterms
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6742
+  strength: 0.7145
 - slug: 2026-09-22-vance-task-force-to-cancel-760-000-aca-enrollments-projecting-2-2b-savings
   headline: Vance task force to cancel 760,000 ACA enrollments, projecting $2.2B savings
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6971
+  strength: 0.6969
 - slug: 2026-09-10-trump-promises-500-obamacare-refunds-to-nearly-1-million-enrollees
   headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6894
-- slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
-  headline: Current tariff pace would take nearly five years to cover Trump payout
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6839
-- slug: 2026-03-28-vance-holds-first-anti-fraud-task-force-meeting-as-administration-targets-benefi
-  headline: Vance holds first anti-fraud task force meeting as administration targets benefits
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.745
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7003
-- slug: 2026-06-09-vance-refers-house-fraud-report-on-walz-ellison-to-doj-for-investigation
-  headline: Vance refers House fraud report on Walz, Ellison to DOJ for investigation
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6833
-- slug: 2026-02-27-walz-unveils-anti-fraud-plan-after-medicaid-funds-freeze-in-dispute
-  headline: Walz unveils anti-fraud plan after Medicaid funds freeze in dispute
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7196
-- slug: 2026-02-26-trump-administration-pauses-some-medicaid-funding-to-minnesota-over-fraud-concer
-  headline: Trump administration pauses some Medicaid funding to Minnesota over fraud concerns
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7139
-- slug: 2026-05-01-trump-administration-delays-more-medicaid-funding-for-minnesota-over-fraud-fears
-  headline: Trump administration delays more Medicaid funding for Minnesota over fraud fears
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6936
-- slug: 2026-04-29-federal-agents-execute-minnesota-searches-in-child-program-fraud-probe
-  headline: Federal agents execute Minnesota searches in child-program fraud probe
-  publish_date: '2026-04-29'
-  relation: related
   strength: 0.6897
-- slug: 2026-01-14-trump-administration-threatens-billions-in-federal-aid-to-minnesota
-  headline: Trump administration threatens billions in federal aid to Minnesota
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7074
-- slug: 2026-01-01-trump-administration-freezes-minnesota-child-care-funds-and-demands-audits
-  headline: Trump administration freezes Minnesota child care funds and demands audits
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7062
-- slug: 2026-02-26-trump-s-pick-to-lead-new-doj-fraud-unit-faces-scrutiny-over-oversight
-  headline: Trump’s pick to lead new DOJ fraud unit faces scrutiny over oversight
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7008
-- slug: 2026-05-18-trump-allies-fund-doj-plan-for-nearly-1-8b-anti-weaponization-fund
-  headline: Trump allies fund DOJ plan for nearly $1.8B “Anti-Weaponization Fund”
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6741
-- slug: 2026-05-14-vance-announces-1-3b-medicaid-deferral-medicare-hospice-enrollment-freeze
-  headline: Vance announces $1.3B Medicaid deferral, Medicare hospice enrollment freeze
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.675
 ---
-
 ## Trump plans $25 million fraud-tip program paying up to $30,000
 
 **Subtype:** fact

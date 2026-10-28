@@ -2,8 +2,13 @@
 headline: Joel Kaplan to leave Meta after 15 years as policy chief
 secondary_headline: Kaplan will remain for months to assist with transition
 publish_date: '2026-10-20'
-lede: Meta policy chief Joel Kaplan announced on X that he would leave the company after 15 years. He said he would remain for a few months to help with the transition, and Meta confirmed the departure without providing further comment.
-nut_graf: The departure comes roughly nine months after Meta hired Dina Powell McCormick, who served in President Donald Trump's first administration, as president and vice chairman. Kaplan joined Meta in 2011 and was elevated to chief global affairs officer in January 2025, shortly after Trump won the presidency.
+lede: Meta policy chief Joel Kaplan announced on X that he would leave the company
+  after 15 years. He said he would remain for a few months to help with the transition,
+  and Meta confirmed the departure without providing further comment.
+nut_graf: The departure comes roughly nine months after Meta hired Dina Powell McCormick,
+  who served in President Donald Trump's first administration, as president and vice
+  chairman. Kaplan joined Meta in 2011 and was elevated to chief global affairs officer
+  in January 2025, shortly after Trump won the presidency.
 primary_entities:
 - Meta Platforms
 - Joel Kaplan
@@ -35,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,108 +139,40 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-27-meta-expands-muse-agent-access-as-amazon-blocks-purchases
-  headline: Meta expands Muse agent access as Amazon blocks purchases
-  publish_date: '2026-09-27'
+- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6106
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
+  strength: 0.676
+- slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
+  headline: Zuckerberg commits to California stay for eight years under new Meta deal
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6285
-- slug: 2026-09-22-meta-surges-on-ai-agent-app-financial-sector-drops-2-on-ai-fears
-  headline: Meta surges on AI agent app; financial sector drops 2% on AI fears
-  publish_date: '2026-09-22'
+  strength: 0.6571
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6214
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
+  strength: 0.6562
+- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
+  headline: Meta reports 37% profit drop and 15% headcount cut
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6046
-- slug: 2026-08-28-trump-corporate-donors-brace-for-investigations-if-house-flips-to-democrats
-  headline: Trump corporate donors brace for investigations if House flips to Democrats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6236
+  strength: 0.6527
 - slug: 2026-01-12-meta-names-former-trump-adviser-dina-powell-mccormick-president-and-vice-chairma
-  headline: Meta names former Trump adviser Dina Powell McCormick president and vice chairman
+  headline: Meta names former Trump adviser Dina Powell McCormick president and vice
+    chairman
   publish_date: '2026-01-12'
   relation: related
-  strength: 0.7909
-- slug: 2026-08-10-zuckerberg-sets-out-meta-s-ai-plans-in-a-6-500-word-essay
-  headline: Zuckerberg sets out Meta's AI plans in a 6,500-word essay
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6354
-- slug: 2026-08-13-mcphail-and-campbell-to-lead-home-depot-during-ceo-decker-s-medical-leave
-  headline: McPhail and Campbell to lead Home Depot during CEO Decker's medical leave
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6183
-- slug: 2026-06-26-women-exit-jpmorgan-ceo-race-as-succession-field-narrows-to-two-men
-  headline: Women exit JPMorgan CEO race as succession field narrows to two men
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6316
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6118
-- slug: 2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show
-  headline: Meta plans AI-powered prediction market app, internal documents show
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6213
+  strength: 0.7917
 - slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
   headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.656
-- slug: 2026-06-01-bill-gates-acknowledges-epstein-meetings-misses-microsoft-summit-after-doj-files
-  headline: Bill Gates acknowledges Epstein meetings, misses Microsoft summit after DOJ files
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.62
-- slug: 2026-05-16-a-look-at-jerome-powell-s-legacy-as-federal-reserve-chair
-  headline: A look at Jerome Powell's legacy as Federal Reserve chair
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6159
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6224
-- slug: 2026-05-16-jerome-powell-steps-down-as-fed-chair-after-eight-years-defending-central-bank-i
-  headline: Jerome Powell steps down as Fed chair after eight years defending central bank independence
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6076
-- slug: 2026-05-10-trump-nominates-cameron-hamilton-to-lead-fema-a-year-after-his-firing
-  headline: Trump nominates Cameron Hamilton to lead FEMA a year after his firing
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6043
-- slug: 2026-05-15-powell-leaves-fed-after-inflation-pushback-and-fight-to-preserve-independence
-  headline: Powell leaves Fed after inflation pushback and fight to preserve independence
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6014
-- slug: 2026-04-30-powell-to-remain-on-fed-board-after-chair-term-ends-blocking-trump-pick
-  headline: Powell to remain on Fed board after chair term ends, blocking Trump pick
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.607
-- slug: 2026-01-16-powell-board-tenure-after-may-raises-stakes-for-fed-independence-fight
-  headline: Powell board tenure after May raises stakes for Fed independence fight
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6252
+  strength: 0.657
 ---
-
 ## Joel Kaplan to leave Meta after 15 years as policy chief
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: TikTok employees repeatedly raised child-safety concerns with leadership
-secondary_headline: TikTok skipped age surveys fearing disclosure to the Federal Trade Commission
+secondary_headline: TikTok skipped age surveys fearing disclosure to the Federal Trade
+  Commission
 publish_date: '2026-10-20'
-lede: Previously unreported court records show TikTok employees repeatedly raised concerns about the app's risks to children, including sexual exploitation and exposure to suicide content, and expressed frustration with leadership's response. Depositions filed in March 2026 provide new insight into TikTok's child-safety practices since its surge in popularity in 2018, according to NPR's Up First newsletter. The records say staff alerted management about minors engaging with sexual content from which TikTok profited and identified loopholes that allowed users under 18 to bypass age restrictions and block parental oversight. The records also show TikTok avoided conducting age surveys because it feared having to share the results with the Federal Trade Commission.
-nut_graf: The disclosure supplies previously unreported detail on TikTok's internal warnings, its decision to avoid age surveys and the parental controls employees identified as bypassable by users under 18. It gives parents and regulators evidence for evaluating the safeguards surrounding the platform's reported risks to children.
+lede: Previously unreported court records show TikTok employees repeatedly raised
+  concerns about the app's risks to children, including sexual exploitation and exposure
+  to suicide content, and expressed frustration with leadership's response. Depositions
+  filed in March 2026 provide new insight into TikTok's child-safety practices since
+  its surge in popularity in 2018, according to NPR's Up First newsletter. The records
+  say staff alerted management about minors engaging with sexual content from which
+  TikTok profited and identified loopholes that allowed users under 18 to bypass age
+  restrictions and block parental oversight. The records also show TikTok avoided
+  conducting age surveys because it feared having to share the results with the Federal
+  Trade Commission.
+nut_graf: The disclosure supplies previously unreported detail on TikTok's internal
+  warnings, its decision to avoid age surveys and the parental controls employees
+  identified as bypassable by users under 18. It gives parents and regulators evidence
+  for evaluating the safeguards surrounding the platform's reported risks to children.
 primary_entities:
 - TikTok
 - Federal Trade Commission
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,117 +160,63 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
+- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
+  headline: DHS says voter-roll figures overstated noncitizen numbers
+  publish_date: '2026-10-20'
   relation: related
-  strength: 0.6487
-- slug: 2026-10-15-lawsuit-alleges-texas-glitch-left-nearly-600-000-voter-registrations-unrecorded
-  headline: Lawsuit alleges Texas glitch left nearly 600,000 voter registrations unrecorded
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.636
+  strength: 0.6556
 - slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6707
 - slug: 2026-09-26-alabama-lawsuit-alleged-tiktok-deceived-app-stores-to-obtain-teen-safe-ratings
-  headline: Alabama lawsuit alleged TikTok deceived app stores to obtain teen-safe ratings
+  headline: Alabama lawsuit alleged TikTok deceived app stores to obtain teen-safe
+    ratings
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6779
-- slug: 2026-09-26-tiktok-agrees-to-pay-alabama-100-million-and-impose-child-screen-time-limits
-  headline: TikTok agrees to pay Alabama $100 million and impose child screen-time limits
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6354
+  strength: 0.6772
 - slug: 2026-09-09-pennsylvania-sues-tiktok-alleges-platform-designed-addictive-features-for-youth
-  headline: Pennsylvania sues TikTok, alleges platform designed addictive features for youth
+  headline: Pennsylvania sues TikTok, alleges platform designed addictive features
+    for youth
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7044
+  strength: 0.7043
 - slug: 2026-08-24-tiktok-to-pay-400-million-to-settle-alleged-children-s-privacy-violations
   headline: TikTok to pay $400 million to settle alleged children's privacy violations
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6876
+  strength: 0.6878
 - slug: 2026-08-21-tiktok-and-bytedance-to-pay-400-million-to-settle-us-children-s-privacy-suit
-  headline: TikTok and ByteDance to pay $400 million to settle US children's privacy suit
+  headline: TikTok and ByteDance to pay $400 million to settle US children's privacy
+    suit
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.685
-- slug: 2026-09-03-trump-administration-misses-citizenship-list-deadline-as-epic-files-motion
-  headline: Trump administration misses citizenship list deadline as EPIC files motion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6429
+  strength: 0.6851
 - slug: 2026-06-15-florida-sues-tiktok-over-state-child-social-media-access-law
   headline: Florida sues TikTok over state child social media access law
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.7155
+  strength: 0.7159
 - slug: 2026-01-27-tiktok-faces-censorship-claims-and-glitches-after-ownership-change
   headline: TikTok faces censorship claims and glitches after ownership change
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.7493
-- slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6599
-- slug: 2026-01-23-tiktok-finalizes-u-s-deal-to-keep-operating-under-new-ownership
-  headline: TikTok finalizes U.S. deal to keep operating under new ownership
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.687
-- slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
-  headline: Senate calls tech CEOs to testify on social media risks to children
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6512
-- slug: 2026-01-01-tiktok-signs-deals-with-oracle-silver-lake-and-mgx-for-u-s-unit
-  headline: TikTok signs deals with Oracle, Silver Lake and MGX for U.S. unit
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6759
-- slug: 2026-02-05-eu-preliminarily-accuses-tiktok-of-addictive-design-harming-children
-  headline: EU preliminarily accuses TikTok of “addictive design” harming children
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6714
-- slug: 2026-01-30-social-media-giants-face-landmark-youth-addiction-trial-after-tiktok-settles
-  headline: Social media giants face landmark youth addiction trial after TikTok settles
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.661
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-in-landmark-child-safety-cases
-  headline: Jury finds Meta and YouTube liable in landmark child-safety cases
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6487
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6465
-- slug: 2026-03-05-new-mexico-trial-weighs-meta-s-internal-research-on-kids-safety
-  headline: New Mexico trial weighs Meta’s internal research on kids’ safety
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6467
+  strength: 0.7495
 image:
   url: /articles/2026-10-20-tiktok-employees-repeatedly-raised-child-safety-concerns-with-leadership.png
-  alt: "Illustration accompanying article: TikTok employees repeatedly raised child-safety concerns with leadership"
+  alt: 'Illustration accompanying article: TikTok employees repeatedly raised child-safety
+    concerns with leadership'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## TikTok employees repeatedly raised child-safety concerns with leadership
 
 **Subtype:** fact

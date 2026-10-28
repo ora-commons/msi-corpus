@@ -2,8 +2,17 @@
 headline: Kay Ivey commutes Toforest Johnson's death sentence to life without parole
 secondary_headline: Johnson avoids execution amid increasing doubts about conviction
 publish_date: '2026-10-20'
-lede: Alabama Gov. Kay Ivey commuted death row inmate Toforest Johnson’s sentence to life in prison without parole on Tuesday, ending his prospect of execution. The Guardian reported that the decision came amid increasing doubts about Johnson’s conviction. Ivey, a Republican, said the commutation did not determine Johnson’s innocence; she cited concerns about the lack of direct evidence. Johnson was sentenced to death in 1998 for the 1995 murder of Jefferson County deputy sheriff William Hardy.
-nut_graf: The commutation removes the possibility of execution but leaves Johnson’s 1998 conviction intact. Ty Alper said the legal team would continue fighting to overturn the conviction and obtain a new trial, while the governor’s authority in such cases is limited to commuting a death sentence.
+lede: Alabama Gov. Kay Ivey commuted death row inmate Toforest Johnson’s sentence
+  to life in prison without parole on Tuesday, ending his prospect of execution. The
+  Guardian reported that the decision came amid increasing doubts about Johnson’s
+  conviction. Ivey, a Republican, said the commutation did not determine Johnson’s
+  innocence; she cited concerns about the lack of direct evidence. Johnson was sentenced
+  to death in 1998 for the 1995 murder of Jefferson County deputy sheriff William
+  Hardy.
+nut_graf: The commutation removes the possibility of execution but leaves Johnson’s
+  1998 conviction intact. Ty Alper said the legal team would continue fighting to
+  overturn the conviction and obtain a new trial, while the governor’s authority in
+  such cases is limited to commuting a death sentence.
 primary_entities:
 - Toforest Johnson
 - Kay Ivey
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,117 +155,42 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
-  headline: Tennessee weighs execution options after Pike survives lethal injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6087
-- slug: 2026-09-28-judge-sets-5m-bond-for-third-suspect-in-tasia-fortune-death
-  headline: Judge sets $5M bond for third suspect in Tasia Fortune death
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-16-texas-readies-fifth-2026-execution-as-georgia-execution-paused
-  headline: Texas readies fifth 2026 execution as Georgia execution paused
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6323
-- slug: 2026-09-17-alabama-to-execute-lee-by-lethal-injection-after-supreme-court-rejects-nitrogen
-  headline: Alabama to execute Lee by lethal injection after Supreme Court rejects nitrogen
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5996
-- slug: 2026-09-12-jackson-police-say-more-arrests-expected-in-tasia-fortune-homicide
-  headline: Jackson police say more arrests expected in Tasia Fortune homicide
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5983
-- slug: 2026-09-09-jackson-police-investigating-tasia-fortune-hanging-as-potential-homicide
-  headline: Jackson police investigating Tasia Fortune hanging as potential homicide
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6078
 - slug: 2026-03-10-alabama-governor-commutes-death-sentence-of-man-who-didn-t-fire-fatal-shot
-  headline: Alabama governor commutes death sentence of man who didn't fire fatal shot
+  headline: Alabama governor commutes death sentence of man who didn't fire fatal
+    shot
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.7924
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5988
+  strength: 0.792
 - slug: 2026-03-10-alabama-governor-commutes-death-row-man-s-sentence-citing-disparity-with-trigger
-  headline: Alabama governor commutes death row man's sentence, citing disparity with triggerman
+  headline: Alabama governor commutes death row man's sentence, citing disparity with
+    triggerman
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.7715
+  strength: 0.7718
 - slug: 2026-02-04-alabama-governor-sets-execution-date-for-accomplice-in-1991-store-killing
   headline: Alabama governor sets execution date for accomplice in 1991 store killing
   publish_date: '2026-02-04'
   relation: related
-  strength: 0.6653
-- slug: 2026-06-23-supreme-court-ruling-could-return-man-freed-through-compassionate-release-to-pri
-  headline: Supreme Court ruling could return man freed through compassionate release to prison
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6061
+  strength: 0.6655
 - slug: 2026-03-07-alabama-man-75-faces-execution-for-1991-robbery-killing-he-did-not-commit
   headline: Alabama man, 75, faces execution for 1991 robbery killing he did not commit
   publish_date: '2026-03-07'
   relation: related
-  strength: 0.6548
-- slug: 2026-06-24-two-former-death-row-inmates-sue-alameda-county-over-jury-manipulation
-  headline: Two former Death Row inmates sue Alameda County over jury manipulation
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6022
-- slug: 2026-02-06-alabama-sets-march-execution-date-for-charles-sonny-burton
-  headline: Alabama sets March execution date for Charles “Sonny” Burton
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6388
-- slug: 2026-02-12-judge-blocks-trump-plan-to-move-commuted-death-row-inmates-to-adx-florence
-  headline: Judge blocks Trump plan to move commuted death-row inmates to ADX Florence
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6363
-- slug: 2026-05-16-colorado-governor-commutes-tina-peters-sentence-after-trump-pressure
-  headline: Colorado governor commutes Tina Peters’ sentence after Trump pressure
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.605
-- slug: 2026-04-03-alabama-gov-kay-ivey-released-from-hospital-after-lung-fluid-procedure
-  headline: Alabama Gov. Kay Ivey released from hospital after lung fluid procedure
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.621
-- slug: 2026-04-01-alabama-gov-kay-ivey-hospitalized-after-minor-procedure-to-remove-lung-fluid
-  headline: Alabama Gov. Kay Ivey hospitalized after minor procedure to remove lung fluid
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6122
-- slug: 2025-12-30-georgia-judge-pauses-execution-of-stacey-humphreys-over-clemency-board-issue
-  headline: Georgia judge pauses execution of Stacey Humphreys over clemency board issue
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6199
-- slug: 2026-03-02-alabama-death-row-inmate-michael-sockwell-to-get-new-trial-after-scotus
-  headline: Alabama death row inmate Michael Sockwell to get new trial after SCOTUS
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6094
+  strength: 0.6549
 image:
   url: /articles/2026-10-20-kay-ivey-commutes-toforest-johnson-s-death-sentence-to-life-without-parole.png
-  alt: "Illustration accompanying article: Kay Ivey commutes Toforest Johnson's death sentence to life without parole"
+  alt: 'Illustration accompanying article: Kay Ivey commutes Toforest Johnson''s death
+    sentence to life without parole'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Kay Ivey commutes Toforest Johnson's death sentence to life without parole
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: DHS warns DeepSeek use by federal staff or vendors may transfer data to China
+headline: DHS warns DeepSeek use by federal staff or vendors may transfer data to
+  China
 secondary_headline: The order also covers third-party tools created with DeepSeek
 publish_date: '2026-10-20'
-lede: The Department of Homeland Security warned that use of DeepSeek AI tools by U.S. government employees or vendors may result in the transfer of sensitive data to China. The warning accompanied a Monday order that stopped civilian agencies from using DeepSeek products and third-party tools created with DeepSeek and required their removal from government IT devices.
-nut_graf: In a document attached to Monday's notice, DHS said DeepSeek's models present "multiple threat vectors". DHS also said DeepSeek's servers are located in China, where the legal system permits the government "extensive authority" to access private-company infrastructure. The order applies to civilian agencies, not the military or intelligence services.
+lede: The Department of Homeland Security warned that use of DeepSeek AI tools by
+  U.S. government employees or vendors may result in the transfer of sensitive data
+  to China. The warning accompanied a Monday order that stopped civilian agencies
+  from using DeepSeek products and third-party tools created with DeepSeek and required
+  their removal from government IT devices.
+nut_graf: In a document attached to Monday's notice, DHS said DeepSeek's models present
+  "multiple threat vectors". DHS also said DeepSeek's servers are located in China,
+  where the legal system permits the government "extensive authority" to access private-company
+  infrastructure. The order applies to civilian agencies, not the military or intelligence
+  services.
 primary_entities:
 - DeepSeek
 - Department of Homeland Security
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +151,44 @@ related_stories:
   headline: DHS orders federal civilian agencies to remove DeepSeek AI from IT systems
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8467
+  strength: 0.8465
+- slug: 2026-10-20-house-china-panel-has-investigated-deepseek-over-spying-and-chip-export-controls
+  headline: House China panel has investigated DeepSeek over spying and chip export
+    controls
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8146
 - slug: 2026-10-19-anthropic-and-openai-claim-deepseek-copied-their-ai-models
   headline: Anthropic and OpenAI claim DeepSeek copied their AI models
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7756
+  strength: 0.7744
 - slug: 2026-10-19-dhs-appointees-urged-cisa-to-secretly-hack-voting-machine-sources-say
   headline: DHS appointees urged CISA to secretly hack voting machine, sources say
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6738
+  strength: 0.6724
 - slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
   headline: Australia orders agencies to audit legacy systems after OpenAI breach
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6733
+  strength: 0.6711
 - slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
   headline: Trump, Xi to discuss AI safety at Washington summit
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6894
+  strength: 0.6872
 - slug: 2026-09-20-china-rebuffs-us-calls-to-slow-ai-development-ahead-of-trump-xi-summit
   headline: China rebuffs US calls to slow AI development ahead of Trump-Xi summit
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6762
+  strength: 0.6743
 - slug: 2026-09-14-china-updates-ai-safety-framework-cites-deception-and-autonomy-risks
   headline: China updates AI safety framework, cites deception and autonomy risks
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6974
-- slug: 2026-09-09-u-s-agencies-accuse-six-chinese-ai-firms-of-industrial-scale-distillation
-  headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7011
-- slug: 2026-09-09-china-rejects-us-accusation-that-chinese-ai-firms-distilled-american-models
-  headline: China rejects US accusation that Chinese AI firms distilled American models
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7004
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6933
-- slug: 2026-09-10-anthropic-alleges-chinese-ai-firms-routed-millions-of-user-queries-to-claude
-  headline: Anthropic alleges Chinese AI firms routed millions of user queries to Claude
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6787
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6981
-- slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
-  headline: China weighs limits on overseas access to its AI models
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7369
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6987
-- slug: 2026-07-30-trump-signals-shift-toward-ai-controls-after-openai-hacking-incidents
-  headline: Trump signals shift toward AI controls after OpenAI hacking incidents
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.677
-- slug: 2026-07-23-white-house-adviser-accuses-china-s-moonshot-ai-of-stealing-from-anthropic
-  headline: White House adviser accuses China's Moonshot AI of stealing from Anthropic
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6772
-- slug: 2026-07-25-openai-hack-china-competition-fuel-washington-ai-debate
-  headline: OpenAI hack, China competition fuel Washington AI debate
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6699
-- slug: 2026-04-23-china-s-deepseek-launches-v4-ai-model-update-with-pro-and-flash-versions
-  headline: China’s DeepSeek launches V4 AI model update with “pro” and “flash” versions
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.727
-- slug: 2026-06-28-chinese-ai-matches-anthropic-in-cybersecurity-narrowing-u-s-lead
-  headline: Chinese AI matches Anthropic in cybersecurity, narrowing U.S. lead
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6703
-- slug: 2026-05-08-china-s-rapid-mass-use-of-ai-tools-is-shaping-global-adoption
-  headline: China’s rapid mass use of AI tools is shaping global adoption
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7039
+  strength: 0.6952
 ---
-
 ## DHS warns DeepSeek use by federal staff or vendors may transfer data to China
 
 **Subtype:** fact

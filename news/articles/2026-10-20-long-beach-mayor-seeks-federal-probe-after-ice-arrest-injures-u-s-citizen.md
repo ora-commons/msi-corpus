@@ -2,8 +2,14 @@
 headline: Long Beach mayor seeks federal probe after ICE arrest injures U.S. citizen
 secondary_headline: Daughter disputes ICE account, says father was tased and pinned
 publish_date: '2026-10-20'
-lede: A U.S. citizen was injured after Immigration and Customs Enforcement officers detained him in Long Beach, Calif., on Saturday, prompting Long Beach Mayor Rex Richardson to file a formal complaint with the Department of Homeland Security's Office of Inspector General demanding an independent investigation. The man was later identified as Ricardo Gonzalez.
-nut_graf: The incident comes amid heightened scrutiny of ICE detention practices following a ProPublica report published Oct. 6 that documented 506 American citizens detained by the agency since President Donald Trump took office last year.
+lede: A U.S. citizen was injured after Immigration and Customs Enforcement officers
+  detained him in Long Beach, Calif., on Saturday, prompting Long Beach Mayor Rex
+  Richardson to file a formal complaint with the Department of Homeland Security's
+  Office of Inspector General demanding an independent investigation. The man was
+  later identified as Ricardo Gonzalez.
+nut_graf: The incident comes amid heightened scrutiny of ICE detention practices following
+  a ProPublica report published Oct. 6 that documented 506 American citizens detained
+  by the agency since President Donald Trump took office last year.
 primary_entities:
 - Long Beach
 - Immigration and Customs Enforcement
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,107 +145,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-19-ice-agents-break-us-citizen-s-arm-during-long-beach-detention-officials-say
-  headline: ICE agents break US citizen's arm during Long Beach detention, officials say
+  headline: ICE agents break US citizen's arm during Long Beach detention, officials
+    say
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8533
+  strength: 0.8528
 - slug: 2026-10-14-harris-county-da-weighs-aggravated-assault-charge-against-ice-officer
   headline: Harris County DA weighs aggravated-assault charge against ICE officer
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.698
+  strength: 0.6973
 - slug: 2026-10-13-ice-vehicle-strikes-uninvolved-texas-man-who-remains-in-agency-custody
   headline: ICE vehicle strikes uninvolved Texas man, who remains in agency custody
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6872
+  strength: 0.6862
 - slug: 2026-10-10-california-man-72-shoots-off-duty-ice-agent-who-allegedly-attacked-family
   headline: California man, 72, shoots off-duty ICE agent who allegedly attacked family
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7026
+  strength: 0.7014
 - slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
+  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement
+    pause
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6843
+  strength: 0.6835
 - slug: 2026-09-24-ice-agents-allegedly-injure-u-s-citizen-in-evanston-mistaken-identity-stop
-  headline: ICE agents allegedly injure U.S. citizen in Evanston mistaken-identity stop
+  headline: ICE agents allegedly injure U.S. citizen in Evanston mistaken-identity
+    stop
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7219
+  strength: 0.7203
 - slug: 2026-09-21-federal-agents-wrongly-detain-us-citizen-in-evanston-leaving-him-injured
   headline: Federal agents wrongly detain US citizen in Evanston, leaving him injured
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7083
+  strength: 0.7072
 - slug: 2026-09-26-venezuelan-man-shot-by-ice-in-austin-awaits-surgery-decision
   headline: Venezuelan man shot by ICE in Austin awaits surgery decision
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6782
-- slug: 2026-09-20-ice-summer-enforcement-tops-50-000-monthly-arrests-amid-string-of-shootings
-  headline: ICE summer enforcement tops 50,000 monthly arrests amid string of shootings
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6976
-- slug: 2026-09-24-ice-officers-injure-u-s-citizen-mistaken-for-target-in-evanston
-  headline: ICE officers injure U.S. citizen mistaken for target in Evanston
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6762
-- slug: 2026-09-22-judge-blocks-deportation-of-venezuelan-man-shot-by-ice-in-texas
-  headline: Judge blocks deportation of Venezuelan man shot by ICE in Texas
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6835
-- slug: 2026-09-21-ice-agent-shoots-venezuelan-man-in-austin-as-protests-erupt
-  headline: ICE agent shoots Venezuelan man in Austin as protests erupt
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6847
-- slug: 2026-09-12-maryland-officials-call-for-investigation-after-frederick-ice-clash
-  headline: Maryland officials call for investigation after Frederick ICE clash
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6829
-- slug: 2026-07-27-family-sues-federal-government-after-ice-agents-shot-at-truck-driver-held-three-
-  headline: Family sues federal government after ICE agents shot at truck, driver held three months in detention
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7044
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6977
-- slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
-  headline: Man shot by ICE in California arrested by FBI, attorney says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.71
-- slug: 2026-04-15-prosecutors-charge-man-shot-by-ice-in-california-with-assaulting-officer
-  headline: Prosecutors charge man shot by ICE in California with assaulting officer
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6958
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  headline: Judge orders man shot by ICE in California to remain in custody
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6891
-- slug: 2026-02-18-authorities-investigate-alleged-ice-beating-that-left-man-with-skull-fractures
-  headline: Authorities investigate alleged ICE beating that left man with skull fractures
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7011
-- slug: 2026-05-05-man-shot-by-ice-in-california-pleads-not-guilty-to-federal-charges
-  headline: Man shot by ICE in California pleads not guilty to federal charges
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.679
+  strength: 0.6768
 ---
-
 ## Long Beach mayor seeks federal probe after ICE arrest injures U.S. citizen
 
 **Subtype:** fact

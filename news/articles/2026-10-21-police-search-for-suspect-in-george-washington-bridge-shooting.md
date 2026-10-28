@@ -1,9 +1,19 @@
 ---
 headline: Police search for suspect in George Washington Bridge shooting
-secondary_headline: Police sources identify victim as off-duty Con Edison employee Koran Irvine
+secondary_headline: Police sources identify victim as off-duty Con Edison employee
+  Koran Irvine
 publish_date: '2026-10-21'
-lede: Koran Irvine, a 46-year-old off-duty Con Edison employee, was killed in his car while driving across the George Washington Bridge in New York City on Tuesday evening, according to multiple reports. Police sources told The New York Times, 1010 WINS and WNBC-TV that an initial investigation led authorities to believe Irvine was shot through his window by the occupant of another vehicle following a near collision.
-nut_graf: New York City and New York-New Jersey Port Authority police said Wednesday that they were searching for a suspect, and police said the suspected shooter had fled the scene. UPI described the George Washington Bridge as the world's busiest and reported that the shooting forced its closure until 1 a.m. Wednesday. Police had not immediately released a description of a possible suspect or vehicle.
+lede: Koran Irvine, a 46-year-old off-duty Con Edison employee, was killed in his
+  car while driving across the George Washington Bridge in New York City on Tuesday
+  evening, according to multiple reports. Police sources told The New York Times,
+  1010 WINS and WNBC-TV that an initial investigation led authorities to believe Irvine
+  was shot through his window by the occupant of another vehicle following a near
+  collision.
+nut_graf: New York City and New York-New Jersey Port Authority police said Wednesday
+  that they were searching for a suspect, and police said the suspected shooter had
+  fled the scene. UPI described the George Washington Bridge as the world's busiest
+  and reported that the shooting forced its closure until 1 a.m. Wednesday. Police
+  had not immediately released a description of a possible suspect or vehicle.
 primary_entities:
 - Koran Irvine
 - George Washington Bridge
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,109 +144,8 @@ cross_article_links:
   strength: 0.5756
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-09-driver-reportedly-trying-to-beat-bronx-traffic-light-kills-one-injures-nine
-  headline: Driver reportedly trying to beat Bronx traffic light kills one, injures nine
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6154
-- slug: 2026-10-14-lawyers-for-oscar-belgal-say-ice-agent-did-not-identify-himself-before-shooting
-  headline: Lawyers for Oscar Belgal say ICE agent did not identify himself before shooting
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5836
-- slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.596
-- slug: 2026-10-09-ice-agent-shoots-man-in-the-bronx-dhs-confirms
-  headline: ICE agent shoots man in the Bronx, DHS confirms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.591
-- slug: 2026-10-08-federal-immigration-officer-shoots-person-in-new-york-s-marble-hill-mayor-report
-  headline: Federal immigration officer shoots person in New York's Marble Hill, mayor reports
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5862
-- slug: 2026-09-29-brooklyn-man-57-dies-after-bag-caught-in-subway-doors
-  headline: Brooklyn man, 57, dies after bag caught in subway doors
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6043
-- slug: 2026-09-24-man-dies-fleeing-ice-traffic-stop-in-grand-rapids-michigan
-  headline: Man dies fleeing ICE traffic stop in Grand Rapids, Michigan
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5938
-- slug: 2026-09-04-nypd-officer-fatally-shoots-knife-wielding-man-on-brooklyn-bridge-cables
-  headline: NYPD officer fatally shoots knife-wielding man on Brooklyn Bridge cables
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6346
-- slug: 2026-08-16-nypd-fatally-shoots-knife-wielding-man-on-manhattan-s-lower-east-side
-  headline: NYPD fatally shoots knife-wielding man on Manhattan's Lower East Side
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.5913
-- slug: 2026-06-15-ice-agent-shoots-at-vehicle-after-being-struck-by-car-in-new-jersey
-  headline: ICE agent shoots at vehicle after being struck by car in New Jersey
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6387
-- slug: 2026-07-14-federal-officer-fatally-shoots-driver-of-moving-car-in-maine
-  headline: Federal officer fatally shoots driver of moving car in Maine
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5854
-- slug: 2026-03-19-nypd-suspends-off-duty-officer-guarding-gracie-mansion-after-shooting
-  headline: NYPD suspends off-duty officer guarding Gracie Mansion after shooting
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6242
-- slug: 2026-05-23-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5947
-- slug: 2026-05-25-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5932
-- slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-24-bystander-in-serious-condition-after-secret-service-kills-gunman-near-white-hous
-  headline: Bystander in serious condition after Secret Service kills gunman near White House checkpoint
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5889
-- slug: 2026-05-25-firefighters-hurt-in-staten-island-shipyard-blast-cause-under-investigation
-  headline: Firefighters hurt in Staten Island shipyard blast; cause under investigation
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5863
-- slug: 2026-05-25-bystander-in-serious-condition-after-shooting-outside-white-house
-  headline: Bystander in serious condition after shooting outside White House
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5858
-- slug: 2026-05-05-secret-service-gunman-fires-at-officers-near-washington-monument-shots-exchanged
-  headline: 'Secret Service: Gunman fires at officers near Washington Monument; shots exchanged'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.587
-- slug: 2026-04-13-police-say-1-dead-6-hurt-in-shooting-at-chick-fil-a-in-union-new-jersey
-  headline: Police say 1 dead, 6 hurt in shooting at Chick-fil-A in Union, New Jersey
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5841
+related_stories: []
 ---
-
 ## Police search for suspect in George Washington Bridge shooting
 
 **Subtype:** fact

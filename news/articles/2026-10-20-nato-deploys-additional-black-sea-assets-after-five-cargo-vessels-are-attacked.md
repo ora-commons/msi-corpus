@@ -1,9 +1,20 @@
 ---
 headline: NATO deploys additional Black Sea assets after five cargo vessels are attacked
-secondary_headline: After attacks near Romania and Bulgaria, 23 sailors were reported dead or missing
+secondary_headline: After attacks near Romania and Bulgaria, 23 sailors were reported
+  dead or missing
 publish_date: '2026-10-20'
-lede: NATO announced Tuesday that it would deploy additional military assets to the Black Sea after five more cargo vessels were attacked; 23 sailors were reported dead or missing over the previous two weeks. The deployment will include maritime patrol aircraft, radar systems, drones and intelligence personnel. Russia's military said it struck three cargo vessels in Ukraine's port of Reni and two others en route to Odesa.
-nut_graf: The deployment follows alleged Russian attacks that have increasingly edged into the territorial waters and exclusive economic zones of Romania and Bulgaria. The London shipping insurance market's new high-risk designation covers the Black Sea except the territorial waters of Romania, Bulgaria and Turkey. The Guardian described grain and other agricultural cargoes from Ukrainian ports as central to Ukraine's economy.
+lede: NATO announced Tuesday that it would deploy additional military assets to the
+  Black Sea after five more cargo vessels were attacked; 23 sailors were reported
+  dead or missing over the previous two weeks. The deployment will include maritime
+  patrol aircraft, radar systems, drones and intelligence personnel. Russia's military
+  said it struck three cargo vessels in Ukraine's port of Reni and two others en route
+  to Odesa.
+nut_graf: The deployment follows alleged Russian attacks that have increasingly edged
+  into the territorial waters and exclusive economic zones of Romania and Bulgaria.
+  The London shipping insurance market's new high-risk designation covers the Black
+  Sea except the territorial waters of Romania, Bulgaria and Turkey. The Guardian
+  described grain and other agricultural cargoes from Ukrainian ports as central to
+  Ukraine's economy.
 primary_entities:
 - NATO
 - Russia
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,113 +156,57 @@ related_stories:
   headline: Drone strikes on two Black Sea tankers leave seven sailors missing
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7874
+  strength: 0.788
 - slug: 2026-10-13-drones-strike-two-ships-off-bulgaria-as-nato-faces-fresh-black-sea-test
   headline: Drones strike two ships off Bulgaria as NATO faces fresh Black Sea test
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7605
-- slug: 2026-10-09-britain-announces-38-new-russia-sanctions-on-oil-shadow-fleet
-  headline: Britain announces 38 new Russia sanctions on oil, shadow fleet
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.655
+  strength: 0.7612
 - slug: 2026-09-08-sixteen-nato-allies-report-drone-incursions-as-alliance-expands-defenses
   headline: Sixteen NATO allies report drone incursions as alliance expands defenses
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.717
+  strength: 0.7163
 - slug: 2026-09-09-estonian-officials-urge-calm-see-no-signs-of-russian-attack-buildup
   headline: Estonian officials urge calm, see no signs of Russian attack buildup
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6784
+  strength: 0.6788
 - slug: 2026-09-13-russian-drone-strikes-kyiv-warsaw-passenger-train-near-polish-border
   headline: Russian drone strikes Kyiv-Warsaw passenger train near Polish border
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6559
+  strength: 0.6566
 - slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
   headline: Russia escalates 'gray-zone' attacks across Europe, officials say
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.6932
+  strength: 0.6931
 - slug: 2026-09-02-europe-presses-russia-with-sanctions-ukraine-aid-after-leipzig-drone-plot
-  headline: Europe presses Russia with sanctions, Ukraine aid after Leipzig drone plot
+  headline: Europe presses Russia with sanctions, Ukraine aid after Leipzig drone
+    plot
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.673
+  strength: 0.6734
 - slug: 2026-08-14-italian-fighter-downs-drone-in-latvian-airspace-nato-investigates
   headline: Italian fighter downs drone in Latvian airspace, NATO investigates
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6927
-- slug: 2026-07-27-ukrainian-drones-strike-iranian-military-supply-line-to-russia-in-caspian-sea
-  headline: Ukrainian drones strike Iranian military supply line to Russia in Caspian Sea
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6654
-- slug: 2026-07-26-romania-shoots-down-third-russian-drone-summons-ambassador
-  headline: Romania shoots down third Russian drone, summons ambassador
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6559
-- slug: 2026-07-10-uk-carrier-deploys-to-arctic-as-nato-confronts-russian-incursions
-  headline: UK carrier deploys to Arctic as NATO confronts Russian incursions
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6598
-- slug: 2026-04-07-russian-attacks-kill-4-as-ukraine-drones-hit-oil-exports-ports
-  headline: Russian attacks kill 4 as Ukraine drones hit oil exports ports
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.7174
-- slug: 2026-05-04-ukraine-launches-strikes-on-russian-oil-infrastructure-and-shadow-fleet
-  headline: Ukraine launches strikes on Russian oil infrastructure and shadow fleet
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7035
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6822
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6812
-- slug: 2026-03-15-greek-flagged-tanker-damaged-in-suspected-black-sea-drone-attack
-  headline: Greek-flagged tanker damaged in suspected Black Sea drone attack
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6932
-- slug: 2026-04-29-ukraine-says-it-shot-down-a-record-33-000-russian-drones-in-march
-  headline: Ukraine says it shot down a record 33,000 Russian drones in March
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6738
-- slug: 2026-02-16-ukrainian-drones-ignite-fires-at-russia-port-before-geneva-peace-talks
-  headline: Ukrainian drones ignite fires at Russia port before Geneva peace talks
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6901
-- slug: 2026-05-13-greece-says-sea-drone-found-off-lefkada-is-ukrainian-calls-incident-extremely-se
-  headline: Greece says sea drone found off Lefkada is Ukrainian, calls incident extremely serious
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6638
+  strength: 0.6926
 image:
   url: /articles/2026-10-20-nato-deploys-additional-black-sea-assets-after-five-cargo-vessels-are-attacked.png
-  alt: "Illustration accompanying article: NATO deploys additional Black Sea assets after five cargo vessels are attacked"
+  alt: 'Illustration accompanying article: NATO deploys additional Black Sea assets
+    after five cargo vessels are attacked'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## NATO deploys additional Black Sea assets after five cargo vessels are attacked
 
 **Subtype:** fact

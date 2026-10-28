@@ -1,9 +1,18 @@
 ---
 headline: Supreme Court rejects bid to end gender-affirming care in federal prisons
-secondary_headline: Lamberth barred policy implementation; appeals court rejected request to pause his order
+secondary_headline: Lamberth barred policy implementation; appeals court rejected
+  request to pause his order
 publish_date: '2026-10-21'
-lede: The Supreme Court denied the Trump administration's request on Wednesday to let the Bureau of Prisons end hormone therapy and other gender-affirming care for transgender inmates in federal prisons. The emergency ruling leaves a lower-court injunction blocking a policy that would terminate those treatments, and the broader legal dispute remains unresolved.
-nut_graf: The order keeps the lower-court injunction in force, allowing current hormone therapy and other treatment to continue for transgender inmates covered by the ruling while leaving the policy's legal status unresolved. Li Nowlin-Sohl, an ACLU attorney involved in the case, said Kingdom v. Trump represents 1,000 inmates with gender dysphoria diagnoses.
+lede: The Supreme Court denied the Trump administration's request on Wednesday to
+  let the Bureau of Prisons end hormone therapy and other gender-affirming care for
+  transgender inmates in federal prisons. The emergency ruling leaves a lower-court
+  injunction blocking a policy that would terminate those treatments, and the broader
+  legal dispute remains unresolved.
+nut_graf: The order keeps the lower-court injunction in force, allowing current hormone
+  therapy and other treatment to continue for transgender inmates covered by the ruling
+  while leaving the policy's legal status unresolved. Li Nowlin-Sohl, an ACLU attorney
+  involved in the case, said Kingdom v. Trump represents 1,000 inmates with gender
+  dysphoria diagnoses.
 primary_entities:
 - Supreme Court
 - Trump administration
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,117 +157,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-federal-prisons-hold-about-2-000-transgender-people
+  headline: Federal prisons hold about 2,000 transgender people
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8403
+- slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
+  headline: Federal prison policy would bar transition-related treatment
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8138
+- slug: 2026-10-21-judge-blocks-prison-policy-bureau-cited-zero-evidence-from-health-professionals
+  headline: Judge blocks prison policy; Bureau cited zero evidence from health professionals
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7939
 - slug: 2026-09-28-trump-administration-appeals-transgender-inmate-care-ruling-to-supreme-court
-  headline: Trump administration appeals transgender inmate care ruling to Supreme Court
+  headline: Trump administration appeals transgender inmate care ruling to Supreme
+    Court
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8134
+  strength: 0.8135
 - slug: 2026-09-30-hhs-report-links-gender-affirming-care-support-to-left-wing-authoritarianism
   headline: HHS report links gender-affirming care support to 'left-wing authoritarianism'
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6638
-- slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
-  headline: Jordan Campbell leads DOJ probes of transgender care for minors
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.65
-- slug: 2026-09-18-nyu-langone-upmc-settle-with-doj-to-halt-pediatric-gender-care
-  headline: NYU Langone, UPMC settle with DOJ to halt pediatric gender care
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6522
+  strength: 0.6642
 - slug: 2026-09-05-nine-arrested-at-massachusetts-ag-s-office-in-trans-care-protest
   headline: Nine arrested at Massachusetts AG's office in trans care protest
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6715
+  strength: 0.6718
 - slug: 2026-08-14-appeals-court-clears-way-for-doj-subpoena-of-transgender-care-provider
   headline: Appeals court clears way for DOJ subpoena of transgender care provider
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.732
+  strength: 0.7321
 - slug: 2026-08-28-trump-administration-asks-supreme-court-to-allow-pentagon-transgender-troop-ban
-  headline: Trump administration asks Supreme Court to allow Pentagon transgender troop ban
+  headline: Trump administration asks Supreme Court to allow Pentagon transgender
+    troop ban
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6716
-- slug: 2026-07-29-judge-says-trump-administration-violated-order-on-transgender-inmate-transfers
-  headline: Judge says Trump administration violated order on transgender inmate transfers
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6914
-- slug: 2026-08-05-connecticut-children-s-agrees-to-end-gender-affirming-care-for-minors
-  headline: Connecticut Children's agrees to end gender-affirming care for minors
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6546
-- slug: 2026-06-02-federal-appeals-court-blocks-trump-from-expelling-transgender-troops
-  headline: Federal appeals court blocks Trump from expelling transgender troops
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7267
-- slug: 2026-06-24-judge-blocks-subpoena-for-medical-records-of-transgender-youth-in-new-york
-  headline: Judge blocks subpoena for medical records of transgender youth in New York
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7065
-- slug: 2026-05-15-federal-judge-blocks-trump-administration-from-seeking-trans-youth-records
-  headline: Federal judge blocks Trump administration from seeking trans youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7174
-- slug: 2026-07-01-supreme-court-upholds-state-bans-on-transgender-athletes-in-6-3-ruling
-  headline: Supreme Court upholds state bans on transgender athletes in 6-3 ruling
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6639
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6992
-- slug: 2026-05-16-kansas-judge-blocks-gender-affirming-care-ban-as-texas-children-s-settles-with-s
-  headline: Kansas judge blocks gender-affirming care ban as Texas Children’s settles with state
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6923
-- slug: 2026-05-15-federal-judge-blocks-doj-subpoenas-for-rhode-island-transgender-youth-records
-  headline: Federal judge blocks DOJ subpoenas for Rhode Island transgender youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6851
-- slug: 2026-06-30-supreme-court-ends-term-with-rulings-on-citizenship-transgender-athletes
-  headline: Supreme Court ends term with rulings on citizenship, transgender athletes
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6482
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6721
-- slug: 2026-03-21-judge-rules-u-s-overreached-with-transgender-health-care-declaration
-  headline: Judge rules U.S. overreached with transgender health care declaration
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6804
-- slug: 2026-05-16-kansas-judge-blocks-ban-on-gender-affirming-care-for-minors-while-texas-settles
-  headline: Kansas judge blocks ban on gender-affirming care for minors while Texas settles
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6612
+  strength: 0.6715
 image:
   url: /articles/2026-10-21-supreme-court-rejects-bid-to-end-gender-affirming-care-in-federal-prisons.png
-  alt: "Illustration accompanying article: Supreme Court rejects bid to end gender-affirming care in federal prisons"
+  alt: 'Illustration accompanying article: Supreme Court rejects bid to end gender-affirming
+    care in federal prisons'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Supreme Court rejects bid to end gender-affirming care in federal prisons
 
 **Subtype:** fact

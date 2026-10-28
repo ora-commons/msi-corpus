@@ -2,8 +2,19 @@
 headline: Advocates say severely ill Florida detainees face unknown African destinations
 secondary_headline: Inspectors cite severe overcrowding and other violations at Krome
 publish_date: '2026-10-21'
-lede: Relatives and immigration advocates said Tuesday that multiple severely ill detainees at two Immigration and Customs Enforcement facilities in South Florida were targeted for deportation to unknown countries in Africa, with flights scheduled as early as Wednesday. Workers Circle said it learned of the operation only in the last few days, while immigration rights attorney Shalyn Fluharty said information from detainees indicated flights were imminent. The Department of Homeland Security did not respond further after a spokesperson requested the affected detainees' personal information and received Noslén Sendra's details.
-nut_graf: The relatives' and advocates' claims add a medical-risk dimension to the reported removals. Advocates said the Department of Homeland Security had attempted to alleviate detention overcrowding by increasing deportation flights to third countries; government inspectors separately documented severe overcrowding and other detention-standard violations at Krome.
+lede: Relatives and immigration advocates said Tuesday that multiple severely ill
+  detainees at two Immigration and Customs Enforcement facilities in South Florida
+  were targeted for deportation to unknown countries in Africa, with flights scheduled
+  as early as Wednesday. Workers Circle said it learned of the operation only in the
+  last few days, while immigration rights attorney Shalyn Fluharty said information
+  from detainees indicated flights were imminent. The Department of Homeland Security
+  did not respond further after a spokesperson requested the affected detainees' personal
+  information and received Noslén Sendra's details.
+nut_graf: The relatives' and advocates' claims add a medical-risk dimension to the
+  reported removals. Advocates said the Department of Homeland Security had attempted
+  to alleviate detention overcrowding by increasing deportation flights to third countries;
+  government inspectors separately documented severe overcrowding and other detention-standard
+  violations at Krome.
 primary_entities:
 - Immigration and Customs Enforcement
 - Department of Homeland Security
@@ -59,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,104 +173,46 @@ related_stories:
   headline: Two Cuban men describe deportation to Central African Republic
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7156
-- slug: 2026-10-07-folkston-ice-detainees-launch-hunger-strike-over-prolonged-confinement-condition
-  headline: Folkston ICE detainees launch hunger strike over prolonged confinement, conditions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6489
+  strength: 0.7141
 - slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
   headline: UN experts warn US third-country deportations trigger human rights violations
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6766
+  strength: 0.676
 - slug: 2026-10-02-us-transferred-65-court-protected-refugees-to-equatorial-guinea-groups-say
-  headline: US transferred 65 court-protected refugees to Equatorial Guinea, groups say
+  headline: US transferred 65 court-protected refugees to Equatorial Guinea, groups
+    say
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6522
+  strength: 0.6521
 - slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
   headline: ICE removes detainees with final removal orders from online locator
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6758
-- slug: 2026-08-21-ice-arrests-san-diego-coffee-shop-owner-who-holds-valid-work-permit
-  headline: ICE arrests San Diego coffee shop owner who holds valid work permit
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.647
-- slug: 2026-08-03-detainee-death-at-delaney-hall-follows-ice-change-to-death-reporting-rules
-  headline: Detainee death at Delaney Hall follows ICE change to death-reporting rules
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6473
+  strength: 0.6764
 - slug: 2026-07-15-arenas-silva-dies-during-transfer-between-georgia-detention-facilities
   headline: Arenas-Silva dies during transfer between Georgia detention facilities
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.65
+  strength: 0.6513
 - slug: 2026-06-06-families-describe-distress-over-inhumane-conditions-at-new-jersey-ice-jail
-  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE jail
+  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE
+    jail
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.6836
+  strength: 0.6847
 - slug: 2026-05-15-federal-judge-orders-us-to-bring-back-colombian-woman-deported-to-congo
   headline: Federal judge orders US to bring back Colombian woman deported to Congo
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.682
-- slug: 2026-06-19-dhs-expected-to-scrap-seven-warehouses-for-detention-centers
-  headline: DHS Expected to Scrap Seven Warehouses for Detention Centers
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6501
+  strength: 0.6812
 - slug: 2026-06-16-all-detainees-moved-from-florida-s-alligator-alcatraz-facility-ice-says
-  headline: All detainees moved from Florida's 'Alligator Alcatraz' facility, ICE says
+  headline: All detainees moved from Florida's 'Alligator Alcatraz' facility, ICE
+    says
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6493
-- slug: 2026-01-16-cuban-immigrant-dies-in-texas-ice-detention-medical-examiner-rules-homicide
-  headline: Cuban immigrant dies in Texas ICE detention; medical examiner rules homicide
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6784
-- slug: 2026-02-02-attorneys-families-struggle-to-find-hospitalized-ice-detainees
-  headline: Attorneys, families struggle to find hospitalized ICE detainees
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6723
-- slug: 2026-05-15-federal-judge-orders-trump-to-return-colombian-woman-deported-to-congo
-  headline: Federal judge orders Trump to return Colombian woman deported to Congo
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6462
-- slug: 2026-05-14-florida-signals-closure-of-everglades-detention-center-as-lawsuit-returns-to-jud
-  headline: Florida signals closure of Everglades detention center as lawsuit returns to judge who blocked it
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6467
-- slug: 2026-02-10-prolonged-ice-detention-rises-in-trump-s-second-term-advocates-say
-  headline: Prolonged ICE detention rises in Trump’s second term, advocates say
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6671
-- slug: 2026-03-20-mexican-teen-dies-in-ice-custody-at-florida-county-jail
-  headline: Mexican teen dies in ICE custody at Florida county jail
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6574
-- slug: 2026-01-16-medical-examiner-finds-texas-ice-detainee-s-death-a-homicide-witness-describes-c
-  headline: Medical examiner finds Texas ICE detainee's death a homicide; witness describes chokehold
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6623
-- slug: 2026-01-23-medical-examiner-rules-texas-ice-detainee-death-a-homicide
-  headline: Medical examiner rules Texas ICE detainee death a homicide
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6597
+  strength: 0.6507
 ---
-
 ## Advocates say severely ill Florida detainees face unknown African destinations
 
 **Subtype:** fact

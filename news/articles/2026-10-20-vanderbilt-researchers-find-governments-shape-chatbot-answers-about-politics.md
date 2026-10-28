@@ -2,8 +2,16 @@
 headline: Vanderbilt researchers find governments shape chatbot answers about politics
 secondary_headline: Anthropic applies EU AI-generated content marks worldwide
 publish_date: '2026-10-20'
-lede: A recent survey found that about 1 in 5 U.S. voters had asked AI chatbots about elections and politics as the midterms approached. Vanderbilt researchers working with global legal experts found that governments in 12 countries and regions often regulate AI through existing national security, anti-state propaganda and other laws. The research examines how those rules can shape political speech even when governments cite AI safety and security concerns.
-nut_graf: The findings matter because chatbots are already answering political questions for a substantial share of voters, while rules in one jurisdiction can affect services elsewhere. The cases show governments using safety, content-labeling and election-safety rules in ways that may also influence criticism of political leaders.
+lede: A recent survey found that about 1 in 5 U.S. voters had asked AI chatbots about
+  elections and politics as the midterms approached. Vanderbilt researchers working
+  with global legal experts found that governments in 12 countries and regions often
+  regulate AI through existing national security, anti-state propaganda and other
+  laws. The research examines how those rules can shape political speech even when
+  governments cite AI safety and security concerns.
+nut_graf: The findings matter because chatbots are already answering political questions
+  for a substantial share of voters, while rules in one jurisdiction can affect services
+  elsewhere. The cases show governments using safety, content-labeling and election-safety
+  rules in ways that may also influence criticism of political leaders.
 primary_entities:
 - Jordi Calvet-Bademunt
 - Vanderbilt University
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +155,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-14-tax-court-warns-lawyers-ai-fabricated-citations-risk-sanctions
-  headline: Tax Court warns lawyers AI-fabricated citations risk sanctions
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6486
 - slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6586
+  strength: 0.6567
 - slug: 2026-10-01-us-military-nearly-intercepted-chinese-ship-on-erroneous-ai-report-cnn-says
-  headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN says
+  headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN
+    says
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6542
+  strength: 0.6538
 - slug: 2026-09-25-columnist-argues-ai-s-unpredictability-defies-historical-regulatory-models
   headline: Columnist argues AI's unpredictability defies historical regulatory models
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6562
+  strength: 0.657
 - slug: 2026-09-23-senate-staff-restricted-to-basic-ai-tools-as-congress-debates-regulation
   headline: Senate staff restricted to basic AI tools as Congress debates regulation
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6501
+  strength: 0.65
 - slug: 2026-09-19-uk-joint-committee-on-human-rights-proposes-new-ai-bill-to-address-threats
   headline: UK Joint Committee on Human Rights proposes new AI bill to address threats
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6651
-- slug: 2026-08-13-us-ai-models-decline-criticism-of-speech-restricting-governments-reports-find
-  headline: US AI models decline criticism of speech-restricting governments, reports find
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6949
+  strength: 0.6643
 - slug: 2026-07-16-ai-chatbots-more-likely-to-refuse-criticism-of-restrictive-governments-study-fin
-  headline: AI chatbots more likely to refuse criticism of restrictive governments, study finds
+  headline: AI chatbots more likely to refuse criticism of restrictive governments,
+    study finds
   publish_date: '2026-07-16'
   relation: related
   strength: 0.745
+- slug: 2026-08-13-us-ai-models-decline-criticism-of-speech-restricting-governments-reports-find
+  headline: US AI models decline criticism of speech-restricting governments, reports
+    find
+  publish_date: '2026-08-13'
+  relation: related
+  strength: 0.693
 - slug: 2026-08-06-patients-use-ai-to-interpret-medical-tests-despite-doctors-concerns
   headline: Patients use AI to interpret medical tests despite doctors' concerns
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6607
-- slug: 2026-08-13-hassabis-proposes-industry-funded-ai-safety-standards-body
-  headline: Hassabis proposes industry-funded AI safety standards body
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6427
-- slug: 2026-07-26-ai-chatbots-provide-step-by-step-biological-weapon-instructions-employees-say
-  headline: AI chatbots provide step-by-step biological weapon instructions, employees say
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6765
-- slug: 2026-06-27-psychiatrists-pinpoint-three-ai-chatbot-behaviors-linked-to-delusions
-  headline: Psychiatrists pinpoint three AI chatbot behaviors linked to delusions
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6876
-- slug: 2026-07-21-commerce-department-ai-export-order-raises-unresolved-legal-questions
-  headline: Commerce Department AI export order raises unresolved legal questions
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6448
-- slug: 2026-06-19-over-reliance-on-chatbots-can-diminish-critical-thinking-skills-mit-study-finds
-  headline: Over-reliance on chatbots can diminish critical-thinking skills, MIT study finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6703
-- slug: 2025-11-20-educators-outline-do-s-and-don-ts-as-students-turn-to-ai-chatbots-for-schoolwork
-  headline: Educators outline do's and don'ts as students turn to AI chatbots for schoolwork
-  publish_date: '2025-11-20'
-  relation: related
-  strength: 0.7162
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6511
-- slug: 2026-03-27-study-in-science-finds-chatbots-flatter-users-and-push-harmful-advice
-  headline: Study in Science finds chatbots flatter users—and push harmful advice
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6807
-- slug: 2026-04-01-new-study-finds-ai-chatbots-give-bad-advice-by-flattering-users
-  headline: New study finds AI chatbots give bad advice by flattering users
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6758
-- slug: 2026-04-16-polls-show-why-many-americans-are-turning-to-ai-for-health-advice
-  headline: Polls show why many Americans are turning to AI for health advice
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6595
-- slug: 2026-04-16-lawmakers-raise-ai-safety-fears-at-house-oversight-subcommittee-roundtable
-  headline: Lawmakers raise AI safety fears at House Oversight subcommittee roundtable
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6548
+  strength: 0.6612
 ---
-
 ## Vanderbilt researchers find governments shape chatbot answers about politics
 
 **Subtype:** fact

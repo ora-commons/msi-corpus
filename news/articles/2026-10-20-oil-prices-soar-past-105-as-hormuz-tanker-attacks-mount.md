@@ -2,8 +2,16 @@
 headline: Oil prices soar past $105 as Hormuz tanker attacks mount
 secondary_headline: Brent crude climbs past $110, highest since May
 publish_date: '2026-10-20'
-lede: Oil prices soared Tuesday as attacks on oil tankers in the Strait of Hormuz grew more frequent, straining the global fuel supply, according to United Press International. West Texas Intermediate, the U.S. benchmark for crude oil, eclipsed $105 a barrel Tuesday morning, while Brent crude, the international benchmark, climbed over the $110 mark — the highest price since May.
-nut_graf: 'The surge extends a month of sharp price gains as Middle East tensions intensify and peace talks cool, with supply risk concentrated on key Middle East oil shipping lanes: at least 18 ships have been hit on the Strait of Hormuz in the last two weeks, and Iran-backed Houthi forces have taken control of Yemen''s Red Sea coast.'
+lede: Oil prices soared Tuesday as attacks on oil tankers in the Strait of Hormuz
+  grew more frequent, straining the global fuel supply, according to United Press
+  International. West Texas Intermediate, the U.S. benchmark for crude oil, eclipsed
+  $105 a barrel Tuesday morning, while Brent crude, the international benchmark, climbed
+  over the $110 mark — the highest price since May.
+nut_graf: 'The surge extends a month of sharp price gains as Middle East tensions
+  intensify and peace talks cool, with supply risk concentrated on key Middle East
+  oil shipping lanes: at least 18 ships have been hit on the Strait of Hormuz in the
+  last two weeks, and Iran-backed Houthi forces have taken control of Yemen''s Red
+  Sea coast.'
 primary_entities:
 - Strait of Hormuz
 - Iran
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,16 +152,21 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-brent-tops-117-intraday-as-tanker-attacks-disrupt-fuel-supply
+  headline: Brent tops $117 intraday as tanker attacks disrupt fuel supply
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8853
+- slug: 2026-10-21-crude-futures-rise-as-hormuz-threats-offset-recovering-middle-east-exports
+  headline: Crude futures rise as Hormuz threats offset recovering Middle East exports
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.831
 - slug: 2026-10-08-brent-crude-tops-105-amid-reports-of-more-us-strikes-on-iran
   headline: Brent crude tops $105 amid reports of more US strikes on Iran
   publish_date: '2026-10-08'
   relation: related
   strength: 0.8972
-- slug: 2026-10-20-oil-prices-climb-as-middle-east-supply-risks-offset-gulf-exports
-  headline: Oil prices climb as Middle East supply risks offset Gulf exports
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8194
 - slug: 2026-10-14-oil-prices-rise-as-saudi-aramco-attack-hormuz-tanker-strike-reported
   headline: Oil prices rise as Saudi Aramco attack, Hormuz tanker strike reported
   publish_date: '2026-10-14'
@@ -168,11 +182,6 @@ related_stories:
   publish_date: '2026-10-08'
   relation: related
   strength: 0.8319
-- slug: 2026-10-08-brent-crude-jumps-4-on-persian-gulf-tanker-attack-as-stocks-retreat
-  headline: Brent crude jumps 4% on Persian Gulf tanker attack as stocks retreat
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8194
 - slug: 2026-10-02-crude-futures-jump-4-4-to-102-31-despite-hormuz-rebound
   headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
   publish_date: '2026-10-02'
@@ -183,68 +192,7 @@ related_stories:
   publish_date: '2026-09-28'
   relation: related
   strength: 0.8399
-- slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
-  headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8355
-- slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
-  headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.822
-- slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
-  headline: Oil rises on Hormuz risks as Saudi crude flows rebound
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.8396
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.8515
-- slug: 2026-09-09-brent-crude-tops-100-as-us-iran-fighting-flares-in-the-gulf
-  headline: Brent crude tops $100 as US-Iran fighting flares in the Gulf
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.8251
-- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
-  headline: Oil reaches $105 amid signs Middle East conflict will persist
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.8197
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.8455
-- slug: 2026-08-10-oil-rises-as-iran-demands-u-s-withdrawal-to-reopen-strait-of-hormuz
-  headline: Oil rises as Iran demands U.S. withdrawal to reopen Strait of Hormuz
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.8255
-- slug: 2026-07-20-oil-surges-above-90-as-u-s--iran-hostilities-escalate
-  headline: Oil surges above $90 as U.S.-Iran hostilities escalate
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.8417
-- slug: 2026-07-23-brent-crude-tops-100-a-barrel-as-red-sea-attacks-threaten-saudi-export-route
-  headline: Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.8357
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8657
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.8224
 ---
-
 ## Oil prices soar past $105 as Hormuz tanker attacks mount
 
 **Subtype:** fact

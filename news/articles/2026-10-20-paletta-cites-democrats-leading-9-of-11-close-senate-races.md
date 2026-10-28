@@ -1,9 +1,20 @@
 ---
 headline: Paletta cites Democrats leading 9 of 11 close Senate races
-secondary_headline: Paletta says Democrats likely need young independents in many races
+secondary_headline: Paletta says Democrats likely need young independents in many
+  races
 publish_date: '2026-10-20'
-lede: Wall Street Journal Washington coverage chief Damian Paletta wrote in his Tuesday Politics newsletter that Real Clear Politics polling averages showed Democrats leading nine of 11 close Senate races. Paletta said a stronger-than-expected Republican performance on Election Day could allow Republicans to retain their majority. He separately said low turnout among young independent voters would give the GOP an advantage.
-nut_graf: Paletta based his assessment on Real Clear Politics polling averages showing Democrats ahead in nine of 11 close Senate races, with Republicans leading Florida and narrowly leading Kansas. He said Democratic leads outside Georgia and New Hampshire stood at three percentage points or less, and that factoring in a “margin of error” makes “anything could be possible.” He also said Democrats will likely need young independent voters to win many of those seats.
+lede: Wall Street Journal Washington coverage chief Damian Paletta wrote in his Tuesday
+  Politics newsletter that Real Clear Politics polling averages showed Democrats leading
+  nine of 11 close Senate races. Paletta said a stronger-than-expected Republican
+  performance on Election Day could allow Republicans to retain their majority. He
+  separately said low turnout among young independent voters would give the GOP an
+  advantage.
+nut_graf: Paletta based his assessment on Real Clear Politics polling averages showing
+  Democrats ahead in nine of 11 close Senate races, with Republicans leading Florida
+  and narrowly leading Kansas. He said Democratic leads outside Georgia and New Hampshire
+  stood at three percentage points or less, and that factoring in a “margin of error”
+  makes “anything could be possible.” He also said Democrats will likely need young
+  independent voters to win many of those seats.
 primary_entities:
 - Damian Paletta
 - The Wall Street Journal
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,117 +159,64 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-nearly-50-house-members-and-a-dozen-senators-are-not-seeking-re-election-next-ye
+  headline: Nearly 50 House members and a dozen senators are not seeking re-election
+    next year
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7131
+- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6985
+- slug: 2026-10-26-obama-s-2024-campaign-record-shows-two-pennsylvania-losses-and-three-senate-wins
+  headline: Obama's 2024 campaign record shows two Pennsylvania losses and three Senate
+    wins
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6942
+- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
+  headline: Early voting tops 23 million as Democrats outpace Republicans
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6887
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6817
+- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
+  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's
+    race
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6736
+- slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
+  headline: Polls show narrower Democratic lead in competitive House seats
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6674
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6904
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6737
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6627
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7894
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6765
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6644
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6951
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6878
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6565
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6558
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6809
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7026
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6616
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6833
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6697
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6805
-- slug: 2026-08-31-talarico-leads-paxton-42-to-39-in-university-of-texas-senate-poll
-  headline: Talarico leads Paxton 42% to 39% in University of Texas Senate poll
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6916
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6572
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6611
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6801
+  strength: 0.6927
 image:
   url: /articles/2026-10-20-paletta-cites-democrats-leading-9-of-11-close-senate-races.png
-  alt: "Illustration accompanying article: Paletta cites Democrats leading 9 of 11 close Senate races"
+  alt: 'Illustration accompanying article: Paletta cites Democrats leading 9 of 11
+    close Senate races'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Paletta cites Democrats leading 9 of 11 close Senate races
 
 **Subtype:** fact

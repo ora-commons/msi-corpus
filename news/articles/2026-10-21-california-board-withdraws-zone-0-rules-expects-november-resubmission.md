@@ -1,9 +1,21 @@
 ---
 headline: California board withdraws Zone 0 rules, expects November resubmission
-secondary_headline: Yardzen demand for fire-resilient design has more than tripled since 2024
+secondary_headline: Yardzen demand for fire-resilient design has more than tripled
+  since 2024
 publish_date: '2026-10-21'
-lede: In August, California's Board of Forestry and Fire Protection approved a statewide Zone 0 mandate for high-risk wildfire areas. The board withdrew the rules package in September to make clarity edits and expects to resubmit it to the Office of Administrative Law in November, a board spokesperson said. If approved, the mandate could reshape landscaping requirements for roughly 2 million structures, The Wall Street Journal reported.
-nut_graf: Zone 0 is the 0-to-5-foot buffer immediately around a building, where best practices call for removing combustible vegetation, bark mulch, wooden fences, furniture and other flammable materials. If approved, the rule would make noncombustible perimeters a statewide requirement in high-risk areas. Janet Ruiz of the Insurance Information Institute said a statewide Zone 0 mandate would give home insurers a more consistent way to assess the safety of homes in high-risk areas, while homeowners and designers are already changing landscaping for wildfire risk.
+lede: In August, California's Board of Forestry and Fire Protection approved a statewide
+  Zone 0 mandate for high-risk wildfire areas. The board withdrew the rules package
+  in September to make clarity edits and expects to resubmit it to the Office of Administrative
+  Law in November, a board spokesperson said. If approved, the mandate could reshape
+  landscaping requirements for roughly 2 million structures, The Wall Street Journal
+  reported.
+nut_graf: Zone 0 is the 0-to-5-foot buffer immediately around a building, where best
+  practices call for removing combustible vegetation, bark mulch, wooden fences, furniture
+  and other flammable materials. If approved, the rule would make noncombustible perimeters
+  a statewide requirement in high-risk areas. Janet Ruiz of the Insurance Information
+  Institute said a statewide Zone 0 mandate would give home insurers a more consistent
+  way to assess the safety of homes in high-risk areas, while homeowners and designers
+  are already changing landscaping for wildfire risk.
 primary_entities:
 - California
 - California Board of Forestry and Fire Protection
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,119 +164,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
-  headline: California readies for potentially historic El Niño winter
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6111
 - slug: 2026-09-08-california-weighs-home-return-standards-for-smoke-damaged-wildfire-survivors
   headline: California weighs home-return standards for smoke-damaged wildfire survivors
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6602
-- slug: 2026-09-01-california-lawmakers-exclude-newsom-s-wildfire-liability-limits-from-bill
-  headline: California lawmakers exclude Newsom's wildfire liability limits from bill
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6184
+  strength: 0.6604
 - slug: 2026-08-18-forest-service-files-proposal-to-scrap-roadless-rule-on-national-forests
   headline: Forest Service files proposal to scrap roadless rule on national forests
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6564
-- slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
-  headline: Trump administration formally proposes rescinding 2001 Roadless Rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6186
-- slug: 2026-08-19-california-adopts-tire-efficiency-rules-projects-1-billion-in-annual-savings
-  headline: California adopts tire efficiency rules, projects $1 billion in annual savings
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6192
+  strength: 0.6558
 - slug: 2026-06-25-california-program-gives-aging-mobile-home-parks-a-second-life
   headline: California program gives aging mobile home parks a second life
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6532
+  strength: 0.6521
 - slug: 2026-01-22-california-lawmakers-propose-insurance-regulations-after-wildfire-claims-crisis
-  headline: California lawmakers propose insurance regulations after wildfire claims crisis
+  headline: California lawmakers propose insurance regulations after wildfire claims
+    crisis
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.6727
-- slug: 2026-06-24-us-cities-built-for-1950s-weather-face-unsurvivable-heat-researchers-warn
-  headline: US Cities Built for 1950s Weather Face Unsurvivable Heat, Researchers Warn
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6113
-- slug: 2026-06-03-california-wildfire-survivors-create-bunkers-underground-homes-and-goat-herds
-  headline: California wildfire survivors create bunkers, underground homes and goat herds
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6248
-- slug: 2026-04-16-california-cities-scramble-to-comply-with-or-fight-sb-79-housing-rezoning
-  headline: California cities scramble to comply with or fight SB 79 housing rezoning
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.645
-- slug: 2026-04-01-california-weighs-state-backed-insurance-for-factory-built-housing
-  headline: California weighs state-backed insurance for factory-built housing
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6463
-- slug: 2026-05-05-california-seeks-penalties-against-state-farm-over-2025-la-wildfire-claims
-  headline: California seeks penalties against State Farm over 2025 LA wildfire claims
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6286
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6174
-- slug: 2026-03-23-trump-s-epa-moves-to-weaken-regional-haze-rule-for-national-parks
-  headline: Trump's EPA moves to weaken regional haze rule for national parks
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6327
-- slug: 2026-03-10-state-farm-settlement-caps-california-homeowner-hikes-offers-condo-and-rental-re
-  headline: State Farm settlement caps California homeowner hikes, offers condo and rental refunds
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.633
-- slug: 2026-04-21-test-fires-help-scientists-protect-homes-from-climate-change-fueled-wildfires
-  headline: Test fires help scientists protect homes from climate-change fueled wildfires
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6215
-- slug: 2026-02-14-california-mountain-lions-become-threatened-in-key-regions
-  headline: California mountain lions become “threatened” in key regions
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6311
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.629
-- slug: 2026-01-28-california-pollution-rules-years-late-still-insufficient-for-vulnerable-towns
-  headline: California pollution rules, years late, still insufficient for vulnerable towns
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6309
+  strength: 0.6715
 image:
   url: /articles/2026-10-21-california-board-withdraws-zone-0-rules-expects-november-resubmission.png
-  alt: "Illustration accompanying article: California board withdraws Zone 0 rules, expects November resubmission"
+  alt: 'Illustration accompanying article: California board withdraws Zone 0 rules,
+    expects November resubmission'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-21-california-s-expected-zone-0-resubmission-could-standardize-rules-without-resolv'
+- 2026-10-21-california-s-expected-zone-0-resubmission-could-standardize-rules-without-resolv
 ---
-
 ## California board withdraws Zone 0 rules, expects November resubmission
 
 **Subtype:** fact

@@ -1,8 +1,18 @@
 ---
 headline: New York Times/Siena survey records 36% approval for Trump
 publish_date: '2026-10-21'
-lede: Donald Trump's approval rating fell to 36% two weeks before the midterm elections, according to an October New York Times/Siena College survey of approximately 3,494 likely voters. The survey found 59% disapproved of Trump's handling of his job and 52% planned to vote for the Democratic candidate. Issue-specific results showed disapproval of Trump's handling of gas prices, the cost of living, the economy and the Iran war.
-nut_graf: The New York Times/Siena College polling put Democrats in the upper hand heading into next month's election, while issue-specific results showed disapproval of Trump's handling of gas prices, the cost of living, the economy and the Iran war. Republicans were seeking to retain their majority control in Congress; the report said Democrats were still fighting against a massive financial war chest in competitive races in Texas, Ohio, New York, Alaska and Iowa.
+lede: Donald Trump's approval rating fell to 36% two weeks before the midterm elections,
+  according to an October New York Times/Siena College survey of approximately 3,494
+  likely voters. The survey found 59% disapproved of Trump's handling of his job and
+  52% planned to vote for the Democratic candidate. Issue-specific results showed
+  disapproval of Trump's handling of gas prices, the cost of living, the economy and
+  the Iran war.
+nut_graf: The New York Times/Siena College polling put Democrats in the upper hand
+  heading into next month's election, while issue-specific results showed disapproval
+  of Trump's handling of gas prices, the cost of living, the economy and the Iran
+  war. Republicans were seeking to retain their majority control in Congress; the
+  report said Democrats were still fighting against a massive financial war chest
+  in competitive races in Texas, Ohio, New York, Alaska and Iowa.
 primary_entities:
 - Donald Trump
 - New York Times/Siena College
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +152,44 @@ related_stories:
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7672
+  strength: 0.7665
 - slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
   headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.759
+  strength: 0.7585
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7307
+- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
+  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7287
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7542
+  strength: 0.7534
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7337
+  strength: 0.7334
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7705
+  strength: 0.7698
 - slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
   headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.82
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7721
-- slug: 2026-10-08-reuters-ipsos-finds-roughly-a-third-of-americans-approve-iran-strikes
-  headline: Reuters/Ipsos finds roughly a third of Americans approve Iran strikes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7288
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7484
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7755
-- slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
-  headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7474
-- slug: 2026-08-16-quinnipiac-poll-puts-trump-approval-at-32-as-leavitt-plans-to-exit
-  headline: Quinnipiac poll puts Trump approval at 32% as Leavitt plans to exit
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.8064
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.734
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7252
-- slug: 2026-04-22-trump-s-economy-approval-slips-in-ap-norc-poll-as-iran-war-prices-rise
-  headline: Trump’s economy approval slips in AP-NORC poll as Iran-war prices rise
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.8168
-- slug: 2026-06-22-trump-s-white-blue-collar-support-erodes-guardian-analysis-finds
-  headline: Trump's white, blue-collar support erodes, Guardian analysis finds
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7739
-- slug: 2026-07-22-trump-says-iran-war-s-political-cost-won-t-have-any-impact-on-me
-  headline: Trump says Iran war's political cost 'won't have any impact on me'
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7335
-- slug: 2026-05-20-more-republicans-approve-of-trump-on-immigration-than-the-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than the economy, poll finds
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7541
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-ap-norc-poll
-  headline: More Republicans approve of Trump on immigration than economy, AP-NORC poll
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7488
-- slug: 2026-05-21-more-republicans-back-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans back Trump on immigration than economy, poll finds
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7462
+  strength: 0.8194
 ---
-
 ## New York Times/Siena survey records 36% approval for Trump
 
 **Subtype:** fact

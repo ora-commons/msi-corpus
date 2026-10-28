@@ -1,9 +1,19 @@
 ---
-headline: Federal judge sentences Miranda-Orozco to 30 years over 53 migrant smuggling deaths
-secondary_headline: Trailer held 64 migrants without functioning air conditioning or water
+headline: Federal judge sentences Miranda-Orozco to 30 years over 53 migrant smuggling
+  deaths
+secondary_headline: Trailer held 64 migrants without functioning air conditioning
+  or water
 publish_date: '2026-10-21'
-lede: U.S. District Judge Orlando Garcia sentenced Guatemalan Rigoberto Ramon Miranda-Orozco to 30 years in prison on Tuesday for his role in the smuggling-related deaths of 53 migrants whose bodies were found in the back of a tractor-trailer abandoned along a San Antonio road in June 2022. Miranda-Orozco pleaded guilty in July to federal human-smuggling charges, including conspiracy to bring an alien into the United States resulting in death.
-nut_graf: The case stems from the June 27, 2022 discovery of 64 people inside a tractor-trailer abandoned along a San Antonio road whose back lacked functioning air conditioning or water. According to prosecutors, 19 people have now been convicted in connection with the mass smuggling deaths, nine in the United States and 10 in Guatemala.
+lede: U.S. District Judge Orlando Garcia sentenced Guatemalan Rigoberto Ramon Miranda-Orozco
+  to 30 years in prison on Tuesday for his role in the smuggling-related deaths of
+  53 migrants whose bodies were found in the back of a tractor-trailer abandoned along
+  a San Antonio road in June 2022. Miranda-Orozco pleaded guilty in July to federal
+  human-smuggling charges, including conspiracy to bring an alien into the United
+  States resulting in death.
+nut_graf: The case stems from the June 27, 2022 discovery of 64 people inside a tractor-trailer
+  abandoned along a San Antonio road whose back lacked functioning air conditioning
+  or water. According to prosecutors, 19 people have now been convicted in connection
+  with the mass smuggling deaths, nine in the United States and 10 in Guatemala.
 primary_entities:
 - Rigoberto Ramon Miranda-Orozco
 - Orlando Garcia
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +154,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-09-two-cuban-men-describe-deportation-to-central-african-republic
-  headline: Two Cuban men describe deportation to Central African Republic
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6267
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6338
 - slug: 2026-07-24-11-indicted-in-cargo-container-deaths-of-7-migrants-in-texas
   headline: 11 indicted in cargo container deaths of 7 migrants in Texas
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7519
+  strength: 0.7533
 - slug: 2026-05-15-six-migrants-including-14-year-old-found-dead-in-sweltering-texas-shipping-conta
-  headline: Six migrants, including 14-year-old, found dead in sweltering Texas shipping container
+  headline: Six migrants, including 14-year-old, found dead in sweltering Texas shipping
+    container
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.7506
-- slug: 2026-08-21-pima-county-reports-19-migrant-remains-recovered-in-july-highest-since-2024
-  headline: Pima County reports 19 migrant remains recovered in July, highest since 2024
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6235
+  strength: 0.7515
 - slug: 2026-04-09-man-pleads-guilty-in-federal-court-after-mexico-crash-killed-migrants
   headline: Man pleads guilty in federal court after Mexico crash killed migrants
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.7551
+  strength: 0.7554
 - slug: 2026-05-15-police-say-teen-was-among-6-who-died-in-hot-texas-shipping-container
   headline: Police say teen was among 6 who died in hot Texas shipping container
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.7344
+  strength: 0.7357
 - slug: 2026-05-10-six-found-dead-in-shipping-container-at-texas-rail-yard-heat-stroke-suspected
   headline: Six found dead in shipping container at Texas rail yard; heat stroke suspected
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7174
-- slug: 2026-07-18-u-s-attorney-says-ice-agents-were-seeking-other-men-in-fatal-houston-shooting
-  headline: U.S. attorney says ICE agents were seeking other men in fatal Houston shooting
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6359
+  strength: 0.7183
 - slug: 2026-05-10-6-found-dead-in-shipping-container-at-union-pacific-rail-yard-in-texas
   headline: 6 found dead in shipping container at Union Pacific rail yard in Texas
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6933
-- slug: 2026-07-15-arenas-silva-dies-during-transfer-between-georgia-detention-facilities
-  headline: Arenas-Silva dies during transfer between Georgia detention facilities
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6247
+  strength: 0.6935
 - slug: 2026-05-15-families-search-for-40-migrants-who-vanished-on-dangerous-sea-route-from-souther
-  headline: Families search for 40 migrants who vanished on dangerous sea route from southern Mexico
+  headline: Families search for 40 migrants who vanished on dangerous sea route from
+    southern Mexico
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6779
-- slug: 2026-07-02-families-of-us-deportees-to-venezuela-search-for-missing-after-quakes
-  headline: Families of US deportees to Venezuela search for missing after quakes
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6403
+  strength: 0.678
 - slug: 2026-03-24-mexican-authorities-find-229-migrants-trapped-in-truck-in-veracruz
   headline: Mexican authorities find 229 migrants trapped in truck in Veracruz
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.6927
-- slug: 2026-06-02-four-charged-as-us-mexico-drug-tunnel-discovered-beneath-san-diego-store
-  headline: Four charged as US-Mexico drug tunnel discovered beneath San Diego store
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6361
-- slug: 2026-05-16-montana-mechanic-walks-free-after-more-than-100-days-in-jail-on-immigration-char
-  headline: Montana mechanic walks free after more than 100 days in jail on immigration charges
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6403
-- slug: 2026-05-16-cartel-drone-attacks-displace-hundreds-of-indigenous-residents-in-guerrero
-  headline: Cartel drone attacks displace hundreds of Indigenous residents in Guerrero
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6267
-- slug: 2026-05-18-woman-shot-by-border-patrol-agent-pleads-guilty-to-illegal-entry
-  headline: Woman shot by Border Patrol agent pleads guilty to illegal entry
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6246
-- slug: 2026-05-15-mothers-seek-answers-in-chiapas-after-40-migrants-vanish-en-route-to-u-s
-  headline: Mothers seek answers in Chiapas after 40 migrants vanish en route to U.S.
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.625
-- slug: 2026-03-27-migrants-march-in-southern-mexico-to-protest-processing-delays-for-jobs
-  headline: Migrants march in southern Mexico to protest processing delays for jobs
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6396
+  strength: 0.6924
 ---
-
 ## Federal judge sentences Miranda-Orozco to 30 years over 53 migrant smuggling deaths
 
 **Subtype:** fact

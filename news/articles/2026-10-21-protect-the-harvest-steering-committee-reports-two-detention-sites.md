@@ -1,9 +1,22 @@
 ---
 headline: Protect the Harvest steering committee reports two detention sites
-secondary_headline: Lander says 40 of about 60 volunteers were foreign nationals, mostly Americans
+secondary_headline: Lander says 40 of about 60 volunteers were foreign nationals,
+  mostly Americans
 publish_date: '2026-10-21'
-lede: The Protect the Harvest steering committee said international volunteers were being held at the Etzion military base in the West Bank, while Israeli detainees were being held at the Beitar Illit police station in Israel. In an Oct. 21 UPI report, Brad Lander, a Jewish former New York City comptroller running for Congress in New York's 10th Congressional District, said other rabbis and volunteers remained detained under threat of deportation after his release. Lander said the Israeli military detained him on Wednesday while the group was harvesting olives near Nehalim in the West Bank.
-nut_graf: The Protect the Harvest steering committee identified the Etzion military base as the location for international volunteers and the Beitar Illit police station as the location for Israeli detainees. Lander said the trip included about 60 volunteers, including 40 foreign nationals who were mostly Americans. UPI reported that violence in the West Bank had surged recently, including violence against Palestinians and attacks on international diplomats and journalists.
+lede: The Protect the Harvest steering committee said international volunteers were
+  being held at the Etzion military base in the West Bank, while Israeli detainees
+  were being held at the Beitar Illit police station in Israel. In an Oct. 21 UPI
+  report, Brad Lander, a Jewish former New York City comptroller running for Congress
+  in New York's 10th Congressional District, said other rabbis and volunteers remained
+  detained under threat of deportation after his release. Lander said the Israeli
+  military detained him on Wednesday while the group was harvesting olives near Nehalim
+  in the West Bank.
+nut_graf: The Protect the Harvest steering committee identified the Etzion military
+  base as the location for international volunteers and the Beitar Illit police station
+  as the location for Israeli detainees. Lander said the trip included about 60 volunteers,
+  including 40 foreign nationals who were mostly Americans. UPI reported that violence
+  in the West Bank had surged recently, including violence against Palestinians and
+  attacks on international diplomats and journalists.
 primary_entities:
 - Brad Lander
 - Protect the Harvest
@@ -54,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +170,44 @@ related_stories:
   headline: Lander says Israeli military released him after brief West Bank detention
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8588
+  strength: 0.8578
+- slug: 2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip
+  headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.843
 - slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
-  headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+  headline: Israeli security forces detain Brad Lander and about 80 activists in West
+    Bank
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8329
+  strength: 0.8328
 - slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
   headline: Joshua Schoffman says volunteers complied with order without friction
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8023
+  strength: 0.8021
+- slug: 2026-10-26-israeli-forces-detain-23-member-delegation-seeking-entry-to-west-bank
+  headline: Israeli forces detain 23-member delegation seeking entry to West Bank
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7315
+- slug: 2026-10-22-report-links-axon-taser-devices-to-alleged-detainee-abuse-in-israeli-custody
+  headline: Report links Axon Taser devices to alleged detainee abuse in Israeli custody
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7028
 - slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
   headline: Israeli court extends detention of 6 men over attacks on foreigners
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6827
-- slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
-  headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6964
-- slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6709
-- slug: 2026-10-21-advocates-say-severely-ill-florida-detainees-face-unknown-african-destinations
-  headline: Advocates say severely ill Florida detainees face unknown African destinations
+  strength: 0.6826
+- slug: 2026-10-21-israeli-court-places-four-abu-falah-attack-suspects-under-house-arrest
+  headline: Israeli court places four Abu Falah attack suspects under house arrest
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6031
-- slug: 2026-09-30-senate-rejects-west-bank-accountability-resolution-in-47-51-vote
-  headline: Senate rejects West Bank accountability resolution in 47-51 vote
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6142
-- slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
-  headline: Farmer's midnight call leads to five arrests near RAF Fairford
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6024
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6663
-- slug: 2026-09-16-noura-erakat-arrested-at-palm-beach-hearing-over-israeli-bonds
-  headline: Noura Erakat arrested at Palm Beach hearing over Israeli bonds
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6037
-- slug: 2026-09-08-un-commission-says-israeli-actions-in-syria-may-amount-to-war-crimes
-  headline: UN commission says Israeli actions in Syria may amount to war crimes
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6308
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6865
-- slug: 2026-08-06-democrats-urge-trump-officials-to-restore-west-bank-settler-sanctions
-  headline: Democrats urge Trump officials to restore West Bank settler sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6279
-- slug: 2026-08-13-israeli-troops-enter-qusra-after-settlers-besiege-palestinian-homes
-  headline: Israeli troops enter Qusra after settlers besiege Palestinian homes
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6089
-- slug: 2026-06-10-ex-nyc-comptroller-brad-lander-faces-trial-over-ice-facility-protest-arrest
-  headline: Ex-NYC comptroller Brad Lander faces trial over ICE facility protest arrest
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6313
-- slug: 2026-03-16-un-rights-report-warns-of-displacement-and-settlement-expansion-in-west-bank
-  headline: UN rights report warns of displacement and settlement expansion in West Bank
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6374
-- slug: 2026-05-03-spain-urges-release-of-activist-detained-by-israel-after-aid-flotilla
-  headline: Spain urges release of activist detained by Israel after aid flotilla
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6225
-- slug: 2026-02-17-israel-to-charge-settler-filmed-firing-gun-during-west-bank-killing
-  headline: Israel to charge settler filmed firing gun during West Bank killing
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6378
-- slug: 2026-05-09-israel-deports-activists-detained-over-aid-flotilla-to-gaza
-  headline: Israel deports activists detained over aid flotilla to Gaza
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6109
+  strength: 0.6637
 ---
-
 ## Protect the Harvest steering committee reports two detention sites
 
 **Subtype:** fact

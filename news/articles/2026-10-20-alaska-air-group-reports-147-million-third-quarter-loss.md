@@ -1,9 +1,16 @@
 ---
 headline: Alaska Air Group reports $147 million third-quarter loss
-secondary_headline: Fuel headwind offsets 14% revenue growth as adjusted earnings miss estimates
+secondary_headline: Fuel headwind offsets 14% revenue growth as adjusted earnings
+  miss estimates
 publish_date: '2026-10-20'
-lede: Alaska Air Group reported a third-quarter loss of $147 million, or $1.32 a share, on Tuesday, after earning $73 million, or 62 cents a share, a year earlier. The company said a significant fuel headwind more than offset revenue that rose 14% to nearly $4.31 billion. Shares fell 1.6% to $33.80 in after-hours trading Tuesday.
-nut_graf: For the fourth quarter, Alaska Air Group expects an adjusted loss of $2.00 to $2.50 per share, while analysts expect a $1.19 adjusted loss. The company also forecasts economic fuel costs of $4.65 to $4.85 per gallon, above the $3.94 it recorded in the third quarter.
+lede: Alaska Air Group reported a third-quarter loss of $147 million, or $1.32 a share,
+  on Tuesday, after earning $73 million, or 62 cents a share, a year earlier. The
+  company said a significant fuel headwind more than offset revenue that rose 14%
+  to nearly $4.31 billion. Shares fell 1.6% to $33.80 in after-hours trading Tuesday.
+nut_graf: For the fourth quarter, Alaska Air Group expects an adjusted loss of $2.00
+  to $2.50 per share, while analysts expect a $1.19 adjusted loss. The company also
+  forecasts economic fuel costs of $4.65 to $4.85 per gallon, above the $3.94 it recorded
+  in the third quarter.
 primary_entities:
 - Alaska Air Group
 - Ben Minicucci
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,31 +142,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
-  headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
-  publish_date: '2026-10-20'
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6392
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
+  strength: 0.7687
+- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
+  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6496
-- slug: 2026-10-20-latin-american-airlines-face-rising-fuel-costs-and-higher-fares
-  headline: Latin American airlines face rising fuel costs and higher fares
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6085
-- slug: 2026-10-15-lufthansa-s-1-2-billion-euro-tap-stake-carries-steep-cost-bernstein-says
-  headline: Lufthansa's 1.2 billion euro TAP stake carries steep cost, Bernstein says
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6242
-- slug: 2026-10-13-unitedhealth-posts-4-11-billion-quarterly-profit-raises-guidance
-  headline: UnitedHealth posts $4.11 billion quarterly profit, raises guidance
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6023
+  strength: 0.6876
 - slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
   headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
   publish_date: '2026-07-21'
@@ -169,73 +163,12 @@ related_stories:
   publish_date: '2026-09-29'
   relation: related
   strength: 0.6583
-- slug: 2026-09-29-carnival-q3-earnings-top-estimates-as-2027-bookings-hit-record-levels
-  headline: Carnival Q3 earnings top estimates as 2027 bookings hit record levels
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6202
-- slug: 2026-09-12-airfares-jump-23-4-as-diesel-tops-6-a-gallon-core-inflation-rises-2-4
-  headline: Airfares jump 23.4% as diesel tops $6 a gallon; core inflation rises 2.4%
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6051
 - slug: 2026-08-27-qantas-annual-profit-slides-14-as-iran-conflict-lifts-fuel-costs
   headline: Qantas annual profit slides 14% as Iran conflict lifts fuel costs
   publish_date: '2026-08-27'
   relation: related
   strength: 0.6515
-- slug: 2026-09-10-u-k-aviation-system-stabilizes-after-week-s-atc-outage
-  headline: U.K. aviation system stabilizes after week's ATC outage
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5958
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6211
-- slug: 2026-08-05-uber-bookings-and-adjusted-earnings-top-estimates-shares-fall-4
-  headline: Uber bookings and adjusted earnings top estimates; shares fall 4%
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5937
-- slug: 2026-07-28-boeing-posts-428m-loss-on-air-force-one-cost-overruns
-  headline: Boeing posts $428M loss on Air Force One cost overruns
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6057
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6047
-- slug: 2026-07-10-oil-steady-on-u-s--iran-talks-up-0-1-at-72-12
-  headline: Oil, steady on U.S.-Iran talks, up 0.1% at $72.12
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5997
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6205
-- slug: 2026-06-19-korean-air-says-asiana-integration-costs-could-reach-1-trillion-won-offset-by-20
-  headline: Korean Air says Asiana integration costs could reach 1 trillion won, offset by 2028
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6086
-- slug: 2026-06-01-jetblue-raises-second-quarter-revenue-outlook-on-strong-travel-demand
-  headline: JetBlue raises second-quarter revenue outlook on strong travel demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6201
-- slug: 2026-06-30-bessent-warns-oil-companies-to-lower-prices-as-trump-demands-2-50-gas
-  headline: Bessent warns oil companies to lower prices as Trump demands $2.50 gas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5939
 ---
-
 ## Alaska Air Group reports $147 million third-quarter loss
 
 **Subtype:** fact

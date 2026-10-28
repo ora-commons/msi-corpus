@@ -1,9 +1,21 @@
 ---
 headline: Higher petrol and diesel costs drive Britain's September inflation
-secondary_headline: £4bn added to debt-interest costs; financial-year-to-date public-sector net borrowing £6bn above OBR forecast
+secondary_headline: £4bn added to debt-interest costs; financial-year-to-date public-sector
+  net borrowing £6bn above OBR forecast
 publish_date: '2026-10-21'
-lede: The Office for National Statistics said higher motor-fuel costs were the largest factor pushing up annual inflation in Britain in September, when consumer prices rose 3.5%. The annual rate increased from 3.1% in August and exceeded the 3.4% City forecast for the consumer prices index. The ONS said the average petrol price rose by 8.2 pence a litre from August, compared with a fall of 0.2 pence in the same period a year earlier, while diesel rose by 10.7 pence a litre, against a fall of 0.4 pence in September 2025.
-nut_graf: The fuel-led increase carries direct consequences for household benefits, business rates and the state pension. The Office for National Statistics said inflation added £4bn to debt-interest costs in September, while public-sector net borrowing in the financial year to date was £6bn above the Office for Budget Responsibility's forecast. The releases came ahead of Chancellor John Healey's budget and the Bank of England's rate-setting meeting scheduled for 5 November.
+lede: The Office for National Statistics said higher motor-fuel costs were the largest
+  factor pushing up annual inflation in Britain in September, when consumer prices
+  rose 3.5%. The annual rate increased from 3.1% in August and exceeded the 3.4% City
+  forecast for the consumer prices index. The ONS said the average petrol price rose
+  by 8.2 pence a litre from August, compared with a fall of 0.2 pence in the same
+  period a year earlier, while diesel rose by 10.7 pence a litre, against a fall of
+  0.4 pence in September 2025.
+nut_graf: The fuel-led increase carries direct consequences for household benefits,
+  business rates and the state pension. The Office for National Statistics said inflation
+  added £4bn to debt-interest costs in September, while public-sector net borrowing
+  in the financial year to date was £6bn above the Office for Budget Responsibility's
+  forecast. The releases came ahead of Chancellor John Healey's budget and the Bank
+  of England's rate-setting meeting scheduled for 5 November.
 primary_entities:
 - Office for National Statistics
 - John Healey
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +156,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation.png
-  alt: 'Illustration accompanying article: Higher petrol and diesel costs drive Britain''s September inflation'
+  alt: 'Illustration accompanying article: Higher petrol and diesel costs drive Britain''s
+    September inflation'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
   headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8029
+  strength: 0.8025
 - slug: 2026-10-14-september-cpi-rises-0-6-on-gasoline-surge-inflation-well-above-fed-target
   headline: September CPI rises 0.6% on gasoline surge, inflation well above Fed target
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.752
+  strength: 0.7508
 - slug: 2026-10-12-uk-business-inflation-pressures-hit-three-year-high-bdo-index-shows
   headline: UK business inflation pressures hit three-year high, BDO index shows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7516
-- slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
-  headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6972
+  strength: 0.7514
 - slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
   headline: Inflation broadens beyond energy as AI buildout lifts computer prices
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6971
+  strength: 0.6967
+- slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
+  headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
+  publish_date: '2026-10-14'
+  relation: related
+  strength: 0.6957
 - slug: 2026-10-14-us-businesses-absorb-nearly-90-of-tariff-costs-new-york-fed-finds
   headline: US businesses absorb nearly 90% of tariff costs, New York Fed finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6957
+  strength: 0.6945
 - slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
   headline: UK inflation rises to 3.1% in August as fuel prices surge
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.8214
+  strength: 0.8212
 - slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
   headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.8017
-- slug: 2026-10-02-uk-diesel-average-breaks-2-a-litre-for-the-first-time
-  headline: UK diesel average breaks £2 a litre for the first time
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7035
-- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
-  headline: Cornwall Insight projects 16% rise in UK energy price cap
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6994
-- slug: 2026-09-29-spanish-inflation-climbs-to-5-0-highest-since-february-2023
-  headline: Spanish inflation climbs to 5.0%, highest since February 2023
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.699
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7089
-- slug: 2026-09-11-us-consumer-prices-rose-3-4-in-year-to-august-bls-reports
-  headline: US consumer prices rose 3.4% in year to August, BLS reports
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7488
-- slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
-  headline: S&P Global UK consumer sentiment index falls to 42.7 in September
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6948
-- slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7072
-- slug: 2026-09-17-bank-of-england-holds-rate-at-3-75-while-fed-ecb-raise-theirs
-  headline: Bank of England holds rate at 3.75% while Fed, ECB raise theirs
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6989
-- slug: 2026-09-10-u-s-wholesale-prices-rise-0-4-in-august-on-diesel-fuel-surge
-  headline: U.S. wholesale prices rise 0.4% in August on diesel fuel surge
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.725
-- slug: 2026-09-12-airfares-jump-23-4-as-diesel-tops-6-a-gallon-core-inflation-rises-2-4
-  headline: Airfares jump 23.4% as diesel tops $6 a gallon; core inflation rises 2.4%
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7168
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7748
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7286
+  strength: 0.8005
 ---
-
 ## Higher petrol and diesel costs drive Britain's September inflation
 
 **Subtype:** fact

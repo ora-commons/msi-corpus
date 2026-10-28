@@ -2,8 +2,19 @@
 headline: Hamilton courts Republicans and independents in close Kansas Senate race
 secondary_headline: Topeka voters cite housing, jobs and rural water concerns
 publish_date: '2026-10-20'
-lede: Democratic Senate nominee Adam Hamilton generally calls himself an independent-minded Democrat and is trying to win over independents and Republicans as he challenges Republican incumbent Roger Marshall. In a campaign video, Hamilton said he was running to champion Republicans, Democrats and independents; at the Friday Topeka business forum, he was working to convince a politically mixed crowd to take a chance on a Democrat. The Guardian described the race as too close to call and said some recent polls put Hamilton on course for a historic victory that would produce Kansas's first Democratic U.S. senator since 1932.
-nut_graf: The race comes two years after Donald Trump won Kansas by 16 points in his fight to regain the White House, The Guardian reported. The newspaper said Marshall's record of suing hundreds of his patients for unpaid bills — which resulted in arrests of dozens of them — had "contributed greatly to Hamilton's prospects of flipping the seat."
+lede: Democratic Senate nominee Adam Hamilton generally calls himself an independent-minded
+  Democrat and is trying to win over independents and Republicans as he challenges
+  Republican incumbent Roger Marshall. In a campaign video, Hamilton said he was running
+  to champion Republicans, Democrats and independents; at the Friday Topeka business
+  forum, he was working to convince a politically mixed crowd to take a chance on
+  a Democrat. The Guardian described the race as too close to call and said some recent
+  polls put Hamilton on course for a historic victory that would produce Kansas's
+  first Democratic U.S. senator since 1932.
+nut_graf: The race comes two years after Donald Trump won Kansas by 16 points in his
+  fight to regain the White House, The Guardian reported. The newspaper said Marshall's
+  record of suing hundreds of his patients for unpaid bills — which resulted in arrests
+  of dozens of them — had "contributed greatly to Hamilton's prospects of flipping
+  the seat."
 primary_entities:
 - Adam Hamilton
 - Roger Marshall
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,115 +154,59 @@ related_stories:
   headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7948
+  strength: 0.7953
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7132
+  strength: 0.7118
+- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6591
+- slug: 2026-10-27-trump-plans-salina-rally-less-than-two-weeks-after-kansas-visit
+  headline: Trump plans Salina rally less than two weeks after Kansas visit
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6543
 - slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
   headline: Ten midterm races outside the spotlight carry upset potential
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6891
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.647
+  strength: 0.6896
 - slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
   headline: Democrats narrow gaps in Republican-held races with month to midterms
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6559
+  strength: 0.657
 - slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
   headline: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.8281
+  strength: 0.8282
 - slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7268
-- slug: 2026-10-06-sununu-seeks-senate-comeback-in-new-hampshire-against-pappas
-  headline: Sununu seeks Senate comeback in New Hampshire against Pappas
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.638
-- slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
-  headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6328
-- slug: 2026-09-02-hamilton-would-join-warnock-as-senator-still-leading-a-congregation
-  headline: Hamilton would join Warnock as senator still leading a congregation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7451
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6385
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6315
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.631
-- slug: 2026-04-29-methodist-megachurch-pastor-adam-hamilton-launches-kansas-senate-bid
-  headline: Methodist megachurch pastor Adam Hamilton launches Kansas Senate bid
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.8008
-- slug: 2026-05-16-kentucky-gop-rivals-keep-distance-from-mcconnell-in-senate-primary
-  headline: Kentucky GOP rivals keep distance from McConnell in Senate primary
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6624
-- slug: 2026-05-16-kentucky-gop-candidates-walk-fine-line-between-mcconnell-loyalty-and-maga-demand
-  headline: Kentucky GOP candidates walk fine line between McConnell loyalty and MAGA demands
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6423
-- slug: 2026-05-18-alabama-primaries-set-rematch-for-governor-runoffs-for-u-s-senate-seat
-  headline: Alabama primaries set rematch for governor, runoffs for U.S. Senate seat
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6316
-- slug: 2026-05-21-alabama-senate-race-heads-to-runoff-house-primaries-tied-up-in-redistricting-fig
-  headline: Alabama Senate race heads to runoff; House primaries tied up in redistricting fight
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6272
-- slug: 2026-05-19-former-rivals-tuberville-and-jones-set-for-alabama-governor-rematch
-  headline: Former rivals Tuberville and Jones set for Alabama governor rematch
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6274
-- slug: 2026-03-02-texas-gop-senate-primary-enters-final-pitches-ahead-of-march-3-vote
-  headline: Texas GOP Senate primary enters final pitches ahead of March 3 vote
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6485
+  strength: 0.7255
 image:
   url: /articles/2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race.png
-  alt: "Illustration accompanying article: Hamilton courts Republicans and independents in close Kansas Senate race"
+  alt: 'Illustration accompanying article: Hamilton courts Republicans and independents
+    in close Kansas Senate race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-20-kansas-senate-contest-unfolds-across-encounter-nodes-and-material-pressures-vote'
+- 2026-10-20-kansas-senate-contest-unfolds-across-encounter-nodes-and-material-pressures-vote
 ---
-
 ## Hamilton courts Republicans and independents in close Kansas Senate race
 
 **Subtype:** fact

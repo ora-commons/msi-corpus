@@ -1,9 +1,20 @@
 ---
-headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-secondary_headline: Reported speed cap followed anger over Ukrainian strikes on Russian diesel refineries
+headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink
+  limits
+secondary_headline: Reported speed cap followed anger over Ukrainian strikes on Russian
+  diesel refineries
 publish_date: '2026-10-21'
-lede: Bipartisan U.S. lawmakers are seeking an investigation after The Wall Street Journal reported that SpaceX chief Elon Musk restricted Ukraine's access to the company's satellite-based Starlink network. Republican Rep. Brian Fitzpatrick and Democratic Sen. Adam Schiff called for Musk to testify under oath. A bipartisan group also asked the Pentagon's inspector general to examine whether the Pentagon or its contractors had a role in the speed restrictions.
-nut_graf: The response centers on congressional oversight of the reported restrictions and possible Pentagon or contractor involvement. The Journal said Ukraine's service slowdown made it harder for Kyiv to intercept Russian attacks or launch drone strikes, while the Pentagon's inspector general was preparing a response to a bipartisan request.
+lede: Bipartisan U.S. lawmakers are seeking an investigation after The Wall Street
+  Journal reported that SpaceX chief Elon Musk restricted Ukraine's access to the
+  company's satellite-based Starlink network. Republican Rep. Brian Fitzpatrick and
+  Democratic Sen. Adam Schiff called for Musk to testify under oath. A bipartisan
+  group also asked the Pentagon's inspector general to examine whether the Pentagon
+  or its contractors had a role in the speed restrictions.
+nut_graf: The response centers on congressional oversight of the reported restrictions
+  and possible Pentagon or contractor involvement. The Journal said Ukraine's service
+  slowdown made it harder for Kyiv to intercept Russian attacks or launch drone strikes,
+  while the Pentagon's inspector general was preparing a response to a bipartisan
+  request.
 primary_entities:
 - Elon Musk
 - SpaceX
@@ -54,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,108 +164,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
+  headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8107
+- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
+  headline: Trump credits Musk with restoring Ukraine's Starlink service
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7955
 - slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
+  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian
+    hardware
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7988
+  strength: 0.7987
 - slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
   headline: Zelensky Starlink warning led to informal White House investigation
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7963
+  strength: 0.7962
 - slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
   headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8133
+  strength: 0.8134
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8077
-- slug: 2026-10-21-starshield-speed-limits-hinder-ukrainian-strike-and-interceptor-drones
-  headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
-  publish_date: '2026-10-21'
+  strength: 0.8078
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7531
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
+  strength: 0.7588
+- slug: 2026-10-27-robert-reich-urges-defunding-of-elon-musk-over-starlink-limits
+  headline: Robert Reich urges defunding of Elon Musk over Starlink limits
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.7934
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7924
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7229
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7508
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7429
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7476
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7308
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7339
-- slug: 2026-10-20-republican-lawmakers-challenge-trump-s-russia-policy-and-diesel-deal
-  headline: Republican lawmakers challenge Trump’s Russia policy and diesel deal
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6979
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7208
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7242
-- slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
-  headline: SpaceX reports 161% revenue growth driven by Starlink and AI
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6697
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6983
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7011
-- slug: 2026-10-15-uk-defence-secretary-meets-hegseth-at-pentagon-on-ukraine
-  headline: UK defence secretary meets Hegseth at Pentagon on Ukraine
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.683
+  strength: 0.7585
 ---
-
 ## Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
 
 **Subtype:** fact

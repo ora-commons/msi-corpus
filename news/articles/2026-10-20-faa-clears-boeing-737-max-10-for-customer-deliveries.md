@@ -146,111 +146,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-duffy-says-u-s-aircraft-certification-hurts-aviation-competitiveness
+  headline: Duffy says U.S. aircraft certification hurts aviation competitiveness
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7835
 - slug: 2026-10-02-faa-review-board-rules-boeing-737-max-software-glitch-not-a-safety-issue
   headline: FAA review board rules Boeing 737 MAX software glitch not a safety issue
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.812
+  strength: 0.8132
 - slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
   headline: FAA chief delays 737 MAX 10 certification over pilot-workload software
     glitch
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.797
+  strength: 0.7984
 - slug: 2026-09-26-faa-probes-boeing-737-max-software-glitch-in-landing-scenarios
   headline: FAA probes Boeing 737 MAX software glitch in landing scenarios
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7984
+  strength: 0.8012
 - slug: 2026-09-28-software-glitch-delays-approval-of-boeing-s-newest-737-max
   headline: Software glitch delays approval of Boeing's newest 737 MAX
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7352
+  strength: 0.7388
 - slug: 2026-08-03-boeing-737-max-7-certified-by-faa-after-nearly-decade-long-wait
   headline: Boeing 737 Max 7 certified by FAA after nearly decade-long wait
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.832
+  strength: 0.8342
 - slug: 2026-08-07-faa-orders-inspections-of-471-boeing-737-max-jets-for-possible-cracks
   headline: FAA orders inspections of 471 Boeing 737 Max jets for possible cracks
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7718
+  strength: 0.7728
 - slug: 2026-07-09-faa-set-to-certify-boeing-737-max-7-later-this-month
   headline: FAA set to certify Boeing 737 MAX 7 later this month
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.8052
-- slug: 2026-07-17-faa-restores-boeing-s-authority-to-certify-737-max-787-as-airworthy
-  headline: FAA restores Boeing's authority to certify 737 Max, 787 as airworthy
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.769
-- slug: 2026-07-28-boeing-posts-428m-loss-on-air-force-one-cost-overruns
-  headline: Boeing posts $428M loss on Air Force One cost overruns
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6888
-- slug: 2026-07-19-boeing-ceo-says-company-must-shore-up-finances-before-launching-new-plane
-  headline: Boeing CEO says company must shore up finances before launching new plane
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6955
-- slug: 2026-08-12-faa-plans-antenna-relocations-new-procedures-after-marine-one-incident-at-reagan
-  headline: FAA plans antenna relocations, new procedures after Marine One incident
-    at Reagan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6418
-- slug: 2026-08-02-qatar-donated-air-force-one-lacks-nuclear-hardening-aerial-refueling
-  headline: Qatar-donated Air Force One lacks nuclear hardening, aerial refueling
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.643
-- slug: 2026-05-10-faa-approves-boeing-fix-fedex-resumes-md-11-flights-after-louisville-crash
-  headline: FAA approves Boeing fix, FedEx resumes MD-11 flights after Louisville
-    crash
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7027
-- slug: 2026-05-10-faa-approves-boeing-plan-to-fix-md-11s-grounded-after-ups-crash
-  headline: FAA approves Boeing plan to fix MD-11s grounded after UPS crash
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6912
-- slug: 2026-06-11-faa-rule-change-expected-to-unlock-surge-in-commercial-drone-flights
-  headline: FAA rule change expected to unlock surge in commercial drone flights
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6703
-- slug: 2026-05-17-boeing-says-china-agreed-to-buy-200-aircraft-after-trump-xi-summit
-  headline: Boeing says China agreed to buy 200 aircraft after Trump-Xi summit
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6693
-- slug: 2026-05-21-relaxed-inspections-may-have-contributed-to-engine-falling-off-ups-plane
-  headline: Relaxed inspections may have contributed to engine falling off UPS plane
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6667
-- slug: 2026-05-17-boeing-lands-200-plane-order-from-china-at-trump-xi-summit
-  headline: Boeing lands 200-plane order from China at Trump-Xi summit
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6678
-- slug: 2026-02-06-us-appeals-court-is-asked-to-revive-criminal-case-against-boeing
-  headline: US appeals court is asked to revive criminal case against Boeing
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6861
-- slug: 2026-05-20-relaxed-inspections-may-have-contributed-to-engine-coming-off-ups-md-11
-  headline: Relaxed inspections may have contributed to engine coming off UPS MD-11
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6584
+  strength: 0.8077
 ---
-
 ## FAA clears Boeing 737 MAX 10 for customer deliveries
 
 **Subtype:** fact

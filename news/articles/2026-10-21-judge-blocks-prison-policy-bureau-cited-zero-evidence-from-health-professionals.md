@@ -1,9 +1,21 @@
 ---
 headline: Judge blocks prison policy; Bureau cited zero evidence from health professionals
-secondary_headline: Sauer cited institutional security; the plaintiffs alleged an Eighth Amendment violation
+secondary_headline: Sauer cited institutional security; the plaintiffs alleged an
+  Eighth Amendment violation
 publish_date: '2026-10-21'
-lede: U.S. District Judge Royce Lamberth for the D.C. Circuit blocked a Bureau of Prisons policy after finding that the agency cited zero evidence from its own medical or mental health professionals to support its conclusions. Solicitor General D. John Sauer argued that the changes were for “institutional security” in federal prisons, while a group of transgender prisoners aided by the American Civil Liberties Union said the government had not properly explained the change and that it violated the Eighth Amendment. The U.S. Supreme Court declined on October 21 to lift Lamberth’s order, leaving the policy blocked after the U.S. Court of Appeals for the D.C. Circuit had upheld his ruling.
-nut_graf: The dispute concerns the evidence behind a policy that would taper treatment and end other accommodations, and the plaintiffs’ claim that the change violated the Eighth Amendment. The Supreme Court’s refusal to lift the lower-court order, after the appeals court upheld it, left the policy blocked.
+lede: U.S. District Judge Royce Lamberth for the D.C. Circuit blocked a Bureau of
+  Prisons policy after finding that the agency cited zero evidence from its own medical
+  or mental health professionals to support its conclusions. Solicitor General D.
+  John Sauer argued that the changes were for “institutional security” in federal
+  prisons, while a group of transgender prisoners aided by the American Civil Liberties
+  Union said the government had not properly explained the change and that it violated
+  the Eighth Amendment. The U.S. Supreme Court declined on October 21 to lift Lamberth’s
+  order, leaving the policy blocked after the U.S. Court of Appeals for the D.C. Circuit
+  had upheld his ruling.
+nut_graf: The dispute concerns the evidence behind a policy that would taper treatment
+  and end other accommodations, and the plaintiffs’ claim that the change violated
+  the Eighth Amendment. The Supreme Court’s refusal to lift the lower-court order,
+  after the appeals court upheld it, left the policy blocked.
 primary_entities:
 - Royce Lamberth
 - Bureau of Prisons
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +155,63 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-judge-blocks-prison-policy-bureau-cited-zero-evidence-from-health-professionals.png
-  alt: 'Illustration accompanying article: Judge blocks prison policy; Bureau cited zero evidence from health professionals'
+  alt: 'Illustration accompanying article: Judge blocks prison policy; Bureau cited
+    zero evidence from health professionals'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-21-supreme-court-rejects-bid-to-end-gender-affirming-care-in-federal-prisons
   headline: Supreme Court rejects bid to end gender-affirming care in federal prisons
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.764
+  strength: 0.7653
 - slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
   headline: Federal prison policy would bar transition-related treatment
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7405
+  strength: 0.7416
 - slug: 2026-10-21-federal-prisons-hold-about-2-000-transgender-people
   headline: Federal prisons hold about 2,000 transgender people
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7336
+  strength: 0.7339
 - slug: 2026-09-28-trump-administration-appeals-transgender-inmate-care-ruling-to-supreme-court
-  headline: Trump administration appeals transgender inmate care ruling to Supreme Court
+  headline: Trump administration appeals transgender inmate care ruling to Supreme
+    Court
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8043
+  strength: 0.8047
 - slug: 2026-10-01-justices-to-decide-legality-of-indefinite-immigrant-detention-under-1996-law
-  headline: Justices to decide legality of indefinite immigrant detention under 1996 law
+  headline: Justices to decide legality of indefinite immigrant detention under 1996
+    law
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6505
+  strength: 0.6512
 - slug: 2026-08-28-trump-administration-asks-supreme-court-to-allow-pentagon-transgender-troop-ban
-  headline: Trump administration asks Supreme Court to allow Pentagon transgender troop ban
+  headline: Trump administration asks Supreme Court to allow Pentagon transgender
+    troop ban
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6758
+  strength: 0.676
 - slug: 2026-07-29-judge-says-trump-administration-violated-order-on-transgender-inmate-transfers
   headline: Judge says Trump administration violated order on transgender inmate transfers
   publish_date: '2026-07-29'
   relation: related
-  strength: 0.7393
+  strength: 0.7391
 - slug: 2026-08-28-3rd-circuit-rejects-ice-policy-treating-long-term-u-s-residents-as-still-seeking
-  headline: 3rd Circuit rejects ICE policy treating long-term U.S. residents as still seeking admission
+  headline: 3rd Circuit rejects ICE policy treating long-term U.S. residents as still
+    seeking admission
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6611
-- slug: 2026-08-14-appeals-court-clears-way-for-doj-subpoena-of-transgender-care-provider
-  headline: Appeals court clears way for DOJ subpoena of transgender care provider
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6625
-- slug: 2026-06-24-judge-blocks-subpoena-for-medical-records-of-transgender-youth-in-new-york
-  headline: Judge blocks subpoena for medical records of transgender youth in New York
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6972
-- slug: 2026-05-15-federal-judge-blocks-trump-administration-from-seeking-trans-youth-records
-  headline: Federal judge blocks Trump administration from seeking trans youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6925
-- slug: 2026-05-15-federal-judge-blocks-doj-subpoenas-for-rhode-island-transgender-youth-records
-  headline: Federal judge blocks DOJ subpoenas for Rhode Island transgender youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.689
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6533
-- slug: 2026-05-18-judge-refuses-to-block-dhs-policy-on-congressional-ice-visits
-  headline: Judge refuses to block DHS policy on Congressional ICE visits
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6646
-- slug: 2026-06-02-federal-appeals-court-blocks-trump-from-expelling-transgender-troops
-  headline: Federal appeals court blocks Trump from expelling transgender troops
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6528
-- slug: 2026-05-08-second-appeals-court-rejects-trump-s-no-bond-immigration-detentions
-  headline: Second appeals court rejects Trump’s no-bond immigration detentions
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6615
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6531
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6512
-- slug: 2026-04-29-2nd-circuit-rejects-trump-no-bond-detentions-case-may-go-to-supreme-court
-  headline: 2nd Circuit rejects Trump no-bond detentions; case may go to Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6523
-- slug: 2026-01-26-doj-drops-effort-to-obtain-transgender-patients-records
-  headline: DOJ drops effort to obtain transgender patients' records
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6658
+  strength: 0.662
 ---
-
 ## Judge blocks prison policy; Bureau cited zero evidence from health professionals
 
 **Subtype:** fact

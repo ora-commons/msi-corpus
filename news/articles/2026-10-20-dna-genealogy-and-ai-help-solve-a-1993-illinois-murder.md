@@ -1,9 +1,17 @@
 ---
 headline: DNA genealogy and AI help solve a 1993 Illinois murder
-secondary_headline: Centerline AI helped reconstruct timelines and organize witness information
+secondary_headline: Centerline AI helped reconstruct timelines and organize witness
+  information
 publish_date: '2026-10-20'
-lede: Detectives in Madison County, Illinois, used Othram's investigative genetic genealogy and Centerline AI to advance the investigation of Randy Gail Sperino's 1993 murder. The genealogy analysis produced a lead to Albert "Buddy" Zigler, 70, who confessed and was charged in May.
-nut_graf: The combination has helped investigators identify a suspect and analyze old records, reconstruct timelines and organize witness information, but it has not replaced human investigative work. Privacy concerns and limited law-enforcement funding also constrain the use of the technique, while the UK is still studying whether to adopt investigative genetic genealogy.
+lede: Detectives in Madison County, Illinois, used Othram's investigative genetic
+  genealogy and Centerline AI to advance the investigation of Randy Gail Sperino's
+  1993 murder. The genealogy analysis produced a lead to Albert "Buddy" Zigler, 70,
+  who confessed and was charged in May.
+nut_graf: The combination has helped investigators identify a suspect and analyze
+  old records, reconstruct timelines and organize witness information, but it has
+  not replaced human investigative work. Privacy concerns and limited law-enforcement
+  funding also constrain the use of the technique, while the UK is still studying
+  whether to adopt investigative genetic genealogy.
 primary_entities:
 - Randy Gail Sperino
 - Albert "Buddy" Zigler
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,117 +152,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-13-chicago-police-identify-former-detective-as-killer-in-1960-cold-case
-  headline: Chicago police identify former detective as killer in 1960 cold case
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6188
-- slug: 2026-10-18-times-reveals-mobster-informant-s-ties-to-oj-simpson-case
-  headline: Times reveals mobster-informant's ties to OJ Simpson case
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.5705
-- slug: 2026-10-16-coroner-identifies-lake-mead-barrel-homicide-victim-as-edward-lelburian-jackson
-  headline: Coroner identifies Lake Mead barrel homicide victim as Edward Lelburian Jackson
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5754
-- slug: 2026-09-10-nyc-identifies-1-654th-9-11-victim-through-new-dna-technology
-  headline: NYC identifies 1,654th 9/11 victim through new DNA technology
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6154
-- slug: 2026-09-05-family-sextorted-via-group-chat-with-ai-generated-image-of-daughter
-  headline: Family sextorted via group chat with AI-generated image of daughter
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5722
 - slug: 2026-04-02-new-dna-testing-links-laura-ann-aime-s-1974-death-to-ted-bundy
   headline: New DNA testing links Laura Ann Aime’s 1974 death to Ted Bundy
   publish_date: '2026-04-02'
   relation: related
-  strength: 0.6727
+  strength: 0.6725
 - slug: 2026-04-01-new-dna-link-boosts-ted-bundy-s-confirmed-victim-count-utah-sheriff-says
   headline: New DNA link boosts Ted Bundy’s confirmed victim count, Utah sheriff says
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.6595
-- slug: 2026-07-21-michigan-man-charged-after-anonymous-tip-led-to-1993-alaska-killing
-  headline: Michigan man charged after anonymous tip led to 1993 Alaska killing
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5715
-- slug: 2026-07-08-georgia-cracker-barrel-evidence-leads-to-arrest-in-1985-ohio-killing
-  headline: Georgia Cracker Barrel evidence leads to arrest in 1985 Ohio killing
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5805
-- slug: 2026-02-19-police-in-nancy-guthrie-case-consider-dna-genealogy-database-searches
-  headline: Police in Nancy Guthrie case consider DNA genealogy database searches
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.635
-- slug: 2026-06-23-disputed-criminal-brain-science-put-man-on-death-row-critics-say
-  headline: Disputed 'criminal brain' science put man on death row, critics say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5763
-- slug: 2026-05-08-sheriff-says-evidence-suggests-human-remains-at-susan-flores-property
-  headline: Sheriff says evidence suggests human remains at Susan Flores property
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6045
-- slug: 2026-04-02-decades-later-ted-bundy-s-victim-count-rises-with-new-dna-link
-  headline: Decades later, Ted Bundy’s victim count rises with new DNA link
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6135
-- slug: 2026-04-26-jury-convicts-man-in-1993-buffalo-killing-after-decades-long-legal-battle
-  headline: Jury convicts man in 1993 Buffalo killing after decades-long legal battle
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6031
-- slug: 2026-05-07-search-in-kristin-smart-case-turns-up-evidence-of-human-remains-at-home
-  headline: Search in Kristin Smart case turns up evidence of human remains at home
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5958
-- slug: 2026-06-10-florida-lawsuit-alleges-wrongful-arrest-after-ai-facial-recognition-error
-  headline: Florida lawsuit alleges wrongful arrest after AI facial recognition error
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5747
-- slug: 2026-04-16-dna-identifies-oregon-family-missing-since-1958-in-columbia-river-car
-  headline: DNA identifies Oregon family missing since 1958 in Columbia River car
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-06-search-continues-outside-a-home-tied-to-kristin-smart-s-killer
-  headline: Search continues outside a home tied to Kristin Smart's killer
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5919
-- slug: 2026-05-07-scientists-take-soil-samples-outside-home-tied-to-kristin-smart-case
-  headline: Scientists take soil samples outside home tied to Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5878
-- slug: 2026-03-12-ex-nfl-player-charged-with-murder-consulted-ai-before-911-call-authorities-say
-  headline: Ex-NFL player charged with murder consulted AI before 911 call, authorities say
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.5986
+  strength: 0.6596
 image:
   url: /articles/2026-10-20-dna-genealogy-and-ai-help-solve-a-1993-illinois-murder.png
-  alt: "Illustration accompanying article: DNA genealogy and AI help solve a 1993 Illinois murder"
+  alt: 'Illustration accompanying article: DNA genealogy and AI help solve a 1993
+    Illinois murder'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## DNA genealogy and AI help solve a 1993 Illinois murder
 
 **Subtype:** fact

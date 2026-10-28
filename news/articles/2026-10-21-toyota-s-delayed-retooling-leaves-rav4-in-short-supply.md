@@ -1,9 +1,19 @@
 ---
 headline: Toyota’s delayed retooling leaves RAV4 in short supply
-secondary_headline: North American output fell 30% through September as buyers wait months
+secondary_headline: North American output fell 30% through September as buyers wait
+  months
 publish_date: '2026-10-21'
-lede: Toyota’s decision last fall to keep producing the 2025 RAV4 into the fourth quarter while delaying retooling for the 2026 model has left North American production down 30% through September, according to AutoForecast Solutions, and U.S. sales down 29% this year. Toyota’s U.S. and Canadian factories have been running at capacity since April, producing more than 30,000 RAV4s a month on average, the automaker said.
-nut_graf: 'The shortage reaches beyond assembly lines: Toyota said dealers held about four days’ worth of RAV4 inventory, compared with a 51-day U.S. average in September, while some buyers are canceling deposits for vehicles available sooner. Toyota also faces pressure in its bid to overtake General Motors in U.S. sales as hybrid demand broadens and some shoppers choose competing models such as the Honda CR-V Hybrid.'
+lede: Toyota’s decision last fall to keep producing the 2025 RAV4 into the fourth
+  quarter while delaying retooling for the 2026 model has left North American production
+  down 30% through September, according to AutoForecast Solutions, and U.S. sales
+  down 29% this year. Toyota’s U.S. and Canadian factories have been running at capacity
+  since April, producing more than 30,000 RAV4s a month on average, the automaker
+  said.
+nut_graf: 'The shortage reaches beyond assembly lines: Toyota said dealers held about
+  four days’ worth of RAV4 inventory, compared with a 51-day U.S. average in September,
+  while some buyers are canceling deposits for vehicles available sooner. Toyota also
+  faces pressure in its bid to overtake General Motors in U.S. sales as hybrid demand
+  broadens and some shoppers choose competing models such as the Honda CR-V Hybrid.'
 primary_entities:
 - Toyota
 - RAV4
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,110 +149,36 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-13-stellantis-q3-shipments-fall-1-as-north-america-drops-12
-  headline: Stellantis Q3 shipments fall 1% as North America drops 12%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6382
 - slug: 2026-09-29-u-s-car-dealers-face-worst-new-model-drought-in-years
   headline: U.S. car dealers face worst new-model drought in years
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.677
+  strength: 0.6756
 - slug: 2026-09-30-ev-sales-stabilize-at-5-6-one-year-after-congress-ended-the-federal-tax-credit
-  headline: EV sales stabilize at 5-6% one year after Congress ended the federal tax credit
+  headline: EV sales stabilize at 5-6% one year after Congress ended the federal tax
+    credit
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6578
-- slug: 2026-09-30-supplier-shortage-halts-ford-f-150-production-at-michigan-plant
-  headline: Supplier shortage halts Ford F-150 production at Michigan plant
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.644
-- slug: 2026-10-02-volvo-car-pulls-full-year-guidance-as-china-sales-plunge-41
-  headline: Volvo Car pulls full-year guidance as China sales plunge 41%
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6124
-- slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
-  headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6111
-- slug: 2026-10-01-gm-sales-fall-5-5-in-q3-as-u-s-buyers-choose-sedans-small-suvs
-  headline: GM sales fall 5.5% in Q3 as U.S. buyers choose sedans, small SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6054
-- slug: 2026-09-06-hyundai-ford-and-stellantis-plan-us-extended-range-evs
-  headline: Hyundai, Ford and Stellantis plan US extended-range EVs
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6045
-- slug: 2026-08-21-gm-s-century-long-us-sales-lead-over-toyota-shrinks-to-100-000-vehicles
-  headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6208
-- slug: 2026-08-26-li-auto-posts-253-million-quarterly-loss-as-deliveries-drop-11
-  headline: Li Auto posts $253 million quarterly loss as deliveries drop 11%
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5995
+  strength: 0.6557
 - slug: 2026-07-06-toyota-to-invest-3-6-billion-to-move-tacoma-production-to-texas
   headline: Toyota to invest $3.6 billion to move Tacoma production to Texas
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.6739
-- slug: 2026-07-16-honda-ends-production-of-lone-u-s-electric-vehicle
-  headline: Honda ends production of lone U.S. electric vehicle
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.643
+  strength: 0.6759
 - slug: 2026-06-03-hybrid-vehicle-sales-surge-33-in-may-as-high-gas-prices-drive-buyers-away-from-e
-  headline: Hybrid vehicle sales surge 33% in May as high gas prices drive buyers away from EVs
+  headline: Hybrid vehicle sales surge 33% in May as high gas prices drive buyers
+    away from EVs
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6614
+  strength: 0.6585
 - slug: 2026-05-07-toyota-profit-drops-19-as-u-s-tariffs-bite-but-global-sales-rise
   headline: Toyota profit drops 19% as U.S. tariffs bite, but global sales rise
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.6551
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6035
-- slug: 2026-06-26-rivian-ceo-warns-automakers-risk-being-woefully-behind-with-ev-retreat
-  headline: Rivian CEO warns automakers risk being 'woefully behind' with EV retreat
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6175
-- slug: 2026-05-08-toyota-profit-falls-19-as-trump-tariffs-bite-sales-rise-worldwide
-  headline: Toyota profit falls 19% as Trump tariffs bite, sales rise worldwide
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6395
-- slug: 2026-06-26-nissan-americas-chief-aims-to-revive-brand-with-edgy-lineup-u-s-production
-  headline: Nissan Americas chief aims to revive brand with "edgy" lineup, U.S. production
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6019
-- slug: 2026-06-10-honda-recalls-880-514-vehicles-over-rear-suspension-corrosion-risk
-  headline: Honda recalls 880,514 vehicles over rear suspension corrosion risk
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.602
-- slug: 2026-02-05-toyota-names-kenta-kon-ceo-after-43-drop-in-quarterly-profits
-  headline: Toyota names Kenta Kon CEO after 43% drop in quarterly profits
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6335
+  strength: 0.6554
 analyses:
-- '2026-10-21-toyota-s-depleted-rav4-bridge-stock-makes-completed-output-the-main-constraint-o'
+- 2026-10-21-toyota-s-depleted-rav4-bridge-stock-makes-completed-output-the-main-constraint-o
 ---
-
 ## Toyota’s delayed retooling leaves RAV4 in short supply
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
 secondary_headline: Gulf oil flows exceed prewar levels as alternate routes expand
 publish_date: '2026-10-21'
-lede: GM narrowed its full-year financial outlook as record copper prices, elevated steel prices and other commodity, logistics and supply-chain costs weighed on the Detroit automaker during the Iran war. GM projected a $2 billion headwind from commodity inflation, logistics and memory-chip costs, plus another $1 billion to $1.5 billion tied to software, supply-chain investments and U.S. production onshoring. The company said pressures could persist into next year if commodity prices stay elevated, though it still expects a new truck launch to provide a benefit.
-nut_graf: GM is absorbing higher commodity, logistics and technology costs during the Iran war, and farmers face a separate $8 billion U.S. Agriculture Department payment plan as diesel prices rise. Gulf oil shipments have moved above prewar levels, but GM said its cost pressures could persist into next year if commodity prices remain elevated.
+lede: GM narrowed its full-year financial outlook as record copper prices, elevated
+  steel prices and other commodity, logistics and supply-chain costs weighed on the
+  Detroit automaker during the Iran war. GM projected a $2 billion headwind from commodity
+  inflation, logistics and memory-chip costs, plus another $1 billion to $1.5 billion
+  tied to software, supply-chain investments and U.S. production onshoring. The company
+  said pressures could persist into next year if commodity prices stay elevated, though
+  it still expects a new truck launch to provide a benefit.
+nut_graf: GM is absorbing higher commodity, logistics and technology costs during
+  the Iran war, and farmers face a separate $8 billion U.S. Agriculture Department
+  payment plan as diesel prices rise. Gulf oil shipments have moved above prewar levels,
+  but GM said its cost pressures could persist into next year if commodity prices
+  remain elevated.
 primary_entities:
 - GM
 - Detroit
@@ -60,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,16 +169,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-chalmers-downgrades-forecasts-for-slower-growth-and-higher-unemployment
+  headline: Chalmers downgrades forecasts for slower growth and higher unemployment
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7074
+- slug: 2026-10-21-planned-farm-aid-could-sustain-seed-fertilizer-and-equipment-purchases
+  headline: Planned farm aid could sustain seed, fertilizer and equipment purchases
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7026
 - slug: 2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten
-  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
+  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies
+    tighten
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6963
+  strength: 0.6971
 - slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
   headline: Trump pulls fuel-price levers as midterm elections approach
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7158
+  strength: 0.7161
 - slug: 2026-09-28-walmart-costco-stellantis-adjust-motor-oil-as-iran-war-lifts-costs
   headline: Walmart, Costco, Stellantis adjust motor oil as Iran war lifts costs
   publish_date: '2026-09-28'
@@ -177,9 +199,10 @@ related_stories:
   headline: Boeing aerospace union months into first full contract talks in 14 years
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7063
+  strength: 0.7065
 - slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
+  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic
+    hopes
   publish_date: '2026-09-22'
   relation: related
   strength: 0.7283
@@ -187,81 +210,10 @@ related_stories:
   headline: Iran war adds $107 billion to US fuel costs, Brown estimates
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7478
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7027
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.696
-- slug: 2026-08-04-companies-report-higher-costs-and-weaker-demand-amid-iran-conflict
-  headline: Companies report higher costs and weaker demand amid Iran conflict
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7199
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7379
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7333
-- slug: 2026-07-28-big-oil-expected-to-earn-31-billion-in-q2-as-iran-war-boosts-crude-prices
-  headline: Big Oil Expected to Earn $31 Billion in Q2 as Iran War Boosts Crude Prices
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6967
-- slug: 2026-05-02-global-energy-costs-rise-as-iran-war-disrupts-oil-and-lifts-pump-prices
-  headline: Global energy costs rise as Iran war disrupts oil and lifts pump prices
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7316
-- slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
-  headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6976
-- slug: 2026-05-14-producer-prices-jump-as-iran-war-lifts-energy-pressuring-consumer-costs
-  headline: Producer prices jump as Iran war lifts energy, pressuring consumer costs
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7096
-- slug: 2026-04-29-gm-expects-500-million-refund-from-trump-tariffs-struck-down-by-supreme-court
-  headline: GM expects $500 million refund from Trump tariffs struck down by Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7153
-- slug: 2026-05-22-walmart-posts-strong-q1-sales-but-warns-of-weaker-second-quarter-outlook-amid-hi
-  headline: Walmart posts strong Q1 sales but warns of weaker second-quarter outlook amid high gas prices
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6973
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6993
-- slug: 2026-05-01-tax-refunds-and-ai-boom-offset-some-u-s-pain-from-iran-war-high-gas-prices
-  headline: Tax refunds and AI boom offset some U.S. pain from Iran war, high gas prices
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6977
-- slug: 2026-01-09-gm-records-6-billion-in-charges-as-ev-tax-credits-expire-and-emissions-rules-eas
-  headline: GM records $6 billion in charges as EV tax credits expire and emissions rules ease
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.713
+  strength: 0.7482
 analyses:
-- '2026-10-21-gm-projects-2-billion-cost-headwind-as-gulf-routes-bypass-hormuz'
+- 2026-10-21-gm-projects-2-billion-cost-headwind-as-gulf-routes-bypass-hormuz
 ---
-
 ## Record copper and elevated steel costs add pressure to GM's full-year outlook
 
 **Subtype:** fact

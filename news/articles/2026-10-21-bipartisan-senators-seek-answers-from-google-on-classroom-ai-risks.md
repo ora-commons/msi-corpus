@@ -1,9 +1,20 @@
 ---
 headline: Bipartisan senators seek answers from Google on classroom AI risks
-secondary_headline: Google researchers warned of potential cognitive and emotional harm
+secondary_headline: Google researchers warned of potential cognitive and emotional
+  harm
 publish_date: '2026-10-21'
-lede: U.S. Sens. Richard Blumenthal (D., Conn.) and Josh Hawley (R., Mo.) sent a letter to Google CEO Sundar Pichai on Wednesday morning seeking information about what Google knows regarding the effects of its AI products on children's mental health and educational development. The letter cited a September Wall Street Journal investigation into emotional and academic dependence among students using Google's AI tools in American classrooms, and the senators requested a response by Nov. 2.
-nut_graf: The senators' request comes as falling test scores have fueled a growing backlash to school screen time across the political spectrum, according to The Wall Street Journal. The newspaper said parent opposition within that backlash has led some districts, including school districts in New York City and Los Angeles, to impose classroom AI moratoriums. Separately, the Trump Federal Communications Commission pursues an inquiry into screen time on federally funded school networks.
+lede: U.S. Sens. Richard Blumenthal (D., Conn.) and Josh Hawley (R., Mo.) sent a letter
+  to Google CEO Sundar Pichai on Wednesday morning seeking information about what
+  Google knows regarding the effects of its AI products on children's mental health
+  and educational development. The letter cited a September Wall Street Journal investigation
+  into emotional and academic dependence among students using Google's AI tools in
+  American classrooms, and the senators requested a response by Nov. 2.
+nut_graf: The senators' request comes as falling test scores have fueled a growing
+  backlash to school screen time across the political spectrum, according to The Wall
+  Street Journal. The newspaper said parent opposition within that backlash has led
+  some districts, including school districts in New York City and Los Angeles, to
+  impose classroom AI moratoriums. Separately, the Trump Federal Communications Commission
+  pursues an inquiry into screen time on federally funded school networks.
 primary_entities:
 - Richard Blumenthal
 - Josh Hawley
@@ -50,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +160,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-07-common-sense-media-finds-chatgpt-teen-safeguards-an-unacceptable-risk
-  headline: Common Sense Media finds ChatGPT teen safeguards an 'unacceptable risk'
-  publish_date: '2026-10-07'
+- slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
+  headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6542
+  strength: 0.675
+- slug: 2026-10-26-florida-expands-ai-and-social-media-oversight-through-courts-and-legislation
+  headline: Florida expands AI and social-media oversight through courts and legislation
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6647
 - slug: 2026-09-30-ftc-opens-investigation-of-anthropic-and-openai-over-consumer-harm-claims
   headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6555
+  strength: 0.6558
 - slug: 2026-09-14-nyc-council-members-call-for-ban-on-student-youtube-use-in-schools
   headline: NYC Council members call for ban on student YouTube use in schools
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7079
+  strength: 0.7077
 - slug: 2026-09-22-cornell-faculty-report-declares-higher-education-crisis-unprecedented
   headline: Cornell faculty report declares higher education crisis unprecedented
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6589
+  strength: 0.6591
 - slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
+  headline: Bipartisan lawmakers push new AI oversight proposals after researcher
+    warning
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6802
+  strength: 0.6801
 - slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
   headline: Leading AI companies discuss joint standards to limit catastrophic harms
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6573
+  strength: 0.657
 - slug: 2026-09-02-new-york-city-schools-ban-student-facing-ai-through-eighth-grade-for-one-year
-  headline: New York City schools ban student-facing AI through eighth grade for one year
+  headline: New York City schools ban student-facing AI through eighth grade for one
+    year
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6585
-- slug: 2026-07-25-openai-hack-china-competition-fuel-washington-ai-debate
-  headline: OpenAI hack, China competition fuel Washington AI debate
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6776
-- slug: 2026-06-23-stanford-graduates-divided-on-ai-as-ceo-speech-draws-protests
-  headline: Stanford graduates divided on AI as CEO speech draws protests
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6837
-- slug: 2026-06-05-poll-most-teachers-say-ai-s-impact-on-schools-will-eclipse-the-internet
-  headline: 'Poll: Most teachers say AI''s impact on schools will eclipse the internet'
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6841
-- slug: 2026-05-15-pennsylvania-district-rejects-parent-push-to-let-students-opt-out-of-classroom-l
-  headline: Pennsylvania district rejects parent push to let students opt out of classroom laptops
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6882
-- slug: 2026-05-25-csu-renews-chatgpt-edu-deal-with-openai-as-campus-views-split
-  headline: CSU renews ChatGPT Edu deal with OpenAI as campus views split
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6765
-- slug: 2026-06-21-pennsylvania-school-board-vote-ignites-parent-revolt-over-classroom-laptops
-  headline: Pennsylvania school board vote ignites parent revolt over classroom laptops
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6552
-- slug: 2026-06-04-top-ai-ceos-urge-congress-to-require-synthetic-dna-screening
-  headline: Top AI CEOs Urge Congress to Require Synthetic DNA Screening
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6648
-- slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
-  headline: Senate calls tech CEOs to testify on social media risks to children
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.674
-- slug: 2026-04-02-advocacy-groups-push-youtube-to-crack-down-on-ai-slop-for-kids
-  headline: Advocacy groups push YouTube to crack down on “AI slop” for kids
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6897
-- slug: 2026-05-20-ai-pep-talks-at-college-commencements-prompt-boos-from-graduates
-  headline: AI pep talks at college commencements prompt boos from graduates
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6682
-- slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
-  headline: School screen bans risk isolating millions of students with disabilities
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6571
-- slug: 2026-05-16-tech-ceos-to-face-senate-again-on-children-s-safety-on-social-media
-  headline: Tech CEOs to face Senate again on children’s safety on social media
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6587
-- slug: 2026-05-19-graduates-boo-ai-pep-talks-at-college-commencements
-  headline: Graduates boo AI pep talks at college commencements
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6547
+  strength: 0.6577
 ---
-
 ## Bipartisan senators seek answers from Google on classroom AI risks
 
 **Subtype:** fact

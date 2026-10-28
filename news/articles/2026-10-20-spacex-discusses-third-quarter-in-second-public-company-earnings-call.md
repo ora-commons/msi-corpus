@@ -1,9 +1,14 @@
 ---
 headline: SpaceX discusses third quarter in second public-company earnings call
-secondary_headline: Journal bio disclosure details Gillers's coverage areas and award wins
+secondary_headline: Journal bio disclosure details Gillers's coverage areas and award
+  wins
 publish_date: '2026-10-20'
-lede: SpaceX delivered its second earnings report as a public corporation, covering the third quarter, according to The Wall Street Journal. The Journal published a five-takeaway review of the earnings call on October 20, 2026.
-nut_graf: The individual takeaways and supporting figures are absent from the acquired excerpt, so the available record establishes the event and its scope but not SpaceX's quarterly performance.
+lede: SpaceX delivered its second earnings report as a public corporation, covering
+  the third quarter, according to The Wall Street Journal. The Journal published a
+  five-takeaway review of the earnings call on October 20, 2026.
+nut_graf: The individual takeaways and supporting figures are absent from the acquired
+  excerpt, so the available record establishes the event and its scope but not SpaceX's
+  quarterly performance.
 primary_entities:
 - SpaceX
 - The Wall Street Journal
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +141,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-30-demos-29-of-q3-ipos-price-below-range-almost-double-prior-four-quarter-high
-  headline: 'Demos: 29% of Q3 IPOs price below range, almost double prior four-quarter high'
-  publish_date: '2026-09-30'
+- slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
+  headline: SpaceX reports 161% revenue growth driven by Starlink and AI
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6027
-- slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6237
+  strength: 0.6638
 - slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
   headline: SpaceX shares down by half from June peak as earnings call nears
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6568
-- slug: 2026-08-01-wall-street-gears-for-jobs-report-spacex-earnings-mcdonald-s-results
-  headline: Wall Street gears for jobs report, SpaceX earnings, McDonald's results
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6437
-- slug: 2026-08-14-equity-stake-gains-inflate-amazon-and-alphabet-q2-profit-figures
-  headline: Equity-stake gains inflate Amazon and Alphabet Q2 profit figures
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6057
-- slug: 2026-07-23-quarterly-filing-reveals-google-s-94-1-billion-spacex-stake-after-ipo
-  headline: Quarterly filing reveals Google's $94.1 billion SpaceX stake after IPO
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6275
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6285
+  strength: 0.6572
 - slug: 2026-06-08-spacex-deepens-ties-with-pentagon-wins-multibillion-dollar-space-force-contracts
-  headline: SpaceX deepens ties with Pentagon, wins multibillion-dollar Space Force contracts
+  headline: SpaceX deepens ties with Pentagon, wins multibillion-dollar Space Force
+    contracts
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.6541
-- slug: 2026-06-05-s-p-500-declines-fast-track-for-spacex-ipo-dimming-forced-buying-boost
-  headline: S&P 500 declines fast-track for SpaceX IPO, dimming forced-buying boost
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6392
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6451
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6453
-- slug: 2026-06-13-spacex-s-engineering-pipeline-runs-through-a-cornell-car-racing-club
-  headline: SpaceX’s engineering pipeline runs through a Cornell car-racing club
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6252
-- slug: 2026-06-19-spacex-gets-investment-grade-ratings-crypto-fear-grows-analyst-upgrades-flow
-  headline: SpaceX Gets Investment-Grade Ratings, Crypto Fear Grows, Analyst Upgrades Flow
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6165
-- slug: 2026-05-20-spacex-ipo-plans-could-reshape-markets-as-spending-shifts-to-rockets-and-ai
-  headline: SpaceX IPO plans could reshape markets as spending shifts to rockets and AI
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6352
-- slug: 2026-06-09-university-endowments-poised-for-billions-in-spacex-ipo-gains
-  headline: University Endowments Poised for Billions in SpaceX IPO Gains
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.616
-- slug: 2026-05-21-inside-spacex-s-ipo-filing-75b-raise-lockups-and-a-1m-person-mars-goal
-  headline: 'Inside SpaceX’s IPO filing: $75B raise, lockups, and a 1M-person Mars goal'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6271
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6261
-- slug: 2026-06-12-spacex-ipo-and-pending-ai-listings-bind-us-retirement-funds-to-tech-sector-analy
-  headline: SpaceX IPO and pending AI listings bind US retirement funds to tech sector, analysis says
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6086
-- slug: 2026-05-22-spacex-scrubs-starship-launch-thursday-will-try-again-friday
-  headline: SpaceX scrubs Starship launch Thursday, will try again Friday
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6165
-- slug: 2026-06-12-spacex-ipo-tops-176-company-surpasses-2-trillion-market-cap-on-debut
-  headline: SpaceX IPO tops $176, company surpasses $2 trillion market cap on debut
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6016
+  strength: 0.653
 ---
-
 ## SpaceX discusses third quarter in second public-company earnings call
 
 **Subtype:** fact

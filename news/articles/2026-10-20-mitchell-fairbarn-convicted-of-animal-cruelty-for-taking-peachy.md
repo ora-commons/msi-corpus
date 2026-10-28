@@ -1,9 +1,16 @@
 ---
 headline: Mitchell Fairbarn convicted of animal cruelty for taking Peachy
-secondary_headline: Fairbarn remains under house arrest pending a December 1 sentencing hearing
+secondary_headline: Fairbarn remains under house arrest pending a December 1 sentencing
+  hearing
 publish_date: '2026-10-20'
-lede: A Nevada jury on Monday convicted Canadian tourist Mitchell Fairbarn of felony and misdemeanor animal cruelty counts for removing Peachy from the Flamingo Las Vegas Hotel and Casino. Fairbarn remains under house arrest pending a December 1 sentencing hearing.
-nut_graf: The trial centered on evidence of Peachy’s distress and injuries and on Fairbarn’s intent, which his lawyer said was absent because he was intoxicated. Fairbarn was convicted after about five hours of deliberation, but his penalty remains unsettled ahead of the December 1 hearing.
+lede: A Nevada jury on Monday convicted Canadian tourist Mitchell Fairbarn of felony
+  and misdemeanor animal cruelty counts for removing Peachy from the Flamingo Las
+  Vegas Hotel and Casino. Fairbarn remains under house arrest pending a December 1
+  sentencing hearing.
+nut_graf: The trial centered on evidence of Peachy’s distress and injuries and on
+  Fairbarn’s intent, which his lawyer said was absent because he was intoxicated.
+  Fairbarn was convicted after about five hours of deliberation, but his penalty remains
+  unsettled ahead of the December 1 hearing.
 primary_entities:
 - Mitchell Fairbarn
 - Peachy
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,109 +144,8 @@ cross_article_links:
   strength: 0.5401
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-03-three-new-hampshire-men-plead-guilty-to-illegal-bobcat-trafficking
-  headline: Three New Hampshire men plead guilty to illegal bobcat trafficking
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5352
-- slug: 2026-09-17-defrocked-priest-ronald-paquin-dies-in-maine-prison-at-83
-  headline: Defrocked priest Ronald Paquin dies in Maine prison at 83
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5381
-- slug: 2026-09-11-daniel-billings-sentenced-to-28-years-for-murder-of-molly-ticehurst
-  headline: Daniel Billings sentenced to 28 years for murder of Molly Ticehurst
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5343
-- slug: 2026-08-05-two-maryland-men-face-charges-in-exotic-animal-photoshoot-sting
-  headline: Two Maryland men face charges in exotic-animal photoshoot sting
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5552
-- slug: 2026-07-12-grandfather-sustains-serious-injuries-in-yellowstone-bison-attack
-  headline: Grandfather sustains serious injuries in Yellowstone bison attack
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5547
-- slug: 2026-05-26-washington-tourist-pleads-not-guilty-to-harassing-hawaiian-monk-seal
-  headline: Washington tourist pleads not guilty to harassing Hawaiian monk seal
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5744
-- slug: 2026-05-15-tourist-facing-federal-charges-after-video-shows-rock-thrown-at-monk-seal
-  headline: Tourist facing federal charges after video shows rock thrown at monk seal
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5749
-- slug: 2026-05-15-washington-tourist-charged-after-video-shows-rock-thrown-at-endangered-hawaiian-
-  headline: Washington tourist charged after video shows rock thrown at endangered Hawaiian monk seal
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5722
-- slug: 2026-06-18-man-who-robbed-missing-navajo-elder-released-from-prison
-  headline: Man who robbed missing Navajo elder released from prison
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5453
-- slug: 2026-06-16-vulture-droppings-prompt-north-carolina-town-to-sue-couple-over-feeding
-  headline: Vulture droppings prompt North Carolina town to sue couple over feeding
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5435
-- slug: 2026-05-09-suspect-in-navajo-elder-ella-mae-begay-s-disappearance-sentenced-to-5-years
-  headline: Suspect in Navajo elder Ella Mae Begay’s disappearance sentenced to 5 years
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.563
-- slug: 2026-05-15-tourist-arrested-over-rock-thrown-at-endangered-hawaiian-monk-seal
-  headline: Tourist arrested over rock thrown at endangered Hawaiian monk seal
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5547
-- slug: 2026-05-15-federal-agents-arrest-washington-tourist-for-hurling-rock-at-endangered-hawaiian
-  headline: Federal agents arrest Washington tourist for hurling rock at endangered Hawaiian monk seal
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5526
-- slug: 2026-04-10-judge-rejects-plea-deal-for-missing-navajo-elder-ella-mae-begay-case
-  headline: Judge rejects plea deal for missing Navajo elder Ella Mae Begay case
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5639
-- slug: 2026-03-05-wyoming-man-pleads-guilty-to-felony-animal-cruelty-for-snowmobile-wolf-attack
-  headline: Wyoming man pleads guilty to felony animal cruelty for snowmobile wolf attack
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5613
-- slug: 2026-04-16-suspect-pleads-guilty-to-robbery-in-case-of-missing-navajo-grandmother-ella-mae-
-  headline: Suspect pleads guilty to robbery in case of missing Navajo grandmother Ella Mae Begay
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.545
-- slug: 2026-01-29-navajo-woman-s-disappearance-man-pleads-guilty-to-robbery-in-case
-  headline: 'Navajo woman’s disappearance: Man pleads guilty to robbery in case'
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.5552
-- slug: 2026-04-29-dances-with-wolves-actor-nathan-chasing-horse-gets-life-sentence
-  headline: “Dances With Wolves” actor Nathan Chasing Horse gets life sentence
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5353
-- slug: 2026-03-12-dances-with-wolves-actor-nathan-chasing-horse-to-be-sentenced-march-18
-  headline: “Dances With Wolves” actor Nathan Chasing Horse to be sentenced March 18
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.5449
-- slug: 2026-01-13-jury-selection-begins-in-las-vegas-trial-of-dances-with-wolves-actor-on-sex-abus
-  headline: Jury selection begins in Las Vegas trial of 'Dances with Wolves' actor on sex abuse charges
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.5479
+related_stories: []
 ---
-
 ## Mitchell Fairbarn convicted of animal cruelty for taking Peachy
 
 **Subtype:** fact

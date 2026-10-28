@@ -2,8 +2,15 @@
 headline: Amazon bans Meta Platforms’ Muse agent as analysts question access
 secondary_headline: Amazon faces a sponsored-product tradeoff with shopping agents
 publish_date: '2026-10-20'
-lede: The Wall Street Journal reported Oct. 20, 2026, that Amazon had banned Meta Platforms’ Muse AI agent. Deutsche Bank analysts said allowing third-party agents could reduce Amazon’s exposure to sponsored products, while restricting access could favor competitors that permit them. The analysts expect Amazon to develop its own AI shopper as it determines how to treat outside agents.
-nut_graf: The decision raises a commercial question about how Amazon can accommodate third-party agents while preserving monetization. The broader roundup reported Netflix margin and regional figures, Spotify’s audiobook expansion, Quantinuum’s quantum-computing result and SpaceX’s data-center spending, while Citi assessed European media stocks.
+lede: The Wall Street Journal reported Oct. 20, 2026, that Amazon had banned Meta
+  Platforms’ Muse AI agent. Deutsche Bank analysts said allowing third-party agents
+  could reduce Amazon’s exposure to sponsored products, while restricting access could
+  favor competitors that permit them. The analysts expect Amazon to develop its own
+  AI shopper as it determines how to treat outside agents.
+nut_graf: The decision raises a commercial question about how Amazon can accommodate
+  third-party agents while preserving monetization. The broader roundup reported Netflix
+  margin and regional figures, Spotify’s audiobook expansion, Quantinuum’s quantum-computing
+  result and SpaceX’s data-center spending, while Citi assessed European media stocks.
 primary_entities:
 - Amazon
 - Meta Platforms
@@ -50,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,110 +156,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-meta-plans-ai-capital-raise-as-future-spending-commitments-rise-to-roughly-825-b
+  headline: Meta plans AI capital raise as future spending commitments rise to roughly
+    $825 billion
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6715
 - slug: 2026-09-22-amazon-blocks-meta-s-muse-ai-agent-from-its-shopping-platform
   headline: Amazon blocks Meta's Muse AI agent from its shopping platform
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7961
+  strength: 0.7955
 - slug: 2026-09-23-meta-s-muse-tops-app-store-as-amazon-blocks-it-from-purchases
   headline: Meta's Muse tops App Store as Amazon blocks it from purchases
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7831
+  strength: 0.7827
 - slug: 2026-10-15-youtube-in-talks-with-publishers-for-audiobook-feature
   headline: YouTube in Talks with Publishers for Audiobook Feature
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6573
+  strength: 0.6578
 - slug: 2026-10-16-amazon-drops-data-center-ndas-as-google-courts-local-residents
   headline: Amazon drops data-center NDAs as Google courts local residents
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.65
+  strength: 0.6511
 - slug: 2026-09-27-meta-expands-muse-agent-access-as-amazon-blocks-purchases
   headline: Meta expands Muse agent access as Amazon blocks purchases
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7425
+  strength: 0.7421
 - slug: 2026-10-04-wsj-columnist-tests-consumer-ai-agents-finds-1-offer-on-land-listings
   headline: WSJ columnist tests consumer AI agents, finds $1 offer on land listings
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6956
+  strength: 0.6958
 - slug: 2026-09-22-meta-s-muse-tops-app-store-lands-shopify-purchase-deal
   headline: Meta's Muse tops App Store, lands Shopify purchase deal
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7435
-- slug: 2026-09-22-samsung-to-allocate-40-of-dram-output-to-ai-memory-by-2027
-  headline: Samsung to allocate 40% of DRAM output to AI memory by 2027
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7051
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6968
-- slug: 2026-09-21-meta-surges-12-as-muse-hits-no-1-on-app-store-truist-sees-28-5b-by-2030
-  headline: Meta surges 12% as Muse hits No. 1 on App Store; Truist sees $28.5B by 2030
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6683
-- slug: 2026-09-18-sec-exempts-trading-venues-from-rules-blocking-tokenized-stocks
-  headline: SEC exempts trading venues from rules blocking tokenized stocks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6553
-- slug: 2026-09-17-mastercard-plans-to-roll-out-agentic-payment-option-with-alchemy
-  headline: Mastercard plans to roll out agentic payment option with Alchemy
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6475
-- slug: 2026-09-10-apple-launches-1-999-foldable-iphone-duo-meta-debuts-muse-ai-agent
-  headline: Apple launches $1,999 foldable iPhone Duo; Meta debuts Muse AI agent
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6738
-- slug: 2026-09-08-meta-launches-muse-personal-ai-agent-for-us-adults-18-and-older
-  headline: Meta launches Muse personal AI agent for US adults 18 and older
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6616
-- slug: 2026-08-01-cloud-revenue-surge-gives-wall-street-answer-on-ai-returns
-  headline: Cloud revenue surge gives Wall Street answer on AI returns
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.681
-- slug: 2026-07-22-publishers-consider-blocking-google-as-ai-search-erodes-traffic
-  headline: Publishers consider blocking Google as AI search erodes traffic
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6519
-- slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
-  headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6705
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6473
-- slug: 2026-04-29-amazon-expands-partnership-with-openai-to-develop-ai-agent-platform
-  headline: Amazon expands partnership with OpenAI to develop AI agent platform
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6874
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6759
+  strength: 0.7433
 analyses:
-- '2026-10-20-amazon-turns-third-party-agent-access-into-a-monetization-and-control-test'
+- 2026-10-20-amazon-turns-third-party-agent-access-into-a-monetization-and-control-test
 ---
-
 ## Amazon bans Meta Platforms’ Muse agent as analysts question access
 
 **Subtype:** fact

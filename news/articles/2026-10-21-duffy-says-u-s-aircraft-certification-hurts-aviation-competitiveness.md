@@ -2,8 +2,21 @@
 headline: Duffy says U.S. aircraft certification hurts aviation competitiveness
 secondary_headline: Boeing says MAX 10 is first certified to 2020 act's full extent
 publish_date: '2026-10-21'
-lede: Transportation Secretary Sean Duffy criticized the U.S. aircraft-certification system as hurting America's global competitiveness after the Federal Aviation Administration cleared Boeing's 737 MAX 10. Duffy told CNBC that certifying an aircraft in Europe takes Boeing about half the U.S. time and warned that China was playing to take over aviation. Boeing separately said the MAX 10 was the first aircraft certified to the full extent of the 2020 Aircraft Certification, Safety, and Accountability Act.
-nut_graf: Duffy said safety was of the utmost importance as he argued that the U.S. certification process takes longer than the process in Europe and is hurting America's global competitiveness. Boeing separately said the 737 MAX 10 was the first aircraft certified to the full extent of the 2020 law, which mandates enhanced documentation of safety assessments and human-factors evaluations. American Airlines, United Airlines, Delta Air Lines and Alaska Airlines are among the customers for the aircraft, which can carry 230 passengers, 12 more than the previous version. The FAA clearance followed a six-year delay from the model's scheduled entry into service.
+lede: Transportation Secretary Sean Duffy criticized the U.S. aircraft-certification
+  system as hurting America's global competitiveness after the Federal Aviation Administration
+  cleared Boeing's 737 MAX 10. Duffy told CNBC that certifying an aircraft in Europe
+  takes Boeing about half the U.S. time and warned that China was playing to take
+  over aviation. Boeing separately said the MAX 10 was the first aircraft certified
+  to the full extent of the 2020 Aircraft Certification, Safety, and Accountability
+  Act.
+nut_graf: Duffy said safety was of the utmost importance as he argued that the U.S.
+  certification process takes longer than the process in Europe and is hurting America's
+  global competitiveness. Boeing separately said the 737 MAX 10 was the first aircraft
+  certified to the full extent of the 2020 law, which mandates enhanced documentation
+  of safety assessments and human-factors evaluations. American Airlines, United Airlines,
+  Delta Air Lines and Alaska Airlines are among the customers for the aircraft, which
+  can carry 230 passengers, 12 more than the previous version. The FAA clearance followed
+  a six-year delay from the model's scheduled entry into service.
 primary_entities:
 - Sean Duffy
 - Boeing
@@ -54,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,106 +170,46 @@ related_stories:
   headline: FAA clears Boeing 737 MAX 10 for customer deliveries
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7638
+  strength: 0.7633
 - slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
+  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software
+    glitch
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7651
+  strength: 0.7652
 - slug: 2026-10-02-faa-review-board-rules-boeing-737-max-software-glitch-not-a-safety-issue
   headline: FAA review board rules Boeing 737 MAX software glitch not a safety issue
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7151
+  strength: 0.7152
 - slug: 2026-09-26-faa-probes-boeing-737-max-software-glitch-in-landing-scenarios
   headline: FAA probes Boeing 737 MAX software glitch in landing scenarios
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7416
+  strength: 0.7422
 - slug: 2026-09-28-software-glitch-delays-approval-of-boeing-s-newest-737-max
   headline: Software glitch delays approval of Boeing's newest 737 MAX
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7034
+  strength: 0.7032
 - slug: 2026-09-21-faa-launches-875m-ai-system-to-manage-u-s-airspace
   headline: FAA launches $875M AI system to manage U.S. airspace
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6625
-- slug: 2026-09-28-trump-administration-finalizes-rule-easing-fuel-economy-standards
-  headline: Trump administration finalizes rule easing fuel economy standards
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6252
-- slug: 2026-09-10-duffy-publicly-criticizes-ford-s-business-with-chinese-automotive-firms
-  headline: Duffy publicly criticizes Ford's business with Chinese automotive firms
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.632
+  strength: 0.6639
 - slug: 2026-08-03-boeing-737-max-7-certified-by-faa-after-nearly-decade-long-wait
   headline: Boeing 737 Max 7 certified by FAA after nearly decade-long wait
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.7295
-- slug: 2026-09-08-transportation-secretary-criticizes-ford-over-chinese-tech-reliance
-  headline: Transportation secretary criticizes Ford over Chinese tech reliance
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6274
+  strength: 0.7292
 - slug: 2026-08-07-faa-orders-inspections-of-471-boeing-737-max-jets-for-possible-cracks
   headline: FAA orders inspections of 471 Boeing 737 Max jets for possible cracks
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7121
-- slug: 2026-07-09-faa-set-to-certify-boeing-737-max-7-later-this-month
-  headline: FAA set to certify Boeing 737 MAX 7 later this month
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7294
-- slug: 2026-07-17-faa-restores-boeing-s-authority-to-certify-737-max-787-as-airworthy
-  headline: FAA restores Boeing's authority to certify 737 Max, 787 as airworthy
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.713
-- slug: 2026-07-19-boeing-ceo-says-company-must-shore-up-finances-before-launching-new-plane
-  headline: Boeing CEO says company must shore up finances before launching new plane
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.7037
-- slug: 2026-08-02-qatar-donated-air-force-one-lacks-nuclear-hardening-aerial-refueling
-  headline: Qatar-donated Air Force One lacks nuclear hardening, aerial refueling
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6356
-- slug: 2026-07-28-boeing-posts-428m-loss-on-air-force-one-cost-overruns
-  headline: Boeing posts $428M loss on Air Force One cost overruns
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6392
-- slug: 2026-05-17-boeing-says-china-agreed-to-buy-200-aircraft-after-trump-xi-summit
-  headline: Boeing says China agreed to buy 200 aircraft after Trump-Xi summit
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6489
-- slug: 2026-05-20-relaxed-inspections-may-have-contributed-to-engine-coming-off-ups-md-11
-  headline: Relaxed inspections may have contributed to engine coming off UPS MD-11
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6437
-- slug: 2026-05-21-relaxed-inspections-may-have-contributed-to-engine-falling-off-ups-plane
-  headline: Relaxed inspections may have contributed to engine falling off UPS plane
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-17-boeing-lands-200-plane-order-from-china-at-trump-xi-summit
-  headline: Boeing lands 200-plane order from China at Trump-Xi summit
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.64
+  strength: 0.7125
 analyses:
-- '2026-10-21-faa-certification-speed-shapes-boeing-deliveries-and-u-s-aviation-competitivenes'
+- 2026-10-21-faa-certification-speed-shapes-boeing-deliveries-and-u-s-aviation-competitivenes
 ---
-
 ## Duffy says U.S. aircraft certification hurts aviation competitiveness
 
 **Subtype:** fact

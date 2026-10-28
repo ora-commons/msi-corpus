@@ -2,8 +2,16 @@
 headline: Anti-Defamation League condemns ‘shylock’ use without naming Trump
 secondary_headline: Trump used the same term at an Iowa rally in 2025
 publish_date: '2026-10-20'
-lede: The Anti-Defamation League condemned Donald Trump’s use of the word “shylock” on Tuesday without naming him or explaining that he had used the term at a Kansas rally the previous night. Its brief social media post said the term is rooted in a longstanding antisemitic stereotype, prompting criticism that the organization had gone easy on the president. Trump had used the same word at an Iowa rally in 2025, when the ADL called the usage “very troubling and irresponsible.”
-nut_graf: The ADL said the term can reinforce harmful tropes about Jews and normalize language used to target the Jewish community. The organization’s decision not to identify Trump prompted critics to argue that its response differed because of his support for Israel.
+lede: The Anti-Defamation League condemned Donald Trump’s use of the word “shylock”
+  on Tuesday without naming him or explaining that he had used the term at a Kansas
+  rally the previous night. Its brief social media post said the term is rooted in
+  a longstanding antisemitic stereotype, prompting criticism that the organization
+  had gone easy on the president. Trump had used the same word at an Iowa rally in
+  2025, when the ADL called the usage “very troubling and irresponsible.”
+nut_graf: The ADL said the term can reinforce harmful tropes about Jews and normalize
+  language used to target the Jewish community. The organization’s decision not to
+  identify Trump prompted critics to argue that its response differed because of his
+  support for Israel.
 primary_entities:
 - Donald Trump
 - Anti-Defamation League
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +147,8 @@ cross_article_links:
   strength: 0.581
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5919
-- slug: 2026-10-19-records-identify-el-sayed-heckler-as-former-hawley-office-director
-  headline: Records identify El-Sayed heckler as former Hawley office director
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5634
-- slug: 2026-10-08-trump-shifts-self-promotional-ad-funding-to-super-pac
-  headline: Trump shifts self-promotional ad funding to super PAC
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5641
-- slug: 2026-09-02-orlando-officials-condemn-antisemitic-slurs-at-kia-center-mma-event
-  headline: Orlando officials condemn antisemitic slurs at Kia Center MMA event
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6043
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.576
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5646
-- slug: 2026-05-05-adl-us-antisemitic-incidents-drop-in-2025-driven-by-campus-fall
-  headline: 'ADL: US antisemitic incidents drop in 2025, driven by campus fall'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6263
-- slug: 2026-05-07-adl-us-antisemitic-incidents-drop-in-2025-driven-by-fall-on-campuses
-  headline: 'ADL: US antisemitic incidents drop in 2025, driven by fall on campuses'
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.62
-- slug: 2026-07-09-most-jewish-adults-say-neither-party-supports-their-community-ap-norc-poll-finds
-  headline: Most Jewish adults say neither party supports their community, AP-NORC poll finds
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5682
-- slug: 2026-05-06-adl-us-antisemitic-incidents-drop-in-2025-driven-by-big-fall-on-campuses
-  headline: 'ADL: US antisemitic incidents drop in 2025, driven by big fall on campuses'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6126
-- slug: 2026-03-05-christ-is-king-becomes-a-charged-phrase-in-us-political-debates
-  headline: '''Christ is king'' becomes a charged phrase in US political debates'
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6122
-- slug: 2026-05-27-southern-poverty-law-center-seeks-dismissal-of-doj-indictment-as-vindictive-pros
-  headline: Southern Poverty Law Center seeks dismissal of DOJ indictment as vindictive prosecution
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5738
-- slug: 2026-05-10-alabama-attorney-general-announces-civil-probe-of-southern-poverty-law-center
-  headline: Alabama attorney general announces civil probe of Southern Poverty Law Center
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5783
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5698
-- slug: 2026-05-12-open-society-foundations-commits-30m-to-counter-antisemitism-and-anti-muslim-hat
-  headline: Open Society Foundations commits $30M to counter antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.57
-- slug: 2026-05-15-trump-administration-joins-prayer-gathering-denounced-as-christian-nationalism
-  headline: Trump administration joins prayer gathering denounced as Christian nationalism
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.563
-- slug: 2026-02-26-aipac-tests-power-in-illinois-primary-amid-democrats-israel-debate
-  headline: AIPAC tests power in Illinois primary amid Democrats’ Israel debate
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5828
-- slug: 2026-04-22-trump-to-read-from-2-chronicles-during-marathon-bible-event-for-america-250
-  headline: Trump to read from 2 Chronicles during marathon Bible event for America 250
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.565
-- slug: 2026-02-23-as-antisemitism-rises-josh-shapiro-leans-on-jewish-faith
-  headline: As antisemitism rises, Josh Shapiro leans on Jewish faith
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.576
-- slug: 2026-03-19-pritzker-condemns-aipac-after-pro-israel-group-spent-heavily-in-illinois
-  headline: Pritzker condemns AIPAC after pro-Israel group spent heavily in Illinois
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.5685
+related_stories: []
 ---
-
 ## Anti-Defamation League condemns ‘shylock’ use without naming Trump
 
 **Subtype:** fact

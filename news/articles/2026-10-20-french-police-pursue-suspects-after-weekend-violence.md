@@ -158,117 +158,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-french-authorities-prepare-about-70-000-police-for-saturday-demonstrations
+  headline: French authorities prepare about 70,000 police for Saturday demonstrations
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7986
+- slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
+  headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+    protests
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7655
+- slug: 2026-10-22-macron-convenes-security-talks-as-lecornu-meets-party-leaders
+  headline: Macron convenes security talks as Lecornu meets party leaders
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6878
+- slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
+  headline: Macron says some leaders used French unrest for political campaigns
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6811
+- slug: 2026-10-25-marine-le-pen-opens-campaign-with-unity-pledge-amid-french-unrest
+  headline: Marine Le Pen opens campaign with unity pledge amid French unrest
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6576
 - slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
   headline: French police fire tear gas as 256,000 rally nationwide for school funding
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7306
+  strength: 0.7303
 - slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
   headline: Youth-led protests over French schools draw hundreds of thousands
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6993
-- slug: 2026-10-20-meichtry-says-le-pen-is-positioned-to-emerge-stronger-pitching-order
-  headline: Meichtry says Le Pen is positioned to emerge stronger, pitching order
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6177
+  strength: 0.6989
 - slug: 2026-07-28-macron-warns-france-faces-worst-wildfire-crisis-since-world-war-ii
   headline: Macron warns France faces worst wildfire crisis since World War II
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6521
-- slug: 2026-07-31-american-family-trapped-in-french-wildfire-zone-for-four-days
-  headline: American family trapped in French wildfire zone for four days
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5938
-- slug: 2026-03-29-french-police-foil-suspected-bomb-plot-outside-bank-of-america-in-paris
-  headline: French police foil suspected bomb plot outside Bank of America in Paris
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6344
-- slug: 2026-05-13-cite-soleil-residents-demand-protection-after-haiti-gang-violence-displaces-hund
-  headline: Cite Soleil residents demand protection after Haiti gang violence displaces
-    hundreds
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.617
-- slug: 2026-04-26-teen-charged-in-baton-rouge-mall-shooting-officials-seek-second-suspect
-  headline: Teen charged in Baton Rouge mall shooting; officials seek second suspect
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6206
-- slug: 2026-06-07-bbc-investigation-reveals-uk-high-street-shops-as-fronts-for-organized-crime
-  headline: BBC investigation reveals UK High Street shops as fronts for organized
-    crime
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5931
-- slug: 2026-05-16-police-deploy-across-london-to-manage-protests-and-fa-cup-final
-  headline: Police deploy across London to manage protests and FA Cup final
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6067
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody,
-    mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6
-- slug: 2026-03-14-political-parties-tested-as-french-voters-elect-municipal-leaders
-  headline: Political parties tested as French voters elect municipal leaders
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6208
-- slug: 2026-05-10-gang-violence-forces-hundreds-to-flee-shutters-hospital-in-haiti-s-capital
-  headline: Gang violence forces hundreds to flee, shutters hospital in Haiti’s capital
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6025
-- slug: 2026-05-16-thousands-rally-in-london-under-heavy-police-presence-as-rival-protests-and-fa-c
-  headline: Thousands rally in London under heavy police presence as rival protests
-    and FA Cup final coincide
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5966
-- slug: 2026-05-13-cite-soleil-residents-demand-protection-after-gang-attacks-displace-hundreds-in-
-  headline: Cite Soleil residents demand protection after gang attacks displace hundreds
-    in Haiti's capital
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5924
-- slug: 2026-04-24-1-dead-5-wounded-in-shooting-at-mall-of-louisiana-in-baton-rouge
-  headline: 1 dead, 5 wounded in shooting at Mall of Louisiana in Baton Rouge
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5985
-- slug: 2026-04-24-un-says-haiti-s-new-anti-gang-force-has-funding-pledges-ahead-of-deploy-plan
-  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy
-    plan
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.592
-- slug: 2026-02-14-knife-wielding-man-fatally-shot-by-police-at-arc-de-triomphe-in-paris
-  headline: Knife-wielding man fatally shot by police at Arc de Triomphe in Paris
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6065
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two
-    years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.5917
-- slug: 2026-02-13-iran-wide-ranging-arrests-roil-families-after-crushed-anti-theocracy-protests
-  headline: Iran wide-ranging arrests roil families after crushed anti-theocracy protests
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5991
+  strength: 0.6519
 analyses:
 - 2026-10-20-french-authorities-expand-detention-and-fast-track-courts-as-response-gaps-surfa
 ---
-
 ## French police pursue suspects after weekend violence
 
 **Subtype:** fact

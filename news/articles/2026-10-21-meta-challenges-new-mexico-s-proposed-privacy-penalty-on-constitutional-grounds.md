@@ -1,9 +1,22 @@
 ---
-headline: Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
-secondary_headline: State's lawyer linked lower request to excessive fines and due process on appeal
+headline: Meta challenges New Mexico's proposed privacy penalty on constitutional
+  grounds
+secondary_headline: State's lawyer linked lower request to excessive fines and due
+  process on appeal
 publish_date: '2026-10-21'
-lede: Meta's lawyer Matt Nicholson told Judge Francis Mathew that New Mexico's proposed $35 billion to $40 billion privacy penalty was “blatantly unconstitutional” and “wildly out of proportion,” arguing that the penalty should be closer to $345 million to $3.5 billion. New Mexico's lawyer Randi McGinn said the lower proposal would help prevent constitutional concerns about excessive fines and due process on appeal. Mathew's Oct. 21 order later set the penalty at $25 billion after a jury found about 44 million violations tied to Meta's public statements.
-nut_graf: New Mexico's competing proposals came after it opted out of a broader multistate settlement with Meta and continued to pursue this case. The jury's finding of about 44 million violations carried a statutory maximum above $200 billion, though Mathew said courts could set amounts they deemed fair and appropriate. Meta shares rose 1.35% on the day of the order, and New Mexico called the $25 billion award one of the largest verdicts in U.S. history.
+lede: Meta's lawyer Matt Nicholson told Judge Francis Mathew that New Mexico's proposed
+  $35 billion to $40 billion privacy penalty was “blatantly unconstitutional” and
+  “wildly out of proportion,” arguing that the penalty should be closer to $345 million
+  to $3.5 billion. New Mexico's lawyer Randi McGinn said the lower proposal would
+  help prevent constitutional concerns about excessive fines and due process on appeal.
+  Mathew's Oct. 21 order later set the penalty at $25 billion after a jury found about
+  44 million violations tied to Meta's public statements.
+nut_graf: New Mexico's competing proposals came after it opted out of a broader multistate
+  settlement with Meta and continued to pursue this case. The jury's finding of about
+  44 million violations carried a statutory maximum above $200 billion, though Mathew
+  said courts could set amounts they deemed fair and appropriate. Meta shares rose
+  1.35% on the day of the order, and New Mexico called the $25 billion award one of
+  the largest verdicts in U.S. history.
 primary_entities:
 - Meta Platforms
 - New Mexico
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +154,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-new-mexico-s-meta-case-targeted-statements-that-facebook-data-was-never-shared
-  headline: New Mexico's Meta case targeted statements that Facebook data was never shared
+  headline: New Mexico's Meta case targeted statements that Facebook data was never
+    shared
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8362
+  strength: 0.8355
 - slug: 2026-10-21-judge-francis-mathew-orders-meta-to-pay-new-mexico-25bn
   headline: Judge Francis Mathew orders Meta to pay New Mexico $25bn
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8149
+  strength: 0.8133
+- slug: 2026-10-21-judge-finds-communications-among-meta-s-senior-executives-designed-to-mislead-pu
+  headline: Judge finds communications among Meta's senior executives designed to
+    mislead public
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7783
+- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
+  headline: Meta reports 37% profit drop and 15% headcount cut
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7616
+- slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
+  headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7403
 - slug: 2026-08-07-new-mexico-judge-orders-meta-to-pay-942-million-over-harms-to-kids
   headline: New Mexico judge orders Meta to pay $942 million over harms to kids
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7866
+  strength: 0.7854
 - slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
+  headline: Meta agrees to $16.7 billion settlement with US states over youth mental
+    health
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.7138
+  strength: 0.7131
 - slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
   headline: Meta faces lawsuits over teen safety as it pushes into AI
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7544
-- slug: 2026-08-28-meta-announces-18bn-settlement-with-new-teen-limits-on-instagram-facebook
-  headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6772
-- slug: 2026-08-20-meta-opens-defense-in-california-youth-mental-health-trial
-  headline: Meta opens defense in California youth mental health trial
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6989
-- slug: 2026-08-17-meta-faces-federal-trial-in-oakland-over-youth-mental-health
-  headline: Meta faces federal trial in Oakland over youth mental health
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6829
-- slug: 2026-08-06-judge-biedcheid-orders-meta-to-pay-567-million-for-youth-services
-  headline: Judge Biedcheid orders Meta to pay $567 million for youth services
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.696
-- slug: 2026-05-03-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7729
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7829
-- slug: 2026-03-25-new-mexico-jury-finds-meta-liable-for-harming-children-s-mental-health
-  headline: New Mexico jury finds Meta liable for harming children’s mental health
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7805
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7133
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7739
-- slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
-  headline: Meta says it could shut down social media platforms in New Mexico
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.761
-- slug: 2026-03-21-jurors-in-new-mexico-weigh-meta-s-role-in-child-harms-from-social-media
-  headline: Jurors in New Mexico weigh Meta’s role in child harms from social media
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7653
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7636
-- slug: 2026-05-04-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7516
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7553
-- slug: 2026-03-24-new-mexico-jury-finds-meta-knowingly-harmed-children-to-face-may-phase
-  headline: New Mexico jury finds Meta knowingly harmed children, to face May phase
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7414
+  strength: 0.7531
 ---
-
 ## Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
 
 **Subtype:** fact

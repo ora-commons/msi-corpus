@@ -2,8 +2,17 @@
 headline: UK Supreme Court hears challenge to police immunity in domestic abuse case
 secondary_headline: Phillips, Davis and Mitchell table a bill amendment
 publish_date: '2026-10-21'
-lede: The UK Supreme Court is scheduled to hear arguments Wednesday and Thursday on whether a domestic abuse survivor can sue Sussex police and the Crown Prosecution Service over the disclosure of her address during proceedings involving a violent former partner. Labour MP Jess Phillips is urging the court to overturn the Court of Appeal ruling, while Phillips, David Davis and Andrew Mitchell have tabled a bill amendment as a legislative alternative.
-nut_graf: The dispute centers on whether broad protections for witnesses and lawyers can leave police and prosecutors outside civil accountability for failures connected to a domestic abuse investigation. Phillips and XGY are pressing the Supreme Court to reverse the appellate ruling, while lawmakers have tabled an amendment if it stands.
+lede: The UK Supreme Court is scheduled to hear arguments Wednesday and Thursday on
+  whether a domestic abuse survivor can sue Sussex police and the Crown Prosecution
+  Service over the disclosure of her address during proceedings involving a violent
+  former partner. Labour MP Jess Phillips is urging the court to overturn the Court
+  of Appeal ruling, while Phillips, David Davis and Andrew Mitchell have tabled a
+  bill amendment as a legislative alternative.
+nut_graf: The dispute centers on whether broad protections for witnesses and lawyers
+  can leave police and prosecutors outside civil accountability for failures connected
+  to a domestic abuse investigation. Phillips and XGY are pressing the Supreme Court
+  to reverse the appellate ruling, while lawmakers have tabled an amendment if it
+  stands.
 primary_entities:
 - Jess Phillips
 - XGY
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,120 +152,23 @@ cross_article_links:
   strength: 0.5782
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-13-paul-clement-set-for-129th-supreme-court-argument
-  headline: Paul Clement set for 129th Supreme Court argument
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5836
-- slug: 2026-10-08-lawyers-for-cornell-defendant-seek-ag-james-s-removal-as-special-prosecutor
-  headline: Lawyers for Cornell defendant seek AG James's removal as special prosecutor
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5714
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5804
-- slug: 2026-09-30-uk-grooming-gangs-inquiry-expands-to-cover-wales-and-birmingham
-  headline: UK grooming gangs inquiry expands to cover Wales and Birmingham
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6053
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5895
-- slug: 2026-09-22-uk-to-examine-domestic-abuse-in-hague-child-abduction-cases
-  headline: UK to examine domestic abuse in Hague child-abduction cases
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6309
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.584
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5757
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5729
-- slug: 2026-09-11-us-lawmakers-press-british-tribunal-to-open-apple-encryption-case
-  headline: US lawmakers press British tribunal to open Apple encryption case
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6029
-- slug: 2026-09-11-nsw-police-settle-trespass-case-after-150-bail-checks-at-aboriginal-mother-s-hom
-  headline: NSW police settle trespass case after 150 bail checks at Aboriginal mother's home
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5738
-- slug: 2026-09-08-reddington-plans-motion-to-reconsider-clancy-mistrial-later-this-month
-  headline: Reddington plans motion to reconsider Clancy mistrial later this month
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.574
-- slug: 2026-08-27-scottish-information-commissioner-seeks-supreme-court-review-of-sturgeon-foi-rul
-  headline: Scottish information commissioner seeks Supreme Court review of Sturgeon FOI ruling
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.596
-- slug: 2026-08-14-appeals-court-clears-way-for-doj-subpoena-of-transgender-care-provider
-  headline: Appeals court clears way for DOJ subpoena of transgender care provider
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5734
-- slug: 2026-06-03-epstein-survivors-say-uk-government-ignored-their-pleas
-  headline: Epstein survivors say UK government ignored their pleas
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.623
-- slug: 2026-06-24-wa-police-to-review-response-to-virginia-giuffre-domestic-violence-dispute
-  headline: WA police to review response to Virginia Giuffre domestic violence dispute
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5942
-- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5826
-- slug: 2026-06-19-law-students-petition-supreme-court-to-extend-workplace-protections-to-federal-c
-  headline: Law students petition Supreme Court to extend workplace protections to federal court employees
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5856
-- slug: 2026-04-26-south-dakota-supreme-court-rules-officer-names-can-be-kept-secret
-  headline: South Dakota Supreme Court rules officer names can be kept secret
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5845
-- slug: 2026-02-03-court-overturns-former-ucla-gynecologist-s-sex-abuse-conviction-and-orders-retri
-  headline: Court overturns former UCLA gynecologist’s sex abuse conviction and orders retrial
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.5976
+related_stories: []
 image:
   url: /articles/2026-10-21-uk-supreme-court-hears-challenge-to-police-immunity-in-domestic-abuse-case.png
-  alt: "Illustration accompanying article: UK Supreme Court hears challenge to police immunity in domestic abuse case"
+  alt: 'Illustration accompanying article: UK Supreme Court hears challenge to police
+    immunity in domestic abuse case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-21-uk-supreme-court-weighs-whether-core-immunity-bars-civil-claim-by-domestic-abuse'
+- 2026-10-21-uk-supreme-court-weighs-whether-core-immunity-bars-civil-claim-by-domestic-abuse
 ---
-
 ## UK Supreme Court hears challenge to police immunity in domestic abuse case
 
 **Subtype:** fact

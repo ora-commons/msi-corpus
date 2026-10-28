@@ -1,9 +1,16 @@
 ---
 headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-secondary_headline: Witkoff calls meetings constructive; Peskov says talks would take a long time
+secondary_headline: Witkoff calls meetings constructive; Peskov says talks would take
+  a long time
 publish_date: '2026-10-21'
-lede: Russian President Vladimir Putin said Wednesday that Russian officials would be ready after Nov. 10 to resume trilateral peace talks with the United States and Ukraine. His announcement followed several hours of talks between Putin and U.S. special envoy Steve Witkoff on Wednesday.
-nut_graf: Witkoff said talks would continue at the technical level. State media reported that officials told Witkoff a Russia-U.S.-China format was possible. CNN reported no sign that Russia had budged on any of its demands on Ukraine. Zelensky said any talks about Ukraine's future must include Ukraine at the table.
+lede: Russian President Vladimir Putin said Wednesday that Russian officials would
+  be ready after Nov. 10 to resume trilateral peace talks with the United States and
+  Ukraine. His announcement followed several hours of talks between Putin and U.S.
+  special envoy Steve Witkoff on Wednesday.
+nut_graf: Witkoff said talks would continue at the technical level. State media reported
+  that officials told Witkoff a Russia-U.S.-China format was possible. CNN reported
+  no sign that Russia had budged on any of its demands on Ukraine. Zelensky said any
+  talks about Ukraine's future must include Ukraine at the table.
 primary_entities:
 - Vladimir Putin
 - Steve Witkoff
@@ -61,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,113 +171,56 @@ related_stories:
   headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7257
+  strength: 0.7271
 - slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
   headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7456
+  strength: 0.7452
 - slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
   headline: Trump open to joining Putin and Xi for denuclearization summit
   publish_date: '2026-10-19'
   relation: related
   strength: 0.7328
+- slug: 2026-10-22-u-k-officials-dispute-witkoff-s-portrayal-of-putin
+  headline: U.K. officials dispute Witkoff's portrayal of Putin
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7172
+- slug: 2026-10-21-witkoff-praises-putin-after-hubbard-s-release
+  headline: Witkoff praises Putin after Hubbard’s release
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7052
+- slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
+  headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7015
 - slug: 2026-09-23-zelensky-tells-un-general-assembly-russia-s-war-could-spread
   headline: Zelensky tells UN General Assembly Russia's war could spread
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6966
+  strength: 0.6968
 - slug: 2026-09-08-russia-strikes-kyiv-after-u-s-peace-envoys-leave-killing-at-least-2
   headline: Russia strikes Kyiv after U.S. peace envoys leave, killing at least 2
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7402
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7367
-- slug: 2026-08-26-cia-director-ratcliffe-met-russian-intelligence-in-moscow-kremlin-says
-  headline: CIA director Ratcliffe met Russian intelligence in Moscow, Kremlin says
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6941
-- slug: 2026-07-24-rubio-says-no-quick-path-to-ukraine-deal-in-new-bid-to-restart-talks
-  headline: Rubio says no quick path to Ukraine deal in new bid to restart talks
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7083
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7359
-- slug: 2026-06-05-volodymyr-zelensky-invites-vladimir-putin-to-face-to-face-peace-talks
-  headline: Volodymyr Zelensky invites Vladimir Putin to face-to-face peace talks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7155
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.73
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7212
-- slug: 2026-03-14-zelenskyy-ready-for-peace-talks-but-says-us-and-russia-must-act
-  headline: Zelenskyy ready for peace talks but says US and Russia must act
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.727
-- slug: 2026-02-08-zelenskyy-says-u-s-set-june-deadline-for-ukraine-russia-war-deal
-  headline: Zelenskyy says U.S. set June deadline for Ukraine-Russia war deal
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7303
-- slug: 2026-05-09-russia-and-ukraine-accuse-each-other-of-violating-us-brokered-truce
-  headline: Russia and Ukraine accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7078
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7296
-- slug: 2026-02-26-zelenskyy-says-ukraine-will-meet-trump-envoys-in-geneva-next-week
-  headline: Zelenskyy says Ukraine will meet Trump envoys in Geneva next week
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7237
-- slug: 2026-02-03-us-brokered-russia-ukraine-talks-to-resume-this-week-in-abu-dhabi
-  headline: US-brokered Russia-Ukraine talks to resume this week in Abu Dhabi
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7262
-- slug: 2026-01-30-trump-says-putin-agreed-to-pause-strikes-on-kyiv-for-one-week
-  headline: Trump says Putin agreed to pause strikes on Kyiv for one week
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7217
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6953
+  strength: 0.741
 image:
   url: /articles/2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10.png
-  alt: "Illustration accompanying article: Russia says trilateral Ukraine peace talks could resume after Nov. 10"
+  alt: 'Illustration accompanying article: Russia says trilateral Ukraine peace talks
+    could resume after Nov. 10'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Russia says trilateral Ukraine peace talks could resume after Nov. 10
 
 **Subtype:** fact

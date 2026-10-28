@@ -2,8 +2,15 @@
 headline: Al Schmidt talks about preparing for the midterms
 secondary_headline: Trump's insults put Schmidt in danger during the 2020 ballot count
 publish_date: '2026-10-21'
-lede: Al Schmidt, Pennsylvania's chief election official, is talking about preparing for the 2026 midterms as Election Day approaches, according to Dave Davies's NPR report. Davies reported that President Trump's insults put Schmidt in danger during the 2020 ballot count. NPR's headline describes local officials as feeling 'on edge' as Election Day approaches.
-nut_graf: Dave Davies's report presents Schmidt's discussion of preparing for the midterms alongside the danger NPR attributes to President Trump's insults during the 2020 ballot count. Its headline says local officials are feeling 'on edge' as Election Day approaches.
+lede: Al Schmidt, Pennsylvania's chief election official, is talking about preparing
+  for the 2026 midterms as Election Day approaches, according to Dave Davies's NPR
+  report. Davies reported that President Trump's insults put Schmidt in danger during
+  the 2020 ballot count. NPR's headline describes local officials as feeling 'on edge'
+  as Election Day approaches.
+nut_graf: Dave Davies's report presents Schmidt's discussion of preparing for the
+  midterms alongside the danger NPR attributes to President Trump's insults during
+  the 2020 ballot count. Its headline says local officials are feeling 'on edge' as
+  Election Day approaches.
 primary_entities:
 - Al Schmidt
 - Pennsylvania
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,81 +155,22 @@ related_stories:
   publish_date: '2026-10-12'
   relation: related
   strength: 0.6526
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6309
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6415
-- slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
-  headline: Election deniers revive fraud claims before midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6315
-- slug: 2026-09-27-experts-warn-midterm-counting-window-is-a-vulnerable-period
-  headline: Experts warn midterm counting window is a vulnerable period
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6446
 - slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
   headline: Johnson says some election-year forces are out of GOP control
   publish_date: '2026-09-06'
   relation: related
   strength: 0.6617
-- slug: 2026-09-01-whistleblower-report-warns-usps-portal-may-disrupt-midterm-voting
-  headline: Whistleblower report warns USPS portal may disrupt midterm voting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.635
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6406
 - slug: 2026-08-01-moore-expresses-concern-over-trump-s-actions-on-voting-and-data-ahead-of-midterm
-  headline: Moore expresses concern over Trump's actions on voting and data ahead of midterms
+  headline: Moore expresses concern over Trump's actions on voting and data ahead
+    of midterms
   publish_date: '2026-08-01'
   relation: related
   strength: 0.6592
-- slug: 2026-08-09-senate-democrats-test-responses-to-possible-election-disruptions
-  headline: Senate Democrats test responses to possible election disruptions
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6412
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6401
 - slug: 2026-06-17-election-lawyer-warns-trump-is-setting-stage-to-contest-november-midterms
   headline: Election lawyer warns Trump is setting stage to contest November midterms
   publish_date: '2026-06-17'
   relation: related
   strength: 0.6843
-- slug: 2026-07-20-fontes-says-trump-election-claims-are-top-concern-for-arizona-voting
-  headline: Fontes says Trump election claims are top concern for Arizona voting
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6449
-- slug: 2026-07-16-former-trump-lawyer-warns-speech-may-target-midterms
-  headline: Former Trump lawyer warns speech may target midterms
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6395
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6463
 - slug: 2025-12-30-democrats-renew-concerns-trump-will-interfere-with-2026-midterms
   headline: Democrats renew concerns Trump will interfere with 2026 midterms
   publish_date: '2025-12-30'
@@ -243,7 +192,6 @@ related_stories:
   relation: related
   strength: 0.6619
 ---
-
 ## Al Schmidt talks about preparing for the midterms
 
 **Subtype:** fact

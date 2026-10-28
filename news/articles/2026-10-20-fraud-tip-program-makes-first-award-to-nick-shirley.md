@@ -2,8 +2,16 @@
 headline: Fraud-tip program makes first award to Nick Shirley
 secondary_headline: Fox News reported a $10,000 payout Tuesday
 publish_date: '2026-10-20'
-lede: UPI reported that the Justice Department's Fraud Whistleblower Incentive Program made its first award to Nick Shirley, a YouTuber who attended Tuesday's Oval Office event. Fox News reported that Shirley received a $10,000 payout Tuesday. UPI also reported that Shirley's videos went viral earlier in 2026 after he accused Somali-run child-care centers in Minnesota of fraud and that his claims had largely been debunked.
-nut_graf: The program offers a 1% commission when a tip leads to a successful conviction, and Trump said payouts apply only if money is recovered. The first award went to Nick Shirley, whose claims UPI reported had largely been debunked; federal agents continued investigating the child-care centers, and one woman pleaded guilty to wire fraud and conspiracy to defraud the United States.
+lede: UPI reported that the Justice Department's Fraud Whistleblower Incentive Program
+  made its first award to Nick Shirley, a YouTuber who attended Tuesday's Oval Office
+  event. Fox News reported that Shirley received a $10,000 payout Tuesday. UPI also
+  reported that Shirley's videos went viral earlier in 2026 after he accused Somali-run
+  child-care centers in Minnesota of fraud and that his claims had largely been debunked.
+nut_graf: The program offers a 1% commission when a tip leads to a successful conviction,
+  and Trump said payouts apply only if money is recovered. The first award went to
+  Nick Shirley, whose claims UPI reported had largely been debunked; federal agents
+  continued investigating the child-care centers, and one woman pleaded guilty to
+  wire fraud and conspiracy to defraud the United States.
 primary_entities:
 - Nick Shirley
 - Justice Department
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +154,18 @@ related_stories:
   headline: Trump plans $25 million fraud-tip program paying up to $30,000
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8164
+  strength: 0.8133
 - slug: 2026-10-20-trump-proposes-serving-as-arbitrator-of-doj-fraud-tip-rewards
   headline: Trump proposes serving as arbitrator of DOJ fraud tip rewards
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7541
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
+  strength: 0.7524
+- slug: 2026-10-26-trump-offers-1-million-reward-for-reports-of-voter-fraud
+  headline: Trump offers $1 million reward for reports of voter fraud
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6351
-- slug: 2026-08-09-scammers-posing-as-officers-take-25-000-from-florida-woman
-  headline: Scammers posing as officers take $25,000 from Florida woman
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6201
-- slug: 2026-08-01-trump-media-charges-up-to-100-000-a-month-for-early-truth-social-access
-  headline: Trump Media charges up to $100,000 a month for early Truth Social access
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6306
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6365
-- slug: 2026-06-15-hawaii-s-medicaid-fraud-unit-fended-off-vp-criticism-with-misleading-numbers
-  headline: Hawaii’s Medicaid fraud unit fended off VP criticism with misleading numbers
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6269
-- slug: 2026-06-11-fund-tied-to-trump-allies-cleta-mitchell-heather-honey-backed-2024-election-doub
-  headline: Fund tied to Trump allies Cleta Mitchell, Heather Honey backed 2024 election doubt ads
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6212
-- slug: 2026-03-28-vance-holds-first-anti-fraud-task-force-meeting-as-administration-targets-benefi
-  headline: Vance holds first anti-fraud task force meeting as administration targets benefits
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6492
-- slug: 2026-04-29-federal-agents-execute-minnesota-searches-in-child-program-fraud-probe
-  headline: Federal agents execute Minnesota searches in child-program fraud probe
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6383
-- slug: 2026-05-17-doj-announces-nearly-1-8b-fund-to-compensate-trump-allies-over-tax-leak
-  headline: DOJ announces nearly $1.8B fund to compensate Trump allies over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6253
-- slug: 2025-12-30-homeland-security-says-it-is-probing-fraud-in-minneapolis
-  headline: Homeland Security says it is probing fraud in Minneapolis
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.642
-- slug: 2026-04-09-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6254
-- slug: 2026-01-07-trump-child-care-funding-freeze-rattles-providers-and-families-in-five-states
-  headline: Trump child care funding freeze rattles providers and families in five states
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6384
-- slug: 2026-01-06-craigslist-child-actor-ad-was-a-prank-not-proof-of-minnesota-day-care-fraud
-  headline: Craigslist child-actor ad was a prank, not proof of Minnesota day care fraud
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6379
-- slug: 2026-04-12-trump-administration-admits-error-in-new-york-health-care-fraud-probe
-  headline: Trump administration admits error in New York health care fraud probe
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6231
-- slug: 2026-04-14-trump-tips-doordash-driver-100-for-oval-office-mcdonald-s-delivery
-  headline: Trump tips DoorDash driver $100 for Oval Office McDonald’s delivery
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6188
-- slug: 2026-01-09-judge-blocks-trump-freeze-of-child-care-and-social-service-funds
-  headline: Judge blocks Trump freeze of child care and social service funds
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6325
-- slug: 2025-12-30-federal-officers-expand-minnesota-probe-after-allegations-at-somali-run-day-care
-  headline: Federal officers expand Minnesota probe after allegations at Somali-run day cares
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6316
-- slug: 2025-12-29-homeland-security-says-it-is-investigating-fraud-in-minneapolis
-  headline: Homeland Security says it is investigating fraud in Minneapolis
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6312
+  strength: 0.6934
 ---
-
 ## Fraud-tip program makes first award to Nick Shirley
 
 **Subtype:** fact

@@ -159,110 +159,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
+  headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+    protests
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7355
+- slug: 2026-10-23-french-authorities-prepare-about-70-000-police-for-saturday-demonstrations
+  headline: French authorities prepare about 70,000 police for Saturday demonstrations
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7342
+- slug: 2026-10-25-marine-le-pen-opens-campaign-with-unity-pledge-amid-french-unrest
+  headline: Marine Le Pen opens campaign with unity pledge amid French unrest
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7214
+- slug: 2026-10-22-macron-convenes-security-talks-as-lecornu-meets-party-leaders
+  headline: Macron convenes security talks as Lecornu meets party leaders
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7042
+- slug: 2026-10-22-fox-news-newsmax-and-oan-frame-europe-protests-as-a-warning-for-us-midterms
+  headline: Fox News, Newsmax and OAN frame Europe protests as a warning for US midterms
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6951
 - slug: 2026-10-20-french-police-pursue-suspects-after-weekend-violence
   headline: French police pursue suspects after weekend violence
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6828
+  strength: 0.6841
 - slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
   headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6716
+  strength: 0.6702
 - slug: 2026-10-06-france-s-10-year-borrowing-cost-climbs-to-highest-level-since-2002
   headline: France's 10-year borrowing cost climbs to highest level since 2002
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6861
-- slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
-  headline: Youth-led protests over French schools draw hundreds of thousands
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6716
-- slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
-  headline: French police fire tear gas as 256,000 rally nationwide for school funding
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6769
-- slug: 2026-09-26-macron-defends-multilateralism-in-final-un-speech
-  headline: Macron defends multilateralism in final UN speech
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-22-trump-blitzes-social-media-ahead-of-un-general-assembly-address
-  headline: Trump blitzes social media ahead of UN general assembly address
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6533
-- slug: 2026-09-09-trump-and-white-house-share-labor-day-ai-memes-depicting-him-as-powerful
-  headline: Trump and White House share Labor Day AI memes depicting him as powerful
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6612
-- slug: 2026-07-28-macron-warns-france-faces-worst-wildfire-crisis-since-world-war-ii
-  headline: Macron warns France faces worst wildfire crisis since World War II
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6763
-- slug: 2026-07-09-macron-told-allies-there-is-no-going-back-wsj-reports
-  headline: Macron told allies “there is no going back,” WSJ reports
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6741
-- slug: 2026-06-14-iran-war-expected-to-dominate-trump-s-g7-meeting-with-allies
-  headline: Iran war expected to dominate Trump's G7 meeting with allies
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.693
-- slug: 2026-07-14-macron-showcases-european-military-unity-at-bastille-day-parade
-  headline: Macron showcases European military unity at Bastille Day parade
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.655
-- slug: 2026-06-17-ai-takes-center-stage-at-the-g7-amid-tensions-over-american-tech-dominance
-  headline: AI takes center stage at the G7 amid tensions over American tech dominance
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.675
-- slug: 2026-05-06-macron-says-us-and-eu-are-wasting-time-on-tariff-threats-over-vehicles
-  headline: Macron says US and EU are wasting time on tariff threats over vehicles
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.692
-- slug: 2026-05-14-macron-faces-backlash-after-interrupting-africa-summit-panel-in-kenya
-  headline: Macron faces backlash after interrupting Africa summit panel in Kenya
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6879
-- slug: 2026-05-14-macron-faces-backlash-after-demanding-silence-at-africa-summit-panel-in-kenya
-  headline: Macron faces backlash after demanding silence at Africa summit panel in
-    Kenya
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6782
-- slug: 2026-05-18-macron-s-davos-sunglasses-spark-viral-memes-and-market-surge
-  headline: Macron's Davos sunglasses spark viral memes and market surge
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6747
-- slug: 2026-06-15-europe-treads-carefully-with-trump-at-g-7-after-iran-war-strains-alliance
-  headline: Europe treads carefully with Trump at G-7 after Iran war strains alliance
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6524
-- slug: 2026-03-04-macron-says-france-will-increase-warheads-and-allow-temporary-nuclear-deployment
-  headline: Macron says France will increase warheads and allow temporary nuclear
-    deployment
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6851
-- slug: 2026-03-14-political-parties-tested-as-french-voters-elect-municipal-leaders
-  headline: Political parties tested as French voters elect municipal leaders
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.665
+  strength: 0.6847
 ---
-
 ## Macron says some leaders used French unrest for political campaigns
 
 **Subtype:** fact

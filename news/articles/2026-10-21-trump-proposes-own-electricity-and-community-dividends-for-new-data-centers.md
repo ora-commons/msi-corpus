@@ -1,9 +1,19 @@
 ---
 headline: Trump proposes own electricity and community dividends for new data centers
-secondary_headline: State lawmakers consider construction moratoriums amid energy and environmental opposition
+secondary_headline: State lawmakers consider construction moratoriums amid energy
+  and environmental opposition
 publish_date: '2026-10-21'
-lede: President Donald Trump proposed early Wednesday that companies building large U.S. data centers make their own electricity and give or sell excess power to local communities or the grid. He also proposed dividends for communities or individuals during new construction, saying the payments should make data centers more popular. The proposals came as public resistance grew over energy demands and environmental footprints and lawmakers in several states considered construction moratoriums ahead of the midterm elections.
-nut_graf: The Wall Street Journal reported that the possible restrictions threaten to slow the rapid real-estate development fueled by the artificial-intelligence boom. Trump's proposals arrive as accelerating data-center expansion faces growing voter resistance over energy demands and environmental footprints.
+lede: President Donald Trump proposed early Wednesday that companies building large
+  U.S. data centers make their own electricity and give or sell excess power to local
+  communities or the grid. He also proposed dividends for communities or individuals
+  during new construction, saying the payments should make data centers more popular.
+  The proposals came as public resistance grew over energy demands and environmental
+  footprints and lawmakers in several states considered construction moratoriums ahead
+  of the midterm elections.
+nut_graf: The Wall Street Journal reported that the possible restrictions threaten
+  to slow the rapid real-estate development fueled by the artificial-intelligence
+  boom. Trump's proposals arrive as accelerating data-center expansion faces growing
+  voter resistance over energy demands and environmental footprints.
 primary_entities:
 - Donald Trump
 - Truth Social
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,6 +151,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
+  headline: Local resistance pressures tech giants ahead of the U.S. midterms
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7022
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
@@ -175,73 +191,7 @@ related_stories:
   publish_date: '2026-09-07'
   relation: related
   strength: 0.7038
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6908
-- slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
-  headline: Current tariff pace would take nearly five years to cover Trump payout
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6757
-- slug: 2026-09-12-lutnick-says-trump-s-5-000-dividend-would-not-be-funded-by-taxes
-  headline: Lutnick says Trump's $5,000 dividend would not be funded by taxes
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6673
-- slug: 2026-08-26-snowballing-data-center-opposition-reshapes-us-midterm-contests
-  headline: Snowballing data center opposition reshapes US midterm contests
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6801
-- slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
-  headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6822
-- slug: 2026-07-20-donalds-unveils-bill-to-require-ai-data-centers-to-self-fund-power-and-water
-  headline: Donalds unveils bill to require AI data centers to self-fund power and water
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7359
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7109
-- slug: 2026-07-16-power-companies-use-eminent-domain-to-seize-land-for-data-center-transmission-li
-  headline: Power companies use eminent domain to seize land for data center transmission lines
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6881
-- slug: 2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs
-  headline: Microsoft's Brad Smith tells Congress Big Tech must pay AI data center costs
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7243
-- slug: 2026-02-13-rising-energy-costs-fuel-calls-for-data-centers-to-pay-their-own-way
-  headline: Rising energy costs fuel calls for data centers to pay their own way
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7136
-- slug: 2026-03-26-progressives-introduce-ai-data-center-moratorium-bill-ahead-of-safeguards
-  headline: Progressives introduce AI data center moratorium bill ahead of safeguards
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.705
-- slug: 2026-03-04-trump-touts-ratepayer-pledge-as-tech-giants-vow-to-self-fund-ai-power-needs
-  headline: Trump touts ratepayer pledge as tech giants vow to self-fund AI power needs
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7088
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  headline: Trump calls for ban on large investors buying homes, citing affordability concerns
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7143
 ---
-
 ## Trump proposes own electricity and community dividends for new data centers
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
-headline: House China panel has investigated DeepSeek over spying and chip export controls
+headline: House China panel has investigated DeepSeek over spying and chip export
+  controls
 secondary_headline: Moolenaar calls DeepSeek dangerous and endorses the federal ban
 publish_date: '2026-10-20'
-lede: Rep. John Moolenaar, R-Mich., chair of the House Select Committee on China, said the committee investigated last year how DeepSeek is a tool for China to spy, steal and subvert export controls on world-leading chips. Moolenaar also called DeepSeek "a dangerous AI model" with no place in the federal government. The Commerce Department and U.S. Navy barred DeepSeek in 2025, and South Korea, Italy and Germany have banned DeepSeek over security concerns, according to United Press International. DHS posted a broader civilian-federal ban Tuesday on the Federal Register, with an exception for the Department of Defense.
-nut_graf: Moolenaar's statement says the committee examined how DeepSeek is a tool for China to spy, steal and subvert export controls on world-leading chips. DHS separately warned that use of DeepSeek products by U.S. government employees or vendors may result in sensitive-data transfer and said the models may have malware or other security vulnerabilities. The Commerce Department, U.S. Navy, South Korea, Italy and Germany have also barred the application.
+lede: Rep. John Moolenaar, R-Mich., chair of the House Select Committee on China,
+  said the committee investigated last year how DeepSeek is a tool for China to spy,
+  steal and subvert export controls on world-leading chips. Moolenaar also called
+  DeepSeek "a dangerous AI model" with no place in the federal government. The Commerce
+  Department and U.S. Navy barred DeepSeek in 2025, and South Korea, Italy and Germany
+  have banned DeepSeek over security concerns, according to United Press International.
+  DHS posted a broader civilian-federal ban Tuesday on the Federal Register, with
+  an exception for the Department of Defense.
+nut_graf: Moolenaar's statement says the committee examined how DeepSeek is a tool
+  for China to spy, steal and subvert export controls on world-leading chips. DHS
+  separately warned that use of DeepSeek products by U.S. government employees or
+  vendors may result in sensitive-data transfer and said the models may have malware
+  or other security vulnerabilities. The Commerce Department, U.S. Navy, South Korea,
+  Italy and Germany have also barred the application.
 primary_entities:
 - House Select Committee on China
 - DeepSeek
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +161,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-20-dhs-warns-deepseek-use-by-federal-staff-or-vendors-may-transfer-data-to-china
-  headline: DHS warns DeepSeek use by federal staff or vendors may transfer data to China
+  headline: DHS warns DeepSeek use by federal staff or vendors may transfer data to
+    China
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8214
+  strength: 0.8178
 - slug: 2026-10-19-dhs-orders-federal-civilian-agencies-to-remove-deepseek-ai-from-it-systems
   headline: DHS orders federal civilian agencies to remove DeepSeek AI from IT systems
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7674
+  strength: 0.7664
 - slug: 2026-10-19-anthropic-and-openai-claim-deepseek-copied-their-ai-models
   headline: Anthropic and OpenAI claim DeepSeek copied their AI models
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7356
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6365
+  strength: 0.7347
 - slug: 2026-09-09-china-rejects-us-accusation-that-chinese-ai-firms-distilled-american-models
   headline: China rejects US accusation that Chinese AI firms distilled American models
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6549
+  strength: 0.6535
 - slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
   headline: Trump, tech leaders suggest China is behind data-center opposition
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6602
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6352
-- slug: 2026-09-09-u-s-agencies-accuse-six-chinese-ai-firms-of-industrial-scale-distillation
-  headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6405
+  strength: 0.6582
 - slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
   headline: White House keeps AI safety-testing framework details private
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.66
+  strength: 0.6563
 - slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
   headline: China warns AI users they are ‘traitors’ if they resist domestic chips
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6708
+  strength: 0.6688
 - slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
   headline: China weighs limits on overseas access to its AI models
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.6841
-- slug: 2026-07-23-bipartisan-bill-would-give-dhs-power-to-shut-down-dangerous-ai-models
-  headline: Bipartisan bill would give DHS power to shut down dangerous AI models
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6575
-- slug: 2026-07-14-china-charges-u-s-seismologist-with-espionage-after-secret-detention
-  headline: China Charges U.S. Seismologist With Espionage After Secret Detention
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6578
-- slug: 2026-07-06-schneier-and-penney-warn-ai-surveillance-s-chilling-effects-threaten-dissent
-  headline: Schneier and Penney warn AI surveillance's chilling effects threaten dissent
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6671
-- slug: 2026-04-23-china-s-deepseek-launches-v4-ai-model-update-with-pro-and-flash-versions
-  headline: China’s DeepSeek launches V4 AI model update with “pro” and “flash” versions
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6812
-- slug: 2026-06-28-chinese-ai-matches-anthropic-in-cybersecurity-narrowing-u-s-lead
-  headline: Chinese AI matches Anthropic in cybersecurity, narrowing U.S. lead
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6352
-- slug: 2026-06-08-schiff-bill-would-restrict-pentagon-ai-use-as-democrats-flood-congress-with-prop
-  headline: Schiff bill would restrict Pentagon AI use as Democrats flood Congress with proposals
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6515
-- slug: 2026-05-05-u-s-allowed-silicon-valley-surveillance-tech-sales-to-china-ap-finds
-  headline: U.S. allowed Silicon Valley surveillance tech sales to China, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6665
-- slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
-  headline: Taiwan considers tighter export controls on AI chips bound for China
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6447
-- slug: 2026-04-24-trump-administration-targets-foreign-exploitation-of-u-s-ai-models
-  headline: Trump administration targets foreign exploitation of U.S. AI models
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6663
+  strength: 0.682
 ---
-
 ## House China panel has investigated DeepSeek over spying and chip export controls
 
 **Subtype:** fact

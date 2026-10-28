@@ -1,9 +1,21 @@
 ---
 headline: Democratic attorneys general expand midterm election security planning
-secondary_headline: Weekly calls and tabletop drills test responses to federal election threats
+secondary_headline: Weekly calls and tabletop drills test responses to federal election
+  threats
 publish_date: '2026-10-21'
-lede: Twenty-four Democratic attorneys general have expanded coordination with about a dozen Democratic secretaries of state and civic groups to prepare for possible federal intervention in November's midterm elections, according to The Guardian. Since early this year, the officials have held weekly Zoom calls and two in-person tabletop exercises focused on election security and scenarios such as ICE agents appearing near polling places or ballots being seized. Washington Attorney General Nick Brown leads the effort through the Progressive State Leaders Committee, the public policy arm of the Democratic Attorneys General Association.
-nut_graf: The coordination gives state election authorities a shared legal and operational plan if federal officials intervene. It also comes after courts ruled against the Justice Department in 26 decided voter-list cases, the Supreme Court rejected a March voting-by-mail order last month and the department announced plans for 1,000 poll monitors.
+lede: Twenty-four Democratic attorneys general have expanded coordination with about
+  a dozen Democratic secretaries of state and civic groups to prepare for possible
+  federal intervention in November's midterm elections, according to The Guardian.
+  Since early this year, the officials have held weekly Zoom calls and two in-person
+  tabletop exercises focused on election security and scenarios such as ICE agents
+  appearing near polling places or ballots being seized. Washington Attorney General
+  Nick Brown leads the effort through the Progressive State Leaders Committee, the
+  public policy arm of the Democratic Attorneys General Association.
+nut_graf: The coordination gives state election authorities a shared legal and operational
+  plan if federal officials intervene. It also comes after courts ruled against the
+  Justice Department in 26 decided voter-list cases, the Supreme Court rejected a
+  March voting-by-mail order last month and the department announced plans for 1,000
+  poll monitors.
 primary_entities:
 - Nick Brown
 - Progressive State Leaders Committee
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +158,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-election-day-brings-federal-partisan-and-nonprofit-election-monitors
+  headline: Election Day brings federal, partisan and nonprofit election monitors
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7761
+- slug: 2026-10-21-justice-department-notifies-counties-of-planned-election-day-monitoring
+  headline: Justice Department notifies counties of planned Election Day monitoring
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7134
+- slug: 2026-10-21-himes-warner-seek-election-day-contact-from-intelligence-leaders
+  headline: Himes, Warner seek Election Day contact from intelligence leaders
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7067
 - slug: 2026-10-08-washington-ag-brown-details-24-state-democratic-midterm-election-defense
   headline: Washington AG Brown details 24-state Democratic midterm election defense
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7681
+  strength: 0.767
 - slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6942
+  strength: 0.6934
 - slug: 2026-10-14-civil-rights-groups-train-thousands-of-poll-observers-for-midterms
   headline: Civil rights groups train thousands of poll observers for midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7248
+  strength: 0.7233
 - slug: 2026-10-07-naacp-sues-trump-doj-over-election-monitor-plans
   headline: NAACP sues Trump DOJ over election monitor plans
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7627
+  strength: 0.7624
 - slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
   headline: DOJ sues California seeking to block counting of alleged noncitizen votes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.692
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6915
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6959
-- slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
-  headline: Democrats, retired military lawyers press Trump on National Guard at polls
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7045
-- slug: 2026-09-18-civil-rights-groups-and-unions-sue-to-block-federal-agents-from-polling-places
-  headline: Civil rights groups and unions sue to block federal agents from polling places
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7237
-- slug: 2026-09-14-democrats-launch-nationwide-poll-monitoring-effort-for-november-midterms
-  headline: Democrats launch nationwide poll-monitoring effort for November midterms
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7298
-- slug: 2026-09-18-naacp-sues-trump-administration-over-federal-agents-at-polls
-  headline: NAACP sues Trump administration over federal agents at polls
-  publish_date: '2026-09-18'
-  relation: related
   strength: 0.6911
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7518
-- slug: 2026-09-07-advocacy-groups-escalate-court-fights-over-trump-voting-orders
-  headline: Advocacy groups escalate court fights over Trump voting orders
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7128
-- slug: 2026-08-21-justice-department-targets-1-000-poll-monitors-for-november-midterms
-  headline: Justice Department targets 1,000 poll monitors for November midterms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7617
-- slug: 2026-08-18-justice-department-plans-about-1-000-poll-monitors-for-fall-elections
-  headline: Justice Department plans about 1,000 poll monitors for fall elections
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7406
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7191
-- slug: 2026-08-09-senate-democrats-test-responses-to-possible-election-disruptions
-  headline: Senate Democrats test responses to possible election disruptions
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6967
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7205
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7263
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6922
 ---
-
 ## Democratic attorneys general expand midterm election security planning
 
 **Subtype:** fact

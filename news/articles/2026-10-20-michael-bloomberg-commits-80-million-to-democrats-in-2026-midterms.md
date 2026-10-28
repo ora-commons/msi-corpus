@@ -1,9 +1,18 @@
 ---
 headline: Michael Bloomberg commits $80 million to Democrats in 2026 midterms
-secondary_headline: Trump said he would spend $400 million on Republicans; Musk spent $366 million
+secondary_headline: Trump said he would spend $400 million on Republicans; Musk spent
+  $366 million
 publish_date: '2026-10-20'
-lede: Michael Bloomberg has committed $80 million to help Democratic candidates in the 2026 U.S. midterm elections, according to media reports cited by The Guardian. The contributions were made in September and October and are focused especially on Democrats seeking to flip the House of Representatives, where Republicans hold a historically small majority.
-nut_graf: The spending comes as Democrats trail Republicans in fundraising but believe they can retake the House and gain the four Senate seats needed for control. Control of either chamber would let Democrats block Trump's legislative agenda and conduct more effective investigations, while a Senate majority could also reject his nominees for the Supreme Court and other federal judicial positions.
+lede: Michael Bloomberg has committed $80 million to help Democratic candidates in
+  the 2026 U.S. midterm elections, according to media reports cited by The Guardian.
+  The contributions were made in September and October and are focused especially
+  on Democrats seeking to flip the House of Representatives, where Republicans hold
+  a historically small majority.
+nut_graf: The spending comes as Democrats trail Republicans in fundraising but believe
+  they can retake the House and gain the four Senate seats needed for control. Control
+  of either chamber would let Democrats block Trump's legislative agenda and conduct
+  more effective investigations, while a Senate majority could also reject his nominees
+  for the Supreme Court and other federal judicial positions.
 primary_entities:
 - Michael Bloomberg
 - Donald Trump
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +153,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
+  headline: Musk's Republican midterm giving exceeds $442 million
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7407
 - slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7244
+  strength: 0.7241
 - slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7252
+  strength: 0.7247
 - slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
   headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7393
+  strength: 0.7389
 - slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
   headline: Trump says he has spent more than $300 million on the midterm elections
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6829
+  strength: 0.6828
 - slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
+  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to
+    Paxton PAC
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7008
+  strength: 0.7002
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6849
+  strength: 0.6846
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6705
-- slug: 2026-10-11-virtually-unknown-donors-gave-up-to-1-million-each-to-a-super-pac
-  headline: Virtually unknown donors gave up to $1 million each to a super PAC
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6593
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.669
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6811
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6585
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.672
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6907
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7352
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6665
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
   strength: 0.6708
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6643
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6576
-- slug: 2026-07-14-griffin-pours-40m-into-gop-midterm-push-focuses-on-senate-races
-  headline: Griffin pours $40M into GOP midterm push, focuses on Senate races
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6751
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6607
 ---
-
 ## Michael Bloomberg commits $80 million to Democrats in 2026 midterms
 
 **Subtype:** fact

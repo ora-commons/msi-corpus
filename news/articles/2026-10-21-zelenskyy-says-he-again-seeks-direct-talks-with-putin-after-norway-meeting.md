@@ -1,9 +1,19 @@
 ---
 headline: Zelenskyy says he again seeks direct talks with Putin after Norway meeting
-secondary_headline: Morning Edition to report from six states that could change the balance of power
+secondary_headline: Morning Edition to report from six states that could change the
+  balance of power
 publish_date: '2026-10-21'
-lede: Ukrainian President Volodymyr Zelenskyy met President Trump's envoy Steve Witkoff in Norway this week, NPR's Up First newsletter reported, and Zelenskyy says he is again seeking direct talks with Russian President Vladimir Putin. Trump has accused Zelenskyy of obstructing a peace deal. NPR's Morning Edition is reporting this month from six states that could change the balance of power in Washington during the 2026 midterm elections.
-nut_graf: NPR's Up First newsletter includes reporting on Ukraine diplomacy and on six-state midterm coverage that looks at how Trump administration policies have affected federal research funding and how AI data centers have divided a North Carolina county. The newsletter also introduced Machine Gods, a new twice-weekly AI podcast, and carried three shorter items.
+lede: Ukrainian President Volodymyr Zelenskyy met President Trump's envoy Steve Witkoff
+  in Norway this week, NPR's Up First newsletter reported, and Zelenskyy says he is
+  again seeking direct talks with Russian President Vladimir Putin. Trump has accused
+  Zelenskyy of obstructing a peace deal. NPR's Morning Edition is reporting this month
+  from six states that could change the balance of power in Washington during the
+  2026 midterm elections.
+nut_graf: NPR's Up First newsletter includes reporting on Ukraine diplomacy and on
+  six-state midterm coverage that looks at how Trump administration policies have
+  affected federal research funding and how AI data centers have divided a North Carolina
+  county. The newsletter also introduced Machine Gods, a new twice-weekly AI podcast,
+  and carried three shorter items.
 primary_entities:
 - Steve Witkoff
 - Volodymyr Zelenskyy
@@ -90,7 +100,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -197,108 +208,52 @@ related_stories:
   headline: Zelensky plans Oslo talks with US envoys as Trump tensions rise
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7593
+  strength: 0.76
 - slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
   headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7332
+  strength: 0.7352
 - slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
   headline: Zelenskyy says Ukraine still sees US as partner despite warnings
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7556
-- slug: 2026-10-21-after-rubio-call-zelenskyy-says-missile-warnings-have-resumed
-  headline: After Rubio call, Zelenskyy says missile warnings have resumed
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7016
+  strength: 0.7569
 - slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
   headline: Trump open to joining Putin and Xi for denuclearization summit
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7054
+  strength: 0.7069
 - slug: 2026-10-14-npr-morning-edition-launches-six-state-midterm-reporting-series-in-texas
   headline: NPR Morning Edition launches six-state midterm reporting series in Texas
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.723
+  strength: 0.7233
 - slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
+  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal
+    terms
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7243
+  strength: 0.7249
 - slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
   headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7154
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7027
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7026
-- slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
-  headline: Zelensky says Putin needs more US pressure to curb attacks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.742
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.75
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7288
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7306
-- slug: 2026-09-22-trump-tells-un-he-has-made-peace-renews-threats-against-iran
-  headline: Trump tells UN he has 'made peace,' renews threats against Iran
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7104
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7252
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7143
-- slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
-  headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7465
+  strength: 0.7165
 image:
   url: /articles/2026-10-21-zelenskyy-says-he-again-seeks-direct-talks-with-putin-after-norway-meeting.png
-  alt: "Illustration accompanying article: Zelenskyy says he again seeks direct talks with Putin after Norway meeting"
+  alt: 'Illustration accompanying article: Zelenskyy says he again seeks direct talks
+    with Putin after Norway meeting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Zelenskyy says he again seeks direct talks with Putin after Norway meeting
 
 **Subtype:** fact

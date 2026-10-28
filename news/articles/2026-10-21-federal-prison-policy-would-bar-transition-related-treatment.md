@@ -1,9 +1,24 @@
 ---
 headline: Federal prison policy would bar transition-related treatment
-secondary_headline: Three transgender prisoners challenge policy in New Jersey, Florida and Minnesota
+secondary_headline: Three transgender prisoners challenge policy in New Jersey, Florida
+  and Minnesota
 publish_date: '2026-10-21'
-lede: A Federal Bureau of Prisons policy introduced earlier this year would sharply limit medical care and other accommodations for transgender people in federal custody, prohibiting medical and surgical treatments related to gender transition and restricting "social accommodations" including access to clothing and hair-removal devices intended to help prisoners present themselves in a way that matches their gender identity. Three transgender people incarcerated at federal correctional facilities in New Jersey, Florida and Minnesota brought a class-action lawsuit challenging the policy. According to the plaintiffs, the federal prison system has provided hormone treatment to prisoners experiencing gender dysphoria since at least 1992.
-nut_graf: The Guardian reported that the proposed changes represent a big departure from longstanding federal prison practices and that the legal fight carries potential consequences for thousands of people within the federal correctional system. More than 2,000 transgender prisoners were housed in federal prisons and halfway houses in 2025, according to reporting from NPR. The U.S. Supreme Court on Wednesday turned away the Justice Department's emergency appeal, leaving a federal judge's order blocking enforcement in place while the lawsuit proceeds.
+lede: A Federal Bureau of Prisons policy introduced earlier this year would sharply
+  limit medical care and other accommodations for transgender people in federal custody,
+  prohibiting medical and surgical treatments related to gender transition and restricting
+  "social accommodations" including access to clothing and hair-removal devices intended
+  to help prisoners present themselves in a way that matches their gender identity.
+  Three transgender people incarcerated at federal correctional facilities in New
+  Jersey, Florida and Minnesota brought a class-action lawsuit challenging the policy.
+  According to the plaintiffs, the federal prison system has provided hormone treatment
+  to prisoners experiencing gender dysphoria since at least 1992.
+nut_graf: The Guardian reported that the proposed changes represent a big departure
+  from longstanding federal prison practices and that the legal fight carries potential
+  consequences for thousands of people within the federal correctional system. More
+  than 2,000 transgender prisoners were housed in federal prisons and halfway houses
+  in 2025, according to reporting from NPR. The U.S. Supreme Court on Wednesday turned
+  away the Justice Department's emergency appeal, leaving a federal judge's order
+  blocking enforcement in place while the lawsuit proceeds.
 primary_entities:
 - Federal Bureau of Prisons
 - U.S. Supreme Court
@@ -44,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,39 +159,49 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-federal-prison-policy-would-bar-transition-related-treatment.png
-  alt: 'Illustration accompanying article: Federal prison policy would bar transition-related treatment'
+  alt: 'Illustration accompanying article: Federal prison policy would bar transition-related
+    treatment'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-21-federal-prisons-hold-about-2-000-transgender-people
   headline: Federal prisons hold about 2,000 transgender people
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8941
+  strength: 0.8933
 - slug: 2026-10-21-supreme-court-rejects-bid-to-end-gender-affirming-care-in-federal-prisons
   headline: Supreme Court rejects bid to end gender-affirming care in federal prisons
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.81
+  strength: 0.8096
+- slug: 2026-10-21-judge-blocks-prison-policy-bureau-cited-zero-evidence-from-health-professionals
+  headline: Judge blocks prison policy; Bureau cited zero evidence from health professionals
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7684
 - slug: 2026-09-28-trump-administration-appeals-transgender-inmate-care-ruling-to-supreme-court
-  headline: Trump administration appeals transgender inmate care ruling to Supreme Court
+  headline: Trump administration appeals transgender inmate care ruling to Supreme
+    Court
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7929
+  strength: 0.7924
 - slug: 2026-09-30-hhs-report-links-gender-affirming-care-support-to-left-wing-authoritarianism
   headline: HHS report links gender-affirming care support to 'left-wing authoritarianism'
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6809
+  strength: 0.6805
 - slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
   headline: Jordan Campbell leads DOJ probes of transgender care for minors
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6934
+  strength: 0.6941
 - slug: 2026-09-05-nine-arrested-at-massachusetts-ag-s-office-in-trans-care-protest
   headline: Nine arrested at Massachusetts AG's office in trans care protest
   publish_date: '2026-09-05'
@@ -185,74 +211,8 @@ related_stories:
   headline: Appeals court clears way for DOJ subpoena of transgender care provider
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.714
-- slug: 2026-08-28-trump-administration-asks-supreme-court-to-allow-pentagon-transgender-troop-ban
-  headline: Trump administration asks Supreme Court to allow Pentagon transgender troop ban
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6716
-- slug: 2026-07-29-judge-says-trump-administration-violated-order-on-transgender-inmate-transfers
-  headline: Judge says Trump administration violated order on transgender inmate transfers
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.7161
-- slug: 2026-07-22-federal-judge-orders-pentagon-to-compare-testosterone-policies-for-trans-and-cis
-  headline: Federal judge orders Pentagon to compare testosterone policies for trans and cisgender troops
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6973
-- slug: 2026-06-24-judge-blocks-subpoena-for-medical-records-of-transgender-youth-in-new-york
-  headline: Judge blocks subpoena for medical records of transgender youth in New York
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7153
-- slug: 2026-06-02-federal-appeals-court-blocks-trump-from-expelling-transgender-troops
-  headline: Federal appeals court blocks Trump from expelling transgender troops
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7233
-- slug: 2026-05-15-federal-judge-blocks-trump-administration-from-seeking-trans-youth-records
-  headline: Federal judge blocks Trump administration from seeking trans youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7195
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7198
-- slug: 2026-03-21-judge-rules-u-s-overreached-with-transgender-health-care-declaration
-  headline: Judge rules U.S. overreached with transgender health care declaration
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7339
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7094
-- slug: 2026-01-03-federal-workers-file-complaint-over-trump-s-gender-affirming-care-insurance-ban
-  headline: Federal workers file complaint over Trump’s gender-affirming care insurance ban
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.735
-- slug: 2026-05-15-federal-judge-blocks-doj-subpoenas-for-rhode-island-transgender-youth-records
-  headline: Federal judge blocks DOJ subpoenas for Rhode Island transgender youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7033
-- slug: 2026-01-26-doj-drops-effort-to-obtain-transgender-patients-records
-  headline: DOJ drops effort to obtain transgender patients' records
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7241
-- slug: 2026-01-01-federal-employees-file-complaint-over-trump-health-care-ban-for-gender-care
-  headline: Federal employees file complaint over Trump health care ban for gender care
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7211
+  strength: 0.713
 ---
-
 ## Federal prison policy would bar transition-related treatment
 
 **Subtype:** fact

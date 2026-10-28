@@ -1,9 +1,20 @@
 ---
 headline: U.N. report finds U.S. emissions rose while global total held steady
-secondary_headline: Global talks in Turkey will address clean energy investment and climate costs
+secondary_headline: Global talks in Turkey will address clean energy investment and
+  climate costs
 publish_date: '2026-10-21'
-lede: A new United Nations report finds that the United States was the only major economy where planet-warming pollution increased dramatically last year, while global emissions were essentially unchanged. The report attributes the U.S. increase to higher electricity demand and Trump administration policies that support fossil fuels.
-nut_graf: The report says it remains possible to keep warming below 3.6 degrees Fahrenheit if global greenhouse gas emissions fall by about 25% over the next decade, while the Paris Climate Agreement's goal is well below 3.6 degrees Fahrenheit. About two-thirds of countries have submitted formal, up-to-date plans for cutting greenhouse gas emissions under the agreement; if every country that submitted a plan follows through, those plans would reduce emissions by about 15% over the next decade, far less than the 25% needed.
+lede: A new United Nations report finds that the United States was the only major
+  economy where planet-warming pollution increased dramatically last year, while global
+  emissions were essentially unchanged. The report attributes the U.S. increase to
+  higher electricity demand and Trump administration policies that support fossil
+  fuels.
+nut_graf: The report says it remains possible to keep warming below 3.6 degrees Fahrenheit
+  if global greenhouse gas emissions fall by about 25% over the next decade, while
+  the Paris Climate Agreement's goal is well below 3.6 degrees Fahrenheit. About two-thirds
+  of countries have submitted formal, up-to-date plans for cutting greenhouse gas
+  emissions under the agreement; if every country that submitted a plan follows through,
+  those plans would reduce emissions by about 15% over the next decade, far less than
+  the 25% needed.
 primary_entities:
 - United States
 - United Nations
@@ -57,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +171,44 @@ related_stories:
   headline: Tropical warming will outlast net-zero emissions, study finds
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6686
-- slug: 2026-09-14-zeldin-calls-climate-rules-war-on-coal-at-g20-as-epa-ends-power-plant-limits
-  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant limits
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6695
+  strength: 0.6682
 - slug: 2026-09-02-un-report-acknowledges-earth-will-exceed-paris-climate-threshold
   headline: UN report acknowledges Earth will exceed Paris climate threshold
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.706
+  strength: 0.7059
 - slug: 2026-08-31-study-finds-air-conditioning-saved-nearly-58-000-us-lives-over-decade
   headline: Study finds air conditioning saved nearly 58,000 US lives over decade
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6832
+  strength: 0.6843
 - slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
   headline: EU, UK and Canada pare back climate goals amid energy costs
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6726
+  strength: 0.6728
 - slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
   headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6662
+  strength: 0.6664
 - slug: 2026-05-23-un-general-assembly-backs-advisory-opinion-on-climate-duties-after-us-opposition
-  headline: UN General Assembly backs advisory opinion on climate duties after US opposition
+  headline: UN General Assembly backs advisory opinion on climate duties after US
+    opposition
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.7051
+  strength: 0.705
 - slug: 2026-01-14-us-greenhouse-gas-emissions-rose-in-2025-study-finds-after-cold-winter
   headline: US greenhouse gas emissions rose in 2025, study finds after cold winter
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.729
+  strength: 0.7294
 - slug: 2026-05-27-un-75-chance-global-warming-breaches-1-5-c-in-next-five-years
   headline: 'UN: 75% chance global warming breaches 1.5°C in next five years'
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6896
-- slug: 2026-05-19-scientists-revise-global-warming-projections-say-worst-and-best-cases-no-longer-
-  headline: Scientists revise global warming projections, say worst and best cases no longer plausible
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6919
-- slug: 2026-05-20-scientists-narrow-climate-warming-futures-but-say-1-5-c-is-slipping
-  headline: Scientists narrow climate warming futures, but say 1.5°C is slipping
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6886
-- slug: 2026-05-20-un-general-assembly-backs-icj-climate-ruling-despite-us-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite US opposition
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6881
-- slug: 2026-05-19-scientists-narrow-climate-worst-and-best-case-projections-but-1-5-goal-slipping
-  headline: Scientists narrow climate worst and best case projections, but 1.5 goal slipping
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6848
-- slug: 2026-05-21-un-general-assembly-backs-icj-climate-ruling-despite-u-s-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite U.S. opposition
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6802
-- slug: 2026-05-22-un-general-assembly-backs-icj-climate-ruling-after-u-s-opposes-measure
-  headline: UN General Assembly backs ICJ climate ruling after U.S. opposes measure
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6793
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6708
-- slug: 2026-05-18-scientists-revise-global-warming-futures-say-1-5-c-goal-slipping
-  headline: Scientists revise global warming futures, say 1.5°C goal slipping
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6678
-- slug: 2026-01-08-trump-pulls-u-s-from-un-climate-framework-experts-warn-of-global-damage
-  headline: Trump pulls U.S. from UN climate framework, experts warn of global damage
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.694
-- slug: 2026-05-20-un-general-assembly-backs-international-court-climate-ruling-141-8
-  headline: UN General Assembly backs international court climate ruling, 141-8
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.657
-- slug: 2026-02-13-trump-s-epa-rejects-climate-as-health-threat-but-studies-find-harms
-  headline: Trump’s EPA rejects climate as health threat, but studies find harms
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6736
+  strength: 0.6894
 ---
-
 ## U.N. report finds U.S. emissions rose while global total held steady
 
 **Subtype:** fact

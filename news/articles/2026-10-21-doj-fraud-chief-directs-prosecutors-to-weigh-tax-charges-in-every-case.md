@@ -1,9 +1,19 @@
 ---
 headline: DOJ fraud chief directs prosecutors to weigh tax charges in every case
-secondary_headline: IRS Criminal Investigation team lost 331 staff last year, including 101 agents
+secondary_headline: IRS Criminal Investigation team lost 331 staff last year, including
+  101 agents
 publish_date: '2026-10-21'
-lede: The Wall Street Journal reported that Colin McDonald, head of the Justice Department’s National Fraud Enforcement Division, has directed federal prosecutors to weigh adding tax charges to every case they pursue. McDonald said gains from fraud should be reported as taxable income; the directive comes as IRS Criminal Investigation lost 331 staff last year and the Trump administration proposed an additional $1.4 billion budget cut for 2027.
-nut_graf: The Justice Department followed the directive with an enforcement surge highlighting dozens of cases involving accusations that swindlers sought a combined $490 million from the government. Legal experts said the approach could collect some lost revenue but could be difficult to carry out because of recent funding cuts and complex, resource-intensive tax cases.
+lede: The Wall Street Journal reported that Colin McDonald, head of the Justice Department’s
+  National Fraud Enforcement Division, has directed federal prosecutors to weigh adding
+  tax charges to every case they pursue. McDonald said gains from fraud should be
+  reported as taxable income; the directive comes as IRS Criminal Investigation lost
+  331 staff last year and the Trump administration proposed an additional $1.4 billion
+  budget cut for 2027.
+nut_graf: The Justice Department followed the directive with an enforcement surge
+  highlighting dozens of cases involving accusations that swindlers sought a combined
+  $490 million from the government. Legal experts said the approach could collect
+  some lost revenue but could be difficult to carry out because of recent funding
+  cuts and complex, resource-intensive tax cases.
 primary_entities:
 - Colin McDonald
 - Justice Department National Fraud Enforcement Division
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,113 +144,57 @@ related_stories:
   headline: Trump proposes serving as arbitrator of DOJ fraud tip rewards
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6682
-- slug: 2026-10-20-trump-plans-25-million-fraud-tip-program-paying-up-to-30-000
-  headline: Trump plans $25 million fraud-tip program paying up to $30,000
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6283
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6386
+  strength: 0.6675
 - slug: 2026-08-14-doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
   headline: DOJ's new fraud division faces internal strife, stalled investigations
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7324
+  strength: 0.7312
 - slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
   headline: DOJ fraud chief highlights old case at 'record' enforcement event
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6796
+  strength: 0.6786
 - slug: 2026-03-24-senate-confirms-colin-mcdonald-to-lead-doj-s-new-fraud-enforcement-division
   headline: Senate confirms Colin McDonald to lead DOJ’s new fraud enforcement division
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.7697
-- slug: 2026-08-14-doj-fraud-division-memo-names-trade-violations-among-enforcement-priorities
-  headline: DOJ fraud division memo names trade violations among enforcement priorities
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6415
+  strength: 0.7689
 - slug: 2026-02-26-trump-s-pick-to-lead-new-doj-fraud-unit-faces-scrutiny-over-oversight
   headline: Trump’s pick to lead new DOJ fraud unit faces scrutiny over oversight
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.7627
+  strength: 0.7618
 - slug: 2026-03-25-senate-confirms-colin-mcdonald-to-lead-doj-fraud-division-nationwide
   headline: Senate confirms Colin McDonald to lead DOJ fraud division nationwide
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.7507
+  strength: 0.7502
 - slug: 2026-07-23-justice-department-to-seek-fewer-records-and-set-five-week-timeline-for-merger-r
-  headline: Justice Department to seek fewer records and set five-week timeline for merger reviews
+  headline: Justice Department to seek fewer records and set five-week timeline for
+    merger reviews
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6672
+  strength: 0.6675
 - slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
   headline: Trump warns states to tighten unemployment fraud controls or lose funds
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6667
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6762
-- slug: 2026-03-28-vance-holds-first-anti-fraud-task-force-meeting-as-administration-targets-benefi
-  headline: Vance holds first anti-fraud task force meeting as administration targets benefits
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6788
-- slug: 2026-06-23-justice-department-unveils-6-5-billion-healthcare-fraud-crackdown
-  headline: Justice Department unveils $6.5 billion healthcare fraud crackdown
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6302
-- slug: 2026-06-05-treasury-asks-banks-casinos-to-flag-illegal-immigrant-labor-schemes
-  headline: Treasury asks banks, casinos to flag illegal immigrant labor schemes
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6381
-- slug: 2026-06-09-vance-refers-house-fraud-report-on-walz-ellison-to-doj-for-investigation
-  headline: Vance refers House fraud report on Walz, Ellison to DOJ for investigation
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6334
-- slug: 2026-05-20-trump-says-he-may-release-tax-returns-after-doj-deal-drops-claims
-  headline: Trump says he may release tax returns after DOJ deal drops claims
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6408
-- slug: 2026-05-22-trump-says-he-may-release-tax-returns-after-justice-department-deal
-  headline: Trump says he may release tax returns after Justice Department deal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6358
-- slug: 2026-05-17-doj-announces-nearly-1-8b-fund-to-compensate-trump-allies-over-tax-leak
-  headline: DOJ announces nearly $1.8B fund to compensate Trump allies over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6351
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6531
+  strength: 0.6669
 image:
   url: /articles/2026-10-21-doj-fraud-chief-directs-prosecutors-to-weigh-tax-charges-in-every-case.png
-  alt: "Illustration accompanying article: DOJ fraud chief directs prosecutors to weigh tax charges in every case"
+  alt: 'Illustration accompanying article: DOJ fraud chief directs prosecutors to
+    weigh tax charges in every case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## DOJ fraud chief directs prosecutors to weigh tax charges in every case
 
 **Subtype:** fact

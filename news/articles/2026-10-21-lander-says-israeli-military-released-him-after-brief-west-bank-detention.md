@@ -2,8 +2,18 @@
 headline: Lander says Israeli military released him after brief West Bank detention
 secondary_headline: Other participants remain detained, Lander says
 publish_date: '2026-10-21'
-lede: Brad Lander said the Israeli military briefly detained and released him in the occupied West Bank while he was supporting Palestinian farmers during an olive harvest. Lander said the military released him with a warning because of his public profile and that several other participants remained detained. He called for their release, while the Consul General of Israel in New York did not immediately respond to requests for comment.
-nut_graf: Lander’s claim concerns a U.S. congressional candidate’s participation in the West Bank olive harvest. The Wall Street Journal reported settler attacks, claims by some Israelis blaming the escalation on violent confrontations by Palestinians, and counterclaims by Palestinians and their supporters that settlers instigated far more incidents. The report also described recent attacks on a Washington Post photographer and European diplomats.
+lede: Brad Lander said the Israeli military briefly detained and released him in the
+  occupied West Bank while he was supporting Palestinian farmers during an olive harvest.
+  Lander said the military released him with a warning because of his public profile
+  and that several other participants remained detained. He called for their release,
+  while the Consul General of Israel in New York did not immediately respond to requests
+  for comment.
+nut_graf: Lander’s claim concerns a U.S. congressional candidate’s participation in
+  the West Bank olive harvest. The Wall Street Journal reported settler attacks, claims
+  by some Israelis blaming the escalation on violent confrontations by Palestinians,
+  and counterclaims by Palestinians and their supporters that settlers instigated
+  far more incidents. The report also described recent attacks on a Washington Post
+  photographer and European diplomats.
 primary_entities:
 - Brad Lander
 - Israeli military
@@ -54,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,116 +164,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-lander-says-israeli-military-released-him-after-brief-west-bank-detention.png
-  alt: 'Illustration accompanying article: Lander says Israeli military released him after brief West Bank detention'
+  alt: 'Illustration accompanying article: Lander says Israeli military released him
+    after brief West Bank detention'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
-  headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+- slug: 2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip
+  headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8674
+- slug: 2026-10-21-protect-the-harvest-steering-committee-reports-two-detention-sites
+  headline: Protect the Harvest steering committee reports two detention sites
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8575
+  strength: 0.8673
+- slug: 2026-10-21-israeli-security-forces-detain-brad-lander-and-about-80-activists-in-west-bank
+  headline: Israeli security forces detain Brad Lander and about 80 activists in West
+    Bank
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8572
+- slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
+  headline: Joshua Schoffman says volunteers complied with order without friction
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8108
 - slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
   headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7818
+  strength: 0.7816
+- slug: 2026-10-21-israeli-court-places-four-abu-falah-attack-suspects-under-house-arrest
+  headline: Israeli court places four Abu Falah attack suspects under house arrest
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7399
+- slug: 2026-10-26-israeli-forces-detain-23-member-delegation-seeking-entry-to-west-bank
+  headline: Israeli forces detain 23-member delegation seeking entry to West Bank
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7385
 - slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
+  headline: Israeli police arrest 10 settlers accused of attacking olive pickers,
+    journalists
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7423
-- slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
-  headline: Israeli court extends detention of 6 men over attacks on foreigners
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7401
-- slug: 2026-09-23-son-of-israeli-ambassador-to-us-seriously-injured-in-west-bank-ramming-attack
-  headline: Son of Israeli ambassador to US seriously injured in West Bank ramming attack
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6472
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7002
-- slug: 2026-09-08-un-commission-says-israeli-actions-in-syria-may-amount-to-war-crimes
-  headline: UN commission says Israeli actions in Syria may amount to war crimes
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6099
-- slug: 2026-08-13-israeli-troops-enter-qusra-after-settlers-besiege-palestinian-homes
-  headline: Israeli troops enter Qusra after settlers besiege Palestinian homes
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6598
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6892
-- slug: 2026-08-06-democrats-urge-trump-officials-to-restore-west-bank-settler-sanctions
-  headline: Democrats urge Trump officials to restore West Bank settler sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6371
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6309
-- slug: 2026-08-03-maisoon-ali-says-attackers-set-her-west-bank-home-on-fire
-  headline: Maisoon Ali says attackers set her West Bank home on fire
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6292
-- slug: 2026-05-03-spain-urges-release-of-activist-detained-by-israel-after-aid-flotilla
-  headline: Spain urges release of activist detained by Israel after aid flotilla
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6268
-- slug: 2026-03-13-israel-drops-charges-against-soldiers-accused-in-palestinian-detainee-abuse
-  headline: Israel drops charges against soldiers accused in Palestinian detainee abuse
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6403
-- slug: 2026-05-16-israeli-forces-set-up-temporary-camp-in-iraq-s-desert-during-iran-war
-  headline: Israeli forces set up temporary camp in Iraq’s desert during Iran war
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6187
-- slug: 2026-05-16-israeli-forces-operated-secret-desert-camp-inside-iraq-during-iran-war-officials
-  headline: Israeli forces operated secret desert camp inside Iraq during Iran war, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6161
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6031
-- slug: 2026-03-23-israeli-settlers-attack-west-bank-villages-as-gaza-strikes-kill-4
-  headline: Israeli settlers attack West Bank villages as Gaza strikes kill 4
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6315
-- slug: 2026-02-17-israel-to-charge-settler-filmed-firing-gun-during-west-bank-killing
-  headline: Israel to charge settler filmed firing gun during West Bank killing
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6364
-- slug: 2026-05-01-media-leaders-ask-israel-to-lift-ban-on-independent-gaza-reporting
-  headline: Media leaders ask Israel to lift ban on independent Gaza reporting
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6194
+  strength: 0.7418
 ---
-
 ## Lander says Israeli military released him after brief West Bank detention
 
 **Subtype:** fact

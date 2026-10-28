@@ -2,8 +2,14 @@
 headline: Trump says Hubbard's release followed direct request to Putin
 secondary_headline: Trump calls release unprecedented, says no swap was required
 publish_date: '2026-10-21'
-lede: President Donald Trump posted on Truth Social on October 21 that Stephen Hubbard was returning home, saying the release followed a direct request he made to Russian President Vladimir Putin during a telephone call the previous week. Trump's statement said the United States was not required to give anything in return, which he described as an unprecedented situation for Russia.
-nut_graf: The post said there was no "swap" necessary for the release and argued that Hubbard's return should have taken place long ago through the Biden Administration, which Trump said had gotten nowhere in its negotiations with the Kremlin.
+lede: President Donald Trump posted on Truth Social on October 21 that Stephen Hubbard
+  was returning home, saying the release followed a direct request he made to Russian
+  President Vladimir Putin during a telephone call the previous week. Trump's statement
+  said the United States was not required to give anything in return, which he described
+  as an unprecedented situation for Russia.
+nut_graf: The post said there was no "swap" necessary for the release and argued that
+  Hubbard's return should have taken place long ago through the Biden Administration,
+  which Trump said had gotten nowhere in its negotiations with the Kremlin.
 primary_entities:
 - Donald Trump
 - Stephen Hubbard
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +147,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-19-trump-defends-russia-sanctions-waiver-in-sunday-truthsocial-post
-  headline: Trump defends Russia sanctions waiver in Sunday TruthSocial post
-  publish_date: '2026-10-19'
+- slug: 2026-10-21-trump-links-hubbard-release-to-putin-call-says-u-s-effort-cost-nothing
+  headline: Trump links Hubbard release to Putin call, says U.S. effort cost nothing
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6234
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
+  strength: 0.83
+- slug: 2026-10-21-stephen-hubbard-returns-home-after-russian-authorities-release-him
+  headline: Stephen Hubbard returns home after Russian authorities release him
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6159
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
+  strength: 0.7431
+- slug: 2026-10-21-trump-tells-reporters-u-s-has-been-focused-on-hubbard
+  headline: Trump tells reporters U.S. has been focused on Hubbard
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6304
-- slug: 2026-10-11-trump-says-russia-and-ukraine-agreed-to-an-energy-ceasefire
-  headline: Trump says Russia and Ukraine agreed to an 'energy ceasefire'
-  publish_date: '2026-10-11'
+  strength: 0.7383
+- slug: 2026-10-21-putin-says-hubbard-was-at-pulkovo-airport-after-being-sentenced-to-nearly-seven-
+  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly
+    seven years in 2024
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6271
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
+  strength: 0.7246
+- slug: 2026-10-21-witkoff-praises-putin-after-hubbard-s-release
+  headline: Witkoff praises Putin after Hubbard’s release
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6315
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
+  strength: 0.7181
+- slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
+  headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6091
-- slug: 2026-09-29-trump-denies-offering-iran-sanctions-relief-for-nuclear-concessions
-  headline: Trump denies offering Iran sanctions relief for nuclear concessions
-  publish_date: '2026-09-29'
+  strength: 0.6939
+- slug: 2026-10-22-patricia-hubbard-fox-recounts-hubbard-s-first-moments-of-freedom
+  headline: Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6095
-- slug: 2026-09-13-trump-again-calls-on-fed-to-cut-rates-as-hike-is-expected
-  headline: Trump again calls on Fed to cut rates as hike is expected
-  publish_date: '2026-09-13'
+  strength: 0.685
+- slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
+  headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6081
-- slug: 2026-07-31-trump-says-us-has-not-agreed-to-ukraine-patriot-production-license
-  headline: Trump says US has not agreed to Ukraine Patriot production license
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6157
-- slug: 2026-08-02-truth-social-begins-selling-early-access-to-trump-s-posts-to-traders
-  headline: Truth Social begins selling early access to Trump's posts to traders
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.612
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6596
-- slug: 2026-07-16-trump-media-announces-paid-data-feed-giving-traders-access-to-president-s-truth-
-  headline: Trump Media announces paid data feed giving traders access to president's Truth Social posts
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6167
-- slug: 2026-07-08-trump-opens-45-day-clock-on-removing-syria-from-terrorism-list
-  headline: Trump opens 45-day clock on removing Syria from terrorism list
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.61
-- slug: 2026-01-05-trump-says-u-s-determined-ukraine-didn-t-hit-putin-residence-with-drones
-  headline: Trump says U.S. determined Ukraine didn't hit Putin residence with drones
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6691
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6365
-- slug: 2026-05-22-trump-says-5-000-more-troops-to-poland-sowing-confusion-in-europe
-  headline: Trump says 5,000 more troops to Poland, sowing confusion in Europe
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6167
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6128
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6349
-- slug: 2026-03-31-trump-says-he-has-no-problem-with-russian-tanker-aiding-cuba
-  headline: Trump says he has ‘no problem’ with Russian tanker aiding Cuba
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6224
-- slug: 2026-03-18-trump-says-predecessor-regretted-not-attacking-iran-former-presidents-deny-conta
-  headline: Trump says predecessor regretted not attacking Iran; former presidents deny contact
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6168
+  strength: 0.6751
 ---
-
 ## Trump says Hubbard's release followed direct request to Putin
 
 **Subtype:** fact

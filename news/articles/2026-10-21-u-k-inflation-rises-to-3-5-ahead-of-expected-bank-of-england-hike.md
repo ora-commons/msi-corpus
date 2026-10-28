@@ -2,8 +2,17 @@
 headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
 secondary_headline: Core inflation reaches 2.8% as services inflation also rises
 publish_date: '2026-10-21'
-lede: U.K. consumer prices rose 3.5% in September from a year earlier, up from 3.1% in August, the Office for National Statistics said Wednesday. Investors expect the Bank of England to raise its key interest rate on Nov. 5, its first increase since the war in Iran began, as energy costs pushed inflation further above the bank’s 2% target.
-nut_graf: David Rees, an economist at Schroders, said his base case remained that tighter financial conditions would weigh on growth while dampening domestic inflation pressures. The September data left policymakers weighing direct energy effects against broader pass-through. The Bank’s September projections pointed to inflation around 3.75% in the fourth quarter of 2026 and slightly above 4% in the first quarter of 2027, based on energy prices at the time.
+lede: U.K. consumer prices rose 3.5% in September from a year earlier, up from 3.1%
+  in August, the Office for National Statistics said Wednesday. Investors expect the
+  Bank of England to raise its key interest rate on Nov. 5, its first increase since
+  the war in Iran began, as energy costs pushed inflation further above the bank’s
+  2% target.
+nut_graf: David Rees, an economist at Schroders, said his base case remained that
+  tighter financial conditions would weigh on growth while dampening domestic inflation
+  pressures. The September data left policymakers weighing direct energy effects against
+  broader pass-through. The Bank’s September projections pointed to inflation around
+  3.75% in the fourth quarter of 2026 and slightly above 4% in the first quarter of
+  2027, based on energy prices at the time.
 primary_entities:
 - Bank of England
 - Office for National Statistics
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,116 +159,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike.png
-  alt: 'Illustration accompanying article: U.K. inflation rises to 3.5% ahead of expected Bank of England hike'
+  alt: 'Illustration accompanying article: U.K. inflation rises to 3.5% ahead of expected
+    Bank of England hike'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-14-september-cpi-rises-0-6-on-gasoline-surge-inflation-well-above-fed-target
-  headline: September CPI rises 0.6% on gasoline surge, inflation well above Fed target
-  publish_date: '2026-10-14'
+- slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
+  headline: Higher petrol and diesel costs drive Britain's September inflation
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.7218
+  strength: 0.8032
 - slug: 2026-10-12-uk-business-inflation-pressures-hit-three-year-high-bdo-index-shows
   headline: UK business inflation pressures hit three-year high, BDO index shows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7277
-- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
-  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.8445
+  strength: 0.7271
 - slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
   headline: UK inflation rises to 3.1% in August as fuel prices surge
   publish_date: '2026-09-16'
   relation: related
   strength: 0.8438
+- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
+  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
+  publish_date: '2026-09-16'
+  relation: related
+  strength: 0.8437
 - slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
+  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to
+    4%
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.804
+  strength: 0.8034
 - slug: 2026-09-29-spanish-inflation-climbs-to-5-0-highest-since-february-2023
   headline: Spanish inflation climbs to 5.0%, highest since February 2023
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7226
+  strength: 0.7232
 - slug: 2026-09-25-uk-consumer-confidence-hits-two-year-high-as-energy-costs-push-up-inflation
   headline: UK consumer confidence hits two-year high as energy costs push up inflation
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7378
+  strength: 0.7372
 - slug: 2026-09-17-bank-of-england-holds-rate-at-3-75-while-fed-ecb-raise-theirs
   headline: Bank of England holds rate at 3.75% while Fed, ECB raise theirs
   publish_date: '2026-09-17'
   relation: related
   strength: 0.7708
-- slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
-  headline: S&P Global UK consumer sentiment index falls to 42.7 in September
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7293
-- slug: 2026-09-10-ecb-lifts-rate-to-2-5-projects-3-inflation-this-year
-  headline: ECB lifts rate to 2.5%, projects 3% inflation this year
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7628
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.8035
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7485
-- slug: 2026-07-26-economists-warn-oil-surge-could-force-bank-of-england-rate-hikes
-  headline: Economists warn oil surge could force Bank of England rate hikes
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7892
-- slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
-  headline: Central banks face inflation risks as energy prices threaten weak growth
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.7417
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7837
-- slug: 2026-04-21-uk-inflation-rises-to-3-3-in-march-as-fuel-prices-jump-after-iran-war
-  headline: UK inflation rises to 3.3% in March as fuel prices jump after Iran war
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.8122
-- slug: 2026-04-22-uk-inflation-hits-3-3-in-march-as-pump-prices-surge-after-iran-war
-  headline: UK inflation hits 3.3% in March as pump prices surge after Iran war
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.8118
-- slug: 2026-06-17-uk-inflation-holds-at-2-8-in-may-defying-forecast-rise-to-3
-  headline: UK inflation holds at 2.8% in May, defying forecast rise to 3%
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7684
-- slug: 2026-06-17-uk-inflation-holds-steady-at-2-8-in-may-below-forecasts
-  headline: UK Inflation Holds Steady at 2.8% in May, Below Forecasts
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.74
-- slug: 2026-06-29-two-mpc-members-vote-for-rate-hike-as-pill-says-2-8-inflation-is-problematic
-  headline: Two MPC members vote for rate hike as Pill says 2.8% inflation is 'problematic'
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7237
 ---
-
 ## U.K. inflation rises to 3.5% ahead of expected Bank of England hike
 
 **Subtype:** fact

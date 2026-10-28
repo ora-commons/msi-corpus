@@ -2,8 +2,15 @@
 headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
 secondary_headline: Tesla automotive revenue drops 3% year-over-year
 publish_date: '2026-10-21'
-lede: Tesla on Wednesday reported third-quarter revenue and earnings that beat Wall Street projections, following Chief Executive Elon Musk's Tuesday statement to SpaceX investors that there is "a lot of merit" to merging Tesla with his rocket and AI company SpaceX. Tesla posted revenue of $28.05 billion and earnings per share of $0.48, above analyst projections of $27.9 billion and $0.43. Tesla's automotive revenue, however, fell 3% from the year-ago quarter.
-nut_graf: Tesla's earnings beat came against a backdrop of falling share price and rising competition from cheaper Chinese automakers, with the stock down more than 11% year-to-date and revenue slightly below the prior quarter.
+lede: Tesla on Wednesday reported third-quarter revenue and earnings that beat Wall
+  Street projections, following Chief Executive Elon Musk's Tuesday statement to SpaceX
+  investors that there is "a lot of merit" to merging Tesla with his rocket and AI
+  company SpaceX. Tesla posted revenue of $28.05 billion and earnings per share of
+  $0.48, above analyst projections of $27.9 billion and $0.43. Tesla's automotive
+  revenue, however, fell 3% from the year-ago quarter.
+nut_graf: Tesla's earnings beat came against a backdrop of falling share price and
+  rising competition from cheaper Chinese automakers, with the stock down more than
+  11% year-to-date and revenue slightly below the prior quarter.
 primary_entities:
 - Tesla
 - SpaceX
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +142,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-tesla-posts-28-billion-revenue-musk-says-optimus-could-be-ready-to-ship-by-the-e
+  headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship
+    by the end of next year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.829
+- slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
+  headline: SpaceX reports 161% revenue growth driven by Starlink and AI
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7893
+- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
+  headline: Wall Street advances as SpaceX beats summer profit expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7748
+- slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7404
 - slug: 2026-10-20-musk-says-tesla-spacex-merger-is-under-active-consideration
   headline: Musk says Tesla-SpaceX merger is under active consideration
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7429
+  strength: 0.743
 - slug: 2026-10-02-tesla-third-quarter-sales-fall-2-reversing-first-half-gains
   headline: Tesla third-quarter sales fall 2%, reversing first-half gains
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.779
-- slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
-  headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6602
+  strength: 0.7784
 - slug: 2026-09-13-tesla-s-us-ev-market-share-climbs-to-52-as-legacy-rivals-retreat
   headline: Tesla's US EV market share climbs to 52% as legacy rivals retreat
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6763
+  strength: 0.6775
 - slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
   headline: SpaceX shares down by half from June peak as earnings call nears
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.757
-- slug: 2026-07-22-tesla-r-d-spending-jumps-49-driving-profit-below-analyst-forecasts
-  headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7794
-- slug: 2026-08-13-afl-cio-report-finds-ceo-pay-at-top-s-p-500-firms-hit-312-times-worker-wages
-  headline: AFL-CIO report finds CEO pay at top S&P 500 firms hit 312 times worker wages
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6727
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6581
-- slug: 2026-06-13-a-look-at-elon-musk-s-vast-business-empire-from-spacex-to-tesla
-  headline: A look at Elon Musk's vast business empire, from SpaceX to Tesla
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7209
-- slug: 2026-01-30-tesla-profit-falls-to-lowest-since-pandemic-eyes-robotaxis-and-optimus
-  headline: Tesla profit falls to lowest since pandemic; eyes robotaxis and Optimus
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7572
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7141
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7033
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6938
-- slug: 2026-06-12-spacex-ipo-tops-176-company-surpasses-2-trillion-market-cap-on-debut
-  headline: SpaceX IPO tops $176, company surpasses $2 trillion market cap on debut
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6779
-- slug: 2026-05-22-spacex-ipo-prospectus-details-losses-lockups-and-a-1-million-person-mars-goal
-  headline: SpaceX IPO prospectus details losses, lockups and a 1 million-person Mars goal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6921
-- slug: 2026-02-03-elon-musk-to-combine-spacex-and-xai-businesses-ahead-of-ipo
-  headline: Elon Musk to combine SpaceX and xAI businesses ahead of IPO
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7117
-- slug: 2026-06-08-spacex-ipo-begins-trading-makes-musk-world-s-first-trillionaire
-  headline: SpaceX IPO begins trading, makes Musk world's first trillionaire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6682
-- slug: 2026-01-03-tesla-loses-top-ev-crown-to-byd-as-musk-tax-break-changes-weigh
-  headline: Tesla loses top EV crown to BYD as Musk, tax break changes weigh
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7099
-- slug: 2026-06-05-s-p-500-declines-fast-track-for-spacex-ipo-dimming-forced-buying-boost
-  headline: S&P 500 declines fast-track for SpaceX IPO, dimming forced-buying boost
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6695
-- slug: 2026-06-03-spacex-sets-ipo-share-price-at-135-valuation-at-1-75tn
-  headline: SpaceX sets IPO share price at $135, valuation at $1.75tn
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6697
+  strength: 0.7565
 ---
-
 ## Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
 
 **Subtype:** fact

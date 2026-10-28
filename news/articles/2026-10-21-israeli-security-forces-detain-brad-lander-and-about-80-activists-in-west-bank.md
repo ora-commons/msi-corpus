@@ -1,9 +1,20 @@
 ---
-headline: Israeli security forces detain Brad Lander and about 80 activists in West Bank
+headline: Israeli security forces detain Brad Lander and about 80 activists in West
+  Bank
 secondary_headline: Lawyers called the mass detention largest in at least a decade
 publish_date: '2026-10-21'
-lede: Israeli security forces detained about 80 American and Israeli rabbis and activists, including U.S. Democratic congressional nominee Brad Lander, on Oct. 21 while they helped Palestinian families harvest olives near Beitar Illit in the occupied West Bank. NPR reported that security forces arrived after about two hours, declared the area a closed military zone and took the group to a police station for questioning. The military and police did not immediately comment, and it was not clear what authorities accused the group of.
-nut_graf: The detentions involve a U.S. congressional candidate and American and Israeli religious activists during a dispute over safe access to Palestinian olive groves. NPR reported that several Palestinians had been unable to harvest since the Oct. 7, 2023 Hamas-led attack on Israel because rising settler attacks had made the fields too dangerous.
+lede: Israeli security forces detained about 80 American and Israeli rabbis and activists,
+  including U.S. Democratic congressional nominee Brad Lander, on Oct. 21 while they
+  helped Palestinian families harvest olives near Beitar Illit in the occupied West
+  Bank. NPR reported that security forces arrived after about two hours, declared
+  the area a closed military zone and took the group to a police station for questioning.
+  The military and police did not immediately comment, and it was not clear what authorities
+  accused the group of.
+nut_graf: The detentions involve a U.S. congressional candidate and American and Israeli
+  religious activists during a dispute over safe access to Palestinian olive groves.
+  NPR reported that several Palestinians had been unable to harvest since the Oct.
+  7, 2023 Hamas-led attack on Israel because rising settler attacks had made the fields
+  too dangerous.
 primary_entities:
 - Brad Lander
 - Israeli security forces
@@ -56,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,108 +166,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-lander-says-israeli-military-released-him-after-brief-west-bank-detention
+  headline: Lander says Israeli military released him after brief West Bank detention
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.871
+- slug: 2026-10-21-protect-the-harvest-steering-committee-reports-two-detention-sites
+  headline: Protect the Harvest steering committee reports two detention sites
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8642
+- slug: 2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip
+  headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8583
+- slug: 2026-10-21-joshua-schoffman-says-volunteers-complied-with-order-without-friction
+  headline: Joshua Schoffman says volunteers complied with order without friction
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8177
+- slug: 2026-10-26-israeli-forces-detain-23-member-delegation-seeking-entry-to-west-bank
+  headline: Israeli forces detain 23-member delegation seeking entry to West Bank
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7828
 - slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
   headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7831
+  strength: 0.7833
 - slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
   headline: Israeli court extends detention of 6 men over attacks on foreigners
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7469
+  strength: 0.7479
 - slug: 2026-10-19-israeli-police-arrest-10-settlers-accused-of-attacking-olive-pickers-journalists
-  headline: Israeli police arrest 10 settlers accused of attacking olive pickers, journalists
+  headline: Israeli police arrest 10 settlers accused of attacking olive pickers,
+    journalists
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7429
-- slug: 2026-09-30-senate-rejects-west-bank-accountability-resolution-in-47-51-vote
-  headline: Senate rejects West Bank accountability resolution in 47-51 vote
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6412
-- slug: 2026-08-31-lander-stays-at-anti-rss-rally-after-heckling-says-he-won-t-stop-joining-rallies
-  headline: Lander stays at anti-RSS rally after heckling, says he won't stop joining rallies against hate
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6764
-- slug: 2026-08-13-israeli-troops-enter-qusra-after-settlers-besiege-palestinian-homes
-  headline: Israeli troops enter Qusra after settlers besiege Palestinian homes
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6559
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.7127
-- slug: 2026-08-06-democrats-urge-trump-officials-to-restore-west-bank-settler-sanctions
-  headline: Democrats urge Trump officials to restore West Bank settler sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6602
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.651
-- slug: 2026-08-03-maisoon-ali-says-attackers-set-her-west-bank-home-on-fire
-  headline: Maisoon Ali says attackers set her West Bank home on fire
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6376
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6436
-- slug: 2026-02-17-israel-to-charge-settler-filmed-firing-gun-during-west-bank-killing
-  headline: Israel to charge settler filmed firing gun during West Bank killing
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6786
-- slug: 2026-05-16-france-targets-palestinian-activist-for-deportation-ramy-shaath-says
-  headline: France targets Palestinian activist for deportation, Ramy Shaath says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6462
-- slug: 2026-05-03-spain-urges-release-of-activist-detained-by-israel-after-aid-flotilla
-  headline: Spain urges release of activist detained by Israel after aid flotilla
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6467
-- slug: 2026-04-14-dozens-arrested-in-nyc-protest-urging-schumer-and-gillibrand-to-block-bombs
-  headline: Dozens arrested in NYC protest urging Schumer and Gillibrand to block bombs
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6481
-- slug: 2026-04-15-israeli-police-stop-dozens-of-palestinians-hidden-in-garbage-truck
-  headline: Israeli police stop dozens of Palestinians hidden in garbage truck
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6448
-- slug: 2026-05-09-israel-deports-activists-detained-over-aid-flotilla-to-gaza
-  headline: Israel deports activists detained over aid flotilla to Gaza
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6323
-- slug: 2026-03-23-israeli-settlers-attack-west-bank-villages-as-gaza-strikes-kill-4
-  headline: Israeli settlers attack West Bank villages as Gaza strikes kill 4
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6467
-- slug: 2026-04-12-grief-and-rage-in-lebanon-ahead-of-u-s-talks-with-israel
-  headline: Grief and rage in Lebanon ahead of U.S. talks with Israel
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6412
-- slug: 2026-04-03-leaders-call-for-release-of-wisconsin-mosque-president-detained-by-ice
-  headline: Leaders call for release of Wisconsin mosque president detained by ICE
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6408
+  strength: 0.7437
 ---
-
 ## Israeli security forces detain Brad Lander and about 80 activists in West Bank
 
 **Subtype:** fact

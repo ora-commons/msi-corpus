@@ -2,8 +2,16 @@
 headline: Saudi Arabia postpones flagship investor conference
 secondary_headline: Houthi missile attacks threaten Saudi Arabia's economic ambitions
 publish_date: '2026-10-20'
-lede: The Wall Street Journal's Morning Risk Report, published October 20, 2026, said Saudi Arabia had decided to postpone its flagship investor conference, described in the newsletter's headline as “Davos in the Desert.” The newsletter said missile attacks on the kingdom's airports and capital city by Iran-backed Houthi militants in Yemen were threatening Saudi Arabia's economic ambitions.
-nut_graf: The October 20 issue also covered a Department of Homeland Security order removing DeepSeek-developed artificial-intelligence technology from federal civilian systems, Risk Journal's report of U.S. sanctions over trade-secret theft, a West African gold-investment boom near record metal prices, and President Trump's openness to a Russia-China denuclearization meeting.
+lede: The Wall Street Journal's Morning Risk Report, published October 20, 2026, said
+  Saudi Arabia had decided to postpone its flagship investor conference, described
+  in the newsletter's headline as “Davos in the Desert.” The newsletter said missile
+  attacks on the kingdom's airports and capital city by Iran-backed Houthi militants
+  in Yemen were threatening Saudi Arabia's economic ambitions.
+nut_graf: The October 20 issue also covered a Department of Homeland Security order
+  removing DeepSeek-developed artificial-intelligence technology from federal civilian
+  systems, Risk Journal's report of U.S. sanctions over trade-secret theft, a West
+  African gold-investment boom near record metal prices, and President Trump's openness
+  to a Russia-China denuclearization meeting.
 primary_entities:
 - Saudi Arabia
 - Iran-backed Houthi militants
@@ -54,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,108 +161,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-saudi-authorities-blame-houthi-militants-for-dammam-airport-attack
+  headline: Saudi authorities blame Houthi militants for Dammam airport attack
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6891
+- slug: 2026-10-22-dammam-airport-attack-and-drone-debris-at-saudi-oil-facility-kill-three
+  headline: Dammam airport attack and drone debris at Saudi oil facility kill three
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6785
 - slug: 2026-10-19-trump-resists-saudi-crown-prince-s-request-for-houthi-airstrikes
   headline: Trump resists Saudi crown prince's request for Houthi airstrikes
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6792
+  strength: 0.6779
+- slug: 2026-10-24-us-intelligence-director-says-iran-increased-efforts-to-target-us-personnel
+  headline: US intelligence director says Iran increased efforts to target US personnel
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6517
 - slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
   headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7023
-- slug: 2026-10-16-ai-safety-incidents-expose-insurance-gap-in-fast-growing-industry
-  headline: AI safety incidents expose insurance gap in fast-growing industry
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6478
+  strength: 0.7018
 - slug: 2026-10-12-malik-us-held-houthi-meeting-before-refusing-to-extend-saudi-military-aid
-  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military aid'
+  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military
+    aid'
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6641
+  strength: 0.6637
 - slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
   headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6822
+  strength: 0.6812
 - slug: 2026-10-11-trump-announces-ukraine-russia-energy-ceasefire-as-houthis-strike-saudi-airport
-  headline: Trump announces Ukraine-Russia energy ceasefire as Houthis strike Saudi airport
+  headline: Trump announces Ukraine-Russia energy ceasefire as Houthis strike Saudi
+    airport
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6642
-- slug: 2026-10-12-projectile-hits-riyadh-airport-terminal-day-after-houthi-attack
-  headline: Projectile hits Riyadh airport terminal day after Houthi attack
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6579
-- slug: 2026-10-11-houthi-attack-on-riyadh-airport-forces-trump-to-rethink-midterm-strategy
-  headline: Houthi attack on Riyadh airport forces Trump to rethink midterm strategy
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.655
-- slug: 2026-10-09-houthi-attacks-on-riyadh-airport-kill-three-saudis
-  headline: Houthi attacks on Riyadh airport kill three Saudis
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6664
-- slug: 2026-10-07-eu-delays-methane-rules-a-year-sheinbaum-confronts-security-aides
-  headline: EU delays methane rules a year; Sheinbaum confronts security aides
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.665
-- slug: 2026-10-05-saudi-yemeni-forces-launch-counteroffensive-to-retake-mokha-from-houthis
-  headline: Saudi, Yemeni forces launch counteroffensive to retake Mokha from Houthis
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6572
-- slug: 2026-09-14-dozens-of-lawmakers-push-new-ai-regulation-proposals
-  headline: Dozens of lawmakers push new AI regulation proposals
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7146
-- slug: 2026-09-21-houthis-attack-riyadh-saudi-oil-hub-iran-sets-terms-for-us-talks
-  headline: Houthis attack Riyadh, Saudi oil hub; Iran sets terms for US talks
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.684
-- slug: 2026-09-21-houthis-push-for-red-sea-heights-as-trump-cancels-yemen-airstrikes
-  headline: Houthis push for Red Sea heights as Trump cancels Yemen airstrikes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.674
-- slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
-  headline: Iran threatens US bases as Trump weighs renewed bombing campaign
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6768
-- slug: 2026-09-16-houthis-seize-yemen-s-red-sea-coast-displacing-over-100-000
-  headline: Houthis seize Yemen's Red Sea coast, displacing over 100,000
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6619
-- slug: 2026-09-16-us-rebuffs-saudi-request-to-intervene-in-yemen-after-houthi-talks
-  headline: US rebuffs Saudi request to intervene in Yemen after Houthi talks
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6588
-- slug: 2026-09-10-duffy-publicly-criticizes-ford-s-business-with-chinese-automotive-firms
-  headline: Duffy publicly criticizes Ford's business with Chinese automotive firms
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6607
-- slug: 2026-09-11-saudi-arabia-shuts-east-west-pipeline-after-strikes-from-iraq
-  headline: Saudi Arabia shuts East-West pipeline after strikes from Iraq
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6487
-- slug: 2026-09-03-trump-s-iran-sanctions-compared-to-cuba-north-korea-venezuela-syria
-  headline: Trump's Iran sanctions compared to Cuba, North Korea, Venezuela, Syria
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6718
+  strength: 0.6633
 ---
-
 ## Saudi Arabia postpones flagship investor conference
 
 **Subtype:** fact

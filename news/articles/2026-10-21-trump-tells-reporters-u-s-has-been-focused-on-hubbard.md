@@ -2,8 +2,18 @@
 headline: Trump tells reporters U.S. has been focused on Hubbard
 secondary_headline: State Department classified Hubbard as wrongfully detained
 publish_date: '2026-10-21'
-lede: President Donald Trump said Tuesday that the United States had been focused on Stephen Hubbard and that he had raised the American citizen’s case with President Vladimir Putin. “Watch what happens,” Trump told reporters, “we have been focused on Hubbard.” BBC News reported that Russian state media said Hubbard had been taken to Pulkovo Airport during talks with U.S. envoy Steve Witkoff in St Petersburg and that Russia had agreed to release the American citizen, who had been jailed for allegedly fighting on behalf of Ukraine.
-nut_graf: 'Hubbard’s detention drew different official accounts: Russian prosecutors alleged that he served in a defence unit in Izyum, while the State Department classified him as “wrongfully detained.” The release agreement and Pulkovo Airport transfer were attributed to Putin through Russian state media, and the BBC said it had contacted the White House for comment.'
+lede: President Donald Trump said Tuesday that the United States had been focused
+  on Stephen Hubbard and that he had raised the American citizen’s case with President
+  Vladimir Putin. “Watch what happens,” Trump told reporters, “we have been focused
+  on Hubbard.” BBC News reported that Russian state media said Hubbard had been taken
+  to Pulkovo Airport during talks with U.S. envoy Steve Witkoff in St Petersburg and
+  that Russia had agreed to release the American citizen, who had been jailed for
+  allegedly fighting on behalf of Ukraine.
+nut_graf: 'Hubbard’s detention drew different official accounts: Russian prosecutors
+  alleged that he served in a defence unit in Izyum, while the State Department classified
+  him as “wrongfully detained.” The release agreement and Pulkovo Airport transfer
+  were attributed to Putin through Russian state media, and the BBC said it had contacted
+  the White House for comment.'
 primary_entities:
 - Stephen Hubbard
 - Donald Trump
@@ -60,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,7 +170,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-putin-says-hubbard-was-at-pulkovo-airport-after-being-sentenced-to-nearly-seven-
-  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly seven years in 2024
+  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly
+    seven years in 2024
   publish_date: '2026-10-21'
   relation: related
   strength: 0.8384
@@ -168,11 +180,26 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.8048
+- slug: 2026-10-21-trump-links-hubbard-release-to-putin-call-says-u-s-effort-cost-nothing
+  headline: Trump links Hubbard release to Putin call, says U.S. effort cost nothing
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8044
+- slug: 2026-10-21-witkoff-praises-putin-after-hubbard-s-release
+  headline: Witkoff praises Putin after Hubbard’s release
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7612
 - slug: 2026-10-21-trump-says-hubbard-s-release-followed-direct-request-to-putin
   headline: Trump says Hubbard's release followed direct request to Putin
   publish_date: '2026-10-21'
   relation: related
   strength: 0.7383
+- slug: 2026-10-22-patricia-hubbard-fox-recounts-hubbard-s-first-moments-of-freedom
+  headline: Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7377
 - slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
   headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
   publish_date: '2026-10-21'
@@ -183,83 +210,7 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6997
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.651
-- slug: 2026-10-04-trump-criticises-uk-release-of-raf-fairford-suspects-on-bail
-  headline: Trump criticises UK release of RAF Fairford suspects on bail
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6668
-- slug: 2026-10-07-trump-to-raise-russian-lab-worker-s-death-with-putin
-  headline: Trump to raise Russian lab worker's death with Putin
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6414
-- slug: 2026-10-05-trump-says-us-knows-the-people-behind-raf-fairford-bomber-threat
-  headline: Trump says US 'knows the people' behind RAF Fairford bomber threat
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6428
-- slug: 2026-09-27-trump-says-raf-fairford-suspects-looking-to-do-big-damage
-  headline: Trump says RAF Fairford suspects 'looking to do big damage'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.65
-- slug: 2026-09-13-trump-to-raise-detained-american-min-zin-s-case-at-xi-summit
-  headline: Trump to raise detained American Min Zin's case at Xi summit
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6464
-- slug: 2026-09-02-luke-harding-publishes-betrayal-on-trump-putin-ties
-  headline: Luke Harding publishes 'Betrayal' on Trump-Putin ties
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6366
-- slug: 2026-08-17-trump-confirms-secret-turkey-plane-switch-after-nato-summit
-  headline: Trump confirms secret Turkey plane switch after NATO summit
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6354
-- slug: 2026-01-05-trump-says-u-s-determined-ukraine-didn-t-hit-putin-residence-with-drones
-  headline: Trump says U.S. determined Ukraine didn't hit Putin residence with drones
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6926
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6417
-- slug: 2026-05-16-trump-says-xi-will-consider-detained-pastor-ezra-jin-jimmy-lai-case-tough
-  headline: Trump says Xi will consider detained pastor Ezra Jin; Jimmy Lai case 'tough'
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-18-trump-administration-escalates-cuba-pressure-after-ra-l-castro-indictment
-  headline: Trump administration escalates Cuba pressure after Raúl Castro indictment
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6393
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6424
-- slug: 2026-05-16-u-s-eyes-indictment-against-ra-l-castro-as-trump-pressures-cuba
-  headline: U.S. eyes indictment against Raúl Castro as Trump pressures Cuba
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6384
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6342
 ---
-
 ## Trump tells reporters U.S. has been focused on Hubbard
 
 **Subtype:** fact

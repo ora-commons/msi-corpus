@@ -2,8 +2,19 @@
 headline: Authorities arrest Jaden J Read over alleged threats against Trump
 secondary_headline: Read remains in federal custody pending a detention hearing
 publish_date: '2026-10-21'
-lede: Authorities arrested Jaden J Read, 24, of Clearwater, Kansas, last Saturday after he allegedly posted threats to kill Donald Trump before a rally in the Wichita area on Monday, according to the justice department. Read was taken into federal custody and will remain there pending a detention hearing after the district of Kansas filed a criminal complaint against him for making threats against the president. According to federal authorities, a Crime Stoppers tip on 15 October led investigators to a Facebook post responding to a KAKE News article about Trump’s upcoming Wichita visit; authorities separately found two additional comments allegedly posted by Read in response to a KWCH 12 News article about the planned visit.
-nut_graf: Read’s case remains at the detention-hearing stage, with a criminal complaint filed in the district of Kansas. US attorney Ryan A Kriegshauser said political violence and threats of political violence would not be tolerated, while also cautioning people to stay within the bounds of constitutionally protected speech.
+lede: Authorities arrested Jaden J Read, 24, of Clearwater, Kansas, last Saturday
+  after he allegedly posted threats to kill Donald Trump before a rally in the Wichita
+  area on Monday, according to the justice department. Read was taken into federal
+  custody and will remain there pending a detention hearing after the district of
+  Kansas filed a criminal complaint against him for making threats against the president.
+  According to federal authorities, a Crime Stoppers tip on 15 October led investigators
+  to a Facebook post responding to a KAKE News article about Trump’s upcoming Wichita
+  visit; authorities separately found two additional comments allegedly posted by
+  Read in response to a KWCH 12 News article about the planned visit.
+nut_graf: Read’s case remains at the detention-hearing stage, with a criminal complaint
+  filed in the district of Kansas. US attorney Ryan A Kriegshauser said political
+  violence and threats of political violence would not be tolerated, while also cautioning
+  people to stay within the bounds of constitutionally protected speech.
 primary_entities:
 - Jaden J Read
 - Donald Trump
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,109 +160,8 @@ cross_article_links:
   strength: 0.6049
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-09-doj-convenes-grand-jury-in-case-against-cassidy-hutchinson
-  headline: DOJ convenes grand jury in case against Cassidy Hutchinson
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6074
-- slug: 2026-09-19-thousands-rally-at-kennedy-center-over-closure-demolition-fears
-  headline: Thousands rally at Kennedy Center over closure, demolition fears
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.61
-- slug: 2026-08-05-taele-faces-federal-weapons-charge-after-arrest-at-trump-golf-club
-  headline: Taele faces federal weapons charge after arrest at Trump golf club
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6073
-- slug: 2026-07-16-former-marine-charged-with-threatening-to-kill-trump
-  headline: Former Marine charged with threatening to kill Trump
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6285
-- slug: 2026-06-27-eight-in-custody-in-alleged-plot-to-assassinate-trump-at-white-house-ufc-event
-  headline: Eight in custody in alleged plot to assassinate Trump at White House UFC event
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6088
-- slug: 2026-05-14-ex-mayor-in-kansas-is-in-custody-of-u-s-immigration-authorities
-  headline: Ex-mayor in Kansas is in custody of U.S. immigration authorities
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6372
-- slug: 2026-05-15-ice-detiene-a-exalcalde-de-kansas-que-vot-pese-a-no-ser-ciudadano
-  headline: ICE detiene a exalcalde de Kansas que votó pese a no ser ciudadano
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6308
-- slug: 2026-05-15-ice-detains-joe-ceballos-former-kansas-mayor-over-illegal-voting-as-non-citizen
-  headline: ICE detains Joe Ceballos, former Kansas mayor, over illegal voting as non-citizen
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6251
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6323
-- slug: 2026-05-14-ice-detains-former-coldwater-mayor-after-guilty-plea-for-voting-as-noncitizen
-  headline: ICE detains former Coldwater mayor after guilty plea for voting as noncitizen
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6244
-- slug: 2026-04-26-trump-calls-for-unity-after-third-attempt-but-will-the-tone-last
-  headline: Trump calls for unity after third attempt. But will the tone last?
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.619
-- slug: 2026-04-30-media-dinner-shooter-case-spotlights-amtrak-train-security
-  headline: Media dinner shooter case spotlights Amtrak train security
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6146
-- slug: 2026-04-02-judge-rules-trump-not-immune-from-civil-claims-tied-to-jan-6-speech
-  headline: Judge rules Trump not immune from civil claims tied to Jan. 6 speech
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6219
-- slug: 2026-01-29-suspect-in-ilhan-omar-spray-attack-made-pro-trump-posts
-  headline: Suspect in Ilhan Omar spray attack made pro-Trump posts
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6315
-- slug: 2026-04-28-planning-for-trump-s-security-during-big-events-may-get-trickier
-  headline: Planning for Trump’s security during big events may get trickier
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6117
-- slug: 2026-04-30-comey-returns-to-court-in-case-alleging-86-47-trump-threat
-  headline: Comey returns to court in case alleging ‘86 47’ Trump threat
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6105
-- slug: 2026-04-28-dc-gala-shooting-suspect-railed-at-trump-in-writings-before-attack
-  headline: DC gala shooting suspect railed at Trump in writings before attack
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6071
-- slug: 2026-01-22-vance-blames-local-officials-for-minneapolis-immigration-unrest
-  headline: Vance blames local officials for Minneapolis immigration unrest
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6245
-- slug: 2026-02-06-man-arrested-over-alleged-cyberstalking-in-minnesota-ice-crackdown
-  headline: Man arrested over alleged cyberstalking in Minnesota ICE crackdown
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6219
-- slug: 2026-01-30-wisconsin-jury-convicts-demetric-scott-of-forging-threats-against-trump
-  headline: Wisconsin jury convicts Demetric Scott of forging threats against Trump
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6211
+related_stories: []
 ---
-
 ## Authorities arrest Jaden J Read over alleged threats against Trump
 
 **Subtype:** fact

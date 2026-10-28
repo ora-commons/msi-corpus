@@ -2,8 +2,16 @@
 headline: Trump makes expanded executive power a midterm campaign argument
 secondary_headline: Tevi Troy describes Trump's approach as 'unilateralism'
 publish_date: '2026-10-21'
-lede: President Trump told supporters in Northern Kentucky this weekend that his second term has brought greater power than his first and that he can take actions he previously would not have dared to take. Less than two weeks before the midterm elections, Trump is using that expanded authority to make his case to voters.
-nut_graf: NPR's reporting points to several actions as illustrations of that expanded authority, including federal law enforcement actions, construction in Washington, D.C., and investigations into nine universities including Harvard and Yale. Presidential historian Tevi Troy said Trump is using presidential power in a distinctive way, not just to get around congressional gridlock but also to go after political and cultural opponents.
+lede: President Trump told supporters in Northern Kentucky this weekend that his second
+  term has brought greater power than his first and that he can take actions he previously
+  would not have dared to take. Less than two weeks before the midterm elections,
+  Trump is using that expanded authority to make his case to voters.
+nut_graf: NPR's reporting points to several actions as illustrations of that expanded
+  authority, including federal law enforcement actions, construction in Washington,
+  D.C., and investigations into nine universities including Harvard and Yale. Presidential
+  historian Tevi Troy said Trump is using presidential power in a distinctive way,
+  not just to get around congressional gridlock but also to go after political and
+  cultural opponents.
 primary_entities:
 - Trump
 - Tevi Troy
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,106 +160,45 @@ related_stories:
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7166
+  strength: 0.7158
 - slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7148
+  strength: 0.7146
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7054
+  strength: 0.7047
 - slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
   headline: Trump launches 32-day midterm rally blitz through GOP strongholds
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6863
+  strength: 0.6859
 - slug: 2026-09-28-trump-s-d-c-construction-push-draws-lawsuits-preservationist-warnings
   headline: Trump's D.C. construction push draws lawsuits, preservationist warnings
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7126
+  strength: 0.7124
 - slug: 2026-09-27-trump-s-public-profanity-spreads-to-officials-in-both-parties
   headline: Trump's public profanity spreads to officials in both parties
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6858
+  strength: 0.6854
 - slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
   headline: Trump closes GOP midterm convention with personal vote pledge
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.684
+  strength: 0.6837
 - slug: 2026-08-31-trump-describes-post-presidency-life-in-recent-speeches
   headline: Trump describes post-presidency life in recent speeches
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6948
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.685
-- slug: 2026-08-29-trump-focuses-on-legacy-projects-as-400-million-sits-unspent
-  headline: Trump focuses on legacy projects as $400 million sits unspent
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7
-- slug: 2026-06-28-trump-banners-fly-over-washington-as-america-marks-250th
-  headline: Trump banners fly over Washington as America marks 250th
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7416
-- slug: 2026-07-02-trump-declares-there-are-no-limits-to-his-power
-  headline: Trump declares 'there are no limits' to his power
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7353
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7123
-- slug: 2026-07-15-trump-s-second-term-fundraising-network-tops-500-million
-  headline: Trump's second-term fundraising network tops $500 million
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7015
-- slug: 2026-07-16-former-trump-lawyer-warns-speech-may-target-midterms
-  headline: Former Trump lawyer warns speech may target midterms
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6928
-- slug: 2026-06-29-eight-cases-on-trump-s-executive-authority-head-supreme-court-s-final-week
-  headline: Eight cases on Trump's executive authority head Supreme Court's final week
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7076
-- slug: 2026-01-22-one-year-in-trump-has-pursued-broad-policy-agenda-with-mixed-results
-  headline: One Year In, Trump Has Pursued Broad Policy Agenda With Mixed Results
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7431
-- slug: 2026-06-11-trump-and-house-allies-push-to-expunge-his-two-impeachments
-  headline: Trump and House allies push to 'expunge' his two impeachments
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6947
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6805
-- slug: 2026-02-26-trump-starts-midterm-message-push-after-state-of-the-union-trip-to-texas
-  headline: Trump starts midterm message push after State of the Union trip to Texas
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7075
+  strength: 0.6953
 analyses:
-- '2026-10-21-trump-turns-expanded-executive-discretion-into-a-governing-credential'
+- 2026-10-21-trump-turns-expanded-executive-discretion-into-a-governing-credential
 ---
-
 ## Trump makes expanded executive power a midterm campaign argument
 
 **Subtype:** fact

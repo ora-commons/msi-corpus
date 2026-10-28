@@ -2,8 +2,19 @@
 headline: PAHO reports 38% rise in youth suicide rates across the Americas
 secondary_headline: Uruguay reports fewer deaths but records thousands of attempts
 publish_date: '2026-10-21'
-lede: A Pan American Health Organization study published in May found that 18,157 people ages 10 to 24 died by suicide across the Americas in 2021. The study reported that the suicide rate among people ages 10 to 24 rose 38% from 2000 to 2021, compared with a 17% increase for the overall population. During Inter-American Mental Health Week, PAHO and the Organization of American States called for stronger government action. Psychologist Nibia Pizzo says preventing future suicides requires more than clinics.
-nut_graf: PAHO, citing WHO's Mental Health Atlas 2024, says median mental health spending across the Americas is 2.1% of health budgets, with 42% of that funding going to psychiatric hospitals rather than community-based services. Pizzo said the test is whether government declarations and national strategies become funded programs with measurable results, including family- and school-based prevention and timely clinical care.
+lede: A Pan American Health Organization study published in May found that 18,157
+  people ages 10 to 24 died by suicide across the Americas in 2021. The study reported
+  that the suicide rate among people ages 10 to 24 rose 38% from 2000 to 2021, compared
+  with a 17% increase for the overall population. During Inter-American Mental Health
+  Week, PAHO and the Organization of American States called for stronger government
+  action. Psychologist Nibia Pizzo says preventing future suicides requires more than
+  clinics.
+nut_graf: PAHO, citing WHO's Mental Health Atlas 2024, says median mental health spending
+  across the Americas is 2.1% of health budgets, with 42% of that funding going to
+  psychiatric hospitals rather than community-based services. Pizzo said the test
+  is whether government declarations and national strategies become funded programs
+  with measurable results, including family- and school-based prevention and timely
+  clinical care.
 primary_entities:
 - Pan American Health Organization
 - Organization of American States
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +163,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-23-cdc-youth-survey-finds-improved-teen-mental-health-realigns-report-focus
-  headline: CDC youth survey finds improved teen mental health, realigns report focus
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6378
-- slug: 2026-09-20-rethink-finds-record-premature-mortality-among-severely-mentally-ill-in-england
-  headline: Rethink finds record premature mortality among severely mentally ill in England
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6054
-- slug: 2026-09-23-cdc-youth-survey-finds-improved-teen-mental-health-and-lower-suicide-risk
-  headline: CDC youth survey finds improved teen mental health and lower suicide risk
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.59
 - slug: 2026-09-01-latin-american-marriage-and-birth-rates-decline-official-data-show
   headline: Latin American marriage and birth rates decline, official data show
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6667
-- slug: 2026-09-16-us-survey-finds-52-of-adults-experienced-lifetime-physical-violence
-  headline: US survey finds 52% of adults experienced lifetime physical violence
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5927
-- slug: 2026-09-08-latin-america-s-pisa-scores-decline-further-in-2025-results
-  headline: Latin America's PISA scores decline further in 2025 results
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6021
-- slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
-  headline: US domestic violence killings rise while overall homicides fall
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6089
-- slug: 2026-08-21-who-estimates-nearly-11-million-measles-cases-globally-in-2026
-  headline: WHO estimates nearly 11 million measles cases globally in 2026
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5902
-- slug: 2026-07-14-syphilis-cases-surge-across-latin-america-as-paho-reports-4-2-million-new-infect
-  headline: Syphilis cases surge across Latin America as PAHO reports 4.2 million new infections
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6439
-- slug: 2026-07-22-study-finds-1-in-10-americans-see-politics-as-top-safety-threat
-  headline: Study finds 1 in 10 Americans see politics as top safety threat
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6234
-- slug: 2026-07-21-un-report-finds-healthy-diet-cost-up-25-since-2021
-  headline: UN report finds healthy diet cost up 25% since 2021
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6207
-- slug: 2026-07-20-global-road-fatalities-fall-30-since-1990-but-six-nations-buck-trend
-  headline: Global road fatalities fall 30% since 1990, but six nations buck trend
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6218
-- slug: 2026-07-09-us-murder-rate-fell-to-record-low-in-2025-criminologist-says
-  headline: US murder rate fell to record low in 2025, criminologist says
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6191
+  strength: 0.668
 - slug: 2026-04-25-988-hotline-linked-to-fewer-teen-and-young-adult-suicide-deaths
   headline: 988 hotline linked to fewer teen and young adult suicide deaths
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.6599
-- slug: 2026-06-03-measles-surge-in-americas-threatens-world-cup-travel-with-20-000-cases-25-deaths
-  headline: Measles surge in Americas threatens World Cup travel with 20,000 cases, 25 deaths
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6223
-- slug: 2026-07-04-child-drowning-deaths-in-u-s-reverse-decades-of-decline
-  headline: Child drowning deaths in U.S. reverse decades of decline
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5906
-- slug: 2026-07-04-u-s-child-drowning-deaths-rose-from-about-750-in-2019-to-more-than-860-in-2024-a
-  headline: U.S. child drowning deaths rose from about 750 in 2019 to more than 860 in 2024, AAP-cited data show
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5906
-- slug: 2026-04-01-military-suicides-fell-in-2024-but-long-term-active-duty-trend-rises
-  headline: Military suicides fell in 2024, but long-term active-duty trend rises
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.639
-- slug: 2026-05-14-us-overdose-deaths-fall-14-percent-in-2025-cdc-data-shows
-  headline: US overdose deaths fall 14 percent in 2025, CDC data shows
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6185
-- slug: 2026-02-05-mexico-leads-in-measles-cases-as-paho-urges-urgent-vaccination-drives
-  headline: Mexico leads in measles cases as PAHO urges urgent vaccination drives
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6372
+  strength: 0.6595
 ---
-
 ## PAHO reports 38% rise in youth suicide rates across the Americas
 
 **Subtype:** fact

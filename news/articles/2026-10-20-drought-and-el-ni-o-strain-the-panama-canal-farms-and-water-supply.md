@@ -2,8 +2,23 @@
 headline: Drought and El Niño strain the Panama Canal, farms and water supply
 secondary_headline: Long-term reservoir plan would displace about 2,500 people
 publish_date: '2026-10-20'
-lede: Panama is facing parallel effects from drought and El Niño in Panama Canal shipping, agriculture and drinking-water access as the El Niño-intensified dry season approaches in December. The government declared a national state of emergency in August that will remain in place until June 2027, and authorities forecast rainfall deficits of more than 50% in some regions until December. Low water levels twice triggered restrictions on daily vessel transits in September. The Guardian documented drought in the lake of Cienaga de las Macanas in El Rincon, Herrera province, while Azuero farmer Robert Delgado is selling off cattle after failed rains left pastures unable to regenerate.
-nut_graf: Panama's drought is producing parallel effects in canal shipping, agriculture and household water access. The canal's freshwater lakes supply about 2 million people, while a long-term $1.5 billion Indio River reservoir plan could supply Lake Gatún for five decades but would displace about 2,500 people in 38 rural communities. An $8.2 million emergency package includes livestock feed and irrigation equipment, while government estimates put pipe losses at about 50% in some areas. Environment Minister Juan Navarro identified inadequate water purification and treatment facilities as a central challenge to Panama's water system.
+lede: Panama is facing parallel effects from drought and El Niño in Panama Canal shipping,
+  agriculture and drinking-water access as the El Niño-intensified dry season approaches
+  in December. The government declared a national state of emergency in August that
+  will remain in place until June 2027, and authorities forecast rainfall deficits
+  of more than 50% in some regions until December. Low water levels twice triggered
+  restrictions on daily vessel transits in September. The Guardian documented drought
+  in the lake of Cienaga de las Macanas in El Rincon, Herrera province, while Azuero
+  farmer Robert Delgado is selling off cattle after failed rains left pastures unable
+  to regenerate.
+nut_graf: Panama's drought is producing parallel effects in canal shipping, agriculture
+  and household water access. The canal's freshwater lakes supply about 2 million
+  people, while a long-term $1.5 billion Indio River reservoir plan could supply Lake
+  Gatún for five decades but would displace about 2,500 people in 38 rural communities.
+  An $8.2 million emergency package includes livestock feed and irrigation equipment,
+  while government estimates put pipe losses at about 50% in some areas. Environment
+  Minister Juan Navarro identified inadequate water purification and treatment facilities
+  as a central challenge to Panama's water system.
 primary_entities:
 - Panama
 - Panama Canal
@@ -52,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +170,44 @@ related_stories:
   headline: Itaipu dam opens all spillway gates as El Niño-linked rains flood tri-border
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6805
+  strength: 0.6814
 - slug: 2026-10-15-newsom-declares-california-state-of-emergency-ahead-of-el-ni-o-season
   headline: Newsom declares California state of emergency ahead of El Niño season
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6612
+  strength: 0.6629
 - slug: 2026-09-15-panama-canal-plans-18-daily-traffic-cut-as-el-ni-o-drought-worsens
   headline: Panama Canal plans 18% daily traffic cut as El Niño drought worsens
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8132
+  strength: 0.8147
 - slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
   headline: California readies for potentially historic El Niño winter
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6767
-- slug: 2026-10-01-noaa-scales-back-el-ni-o-research-as-super-event-peaks
-  headline: NOAA scales back El Niño research as super event peaks
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6437
+  strength: 0.6766
 - slug: 2026-09-29-el-ni-o-sets-century-record-for-atlantic-hurricane-drought
   headline: El Niño sets century record for Atlantic hurricane drought
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6532
+  strength: 0.6548
 - slug: 2026-08-29-strong-el-ni-o-disrupts-global-commodity-and-shipping-markets
   headline: Strong El Niño disrupts global commodity and shipping markets
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7644
+  strength: 0.7655
 - slug: 2026-09-15-peru-raises-coastal-el-ni-o-extraordinary-probability-to-85
   headline: Peru raises coastal El Niño 'extraordinary' probability to 85%
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7053
+  strength: 0.7059
 - slug: 2026-09-08-espino-de-marotta-takes-over-panama-canal-facing-drought-and-us-china-rivalry
-  headline: Espino de Marotta takes over Panama Canal facing drought and US-China rivalry
+  headline: Espino de Marotta takes over Panama Canal facing drought and US-China
+    rivalry
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7286
-- slug: 2026-09-21-newsom-declares-california-emergency-ahead-of-record-strength-el-ni-o
-  headline: Newsom declares California emergency ahead of record-strength El Niño
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6626
-- slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
-  headline: WMO warns strongest El Niño in 70 years set to intensify into winter
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.669
-- slug: 2026-09-24-peloton-weighs-moving-bike-treadmill-production-closer-to-us
-  headline: Peloton weighs moving bike, treadmill production closer to US
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6412
-- slug: 2026-09-15-this-year-s-el-ni-o-ranks-among-the-strongest-on-record
-  headline: This year's El Niño ranks among the strongest on record
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6456
-- slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6819
-- slug: 2026-08-21-u-s-declares-drought-disaster-in-virgin-islands-amid-el-ni-o
-  headline: U.S. declares drought disaster in Virgin Islands amid El Niño
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6749
-- slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
-  headline: Latin American governments prepare contingency plans for El Niño impacts
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6912
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6894
-- slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
-  headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6397
-- slug: 2026-07-13-pipeline-break-leaves-puerto-ricans-without-water-for-weeks
-  headline: Pipeline break leaves Puerto Ricans without water for weeks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.648
-- slug: 2026-06-09-professor-outlines-10-ways-super-el-ni-o-could-hit-global-economy-food-supply
-  headline: Professor outlines 10 ways 'super' El Niño could hit global economy, food supply
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6711
+  strength: 0.7305
 ---
-
 ## Drought and El Niño strain the Panama Canal, farms and water supply
 
 **Subtype:** fact

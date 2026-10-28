@@ -1,9 +1,17 @@
 ---
 headline: California state workers walk out amid contract dispute
-secondary_headline: CalHR remains available; SEIU ready to escalate if state refuses to negotiate fairly
+secondary_headline: CalHR remains available; SEIU ready to escalate if state refuses
+  to negotiate fairly
 publish_date: '2026-10-21'
-lede: California state workers began a one-day strike Wednesday in major cities across the state to protest what they say are unfair labor practices by Gov. Gavin Newsom's government. The workers' contract expired June 30, and the Service Employees International Union said Newsom's government rejected the union's proposals. SEIU Local 1000 members had been without a contract for over three months, the union said.
-nut_graf: The labor contract expired June 30. CalHR said it remained available at the bargaining table, while SEIU said it was prepared to escalate and hold the line if the state refused to negotiate fairly. Walls advised Californians to make an appointment for another day if services at the DMV were limited.
+lede: California state workers began a one-day strike Wednesday in major cities across
+  the state to protest what they say are unfair labor practices by Gov. Gavin Newsom's
+  government. The workers' contract expired June 30, and the Service Employees International
+  Union said Newsom's government rejected the union's proposals. SEIU Local 1000 members
+  had been without a contract for over three months, the union said.
+nut_graf: The labor contract expired June 30. CalHR said it remained available at
+  the bargaining table, while SEIU said it was prepared to escalate and hold the line
+  if the state refused to negotiate fairly. Walls advised Californians to make an
+  appointment for another day if services at the DMV were limited.
 primary_entities:
 - California
 - Service Employees International Union
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,46 @@ related_stories:
   headline: California state workers set to strike over wages, telework and healthcare
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8656
-- slug: 2026-10-10-more-than-50-000-california-ride-share-drivers-sign-cards-to-join-new-union
-  headline: More than 50,000 California ride-share drivers sign cards to join new union
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6372
-- slug: 2026-10-01-newsom-signs-california-laws-curbing-ai-in-workplace-decisions
-  headline: Newsom signs California laws curbing AI in workplace decisions
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6305
+  strength: 0.8669
 - slug: 2026-08-01-california-minimum-wage-to-rise-to-17-40-highest-in-us-newsom-says
   headline: California minimum wage to rise to $17.40, highest in US, Newsom says
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.6755
+  strength: 0.6761
 - slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
+  headline: Union behind California billionaire tax offers to drop it for smaller
+    version
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6781
-- slug: 2026-01-27-31-000-kaiser-permanente-workers-strike-for-better-wages-and-staffing
-  headline: 31,000 Kaiser Permanente workers strike for better wages and staffing
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7115
+  strength: 0.6791
 - slug: 2026-02-10-california-union-seeks-to-make-remote-work-permanent-for-state-workers
   headline: California union seeks to make remote work permanent for state workers
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.7101
+  strength: 0.7106
+- slug: 2026-01-27-31-000-kaiser-permanente-workers-strike-for-better-wages-and-staffing
+  headline: 31,000 Kaiser Permanente workers strike for better wages and staffing
+  publish_date: '2026-01-27'
+  relation: related
+  strength: 0.71
 - slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
+  headline: California billionaire tax heads to November ballot as withdrawal deadline
+    expires
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6529
-- slug: 2026-02-23-31-000-kaiser-permanente-health-workers-end-4-week-strike-in-california-hawaii
-  headline: 31,000 Kaiser Permanente health workers end 4-week strike in California, Hawaii
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6786
+  strength: 0.6537
 - slug: 2026-02-10-san-francisco-teachers-go-on-strike-for-first-time-in-decades
   headline: San Francisco teachers go on strike for first time in decades
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.6796
-- slug: 2026-02-28-wave-of-california-teacher-strikes-is-no-coincidence-union-says
-  headline: Wave of California teacher strikes “is no coincidence,” union says
-  publish_date: '2026-02-28'
+  strength: 0.6792
+- slug: 2026-02-23-31-000-kaiser-permanente-health-workers-end-4-week-strike-in-california-hawaii
+  headline: 31,000 Kaiser Permanente health workers end 4-week strike in California,
+    Hawaii
+  publish_date: '2026-02-23'
   relation: related
-  strength: 0.675
-- slug: 2026-06-01-california-voters-head-to-polls-in-high-stakes-governor-primary
-  headline: California voters head to polls in high-stakes governor primary
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6387
-- slug: 2026-03-19-kaiser-mental-health-workers-strike-in-california-over-ai-concerns
-  headline: Kaiser mental health workers strike in California over AI concerns
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6622
-- slug: 2026-05-06-california-governor-candidates-clash-in-testy-debate-as-mail-voting-begins
-  headline: California governor candidates clash in testy debate as mail voting begins
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6466
-- slug: 2026-05-27-newsom-signs-law-shielding-california-elections-from-federal-interference
-  headline: Newsom signs law shielding California elections from federal interference
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6275
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6285
-- slug: 2026-01-08-newsom-touts-california-as-blueprint-for-the-nation-in-final-state-speech
-  headline: Newsom touts California as blueprint for the nation in final State speech
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6462
-- slug: 2026-01-15-federal-medi-cal-cuts-force-california-to-weigh-tax-increases-or-coverage-losses
-  headline: Federal Medi-Cal cuts force California to weigh tax increases or coverage losses
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6439
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  headline: California delays revocation of 17,000 commercial licenses after migrant lawsuit
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6371
-- slug: 2026-01-05-newsom-enters-final-year-as-california-governor-with-key-promises-unmet
-  headline: Newsom enters final year as California governor with key promises unmet
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6361
+  strength: 0.6775
 ---
-
 ## California state workers walk out amid contract dispute
 
 **Subtype:** fact

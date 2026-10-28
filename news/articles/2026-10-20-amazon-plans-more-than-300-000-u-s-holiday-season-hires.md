@@ -1,9 +1,16 @@
 ---
 headline: Amazon plans more than 300,000 U.S. holiday-season hires
-secondary_headline: Qualifying seasonal employees receive health coverage on their first day
+secondary_headline: Qualifying seasonal employees receive health coverage on their
+  first day
 publish_date: '2026-10-20'
-lede: Amazon plans to hire more than 300,000 people across its U.S. operations for the holiday season. The company said it will post openings each week from October through December for seasonal, part-time and full-time roles at its core operations nationwide.
-nut_graf: For workers, the campaign offers more than 300,000 U.S. positions across several employment types, with first-day health coverage limited to seasonal employees working at least 30 hours a week. Amazon's broader announcement came as United Parcel Service said it also planned a large seasonal hiring push for holiday demand.
+lede: Amazon plans to hire more than 300,000 people across its U.S. operations for
+  the holiday season. The company said it will post openings each week from October
+  through December for seasonal, part-time and full-time roles at its core operations
+  nationwide.
+nut_graf: For workers, the campaign offers more than 300,000 U.S. positions across
+  several employment types, with first-day health coverage limited to seasonal employees
+  working at least 30 hours a week. Amazon's broader announcement came as United Parcel
+  Service said it also planned a large seasonal hiring push for holiday demand.
 primary_entities:
 - Amazon
 - United Parcel Service
@@ -34,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,46 +150,11 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6992
-- slug: 2026-09-24-amazon-to-build-100-million-indiana-robotics-plant-doubling-robot-capacity
-  headline: Amazon to build $100 million Indiana robotics plant, doubling robot capacity
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6441
-- slug: 2026-09-28-adobe-projects-record-275-1-billion-in-u-s-holiday-online-sales
-  headline: Adobe projects record $275.1 billion in U.S. holiday online sales
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.624
-- slug: 2026-09-08-four-former-amazon-workers-sue-over-alleged-pregnancy-accommodation-firings
-  headline: Four former Amazon workers sue over alleged pregnancy accommodation firings
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6209
 - slug: 2026-08-19-amazon-plans-drone-delivery-to-nearly-500-us-cities-by-year-end
   headline: Amazon plans drone delivery to nearly 500 US cities by year-end
   publish_date: '2026-08-19'
   relation: related
   strength: 0.6754
-- slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
-  headline: U.S. employers are expected to add 65,000 jobs in August
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6178
-- slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
-  headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6315
-- slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
-  headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6401
-- slug: 2026-08-04-new-jersey-sues-amazon-alleging-it-suppresses-delivery-driver-wages
-  headline: New Jersey sues Amazon, alleging it suppresses delivery driver wages
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6227
 - slug: 2026-01-28-amazon-cuts-16-000-corporate-jobs-in-second-layoff-round
   headline: Amazon cuts 16,000 corporate jobs in second layoff round
   publish_date: '2026-01-28'
@@ -197,11 +170,6 @@ related_stories:
   publish_date: '2026-01-27'
   relation: related
   strength: 0.6958
-- slug: 2026-07-16-verizon-to-cut-3-000-jobs-sell-274-retail-stores-to-franchisees
-  headline: Verizon to cut 3,000 jobs, sell 274 retail stores to franchisees
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6094
 - slug: 2026-01-28-layoffs-accelerate-across-corporations-as-hiring-stalls-nationwide
   headline: Layoffs accelerate across corporations as hiring stalls nationwide
   publish_date: '2026-01-28'
@@ -212,37 +180,20 @@ related_stories:
   publish_date: '2026-05-11'
   relation: related
   strength: 0.6661
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6076
-- slug: 2026-05-11-amazon-now-expands-30-minute-delivery-to-dozens-of-us-cities-with-plans-for-nyc
-  headline: Amazon Now expands 30-minute delivery to dozens of US cities, with plans for NYC
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6581
-- slug: 2026-03-16-amazon-starts-1-hour-and-3-hour-delivery-for-a-fee-to-prime-members
-  headline: Amazon starts 1-hour and 3-hour delivery for a fee to Prime members
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6708
-- slug: 2026-04-30-amazon-reports-higher-first-quarter-profits-as-aws-growth-accelerates
-  headline: Amazon reports higher first-quarter profits as AWS growth accelerates
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.647
 image:
   url: /articles/2026-10-20-amazon-plans-more-than-300-000-u-s-holiday-season-hires.png
-  alt: "Illustration accompanying article: Amazon plans more than 300,000 U.S. holiday-season hires"
+  alt: 'Illustration accompanying article: Amazon plans more than 300,000 U.S. holiday-season
+    hires'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Amazon plans more than 300,000 U.S. holiday-season hires
 
 **Subtype:** fact

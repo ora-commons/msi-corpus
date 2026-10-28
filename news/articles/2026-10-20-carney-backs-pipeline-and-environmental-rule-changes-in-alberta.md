@@ -2,8 +2,18 @@
 headline: Carney backs pipeline and environmental-rule changes in Alberta
 secondary_headline: Roughly 75% opposed opening a binding secession referendum
 publish_date: '2026-10-20'
-lede: Prime Minister Mark Carney agreed with Alberta Premier Danielle Smith to back a new 1m-barrel-a-day oil pipeline and, according to The Guardian, “tear up environmental rules.” In its October 20, 2026, editorial, The Guardian said Alberta voters had rejected a move to begin the process toward a binding secession referendum, with an early count showing roughly 75% opposed and 25% in favor. The Guardian said the result strengthened Carney’s nation-building and energy strategy in the oil- and gas-rich western province.
-nut_graf: The Guardian said the result strengthened Carney’s nation-building and energy strategy, but warned that he still had to deliver tangible gains from his pacts with Smith. The outlet said a sizable faction supporting separation within Smith’s United Conservative Party could otherwise entrench itself and look for another opportunity to act.
+lede: Prime Minister Mark Carney agreed with Alberta Premier Danielle Smith to back
+  a new 1m-barrel-a-day oil pipeline and, according to The Guardian, “tear up environmental
+  rules.” In its October 20, 2026, editorial, The Guardian said Alberta voters had
+  rejected a move to begin the process toward a binding secession referendum, with
+  an early count showing roughly 75% opposed and 25% in favor. The Guardian said the
+  result strengthened Carney’s nation-building and energy strategy in the oil- and
+  gas-rich western province.
+nut_graf: The Guardian said the result strengthened Carney’s nation-building and energy
+  strategy, but warned that he still had to deliver tangible gains from his pacts
+  with Smith. The outlet said a sizable faction supporting separation within Smith’s
+  United Conservative Party could otherwise entrench itself and look for another opportunity
+  to act.
 primary_entities:
 - Mark Carney
 - Danielle Smith
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,32 +162,34 @@ related_stories:
   headline: Albertans reject path to independence referendum, projections show
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7643
+  strength: 0.764
 - slug: 2026-10-20-smith-made-alberta-s-vote-nonbinding-after-a-failure-to-consult-first-nations
-  headline: Smith made Alberta's vote nonbinding after a failure to consult First Nations
+  headline: Smith made Alberta's vote nonbinding after a failure to consult First
+    Nations
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7492
+  strength: 0.7499
 - slug: 2026-10-16-carney-pushes-nation-building-projects-as-alberta-prepares-independence-vote
-  headline: Carney pushes nation-building projects as Alberta prepares independence vote
+  headline: Carney pushes nation-building projects as Alberta prepares independence
+    vote
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7755
+  strength: 0.7764
 - slug: 2026-10-16-carney-urges-albertans-to-vote-against-separation-at-calgary-rally
   headline: Carney urges Albertans to vote against separation at Calgary rally
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7658
+  strength: 0.7657
 - slug: 2026-10-16-alberta-to-vote-monday-on-path-to-binding-separation-referendum
   headline: Alberta to vote Monday on path to binding separation referendum
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7362
+  strength: 0.7358
 - slug: 2026-10-07-alberta-to-vote-october-19-on-whether-to-pursue-independence-referendum
   headline: Alberta to vote October 19 on whether to pursue independence referendum
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6988
+  strength: 0.699
 - slug: 2026-09-30-carney-rides-trump-confrontation-into-sweeping-canadian-policy-overhaul
   headline: Carney rides Trump confrontation into sweeping Canadian policy overhaul
   publish_date: '2026-09-30'
@@ -186,69 +199,8 @@ related_stories:
   headline: Carney fast-tracks 1,250km Pacific oil pipeline to cut US dependency
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7146
-- slug: 2026-10-06-parti-qu-b-cois-projected-to-win-quebec-election
-  headline: Parti Québécois projected to win Quebec election
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.667
-- slug: 2026-09-28-canada-pushes-to-double-lng-exports-and-build-pacific-oil-pipeline
-  headline: Canada pushes to double LNG exports and build Pacific oil pipeline
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6997
-- slug: 2026-09-29-carney-embraces-eu-associate-membership-as-us-import-ban-clouds-usmca-future
-  headline: Carney embraces EU associate membership as US import ban clouds USMCA future
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6748
-- slug: 2026-09-17-carney-cites-polling-showing-canadians-back-closer-eu-ties
-  headline: Carney cites polling showing Canadians back closer EU ties
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7042
-- slug: 2026-09-17-canadians-voice-support-for-carney-s-eu-associate-member-welcome
-  headline: Canadians voice support for Carney's EU 'associate member' welcome
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7002
-- slug: 2026-09-23-carney-says-canada-open-to-us-trade-deal-but-won-t-compromise-sovereignty
-  headline: Carney says Canada open to US trade deal but won't compromise sovereignty
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6721
-- slug: 2026-09-23-eu-offers-canada-associate-member-status-with-no-treaty-basis
-  headline: EU offers Canada 'associate member' status with no treaty basis
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6684
-- slug: 2026-09-17-carney-welcomes-eu-proposal-for-canada-associate-membership
-  headline: Carney welcomes EU proposal for Canada associate membership
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6746
-- slug: 2026-09-15-carney-courts-global-investors-at-toronto-summit
-  headline: Carney courts global investors at Toronto summit
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6683
-- slug: 2026-09-14-carney-seeks-unique-alliance-with-eu-rules-out-full-membership
-  headline: Carney seeks 'unique alliance' with EU, rules out full membership
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6655
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7888
-- slug: 2026-08-25-carney-says-canada-was-attacked-as-trade-talks-collapse
-  headline: Carney says Canada was 'attacked' as trade talks collapse
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6673
+  strength: 0.7147
 ---
-
 ## Carney backs pipeline and environmental-rule changes in Alberta
 
 **Subtype:** fact

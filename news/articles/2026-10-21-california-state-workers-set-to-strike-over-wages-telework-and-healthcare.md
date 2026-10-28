@@ -1,9 +1,17 @@
 ---
 headline: California state workers set to strike over wages, telework and healthcare
-secondary_headline: SEIU Local 1000 says about 5,000 essential workers will report during the strike
+secondary_headline: SEIU Local 1000 says about 5,000 essential workers will report
+  during the strike
 publish_date: '2026-10-21'
-lede: Thousands of California state workers were set to strike Wednesday, picketing government buildings in several cities after contract negotiations with Gavin Newsom's administration reached an impasse. SEIU Local 1000, which represents roughly 100,000 public employees, including nurses and teachers, said it was pressing for higher wages, flexible telework and affordable healthcare.
-nut_graf: The dispute concerns pay, healthcare contributions and telework for a union representing roughly 100,000 public employees, including nurses and teachers. According to SEIU Local 1000, California's public employment relations board determined that about 5,000 workers are essential; those workers will report during the strike.
+lede: Thousands of California state workers were set to strike Wednesday, picketing
+  government buildings in several cities after contract negotiations with Gavin Newsom's
+  administration reached an impasse. SEIU Local 1000, which represents roughly 100,000
+  public employees, including nurses and teachers, said it was pressing for higher
+  wages, flexible telework and affordable healthcare.
+nut_graf: The dispute concerns pay, healthcare contributions and telework for a union
+  representing roughly 100,000 public employees, including nurses and teachers. According
+  to SEIU Local 1000, California's public employment relations board determined that
+  about 5,000 workers are essential; those workers will report during the strike.
 primary_entities:
 - Anica Walls
 - California
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +145,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-10-more-than-50-000-california-ride-share-drivers-sign-cards-to-join-new-union
-  headline: More than 50,000 California ride-share drivers sign cards to join new union
-  publish_date: '2026-10-10'
+- slug: 2026-10-21-california-state-workers-walk-out-amid-contract-dispute
+  headline: California state workers walk out amid contract dispute
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6393
-- slug: 2026-10-03-california-ai-laws-aim-to-target-bathroom-heat-maps-tone-of-voice-scoring
-  headline: California AI laws aim to target bathroom heat maps, tone-of-voice scoring
-  publish_date: '2026-10-03'
+  strength: 0.8728
+- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
+  headline: California’s billionaire tax divides Democrats ahead of November vote
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6422
+  strength: 0.6707
 - slug: 2026-08-11-22-000-hca-workers-seek-25-hourly-minimum-in-contract-talks
   headline: 22,000 HCA workers seek $25 hourly minimum in contract talks
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6576
+  strength: 0.6584
 - slug: 2026-08-01-california-minimum-wage-to-rise-to-17-40-highest-in-us-newsom-says
   headline: California minimum wage to rise to $17.40, highest in US, Newsom says
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.6718
+  strength: 0.6713
 - slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
+  headline: California billionaire tax heads to November ballot as withdrawal deadline
+    expires
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6855
+  strength: 0.6854
 - slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
+  headline: Union behind California billionaire tax offers to drop it for smaller
+    version
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6892
+  strength: 0.6895
 - slug: 2026-02-10-california-union-seeks-to-make-remote-work-permanent-for-state-workers
   headline: California union seeks to make remote work permanent for state workers
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.7371
+  strength: 0.7358
 - slug: 2026-01-27-31-000-kaiser-permanente-workers-strike-for-better-wages-and-staffing
   headline: 31,000 Kaiser Permanente workers strike for better wages and staffing
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.7341
-- slug: 2026-02-28-wave-of-california-teacher-strikes-is-no-coincidence-union-says
-  headline: Wave of California teacher strikes “is no coincidence,” union says
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.686
-- slug: 2026-02-23-31-000-kaiser-permanente-health-workers-end-4-week-strike-in-california-hawaii
-  headline: 31,000 Kaiser Permanente health workers end 4-week strike in California, Hawaii
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6862
-- slug: 2026-02-10-san-francisco-teachers-go-on-strike-for-first-time-in-decades
-  headline: San Francisco teachers go on strike for first time in decades
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.686
-- slug: 2026-03-19-kaiser-mental-health-workers-strike-in-california-over-ai-concerns
-  headline: Kaiser mental health workers strike in California over AI concerns
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6789
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6658
-- slug: 2026-01-15-federal-medi-cal-cuts-force-california-to-weigh-tax-increases-or-coverage-losses
-  headline: Federal Medi-Cal cuts force California to weigh tax increases or coverage losses
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6772
-- slug: 2026-05-06-california-governor-candidates-clash-in-testy-debate-as-mail-voting-begins
-  headline: California governor candidates clash in testy debate as mail voting begins
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6476
-- slug: 2026-01-09-california-projects-2-9-billion-deficit-in-newsom-s-final-year-as-governor
-  headline: California projects $2.9 billion deficit in Newsom's final year as governor
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6668
-- slug: 2026-01-05-newsom-enters-final-year-as-california-governor-with-key-promises-unmet
-  headline: Newsom enters final year as California governor with key promises unmet
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6648
-- slug: 2026-03-04-newsom-threatens-california-counties-over-care-court-rollout-gaps
-  headline: Newsom threatens California counties over CARE Court rollout gaps
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.654
-- slug: 2026-01-12-about-15-000-nyc-nurses-strike-at-three-hospital-systems-over-staffing-and-ai
-  headline: About 15,000 NYC nurses strike at three hospital systems over staffing and AI
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6547
-- slug: 2026-01-14-nyc-nurses-strike-for-third-day-as-hospital-talks-remain-stalled
-  headline: NYC nurses strike for third day as hospital talks remain stalled
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6533
+  strength: 0.7345
 ---
-
 ## California state workers set to strike over wages, telework and healthcare
 
 **Subtype:** fact

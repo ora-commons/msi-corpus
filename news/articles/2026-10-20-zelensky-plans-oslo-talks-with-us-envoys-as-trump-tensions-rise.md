@@ -2,8 +2,15 @@
 headline: Zelensky plans Oslo talks with US envoys as Trump tensions rise
 secondary_headline: Rubio rejects claims US is withholding intelligence from Ukraine
 publish_date: '2026-10-20'
-lede: Ukrainian President Volodymyr Zelensky plans to meet Tuesday in Oslo, Norway, with U.S. special envoy Steve Witkoff, Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb. The planned talks come as Zelensky faces increased criticism from U.S. President Donald Trump, while Secretary of State Marco Rubio denies accusations that the United States is withholding intelligence from Ukraine.
-nut_graf: The Oslo session brings Zelensky and Witkoff together after earlier diplomatic efforts in several countries, while disputes over U.S. intelligence, Starshield restrictions and who should negotiate for Ukraine remain unresolved.
+lede: Ukrainian President Volodymyr Zelensky plans to meet Tuesday in Oslo, Norway,
+  with U.S. special envoy Steve Witkoff, Norwegian Prime Minister Jonas Gahr Støre
+  and Finnish President Alexander Stubb. The planned talks come as Zelensky faces
+  increased criticism from U.S. President Donald Trump, while Secretary of State Marco
+  Rubio denies accusations that the United States is withholding intelligence from
+  Ukraine.
+nut_graf: The Oslo session brings Zelensky and Witkoff together after earlier diplomatic
+  efforts in several countries, while disputes over U.S. intelligence, Starshield
+  restrictions and who should negotiate for Ukraine remain unresolved.
 primary_entities:
 - Volodymyr Zelensky
 - Donald Trump
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +150,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
+  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.7754
+- slug: 2026-10-21-zelenskyy-says-he-again-seeks-direct-talks-with-putin-after-norway-meeting
+  headline: Zelenskyy says he again seeks direct talks with Putin after Norway meeting
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7213
+- slug: 2026-10-21-after-rubio-call-zelenskyy-says-missile-warnings-have-resumed
+  headline: After Rubio call, Zelenskyy says missile warnings have resumed
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7106
+- slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
+  headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7009
+- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
+  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6989
+- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
+  headline: Zelensky Starlink warning led to informal White House investigation
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.688
 - slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
   headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7124
+  strength: 0.7137
 - slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
   headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6915
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6962
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6829
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6893
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6915
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6971
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6865
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7816
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7091
-- slug: 2026-09-23-zelenskyy-set-to-address-un-general-assembly-after-trump-meeting
-  headline: Zelenskyy set to address UN General Assembly after Trump meeting
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6925
-- slug: 2026-09-22-un-general-assembly-opens-with-trump-zelenskyy-meeting-eu-sanctions-debate
-  headline: UN General Assembly opens with Trump-Zelenskyy meeting, EU sanctions debate
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6936
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6858
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7347
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7045
-- slug: 2026-07-31-zelenskyy-asks-trump-for-help-expanding-starlink-targeting-inside-russia
-  headline: Zelenskyy asks Trump for help expanding Starlink targeting inside Russia
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6772
-- slug: 2026-02-26-zelenskyy-says-ukraine-will-meet-trump-envoys-in-geneva-next-week
-  headline: Zelenskyy says Ukraine will meet Trump envoys in Geneva next week
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7459
-- slug: 2026-03-14-zelenskyy-ready-for-peace-talks-but-says-us-and-russia-must-act
-  headline: Zelenskyy ready for peace talks but says US and Russia must act
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.721
-- slug: 2026-05-20-rubio-heads-to-nato-foreign-ministers-in-sweden-amid-troop-iran-concerns
-  headline: Rubio heads to NATO foreign ministers in Sweden amid troop, Iran concerns
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6848
-- slug: 2026-04-02-zelenskyy-heads-into-us-envoy-talks-as-russia-claims-full-control-of-luhansk
-  headline: Zelenskyy heads into US envoy talks as Russia claims full control of Luhansk
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6867
+  strength: 0.6941
 ---
-
 ## Zelensky plans Oslo talks with US envoys as Trump tensions rise
 
 **Subtype:** fact

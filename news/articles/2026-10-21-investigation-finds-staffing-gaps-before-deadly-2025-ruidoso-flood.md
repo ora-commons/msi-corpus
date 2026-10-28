@@ -1,9 +1,20 @@
 ---
 headline: Investigation finds staffing gaps before deadly 2025 Ruidoso flood
-secondary_headline: Forecast showed slightly decreased chance of flash flooding before team’s departure
+secondary_headline: Forecast showed slightly decreased chance of flash flooding before
+  team’s departure
 publish_date: '2026-10-21'
-lede: A ProPublica investigation published on October 21, 2026, reported that Village of Ruidoso leaders had not provided enough training or dispatched enough swiftwater rescuers before the July 8, 2025 flood. Five rescuers involved in the response said those decisions left first responders with inadequate support as the water rose. The flood killed Stephanie Trotter’s 4-year-old daughter and 7-year-old son, along with an adult man; Trotter’s husband, Sebastian, survived.
-nut_graf: The report traces warning dissemination, advance staffing, state deployment decisions and dispatch limitations during the response. Hall called in the full department 45 minutes after the first flood-related rescue call, no official with a loudspeaker went to Riverview RV Park, and the Las Cruces swiftwater team went home after the forecast showed a slightly decreased chance of flash flooding. The department reported more than 60 rescues.
+lede: A ProPublica investigation published on October 21, 2026, reported that Village
+  of Ruidoso leaders had not provided enough training or dispatched enough swiftwater
+  rescuers before the July 8, 2025 flood. Five rescuers involved in the response said
+  those decisions left first responders with inadequate support as the water rose.
+  The flood killed Stephanie Trotter’s 4-year-old daughter and 7-year-old son, along
+  with an adult man; Trotter’s husband, Sebastian, survived.
+nut_graf: The report traces warning dissemination, advance staffing, state deployment
+  decisions and dispatch limitations during the response. Hall called in the full
+  department 45 minutes after the first flood-related rescue call, no official with
+  a loudspeaker went to Riverview RV Park, and the Las Cruces swiftwater team went
+  home after the forecast showed a slightly decreased chance of flash flooding. The
+  department reported more than 60 rescues.
 primary_entities:
 - ProPublica
 - Ruidoso, New Mexico
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,117 +162,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-28-federal-flood-gaps-let-residents-rebuild-where-storms-already-struck
-  headline: Federal flood gaps let residents rebuild where storms already struck
-  publish_date: '2026-09-28'
+- slug: 2026-10-21-new-mexico-rebuilds-ruidoso-downs-culverts-as-upriver-repairs-stall
+  headline: New Mexico rebuilds Ruidoso Downs culverts as upriver repairs stall
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6164
-- slug: 2026-09-23-texas-rangers-pursue-manslaughter-case-in-camp-mystic-flood-deaths
-  headline: Texas Rangers pursue manslaughter case in Camp Mystic flood deaths
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6124
-- slug: 2026-09-16-crews-say-us-firefighting-capacity-stretched-to-limit-in-2026-wildfire-season
-  headline: Crews say US firefighting capacity stretched to limit in 2026 wildfire season
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6182
+  strength: 0.7251
 - slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
   headline: Helicopters airlift 200 campers as Missouri flood kills 1
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.6544
-- slug: 2026-07-18-texas-flood-warnings-improve-as-2-die-hundreds-rescued
-  headline: Texas flood warnings improve as 2 die, hundreds rescued
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6439
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6343
-- slug: 2026-07-29-west-virginia-flood-kills-2-as-prevention-plans-remain-largely-unfulfilled
-  headline: West Virginia flood kills 2 as prevention plans remain largely unfulfilled
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6085
-- slug: 2026-07-22-west-virginia-floods-prompt-state-of-emergency-national-guard-deployment
-  headline: West Virginia floods prompt state of emergency, National Guard deployment
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6111
-- slug: 2026-07-11-helicopters-rescue-200-from-missouri-summer-camp-as-floods-sweep-southeast
-  headline: Helicopters rescue 200 from Missouri summer camp as floods sweep southeast
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.617
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6077
-- slug: 2026-05-19-new-mexico-wildfire-grows-after-fatal-medical-plane-crash-near-ruidoso
-  headline: New Mexico wildfire grows after fatal medical plane crash near Ruidoso
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6332
-- slug: 2026-05-18-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6311
-- slug: 2026-04-28-camp-mystic-won-t-reopen-this-summer-as-regulators-probe-2025-flood-failings
-  headline: Camp Mystic won’t reopen this summer as regulators probe 2025 flood failings
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6348
-- slug: 2026-04-28-camp-mystic-counselors-had-no-emergency-training-before-flood-investigator-says
-  headline: Camp Mystic counselors had no emergency training before flood, investigator says
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6336
-- slug: 2026-04-14-camp-mystic-director-testified-he-didn-t-see-flood-warnings-before-2025-storm
-  headline: Camp Mystic director testified he didn’t see flood warnings before 2025 storm
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6346
-- slug: 2026-04-03-honolulu-council-grills-emergency-managers-over-slow-north-shore-evacuation
-  headline: Honolulu council grills emergency managers over slow North Shore evacuation
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6341
-- slug: 2026-05-19-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6128
-- slug: 2026-04-29-camp-mystic-director-tearfully-apologizes-for-2025-flood-deaths
-  headline: Camp Mystic director tearfully apologizes for 2025 flood deaths
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6189
-- slug: 2026-03-21-over-5-500-ordered-to-evacuate-as-flooding-threatens-oahu-dam
-  headline: Over 5,500 ordered to evacuate as flooding threatens Oahu dam
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6267
-- slug: 2026-02-20-crews-use-water-to-reduce-avalanche-risk-while-recovering-california-victims
-  headline: Crews use water to reduce avalanche risk while recovering California victims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6301
+  strength: 0.6543
 image:
   url: /articles/2026-10-21-investigation-finds-staffing-gaps-before-deadly-2025-ruidoso-flood.png
-  alt: "Illustration accompanying article: Investigation finds staffing gaps before deadly 2025 Ruidoso flood"
+  alt: 'Illustration accompanying article: Investigation finds staffing gaps before
+    deadly 2025 Ruidoso flood'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Investigation finds staffing gaps before deadly 2025 Ruidoso flood
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
-secondary_headline: The advertisement omits Acton's rape allegation and is criticized across party lines
+secondary_headline: The advertisement omits Acton's rape allegation and is criticized
+  across party lines
 publish_date: '2026-10-21'
-lede: Vivek Ramaswamy's campaign released the advertisement on social media Monday evening, but the video did not identify who paid for or authorized it. Ramaswamy confirmed on Tuesday that his campaign produced it and later pledged $4m (£2.9m) to air it further in Ohio's governor race. Donna Arthur asks Ohioans not to elect her daughter and says, "She's lied her entire life," while the advertisement omits Amy Acton's allegation that Arthur's husband, Cledith Arthur, raped her 40 years ago when she was 12.
-nut_graf: The advertisement comes as the Ohio governor's contest becomes increasingly competitive. David Lublin, a professor at American University's School of Public Affairs, said political attack ads may be intended more to depress turnout among an opponent's supporters than to convert them, though he expects the Ramaswamy advertisement to backfire. Cook Political Report, a nonpartisan website that rates and tracks US elections, has moved the contest from "leans Republican" to "toss up."
+lede: Vivek Ramaswamy's campaign released the advertisement on social media Monday
+  evening, but the video did not identify who paid for or authorized it. Ramaswamy
+  confirmed on Tuesday that his campaign produced it and later pledged $4m (£2.9m)
+  to air it further in Ohio's governor race. Donna Arthur asks Ohioans not to elect
+  her daughter and says, "She's lied her entire life," while the advertisement omits
+  Amy Acton's allegation that Arthur's husband, Cledith Arthur, raped her 40 years
+  ago when she was 12.
+nut_graf: The advertisement comes as the Ohio governor's contest becomes increasingly
+  competitive. David Lublin, a professor at American University's School of Public
+  Affairs, said political attack ads may be intended more to depress turnout among
+  an opponent's supporters than to convert them, though he expects the Ramaswamy advertisement
+  to backfire. Cook Political Report, a nonpartisan website that rates and tracks
+  US elections, has moved the contest from "leans Republican" to "toss up."
 primary_entities:
 - Vivek Ramaswamy
 - Amy Acton
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +157,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8989
 - slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8751
+  strength: 0.8746
+- slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8525
+- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
+  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.846
 - slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
   headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8384
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
+  strength: 0.8386
+- slug: 2026-10-22-dewine-says-acton-certainly-told-the-truth-in-his-experience
+  headline: DeWine says Acton 'certainly told the truth' in his experience
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6342
-- slug: 2026-10-05-california-republican-steve-hilton-criticized-by-own-party-over-campaign-ad
-  headline: California Republican Steve Hilton criticized by own party over campaign ad
-  publish_date: '2026-10-05'
+  strength: 0.8199
+- slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
+  headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6208
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
+  strength: 0.8013
+- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
+  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's
+    race
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.7207
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6381
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.623
-- slug: 2026-08-04-cook-political-report-shifts-ohio-governor-race-to-toss-up
-  headline: Cook Political Report shifts Ohio governor race to toss-up
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6928
-- slug: 2026-08-14-house-majority-pac-adds-6-million-in-cleveland-ads-against-max-miller
-  headline: House Majority PAC adds $6 million in Cleveland ads against Max Miller
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6279
-- slug: 2026-05-03-covid-19-debate-resurfaces-in-ohio-governor-race-between-amy-acton-and-vivek-ram
-  headline: COVID-19 debate resurfaces in Ohio governor race between Amy Acton and Vivek Ramaswamy
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7213
-- slug: 2026-04-26-ohio-gop-governor-primary-tests-ramaswamy-as-acton-waits-for-general-election
-  headline: Ohio GOP governor primary tests Ramaswamy as Acton waits for general election
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7141
-- slug: 2026-04-27-ohio-gop-primary-for-governor-shows-potential-headwinds-for-ramaswamy
-  headline: Ohio GOP primary for governor shows potential headwinds for Ramaswamy
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6822
-- slug: 2026-01-07-ramaswamy-picks-mccolley-acton-picks-pepper-in-ohio-governor-race
-  headline: Ramaswamy picks McColley, Acton picks Pepper in Ohio governor race
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6906
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6668
-- slug: 2026-05-21-vance-targets-ohio-in-medicaid-fraud-crackdown
-  headline: Vance targets Ohio in Medicaid fraud crackdown
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6328
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6435
-- slug: 2026-05-03-what-to-expect-in-ohio-s-state-primaries-governor-and-congressional-races
-  headline: What to expect in Ohio’s state primaries, governor and congressional races
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6344
-- slug: 2026-05-20-vance-expands-medicaid-fraud-push-to-ohio-gop-scrambles-ahead-of-election
-  headline: Vance expands Medicaid fraud push to Ohio, GOP scrambles ahead of election
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.624
-- slug: 2026-04-26-appeals-court-overturns-8-2m-verdict-for-roy-moore-in-2017-ad
-  headline: Appeals court overturns $8.2M verdict for Roy Moore in 2017 ad
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6329
-- slug: 2026-04-17-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6286
+  strength: 0.7731
 ---
-
 ## Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
 
 **Subtype:** fact

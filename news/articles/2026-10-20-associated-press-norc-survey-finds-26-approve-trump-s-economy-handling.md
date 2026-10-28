@@ -2,8 +2,17 @@
 headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
 secondary_headline: US Supreme Court rejects Trump’s bid to restrict mail-in ballots
 publish_date: '2026-10-20'
-lede: A recent Associated Press-NORC survey found that 26% of voters approved of Donald Trump’s handling of the economy, two percentage points below Joe Biden’s worst rating on the issue. The Guardian framed the economy, Iran, immigration, Trump’s use of power, artificial intelligence and data centers, and democracy as six issues shaping the 2026 US midterm elections.
-nut_graf: The Guardian said widespread economic dissatisfaction and an unpopular war against Iran had pulled down Trump’s approval ratings to their lowest across his two presidencies, while his visibility, immigration enforcement, artificial intelligence and election administration remained campaign concerns. Trump is not on the ballot, but The Guardian said he had told voters to act as though he were, and Democrats had framed the midterms as an opportunity to rein in the president.
+lede: A recent Associated Press-NORC survey found that 26% of voters approved of Donald
+  Trump’s handling of the economy, two percentage points below Joe Biden’s worst rating
+  on the issue. The Guardian framed the economy, Iran, immigration, Trump’s use of
+  power, artificial intelligence and data centers, and democracy as six issues shaping
+  the 2026 US midterm elections.
+nut_graf: The Guardian said widespread economic dissatisfaction and an unpopular war
+  against Iran had pulled down Trump’s approval ratings to their lowest across his
+  two presidencies, while his visibility, immigration enforcement, artificial intelligence
+  and election administration remained campaign concerns. Trump is not on the ballot,
+  but The Guardian said he had told voters to act as though he were, and Democrats
+  had framed the midterms as an opportunity to rein in the president.
 primary_entities:
 - Donald Trump
 - The Guardian
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +152,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
-  headline: Poll finds 66% of Americans say Trump enriching himself
-  publish_date: '2026-10-19'
+- slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
+  headline: New York Times/Siena survey records 36% approval for Trump
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.7247
+  strength: 0.7795
+- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
+  headline: New poll finds Democrats 11 points ahead among registered voters
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7663
+- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
+  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7484
+- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
+  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7316
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7442
+  strength: 0.7452
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7338
+  strength: 0.7357
 - slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
   headline: Guardian editorial frames US midterms as cost-of-living, democracy test
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7591
+  strength: 0.7602
 - slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
   headline: Guardian midterm panel shows voters split on economy and Iran
   publish_date: '2026-10-09'
   relation: related
   strength: 0.7473
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7851
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7492
-- slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
-  headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7352
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7527
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7166
-- slug: 2026-08-02-trump-s-immigration-approval-falls-to-39-in-ap-norc-poll
-  headline: Trump's immigration approval falls to 39% in AP-NORC poll
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7993
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7243
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-ap-norc-poll
-  headline: More Republicans approve of Trump on immigration than economy, AP-NORC poll
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8206
-- slug: 2026-05-20-more-republicans-approve-of-trump-on-immigration-than-the-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than the economy, poll finds
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.8197
-- slug: 2026-05-21-more-republicans-back-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans back Trump on immigration than economy, poll finds
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.8103
-- slug: 2026-05-19-more-republicans-approve-of-trump-on-immigration-than-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than economy, poll finds
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7921
-- slug: 2026-04-22-trump-s-economy-approval-slips-in-ap-norc-poll-as-iran-war-prices-rise
-  headline: Trump’s economy approval slips in AP-NORC poll as Iran-war prices rise
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.8004
-- slug: 2026-01-15-ap-norc-trump-approval-holds-at-4-in-10-one-year-into-second-term
-  headline: 'AP-NORC: Trump approval holds at 4 in 10 one year into second term'
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.8073
-- slug: 2026-06-22-trump-s-white-blue-collar-support-erodes-guardian-analysis-finds
-  headline: Trump's white, blue-collar support erodes, Guardian analysis finds
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7277
-- slug: 2026-01-16-poll-republicans-back-trump-s-immigration-record-but-say-economy-hasn-t-delivere
-  headline: 'Poll: Republicans back Trump''s immigration record but say economy hasn''t delivered'
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7634
 ---
-
 ## Associated Press-NORC survey finds 26% approve Trump’s economy handling
 
 **Subtype:** fact

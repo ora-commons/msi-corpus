@@ -1,9 +1,18 @@
 ---
-headline: Podcast examines Zacharia’s short tenure and treatment of women in Trump’s team
+headline: Podcast examines Zacharia’s short tenure and treatment of women in Trump’s
+  team
 secondary_headline: Episode asks what U.S. alignment with Putin in Ukraine would mean
 publish_date: '2026-10-21'
-lede: Co-hosts Jonathan Yerushalmy and Reged Ahmad examined Katie Zacharia’s record for the shortest White House press secretary tenure in an Oct. 21, 2026 episode of The Guardian’s Decoding America podcast. The episode also compared how women in the Trump administration were treated after perceived mistakes with how men seemed to survive their missteps, and turned to U.S. policy toward Russia’s war in Ukraine.
-nut_graf: The hosts use Zacharia’s short tenure to examine how women are treated after perceived mistakes within the Trump administration. A separate discussion asks whether relations between Donald Trump and Ukrainian President Volodymyr Zelenskyy had reached their lowest point ever and what could follow if the United States took Putin’s side in the war.
+lede: Co-hosts Jonathan Yerushalmy and Reged Ahmad examined Katie Zacharia’s record
+  for the shortest White House press secretary tenure in an Oct. 21, 2026 episode
+  of The Guardian’s Decoding America podcast. The episode also compared how women
+  in the Trump administration were treated after perceived mistakes with how men seemed
+  to survive their missteps, and turned to U.S. policy toward Russia’s war in Ukraine.
+nut_graf: The hosts use Zacharia’s short tenure to examine how women are treated after
+  perceived mistakes within the Trump administration. A separate discussion asks whether
+  relations between Donald Trump and Ukrainian President Volodymyr Zelenskyy had reached
+  their lowest point ever and what could follow if the United States took Putin’s
+  side in the war.
 primary_entities:
 - Katie Zacharia
 - The Guardian
@@ -54,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -192,68 +202,7 @@ related_stories:
   publish_date: '2026-10-13'
   relation: related
   strength: 0.6663
-- slug: 2026-10-18-white-house-press-secretary-has-no-job-description-or-required-qualifications
-  headline: White House press secretary has no job description or required qualifications
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6322
-- slug: 2026-10-08-guardian-decoding-america-podcast-covers-pike-execution-aftermath
-  headline: Guardian "Decoding America" podcast covers Pike execution aftermath
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6898
-- slug: 2026-10-15-zacharia-says-pepperdine-president-told-her-lawyer-not-attorney
-  headline: 'Zacharia says Pepperdine president told her: lawyer, not attorney'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6263
-- slug: 2026-10-15-press-secretary-katie-zacharia-didn-t-pass-u-s-bar-exam
-  headline: Press secretary Katie Zacharia didn't pass U.S. bar exam
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6248
-- slug: 2026-10-09-zacharia-wasn-t-considered-for-press-secretary-until-this-week-cnn-source-says
-  headline: Zacharia wasn't considered for press secretary until this week, CNN source says
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6514
-- slug: 2026-10-09-trump-selects-katie-zacharia-as-next-white-house-press-secretary
-  headline: Trump selects Katie Zacharia as next White House press secretary
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6434
-- slug: 2026-10-09-kalshi-probes-well-timed-bets-that-predicted-trump-s-press-secretary-pick
-  headline: Kalshi probes well-timed bets that predicted Trump's press secretary pick
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6324
-- slug: 2026-09-25-guardian-podcast-says-trump-seems-weaker-amid-press-ban-china-red-carpet
-  headline: Guardian podcast says Trump 'seems weaker' amid press ban, China red carpet
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6733
-- slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
-  headline: Zelensky says Putin needs more US pressure to curb attacks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6161
-- slug: 2026-09-02-luke-harding-publishes-betrayal-on-trump-putin-ties
-  headline: Luke Harding publishes 'Betrayal' on Trump-Putin ties
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6354
-- slug: 2026-08-26-guardian-decoding-america-covers-data-centre-backlash-canada-tariff-dispute
-  headline: Guardian 'Decoding America' covers data centre backlash, Canada tariff dispute
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6497
-- slug: 2026-08-14-guardian-video-examines-trump-s-reported-absence-from-air-force-one-in-turkey
-  headline: Guardian video examines Trump's reported absence from Air Force One in Turkey
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6171
 ---
-
 ## Podcast examines Zacharia’s short tenure and treatment of women in Trump’s team
 
 **Subtype:** fact

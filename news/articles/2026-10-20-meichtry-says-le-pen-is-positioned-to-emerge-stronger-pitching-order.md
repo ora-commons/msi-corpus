@@ -2,8 +2,16 @@
 headline: Meichtry says Le Pen is positioned to emerge stronger, pitching order
 secondary_headline: U.S. nurse median pay hits $97,550 as bedside ranks thin
 publish_date: '2026-10-20'
-lede: Marine Le Pen is positioned to emerge from the riots sweeping France with a strengthened hand as President Emmanuel Macron's government struggles to maintain control, Stacy Meichtry reported for The Wall Street Journal. Bands of rioters have descended on city centers across France, raiding city halls and looting thousands of stores, Meichtry wrote. Le Pen, whom Meichtry described as the far-right leader, has sought to present herself as the sole candidate in next spring's presidential election willing to restore order.
-nut_graf: With next spring's presidential election approaching, Meichtry reported that the riots have rocked France's political establishment and that Le Pen's approach 'has given her an air of inevitability in her pursuit of France's highest office.'
+lede: Marine Le Pen is positioned to emerge from the riots sweeping France with a
+  strengthened hand as President Emmanuel Macron's government struggles to maintain
+  control, Stacy Meichtry reported for The Wall Street Journal. Bands of rioters have
+  descended on city centers across France, raiding city halls and looting thousands
+  of stores, Meichtry wrote. Le Pen, whom Meichtry described as the far-right leader,
+  has sought to present herself as the sole candidate in next spring's presidential
+  election willing to restore order.
+nut_graf: With next spring's presidential election approaching, Meichtry reported
+  that the riots have rocked France's political establishment and that Le Pen's approach
+  'has given her an air of inevitability in her pursuit of France's highest office.'
 primary_entities:
 - Marine Le Pen
 - Emmanuel Macron
@@ -57,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,108 +164,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-marine-le-pen-opens-campaign-with-unity-pledge-amid-french-unrest
+  headline: Marine Le Pen opens campaign with unity pledge amid French unrest
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7581
+- slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
+  headline: Macron says some leaders used French unrest for political campaigns
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6667
+- slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
+  headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+    protests
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6536
 - slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
   headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.658
+  strength: 0.6605
 - slug: 2026-10-06-france-s-10-year-borrowing-cost-climbs-to-highest-level-since-2002
   headline: France's 10-year borrowing cost climbs to highest level since 2002
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6565
-- slug: 2026-10-15-hasan-piker-emerges-as-key-gop-target-ahead-of-midterm-elections
-  headline: Hasan Piker emerges as key GOP target ahead of midterm elections
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5953
-- slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
-  headline: Working-class white voters cool on Republicans, WSJ poll finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.59
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6136
-- slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
-  headline: Youth-led protests over French schools draw hundreds of thousands
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6151
-- slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
-  headline: French police fire tear gas as 256,000 rally nationwide for school funding
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6145
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5864
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5868
-- slug: 2026-10-05-bass-trails-raman-in-la-mayoral-race-one-month-from-election
-  headline: Bass trails Raman in LA mayoral race one month from election
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5857
-- slug: 2026-09-28-france-s-national-rally-wins-record-14-senate-seats
-  headline: France's National Rally wins record 14 Senate seats
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6072
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
-  headline: Zelensky says Putin needs more US pressure to curb attacks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5943
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5923
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5902
-- slug: 2026-09-01-maga-inc-rarely-spends-in-battleground-states-as-trump-grows-war-chest
-  headline: MAGA Inc. rarely spends in battleground states as Trump grows war chest
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5879
-- slug: 2026-09-01-rnc-prices-trump-photo-at-88-600-for-dallas-midterm-convention-fundraisers
-  headline: RNC prices Trump photo at $88,600 for Dallas midterm convention fundraisers
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5863
-- slug: 2026-06-27-italy-s-combative-leader-has-produced-its-most-stable-government-in-decades
-  headline: Italy's combative leader has produced its most stable government in decades
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5852
-- slug: 2026-06-27-far-left-gains-in-new-york-primaries-deepen-democratic-civil-war
-  headline: Far-left gains in New York primaries deepen Democratic civil war
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5849
+  strength: 0.6559
 ---
-
 ## Meichtry says Le Pen is positioned to emerge stronger, pitching order
 
 **Subtype:** fact

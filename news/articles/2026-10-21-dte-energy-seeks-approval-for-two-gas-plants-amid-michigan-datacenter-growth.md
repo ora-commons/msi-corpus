@@ -1,9 +1,16 @@
 ---
 headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
-secondary_headline: Ratepayer protections will be determined in later Michigan regulatory cases
+secondary_headline: Ratepayer protections will be determined in later Michigan regulatory
+  cases
 publish_date: '2026-10-21'
-lede: DTE Energy has asked the Michigan Public Service Commission to approve two gas plants outside metro Detroit that could leave customers with a potential $6.4 billion bill. The 2.1-gigawatt proposal is intended to meet datacenter demand in Michigan, but regulators have not yet determined how residential customers would be protected.
-nut_graf: The proposal puts the cost of serving hyperscale datacenters before state regulators as DTE Energy's contracted load approaches its grid capacity. Whether residential customers absorb costs for new generation remains unresolved, with ratepayer protections deferred to later regulatory cases.
+lede: DTE Energy has asked the Michigan Public Service Commission to approve two gas
+  plants outside metro Detroit that could leave customers with a potential $6.4 billion
+  bill. The 2.1-gigawatt proposal is intended to meet datacenter demand in Michigan,
+  but regulators have not yet determined how residential customers would be protected.
+nut_graf: The proposal puts the cost of serving hyperscale datacenters before state
+  regulators as DTE Energy's contracted load approaches its grid capacity. Whether
+  residential customers absorb costs for new generation remains unresolved, with ratepayer
+  protections deferred to later regulatory cases.
 primary_entities:
 - DTE Energy
 - Michigan Public Service Commission
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +157,45 @@ related_stories:
   headline: Trump proposes own electricity and community dividends for new data centers
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.653
-- slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
-  headline: Advocates allege datacenter developers split emissions to avoid EPA review
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6438
+  strength: 0.6531
 - slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
   headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6614
-- slug: 2026-09-01-fervo-energy-signs-deal-to-sell-400-megawatts-of-geothermal-power-to-google
-  headline: Fervo Energy signs deal to sell 400 megawatts of geothermal power to Google.
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.636
+  strength: 0.663
 - slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
   headline: AI data center demand drives U.S. power plant costs up 10%
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6994
+  strength: 0.7006
 - slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
+  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement
+    uncertain
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6782
+  strength: 0.6788
 - slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
+  headline: House subcommittee advances Ratepayer Protection Act as consumer groups
+    call it inadequate
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.6765
+  strength: 0.6783
 - slug: 2026-06-19-datacenters-drive-us-clean-energy-growth-while-still-threatening-climate
   headline: Datacenters drive US clean energy growth while still threatening climate
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6775
+  strength: 0.6765
 - slug: 2026-06-29-ai-data-center-power-demand-threatens-steel-industry-operations
   headline: AI data center power demand threatens steel industry operations
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6572
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6482
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6356
+  strength: 0.6575
 - slug: 2026-04-11-nevada-utility-warns-ai-data-centers-may-force-fossil-fuels
   headline: Nevada utility warns AI data centers may force fossil fuels
   publish_date: '2026-04-11'
   relation: related
-  strength: 0.6769
-- slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
-  headline: Two-thirds of planned US AI datacenters built on drought-hit land
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6429
-- slug: 2026-01-29-hundreds-of-miles-of-new-transmission-lines-planned-in-michigan
-  headline: Hundreds of miles of new transmission lines planned in Michigan
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6827
-- slug: 2026-03-04-trump-touts-ratepayer-pledge-as-tech-giants-vow-to-self-fund-ai-power-needs
-  headline: Trump touts ratepayer pledge as tech giants vow to self-fund AI power needs
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6714
-- slug: 2026-03-05-california-watchdog-urges-data-center-power-rules-to-shield-ratepayers
-  headline: California watchdog urges data center power rules to shield ratepayers
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6702
-- slug: 2026-03-21-doe-unveils-10-gigawatt-ohio-data-center-natural-gas-power-plan
-  headline: DOE unveils 10-gigawatt Ohio data center, natural gas power plan
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6642
-- slug: 2026-05-16-states-fight-utility-rate-hikes-as-ai-expansion-drives-power-company-profits
-  headline: States fight utility rate hikes as AI expansion drives power company profits
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6432
-- slug: 2026-03-29-tech-climate-goals-under-pressure-as-ai-boosts-data-center-energy-demand
-  headline: Tech climate goals under pressure as AI boosts data-center energy demand
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6598
-- slug: 2026-02-13-rising-energy-costs-fuel-calls-for-data-centers-to-pay-their-own-way
-  headline: Rising energy costs fuel calls for data centers to pay their own way
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6618
+  strength: 0.6777
 ---
-
 ## DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
 
 **Subtype:** fact

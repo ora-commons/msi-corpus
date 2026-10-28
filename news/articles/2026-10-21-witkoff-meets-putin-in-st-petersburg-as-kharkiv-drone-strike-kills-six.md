@@ -2,8 +2,16 @@
 headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
 secondary_headline: Trump says Russia “has been fine on Ukraine” after Kharkiv deaths
 publish_date: '2026-10-21'
-lede: U.S. envoy Steve Witkoff met Russian leader Vladimir Putin in St Petersburg on Wednesday in a bid to advance a Ukraine settlement, The Guardian reported. Families in Kharkiv were holding funerals for four adults and two children killed in a drone strike, including one-year-old Anhelina and her schoolteacher mother, Inna Mariukhna. President Donald Trump said Russia “has been fine on Ukraine” shortly after the bombing and later described those killed as “mostly young soldiers.”
-nut_graf: 'The St Petersburg meeting came as families held funerals for six people killed near Kharkiv and children at one of the city''s 10 underground schools sheltered during a drone warning. Witkoff also had a separate immediate objective: bringing home a 74-year-old retired teacher from Michigan detained in Russia.'
+lede: U.S. envoy Steve Witkoff met Russian leader Vladimir Putin in St Petersburg
+  on Wednesday in a bid to advance a Ukraine settlement, The Guardian reported. Families
+  in Kharkiv were holding funerals for four adults and two children killed in a drone
+  strike, including one-year-old Anhelina and her schoolteacher mother, Inna Mariukhna.
+  President Donald Trump said Russia “has been fine on Ukraine” shortly after the
+  bombing and later described those killed as “mostly young soldiers.”
+nut_graf: 'The St Petersburg meeting came as families held funerals for six people
+  killed near Kharkiv and children at one of the city''s 10 underground schools sheltered
+  during a drone warning. Witkoff also had a separate immediate objective: bringing
+  home a 74-year-old retired teacher from Michigan detained in Russia.'
 primary_entities:
 - Steve Witkoff
 - Vladimir Putin
@@ -55,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,108 +162,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7583
+- slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7226
 - slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
   headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7287
+  strength: 0.7295
 - slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
   headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6992
+  strength: 0.6987
 - slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
   headline: Ukrainian drones hit third Yandex data center in four days
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7315
+  strength: 0.732
 - slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
   headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.696
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6932
+  strength: 0.6968
 - slug: 2026-09-13-russian-drone-strikes-kyiv-warsaw-passenger-train-near-polish-border
   headline: Russian drone strikes Kyiv-Warsaw passenger train near Polish border
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7089
+  strength: 0.7096
 - slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
   headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.695
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7004
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7391
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7346
-- slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7209
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6927
-- slug: 2026-05-16-ukrainian-drones-strike-russia-killing-4-and-wounding-a-dozen-officials-say
-  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7182
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7098
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7053
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7049
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7003
-- slug: 2026-05-16-death-toll-rises-to-24-after-russian-missile-hits-kyiv-apartment-building
-  headline: Death toll rises to 24 after Russian missile hits Kyiv apartment building
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6996
-- slug: 2026-03-22-russia-and-ukraine-trade-deadly-attacks-ahead-of-u-s-talks-on-peace
-  headline: Russia and Ukraine trade deadly attacks ahead of U.S. talks on peace
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7108
-- slug: 2026-05-08-ukraine-launches-major-drone-attack-on-russia-ahead-of-victory-day-parade
-  headline: Ukraine launches major drone attack on Russia ahead of Victory Day parade
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6932
+  strength: 0.6952
 ---
-
 ## Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
 
 **Subtype:** fact

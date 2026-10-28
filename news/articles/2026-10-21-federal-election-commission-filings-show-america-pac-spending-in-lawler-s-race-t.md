@@ -1,9 +1,17 @@
 ---
-headline: Federal Election Commission filings show America PAC spending in Lawler's race topped $500,000
+headline: Federal Election Commission filings show America PAC spending in Lawler's
+  race topped $500,000
 secondary_headline: Most spending went to voter outreach in the Hudson Valley contest
 publish_date: '2026-10-21'
-lede: America PAC, the super PAC founded by Elon Musk, has spent more than $500,000 over the last year to support Republican incumbent Michael Lawler in New York's 17th congressional district race, according to Federal Election Commission filings. Lawler is defending the seat against Democrat Cait Conley in the Hudson Valley.
-nut_graf: The Guardian described the Hudson Valley contest as among the most-watched House races that could determine whether Republicans hold their majority in Congress. Cait Conley accused Lawler of protecting Musk rather than regulating artificial intelligence, while Lawler's campaign manager Ciro Riccardi said the campaign has no authority over America PAC or other outside groups' spending.
+lede: America PAC, the super PAC founded by Elon Musk, has spent more than $500,000
+  over the last year to support Republican incumbent Michael Lawler in New York's
+  17th congressional district race, according to Federal Election Commission filings.
+  Lawler is defending the seat against Democrat Cait Conley in the Hudson Valley.
+nut_graf: The Guardian described the Hudson Valley contest as among the most-watched
+  House races that could determine whether Republicans hold their majority in Congress.
+  Cait Conley accused Lawler of protecting Musk rather than regulating artificial
+  intelligence, while Lawler's campaign manager Ciro Riccardi said the campaign has
+  no authority over America PAC or other outside groups' spending.
 primary_entities:
 - America PAC
 - Elon Musk
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,7 +156,17 @@ related_stories:
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7159
+  strength: 0.7166
+- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
+  headline: Talarico says Musk is backing Paxton at UT Austin rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7001
+- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
+  headline: Musk's Republican midterm giving exceeds $442 million
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6927
 - slug: 2026-10-09-lawler-courts-hudson-valley-swing-voters-in-competitive-reelection-bid
   headline: Lawler courts Hudson Valley swing voters in competitive reelection bid
   publish_date: '2026-10-09'
@@ -157,12 +176,13 @@ related_stories:
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7177
+  strength: 0.7184
 - slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
+  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to
+    Paxton PAC
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6967
+  strength: 0.6974
 - slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
   headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
   publish_date: '2026-10-13'
@@ -172,79 +192,8 @@ related_stories:
   headline: Virtually unknown donors gave up to $1 million each to a super PAC
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6959
-- slug: 2026-10-13-nearly-10-million-in-taxpayer-funds-spent-on-trump-ads-after-private-funding-ple
-  headline: Nearly $10 million in taxpayer funds spent on Trump ads after private-funding pledge
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6615
-- slug: 2026-10-08-trump-shifts-self-promotional-ad-funding-to-super-pac
-  headline: Trump shifts self-promotional ad funding to super PAC
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6715
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7043
-- slug: 2026-10-06-trump-says-super-pac-will-pay-for-ads-previously-funded-by-government
-  headline: Trump says super PAC will pay for ads previously funded by government
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6622
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6675
-- slug: 2026-09-01-rep-lawler-leans-on-moderate-pitch-in-hudson-valley-reelection-bid
-  headline: Rep. Lawler leans on moderate pitch in Hudson Valley reelection bid
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7009
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6698
-- slug: 2026-08-24-maga-inc-spends-more-than-800-000-on-graham-runoff-outreach
-  headline: MAGA Inc. spends more than $800,000 on Graham runoff outreach
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.662
-- slug: 2026-08-06-aipac-linked-super-pacs-pour-millions-into-california-race-against-wahab
-  headline: AIPAC-linked super PACs pour millions into California race against Wahab
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7015
-- slug: 2026-08-11-guardian-editorial-says-ai-money-is-distorting-us-political-debate
-  headline: Guardian editorial says AI money is distorting US political debate
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6778
-- slug: 2026-08-14-house-majority-pac-adds-6-million-in-cleveland-ads-against-max-miller
-  headline: House Majority PAC adds $6 million in Cleveland ads against Max Miller
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6523
-- slug: 2026-06-24-pro--and-anti-ai-groups-spent-24m-on-new-york-congressional-race
-  headline: Pro- and anti-AI groups spent $24m on New York congressional race
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7173
-- slug: 2026-06-22-manhattan-house-primary-becomes-battleground-in-ai-industry-civil-war
-  headline: Manhattan House primary becomes battleground in AI industry civil war
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7127
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7079
+  strength: 0.6953
 ---
-
 ## Federal Election Commission filings show America PAC spending in Lawler's race topped $500,000
 
 **Subtype:** fact

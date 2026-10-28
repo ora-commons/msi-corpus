@@ -2,8 +2,19 @@
 headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
 secondary_headline: Zelensky urges restoration of Starshield service
 publish_date: '2026-10-21'
-lede: Ukrainian military units and analysts said new speed limits on Starshield, SpaceX's military version of Starlink, are disrupting Ukrainian drone missions and weakening Kyiv's defenses against Russia. The Wall Street Journal reported that Elon Musk imposed the limits; Musk said the U.S. government controls Starshield access, while U.S. officials denied that the White House ordered the restrictions. Ukrainian President Volodymyr Zelensky said some Starshield-linked drones lose their connections at speeds as slow as 80 mph.
-nut_graf: Before the new limits, Starshield provided fast, reliable links for midrange strike drones across Ukraine, including missions deep into occupied territory, and for interceptor drones used against Russia's jet-powered Geran drones. Michael Kofman said alternative drone-control systems are more expensive and difficult to scale, while a commander on Ukraine's eastern front said many drones designed for Starshield would need manufacturer reconfiguration if an alternative were found.
+lede: Ukrainian military units and analysts said new speed limits on Starshield, SpaceX's
+  military version of Starlink, are disrupting Ukrainian drone missions and weakening
+  Kyiv's defenses against Russia. The Wall Street Journal reported that Elon Musk
+  imposed the limits; Musk said the U.S. government controls Starshield access, while
+  U.S. officials denied that the White House ordered the restrictions. Ukrainian President
+  Volodymyr Zelensky said some Starshield-linked drones lose their connections at
+  speeds as slow as 80 mph.
+nut_graf: Before the new limits, Starshield provided fast, reliable links for midrange
+  strike drones across Ukraine, including missions deep into occupied territory, and
+  for interceptor drones used against Russia's jet-powered Geran drones. Michael Kofman
+  said alternative drone-control systems are more expensive and difficult to scale,
+  while a commander on Ukraine's eastern front said many drones designed for Starshield
+  would need manufacturer reconfiguration if an alternative were found.
 primary_entities:
 - Starshield
 - SpaceX
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,110 +154,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
+  headline: Ukraine reports Starshield service operating normally after 10-day restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8908
+- slug: 2026-10-23-ukrainian-officials-report-continued-starshield-failures-above-100-mph
+  headline: Ukrainian officials report continued Starshield failures above 100 mph
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8893
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8629
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8811
+  strength: 0.8808
+- slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
+  headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8375
+- slug: 2026-10-21-ukraine-s-starshield-service-is-separate-from-the-u-s--owned-constellation
+  headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.837
+- slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
+  headline: Trump administration denies requesting Starlink limits for Ukraine's military
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8342
 - slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
   headline: Musk redirects Ukraine Starlink speed cap to US military
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8798
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8302
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8213
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8174
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8076
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8074
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7998
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7622
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7872
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7806
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7562
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7496
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7311
-- slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
-  headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6827
-- slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
-  headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.686
-- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
-  headline: Ukrainian drones hit third Yandex data center in four days
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6794
-- slug: 2026-10-05-drones-dominate-ukraine-s-700-mile-kill-zone-reshaping-ground-war
-  headline: Drones dominate Ukraine's 700-mile kill zone, reshaping ground war
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6938
-- slug: 2026-08-26-zelensky-awards-musk-ukraine-s-order-of-freedom-for-starlink-role
-  headline: Zelensky awards Musk Ukraine's Order of Freedom for Starlink role
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7459
-- slug: 2026-07-31-zelenskyy-asks-trump-for-help-expanding-starlink-targeting-inside-russia
-  headline: Zelenskyy asks Trump for help expanding Starlink targeting inside Russia
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.734
+  strength: 0.8801
 analyses:
-- '2026-10-21-starshield-speed-limits-constrain-ukrainian-drones-while-the-authorization-chain'
+- 2026-10-21-starshield-speed-limits-constrain-ukrainian-drones-while-the-authorization-chain
 ---
-
 ## Starshield speed limits hinder Ukrainian strike and interceptor drones
 
 **Subtype:** fact

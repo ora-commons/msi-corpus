@@ -1,9 +1,16 @@
 ---
 headline: Trump-aligned super PACs spend more than $237 million in midterm races
-secondary_headline: MAGA Inc. raised $25 million, mainly from gambling billionaires, executives and financiers
+secondary_headline: MAGA Inc. raised $25 million, mainly from gambling billionaires,
+  executives and financiers
 publish_date: '2026-10-21'
-lede: A network of super PACs affiliated with President Trump spent more than $237 million between September and mid-October on competitive midterm races, according to federal election filings. MAGA Inc. raised about $25 million from Sept. 1 through Oct. 14, mainly from gambling billionaires, chief executives and financiers. Trump said on Truth Social that he plans to spend more than $400 million by Election Day.
-nut_graf: The disclosures show how the Trump-aligned network is financing its final push to hold Congress, including Senate contests in Texas and Michigan, with two weeks remaining before the midterm election.
+lede: A network of super PACs affiliated with President Trump spent more than $237
+  million between September and mid-October on competitive midterm races, according
+  to federal election filings. MAGA Inc. raised about $25 million from Sept. 1 through
+  Oct. 14, mainly from gambling billionaires, chief executives and financiers. Trump
+  said on Truth Social that he plans to spend more than $400 million by Election Day.
+nut_graf: The disclosures show how the Trump-aligned network is financing its final
+  push to hold Congress, including Senate contests in Texas and Michigan, with two
+  weeks remaining before the midterm election.
 primary_entities:
 - Trump
 - MAGA Inc.
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,106 +150,45 @@ related_stories:
   headline: Trump says he has spent more than $300 million on the midterm elections
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7786
+  strength: 0.7774
+- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
+  headline: Musk's Republican midterm giving exceeds $442 million
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7005
 - slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7154
+  strength: 0.7145
 - slug: 2026-10-06-trump-says-super-pac-will-pay-for-ads-previously-funded-by-government
   headline: Trump says super PAC will pay for ads previously funded by government
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7491
+  strength: 0.7482
 - slug: 2026-10-12-government-kept-spending-on-pro-trump-ads-after-private-funding-pledge
   headline: Government kept spending on pro-Trump ads after private-funding pledge
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7035
+  strength: 0.7027
 - slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6768
+  strength: 0.676
 - slug: 2026-10-08-trump-shifts-self-promotional-ad-funding-to-super-pac
   headline: Trump shifts self-promotional ad funding to super PAC
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.723
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6641
+  strength: 0.7219
 - slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
   headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6716
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6795
-- slug: 2026-10-07-dnc-sues-trump-administration-over-taxpayer-funded-self-promotion-ads
-  headline: DNC sues Trump administration over taxpayer-funded self-promotion ads
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6645
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6742
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7203
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7162
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6974
-- slug: 2026-08-24-maga-inc-spends-more-than-800-000-on-graham-runoff-outreach
-  headline: MAGA Inc. spends more than $800,000 on Graham runoff outreach
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7836
-- slug: 2026-09-08-reich-trump-to-spend-400m-super-pac-on-himself-not-gop-candidates
-  headline: 'Reich: Trump to spend $400M Super PAC on himself, not GOP candidates'
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.717
-- slug: 2026-09-05-maga-inc-launches-10-million-texas-senate-ad-campaign
-  headline: MAGA Inc. launches $10 million Texas Senate ad campaign
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7092
-- slug: 2026-09-01-maga-inc-rarely-spends-in-battleground-states-as-trump-grows-war-chest
-  headline: MAGA Inc. rarely spends in battleground states as Trump grows war chest
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6961
-- slug: 2026-09-01-rnc-prices-trump-photo-at-88-600-for-dallas-midterm-convention-fundraisers
-  headline: RNC prices Trump photo at $88,600 for Dallas midterm convention fundraisers
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6813
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6647
+  strength: 0.6712
 analyses:
-- '2026-10-21-trump-aligned-pac-network-holding-181-million-in-mid-october-after-237-million-i'
+- 2026-10-21-trump-aligned-pac-network-holding-181-million-in-mid-october-after-237-million-i
 ---
-
 ## Trump-aligned super PACs spend more than $237 million in midterm races
 
 **Subtype:** fact

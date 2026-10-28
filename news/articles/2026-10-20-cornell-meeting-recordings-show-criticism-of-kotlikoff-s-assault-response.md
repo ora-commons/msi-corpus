@@ -2,8 +2,18 @@
 headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
 secondary_headline: Faculty members call campus sexual misconduct a systemic problem
 publish_date: '2026-10-20'
-lede: Recordings obtained by BBC News show Cornell staff saying they were "deeply disturbed" by President Michael Kotlikoff's handling of Jane Doe's allegation of an October 2024 assault at a Chi Phi fraternity party and accusing him of lacking an "emotional response." At Wednesday's faculty senate meeting in Ithaca, faculty said campus sexual misconduct was a systemic problem, and the senate scheduled a rare no-confidence vote on Kotlikoff's leadership for 28 October. Doe's 14 October letter accused Kotlikoff of asking why she waited several weeks to report the alleged assault, while Cornell said the second-hand account of the question was "incorrect."
-nut_graf: The Cornell recordings document faculty criticism of the university's handling of Jane Doe's allegation as the senate prepares for its 28 October no-confidence vote. Doe's letter contests the university's handling of her report, while Cornell disputes her account of Kotlikoff's reaction.
+lede: Recordings obtained by BBC News show Cornell staff saying they were "deeply
+  disturbed" by President Michael Kotlikoff's handling of Jane Doe's allegation of
+  an October 2024 assault at a Chi Phi fraternity party and accusing him of lacking
+  an "emotional response." At Wednesday's faculty senate meeting in Ithaca, faculty
+  said campus sexual misconduct was a systemic problem, and the senate scheduled a
+  rare no-confidence vote on Kotlikoff's leadership for 28 October. Doe's 14 October
+  letter accused Kotlikoff of asking why she waited several weeks to report the alleged
+  assault, while Cornell said the second-hand account of the question was "incorrect."
+nut_graf: The Cornell recordings document faculty criticism of the university's handling
+  of Jane Doe's allegation as the senate prepares for its 28 October no-confidence
+  vote. Doe's letter contests the university's handling of her report, while Cornell
+  disputes her account of Kotlikoff's reaction.
 primary_entities:
 - Cornell University
 - Michael Kotlikoff
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,45 @@ related_stories:
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8623
+  strength: 0.8631
+- slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
+  headline: The New York Times first publishes Doe's letter; her lawyer authenticates
+    it
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8211
 - slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
   headline: Cornell president says he knew of assault report but didn't follow up
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8405
+  strength: 0.841
 - slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
   headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8129
+  strength: 0.8132
 - slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
   headline: Cornell suspends fraternity parties for academic year after rape allegations
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7693
+  strength: 0.7698
+- slug: 2026-10-23-jane-doe-s-lawyer-says-she-fears-for-her-safety-as-cornell-civil-case-advances
+  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case
+    advances
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7158
 - slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
   headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7583
+  strength: 0.7591
 - slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
   headline: Cornell faculty file no-confidence resolution over sexual assault response
   publish_date: '2026-10-06'
   relation: related
   strength: 0.7803
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7461
-- slug: 2026-10-12-cornell-fraternity-rape-allegation-renews-scrutiny-of-greek-life
-  headline: Cornell fraternity rape allegation renews scrutiny of Greek life
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7081
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7544
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7374
-- slug: 2026-10-06-cornell-trustees-appoint-sally-yates-to-review-sexual-misconduct-response
-  headline: Cornell trustees appoint Sally Yates to review sexual misconduct response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7217
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7213
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7323
-- slug: 2026-10-06-cornell-names-sally-yates-to-lead-independent-rape-case-review
-  headline: Cornell names Sally Yates to lead independent rape-case review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7073
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7306
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7229
-- slug: 2026-10-05-cornell-student-activists-vandalize-day-hall-over-rape-case-response
-  headline: Cornell student activists vandalize Day Hall over rape-case response
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6917
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7099
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6928
-- slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
-  headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6802
 ---
-
 ## Cornell meeting recordings show criticism of Kotlikoff's assault response
 
 **Subtype:** fact

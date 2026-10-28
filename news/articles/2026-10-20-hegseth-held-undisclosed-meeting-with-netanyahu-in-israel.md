@@ -2,8 +2,14 @@
 headline: Hegseth held undisclosed meeting with Netanyahu in Israel
 secondary_headline: Trump weighs renewed Iran operations ahead of Israeli election
 publish_date: '2026-10-20'
-lede: U.S. Defense Secretary Pete Hegseth held a previously undisclosed meeting with Israeli Prime Minister Benjamin Netanyahu at Ovda Air Base in southern Israel on Monday, according to Axios, The New York Times and CBS News, citing unnamed U.S. military officials and Israeli sources. The visit came days before Israel's Oct. 27 election and as President Donald Trump weighs resuming military operations against Iran after the Nov. 3 elections.
-nut_graf: Options for a second phase of major combat operations are reportedly under review, while Netanyahu contests an unprecedented seventh term in the Oct. 27 election.
+lede: U.S. Defense Secretary Pete Hegseth held a previously undisclosed meeting with
+  Israeli Prime Minister Benjamin Netanyahu at Ovda Air Base in southern Israel on
+  Monday, according to Axios, The New York Times and CBS News, citing unnamed U.S.
+  military officials and Israeli sources. The visit came days before Israel's Oct.
+  27 election and as President Donald Trump weighs resuming military operations against
+  Iran after the Nov. 3 elections.
+nut_graf: Options for a second phase of major combat operations are reportedly under
+  review, while Netanyahu contests an unprecedented seventh term in the Oct. 27 election.
 primary_entities:
 - Pete Hegseth
 - Benjamin Netanyahu
@@ -47,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-18-trump-s-disputes-with-netanyahu-span-an-iranian-gas-field-hezbollah-and-gaza
+  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and
+    Gaza
+  publish_date: '2026-10-18'
+  relation: related
+  strength: 0.735
 - slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
   headline: Trump endorses Netanyahu days before Israel's closely contested election
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7143
+  strength: 0.7126
 - slug: 2026-10-19-vance-declines-netanyahu-endorsement-ahead-of-israel-election
   headline: Vance declines Netanyahu endorsement ahead of Israel election
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6906
+  strength: 0.6897
 - slug: 2026-10-18-netanyahu-warns-eisenkot-win-would-let-iran-obtain-nuclear-weapons
   headline: Netanyahu warns Eisenkot win would let Iran obtain nuclear weapons
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6866
-- slug: 2026-10-08-murphy-says-pentagon-blocked-his-access-to-al-udeid-base
-  headline: Murphy says Pentagon blocked his access to Al Udeid base
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6803
+  strength: 0.6852
 - slug: 2026-09-24-netanyahu-arrives-in-new-york-for-defiant-un-speech-as-hundreds-protest
   headline: Netanyahu arrives in New York for defiant UN speech as hundreds protest
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6814
+  strength: 0.6803
 - slug: 2026-07-28-netanyahu-trump-hold-first-face-to-face-meeting-since-launching-iran-war
-  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran war
+  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran
+    war
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7437
+  strength: 0.7424
 - slug: 2026-08-17-trump-publicly-tells-israel-to-stop-gaza-strikes-as-kushner-presses-netanyahu
   headline: Trump publicly tells Israel to stop Gaza strikes as Kushner presses Netanyahu
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6973
+  strength: 0.6955
 - slug: 2026-07-24-lebanese-army-deploys-in-southern-lebanon-pilot-zones-as-aoun-meets-trump
   headline: Lebanese Army deploys in southern Lebanon pilot zones as Aoun meets Trump
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6957
-- slug: 2026-06-24-israeli-troops-in-lebanon-caught-between-u-s-limits-and-domestic-pressure-on-tru
-  headline: Israeli troops in Lebanon caught between U.S. limits and domestic pressure on truce
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6901
-- slug: 2026-06-17-israel-and-hezbollah-trade-strikes-as-iran-us-ceasefire-signing-nears
-  headline: Israel and Hezbollah trade strikes as Iran-US ceasefire signing nears
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6896
-- slug: 2026-02-08-netanyahu-trump-meeting-about-iran-scheduled-for-wednesday
-  headline: Netanyahu-Trump meeting about Iran scheduled for Wednesday
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7367
-- slug: 2026-06-08-trump-netanyahu-rift-tests-fragile-middle-east-ceasefire
-  headline: Trump-Netanyahu rift tests fragile Middle East ceasefire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6935
-- slug: 2026-06-11-vance-says-netanyahu-has-gotten-some-things-wrong-as-us-israel-rift-widens
-  headline: Vance says Netanyahu 'has gotten some things wrong' as US-Israel rift widens
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6841
-- slug: 2026-06-14-israeli-strike-on-beirut-kills-3-threatens-iran-nuclear-deal
-  headline: Israeli strike on Beirut kills 3, threatens Iran nuclear deal
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6815
-- slug: 2026-06-02-trump-swore-at-netanyahu-over-threat-to-resume-beirut-bombing-report-says
-  headline: Trump swore at Netanyahu over threat to resume Beirut bombing, report says
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6893
-- slug: 2026-02-12-trump-tells-netanyahu-he-wants-u-s--iran-nuclear-talks-to-continue
-  headline: Trump tells Netanyahu he wants U.S.-Iran nuclear talks to continue
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.7237
-- slug: 2026-05-14-uae-denies-netanyahu-secret-visit-during-iran-war
-  headline: UAE denies Netanyahu secret visit during Iran war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6908
-- slug: 2026-03-02-hegseth-says-iran-conflict-not-endless-warns-more-u-s-casualties
-  headline: Hegseth says Iran conflict “not endless,” warns more U.S. casualties
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7085
-- slug: 2026-05-13-hegseth-faces-bipartisan-grilling-over-iran-war-costs-and-strategy
-  headline: Hegseth faces bipartisan grilling over Iran war costs and strategy
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6873
-- slug: 2026-05-14-uae-denies-netanyahu-made-secret-visit-during-iran-war
-  headline: UAE denies Netanyahu made secret visit during Iran war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6844
+  strength: 0.6939
 ---
-
 ## Hegseth held undisclosed meeting with Netanyahu in Israel
 
 **Subtype:** fact

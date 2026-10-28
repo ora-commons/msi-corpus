@@ -1,9 +1,19 @@
 ---
 headline: Trump proposes serving as arbitrator of DOJ fraud tip rewards
-secondary_headline: Vance says over 99% of fraud found in federal government falls outside False Claims Act
+secondary_headline: Vance says over 99% of fraud found in federal government falls
+  outside False Claims Act
 publish_date: '2026-10-20'
-lede: President Donald Trump said Tuesday that he could serve as “the arbitrator” of reward decisions in a new Justice Department anti-fraud tip program, announced at the White House with Vice President JD Vance. The program awards compensation to people whose tips result in a conviction or significant federal enforcement, while the Justice Department website says the department has “sole discretion” in issuing rewards.
-nut_graf: Trump proposed deciding reward disputes involving competing tips, but The Guardian said it was unclear whether he was sincere and the Justice Department website gives the department sole discretion. Vance said the program differs from the False Claims Act because it expands financial-reward opportunities in cases of fraud related to the government and provides rewards at an earlier investigative stage.
+lede: President Donald Trump said Tuesday that he could serve as “the arbitrator”
+  of reward decisions in a new Justice Department anti-fraud tip program, announced
+  at the White House with Vice President JD Vance. The program awards compensation
+  to people whose tips result in a conviction or significant federal enforcement,
+  while the Justice Department website says the department has “sole discretion” in
+  issuing rewards.
+nut_graf: Trump proposed deciding reward disputes involving competing tips, but The
+  Guardian said it was unclear whether he was sincere and the Justice Department website
+  gives the department sole discretion. Vance said the program differs from the False
+  Claims Act because it expands financial-reward opportunities in cases of fraud related
+  to the government and provides rewards at an earlier investigative stage.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,106 +152,46 @@ related_stories:
   headline: Trump plans $25 million fraud-tip program paying up to $30,000
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7689
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
+  strength: 0.7682
+- slug: 2026-10-26-trump-offers-1-million-reward-for-reports-of-voter-fraud
+  headline: Trump offers $1 million reward for reports of voter fraud
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6573
+  strength: 0.7517
+- slug: 2026-10-20-fraud-tip-program-makes-first-award-to-nick-shirley
+  headline: Fraud-tip program makes first award to Nick Shirley
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.729
+- slug: 2026-10-21-doj-fraud-chief-directs-prosecutors-to-weigh-tax-charges-in-every-case
+  headline: DOJ fraud chief directs prosecutors to weigh tax charges in every case
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6758
 - slug: 2026-09-05-federal-magistrate-orders-discovery-into-defunct-1-8bn-compensation-scheme
   headline: Federal magistrate orders discovery into defunct $1.8bn compensation scheme
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6689
+  strength: 0.6697
 - slug: 2026-08-14-doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
   headline: DOJ's new fraud division faces internal strife, stalled investigations
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6797
+  strength: 0.6796
 - slug: 2026-07-30-trump-says-he-may-temporarily-withdraw-blanche-nomination-over-senate-gop-stando
-  headline: Trump says he may temporarily withdraw Blanche nomination over Senate GOP standoff
+  headline: Trump says he may temporarily withdraw Blanche nomination over Senate
+    GOP standoff
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6636
+  strength: 0.663
 - slug: 2026-02-26-trump-s-pick-to-lead-new-doj-fraud-unit-faces-scrutiny-over-oversight
   headline: Trump’s pick to lead new DOJ fraud unit faces scrutiny over oversight
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.7514
-- slug: 2026-05-18-trump-allies-fund-doj-plan-for-nearly-1-8b-anti-weaponization-fund
-  headline: Trump allies fund DOJ plan for nearly $1.8B “Anti-Weaponization Fund”
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7128
-- slug: 2026-05-19-trump-doj-launches-1-776b-anti-weaponization-fund-for-allied-claims
-  headline: Trump DOJ launches $1.776B “Anti-Weaponization Fund” for allied claims
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7117
-- slug: 2026-05-22-trump-says-he-may-release-tax-returns-after-justice-department-deal
-  headline: Trump says he may release tax returns after Justice Department deal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6876
-- slug: 2026-05-20-trump-says-he-may-release-tax-returns-after-doj-deal-drops-claims
-  headline: Trump says he may release tax returns after DOJ deal drops claims
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.688
-- slug: 2026-06-04-justice-department-eyes-alternative-payout-paths-for-trump-allies-after-fund-ret
-  headline: Justice Department Eyes Alternative Payout Paths for Trump Allies After Fund Retreat
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6768
-- slug: 2026-06-17-january-6-defendants-seek-millions-in-compensation-through-obscure-federal-claim
-  headline: January 6 defendants seek millions in compensation through obscure federal claims process
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6659
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6643
-- slug: 2026-05-17-doj-announces-nearly-1-8b-fund-to-compensate-trump-allies-over-tax-leak
-  headline: DOJ announces nearly $1.8B fund to compensate Trump allies over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6835
-- slug: 2026-03-28-vance-holds-first-anti-fraud-task-force-meeting-as-administration-targets-benefi
-  headline: Vance holds first anti-fraud task force meeting as administration targets benefits
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.7002
-- slug: 2026-05-18-doj-announces-nearly-1-8b-anti-weaponization-fund-for-trump-allies
-  headline: DOJ announces nearly $1.8B “Anti-Weaponization Fund” for Trump allies
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6814
-- slug: 2026-05-20-doj-creates-nearly-1-8-billion-fund-to-compensate-trump-allies
-  headline: DOJ creates nearly $1.8 billion fund to compensate Trump allies
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6801
-- slug: 2026-06-01-pardoned-jan-6-defendants-pursue-payouts-from-trump-s-1-776-billion-fund
-  headline: Pardoned Jan. 6 defendants pursue payouts from Trump’s $1.776 billion fund
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6719
-- slug: 2026-06-04-trump-to-nominate-acting-attorney-general-todd-blanche-for-permanent-role
-  headline: Trump to Nominate Acting Attorney General Todd Blanche for Permanent Role
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6686
-- slug: 2026-05-21-trump-says-he-may-release-his-tax-returns-after-doj-settlement
-  headline: Trump says he may release his tax returns after DOJ settlement
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.668
+  strength: 0.7508
 analyses:
-- '2026-10-20-trump-s-proposal-puts-presidential-judgment-inside-justice-department-reward-dec'
+- 2026-10-20-trump-s-proposal-puts-presidential-judgment-inside-justice-department-reward-dec
 ---
-
 ## Trump proposes serving as arbitrator of DOJ fraud tip rewards
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Edgerton residents sue city over Damac data center ballot measure
-secondary_headline: Damac chairman Hussain Sajwani pledged $20 billion for U.S. data centers after Trump's reelection
+secondary_headline: Damac chairman Hussain Sajwani pledged $20 billion for U.S. data
+  centers after Trump's reelection
 publish_date: '2026-10-20'
-lede: Residents of Edgerton, Kansas, have filed a lawsuit asking the city to place a November ballot measure before voters that could ban data centers. The city separately sued residents who opposed a proposed Damac Properties AI data center, and a judge dismissed that case in September. The petition group delivered more than twice the required signatures to the county voter office, which determined it met all legal requirements; the measure had not been placed on the ballot as of publication.
-nut_graf: The Edgerton dispute is one of many similar conflicts across America as developers seek enough processing power for AI companies. It concerns whether residents can obtain a public vote after officials designated data centers "by right." Local taxpayers face mounting property-tax bills; William LaFalce attributes higher taxes and living costs to industrial expansion, Kim Twente has raised runoff concerns, and Edgerton's planning commission cited risks from backup diesel fuel. Damac chairman Hussain Sajwani is a close ally of President Trump.
+lede: Residents of Edgerton, Kansas, have filed a lawsuit asking the city to place
+  a November ballot measure before voters that could ban data centers. The city separately
+  sued residents who opposed a proposed Damac Properties AI data center, and a judge
+  dismissed that case in September. The petition group delivered more than twice the
+  required signatures to the county voter office, which determined it met all legal
+  requirements; the measure had not been placed on the ballot as of publication.
+nut_graf: The Edgerton dispute is one of many similar conflicts across America as
+  developers seek enough processing power for AI companies. It concerns whether residents
+  can obtain a public vote after officials designated data centers "by right." Local
+  taxpayers face mounting property-tax bills; William LaFalce attributes higher taxes
+  and living costs to industrial expansion, Kim Twente has raised runoff concerns,
+  and Edgerton's planning commission cited risks from backup diesel fuel. Damac chairman
+  Hussain Sajwani is a close ally of President Trump.
 primary_entities:
 - Edgerton, Kansas
 - Damac Properties
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,117 +154,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
-  headline: Democratic attorneys general expand midterm election security planning
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6438
-- slug: 2026-10-21-dte-energy-seeks-approval-for-two-gas-plants-amid-michigan-datacenter-growth
-  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6363
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6481
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6281
-- slug: 2026-10-09-east-fishkill-enacts-three-year-moratorium-on-large-datacenters
-  headline: East Fishkill enacts three-year moratorium on large datacenters
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.639
-- slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
-  headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6426
-- slug: 2026-09-27-developer-offers-hazle-township-households-10-000-each-for-data-center
-  headline: Developer offers Hazle Township households $10,000 each for data center
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6297
 - slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6623
-- slug: 2026-09-03-trump-administration-misses-citizenship-list-deadline-as-epic-files-motion
-  headline: Trump administration misses citizenship list deadline as EPIC files motion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6349
-- slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6505
-- slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6287
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6434
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6496
-- slug: 2026-08-16-kentucky-mother-and-daughter-refuse-26-million-offer-for-ai-data-center-land
-  headline: Kentucky mother and daughter refuse $26 million offer for AI data center land
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6298
-- slug: 2026-08-15-ai-infrastructure-backlash-spans-political-spectrum-ahead-of-midterms
-  headline: AI infrastructure backlash spans political spectrum ahead of midterms
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6281
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6452
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6483
+  strength: 0.6617
 - slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
   headline: Seattle enacts year-long ban on new AI datacenters
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6598
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6321
+  strength: 0.6573
 image:
   url: /articles/2026-10-20-edgerton-residents-sue-city-over-damac-data-center-ballot-measure.png
-  alt: "Illustration accompanying article: Edgerton residents sue city over Damac data center ballot measure"
+  alt: 'Illustration accompanying article: Edgerton residents sue city over Damac
+    data center ballot measure'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Edgerton residents sue city over Damac data center ballot measure
 
 **Subtype:** fact

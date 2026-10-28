@@ -1,9 +1,20 @@
 ---
 headline: Planned farm aid could sustain seed, fertilizer and equipment purchases
-secondary_headline: Diesel surged above $6 on average as farm debt reached record highs
+secondary_headline: Diesel surged above $6 on average as farm debt reached record
+  highs
 publish_date: '2026-10-21'
-lede: On Oct. 21, Patrick Thomas reported for The Wall Street Journal that the Trump administration was launching the Harvest Fuel Relief program, which would result in another $8 billion in direct aid to U.S. farmers. The announcement falls two weeks before the midterm elections. The Wall Street Journal identified Bayer, Vylor, CF Industries, Nutrien and Deere as potential beneficiaries if the payments help farmers maintain purchases of seeds, fertilizer and equipment.
-nut_graf: The planned payments are intended to help farmers maintain current spending on high-tech crop seeds, fertilizer, equipment and pesticides amid years of losses from low commodity prices and inflation, while USDA data show farm debt at record highs. The Wall Street Journal said higher fertilizer costs and a recent drop in corn selling prices are expected to drag on profits and that diesel above $6 a gallon on average is hurting farmers who operate combines and tractors.
+lede: On Oct. 21, Patrick Thomas reported for The Wall Street Journal that the Trump
+  administration was launching the Harvest Fuel Relief program, which would result
+  in another $8 billion in direct aid to U.S. farmers. The announcement falls two
+  weeks before the midterm elections. The Wall Street Journal identified Bayer, Vylor,
+  CF Industries, Nutrien and Deere as potential beneficiaries if the payments help
+  farmers maintain purchases of seeds, fertilizer and equipment.
+nut_graf: The planned payments are intended to help farmers maintain current spending
+  on high-tech crop seeds, fertilizer, equipment and pesticides amid years of losses
+  from low commodity prices and inflation, while USDA data show farm debt at record
+  highs. The Wall Street Journal said higher fertilizer costs and a recent drop in
+  corn selling prices are expected to drag on profits and that diesel above $6 a gallon
+  on average is hurting farmers who operate combines and tractors.
 primary_entities:
 - Trump administration
 - Harvest Fuel Relief program
@@ -56,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,104 +170,44 @@ related_stories:
   headline: Trump announces $8 billion in farmer aid ahead of midterms
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8448
+  strength: 0.8436
 - slug: 2026-10-20-u-s-department-of-agriculture-and-trump-announce-8-billion-farm-aid
   headline: U.S. Department of Agriculture and Trump announce $8 billion farm aid
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8133
+  strength: 0.8128
+- slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
+  headline: Trump's fuel-price measures leave gasoline and diesel costs high
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7102
+- slug: 2026-10-23-trump-directs-150-million-to-boost-u-s-gasoline-and-diesel-production
+  headline: Trump directs $150 million to boost U.S. gasoline and diesel production
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.704
+- slug: 2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal
+  headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7006
+- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
+  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6909
 - slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
+  headline: Record copper and elevated steel costs add pressure to GM's full-year
+    outlook
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6745
+  strength: 0.6744
 - slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
   headline: Trump pulls fuel-price levers as midterm elections approach
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7059
-- slug: 2026-10-03-midwest-farmers-face-record-diesel-bills-as-soybean-harvest-begins
-  headline: Midwest farmers face record diesel bills as soybean harvest begins
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7155
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6789
-- slug: 2026-10-08-ftc-usda-open-joint-inquiry-into-farm-equipment-market-competition
-  headline: FTC, USDA open joint inquiry into farm equipment market competition
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6617
-- slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6653
-- slug: 2026-10-05-trump-orders-dyed-diesel-opened-to-highway-use-defers-excise-tax
-  headline: Trump orders dyed diesel opened to highway use, defers excise tax
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6693
-- slug: 2026-10-04-truckers-trim-expenses-as-diesel-hits-us-record-6-53-a-gallon
-  headline: Truckers trim expenses as diesel hits US record $6.53 a gallon
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6675
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6908
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6791
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6959
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.682
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6857
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7045
-- slug: 2026-09-21-black-farmers-leader-says-diesel-at-7-a-gallon-is-straining-farm-budgets
-  headline: Black farmers leader says diesel at $7 a gallon is straining farm budgets
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6855
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6717
-- slug: 2026-09-23-trump-weighs-diesel-export-ban-as-fuel-prices-hit-record-high
-  headline: Trump weighs diesel export ban as fuel prices hit record high
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.665
-- slug: 2026-08-27-tariff-dispute-could-squeeze-us-farmers-via-canadian-potash-supply
-  headline: Tariff dispute could squeeze US farmers via Canadian potash supply
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.685
+  strength: 0.707
 ---
-
 ## Planned farm aid could sustain seed, fertilizer and equipment purchases
 
 **Subtype:** fact

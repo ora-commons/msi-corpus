@@ -163,17 +163,23 @@ related_stories:
   headline: Several Republican candidates break with Trump over Russian diesel deal
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7601
+  strength: 0.761
+- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
+  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink
+    limits
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7291
 - slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
   headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7583
+  strength: 0.7591
 - slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
   headline: Bipartisan senators urge Trump to reverse Russian diesel deal
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7666
+  strength: 0.7678
 - slug: 2026-10-13-twelve-senators-call-on-trump-to-rescind-russian-diesel-deal
   headline: Twelve senators call on Trump to rescind Russian diesel deal
   publish_date: '2026-10-13'
@@ -183,87 +189,19 @@ related_stories:
   headline: Trump defends Russia sanctions waiver in Sunday TruthSocial post
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7037
+  strength: 0.7054
 - slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
   headline: Bipartisan senators declare Trump's Russian diesel plan illegal under
     2022 ban
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7341
-- slug: 2026-10-16-trump-labels-ukraine-s-renewed-refinery-strikes-a-disgrace-on-newsmax
-  headline: Trump labels Ukraine's renewed refinery strikes 'a disgrace' on Newsmax
-  publish_date: '2026-10-16'
+  strength: 0.7346
+- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
+  headline: Zelensky Starlink warning led to informal White House investigation
+  publish_date: '2026-10-20'
   relation: related
-  strength: 0.6958
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7155
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.677
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6824
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6789
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6723
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6966
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6894
-- slug: 2026-10-11-guardian-editorial-says-trump-s-flouting-of-the-law-undermines-global-standards
-  headline: Guardian editorial says Trump's flouting of the law undermines global
-    standards
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6787
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6824
-- slug: 2026-09-16-house-democrats-split-as-jeffries-goldman-diverge-on-russia-sanctions-bill
-  headline: House Democrats split as Jeffries, Goldman diverge on Russia sanctions
-    bill
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.705
-- slug: 2026-09-15-house-moves-toward-vote-on-graham-russia-sanctions-bill-as-democrats-split
-  headline: House moves toward vote on Graham Russia sanctions bill as Democrats split
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6903
-- slug: 2026-09-18-trump-signs-russia-sanctions-bill-granting-expanded-tariff-authority
-  headline: Trump signs Russia sanctions bill granting expanded tariff authority
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6755
-- slug: 2026-09-16-house-passes-russia-sanctions-bill-sending-measure-to-trump
-  headline: House passes Russia sanctions bill, sending measure to Trump
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6813
+  strength: 0.6794
 ---
-
 ## Republican lawmakers challenge Trump’s Russia policy and diesel deal
 
 **Subtype:** fact

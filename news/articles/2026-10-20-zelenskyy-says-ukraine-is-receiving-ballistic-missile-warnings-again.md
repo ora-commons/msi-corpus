@@ -1,9 +1,19 @@
 ---
 headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-secondary_headline: Zelenskyy's offer links Patriots to long-range attacks on Russian oil refineries
+secondary_headline: Zelenskyy's offer links Patriots to long-range attacks on Russian
+  oil refineries
 publish_date: '2026-10-20'
-lede: The US has resumed sharing intelligence with Ukraine about Russian missile strikes, Volodymyr Zelenskyy said Tuesday after meeting US envoy Steve Witkoff in Oslo, Norway. Ukraine is again receiving advance warnings of ballistic missile attacks that the White House seemed to suspend last week. “Now it works. It’s great,” Zelenskyy said, saying the move would save lives.
-nut_graf: The announcement marks the apparent reversal of a missile-warning suspension amid what The Guardian called “the worst crisis in US-Ukraine relations” since Vladimir Putin’s full-scale invasion nearly five years ago. The Guardian reported that Trump had accused Zelenskyy of failing to end the war and said Ukraine needed a new leader. Zelenskyy also said he had raised restrictions imposed the previous week on Starshield with Secretary of State Marco Rubio.
+lede: The US has resumed sharing intelligence with Ukraine about Russian missile strikes,
+  Volodymyr Zelenskyy said Tuesday after meeting US envoy Steve Witkoff in Oslo, Norway.
+  Ukraine is again receiving advance warnings of ballistic missile attacks that the
+  White House seemed to suspend last week. “Now it works. It’s great,” Zelenskyy said,
+  saying the move would save lives.
+nut_graf: The announcement marks the apparent reversal of a missile-warning suspension
+  amid what The Guardian called “the worst crisis in US-Ukraine relations” since Vladimir
+  Putin’s full-scale invasion nearly five years ago. The Guardian reported that Trump
+  had accused Zelenskyy of failing to end the war and said Ukraine needed a new leader.
+  Zelenskyy also said he had raised restrictions imposed the previous week on Starshield
+  with Secretary of State Marco Rubio.
 primary_entities:
 - Ukraine
 - United States
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +161,44 @@ related_stories:
   headline: After Rubio call, Zelenskyy says missile warnings have resumed
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8813
+  strength: 0.8816
 - slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
   headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8496
+  strength: 0.8503
 - slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
   headline: Zelensky Starlink warning led to informal White House investigation
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7791
+  strength: 0.7795
+- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
+  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.778
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7756
 - slug: 2026-10-20-zelensky-plans-oslo-talks-with-us-envoys-as-trump-tensions-rise
   headline: Zelensky plans Oslo talks with US envoys as Trump tensions rise
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7726
+  strength: 0.7723
+- slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7718
 - slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
   headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7923
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7971
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.803
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7885
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7908
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7653
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7719
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7956
-- slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
-  headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7758
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7678
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.762
-- slug: 2026-09-25-zelensky-says-trump-approved-patriot-missile-license-for-ukraine
-  headline: Zelensky says Trump approved Patriot missile license for Ukraine
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7988
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.767
-- slug: 2026-08-01-russian-missiles-kill-nine-in-kyiv-ukraine-cites-air-defense-shortage
-  headline: Russian missiles kill nine in Kyiv, Ukraine cites air defense shortage
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7689
-- slug: 2026-07-31-zelenskyy-asks-trump-for-help-expanding-starlink-targeting-inside-russia
-  headline: Zelenskyy asks Trump for help expanding Starlink targeting inside Russia
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7696
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7713
+  strength: 0.7932
 ---
-
 ## Zelenskyy says Ukraine is receiving ballistic-missile warnings again
 
 **Subtype:** fact

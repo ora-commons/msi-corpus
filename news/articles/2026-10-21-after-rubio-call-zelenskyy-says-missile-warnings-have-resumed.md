@@ -1,9 +1,24 @@
 ---
 headline: After Rubio call, Zelenskyy says missile warnings have resumed
-secondary_headline: Rubio denies intelligence-sharing and weapons-supply policy changes as Patriot ammunition stays short
+secondary_headline: Rubio denies intelligence-sharing and weapons-supply policy changes
+  as Patriot ammunition stays short
 publish_date: '2026-10-21'
-lede: Ukrainian President Volodymyr Zelenskyy said Tuesday that Kyiv was again receiving early warnings from partners about incoming Russian missiles after strikes that he said occurred without enough notice, and he thanked the American side now that the warning system worked. Zelenskyy said the change followed talks with U.S. counterparts, including Secretary of State Marco Rubio. Rubio, who arrived in India on an official trip Tuesday, denied that the United States was withholding assistance and said U.S. policy on intelligence sharing and weapons supplies had not changed. Russian missile and drone attacks killed at least nine people, officials said, as President Donald Trump continued pressing Kyiv toward an agreement.
-nut_graf: Zelenskyy credited the American side as early warning worked again, while Rubio said there had been no change in U.S. policy on intelligence sharing and weapons supplies and no withholding of assistance. Zelenskyy said Ukraine was nearly out of American-made Patriot interceptors and still faced Starshield speed restrictions; Rubio said the Patriot ammunition Ukraine needed was in short supply and required elsewhere. Russian attacks killed at least nine people as Kyiv sought more American and European help.
+lede: Ukrainian President Volodymyr Zelenskyy said Tuesday that Kyiv was again receiving
+  early warnings from partners about incoming Russian missiles after strikes that
+  he said occurred without enough notice, and he thanked the American side now that
+  the warning system worked. Zelenskyy said the change followed talks with U.S. counterparts,
+  including Secretary of State Marco Rubio. Rubio, who arrived in India on an official
+  trip Tuesday, denied that the United States was withholding assistance and said
+  U.S. policy on intelligence sharing and weapons supplies had not changed. Russian
+  missile and drone attacks killed at least nine people, officials said, as President
+  Donald Trump continued pressing Kyiv toward an agreement.
+nut_graf: Zelenskyy credited the American side as early warning worked again, while
+  Rubio said there had been no change in U.S. policy on intelligence sharing and weapons
+  supplies and no withholding of assistance. Zelenskyy said Ukraine was nearly out
+  of American-made Patriot interceptors and still faced Starshield speed restrictions;
+  Rubio said the Patriot ammunition Ukraine needed was in short supply and required
+  elsewhere. Russian attacks killed at least nine people as Kyiv sought more American
+  and European help.
 primary_entities:
 - Volodymyr Zelenskyy
 - Marco Rubio
@@ -45,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,117 +159,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
+  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8547
 - slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
   headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8357
+  strength: 0.8381
 - slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
   headline: Zelenskyy says Ukraine still sees US as partner despite warnings
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7903
+  strength: 0.7914
+- slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7346
 - slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
   headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7519
+  strength: 0.7523
 - slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
   headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7485
+  strength: 0.7537
 - slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
+  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal
+    terms
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7475
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7258
+  strength: 0.7503
 - slug: 2026-09-25-zelensky-says-trump-approved-patriot-missile-license-for-ukraine
   headline: Zelensky says Trump approved Patriot missile license for Ukraine
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.771
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7505
-- slug: 2026-09-23-zelensky-tells-un-general-assembly-russia-s-war-could-spread
-  headline: Zelensky tells UN General Assembly Russia's war could spread
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7318
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7257
-- slug: 2026-08-01-russian-missiles-kill-nine-in-kyiv-ukraine-cites-air-defense-shortage
-  headline: Russian missiles kill nine in Kyiv, Ukraine cites air defense shortage
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7744
-- slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
-  headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.734
-- slug: 2026-07-24-rubio-says-no-quick-path-to-ukraine-deal-in-new-bid-to-restart-talks
-  headline: Rubio says no quick path to Ukraine deal in new bid to restart talks
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7427
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7665
-- slug: 2026-06-02-russia-kills-18-in-third-massive-kyiv-attack-in-three-weeks-as-front-stalls
-  headline: Russia kills 18 in third massive Kyiv attack in three weeks as front stalls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7438
-- slug: 2026-03-29-zelenskyy-visits-uae-and-qatar-to-seek-drone-defense-ties
-  headline: Zelenskyy visits UAE and Qatar to seek drone defense ties
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7701
-- slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
-  headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7365
-- slug: 2026-04-11-zelenskyy-says-ukraine-shot-down-shahed-drones-abroad-seeks-wider-air-defense-ti
-  headline: Zelenskyy says Ukraine shot down Shahed drones abroad, seeks wider air defense ties
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7539
-- slug: 2026-03-29-rubio-denies-us-pressed-ukraine-to-cede-donbas-for-security-guarantees
-  headline: Rubio denies US pressed Ukraine to cede Donbas for security guarantees
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7565
-- slug: 2026-03-14-zelenskyy-ready-for-peace-talks-but-says-us-and-russia-must-act
-  headline: Zelenskyy ready for peace talks but says US and Russia must act
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7574
+  strength: 0.7671
 image:
   url: /articles/2026-10-21-after-rubio-call-zelenskyy-says-missile-warnings-have-resumed.png
-  alt: "Illustration accompanying article: After Rubio call, Zelenskyy says missile warnings have resumed"
+  alt: 'Illustration accompanying article: After Rubio call, Zelenskyy says missile
+    warnings have resumed'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## After Rubio call, Zelenskyy says missile warnings have resumed
 
 **Subtype:** fact

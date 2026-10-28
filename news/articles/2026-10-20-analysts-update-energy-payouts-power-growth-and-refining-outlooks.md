@@ -1,9 +1,26 @@
 ---
 headline: Analysts update energy payouts, power growth and refining outlooks
-secondary_headline: Electricity Generating stake may aid earnings; BP plan may shift narrative
+secondary_headline: Electricity Generating stake may aid earnings; BP plan may shift
+  narrative
 publish_date: '2026-10-20'
-lede: RBC Capital Markets analyst Biraj Borkhataria said the Italian energy major Eni could announce a €1 billion special dividend with its third-quarter results. CGS International analyst Rasmiman Sermprasert said in a research report that a proposed additional 12% stake in the 980-megawatt Linden Cogen plant could benefit Electricity Generating's earnings from 2027 if expected U.S. approvals were obtained. Jefferies said Ampol's third-quarter update surprised it for two opposing reasons, while Macquarie said forecasts pointed to a 3% beat against Mercury NZ's annual guidance after first-quarter performance. Jefferies analyst Mark Wilson said investors were rewarding BP's deleveraging strategy after windfall earnings helped reduce net debt, with the British energy major's planned strategy and outlook update expected to shift attention toward growth and shareholder returns.
-nut_graf: 'The roundup''s main findings remained prospective and qualified: Eni''s dividend was possible rather than announced, Electricity Generating''s benefit depended on the proposed acquisition and expected approvals, and Macquarie said Mercury NZ was only approaching the threshold for considering higher annual guidance. Ampol''s update surprised Jefferies for two opposing reasons, pairing continued convenience-retail delivery with weaker-than-expected refining, with Ampol capturing less of the upside from strong regional cracks largely due to extended planned maintenance.'
+lede: RBC Capital Markets analyst Biraj Borkhataria said the Italian energy major
+  Eni could announce a €1 billion special dividend with its third-quarter results.
+  CGS International analyst Rasmiman Sermprasert said in a research report that a
+  proposed additional 12% stake in the 980-megawatt Linden Cogen plant could benefit
+  Electricity Generating's earnings from 2027 if expected U.S. approvals were obtained.
+  Jefferies said Ampol's third-quarter update surprised it for two opposing reasons,
+  while Macquarie said forecasts pointed to a 3% beat against Mercury NZ's annual
+  guidance after first-quarter performance. Jefferies analyst Mark Wilson said investors
+  were rewarding BP's deleveraging strategy after windfall earnings helped reduce
+  net debt, with the British energy major's planned strategy and outlook update expected
+  to shift attention toward growth and shareholder returns.
+nut_graf: 'The roundup''s main findings remained prospective and qualified: Eni''s
+  dividend was possible rather than announced, Electricity Generating''s benefit depended
+  on the proposed acquisition and expected approvals, and Macquarie said Mercury NZ
+  was only approaching the threshold for considering higher annual guidance. Ampol''s
+  update surprised Jefferies for two opposing reasons, pairing continued convenience-retail
+  delivery with weaker-than-expected refining, with Ampol capturing less of the upside
+  from strong regional cracks largely due to extended planned maintenance.'
 primary_entities:
 - Eni
 - Electricity Generating
@@ -45,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,37 +165,18 @@ related_stories:
   headline: Morgan Stanley raises Brent forecast as BP posts strong Q3 update
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7149
+  strength: 0.7156
 - slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
   headline: EU regulators question MMG–Anglo American deal over China supply concerns
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6688
+  strength: 0.6691
 - slug: 2026-10-02-energy-roundup-oil-slips-on-gulf-recovery-enerflex-up-17-on-data-center-deal
-  headline: 'Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center deal'
+  headline: 'Energy roundup: oil slips on Gulf recovery, Enerflex up 17% on data center
+    deal'
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6989
-- slug: 2026-10-09-u-s-oil-refiners-forecast-record-q3-earnings-as-wars-curb-global-supply
-  headline: U.S. oil refiners forecast record Q3 earnings as wars curb global supply
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6483
-- slug: 2026-10-05-analysts-revise-energy-targets-as-saudi-cuts-arab-light-osp
-  headline: Analysts revise energy targets as Saudi cuts Arab Light OSP
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6408
-- slug: 2026-09-22-european-energy-stocks-rise-as-oil-rebounds-on-hormuz-risks
-  headline: European energy stocks rise as oil rebounds on Hormuz risks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.637
-- slug: 2026-09-14-morgan-stanley-weighs-vw-plan-oil-climbs-on-middle-east-tensions
-  headline: Morgan Stanley weighs VW plan; oil climbs on Middle East tensions
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6455
+  strength: 0.699
 - slug: 2026-09-08-citi-sees-30-bp-upside-on-exploration-backs-santos-papua-stake
   headline: Citi sees 30% BP upside on exploration, backs Santos Papua stake
   publish_date: '2026-09-08'
@@ -187,64 +186,23 @@ related_stories:
   headline: UBS lifts Brent forecast to $95 as Middle East supply risk persists
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.652
+  strength: 0.6511
 - slug: 2026-09-04-analysts-lift-bhp-copper-cost-outlook-start-nexgen-energy-at-buy
   headline: Analysts lift BHP copper cost outlook, start NexGen Energy at buy
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.6552
+  strength: 0.6558
 - slug: 2026-08-14-eqt-offers-a-7-billion-for-cleanaway-as-analysts-trim-energy-outlooks
   headline: EQT offers A$7 billion for Cleanaway as analysts trim energy outlooks
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6676
+  strength: 0.6669
 - slug: 2026-08-06-analysts-weigh-tungsten-supply-henkel-results-and-miner-dividend-calls
   headline: Analysts weigh tungsten supply, Henkel results and miner dividend calls
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6761
-- slug: 2026-07-31-analysts-flag-magna-margin-gains-ferrari-beat-caution-on-renault-results
-  headline: Analysts flag Magna margin gains, Ferrari beat; caution on Renault results
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6865
-- slug: 2026-07-15-analysts-upgrade-thai-oil-flag-bp-and-iberdrola-gains-eu-solar-sets-record
-  headline: Analysts upgrade Thai Oil, flag BP and Iberdrola gains; EU solar sets record
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6935
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6502
-- slug: 2026-08-05-glencore-plans-secondary-listing-on-australian-exchange
-  headline: Glencore plans secondary listing on Australian exchange
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6411
-- slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6547
-- slug: 2026-07-06-eni-invests-225-million-in-chile-lithium-project-via-energyx
-  headline: Eni invests $225 million in Chile lithium project via EnergyX
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6449
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6413
-- slug: 2026-06-22-analysts-see-gains-for-edp-omv-macquarie-upgrades-karoon
-  headline: Analysts See Gains for EDP, OMV; Macquarie Upgrades Karoon
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6467
+  strength: 0.676
 ---
-
 ## Analysts update energy payouts, power growth and refining outlooks
 
 **Subtype:** fact

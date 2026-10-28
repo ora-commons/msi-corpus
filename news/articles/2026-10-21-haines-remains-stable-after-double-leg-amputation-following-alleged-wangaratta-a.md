@@ -1,9 +1,18 @@
 ---
-headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
+headline: Haines remains stable after double-leg amputation following alleged Wangaratta
+  attack
 secondary_headline: Brendan Nugent charged as AFP, ASIO brief federal MPs
 publish_date: '2026-10-21'
-lede: Independent federal MP Helen Haines, 65, remained in stable condition at Melbourne's Alfred hospital on Wednesday after surgeons amputated both her legs because of injuries from an alleged targeted vehicle strike near her electorate office in Wangaratta, in north-east Victoria, on Monday afternoon. Police have charged Brendan Nugent over the incident.
-nut_graf: The medical update came as Australian federal police and ASIO briefed federal MPs on the current security landscape on Wednesday, the same day Governor-General Sam Mostyn joined Helen Haines's husband Phil Haines at the hospital press conference and former Indi MP Cathy McGowan addressed a vigil in Wodonga, with Victorian state election voters due to go to the polls next month.
+lede: Independent federal MP Helen Haines, 65, remained in stable condition at Melbourne's
+  Alfred hospital on Wednesday after surgeons amputated both her legs because of injuries
+  from an alleged targeted vehicle strike near her electorate office in Wangaratta,
+  in north-east Victoria, on Monday afternoon. Police have charged Brendan Nugent
+  over the incident.
+nut_graf: The medical update came as Australian federal police and ASIO briefed federal
+  MPs on the current security landscape on Wednesday, the same day Governor-General
+  Sam Mostyn joined Helen Haines's husband Phil Haines at the hospital press conference
+  and former Indi MP Cathy McGowan addressed a vigil in Wodonga, with Victorian state
+  election voters due to go to the polls next month.
 primary_entities:
 - Helen Haines
 - Phil Haines
@@ -54,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +166,45 @@ related_stories:
   headline: Nugent remains in custody after court appearance in Haines case
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.835
+  strength: 0.8343
 - slug: 2026-10-19-australian-mp-helen-haines-critical-after-vehicle-strike-in-wangaratta
   headline: Australian MP Helen Haines critical after vehicle strike in Wangaratta
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8059
+  strength: 0.8072
+- slug: 2026-10-22-police-charge-56-year-old-over-alleged-threats-at-hannah-beazley-s-office
+  headline: Police charge 56-year-old over alleged threats at Hannah Beazley’s office
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7721
+- slug: 2026-10-26-haines-remains-in-serious-but-stable-condition-as-parliament-pauses-for-tributes
+  headline: Haines remains in serious but stable condition as parliament pauses for
+    tributes
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7458
 - slug: 2026-10-19-indi-mp-haines-has-built-parliamentary-identity-on-anti-corruption-work
   headline: Indi MP Haines has built parliamentary identity on anti-corruption work
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7418
+  strength: 0.741
+- slug: 2026-10-25-threats-against-australian-mps-rise-amid-political-conflict-barrett-says
+  headline: Threats against Australian MPs rise amid political conflict, Barrett says
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.721
 - slug: 2026-10-19-albanese-says-rise-in-temperature-in-australian-politics-after-vehicle-strike-on
-  headline: Albanese says 'rise in temperature' in Australian politics after vehicle strike on Haines
+  headline: Albanese says 'rise in temperature' in Australian politics after vehicle
+    strike on Haines
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7178
+  strength: 0.717
 - slug: 2026-10-19-police-data-show-more-than-1-000-threats-against-australian-politicians
   headline: Police data show more than 1,000 threats against Australian politicians
   publish_date: '2026-10-19'
   relation: related
   strength: 0.6959
-- slug: 2026-10-19-albanese-says-he-never-wants-politicians-to-lose-community-access
-  headline: Albanese says he never wants politicians to lose community access
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6934
-- slug: 2026-10-15-greens-senator-steele-john-takes-party-room-leave-denies-inappropriate-comment-a
-  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment allegations
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5773
-- slug: 2026-10-14-harris-county-da-weighs-aggravated-assault-charge-against-ice-officer
-  headline: Harris County DA weighs aggravated-assault charge against ICE officer
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5662
-- slug: 2026-10-08-sen-gallego-demands-accountability-after-arizona-candidate-alleges-rape
-  headline: Sen. Gallego demands accountability after Arizona candidate alleges rape
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5799
-- slug: 2026-10-07-arizona-house-candidate-alleges-rape-while-repairing-campaign-sign
-  headline: Arizona House candidate alleges rape while repairing campaign sign
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5849
-- slug: 2026-10-08-greene-placentia-alleges-rape-in-sun-city-while-repairing-campaign-signs
-  headline: Greene-Placentia alleges rape in Sun City while repairing campaign signs
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5728
-- slug: 2026-10-08-greene-placentia-s-campaign-says-it-cannot-afford-additional-security-after-atta
-  headline: Greene-Placentia's campaign says it cannot afford additional security after attack
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5667
-- slug: 2026-09-11-nsw-police-settle-trespass-case-after-150-bail-checks-at-aboriginal-mother-s-hom
-  headline: NSW police settle trespass case after 150 bail checks at Aboriginal mother's home
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5717
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5729
-- slug: 2026-08-03-vance-boelter-appears-in-minnesota-state-court-after-federal-sentencing
-  headline: Vance Boelter appears in Minnesota state court after federal sentencing
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5655
-- slug: 2026-07-23-vance-boelter-gets-life-sentence-for-killing-minnesota-house-speaker-husband
-  headline: Vance Boelter gets life sentence for killing Minnesota House speaker, husband
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.576
-- slug: 2026-07-23-vance-boelter-faces-sentencing-for-killing-minnesota-house-speaker-husband
-  headline: Vance Boelter faces sentencing for killing Minnesota House speaker, husband
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5668
-- slug: 2026-06-11-vance-boelter-to-plead-guilty-in-murders-of-minnesota-lawmaker-and-husband
-  headline: Vance Boelter to plead guilty in murders of Minnesota lawmaker and husband
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5803
-- slug: 2026-06-11-man-pleads-guilty-to-assassinating-minnesota-house-speaker-husband
-  headline: Man pleads guilty to assassinating Minnesota House speaker, husband
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5745
-- slug: 2026-04-01-hearing-on-extending-zimbabwe-president-s-term-erupts-in-chaos
-  headline: Hearing on extending Zimbabwe president’s term erupts in chaos
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5782
 ---
-
 ## Haines remains stable after double-leg amputation following alleged Wangaratta attack
 
 **Subtype:** fact

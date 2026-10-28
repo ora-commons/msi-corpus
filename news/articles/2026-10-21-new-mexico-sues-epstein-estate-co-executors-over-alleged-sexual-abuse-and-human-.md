@@ -1,9 +1,22 @@
 ---
-headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse and human trafficking
-secondary_headline: Epstein’s 2019 will amendment left Indyke $50 million and Kahn $25 million
+headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse and
+  human trafficking
+secondary_headline: Epstein’s 2019 will amendment left Indyke $50 million and Kahn
+  $25 million
 publish_date: '2026-10-21'
-lede: New Mexico and Attorney General Raúl Torrez filed a civil lawsuit Wednesday in U.S. District Court in New Mexico against Jeffrey Epstein’s estate co-executors Darren Indyke and Richard Kahn. The state alleged that Indyke and Kahn facilitated and concealed Epstein’s “sexual abuse and human trafficking.” The civil complaint seeks to prevent Indyke and Kahn from profiting after Epstein’s death from illegal activity they enabled and furthered and to ensure Epstein’s assets are distributed to survivors of his crimes.
-nut_graf: Epstein amended his will two days before his death by suicide in 2019, leaving $50 million to Indyke and $25 million to Kahn. A now-settled class action accused the pair of structuring bank accounts to conceal Epstein’s sex trafficking operation; Indyke and Kahn have denied knowledge of his sex crimes and admitted no wrongdoing in the settlement. Torrez said New Mexico’s criminal investigation of Zorro Ranch remained ongoing and that the state still sought complete, unredacted Epstein files.
+lede: New Mexico and Attorney General Raúl Torrez filed a civil lawsuit Wednesday
+  in U.S. District Court in New Mexico against Jeffrey Epstein’s estate co-executors
+  Darren Indyke and Richard Kahn. The state alleged that Indyke and Kahn facilitated
+  and concealed Epstein’s “sexual abuse and human trafficking.” The civil complaint
+  seeks to prevent Indyke and Kahn from profiting after Epstein’s death from illegal
+  activity they enabled and furthered and to ensure Epstein’s assets are distributed
+  to survivors of his crimes.
+nut_graf: Epstein amended his will two days before his death by suicide in 2019, leaving
+  $50 million to Indyke and $25 million to Kahn. A now-settled class action accused
+  the pair of structuring bank accounts to conceal Epstein’s sex trafficking operation;
+  Indyke and Kahn have denied knowledge of his sex crimes and admitted no wrongdoing
+  in the settlement. Torrez said New Mexico’s criminal investigation of Zorro Ranch
+  remained ongoing and that the state still sought complete, unredacted Epstein files.
 primary_entities:
 - New Mexico
 - Raúl Torrez
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,110 +154,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-epstein-survivors-back-new-mexico-lawsuit-against-estate-executors
+  headline: Epstein survivors back New Mexico lawsuit against estate executors
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8821
+- slug: 2026-10-21-new-mexico-suit-targets-epstein-trust-payouts-and-survivor-compensation-terms
+  headline: New Mexico suit targets Epstein trust payouts and survivor compensation
+    terms
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8755
+- slug: 2026-10-21-lawsuit-says-epstein-lawyer-structured-cash-just-below-10-000
+  headline: Lawsuit says Epstein lawyer structured cash just below $10,000
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8451
 - slug: 2026-09-23-federal-prosecutors-open-probe-into-epstein-s-estate-executors
   headline: Federal prosecutors open probe into Epstein's estate executors
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.798
+  strength: 0.7981
 - slug: 2026-09-17-two-women-sue-epstein-estate-over-alleged-possession-of-child-abuse-material
   headline: Two women sue Epstein estate over alleged possession of child abuse material
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6634
+  strength: 0.6642
 - slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
   headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6546
+  strength: 0.6551
 - slug: 2026-08-05-new-mexico-sues-doj-over-epstein-ranch-investigation-records
   headline: New Mexico sues DOJ over Epstein ranch investigation records
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7727
-- slug: 2026-09-16-house-panel-votes-to-hold-leon-black-in-contempt-over-epstein-probe
-  headline: House panel votes to hold Leon Black in contempt over Epstein probe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6327
+  strength: 0.773
 - slug: 2026-08-01-new-mexico-ag-says-doj-missed-deadline-for-epstein-ranch-files
   headline: New Mexico AG says DOJ missed deadline for Epstein ranch files
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.7443
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6352
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7706
-- slug: 2026-09-01-massie-names-black-and-copperfield-as-epstein-co-conspirators-on-house-floor
-  headline: Massie names Black and Copperfield as Epstein co-conspirators on House floor
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.636
-- slug: 2026-08-19-house-oversight-chair-threatens-leon-black-with-contempt-over-epstein-probe
-  headline: House oversight chair threatens Leon Black with contempt over Epstein probe
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6374
-- slug: 2026-02-20-new-mexico-ag-reopens-probe-into-alleged-illegal-activity-at-epstein-s-zorro-ran
-  headline: New Mexico AG reopens probe into alleged illegal activity at Epstein’s Zorro Ranch
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7784
-- slug: 2026-02-19-new-mexico-reopens-probe-into-epstein-s-former-zorro-ranch
-  headline: New Mexico reopens probe into Epstein’s former Zorro Ranch
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7746
-- slug: 2026-03-10-new-mexico-prosecutors-begin-search-of-jeffrey-epstein-s-former-zorro-ranch
-  headline: New Mexico prosecutors begin search of Jeffrey Epstein’s former Zorro Ranch
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7538
-- slug: 2026-02-18-new-mexico-launches-truth-commission-into-epstein-ranch-allegations
-  headline: New Mexico launches “truth commission” into Epstein ranch allegations
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7497
-- slug: 2026-06-30-dea-watched-74-000-fentanyl-pills-reach-albuquerque-whistleblower-says
-  headline: DEA watched 74,000 fentanyl pills reach Albuquerque, whistleblower says
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6353
-- slug: 2026-06-26-leon-black-to-testify-friday-before-house-panel-investigating-epstein-ties
-  headline: Leon Black to testify Friday before House panel investigating Epstein ties
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6389
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6473
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6769
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6413
-- slug: 2026-01-16-doj-tells-judge-to-reject-congressional-request-for-epstein-files-neutral-overse
-  headline: DOJ tells judge to reject congressional request for Epstein files neutral overseer
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6677
+  strength: 0.7447
 analyses:
-- '2026-10-21-new-mexico-s-epstein-estate-suit-turns-on-bank-records-beneficiary-knowledge-and'
+- 2026-10-21-new-mexico-s-epstein-estate-suit-turns-on-bank-records-beneficiary-knowledge-and
 ---
-
 ## New Mexico sues Epstein estate co-executors over alleged sexual abuse and human trafficking
 
 **Subtype:** fact

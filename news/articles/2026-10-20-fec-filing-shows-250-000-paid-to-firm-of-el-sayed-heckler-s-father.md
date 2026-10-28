@@ -2,8 +2,18 @@
 headline: FEC filing shows $250,000 paid to firm of El-Sayed heckler's father
 secondary_headline: Thomas Teepell rose from Hawley intern to operations director
 publish_date: '2026-10-20'
-lede: FEC filings reviewed by the Guardian show that on September 29, America Next, a 501(c)(4) non-profit founded by former Louisiana Gov. Bobby Jindal, paid $250,000 to Breakthrough LLC, the firm of longtime Republican strategist Timothy "Timmy" Teepell, for "canvassing and influencer marketing" in opposition to Michigan Democratic Senate candidate Abdul El-Sayed. The man who heckled El-Sayed about the Muslim Brotherhood has been identified by the Guardian and the Handbasket as Timmy Teepell's son, Thomas "Tommy" Teepell. No filing reviewed by the Guardian shows Thomas Teepell was paid by Breakthrough or America Next.
-nut_graf: The disclosure traces a documented payment chain from a 501(c)(4) founded by a former Louisiana governor to the firm of the man's father. America Next does not disclose its donors, and Breakthrough shares the group's Baton Rouge office suite.
+lede: FEC filings reviewed by the Guardian show that on September 29, America Next,
+  a 501(c)(4) non-profit founded by former Louisiana Gov. Bobby Jindal, paid $250,000
+  to Breakthrough LLC, the firm of longtime Republican strategist Timothy "Timmy"
+  Teepell, for "canvassing and influencer marketing" in opposition to Michigan Democratic
+  Senate candidate Abdul El-Sayed. The man who heckled El-Sayed about the Muslim Brotherhood
+  has been identified by the Guardian and the Handbasket as Timmy Teepell's son, Thomas
+  "Tommy" Teepell. No filing reviewed by the Guardian shows Thomas Teepell was paid
+  by Breakthrough or America Next.
+nut_graf: The disclosure traces a documented payment chain from a 501(c)(4) founded
+  by a former Louisiana governor to the firm of the man's father. America Next does
+  not disclose its donors, and Breakthrough shares the group's Baton Rouge office
+  suite.
 primary_entities:
 - Abdul El-Sayed
 - Thomas Teepell
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +158,23 @@ related_stories:
   headline: Records identify El-Sayed heckler as former Hawley office director
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7664
+  strength: 0.7666
 - slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
   headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7353
+  strength: 0.7354
+- slug: 2026-10-21-rutgers-finds-recurring-anti-muslim-playbook-against-muslim-candidates
+  headline: Rutgers finds recurring anti-Muslim playbook against Muslim candidates
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7013
 - slug: 2026-10-11-virtually-unknown-donors-gave-up-to-1-million-each-to-a-super-pac
   headline: Virtually unknown donors gave up to $1 million each to a super PAC
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6514
-- slug: 2026-10-18-cbs-correspondent-apologizes-for-post-praising-el-sayed-heckler
-  headline: CBS correspondent apologizes for post praising El-Sayed heckler
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.5977
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6352
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6166
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6243
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6374
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.603
-- slug: 2026-09-23-kennedy-s-filings-show-4m-in-book-advances-donor-gifts-from-de-becker
-  headline: Kennedy's filings show $4m in book advances, donor gifts from de Becker
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5897
-- slug: 2026-09-13-researchers-anti-muslim-rhetoric-hits-post-9-11-peak-as-muslim-candidates-win
-  headline: 'Researchers: anti-Muslim rhetoric hits post-9/11 peak as Muslim candidates win'
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.629
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5886
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6366
-- slug: 2026-09-02-democrats-face-scrutiny-over-hasan-piker-s-role-in-michigan-race
-  headline: Democrats face scrutiny over Hasan Piker’s role in Michigan race
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5925
-- slug: 2026-08-31-vance-attacks-el-sayed-at-michigan-rally-over-usha-vance-comments
-  headline: Vance attacks El-Sayed at Michigan rally over Usha Vance comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5902
-- slug: 2026-08-10-el-sayed-primary-win-intensifies-democrats-debate-over-2028
-  headline: El-Sayed primary win intensifies Democrats’ debate over 2028
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6266
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6294
-- slug: 2026-08-06-aipac-linked-super-pacs-pour-millions-into-california-race-against-wahab
-  headline: AIPAC-linked super PACs pour millions into California race against Wahab
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6023
-- slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
-  headline: El-Sayed maintains Medicare for All support in Michigan Senate race
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5923
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6227
+  strength: 0.6518
 ---
-
 ## FEC filing shows $250,000 paid to firm of El-Sayed heckler's father
 
 **Subtype:** fact

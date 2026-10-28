@@ -2,8 +2,14 @@
 headline: Judge dismisses Ann Altman's sexual abuse suit against Sam Altman
 secondary_headline: Ann Altman missed three court-ordered medical exams, judge said
 publish_date: '2026-10-20'
-lede: US District Judge Zachary Bluestone dismissed with prejudice a lawsuit in which Ann Altman accused her brother, OpenAI chief executive Sam Altman, of sexually abusing her more than two decades ago. In a written order, the judge said Ann Altman failed to attend independent medical examinations and "failed to meaningfully prosecute her case."
-nut_graf: The ruling rests on Ann Altman's failure to comply with court-ordered examinations rather than on the substance of her allegations, which Sam Altman has denied. The dismissal with prejudice closes the case in the Eastern District of Missouri.
+lede: US District Judge Zachary Bluestone dismissed with prejudice a lawsuit in which
+  Ann Altman accused her brother, OpenAI chief executive Sam Altman, of sexually abusing
+  her more than two decades ago. In a written order, the judge said Ann Altman failed
+  to attend independent medical examinations and "failed to meaningfully prosecute
+  her case."
+nut_graf: The ruling rests on Ann Altman's failure to comply with court-ordered examinations
+  rather than on the substance of her allegations, which Sam Altman has denied. The
+  dismissal with prejudice closes the case in the Eastern District of Missouri.
 primary_entities:
 - Sam Altman
 - Ann Altman
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,19 +147,18 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-20-judge-dismisses-ann-altman-s-sexual-abuse-suit-against-sam-altman.png
-  alt: 'Illustration accompanying article: Judge dismisses Ann Altman''s sexual abuse suit against Sam Altman'
+  alt: 'Illustration accompanying article: Judge dismisses Ann Altman''s sexual abuse
+    suit against Sam Altman'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-06-openai-s-kwon-testifies-at-australian-inquiry-on-medicare-breach
-  headline: OpenAI's Kwon testifies at Australian inquiry on Medicare breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6392
 - slug: 2026-05-25-openai-nonprofit-dispute-ends-without-verdict-as-musk-lawsuit-dismissed
   headline: OpenAI nonprofit dispute ends without verdict as Musk lawsuit dismissed
   publish_date: '2026-05-25'
@@ -193,63 +199,7 @@ related_stories:
   publish_date: '2026-04-28'
   relation: related
   strength: 0.6997
-- slug: 2026-06-01-florida-files-first-state-lawsuit-against-openai-over-alleged-harms
-  headline: Florida files first state lawsuit against OpenAI over alleged harms
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6771
-- slug: 2026-05-18-neither-openai-or-musk-emerge-unscathed-in-landmark-trial
-  headline: Neither OpenAI or Musk emerge unscathed in landmark trial
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.682
-- slug: 2026-05-15-closing-arguments-in-musk-openai-trial-center-on-altman-s-credibility
-  headline: Closing arguments in Musk-OpenAI trial center on Altman's credibility
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.682
-- slug: 2026-05-19-openai-avoids-costly-musk-court-loss-but-neither-side-is-unscathed
-  headline: OpenAI avoids costly Musk court loss, but neither side is unscathed
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6736
-- slug: 2026-06-15-judge-dismisses-musk-s-xai-trade-secret-lawsuit-against-openai
-  headline: Judge dismisses Musk's xAI trade-secret lawsuit against OpenAI
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6498
-- slug: 2026-01-08-judge-says-elon-musk-s-openai-fraud-case-will-go-to-trial
-  headline: Judge says Elon Musk’s OpenAI fraud case will go to trial
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6819
-- slug: 2026-05-23-musk-altman-trial-exposes-ai-s-deep-funding-needs-raising-profit-vs-purpose-ques
-  headline: Musk-Altman trial exposes AI's deep funding needs, raising profit vs. purpose question
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6493
-- slug: 2026-04-30-musk-tells-his-side-of-openai-s-beginnings-in-trial-against-sam-altman
-  headline: Musk tells his side of OpenAI’s beginnings in trial against Sam Altman
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6587
-- slug: 2026-04-29-elon-musk-testifies-as-trial-against-openai-ceo-sam-altman-begins
-  headline: Elon Musk testifies as trial against OpenAI CEO Sam Altman begins
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6591
-- slug: 2026-06-03-openai-ceo-altman-meets-trump-officials-lawmakers-on-ai-rules
-  headline: OpenAI CEO Altman meets Trump officials, lawmakers on AI rules
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6388
-- slug: 2026-05-20-openai-avoids-costly-loss-as-jury-sides-with-company-in-elon-musk-trial
-  headline: OpenAI avoids costly loss as jury sides with company in Elon Musk trial
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6475
 ---
-
 ## Judge dismisses Ann Altman's sexual abuse suit against Sam Altman
 
 **Subtype:** fact

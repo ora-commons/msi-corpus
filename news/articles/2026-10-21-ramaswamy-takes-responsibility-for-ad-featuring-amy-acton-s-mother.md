@@ -1,9 +1,24 @@
 ---
 headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
-secondary_headline: Donald Trump Jr., Sherrod Brown and Nikki Haley responded to the video
+secondary_headline: Donald Trump Jr., Sherrod Brown and Nikki Haley responded to the
+  video
 publish_date: '2026-10-21'
-lede: Republican candidate Vivek Ramaswamy said late Tuesday that a minute-long attack ad featuring Democratic Ohio gubernatorial candidate Amy Acton’s estranged mother was “an ad from our campaign.” Donna Arthur, from whom Acton has been estranged since she was a child, calls her daughter a liar and urges voters not to elect her in the video. The video drew responses from Donald Trump Jr., former Ohio Sen. Sherrod Brown and former South Carolina Gov. Nikki Haley as Election Day remained two weeks away.
-nut_graf: Ramaswamy’s admission identifies his campaign as the sponsor of the video, which invoked his rival’s estrangement from her mother and Donna Arthur’s accusations about her past. Acton has repeatedly said she endured abuse and neglect as a child, and her brother Philip Stearns has reiterated that she was sexually abused by her stepfather, Cledith Arthur, as a child. Cledith Arthur was indicted on a rape charge in 1978, pleaded not guilty and never stood trial. Acton and Donna Arthur have been estranged since Acton was a child. With Election Day two weeks away, Donald Trump Jr., former Ohio Sen. Sherrod Brown, former South Carolina Gov. Nikki Haley and Acton’s campaign responded to the video.
+lede: Republican candidate Vivek Ramaswamy said late Tuesday that a minute-long attack
+  ad featuring Democratic Ohio gubernatorial candidate Amy Acton’s estranged mother
+  was “an ad from our campaign.” Donna Arthur, from whom Acton has been estranged
+  since she was a child, calls her daughter a liar and urges voters not to elect her
+  in the video. The video drew responses from Donald Trump Jr., former Ohio Sen. Sherrod
+  Brown and former South Carolina Gov. Nikki Haley as Election Day remained two weeks
+  away.
+nut_graf: Ramaswamy’s admission identifies his campaign as the sponsor of the video,
+  which invoked his rival’s estrangement from her mother and Donna Arthur’s accusations
+  about her past. Acton has repeatedly said she endured abuse and neglect as a child,
+  and her brother Philip Stearns has reiterated that she was sexually abused by her
+  stepfather, Cledith Arthur, as a child. Cledith Arthur was indicted on a rape charge
+  in 1978, pleaded not guilty and never stood trial. Acton and Donna Arthur have been
+  estranged since Acton was a child. With Election Day two weeks away, Donald Trump
+  Jr., former Ohio Sen. Sherrod Brown, former South Carolina Gov. Nikki Haley and
+  Acton’s campaign responded to the video.
 primary_entities:
 - Vivek Ramaswamy
 - Amy Acton
@@ -40,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +154,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-ramaswamy-pledges-4m-to-air-attack-ad-featuring-amy-acton-s-mother
+  headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8637
+- slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8487
 - slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
   headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8526
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
+  strength: 0.8529
+- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
+  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.652
-- slug: 2026-10-05-california-republican-steve-hilton-criticized-by-own-party-over-campaign-ad
-  headline: California Republican Steve Hilton criticized by own party over campaign ad
-  publish_date: '2026-10-05'
+  strength: 0.8427
+- slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.633
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
+  strength: 0.8336
+- slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
+  headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6227
-- slug: 2026-10-02-hayes-says-slf-swindled-him-into-north-carolina-political-ad-after-son-s-murder
-  headline: Hayes says SLF 'swindled' him into North Carolina political ad after son's murder
-  publish_date: '2026-10-02'
+  strength: 0.8263
+- slug: 2026-10-22-dewine-says-acton-certainly-told-the-truth-in-his-experience
+  headline: DeWine says Acton 'certainly told the truth' in his experience
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6134
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
+  strength: 0.814
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7145
-- slug: 2026-09-24-leaked-audio-shows-osborn-calling-border-wall-a-symbol-of-racism
-  headline: Leaked audio shows Osborn calling border wall 'a symbol of racism'
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6104
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6533
-- slug: 2026-08-04-cook-political-report-shifts-ohio-governor-race-to-toss-up
-  headline: Cook Political Report shifts Ohio governor race to toss-up
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6499
-- slug: 2026-08-05-house-ethics-committee-opens-probe-into-abuse-claims-against-miller
-  headline: House Ethics Committee opens probe into abuse claims against Miller
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.616
-- slug: 2026-05-03-covid-19-debate-resurfaces-in-ohio-governor-race-between-amy-acton-and-vivek-ram
-  headline: COVID-19 debate resurfaces in Ohio governor race between Amy Acton and Vivek Ramaswamy
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6913
-- slug: 2026-04-26-ohio-gop-governor-primary-tests-ramaswamy-as-acton-waits-for-general-election
-  headline: Ohio GOP governor primary tests Ramaswamy as Acton waits for general election
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6912
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6807
-- slug: 2026-07-10-platner-ends-maine-senate-campaign-after-assault-allegation
-  headline: Platner ends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6105
-- slug: 2026-01-07-ramaswamy-picks-mccolley-acton-picks-pepper-in-ohio-governor-race
-  headline: Ramaswamy picks McColley, Acton picks Pepper in Ohio governor race
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6715
-- slug: 2026-05-21-vance-targets-ohio-in-medicaid-fraud-crackdown
-  headline: Vance targets Ohio in Medicaid fraud crackdown
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6315
-- slug: 2026-04-27-ohio-gop-primary-for-governor-shows-potential-headwinds-for-ramaswamy
-  headline: Ohio GOP primary for governor shows potential headwinds for Ramaswamy
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6405
-- slug: 2026-05-04-what-to-expect-in-ohio-s-statewide-primaries-for-governor-senate-and-house
-  headline: What to expect in Ohio’s statewide primaries for governor, Senate and House
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.631
-- slug: 2026-03-06-trump-fires-noem-as-dhs-chief-after-220m-ad-blitz-draws-gop-ire
-  headline: Trump fires Noem as DHS chief after $220M ad blitz draws GOP ire
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.643
-- slug: 2026-03-05-cornyn-releases-attack-video-on-paxton-as-trump-withholds-texas-runoff-endorseme
-  headline: Cornyn releases attack video on Paxton as Trump withholds Texas runoff endorsement
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6429
+  strength: 0.7536
 ---
-
 ## Ramaswamy takes responsibility for ad featuring Amy Acton's mother
 
 **Subtype:** fact

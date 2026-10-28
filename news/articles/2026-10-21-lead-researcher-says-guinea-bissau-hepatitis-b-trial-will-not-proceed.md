@@ -2,8 +2,19 @@
 headline: Lead researcher says Guinea-Bissau hepatitis B trial will not proceed
 secondary_headline: WHO recommends a first dose preferably within 24 hours of birth
 publish_date: '2026-10-21'
-lede: Lead researcher Frederik Schaltz-Buchholzer said Wednesday that a US-backed hepatitis B vaccine trial involving newborns in Guinea-Bissau will not proceed. In the same LinkedIn post, he wrote that the study “will not move forward in Guinea-Bissau” and that “we were not given the necessary governmental approval.” Guinea-Bissau health minister Quinhin Nantote had previously denied the project would move forward, and the government took control of the researchers’ vaccines after searching Bandim Health Project offices on Monday.
-nut_graf: The dispute centered on the ethics of a proposal that would not have provided hepatitis B vaccine to the children of parents who declined participation and on the public-health case for prompt infant vaccination. Guinea-Bissau plans to offer a universal hepatitis B birth dose in 2028, while WHO says every infant should receive a first dose as soon as possible after birth, preferably within 24 hours, followed by at least two additional doses.
+lede: Lead researcher Frederik Schaltz-Buchholzer said Wednesday that a US-backed
+  hepatitis B vaccine trial involving newborns in Guinea-Bissau will not proceed.
+  In the same LinkedIn post, he wrote that the study “will not move forward in Guinea-Bissau”
+  and that “we were not given the necessary governmental approval.” Guinea-Bissau
+  health minister Quinhin Nantote had previously denied the project would move forward,
+  and the government took control of the researchers’ vaccines after searching Bandim
+  Health Project offices on Monday.
+nut_graf: The dispute centered on the ethics of a proposal that would not have provided
+  hepatitis B vaccine to the children of parents who declined participation and on
+  the public-health case for prompt infant vaccination. Guinea-Bissau plans to offer
+  a universal hepatitis B birth dose in 2028, while WHO says every infant should receive
+  a first dose as soon as possible after birth, preferably within 24 hours, followed
+  by at least two additional doses.
 primary_entities:
 - Frederik Schaltz-Buchholzer
 - Guinea-Bissau
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +165,29 @@ related_stories:
   headline: Guinea-Bissau denies authorizing hepatitis B vaccine trial in newborns
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8739
+  strength: 0.873
 - slug: 2026-10-20-officials-say-guinea-bissau-judicial-police-searched-bandim-offices-seized-vacci
-  headline: Officials say Guinea-Bissau judicial police searched Bandim offices, seized vaccine doses
+  headline: Officials say Guinea-Bissau judicial police searched Bandim offices, seized
+    vaccine doses
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8232
+  strength: 0.8239
 - slug: 2026-10-09-danish-panel-clears-hepatitis-b-trial-in-guinea-bissau-despite-resignations
   headline: Danish panel clears hepatitis B trial in Guinea-Bissau despite resignations
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8166
-- slug: 2026-09-29-startup-urges-congress-to-lift-ban-on-gene-edited-embryos
-  headline: Startup urges Congress to lift ban on gene-edited embryos
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5957
-- slug: 2026-09-28-us-blocks-un-pandemic-preparedness-declaration-from-consensus-adoption
-  headline: US blocks UN pandemic preparedness declaration from consensus adoption
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5919
-- slug: 2026-09-25-who-pandemic-agreement-stalls-over-pathogen-sharing-annex
-  headline: WHO pandemic agreement stalls over pathogen-sharing annex
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5867
-- slug: 2026-09-23-trump-administration-withholds-covid-vaccines-from-vfc-program-in-at-least-11-st
-  headline: Trump administration withholds COVID vaccines from VFC program in at least 11 states
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5846
+  strength: 0.8165
 - slug: 2026-01-22-guinea-bissau-suspends-hepatitis-b-vaccine-study-for-ethics-review
   headline: Guinea-Bissau suspends hepatitis B vaccine study for ethics review
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.7936
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5937
+  strength: 0.7931
 - slug: 2026-03-22-new-parents-shun-proven-newborn-preventive-care-in-push-for-natural
   headline: New parents shun proven newborn preventive care in push for “natural”
   publish_date: '2026-03-22'
   relation: related
-  strength: 0.6519
-- slug: 2026-07-10-u-s-biotechs-tighten-secrecy-to-beat-chinese-fast-follower-drugs
-  headline: U.S. biotechs tighten secrecy to beat Chinese fast-follower drugs
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5823
-- slug: 2026-06-04-three-studies-cited-by-rfk-jr-retracted-or-placed-under-investigation
-  headline: Three studies cited by RFK Jr. retracted or placed under investigation
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6106
-- slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could harm kids
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6421
-- slug: 2026-06-26-cdc-tells-health-programs-to-deprioritize-harm-reduction-within-days
-  headline: CDC tells health programs to deprioritize harm reduction within days
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5846
-- slug: 2026-06-17-parents-turn-to-unproven-stem-cell-autism-treatments-backed-by-rfk-jr
-  headline: Parents turn to unproven stem cell autism treatments backed by RFK Jr.
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5881
-- slug: 2026-06-19-critical-care-doctor-says-administration-is-withdrawing-children-s-health-protec
-  headline: Critical care doctor says administration is withdrawing children's health protections
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5835
-- slug: 2026-06-15-rfk-jr-under-fire-for-letter-pressing-journal-over-retracted-vaccine-study
-  headline: RFK Jr. under fire for letter pressing journal over retracted vaccine study
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5817
-- slug: 2026-05-06-zambia-accuses-u-s-of-tying-2b-health-aid-deal-to-mineral-access
-  headline: Zambia accuses U.S. of tying $2B health aid deal to mineral access
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6053
-- slug: 2026-05-30-trump-orders-agencies-to-adopt-hhs-study-recommending-narrower-childhood-vaccine
-  headline: Trump orders agencies to adopt HHS study recommending narrower childhood vaccine schedule
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.5916
-- slug: 2026-05-02-ghana-rejects-u-s-health-deal-over-concerns-about-data-access-safeguards
-  headline: Ghana rejects U.S. health deal over concerns about data access safeguards
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5911
+  strength: 0.6518
 ---
-
 ## Lead researcher says Guinea-Bissau hepatitis B trial will not proceed
 
 **Subtype:** fact

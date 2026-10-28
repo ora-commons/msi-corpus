@@ -1,9 +1,18 @@
 ---
-headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
+headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian
+  hardware
 secondary_headline: Reported cap left some Ukrainian drones virtually useless
 publish_date: '2026-10-20'
-lede: SpaceX founder Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware last week, according to people familiar with the matter cited by The Wall Street Journal. The restriction capped the speeds at which Ukrainian hardware could remain connected to the satellite-based network, rendering some offensive drones and interceptor drones virtually useless. Two of the people said Musk and President Trump discussed the decision in a call soon after the slowdown became public.
-nut_graf: The reported restriction left some offensive drones and interceptor drones virtually useless. People familiar with the matter attributed the order to Musk, while Musk said any limits were decided by the U.S. military and the president.
+lede: SpaceX founder Musk reportedly ordered a slowdown of Starlink connections for
+  Ukrainian hardware last week, according to people familiar with the matter cited
+  by The Wall Street Journal. The restriction capped the speeds at which Ukrainian
+  hardware could remain connected to the satellite-based network, rendering some offensive
+  drones and interceptor drones virtually useless. Two of the people said Musk and
+  President Trump discussed the decision in a call soon after the slowdown became
+  public.
+nut_graf: The reported restriction left some offensive drones and interceptor drones
+  virtually useless. People familiar with the matter attributed the order to Musk,
+  while Musk said any limits were decided by the U.S. military and the president.
 primary_entities:
 - SpaceX
 - Starlink
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +149,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-u-s-officials-say-trump-asked-musk-to-lift-starlink-limits-in-ukraine
+  headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8585
+- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
+  headline: Trump credits Musk with restoring Ukraine's Starlink service
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8464
+- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
+  headline: Zelensky Starlink warning led to informal White House investigation
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8443
+- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
+  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink
+    limits
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8225
+- slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
+  headline: Trump administration denies requesting Starlink limits for Ukraine's military
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8222
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.854
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8262
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8322
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8251
-- slug: 2026-10-14-starlink-terminals-restricted-for-ukrainian-combat-troops-adviser-says
-  headline: Starlink terminals restricted for Ukrainian combat troops, adviser says
-  publish_date: '2026-10-14'
+  strength: 0.8541
+- slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
+  headline: Ukraine says Starlink speeds are restored after restrictions
+  publish_date: '2026-10-24'
   relation: related
   strength: 0.8177
-- slug: 2026-10-15-matviichuk-warns-starlink-throttling-leaves-ukrainians-exposed-to-russian-drones
-  headline: Matviichuk warns Starlink throttling leaves Ukrainians exposed to Russian drones
-  publish_date: '2026-10-15'
+- slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
+  headline: Ukraine reports Starshield service operating normally after 10-day restrictions
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7998
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8002
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7916
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7818
-- slug: 2026-10-14-starlink-curbs-to-hit-ukraine-air-defences-harder-than-oil-strikes
-  headline: Starlink curbs to hit Ukraine air defences harder than oil strikes
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7927
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7582
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7629
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7477
-- slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
-  headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.681
-- slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
-  headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6909
-- slug: 2026-10-16-trump-labels-ukraine-s-renewed-refinery-strikes-a-disgrace-on-newsmax
-  headline: Trump labels Ukraine's renewed refinery strikes 'a disgrace' on Newsmax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6797
-- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
-  headline: Ukrainian drones hit third Yandex data center in four days
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6811
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6784
-- slug: 2026-08-26-zelensky-awards-musk-ukraine-s-order-of-freedom-for-starlink-role
-  headline: Zelensky awards Musk Ukraine's Order of Freedom for Starlink role
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.768
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6812
+  strength: 0.8067
 ---
-
 ## Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
 
 **Subtype:** fact

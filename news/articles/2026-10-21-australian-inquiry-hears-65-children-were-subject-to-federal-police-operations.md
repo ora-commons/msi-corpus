@@ -1,9 +1,21 @@
 ---
 headline: Australian inquiry hears 65 children were subject to federal police operations
-secondary_headline: State or Commonwealth authorities charged 35 children with terrorism-related offences
+secondary_headline: State or Commonwealth authorities charged 35 children with terrorism-related
+  offences
 publish_date: '2026-10-21'
-lede: An Australian parliamentary inquiry heard on Wednesday that federal police operations since 2020 had involved 65 children, including some as young as 12. State or Commonwealth authorities had charged 35 of the children with terrorism-related offences. Australian Federal Police acting deputy commissioner Sandra Booth told the Parliamentary Joint Committee on Intelligence and Security that artificial intelligence was accelerating radicalisation among young people. Booth said radicalisation traditionally took years or months but could now happen within days.
-nut_graf: Booth attributed faster radicalisation to artificial intelligence and said AI was lowering the skills needed to manipulate and radicalise victims online. ASIO deputy director general Claire McGuinness said ASIO was encountering more children, including 12-year-olds, than in a caseload about 20 years earlier that was predominantly made up of people in their early twenties. Home Affairs counter-terrorism coordinator Brendan Dowling said Australia was probably identifying radicalised people too late.
+lede: An Australian parliamentary inquiry heard on Wednesday that federal police operations
+  since 2020 had involved 65 children, including some as young as 12. State or Commonwealth
+  authorities had charged 35 of the children with terrorism-related offences. Australian
+  Federal Police acting deputy commissioner Sandra Booth told the Parliamentary Joint
+  Committee on Intelligence and Security that artificial intelligence was accelerating
+  radicalisation among young people. Booth said radicalisation traditionally took
+  years or months but could now happen within days.
+nut_graf: Booth attributed faster radicalisation to artificial intelligence and said
+  AI was lowering the skills needed to manipulate and radicalise victims online. ASIO
+  deputy director general Claire McGuinness said ASIO was encountering more children,
+  including 12-year-olds, than in a caseload about 20 years earlier that was predominantly
+  made up of people in their early twenties. Home Affairs counter-terrorism coordinator
+  Brendan Dowling said Australia was probably identifying radicalised people too late.
 primary_entities:
 - Australian Federal Police
 - Parliamentary Joint Committee on Intelligence and Security
@@ -54,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,115 +169,28 @@ related_stories:
   headline: Social media bans for minors spread as early data shows widespread workarounds
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6581
+  strength: 0.6575
 - slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
   headline: Australia orders agencies to audit legacy systems after OpenAI breach
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6488
-- slug: 2026-10-05-australian-ai-inquiry-demands-openai-explain-its-data-safeguards
-  headline: Australian AI inquiry demands OpenAI explain its data safeguards
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6274
-- slug: 2026-10-03-openai-says-agent-access-review-costs-500-000-a-day
-  headline: OpenAI says agent-access review costs $500,000 a day
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6077
-- slug: 2026-09-25-australia-weighs-law-changes-after-openai-agent-hacked-medicare-portal
-  headline: Australia weighs law changes after OpenAI agent hacked Medicare portal
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6082
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6081
-- slug: 2026-09-24-openai-agent-infiltrated-four-australian-government-systems-in-june
-  headline: OpenAI agent infiltrated four Australian government systems in June
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6077
-- slug: 2026-09-18-swedish-court-jails-teenager-for-online-attempted-murder-rape
-  headline: Swedish court jails teenager for online attempted murder, rape
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6249
-- slug: 2026-09-18-hastie-anecdote-frames-australian-debate-over-bringing-ai-giants-onshore
-  headline: Hastie anecdote frames Australian debate over bringing AI giants onshore
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5986
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5974
-- slug: 2026-09-08-researchers-urge-federal-body-to-investigate-ai-incidents
-  headline: Researchers urge federal body to investigate AI incidents
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6028
-- slug: 2026-06-10-canada-proposes-social-media-ban-for-under-16-with-workaround-for-tech-firms
-  headline: Canada proposes social media ban for under-16 with workaround for tech firms
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6318
-- slug: 2026-07-06-schneier-and-penney-warn-ai-surveillance-s-chilling-effects-threaten-dissent
-  headline: Schneier and Penney warn AI surveillance's chilling effects threaten dissent
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6013
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6179
-- slug: 2026-06-14-ai-nudify-apps-fuel-epidemic-of-deepfake-bullying-among-teens
-  headline: AI nudify apps fuel epidemic of deepfake bullying among teens
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6158
-- slug: 2026-06-29-ai-erodes-skill-barrier-for-cyber-attacks-security-expert-warns
-  headline: AI erodes skill barrier for cyber attacks, security expert warns
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5973
-- slug: 2026-06-09-uk-to-push-ahead-with-under-16-social-media-ban-despite-us-objections
-  headline: UK to push ahead with under-16 social media ban despite US objections
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6064
-- slug: 2026-06-19-either-robots-kill-us-or-russians-ai-warfare-hits-point-of-no-return
-  headline: '‘Either robots kill us or Russians’: AI warfare hits point of no return'
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5962
-- slug: 2026-06-11-canada-proposes-social-media-ban-for-children-under-16
-  headline: Canada proposes social media ban for children under 16
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5979
-- slug: 2026-03-28-what-other-countries-are-doing-to-keep-children-safe-online
-  headline: What other countries are doing to keep children safe online
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6291
+  strength: 0.65
 image:
   url: /articles/2026-10-21-australian-inquiry-hears-65-children-were-subject-to-federal-police-operations.png
-  alt: "Illustration accompanying article: Australian inquiry hears 65 children were subject to federal police operations"
+  alt: 'Illustration accompanying article: Australian inquiry hears 65 children were
+    subject to federal police operations'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-21-reported-ai-acceleration-may-outpace-australia-s-response-to-child-radicalisatio'
+- 2026-10-21-reported-ai-acceleration-may-outpace-australia-s-response-to-child-radicalisatio
 ---
-
 ## Australian inquiry hears 65 children were subject to federal police operations
 
 **Subtype:** fact

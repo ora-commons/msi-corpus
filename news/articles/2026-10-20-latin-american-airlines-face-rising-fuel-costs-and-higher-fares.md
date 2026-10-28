@@ -2,8 +2,15 @@
 headline: Latin American airlines face rising fuel costs and higher fares
 secondary_headline: Passenger traffic rose 2% as airlines added more than 90 routes
 publish_date: '2026-10-20'
-lede: Latin American airlines are confronting a sharp increase in fuel costs that industry leaders say could feed into higher fares and limit tourism growth. Fuel accounted for 38% of airlines' operating costs in the second quarter of 2026, up from 28% a year earlier, according to figures presented by Peter Cerdá, CEO of the Latin American and Caribbean Air Transport Association.
-nut_graf: The cost increase comes as passenger traffic and routes are expanding, but airline executives and analysts said higher expenses could mean higher fares, pressure smaller low-cost carriers and constrain future growth. Cerdá also said airport charges and taxes could make air travel less affordable.
+lede: Latin American airlines are confronting a sharp increase in fuel costs that
+  industry leaders say could feed into higher fares and limit tourism growth. Fuel
+  accounted for 38% of airlines' operating costs in the second quarter of 2026, up
+  from 28% a year earlier, according to figures presented by Peter Cerdá, CEO of the
+  Latin American and Caribbean Air Transport Association.
+nut_graf: The cost increase comes as passenger traffic and routes are expanding, but
+  airline executives and analysts said higher expenses could mean higher fares, pressure
+  smaller low-cost carriers and constrain future growth. Cerdá also said airport charges
+  and taxes could make air travel less affordable.
 primary_entities:
 - Latin American and Caribbean Air Transport Association
 - Peter Cerdá
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +150,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7362
+- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
+  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6805
+- slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
+  headline: Transport firms adjust plans as fuel costs and demand shift
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6731
 - slug: 2026-10-15-lufthansa-s-1-2-billion-euro-tap-stake-carries-steep-cost-bernstein-says
   headline: Lufthansa's 1.2 billion euro TAP stake carries steep cost, Bernstein says
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6995
+  strength: 0.6993
 - slug: 2026-10-05-delta-latam-joint-venture-lifts-americas-capacity-31-as-partnership-marks-four-y
-  headline: Delta-LATAM joint venture lifts Americas capacity 31% as partnership marks four years
+  headline: Delta-LATAM joint venture lifts Americas capacity 31% as partnership marks
+    four years
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7248
+  strength: 0.7244
 - slug: 2026-09-12-airfares-jump-23-4-as-diesel-tops-6-a-gallon-core-inflation-rises-2-4
   headline: Airfares jump 23.4% as diesel tops $6 a gallon; core inflation rises 2.4%
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6826
+  strength: 0.6821
 - slug: 2026-09-10-latin-america-projected-to-grow-2-2-in-2026-eclac-says
   headline: Latin America projected to grow 2.2% in 2026, ECLAC says
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6648
+  strength: 0.6647
 - slug: 2026-08-13-latin-america-projected-to-grow-2-4-in-2026-amid-commodity-volatility
   headline: Latin America projected to grow 2.4% in 2026 amid commodity volatility
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6527
-- slug: 2026-06-01-jetblue-raises-second-quarter-revenue-outlook-on-strong-travel-demand
-  headline: JetBlue raises second-quarter revenue outlook on strong travel demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6982
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6872
-- slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
-  headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6396
-- slug: 2026-04-10-travelers-face-higher-costs-as-jet-fuel-volatility-squeezes-airlines
-  headline: Travelers face higher costs as jet fuel volatility squeezes airlines
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7162
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7154
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6701
-- slug: 2026-06-12-war-in-iran-drives-jet-fuel-prices-higher-squeezing-african-airlines
-  headline: War in Iran drives jet fuel prices higher, squeezing African airlines
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6753
-- slug: 2026-03-15-airfares-are-expected-to-rise-with-jet-fuel-costs-during-the-iran-war
-  headline: Airfares are expected to rise with jet fuel costs during the Iran war
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6959
-- slug: 2026-05-23-rising-fuel-prices-could-shrink-the-value-of-airline-rewards-this-summer
-  headline: Rising fuel prices could shrink the value of airline rewards this summer
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6702
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.662
-- slug: 2026-05-22-memorial-day-high-fuel-prices-are-reshaping-summer-vacation-plans
-  headline: 'Memorial Day: High fuel prices are reshaping summer vacation plans'
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6656
-- slug: 2026-05-21-memorial-day-high-fuel-prices-are-reshaping-summer-vacation-plans
-  headline: 'Memorial Day: High fuel prices are reshaping summer vacation plans'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6621
-- slug: 2026-04-18-iran-war-drives-jet-fuel-prices-to-record-highs-raising-summer-airfares
-  headline: Iran war drives jet fuel prices to record highs, raising summer airfares
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6718
-- slug: 2026-05-22-what-rising-fuel-prices-mean-for-airline-miles-and-travel-rewards-this-summer
-  headline: What rising fuel prices mean for airline miles and travel rewards this summer
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6567
-- slug: 2026-05-23-memorial-day-high-fuel-prices-reshape-summer-vacation-plans-for-americans
-  headline: 'Memorial Day: High fuel prices reshape summer vacation plans for Americans'
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6547
+  strength: 0.6521
 ---
-
 ## Latin American airlines face rising fuel costs and higher fares
 
 **Subtype:** fact

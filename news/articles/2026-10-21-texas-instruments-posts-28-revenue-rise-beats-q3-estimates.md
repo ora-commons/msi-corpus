@@ -1,9 +1,15 @@
 ---
 headline: Texas Instruments posts 28% revenue rise, beats Q3 estimates
-secondary_headline: TI revenue outlook exceeds forecast; latest quarter had broad-based growth
+secondary_headline: TI revenue outlook exceeds forecast; latest quarter had broad-based
+  growth
 publish_date: '2026-10-21'
-lede: Texas Instruments reported Wednesday that its third-quarter profit reached $2.43 billion, or $2.62 a share, above FactSet's $2.44 per-share estimate and up from $1.36 billion, or $1.48, a year earlier. Revenue climbed 28% over the year to $6.06 billion, beating the $5.94 billion analyst forecast.
-nut_graf: Texas Instruments' $6.06 billion quarterly revenue result and its fourth-quarter revenue outlook both exceeded analyst forecasts. The latest quarter's growth was broad based, led by industry, automotive and data-center markets.
+lede: Texas Instruments reported Wednesday that its third-quarter profit reached $2.43
+  billion, or $2.62 a share, above FactSet's $2.44 per-share estimate and up from
+  $1.36 billion, or $1.48, a year earlier. Revenue climbed 28% over the year to $6.06
+  billion, beating the $5.94 billion analyst forecast.
+nut_graf: Texas Instruments' $6.06 billion quarterly revenue result and its fourth-quarter
+  revenue outlook both exceeded analyst forecasts. The latest quarter's growth was
+  broad based, led by industry, automotive and data-center markets.
 primary_entities:
 - Texas Instruments
 - The Wall Street Journal
@@ -36,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,61 +141,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
-  headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6447
-- slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
-  headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
+- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6273
+  strength: 0.7007
+- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
+  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6519
 - slug: 2026-10-16-regions-financial-reports-611-million-q3-profit-adjusted-eps-tops-estimates
   headline: Regions Financial reports $611 million Q3 profit; adjusted EPS tops estimates
   publish_date: '2026-10-16'
   relation: related
   strength: 0.6562
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6313
-- slug: 2026-10-13-johnson-johnson-raises-outlook-as-medical-device-sales-miss-estimates
-  headline: Johnson & Johnson raises outlook as medical device sales miss estimates
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6245
 - slug: 2026-07-22-texas-instruments-q2-profit-rises-52-as-revenue-beats-estimates
   headline: Texas Instruments Q2 profit rises 52% as revenue beats estimates
   publish_date: '2026-07-22'
   relation: related
   strength: 0.9032
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-07-texas-finance-jobs-grew-nearly-26-from-2019-to-2025-more-than-double-new-york-s-
-  headline: Texas finance jobs grew nearly 26% from 2019 to 2025, more than double New York's 12%
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6294
-- slug: 2026-08-27-best-buy-raises-full-year-outlook-after-q2-comparable-sales-beat-expectations
-  headline: Best Buy raises full-year outlook after Q2 comparable sales beat expectations
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-26-nvidia-quarterly-revenue-more-than-doubles-to-96-billion-on-ai-chip-demand
-  headline: Nvidia quarterly revenue more than doubles to $96 billion on AI chip demand
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.63
-- slug: 2026-08-25-intuit-forecasts-slower-fiscal-2027-growth-shares-drop-14
-  headline: Intuit forecasts slower fiscal 2027 growth, shares drop 14%
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6324
 - slug: 2026-07-23-t-mobile-q2-profit-rises-to-3-24b-as-postpaid-revenue-climbs-13
   headline: T-Mobile Q2 profit rises to $3.24B as postpaid revenue climbs 13%
   publish_date: '2026-07-23'
@@ -204,38 +177,7 @@ related_stories:
   publish_date: '2026-07-22'
   relation: related
   strength: 0.6718
-- slug: 2026-08-10-hims-hers-lifts-annual-forecast-as-quarterly-costs-drive-loss
-  headline: Hims & Hers lifts annual forecast as quarterly costs drive loss
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6347
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6465
-- slug: 2026-08-05-motorola-solutions-raises-outlook-after-q2-profit-and-revenue-beat-estimates
-  headline: Motorola Solutions raises outlook after Q2 profit and revenue beat estimates
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6374
-- slug: 2026-08-06-consolidated-edison-posts-higher-second-quarter-profit-revenue
-  headline: Consolidated Edison posts higher second-quarter profit, revenue
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6343
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6394
-- slug: 2026-07-21-halliburton-beats-revenue-estimates-profit-rises-13
-  headline: Halliburton beats revenue estimates, profit rises 13%
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6386
 ---
-
 ## Texas Instruments posts 28% revenue rise, beats Q3 estimates
 
 **Subtype:** fact

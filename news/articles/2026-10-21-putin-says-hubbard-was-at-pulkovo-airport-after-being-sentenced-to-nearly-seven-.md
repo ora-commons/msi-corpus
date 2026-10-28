@@ -1,9 +1,23 @@
 ---
-headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly seven years in 2024
-secondary_headline: Closed trial in 2024 sentenced Hubbard for Ukrainian army mercenary service
+headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly
+  seven years in 2024
+secondary_headline: Closed trial in 2024 sentenced Hubbard for Ukrainian army mercenary
+  service
 publish_date: '2026-10-21'
-lede: On October 21, Russian President Vladimir Putin said American Stephen Hubbard had been released from a Russian prison and was already at Pulkovo Airport in Saint Petersburg, according to NPR. Hubbard was 74 and a resident of Michigan. NPR reported that Russian forces detained him in eastern Ukraine in 2022, and that a closed trial in 2024 imposed a nearly seven-year prison sentence for serving as a mercenary in the Ukrainian army. President Trump said he had asked Putin to release Hubbard before the talks, and the announcement came as Putin and White House envoy Steve Witkoff held talks focused on U.S. efforts to end the war in Ukraine.
-nut_graf: NPR reported that Russian forces detained 74-year-old Michigan resident Stephen Hubbard in eastern Ukraine in 2022 and that a closed 2024 trial imposed a nearly seven-year prison sentence for his service as a mercenary in the Ukrainian army. Putin said Hubbard had been released and was already at Pulkovo Airport. NPR did not attribute the release to Trump's lifting of some sanctions on Moscow or his criticism of Ukraine.
+lede: On October 21, Russian President Vladimir Putin said American Stephen Hubbard
+  had been released from a Russian prison and was already at Pulkovo Airport in Saint
+  Petersburg, according to NPR. Hubbard was 74 and a resident of Michigan. NPR reported
+  that Russian forces detained him in eastern Ukraine in 2022, and that a closed trial
+  in 2024 imposed a nearly seven-year prison sentence for serving as a mercenary in
+  the Ukrainian army. President Trump said he had asked Putin to release Hubbard before
+  the talks, and the announcement came as Putin and White House envoy Steve Witkoff
+  held talks focused on U.S. efforts to end the war in Ukraine.
+nut_graf: NPR reported that Russian forces detained 74-year-old Michigan resident
+  Stephen Hubbard in eastern Ukraine in 2022 and that a closed 2024 trial imposed
+  a nearly seven-year prison sentence for his service as a mercenary in the Ukrainian
+  army. Putin said Hubbard had been released and was already at Pulkovo Airport. NPR
+  did not attribute the release to Trump's lifting of some sanctions on Moscow or
+  his criticism of Ukraine.
 primary_entities:
 - Stephen Hubbard
 - Vladimir Putin
@@ -53,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +166,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-trump-tells-reporters-u-s-has-been-focused-on-hubbard
+  headline: Trump tells reporters U.S. has been focused on Hubbard
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8347
 - slug: 2026-10-21-stephen-hubbard-returns-home-after-russian-authorities-release-him
   headline: Stephen Hubbard returns home after Russian authorities release him
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8203
+  strength: 0.82
+- slug: 2026-10-21-witkoff-praises-putin-after-hubbard-s-release
+  headline: Witkoff praises Putin after Hubbard’s release
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8042
+- slug: 2026-10-21-trump-links-hubbard-release-to-putin-call-says-u-s-effort-cost-nothing
+  headline: Trump links Hubbard release to Putin call, says U.S. effort cost nothing
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8034
+- slug: 2026-10-22-patricia-hubbard-fox-recounts-hubbard-s-first-moments-of-freedom
+  headline: Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7589
 - slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
   headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.748
+  strength: 0.7487
 - slug: 2026-10-21-witkoff-s-praise-for-putin-reflects-trump-s-russia-outreach
   headline: Witkoff’s praise for Putin reflects Trump’s Russia outreach
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7293
+  strength: 0.7297
 - slug: 2026-10-21-trump-says-hubbard-s-release-followed-direct-request-to-putin
   headline: Trump says Hubbard's release followed direct request to Putin
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.719
-- slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
-  headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6837
-- slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
-  headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6704
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6356
-- slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
-  headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6331
-- slug: 2026-09-23-zelensky-tells-un-general-assembly-russia-s-war-could-spread
-  headline: Zelensky tells UN General Assembly Russia's war could spread
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6693
-- slug: 2026-09-25-zelensky-says-trump-approved-patriot-missile-license-for-ukraine
-  headline: Zelensky says Trump approved Patriot missile license for Ukraine
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6318
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6347
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6864
-- slug: 2026-07-08-trump-says-he-may-let-ukraine-produce-patriot-interceptors
-  headline: Trump says he may let Ukraine produce Patriot interceptors
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6333
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6755
-- slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6585
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6629
-- slug: 2026-01-05-trump-says-u-s-determined-ukraine-didn-t-hit-putin-residence-with-drones
-  headline: Trump says U.S. determined Ukraine didn't hit Putin residence with drones
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6843
-- slug: 2026-05-16-putin-to-visit-chinese-leader-xi-jinping-days-after-trump-s-trip-to-beijing
-  headline: Putin to visit Chinese leader Xi Jinping days after Trump’s trip to Beijing
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6524
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6453
-- slug: 2026-02-05-us-and-russia-agree-to-reestablish-high-level-military-dialogue
-  headline: US and Russia agree to reestablish high-level military dialogue
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6612
+  strength: 0.7192
 ---
-
 ## Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly seven years in 2024
 
 **Subtype:** fact

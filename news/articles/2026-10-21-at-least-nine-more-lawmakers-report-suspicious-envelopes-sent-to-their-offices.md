@@ -1,9 +1,17 @@
 ---
 headline: At least nine more lawmakers report suspicious envelopes sent to their offices
-secondary_headline: Some pictured letters carried a former DSA return address; DSA denied involvement
+secondary_headline: Some pictured letters carried a former DSA return address; DSA
+  denied involvement
 publish_date: '2026-10-21'
-lede: At least nine U.S. lawmakers announced Tuesday that suspicious envelopes had been mailed to their offices, adding to a wave of similar mailings that targeted federal legislators from both parties over the past week. More than three dozen senators and House members have reported receiving suspicious envelopes, some containing white powder or unknown substances, or having them intercepted by postal investigators.
-nut_graf: The disclosures expand the reported scope of the mailings, while a House Sergeant at Arms memo said none of the letters received by congressional offices had been determined to contain hazardous substances and warned more offices could receive similar letters in the coming days.
+lede: At least nine U.S. lawmakers announced Tuesday that suspicious envelopes had
+  been mailed to their offices, adding to a wave of similar mailings that targeted
+  federal legislators from both parties over the past week. More than three dozen
+  senators and House members have reported receiving suspicious envelopes, some containing
+  white powder or unknown substances, or having them intercepted by postal investigators.
+nut_graf: The disclosures expand the reported scope of the mailings, while a House
+  Sergeant at Arms memo said none of the letters received by congressional offices
+  had been determined to contain hazardous substances and warned more offices could
+  receive similar letters in the coming days.
 primary_entities:
 - Nanette Barragán
 - Shontel Brown
@@ -53,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +164,44 @@ related_stories:
   headline: More than a dozen lawmakers report suspicious envelopes sent to offices
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8601
+  strength: 0.8609
+- slug: 2026-10-22-pelosi-office-receives-suspicious-letter-three-illinois-democrats-report-repeat-
+  headline: Pelosi office receives suspicious letter; three Illinois Democrats report
+    repeat mailings
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8098
 - slug: 2026-10-18-schiff-says-suspicious-envelope-to-california-office-intercepted
   headline: Schiff says suspicious envelope to California office intercepted
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.8025
+  strength: 0.8038
+- slug: 2026-10-21-pelosi-s-office-receives-suspicious-letter-in-ongoing-congressional-mailings
+  headline: Pelosi's office receives suspicious letter in ongoing congressional mailings
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7727
 - slug: 2026-10-19-subramanyam-s-leesburg-office-receives-suspicious-white-powder-in-mail
   headline: Subramanyam's Leesburg office receives suspicious white powder in mail
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7748
+  strength: 0.7762
 - slug: 2026-10-15-senate-sergeant-at-arms-image-shows-dsa-return-address-on-election-mailings
   headline: Senate Sergeant at Arms image shows 'DSA' return address on election mailings
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8015
+  strength: 0.8019
 - slug: 2026-10-19-powder-envelopes-target-three-dozen-congress-offices
   headline: Powder envelopes target over three dozen Congress offices ahead of midterms
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7715
+  strength: 0.7743
 - slug: 2026-10-15-fbi-probe-adds-new-york-wyoming-capitols-senator-murphy
   headline: FBI probe adds New York, Wyoming capitols, Senator Murphy
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7575
-- slug: 2026-10-15-more-than-100-powder-letters-were-sent-to-thomas-boebert-in-mid-2023
-  headline: More than 100 powder letters were sent to Thomas, Boebert in mid-2023
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7417
-- slug: 2026-10-15-fbi-probes-suspicious-letters-mailed-to-us-election-offices-before-midterms
-  headline: FBI probes suspicious letters mailed to US election offices before midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7317
-- slug: 2026-10-14-fbi-investigates-suspicious-powder-mailed-to-election-officials-in-three-states
-  headline: FBI investigates suspicious powder mailed to election officials in three states
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7126
-- slug: 2026-10-20-federal-agents-probe-white-powder-envelopes-sent-to-congressional-offices
-  headline: Federal agents probe white-powder envelopes sent to congressional offices
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6225
-- slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
-  headline: Democratic attorneys general expand midterm election security planning
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6054
-- slug: 2026-10-12-democrats-condemn-federal-search-of-ilhan-omar-s-home
-  headline: Democrats condemn federal search of Ilhan Omar's home
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.614
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6481
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6078
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5988
-- slug: 2026-08-10-lawmakers-open-investigation-into-military-family-deportations
-  headline: Lawmakers open investigation into military family deportations
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5965
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6391
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6362
-- slug: 2026-01-16-senators-warn-usps-postmark-changes-could-disenfranchise-mail-ballot-voters
-  headline: Senators warn USPS postmark changes could disenfranchise mail-ballot voters
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.649
-- slug: 2026-05-08-people-could-soon-ship-handguns-through-u-s-postal-service
-  headline: People could soon ship handguns through U.S. postal service
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6204
+  strength: 0.7614
 ---
-
 ## At least nine more lawmakers report suspicious envelopes sent to their offices
 
 **Subtype:** fact

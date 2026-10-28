@@ -2,8 +2,18 @@
 headline: Regulators require two asset sales for the Akzo Nobel-Axalta merger
 secondary_headline: CEO initiates buyer search for European refinishing unit
 publish_date: '2026-10-21'
-lede: 'European Union and U.S. Federal Trade Commission approval of the proposed Akzo Nobel-Axalta merger hinges on two asset sales: the EU demands a signed deal with a buyer for Akzo''s European vehicle refinishing business, while the FTC requires Axalta to close the sale of its U.S. wood-paints business. Akzo Chief Executive Greg Poux-Guillaume said the two divestitures are the only remedies regulators have asked the companies to prepare worldwide. The Dutch paint company and Axalta, its U.S. peer, expect the combined group, to be named Axanzo, to have a market value of roughly $19 billion, with the deal expected to close by the beginning of 2027.'
-nut_graf: Both asset sales are aimed at securing clearance from the EU and the FTC, the two regulators reviewing the deal. Poux-Guillaume said Akzo initiated its buyer search for the European refinishing business only after receiving clear indications from regulators about what the sale would require.
+lede: 'European Union and U.S. Federal Trade Commission approval of the proposed Akzo
+  Nobel-Axalta merger hinges on two asset sales: the EU demands a signed deal with
+  a buyer for Akzo''s European vehicle refinishing business, while the FTC requires
+  Axalta to close the sale of its U.S. wood-paints business. Akzo Chief Executive
+  Greg Poux-Guillaume said the two divestitures are the only remedies regulators have
+  asked the companies to prepare worldwide. The Dutch paint company and Axalta, its
+  U.S. peer, expect the combined group, to be named Axanzo, to have a market value
+  of roughly $19 billion, with the deal expected to close by the beginning of 2027.'
+nut_graf: Both asset sales are aimed at securing clearance from the EU and the FTC,
+  the two regulators reviewing the deal. Poux-Guillaume said Akzo initiated its buyer
+  search for the European refinishing business only after receiving clear indications
+  from regulators about what the sale would require.
 primary_entities:
 - Akzo Nobel
 - Axalta Coating Systems
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +150,13 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-reported-eu-hybrid-cap-could-slow-chinese-automakers-share-gains-next-year
-  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next year
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.577
-- slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
-  headline: EU regulators question MMG–Anglo American deal over China supply concerns
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6132
-- slug: 2026-10-12-analysts-say-eu-hybrid-quota-limits-china-s-europe-push-only-at-the-margin
-  headline: Analysts say EU hybrid quota limits China's Europe push only at the margin
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5769
-- slug: 2026-10-07-eu-delays-methane-rules-a-year-sheinbaum-confronts-security-aides
-  headline: EU delays methane rules a year; Sheinbaum confronts security aides
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5644
-- slug: 2026-09-22-nine-european-pharma-chairs-warn-of-losing-ground-to-us-china-rivals
-  headline: Nine European pharma chairs warn of losing ground to US, China rivals
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5645
-- slug: 2026-09-11-ipsen-weighs-return-of-u-s-manufacturing-plant-amid-tariff-pressure
-  headline: Ipsen weighs return of U.S. manufacturing plant amid tariff pressure
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5908
 - slug: 2026-07-13-akzonobel-rejects-nippon-paint-s-8-6-billion-offer-for-paints-arm-as-axalta-vote
-  headline: AkzoNobel rejects Nippon Paint's $8.6 billion offer for paints arm as Axalta vote nears
+  headline: AkzoNobel rejects Nippon Paint's $8.6 billion offer for paints arm as
+    Axalta vote nears
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6937
-- slug: 2026-08-27-boliden-agrees-to-buy-votorantim-s-65-nexa-stake-in-all-share-deal
-  headline: Boliden agrees to buy Votorantim's 65% Nexa stake in all-share deal
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5783
-- slug: 2026-08-10-lse-deputy-ceo-says-capital-is-key-to-reviving-london-s-public-markets
-  headline: LSE deputy CEO says capital is key to reviving London's public markets
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5935
-- slug: 2026-08-05-glencore-plans-secondary-listing-on-australian-exchange
-  headline: Glencore plans secondary listing on Australian exchange
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5751
-- slug: 2026-08-04-continental-reaffirms-tires-guidance-sees-raw-material-costs-climb
-  headline: Continental reaffirms tires guidance, sees raw-material costs climb
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5627
-- slug: 2026-07-28-western-powers-launch-at-least-24-projects-to-reshore-explosives-production
-  headline: Western powers launch at least 24 projects to reshore explosives production
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5611
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5701
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5578
-- slug: 2026-07-01-ipsen-proposes-to-buy-memo-therapeutics-in-deal-worth-up-to-700-million
-  headline: Ipsen Proposes to Buy Memo Therapeutics in Deal Worth Up to €700 Million
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5673
-- slug: 2026-06-25-eu-finalizes-tariff-cuts-on-us-goods-as-regulatory-disputes-loom
-  headline: EU finalizes tariff cuts on US goods as regulatory disputes loom
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5725
-- slug: 2026-06-08-european-chip-stocks-mixed-after-ai-selloff-orange-defends-sfr-deal
-  headline: European chip stocks mixed after AI selloff; Orange defends SFR deal
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5871
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5604
-- slug: 2026-06-08-analysts-diverge-on-steel-gold-and-mining-outlooks-amid-trade-shifts
-  headline: Analysts diverge on steel, gold, and mining outlooks amid trade shifts
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5709
-- slug: 2026-05-01-union-pacific-ceo-confident-new-stb-filing-will-satisfy-regulators-in-ns-deal
-  headline: Union Pacific CEO confident new STB filing will satisfy regulators in NS deal
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5834
+  strength: 0.6924
 ---
-
 ## Regulators require two asset sales for the Akzo Nobel-Axalta merger
 
 **Subtype:** fact

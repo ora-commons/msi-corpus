@@ -1,9 +1,21 @@
 ---
 headline: Hotter summers draw residents and home buyers toward Scotland
-secondary_headline: At least 35,000 excess deaths thought to have been linked to Europe's heat
+secondary_headline: At least 35,000 excess deaths thought to have been linked to Europe's
+  heat
 publish_date: '2026-10-21'
-lede: In an NPR feature published October 21, 2026, Scottish Highlands real-estate agents said more home buyers are citing cooler summers in their purchase decisions. Residents who had lived in Britain and California before moving to Scotland said heat and climate change influenced their decisions; one cited Los Angeles wildfires, while another was mindful of rising sea levels when choosing a house up a hill. Scientists cited by NPR said Europe is the world's fastest-warming continent, where at least 35,000 excess deaths were thought to have been linked to this summer's heat.
-nut_graf: The accounts show heat affecting both personal relocation decisions and housing demand, but climate operates alongside jobs, housing and the economy. The reported moves and prospective interest are distinct from projections that climate change will drive hundreds of millions of people from hotter regions toward more temperate areas this century.
+lede: In an NPR feature published October 21, 2026, Scottish Highlands real-estate
+  agents said more home buyers are citing cooler summers in their purchase decisions.
+  Residents who had lived in Britain and California before moving to Scotland said
+  heat and climate change influenced their decisions; one cited Los Angeles wildfires,
+  while another was mindful of rising sea levels when choosing a house up a hill.
+  Scientists cited by NPR said Europe is the world's fastest-warming continent, where
+  at least 35,000 excess deaths were thought to have been linked to this summer's
+  heat.
+nut_graf: The accounts show heat affecting both personal relocation decisions and
+  housing demand, but climate operates alongside jobs, housing and the economy. The
+  reported moves and prospective interest are distinct from projections that climate
+  change will drive hundreds of millions of people from hotter regions toward more
+  temperate areas this century.
 primary_entities:
 - Scotland
 - United Kingdom
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +160,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
-  headline: World leaders at Climate Week link fossil fuels to wars and economic risk
-  publish_date: '2026-09-21'
+- slug: 2026-10-23-study-attributes-32-619-european-heat-deaths-to-human-caused-warming
+  headline: Study attributes 32,619 European heat deaths to human-caused warming
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6188
-- slug: 2026-09-16-study-finds-climate-change-destabilized-glacier-behind-nepal-tibet-floods
-  headline: Study finds climate change destabilized glacier behind Nepal-Tibet floods
-  publish_date: '2026-09-16'
+  strength: 0.6598
+- slug: 2026-10-22-study-estimates-50-391-heat-deaths-across-854-european-cities
+  headline: Study estimates 50,391 heat deaths across 854 European cities
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6151
-- slug: 2026-09-10-august-2026-ties-july-2023-as-hottest-month-on-record-copernicus-reports
-  headline: August 2026 ties July 2023 as hottest month on record, Copernicus reports
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6232
-- slug: 2026-09-07-mayors-of-paris-milan-and-phoenix-detail-heat-policies-in-joint-column
-  headline: Mayors of Paris, Milan and Phoenix detail heat policies in joint column
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6329
+  strength: 0.6514
 - slug: 2026-08-15-scotland-tourism-rises-as-europe-swelters-and-cooler-weather-beckons
   headline: Scotland tourism rises as Europe swelters and cooler weather beckons
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6602
-- slug: 2026-08-25-heat-dome-to-bring-dangerous-115f-highs-to-45-million-in-south-west
-  headline: Heat dome to bring dangerous 115F highs to 45 million in south-west
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6269
+  strength: 0.661
 - slug: 2026-08-04-rebecca-solnit-argues-climate-change-has-turned-summer-into-a-season-of-dread
-  headline: Rebecca Solnit argues climate change has turned summer into a season of dread
+  headline: Rebecca Solnit argues climate change has turned summer into a season of
+    dread
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6668
-- slug: 2026-08-24-copernicus-reports-oceans-hit-hottest-temperatures-on-record
-  headline: Copernicus reports oceans hit hottest temperatures on record
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6165
-- slug: 2026-08-10-western-europe-topples-june-july-average-temperature-record
-  headline: Western Europe topples June-July average temperature record
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6491
+  strength: 0.6672
 - slug: 2026-07-29-global-wildfire-burning-hits-record-low-despite-extreme-fires-in-europe-and-nort
-  headline: Global wildfire burning hits record low despite extreme fires in Europe and North America
+  headline: Global wildfire burning hits record low despite extreme fires in Europe
+    and North America
   publish_date: '2026-07-29'
   relation: related
-  strength: 0.6537
+  strength: 0.6521
 - slug: 2026-07-14-new-heatwave-spreads-extreme-temperatures-across-us-and-canada
   headline: New heatwave spreads extreme temperatures across US and Canada
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6584
-- slug: 2026-08-06-climate-change-doubled-odds-of-canada-fire-weather-study-finds
-  headline: Climate change doubled odds of Canada fire weather, study finds
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6182
+  strength: 0.6581
 - slug: 2026-06-29-who-says-europe-heatwave-linked-to-over-1-300-excess-deaths
   headline: WHO says Europe heatwave linked to over 1,300 excess deaths
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6712
+  strength: 0.673
 - slug: 2026-06-26-americans-in-europe-admit-they-underestimated-continent-s-heat-waves
   headline: Americans in Europe admit they underestimated continent's heat waves
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6716
-- slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
-  headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.622
-- slug: 2026-07-17-europe-heat-wave-linked-to-well-over-10-000-excess-deaths
-  headline: Europe heat wave linked to well over 10,000 excess deaths
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6372
-- slug: 2026-07-02-european-heat-waves-and-floods-cost-43-billion-last-year-study-finds
-  headline: European heat waves and floods cost $43 billion last year, study finds
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6478
-- slug: 2026-06-26-study-finds-europe-heat-wave-impossible-without-climate-change
-  headline: Study finds Europe heat wave impossible without climate change
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6326
-- slug: 2026-07-05-heatwave-kills-at-least-25-across-eastern-united-states
-  headline: Heatwave kills at least 25 across eastern United States
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6195
-- slug: 2026-06-22-heat-stress-days-surge-globally-study-finds
-  headline: Heat stress days surge globally, study finds
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6249
+  strength: 0.6728
 ---
-
 ## Hotter summers draw residents and home buyers toward Scotland
 
 **Subtype:** fact

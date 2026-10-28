@@ -1,9 +1,24 @@
 ---
-headline: United Airlines CEO Scott Kirby calls for national wealth and inheritance taxes
-secondary_headline: Fox Business and New York Post criticize Kirby's $32 million 2025 pay
+headline: United Airlines CEO Scott Kirby calls for national wealth and inheritance
+  taxes
+secondary_headline: Fox Business and New York Post criticize Kirby's $32 million 2025
+  pay
 publish_date: '2026-10-20'
-lede: United Airlines CEO Scott Kirby said wealth inequality is a “danger to society” and called for a national wealth tax and inheritance taxes that would “get close to 100% at some level” in a recent New York Times interview, adding that he would pay them. Fox Business and New York Post headlines criticized his reported $32 million 2025 pay, while former Fox News host Glenn Beck and other users on X called for a boycott of United Airlines and Louisiana Gov. Jeff Landry called Kirby’s statement “audacious.”
-nut_graf: Kirby’s comments came about two weeks before California voters were set to decide on a so-called “billionaire’s tax,” a proposed 5% tax on the state’s billionaires that wealthy opponents have spent millions fighting. In the same interview, United Airlines requires passengers who are not frequent flyers to pay $70 for an aisle or window seat, a charge Kirby defended by saying, “There are customers that pay more that get more.” Labor Department data show the airline-fare index increased about 20% from September 2019 to September 2026, compared with a 31% increase in overall consumer prices.
+lede: United Airlines CEO Scott Kirby said wealth inequality is a “danger to society”
+  and called for a national wealth tax and inheritance taxes that would “get close
+  to 100% at some level” in a recent New York Times interview, adding that he would
+  pay them. Fox Business and New York Post headlines criticized his reported $32 million
+  2025 pay, while former Fox News host Glenn Beck and other users on X called for
+  a boycott of United Airlines and Louisiana Gov. Jeff Landry called Kirby’s statement
+  “audacious.”
+nut_graf: Kirby’s comments came about two weeks before California voters were set
+  to decide on a so-called “billionaire’s tax,” a proposed 5% tax on the state’s billionaires
+  that wealthy opponents have spent millions fighting. In the same interview, United
+  Airlines requires passengers who are not frequent flyers to pay $70 for an aisle
+  or window seat, a charge Kirby defended by saying, “There are customers that pay
+  more that get more.” Labor Department data show the airline-fare index increased
+  about 20% from September 2019 to September 2026, compared with a 31% increase in
+  overall consumer prices.
 primary_entities:
 - Scott Kirby
 - United Airlines
@@ -44,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +158,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
+  headline: Transport firms adjust plans as fuel costs and demand shift
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7109
+- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
+  headline: Proposition 40 aims to raise $100 billion for California health care
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6905
+- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
+  headline: California’s billionaire tax divides Democrats ahead of November vote
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.657
+- slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6516
 - slug: 2026-10-09-united-adds-starlink-mlb-streaming-as-delta-ceo-defends-premium-travel
   headline: United adds Starlink MLB streaming as Delta CEO defends premium travel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6631
-- slug: 2026-10-12-uk-welfare-spending-on-track-to-hit-130-billion-as-claims-surge
-  headline: UK welfare spending on track to hit £130 billion as claims surge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6407
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6339
-- slug: 2026-10-08-american-airlines-says-it-will-stop-involuntarily-bumping-passengers
-  headline: American Airlines says it will stop involuntarily bumping passengers
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6236
-- slug: 2026-10-02-delta-rejects-starlink-for-amazon-leo-as-musk-attacks-bastian
-  headline: Delta rejects Starlink for Amazon Leo as Musk attacks Bastian
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6291
-- slug: 2026-09-16-trump-s-5-000-voter-pledge-draws-fiscal-criticism-from-republicans
-  headline: Trump's $5,000 voter pledge draws fiscal criticism from Republicans
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6333
+  strength: 0.663
 - slug: 2026-07-26-united-approaches-delta-about-merger-talks-stall-people-say
   headline: United approaches Delta about merger, talks stall, people say
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7309
+  strength: 0.7318
 - slug: 2026-04-28-united-ceo-scott-kirby-confirms-he-approached-american-about-merger
   headline: United CEO Scott Kirby confirms he approached American about merger
   publish_date: '2026-04-28'
   relation: related
-  strength: 0.7623
+  strength: 0.7631
 - slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
   headline: California Democrats endorse one-time 5% tax on billionaires
   publish_date: '2026-08-02'
   relation: related
-  strength: 0.6522
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6744
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6934
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6624
-- slug: 2026-07-15-united-airlines-to-sell-empty-middle-seat-as-shared-table-on-select-flights
-  headline: United Airlines to sell empty middle seat as shared table on select flights
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6365
-- slug: 2026-05-14-united-flight-attendants-ratify-contract-with-31-pay-hike-boarding-pay
-  headline: United flight attendants ratify contract with 31% pay hike, boarding pay
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6819
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6514
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6392
-- slug: 2026-05-14-united-flight-attendants-ratify-5-year-contract-with-boarding-pay-retro-pay
-  headline: United flight attendants ratify 5-year contract with boarding pay, retro pay
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6677
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6346
-- slug: 2026-04-04-united-raises-bag-fees-and-rolls-out-tiered-premium-fares
-  headline: United raises bag fees and rolls out tiered premium fares
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6711
-- slug: 2026-06-16-economist-warns-trillionaire-era-threatens-democracy
-  headline: Economist warns trillionaire era threatens democracy
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6308
+  strength: 0.6531
 ---
-
 ## United Airlines CEO Scott Kirby calls for national wealth and inheritance taxes
 
 **Subtype:** fact

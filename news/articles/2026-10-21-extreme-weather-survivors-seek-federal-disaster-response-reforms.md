@@ -1,9 +1,20 @@
 ---
 headline: Extreme weather survivors seek federal disaster-response reforms
-secondary_headline: Vikki Goodwin was the only invited candidate at the Kerrville meeting
+secondary_headline: Vikki Goodwin was the only invited candidate at the Kerrville
+  meeting
 publish_date: '2026-10-21'
-lede: Members of Extreme Weather Survivors gathered in a Kerrville, Texas, community hall in October 2026 to press for improved disaster response, better warnings and greater political representation. Co-founder Sierra Kos said the network spans about 2,500 people across the United States and expects survivors to shape political outcomes and policies and to run for office. All Texas gubernatorial and Senate candidates were invited to the meeting, but Vikki Goodwin, the Democratic candidate for lieutenant governor, was the only one of those invitees to attend.
-nut_graf: The movement combines demands for faster federal aid and clearer warnings with an effort to turn people affected by disasters into a political constituency. Its immediate priorities include FEMA responsiveness, nonpartisan disaster aid, stronger evacuation notifications and help repairing homes before temporary housing disappears; Kos said survivors also want to run for office.
+lede: Members of Extreme Weather Survivors gathered in a Kerrville, Texas, community
+  hall in October 2026 to press for improved disaster response, better warnings and
+  greater political representation. Co-founder Sierra Kos said the network spans about
+  2,500 people across the United States and expects survivors to shape political outcomes
+  and policies and to run for office. All Texas gubernatorial and Senate candidates
+  were invited to the meeting, but Vikki Goodwin, the Democratic candidate for lieutenant
+  governor, was the only one of those invitees to attend.
+nut_graf: The movement combines demands for faster federal aid and clearer warnings
+  with an effort to turn people affected by disasters into a political constituency.
+  Its immediate priorities include FEMA responsiveness, nonpartisan disaster aid,
+  stronger evacuation notifications and help repairing homes before temporary housing
+  disappears; Kos said survivors also want to run for office.
 primary_entities:
 - Extreme Weather Survivors
 - 'Rebuild: the National Disaster Survivors Association'
@@ -69,7 +80,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -166,109 +178,8 @@ cross_article_links:
   strength: 0.5936
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6504
-- slug: 2026-10-19-three-2025-us-disasters-still-await-at-least-10bn-in-long-term-federal-aid
-  headline: Three 2025 US disasters still await at least $10bn in long-term federal aid
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.629
-- slug: 2026-09-27-swing-left-s-radjy-democrats-need-clearer-identity-beyond-anti-trump
-  headline: 'Swing Left''s Radjy: Democrats need clearer identity beyond anti-Trump'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6118
-- slug: 2026-09-14-three-midterm-candidates-build-campaigns-on-climate-linked-issues
-  headline: Three midterm candidates build campaigns on climate-linked issues
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6315
-- slug: 2026-09-15-anti-datacenter-organizers-run-for-local-offices-across-us
-  headline: Anti-datacenter organizers run for local offices across US
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5951
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6092
-- slug: 2026-09-05-memphis-community-organizes-storm-relief-as-100-000-lose-power
-  headline: Memphis community organizes storm relief as 100,000 lose power
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6187
-- slug: 2026-08-24-hurricane-helene-recovery-divides-north-carolina-senate-candidates
-  headline: Hurricane Helene recovery divides North Carolina Senate candidates
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6271
-- slug: 2026-09-01-california-lawmakers-exclude-newsom-s-wildfire-liability-limits-from-bill
-  headline: California lawmakers exclude Newsom's wildfire liability limits from bill
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5965
-- slug: 2026-08-01-activists-urge-democrats-to-embrace-climate-messaging-during-recess
-  headline: Activists urge Democrats to embrace climate messaging during recess
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.648
-- slug: 2026-07-17-warming-atmosphere-driving-more-frequent-flash-floods-experts-say
-  headline: Warming atmosphere driving more frequent flash floods, experts say
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6295
-- slug: 2026-07-23-hinojosa-seizes-on-data-center-backlash-in-longshot-texas-governor-run
-  headline: Hinojosa seizes on data center backlash in longshot Texas governor run
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6043
-- slug: 2026-06-29-centrist-democrats-push-for-formal-break-after-socialist-primary-wins
-  headline: Centrist Democrats push for formal break after socialist primary wins
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5943
-- slug: 2026-06-10-fossil-fuel-funded-judicial-seminars-target-climate-litigation
-  headline: Fossil fuel-funded judicial seminars target climate litigation
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5968
-- slug: 2026-03-19-dhs-nominee-markwayne-mullin-says-fema-should-not-be-eliminated
-  headline: DHS nominee Markwayne Mullin says FEMA should not be eliminated
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6273
-- slug: 2026-06-03-karen-bass-advances-to-la-mayoral-runoff-after-falling-short-of-majority
-  headline: Karen Bass advances to LA mayoral runoff after falling short of majority
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5969
-- slug: 2026-05-16-civil-rights-leaders-plan-alabama-rally-to-defend-black-voting-power
-  headline: Civil rights leaders plan Alabama rally to defend Black voting power
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5997
-- slug: 2026-01-22-california-lawmakers-propose-insurance-regulations-after-wildfire-claims-crisis
-  headline: California lawmakers propose insurance regulations after wildfire claims crisis
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6206
-- slug: 2026-05-08-trump-appointed-fema-review-council-backs-sweeping-disaster-aid-changes
-  headline: Trump-appointed FEMA review council backs sweeping disaster-aid changes
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5977
-- slug: 2026-04-29-california-governor-candidates-clash-in-chaotic-tv-debate-over-costs-housing
-  headline: California governor candidates clash in chaotic TV debate over costs, housing
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5966
+related_stories: []
 ---
-
 ## Extreme weather survivors seek federal disaster-response reforms
 
 **Subtype:** fact

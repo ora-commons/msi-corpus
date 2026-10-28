@@ -1,9 +1,18 @@
 ---
 headline: Flanagan campaign says she never joined Phi Beta Kappa
-secondary_headline: 'Program: child psychology major; campaign: American Indian studies minor, no double major'
+secondary_headline: 'Program: child psychology major; campaign: American Indian studies
+  minor, no double major'
 publish_date: '2026-10-21'
-lede: Minnesota Lt. Gov. Peggy Flanagan's Democratic U.S. Senate campaign acknowledged that she was never a member of Phi Beta Kappa, despite her past claim that she "graduated Phi Beta Kappa." Flanagan's College of Liberal Arts commencement program lists child psychology as her major, while her campaign says she received an American Indian studies minor and acknowledges that she did not complete the double major implied by her official state biography. The Wall Street Journal reported the acknowledgments on Oct. 21.
-nut_graf: The acknowledgments came as Flanagan, the Democratic nominee, faced Michele Tafoya in a close Senate race. They concern her 2016 Phi Beta Kappa claim and the degree history described in her official state biography.
+lede: Minnesota Lt. Gov. Peggy Flanagan's Democratic U.S. Senate campaign acknowledged
+  that she was never a member of Phi Beta Kappa, despite her past claim that she "graduated
+  Phi Beta Kappa." Flanagan's College of Liberal Arts commencement program lists child
+  psychology as her major, while her campaign says she received an American Indian
+  studies minor and acknowledges that she did not complete the double major implied
+  by her official state biography. The Wall Street Journal reported the acknowledgments
+  on Oct. 21.
+nut_graf: The acknowledgments came as Flanagan, the Democratic nominee, faced Michele
+  Tafoya in a close Senate race. They concern her 2016 Phi Beta Kappa claim and the
+  degree history described in her official state biography.
 primary_entities:
 - Peggy Flanagan
 - Phi Beta Kappa
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,117 +155,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-15-press-secretary-katie-zacharia-didn-t-pass-u-s-bar-exam
-  headline: Press secretary Katie Zacharia didn't pass U.S. bar exam
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5885
-- slug: 2026-10-15-zacharia-says-pepperdine-president-told-her-lawyer-not-attorney
-  headline: 'Zacharia says Pepperdine president told her: lawyer, not attorney'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5827
-- slug: 2026-10-15-valadao-villegas-vie-for-nation-s-highest-medicaid-house-seat
-  headline: Valadao, Villegas vie for nation's highest-Medicaid House seat
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5763
-- slug: 2026-10-13-justice-department-threatens-antitrust-probe-of-american-bar-association
-  headline: Justice Department threatens antitrust probe of American Bar Association
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5789
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.584
-- slug: 2026-10-03-greek-life-expansion-spreads-at-us-colleges-as-cornell-allegations-draw-scrutiny
-  headline: Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5823
 - slug: 2026-09-05-tafoya-challenges-flanagan-for-minnesota-senate-seat
   headline: Tafoya challenges Flanagan for Minnesota Senate seat
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6782
-- slug: 2026-09-29-haaland-centers-addiction-recovery-in-new-mexico-governor-bid
-  headline: Haaland centers addiction recovery in New Mexico governor bid
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.58
-- slug: 2026-09-11-desantis-s-florida-college-allies-set-to-remain-after-his-term-ends
-  headline: DeSantis's Florida college allies set to remain after his term ends
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6027
-- slug: 2026-09-05-progressive-candidates-navigate-dsa-ties-as-membership-reaches-120-000
-  headline: Progressive candidates navigate DSA ties as membership reaches 120,000
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5781
-- slug: 2026-08-09-minnesota-senate-primary-pits-angie-craig-against-peggy-flanagan
-  headline: Minnesota Senate primary pits Angie Craig against Peggy Flanagan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5866
-- slug: 2026-08-12-tafoya-and-demuth-win-minnesota-republican-primaries
-  headline: Tafoya and Demuth win Minnesota Republican primaries
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5768
-- slug: 2026-07-19-platner-withdrawal-renews-debate-over-candidate-scrutiny-strategists-say
-  headline: Platner withdrawal renews debate over candidate scrutiny, strategists say
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.615
-- slug: 2026-07-23-blake-miguez-hopes-to-again-earn-trump-endorsement-after-redistricting
-  headline: Blake Miguez hopes to again earn Trump endorsement after redistricting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5826
-- slug: 2026-06-25-new-federal-loan-caps-deter-would-be-physician-assistants-groups-say
-  headline: New federal loan caps deter would-be physician assistants, groups say
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6127
-- slug: 2026-07-08-sanders-urges-platner-to-drop-maine-senate-bid-after-assault-allegation
-  headline: Sanders urges Platner to drop Maine Senate bid after assault allegation
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5833
-- slug: 2026-07-12-platner-s-fall-should-not-discredit-outsider-candidates-columnist-argues
-  headline: Platner's fall should not discredit outsider candidates, columnist argues
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5777
-- slug: 2026-07-09-platner-suspends-maine-senate-campaign-after-assault-allegation
-  headline: Platner suspends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5803
-- slug: 2026-06-22-inside-the-fast-and-loose-campaign-engine-behind-graham-platner
-  headline: Inside the fast-and-loose campaign engine behind Graham Platner
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5842
-- slug: 2026-06-10-maine-women-torn-between-collins-and-platner-in-senate-race
-  headline: Maine Women Torn Between Collins and Platner in Senate Race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5815
+  strength: 0.6765
 image:
   url: /articles/2026-10-21-flanagan-campaign-says-she-never-joined-phi-beta-kappa.png
-  alt: "Illustration accompanying article: Flanagan campaign says she never joined Phi Beta Kappa"
+  alt: 'Illustration accompanying article: Flanagan campaign says she never joined
+    Phi Beta Kappa'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Flanagan campaign says she never joined Phi Beta Kappa
 
 **Subtype:** fact

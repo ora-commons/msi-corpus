@@ -2,8 +2,21 @@
 headline: Google London datacentre outage disrupts UK banks, courts
 secondary_headline: Outage echoes year-old AWS cascade in Virginia
 publish_date: '2026-10-20'
-lede: A power outage at a Google datacentre in London cascaded into service disruptions across the United Kingdom on Tuesday, according to user-submitted reports tracked by the website Downdetector. The outage hit a datacentre in Google's europe-west2-b zone — one of more than a dozen zones the company maintains in Europe to service its clients — during the morning, with user-reported problems peaking around 9am and partially resolving by mid-afternoon. Multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app; Royal Mail, Revolut, HSBC and Lloyds bank were among the services reported as affected. HM Courts and Tribunal Services, which handles remote video hearings in courts across England and Wales, said it was 'aware of an issue affecting Cloud Video Platform' and was 'working with our technology partners to restore service'.
-nut_graf: The disruption underlines the concentration of vital digital services on a small number of large cloud providers, infrastructure experts said, and echoes a far larger Amazon Web Services outage about a year earlier in Virginia that lasted about 15 hours and affected services worldwide.
+lede: A power outage at a Google datacentre in London cascaded into service disruptions
+  across the United Kingdom on Tuesday, according to user-submitted reports tracked
+  by the website Downdetector. The outage hit a datacentre in Google's europe-west2-b
+  zone — one of more than a dozen zones the company maintains in Europe to service
+  its clients — during the morning, with user-reported problems peaking around 9am
+  and partially resolving by mid-afternoon. Multiple banking services faltered, court
+  hearings were put on hold and patients reported temporary glitches on the NHS app;
+  Royal Mail, Revolut, HSBC and Lloyds bank were among the services reported as affected.
+  HM Courts and Tribunal Services, which handles remote video hearings in courts across
+  England and Wales, said it was 'aware of an issue affecting Cloud Video Platform'
+  and was 'working with our technology partners to restore service'.
+nut_graf: The disruption underlines the concentration of vital digital services on
+  a small number of large cloud providers, infrastructure experts said, and echoes
+  a far larger Amazon Web Services outage about a year earlier in Virginia that lasted
+  about 15 hours and affected services worldwide.
 primary_entities:
 - Google
 - Amazon Web Services
@@ -36,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,116 +149,36 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-20-google-london-datacentre-outage-disrupts-uk-banks-courts.png
-  alt: 'Illustration accompanying article: Google London datacentre outage disrupts UK banks, courts'
+  alt: 'Illustration accompanying article: Google London datacentre outage disrupts
+    UK banks, courts'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-19-ukrainian-strikes-on-russian-data-centers-disrupt-civilian-services
-  headline: Ukrainian strikes on Russian data centers disrupt civilian services
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6311
-- slug: 2026-10-16-london-assembly-urges-devolved-robotaxi-authority-as-drivers-plan-protests
-  headline: London Assembly urges devolved robotaxi authority as drivers plan protests
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6102
-- slug: 2026-10-16-ai-safety-incidents-expose-insurance-gap-in-fast-growing-industry
-  headline: AI safety incidents expose insurance gap in fast-growing industry
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.607
-- slug: 2026-10-06-asos-app-users-in-uk-receive-extortion-messages-claiming-snowflake-breach
-  headline: ASOS app users in UK receive extortion messages claiming Snowflake breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6143
 - slug: 2026-09-18-uk-police-assessment-flags-microsoft-cloud-data-as-vulnerable-to-compromise
   headline: UK police assessment flags Microsoft cloud data as vulnerable to compromise
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6598
-- slug: 2026-09-24-climate-protesters-picket-openai-google-amazon-offices-during-nyc-climate-week
-  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate week
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6124
-- slug: 2026-09-22-osborne-now-at-openai-calls-uk-data-center-opposition-nimbys
-  headline: Osborne, now at OpenAI, calls UK data center opposition 'nimbys'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6182
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6183
-- slug: 2026-09-21-second-nats-failure-this-month-renews-scrutiny-over-uk-air-traffic-resilience
-  headline: Second NATS failure this month renews scrutiny over UK air traffic resilience
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6075
-- slug: 2026-08-07-power-outage-leaves-rail-passengers-facing-further-disruption-in-england
-  headline: Power outage leaves rail passengers facing further disruption in England
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6446
-- slug: 2026-08-20-hyperscaler-off-grid-ai-power-systems-show-cracked-turbines-broken-engines
-  headline: Hyperscaler off-grid AI power systems show cracked turbines, broken engines
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6136
+  strength: 0.6578
 - slug: 2026-06-03-lloyds-banking-group-apologizes-after-it-glitch-locks-thousands-out-of-accounts
-  headline: Lloyds Banking Group apologizes after IT glitch locks thousands out of accounts
+  headline: Lloyds Banking Group apologizes after IT glitch locks thousands out of
+    accounts
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.7048
-- slug: 2026-07-30-google-guarantees-15-billion-loan-for-anthropic-s-texas-data-center
-  headline: Google guarantees $15 billion loan for Anthropic's Texas data center
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6135
+  strength: 0.7046
 - slug: 2026-01-14-verizon-outage-disrupts-calls-and-data-for-millions-resolved-after-10-hours
-  headline: Verizon outage disrupts calls and data for millions, resolved after 10 hours
+  headline: Verizon outage disrupts calls and data for millions, resolved after 10
+    hours
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.6852
-- slug: 2026-07-05-uk-mobile-network-performance-ranks-57th-globally-which-analysis-finds
-  headline: UK mobile network performance ranks 57th globally, Which? analysis finds
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6155
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6246
-- slug: 2026-06-23-nearly-80-of-datacenters-vulnerable-to-climate-hazards-study-finds
-  headline: Nearly 80% of datacenters vulnerable to climate hazards, study finds
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6141
-- slug: 2026-06-17-uk-orders-google-to-make-search-rankings-fairer-provide-advance-notice
-  headline: UK Orders Google to Make Search Rankings Fairer, Provide Advance Notice
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6072
-- slug: 2026-06-05-european-tech-stocks-slide-zcash-crashes-27-on-exploit
-  headline: European tech stocks slide; Zcash crashes 27% on exploit
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6142
-- slug: 2026-06-13-uk-unveils-1-1bn-ai-hardware-investment-new-child-safety-demands-at-london-tech-
-  headline: UK unveils £1.1bn AI hardware investment, new child safety demands at London Tech Week
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6054
+  strength: 0.6848
 ---
-
 ## Google London datacentre outage disrupts UK banks, courts
 
 **Subtype:** fact

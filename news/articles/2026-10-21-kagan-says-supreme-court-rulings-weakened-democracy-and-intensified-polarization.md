@@ -2,8 +2,16 @@
 headline: Kagan says Supreme Court rulings weakened democracy and intensified polarization
 secondary_headline: Louisiana's map and party-spending limits were struck down
 publish_date: '2026-10-21'
-lede: Supreme Court Justice Elena Kagan said the conservative majority's recent decisions on redistricting and campaign finance have undermined U.S. democracy and deepened political polarization. At a Catholic University law school discussion in Washington DC on Tuesday, Kagan also criticized the court's 2019 partisan-gerrymandering ruling and described money in politics as "a nightmare," according to multiple reports relayed by The Guardian.
-nut_graf: The remarks came two weeks before the midterm elections and amid congressional redistricting battles. They placed the Supreme Court's 6-3 decisions on voting maps and campaign spending at the center of Kagan's criticism of democracy, political competition and money in politics.
+lede: Supreme Court Justice Elena Kagan said the conservative majority's recent decisions
+  on redistricting and campaign finance have undermined U.S. democracy and deepened
+  political polarization. At a Catholic University law school discussion in Washington
+  DC on Tuesday, Kagan also criticized the court's 2019 partisan-gerrymandering ruling
+  and described money in politics as "a nightmare," according to multiple reports
+  relayed by The Guardian.
+nut_graf: The remarks came two weeks before the midterm elections and amid congressional
+  redistricting battles. They placed the Supreme Court's 6-3 decisions on voting maps
+  and campaign spending at the center of Kagan's criticism of democracy, political
+  competition and money in politics.
 primary_entities:
 - Elena Kagan
 - U.S. Supreme Court
@@ -51,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,117 +158,64 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-supreme-court-lifts-party-candidate-caps-and-lets-three-states-redraw-districts
+  headline: Supreme Court lifts party-candidate caps and lets three states redraw
+    districts
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7395
+- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
+  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6732
 - slug: 2026-05-05-redistricting-war-accelerates-winner-take-all-political-combat-in-us
   headline: Redistricting war accelerates winner-take-all political combat in US
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.7551
+  strength: 0.753
 - slug: 2026-04-30-supreme-court-weakens-voting-rights-act-section-2-in-louisiana-case
   headline: Supreme Court weakens Voting Rights Act Section 2 in Louisiana case
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.7204
+  strength: 0.7188
+- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
+  headline: Southern activists mobilize after Supreme Court weakens Voting Rights
+    Act
+  publish_date: '2026-06-12'
+  relation: related
+  strength: 0.6881
 - slug: 2026-05-02-supreme-court-hollows-voting-rights-act-s-section-2-in-louisiana-case
   headline: Supreme Court hollows Voting Rights Act’s Section 2 in Louisiana case
   publish_date: '2026-05-02'
   relation: related
-  strength: 0.7147
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6889
+  strength: 0.7115
 - slug: 2026-06-05-states-pursue-limited-alternatives-after-supreme-court-weakens-voting-rights-act
-  headline: States pursue limited alternatives after Supreme Court weakens Voting Rights Act
+  headline: States pursue limited alternatives after Supreme Court weakens Voting
+    Rights Act
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.685
+  strength: 0.6821
 - slug: 2026-05-10-after-supreme-court-ruling-gop-led-states-rush-to-redraw-congressional-maps
-  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional maps
+  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional
+    maps
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6963
-- slug: 2026-05-22-southern-republicans-press-redistricting-after-voting-rights-act-ruling
-  headline: Southern Republicans press redistricting after Voting Rights Act ruling
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6878
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6824
-- slug: 2026-05-10-southern-states-accelerate-mid-decade-redistricting-as-courts-reshape-congressio
-  headline: Southern states accelerate mid-decade redistricting as courts reshape congressional map
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.687
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6784
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6876
-- slug: 2026-04-30-supreme-court-ruling-to-reshape-voting-maps-as-primaries-near
-  headline: Supreme Court ruling to reshape voting maps as primaries near
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6881
-- slug: 2026-05-01-voting-rights-ruling-puts-black-caucus-on-edge-as-districts-could-be-redrawn
-  headline: Voting rights ruling puts Black caucus on edge as districts could be redrawn
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6865
-- slug: 2026-05-10-gop-redistricting-confuses-voters-and-burdens-election-officials
-  headline: GOP redistricting confuses voters and burdens election officials
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6824
-- slug: 2026-06-03-supreme-court-allows-alabama-to-use-map-eliminating-majority-black-district
-  headline: Supreme Court Allows Alabama to Use Map Eliminating Majority-Black District
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6674
-- slug: 2026-05-17-south-carolina-house-debates-redistricting-for-u-s-house-seat-gains
-  headline: South Carolina House debates redistricting for U.S. House seat gains
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6776
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6748
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6782
-- slug: 2026-05-16-civil-rights-groups-rally-in-alabama-after-supreme-court-weakens-voting-rights-a
-  headline: Civil rights groups rally in Alabama after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6757
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6765
+  strength: 0.6935
 image:
   url: /articles/2026-10-21-kagan-says-supreme-court-rulings-weakened-democracy-and-intensified-polarization.png
-  alt: "Illustration accompanying article: Kagan says Supreme Court rulings weakened democracy and intensified polarization"
+  alt: 'Illustration accompanying article: Kagan says Supreme Court rulings weakened
+    democracy and intensified polarization'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Kagan says Supreme Court rulings weakened democracy and intensified polarization
 
 **Subtype:** fact

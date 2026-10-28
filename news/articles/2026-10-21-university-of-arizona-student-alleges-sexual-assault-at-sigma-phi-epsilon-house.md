@@ -1,9 +1,19 @@
 ---
-headline: University of Arizona student alleges sexual assault at Sigma Phi Epsilon house
-secondary_headline: Police investigation continues; prosecutor's office reports no case referral
+headline: University of Arizona student alleges sexual assault at Sigma Phi Epsilon
+  house
+secondary_headline: Police investigation continues; prosecutor's office reports no
+  case referral
 publish_date: '2026-10-21'
-lede: A University of Arizona sorority member told the university's police department that two men sexually assaulted her at the Sigma Phi Epsilon house in Tucson on Aug. 26 during a night of drinking. Search-warrant records posted Monday night by KOLD-TV in Tucson contain the account; university police say the investigation remains ongoing.
-nut_graf: The allegation surfaced during a broader University of Arizona response to reports of assault, hazing and drug- and alcohol-related behavior in its fraternities. Other campuses are also confronting allegations and investigations, while the Arizona case remains with police and has not been referred to the Pima County Attorney's Office for prosecution.
+lede: A University of Arizona sorority member told the university's police department
+  that two men sexually assaulted her at the Sigma Phi Epsilon house in Tucson on
+  Aug. 26 during a night of drinking. Search-warrant records posted Monday night by
+  KOLD-TV in Tucson contain the account; university police say the investigation remains
+  ongoing.
+nut_graf: The allegation surfaced during a broader University of Arizona response
+  to reports of assault, hazing and drug- and alcohol-related behavior in its fraternities.
+  Other campuses are also confronting allegations and investigations, while the Arizona
+  case remains with police and has not been referred to the Pima County Attorney's
+  Office for prosecution.
 primary_entities:
 - University of Arizona
 - Sigma Phi Epsilon
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,12 +159,7 @@ related_stories:
   headline: Woman alleges sexual assault at AEPi house near University of Chicago
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7634
-- slug: 2026-10-12-cornell-fraternity-rape-allegation-renews-scrutiny-of-greek-life
-  headline: Cornell fraternity rape allegation renews scrutiny of Greek life
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6418
+  strength: 0.7636
 - slug: 2026-09-28-arizona-suspends-sigma-tau-gamma-chapter-over-alleged-live-goldfish-hazing
   headline: Arizona suspends Sigma Tau Gamma chapter over alleged live-goldfish hazing
   publish_date: '2026-09-28'
@@ -163,91 +169,33 @@ related_stories:
   headline: Madison police arrest two in UW-Madison fraternity hazing investigation
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7097
+  strength: 0.7095
 - slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
+  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang
+    rape
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.693
+  strength: 0.6925
 - slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
+  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape
+    case
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6707
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.63
+  strength: 0.6704
 - slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
   headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.656
-- slug: 2026-10-06-new-york-lawmakers-push-to-close-voluntary-intoxication-consent-gap
-  headline: New York lawmakers push to close 'voluntary intoxication' consent gap
-  publish_date: '2026-10-06'
+  strength: 0.6559
+- slug: 2026-02-03-3-nau-fraternity-leaders-arrested-after-student-s-death-following-vodka-event
+  headline: 3 NAU fraternity leaders arrested after student’s death following vodka
+    event
+  publish_date: '2026-02-03'
   relation: related
-  strength: 0.603
-- slug: 2026-10-03-greek-life-expansion-spreads-at-us-colleges-as-cornell-allegations-draw-scrutiny
-  headline: Greek life expansion spreads at US colleges as Cornell allegations draw scrutiny
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6174
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6227
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.631
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6247
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6032
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6186
-- slug: 2026-09-28-cornell-task-force-finds-35-of-undergrad-women-reported-nonconsensual-sexual-con
-  headline: Cornell task force finds 35% of undergrad women reported nonconsensual sexual contact
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6275
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6168
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.602
-- slug: 2026-08-21-pennsylvania-charges-14-in-alleged-penn-state-cocaine-trafficking-ring
-  headline: Pennsylvania charges 14 in alleged Penn State cocaine trafficking ring
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6283
-- slug: 2026-07-28-secret-service-agent-arrested-in-alleged-miami-fraternity-hazing
-  headline: Secret Service agent arrested in alleged Miami fraternity hazing
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.609
+  strength: 0.665
 analyses:
-- '2026-10-21-report-leaves-coordination-among-arizona-police-university-and-fraternity-undocu'
+- 2026-10-21-report-leaves-coordination-among-arizona-police-university-and-fraternity-undocu
 ---
-
 ## University of Arizona student alleges sexual assault at Sigma Phi Epsilon house
 
 **Subtype:** fact

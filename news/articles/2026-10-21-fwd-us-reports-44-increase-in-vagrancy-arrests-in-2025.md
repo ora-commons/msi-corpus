@@ -2,8 +2,20 @@
 headline: FWD.us reports 44% increase in vagrancy arrests in 2025
 secondary_headline: Arrest data do not show charges dropped or time served
 publish_date: '2026-10-21'
-lede: FWD.us, a criminal-justice and immigration-reform advocacy group, found in an analysis released Wednesday that arrests for low-level crimes, including vagrancy and drug possession, rose nationwide from 2024 to 2025 even as violent-crime rates, including homicide, fell to historic national lows. The analysis of publicly available FBI and immigration arrest data does not show whether charges were dropped or whether people served time in jail or prison.
-nut_graf: 'The findings show an arrest-versus-crime divergence: low-level arrest totals rose while violent-crime rates fell to historic lows. FWD.us tied the broader increase in part to federal enforcement changes during President Trump''s second term. Separately, FWD.us believes federal deployments of immigration officers and the National Guard may have also led to increased policing and subsequently more arrests. FWD.us said the increase in arrests for drugs other than marijuana appeared tied to the unraveling of policies in some states that had decriminalized possession. The data documents racial disparities in vagrancy and marijuana arrests.'
+lede: FWD.us, a criminal-justice and immigration-reform advocacy group, found in an
+  analysis released Wednesday that arrests for low-level crimes, including vagrancy
+  and drug possession, rose nationwide from 2024 to 2025 even as violent-crime rates,
+  including homicide, fell to historic national lows. The analysis of publicly available
+  FBI and immigration arrest data does not show whether charges were dropped or whether
+  people served time in jail or prison.
+nut_graf: 'The findings show an arrest-versus-crime divergence: low-level arrest totals
+  rose while violent-crime rates fell to historic lows. FWD.us tied the broader increase
+  in part to federal enforcement changes during President Trump''s second term. Separately,
+  FWD.us believes federal deployments of immigration officers and the National Guard
+  may have also led to increased policing and subsequently more arrests. FWD.us said
+  the increase in arrests for drugs other than marijuana appeared tied to the unraveling
+  of policies in some states that had decriminalized possession. The data documents
+  racial disparities in vagrancy and marijuana arrests.'
 primary_entities:
 - FWD.us
 - FBI
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +159,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
-  headline: Immigration enforcement reshapes midterm races as voter disapproval grows
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6226
 - slug: 2026-10-01-researchers-dispute-trump-claim-linking-deportations-to-us-homicide-decline
   headline: Researchers dispute Trump claim linking deportations to US homicide decline
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.653
-- slug: 2026-10-02-dhs-task-force-pays-police-60-000-per-officer-after-one-immigration-arrest
-  headline: DHS task force pays police $60,000 per officer after one immigration arrest
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.643
+  strength: 0.6518
 - slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
   headline: US domestic violence killings rise while overall homicides fall
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.681
-- slug: 2026-08-26-ice-arrests-hit-49-571-in-july-highest-monthly-tally-since-october-2022
-  headline: ICE arrests hit 49,571 in July, highest monthly tally since October 2022
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6318
-- slug: 2026-08-14-fbi-reports-us-homicide-rate-fell-to-75-year-low-in-2025
-  headline: FBI reports US homicide rate fell to 75-year low in 2025
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.633
+  strength: 0.6814
 - slug: 2026-07-09-us-murder-rate-fell-to-record-low-in-2025-criminologist-says
   headline: US murder rate fell to record low in 2025, criminologist says
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.6904
-- slug: 2026-07-27-memphis-anti-crime-task-force-leads-to-surge-in-immigration-arrests
-  headline: Memphis anti-crime task force leads to surge in immigration arrests
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6391
-- slug: 2026-07-21-ice-arrested-43-138-in-june-highest-monthly-total-since-trump-took-office
-  headline: ICE arrested 43,138 in June, highest monthly total since Trump took office
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6462
-- slug: 2026-07-23-homicide-rate-drops-18-across-30-u-s-cities-report-says
-  headline: Homicide rate drops 18% across 30 U.S. cities, report says
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.625
+  strength: 0.6892
 - slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
   headline: US overdose deaths declined in 2025, CDC data show
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6552
-- slug: 2026-05-31-national-homelessness-drops-3-in-2025-first-decline-since-2016
-  headline: National homelessness drops 3% in 2025, first decline since 2016
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6426
+  strength: 0.6549
 - slug: 2026-05-14-us-overdose-deaths-fall-14-percent-in-2025-cdc-data-shows
   headline: US overdose deaths fall 14 percent in 2025, CDC data shows
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6516
-- slug: 2026-06-20-93-of-ice-street-arrests-in-ny-nj-targeted-latinos-investigation-finds
-  headline: 93% of ICE street arrests in NY-NJ targeted Latinos, investigation finds
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6248
-- slug: 2026-05-22-trump-s-latino-vote-gains-face-test-as-ice-raids-and-costs-bite
-  headline: Trump’s Latino vote gains face test as ICE raids and costs bite
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6443
-- slug: 2026-01-06-on-duty-officer-deaths-fall-25-in-2025-firearm-fatalities-hit-decade-low
-  headline: On-duty officer deaths fall 25% in 2025; firearm fatalities hit decade low
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6693
+  strength: 0.6512
 - slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
   headline: Trump highlights border drop in State of the Union amid enforcement fallout
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6644
-- slug: 2026-01-22-homicides-drop-21-across-35-u-s-cities-in-2025-report-shows
-  headline: Homicides drop 21% across 35 U.S. cities in 2025, report shows
-  publish_date: '2026-01-22'
+  strength: 0.6646
+- slug: 2026-01-06-on-duty-officer-deaths-fall-25-in-2025-firearm-fatalities-hit-decade-low
+  headline: On-duty officer deaths fall 25% in 2025; firearm fatalities hit decade
+    low
+  publish_date: '2026-01-06'
   relation: related
-  strength: 0.6518
-- slug: 2026-01-28-immigration-crackdown-slows-u-s-population-growth-to-0-5-percent
-  headline: Immigration crackdown slows U.S. population growth to 0.5 percent
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6394
-- slug: 2026-01-26-honolulu-cites-twice-as-many-fireworks-violations-under-new-laws
-  headline: Honolulu cites twice as many fireworks violations under new laws
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.637
+  strength: 0.6684
 ---
-
 ## FWD.us reports 44% increase in vagrancy arrests in 2025
 
 **Subtype:** fact

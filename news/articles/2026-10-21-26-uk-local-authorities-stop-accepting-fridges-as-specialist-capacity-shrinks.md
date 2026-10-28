@@ -2,8 +2,19 @@
 headline: 26 UK local authorities stop accepting fridges as specialist capacity shrinks
 secondary_headline: Thetford fire and plant closures disrupted fridge recycling
 publish_date: '2026-10-21'
-lede: On October 21, 2026, The Guardian reported that 26 UK local authorities had to stop accepting fridges and freezers for recycling this summer as specialist processing capacity contracted. More than 3,000 appliances remain at the full former Mayton Wood recycling centre in Little Hautbois, Norfolk. A Department for Environment, Food and Rural Affairs spokesperson called the delays “frustrating” and said the minister responsible for waste crime had written to producer compliance schemes to “take all reasonable steps to fix this fast, as this cannot go on any longer.”
-nut_graf: Refrigerants and insulation foams can contain ozone-depleting substances, potent greenhouse gases and hazardous compounds, so specialist dismantling is necessary. When treatment capacity is unavailable, councils must store appliances while residents face restricted recycling access. Hubbard said producer compliance schemes had not kept pace with reduced treatment capacity, leaving councils to fund collection, storage and treatment.
+lede: On October 21, 2026, The Guardian reported that 26 UK local authorities had
+  to stop accepting fridges and freezers for recycling this summer as specialist processing
+  capacity contracted. More than 3,000 appliances remain at the full former Mayton
+  Wood recycling centre in Little Hautbois, Norfolk. A Department for Environment,
+  Food and Rural Affairs spokesperson called the delays “frustrating” and said the
+  minister responsible for waste crime had written to producer compliance schemes
+  to “take all reasonable steps to fix this fast, as this cannot go on any longer.”
+nut_graf: Refrigerants and insulation foams can contain ozone-depleting substances,
+  potent greenhouse gases and hazardous compounds, so specialist dismantling is necessary.
+  When treatment capacity is unavailable, councils must store appliances while residents
+  face restricted recycling access. Hubbard said producer compliance schemes had not
+  kept pace with reduced treatment capacity, leaving councils to fund collection,
+  storage and treatment.
 primary_entities:
 - Norfolk
 - Norfolk council
@@ -60,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,109 +169,8 @@ cross_article_links:
   strength: 0.5538
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-longyearbyen-tap-water-ban-extends-into-2026-over-sulphate-nickel-levels
-  headline: Longyearbyen tap water ban extends into 2026 over sulphate, nickel levels
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5885
-- slug: 2026-10-20-google-london-datacentre-outage-disrupts-uk-banks-courts
-  headline: Google London datacentre outage disrupts UK banks, courts
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.566
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5641
-- slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
-  headline: Badenoch pledges to scrap UK future homes standard
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.566
-- slug: 2026-09-29-us-electricity-shutoffs-rise-28-in-hottest-month-on-record-data-shows
-  headline: US electricity shutoffs rise 28% in hottest month on record, data shows
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5725
-- slug: ineos-mothballs-three-hull-chemical-plants-blaming-uk-gas-prices
-  headline: Ineos mothballs three Hull chemical plants, blaming UK gas prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5831
-- slug: 2026-09-25-workers-labor-in-record-us-heat-as-federal-heat-safety-rule-remains-frozen
-  headline: Workers labor in record US heat as federal heat-safety rule remains frozen
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5614
-- slug: 2026-09-11-australian-government-shelves-promised-packaging-laws-citing-cost-of-living
-  headline: Australian government shelves promised packaging laws, citing cost of living
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5968
-- slug: 2026-09-16-crews-say-us-firefighting-capacity-stretched-to-limit-in-2026-wildfire-season
-  headline: Crews say US firefighting capacity stretched to limit in 2026 wildfire season
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5742
-- slug: 2026-09-10-three-states-limit-community-air-data-under-industry-backed-laws
-  headline: Three states limit community air data under industry-backed laws
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5641
-- slug: 2026-08-29-eu-gas-stores-enter-winter-at-13-year-low-as-uk-storage-sits-nearly-empty
-  headline: EU gas stores enter winter at 13-year low as UK storage sits nearly empty
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5841
-- slug: 2026-07-15-doe-deletes-over-1-600-energy-saving-webpages-as-heatwave-grips-us
-  headline: DOE deletes over 1,600 energy-saving webpages as heatwave grips US
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.574
-- slug: 2026-07-18-taylor-farms-recalls-shredded-iceberg-lettuce-in-27-states
-  headline: Taylor Farms recalls shredded iceberg lettuce in 27 states
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5653
-- slug: 2026-06-01-uk-waste-companies-propose-5-vape-deposit-to-curb-bin-fires-a-year-after-disposa
-  headline: UK waste companies propose £5 vape deposit to curb bin fires a year after disposal ban
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6099
-- slug: 2026-05-22-trump-loosens-refrigerant-rules-framing-move-as-lowering-grocery-costs
-  headline: Trump loosens refrigerant rules, framing move as lowering grocery costs
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.601
-- slug: 2026-05-21-trump-relaxes-refrigerant-rule-in-bid-to-address-grocery-costs
-  headline: Trump relaxes refrigerant rule in bid to address grocery costs
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5877
-- slug: 2026-01-15-minifridge-recall-expands-to-964-000-frigidaires-after-fire-reports
-  headline: Minifridge recall expands to 964,000 Frigidaires after fire reports
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6146
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5689
-- slug: 2026-05-21-trump-loosens-refrigerant-rules-framing-move-as-a-grocery-cost-fix
-  headline: Trump loosens refrigerant rules, framing move as a grocery-cost fix
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.573
-- slug: 2026-05-27-cities-swap-asphalt-parking-lots-for-porous-panels-and-plants-to-beat-heat-and-f
-  headline: Cities swap asphalt parking lots for porous panels and plants to beat heat and flooding
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5675
+related_stories: []
 ---
-
 ## 26 UK local authorities stop accepting fridges as specialist capacity shrinks
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: U.S. commercial crude stocks fall 3.1 million barrels in third weekly decline
 secondary_headline: EIA estimates U.S. crude output at 13.3 million barrels a day
 publish_date: '2026-10-21'
-lede: U.S. commercial crude oil inventories excluding the Strategic Petroleum Reserve fell 3.1 million barrels to 412.5 million barrels for the week ended Oct. 16, according to data released Wednesday by the Energy Information Administration. The decrease was much larger than the 300,000-barrel drop expected in a Wall Street Journal analyst survey and marked a third consecutive weekly decline.
-nut_graf: The weekly data showed a larger commercial crude draw alongside lower production and imports, while gasoline and distillate inventories moved in opposite directions. Gasoline stocks fell and distillate stocks rose as commercial crude inventories ended about 3% below their five-year average for the time of year.
+lede: U.S. commercial crude oil inventories excluding the Strategic Petroleum Reserve
+  fell 3.1 million barrels to 412.5 million barrels for the week ended Oct. 16, according
+  to data released Wednesday by the Energy Information Administration. The decrease
+  was much larger than the 300,000-barrel drop expected in a Wall Street Journal analyst
+  survey and marked a third consecutive weekly decline.
+nut_graf: The weekly data showed a larger commercial crude draw alongside lower production
+  and imports, while gasoline and distillate inventories moved in opposite directions.
+  Gasoline stocks fell and distillate stocks rose as commercial crude inventories
+  ended about 3% below their five-year average for the time of year.
 primary_entities:
 - Energy Information Administration
 - United States
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,35 +143,37 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-15-u-s-crude-stockpiles-fall-8-6-million-barrels-as-isaias-disrupts-gulf-output
-  headline: U.S. crude stockpiles fall 8.6 million barrels as Isaias disrupts Gulf output
+  headline: U.S. crude stockpiles fall 8.6 million barrels as Isaias disrupts Gulf
+    output
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.9175
+  strength: 0.9173
 - slug: 2026-10-07-u-s-crude-stockpiles-fall-3-2-million-barrels-defying-forecasts
   headline: U.S. crude stockpiles fall 3.2 million barrels, defying forecasts
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.916
+  strength: 0.9158
 - slug: 2026-09-30-u-s-crude-inventories-rise-900-000-barrels-as-refinery-use-slows
   headline: U.S. crude inventories rise 900,000 barrels as refinery use slows
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.8701
+  strength: 0.8698
 - slug: 2026-09-16-u-s-crude-inventories-post-third-consecutive-weekly-decline
   headline: U.S. crude inventories post third consecutive weekly decline
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.9283
+  strength: 0.9285
 - slug: 2026-09-23-u-s-crude-inventories-rise-3-million-barrels-defying-expected-draw-eia-says
-  headline: U.S. crude inventories rise 3 million barrels, defying expected draw, EIA says
+  headline: U.S. crude inventories rise 3 million barrels, defying expected draw,
+    EIA says
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.8939
+  strength: 0.8936
 - slug: 2026-09-10-eia-estimates-u-s-oil-output-at-record-13-9-million-barrels-a-day
   headline: EIA estimates U.S. oil output at record 13.9 million barrels a day
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.9011
+  strength: 0.9007
 - slug: 2026-10-16-december-brent-closes-at-105-friday-as-iea-plans-accelerated-stock-release
   headline: December Brent closes at $105 Friday as IEA plans accelerated stock release
   publish_date: '2026-10-16'
@@ -173,69 +183,8 @@ related_stories:
   headline: EIA reports 4.5 million barrel crude draw as refinery use climbs to 98%
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.8964
-- slug: 2026-08-26-u-s-crude-stockpiles-rise-for-fourth-straight-week-below-forecasts
-  headline: U.S. crude stockpiles rise for fourth straight week, below forecasts
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.8987
-- slug: 2026-08-19-u-s-crude-stockpiles-rise-4-4-million-barrels-in-third-straight-weekly-build
-  headline: U.S. crude stockpiles rise 4.4 million barrels in third straight weekly build
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.8907
-- slug: 2026-08-12-u-s-crude-oil-stockpiles-rise-17-4-million-barrels-in-week
-  headline: U.S. crude oil stockpiles rise 17.4 million barrels in week
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.8766
-- slug: 2026-07-15-u-s-crude-stockpiles-fall-1-7-million-barrels-topping-forecasts
-  headline: U.S. crude stockpiles fall 1.7 million barrels, topping forecasts
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.9185
-- slug: 2026-07-01-u-s-crude-oil-inventories-fall-for-10th-consecutive-week
-  headline: U.S. crude oil inventories fall for 10th consecutive week
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.9195
-- slug: 2026-06-24-u-s-crude-inventories-fall-for-ninth-consecutive-week
-  headline: U.S. Crude Inventories Fall for Ninth Consecutive Week
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.9085
-- slug: 2026-07-22-u-s-crude-inventories-rise-2-million-barrels-defying-forecast-draw
-  headline: U.S. crude inventories rise 2 million barrels, defying forecast draw
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.8727
-- slug: 2026-06-17-u-s-crude-inventories-fall-8-3-million-barrels-exceeding-expectations
-  headline: U.S. Crude Inventories Fall 8.3 Million Barrels, Exceeding Expectations
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.912
-- slug: 2026-06-10-u-s-crude-inventories-fall-for-seventh-straight-week-eia-says
-  headline: U.S. crude inventories fall for seventh straight week, EIA says
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.9104
-- slug: 2026-07-08-u-s-crude-oil-stockpiles-rise-unexpectedly-ending-11-weeks-of-declines
-  headline: U.S. crude oil stockpiles rise unexpectedly, ending 11 weeks of declines
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8672
-- slug: 2026-08-13-oil-prices-fall-as-iea-cuts-2026-demand-forecast-below-july-projection
-  headline: Oil prices fall as IEA cuts 2026 demand forecast below July projection
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7197
-- slug: 2026-07-09-u-s-oil-stockpiles-stay-near-operational-limits-as-trump-ends-iran-ceasefire
-  headline: U.S. oil stockpiles stay near operational limits as Trump ends Iran ceasefire
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7043
+  strength: 0.8958
 ---
-
 ## U.S. commercial crude stocks fall 3.1 million barrels in third weekly decline
 
 **Subtype:** fact

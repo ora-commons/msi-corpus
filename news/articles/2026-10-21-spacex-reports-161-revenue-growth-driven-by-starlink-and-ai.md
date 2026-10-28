@@ -1,9 +1,21 @@
 ---
 headline: SpaceX reports 161% revenue growth driven by Starlink and AI
-secondary_headline: Super Intelligence generated $7.6bn as SpaceX shares rose after hours
+secondary_headline: Super Intelligence generated $7.6bn as SpaceX shares rose after
+  hours
 publish_date: '2026-10-21'
-lede: SpaceX, which encompasses rockets, artificial intelligence and satellite communications, reported $14.58bn in quarterly revenue Tuesday during its second-ever public earnings report at a Starlink factory in Texas. Revenue rose 161% from a year earlier and exceeded analysts’ projected $12.72bn. The company also reported earnings per share of 35 cents, net income of $4.4bn and $7.6bn from the artificial-intelligence segment it calls Super Intelligence. SpaceX shares rose 2% in after-hours trading immediately after the results.
-nut_graf: 'SpaceX attributed its year-over-year growth to Starlink and artificial intelligence, while its Super Intelligence segment generated $7.6bn and now outperformed the Connectivity business that provides internet services. Musk said a combination with Tesla, his electric-vehicle company, remained preliminary: independent-director committees at both companies had been formed at shareholders’ request, but no transaction terms had been agreed.'
+lede: SpaceX, which encompasses rockets, artificial intelligence and satellite communications,
+  reported $14.58bn in quarterly revenue Tuesday during its second-ever public earnings
+  report at a Starlink factory in Texas. Revenue rose 161% from a year earlier and
+  exceeded analysts’ projected $12.72bn. The company also reported earnings per share
+  of 35 cents, net income of $4.4bn and $7.6bn from the artificial-intelligence segment
+  it calls Super Intelligence. SpaceX shares rose 2% in after-hours trading immediately
+  after the results.
+nut_graf: 'SpaceX attributed its year-over-year growth to Starlink and artificial
+  intelligence, while its Super Intelligence segment generated $7.6bn and now outperformed
+  the Connectivity business that provides internet services. Musk said a combination
+  with Tesla, his electric-vehicle company, remained preliminary: independent-director
+  committees at both companies had been formed at shareholders’ request, but no transaction
+  terms had been agreed.'
 primary_entities:
 - SpaceX
 - Tesla
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +157,45 @@ related_stories:
   headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.789
+  strength: 0.7923
+- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
+  headline: Wall Street advances as SpaceX beats summer profit expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7638
+- slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7501
+- slug: 2026-10-22-tesla-posts-28-billion-revenue-musk-says-optimus-could-be-ready-to-ship-by-the-e
+  headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship
+    by the end of next year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7364
 - slug: 2026-10-20-musk-says-tesla-spacex-merger-is-under-active-consideration
   headline: Musk says Tesla-SpaceX merger is under active consideration
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7119
-- slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6978
+  strength: 0.7143
 - slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
   headline: SpaceX plans natural gas plant to power Texas AI chip facility
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7122
+  strength: 0.7107
 - slug: 2026-08-04-spacex-shares-down-by-half-from-june-peak-as-earnings-call-nears
   headline: SpaceX shares down by half from June peak as earnings call nears
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7275
+  strength: 0.7285
 - slug: 2026-06-12-spacex-ipo-tops-176-company-surpasses-2-trillion-market-cap-on-debut
   headline: SpaceX IPO tops $176, company surpasses $2 trillion market cap on debut
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7629
-- slug: 2026-07-23-quarterly-filing-reveals-google-s-94-1-billion-spacex-stake-after-ipo
-  headline: Quarterly filing reveals Google's $94.1 billion SpaceX stake after IPO
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7137
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.774
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7725
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.709
-- slug: 2026-05-20-spacex-ipo-plans-could-reshape-markets-as-spending-shifts-to-rockets-and-ai
-  headline: SpaceX IPO plans could reshape markets as spending shifts to rockets and AI
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7625
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7608
-- slug: 2026-05-22-spacex-ipo-prospectus-details-losses-lockups-and-a-1-million-person-mars-goal
-  headline: SpaceX IPO prospectus details losses, lockups and a 1 million-person Mars goal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7412
-- slug: 2026-07-02-spacex-starlink-plans-mobile-service-to-target-at-t-verizon
-  headline: SpaceX Starlink plans mobile service to target AT&T, Verizon
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7034
-- slug: 2026-05-21-inside-spacex-s-ipo-filing-75b-raise-lockups-and-a-1m-person-mars-goal
-  headline: 'Inside SpaceX’s IPO filing: $75B raise, lockups, and a 1M-person Mars goal'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7314
-- slug: 2026-06-13-a-look-at-elon-musk-s-vast-business-empire-from-spacex-to-tesla
-  headline: A look at Elon Musk's vast business empire, from SpaceX to Tesla
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7126
-- slug: 2026-06-12-spacex-ipo-and-pending-ai-listings-bind-us-retirement-funds-to-tech-sector-analy
-  headline: SpaceX IPO and pending AI listings bind US retirement funds to tech sector, analysis says
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.711
-- slug: 2026-06-03-spacex-sets-ipo-share-price-at-135-valuation-at-1-75tn
-  headline: SpaceX sets IPO share price at $135, valuation at $1.75tn
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7158
-- slug: 2026-06-08-spacex-ipo-begins-trading-makes-musk-world-s-first-trillionaire
-  headline: SpaceX IPO begins trading, makes Musk world's first trillionaire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7079
-- slug: 2026-06-15-spacex-ipo-nets-85-7bn-total-shares-surge-14-in-first-full-trading-day
-  headline: SpaceX IPO nets $85.7bn total, shares surge 14% in first full trading day
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7022
+  strength: 0.7624
 ---
-
 ## SpaceX reports 161% revenue growth driven by Starlink and AI
 
 **Subtype:** fact
