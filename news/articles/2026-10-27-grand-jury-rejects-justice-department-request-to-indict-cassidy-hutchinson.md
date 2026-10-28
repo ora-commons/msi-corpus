@@ -1,9 +1,20 @@
 ---
 headline: Grand jury rejects Justice Department request to indict Cassidy Hutchinson
-secondary_headline: Details of prosecutors' allegations against Hutchinson were not immediately clear
+secondary_headline: Details of prosecutors' allegations against Hutchinson were not
+  immediately clear
 publish_date: '2026-10-27'
-lede: A grand jury in Washington declined on Tuesday to indict Cassidy Hutchinson, the former White House staffer who testified about Donald Trump's conduct during the January 6 Capitol attack, according to two people familiar with the matter. The people, who spoke to the Associated Press on condition of anonymity because they were not authorized to publicly discuss the case, said the grand jury rejected prosecutors' request to return an indictment against Hutchinson.
-nut_graf: The Associated Press described the declined indictment as the latest setback in the justice department's efforts to charge perceived adversaries of the Republican president. The Guardian's report described Hutchinson's 2022 testimony as particularly powerful given her proximity to power as special assistant to Mark Meadows, Trump's chief of staff, and reported that details of the prosecutors' allegations against her were not immediately clear.
+lede: A grand jury in Washington declined on Tuesday to indict Cassidy Hutchinson,
+  the former White House staffer who testified about Donald Trump's conduct during
+  the January 6 Capitol attack, according to two people familiar with the matter.
+  The people, who spoke to the Associated Press on condition of anonymity because
+  they were not authorized to publicly discuss the case, said the grand jury rejected
+  prosecutors' request to return an indictment against Hutchinson.
+nut_graf: The Associated Press described the declined indictment as the latest setback
+  in the justice department's efforts to charge perceived adversaries of the Republican
+  president. The Guardian's report described Hutchinson's 2022 testimony as particularly
+  powerful given her proximity to power as special assistant to Mark Meadows, Trump's
+  chief of staff, and reported that details of the prosecutors' allegations against
+  her were not immediately clear.
 primary_entities:
 - Cassidy Hutchinson
 - Donald Trump
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,118 +148,21 @@ cross_article_links:
   strength: 0.6244
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-09-doj-convenes-grand-jury-in-case-against-cassidy-hutchinson
-  headline: DOJ convenes grand jury in case against Cassidy Hutchinson
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.8256
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7364
-- slug: 2026-10-23-one-source-says-doj-has-not-yet-issued-subpoenas-in-the-corey-lewandowski-inquir
-  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski inquiry
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.634
-- slug: 2026-08-26-judge-rejects-bannon-conviction-dismissal-lets-government-refile-request
-  headline: Judge rejects Bannon conviction dismissal, lets government refile request
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6281
-- slug: 2026-08-27-fauci-contempt-push-stalls-as-trump-administration-questions-legal-approach
-  headline: Fauci contempt push stalls as Trump administration questions legal approach
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6234
-- slug: 2026-06-17-trump-doj-nominee-declines-to-call-jan-6-an-attack-during-confirmation-hearing
-  headline: Trump DOJ nominee declines to call Jan. 6 an 'attack' during confirmation hearing
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6995
-- slug: 2026-01-01-jack-smith-tells-house-panel-jan-6-riot-does-not-happen-without-trump
-  headline: Jack Smith tells House panel Jan. 6 riot ‘does not happen’ without Trump
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.705
-- slug: 2026-02-12-grand-jury-refuses-to-indict-lawmakers-over-military-orders-video
-  headline: Grand jury refuses to indict lawmakers over military orders video
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.691
-- slug: 2026-06-23-justice-department-withdraws-subpoenas-for-four-journalists
-  headline: Justice Department withdraws subpoenas for four journalists
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6336
-- slug: 2026-06-29-supreme-court-declines-to-disturb-5m-carroll-verdict-against-trump
-  headline: Supreme Court declines to disturb $5M Carroll verdict against Trump
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6268
-- slug: 2026-06-29-supreme-court-rejects-trump-bid-to-toss-5m-carroll-verdict
-  headline: Supreme Court rejects Trump bid to toss $5M Carroll verdict
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.621
-- slug: 2026-01-23-jack-smith-testifies-trump-caused-jan-6-and-committed-serious-crimes
-  headline: Jack Smith testifies Trump caused Jan. 6 and committed serious crimes
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6737
-- slug: 2026-01-01-federal-judge-weighs-trump-immunity-claim-in-jan-6-civil-suits
-  headline: Federal judge weighs Trump immunity claim in Jan. 6 civil suits
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6745
-- slug: 2026-06-07-trump-won-t-rule-out-anti-weaponization-fund-for-jan-6-rioters-who-attacked-poli
-  headline: Trump won't rule out 'anti-weaponization' fund for Jan. 6 rioters who attacked police
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6237
-- slug: 2026-01-06-five-years-after-jan-6-parties-hold-rival-memorials-as-official-plaque-stays-unh
-  headline: Five years after Jan. 6, parties hold rival memorials as official plaque stays unhung
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6586
-- slug: 2026-05-29-chicago-prosecutor-says-no-carroll-perjury-probe-investigation-targets-nonprofit
-  headline: Chicago prosecutor says no Carroll perjury probe; investigation targets nonprofit funder, source clarifies
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6252
-- slug: 2026-02-26-texas-grand-jury-rejects-indictments-in-fatal-shooting-by-immigration-agent
-  headline: Texas grand jury rejects indictments in fatal shooting by immigration agent
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6514
-- slug: 2026-01-13-jack-smith-to-testify-publicly-before-house-judiciary-on-trump-investigations
-  headline: Jack Smith to testify publicly before House Judiciary on Trump investigations
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6524
-- slug: 2026-05-28-chicago-prosecutor-denies-opening-investigation-into-e-jean-carroll
-  headline: Chicago prosecutor denies opening investigation into E. Jean Carroll
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6219
-- slug: 2026-05-10-man-accused-in-correspondents-dinner-attack-pleads-not-guilty
-  headline: Man accused in correspondents’ dinner attack pleads not guilty
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6274
+related_stories: []
 image:
   url: /articles/2026-10-27-grand-jury-rejects-justice-department-request-to-indict-cassidy-hutchinson.png
-  alt: "Illustration accompanying article: Grand jury rejects Justice Department request to indict Cassidy Hutchinson"
+  alt: 'Illustration accompanying article: Grand jury rejects Justice Department request
+    to indict Cassidy Hutchinson'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Grand jury rejects Justice Department request to indict Cassidy Hutchinson
 
 **Subtype:** fact

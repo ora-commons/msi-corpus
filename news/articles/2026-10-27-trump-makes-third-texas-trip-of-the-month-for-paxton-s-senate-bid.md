@@ -1,9 +1,20 @@
 ---
 headline: Trump makes third Texas trip of the month for Paxton's Senate bid
-secondary_headline: Talarico counters Trump's Texas push with attacks on corruption and affordability
+secondary_headline: Talarico counters Trump's Texas push with attacks on corruption
+  and affordability
 publish_date: '2026-10-27'
-lede: President Donald Trump campaigned in Corpus Christi on Tuesday and was scheduled to travel to Lubbock, Texas, to boost Republican U.S. Senate candidate Ken Paxton's competitive campaign against Democrat James Talarico, marking his third trip to the state in a month. Talarico was in Amarillo and was also due in Lubbock as the race entered its final stretch. The Associated Press reported that the trip was part of Trump's push to stop Democrats from notching their first statewide election victory in more than three decades in next week's midterm elections.
-nut_graf: The Texas campaign tests Trump's influence among Republican voters as Democrats field unusually competitive candidates for the U.S. Senate and governor. It also brings into focus the state's competitive Senate contest, the political influence of Elon Musk and the questions surrounding spending, wealth and political access raised by Democratic candidates.
+lede: President Donald Trump campaigned in Corpus Christi on Tuesday and was scheduled
+  to travel to Lubbock, Texas, to boost Republican U.S. Senate candidate Ken Paxton's
+  competitive campaign against Democrat James Talarico, marking his third trip to
+  the state in a month. Talarico was in Amarillo and was also due in Lubbock as the
+  race entered its final stretch. The Associated Press reported that the trip was
+  part of Trump's push to stop Democrats from notching their first statewide election
+  victory in more than three decades in next week's midterm elections.
+nut_graf: The Texas campaign tests Trump's influence among Republican voters as Democrats
+  field unusually competitive candidates for the U.S. Senate and governor. It also
+  brings into focus the state's competitive Senate contest, the political influence
+  of Elon Musk and the questions surrounding spending, wealth and political access
+  raised by Democratic candidates.
 primary_entities:
 - Donald Trump
 - Ken Paxton
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +152,8 @@ cross_article_links:
   strength: 0.7192
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8016
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7916
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7263
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7391
-- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
-  headline: Musk's Republican midterm giving exceeds $442 million
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7244
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7639
-- slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
-  headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7909
-- slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
-  headline: Musk channels $158 million in September to Senate Republican super PAC
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7437
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7322
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7267
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7273
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7885
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.765
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7287
-- slug: 2026-05-20-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-runoff
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate runoff
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7795
-- slug: 2026-05-22-paxton-spotlights-trump-s-endorsement-in-texas-senate-runoff-vs-cornyn
-  headline: Paxton spotlights Trump’s endorsement in Texas Senate runoff vs. Cornyn
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7638
-- slug: 2026-06-19-texas-senate-race-turns-into-a-battle-over-who-is-more-of-a-man
-  headline: Texas Senate Race Turns Into a Battle Over Who Is More of a Man
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7331
-- slug: 2026-06-01-texas-senate-general-election-pits-talarico-against-paxton-in-november
-  headline: Texas Senate general election pits Talarico against Paxton in November
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7425
-- slug: 2026-03-04-trump-promises-texas-senate-runoff-endorsement-as-cornyn-paxton-contest-intensif
-  headline: Trump promises Texas Senate runoff endorsement as Cornyn-Paxton contest intensifies
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7681
-- slug: 2026-05-19-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-primary
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7471
+related_stories: []
 ---
-
 ## Trump makes third Texas trip of the month for Paxton's Senate bid
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Laura Ann Aime’s bodily-fluid DNA match advanced Melissa Ann Smith’s case
 secondary_headline: Two 1974 Utah cases were linked by a matching Y-STR profile
 publish_date: '2026-10-27'
-lede: Utah law enforcement officials said bodily fluid extracted from Laura Ann Aime’s body matched Ted Bundy’s known DNA profile, supporting his account of killing her and putting the closure of Melissa Ann Smith’s 1974 homicide investigation into motion. Aime, a 17-year-old Utah girl last seen during a Halloween party, was found dead and severely beaten in late November 1974. The Y-STR profile recovered from Aime matched one recovered from Smith, and state authorities said at a Tuesday news conference that the DNA evidence made Bundy responsible for Smith’s murder.
-nut_graf: 'New DNA testing backed Bundy’s account of killing Aime: Utah law enforcement officials said bodily fluid from Aime matched his known profile, while the Y-STR profile from Aime matched one recovered from Smith. Sheriff Rosie Rivera said preserved evidence allowed investigators to examine old cases repeatedly, and officials said the Aime fluid match put the closure of Smith’s homicide investigation into motion.'
+lede: Utah law enforcement officials said bodily fluid extracted from Laura Ann Aime’s
+  body matched Ted Bundy’s known DNA profile, supporting his account of killing her
+  and putting the closure of Melissa Ann Smith’s 1974 homicide investigation into
+  motion. Aime, a 17-year-old Utah girl last seen during a Halloween party, was found
+  dead and severely beaten in late November 1974. The Y-STR profile recovered from
+  Aime matched one recovered from Smith, and state authorities said at a Tuesday news
+  conference that the DNA evidence made Bundy responsible for Smith’s murder.
+nut_graf: 'New DNA testing backed Bundy’s account of killing Aime: Utah law enforcement
+  officials said bodily fluid from Aime matched his known profile, while the Y-STR
+  profile from Aime matched one recovered from Smith. Sheriff Rosie Rivera said preserved
+  evidence allowed investigators to examine old cases repeatedly, and officials said
+  the Aime fluid match put the closure of Smith’s homicide investigation into motion.'
 primary_entities:
 - Ted Bundy
 - Laura Ann Aime
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +151,39 @@ related_stories:
   headline: DNA technology links Ted Bundy to Utah teen found dead in 1974
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8705
-- slug: 2026-10-27-retrospective-account-traces-ted-bundy-s-targeting-of-young-women-and-girls
-  headline: Retrospective account traces Ted Bundy's targeting of young women and girls
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.8289
+  strength: 0.8715
 - slug: 2026-10-27-summit-county-attorney-s-office-clears-melissa-ann-smith-s-1974-cold-case
   headline: Summit County attorney’s office clears Melissa Ann Smith’s 1974 cold case
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8287
+  strength: 0.8296
+- slug: 2026-10-27-retrospective-account-traces-ted-bundy-s-targeting-of-young-women-and-girls
+  headline: Retrospective account traces Ted Bundy's targeting of young women and
+    girls
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8293
 - slug: 2026-10-27-utah-investigators-avoid-blanket-bundy-attribution-as-dna-testing-advances
   headline: Utah investigators avoid blanket Bundy attribution as DNA testing advances
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7385
-- slug: 2026-10-20-dna-genealogy-and-ai-help-solve-a-1993-illinois-murder
-  headline: DNA genealogy and AI help solve a 1993 Illinois murder
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6458
-- slug: 2026-10-23-jury-convicts-salguero-olivares-of-murder-and-rape-in-hedgepeth-killing
-  headline: Jury convicts Salguero Olivares of murder and rape in Hedgepeth killing
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6018
-- slug: 2026-10-16-coroner-identifies-lake-mead-barrel-homicide-victim-as-edward-lelburian-jackson
-  headline: Coroner identifies Lake Mead barrel homicide victim as Edward Lelburian Jackson
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6056
-- slug: 2026-10-07-lawyer-says-pike-helped-execution-team-find-a-vein-was-kind-and-polite
-  headline: Lawyer says Pike helped execution team find a vein, was 'kind and polite'
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5962
+  strength: 0.7399
 - slug: 2026-04-02-new-dna-testing-links-laura-ann-aime-s-1974-death-to-ted-bundy
   headline: New DNA testing links Laura Ann Aime’s 1974 death to Ted Bundy
   publish_date: '2026-04-02'
   relation: related
-  strength: 0.8697
-- slug: 2026-09-29-utah-frees-carter-on-bail-after-41-years-on-death-row
-  headline: Utah frees Carter on bail after 41 years on death row
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6103
+  strength: 0.8688
 - slug: 2026-04-01-new-dna-link-boosts-ted-bundy-s-confirmed-victim-count-utah-sheriff-says
   headline: New DNA link boosts Ted Bundy’s confirmed victim count, Utah sheriff says
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.8364
-- slug: 2026-09-10-north-carolina-identifies-1977-remains-as-cindy-marcell-blizzard
-  headline: North Carolina identifies 1977 remains as Cindy Marcell Blizzard
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.607
+  strength: 0.8355
 - slug: 2026-04-02-decades-later-ted-bundy-s-victim-count-rises-with-new-dna-link
   headline: Decades later, Ted Bundy’s victim count rises with new DNA link
   publish_date: '2026-04-02'
   relation: related
-  strength: 0.7773
-- slug: 2026-08-07-mother-says-police-failures-preceded-killing-of-trafficked-houston-teen
-  headline: Mother says police failures preceded killing of trafficked Houston teen
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6083
-- slug: 2026-02-16-fbi-says-dna-glove-near-nancy-guthrie-home-matches-suspect-s-glove
-  headline: FBI says DNA glove near Nancy Guthrie home matches suspect’s glove
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.631
-- slug: 2026-02-16-fbi-says-dna-from-glove-near-guthrie-home-matches-suspect-s-glove
-  headline: FBI says DNA from glove near Guthrie home matches suspect’s glove
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6307
-- slug: 2026-01-29-dna-expert-testifies-as-jose-ibarra-seeks-new-trial-in-laken-riley-case
-  headline: DNA expert testifies as Jose Ibarra seeks new trial in Laken Riley case
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6203
-- slug: 2026-02-12-few-leads-in-nancy-guthrie-case-after-11-days-investigators-seek-tips
-  headline: Few leads in Nancy Guthrie case after 11 days; investigators seek tips
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6169
-- slug: 2026-02-19-police-in-nancy-guthrie-case-consider-dna-genealogy-database-searches
-  headline: Police in Nancy Guthrie case consider DNA genealogy database searches
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6154
-- slug: 2026-05-02-body-found-in-tampa-bay-identified-as-second-missing-usf-doctoral-student
-  headline: Body found in Tampa Bay identified as second missing USF doctoral student
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5975
+  strength: 0.7765
 ---
-
 ## Laura Ann Aime’s bodily-fluid DNA match advanced Melissa Ann Smith’s case
 
 **Subtype:** fact
