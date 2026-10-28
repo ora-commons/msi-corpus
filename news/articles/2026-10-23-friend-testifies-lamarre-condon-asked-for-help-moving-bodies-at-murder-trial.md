@@ -2,8 +2,16 @@
 headline: Friend testifies Lamarre-Condon asked for help moving bodies at murder trial
 secondary_headline: Witness describes silencer search and police-weapon test
 publish_date: '2026-10-23'
-lede: A friend whose identity is suppressed testified at the New South Wales Supreme Court that Beau Lamarre-Condon allegedly said he had killed someone and asked for help moving the bodies of Jesse Baird and Luke Davies. The friend said Lamarre-Condon made the statement at the friend's workplace on the day Baird and Davies were killed. Lamarre-Condon has pleaded not guilty to two counts of murder and one charge of aggravated break and enter.
-nut_graf: The witness account placed an alleged same-day admission, a request to move the bodies, an overseas silencer search and a police-weapon test before the jury. The defense says Baird and Davies were accidentally shot when Lamarre-Condon acted in “self-defence,” and the trial is continuing before Justice Natalie Adams.
+lede: A friend whose identity is suppressed testified at the New South Wales Supreme
+  Court that Beau Lamarre-Condon allegedly said he had killed someone and asked for
+  help moving the bodies of Jesse Baird and Luke Davies. The friend said Lamarre-Condon
+  made the statement at the friend's workplace on the day Baird and Davies were killed.
+  Lamarre-Condon has pleaded not guilty to two counts of murder and one charge of
+  aggravated break and enter.
+nut_graf: The witness account placed an alleged same-day admission, a request to move
+  the bodies, an overseas silencer search and a police-weapon test before the jury.
+  The defense says Baird and Davies were accidentally shot when Lamarre-Condon acted
+  in “self-defence,” and the trial is continuing before Justice Natalie Adams.
 primary_entities:
 - Beau Lamarre-Condon
 - Jesse Baird
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +146,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-lamarre-condon-apologizes-to-friend-in-recording-played-at-murder-trial
+  headline: Lamarre-Condon apologizes to friend in recording played at murder trial
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8428
 - slug: 2026-10-14-jury-views-3d-crime-scene-reconstruction-at-lamarre-condon-trial
   headline: Jury views 3D crime scene reconstruction at Lamarre-Condon trial
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7695
+  strength: 0.7686
 - slug: 2026-10-21-kennedy-testifies-lamarre-condon-played-taylor-swift-song-on-disposal-trip
-  headline: Kennedy testifies Lamarre-Condon played Taylor Swift song on disposal trip
+  headline: Kennedy testifies Lamarre-Condon played Taylor Swift song on disposal
+    trip
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7229
+  strength: 0.7226
 - slug: 2026-10-06-cctv-tracks-lamarre-condon-s-sydney-movements-after-alleged-murders
   headline: CCTV tracks Lamarre-Condon's Sydney movements after alleged murders
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7985
+  strength: 0.7982
 - slug: 2026-09-28-ex-officer-s-friend-testifies-he-described-disposal-plan-months-before-sydney-mu
-  headline: Ex-officer's friend testifies he described disposal plan months before Sydney murders
+  headline: Ex-officer's friend testifies he described disposal plan months before
+    Sydney murders
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8344
+  strength: 0.834
 - slug: 2026-10-08-lamarre-condon-defense-argues-body-disposal-reflected-panic-over-unexpected-deat
-  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected deaths
+  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected
+    deaths
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7676
+  strength: 0.7677
 - slug: 2026-09-25-ex-officer-faked-cancer-diagnosis-before-sydney-murders-trial-hears
   headline: Ex-officer faked cancer diagnosis before Sydney murders, trial hears
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7867
+  strength: 0.7865
 - slug: 2026-09-21-beau-lamarre-condon-murder-trial-opens-in-sydney-supreme-court
   headline: Beau Lamarre-Condon murder trial opens in Sydney Supreme Court
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7601
-- slug: 2026-10-22-body-camera-footage-shows-lauderhill-officer-at-welfare-check-in-identity-case
-  headline: Body-camera footage shows Lauderhill officer at welfare check in identity case
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.582
-- slug: 2026-09-20-ex-nsw-officer-beau-lamarre-condon-stands-trial-in-sydney-for-2024-murder
-  headline: Ex-NSW officer Beau Lamarre-Condon stands trial in Sydney for 2024 murder
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7431
-- slug: 2026-10-14-harris-county-da-weighs-aggravated-assault-charge-against-ice-officer
-  headline: Harris County DA weighs aggravated-assault charge against ICE officer
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5644
-- slug: 2026-09-28-victoria-police-apologise-over-2023-custody-death-at-broadmeadows-station
-  headline: Victoria Police apologise over 2023 custody death at Broadmeadows station
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5631
-- slug: 2026-09-08-trial-begins-in-mexico-for-accused-killers-of-australian-surfers-and-american-fr
-  headline: Trial begins in Mexico for accused killers of Australian surfers and American friend
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5893
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5889
-- slug: 2026-08-19-witness-in-tupac-murder-trial-refuses-to-identify-accused-on-stand
-  headline: Witness in Tupac murder trial refuses to identify accused on stand
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5797
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.604
-- slug: 2026-07-09-accused-kirk-killer-told-roommate-he-wished-he-hadn-t-done-it-testimony-shows
-  headline: Accused Kirk killer told roommate he wished he hadn't done it, testimony shows
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5936
-- slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5712
-- slug: 2026-04-28-prosecutors-usf-suspect-asked-chatgpt-about-disposing-of-a-body
-  headline: 'Prosecutors: USF suspect asked ChatGPT about disposing of a body'
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5897
-- slug: 2026-04-18-kansas-family-sues-over-inmate-s-death-from-alleged-deputy-pressure
-  headline: Kansas family sues over inmate's death from alleged deputy pressure
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5796
-- slug: 2026-03-07-videos-challenge-dhs-account-of-fatal-shooting-of-us-citizen-by-immigration-agen
-  headline: Videos challenge DHS account of fatal shooting of US citizen by immigration agent in Texas
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5844
+  strength: 0.7599
 ---
-
 ## Friend testifies Lamarre-Condon asked for help moving bodies at murder trial
 
 **Subtype:** fact

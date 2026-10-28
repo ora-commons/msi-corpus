@@ -1,9 +1,24 @@
 ---
-headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
+headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+  this year
 secondary_headline: Shares fell more than 7%, erasing more than $100bn in market value
 publish_date: '2026-10-22'
-lede: The BBC reported that Meta's heavy technology spending produced negative cash flow for the first time since the company went public 14 years ago, meaning Meta was spending more money than it brought in. Meta said on Wednesday it planned to spend as much as $145bn this year on AI projects, had increased the amount it expected to spend on AI in each financial quarter so far and intended to spend more in the year ahead. Meta shares fell more than 7% Thursday, erasing more than $100bn in market value, as the scale of AI spending without a clear new revenue stream appeared to unsettle investors.
-nut_graf: Meta's financial reporting also detailed an equity agreement designed to keep Zuckerberg in California, negotiated by a special committee after talks Meta described as “robust” and, at several points, “contentious.” The agreement provides additional shares for eight years while Zuckerberg remains a California resident, even if voters reject a proposed tax in November; the BBC estimated it could leave him paying around $10bn in additional state taxes. The disclosures came as Meta continued workforce reductions, shifted emphasis away from the metaverse and increased the amount it expected to spend on AI in each financial quarter so far this year.
+lede: The BBC reported that Meta's heavy technology spending produced negative cash
+  flow for the first time since the company went public 14 years ago, meaning Meta
+  was spending more money than it brought in. Meta said on Wednesday it planned to
+  spend as much as $145bn this year on AI projects, had increased the amount it expected
+  to spend on AI in each financial quarter so far and intended to spend more in the
+  year ahead. Meta shares fell more than 7% Thursday, erasing more than $100bn in
+  market value, as the scale of AI spending without a clear new revenue stream appeared
+  to unsettle investors.
+nut_graf: Meta's financial reporting also detailed an equity agreement designed to
+  keep Zuckerberg in California, negotiated by a special committee after talks Meta
+  described as “robust” and, at several points, “contentious.” The agreement provides
+  additional shares for eight years while Zuckerberg remains a California resident,
+  even if voters reject a proposed tax in November; the BBC estimated it could leave
+  him paying around $10bn in additional state taxes. The disclosures came as Meta
+  continued workforce reductions, shifted emphasis away from the metaverse and increased
+  the amount it expected to spend on AI in each financial quarter so far this year.
 primary_entities:
 - Meta
 - Mark Zuckerberg
@@ -40,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +158,48 @@ related_stories:
   headline: Meta reports 37% profit drop and 15% headcount cut
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8254
+  strength: 0.8267
+- slug: 2026-10-22-meta-plans-ai-capital-raise-as-future-spending-commitments-rise-to-roughly-825-b
+  headline: Meta plans AI capital raise as future spending commitments rise to roughly
+    $825 billion
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7783
 - slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
   headline: Zuckerberg commits to California stay for eight years under new Meta deal
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7815
+  strength: 0.7826
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7604
+- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7486
 - slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
   headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7464
+  strength: 0.7468
 - slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7335
-- slug: 2026-10-21-meta-challenges-new-mexico-s-proposed-privacy-penalty-on-constitutional-grounds
-  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
+  strength: 0.7351
+- slug: 2026-10-21-judge-finds-communications-among-meta-s-senior-executives-designed-to-mislead-pu
+  headline: Judge finds communications among Meta's senior executives designed to
+    mislead public
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6916
-- slug: 2026-10-21-new-mexico-s-meta-case-targeted-statements-that-facebook-data-was-never-shared
-  headline: New Mexico's Meta case targeted statements that Facebook data was never shared
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6809
-- slug: 2026-10-21-judge-francis-mathew-orders-meta-to-pay-new-mexico-25bn
-  headline: Judge Francis Mathew orders Meta to pay New Mexico $25bn
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6802
-- slug: 2026-09-21-meta-surges-12-as-muse-hits-no-1-on-app-store-truist-sees-28-5b-by-2030
-  headline: Meta surges 12% as Muse hits No. 1 on App Store; Truist sees $28.5B by 2030
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6721
-- slug: 2026-08-10-zuckerberg-sets-out-meta-s-ai-plans-in-a-6-500-word-essay
-  headline: Zuckerberg sets out Meta's AI plans in a 6,500-word essay
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7226
-- slug: 2026-08-28-meta-announces-18bn-settlement-with-new-teen-limits-on-instagram-facebook
-  headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6755
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.772
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6941
-- slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-23-alphabet-posts-negative-free-cash-flow-as-ai-capex-heads-to-205bn
-  headline: Alphabet posts negative free cash flow as AI capex heads to $205bn
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7448
-- slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
-  headline: Meta faces lawsuits over teen safety as it pushes into AI
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7261
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6835
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7894
-- slug: 2026-08-11-zuckerberg-calls-open-weight-models-open-source-ai-in-6-500-word-essay
-  headline: Zuckerberg calls open-weight models 'open source AI' in 6,500-word essay
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6773
-- slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
-  headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7375
-- slug: 2026-07-13-meta-expands-louisiana-data-center-to-50-billion-5-gigawatts
-  headline: Meta expands Louisiana data center to $50 billion, 5 gigawatts
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6786
+  strength: 0.7137
 ---
-
 ## Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
 
 **Subtype:** fact

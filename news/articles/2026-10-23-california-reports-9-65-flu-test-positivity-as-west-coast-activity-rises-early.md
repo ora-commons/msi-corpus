@@ -1,9 +1,22 @@
 ---
-headline: California reports 9.65% flu test positivity as West Coast activity rises early
-secondary_headline: Utah recorded 242 influenza A cases by October 11, up from 10 last year
+headline: California reports 9.65% flu test positivity as West Coast activity rises
+  early
+secondary_headline: Utah recorded 242 influenza A cases by October 11, up from 10
+  last year
 publish_date: '2026-10-23'
-lede: California's flu test positivity reached 9.65% as of October 10, compared with slightly above 1% in early October during the past two flu seasons, state health department data showed. Utah had recorded 242 influenza A cases as of October 11, up from 10 at the same point last year, while parts of central Oregon also saw an influenza A surge. The Guardian reported that flu cases on the US West Coast are rising months earlier than normal, prompting US health experts to stress the importance of the annual vaccine.
-nut_graf: US health experts stressed the importance of the annual vaccine; University of Pennsylvania microbiologist Scott Hensley said it was probably a good idea to vaccinate early. The American Medical Association recommends flu shots for everyone six months and older and says vaccines can reduce severe illness and hospitalization. The Guardian reported that promotion of flu shots has been reduced under US health secretary Robert F Kennedy Jr.
+lede: California's flu test positivity reached 9.65% as of October 10, compared with
+  slightly above 1% in early October during the past two flu seasons, state health
+  department data showed. Utah had recorded 242 influenza A cases as of October 11,
+  up from 10 at the same point last year, while parts of central Oregon also saw an
+  influenza A surge. The Guardian reported that flu cases on the US West Coast are
+  rising months earlier than normal, prompting US health experts to stress the importance
+  of the annual vaccine.
+nut_graf: US health experts stressed the importance of the annual vaccine; University
+  of Pennsylvania microbiologist Scott Hensley said it was probably a good idea to
+  vaccinate early. The American Medical Association recommends flu shots for everyone
+  six months and older and says vaccines can reduce severe illness and hospitalization.
+  The Guardian reported that promotion of flu shots has been reduced under US health
+  secretary Robert F Kennedy Jr.
 primary_entities:
 - The Guardian
 - Reuters
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +160,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-11-american-academy-of-pediatrics-calls-for-ban-on-raw-milk-sales
-  headline: American Academy of Pediatrics calls for ban on raw milk sales
-  publish_date: '2026-10-11'
+- slug: 2026-10-25-first-study-finds-mrna-flu-vaccine-about-27-more-effective-than-standard-dose
+  headline: First study finds mRNA flu vaccine about 27% more effective than standard-dose
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6145
-- slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
-  headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6137
-- slug: 2026-10-03-southern-california-enters-week-long-heatwave-with-temperatures-near-100f
-  headline: Southern California enters week-long heatwave with temperatures near 100F
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6263
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.643
-- slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
-  headline: Local officials mount vaccine push as US measles deaths rise
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6274
-- slug: 2026-09-02-four-medical-groups-issue-vaccine-guidance-as-federal-process-remains-frozen
-  headline: Four medical groups issue vaccine guidance as federal process remains frozen
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6182
+  strength: 0.7055
 - slug: 2026-08-14-summer-covid-19-wave-grows-across-us-experts-say
   headline: Summer COVID-19 wave grows across US, experts say
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6563
+  strength: 0.6566
 - slug: 2026-01-06-flu-season-rivals-last-winter-s-epidemic-as-subclade-k-drives-holiday-surge
-  headline: Flu season rivals last winter's epidemic as subclade K drives holiday surge
+  headline: Flu season rivals last winter's epidemic as subclade K drives holiday
+    surge
   publish_date: '2026-01-06'
   relation: related
-  strength: 0.7614
+  strength: 0.7612
 - slug: 2026-01-09-us-flu-activity-dips-slightly-as-health-officials-warn-severe-season-has-not-pea
-  headline: US flu activity dips slightly as health officials warn severe season has not peaked
+  headline: US flu activity dips slightly as health officials warn severe season has
+    not peaked
   publish_date: '2026-01-09'
   relation: related
   strength: 0.7478
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6256
-- slug: 2026-08-06-fda-approves-mflusiva-moderna-s-mrna-flu-vaccine-for-older-adults
-  headline: FDA approves mFlusiva, Moderna’s mRNA flu vaccine for older adults
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6161
 - slug: 2026-01-16-us-flu-activity-falls-for-second-week-but-experts-warn-season-is-not-over
-  headline: US flu activity falls for second week, but experts warn season is not over
+  headline: US flu activity falls for second week, but experts warn season is not
+    over
   publish_date: '2026-01-16'
   relation: related
-  strength: 0.7234
+  strength: 0.7232
 - slug: 2026-03-15-flu-vaccine-effectiveness-drops-as-cdc-points-to-subclade-k-mismatch
   headline: Flu vaccine effectiveness drops as CDC points to subclade K mismatch
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7098
-- slug: 2026-06-29-pentagon-faces-vaccine-deadline-as-boot-camp-flu-outbreak-widens
-  headline: Pentagon faces vaccine deadline as boot camp flu outbreak widens
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6444
+  strength: 0.7091
 - slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
   headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6515
-- slug: 2026-06-25-pentagon-restores-mandatory-flu-shots-for-recruits-amid-boot-camp-outbreak
-  headline: Pentagon restores mandatory flu shots for recruits amid boot camp outbreak
-  publish_date: '2026-06-25'
+  strength: 0.6506
+- slug: 2026-01-05-hhs-narrows-childhood-vaccine-schedule-to-11-diseases-medical-groups-warn-of-pre
+  headline: HHS narrows childhood vaccine schedule to 11 diseases; medical groups
+    warn of preventable deaths
+  publish_date: '2026-01-05'
   relation: related
-  strength: 0.6241
-- slug: 2026-06-10-us-measles-cases-top-2-000-as-outbreak-approaches-worst-in-decades
-  headline: US measles cases top 2,000 as outbreak approaches worst in decades
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6243
-- slug: 2026-06-18-flu-outbreak-sickens-nearly-160-at-air-force-base-after-hegseth-ends-mandatory-v
-  headline: Flu outbreak sickens nearly 160 at Air Force base after Hegseth ends mandatory vaccine
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6164
-- slug: 2026-05-30-trump-orders-agencies-to-adopt-hhs-study-recommending-narrower-childhood-vaccine
-  headline: Trump orders agencies to adopt HHS study recommending narrower childhood vaccine schedule
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.626
-- slug: 2026-06-03-measles-surge-in-americas-threatens-world-cup-travel-with-20-000-cases-25-deaths
-  headline: Measles surge in Americas threatens World Cup travel with 20,000 cases, 25 deaths
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.616
+  strength: 0.6525
 ---
-
 ## California reports 9.65% flu test positivity as West Coast activity rises early
 
 **Subtype:** fact

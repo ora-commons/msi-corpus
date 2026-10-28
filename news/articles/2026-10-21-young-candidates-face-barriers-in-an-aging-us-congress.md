@@ -1,9 +1,24 @@
 ---
 headline: Young candidates face barriers in an aging US Congress
-secondary_headline: Federal records show a wide fundraising gap in Utah's congressional race
+secondary_headline: Federal records show a wide fundraising gap in Utah's congressional
+  race
 publish_date: '2026-10-21'
-lede: Young candidates are entering a United States political system whose House and Senate averaged 58 and 65 years old, respectively, at the start of the current Congress, while the median U.S. citizen is 39, according to Pew Research Center analysis. Riley Owen, a 27-year-old Republican running for Congress in Utah, is one of the few Gen Z candidates from either party running on 3 November; his opponent Ben McAdams had raised over $2.6m by mid-October, compared with $150,000 for Owen, according to Federal Election Commission records.
-nut_graf: 'Several overlapping explanations shape who enters US politics: research cited in the report suggests donors tend to prefer incumbents, Pew found voters under 30 were underrepresented in the 2024 vote, and academics cited by the BBC report, including James Sloam, point to congressional minimum-age rules, a two-party system that represents a relatively narrow range of views, and disaffection among young people as reasons for the shortage. Younger candidates also confront questions about experience, family responsibilities and resources, and the account distinguishes age from competence, citing older lawmakers who remain capable and younger political figures who have entered office.'
+lede: Young candidates are entering a United States political system whose House and
+  Senate averaged 58 and 65 years old, respectively, at the start of the current Congress,
+  while the median U.S. citizen is 39, according to Pew Research Center analysis.
+  Riley Owen, a 27-year-old Republican running for Congress in Utah, is one of the
+  few Gen Z candidates from either party running on 3 November; his opponent Ben McAdams
+  had raised over $2.6m by mid-October, compared with $150,000 for Owen, according
+  to Federal Election Commission records.
+nut_graf: 'Several overlapping explanations shape who enters US politics: research
+  cited in the report suggests donors tend to prefer incumbents, Pew found voters
+  under 30 were underrepresented in the 2024 vote, and academics cited by the BBC
+  report, including James Sloam, point to congressional minimum-age rules, a two-party
+  system that represents a relatively narrow range of views, and disaffection among
+  young people as reasons for the shortage. Younger candidates also confront questions
+  about experience, family responsibilities and resources, and the account distinguishes
+  age from competence, citing older lawmakers who remain capable and younger political
+  figures who have entered office.'
 primary_entities:
 - United States
 - Riley Owen
@@ -46,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +160,45 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-18-brooks-leads-mackenzie-45-to-40-in-pennsylvania-7th-district-poll
-  headline: Brooks leads Mackenzie 45% to 40% in Pennsylvania 7th District poll
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6332
 - slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
   headline: Young voters under 30 become key 2026 midterm target for both parties
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6579
-- slug: 2026-10-13-173-independent-house-candidates-test-the-size-of-america-s-political-middle
-  headline: 173 independent House candidates test the size of America's political middle
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6318
-- slug: 2026-10-12-seven-midterm-candidates-present-economic-plans-in-wsj-video
-  headline: Seven midterm candidates present economic plans in WSJ video
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6213
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6358
-- slug: 2026-09-19-dozens-of-democrats-with-union-backgrounds-run-in-2026-midterm-races
-  headline: Dozens of Democrats with union backgrounds run in 2026 midterm races
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6226
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.623
+  strength: 0.6587
 - slug: 2026-06-23-generational-clash-pits-democrats-against-democrats-in-primaries-across-u-s
-  headline: Generational clash pits Democrats against Democrats in primaries across U.S.
+  headline: Generational clash pits Democrats against Democrats in primaries across
+    U.S.
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6725
+  strength: 0.6732
 - slug: 2026-06-21-millions-of-18-year-olds-go-unregistered-to-vote-each-year-analysis-finds
   headline: Millions of 18-year-olds go unregistered to vote each year, analysis finds
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6679
+  strength: 0.6687
 - slug: 2026-02-03-young-democrats-challenge-longtime-incumbents-seeking-a-new-generation-in-congre
-  headline: Young Democrats challenge longtime incumbents, seeking a new generation in Congress
+  headline: Young Democrats challenge longtime incumbents, seeking a new generation
+    in Congress
   publish_date: '2026-02-03'
   relation: related
-  strength: 0.7121
+  strength: 0.7129
 - slug: 2026-03-30-utah-democrats-shift-left-in-new-house-district-after-redistricting
   headline: Utah Democrats shift left in new House district after redistricting
   publish_date: '2026-03-30'
   relation: related
-  strength: 0.7025
+  strength: 0.7027
 - slug: 2026-03-31-utah-democrats-shift-left-after-redistricting-makes-house-seat-winnable
   headline: Utah Democrats shift left after redistricting makes House seat winnable
   publish_date: '2026-03-31'
   relation: related
-  strength: 0.6911
-- slug: 2026-06-07-rahm-emanuel-bikes-across-new-hampshire-pitches-age-limit-plan-for-2028
-  headline: Rahm Emanuel bikes across New Hampshire, pitches age-limit plan for 2028
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6254
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6288
-- slug: 2026-06-01-courtney-e-martin-outlines-policy-paths-for-u-s-elder-care-crisis-as-baby-boomer
-  headline: Courtney E. Martin outlines policy paths for U.S. elder care crisis as baby boomers age
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6211
-- slug: 2026-05-23-most-of-maine-s-county-commissioners-are-aging-with-younger-challengers
-  headline: Most of Maine’s county commissioners are aging, with younger challengers
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6231
-- slug: 2026-05-10-young-americans-job-market-optimism-drops-sharply-new-gallup-poll-finds
-  headline: Young Americans’ job-market optimism drops sharply, new Gallup poll finds
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6277
-- slug: 2026-04-30-janet-mills-faces-graham-platner-in-maine-democratic-senate-primary
-  headline: Janet Mills faces Graham Platner in Maine Democratic Senate primary
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6306
-- slug: 2026-03-29-vermont-teen-dean-roy-seeks-first-general-election-governor-ballot-under-18
-  headline: Vermont teen Dean Roy seeks first general election governor ballot under 18
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6399
+  strength: 0.6913
 - slug: 2026-01-12-gallup-45-of-americans-now-identify-as-independents-as-gen-z-leads-shift
-  headline: 'Gallup: 45% of Americans now identify as independents as Gen Z leads shift'
+  headline: 'Gallup: 45% of Americans now identify as independents as Gen Z leads
+    shift'
   publish_date: '2026-01-12'
   relation: related
-  strength: 0.6489
+  strength: 0.6503
 ---
-
 ## Young candidates face barriers in an aging US Congress
 
 **Subtype:** fact

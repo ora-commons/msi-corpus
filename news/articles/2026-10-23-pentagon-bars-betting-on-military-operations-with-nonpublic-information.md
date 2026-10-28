@@ -2,8 +2,16 @@
 headline: Pentagon bars betting on military operations with nonpublic information
 secondary_headline: The memo sets a broad personnel and platform prohibition
 publish_date: '2026-10-23'
-lede: Defense Secretary Pete Hegseth has banned all Pentagon personnel from using classified or unclassified nonpublic information to bet on U.S. military operations. According to a three-paragraph memo dated Tuesday and obtained by CBS News, the restriction covers all financial platforms, including Polymarket and Kalshi, and carries the threat of administrative, disciplinary and possibly criminal action.
-nut_graf: The directive combines a security rationale with concerns about warped judgment and distraction from the Pentagon's mission. Hegseth said hostile foreign intelligence services could exploit signals from financial transactions on military outcomes, while federal prosecutors allege Gannon Ken Van Dyke profited $409,881 from bets concerning the Jan. 3 military operation.
+lede: Defense Secretary Pete Hegseth has banned all Pentagon personnel from using
+  classified or unclassified nonpublic information to bet on U.S. military operations.
+  According to a three-paragraph memo dated Tuesday and obtained by CBS News, the
+  restriction covers all financial platforms, including Polymarket and Kalshi, and
+  carries the threat of administrative, disciplinary and possibly criminal action.
+nut_graf: The directive combines a security rationale with concerns about warped judgment
+  and distraction from the Pentagon's mission. Hegseth said hostile foreign intelligence
+  services could exploit signals from financial transactions on military outcomes,
+  while federal prosecutors allege Gannon Ken Van Dyke profited $409,881 from bets
+  concerning the Jan. 3 military operation.
 primary_entities:
 - Pete Hegseth
 - Pentagon
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,18 +148,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-11-courts-confront-betting-markets-that-let-users-wager-on-jury-outcomes
-  headline: Courts confront betting markets that let users wager on jury outcomes
-  publish_date: '2026-10-11'
+- slug: 2026-10-22-hegseth-bars-department-personnel-from-bets-informed-by-nonpublic-information
+  headline: Hegseth bars Department personnel from bets informed by nonpublic information
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6493
+  strength: 0.913
+- slug: 2026-10-27-polymarket-election-betting-probes-reportedly-yield-at-least-two-cftc-referrals
+  headline: Polymarket election-betting probes reportedly yield at least two CFTC
+    referrals
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.664
 - slug: 2026-10-03-fca-engages-peers-over-polymarket-bank-failure-bets
   headline: FCA engages peers over Polymarket bank-failure bets
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6635
+  strength: 0.6638
 - slug: 2026-09-11-bubblemaps-finds-19-polymarket-accounts-won-98-of-bets-on-kpmg-audited-firms
-  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited firms
+  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited
+    firms
   publish_date: '2026-09-11'
   relation: related
   strength: 0.6672
@@ -158,98 +174,36 @@ related_stories:
   headline: Perez surrenders $107,000, accepts three-year Kalshi ban in CFTC settlement
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.6774
+  strength: 0.677
 - slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
   headline: White House probe finds it can't track staff bets on prediction markets
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7394
+  strength: 0.7392
 - slug: 2026-04-24-feds-charge-soldier-with-using-intel-to-win-400k-bet-on-maduro-raid
   headline: Feds charge soldier with using intel to win $400K bet on Maduro raid
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.7972
-- slug: 2026-08-13-cftc-probes-kalshi-mention-markets-after-white-house-teleprompter-bets
-  headline: CFTC probes Kalshi 'mention markets' after White House teleprompter bets
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6429
+  strength: 0.7971
 - slug: 2026-04-29-u-s-soldier-charged-with-using-intel-to-win-400k-on-maduro-raid
   headline: U.S. soldier charged with using intel to win $400K on Maduro raid
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.7384
-- slug: 2026-04-11-polymarket-flagged-a-classified-info-trade-as-the-maduro-raid-bet-led-to-a-400-0
-  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led to a $400,000 win
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.743
-- slug: 2026-07-16-white-house-teleprompter-operator-made-nearly-100k-betting-on-trump-s-words
-  headline: White House teleprompter operator made nearly $100K betting on Trump's words
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6612
-- slug: 2026-04-27-prediction-markets-face-tighter-scrutiny-as-officials-target-insider-trading
-  headline: Prediction markets face tighter scrutiny as officials target insider trading
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7212
-- slug: 2026-04-25-u-s-soldier-charged-in-polymarket-trades-tied-to-maduro-raid
-  headline: U.S. soldier charged in Polymarket trades tied to Maduro raid
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7206
-- slug: 2026-07-17-white-house-teleprompter-operator-bet-on-trump-speech-topics-leavitt-says
-  headline: White House teleprompter operator bet on Trump speech topics, Leavitt says
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-01-senate-bans-its-members-and-staff-from-betting-in-prediction-markets
-  headline: Senate bans its members and staff from betting in prediction markets
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7021
-- slug: 2026-04-17-washington-tightens-scrutiny-of-prediction-markets-over-geopolitical-betting
-  headline: Washington tightens scrutiny of prediction markets over geopolitical betting
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6858
-- slug: 2026-04-11-lawmakers-seek-investigations-into-well-timed-polymarket-bets-on-iran-ceasefire
-  headline: Lawmakers seek investigations into well-timed Polymarket bets on Iran ceasefire
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6869
-- slug: 2026-01-11-anonymous-polymarket-trader-pockets-400-000-on-maduro-bet-raising-insider-tradin
-  headline: Anonymous Polymarket trader pockets $400,000 on Maduro bet, raising insider trading questions
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6926
-- slug: 2026-05-28-us-prosecutors-charge-google-engineer-with-insider-trading-on-polymarket
-  headline: US prosecutors charge Google engineer with insider trading on Polymarket
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6478
-- slug: 2026-04-23-kalshi-fines-and-suspends-three-congressional-candidates-for-self-betting
-  headline: Kalshi fines and suspends three congressional candidates for self-betting
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6623
-- slug: 2026-03-24-kalshi-and-polymarket-ban-insider-trading-by-politicians-and-athletes
-  headline: Kalshi and Polymarket ban insider trading by politicians and athletes
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6697
+  strength: 0.7382
 image:
   url: /articles/2026-10-23-pentagon-bars-betting-on-military-operations-with-nonpublic-information.png
-  alt: "Illustration accompanying article: Pentagon bars betting on military operations with nonpublic information"
+  alt: 'Illustration accompanying article: Pentagon bars betting on military operations
+    with nonpublic information'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Pentagon bars betting on military operations with nonpublic information
 
 **Subtype:** fact

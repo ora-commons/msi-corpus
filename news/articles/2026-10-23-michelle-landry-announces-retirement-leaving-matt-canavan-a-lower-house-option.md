@@ -1,9 +1,19 @@
 ---
-headline: Michelle Landry announces retirement, leaving Matt Canavan a lower-house option
-secondary_headline: Samaras says One Nation surge could put Canavan's Senate seat at risk
+headline: Michelle Landry announces retirement, leaving Matt Canavan a lower-house
+  option
+secondary_headline: Samaras says One Nation surge could put Canavan's Senate seat
+  at risk
 publish_date: '2026-10-23'
-lede: Nationals leader Matt Canavan did not rule out a move to the House of Representatives after Queensland MP Michelle Landry announced that she would not contest Capricornia at the next election. At a Friday press conference with Landry, Canavan did not rule out the move, while Redbridge polling director Kos Samaras said One Nation's surge, if unchanged, could leave Canavan with a “zero per cent” chance of holding his Senate seat.
-nut_graf: The retirement raises questions about the Nationals' lower-house strategy and the Coalition's Senate representation as Redbridge polling director Kos Samaras describes a One Nation polling rise. Canavan has said he would seek another lower-house seat if required to keep one, but Landry declined to name a replacement.
+lede: Nationals leader Matt Canavan did not rule out a move to the House of Representatives
+  after Queensland MP Michelle Landry announced that she would not contest Capricornia
+  at the next election. At a Friday press conference with Landry, Canavan did not
+  rule out the move, while Redbridge polling director Kos Samaras said One Nation's
+  surge, if unchanged, could leave Canavan with a “zero per cent” chance of holding
+  his Senate seat.
+nut_graf: The retirement raises questions about the Nationals' lower-house strategy
+  and the Coalition's Senate representation as Redbridge polling director Kos Samaras
+  describes a One Nation polling rise. Canavan has said he would seek another lower-house
+  seat if required to keep one, but Landry declined to name a replacement.
 primary_entities:
 - Matt Canavan
 - Michelle Landry
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +154,8 @@ cross_article_links:
   strength: 0.5675
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-11-coalition-and-one-nation-leave-cpac-without-plan-to-defeat-labor
-  headline: Coalition and One Nation leave CPAC without plan to defeat Labor
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6362
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5952
-- slug: 2026-09-15-lambie-denounces-hanson-as-dangerous-likens-her-to-trump
-  headline: Lambie denounces Hanson as 'dangerous,' likens her to Trump
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6045
-- slug: 2026-09-14-one-nation-abandons-gas-reservation-support-critics-cite-rinehart-donor-ties
-  headline: One Nation abandons gas reservation support; critics cite Rinehart donor ties
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6045
-- slug: 2026-09-14-one-nation-announces-policy-to-cut-750-000-temporary-visas-over-three-years
-  headline: One Nation announces policy to cut 750,000 temporary visas over three years
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6018
-- slug: 2026-09-14-mcconnell-had-2023-concussion-fall-2024-fall-and-2023-stare-episode
-  headline: McConnell had 2023 concussion fall, 2024 fall, and 2023 stare episode
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5933
-- slug: 2026-09-14-australian-senators-condemn-hanson-s-primitive-race-comments
-  headline: Australian senators condemn Hanson's 'primitive race' comments
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.585
-- slug: 2026-08-18-sexual-misconduct-probes-mount-against-house-members-ahead-of-midterms
-  headline: Sexual misconduct probes mount against House members ahead of midterms
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5955
-- slug: 2026-08-07-lawmakers-urge-stricter-ethics-enforcement-amid-scandals
-  headline: Lawmakers urge stricter ethics enforcement amid scandals
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5853
-- slug: 2026-08-04-six-gop-senators-publicly-back-bernie-moreno-in-miller-abuse-dispute
-  headline: Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5822
-- slug: 2026-07-14-maine-democrats-to-pick-senate-nominee-at-july-25-convention-after-platner-s-exi
-  headline: Maine Democrats to pick Senate nominee at July 25 convention after Platner's exit
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5948
-- slug: 2026-07-07-platner-faces-mounting-calls-to-withdraw-from-maine-senate-race-after-assault-al
-  headline: Platner faces mounting calls to withdraw from Maine Senate race after assault allegation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5981
-- slug: 2026-07-09-platner-suspends-maine-senate-campaign-after-assault-allegation
-  headline: Platner suspends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5956
-- slug: 2026-07-08-sanders-urges-platner-to-drop-maine-senate-bid-after-assault-allegation
-  headline: Sanders urges Platner to drop Maine Senate bid after assault allegation
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.59
-- slug: 2026-07-11-mcconnell-absent-for-nearly-a-month-as-senate-returns-monday
-  headline: McConnell absent for nearly a month as Senate returns Monday
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5858
-- slug: 2026-06-10-maine-women-torn-between-collins-and-platner-in-senate-race
-  headline: Maine Women Torn Between Collins and Platner in Senate Race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6094
-- slug: 2026-05-23-dnc-faces-fresh-turmoil-as-ken-martin-confronts-calls-to-resign
-  headline: DNC faces fresh turmoil as Ken Martin confronts calls to resign
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6081
-- slug: 2026-05-22-dnc-faces-fresh-turmoil-as-ken-martin-confronts-calls-to-resign
-  headline: DNC faces fresh turmoil as Ken Martin confronts calls to resign
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6078
-- slug: 2026-05-22-dnc-chair-ken-martin-faces-calls-to-resign-as-autopsy-fallout-roils-party
-  headline: DNC chair Ken Martin faces calls to resign as autopsy fallout roils party
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5959
-- slug: 2025-12-29-house-retirements-and-departures-set-churn-ahead-of-2026-midterms
-  headline: House retirements and departures set churn ahead of 2026 midterms
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6099
+related_stories: []
 ---
-
 ## Michelle Landry announces retirement, leaving Matt Canavan a lower-house option
 
 **Subtype:** fact

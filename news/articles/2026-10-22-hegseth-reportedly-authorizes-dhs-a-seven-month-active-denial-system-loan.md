@@ -1,9 +1,17 @@
 ---
 headline: Hegseth reportedly authorizes DHS a seven-month Active Denial System loan
-secondary_headline: DHS would take sole responsibility; Defense Department personnel could not operate it
+secondary_headline: DHS would take sole responsibility; Defense Department personnel
+  could not operate it
 publish_date: '2026-10-22'
-lede: Defense Secretary Pete Hegseth reportedly signed a memo last month, according to The Guardian's October 22 report, permitting DHS to test the Pentagon's non-lethal Active Denial System for potential use at the U.S.-Mexico border. The memo also authorized a seven-month temporary loan beginning in September and allowed DHS to request further use.
-nut_graf: The authorization makes DHS responsible for the system while barring Defense Department personnel from operating it, and the report said DHS's specific mission remained unclear. The system is described as non-lethal and produces a temporary skin-burning sensation, but the memo does not announce a border deployment.
+lede: Defense Secretary Pete Hegseth reportedly signed a memo last month, according
+  to The Guardian's October 22 report, permitting DHS to test the Pentagon's non-lethal
+  Active Denial System for potential use at the U.S.-Mexico border. The memo also
+  authorized a seven-month temporary loan beginning in September and allowed DHS to
+  request further use.
+nut_graf: The authorization makes DHS responsible for the system while barring Defense
+  Department personnel from operating it, and the report said DHS's specific mission
+  remained unclear. The system is described as non-lethal and produces a temporary
+  skin-burning sensation, but the memo does not announce a border deployment.
 primary_entities:
 - Pete Hegseth
 - Department of Homeland Security
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,59 +159,25 @@ related_stories:
   headline: Guardian newsletter pairs Hegseth livestream with Trump Iran pause
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6619
-- slug: 2026-10-08-hegseth-says-hasan-execution-at-1-p-m-around-2009-attack-time
-  headline: Hegseth says Hasan execution at 1 p.m., around 2009 attack time
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6403
+  strength: 0.6614
 - slug: 2026-09-30-hegseth-establishes-combatant-command-for-autonomous-warfare
   headline: Hegseth establishes combatant command for autonomous warfare
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6602
-- slug: 2026-10-02-hegseth-orders-one-day-military-stand-down-for-october-voting
-  headline: Hegseth orders one-day military stand-down for October voting
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6421
+  strength: 0.659
 - slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
   headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6505
-- slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
-  headline: Hegseth attacks press, doubles general-officer cut at Quantico
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6386
-- slug: 2026-09-18-pentagon-mandates-testosterone-screening-for-service-members-over-30
-  headline: Pentagon mandates testosterone screening for service members over 30
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6461
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6341
-- slug: 2026-09-15-pentagon-sets-physical-standards-for-hegseth-s-september-speech
-  headline: Pentagon sets physical standards for Hegseth's September speech
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6418
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6406
+  strength: 0.6513
 - slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
   headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6549
+  strength: 0.6544
 - slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
+  headline: Pentagon says Hegseth regularly receives formal military objections on
+    Iran
   publish_date: '2026-08-31'
   relation: related
   strength: 0.6699
@@ -210,44 +185,19 @@ related_stories:
   headline: Hegseth orders testosterone screening for troops 30 and older
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6964
-- slug: 2026-08-15-senate-democrats-seek-answers-from-hegseth-on-conditions-aboard-lincoln
-  headline: Senate Democrats seek answers from Hegseth on conditions aboard Lincoln
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6357
+  strength: 0.696
 - slug: 2026-07-14-hegseth-tells-military-to-ban-beards-long-hair-superficial-individual-expression
-  headline: Hegseth tells military to ban beards, long hair, ’superficial individual expression’
+  headline: Hegseth tells military to ban beards, long hair, ’superficial individual
+    expression’
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6744
-- slug: 2026-07-24-junger-questions-hegseth-testosterone-plan-s-focus-on-combat-readiness
-  headline: Junger questions Hegseth testosterone plan's focus on combat readiness
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6463
-- slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6419
+  strength: 0.6749
 - slug: 2026-04-03-hegseth-says-troops-could-carry-personal-guns-on-u-s-military-bases
   headline: Hegseth says troops could carry personal guns on U.S. military bases
   publish_date: '2026-04-03'
   relation: related
-  strength: 0.6963
-- slug: 2026-06-10-hegseth-warns-cuba-against-acquiring-weapons-in-guant-namo-bay-visit
-  headline: Hegseth warns Cuba against acquiring weapons in Guantánamo Bay visit
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6497
-- slug: 2026-06-10-pentagon-held-far-fewer-briefings-during-iran-war-review-finds
-  headline: Pentagon held far fewer briefings during Iran war, review finds
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6337
+  strength: 0.6971
 ---
-
 ## Hegseth reportedly authorizes DHS a seven-month Active Denial System loan
 
 **Subtype:** fact

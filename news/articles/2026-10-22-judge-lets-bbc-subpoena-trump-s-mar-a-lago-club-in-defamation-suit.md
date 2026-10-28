@@ -1,9 +1,19 @@
 ---
 headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
-secondary_headline: Lett rejects Trump's attorneys' claim that the club is separate from presidency
+secondary_headline: Lett rejects Trump's attorneys' claim that the club is separate
+  from presidency
 publish_date: '2026-10-22'
-lede: On Thursday, Magistrate Judge Enjoliqué Lett allowed the BBC's subpoena of President Donald Trump's Mar-a-Lago Club to proceed, overruling Trump's attorneys' claim that the business is separate from his job as president. The ruling was part of Lett's order in Trump's $10 billion defamation lawsuit against the British public broadcaster. In the same order, Lett said Trump must sit for a deposition by Dec. 11 or the case may be dismissed.
-nut_graf: Lett's decision permits the BBC's Mar-a-Lago Club subpoena to proceed despite the claim that the club is separate from the presidency. The same order requires Trump to testify by Dec. 11, rejects a request to bar videotaping, gives his attorneys 30 days to turn over relevant documents and identifies Dec. 18 as the discovery deadline.
+lede: On Thursday, Magistrate Judge Enjoliqué Lett allowed the BBC's subpoena of President
+  Donald Trump's Mar-a-Lago Club to proceed, overruling Trump's attorneys' claim that
+  the business is separate from his job as president. The ruling was part of Lett's
+  order in Trump's $10 billion defamation lawsuit against the British public broadcaster.
+  In the same order, Lett said Trump must sit for a deposition by Dec. 11 or the case
+  may be dismissed.
+nut_graf: Lett's decision permits the BBC's Mar-a-Lago Club subpoena to proceed despite
+  the claim that the club is separate from the presidency. The same order requires
+  Trump to testify by Dec. 11, rejects a request to bar videotaping, gives his attorneys
+  30 days to turn over relevant documents and identifies Dec. 18 as the discovery
+  deadline.
 primary_entities:
 - Donald Trump
 - BBC
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,117 +146,61 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
+  headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.849
 - slug: 2026-10-22-trump-must-depose-by-dec-11-in-suit-against-bbc-or-face-possible-sanctions
   headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8457
+  strength: 0.8472
+- slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8324
 - slug: 2026-10-22-trump-s-lawyers-offer-january-deposition-dates-bbc-seeks-lawsuit-dismissal
   headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8317
+  strength: 0.8318
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8224
+  strength: 0.8227
 - slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
   headline: Judge blocks Trump from enforcing White House press ban on three outlets
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6525
-- slug: 2026-10-15-federal-judge-extends-block-on-trump-government-funded-ads-through-november-8
-  headline: Federal judge extends block on Trump government-funded ads through November 8
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6386
+  strength: 0.6533
 - slug: 2026-10-08-judge-extends-press-reprieve-for-cnn-ms-now-politico-through-tuesday
   headline: Judge extends press reprieve for CNN, MS Now, Politico through Tuesday
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6519
+  strength: 0.652
 - slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
   headline: Trump asks judge to block BBC subpoenas to his family members
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7768
-- slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
-  headline: Trump attorneys ask court to pause BBC access to financial records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7869
-- slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
-  headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.638
-- slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
-  headline: DoJ tells court White House press access is a privilege, not a right
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6329
-- slug: 2026-09-22-wednesday-hearing-set-in-press-lawsuit-as-gop-allies-urge-trump-to-focus-on-vote
-  headline: Wednesday hearing set in press lawsuit as GOP allies urge Trump to focus on voters
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6353
-- slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6367
-- slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
-  headline: Judge orders Trump to release financial records in BBC defamation case
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7832
-- slug: 2026-08-17-carroll-verdict-against-trump-stands-as-high-court-turns-down-second-appeal
-  headline: Carroll verdict against Trump stands as high court turns down second appeal
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6502
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7755
-- slug: 2026-07-08-judge-throws-out-trump-media-s-3-8b-suit-against-washington-post
-  headline: Judge throws out Trump Media's $3.8B suit against Washington Post
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6685
-- slug: 2026-07-06-judge-denies-trump-bid-to-delay-5-8m-judgment-to-e-jean-carroll
-  headline: Judge denies Trump bid to delay $5.8M judgment to E Jean Carroll
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6621
-- slug: 2026-05-14-trump-gets-delay-on-83m-defamation-payment-to-e-jean-carroll
-  headline: Trump gets delay on $83M defamation payment to E. Jean Carroll
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6515
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.648
-- slug: 2026-05-14-trump-s-83m-defamation-award-to-e-jean-carroll-delayed-by-appeals-court
-  headline: Trump’s $83M defamation award to E. Jean Carroll delayed by appeals court
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6404
+  strength: 0.7769
 image:
   url: /articles/2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit.png
-  alt: "Illustration accompanying article: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit"
+  alt: 'Illustration accompanying article: Judge lets BBC subpoena Trump''s Mar-a-Lago
+    Club in defamation suit'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
 
 **Subtype:** fact

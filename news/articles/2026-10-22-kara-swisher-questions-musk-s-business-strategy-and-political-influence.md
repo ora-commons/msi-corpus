@@ -1,9 +1,17 @@
 ---
 headline: Kara Swisher questions Musk’s business strategy and political influence
-secondary_headline: If Democrats regain Congress, Swisher points to DOGE and Tesla crash investigations
+secondary_headline: If Democrats regain Congress, Swisher points to DOGE and Tesla
+  crash investigations
 publish_date: '2026-10-22'
-lede: In an NPR interview published Oct. 22, 2026, longtime technology journalist Kara Swisher questioned Elon Musk’s commercial and political influence. She said Democrats, if they regained control of Congress, could examine the Department of Government Efficiency and previous Tesla crash investigations, while warning that Musk should not make wartime or defense decisions.
-nut_graf: Swisher’s business questions and political objections both concerned the reach of Musk’s companies and wealth. She questioned Tesla’s competitive position and the durability of AI computing demand, then discussed how Democrats could examine DOGE and previous Tesla crash investigations if they regained Congress.
+lede: In an NPR interview published Oct. 22, 2026, longtime technology journalist
+  Kara Swisher questioned Elon Musk’s commercial and political influence. She said
+  Democrats, if they regained control of Congress, could examine the Department of
+  Government Efficiency and previous Tesla crash investigations, while warning that
+  Musk should not make wartime or defense decisions.
+nut_graf: Swisher’s business questions and political objections both concerned the
+  reach of Musk’s companies and wealth. She questioned Tesla’s competitive position
+  and the durability of AI computing demand, then discussed how Democrats could examine
+  DOGE and previous Tesla crash investigations if they regained Congress.
 primary_entities:
 - Kara Swisher
 - Pivot
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +155,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
+  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink
+    limits
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7274
+  strength: 0.7269
+- slug: 2026-10-27-robert-reich-urges-defunding-of-elon-musk-over-starlink-limits
+  headline: Robert Reich urges defunding of Elon Musk over Starlink limits
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6921
 - slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
   headline: Talarico alleges Musk is trying to buy Texas Senate seat
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6775
+  strength: 0.677
 - slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
   headline: Zelensky Starlink warning led to informal White House investigation
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6844
+  strength: 0.6833
 - slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
+  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian
+    hardware
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6806
+  strength: 0.68
+- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
+  headline: Trump credits Musk with restoring Ukraine's Starlink service
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6642
 - slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
   headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7035
-- slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
-  headline: SpaceX reports 161% revenue growth driven by Starlink and AI
-  publish_date: '2026-10-21'
+  strength: 0.7026
+- slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
+  headline: Ukraine reports Starshield service operating normally after 10-day restrictions
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.655
-- slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
-  headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.693
-- slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
-  headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6349
-- slug: 2026-10-20-musk-says-tesla-spacex-merger-is-under-active-consideration
-  headline: Musk says Tesla-SpaceX merger is under active consideration
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6358
-- slug: 2026-10-20-republican-lawmakers-challenge-trump-s-russia-policy-and-diesel-deal
-  headline: Republican lawmakers challenge Trump’s Russia policy and diesel deal
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.635
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6641
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6554
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.658
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.635
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6463
-- slug: 2026-10-15-uk-defence-secretary-meets-hegseth-at-pentagon-on-ukraine
-  headline: UK defence secretary meets Hegseth at Pentagon on Ukraine
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6358
-- slug: 2026-09-30-musk-returns-to-government-for-120-day-pentagon-warfare-study
-  headline: Musk returns to government for 120-day Pentagon warfare study
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6373
-- slug: 2026-07-23-musk-says-he-got-carried-away-with-trump-doge-role
-  headline: Musk says he 'got carried away' with Trump, DOGE role
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6975
-- slug: 2026-08-14-musk-plans-100-million-for-gop-midterm-voter-turnout
-  headline: Musk plans $100 million for GOP midterm voter-turnout
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.645
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6497
+  strength: 0.6535
 ---
-
 ## Kara Swisher questions Musk’s business strategy and political influence
 
 **Subtype:** fact

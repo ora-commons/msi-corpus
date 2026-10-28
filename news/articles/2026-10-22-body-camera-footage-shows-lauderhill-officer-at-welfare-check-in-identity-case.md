@@ -1,9 +1,25 @@
 ---
-headline: Body-camera footage shows Lauderhill officer at welfare check in identity case
-secondary_headline: Five charges include identity, computer and communication-device offenses
+headline: Body-camera footage shows Lauderhill officer at welfare check in identity
+  case
+secondary_headline: Five charges include identity, computer and communication-device
+  offenses
 publish_date: '2026-10-22'
-lede: 'Court documents detail that Lauderhill police officer Brian Louis Sguros appeared in body-camera footage during a 2022 welfare check for 71-year-old Dennis West and did not appear to have a prior relationship with West. CBS, the BBC’s news partner, reported that Sguros had West’s body cremated after finding him dead of natural causes during that welfare check, and police accused him of living in the house for nearly four years. Investigators alleged Sguros later renovated the two-story South Florida home, and the Broward County Sheriff’s Office said Sguros claimed he spent more than $214,000 on it. The 35-year-old officer faces five charges: official misconduct, criminal use of a deceased person’s identification, criminal use of personal identification information, offense against a computer user and unlawful use of a two-way communication device.'
-nut_graf: The reporting on the five charges includes court-described body-camera evidence, a CBS report of West’s cremation, a permit application for exterior doors and windows at a cost of $8,000, and Sguros’s claim that he spent more than $214,000 on the property. Sguros has not commented on the charges, and it was unclear whether he had legal representation.
+lede: 'Court documents detail that Lauderhill police officer Brian Louis Sguros appeared
+  in body-camera footage during a 2022 welfare check for 71-year-old Dennis West and
+  did not appear to have a prior relationship with West. CBS, the BBC’s news partner,
+  reported that Sguros had West’s body cremated after finding him dead of natural
+  causes during that welfare check, and police accused him of living in the house
+  for nearly four years. Investigators alleged Sguros later renovated the two-story
+  South Florida home, and the Broward County Sheriff’s Office said Sguros claimed
+  he spent more than $214,000 on it. The 35-year-old officer faces five charges: official
+  misconduct, criminal use of a deceased person’s identification, criminal use of
+  personal identification information, offense against a computer user and unlawful
+  use of a two-way communication device.'
+nut_graf: The reporting on the five charges includes court-described body-camera evidence,
+  a CBS report of West’s cremation, a permit application for exterior doors and windows
+  at a cost of $8,000, and Sguros’s claim that he spent more than $214,000 on the
+  property. Sguros has not commented on the charges, and it was unclear whether he
+  had legal representation.
 primary_entities:
 - Brian Louis Sguros
 - Dennis West
@@ -42,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +161,13 @@ related_stories:
   headline: Brian Louis Sguros faces charges over Dennis West’s home and identity
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8734
-- slug: 2026-10-14-jury-views-3d-crime-scene-reconstruction-at-lamarre-condon-trial
-  headline: Jury views 3D crime scene reconstruction at Lamarre-Condon trial
-  publish_date: '2026-10-14'
+  strength: 0.8739
+- slug: 2026-10-22-sguros-says-he-spent-more-than-200-000-repairing-west-s-400-000-home
+  headline: Sguros says he spent more than $200,000 repairing West’s $400,000 home
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6119
-- slug: 2026-10-08-lamarre-condon-defense-argues-body-disposal-reflected-panic-over-unexpected-deat
-  headline: Lamarre-Condon defense argues body disposal reflected panic over unexpected deaths
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6271
-- slug: 2026-10-06-cctv-tracks-lamarre-condon-s-sydney-movements-after-alleged-murders
-  headline: CCTV tracks Lamarre-Condon's Sydney movements after alleged murders
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-25-ex-officer-faked-cancer-diagnosis-before-sydney-murders-trial-hears
-  headline: Ex-officer faked cancer diagnosis before Sydney murders, trial hears
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5951
-- slug: 2026-09-18-fargo-police-sued-for-10m-over-false-arrest-from-ai-facial-recognition
-  headline: Fargo police sued for $10m over false arrest from AI facial recognition
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5872
-- slug: 2026-09-13-san-jose-fires-officer-for-sharing-flock-data-with-domestic-abuse-suspect
-  headline: San Jose fires officer for sharing Flock data with domestic abuse suspect
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5935
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6245
-- slug: 2026-09-11-california-petition-worker-arrested-for-allegedly-paying-skid-row-residents-to-f
-  headline: California petition worker arrested for allegedly paying Skid Row residents to forge signatures
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5899
-- slug: 2026-07-27-family-sues-federal-government-after-ice-agents-shot-at-truck-driver-held-three-
-  headline: Family sues federal government after ICE agents shot at truck, driver held three months in detention
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5926
-- slug: 2026-07-20-525-000-foreclosure-buyer-finds-3-skeletal-remains-inside-connecticut-home
-  headline: $525,000 foreclosure buyer finds 3 skeletal remains inside Connecticut home
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5859
-- slug: 2026-05-08-sheriff-says-evidence-suggests-human-remains-at-susan-flores-property
-  headline: Sheriff says evidence suggests human remains at Susan Flores property
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6029
-- slug: 2026-05-07-search-in-kristin-smart-case-turns-up-evidence-of-human-remains-at-home
-  headline: Search in Kristin Smart case turns up evidence of human remains at home
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6023
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5937
-- slug: 2026-02-08-sheriff-frustrated-no-video-captured-during-nancy-guthrie-disappearance
-  headline: Sheriff frustrated no video captured during Nancy Guthrie disappearance
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6113
-- slug: 2026-02-05-nearly-200-bodies-were-found-in-colorado-court-records-show-earlier-complaints
-  headline: Nearly 200 bodies were found in Colorado. Court records show earlier complaints
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6112
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5906
-- slug: 2026-04-28-prosecutors-usf-suspect-asked-chatgpt-about-disposing-of-a-body
-  headline: 'Prosecutors: USF suspect asked ChatGPT about disposing of a body'
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5924
-- slug: 2026-02-12-florida-detectives-link-lauderdale-and-sarasota-shootings-that-killed-7
-  headline: Florida detectives link Lauderdale and Sarasota shootings that killed 7
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6055
-- slug: 2026-04-18-kansas-family-sues-over-inmate-s-death-from-alleged-deputy-pressure
-  headline: Kansas family sues over inmate's death from alleged deputy pressure
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5904
+  strength: 0.8558
 ---
-
 ## Body-camera footage shows Lauderhill officer at welfare check in identity case
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: Brent futures top $114 as U.S.-Iran and Gulf threats persist
-secondary_headline: Gulf oil flows recover above prewar levels despite renewed disruption concerns
+secondary_headline: Gulf oil flows recover above prewar levels despite renewed disruption
+  concerns
 publish_date: '2026-10-23'
-lede: December Brent crude futures rose 1.3% to $114.64 a barrel Friday as traders weighed renewed U.S.-Iran hostilities and further attacks on Saudi energy infrastructure. December West Texas Intermediate futures gained 1.5% to $100.95, even as Middle East oil flows through the Strait of Hormuz and alternative routes remained above prewar levels.
-nut_graf: The supply recovery did not remove the risk premium from oil prices. ING said prices were being supported more by potential renewed disruption than by present supply conditions, and the bank now viewed its previous $80 fourth-quarter Brent average forecast as unattainable.
+lede: December Brent crude futures rose 1.3% to $114.64 a barrel Friday as traders
+  weighed renewed U.S.-Iran hostilities and further attacks on Saudi energy infrastructure.
+  December West Texas Intermediate futures gained 1.5% to $100.95, even as Middle
+  East oil flows through the Strait of Hormuz and alternative routes remained above
+  prewar levels.
+nut_graf: The supply recovery did not remove the risk premium from oil prices. ING
+  said prices were being supported more by potential renewed disruption than by present
+  supply conditions, and the bank now viewed its previous $80 fourth-quarter Brent
+  average forecast as unattainable.
 primary_entities:
 - Iran
 - United States
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +156,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-brent-crude-tops-111-after-saudi-press-agency-says-drone-debris-killed-two
-  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed two
+  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed
+    two
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8799
+  strength: 0.8802
 - slug: 2026-10-20-oil-prices-climb-as-middle-east-supply-risks-offset-gulf-exports
   headline: Oil prices climb as Middle East supply risks offset Gulf exports
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8835
+  strength: 0.8822
 - slug: 2026-10-21-crude-futures-rise-as-hormuz-threats-offset-recovering-middle-east-exports
   headline: Crude futures rise as Hormuz threats offset recovering Middle East exports
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8668
+  strength: 0.8659
+- slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8408
+- slug: 2026-10-23-brent-tops-117-intraday-as-tanker-attacks-disrupt-fuel-supply
+  headline: Brent tops $117 intraday as tanker attacks disrupt fuel supply
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.831
 - slug: 2026-10-22-oil-rises-as-u-s-prepares-iran-strike-options-and-conflict-concerns-return
   headline: Oil rises as U.S. prepares Iran strike options and conflict concerns return
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.802
+  strength: 0.8021
 - slug: 2026-10-20-oil-prices-soar-past-105-as-hormuz-tanker-attacks-mount
   headline: Oil prices soar past $105 as Hormuz tanker attacks mount
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8091
+  strength: 0.8082
 - slug: 2026-10-14-oil-prices-rise-as-saudi-aramco-attack-hormuz-tanker-strike-reported
   headline: Oil prices rise as Saudi Aramco attack, Hormuz tanker strike reported
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8024
-- slug: 2026-10-15-brent-wti-slide-as-iea-says-gulf-crude-shipments-exceed-75-of-prewar-levels
-  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar levels
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7934
-- slug: 2026-10-08-houthi-airport-attacks-gulf-storm-shutdowns-lift-brent-above-102
-  headline: Houthi airport attacks, Gulf storm shutdowns lift Brent above $102
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8092
-- slug: 2026-10-08-oil-prices-climb-on-iran-strike-talk-and-gulf-hurricane-threat
-  headline: Oil prices climb on Iran strike talk and Gulf hurricane threat
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8067
-- slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
-  headline: Oil futures rise as Middle East exports recover to prewar levels
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.8394
-- slug: 2026-10-08-brent-crude-tops-105-amid-reports-of-more-us-strikes-on-iran
-  headline: Brent crude tops $105 amid reports of more US strikes on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8003
-- slug: 2026-10-07-houthi-strikes-on-saudi-airports-aden-send-oil-futures-higher
-  headline: Houthi strikes on Saudi airports, Aden send oil futures higher
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7992
-- slug: 2026-10-06-oil-prices-fall-as-middle-east-exports-recover-shipping-attacks-resume
-  headline: Oil prices fall as Middle East exports recover, shipping attacks resume
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7879
-- slug: 2026-10-02-crude-futures-jump-4-4-to-102-31-despite-hormuz-rebound
-  headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8065
-- slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
-  headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.8156
-- slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
-  headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8114
-- slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
-  headline: Oil prices rise as Trump rejects Iran ceasefire proposal
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8045
-- slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
-  headline: Oil rises on Hormuz risks as Saudi crude flows rebound
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.8045
-- slug: 2026-09-15-oil-rises-as-saudi-pipeline-outage-and-houthi-gains-pressure-middle-east-supply
-  headline: Oil rises as Saudi pipeline outage and Houthi gains pressure Middle East supply
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8254
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.8364
+  strength: 0.8019
 ---
-
 ## Brent futures top $114 as U.S.-Iran and Gulf threats persist
 
 **Subtype:** fact

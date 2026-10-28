@@ -1,9 +1,18 @@
 ---
-headline: Nearly 50 House members and a dozen senators are not seeking re-election next year
-secondary_headline: Congress will lose more than 800 years of combined congressional experience
+headline: Nearly 50 House members and a dozen senators are not seeking re-election
+  next year
+secondary_headline: Congress will lose more than 800 years of combined congressional
+  experience
 publish_date: '2026-10-23'
-lede: Nearly 50 members of the House of Representatives and another dozen U.S. senators are not seeking re-election next year, according to Damian Paletta's Wall Street Journal Politics newsletter. Paletta reports that Congress will lose more than 800 years of combined congressional experience from Capitol Hill next year.
-nut_graf: Paletta's account places the turnover between the loss of experienced lawmakers and the possibility of new people in Congress. He cites government debt that has grown, increased polarization and “Congress’s stature has shrunk,” alongside the experience of members who served through Sept. 11, 2001, the 2008 financial crisis and debt-ceiling squabbles, leaving the central judgment unresolved.
+lede: Nearly 50 members of the House of Representatives and another dozen U.S. senators
+  are not seeking re-election next year, according to Damian Paletta's Wall Street
+  Journal Politics newsletter. Paletta reports that Congress will lose more than 800
+  years of combined congressional experience from Capitol Hill next year.
+nut_graf: Paletta's account places the turnover between the loss of experienced lawmakers
+  and the possibility of new people in Congress. He cites government debt that has
+  grown, increased polarization and “Congress’s stature has shrunk,” alongside the
+  experience of members who served through Sept. 11, 2001, the 2008 financial crisis
+  and debt-ceiling squabbles, leaving the central judgment unresolved.
 primary_entities:
 - Congress
 - Damian Paletta
@@ -65,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -164,116 +174,35 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-nearly-50-house-members-and-a-dozen-senators-are-not-seeking-re-election-next-ye.png
-  alt: 'Illustration accompanying article: Nearly 50 House members and a dozen senators are not seeking re-election next year'
+  alt: 'Illustration accompanying article: Nearly 50 House members and a dozen senators
+    are not seeking re-election next year'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-20-paletta-cites-democrats-leading-9-of-11-close-senate-races
   headline: Paletta cites Democrats leading 9 of 11 close Senate races
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6865
-- slug: 2026-10-19-seven-candidates-tell-wsj-congress-cedes-too-much-power-to-executive
-  headline: Seven candidates tell WSJ Congress cedes too much power to executive
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6107
-- slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
-  headline: Working-class white voters cool on Republicans, WSJ poll finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5923
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6369
-- slug: 2026-10-01-congress-likely-done-legislating-until-after-november-midterms
-  headline: Congress likely done legislating until after November midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6236
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.592
-- slug: 2026-09-22-networks-boycott-white-house-press-pool-after-trump-blocks-cnn
-  headline: Networks boycott White House press pool after Trump blocks CNN
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6248
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6138
+  strength: 0.6855
 - slug: 2026-09-08-confidence-in-presidency-falls-to-27-from-55-in-2003
   headline: Confidence in presidency falls to 27% from 55% in 2003
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6581
-- slug: 2026-09-23-nancy-pelosi-to-retire-after-2026-midterms-ending-almost-40-year-career
-  headline: Nancy Pelosi to retire after 2026 midterms, ending almost 40-year career
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5982
-- slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
-  headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6187
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6064
-- slug: 2026-09-14-mcconnell-had-2023-concussion-fall-2024-fall-and-2023-stare-episode
-  headline: McConnell had 2023 concussion fall, 2024 fall, and 2023 stare episode
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6049
-- slug: 2026-09-14-mcconnell-says-childhood-polio-is-complicating-his-recovery
-  headline: McConnell says childhood polio is complicating his recovery
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6003
-- slug: 2026-08-13-cbo-sees-deficits-past-2-trillion-as-parties-skip-spending-cuts
-  headline: CBO sees deficits past $2 trillion as parties skip spending cuts
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6161
-- slug: 2026-07-25-lawmakers-return-home-to-campaign-after-rockiest-house-session-in-years
-  headline: Lawmakers return home to campaign after rockiest House session in years
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6321
-- slug: 2026-07-08-americans-confidence-in-capitalism-democracy-declines-poll-finds
-  headline: Americans' confidence in capitalism, democracy declines, poll finds
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6136
-- slug: 2026-07-05-luna-led-rebellion-blocks-house-vote-sends-lawmakers-home-early
-  headline: Luna-led rebellion blocks House vote, sends lawmakers home early
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.607
+  strength: 0.6601
 - slug: 2025-12-30-house-members-announce-retirements-and-runs-for-higher-office-ahead-of-2026
-  headline: House members announce retirements and runs for higher office ahead of 2026
+  headline: House members announce retirements and runs for higher office ahead of
+    2026
   publish_date: '2025-12-30'
   relation: related
-  strength: 0.6647
-- slug: 2025-12-29-house-retirements-and-departures-set-churn-ahead-of-2026-midterms
-  headline: House retirements and departures set churn ahead of 2026 midterms
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.645
+  strength: 0.6644
 ---
-
 ## Nearly 50 House members and a dozen senators are not seeking re-election next year
 
 **Subtype:** fact

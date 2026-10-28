@@ -2,8 +2,13 @@
 headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
 secondary_headline: Full-year earnings range rises to $18.30-$18.60 per share
 publish_date: '2026-10-23'
-lede: American Express reported third-quarter profit of $3.71 billion and raised its full-year earnings forecast as card-member spending continued to rise. The new forecast calls for $18.30 to $18.60 a share, up from $17.30 to $17.90. A market quote in the report showed AXP up 0.48%.
-nut_graf: The raised guidance followed a quarter in which American Express delivered higher profit and adjusted earnings above a cited analyst estimate, while revenue came in below forecast. The company kept its full-year sales-growth target at 10%.
+lede: American Express reported third-quarter profit of $3.71 billion and raised its
+  full-year earnings forecast as card-member spending continued to rise. The new forecast
+  calls for $18.30 to $18.60 a share, up from $17.30 to $17.90. A market quote in
+  the report showed AXP up 0.48%.
+nut_graf: The raised guidance followed a quarter in which American Express delivered
+  higher profit and adjusted earnings above a cited analyst estimate, while revenue
+  came in below forecast. The company kept its full-year sales-growth target at 10%.
 primary_entities:
 - American Express
 - Stephen Squeri
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,16 +141,34 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
+  headline: American Express retains nearly all customers moved to higher-fee Platinum
+    card
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8355
+- slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
+  headline: American Express cuts 5% of global staff while raising its profit outlook
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7593
 - slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
   publish_date: '2026-10-21'
   relation: related
   strength: 0.7381
 - slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
-  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7195
+- slug: 2026-10-23-booz-allen-raises-fiscal-2027-earnings-outlook
+  headline: Booz Allen raises fiscal 2027 earnings outlook
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6667
 - slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
   headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
   publish_date: '2026-10-20'
@@ -160,83 +184,7 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6519
-- slug: 2026-10-16-regions-financial-reports-611-million-q3-profit-adjusted-eps-tops-estimates
-  headline: Regions Financial reports $611 million Q3 profit; adjusted EPS tops estimates
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6832
-- slug: 2026-10-21-philip-morris-cuts-earnings-outlook-after-quarterly-profit-decline
-  headline: Philip Morris cuts earnings outlook after quarterly profit decline
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6466
-- slug: 2026-10-15-pnc-posts-2-1-billion-quarterly-profit-misses-revenue-estimate
-  headline: PNC posts $2.1 billion quarterly profit, misses revenue estimate
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6606
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6501
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6866
-- slug: 2026-10-13-unitedhealth-posts-4-11-billion-quarterly-profit-raises-guidance
-  headline: UnitedHealth posts $4.11 billion quarterly profit, raises guidance
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6462
-- slug: 2026-10-08-aritzia-lifts-fiscal-2027-outlook-after-44-quarterly-revenue-surge
-  headline: Aritzia lifts fiscal 2027 outlook after 44% quarterly revenue surge
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6455
-- slug: 2026-10-06-lamb-weston-raises-fiscal-2027-outlook-after-q1-earnings-beat
-  headline: Lamb Weston raises fiscal 2027 outlook after Q1 earnings beat
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6564
-- slug: 2026-09-30-amex-launches-ai-expense-platform-alongside-new-corporate-card
-  headline: Amex launches AI expense platform alongside new corporate card
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6658
-- slug: 2026-09-29-carnival-q3-earnings-top-estimates-as-2027-bookings-hit-record-levels
-  headline: Carnival Q3 earnings top estimates as 2027 bookings hit record levels
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6705
-- slug: 2026-07-24-fewer-delinquencies-premium-card-demand-lift-american-express-profit
-  headline: Fewer delinquencies, premium card demand lift American Express profit
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.8348
-- slug: 2026-08-21-bj-s-wholesale-raises-full-year-forecast-as-q2-profit-climbs-to-173-9-million
-  headline: BJ's Wholesale raises full-year forecast as Q2 profit climbs to $173.9 million
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6548
-- slug: 2026-08-06-consolidated-edison-posts-higher-second-quarter-profit-revenue
-  headline: Consolidated Edison posts higher second-quarter profit, revenue
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6602
-- slug: 2026-08-04-adm-quarterly-profit-more-than-quadruples-to-908-million
-  headline: ADM quarterly profit more than quadruples to $908 million
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6585
-- slug: 2026-07-23-t-mobile-q2-profit-rises-to-3-24b-as-postpaid-revenue-climbs-13
-  headline: T-Mobile Q2 profit rises to $3.24B as postpaid revenue climbs 13%
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6636
 ---
-
 ## American Express posts $3.71 billion third-quarter profit, lifts guidance
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: USCIS official says citizen misidentification risk in federal records is low
+headline: USCIS official says citizen misidentification risk in federal records is
+  low
 secondary_headline: DHS says no plans to investigate people it believes are citizens
 publish_date: '2026-10-22'
-lede: In a declaration to U.S. District Judge Araceli Martínez-Olguín, U.S. Citizenship and Immigration Services official Nicolas Bartell said his team manually reviews records before referring cases to Homeland Security Investigations. Bartell acknowledged the “low possibility” that citizens could be “erroneously identified as potential aliens” in federal records. DHS separately said it had “no plans to question or investigate people we believe to be U.S. citizens.”
-nut_graf: Bartell's testimony describes manual review and acknowledges the “low possibility” of citizen misidentification. The statements came as a federal judge restricted specified DHS operations in nine states, though the order's practical effect on the broader campaign remained unclear and the federal government could appeal.
+lede: In a declaration to U.S. District Judge Araceli Martínez-Olguín, U.S. Citizenship
+  and Immigration Services official Nicolas Bartell said his team manually reviews
+  records before referring cases to Homeland Security Investigations. Bartell acknowledged
+  the “low possibility” that citizens could be “erroneously identified as potential
+  aliens” in federal records. DHS separately said it had “no plans to question or
+  investigate people we believe to be U.S. citizens.”
+nut_graf: Bartell's testimony describes manual review and acknowledges the “low possibility”
+  of citizen misidentification. The statements came as a federal judge restricted
+  specified DHS operations in nine states, though the order's practical effect on
+  the broader campaign remained unclear and the federal government could appeal.
 primary_entities:
 - Nicolas Bartell
 - Araceli Martínez-Olguín
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +158,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
+  headline: Judge cites "high likelihood of error" in DHS list of people to visit
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7943
 - slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
   headline: Federal judge orders pause to noncitizen-voting probes in nine states
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7553
+  strength: 0.755
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7144
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7126
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7254
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
+  strength: 0.7256
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6974
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
+  strength: 0.7024
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6824
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
+  strength: 0.6864
+- slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
+  headline: Appeals panel questions DOJ bid to set aside California ballots
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6688
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6932
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6757
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7106
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7293
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6777
-- slug: 2026-09-25-supreme-court-lifts-restrictions-on-federal-voter-citizenship-database
-  headline: Supreme Court lifts restrictions on federal voter citizenship database
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6717
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6994
-- slug: 2026-09-14-dhs-whistleblower-says-agents-may-have-broken-state-laws-in-voter-hunt
-  headline: DHS whistleblower says agents may have broken state laws in voter hunt
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7082
-- slug: 2026-09-01-dhs-secretary-mullin-says-ice-could-deploy-to-polling-sites-on-warrants
-  headline: DHS Secretary Mullin says ICE could deploy to polling sites on warrants
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6832
-- slug: 2026-08-24-uscis-shifts-anti-fraud-officers-to-refugee-and-voter-screening
-  headline: USCIS shifts anti-fraud officers to refugee and voter screening
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7041
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6989
-- slug: 2026-09-02-immigrant-rights-group-sues-to-block-federal-voter-database-use
-  headline: Immigrant rights group sues to block federal voter database use
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6692
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6778
-- slug: 2026-07-17-mullin-says-dhs-found-250-000-noncitizens-registered-to-vote-in-four-states
-  headline: Mullin says DHS found 250,000 noncitizens registered to vote in four states
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6786
+  strength: 0.683
 ---
-
 ## USCIS official says citizen misidentification risk in federal records is low
 
 **Subtype:** fact

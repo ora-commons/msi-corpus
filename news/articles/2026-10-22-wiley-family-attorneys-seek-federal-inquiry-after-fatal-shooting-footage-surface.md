@@ -1,9 +1,16 @@
 ---
-headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
+headline: Wiley family attorneys seek federal inquiry after fatal shooting footage
+  surfaces
 secondary_headline: Roberson says footage showed five officers with guns drawn
 publish_date: '2026-10-22'
-lede: One-year-old Kohen Wiley was killed by police in Senatobia, Mississippi, and footage of the fatal shooting was made public after Mississippi attorney general Lynn Fitch announced on Monday that the shooting “was justified.” Family attorneys Ben Crump and Van Turner are seeking a federal investigation into the fatal shooting.
-nut_graf: Relatives viewed the footage before Crump said investigators would release it officially, and Wiley’s family and local civil rights organizations attended a Senatobia press conference. Ben Crump and Van Turner are seeking a federal investigation, while Crump called the footage “excessive from the very start.”
+lede: One-year-old Kohen Wiley was killed by police in Senatobia, Mississippi, and
+  footage of the fatal shooting was made public after Mississippi attorney general
+  Lynn Fitch announced on Monday that the shooting “was justified.” Family attorneys
+  Ben Crump and Van Turner are seeking a federal investigation into the fatal shooting.
+nut_graf: Relatives viewed the footage before Crump said investigators would release
+  it officially, and Wiley’s family and local civil rights organizations attended
+  a Senatobia press conference. Ben Crump and Van Turner are seeking a federal investigation,
+  while Crump called the footage “excessive from the very start.”
 primary_entities:
 - Kohen Wiley
 - Lynn Fitch
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +154,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
+  headline: Mississippi releases body-camera footage of fatal toddler police shooting
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8596
 - slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
   headline: Autopsy indicates Kohen Wiley shot from side of car, not front
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8585
+  strength: 0.858
+- slug: 2026-10-23-officer-resigns-after-video-release-in-death-of-one-year-old-kohen-wiley
+  headline: Officer resigns after video release in death of one-year-old Kohen Wiley
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8286
 - slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
   headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8382
+  strength: 0.8381
 - slug: 2026-10-19-mississippi-ag-rules-officer-s-use-of-force-in-1-year-old-s-death-justified
   headline: Mississippi AG rules officer's use of force in 1-year-old's death justified
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8257
-- slug: 2026-09-02-senatobia-fires-police-chief-after-report-of-racist-text-messages
-  headline: Senatobia fires police chief after report of racist text messages
-  publish_date: '2026-09-02'
+  strength: 0.8255
+- slug: 2026-10-23-hunter-foster-resigns-from-police-after-killing-one-year-old-kohen-wiley
+  headline: Hunter Foster resigns from police after killing one-year-old Kohen Wiley
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.772
-- slug: 2026-06-26-mississippi-protesters-demand-footage-after-police-kill-one-year-old-boy
-  headline: Mississippi protesters demand footage after police kill one-year-old boy
-  publish_date: '2026-06-26'
+  strength: 0.7974
+- slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
+  headline: Foster remains certified after resigning from Senatobia police force
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.8406
-- slug: 2026-06-22-fatal-police-shooting-of-one-year-old-boy-ignites-tensions-in-senatobia-mississi
-  headline: Fatal police shooting of one-year-old boy ignites tensions in Senatobia, Mississippi
-  publish_date: '2026-06-22'
+  strength: 0.785
+- slug: 2026-10-23-mississippi-attorney-general-calls-police-shooting-of-one-year-old-justified
+  headline: Mississippi attorney general calls police shooting of one-year-old justified
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.8315
-- slug: 2026-06-16-one-year-old-killed-woman-wounded-after-mississippi-police-shoot-at-car
-  headline: One-year-old killed, woman wounded after Mississippi police shoot at car
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7921
-- slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
-  headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6682
-- slug: 2026-08-14-wells-parents-seek-federal-review-of-teen-s-death-at-nabj-convention
-  headline: Wells' parents seek federal review of teen's death at NABJ convention
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6578
-- slug: 2026-07-19-nolan-wells-family-seeks-answers-two-weeks-after-death-on-island
-  headline: Nolan Wells' family seeks answers two weeks after death on island
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6425
-- slug: 2026-07-11-phone-data-witness-accounts-diverge-in-mississippi-teen-s-death-on-island
-  headline: Phone data, witness accounts diverge in Mississippi teen's death on island
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6461
-- slug: 2026-07-13-hennepin-county-prosecutors-obtain-hard-drives-of-withheld-evidence-in-three-fed
-  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in three federal-shooting cases
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.628
-- slug: 2026-04-08-trial-begins-for-wrongful-death-lawsuit-over-14-year-old-s-lapd-shooting
-  headline: Trial begins for wrongful-death lawsuit over 14-year-old’s LAPD shooting
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6462
-- slug: 2026-01-09-ohio-review-board-clears-officer-who-fatally-shot-pregnant-ta-kiya-young
-  headline: Ohio review board clears officer who fatally shot pregnant Ta’Kiya Young
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6536
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6499
-- slug: 2026-04-15-bodycam-video-contradicts-st-louis-police-account-in-teen-shooting
-  headline: Bodycam video contradicts St. Louis police account in teen shooting
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6327
-- slug: 2026-01-08-video-shows-minnesota-ice-shooting-experts-question-tactics-used
-  headline: Video shows Minnesota ICE shooting; experts question tactics used
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6437
-- slug: 2026-01-25-federal-and-state-officials-clash-over-deadly-minneapolis-shooting
-  headline: Federal and state officials clash over deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6421
-- slug: 2026-01-10-review-board-clears-officer-connor-grubb-in-fatal-shooting-of-ta-kiya-young
-  headline: Review board clears officer Connor Grubb in fatal shooting of Ta’Kiya Young
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.639
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal ICE shooting
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.639
+  strength: 0.7779
 ---
-
 ## Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
 
 **Subtype:** fact

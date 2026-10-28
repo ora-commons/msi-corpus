@@ -1,9 +1,19 @@
 ---
-headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
-secondary_headline: Meta settled $18 billion with attorneys general from several states in August
+headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+  40
+secondary_headline: Meta settled $18 billion with attorneys general from several states
+  in August
 publish_date: '2026-10-22'
-lede: If California voters adopt Proposition 40 on Nov. 3, a one-time 5% tax on about 250 billionaires living in California would take effect Jan. 1, according to United Press International. UPI also reported that Meta reached an $18 billion settlement in August in a lawsuit brought by attorneys general from several states.
-nut_graf: The tax would apply to about 250 billionaires living in California, and UPI reported that Zuckerberg, whose reported worth is about $239 billion, has threatened to leave the state over a tax bill of billions of dollars. Meta's own numbers and litigation fall in the same period. The company reported a 26% revenue increase to $64.6 billion in the last quarter and settled $18 billion with attorneys general from several states in August.
+lede: If California voters adopt Proposition 40 on Nov. 3, a one-time 5% tax on about
+  250 billionaires living in California would take effect Jan. 1, according to United
+  Press International. UPI also reported that Meta reached an $18 billion settlement
+  in August in a lawsuit brought by attorneys general from several states.
+nut_graf: The tax would apply to about 250 billionaires living in California, and
+  UPI reported that Zuckerberg, whose reported worth is about $239 billion, has threatened
+  to leave the state over a tax bill of billions of dollars. Meta's own numbers and
+  litigation fall in the same period. The company reported a 26% revenue increase
+  to $64.6 billion in the last quarter and settled $18 billion with attorneys general
+  from several states in August.
 primary_entities:
 - Meta
 - Mark Zuckerberg
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +150,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8278
+- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
+  headline: Proposition 40 aims to raise $100 billion for California health care
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8161
 - slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
   headline: Zuckerberg commits to California stay for eight years under new Meta deal
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8126
+  strength: 0.8097
 - slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
   headline: Meta reports 37% profit drop and 15% headcount cut
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7844
+  strength: 0.7836
+- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7209
+- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
+  headline: California’s billionaire tax divides Democrats ahead of November vote
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7089
 - slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
   headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7499
+  strength: 0.7479
 - slug: 2026-10-21-meta-challenges-new-mexico-s-proposed-privacy-penalty-on-constitutional-grounds
-  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional grounds
+  headline: Meta challenges New Mexico's proposed privacy penalty on constitutional
+    grounds
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6746
-- slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
-  headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6705
-- slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
-  headline: Newsom backs Prop. 42 barring new California wealth taxes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7251
-- slug: 2026-10-20-united-airlines-ceo-scott-kirby-calls-for-national-wealth-and-inheritance-taxes
-  headline: United Airlines CEO Scott Kirby calls for national wealth and inheritance taxes
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6419
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6815
-- slug: 2026-09-16-trump-s-5-000-voter-pledge-draws-fiscal-criticism-from-republicans
-  headline: Trump's $5,000 voter pledge draws fiscal criticism from Republicans
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6308
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7417
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7624
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7352
-- slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
-  headline: California AI Investment Draws $366 Billion, More Than Triple Other States
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6406
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7541
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7037
-- slug: 2026-01-14-proposed-billionaire-tax-in-california-sparks-silicon-valley-uproar
-  headline: Proposed billionaire tax in California sparks Silicon Valley uproar
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7451
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.67
-- slug: 2026-02-19-california-proposal-to-tax-billionaires-pits-newsom-against-sanders
-  headline: California proposal to tax billionaires pits Newsom against Sanders
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6905
-- slug: 2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show
-  headline: Meta plans AI-powered prediction market app, internal documents show
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6317
-- slug: 2026-06-17-sanders-proposes-7t-sovereign-wealth-fund-from-ai-stock-tax
-  headline: Sanders proposes $7T sovereign wealth fund from AI stock tax
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6296
+  strength: 0.6715
 ---
-
 ## California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
 
 **Subtype:** fact

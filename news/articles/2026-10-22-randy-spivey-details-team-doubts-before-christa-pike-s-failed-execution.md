@@ -1,9 +1,20 @@
 ---
 headline: Randy Spivey details team doubts before Christa Pike’s failed execution
-secondary_headline: Carruthers’s lawyers seek permission to challenge Tennessee’s protocol
+secondary_headline: Carruthers’s lawyers seek permission to challenge Tennessee’s
+  protocol
 publish_date: '2026-10-22'
-lede: Christa Pike’s lawyer Randy Spivey has given the most detailed account yet released of Tennessee’s failed attempt to execute the death-row prisoner, describing repeated uncertainty about the intravenous team’s effort to establish a vein. In a declaration released as part of separate legal proceedings, Spivey said members of the team warned that Pike’s vein might be “blowing” before pentobarbital began to flow. The account was attached as an exhibit in a new motion filed on behalf of Tony Carruthers and other death-row prisoners.
-nut_graf: Spivey’s declaration supplies the most detailed account yet of the failed procedure and is attached as an exhibit in a motion challenging Tennessee’s lethal-injection protocol. The filing links the May failure involving Tony Carruthers and Pike’s September attempt to warnings made in 2025, while Pike’s long-term prognosis remains unknown.
+lede: Christa Pike’s lawyer Randy Spivey has given the most detailed account yet released
+  of Tennessee’s failed attempt to execute the death-row prisoner, describing repeated
+  uncertainty about the intravenous team’s effort to establish a vein. In a declaration
+  released as part of separate legal proceedings, Spivey said members of the team
+  warned that Pike’s vein might be “blowing” before pentobarbital began to flow. The
+  account was attached as an exhibit in a new motion filed on behalf of Tony Carruthers
+  and other death-row prisoners.
+nut_graf: Spivey’s declaration supplies the most detailed account yet of the failed
+  procedure and is attached as an exhibit in a motion challenging Tennessee’s lethal-injection
+  protocol. The filing links the May failure involving Tony Carruthers and Pike’s
+  September attempt to warnings made in 2025, while Pike’s long-term prognosis remains
+  unknown.
 primary_entities:
 - Christa Pike
 - Randy Spivey
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +162,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-tennessee-protocol-specifies-no-steps-if-pike-survives-second-pentobarbital-dose
+  headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital
+    dose
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8616
+- slug: 2026-10-24-medical-experts-fault-tennessee-s-iv-team-after-pike-s-failed-execution
+  headline: Medical experts fault Tennessee's IV team after Pike's failed execution
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8537
 - slug: 2026-10-10-no-official-explanation-for-why-pike-survived-tennessee-s-failed-execution
   headline: No official explanation for why Pike survived Tennessee's failed execution
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8089
+  strength: 0.8078
 - slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
+  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed
+    execution in 14 months
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8249
+  strength: 0.824
 - slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
+  headline: Christa Pike survives Tennessee execution; governor calls for review of
+    what went wrong
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.805
+  strength: 0.8036
 - slug: 2026-10-07-lawyer-says-pike-helped-execution-team-find-a-vein-was-kind-and-polite
   headline: Lawyer says Pike helped execution team find a vein, was 'kind and polite'
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8159
+  strength: 0.8149
 - slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
   headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8368
+  strength: 0.8359
 - slug: 2026-10-13-christa-pike-thought-to-be-only-survivor-of-lethal-injection-execution
   headline: Christa Pike thought to be only survivor of lethal-injection execution
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.765
-- slug: 2026-10-07-judge-orders-preservation-of-evidence-in-tennessee-s-failed-pike-execution
-  headline: Judge orders preservation of evidence in Tennessee's failed Pike execution
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7998
-- slug: 2026-10-07-judge-orders-preservation-of-pike-execution-chamber-drugs-and-equipment
-  headline: Judge orders preservation of Pike execution chamber drugs and equipment
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7954
-- slug: 2026-10-09-pike-s-lawyers-report-profound-recovery-week-after-failed-tennessee-execution
-  headline: Pike's lawyers report 'profound' recovery week after failed Tennessee execution
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7759
-- slug: 2026-10-10-tennessee-says-it-followed-protocol-as-christa-pike-recovers
-  headline: Tennessee says it followed protocol as Christa Pike recovers
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7676
-- slug: 2026-10-08-christa-pike-is-walking-after-surviving-failed-tennessee-execution
-  headline: Christa Pike is walking after surviving failed Tennessee execution
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7784
-- slug: 2026-10-06-christa-pike-is-conscious-speaking-after-failed-tennessee-execution
-  headline: Christa Pike is conscious, speaking after failed Tennessee execution
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7879
-- slug: 2026-10-10-christa-pike-returns-to-prison-after-surviving-failed-execution
-  headline: Christa Pike returns to prison after surviving failed execution
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7648
-- slug: 2026-10-08-lawyer-reports-seven-needles-one-bent-in-pike-s-arm-after-execution
-  headline: Lawyer reports seven needles, one bent, in Pike's arm after execution
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7755
-- slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8067
-- slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8005
-- slug: 2026-10-05-former-christa-pike-lawyer-says-tennessee-was-warned-execution-would-be-cruel
-  headline: Former Christa Pike lawyer says Tennessee was warned execution would be 'cruel'
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7797
-- slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.799
-- slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
-  headline: Tennessee weighs execution options after Pike survives lethal injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7649
-- slug: 2026-10-02-christa-pike-s-lawyer-calls-tennessee-s-failed-execution-cruel-and-torturous
-  headline: Christa Pike's lawyer calls Tennessee's failed execution 'cruel' and 'torturous'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7737
+  strength: 0.7642
 ---
-
 ## Randy Spivey details team doubts before Christa Pike’s failed execution
 
 **Subtype:** fact

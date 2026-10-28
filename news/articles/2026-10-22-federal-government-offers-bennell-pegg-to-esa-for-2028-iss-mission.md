@@ -1,9 +1,18 @@
 ---
 headline: Federal government offers Bennell-Pegg to ESA for 2028 ISS mission
-secondary_headline: Philanthropists have committed over $6 million in cash toward the flight
+secondary_headline: Philanthropists have committed over $6 million in cash toward
+  the flight
 publish_date: '2026-10-22'
-lede: Australia's federal government has offered Katherine Bennell-Pegg for a 2028 International Space Station mission, announcing the decision on Friday. If the flight proceeds, Bennell-Pegg would become the first qualified astronaut to fly under the Australian flag. Science Minister Tim Ayres said the offer to the European Space Agency followed work with the private sector, philanthropists and other levels of government to raise funding for what he described as a significant cost.
-nut_graf: The offer depends on finding a suitable ISS mission and financing a flight that Ayres's office said no government alone could fund. Supporters say Bennell-Pegg could inspire young people to enter STEM, while Macquarie University professor Richard de Grijs questioned whether possible returns would justify $100 million.
+lede: Australia's federal government has offered Katherine Bennell-Pegg for a 2028
+  International Space Station mission, announcing the decision on Friday. If the flight
+  proceeds, Bennell-Pegg would become the first qualified astronaut to fly under the
+  Australian flag. Science Minister Tim Ayres said the offer to the European Space
+  Agency followed work with the private sector, philanthropists and other levels of
+  government to raise funding for what he described as a significant cost.
+nut_graf: The offer depends on finding a suitable ISS mission and financing a flight
+  that Ayres's office said no government alone could fund. Supporters say Bennell-Pegg
+  could inspire young people to enter STEM, while Macquarie University professor Richard
+  de Grijs questioned whether possible returns would justify $100 million.
 primary_entities:
 - Katherine Bennell-Pegg
 - Australian Space Agency
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,109 +145,8 @@ cross_article_links:
   strength: 0.5609
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-16-airbus-chief-warns-uk-risks-losing-european-space-role-to-lockheed-martin
-  headline: Airbus chief warns UK risks losing European space role to Lockheed Martin
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.555
-- slug: 2026-10-01-spacex-nasa-ready-crew-13-for-potentially-fastest-iss-trip
-  headline: SpaceX, NASA ready Crew-13 for potentially fastest ISS trip
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5681
-- slug: 2026-10-01-spacex-launches-crew-13-to-iss-with-first-black-woman-to-lead-a-crew
-  headline: SpaceX launches Crew-13 to ISS with first Black woman to lead a crew
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5629
-- slug: 2026-10-01-spacex-launches-nasa-s-crew-13-to-international-space-station
-  headline: SpaceX launches NASA's Crew-13 to International Space Station
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5584
-- slug: 2026-09-23-albanese-pledges-60m-more-for-ukraine-at-new-york-meeting-with-zelenskyy
-  headline: Albanese pledges $60m more for Ukraine at New York meeting with Zelenskyy
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5757
-- slug: 2026-09-20-albanese-launches-australia-s-un-security-council-bid
-  headline: Albanese launches Australia's UN Security Council bid
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5885
-- slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
-  headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5766
-- slug: 2026-09-19-air-force-secretary-confirms-us-space-weapons-deployment-declines-details
-  headline: Air force secretary confirms US space weapons deployment, declines details
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.555
-- slug: 2026-09-20-australian-life-expectancy-forecast-to-reach-89-for-women-by-2066
-  headline: Australian life expectancy forecast to reach 89 for women by 2066
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5491
-- slug: 2026-09-16-burke-to-outline-labor-migration-plan-restricting-student-family-visas
-  headline: Burke to outline Labor migration plan restricting student family visas
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5489
-- slug: 2026-08-28-trump-awards-congressional-space-medal-of-honor-to-artemis-ii-crew-at-houston
-  headline: Trump awards Congressional Space Medal of Honor to Artemis II crew at Houston
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5823
-- slug: 2026-06-09-nasa-names-artemis-iii-crew-for-orbital-test-after-moon-landing-delay
-  headline: NASA names Artemis III crew for orbital test after moon landing delay
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6023
-- slug: 2026-05-21-spacex-ipo-prospectus-massive-spending-mars-goal-musk-on-track-to-be-trillionair
-  headline: 'SpaceX IPO prospectus: Massive spending, Mars goal, Musk on track to be trillionaire'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5949
-- slug: 2026-05-17-artemis-ii-astronauts-give-high-marks-to-moonship-heat-shield
-  headline: Artemis II astronauts give high marks to moonship heat shield
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5826
-- slug: 2026-04-02-nasa-alista-artemis-ii-para-primer-viaje-lunar-tripulado-en-d-cadas
-  headline: NASA alista Artemis II para primer viaje lunar tripulado en décadas
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5864
-- slug: 2026-05-26-nasa-outlines-multi-phase-moon-base-plan-with-landers-rovers-and-drones
-  headline: NASA outlines multi‑phase moon base plan with landers, rovers and drones
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5646
-- slug: 2026-04-10-michigan-seeks-first-space-innovation-hub-to-grow-jobs-in-artemis-era
-  headline: Michigan seeks first Space Innovation Hub to grow jobs in Artemis era
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5798
-- slug: 2026-05-27-nasa-lays-out-moon-base-plans-awards-contracts-for-landers-rovers-and-drones
-  headline: NASA lays out moon base plans, awards contracts for landers, rovers and drones
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5601
-- slug: 2026-04-13-artemis-ii-s-lunar-comeback-points-to-artemis-iii-and-a-new-crew-race
-  headline: Artemis II’s lunar comeback points to Artemis III and a new crew race
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5589
-- slug: 2026-04-15-nasa-eyes-next-artemis-mission-after-successful-moon-flyby
-  headline: NASA Eyes Next Artemis Mission After Successful Moon Flyby
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5577
+related_stories: []
 ---
-
 ## Federal government offers Bennell-Pegg to ESA for 2028 ISS mission
 
 **Subtype:** fact

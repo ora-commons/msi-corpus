@@ -2,8 +2,15 @@
 headline: CDC rejects measles assay validation requested by West Coast officials
 secondary_headline: Public health laboratories still rely on lower-volume PCR testing
 publish_date: '2026-10-22'
-lede: California and Washington asked the US Centers for Disease Control and Prevention in May to validate a new measles-testing method, according to a West Coast Health Alliance letter to CDC Director Erica Schwartz. The letter said the CDC denied the request after a two-month wait, citing “other competing priorities.” The CDC has not published or validated a high-throughput measles assay.
-nut_graf: The decision matters because public health laboratories must rely on lower-volume tests for measles. Alliance officials said a shared assay and published protocol would let laboratories process large batches quickly and strengthen preparedness, detection, patient care and outbreak investigations.
+lede: California and Washington asked the US Centers for Disease Control and Prevention
+  in May to validate a new measles-testing method, according to a West Coast Health
+  Alliance letter to CDC Director Erica Schwartz. The letter said the CDC denied the
+  request after a two-month wait, citing “other competing priorities.” The CDC has
+  not published or validated a high-throughput measles assay.
+nut_graf: The decision matters because public health laboratories must rely on lower-volume
+  tests for measles. Alliance officials said a shared assay and published protocol
+  would let laboratories process large batches quickly and strengthen preparedness,
+  detection, patient care and outbreak investigations.
 primary_entities:
 - California
 - Washington
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +157,43 @@ related_stories:
   headline: CDC adds a third measles death without identifying the state
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6995
+  strength: 0.7002
+- slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
+  headline: CDC adds 178 US measles cases as death tallies diverge
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6806
 - slug: 2026-10-12-anti-vaccine-group-claims-it-sparked-probes-into-texas-measles-doctors
   headline: Anti-vaccine group claims it sparked probes into Texas measles doctors
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6649
+  strength: 0.6655
 - slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
   headline: Pennsylvania reports sixth measles death as state cases top 1,100
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6577
+  strength: 0.6581
 - slug: 2026-10-07-cdc-s-new-director-calls-for-end-to-paternalism-urges-measles-vaccines
   headline: CDC's new director calls for end to 'paternalism,' urges measles vaccines
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6556
+  strength: 0.6552
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6891
+  strength: 0.688
 - slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
   headline: CDC dashboard still excludes four Pennsylvania measles deaths
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7059
-- slug: 2026-10-04-pennsylvania-measles-outbreak-reaches-943-cases-as-state-reports-fifth-death
-  headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6356
-- slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
-  headline: Pennsylvania reports fifth measles-related death of 2026
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6456
+  strength: 0.7064
 - slug: 2026-09-14-cdc-shifts-measles-death-tracking-method-as-pennsylvania-outbreak-grows
   headline: CDC shifts measles death-tracking method as Pennsylvania outbreak grows
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6993
-- slug: 2026-09-11-former-cdc-officials-warn-cdc-response-to-measles-deaths-threatens-trust
-  headline: Former CDC officials warn CDC response to measles deaths threatens trust
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6892
-- slug: 2026-09-17-pennsylvania-conditions-cdc-emergency-help-on-death-count-acknowledgment
-  headline: Pennsylvania conditions CDC emergency help on death count acknowledgment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.658
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.642
-- slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
-  headline: Local officials mount vaccine push as US measles deaths rise
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6464
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6399
-- slug: 2026-09-16-cassidy-ties-pennsylvania-measles-deaths-to-misinformation-and-misguided-policie
-  headline: Cassidy ties Pennsylvania measles deaths to 'misinformation and misguided policies'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.636
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6688
-- slug: 2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go
-  headline: US measles tally passes 2025 record with months still to go
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.638
-- slug: 2026-07-22-cdc-staff-down-30-as-concurrent-outbreaks-strain-response-former-officials-say
-  headline: CDC staff down 30% as concurrent outbreaks strain response, former officials say
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6378
-- slug: 2026-07-08-fda-rejects-petition-to-set-pfas-limits-in-food-group-plans-lawsuit
-  headline: FDA rejects petition to set PFAS limits in food, group plans lawsuit
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.655
-- slug: 2026-01-15-cdc-studies-show-wastewater-detected-measles-weeks-before-diagnoses-as-funding-f
-  headline: CDC studies show wastewater detected measles weeks before diagnoses as funding faces deep cuts
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6853
+  strength: 0.6998
 ---
-
 ## CDC rejects measles assay validation requested by West Coast officials
 
 **Subtype:** fact

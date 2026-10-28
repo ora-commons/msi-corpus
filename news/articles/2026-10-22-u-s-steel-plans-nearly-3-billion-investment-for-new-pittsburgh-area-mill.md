@@ -2,8 +2,13 @@
 headline: U.S. Steel plans nearly $3 billion investment for new Pittsburgh-area mill
 secondary_headline: Annual production capacity would reach about 3.5 million tons
 publish_date: '2026-10-22'
-lede: U.S. Steel plans to invest nearly $3 billion in a new hot strip mill at its plant near Pittsburgh, the company said. U.S. Steel expects initial production in late 2029 and plans to begin construction after receiving the necessary permits.
-nut_graf: The project would replace aging equipment at U.S. Steel's Pittsburgh-area plant, raise annual production capacity and broaden its steel offerings. U.S. Steel expects capacity to reach about 3.5 million tons from 2.2 million tons and says the mill will help it compete in automotive, appliance and line pipe markets.
+lede: U.S. Steel plans to invest nearly $3 billion in a new hot strip mill at its
+  plant near Pittsburgh, the company said. U.S. Steel expects initial production in
+  late 2029 and plans to begin construction after receiving the necessary permits.
+nut_graf: The project would replace aging equipment at U.S. Steel's Pittsburgh-area
+  plant, raise annual production capacity and broaden its steel offerings. U.S. Steel
+  expects capacity to reach about 3.5 million tons from 2.2 million tons and says
+  the mill will help it compete in automotive, appliance and line pipe markets.
 primary_entities:
 - U.S. Steel
 - Nippon Steel
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +141,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten
-  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6343
-- slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6174
-- slug: 2026-10-22-carrier-s-largest-ever-investment-goes-to-a-new-fort-worth-cooling-plant
-  headline: Carrier's largest-ever investment goes to a new Fort Worth cooling plant
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6087
-- slug: 2026-10-12-iowa-steel-and-philadelphia-shipyard-projects-face-labor-and-pricing-hurdles
-  headline: Iowa steel and Philadelphia shipyard projects face labor and pricing hurdles
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6355
-- slug: 2026-10-14-globalfoundries-plans-two-new-york-chip-fabs-with-up-to-21-billion-from-japan
-  headline: GlobalFoundries plans two New York chip fabs with up to $21 billion from Japan
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6209
 - slug: 2026-09-28-trump-to-unveil-15-billion-mesabi-metallics-steel-mill-in-iowa
   headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
   publish_date: '2026-09-28'
   relation: related
   strength: 0.6523
-- slug: 2026-09-28-trump-unveils-15bn-iowa-steel-plant-by-indian-owned-mesabi-metallics
-  headline: Trump unveils $15bn Iowa steel plant by Indian-owned Mesabi Metallics
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6202
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6207
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.616
-- slug: 2026-09-16-reckitt-to-expand-wilson-n-c-plant-with-400-million-u-s-investment
-  headline: Reckitt to expand Wilson, N.C., plant with $400 million U.S. investment
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6082
 - slug: 2026-06-08-nippon-steel-to-invest-up-to-2-5b-in-u-s-steel-s-oldest-mill-near-pittsburgh
   headline: Nippon Steel to invest up to $2.5B in U.S. Steel's oldest mill near Pittsburgh
   publish_date: '2026-06-08'
   relation: related
   strength: 0.794
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.637
-- slug: 2026-08-03-pentagon-backs-new-hampshire-refinery-with-500m-loan-for-critical-minerals
-  headline: Pentagon backs New Hampshire refinery with $500M loan for critical minerals
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6085
-- slug: 2026-07-07-hyundai-posco-louisiana-llc-to-break-ground-on-5-8b-steel-mill
-  headline: Hyundai-POSCO Louisiana LLC to break ground on $5.8B steel mill
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6475
 - slug: 2026-06-29-ai-data-center-power-demand-threatens-steel-industry-operations
   headline: AI data center power demand threatens steel industry operations
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6508
-- slug: 2026-07-16-tsmc-adds-100-billion-to-arizona-chip-manufacturing-push
-  headline: TSMC adds $100 billion to Arizona chip manufacturing push
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6237
-- slug: 2026-07-27-philip-morris-opens-1-2-billion-zyn-manufacturing-campus-in-colorado
-  headline: Philip Morris opens $1.2 billion Zyn manufacturing campus in Colorado
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6066
-- slug: 2026-07-10-micron-s-250-billion-plan-sets-stage-for-korean-chip-production-calls
-  headline: Micron's $250 billion plan sets stage for Korean chip production calls
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6219
-- slug: 2026-07-06-toyota-to-invest-3-6-billion-to-move-tacoma-production-to-texas
-  headline: Toyota to invest $3.6 billion to move Tacoma production to Texas
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6263
-- slug: 2026-07-02-nippon-steel-plans-no-clean-fuel-upgrades-at-three-mon-valley-plants-residents-s
-  headline: Nippon Steel plans no clean-fuel upgrades at three Mon Valley plants, residents say
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.621
 ---
-
 ## U.S. Steel plans nearly $3 billion investment for new Pittsburgh-area mill
 
 **Subtype:** fact

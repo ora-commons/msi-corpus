@@ -1,7 +1,8 @@
 ---
 headline: China’s Robot Parade Has No Customers Waiting at the Door
 publish_date: '2026-10-27'
-lede: A robot in a government showroom is not a servant in an old woman’s house, and Beijing has just learned that lesson at a price of $2.4 trillion.
+lede: A robot in a government showroom is not a servant in an old woman’s house, and
+  Beijing has just learned that lesson at a price of $2.4 trillion.
 pen_name: wendell-burke
 primary_entities:
 - China
@@ -38,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +62,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/chinas-robot-parade-has-no-customers-waiting-at-the-door.png
+  alt: 'Editorial cartoon by Hector Rentier: China’s Robot Parade Has No Customers
+    Waiting at the Door'
+  caption: The state was the customer. The market was still theoretical.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-27T22:10:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Render a square, single-panel editorial cartoon in heavy Nast-style
+    wood engraving: dense cross-hatching, pure black masses, carved white highlights,
+    and exactly one restrained sepia accent (#6B4226) '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-27-hector-paired-with-2026-10-27-wendell-burke-world-2026-oct-27-chinese-markets-lose-t
 ---
+
+![Editorial cartoon by Hector Rentier: China’s Robot Parade Has No Customers Waiting at the Door](/cartoons/chinas-robot-parade-has-no-customers-waiting-at-the-door.png)
+*The state was the customer. The market was still theoretical.*
 
 A robot in a government showroom is not a servant in an old woman’s house, and Beijing has just learned that lesson at a price of $2.4 trillion. Beijing has an AI strategy. It does not have an AI economy. The Guardian’s reporting—carried through the originating Main Street Independent report in [“Chinese regulators cite imported risk as AI stocks follow Wall Street”](/articles/2026-07-28-chinese-regulators-cite-imported-risk-as-ai-stocks-follow-wall-street/)—already showed Chinese regulators blaming imported risk as AI stocks followed Wall Street. That was always a fragile alibi. The harder truth is now written in China’s own market: a national technology project has not produced a customer economy.
 

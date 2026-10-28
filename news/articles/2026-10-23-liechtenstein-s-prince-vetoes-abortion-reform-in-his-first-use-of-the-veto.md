@@ -2,8 +2,14 @@
 headline: Liechtenstein’s prince vetoes abortion reform in his first use of the veto
 secondary_headline: The initiative sought to decriminalize abortion up to 12 weeks
 publish_date: '2026-10-23'
-lede: Hereditary Prince Alois used the first veto of his reign to quash a bill Liechtenstein’s parliament had approved to reform abortion law. The royal house said Alois remained convinced that the reform was incompatible with adequate protection of unborn life.
-nut_graf: The decision leaves Liechtenstein’s abortion restrictions in place, while campaigners say women who seek abortions may still have to travel abroad and face costs, childcare needs and transportation barriers. The dispute also centers on the prince’s power to block legislation approved by parliament after a citizens’ initiative.
+lede: Hereditary Prince Alois used the first veto of his reign to quash a bill Liechtenstein’s
+  parliament had approved to reform abortion law. The royal house said Alois remained
+  convinced that the reform was incompatible with adequate protection of unborn life.
+nut_graf: The decision leaves Liechtenstein’s abortion restrictions in place, while
+  campaigners say women who seek abortions may still have to travel abroad and face
+  costs, childcare needs and transportation barriers. The dispute also centers on
+  the prince’s power to block legislation approved by parliament after a citizens’
+  initiative.
 primary_entities:
 - Liechtenstein
 - Alois
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +146,8 @@ cross_article_links:
   strength: 0.5462
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-unpaid-idaho-volunteers-place-abortion-rights-measure-on-november-ballot
-  headline: Unpaid Idaho volunteers place abortion rights measure on November ballot
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6309
-- slug: 2026-10-19-ken-paxton-s-anti-abortion-legal-playbook-extends-beyond-texas
-  headline: Ken Paxton's anti-abortion legal playbook extends beyond Texas
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5683
-- slug: 2026-09-27-swiss-voters-reject-strict-neutrality-amendment-by-wide-margin
-  headline: Swiss voters reject strict neutrality amendment by wide margin
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5627
-- slug: 2026-09-22-missouri-asks-voters-to-overturn-2024-abortion-protections
-  headline: Missouri asks voters to overturn 2024 abortion protections
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5816
-- slug: 2026-09-08-fifth-circuit-hears-louisiana-challenge-to-telehealth-abortion-pill-access
-  headline: Fifth Circuit hears Louisiana challenge to telehealth abortion pill access
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5716
-- slug: 2026-09-03-maryland-judge-blocks-trump-birthright-order-targeting-birth-tourism
-  headline: Maryland judge blocks Trump birthright order targeting birth tourism
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5758
-- slug: 2026-05-22-veterans-group-sues-trump-va-for-reinstating-near-ban-on-abortion-access
-  headline: Veterans group sues Trump VA for reinstating near-ban on abortion access
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-15-abortion-pill-rulings-elevate-reproductive-rights-as-a-midterm-issue
-  headline: Abortion pill rulings elevate reproductive rights as a midterm issue
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5792
-- slug: 2026-04-25-kenya-appeals-court-overturns-ruling-affirming-right-to-abortion
-  headline: Kenya appeals court overturns ruling affirming right to abortion
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5846
-- slug: 2026-05-15-conservative-states-focus-on-banning-abortion-pills-and-restricting-access-via-p
-  headline: Conservative states focus on banning abortion pills and restricting access via providers
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5662
-- slug: 2026-05-15-supreme-court-order-leaves-access-to-abortion-pill-unchanged
-  headline: Supreme Court order leaves access to abortion pill unchanged
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.564
-- slug: 2026-05-15-court-rulings-on-abortion-pill-mifepristone-jolt-midterm-politics
-  headline: Court rulings on abortion pill mifepristone jolt midterm politics
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5637
-- slug: 2026-05-05-supreme-court-restores-telehealth-access-to-abortion-pill-mifepristone
-  headline: Supreme Court restores telehealth access to abortion pill mifepristone
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.567
-- slug: 2026-05-21-veterans-advocacy-group-sues-trump-va-over-reinstated-near-ban-on-abortion-acces
-  headline: Veterans advocacy group sues Trump VA over reinstated near-ban on abortion access
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5594
-- slug: 2026-05-15-supreme-court-preserves-access-to-abortion-pill-mifepristone-as-lawsuit-continue
-  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit continues
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5618
-- slug: 2026-05-10-tennessee-fertility-doctor-aligns-practice-with-christian-faith-refuses-to-disca
-  headline: Tennessee fertility doctor aligns practice with Christian faith, refuses to discard embryos
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5639
-- slug: 2026-04-20-pennsylvania-constitution-protects-abortion-rights-court-rules
-  headline: Pennsylvania constitution protects abortion rights, court rules
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5715
-- slug: 2026-04-28-wyoming-judge-halts-abortion-law-as-legal-challenge-proceeds
-  headline: Wyoming judge halts abortion law as legal challenge proceeds
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5676
-- slug: 2026-05-02-supreme-court-backs-anti-abortion-center-citing-first-amendment-fears
-  headline: Supreme Court backs anti-abortion center, citing First Amendment fears
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.561
-- slug: 2026-04-09-fight-over-pills-pits-abortion-opponents-against-trump-administration
-  headline: Fight over pills pits abortion opponents against Trump administration
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5651
+related_stories: []
 ---
-
 ## Liechtenstein’s prince vetoes abortion reform in his first use of the veto
 
 **Subtype:** fact

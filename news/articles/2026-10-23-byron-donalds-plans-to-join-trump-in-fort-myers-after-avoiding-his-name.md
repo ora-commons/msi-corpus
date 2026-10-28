@@ -1,9 +1,18 @@
 ---
 headline: Byron Donalds plans to join Trump in Fort Myers after avoiding his name
-secondary_headline: Poll finds Donalds ahead among Hispanic voters and behind among Black voters
+secondary_headline: Poll finds Donalds ahead among Hispanic voters and behind among
+  Black voters
 publish_date: '2026-10-23'
-lede: Republican nominee Byron Donalds said he will appear with Donald Trump at a Friday rally in Fort Myers after his campaign spent last month removing nearly all references to the president from its website. The three-term congressman has otherwise largely avoided naming Trump while pressing his case in a close Florida governor's race. The appearance comes little more than a week before the 3 November election.
-nut_graf: The Fort Myers appearance places Donalds alongside Trump after his campaign tried to limit references to the president. Larry Sabato described Donalds as “super-Maga” and called the distancing a campaign tactic. Florida has more than 1.5 million more registered Republicans than Democrats, but an NBC6/Telemundo 51 survey shows Jolly ahead among Black voters and Donalds leading Hispanic voters 48%-43%.
+lede: Republican nominee Byron Donalds said he will appear with Donald Trump at a
+  Friday rally in Fort Myers after his campaign spent last month removing nearly all
+  references to the president from its website. The three-term congressman has otherwise
+  largely avoided naming Trump while pressing his case in a close Florida governor's
+  race. The appearance comes little more than a week before the 3 November election.
+nut_graf: The Fort Myers appearance places Donalds alongside Trump after his campaign
+  tried to limit references to the president. Larry Sabato described Donalds as “super-Maga”
+  and called the distancing a campaign tactic. Florida has more than 1.5 million more
+  registered Republicans than Democrats, but an NBC6/Telemundo 51 survey shows Jolly
+  ahead among Black voters and Donalds leading Hispanic voters 48%-43%.
 primary_entities:
 - Byron Donalds
 - Donald Trump
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +156,43 @@ related_stories:
   headline: DGA sends $1 million to Jolly's Florida governor bid
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6985
+  strength: 0.6978
+- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
+  headline: Trump heads to Mississippi as Democrats expand battleground maps
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6741
 - slug: 2026-10-04-donalds-navigates-trump-ties-in-tightening-florida-governor-s-race
   headline: Donalds navigates Trump ties in tightening Florida governor's race
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.774
+  strength: 0.7737
 - slug: 2026-10-04-donalds-builds-florida-governor-bid-on-brooklyn-to-naples-transformation
   headline: Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7562
+  strength: 0.7566
 - slug: 2026-09-22-donalds-strips-trump-mentions-from-campaign-website
   headline: Donalds strips Trump mentions from campaign website
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7925
+  strength: 0.7923
 - slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
   headline: Democrats narrow gaps in Republican-held races with month to midterms
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6626
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6468
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6478
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6343
+  strength: 0.6625
 - slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
   headline: Trump headlines first Republican midterm convention in Dallas
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.672
+  strength: 0.6719
 - slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
   headline: Empty seats and instant ticket approvals mark GOP midterm convention
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6532
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6347
-- slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6938
-- slug: 2026-08-18-crowded-florida-gop-primary-for-donalds-seat-turns-on-candidates-roots
-  headline: Crowded Florida GOP primary for Donalds' seat turns on candidates' roots
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6804
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6367
-- slug: 2026-08-21-trump-to-hold-friday-rally-ahead-of-south-carolina-runoff
-  headline: Trump to hold Friday rally ahead of South Carolina runoff
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6512
-- slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
-  headline: Record seven Black gubernatorial nominees set for November ballots
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6553
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6469
-- slug: 2026-05-22-trump-veers-off-topic-in-new-york-touts-lawler-salt-tax-cuts
-  headline: Trump veers off-topic in New York, touts Lawler SALT tax cuts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6591
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6529
-- slug: 2026-05-23-trump-veered-off-topic-in-new-york-while-promoting-salt-tax-cuts
-  headline: Trump veered off-topic in New York while promoting SALT tax cuts
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.633
+  strength: 0.6533
 ---
-
 ## Byron Donalds plans to join Trump in Fort Myers after avoiding his name
 
 **Subtype:** fact

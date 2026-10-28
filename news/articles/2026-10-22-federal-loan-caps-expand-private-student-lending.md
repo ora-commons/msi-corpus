@@ -2,8 +2,21 @@
 headline: Federal loan caps expand private student lending
 secondary_headline: Private lenders may assess credit and income to determine eligibility
 publish_date: '2026-10-22'
-lede: Students are increasingly turning to private lenders after new Trump administration caps on federal graduate and parent loans took effect this summer, according to The Wall Street Journal. Private lenders may assess credit histories and incomes to determine eligibility and interest rates, and private repayment options might not be as flexible as federal income-based plans; some students might not qualify for private loans at all. Higher-education advocates worry that many students will be unable to qualify to fund their education.
-nut_graf: The caps are changing where students borrow and may affect whether borrowers qualify and on what terms. Private loans can offer more competitive rates to some borrowers with strong credit, while federal loans generally lack credit checks and provide fixed rates, income-based repayment plans and possible public-service forgiveness. Private lenders may assess credit histories and incomes, private repayment options might not be as flexible as federal plans, and terms may be harder to predict. Higher-education advocates worry that the shift will leave many students unable to qualify to fund their education.
+lede: Students are increasingly turning to private lenders after new Trump administration
+  caps on federal graduate and parent loans took effect this summer, according to
+  The Wall Street Journal. Private lenders may assess credit histories and incomes
+  to determine eligibility and interest rates, and private repayment options might
+  not be as flexible as federal income-based plans; some students might not qualify
+  for private loans at all. Higher-education advocates worry that many students will
+  be unable to qualify to fund their education.
+nut_graf: The caps are changing where students borrow and may affect whether borrowers
+  qualify and on what terms. Private loans can offer more competitive rates to some
+  borrowers with strong credit, while federal loans generally lack credit checks and
+  provide fixed rates, income-based repayment plans and possible public-service forgiveness.
+  Private lenders may assess credit histories and incomes, private repayment options
+  might not be as flexible as federal plans, and terms may be harder to predict. Higher-education
+  advocates worry that the shift will leave many students unable to qualify to fund
+  their education.
 primary_entities:
 - Trump administration
 - Education Department
@@ -38,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +154,47 @@ related_stories:
   headline: Private colleges cut tuition and drop loans to draw wary families
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6571
+  strength: 0.6569
 - slug: 2026-09-16-federal-data-flags-500-colleges-with-student-loan-nonpayment-at-40-or-higher
-  headline: Federal data flags 500 colleges with student loan nonpayment at 40% or higher
+  headline: Federal data flags 500 colleges with student loan nonpayment at 40% or
+    higher
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6831
+  strength: 0.6822
 - slug: 2026-06-28-new-graduate-loan-limits-take-effect-july-1-as-economists-debate-tuition-impact
-  headline: New graduate loan limits take effect July 1 as economists debate tuition impact
+  headline: New graduate loan limits take effect July 1 as economists debate tuition
+    impact
   publish_date: '2026-06-28'
   relation: related
-  strength: 0.8076
+  strength: 0.8072
 - slug: 2026-08-31-us-universities-face-layered-financial-pressures-beyond-the-demographic-cliff
-  headline: US universities face layered financial pressures beyond the demographic cliff
+  headline: US universities face layered financial pressures beyond the demographic
+    cliff
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6867
+  strength: 0.6866
 - slug: 2026-06-25-new-federal-loan-caps-deter-would-be-physician-assistants-groups-say
   headline: New federal loan caps deter would-be physician assistants, groups say
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7854
+  strength: 0.7847
 - slug: 2026-05-19-democratic-led-states-sue-over-trump-caps-on-federal-student-loans
   headline: Democratic-led states sue over Trump caps on federal student loans
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.774
+  strength: 0.7743
 - slug: 2026-05-19-states-sue-trump-rule-limiting-federal-loans-for-some-nursing-health-degrees
-  headline: States sue Trump rule limiting federal loans for some nursing, health degrees
+  headline: States sue Trump rule limiting federal loans for some nursing, health
+    degrees
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.7701
+  strength: 0.7706
 - slug: 2026-05-20-democratic-led-states-sue-trump-over-federal-student-loan-caps
   headline: Democratic-led states sue Trump over federal student loan caps
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.753
-- slug: 2026-07-20-student-loan-defaults-jump-by-4-2-million-after-pandemic-pause
-  headline: Student loan defaults jump by 4.2 million after pandemic pause
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6879
-- slug: 2026-02-13-trump-bill-save-pause-leave-borrowers-weighing-repayment-options
-  headline: Trump bill, SAVE pause leave borrowers weighing repayment options
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7552
-- slug: 2026-07-01-save-student-loan-plan-ends-millions-of-borrowers-face-90-day-switch
-  headline: SAVE student loan plan ends, millions of borrowers face 90-day switch
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.696
-- slug: 2026-07-14-nearly-one-million-borrowers-leave-save-student-loan-program
-  headline: Nearly one million borrowers leave SAVE student loan program
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6791
-- slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
-  headline: Democratic-led states sue to block student loan caps for nursing, health degrees
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.718
-- slug: 2026-07-16-trump-administration-caps-foreign-student-visas-at-four-years
-  headline: Trump administration caps foreign student visas at four years
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6736
-- slug: 2026-06-18-student-loan-borrowers-get-1-percentage-point-interest-rate-cut-with-auto-pay
-  headline: Student loan borrowers get 1 percentage point interest rate cut with auto pay
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6892
-- slug: 2026-06-13-u-s-credit-card-delinquency-nears-2008-peak-amid-lighter-debt-burden
-  headline: U.S. credit card delinquency nears 2008 peak amid lighter debt burden
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6686
-- slug: 2026-06-01-student-loan-inquiry-begins-as-third-of-people-say-degree-not-worth-it
-  headline: Student loan inquiry begins as third of people say degree not worth it
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6666
-- slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
-  headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6662
-- slug: 2026-03-20-treasury-to-take-over-some-student-loan-management-as-education-dismantles
-  headline: Treasury to take over some student loan management as Education dismantles
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6681
-- slug: 2026-04-12-for-some-americans-rising-costs-put-a-new-car-out-of-reach
-  headline: For some Americans, rising costs put a new car out of reach
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6608
+  strength: 0.7538
 ---
-
 ## Federal loan caps expand private student lending
 
 **Subtype:** causal_claim

@@ -2,8 +2,15 @@
 headline: Saudi officials report two deaths in Dammam airport strike
 secondary_headline: U.S. orders some embassy staff and families to leave Saudi Arabia
 publish_date: '2026-10-22'
-lede: Saudi officials said one Saudi national and one Indian resident were killed and eight others wounded in a Wednesday-night strike on King Fahd International Airport in Dammam, eastern Saudi Arabia. The U.S. State Department separately ordered some embassy staff and their families in Riyadh to leave Saudi Arabia on Wednesday.
-nut_graf: Saudi officials did not say whom they believed was responsible for the Dammam airport strike or the separate Shaybah drone incident. In separate reporting, UPI said the Houthis and Saudi Arabia had been trading strikes in recent weeks. The BBC, citing Houthi-run media, reported at least six people killed and 11 injured in air and artillery strikes over the previous 24 hours.
+lede: Saudi officials said one Saudi national and one Indian resident were killed
+  and eight others wounded in a Wednesday-night strike on King Fahd International
+  Airport in Dammam, eastern Saudi Arabia. The U.S. State Department separately ordered
+  some embassy staff and their families in Riyadh to leave Saudi Arabia on Wednesday.
+nut_graf: Saudi officials did not say whom they believed was responsible for the Dammam
+  airport strike or the separate Shaybah drone incident. In separate reporting, UPI
+  said the Houthis and Saudi Arabia had been trading strikes in recent weeks. The
+  BBC, citing Houthi-run media, reported at least six people killed and 11 injured
+  in air and artillery strikes over the previous 24 hours.
 primary_entities:
 - Dammam
 - Saudi Arabia
@@ -50,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +160,44 @@ related_stories:
   headline: Saudi authorities blame Houthi militants for Dammam airport attack
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8994
+  strength: 0.8993
 - slug: 2026-10-22-dammam-airport-attack-and-drone-debris-at-saudi-oil-facility-kill-three
   headline: Dammam airport attack and drone debris at Saudi oil facility kill three
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8934
+  strength: 0.894
 - slug: 2026-10-10-houthi-strike-on-riyadh-airport-kills-at-least-12-injures-more-than-300
   headline: Houthi strike on Riyadh airport kills at least 12, injures more than 300
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8297
+  strength: 0.8298
 - slug: 2026-10-21-state-department-orders-partial-drawdown-at-riyadh-embassy
   headline: State Department orders partial drawdown at Riyadh embassy
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.756
+  strength: 0.7569
 - slug: 2026-10-09-houthi-attacks-on-riyadh-airport-kill-three-saudis
   headline: Houthi attacks on Riyadh airport kill three Saudis
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8281
+  strength: 0.8283
 - slug: 2026-10-10-trump-weighs-joining-saudi-strikes-after-new-riyadh-airport-attack
   headline: Trump weighs joining Saudi strikes after new Riyadh airport attack
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8178
+  strength: 0.8182
+- slug: 2026-10-24-us-intelligence-director-says-iran-increased-efforts-to-target-us-personnel
+  headline: US intelligence director says Iran increased efforts to target US personnel
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7146
 - slug: 2026-10-11-houthis-warn-travelers-airlines-to-avoid-saudi-airports-after-riyadh-attack
-  headline: Houthis warn travelers, airlines to avoid Saudi airports after Riyadh attack
+  headline: Houthis warn travelers, airlines to avoid Saudi airports after Riyadh
+    attack
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7613
-- slug: 2026-10-19-trump-resists-saudi-crown-prince-s-request-for-houthi-airstrikes
-  headline: Trump resists Saudi crown prince's request for Houthi airstrikes
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.708
-- slug: 2026-10-12-projectile-hits-riyadh-airport-terminal-day-after-houthi-attack
-  headline: Projectile hits Riyadh airport terminal day after Houthi attack
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7473
-- slug: 2026-10-11-trump-announces-ukraine-russia-energy-ceasefire-as-houthis-strike-saudi-airport
-  headline: Trump announces Ukraine-Russia energy ceasefire as Houthis strike Saudi airport
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7412
-- slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
-  headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7371
-- slug: 2026-10-12-malik-us-held-houthi-meeting-before-refusing-to-extend-saudi-military-aid
-  headline: 'Malik: US held Houthi meeting before refusing to extend Saudi military aid'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7152
-- slug: 2026-10-11-houthi-attack-on-riyadh-airport-forces-trump-to-rethink-midterm-strategy
-  headline: Houthi attack on Riyadh airport forces Trump to rethink midterm strategy
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7142
-- slug: 2026-10-05-saudi-yemeni-forces-launch-counteroffensive-to-retake-mokha-from-houthis
-  headline: Saudi, Yemeni forces launch counteroffensive to retake Mokha from Houthis
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7182
-- slug: 2026-10-02-flydubai-co-pilot-held-as-saudi-led-probe-seeks-cockpit-attack-motive
-  headline: Flydubai co-pilot held as Saudi-led probe seeks cockpit attack motive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7038
-- slug: 2026-09-22-houthis-push-for-red-sea-heights-as-yemen-clashes-kill-hundreds
-  headline: Houthis push for Red Sea heights as Yemen clashes kill hundreds
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7452
-- slug: 2026-09-21-houthis-seize-yemen-s-red-sea-coast-expand-offensive-into-eastern-oil-provinces
-  headline: Houthis seize Yemen's Red Sea coast, expand offensive into eastern oil provinces
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7479
-- slug: 2026-09-21-houthis-attack-riyadh-saudi-oil-hub-iran-sets-terms-for-us-talks
-  headline: Houthis attack Riyadh, Saudi oil hub; Iran sets terms for US talks
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7328
-- slug: 2026-09-11-saudi-arabia-shuts-east-west-pipeline-after-strikes-from-iraq
-  headline: Saudi Arabia shuts East-West pipeline after strikes from Iraq
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.771
-- slug: 2026-09-21-houthis-push-for-red-sea-heights-as-trump-cancels-yemen-airstrikes
-  headline: Houthis push for Red Sea heights as Trump cancels Yemen airstrikes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7094
+  strength: 0.7624
 ---
-
 ## Saudi officials report two deaths in Dammam airport strike
 
 **Subtype:** fact

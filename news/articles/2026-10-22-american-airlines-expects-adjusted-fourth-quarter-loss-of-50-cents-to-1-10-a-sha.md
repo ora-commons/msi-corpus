@@ -1,9 +1,19 @@
 ---
-headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
-secondary_headline: American projects average fourth-quarter fuel price of about $4.70 a gallon, expects 2027 growth to decelerate
+headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10
+  a share
+secondary_headline: American projects average fourth-quarter fuel price of about $4.70
+  a gallon, expects 2027 growth to decelerate
 publish_date: '2026-10-22'
-lede: American Airlines on Thursday forecast an adjusted loss of 50 cents to $1.10 a share for the fourth quarter, saying surging jet fuel prices tied to the continuing war in the Middle East are overwhelming strong revenue growth. The carrier reported a $269 million third-quarter loss as fuel expenses jumped 68% to $4.6 billion.
-nut_graf: American's forecast extends a year in which high fuel costs have repeatedly forced the carrier to cut its initial full-year outlook, while Southwest Airlines and Delta Air Lines have also cut guidance and airlines have raised fares to offset rising costs. American said demand was strong in its own third quarter, and Chief Executive Robert Isom said the company now expects its growth rate in 2027 to decelerate considerably given elevated fuel prices.
+lede: American Airlines on Thursday forecast an adjusted loss of 50 cents to $1.10
+  a share for the fourth quarter, saying surging jet fuel prices tied to the continuing
+  war in the Middle East are overwhelming strong revenue growth. The carrier reported
+  a $269 million third-quarter loss as fuel expenses jumped 68% to $4.6 billion.
+nut_graf: American's forecast extends a year in which high fuel costs have repeatedly
+  forced the carrier to cut its initial full-year outlook, while Southwest Airlines
+  and Delta Air Lines have also cut guidance and airlines have raised fares to offset
+  rising costs. American said demand was strong in its own third quarter, and Chief
+  Executive Robert Isom said the company now expects its growth rate in 2027 to decelerate
+  considerably given elevated fuel prices.
 primary_entities:
 - American Airlines
 - Robert Isom
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -124,104 +135,45 @@ related_stories:
   headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.805
+  strength: 0.8063
 - slug: 2026-10-20-alaska-air-group-reports-147-million-third-quarter-loss
   headline: Alaska Air Group reports $147 million third-quarter loss
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7748
+  strength: 0.7739
 - slug: 2026-10-20-latin-american-airlines-face-rising-fuel-costs-and-higher-fares
   headline: Latin American airlines face rising fuel costs and higher fares
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7371
+  strength: 0.7363
+- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
+  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7221
+- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
+  headline: American Express retains nearly all customers moved to higher-fee Platinum
+    card
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6871
 - slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
   headline: Transport firms adjust plans as fuel costs and demand shift
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6871
+  strength: 0.6877
 - slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
   headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.68
+  strength: 0.6792
 - slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6698
-- slug: 2026-10-08-american-airlines-says-it-will-stop-involuntarily-bumping-passengers
-  headline: American Airlines says it will stop involuntarily bumping passengers
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6599
-- slug: 2026-09-29-alaska-air-adds-premium-cabins-lie-flat-suites-and-new-seattle-lounge
-  headline: Alaska Air adds premium cabins, lie-flat suites, and new Seattle lounge
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6655
-- slug: 2026-09-29-carnival-q3-earnings-top-estimates-as-2027-bookings-hit-record-levels
-  headline: Carnival Q3 earnings top estimates as 2027 bookings hit record levels
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6593
-- slug: 2026-09-12-airfares-jump-23-4-as-diesel-tops-6-a-gallon-core-inflation-rises-2-4
-  headline: Airfares jump 23.4% as diesel tops $6 a gallon; core inflation rises 2.4%
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.672
-- slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
-  headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7916
-- slug: 2026-08-27-qantas-annual-profit-slides-14-as-iran-conflict-lifts-fuel-costs
-  headline: Qantas annual profit slides 14% as Iran conflict lifts fuel costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.712
-- slug: 2026-08-18-american-airlines-reverses-course-will-add-seat-back-screens-to-domestic-fleet
-  headline: American Airlines reverses course, will add seat-back screens to domestic fleet
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6715
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7226
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7072
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7456
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6949
-- slug: 2026-06-01-jetblue-raises-second-quarter-revenue-outlook-on-strong-travel-demand
-  headline: JetBlue raises second-quarter revenue outlook on strong travel demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7012
-- slug: 2026-07-03-record-61-4-million-drivers-hit-the-road-for-july-fourth-as-gas-prices-ease
-  headline: Record 61.4 million drivers hit the road for July Fourth as gas prices ease
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6611
-- slug: 2026-04-10-travelers-face-higher-costs-as-jet-fuel-volatility-squeezes-airlines
-  headline: Travelers face higher costs as jet fuel volatility squeezes airlines
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.698
+  strength: 0.6689
 ---
-
 ## American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
 
 **Subtype:** fact

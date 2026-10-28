@@ -2,8 +2,27 @@
 headline: Calley Means cites MAHA wins as movement frustration grows
 secondary_headline: Departure comes less than two weeks before the midterm election
 publish_date: '2026-10-22'
-lede: Calley Means, whose departure came less than two weeks before the midterm election, said the past two years had seen "historic policy and cultural change" and that the Make America Healthy Again movement was "in the first inning and just getting started." A top advisor to Health and Human Services Secretary Robert F. Kennedy Jr., Means said he was leaving the Trump administration as UPI reported growing frustration over the White House's approach to MAHA's core goals. Those goals included eliminating pesticides and chemicals from the food supply, reducing dependence on ultraprocessed foods and changing vaccination policies. In a statement, Means praised President Donald Trump and Kennedy for confronting "a corrupt DC bureaucracy"; in a social-media post, he credited MAHA with changes to the food pyramid and dietary guidelines, promotion of psychedelic medicine, removal of soda from the Supplemental Nutrition Assistance Program and reforms to the U.S. Food and Drug Administration's Generally Recognized as Safe designation.
-nut_graf: In his departure statement, Means said he was proud of his work and praised Trump and Kennedy for fighting what he called a "corrupt DC bureaucracy." The departure came less than two weeks before the midterm election, as UPI reported growing frustration within the Make America Healthy Again movement over the White House's approach to its core goals, including eliminating pesticides and chemicals from the food supply, reducing dependence on ultraprocessed foods and changing vaccination policies. Neither the White House nor the Department of Health and Human Services had publicly commented on his resignation.
+lede: Calley Means, whose departure came less than two weeks before the midterm election,
+  said the past two years had seen "historic policy and cultural change" and that
+  the Make America Healthy Again movement was "in the first inning and just getting
+  started." A top advisor to Health and Human Services Secretary Robert F. Kennedy
+  Jr., Means said he was leaving the Trump administration as UPI reported growing
+  frustration over the White House's approach to MAHA's core goals. Those goals included
+  eliminating pesticides and chemicals from the food supply, reducing dependence on
+  ultraprocessed foods and changing vaccination policies. In a statement, Means praised
+  President Donald Trump and Kennedy for confronting "a corrupt DC bureaucracy"; in
+  a social-media post, he credited MAHA with changes to the food pyramid and dietary
+  guidelines, promotion of psychedelic medicine, removal of soda from the Supplemental
+  Nutrition Assistance Program and reforms to the U.S. Food and Drug Administration's
+  Generally Recognized as Safe designation.
+nut_graf: In his departure statement, Means said he was proud of his work and praised
+  Trump and Kennedy for fighting what he called a "corrupt DC bureaucracy." The departure
+  came less than two weeks before the midterm election, as UPI reported growing frustration
+  within the Make America Healthy Again movement over the White House's approach to
+  its core goals, including eliminating pesticides and chemicals from the food supply,
+  reducing dependence on ultraprocessed foods and changing vaccination policies. Neither
+  the White House nor the Department of Health and Human Services had publicly commented
+  on his resignation.
 primary_entities:
 - Calley Means
 - Robert F. Kennedy Jr.
@@ -47,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +166,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-calley-means-cites-maha-wins-as-movement-frustration-grows.png
-  alt: 'Illustration accompanying article: Calley Means cites MAHA wins as movement frustration grows'
+  alt: 'Illustration accompanying article: Calley Means cites MAHA wins as movement
+    frustration grows'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-22-calley-means-quits-kennedy-adviser-role-in-trump-administration-amid-food-policy
-  headline: Calley Means quits Kennedy adviser role in Trump administration amid food-policy delays
+  headline: Calley Means quits Kennedy adviser role in Trump administration amid food-policy
+    delays
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8562
+  strength: 0.8552
+- slug: 2026-10-22-white-house-has-not-released-kennedy-s-april-ultraprocessed-food-definition
+  headline: White House has not released Kennedy's April ultraprocessed food definition
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7795
 - slug: 2026-10-04-vance-courts-maha-movement-as-2028-positioning-intensifies
   headline: Vance courts MAHA movement as 2028 positioning intensifies
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7204
+  strength: 0.7194
 - slug: 2026-09-29-white-house-resistance-stalls-kennedy-s-ultraprocessed-food-push
   headline: White House resistance stalls Kennedy's ultraprocessed food push
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7042
+  strength: 0.7039
 - slug: 2026-09-30-us-food-industry-funds-influencer-campaign-to-counter-maha-movement
   headline: US food industry funds influencer campaign to counter Maha movement
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6695
+  strength: 0.6693
 - slug: 2026-09-13-maha-food-agenda-shows-limits-as-outbreaks-cuts-mount
   headline: MAHA food agenda shows limits as outbreaks, cuts mount
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7029
+  strength: 0.7023
 - slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
+  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White
+    House'''
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6587
+  strength: 0.6559
 - slug: 2026-08-21-maha-activists-urge-trump-to-drop-coal-for-ai-data-centers
   headline: MAHA activists urge Trump to drop coal for AI data centers
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6615
-- slug: 2026-07-10-epa-retreats-from-promised-maha-agenda-allies-say
-  headline: EPA retreats from promised MAHA agenda, allies say
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.698
-- slug: 2026-05-14-fda-commissioner-makary-resigns-widening-leadership-void-across-nation-s-health-
-  headline: FDA Commissioner Makary resigns, widening leadership void across nation's health agencies
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6883
-- slug: 2026-05-14-makary-s-fda-resignation-widens-leadership-gap-at-hhs
-  headline: Makary’s FDA resignation widens leadership gap at HHS
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6861
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6696
-- slug: 2026-06-19-rfk-jr-s-healthy-eating-tour-meets-voter-ire-over-health-costs
-  headline: RFK Jr.’s Healthy-Eating Tour Meets Voter Ire Over Health Costs
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6542
-- slug: 2025-12-29-us-health-policy-dramatically-reshaped-under-rfk-jr-in-trump-s-second-term
-  headline: US health policy dramatically reshaped under RFK Jr. in Trump’s second term
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6998
-- slug: 2026-05-01-trump-withdraws-casey-means-surgeon-general-nomination-taps-nicole-saphier
-  headline: Trump withdraws Casey Means’ surgeon general nomination, taps Nicole Saphier
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6775
-- slug: 2025-12-30-us-health-policy-reshaped-in-rfk-jr-s-first-year-at-hhs
-  headline: US health policy reshaped in RFK Jr.’s first year at HHS
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6978
-- slug: 2026-06-05-affordability-crisis-jams-up-rfk-jr-s-food-agenda
-  headline: Affordability Crisis Jams Up RFK Jr.’s Food Agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.658
-- slug: 2026-05-13-marty-makary-is-out-as-trump-s-fda-chief-acting-role-goes-to-kyle-diamantas
-  headline: Marty Makary is out as Trump’s FDA chief; acting role goes to Kyle Diamantas
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6682
-- slug: 2026-05-13-fda-commissioner-marty-makary-resigns-under-pressure-from-pharma-anti-abortion-v
-  headline: FDA Commissioner Marty Makary resigns under pressure from pharma, anti-abortion, vaping allies
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6644
-- slug: 2025-12-31-us-health-policy-reshaped-under-rfk-jr-triggering-vaccine-and-science-concerns
-  headline: US health policy reshaped under RFK Jr., triggering vaccine and science concerns
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6876
-- slug: 2026-02-02-after-molding-health-policy-maha-eyes-reshaping-epa-environmental-rules
-  headline: After molding health policy, MAHA eyes reshaping EPA environmental rules
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6837
+  strength: 0.6611
 ---
-
 ## Calley Means cites MAHA wins as movement frustration grows
 
 **Subtype:** fact

@@ -2,8 +2,22 @@
 headline: Epstein survivors back New Mexico lawsuit against estate executors
 secondary_headline: Complaint alleges exchange of benefits for furtherance and silence
 publish_date: '2026-10-21'
-lede: Several Epstein abuse survivors signed a Wednesday letter supporting New Mexico’s civil lawsuit against Jeffrey Epstein’s longtime attorney Darren Indyke and longtime accountant Richard Kahn in the U.S. District Court for the District of New Mexico. The survivors said the case could expose the defendants’ roles in Epstein’s operation, examine how they handled survivors’ claims and prevent rewards for their roles in Epstein’s organization. New Mexico’s complaint alleges associates received salaries, elite social access, lavish gifts and beneficiary status in exchange for furthering Epstein’s criminal project and remaining silent about it; the Justice Department also moved to dismiss a separate New Mexico records case.
-nut_graf: The survivor letter adds support from Epstein abuse survivors to New Mexico’s lawsuit, whose complaint alleges Epstein’s associates received a package of benefits for both furthering his criminal project and remaining silent about it. Indyke and Kahn deny knowingly facilitating abuse or trafficking. New Mexico’s broader inquiry remains active while the Justice Department seeks dismissal of the state’s records case, arguing that decisions about law-enforcement information sharing belong to the agency and that unredacted files would violate victims’ privacy.
+lede: Several Epstein abuse survivors signed a Wednesday letter supporting New Mexico’s
+  civil lawsuit against Jeffrey Epstein’s longtime attorney Darren Indyke and longtime
+  accountant Richard Kahn in the U.S. District Court for the District of New Mexico.
+  The survivors said the case could expose the defendants’ roles in Epstein’s operation,
+  examine how they handled survivors’ claims and prevent rewards for their roles in
+  Epstein’s organization. New Mexico’s complaint alleges associates received salaries,
+  elite social access, lavish gifts and beneficiary status in exchange for furthering
+  Epstein’s criminal project and remaining silent about it; the Justice Department
+  also moved to dismiss a separate New Mexico records case.
+nut_graf: The survivor letter adds support from Epstein abuse survivors to New Mexico’s
+  lawsuit, whose complaint alleges Epstein’s associates received a package of benefits
+  for both furthering his criminal project and remaining silent about it. Indyke and
+  Kahn deny knowingly facilitating abuse or trafficking. New Mexico’s broader inquiry
+  remains active while the Justice Department seeks dismissal of the state’s records
+  case, arguing that decisions about law-enforcement information sharing belong to
+  the agency and that unredacted files would violate victims’ privacy.
 primary_entities:
 - Raúl Torrez
 - Jeffrey Epstein
@@ -56,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,20 +170,27 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-21-new-mexico-suit-targets-epstein-trust-payouts-and-survivor-compensation-terms
-  headline: New Mexico suit targets Epstein trust payouts and survivor compensation terms
+  headline: New Mexico suit targets Epstein trust payouts and survivor compensation
+    terms
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8788
+  strength: 0.8786
 - slug: 2026-10-21-new-mexico-sues-epstein-estate-co-executors-over-alleged-sexual-abuse-and-human-
-  headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse and human trafficking
+  headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse
+    and human trafficking
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8648
+  strength: 0.8647
 - slug: 2026-10-21-lawsuit-says-epstein-lawyer-structured-cash-just-below-10-000
   headline: Lawsuit says Epstein lawyer structured cash just below $10,000
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8243
+  strength: 0.8247
+- slug: 2026-10-24-epstein-files-slip-from-midterm-focus-as-advocates-seek-renewed-scrutiny
+  headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.71
 - slug: 2026-09-23-federal-prosecutors-open-probe-into-epstein-s-estate-executors
   headline: Federal prosecutors open probe into Epstein's estate executors
   publish_date: '2026-09-23'
@@ -178,84 +200,18 @@ related_stories:
   headline: House panel votes to hold Leon Black in contempt over Epstein probe
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6992
+  strength: 0.6993
 - slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
   headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6985
+  strength: 0.6989
 - slug: 2026-09-17-two-women-sue-epstein-estate-over-alleged-possession-of-child-abuse-material
   headline: Two women sue Epstein estate over alleged possession of child abuse material
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6719
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6778
-- slug: 2026-08-05-new-mexico-sues-doj-over-epstein-ranch-investigation-records
-  headline: New Mexico sues DOJ over Epstein ranch investigation records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7593
-- slug: 2026-08-01-new-mexico-ag-says-doj-missed-deadline-for-epstein-ranch-files
-  headline: New Mexico AG says DOJ missed deadline for Epstein ranch files
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7263
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7678
-- slug: 2026-07-27-epstein-survivors-urge-senators-to-oppose-blanche-s-attorney-general-confirmatio
-  headline: Epstein survivors urge senators to oppose Blanche's attorney general confirmation
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6716
-- slug: 2026-02-19-new-mexico-reopens-probe-into-epstein-s-former-zorro-ranch
-  headline: New Mexico reopens probe into Epstein’s former Zorro Ranch
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7392
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7237
-- slug: 2026-02-20-new-mexico-ag-reopens-probe-into-alleged-illegal-activity-at-epstein-s-zorro-ran
-  headline: New Mexico AG reopens probe into alleged illegal activity at Epstein’s Zorro Ranch
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7245
-- slug: 2026-02-18-new-mexico-launches-truth-commission-into-epstein-ranch-allegations
-  headline: New Mexico launches “truth commission” into Epstein ranch allegations
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7066
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6685
-- slug: 2026-03-10-new-mexico-prosecutors-begin-search-of-jeffrey-epstein-s-former-zorro-ranch
-  headline: New Mexico prosecutors begin search of Jeffrey Epstein’s former Zorro Ranch
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6882
-- slug: 2026-05-08-justice-department-says-it-was-in-the-dark-about-epstein-note
-  headline: Justice Department says it was in the dark about Epstein note
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6663
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6811
+  strength: 0.6717
 ---
-
 ## Epstein survivors back New Mexico lawsuit against estate executors
 
 **Subtype:** fact

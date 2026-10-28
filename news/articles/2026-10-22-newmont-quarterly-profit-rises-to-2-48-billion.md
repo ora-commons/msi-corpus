@@ -1,9 +1,15 @@
 ---
 headline: Newmont quarterly profit rises to $2.48 billion
-secondary_headline: Full-year cost outlook improves as Newmont expects current-quarter unit costs to rise
+secondary_headline: Full-year cost outlook improves as Newmont expects current-quarter
+  unit costs to rise
 publish_date: '2026-10-22'
-lede: Newmont reported third-quarter profit of $2.48 billion and revenue of $6.36 billion as higher gold sales volumes and realized copper prices lifted results. The gold producer also improved its full-year cost outlook, though it expects unit costs to rise in the current quarter.
-nut_graf: Newmont remained on track for its full-year 2026 production guidance, though the company expected unit costs in the current quarter to increase primarily because of higher sustaining capital spending and lower co-product volumes.
+lede: Newmont reported third-quarter profit of $2.48 billion and revenue of $6.36
+  billion as higher gold sales volumes and realized copper prices lifted results.
+  The gold producer also improved its full-year cost outlook, though it expects unit
+  costs to rise in the current quarter.
+nut_graf: Newmont remained on track for its full-year 2026 production guidance, though
+  the company expected unit costs in the current quarter to increase primarily because
+  of higher sustaining capital spending and lower co-product volumes.
 primary_entities:
 - Newmont
 - Natascha Viljoen
@@ -32,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,104 +141,13 @@ related_stories:
   headline: Bank of New York Mellon posts higher Q3 profit, beats revenue estimates
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6805
-- slug: 2026-10-21-texas-instruments-posts-28-revenue-rise-beats-q3-estimates
-  headline: Texas Instruments posts 28% revenue rise, beats Q3 estimates
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6377
-- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6226
-- slug: 2026-10-20-gold-falls-as-high-oil-prices-keep-inflation-and-rate-tightening-concerns-active
-  headline: Gold falls as high oil prices keep inflation and rate-tightening concerns active
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6189
-- slug: 2026-10-20-adidas-raises-2026-profit-guidance-to-2-5-billion-after-u-s-tariff-refunds
-  headline: Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6106
-- slug: 2026-10-21-philip-morris-cuts-earnings-outlook-after-quarterly-profit-decline
-  headline: Philip Morris cuts earnings outlook after quarterly profit decline
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6007
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6126
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6075
-- slug: 2026-09-23-general-mills-reports-lower-q1-profit-sales-holds-full-year-eps-outlook
-  headline: General Mills reports lower Q1 profit, sales, holds full-year EPS outlook
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.607
-- slug: 2026-08-27-harmony-gold-s-pretax-profit-nearly-doubles-to-2-27-billion
-  headline: Harmony Gold's pretax profit nearly doubles to $2.27 billion
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6476
-- slug: 2026-08-10-barrick-receives-1-95-billion-in-newmont-nevada-settlement
-  headline: Barrick receives $1.95 billion in Newmont Nevada settlement
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6475
-- slug: 2026-08-20-walmart-quarterly-comparable-sales-rise-2-6-smallest-gain-in-years
-  headline: Walmart quarterly comparable sales rise 2.6%, smallest gain in years
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.622
+  strength: 0.6807
 - slug: 2026-07-15-bny-mellon-reports-1-7-billion-quarterly-profit-beating-estimates
   headline: BNY Mellon reports $1.7 billion quarterly profit, beating estimates
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6538
-- slug: 2026-08-04-continental-reaffirms-tires-guidance-sees-raw-material-costs-climb
-  headline: Continental reaffirms tires guidance, sees raw-material costs climb
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6203
-- slug: 2026-08-06-consolidated-edison-posts-higher-second-quarter-profit-revenue
-  headline: Consolidated Edison posts higher second-quarter profit, revenue
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.616
-- slug: 2026-07-21-halliburton-beats-revenue-estimates-profit-rises-13
-  headline: Halliburton beats revenue estimates, profit rises 13%
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6326
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6013
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6188
-- slug: 2026-06-11-gold-outlook-supported-by-hedge-demand-state-street-says
-  headline: Gold outlook supported by hedge demand, State Street says
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6299
-- slug: 2026-06-30-s-p-500-net-profit-margin-hits-record-14-8-in-first-quarter
-  headline: S&P 500 net profit margin hits record 14.8% in first quarter
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6088
+  strength: 0.6539
 ---
-
 ## Newmont quarterly profit rises to $2.48 billion
 
 **Subtype:** fact

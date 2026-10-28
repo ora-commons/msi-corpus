@@ -2,8 +2,15 @@
 headline: Federal judge orders pause to noncitizen-voting probes in nine states
 secondary_headline: Judge cited flawed voter data and 12-minute review limits
 publish_date: '2026-10-22'
-lede: A U.S. district judge in Oakland ordered the Trump administration on Wednesday to halt investigations into whether noncitizens are registered to vote in nine states. Judge Araceli Martínez-Olguín found that the effort relied on data full of errors and was intimidating groups that perform voter assistance; the order pauses the investigations until polls close on 3 November.
-nut_graf: The ruling pauses the investigations covered by the order in nine states until polls close on election day while leaving the broader conflict over federal access to voter records unresolved. The Justice Department had lost each of 30 cases seeking detailed, unredacted state voter-roll data so far.
+lede: A U.S. district judge in Oakland ordered the Trump administration on Wednesday
+  to halt investigations into whether noncitizens are registered to vote in nine states.
+  Judge Araceli Martínez-Olguín found that the effort relied on data full of errors
+  and was intimidating groups that perform voter assistance; the order pauses the
+  investigations until polls close on 3 November.
+nut_graf: The ruling pauses the investigations covered by the order in nine states
+  until polls close on election day while leaving the broader conflict over federal
+  access to voter records unresolved. The Justice Department had lost each of 30 cases
+  seeking detailed, unredacted state voter-roll data so far.
 primary_entities:
 - Araceli Martínez-Olguín
 - Trump administration
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +150,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states.png
-  alt: 'Illustration accompanying article: Federal judge orders pause to noncitizen-voting probes in nine states'
+  alt: 'Illustration accompanying article: Federal judge orders pause to noncitizen-voting
+    probes in nine states'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
+- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
+  headline: Judge cites "high likelihood of error" in DHS list of people to visit
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.7084
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
+  strength: 0.7794
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7058
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
+  strength: 0.768
+- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
+  headline: USCIS official says citizen misidentification risk in federal records
+    is low
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.7259
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
+  strength: 0.7446
+- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
+  headline: California ballot dispute reaches 9th Circuit
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7185
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
+  strength: 0.7298
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6887
-- slug: 2026-10-16-every-federal-judge-to-rule-has-dismissed-doj-voter-data-lawsuits
-  headline: Every federal judge to rule has dismissed DOJ voter-data lawsuits
-  publish_date: '2026-10-16'
+  strength: 0.7298
+- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
+  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6999
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
+  strength: 0.7292
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6919
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
+  strength: 0.7249
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6917
-- slug: 2026-10-09-federal-judge-doj-voter-roll-policy-removed-us-citizens-from-state-lists
-  headline: 'Federal judge: DOJ voter-roll policy removed US citizens from state lists'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6825
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7081
-- slug: 2026-09-30-sixth-noncitizen-voting-indictment-of-september-lands-in-minnesota
-  headline: Sixth noncitizen voting indictment of September lands in Minnesota
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6861
-- slug: 2026-09-25-supreme-court-lifts-restrictions-on-federal-voter-citizenship-database
-  headline: Supreme Court lifts restrictions on federal voter citizenship database
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6984
-- slug: 2026-09-08-solicitor-general-files-appeal-to-revive-blocked-immigration-voter-database
-  headline: Solicitor general files appeal to revive blocked immigration-voter database
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.688
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.699
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6955
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6915
-- slug: 2026-06-23-federal-judge-dismisses-doj-lawsuit-against-maryland-seeking-voter-data
-  headline: Federal judge dismisses DOJ lawsuit against Maryland seeking voter data
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7007
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7063
-- slug: 2026-06-22-judge-rules-trump-era-save-voter-data-system-unlawful
-  headline: Judge rules Trump-era SAVE voter data system unlawful
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6943
-- slug: 2026-01-30-judge-blocks-agencies-from-checking-citizenship-on-federal-voter-forms
-  headline: Judge blocks agencies from checking citizenship on federal voter forms
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7166
+  strength: 0.723
 ---
-
 ## Federal judge orders pause to noncitizen-voting probes in nine states
 
 **Subtype:** fact

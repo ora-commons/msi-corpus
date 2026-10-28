@@ -1,5 +1,6 @@
 ---
-headline: Kevin Warsh’s “No Forward Guidance” Fed Is Already Talking — and That’s the Problem
+headline: Kevin Warsh’s “No Forward Guidance” Fed Is Already Talking — and That’s
+  the Problem
 publish_date: '2026-10-27'
 lede: The market has already made its decision.
 pen_name: prudence-wonk
@@ -31,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -47,16 +49,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-10-27-federal-reserve-likely-to-hold-rates-as-inflation-stays-above-target.png
-  alt: 'Illustration accompanying article: Federal Reserve likely to hold rates as inflation stays above target'
+  url: /cartoons/kevin-warshs-no-forward-guidance-fed-is-already-talking-and.png
+  alt: 'Editorial cartoon by Hector Rentier: Kevin Warsh’s “No Forward Guidance” Fed
+    Is Already Talking — and That’s the Problem'
+  caption: No guidance from the chair. The market got guidance anyway.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-10-27T22:07:15-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Create one square, single-panel editorial cartoon in heavy Nast-style
+    cross-hatching, with dense wood-engraved blacks and carved white highlights. Kevin
+    Warsh occupies the center as a fully individuat
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-10-27-federal-reserve-likely-to-hold-rates-as-inflation-stays-above-target
   relation: extends
   strength: 1.0
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-27-hector-paired-with-2026-10-27-prudence-wonk-federal-reserve-kevin-warsh-interest-rat
 ---
+
+![Editorial cartoon by Hector Rentier: Kevin Warsh’s “No Forward Guidance” Fed Is Already Talking — and That’s the Problem](/cartoons/kevin-warshs-no-forward-guidance-fed-is-already-talking-and.png)
+*No guidance from the chair. The market got guidance anyway.*
 
 The market has already made its decision. The Federal Reserve has not.
 

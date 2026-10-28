@@ -2,8 +2,14 @@
 headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
 secondary_headline: Two-thirds of S&P 500 stocks rise as Treasuries draw buyers
 publish_date: '2026-10-22'
-lede: AI-related shares led a global selloff on Oct. 22, dragging the S&P 500 down 1.2% and the Nasdaq composite down 2.6% as investors weighed the cost of financing datacenters and AI chips. Brent crude rose 4% to $113.17 a barrel amid uncertainty about the war with Iran, while the Dow was nearly unchanged and most S&P 500 stocks advanced.
-nut_graf: The split session placed AI infrastructure financing costs and valuations at the center of global market moves even as some companies beat quarterly expectations. Oil's rise added pressure from the war with Iran, while most other U.S. stocks advanced.
+lede: AI-related shares led a global selloff on Oct. 22, dragging the S&P 500 down
+  1.2% and the Nasdaq composite down 2.6% as investors weighed the cost of financing
+  datacenters and AI chips. Brent crude rose 4% to $113.17 a barrel amid uncertainty
+  about the war with Iran, while the Dow was nearly unchanged and most S&P 500 stocks
+  advanced.
+nut_graf: The split session placed AI infrastructure financing costs and valuations
+  at the center of global market moves even as some companies beat quarterly expectations.
+  Oil's rise added pressure from the war with Iran, while most other U.S. stocks advanced.
 primary_entities:
 - S&P 500
 - Nasdaq composite
@@ -56,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -72,7 +79,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-10-22'
-  caption: FRED's raw DGS10 daily series listed the 10-year Treasury yield at 5.13% as of Oct. 22, 2026. The Guardian separately reported that the yield fell to 4.97% from 5.13% late Wednesday.
+  caption: FRED's raw DGS10 daily series listed the 10-year Treasury yield at 5.13%
+    as of Oct. 22, 2026. The Guardian separately reported that the yield fell to 4.97%
+    from 5.13% late Wednesday.
 figures_aggregate:
   count: 1
   series_ids:
@@ -162,108 +171,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-22-ai-stock-rally-stalls-as-oil-prices-fall-on-diplomatic-hopes
-  headline: AI Stock Rally Stalls as Oil Prices Fall on Diplomatic Hopes
-  publish_date: '2026-09-22'
+- slug: 2026-10-23-brent-crude-settles-at-116-72-as-wall-street-closes-broadly-lower
+  headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.7502
+  strength: 0.832
+- slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
+  headline: Dow ends lower as AI shares rebound and European indexes retreat
+  publish_date: '2026-10-19'
+  relation: related
+  strength: 0.8166
+- slug: 2026-10-23-ai-stocks-fall-overnight-before-japan-and-south-korea-trade-broadly-flat
+  headline: AI stocks fall overnight before Japan and South Korea trade broadly flat
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7822
+- slug: 2026-10-27-nvidia-advances-2-4-as-asian-indexes-diverge
+  headline: Nvidia advances 2.4% as Asian indexes diverge
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7689
 - slug: 2026-09-14-ai-stocks-slide-worldwide-after-anthropic-ceo-urges-industry-slowdown
   headline: AI stocks slide worldwide after Anthropic CEO urges industry slowdown
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7648
+  strength: 0.7659
 - slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
   headline: Global stocks tumble as AI selloff meets oil-price anxiety
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.8588
+  strength: 0.8593
 - slug: 2026-07-23-oil-tops-100-tech-selloff-deepens-as-wall-street-slides
   headline: Oil tops $100, tech selloff deepens as Wall Street slides
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7853
+  strength: 0.7859
 - slug: 2026-07-29-dow-drops-1-153-points-as-oil-surges-7-3-on-resumed-iran-fighting
   headline: Dow drops 1,153 points as oil surges 7.3% on resumed Iran fighting
   publish_date: '2026-07-29'
   relation: related
-  strength: 0.7729
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.832
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.76
-- slug: 2026-07-17-asian-shares-slide-as-ai-stock-selloff-hits-nikkei-taiwan-markets
-  headline: Asian shares slide as AI stock selloff hits Nikkei, Taiwan markets
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7728
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7894
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.836
-- slug: 2026-07-13-wall-street-drops-as-chip-stocks-slide-4-8-oil-hits-83-on-iran-blockade
-  headline: Wall Street drops as chip stocks slide 4.8%, oil hits $83 on Iran blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7579
-- slug: 2026-02-27-nvidia-s-worst-day-since-last-spring-drags-wall-street-lower
-  headline: Nvidia’s worst day since last spring drags Wall Street lower
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.827
-- slug: 2026-04-29-sinking-ai-stocks-and-rising-oil-prices-weigh-on-wall-street
-  headline: Sinking AI stocks and rising oil prices weigh on Wall Street
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.8064
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7826
-- slug: 2026-02-19-us-stocks-slip-as-ai-fears-weigh-oil-rises-on-us-iran-conflict-worries
-  headline: US stocks slip as AI fears weigh, oil rises on US-Iran conflict worries
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7987
-- slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
-  headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7618
-- slug: 2026-05-13-wall-street-s-record-run-halts-as-ai-chip-stocks-slide-and-oil-rises
-  headline: Wall Street’s record run halts as AI chip stocks slide and oil rises
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7736
-- slug: 2026-05-20-us-stocks-slip-further-from-records-as-bond-yields-climb-oil-eases
-  headline: US stocks slip further from records as bond yields climb, oil eases
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7672
-- slug: 2026-06-10-tech-stocks-slide-bitcoin-slumps-below-61k-as-market-selloff-deepens
-  headline: Tech stocks slide, Bitcoin slumps below $61K as market selloff deepens
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7531
-- slug: 2026-05-13-wall-street-s-record-run-stumbles-as-oil-jumps-and-ai-chip-stocks-slide
-  headline: Wall Street’s record run stumbles as oil jumps and AI chip stocks slide
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7695
+  strength: 0.7735
 ---
-
 ## AI stock selloff drags global indexes lower as Brent reaches $113.17
 
 **Subtype:** fact

@@ -1,9 +1,24 @@
 ---
-headline: Cleeland calls threats sexualised and violent five weeks from Victorian election
+headline: Cleeland calls threats sexualised and violent five weeks from Victorian
+  election
 secondary_headline: Purcell reports threats after supporting federal MP Helen Haines
 publish_date: '2026-10-22'
-lede: With five weeks remaining before the Victorian election, Nationals MP Annabelle Cleeland described threats against her as sexualised and violent and said they led her to share her live location with her husband and staff. Upper house MP Georgie Purcell separately reported two threatening replies to her statement supporting federal MP Helen Haines, who had been allegedly attacked by a constituent in her regional Victorian electorate that day. Purcell said being a woman in politics had changed where she parked, which route she took home and whether she held public events; she also said the threats left her on high alert. Premier Ben Carroll met Police Chief Commissioner Mike Bush, the Victorian electoral commissioner and his cabinet on Wednesday to discuss stronger safety measures for MPs.
-nut_graf: The Guardian reported that MPs across Victoria's political spectrum, predominantly women, had said threats to their safety intensified during the state's prolonged Covid lockdowns and had remained constant since. Police had not communicated changes to Victorian MPs by Thursday afternoon; those MPs had been asked to attend a police briefing on Friday, and interim guidance came in a Tuesday morning email from the Department of Parliamentary Services.
+lede: With five weeks remaining before the Victorian election, Nationals MP Annabelle
+  Cleeland described threats against her as sexualised and violent and said they led
+  her to share her live location with her husband and staff. Upper house MP Georgie
+  Purcell separately reported two threatening replies to her statement supporting
+  federal MP Helen Haines, who had been allegedly attacked by a constituent in her
+  regional Victorian electorate that day. Purcell said being a woman in politics had
+  changed where she parked, which route she took home and whether she held public
+  events; she also said the threats left her on high alert. Premier Ben Carroll met
+  Police Chief Commissioner Mike Bush, the Victorian electoral commissioner and his
+  cabinet on Wednesday to discuss stronger safety measures for MPs.
+nut_graf: The Guardian reported that MPs across Victoria's political spectrum, predominantly
+  women, had said threats to their safety intensified during the state's prolonged
+  Covid lockdowns and had remained constant since. Police had not communicated changes
+  to Victorian MPs by Thursday afternoon; those MPs had been asked to attend a police
+  briefing on Friday, and interim guidance came in a Tuesday morning email from the
+  Department of Parliamentary Services.
 primary_entities:
 - Helen Haines
 - Georgie Purcell
@@ -55,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,108 +169,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-threats-against-australian-mps-rise-amid-political-conflict-barrett-says
+  headline: Threats against Australian MPs rise amid political conflict, Barrett says
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7365
 - slug: 2026-10-21-australian-mps-disclose-spending-on-home-and-office-security
   headline: Australian MPs disclose spending on home and office security
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7048
+  strength: 0.7052
 - slug: 2026-10-19-police-data-show-more-than-1-000-threats-against-australian-politicians
   headline: Police data show more than 1,000 threats against Australian politicians
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7113
+  strength: 0.7114
+- slug: 2026-10-26-haines-remains-in-serious-but-stable-condition-as-parliament-pauses-for-tributes
+  headline: Haines remains in serious but stable condition as parliament pauses for
+    tributes
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6724
 - slug: 2026-10-22-police-charge-56-year-old-over-alleged-threats-at-hannah-beazley-s-office
   headline: Police charge 56-year-old over alleged threats at Hannah Beazley’s office
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6695
+  strength: 0.6692
 - slug: 2026-10-19-albanese-says-rise-in-temperature-in-australian-politics-after-vehicle-strike-on
-  headline: Albanese says 'rise in temperature' in Australian politics after vehicle strike on Haines
+  headline: Albanese says 'rise in temperature' in Australian politics after vehicle
+    strike on Haines
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6818
+  strength: 0.6823
 - slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
+  headline: Haines remains stable after double-leg amputation following alleged Wangaratta
+    attack
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6567
-- slug: 2026-10-21-nugent-remains-in-custody-after-court-appearance-in-haines-case
-  headline: Nugent remains in custody after court appearance in Haines case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6345
+  strength: 0.6575
 - slug: 2026-10-13-anne-aly-says-she-received-19-death-threats-after-mp-s-stoning-remarks
   headline: Anne Aly says she received 19 death threats after MP's stoning remarks
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6804
-- slug: 2026-10-19-australian-mp-helen-haines-critical-after-vehicle-strike-in-wangaratta
-  headline: Australian MP Helen Haines critical after vehicle strike in Wangaratta
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6343
-- slug: 2026-10-19-indi-mp-haines-has-built-parliamentary-identity-on-anti-corruption-work
-  headline: Indi MP Haines has built parliamentary identity on anti-corruption work
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.624
-- slug: 2026-10-21-uk-supreme-court-hears-challenge-to-police-immunity-in-domestic-abuse-case
-  headline: UK Supreme Court hears challenge to police immunity in domestic abuse case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6068
-- slug: 2026-10-19-albanese-says-he-never-wants-politicians-to-lose-community-access
-  headline: Albanese says he never wants politicians to lose community access
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6081
-- slug: 2026-10-21-australian-inquiry-hears-65-children-were-subject-to-federal-police-operations
-  headline: Australian inquiry hears 65 children were subject to federal police operations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5705
-- slug: 2026-10-15-greens-senator-steele-john-takes-party-room-leave-denies-inappropriate-comment-a
-  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment allegations
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5693
-- slug: 2026-10-10-swatting-adds-to-threats-against-jane-doe-in-cornell-seven-case
-  headline: Swatting adds to threats against Jane Doe in Cornell seven case
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.584
-- slug: 2026-10-08-greene-placentia-s-campaign-says-it-cannot-afford-additional-security-after-atta
-  headline: Greene-Placentia's campaign says it cannot afford additional security after attack
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5949
-- slug: 2026-10-08-sen-gallego-demands-accountability-after-arizona-candidate-alleges-rape
-  headline: Sen. Gallego demands accountability after Arizona candidate alleges rape
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5893
-- slug: 2026-10-08-greene-placentia-alleges-rape-in-sun-city-while-repairing-campaign-signs
-  headline: Greene-Placentia alleges rape in Sun City while repairing campaign signs
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5763
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5803
-- slug: 2026-09-08-australian-confirmed-safe-in-nepal-tibet-floods-as-35-remain-missing
-  headline: Australian confirmed safe in Nepal-Tibet floods as 35 remain missing
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5686
-- slug: 2026-08-27-edwards-defends-interactions-with-female-staff-as-affectionate-not-harassment
-  headline: Edwards defends interactions with female staff as affectionate, not harassment
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5671
+  strength: 0.6801
 ---
-
 ## Cleeland calls threats sexualised and violent five weeks from Victorian election
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: Volvo Car plans 2,500 job cuts to lower its break-even point
-secondary_headline: Volvo Car expects indirect spending almost 25% below 2024 levels by end of 2027
+secondary_headline: Volvo Car expects indirect spending almost 25% below 2024 levels
+  by end of 2027
 publish_date: '2026-10-23'
-lede: Volvo Car said Friday that it will cut 2,500 jobs globally as part of an additional turnaround plan targeting over $500 million in cost savings. Volvo Car plans to make 2,000 of the cuts in Sweden and expects the plan’s full financial effects by the end of 2027.
-nut_graf: Volvo Car said its additional measures build on earlier cost savings and are intended to lower its break-even point and improve cash flows, with the added reduction achieved through the job cuts. Volvo Car expects the full financial effects of the measures by the end of 2027, when overall indirect spending will be almost 25% below 2024 levels.
+lede: Volvo Car said Friday that it will cut 2,500 jobs globally as part of an additional
+  turnaround plan targeting over $500 million in cost savings. Volvo Car plans to
+  make 2,000 of the cuts in Sweden and expects the plan’s full financial effects by
+  the end of 2027.
+nut_graf: Volvo Car said its additional measures build on earlier cost savings and
+  are intended to lower its break-even point and improve cash flows, with the added
+  reduction achieved through the job cuts. Volvo Car expects the full financial effects
+  of the measures by the end of 2027, when overall indirect spending will be almost
+  25% below 2024 levels.
 primary_entities:
 - Volvo Car
 - Hakan Samuelsson
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,6 +145,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
+  headline: American Express cuts 5% of global staff while raising its profit outlook
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6853
+- slug: 2026-10-26-volvo-swings-to-a-deep-loss-as-china-profitability-and-volumes-decline
+  headline: Volvo swings to a deep loss as China profitability and volumes decline
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6813
 - slug: 2026-10-02-volvo-car-pulls-full-year-guidance-as-china-sales-plunge-41
   headline: Volvo Car pulls full-year guidance as China sales plunge 41%
   publish_date: '2026-10-02'
@@ -146,23 +165,14 @@ related_stories:
   publish_date: '2026-10-06'
   relation: related
   strength: 0.6741
-- slug: 2026-10-13-volkswagen-rises-as-analysts-praise-cost-cuts-stellantis-slips-on-2cv
-  headline: Volkswagen rises as analysts praise cost-cuts; Stellantis slips on 2CV
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6322
 - slug: 2026-09-20-volvo-names-koda-chief-klaus-zellmer-as-next-ceo
   headline: Volvo names Škoda chief Klaus Zellmer as next CEO
   publish_date: '2026-09-20'
   relation: related
   strength: 0.7057
-- slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
-  headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6165
 - slug: 2026-09-18-volvo-car-cco-calls-chinese-competition-an-existential-threat-to-some-european-c
-  headline: Volvo Car CCO calls Chinese competition an existential threat to some European carmakers
+  headline: Volvo Car CCO calls Chinese competition an existential threat to some
+    European carmakers
   publish_date: '2026-09-18'
   relation: related
   strength: 0.655
@@ -171,73 +181,12 @@ related_stories:
   publish_date: '2026-09-04'
   relation: related
   strength: 0.6967
-- slug: 2026-09-21-german-auto-workers-protest-job-cuts-demand-policy-changes
-  headline: German auto workers protest job cuts, demand policy changes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6318
 - slug: 2026-09-02-volkswagen-ceo-considers-taking-cost-cutting-plan-directly-to-shareholders
   headline: Volkswagen CEO considers taking cost-cutting plan directly to shareholders
   publish_date: '2026-09-02'
   relation: related
   strength: 0.6834
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-uk-jobs-as-suppliers-warn-of-wider-decline
-  headline: Jaguar Land Rover cuts 4,000 UK jobs as suppliers warn of wider decline
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6595
-- slug: 2026-09-15-daiwa-projects-21-decline-in-china-auto-sales-for-2026
-  headline: Daiwa projects 21% decline in China auto sales for 2026
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6189
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-jobs-gas-hits-labor-day-record
-  headline: Jaguar Land Rover cuts 4,000 jobs; gas hits Labor Day record
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-02-uber-cuts-3-000-jobs-and-asks-nearly-all-staff-back-to-designated-hubs
-  headline: Uber cuts 3,000 jobs and asks nearly all staff back to designated hubs
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6291
-- slug: 2026-07-27-porsche-to-cut-5-000-jobs-via-early-retirement-in-agreement-with-workers
-  headline: Porsche to cut 5,000 jobs via early retirement in agreement with workers
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7093
-- slug: 2026-09-05-jaguar-land-rover-opens-voluntary-redundancy-programme-for-uk-staff
-  headline: Jaguar Land Rover opens voluntary redundancy programme for UK staff
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6119
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7201
-- slug: 2026-06-26-volkswagen-reportedly-planning-up-to-100-000-job-cuts-four-german-plant-closures
-  headline: Volkswagen reportedly planning up to 100,000 job cuts, four German plant closures
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7231
-- slug: 2026-07-17-volvo-car-reports-wide-second-quarter-earnings-miss
-  headline: Volvo Car reports wide second-quarter earnings miss
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6907
-- slug: 2026-07-10-volkswagen-q2-sales-fall-8-6-as-china-deliveries-plunge
-  headline: Volkswagen Q2 sales fall 8.6% as China deliveries plunge
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6548
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6093
 ---
-
 ## Volvo Car plans 2,500 job cuts to lower its break-even point
 
 **Subtype:** fact

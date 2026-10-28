@@ -2,8 +2,14 @@
 headline: L'Oréal designs skin care around effects of rapid weight loss
 secondary_headline: Three-month sales rose 7.7%, above analyst expectations
 publish_date: '2026-10-22'
-lede: L'Oréal is designing SkinCeuticals and Kiehl's products for people using GLP-1 drugs who are concerned about loose skin and other effects of rapid weight loss. Nicolas Hieronimus, the company's head, told an investor call that rising GLP-1 use is affecting beauty and skin care consumption. L'Oréal said sales in the three months to September rose 7.7%, above analyst expectations.
-nut_graf: L'Oréal's response connects rising GLP-1 use with product design and investment in clinical aesthetics. The company separately reported resilient market conditions and 7.7% sales growth, without attributing that increase specifically to GLP-1 drugs.
+lede: L'Oréal is designing SkinCeuticals and Kiehl's products for people using GLP-1
+  drugs who are concerned about loose skin and other effects of rapid weight loss.
+  Nicolas Hieronimus, the company's head, told an investor call that rising GLP-1
+  use is affecting beauty and skin care consumption. L'Oréal said sales in the three
+  months to September rose 7.7%, above analyst expectations.
+nut_graf: L'Oréal's response connects rising GLP-1 use with product design and investment
+  in clinical aesthetics. The company separately reported resilient market conditions
+  and 7.7% sales growth, without attributing that increase specifically to GLP-1 drugs.
 primary_entities:
 - L'Oréal
 - Nicolas Hieronimus
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +142,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-10-two-consolidated-lawsuits-allege-glp-1-drugs-blinded-hundreds-of-patients
-  headline: Two consolidated lawsuits allege GLP-1 drugs blinded hundreds of patients
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6423
-- slug: 2026-10-14-investigation-links-skincare-overcharge-complaints-to-mazal-group
-  headline: Investigation links skincare overcharge complaints to Mazal Group
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5817
-- slug: 2026-10-09-argenx-plunges-16-on-vyvgart-trial-halt-as-health-care-shares-slide
-  headline: Argenx plunges 16% on Vyvgart trial halt as health care shares slide
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5936
 - slug: 2026-09-11-arizona-sues-l-or-al-over-alleged-hair-relaxer-cancer-risk
   headline: Arizona sues L'Oréal over alleged hair relaxer cancer risk
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6602
-- slug: 2026-09-21-pritzker-discloses-glp-1-use-says-he-has-lost-80-pounds
-  headline: Pritzker discloses GLP-1 use, says he has lost 80 pounds
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5942
+  strength: 0.6599
 - slug: 2026-08-15-studies-test-glp-1-drugs-as-a-treatment-for-pmos
   headline: Studies test GLP-1 drugs as a treatment for PMOS
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6524
-- slug: 2026-08-23-study-finds-unlabeled-toxic-chemicals-in-85-of-personal-care-products-tested
-  headline: Study finds unlabeled toxic chemicals in 85% of personal care products tested
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5861
-- slug: 2026-07-09-pepsico-cuts-snack-prices-bets-on-portion-control-as-glp-1s-reshape-demand
-  headline: PepsiCo cuts snack prices, bets on portion control as GLP-1s reshape demand
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6257
+  strength: 0.653
 - slug: 2026-06-05-weight-loss-drugs-drive-surge-in-clothing-returns-as-shoppers-size-down
   headline: Weight-loss drugs drive surge in clothing returns as shoppers size down
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6576
+  strength: 0.6582
 - slug: 2026-03-24-popular-anti-obesity-drugs-must-be-paired-with-healthy-habits-experts-say
-  headline: Popular anti-obesity drugs must be paired with healthy habits, experts say
+  headline: Popular anti-obesity drugs must be paired with healthy habits, experts
+    say
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.6789
-- slug: 2026-07-24-regeneron-bets-on-science-over-acquisitions-as-flagship-drugs-face-pressure
-  headline: Regeneron bets on science over acquisitions as flagship drugs face pressure
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5918
-- slug: 2026-07-01-medicare-launches-50-monthly-glp-1-pilot-for-some-seniors
-  headline: Medicare launches $50 monthly GLP-1 pilot for some seniors
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.614
+  strength: 0.6787
 - slug: 2026-04-02-fda-approves-eli-lilly-s-oral-glp-1-weight-loss-pill-for-obesity
   headline: FDA approves Eli Lilly’s oral GLP-1 weight-loss pill for obesity
   publish_date: '2026-04-02'
   relation: related
-  strength: 0.6636
-- slug: 2026-06-12-npr-launches-one-week-guide-to-smarter-simpler-skin-care
-  headline: NPR launches one-week guide to smarter, simpler skin care
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6172
-- slug: 2026-06-03-novo-nordisk-launches-wegovy-pill-in-uae-apotex-plans-c-1b-canadian-ipo
-  headline: Novo Nordisk launches Wegovy pill in UAE; Apotex plans C$1B Canadian IPO
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6193
-- slug: 2026-01-14-food-companies-target-glp-1-drug-users-with-unregulated-friendly-labels
-  headline: Food companies target GLP-1 drug users with unregulated 'friendly' labels
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6341
-- slug: 2026-04-18-beef-tallow-and-salmon-sperm-gain-popularity-as-natural-skin-care
-  headline: Beef tallow and salmon sperm gain popularity as natural skin care
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6089
-- slug: 2026-03-04-glp-1-drugs-linked-to-lower-addiction-risk-in-large-va-study
-  headline: GLP-1 drugs linked to lower addiction risk in large VA study
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6166
-- slug: 2026-04-08-doctors-urge-women-to-be-wary-of-the-marketing-surge-in-menopause-products
-  headline: Doctors urge women to be wary of the marketing surge in menopause products
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6086
-- slug: 2026-06-12-bath-body-works-bets-on-influencers-amazon-to-lure-gen-z
-  headline: Bath & Body Works bets on influencers, Amazon to lure Gen Z
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5769
+  strength: 0.6643
 ---
-
 ## L'Oréal designs skin care around effects of rapid weight loss
 
 **Subtype:** fact

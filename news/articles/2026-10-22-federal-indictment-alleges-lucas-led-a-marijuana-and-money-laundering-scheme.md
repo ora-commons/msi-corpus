@@ -2,8 +2,16 @@
 headline: Federal indictment alleges Lucas led a marijuana and money-laundering scheme
 secondary_headline: The six codefendants include several of Lucas’s relatives
 publish_date: '2026-10-22'
-lede: Federal authorities unsealed an indictment Thursday, October 22, 2026, charging Virginia state senator L Louise Lucas and six other defendants with drug trafficking and money laundering. The indictment alleges that Lucas held a leading role in an enterprise that acquired and distributed large quantities of marijuana and laundered the proceeds. Lucas surrendered Thursday, a Department of Justice spokesperson said.
-nut_graf: The indictment alleges that Lucas used her Senate Finance and Appropriations Committee chairmanship to shield the Lucas Enterprise from criminal scrutiny and influence legislation for financial benefit. The case followed a May FBI search of Lucas’s home town office and The Cannabis Outlet, a cannabis shop in which she has a stake.
+lede: Federal authorities unsealed an indictment Thursday, October 22, 2026, charging
+  Virginia state senator L Louise Lucas and six other defendants with drug trafficking
+  and money laundering. The indictment alleges that Lucas held a leading role in an
+  enterprise that acquired and distributed large quantities of marijuana and laundered
+  the proceeds. Lucas surrendered Thursday, a Department of Justice spokesperson said.
+nut_graf: The indictment alleges that Lucas used her Senate Finance and Appropriations
+  Committee chairmanship to shield the Lucas Enterprise from criminal scrutiny and
+  influence legislation for financial benefit. The case followed a May FBI search
+  of Lucas’s home town office and The Cannabis Outlet, a cannabis shop in which she
+  has a stake.
 primary_entities:
 - L Louise Lucas
 - Department of Justice
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +148,52 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-indictment-alleges-lucas-used-political-position-for-codefendant-s-marijuana-lic
+  headline: Indictment alleges Lucas used political position for codefendant's marijuana
+    license
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8639
+- slug: 2026-10-22-prosecutors-allege-louise-lucas-paid-750-000-for-marijuana-license-shell-company
+  headline: Prosecutors allege Louise Lucas paid $750,000 for marijuana-license shell
+    company
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8571
 - slug: 2026-10-22-justice-department-charges-virginia-senator-l-louise-lucas-with-racketeering
   headline: Justice Department charges Virginia senator L. Louise Lucas with racketeering
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8509
-- slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
-  publish_date: '2026-10-13'
+  strength: 0.8511
+- slug: 2026-10-22-virginia-senator-lucas-faces-five-counts-attorney-says-she-will-plead-not-guilty
+  headline: Virginia senator Lucas faces five counts; attorney says she will plead
+    not guilty
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.5993
-- slug: 2026-10-07-sheinbaum-agrees-to-freeze-ex-officials-accounts-hit-by-u-s-sanctions
-  headline: Sheinbaum agrees to freeze ex-officials' accounts hit by U.S. sanctions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5883
-- slug: 2026-09-23-fbi-moved-to-investigate-collins-for-bribery-before-trump-derailed-inquiry
-  headline: FBI moved to investigate Collins for bribery before Trump derailed inquiry
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6042
+  strength: 0.8265
 - slug: 2026-05-07-fbi-searches-virginia-senate-leader-l-louise-lucas-office-in-corruption-probe
-  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption probe
+  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption
+    probe
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7898
+  strength: 0.7899
 - slug: 2026-05-07-fbi-raids-virginia-sen-l-louise-lucas-office-and-cannabis-business
   headline: FBI raids Virginia Sen. L. Louise Lucas’ office and cannabis business
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7865
-- slug: 2026-09-15-house-committee-recommends-holding-leon-black-in-contempt-of-congress
-  headline: House committee recommends holding Leon Black in contempt of Congress
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.581
-- slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
-  headline: Flávio Bolsonaro formally investigated over alleged corruption
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5807
+  strength: 0.7856
 - slug: 2026-05-06-fbi-raids-virginia-sen-l-louise-lucas-s-office-and-cannabis-shop
   headline: FBI raids Virginia Sen. L. Louise Lucas’s office and cannabis shop
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7713
+  strength: 0.7711
 - slug: 2026-05-06-fbi-searches-virginia-senate-leader-l-louise-lucas-office-in-corruption-probe
-  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption probe
+  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption
+    probe
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7692
-- slug: 2026-08-27-federal-authorities-indict-81-alleged-los-baja-deo-members-in-puerto-rico
-  headline: Federal authorities indict 81 alleged Los Baja Deo members in Puerto Rico
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5897
-- slug: 2026-08-07-daniel-gordiano-valenzuela-pleads-guilty-in-nearly-2-million-laundering-case
-  headline: Daniel Gordiano Valenzuela pleads guilty in nearly $2 million laundering case
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5993
-- slug: 2026-07-25-hawaii-lt-gov-sylvia-luke-indicted-for-alleged-bribe-scheme
-  headline: Hawaii Lt. Gov. Sylvia Luke indicted for alleged bribe scheme
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6143
-- slug: 2026-07-07-former-jackson-mayor-pleads-guilty-to-bribery-wire-fraud-money-laundering
-  headline: Former Jackson mayor pleads guilty to bribery, wire fraud, money laundering
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5867
-- slug: 2026-04-30-us-unseals-indictment-charging-sinaloa-governor-and-officials-with-drug-traffick
-  headline: US unseals indictment charging Sinaloa governor and officials with drug trafficking
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6153
-- slug: 2026-05-15-ex-aide-in-california-dems-scheme-pleads-guilty-becerra-faces-scrutiny
-  headline: Ex-aide in California Dems scheme pleads guilty; Becerra faces scrutiny
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5983
-- slug: 2026-06-04-ex-cia-official-arrested-with-over-300-gold-bars-budget-official-quits-over-spen
-  headline: Ex-CIA official arrested with over 300 gold bars; budget official quits over spending oversight
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5848
-- slug: 2026-04-29-sheinbaum-says-mexico-will-investigate-u-s-indictments-over-sinaloa-ties
-  headline: Sheinbaum says Mexico will investigate U.S. indictments over Sinaloa ties
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5983
-- slug: 2026-01-04-maduro-faces-narco-terrorism-charges-in-manhattan-after-u-s-military-capture
-  headline: Maduro faces narco-terrorism charges in Manhattan after U.S. military capture
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6169
-- slug: 2026-05-15-ex-becerra-aide-dana-williamson-pleads-guilty-in-campaign-theft-scheme
-  headline: Ex-Becerra aide Dana Williamson pleads guilty in campaign theft scheme
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5858
+  strength: 0.7695
 ---
-
 ## Federal indictment alleges Lucas led a marijuana and money-laundering scheme
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: DeWine says Acton 'certainly told the truth' in his experience
-secondary_headline: Prosecutor work with rape victims shaped DeWine's objection to Ramaswamy's ad
+secondary_headline: Prosecutor work with rape victims shaped DeWine's objection to
+  Ramaswamy's ad
 publish_date: '2026-10-22'
-lede: On Thursday, Ohio Gov. Mike DeWine said Amy Acton "certainly told the truth" in his experience working closely with her, even as he continued to endorse Republican gubernatorial candidate Vivek Ramaswamy. DeWine cited his prosecutor work with rape victims as the reason he called a Ramaswamy campaign advertisement featuring Acton's estranged mother wrong.
-nut_graf: DeWine's comments combined a qualified personal assessment of Acton with his continued support for the Republican ticket. His prosecutor experience explained his objection to the advertisement, while Lydia Mihalik and Vice President JD Vance offered different responses among Ohio Republicans.
+lede: On Thursday, Ohio Gov. Mike DeWine said Amy Acton "certainly told the truth"
+  in his experience working closely with her, even as he continued to endorse Republican
+  gubernatorial candidate Vivek Ramaswamy. DeWine cited his prosecutor work with rape
+  victims as the reason he called a Ramaswamy campaign advertisement featuring Acton's
+  estranged mother wrong.
+nut_graf: DeWine's comments combined a qualified personal assessment of Acton with
+  his continued support for the Republican ticket. His prosecutor experience explained
+  his objection to the advertisement, while Lydia Mihalik and Vice President JD Vance
+  offered different responses among Ohio Republicans.
 primary_entities:
 - Mike DeWine
 - Vivek Ramaswamy
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +151,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
-  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8529
+  strength: 0.8542
+- slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.845
 - slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
   headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8375
+  strength: 0.838
 - slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
   headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
   publish_date: '2026-10-20'
   relation: related
   strength: 0.8478
+- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
+  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8073
 - slug: 2026-10-21-ramaswamy-pledges-4m-to-air-attack-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8116
+  strength: 0.8107
 - slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.795
-- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
-  publish_date: '2026-10-22'
+  strength: 0.7946
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.7364
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7501
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6129
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5997
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6989
-- slug: 2026-05-03-covid-19-debate-resurfaces-in-ohio-governor-race-between-amy-acton-and-vivek-ram
-  headline: COVID-19 debate resurfaces in Ohio governor race between Amy Acton and Vivek Ramaswamy
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7716
-- slug: 2026-08-04-cook-political-report-shifts-ohio-governor-race-to-toss-up
-  headline: Cook Political Report shifts Ohio governor race to toss-up
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6641
-- slug: 2026-01-07-ramaswamy-picks-mccolley-acton-picks-pepper-in-ohio-governor-race
-  headline: Ramaswamy picks McColley, Acton picks Pepper in Ohio governor race
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7376
-- slug: 2026-04-26-ohio-gop-governor-primary-tests-ramaswamy-as-acton-waits-for-general-election
-  headline: Ohio GOP governor primary tests Ramaswamy as Acton waits for general election
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7184
-- slug: 2026-05-21-vance-targets-ohio-in-medicaid-fraud-crackdown
-  headline: Vance targets Ohio in Medicaid fraud crackdown
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6978
-- slug: 2026-05-20-vance-expands-medicaid-fraud-push-to-ohio-gop-scrambles-ahead-of-election
-  headline: Vance expands Medicaid fraud push to Ohio, GOP scrambles ahead of election
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6791
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6846
-- slug: 2026-06-16-ohio-gov-dewine-calls-on-state-legislature-to-abolish-death-penalty
-  headline: Ohio Gov. DeWine calls on state legislature to abolish death penalty
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.658
-- slug: 2026-05-19-vance-targets-ohio-in-medicaid-fraud-crackdown
-  headline: Vance targets Ohio in Medicaid fraud crackdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6659
-- slug: 2026-04-27-ohio-gop-primary-for-governor-shows-potential-headwinds-for-ramaswamy
-  headline: Ohio GOP primary for governor shows potential headwinds for Ramaswamy
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6607
+  strength: 0.7436
 ---
-
 ## DeWine says Acton 'certainly told the truth' in his experience
 
 **Subtype:** fact

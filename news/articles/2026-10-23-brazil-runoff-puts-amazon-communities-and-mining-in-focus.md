@@ -2,8 +2,17 @@
 headline: Brazil runoff puts Amazon communities and mining in focus
 secondary_headline: Mining hopes in Roraima meet Indigenous determination to resist
 publish_date: '2026-10-23'
-lede: The Guardian's Today in Focus podcast sent Latin America correspondent Tom Phillips to Roraima, Brazil's most northern state, to hear what's at stake for the rainforest and the communities that live there in Sunday's Brazilian presidential runoff. Phillips found voters, preachers and politicians hopeful that Flávio Bolsonaro, whom the episode calls 'the far-right candidate,' would bring back mining, while Indigenous activists were determined to fight back if the Bolsonaros returned to power.
-nut_graf: The report contrasts hopes for renewed mining under Flávio Bolsonaro, whom the Guardian's episode describes as 'the far-right candidate,' with Indigenous determination to resist another Bolsonaro administration. It situates Sunday's national runoff against Jair Bolsonaro's encouragement of mining and the felling of 11m acres (4.5m hectares) of rainforest during his administration.
+lede: The Guardian's Today in Focus podcast sent Latin America correspondent Tom Phillips
+  to Roraima, Brazil's most northern state, to hear what's at stake for the rainforest
+  and the communities that live there in Sunday's Brazilian presidential runoff. Phillips
+  found voters, preachers and politicians hopeful that Flávio Bolsonaro, whom the
+  episode calls 'the far-right candidate,' would bring back mining, while Indigenous
+  activists were determined to fight back if the Bolsonaros returned to power.
+nut_graf: The report contrasts hopes for renewed mining under Flávio Bolsonaro, whom
+  the Guardian's episode describes as 'the far-right candidate,' with Indigenous determination
+  to resist another Bolsonaro administration. It situates Sunday's national runoff
+  against Jair Bolsonaro's encouragement of mining and the felling of 11m acres (4.5m
+  hectares) of rainforest during his administration.
 primary_entities:
 - The Guardian
 - Brazil
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +158,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-brazil-s-runoff-result-may-affect-the-pace-of-the-amazon-forest-transition
+  headline: Brazil's runoff result may affect the pace of the Amazon forest transition
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7364
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7178
+- slug: 2026-10-26-lula-pledges-against-dictatorship-as-brazil-s-victory-draws-global-recognition
+  headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6885
+- slug: 2026-10-27-netherlands-pledges-500-million-to-brazil-backed-forest-fund-after-lula-s-runoff
+  headline: Netherlands pledges $500 million to Brazil-backed forest fund after Lula’s
+    runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6783
+- slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6754
 - slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
   headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7719
-- slug: 2026-10-22-quilombolas-reclaim-amazon-land-from-bankrupt-palm-oil-company
-  headline: Quilombolas reclaim Amazon land from bankrupt palm oil company
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6341
+  strength: 0.772
 - slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
   headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
   publish_date: '2026-10-02'
   relation: related
   strength: 0.7536
-- slug: 2026-10-19-amazon-fires-blanket-manaus-as-brazil-probes-political-motive
-  headline: Amazon fires blanket Manaus as Brazil probes political motive
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6278
 - slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
   headline: Brazil's tight election tests its ability to say 'no' to Trump
   publish_date: '2026-10-03'
   relation: related
   strength: 0.6869
-- slug: 2026-10-12-brazil-s-top-court-clears-fl-vio-bolsonaro-to-visit-house-arrested-father
-  headline: Brazil's top court clears Flávio Bolsonaro to visit house-arrested father
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6274
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6542
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6692
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.659
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6609
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6449
-- slug: 2026-10-05-three-bolsonaro-family-members-win-congressional-seats-as-bolsonarista-candidate
-  headline: Three Bolsonaro family members win congressional seats as Bolsonarista candidates expand Brazil's legislature
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6192
-- slug: 2026-10-01-brazil-ag-office-reportedly-files-complaint-over-trump-funding-plan
-  headline: Brazil AG office reportedly files complaint over Trump funding plan
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6344
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.619
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6242
-- slug: 2026-08-17-indigenous-environmental-groups-sue-to-halt-lula-backed-amazon-oil-drilling
-  headline: Indigenous, environmental groups sue to halt Lula-backed Amazon oil drilling
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6576
-- slug: 2026-08-11-brazil-s-supreme-court-weighs-cases-that-could-reshape-amazon-protections
-  headline: Brazil's Supreme Court weighs cases that could reshape Amazon protections
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6352
-- slug: 2026-06-24-colombian-election-result-may-reshape-amazon-rainforest-s-future
-  headline: Colombian election result may reshape Amazon rainforest’s future
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6561
-- slug: 2026-06-24-petrobras-head-says-brazil-must-choose-between-fossil-fuel-phaseout-and-tax-reve
-  headline: Petrobras head says Brazil must choose between fossil fuel phaseout and tax revenue
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.635
-- slug: 2026-06-06-colombia-s-presidential-runoff-stark-choice-for-amazon-fossil-fuels
-  headline: 'Colombia''s presidential runoff: stark choice for Amazon, fossil fuels'
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6487
 ---
-
 ## Brazil runoff puts Amazon communities and mining in focus
 
 **Subtype:** fact

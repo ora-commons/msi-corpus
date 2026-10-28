@@ -2,8 +2,16 @@
 headline: Bend public schools reopen after Silver Rail Elementary School shooting
 secondary_headline: Police say the shotgun used in the attack was purchased legally
 publish_date: '2026-10-22'
-lede: Public schools in Bend, Oregon, began reopening this week after the Silver Rail Elementary School shooting, and dozens of officers welcomed students returning to classes. Bend police said this week that the shotgun used in the attack was purchased legally. Becky Drury remained hospitalized after being seriously wounded in the attack.
-nut_graf: The reopening and police disclosure came as the shooting remained under investigation. The attack killed teacher Megan Lambert and three children, including five-year-old Rhoam Summer, and wounded Becky Drury and seven-year-old Saylor Graham; The Guardian reported that another teacher threw her phone at Griffin J John II and tackled him before a parent fatally shot him.
+lede: Public schools in Bend, Oregon, began reopening this week after the Silver Rail
+  Elementary School shooting, and dozens of officers welcomed students returning to
+  classes. Bend police said this week that the shotgun used in the attack was purchased
+  legally. Becky Drury remained hospitalized after being seriously wounded in the
+  attack.
+nut_graf: The reopening and police disclosure came as the shooting remained under
+  investigation. The attack killed teacher Megan Lambert and three children, including
+  five-year-old Rhoam Summer, and wounded Becky Drury and seven-year-old Saylor Graham;
+  The Guardian reported that another teacher threw her phone at Griffin J John II
+  and tackled him before a parent fatally shot him.
 primary_entities:
 - Becky Drury
 - Griffin J John II
@@ -51,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +162,46 @@ related_stories:
   headline: Becky Drury says she was shot while trying to shut a classroom door
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8395
+  strength: 0.8383
+- slug: 2026-10-23-police-credit-giamanco-and-the-unarmed-teacher-who-confronted-john-ii-with-savin
+  headline: Police credit Giamanco and the unarmed teacher who confronted John II
+    with saving lives
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7378
 - slug: 2026-10-16-oregon-elementary-shooter-used-pump-action-shotgun-bought-by-his-mother
   headline: Oregon elementary shooter used pump-action shotgun bought by his mother
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7694
+  strength: 0.7714
+- slug: 2026-10-23-oregon-father-who-shot-school-attacker-describes-the-children-he-could-not-save
+  headline: Oregon father who shot school attacker describes the children he could
+    not save
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7111
 - slug: 2026-10-16-bend-schools-to-close-friday-as-governor-calls-bystander-heroic
   headline: Bend schools to close Friday as governor calls bystander 'heroic'
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7509
+  strength: 0.7516
 - slug: 2026-10-15-bend-police-confirm-shooting-at-silver-rail-elementary-school-injures-multiple-i
-  headline: Bend police confirm shooting at Silver Rail Elementary School injures multiple, including children
+  headline: Bend police confirm shooting at Silver Rail Elementary School injures
+    multiple, including children
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.756
+  strength: 0.7579
+- slug: 2026-10-23-kaylub-giamanco-calls-for-school-resource-officers-school-safety-funding
+  headline: Kaylub Giamanco calls for school resource officers, school safety funding
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7105
 - slug: 2026-10-15-shooting-at-oregon-elementary-school-leaves-five-dead-including-suspect
   headline: Shooting at Oregon elementary school leaves five dead, including suspect
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7552
-- slug: 2026-10-16-bend-police-say-teen-forces-entry-to-school-by-shooting-at-locked-doors
-  headline: Bend police say teen forces entry to school by shooting at locked doors
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7431
-- slug: 2026-10-16-three-children-and-teacher-killed-in-bend-elementary-school-shooting
-  headline: Three children and teacher killed in Bend elementary school shooting
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7381
-- slug: 2026-10-19-2018-post-reportedly-shows-oregon-bystander-in-iraq-veteran-shooting-drills
-  headline: 2018 post reportedly shows Oregon bystander in Iraq-veteran shooting drills
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7121
-- slug: 2026-08-12-georgia-high-school-shooting-wounds-ninth-grader-teenage-suspect-in-custody
-  headline: Georgia high school shooting wounds ninth-grader; teenage suspect in custody
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.59
-- slug: 2026-05-19-opening-statements-in-trial-of-ex-virginia-school-official-charged-after-shootin
-  headline: Opening statements in trial of ex-Virginia school official charged after shooting
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6312
-- slug: 2026-05-20-opening-statements-begin-in-ebony-parker-trial-over-2023-teacher-shooting
-  headline: Opening statements begin in Ebony Parker trial over 2023 teacher shooting
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6284
-- slug: 2026-05-19-prosecutor-virginia-school-official-ignored-warnings-about-6-year-old-with-gun
-  headline: 'Prosecutor: Virginia school official ignored warnings about 6-year-old with gun'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6277
-- slug: 2026-05-10-shreveport-community-mourns-8-children-killed-in-mass-shooting-at-funeral
-  headline: Shreveport community mourns 8 children killed in mass shooting at funeral
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6085
-- slug: 2026-05-21-judge-dismisses-charges-against-former-assistant-principal-in-richneck-case
-  headline: Judge dismisses charges against former assistant principal in Richneck case
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5854
-- slug: 2026-04-20-community-reels-from-shreveport-shooting-that-killed-eight-children
-  headline: Community Reels From Shreveport Shooting That Killed Eight Children
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5955
-- slug: 2026-01-13-uvalde-teacher-testifies-he-saw-black-shadow-with-gun-in-robb-school-attack
-  headline: Uvalde teacher testifies he saw 'black shadow with a gun' in 2022 school attack
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6071
-- slug: 2026-04-15-oklahoma-principal-tackles-disarms-gunman-at-pauls-valley-high-school
-  headline: Oklahoma principal tackles, disarms gunman at Pauls Valley High School
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5894
-- slug: 2026-02-13-remote-tumbler-ridge-community-grieves-after-deadly-school-shooting
-  headline: Remote Tumbler Ridge community grieves after deadly school shooting
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5971
-- slug: 2026-01-12-uvalde-officer-trial-enters-second-week-as-prosecution-presses-inaction-case
-  headline: Uvalde officer trial enters second week as prosecution presses inaction case
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5991
-- slug: 2026-02-12-shootings-in-tumbler-ridge-british-columbia-leave-10-dead
-  headline: Shootings in Tumbler Ridge, British Columbia, leave 10 dead
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5938
+  strength: 0.7567
 ---
-
 ## Bend public schools reopen after Silver Rail Elementary School shooting
 
 **Subtype:** fact

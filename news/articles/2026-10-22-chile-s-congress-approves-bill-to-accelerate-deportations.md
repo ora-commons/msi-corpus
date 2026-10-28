@@ -1,9 +1,19 @@
 ---
 headline: Chile's Congress approves bill to accelerate deportations
-secondary_headline: The bill expands biometric records and sets a 24-hour judicial review window
+secondary_headline: The bill expands biometric records and sets a 24-hour judicial
+  review window
 publish_date: '2026-10-22'
-lede: Lawmakers in both chambers of Chile's Congress gave final approval on Wednesday to a bill intended to streamline and accelerate administrative deportations of immigrants living in Chile without legal status. The measure seeks to facilitate enforcement of approximately 75,000 pending deportation orders. After Congress prepares the final text and formally delivers it to the president's office, President José Antonio Kast will have 10 days to sign it into law.
-nut_graf: The bill aims to accelerate deportations by allowing authorities to locate, notify and detain people covered by orders. Jaime Abedrapo said additional resources were essential; Hernán Campos said success depended heavily on international cooperation; Francisca Vargas warned the measures could weaken judicial protections and push migrants into hiding.
+lede: Lawmakers in both chambers of Chile's Congress gave final approval on Wednesday
+  to a bill intended to streamline and accelerate administrative deportations of immigrants
+  living in Chile without legal status. The measure seeks to facilitate enforcement
+  of approximately 75,000 pending deportation orders. After Congress prepares the
+  final text and formally delivers it to the president's office, President José Antonio
+  Kast will have 10 days to sign it into law.
+nut_graf: The bill aims to accelerate deportations by allowing authorities to locate,
+  notify and detain people covered by orders. Jaime Abedrapo said additional resources
+  were essential; Hernán Campos said success depended heavily on international cooperation;
+  Francisca Vargas warned the measures could weaken judicial protections and push
+  migrants into hiding.
 primary_entities:
 - Chile
 - Chile's Congress
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,116 +163,39 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-chile-s-congress-approves-bill-to-accelerate-deportations.png
-  alt: 'Illustration accompanying article: Chile''s Congress approves bill to accelerate deportations'
+  alt: 'Illustration accompanying article: Chile''s Congress approves bill to accelerate
+    deportations'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-09-24-chile-venezuela-move-toward-restoring-diplomatic-ties
   headline: Chile, Venezuela move toward restoring diplomatic ties
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7027
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6119
-- slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
-  headline: Appeals court rules third-country deportation policy unlawful
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6063
-- slug: 2026-09-15-federal-judge-orders-return-of-nicaraguan-woman-deported-mid-case
-  headline: Federal judge orders return of Nicaraguan woman deported mid-case
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.607
+  strength: 0.7023
 - slug: 2026-08-10-kast-signs-constitutional-reform-bill-to-combat-organized-crime
   headline: Kast signs constitutional reform bill to combat organized crime
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7109
-- slug: 2026-08-25-de-la-espriella-orders-immigration-operations-in-barranquilla
-  headline: De la Espriella orders immigration operations in Barranquilla
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.637
-- slug: 2026-08-21-ar-valo-confirms-guatemala-received-2-284-mexican-deportees-from-us-this-year
-  headline: Arévalo confirms Guatemala received 2,284 Mexican deportees from US this year
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6078
-- slug: 2026-07-22-chile-s-congress-approves-kast-backed-economic-overhaul-cutting-corporate-tax-to
-  headline: Chile's Congress approves Kast-backed economic overhaul, cutting corporate tax to 23%
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6469
+  strength: 0.7108
 - slug: 2026-03-15-kast-begins-work-on-border-shield-barrier-to-curb-illegal-immigration
   headline: Kast begins work on “Border Shield” barrier to curb illegal immigration
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7043
+  strength: 0.7042
 - slug: 2026-05-23-chile-starts-border-shield-trench-work-to-deter-illegal-entry
   headline: Chile starts “Border Shield” trench work to deter illegal entry
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.661
-- slug: 2026-06-23-appeals-court-allows-trump-to-fast-track-deportations-nationwide
-  headline: Appeals court allows Trump to fast-track deportations nationwide
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6333
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6091
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6211
-- slug: 2026-05-14-u-s-deportations-to-el-salvador-nearly-double-as-bukele-aligns-with-trump
-  headline: U.S. deportations to El Salvador nearly double as Bukele aligns with Trump
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6372
-- slug: 2026-06-05-congress-sends-trump-nearly-70b-to-fund-deportation-agenda
-  headline: Congress sends Trump nearly $70B to fund deportation agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6224
-- slug: 2026-05-14-us-deportations-to-el-salvador-nearly-double-in-early-2026
-  headline: US deportations to El Salvador nearly double in early 2026
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.635
-- slug: 2026-06-02-eu-reaches-deal-to-ramp-up-deportations-build-detention-centers-abroad
-  headline: EU reaches deal to ramp up deportations, build detention centers abroad
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6147
-- slug: 2026-02-06-venezuela-advances-amnesty-bill-that-could-expand-political-prisoner-releases
-  headline: Venezuela advances amnesty bill that could expand political prisoner releases
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6459
-- slug: 2026-03-12-jos-antonio-kast-sworn-in-as-chile-president-in-sharp-rightward-shift
-  headline: José Antonio Kast sworn in as Chile president in sharp rightward shift
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6395
-- slug: 2026-05-07-justice-department-targets-slow-immigration-judges-to-clear-immigration-backlog
-  headline: Justice Department targets slow immigration judges to clear immigration backlog
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6174
+  strength: 0.6611
 ---
-
 ## Chile's Congress approves bill to accelerate deportations
 
 **Subtype:** fact

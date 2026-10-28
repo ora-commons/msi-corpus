@@ -1,9 +1,17 @@
 ---
 headline: Federal prosecutors charge Nathan Young and his father in healthcare fraud
-secondary_headline: Facilities submitted claims exceeding $1.6 billion and collected over $210 million
+secondary_headline: Facilities submitted claims exceeding $1.6 billion and collected
+  over $210 million
 publish_date: '2026-10-22'
-lede: Federal prosecutors charged Southern California drug-rehab operator Nathan Young and his father, David Young, with healthcare fraud and violating an anti-kickback statute. A criminal complaint alleges facilities associated with Nathan Young submitted more than $1.6 billion in claims to major health insurers and received over $210 million between 2020 and 2026.
-nut_graf: 'The allegations focus on patient recruitment and treatment billing: prosecutors say employees were directed to use kickbacks, while facilities associated with Nathan Young provided recovering addicts illegal drugs and continued billing insurers. Lawyers for the Youngs did not respond to requests for comment.'
+lede: Federal prosecutors charged Southern California drug-rehab operator Nathan Young
+  and his father, David Young, with healthcare fraud and violating an anti-kickback
+  statute. A criminal complaint alleges facilities associated with Nathan Young submitted
+  more than $1.6 billion in claims to major health insurers and received over $210
+  million between 2020 and 2026.
+nut_graf: 'The allegations focus on patient recruitment and treatment billing: prosecutors
+  say employees were directed to use kickbacks, while facilities associated with Nathan
+  Young provided recovering addicts illegal drugs and continued billing insurers.
+  Lawyers for the Youngs did not respond to requests for comment.'
 primary_entities:
 - Nathan Young
 - David Young
@@ -34,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,108 +141,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-05-texas-attorney-general-paxton-opens-unitedhealth-group-investigation
-  headline: Texas Attorney General Paxton opens UnitedHealth Group investigation
-  publish_date: '2026-10-05'
+- slug: 2026-10-22-prosecutors-charge-15-in-southern-california-healthcare-fraud-case
+  headline: Prosecutors charge 15 over alleged healthcare fraud in Southern California
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6219
-- slug: 2026-08-03-complete-health-agrees-to-14-1-million-medicare-settlement
-  headline: Complete Health agrees to $14.1 million Medicare settlement
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6255
+  strength: 0.7059
 - slug: 2026-06-23-justice-department-unveils-6-5-billion-healthcare-fraud-crackdown
   headline: Justice Department unveils $6.5 billion healthcare fraud crackdown
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6669
+  strength: 0.6666
 - slug: 2026-06-04-doj-secures-6-healthcare-fraud-convictions-in-3-weeks
   headline: DOJ secures 6 healthcare fraud convictions in 3 weeks
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6743
-- slug: 2026-07-21-hhs-halts-1-billion-in-medicaid-payments-after-ai-flagged-potential-fraud
-  headline: HHS halts $1 billion in Medicaid payments after AI flagged potential fraud
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6068
+  strength: 0.6734
 - slug: 2026-04-03-federal-officials-arrest-8-in-los-angeles-area-medicare-health-care-fraud
   headline: Federal officials arrest 8 in Los Angeles-area Medicare health care fraud
   publish_date: '2026-04-03'
   relation: related
-  strength: 0.6774
+  strength: 0.6775
 - slug: 2026-01-23-auditor-identifies-montana-health-care-fraud-scheme-targeting-native-americans
   headline: Auditor identifies Montana health care fraud scheme targeting Native Americans
   publish_date: '2026-01-23'
   relation: related
-  strength: 0.6736
+  strength: 0.6742
 - slug: 2026-02-19-report-finds-16-nevada-insurers-shortchange-mental-health-care-coverage
   headline: Report finds 16 Nevada insurers shortchange mental health care coverage
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6665
-- slug: 2026-04-11-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6473
-- slug: 2026-04-10-state-ag-rob-bonta-charges-21-in-hospice-services-fraud-scheme
-  headline: State AG Rob Bonta charges 21 in hospice services fraud scheme
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6382
-- slug: 2026-01-15-kaiser-affiliates-to-pay-556m-to-settle-medicare-fraud-lawsuit
-  headline: Kaiser affiliates to pay $556M to settle Medicare fraud lawsuit
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.649
-- slug: 2026-05-14-vance-announces-1-3b-medicaid-deferral-medicare-hospice-enrollment-freeze
-  headline: Vance announces $1.3B Medicaid deferral, Medicare hospice enrollment freeze
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6227
-- slug: 2026-04-09-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6297
-- slug: 2026-05-14-vance-announces-1-3b-medicaid-deferral-to-california-over-fraud-suspicions
-  headline: Vance announces $1.3B Medicaid deferral to California over fraud suspicions
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6132
-- slug: 2026-03-27-texas-reviewed-child-care-scholarship-spending-after-minnesota-fraud-claims
-  headline: Texas reviewed child-care scholarship spending after Minnesota fraud claims
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6208
-- slug: 2026-04-12-trump-administration-admits-error-in-new-york-health-care-fraud-probe
-  headline: Trump administration admits error in New York health care fraud probe
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6168
-- slug: 2026-03-04-trump-administration-launches-medicaid-fraud-probe-in-new-york
-  headline: Trump administration launches Medicaid fraud probe in New York
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.616
-- slug: 2026-03-02-minnesota-sues-trump-administration-over-243m-medicaid-spending-hold
-  headline: Minnesota sues Trump administration over $243M Medicaid spending hold
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6136
-- slug: 2026-01-08-connecticut-public-sector-health-plan-posts-23m-deficit-as-medical-costs-surge
-  headline: Connecticut public-sector health plan posts $23M deficit as medical costs surge
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6167
-- slug: 2026-03-15-13-attorneys-general-sue-onemain-over-hidden-loan-add-on-products
-  headline: 13 attorneys general sue OneMain over hidden loan add-on products
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6066
+  strength: 0.6667
 ---
-
 ## Federal prosecutors charge Nathan Young and his father in healthcare fraud
 
 **Subtype:** fact

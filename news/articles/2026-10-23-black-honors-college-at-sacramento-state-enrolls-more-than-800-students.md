@@ -2,8 +2,16 @@
 headline: Black Honors College at Sacramento State enrolls more than 800 students
 secondary_headline: Wood says the college is open to students of every race
 publish_date: '2026-10-23'
-lede: As of October 23, 2026, Sacramento State's Black Honors College has more than 800 students enrolled in a program centered on Black history, life and culture. President Luke Wood says the initiative is open to students of every race, even as the Trump administration has launched civil-rights investigations into race-specific programs and the Treasury Department has proposed a rule affecting race-based aid.
-nut_graf: The initiative pairs Black studies coursework with faculty selection, advising and mentoring. President Luke Wood says Black-student enrollment is up, more Black students are re-enrolling and graduating, and Black students are doing better. Wood says the college is open to students of every race and that it complies with federal and state laws.
+lede: As of October 23, 2026, Sacramento State's Black Honors College has more than
+  800 students enrolled in a program centered on Black history, life and culture.
+  President Luke Wood says the initiative is open to students of every race, even
+  as the Trump administration has launched civil-rights investigations into race-specific
+  programs and the Treasury Department has proposed a rule affecting race-based aid.
+nut_graf: The initiative pairs Black studies coursework with faculty selection, advising
+  and mentoring. President Luke Wood says Black-student enrollment is up, more Black
+  students are re-enrolling and graduating, and Black students are doing better. Wood
+  says the college is open to students of every race and that it complies with federal
+  and state laws.
 primary_entities:
 - Sacramento State
 - Black Honors College
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +152,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-justice-department-alleges-osu-med-admissions-favored-black-hispanic-applicants
-  headline: Justice Department alleges OSU Med admissions favored Black, Hispanic applicants
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6446
-- slug: 2026-10-20-democratic-governors-divided-over-federal-scholarship-tax-credit
-  headline: Democratic governors divided over Federal Scholarship Tax Credit
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6073
-- slug: 2026-10-07-federal-data-show-black-students-lose-over-four-times-as-many-school-days-to-sus
-  headline: Federal data show Black students lose over four times as many school days to suspension
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6084
-- slug: 2026-10-02-doj-says-ucla-law-school-illegally-considered-race-in-admissions
-  headline: DOJ says UCLA Law School illegally considered race in admissions
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6234
-- slug: 2026-10-02-doj-sues-university-of-delaware-over-in-state-tuition-for-undocumented-students
-  headline: DOJ sues University of Delaware over in-state tuition for undocumented students
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6191
 - slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
   headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6546
-- slug: 2026-09-25-private-colleges-cut-tuition-and-drop-loans-to-draw-wary-families
-  headline: Private colleges cut tuition and drop loans to draw wary families
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6085
-- slug: 2026-09-10-doj-says-berkeley-law-violated-civil-rights-law-in-2024-25-admissions
-  headline: DOJ says Berkeley Law violated civil-rights law in 2024-25 admissions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6076
-- slug: 2026-07-28-colleges-rush-to-admit-students-disenrolled-from-howard-university
-  headline: Colleges rush to admit students disenrolled from Howard University
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6288
-- slug: 2026-07-21-doj-says-uc-san-diego-medical-school-illegally-used-race-in-admissions
-  headline: DOJ says UC San Diego medical school illegally used race in admissions
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6353
-- slug: 2026-07-20-justice-department-investigates-harvard-s-china-based-financial-aid-programs
-  headline: Justice Department investigates Harvard's China-based financial aid programs
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6124
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6437
+  strength: 0.6553
 - slug: 2026-03-27-trump-administration-investigates-race-in-admissions-at-3-medical-schools
   headline: Trump administration investigates race in admissions at 3 medical schools
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.6643
-- slug: 2026-05-15-justice-department-alleges-yale-illegally-considered-race-in-medical-admissions
-  headline: Justice Department alleges Yale illegally considered race in medical admissions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6336
-- slug: 2026-05-15-justice-department-alleges-yale-medical-school-illegally-factored-race-into-admi
-  headline: Justice Department alleges Yale medical school illegally factored race into admissions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6278
-- slug: 2026-05-30-jackson-state-s-new-president-will-receive-leadership-coaching-after-years-of-tu
-  headline: Jackson State’s new president will receive leadership coaching after years of turnover
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6195
+  strength: 0.6649
 - slug: 2026-02-06-california-pushes-colleges-to-give-credit-for-prior-work-and-training
   headline: California pushes colleges to give credit for prior work and training
   publish_date: '2026-02-06'
   relation: related
   strength: 0.6511
-- slug: 2026-05-13-cal-state-trustees-approve-three-year-bachelor-s-degrees-as-enrollment-declines-
-  headline: Cal State trustees approve three-year bachelor's degrees as enrollment declines persist
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6243
-- slug: 2026-05-13-cal-state-may-allow-shortened-bachelor-s-degrees-taking-as-little-as-3-years
-  headline: Cal State may allow shortened bachelor’s degrees taking as little as 3 years
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6123
-- slug: 2026-01-08-texas-a-m-policy-puts-200-courses-under-review-cancels-race-and-ethnicity-class
-  headline: Texas A&M policy puts 200 courses under review, cancels race and ethnicity class
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6307
 ---
-
 ## Black Honors College at Sacramento State enrolls more than 800 students
 
 **Subtype:** fact

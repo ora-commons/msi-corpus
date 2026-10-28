@@ -1,9 +1,24 @@
 ---
 headline: 13 large public pension funds hold about $195 billion in AI-linked stocks
-secondary_headline: AI basket drove roughly 57% of 13 funds’ collective U.S. stock gains
+secondary_headline: AI basket drove roughly 57% of 13 funds’ collective U.S. stock
+  gains
 publish_date: '2026-10-23'
-lede: Thirteen of the largest state and local public-employee pension funds that manage investments in-house held about $195 billion in shares of 15 AI-linked companies as of June, according to a Wall Street Journal analysis of securities filings. The basket represented roughly 27% of the 13 funds’ collective domestic equities and drove about 57% of their U.S. stock gains from the end of 2022 through June. Across the broader U.S. public-pension system, combined assets grew from $5.8 trillion in 2023 to $7.3 trillion in June, according to Federal Reserve data. New York’s July moratorium on many new projects to study regulation, Pennsylvania’s efforts to slow development and California union calls for funds to weigh worker and community risks have put the investments in political conflict.
-nut_graf: 'The political conflict creates two distinct downside paths for pension boards: governments could regulate data-center projects out of existence, or a broader pullback could cascade through the AI industry and crush markets. A market decline could reduce pension assets and affect millions of teachers, firefighters and other workers the funds support, even as AI-linked gains have helped public pensions recover toward pre-2007-09 funding levels.'
+lede: Thirteen of the largest state and local public-employee pension funds that manage
+  investments in-house held about $195 billion in shares of 15 AI-linked companies
+  as of June, according to a Wall Street Journal analysis of securities filings. The
+  basket represented roughly 27% of the 13 funds’ collective domestic equities and
+  drove about 57% of their U.S. stock gains from the end of 2022 through June. Across
+  the broader U.S. public-pension system, combined assets grew from $5.8 trillion
+  in 2023 to $7.3 trillion in June, according to Federal Reserve data. New York’s
+  July moratorium on many new projects to study regulation, Pennsylvania’s efforts
+  to slow development and California union calls for funds to weigh worker and community
+  risks have put the investments in political conflict.
+nut_graf: 'The political conflict creates two distinct downside paths for pension
+  boards: governments could regulate data-center projects out of existence, or a broader
+  pullback could cascade through the AI industry and crush markets. A market decline
+  could reduce pension assets and affect millions of teachers, firefighters and other
+  workers the funds support, even as AI-linked gains have helped public pensions recover
+  toward pre-2007-09 funding levels.'
 primary_entities:
 - The Wall Street Journal
 - Federal Reserve
@@ -36,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +150,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
+  headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6698
 - slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6677
+  strength: 0.6672
 - slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
+  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global
+    risks
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6702
+  strength: 0.6709
+- slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
+  headline: Dow ends lower as AI shares rebound and European indexes retreat
+  publish_date: '2026-10-19'
+  relation: related
+  strength: 0.6704
 - slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
+  headline: US AI infrastructure investment projected at $10.3 trillion from 2025
+    to 2032
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6837
+  strength: 0.6845
 - slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
   headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6713
+  strength: 0.6719
 - slug: 2026-09-15-private-equity-firms-energy-assets-emit-1-5-billion-tons-of-greenhouse-gas-a-yea
-  headline: Private equity firms' energy assets emit 1.5 billion tons of greenhouse gas a year
+  headline: Private equity firms' energy assets emit 1.5 billion tons of greenhouse
+    gas a year
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6683
+  strength: 0.6682
 - slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6717
-- slug: 2026-08-20-california-ai-investment-draws-366-billion-more-than-triple-other-states
-  headline: California AI Investment Draws $366 Billion, More Than Triple Other States
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6942
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6926
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6764
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6662
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.689
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7113
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6798
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6777
-- slug: 2026-06-12-spacex-ipo-and-pending-ai-listings-bind-us-retirement-funds-to-tech-sector-analy
-  headline: SpaceX IPO and pending AI listings bind US retirement funds to tech sector, analysis says
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6793
-- slug: 2026-06-13-experts-warn-ai-could-double-gdp-growth-while-fueling-underemployment-and-unrest
-  headline: Experts warn AI could double GDP growth while fueling underemployment and unrest
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6758
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6671
-- slug: 2026-06-05-u-s-officials-discuss-government-taking-stakes-in-ai-industry
-  headline: U.S. Officials Discuss Government Taking Stakes in AI Industry
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6782
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
   strength: 0.6723
-- slug: 2026-01-06-california-s-ai-tax-windfall-masks-job-losses-and-bubble-risk-analysts-warn
-  headline: California's AI tax windfall masks job losses and bubble risk, analysts warn
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.7111
 ---
-
 ## 13 large public pension funds hold about $195 billion in AI-linked stocks
 
 **Subtype:** fact

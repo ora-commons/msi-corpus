@@ -1,9 +1,17 @@
 ---
 headline: Mississippi attorney general calls police shooting of one-year-old justified
-secondary_headline: Released footage showed five officers with guns drawn descending on a car
+secondary_headline: Released footage showed five officers with guns drawn descending
+  on a car
 publish_date: '2026-10-23'
-lede: The Mississippi attorney general announced that the police shooting of one-year-old Kohen Wiley “was justified,” The Guardian reported on October 23. Wiley’s maternal grandmother, Veronica Roberson, said, “The word ‘justified’ has haunted me since Monday.” Family attorney Ben Crump called the leaked videos “slaps in the face.”
-nut_graf: The attorney general’s announcement, Roberson’s response and the release of video evidence place the shooting and the question of its justification at the center of the report. The wider Guardian roundup also covered flu activity rising earlier than normal, government investigations, climate research and political and cultural features.
+lede: The Mississippi attorney general announced that the police shooting of one-year-old
+  Kohen Wiley “was justified,” The Guardian reported on October 23. Wiley’s maternal
+  grandmother, Veronica Roberson, said, “The word ‘justified’ has haunted me since
+  Monday.” Family attorney Ben Crump called the leaked videos “slaps in the face.”
+nut_graf: The attorney general’s announcement, Roberson’s response and the release
+  of video evidence place the shooting and the question of its justification at the
+  center of the report. The wider Guardian roundup also covered flu activity rising
+  earlier than normal, government investigations, climate research and political and
+  cultural features.
 primary_entities:
 - Kohen Wiley
 - Veronica Roberson
@@ -70,7 +78,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -169,107 +178,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
+  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage
+    surfaces
   publish_date: '2026-10-22'
   relation: related
   strength: 0.812
+- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
+  headline: Mississippi releases body-camera footage of fatal toddler police shooting
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7354
 - slug: 2026-10-19-mississippi-ag-rules-officer-s-use-of-force-in-1-year-old-s-death-justified
   headline: Mississippi AG rules officer's use of force in 1-year-old's death justified
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7469
+  strength: 0.7466
+- slug: 2026-10-23-officer-resigns-after-video-release-in-death-of-one-year-old-kohen-wiley
+  headline: Officer resigns after video release in death of one-year-old Kohen Wiley
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7183
 - slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
   headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7128
+  strength: 0.713
+- slug: 2026-10-23-hunter-foster-resigns-from-police-after-killing-one-year-old-kohen-wiley
+  headline: Hunter Foster resigns from police after killing one-year-old Kohen Wiley
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6868
 - slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
   headline: Autopsy indicates Kohen Wiley shot from side of car, not front
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7143
-- slug: 2026-10-20-federal-agents-probe-white-powder-envelopes-sent-to-congressional-offices
-  headline: Federal agents probe white-powder envelopes sent to congressional offices
-  publish_date: '2026-10-20'
+  strength: 0.7139
+- slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
+  headline: Foster remains certified after resigning from Senatobia police force
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.623
-- slug: 2026-09-02-senatobia-fires-police-chief-after-report-of-racist-text-messages
-  headline: Senatobia fires police chief after report of racist text messages
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6693
-- slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
-  headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6434
-- slug: 2026-08-14-wells-parents-seek-federal-review-of-teen-s-death-at-nabj-convention
-  headline: Wells' parents seek federal review of teen's death at NABJ convention
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6328
-- slug: 2026-06-22-fatal-police-shooting-of-one-year-old-boy-ignites-tensions-in-senatobia-mississi
-  headline: Fatal police shooting of one-year-old boy ignites tensions in Senatobia, Mississippi
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7002
-- slug: 2026-06-26-mississippi-protesters-demand-footage-after-police-kill-one-year-old-boy
-  headline: Mississippi protesters demand footage after police kill one-year-old boy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6823
-- slug: 2026-07-25-mother-urges-uk-to-press-texas-on-daughter-s-shooting-death
-  headline: Mother urges UK to press Texas on daughter's shooting death
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6376
-- slug: 2026-06-16-one-year-old-killed-woman-wounded-after-mississippi-police-shoot-at-car
-  headline: One-year-old killed, woman wounded after Mississippi police shoot at car
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6777
-- slug: 2026-05-18-federal-officer-shoots-and-kills-minneapolis-man-in-immigration-sweep
-  headline: Federal officer shoots and kills Minneapolis man in immigration sweep
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6184
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6304
-- slug: 2026-01-17-tear-gas-floods-minneapolis-family-s-suv-infant-and-two-children-hospitalized
-  headline: Tear gas floods Minneapolis family's SUV; infant and two children hospitalized
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6304
-- slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
-  headline: New ICE officer video raises use-of-force questions in Minneapolis shooting
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6286
-- slug: 2026-02-28-family-of-renee-good-mourns-her-death-after-minneapolis-ice-shooting
-  headline: Family of Renee Good mourns her death after Minneapolis ICE shooting
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6239
-- slug: 2026-01-27-youngkin-pardons-ex-police-sergeant-in-fatal-mall-shooting
-  headline: Youngkin pardons ex-police sergeant in fatal mall shooting
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6264
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal ICE shooting
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6262
-- slug: 2026-02-11-mother-seeks-accountability-for-u-s-airman-roger-fortson-shot-by-fla-deputy
-  headline: Mother seeks accountability for U.S. Airman Roger Fortson shot by Fla. deputy
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6223
+  strength: 0.6857
 ---
-
 ## Mississippi attorney general calls police shooting of one-year-old justified
 
 **Subtype:** fact

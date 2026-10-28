@@ -1,9 +1,22 @@
 ---
 headline: Greens weigh Steele-John's party expulsion and Senate estimates participation
-secondary_headline: More than seven secret-ballot votes needed to compel party-room leave
+secondary_headline: More than seven secret-ballot votes needed to compel party-room
+  leave
 publish_date: '2026-10-23'
-lede: Guardian Australia reported that more than seven members of the federal Greens' party room would have to support Jordon Steele-John's expulsion in a secret ballot before the Western Australian senator would have to comply with leave, and that Greens leader David Shoebridge could not force compliance alone. The report said the Australian Greens also must decide whether their disability spokesperson should attend Monday's Senate estimates, perhaps virtually, while the NDIS undergoes major changes through the end of the decade. Steele-John's party position remained in limbo more than a week after allegations that he had acted inappropriately towards women made headlines.
-nut_graf: Guardian Australia assessed that the decision over whether to force Steele-John to take leave would be as much about David Shoebridge's leadership as about the party's processes. The Australian Greens also must decide whether their disability spokesperson attends Monday's Senate estimates, perhaps virtually, while the NDIS undergoes major changes through the end of the decade.
+lede: Guardian Australia reported that more than seven members of the federal Greens'
+  party room would have to support Jordon Steele-John's expulsion in a secret ballot
+  before the Western Australian senator would have to comply with leave, and that
+  Greens leader David Shoebridge could not force compliance alone. The report said
+  the Australian Greens also must decide whether their disability spokesperson should
+  attend Monday's Senate estimates, perhaps virtually, while the NDIS undergoes major
+  changes through the end of the decade. Steele-John's party position remained in
+  limbo more than a week after allegations that he had acted inappropriately towards
+  women made headlines.
+nut_graf: Guardian Australia assessed that the decision over whether to force Steele-John
+  to take leave would be as much about David Shoebridge's leadership as about the
+  party's processes. The Australian Greens also must decide whether their disability
+  spokesperson attends Monday's Senate estimates, perhaps virtually, while the NDIS
+  undergoes major changes through the end of the decade.
 primary_entities:
 - David Shoebridge
 - Jordon Steele-John
@@ -50,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +162,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-steele-john-will-not-attend-parliament-next-week-as-an-independent-investigation
+  headline: Steele-John will not attend parliament next week as an independent investigation
+    continues
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8246
 - slug: 2026-10-15-greens-senator-steele-john-takes-party-room-leave-denies-inappropriate-comment-a
-  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment allegations
+  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment
+    allegations
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8478
+  strength: 0.8476
 - slug: 2026-10-16-greens-leader-shoebridge-denies-knowledge-of-steele-john-dossier
   headline: Greens leader Shoebridge denies knowledge of Steele-John dossier
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8224
-- slug: 2026-10-21-david-pocock-calls-for-gas-tax-data-centre-levy-and-coalition-of-independents
-  headline: David Pocock calls for gas tax, data centre levy and coalition of independents
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6099
-- slug: 2026-10-21-haines-remains-stable-after-double-leg-amputation-following-alleged-wangaratta-a
-  headline: Haines remains stable after double-leg amputation following alleged Wangaratta attack
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5825
-- slug: 2026-10-21-australian-mps-disclose-spending-on-home-and-office-security
-  headline: Australian MPs disclose spending on home and office security
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5706
-- slug: 2026-10-09-greens-concede-holborn-and-st-pancras-byelection-citing-close-second-to-labour
-  headline: Greens concede Holborn and St Pancras byelection, citing close second to Labour
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6257
-- slug: 2026-10-14-greens-coalition-block-australian-bill-cutting-over-65s-health-rebate
-  headline: Greens, Coalition block Australian bill cutting over-65s health rebate
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5915
+  strength: 0.8216
 - slug: 2026-09-30-greens-leader-shoebridge-tells-abc-voters-want-a-party-that-will-fight-the-1
-  headline: Greens leader Shoebridge tells ABC voters want a party that will fight the 1%
+  headline: Greens leader Shoebridge tells ABC voters want a party that will fight
+    the 1%
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6636
-- slug: 2026-10-12-australian-greens-urge-government-to-block-us-firing-squad-livestream
-  headline: Australian Greens urge government to block US firing-squad livestream
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5967
-- slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
-  headline: Democratic Senate candidates split on Medicare for All ahead of midterms
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5703
-- slug: 2026-10-12-esafety-faces-steep-legal-political-hurdles-over-planned-hasan-livestream
-  headline: eSafety faces steep legal, political hurdles over planned Hasan livestream
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5745
-- slug: 2026-10-11-greens-senator-seeks-to-block-us-execution-livestream-in-australia
-  headline: Greens senator seeks to block US execution livestream in Australia
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5723
-- slug: 2026-10-07-brighton-council-considers-barring-greens-from-venue-over-zionism-motion
-  headline: Brighton council considers barring Greens from venue over Zionism motion
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5733
-- slug: 2026-09-15-guardian-to-host-live-q-a-on-democratic-unity-ahead-of-midterms
-  headline: Guardian to host live Q&A on Democratic unity ahead of midterms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5856
-- slug: 2026-09-10-fetterman-s-gop-convention-video-raises-democratic-loyalty-questions
-  headline: Fetterman's GOP convention video raises Democratic loyalty questions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5751
-- slug: 2026-09-04-fetterman-cancels-meetings-skips-hearings-report-finds
-  headline: Fetterman cancels meetings, skips hearings, report finds
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5889
-- slug: 2026-08-05-dnc-chair-ken-martin-faces-criticism-over-party-finances-and-internal-dissent
-  headline: DNC chair Ken Martin faces criticism over party finances and internal dissent
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5707
-- slug: 2026-06-21-business-secretary-peter-kyle-sounds-like-man-who-knows-starmer-is-done
-  headline: Business Secretary Peter Kyle sounds like man who knows Starmer is done
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5695
-- slug: 2026-05-22-dnc-chair-ken-martin-faces-calls-to-resign-as-autopsy-fallout-roils-party
-  headline: DNC chair Ken Martin faces calls to resign as autopsy fallout roils party
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5889
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5706
+  strength: 0.663
 ---
-
 ## Greens weigh Steele-John's party expulsion and Senate estimates participation
 
 **Subtype:** fact

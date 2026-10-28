@@ -1,9 +1,20 @@
 ---
-headline: Justice Department examines allegations that Lewandowski profited from DHS role
-secondary_headline: Contract evidence anchors inquiry; earlier report covered foreign hiring requests
+headline: Justice Department examines allegations that Lewandowski profited from DHS
+  role
+secondary_headline: Contract evidence anchors inquiry; earlier report covered foreign
+  hiring requests
 publish_date: '2026-10-22'
-lede: The Justice Department is examining allegations that Corey Lewandowski profited from his top position at the Department of Homeland Security, according to people familiar with the matter. The review is based on a referral from the DHS inspector general, which shared its findings about Lewandowski’s tenure in recent days, according to people familiar with the matter.
-nut_graf: Investigators looked into many contracts signed during the tenure of then-Homeland Security Secretary Kristi Noem and Lewandowski’s role in approvals. According to people familiar with the matter, the inquiry followed a DHS inspector general referral after the office shared findings about Lewandowski’s tenure in recent days. The Wall Street Journal described the inquiry as the first publicly known instance of Trump’s second-term Justice Department scrutinizing someone close to the president.
+lede: The Justice Department is examining allegations that Corey Lewandowski profited
+  from his top position at the Department of Homeland Security, according to people
+  familiar with the matter. The review is based on a referral from the DHS inspector
+  general, which shared its findings about Lewandowski’s tenure in recent days, according
+  to people familiar with the matter.
+nut_graf: Investigators looked into many contracts signed during the tenure of then-Homeland
+  Security Secretary Kristi Noem and Lewandowski’s role in approvals. According to
+  people familiar with the matter, the inquiry followed a DHS inspector general referral
+  after the office shared findings about Lewandowski’s tenure in recent days. The
+  Wall Street Journal described the inquiry as the first publicly known instance of
+  Trump’s second-term Justice Department scrutinizing someone close to the president.
 primary_entities:
 - Corey Lewandowski
 - Justice Department
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +152,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-doj-reportedly-opens-probe-into-former-dhs-official-corey-lewandowski
+  headline: DOJ reportedly opens probe into former DHS official Corey Lewandowski
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8796
+- slug: 2026-10-23-washington-sun-reports-some-dhs-records-requests-denied-in-lewandowski-s-tenure
+  headline: Washington Sun reports some DHS records requests denied in Lewandowski’s
+    tenure
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8575
+- slug: 2026-10-23-one-source-says-doj-has-not-yet-issued-subpoenas-in-the-corey-lewandowski-inquir
+  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski
+    inquiry
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.848
+- slug: 2026-10-23-lawmakers-question-noem-s-220m-ad-award-to-two-firms-tied-to-noem-and-her-circle
+  headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and
+    her circle
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8427
 - slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6573
+  strength: 0.6578
 - slug: 2026-09-08-lewandowski-allegedly-pitched-government-services-to-qatar-uae-while-at-dhs
-  headline: Lewandowski allegedly pitched government services to Qatar, UAE while at DHS
+  headline: Lewandowski allegedly pitched government services to Qatar, UAE while
+    at DHS
   publish_date: '2026-09-08'
   relation: related
   strength: 0.8137
-- slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
-  headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6241
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6337
-- slug: 2026-10-12-homan-disclosed-omar-as-dhs-investigation-target-on-fox-before-home-search
-  headline: Homan disclosed Omar as DHS investigation target on Fox before home search
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6081
 - slug: 2026-07-10-dhs-inspector-general-finds-lewandowski-may-have-improperly-awarded-contracts
   headline: DHS inspector general finds Lewandowski may have improperly awarded contracts
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.8685
-- slug: 2026-09-28-himes-readies-house-intelligence-probes-of-spy-industry-s-trump-dealings
-  headline: Himes readies House Intelligence probes of spy-industry's Trump dealings
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6057
-- slug: 2026-09-01-wyden-jayapal-ask-gao-to-investigate-dhs-use-of-summonses-against-journalists
-  headline: Wyden, Jayapal ask GAO to investigate DHS use of summonses against journalists
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6075
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6143
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6105
-- slug: 2026-08-19-house-oversight-chair-threatens-leon-black-with-contempt-over-epstein-probe
-  headline: House oversight chair threatens Leon Black with contempt over Epstein probe
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6018
+  strength: 0.8687
 - slug: 2026-03-05-kristi-noem-defends-dhs-immigration-actions-and-spending-in-congress
   headline: Kristi Noem defends DHS immigration actions and spending in Congress
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.689
-- slug: 2026-07-13-justice-department-investigates-uaw-president-shawn-fain-over-fianc-e-benefits
-  headline: Justice Department investigates UAW President Shawn Fain over fiancée benefits
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6117
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.609
-- slug: 2026-03-06-trump-fires-noem-as-dhs-chief-after-220m-ad-blitz-draws-gop-ire
-  headline: Trump fires Noem as DHS chief after $220M ad blitz draws GOP ire
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.664
-- slug: 2026-05-10-former-polish-justice-minister-ziobro-says-he-is-in-the-u-s
-  headline: Former Polish justice minister Ziobro says he is in the U.S.
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6332
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6088
-- slug: 2026-03-05-trump-fires-dhs-secretary-noem-nominates-sen-mullin-as-replacement
-  headline: Trump fires DHS Secretary Noem, nominates Sen. Mullin as replacement
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6376
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6059
-- slug: 2026-05-07-lutnick-defends-epstein-ties-in-closed-house-interview-gop-praises
-  headline: Lutnick defends Epstein ties in closed House interview, GOP praises
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6085
+  strength: 0.6889
 ---
-
 ## Justice Department examines allegations that Lewandowski profited from DHS role
 
 **Subtype:** fact

@@ -2,8 +2,19 @@
 headline: AI job-loss warnings renew interest in a federal job guarantee
 secondary_headline: Cleveland pilot will subsidize wages for five van-driving workers
 publish_date: '2026-10-23'
-lede: A federal job guarantee is drawing renewed attention as AI executives warn of broad job displacement. In September, Democratic U.S. Rep. Ayanna Pressley reintroduced a resolution calling for a federally funded, locally administered program paying participants at least $25 an hour, with regular adjustments for changes in living costs. A separate proposal supported by Democratic U.S. Reps. Greg Casar, Valerie Foushee and Sara Jacobs would tax large AI companies to fund a federal guarantee.
-nut_graf: The federal proposals would fund a job guarantee, while the Cleveland pilot would subsidize wages for existing private-sector jobs. Supporters say a guarantee could protect millions from the financial and psychological damage of joblessness and mobilize a vast labor force to tackle public needs, while Max Kasy said programs could reduce spending on other benefits and generate tax and social insurance revenue. The mass-unemployment claims remain forecasts; FRED's Oct. 23 vintage showed a 4.2% U-3 unemployment rate and a 7.6% broader U-6 rate.
+lede: A federal job guarantee is drawing renewed attention as AI executives warn of
+  broad job displacement. In September, Democratic U.S. Rep. Ayanna Pressley reintroduced
+  a resolution calling for a federally funded, locally administered program paying
+  participants at least $25 an hour, with regular adjustments for changes in living
+  costs. A separate proposal supported by Democratic U.S. Reps. Greg Casar, Valerie
+  Foushee and Sara Jacobs would tax large AI companies to fund a federal guarantee.
+nut_graf: The federal proposals would fund a job guarantee, while the Cleveland pilot
+  would subsidize wages for existing private-sector jobs. Supporters say a guarantee
+  could protect millions from the financial and psychological damage of joblessness
+  and mobilize a vast labor force to tackle public needs, while Max Kasy said programs
+  could reduce spending on other benefits and generate tax and social insurance revenue.
+  The mass-unemployment claims remain forecasts; FRED's Oct. 23 vintage showed a 4.2%
+  U-3 unemployment rate and a 7.6% broader U-6 rate.
 primary_entities:
 - Ayanna Pressley
 - Dario Amodei
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,12 +72,15 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-23'
-  caption: FRED's raw unemployment-rate series showed U-3 at 4.2% in the Oct. 23, 2026 vintage. The chart places the official unemployment rate alongside reporting about proposed job guarantees.
+  caption: FRED's raw unemployment-rate series showed U-3 at 4.2% in the Oct. 23,
+    2026 vintage. The chart places the official unemployment rate alongside reporting
+    about proposed job guarantees.
 - source: fred
   series_id: U6RATE
   transformation: raw
   as_of: '2026-10-23'
-  caption: FRED's raw broader measure showed U-6 at 7.6% in the same vintage. The measure includes discouraged workers and people working part time involuntarily.
+  caption: FRED's raw broader measure showed U-6 at 7.6% in the same vintage. The
+    measure includes discouraged workers and people working part time involuntarily.
 figures_aggregate:
   count: 2
   series_ids:
@@ -157,116 +172,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-ai-job-loss-warnings-renew-interest-in-a-federal-job-guarantee.png
-  alt: 'Illustration accompanying article: AI job-loss warnings renew interest in a federal job guarantee'
+  alt: 'Illustration accompanying article: AI job-loss warnings renew interest in
+    a federal job guarantee'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
   headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6632
+  strength: 0.6638
 - slug: 2026-09-20-sanders-proposes-32-hour-workweek-with-overtime-mandate
   headline: Sanders proposes 32-hour workweek with overtime mandate
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.671
+  strength: 0.6708
 - slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
   headline: Leading AI companies discuss joint standards to limit catastrophic harms
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6616
+  strength: 0.6625
 - slug: 2026-09-15-australia-weighs-giving-ai-companies-default-access-to-creators-works
   headline: Australia weighs giving AI companies default access to creators' works
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6508
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6477
-- slug: 2026-09-15-trump-dismisses-ai-safety-warnings-as-congress-stalls-legislation
-  headline: Trump dismisses AI safety warnings as Congress stalls legislation
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6468
-- slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
-  headline: Fed rate hike falls harder on housing than AI investment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6353
-- slug: 2026-09-14-dozens-of-lawmakers-push-new-ai-regulation-proposals
-  headline: Dozens of lawmakers push new AI regulation proposals
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6418
-- slug: 2026-09-14-ai-ceos-call-for-industry-slowdown-warn-of-extinction-risk
-  headline: AI CEOs call for industry slowdown, warn of extinction risk
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6414
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6416
-- slug: 2026-09-14-opeiu-president-tyler-turner-calls-on-unions-to-unite-against-ai-datacenters
-  headline: OPEIU president Tyler Turner calls on unions to unite against AI datacenters
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6375
-- slug: 2026-09-13-house-democrats-demand-no-recess-until-ai-safeguards-move
-  headline: House Democrats demand no recess until AI safeguards move
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6338
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6381
+  strength: 0.6518
 - slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
+  headline: Building unions threaten to withhold political support over data center
+    fights
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6551
-- slug: 2026-07-27-major-u-s-companies-resume-hiring-as-ai-s-limits-become-clear
-  headline: Major U.S. companies resume hiring as AI's limits become clear
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6355
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6384
+  strength: 0.6564
 - slug: 2026-06-25-new-bipartisan-coalition-aims-to-prepare-u-s-workers-for-ai-upheaval
   headline: New bipartisan coalition aims to prepare U.S. workers for AI upheaval
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6662
-- slug: 2026-07-13-economists-urge-immediate-action-on-ai-s-economic-risks
-  headline: Economists urge immediate action on AI's economic risks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6455
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.641
+  strength: 0.6668
 - slug: 2026-06-13-experts-warn-ai-could-double-gdp-growth-while-fueling-underemployment-and-unrest
-  headline: Experts warn AI could double GDP growth while fueling underemployment and unrest
+  headline: Experts warn AI could double GDP growth while fueling underemployment
+    and unrest
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.6603
+  strength: 0.6605
+- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
+  headline: Economists mostly agree AI will boost productivity, split on job impact
+  publish_date: '2026-06-10'
+  relation: related
+  strength: 0.6591
 ---
-
 ## AI job-loss warnings renew interest in a federal job guarantee
 
 **Subtype:** fact

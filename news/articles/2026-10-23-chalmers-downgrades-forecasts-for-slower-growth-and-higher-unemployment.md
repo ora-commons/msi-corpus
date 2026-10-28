@@ -1,9 +1,20 @@
 ---
 headline: Chalmers downgrades forecasts for slower growth and higher unemployment
-secondary_headline: Possible fuel-excise cuts and spending cuts carry different economic trade-offs
+secondary_headline: Possible fuel-excise cuts and spending cuts carry different economic
+  trade-offs
 publish_date: '2026-10-23'
-lede: Federal Treasurer Jim Chalmers said Friday morning that his officials were downgrading forecasts ahead of December's mid-year budget update to show slower growth and higher unemployment. Chalmers told Politico that decisions taken in DC or Tehran or in Eastern Europe about two wars were pushing up inflation around the world and weighing on growth around the world. The Guardian reported that a broadening Middle East conflict had pushed global benchmark oil to US$113.
-nut_graf: The Guardian said another temporary fuel-excise cut could lower petrol prices but make inflation control harder for the Reserve Bank. Labor could announce large spending cuts in the December mid-year outlook; the Guardian said those cuts could help the central bank but drag on an already weak economy and push unemployment higher. Oil at US$113 and a potential fifth rate hike on 3 November added pressure to the outlook.
+lede: Federal Treasurer Jim Chalmers said Friday morning that his officials were downgrading
+  forecasts ahead of December's mid-year budget update to show slower growth and higher
+  unemployment. Chalmers told Politico that decisions taken in DC or Tehran or in
+  Eastern Europe about two wars were pushing up inflation around the world and weighing
+  on growth around the world. The Guardian reported that a broadening Middle East
+  conflict had pushed global benchmark oil to US$113.
+nut_graf: The Guardian said another temporary fuel-excise cut could lower petrol prices
+  but make inflation control harder for the Reserve Bank. Labor could announce large
+  spending cuts in the December mid-year outlook; the Guardian said those cuts could
+  help the central bank but drag on an already weak economy and push unemployment
+  higher. Oil at US$113 and a potential fifth rate hike on 3 November added pressure
+  to the outlook.
 primary_entities:
 - Jim Chalmers
 - Patrick Commins
@@ -57,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +171,45 @@ related_stories:
   headline: Chalmers flags weaker growth, higher unemployment in December budget update
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.812
+  strength: 0.8131
 - slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
+  headline: Record copper and elevated steel costs add pressure to GM's full-year
+    outlook
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7201
+  strength: 0.7194
+- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
+  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6894
 - slug: 2026-10-04-chalmers-warns-of-intensifying-budget-pressure-insists-he-is-not-planning-for-re
-  headline: Chalmers warns of intensifying budget pressure, insists he is not planning for recession
+  headline: Chalmers warns of intensifying budget pressure, insists he is not planning
+    for recession
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7857
+  strength: 0.7851
 - slug: 2026-10-13-imf-warns-global-economy-nearing-resilience-limits-as-oil-stocks-deplete
   headline: IMF warns global economy nearing resilience limits as oil stocks deplete
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6868
+  strength: 0.6852
 - slug: 2026-09-30-australian-inflation-rises-to-4-in-august-abs-says
   headline: Australian inflation rises to 4% in August, ABS says
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7065
-- slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
-  headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6784
+  strength: 0.7051
 - slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
   headline: Central banks face inflation risks as energy prices threaten weak growth
   publish_date: '2026-08-16'
   relation: related
-  strength: 0.6906
+  strength: 0.6877
 - slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
   headline: Fed's preferred inflation gauge rises to three-year high in May
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6875
-- slug: 2026-06-10-us-futures-fall-as-markets-await-inflation-data-ahead-of-fed-decision
-  headline: US Futures Fall as Markets Await Inflation Data Ahead of Fed Decision
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6891
-- slug: 2026-03-14-u-s-economy-stumbled-into-2025-s-end-as-iran-war-lifted-energy-costs
-  headline: U.S. economy stumbled into 2025’s end as Iran war lifted energy costs
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7178
-- slug: 2026-03-25-gas-prices-surge-as-iran-conflict-pushes-up-rates-and-dims-fed-cuts
-  headline: Gas prices surge as Iran conflict pushes up rates and dims Fed cuts
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7136
-- slug: 2026-03-24-gas-prices-soar-as-iran-war-reshapes-fed-rate-cut-expectations
-  headline: Gas prices soar as Iran war reshapes Fed rate-cut expectations
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.705
-- slug: 2026-05-01-tax-refunds-and-ai-boom-offset-some-u-s-pain-from-iran-war-high-gas-prices
-  headline: Tax refunds and AI boom offset some U.S. pain from Iran war, high gas prices
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6926
-- slug: 2026-04-15-iran-war-fallout-cuts-imf-outlook-for-global-growth-and-lifts-inflation
-  headline: Iran war fallout cuts IMF outlook for global growth and lifts inflation
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6969
-- slug: 2026-05-21-walmart-to-use-tariff-refunds-for-price-cuts-as-shoppers-weigh-gas-costs
-  headline: Walmart to use tariff refunds for price cuts as shoppers weigh gas costs
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6823
-- slug: 2026-03-02-inflation-concerns-rise-with-u-s-and-israeli-attacks-on-iran
-  headline: Inflation concerns rise with U.S. and Israeli attacks on Iran
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7046
-- slug: 2026-03-18-iran-war-likely-delays-federal-reserve-interest-rate-cuts-further
-  headline: Iran war likely delays Federal Reserve interest-rate cuts further
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7016
-- slug: 2026-04-07-fed-signals-possible-rate-hike-if-gas-driven-inflation-stays-above-target
-  headline: Fed signals possible rate hike if gas-driven inflation stays above target
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6941
-- slug: 2026-04-09-rising-gas-prices-push-fed-to-weigh-potential-rate-hike-this-year
-  headline: Rising gas prices push Fed to weigh potential rate hike this year
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6807
-- slug: 2026-03-31-powell-urges-fed-to-monitor-inflation-as-energy-prices-rise
-  headline: Powell urges Fed to monitor inflation as energy prices rise
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6814
+  strength: 0.6855
 ---
-
 ## Chalmers downgrades forecasts for slower growth and higher unemployment
 
 **Subtype:** fact

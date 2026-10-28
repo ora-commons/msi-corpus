@@ -2,8 +2,20 @@
 headline: Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
 secondary_headline: Service, courts and security deepen the mistrust
 publish_date: '2026-10-22'
-lede: Retired Lt. Gen. Gadi Eisenkot could end Benjamin Netanyahu’s nearly two-decade tenure in power in Israel’s Oct. 27 election, and Mijal Bitton, a sociologist who specializes in Sephardic and Mizrahi Jewish communities, writes in The Wall Street Journal that Mizrahi voters could decide which of the two leading contenders prevails. Mizrahim, descendants of Jewish immigrants and refugees from the Arab world, count more than half of Israel’s Jewish population, and Bitton says they have become the country’s center of gravity no matter who prevails.
-nut_graf: 'The election will not be settled by the two leading candidates alone: a dozen or so parties with a realistic chance of winning seats are divided by religion and origin, and Mizrahim run through nearly all of them, Bitton writes. Their divisions over universal service, court appointments, religion and security pull the group in different directions — Likud has counted Mizrahim as its base since 1977, while some right-wing Mizrahi voters fear Eisenkot would depend on the Arab party Ra’am to govern despite his pledge not to do so.'
+lede: Retired Lt. Gen. Gadi Eisenkot could end Benjamin Netanyahu’s nearly two-decade
+  tenure in power in Israel’s Oct. 27 election, and Mijal Bitton, a sociologist who
+  specializes in Sephardic and Mizrahi Jewish communities, writes in The Wall Street
+  Journal that Mizrahi voters could decide which of the two leading contenders prevails.
+  Mizrahim, descendants of Jewish immigrants and refugees from the Arab world, count
+  more than half of Israel’s Jewish population, and Bitton says they have become the
+  country’s center of gravity no matter who prevails.
+nut_graf: 'The election will not be settled by the two leading candidates alone: a
+  dozen or so parties with a realistic chance of winning seats are divided by religion
+  and origin, and Mizrahim run through nearly all of them, Bitton writes. Their divisions
+  over universal service, court appointments, religion and security pull the group
+  in different directions — Likud has counted Mizrahim as its base since 1977, while
+  some right-wing Mizrahi voters fear Eisenkot would depend on the Arab party Ra’am
+  to govern despite his pledge not to do so.'
 primary_entities:
 - Mijal Bitton
 - Israel
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,26 +160,26 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-25-netanyahu-faces-eisenkot-in-israel-s-first-election-since-oct-7
+  headline: Netanyahu faces Eisenkot in Israel's first election since Oct. 7
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7599
+- slug: 2026-10-25-likud-asks-israeli-election-commission-to-stop-fly-vote
+  headline: Likud asks Israeli election commission to stop Fly&Vote
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.671
+- slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
+  headline: Poll shows Democrats with House edge as Israelis cast ballots
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6564
 - slug: 2026-10-18-netanyahu-warns-eisenkot-win-would-let-iran-obtain-nuclear-weapons
   headline: Netanyahu warns Eisenkot win would let Iran obtain nuclear weapons
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6773
-- slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
-  headline: Trump endorses Netanyahu days before Israel's closely contested election
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6375
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.639
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6273
+  strength: 0.6771
 - slug: 2026-07-06-israeli-poll-shows-eisenkot-and-netanyahu-tied-at-23-seats-each
   headline: Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
   publish_date: '2026-07-06'
@@ -176,79 +189,18 @@ related_stories:
   headline: Hasan argues media's embrace of Eisenkot ignores his record
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6872
+  strength: 0.6875
 - slug: 2026-08-19-ultra-orthodox-clout-grows-in-israel-as-draft-exemption-spurs-protests
   headline: Ultra-Orthodox clout grows in Israel as draft exemption spurs protests
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.656
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6288
+  strength: 0.6568
 - slug: 2026-07-18-american-jews-divide-sharply-on-israel-identity-and-politics
   headline: American Jews divide sharply on Israel, identity, and politics
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.6548
-- slug: 2026-03-22-netanyahu-weighs-election-timing-as-iran-and-hezbollah-wars-intensify
-  headline: Netanyahu weighs election timing as Iran and Hezbollah wars intensify
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.701
-- slug: 2026-07-13-younger-jewish-adults-prioritize-holidays-over-israel-support-ap-norc-poll-finds
-  headline: Younger Jewish adults prioritize holidays over Israel support, AP-NORC poll finds
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6282
-- slug: 2026-07-12-united-democracy-project-spends-11-million-in-michigan-senate-primary
-  headline: United Democracy Project spends $11 million in Michigan Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6256
-- slug: 2026-07-08-religious-affiliation-divides-u-s-jews-on-israel-support
-  headline: Religious affiliation divides U.S. Jews on Israel support
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6289
-- slug: 2026-07-09-most-jewish-adults-say-neither-party-supports-their-community-ap-norc-poll-finds
-  headline: Most Jewish adults say neither party supports their community, AP-NORC poll finds
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6238
-- slug: 2026-07-10-lebanon-israel-prepare-first-pilot-zones-under-framework-deal
-  headline: Lebanon, Israel prepare first pilot zones under framework deal
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6182
-- slug: 2026-06-30-roth-says-us-israel-ties-shifting-as-unconditional-support-erodes
-  headline: Roth says US-Israel ties shifting as unconditional support erodes
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6297
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6366
-- slug: 2026-06-09-lebanon-faces-civil-war-risk-as-us-and-israel-push-hezbollah-disarmament
-  headline: Lebanon faces civil war risk as US and Israel push Hezbollah disarmament
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6273
-- slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-knesset-setting-stage-for-elections
-  headline: Netanyahu coalition submits bill to dissolve Knesset, setting stage for elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6375
-- slug: 2026-06-08-trump-netanyahu-rift-tests-fragile-middle-east-ceasefire
-  headline: Trump-Netanyahu rift tests fragile Middle East ceasefire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6184
+  strength: 0.6561
 ---
-
 ## Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
 
 **Subtype:** fact

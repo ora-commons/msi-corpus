@@ -1,9 +1,24 @@
 ---
-headline: Virginia senator Lucas faces five counts; attorney says she will plead not guilty
-secondary_headline: Lucas says prosecution is politically motivated; Spanberger criticizes election timing
+headline: Virginia senator Lucas faces five counts; attorney says she will plead not
+  guilty
+secondary_headline: Lucas says prosecution is politically motivated; Spanberger criticizes
+  election timing
 publish_date: '2026-10-22'
-lede: Federal prosecutors have charged Democratic Virginia state Senator L. Louise Lucas with five counts — racketeering conspiracy, conspiracy to distribute marijuana, conspiracy to launder money, conspiracy to commit honest-services fraud and maintaining a drug-involved premises — and her attorney, Anthony Capozzolo, said she would plead not guilty and that she denies the charges in their entirety. Lucas, 82, said in a statement on X that the prosecution was politically motivated. Lucas has not entered a formal plea, and BBC News reported that federal prosecutors arrested her on Thursday.
-nut_graf: The indictment brings together allegations about Lucas's cannabis business, her legislative role and her family's interests weeks before the November 3 US midterm elections, a period in which the Justice Department has announced a series of inquiries involving lawmakers and election officials. Lucas is not seeking reelection, but her daughter, Lisa Lucas-Burke, is also charged in the indictment and is running for the Portsmouth city council. Virginia Governor Abigail Spanberger, a Democrat, wrote on X that the timing of the case undermines a longstanding Justice Department policy against major legal action close to an election.
+lede: Federal prosecutors have charged Democratic Virginia state Senator L. Louise
+  Lucas with five counts — racketeering conspiracy, conspiracy to distribute marijuana,
+  conspiracy to launder money, conspiracy to commit honest-services fraud and maintaining
+  a drug-involved premises — and her attorney, Anthony Capozzolo, said she would plead
+  not guilty and that she denies the charges in their entirety. Lucas, 82, said in
+  a statement on X that the prosecution was politically motivated. Lucas has not entered
+  a formal plea, and BBC News reported that federal prosecutors arrested her on Thursday.
+nut_graf: The indictment brings together allegations about Lucas's cannabis business,
+  her legislative role and her family's interests weeks before the November 3 US midterm
+  elections, a period in which the Justice Department has announced a series of inquiries
+  involving lawmakers and election officials. Lucas is not seeking reelection, but
+  her daughter, Lisa Lucas-Burke, is also charged in the indictment and is running
+  for the Portsmouth city council. Virginia Governor Abigail Spanberger, a Democrat,
+  wrote on X that the timing of the case undermines a longstanding Justice Department
+  policy against major legal action close to an election.
 primary_entities:
 - L. Louise Lucas
 - Virginia
@@ -45,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +163,61 @@ related_stories:
   headline: Justice Department charges Virginia senator L. Louise Lucas with racketeering
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8644
+  strength: 0.8651
 - slug: 2026-10-22-federal-indictment-alleges-lucas-led-a-marijuana-and-money-laundering-scheme
-  headline: Federal indictment alleges Lucas led a marijuana and money-laundering scheme
+  headline: Federal indictment alleges Lucas led a marijuana and money-laundering
+    scheme
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8155
+  strength: 0.8157
+- slug: 2026-10-22-indictment-alleges-lucas-used-political-position-for-codefendant-s-marijuana-lic
+  headline: Indictment alleges Lucas used political position for codefendant's marijuana
+    license
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8113
 - slug: 2026-10-22-prosecutors-allege-louise-lucas-paid-750-000-for-marijuana-license-shell-company
-  headline: Prosecutors allege Louise Lucas paid $750,000 for marijuana-license shell company
+  headline: Prosecutors allege Louise Lucas paid $750,000 for marijuana-license shell
+    company
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.805
-- slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.604
-- slug: 2026-10-11-louisiana-police-chief-candidate-accused-of-child-rape-runs-unopposed
-  headline: Louisiana police chief candidate accused of child rape runs unopposed
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6018
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5984
-- slug: 2026-09-23-fbi-moved-to-investigate-collins-for-bribery-before-trump-derailed-inquiry
-  headline: FBI moved to investigate Collins for bribery before Trump derailed inquiry
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6001
+  strength: 0.8052
 - slug: 2026-05-07-fbi-raids-virginia-sen-l-louise-lucas-office-and-cannabis-business
   headline: FBI raids Virginia Sen. L. Louise Lucas’ office and cannabis business
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.766
-- slug: 2026-09-03-missouri-house-candidate-thomas-ross-faces-drug-conspiracy-charge
-  headline: Missouri House candidate Thomas Ross faces drug conspiracy charge
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6003
+  strength: 0.7658
 - slug: 2026-05-07-fbi-searches-virginia-senate-leader-l-louise-lucas-office-in-corruption-probe
-  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption probe
+  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption
+    probe
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7619
+  strength: 0.7615
 - slug: 2026-05-06-fbi-searches-virginia-senate-leader-l-louise-lucas-office-in-corruption-probe
-  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption probe
+  headline: FBI searches Virginia Senate leader L. Louise Lucas’ office in corruption
+    probe
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7617
+  strength: 0.7611
 - slug: 2026-05-06-fbi-raids-virginia-sen-l-louise-lucas-s-office-and-cannabis-shop
   headline: FBI raids Virginia Sen. L. Louise Lucas’s office and cannabis shop
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.743
-- slug: 2026-07-23-blake-miguez-hopes-to-again-earn-trump-endorsement-after-redistricting
-  headline: Blake Miguez hopes to again earn Trump endorsement after redistricting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6108
-- slug: 2026-05-15-ex-aide-in-california-dems-scheme-pleads-guilty-becerra-faces-scrutiny
-  headline: Ex-aide in California Dems scheme pleads guilty; Becerra faces scrutiny
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6064
-- slug: 2026-01-07-spanberger-virginia-first-female-governor
-  headline: Spanberger still digesting significance of being Virginia's first female governor
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6274
-- slug: 2026-01-09-ramaswamy-says-he-was-alarmed-after-bodyguard-faces-federal-drug-charges
-  headline: Ramaswamy says he was alarmed after bodyguard faces federal drug charges
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.627
-- slug: 2026-04-22-democrats-win-virginia-map-vote-but-redistricting-fights-move-to-courts
-  headline: Democrats win Virginia map vote, but redistricting fights move to courts
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6071
-- slug: 2026-01-10-virginia-man-pleads-not-guilty-to-pipe-bomb-charges-tied-to-eve-of-capitol-riot
-  headline: Virginia man pleads not guilty to pipe bomb charges tied to eve of Capitol riot
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6233
-- slug: 2026-01-10-ramaswamy-says-alarmed-after-federal-drug-charges-against-family-bodyguard
-  headline: Ramaswamy says alarmed after federal drug charges against family bodyguard
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6221
-- slug: 2026-04-29-sheinbaum-says-mexico-will-investigate-u-s-indictments-over-sinaloa-ties
-  headline: Sheinbaum says Mexico will investigate U.S. indictments over Sinaloa ties
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6006
+  strength: 0.7426
 image:
   url: /articles/2026-10-22-virginia-senator-lucas-faces-five-counts-attorney-says-she-will-plead-not-guilty.png
-  alt: "Illustration accompanying article: Virginia senator Lucas faces five counts; attorney says she will plead not guilty"
+  alt: 'Illustration accompanying article: Virginia senator Lucas faces five counts;
+    attorney says she will plead not guilty'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Virginia senator Lucas faces five counts; attorney says she will plead not guilty
 
 **Subtype:** fact

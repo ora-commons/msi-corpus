@@ -1,9 +1,19 @@
 ---
 headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
-secondary_headline: BBC cites legal criteria and says documentary was unavailable in US
+secondary_headline: BBC cites legal criteria and says documentary was unavailable
+  in US
 publish_date: '2026-10-22'
-lede: Donald Trump's lawyers said in a Wednesday filing that the president could appear for a deposition between 11 and 22 January next year. The BBC separately asked the court to dismiss Trump's Florida defamation lawsuit, arguing that Panorama did not meet the legal criteria for defamation and was not available in the US. US Magistrate Judge Enjoliqué Lett ordered Trump to answer questions under oath by 11 December unless the discovery period was extended.
-nut_graf: The competing filings place Trump's proposed January testimony window and the BBC's dismissal arguments at the center of the discovery dispute. The case concerns Panorama's editing of a speech before the 2021 US Capitol riot, while the BBC's dismissal position relies on the legal criteria for defamation and the program's US availability.
+lede: Donald Trump's lawyers said in a Wednesday filing that the president could appear
+  for a deposition between 11 and 22 January next year. The BBC separately asked the
+  court to dismiss Trump's Florida defamation lawsuit, arguing that Panorama did not
+  meet the legal criteria for defamation and was not available in the US. US Magistrate
+  Judge Enjoliqué Lett ordered Trump to answer questions under oath by 11 December
+  unless the discovery period was extended.
+nut_graf: The competing filings place Trump's proposed January testimony window and
+  the BBC's dismissal arguments at the center of the discovery dispute. The case concerns
+  Panorama's editing of a speech before the 2021 US Capitol riot, while the BBC's
+  dismissal position relies on the legal criteria for defamation and the program's
+  US availability.
 primary_entities:
 - Donald Trump
 - BBC
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +148,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8677
+- slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
+  headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8277
 - slug: 2026-10-22-trump-must-depose-by-dec-11-in-suit-against-bbc-or-face-possible-sanctions
   headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8121
+  strength: 0.8132
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8676
-- slug: 2026-10-08-judge-extends-press-reprieve-for-cnn-ms-now-politico-through-tuesday
-  headline: Judge extends press reprieve for CNN, MS Now, Politico through Tuesday
-  publish_date: '2026-10-08'
+  strength: 0.8678
+- slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
+  headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6355
+  strength: 0.7944
 - slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
   headline: Trump attorneys ask court to pause BBC access to financial records
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.8021
+  strength: 0.8026
 - slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
   headline: Judge orders Trump to release financial records in BBC defamation case
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.8231
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6415
-- slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6407
-- slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
-  headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.637
-- slug: 2026-09-21-three-news-outlets-sue-trump-to-restore-white-house-press-credentials
-  headline: Three news outlets sue Trump to restore White House press credentials
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6451
-- slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
-  headline: DoJ tells court White House press access is a privilege, not a right
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6346
-- slug: 2026-09-22-wednesday-hearing-set-in-press-lawsuit-as-gop-allies-urge-trump-to-focus-on-vote
-  headline: Wednesday hearing set in press lawsuit as GOP allies urge Trump to focus on voters
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.638
+  strength: 0.8239
 - slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
   headline: Trump asks judge to block BBC subpoenas to his family members
   publish_date: '2026-08-22'
   relation: related
   strength: 0.7413
-- slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6335
-- slug: 2026-09-09-guardian-lists-six-trump-9-11-claims-it-says-lack-supporting-evidence
-  headline: Guardian lists six Trump 9/11 claims it says lack supporting evidence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.64
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.8215
-- slug: 2026-07-08-judge-throws-out-trump-media-s-3-8b-suit-against-washington-post
-  headline: Judge throws out Trump Media's $3.8B suit against Washington Post
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6717
-- slug: 2026-07-11-four-new-york-times-journalists-ordered-to-testify-before-federal-grand-jury
-  headline: Four New York Times journalists ordered to testify before federal grand jury
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6339
-- slug: 2026-07-06-judge-denies-trump-bid-to-delay-5-8m-judgment-to-e-jean-carroll
-  headline: Judge denies Trump bid to delay $5.8M judgment to E Jean Carroll
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6397
-- slug: 2026-06-17-january-6-defendants-seek-millions-in-compensation-through-obscure-federal-claim
-  headline: January 6 defendants seek millions in compensation through obscure federal claims process
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6335
-- slug: 2026-05-14-trump-gets-delay-on-83m-defamation-payment-to-e-jean-carroll
-  headline: Trump gets delay on $83M defamation payment to E. Jean Carroll
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6483
 ---
-
 ## Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
 
 **Subtype:** fact

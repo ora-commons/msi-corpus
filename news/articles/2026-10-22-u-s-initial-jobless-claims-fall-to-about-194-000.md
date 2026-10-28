@@ -1,8 +1,15 @@
 ---
 headline: U.S. initial jobless claims fall to about 194,000
 publish_date: '2026-10-22'
-lede: About 194,000 people filed initial jobless claims for the week ending Saturday, according to the Department of Labor's Thursday report. The count was down 6,000 from the previous week's revised level and nearly the lowest weekly count since the 1960s, while United Press International said the unemployment rate remained high, rising to 4.2% in September.
-nut_graf: The report put initial claims nearly at the lowest weekly count since the 1960s, while United Press International said employers were reluctant both to hire and to fire workers. The source contrasted lower jobless claims with a September unemployment rate that remained high at 4.2%.
+lede: About 194,000 people filed initial jobless claims for the week ending Saturday,
+  according to the Department of Labor's Thursday report. The count was down 6,000
+  from the previous week's revised level and nearly the lowest weekly count since
+  the 1960s, while United Press International said the unemployment rate remained
+  high, rising to 4.2% in September.
+nut_graf: The report put initial claims nearly at the lowest weekly count since the
+  1960s, while United Press International said employers were reluctant both to hire
+  and to fire workers. The source contrasted lower jobless claims with a September
+  unemployment rate that remained high at 4.2%.
 primary_entities:
 - Department of Labor
 - United Press Independent
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,12 +62,14 @@ figures:
   series_id: PAYEMS
   transformation: first_diff
   as_of: '2026-10-22'
-  caption: The verified FRED series shows total nonfarm payrolls rising by 29,000 in September, matching the jobs report cited in the article.
+  caption: The verified FRED series shows total nonfarm payrolls rising by 29,000
+    in September, matching the jobs report cited in the article.
 - source: fred
   series_id: UNRATE
   transformation: raw
   as_of: '2026-10-22'
-  caption: The verified FRED series places the September unemployment rate at 4.2%, the figure reported alongside the decline in initial claims.
+  caption: The verified FRED series places the September unemployment rate at 4.2%,
+    the figure reported alongside the decline in initial claims.
 figures_aggregate:
   count: 2
   series_ids:
@@ -190,77 +200,20 @@ related_stories:
   publish_date: '2026-02-13'
   relation: related
   strength: 0.8264
-- slug: 2026-03-27-jobless-claims-tick-up-to-210-000-as-employers-keep-hiring-low
-  headline: Jobless claims tick up to 210,000 as employers keep hiring low
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.8192
-- slug: 2026-02-20-us-jobless-claims-drop-to-206-000-as-layoffs-stay-historically-low
-  headline: US jobless claims drop to 206,000 as layoffs stay historically low
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.8237
-- slug: 2026-03-11-us-jobless-claims-edge-down-to-213-000-as-layoffs-stay-low
-  headline: US jobless claims edge down to 213,000 as layoffs stay low
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.8181
-- slug: 2026-01-15-jobless-claims-fall-to-198-000-beating-forecasts-as-low-hire-trend-holds
-  headline: Jobless claims fall to 198,000, beating forecasts as low-hire trend holds
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.823
-- slug: 2026-04-15-us-jobless-claims-dip-to-207-000-as-layoffs-stay-low-amid-iran-war
-  headline: US jobless claims dip to 207,000 as layoffs stay low amid Iran war
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.8085
-- slug: 2026-02-19-us-jobless-claims-fall-to-206-000-as-layoffs-remain-historically-low
-  headline: US jobless claims fall to 206,000 as layoffs remain historically low
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.819
-- slug: 2026-05-07-jobless-claims-rise-to-200-000-but-stay-near-historic-lows-labor-says
-  headline: Jobless claims rise to 200,000 but stay near historic lows, Labor says
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7971
-- slug: 2026-01-01-jobless-claims-fall-below-200-000-as-layoffs-stay-low-labor-market-cools
-  headline: Jobless claims fall below 200,000 as layoffs stay low, labor market cools
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.818
-- slug: 2026-03-05-jobless-claims-held-at-213-000-but-continuing-filings-rise-to-1-87-million
-  headline: Jobless claims held at 213,000, but continuing filings rise to 1.87 million
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.808
-- slug: 2026-01-21-us-jobless-claims-rise-slightly-while-layoffs-stay-historically-low
-  headline: US jobless claims rise slightly while layoffs stay historically low
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.81
-- slug: 2026-04-03-us-jobless-aid-filings-fall-to-202-000-as-layoffs-stay-low-amid-iran-war
-  headline: US jobless aid filings fall to 202,000 as layoffs stay low amid Iran war
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.797
-- slug: 2026-04-16-us-jobless-claims-dip-to-207-000-as-layoffs-stay-low-amid-iran-war
-  headline: US jobless claims dip to 207,000 as layoffs stay low amid Iran war
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7897
 image:
   url: /articles/2026-10-22-u-s-initial-jobless-claims-fall-to-about-194-000.png
-  alt: "Illustration accompanying article: U.S. initial jobless claims fall to about 194,000"
+  alt: 'Illustration accompanying article: U.S. initial jobless claims fall to about
+    194,000'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. initial jobless claims fall to about 194,000
 
 **Subtype:** fact

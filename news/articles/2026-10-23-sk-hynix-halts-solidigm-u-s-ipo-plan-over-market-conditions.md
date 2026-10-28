@@ -1,9 +1,18 @@
 ---
 headline: SK Hynix halts Solidigm U.S. IPO plan over market conditions
-secondary_headline: Industry estimates put Solidigm's sought capital raise at around $10 billion to $15 billion
+secondary_headline: Industry estimates put Solidigm's sought capital raise at around
+  $10 billion to $15 billion
 publish_date: '2026-10-23'
-lede: SK Hynix said Friday it had scrapped plans for a major U.S. public offering of Solidigm, its NAND flash-memory and solid-state-drive subsidiary, citing market conditions and broader share-price trends. The company said the decision did not reflect any change in Solidigm's growth prospects or investment needs. The offering would have funded a new U.S. production facility designed to meet rising demand.
-nut_graf: The planned transaction could have ranked among the largest technology IPOs to date, with industry estimates putting the capital raise at around $10 billion to $15 billion and Solidigm's valuation at up to $150 billion. Regulators and shareholders had opposed the offer, believing it could dilute shareholder value and effectively duplicate SK Hynix's listing.
+lede: SK Hynix said Friday it had scrapped plans for a major U.S. public offering
+  of Solidigm, its NAND flash-memory and solid-state-drive subsidiary, citing market
+  conditions and broader share-price trends. The company said the decision did not
+  reflect any change in Solidigm's growth prospects or investment needs. The offering
+  would have funded a new U.S. production facility designed to meet rising demand.
+nut_graf: The planned transaction could have ranked among the largest technology IPOs
+  to date, with industry estimates putting the capital raise at around $10 billion
+  to $15 billion and Solidigm's valuation at up to $150 billion. Regulators and shareholders
+  had opposed the offer, believing it could dilute shareholder value and effectively
+  duplicate SK Hynix's listing.
 primary_entities:
 - SK Hynix
 - Solidigm
@@ -54,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +166,29 @@ related_stories:
   headline: Firmus Grid withdraws Australian IPO application
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6672
-- slug: 2026-09-30-oura-delays-ipo-as-volatility-ai-safety-fears-stall-fall-listings
-  headline: Oura delays IPO as volatility, AI safety fears stall fall listings
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6255
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6433
-- slug: 2026-09-29-oura-postpones-ipo-cites-market-uncertainty-despite-strong-demand
-  headline: Oura postpones IPO, cites market uncertainty despite strong demand
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6069
+  strength: 0.6671
 - slug: 2026-06-24-sk-hynix-seeks-29-65-billion-u-s-listing-to-fund-ai-expansion
   headline: SK Hynix Seeks $29.65 Billion U.S. Listing to Fund AI Expansion
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.7575
+  strength: 0.7571
 - slug: 2026-07-05-sk-hynix-to-begin-u-s-stock-trading-as-chipmakers-weigh-competing-investment-dem
-  headline: SK Hynix to begin U.S. stock trading as chipmakers weigh competing investment demands
+  headline: SK Hynix to begin U.S. stock trading as chipmakers weigh competing investment
+    demands
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.7336
-- slug: 2026-08-31-westinghouse-confidentially-files-for-ipo-amid-us-backed-nuclear-revival
-  headline: Westinghouse confidentially files for IPO amid US-backed nuclear revival
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5967
+  strength: 0.7325
 - slug: 2026-07-10-micron-s-250-billion-plan-sets-stage-for-korean-chip-production-calls
   headline: Micron's $250 billion plan sets stage for Korean chip production calls
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6577
+  strength: 0.6553
 - slug: 2026-06-19-memory-chip-shortage-driven-by-ai-demand-squeezes-consumer-tech
   headline: Memory-chip shortage driven by AI demand squeezes consumer tech
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6572
-- slug: 2026-07-28-south-korea-s-kospi-plunges-10-5-on-ai-chip-stock-selloff
-  headline: South Korea's Kospi plunges 10.5% on AI chip stock selloff
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6056
-- slug: 2026-07-02-kospi-falls-7-89-as-ai-capacity-concerns-hit-chip-stocks
-  headline: KOSPI falls 7.89% as AI capacity concerns hit chip stocks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6322
-- slug: 2026-06-29-chipmakers-samsung-and-sk-hynix-lead-kospi-s-125-first-half-rally
-  headline: Chipmakers Samsung and SK Hynix lead Kospi's 125% first-half rally
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6275
-- slug: 2026-07-13-chinese-regulator-clears-shein-for-hong-kong-ipo-at-over-40b-valuation
-  headline: Chinese regulator clears Shein for Hong Kong IPO at over $40B valuation
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6095
-- slug: 2026-06-26-on-semi-to-buy-synaptics-for-7b-bitcoin-pressures-mount
-  headline: ON Semi to Buy Synaptics for $7B; Bitcoin Pressures Mount
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6275
-- slug: 2026-06-02-stmicroelectronics-shares-rally-8-after-raising-data-center-revenue-target
-  headline: STMicroelectronics shares rally 8% after raising data-center revenue target
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6312
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6285
-- slug: 2026-06-10-tech-stocks-slide-bitcoin-slumps-below-61k-as-market-selloff-deepens
-  headline: Tech stocks slide, Bitcoin slumps below $61K as market selloff deepens
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6153
-- slug: 2026-06-22-seoul-shares-close-at-fresh-peak-above-9-100-on-chip-gains-iran-talks
-  headline: Seoul shares close at fresh peak above 9,100 on chip gains, Iran talks
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6039
-- slug: 2026-06-05-s-p-500-declines-fast-track-for-spacex-ipo-dimming-forced-buying-boost
-  headline: S&P 500 declines fast-track for SpaceX IPO, dimming forced-buying boost
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6107
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5954
+  strength: 0.6564
 ---
-
 ## SK Hynix halts Solidigm U.S. IPO plan over market conditions
 
 **Subtype:** fact

@@ -1,9 +1,16 @@
 ---
 headline: Supreme Court bars student IDs as backup identification in New Hampshire
-secondary_headline: Ketanji Brown Jackson's dissent centered on accurate state election information
+secondary_headline: Ketanji Brown Jackson's dissent centered on accurate state election
+  information
 publish_date: '2026-10-22'
-lede: The U.S. Supreme Court ruled Thursday that New Hampshire cannot accept student IDs as backup identification when voters request ballots, settling a dispute shortly before the Nov. 3 midterm election. In a brief, unsigned order, the justices granted an emergency request from the state that was backed by the Republican National Committee.
-nut_graf: The decision leaves intact a New Hampshire law that already restricted student IDs as primary identification and prevents their use as backup evidence of a voter’s identity. A separate state provision still allows other evidence that reasonably establishes that a person is who the person claims to be.
+lede: The U.S. Supreme Court ruled Thursday that New Hampshire cannot accept student
+  IDs as backup identification when voters request ballots, settling a dispute shortly
+  before the Nov. 3 midterm election. In a brief, unsigned order, the justices granted
+  an emergency request from the state that was backed by the Republican National Committee.
+nut_graf: The decision leaves intact a New Hampshire law that already restricted student
+  IDs as primary identification and prevents their use as backup evidence of a voter’s
+  identity. A separate state provision still allows other evidence that reasonably
+  establishes that a person is who the person claims to be.
 primary_entities:
 - U.S. Supreme Court
 - New Hampshire
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,117 +148,61 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-student-id-ruling-precedes-new-hampshire-s-closely-contested-u-s-senate-race
+  headline: Student ID ruling precedes New Hampshire's closely contested U.S. Senate
+    race
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8692
+- slug: 2026-10-23-jackson-says-lower-court-sought-to-correct-misleading-new-hampshire-guidance
+  headline: Jackson says lower court sought to correct misleading New Hampshire guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8183
 - slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
   headline: Three states bar student IDs at polls as courts weigh challenges
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.8157
-- slug: 2026-09-25-supreme-court-lifts-restrictions-on-federal-voter-citizenship-database
-  headline: Supreme Court lifts restrictions on federal voter citizenship database
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6482
-- slug: 2026-08-25-judge-suspends-ohio-voter-registration-document-rule-before-midterms
-  headline: Judge suspends Ohio voter registration document rule before midterms
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6423
+  strength: 0.8164
 - slug: 2026-08-13-appeals-court-restores-texas-mail-ballot-id-assisted-voter-rules
   headline: Appeals court restores Texas mail ballot ID, assisted-voter rules
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6489
+  strength: 0.65
 - slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
   headline: Arizona proof-of-citizenship voting law heads to Supreme Court
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6512
-- slug: 2026-06-24-federal-judge-blocks-trump-proof-of-citizenship-voting-order
-  headline: Federal judge blocks Trump proof-of-citizenship voting order
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6488
+  strength: 0.6503
 - slug: 2026-03-27-north-carolina-voter-id-law-upheld-by-federal-judge-in-bias-challenge
   headline: North Carolina voter ID law upheld by federal judge in bias challenge
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.6894
-- slug: 2026-06-22-judge-rules-trump-era-save-voter-data-system-unlawful
-  headline: Judge rules Trump-era SAVE voter data system unlawful
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6395
+  strength: 0.6893
 - slug: 2026-03-15-gop-save-act-documents-requirement-could-burden-voters-advocate-warns
   headline: GOP SAVE Act documents requirement could burden voters, advocate warns
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6782
+  strength: 0.6787
 - slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-voting-requirement
   headline: West Virginia primary tests new photo ID voting requirement
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6556
-- slug: 2026-04-22-appeals-court-blocks-california-law-requiring-federal-agents-wear-id
-  headline: Appeals court blocks California law requiring federal agents wear ID
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6602
-- slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-requirement-at-polls
-  headline: West Virginia primary tests new photo ID requirement at polls
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6506
-- slug: 2026-03-27-only-some-driver-s-licenses-could-be-used-under-save-america-act
-  headline: Only some driver’s licenses could be used under SAVE America Act
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6636
-- slug: 2026-03-21-democrats-call-save-voter-id-bill-too-strict-as-senate-debates
-  headline: Democrats call SAVE voter-ID bill too strict as Senate debates
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6635
-- slug: 2026-03-18-republicans-press-senate-on-save-citizenship-proof-for-new-voters
-  headline: Republicans press Senate on SAVE citizenship proof for new voters
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6622
-- slug: 2026-05-15-lawyers-seek-to-block-trump-order-creating-eligible-voter-list
-  headline: Lawyers seek to block Trump order creating eligible voter list
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.643
-- slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration
-  headline: Montana judge blocks law limiting Election Day voter registration
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6424
-- slug: 2026-05-02-confusion-over-south-dakota-s-new-voter-id-rules-complicates-registration
-  headline: Confusion over South Dakota’s new voter ID rules complicates registration
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6455
-- slug: 2026-04-05-judge-blocks-trump-admin-effort-to-collect-college-race-data
-  headline: Judge Blocks Trump Admin. Effort to Collect College Race Data
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6485
-- slug: 2026-04-06-judge-blocks-trump-admin-college-race-data-collection
-  headline: Judge Blocks Trump Admin. College Race Data Collection
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6477
+  strength: 0.6568
 image:
   url: /articles/2026-10-22-supreme-court-bars-student-ids-as-backup-identification-in-new-hampshire.png
-  alt: "Illustration accompanying article: Supreme Court bars student IDs as backup identification in New Hampshire"
+  alt: 'Illustration accompanying article: Supreme Court bars student IDs as backup
+    identification in New Hampshire'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Supreme Court bars student IDs as backup identification in New Hampshire
 
 **Subtype:** fact

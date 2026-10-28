@@ -2,8 +2,20 @@
 headline: Silver falls 4.5%; Aslam cites yields, dollar and oil-linked inflation
 secondary_headline: Copper slips; Nanhua Futures cites rate, dollar and tariff uncertainty
 publish_date: '2026-10-22'
-lede: Silver and gold fell in U.S. trading on October 22. Naeem Aslam of Zaye Capital Markets said rising U.S. Treasury yields, a stronger dollar and Brent crude above $110 per barrel were driving the weakness. December silver futures dropped 4.5% to $55.11 a troy ounce and headed toward their lowest settlement since November 2025; gold fell 2.1% to $4,062.40 a troy ounce.
-nut_graf: Naeem Aslam of Zaye Capital Markets linked pressure on precious metals to rising Treasury yields, a stronger dollar and renewed inflation concerns as Brent crude rose above $110 per barrel. Nanhua Futures analysts expected copper to remain range-bound in the near term and separately warned that Federal Reserve policy uncertainty, dollar-index volatility and pending U.S. copper tariffs could amplify price fluctuations. Mullen Group Chair and Senior Executive Murray Mullen said capital would eventually flow toward Canada's major infrastructure projects but the timetable was uncertain; he said the company would hold back major capital expenditures until the projects were officially approved.
+lede: Silver and gold fell in U.S. trading on October 22. Naeem Aslam of Zaye Capital
+  Markets said rising U.S. Treasury yields, a stronger dollar and Brent crude above
+  $110 per barrel were driving the weakness. December silver futures dropped 4.5%
+  to $55.11 a troy ounce and headed toward their lowest settlement since November
+  2025; gold fell 2.1% to $4,062.40 a troy ounce.
+nut_graf: Naeem Aslam of Zaye Capital Markets linked pressure on precious metals to
+  rising Treasury yields, a stronger dollar and renewed inflation concerns as Brent
+  crude rose above $110 per barrel. Nanhua Futures analysts expected copper to remain
+  range-bound in the near term and separately warned that Federal Reserve policy uncertainty,
+  dollar-index volatility and pending U.S. copper tariffs could amplify price fluctuations.
+  Mullen Group Chair and Senior Executive Murray Mullen said capital would eventually
+  flow toward Canada's major infrastructure projects but the timetable was uncertain;
+  he said the company would hold back major capital expenditures until the projects
+  were officially approved.
 primary_entities:
 - Naeem Aslam
 - Zaye Capital Markets
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -68,7 +81,9 @@ figures:
   series_id: DTWEXBGS
   transformation: raw
   as_of: '2026-10-22'
-  caption: The broad trade-weighted U.S. Dollar Index stood at 121.4048 on October 22, providing context for Aslam's dollar-strength assessment and Nanhua Futures' reference to dollar-index volatility.
+  caption: The broad trade-weighted U.S. Dollar Index stood at 121.4048 on October
+    22, providing context for Aslam's dollar-strength assessment and Nanhua Futures'
+    reference to dollar-index volatility.
 figures_aggregate:
   count: 1
   series_ids:
@@ -159,107 +174,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-20-gold-falls-as-high-oil-prices-keep-inflation-and-rate-tightening-concerns-active
-  headline: Gold falls as high oil prices keep inflation and rate-tightening concerns active
+  headline: Gold falls as high oil prices keep inflation and rate-tightening concerns
+    active
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7694
+  strength: 0.7684
 - slug: 2026-10-21-gold-falls-as-kooijman-sees-oil-likely-reinforcing-hawkish-rate-expectations
   headline: Gold falls as Kooijman sees oil likely reinforcing hawkish rate expectations
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7531
+  strength: 0.7527
 - slug: 2026-10-15-gold-and-silver-fall-after-u-s-september-cpi-tops-estimates
   headline: Gold and silver fall after U.S. September CPI tops estimates
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7493
+  strength: 0.7487
 - slug: 2026-10-14-gold-silver-fall-after-hotter-than-expected-core-cpi-print
   headline: Gold, silver fall after hotter-than-expected core CPI print
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7388
+  strength: 0.7383
+- slug: 2026-08-18-u-s-stocks-drop-across-major-indices-as-treasury-yields-and-oil-prices-climb
+  headline: U.S. stocks drop across major indices as Treasury yields and oil prices
+    climb
+  publish_date: '2026-08-18'
+  relation: related
+  strength: 0.6514
 - slug: 2026-06-01-gold-falls-on-firmer-dollar-as-u-s--iran-talks-remain-unsettled
   headline: Gold falls on firmer dollar as U.S.-Iran talks remain unsettled
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7525
+  strength: 0.751
 - slug: 2026-08-03-gold-edges-higher-as-iran-diplomacy-talks-ease-oil-inflation-worries
   headline: Gold edges higher as Iran diplomacy talks ease oil, inflation worries
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6552
+  strength: 0.6544
 - slug: 2026-07-23-financial-market-recap
   headline: 'U.S. stocks end lower: S&P 500 -1.2%, Nasdaq -2.2%, 10-year yield 4.71%'
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6595
-- slug: 2026-07-17-financial-market-recap
-  headline: 'U.S. stocks end lower: S&P 500 -1.0%, Nasdaq -1.4%, 10-year yield 4.55%'
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6656
-- slug: 2026-07-16-financial-market-recap
-  headline: 'U.S. stocks end lower: S&P 500 -0.5%, Nasdaq -1.5%, 10-year yield 4.57%'
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6632
-- slug: 2026-06-10-us-futures-fall-as-markets-await-inflation-data-ahead-of-fed-decision
-  headline: US Futures Fall as Markets Await Inflation Data Ahead of Fed Decision
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6977
-- slug: 2026-07-13-financial-market-recap
-  headline: 'U.S. stocks end lower: S&P 500 -0.8%, Nasdaq -1.6%, 10-year yield 4.62%'
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6584
-- slug: 2026-07-07-financial-market-recap
-  headline: 'U.S. stocks end lower: S&P 500 -0.5%, Nasdaq -1.2%, 10-year yield 4.55%'
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6656
-- slug: 2026-06-19-gold-falls-0-8-as-hawkish-fed-signals-outweigh-iran-deal-relief
-  headline: Gold Falls 0.8% as Hawkish Fed Signals Outweigh Iran Deal Relief
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6796
-- slug: 2026-06-08-gold-rises-as-uob-sees-prices-climbing-back-to-5-000-by-early-2027
-  headline: Gold rises as UOB sees prices climbing back to $5,000 by early 2027
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6753
-- slug: 2026-06-10-gold-falls-on-renewed-us-strikes-against-iran
-  headline: Gold Falls on Renewed US Strikes Against Iran
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6712
-- slug: 2026-06-04-gold-rises-amid-mild-dollar-weakness
-  headline: Gold Rises Amid Mild Dollar Weakness
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6754
-- slug: 2026-06-11-gold-outlook-supported-by-hedge-demand-state-street-says
-  headline: Gold outlook supported by hedge demand, State Street says
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6702
-- slug: 2026-01-29-us-stocks-slip-as-trump-fed-nominee-shakes-rates-gold-drops
-  headline: US stocks slip as Trump Fed nominee shakes rates; gold drops
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6878
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6536
-- slug: 2026-01-23-wall-street-ends-flat-as-intel-plunges-gold-climbs-to-record
-  headline: Wall Street ends flat as Intel plunges, gold climbs to record
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6788
+  strength: 0.6586
 ---
-
 ## Silver falls 4.5%; Aslam cites yields, dollar and oil-linked inflation
 
 **Subtype:** fact

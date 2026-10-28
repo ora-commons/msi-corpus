@@ -1,9 +1,20 @@
 ---
 headline: Trump directs $150 million to boost U.S. gasoline and diesel production
-secondary_headline: Department of Energy expects millions more gallons from U.S. refiners daily
+secondary_headline: Department of Energy expects millions more gallons from U.S. refiners
+  daily
 publish_date: '2026-10-23'
-lede: President Donald Trump invoked the Defense Production Act on Thursday night, Oct. 22, to release $150 million to increase American refining capacity and produce more gasoline and diesel amid higher fuel prices. Trump made the announcement at a campaign rally in Sioux City, where he was stumping for Iowa Republican candidates less than two weeks before the midterm elections.
-nut_graf: The U.S. Department of Energy said the $150 million would come from the $1 billion Congress had already appropriated for critical national security energy-related projects and would expand domestic petroleum production, storage and logistics at refineries across the country. The department expected the money to increase U.S. refining output by millions of gallons per day, while U.S. Secretary of Energy Chris Wright said it would be used with private industry to strengthen existing energy infrastructure.
+lede: President Donald Trump invoked the Defense Production Act on Thursday night,
+  Oct. 22, to release $150 million to increase American refining capacity and produce
+  more gasoline and diesel amid higher fuel prices. Trump made the announcement at
+  a campaign rally in Sioux City, where he was stumping for Iowa Republican candidates
+  less than two weeks before the midterm elections.
+nut_graf: The U.S. Department of Energy said the $150 million would come from the
+  $1 billion Congress had already appropriated for critical national security energy-related
+  projects and would expand domestic petroleum production, storage and logistics at
+  refineries across the country. The department expected the money to increase U.S.
+  refining output by millions of gallons per day, while U.S. Secretary of Energy Chris
+  Wright said it would be used with private industry to strengthen existing energy
+  infrastructure.
 primary_entities:
 - Donald Trump
 - Defense Production Act
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,7 +159,12 @@ related_stories:
   headline: U.S. Department of Agriculture and Trump announce $8 billion farm aid
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7523
+  strength: 0.7526
+- slug: 2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal
+  headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7126
 - slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
   headline: Trump's fuel-price measures leave gasoline and diesel costs high
   publish_date: '2026-10-22'
@@ -157,103 +174,41 @@ related_stories:
   headline: Trump announces $8 billion in farmer aid ahead of midterms
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7127
+  strength: 0.7133
 - slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
   headline: Trump says US reached deal with Putin for Russian diesel
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7406
+  strength: 0.7405
 - slug: 2026-10-05-trump-orders-dyed-diesel-opened-to-highway-use-defers-excise-tax
   headline: Trump orders dyed diesel opened to highway use, defers excise tax
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7541
+  strength: 0.7544
 - slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
   headline: Trump pulls fuel-price levers as midterm elections approach
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7272
+  strength: 0.7271
 - slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
   headline: Bipartisan senators urge Trump to reverse Russian diesel deal
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7087
-- slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6999
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7675
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7333
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7207
-- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
-  headline: G7 to coordinate refinery maintenance as diesel supply tightens
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7068
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7399
-- slug: 2026-09-24-oil-industry-launches-lobbying-push-against-trump-s-diesel-export-restriction
-  headline: Oil industry launches lobbying push against Trump's diesel export restriction
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7076
-- slug: 2026-09-23-trump-weighs-diesel-export-ban-as-fuel-prices-hit-record-high
-  headline: Trump weighs diesel export ban as fuel prices hit record high
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7061
-- slug: 2026-09-24-rotterdam-diesel-prices-surge-after-trump-voices-support-for-u-s-export-ban
-  headline: Rotterdam diesel prices surge after Trump voices support for U.S. export ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7014
-- slug: 2026-09-24-eu-warns-trump-diesel-export-ban-could-hurt-both-economies
-  headline: EU warns Trump diesel export ban could hurt both economies
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6985
-- slug: 2026-09-22-trump-on-refinery-strikes-serious-hit-on-diesel-and-russians
-  headline: 'Trump on refinery strikes: ''serious hit'' on diesel and Russians'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7048
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7162
-- slug: 2026-09-02-u-s-refiners-have-no-plans-to-build-new-plants-citing-long-term-demand-decline
-  headline: U.S. refiners have no plans to build new plants, citing long-term demand decline
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7402
+  strength: 0.7085
 image:
   url: /articles/2026-10-23-trump-directs-150-million-to-boost-u-s-gasoline-and-diesel-production.png
-  alt: "Illustration accompanying article: Trump directs $150 million to boost U.S. gasoline and diesel production"
+  alt: 'Illustration accompanying article: Trump directs $150 million to boost U.S.
+    gasoline and diesel production'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump directs $150 million to boost U.S. gasoline and diesel production
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: DOJ reportedly opens probe into former DHS official Corey Lewandowski
 secondary_headline: DHS inspector general's office does not confirm the inquiry
 publish_date: '2026-10-22'
-lede: As of Oct. 22, 2026, the Justice Department had reportedly opened an investigation into allegations that former Department of Homeland Security official Corey Lewandowski profited from his position. The New York Times, Wall Street Journal and CNN reported the development, citing unnamed people with knowledge of the situation.
-nut_graf: The reported inquiry concerns allegations that Lewandowski sought outside work for governments in the Middle East while at DHS and that either Lewandowski or close associates approved nearly all DHS spending decisions on sums of more than $100,000. His attorney says DOJ has not contacted him, while the DHS inspector general's office has not confirmed the inquiry.
+lede: As of Oct. 22, 2026, the Justice Department had reportedly opened an investigation
+  into allegations that former Department of Homeland Security official Corey Lewandowski
+  profited from his position. The New York Times, Wall Street Journal and CNN reported
+  the development, citing unnamed people with knowledge of the situation.
+nut_graf: The reported inquiry concerns allegations that Lewandowski sought outside
+  work for governments in the Middle East while at DHS and that either Lewandowski
+  or close associates approved nearly all DHS spending decisions on sums of more than
+  $100,000. His attorney says DOJ has not contacted him, while the DHS inspector general's
+  office has not confirmed the inquiry.
 primary_entities:
 - Department of Justice
 - Department of Homeland Security
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +147,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-justice-department-examines-allegations-that-lewandowski-profited-from-dhs-role
-  headline: Justice Department examines allegations that Lewandowski profited from DHS role
+  headline: Justice Department examines allegations that Lewandowski profited from
+    DHS role
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8851
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
+- slug: 2026-10-23-one-source-says-doj-has-not-yet-issued-subpoenas-in-the-corey-lewandowski-inquir
+  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski
+    inquiry
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6355
-- slug: 2026-10-21-doj-fraud-chief-directs-prosecutors-to-weigh-tax-charges-in-every-case
-  headline: DOJ fraud chief directs prosecutors to weigh tax charges in every case
-  publish_date: '2026-10-21'
+  strength: 0.85
+- slug: 2026-10-23-washington-sun-reports-some-dhs-records-requests-denied-in-lewandowski-s-tenure
+  headline: Washington Sun reports some DHS records requests denied in Lewandowski’s
+    tenure
+  publish_date: '2026-10-23'
   relation: related
-  strength: 0.6212
+  strength: 0.8466
+- slug: 2026-10-23-lawmakers-question-noem-s-220m-ad-award-to-two-firms-tied-to-noem-and-her-circle
+  headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and
+    her circle
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.823
 - slug: 2026-09-08-lewandowski-allegedly-pitched-government-services-to-qatar-uae-while-at-dhs
-  headline: Lewandowski allegedly pitched government services to Qatar, UAE while at DHS
+  headline: Lewandowski allegedly pitched government services to Qatar, UAE while
+    at DHS
   publish_date: '2026-09-08'
   relation: related
   strength: 0.7881
-- slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
-  headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6384
-- slug: 2026-10-13-guilfoyle-resigns-as-us-ambassador-to-greece-after-wsj-donor-payment-reports
-  headline: Guilfoyle resigns as US ambassador to Greece after WSJ donor-payment reports
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.619
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6454
-- slug: 2026-10-12-doj-opens-antitrust-probe-into-five-tv-networks-over-white-house-press-dispute
-  headline: DOJ opens antitrust probe into five TV networks over White House press dispute
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6196
-- slug: 2026-10-11-senior-us-official-says-decision-on-guilfoyle-s-fate-expected-this-week
-  headline: Senior US official says decision on Guilfoyle's fate expected this week
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6124
 - slug: 2026-07-10-dhs-inspector-general-finds-lewandowski-may-have-improperly-awarded-contracts
   headline: DHS inspector general finds Lewandowski may have improperly awarded contracts
   publish_date: '2026-07-10'
   relation: related
   strength: 0.8181
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6137
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6419
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6401
 - slug: 2026-05-10-former-polish-justice-minister-ziobro-says-he-is-in-the-u-s
   headline: Former Polish justice minister Ziobro says he is in the U.S.
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6788
-- slug: 2026-06-05-justice-department-opens-investigations-into-several-trump-adversaries
-  headline: Justice Dept. opens probes into Carroll, Powell, Comey, Smith
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6445
 - slug: 2026-03-05-kristi-noem-defends-dhs-immigration-actions-and-spending-in-congress
   headline: Kristi Noem defends DHS immigration actions and spending in Congress
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6668
-- slug: 2026-05-10-ex-polish-justice-minister-ziobro-arrives-in-u-s-polish-prosecutors-probe-escape
-  headline: Ex-Polish Justice Minister Ziobro Arrives in U.S., Polish Prosecutors Probe Escape
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6458
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6167
-- slug: 2026-03-06-trump-fires-noem-as-dhs-chief-after-220m-ad-blitz-draws-gop-ire
-  headline: Trump fires Noem as DHS chief after $220M ad blitz draws GOP ire
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6518
-- slug: 2026-06-06-justice-department-opens-criminal-investigation-into-e-jean-carroll
-  headline: Justice Department opens criminal investigation into E. Jean Carroll
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.615
 ---
-
 ## DOJ reportedly opens probe into former DHS official Corey Lewandowski
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Logistics briefs track freight data, industrial moves and corporate results
 secondary_headline: Thieves took nearly $1 million in trading cards from FedEx truck
 publish_date: '2026-10-22'
-lede: The Wall Street Journal's Esther Fung reported that thieves stole nearly $1 million worth of trading cards from a FedEx truck in Santa Ana, California, the previous week. The American Trucking Associations' for-hire truck tonnage index for September was flat with 2025 and up 0.8% from August, marking the first monthly increase since June. Other briefs covered industrial investment, corporate results, layoffs, warehouse vacancy, sanctions and maritime security; a Toyota RAV4 shortage report appeared only as background.
-nut_graf: The freight data and theft report put cargo security alongside changes in demand, while corporate briefs tracked investment, output, labor and commercial guidance. Separate items covered U.K. inflation, planned Canadian support for steel and auto, a U.S. copper mine, data-center electricity and a truck-driver protest in Italy.
+lede: The Wall Street Journal's Esther Fung reported that thieves stole nearly $1
+  million worth of trading cards from a FedEx truck in Santa Ana, California, the
+  previous week. The American Trucking Associations' for-hire truck tonnage index
+  for September was flat with 2025 and up 0.8% from August, marking the first monthly
+  increase since June. Other briefs covered industrial investment, corporate results,
+  layoffs, warehouse vacancy, sanctions and maritime security; a Toyota RAV4 shortage
+  report appeared only as background.
+nut_graf: The freight data and theft report put cargo security alongside changes in
+  demand, while corporate briefs tracked investment, output, labor and commercial
+  guidance. Separate items covered U.K. inflation, planned Canadian support for steel
+  and auto, a U.S. copper mine, data-center electricity and a truck-driver protest
+  in Italy.
 primary_entities:
 - American Trucking Associations
 - Professional Sports Authenticator
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,96 +151,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-union-pacific-norfolk-southern-and-csx-post-higher-profits-amid-rail-shift
+  headline: Union Pacific, Norfolk Southern and CSX post higher profits amid rail
+    shift
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6521
 - slug: 2026-10-13-la-long-beach-ports-log-busiest-ever-september-for-container-imports
   headline: LA, Long Beach ports log busiest-ever September for container imports
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6677
+  strength: 0.6673
 - slug: 2026-10-08-ftc-usda-open-joint-inquiry-into-farm-equipment-market-competition
   headline: FTC, USDA open joint inquiry into farm equipment market competition
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6797
-- slug: 2026-10-16-lutnick-stalls-u-s--mexico-tariff-talks-on-metals-autos
-  headline: Lutnick stalls U.S.-Mexico tariff talks on metals, autos
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6248
-- slug: 2026-10-09-trump-vance-back-bill-letting-merchants-pick-card-networks
-  headline: Trump, Vance back bill letting merchants pick card networks
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6347
-- slug: 2026-10-07-texas-finance-jobs-grew-nearly-26-from-2019-to-2025-more-than-double-new-york-s-
-  headline: Texas finance jobs grew nearly 26% from 2019 to 2025, more than double New York's 12%
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6413
+  strength: 0.6796
 - slug: 2026-10-05-walmart-apple-receive-billions-in-tariff-refunds-as-small-shippers-wait
   headline: Walmart, Apple receive billions in tariff refunds as small shippers wait
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6509
-- slug: 2026-10-07-u-s-trade-deficit-widens-14-in-august-to-highest-level-since-march-2025
-  headline: U.S. trade deficit widens 14% in August to highest level since March 2025
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6246
-- slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
-  headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6262
-- slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
-  headline: Boeing aerospace union months into first full contract talks in 14 years
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6463
+  strength: 0.6514
 - slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
   headline: Diesel hits US record as freight rates climb to highest since 2022
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6549
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6254
-- slug: 2026-09-10-global-port-tracker-forecasts-2-31-million-20-foot-equivalent-import-units
-  headline: Global Port Tracker forecasts 2.31 million 20-foot-equivalent import units
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6466
-- slug: 2026-09-03-wall-street-rallies-as-waller-backs-potential-september-rate-hold
-  headline: Wall Street rallies as Waller backs potential September rate hold
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6297
-- slug: 2026-08-14-china-s-auto-exports-strain-global-shipping-capacity
-  headline: China's auto exports strain global shipping capacity
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6481
-- slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
-  headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6417
-- slug: 2026-08-12-us-consumers-take-out-record-211-billion-in-auto-loans-fed-report-shows
-  headline: US consumers take out record $211 billion in auto loans, Fed report shows
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6219
-- slug: 2026-08-07-port-of-los-angeles-peak-shipping-season-extends-as-retailers-keep-importing
-  headline: Port of Los Angeles peak shipping season extends as retailers keep importing
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6233
+  strength: 0.6548
 - slug: 2026-06-10-america-s-four-year-trucking-slump-ends-as-rates-surge
   headline: America's four-year trucking slump ends as rates surge
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6963
+  strength: 0.6965
 - slug: 2026-06-05-fedex-freight-spinoff-poised-to-benefit-as-ism-manufacturing-expands
   headline: FedEx Freight spinoff poised to benefit as ISM manufacturing expands
   publish_date: '2026-06-05'
@@ -239,9 +191,8 @@ related_stories:
   headline: Rising trucking rates push U.S. companies back to intermodal rail
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6519
+  strength: 0.6514
 ---
-
 ## Logistics briefs track freight data, industrial moves and corporate results
 
 **Subtype:** fact

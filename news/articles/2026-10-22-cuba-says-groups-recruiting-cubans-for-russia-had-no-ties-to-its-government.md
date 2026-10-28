@@ -1,9 +1,22 @@
 ---
 headline: Cuba says groups recruiting Cubans for Russia had no ties to its government
-secondary_headline: Ukraine delegation reports more than 1,000 Cubans signed Russian military contracts
+secondary_headline: Ukraine delegation reports more than 1,000 Cubans signed Russian
+  military contracts
 publish_date: '2026-10-22'
-lede: On Wednesday, Oct. 21, 2026, Cuba’s Foreign Ministry rejected U.S. accusations that Havana was involved in Russia’s war against Ukraine, calling the allegations false and unfounded. The ministry said organizations that recruited Cuban citizens abroad had no ties to Cuban government institutions and cited 17 cases involving mercenary activity since 2023, resulting in charges against 49 people. U.S. Ambassador to the United Nations Mike Waltz had accused Cuba’s government of complicity in the war, while Ukraine’s delegation separately reported that more than 1,000 Cubans signed contracts with the Russian military between 2023 and 2025.
-nut_graf: Cuba’s rebuttal combined a denial of government ties with domestic investigations and criminal prosecutions. The U.S. allegation of government complicity and Ukraine’s report of Russian military recruitment were separate claims in the dispute. The exchange came ahead of the U.N. General Assembly’s annual debate on Tuesday and Wednesday, when member states were scheduled to vote on a nonbinding resolution calling for an end to the U.S. economic embargo of Cuba.
+lede: On Wednesday, Oct. 21, 2026, Cuba’s Foreign Ministry rejected U.S. accusations
+  that Havana was involved in Russia’s war against Ukraine, calling the allegations
+  false and unfounded. The ministry said organizations that recruited Cuban citizens
+  abroad had no ties to Cuban government institutions and cited 17 cases involving
+  mercenary activity since 2023, resulting in charges against 49 people. U.S. Ambassador
+  to the United Nations Mike Waltz had accused Cuba’s government of complicity in
+  the war, while Ukraine’s delegation separately reported that more than 1,000 Cubans
+  signed contracts with the Russian military between 2023 and 2025.
+nut_graf: Cuba’s rebuttal combined a denial of government ties with domestic investigations
+  and criminal prosecutions. The U.S. allegation of government complicity and Ukraine’s
+  report of Russian military recruitment were separate claims in the dispute. The
+  exchange came ahead of the U.N. General Assembly’s annual debate on Tuesday and
+  Wednesday, when member states were scheduled to vote on a nonbinding resolution
+  calling for an end to the U.S. economic embargo of Cuba.
 primary_entities:
 - Cuba
 - United States
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +154,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-22-cuba-says-groups-recruiting-cubans-for-russia-had-no-ties-to-its-government.png
-  alt: 'Illustration accompanying article: Cuba says groups recruiting Cubans for Russia had no ties to its government'
+  alt: 'Illustration accompanying article: Cuba says groups recruiting Cubans for
+    Russia had no ties to its government'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-20-ukraine-says-russia-has-recruited-over-1-000-cubans-for-military-service
   headline: Ukraine says Russia has recruited over 1,000 Cubans for military service
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.821
+  strength: 0.8224
 - slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
   headline: Washington targets Cuba’s military network with new restrictions
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6801
+  strength: 0.6809
 - slug: 2026-08-14-dominican-republic-orders-cuban-diplomats-out-havana-cites-us-pressure
   headline: Dominican Republic orders Cuban diplomats out; Havana cites US pressure
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6573
+  strength: 0.6585
 - slug: 2026-05-08-us-says-it-is-not-planning-imminent-military-action-against-cuba
   headline: US says it is not planning imminent military action against Cuba
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6967
+  strength: 0.6957
 - slug: 2026-05-22-rubio-doubts-diplomacy-with-cuba-as-trump-threatens-possible-intervention
   headline: Rubio doubts diplomacy with Cuba as Trump threatens possible intervention
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6869
+  strength: 0.686
 - slug: 2026-05-21-rubio-expresses-doubt-on-cuba-diplomacy-as-trump-renews-military-threat
   headline: Rubio expresses doubt on Cuba diplomacy as Trump renews military threat
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6794
-- slug: 2026-05-20-u-s-indicts-ra-l-castro-over-1996-plane-shootdown-as-cuba-tensions-rise
-  headline: U.S. indicts Raúl Castro over 1996 plane shootdown as Cuba tensions rise
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6777
+  strength: 0.6788
 - slug: 2026-02-27-cuba-and-u-s-investigate-deadly-boat-shooting-rubio-denies-operation
   headline: Cuba and U.S. investigate deadly boat shooting; Rubio denies operation
   publish_date: '2026-02-27'
   relation: related
-  strength: 0.7007
-- slug: 2026-05-18-u-s-indicts-former-cuban-president-ra-l-castro-over-1996-plane-shootdown
-  headline: U.S. indicts former Cuban President Raúl Castro over 1996 plane shootdown
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6705
-- slug: 2026-05-20-u-s-indicts-ra-l-castro-over-1996-plane-shootdown-as-cuba-tensions-mount
-  headline: U.S. indicts Raúl Castro over 1996 plane shootdown as Cuba tensions mount
+  strength: 0.7019
+- slug: 2026-05-20-u-s-indicts-ra-l-castro-over-1996-plane-shootdown-as-cuba-tensions-rise
+  headline: U.S. indicts Raúl Castro over 1996 plane shootdown as Cuba tensions rise
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.6692
-- slug: 2026-05-21-u-s-indicts-ra-l-castro-over-1996-plane-shootdown-as-cuba-condemns
-  headline: U.S. indicts Raúl Castro over 1996 plane shootdown as Cuba condemns
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6649
-- slug: 2026-05-18-trump-administration-escalates-cuba-pressure-after-ra-l-castro-indictment
-  headline: Trump administration escalates Cuba pressure after Raúl Castro indictment
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6653
-- slug: 2026-05-21-us-indicts-ra-l-castro-over-1996-brothers-to-the-rescue-shootdown
-  headline: US indicts Raúl Castro over 1996 Brothers to the Rescue shootdown
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6623
-- slug: 2026-01-05-cuba-says-32-officers-killed-in-u-s-military-operation-in-venezuela
-  headline: Cuba says 32 officers killed in U.S. military operation in Venezuela
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6863
-- slug: 2026-04-24-cuba-says-detainee-releases-are-not-on-negotiating-table-in-u-s-talks
-  headline: Cuba says detainee releases are not on negotiating table in U.S. talks
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6671
-- slug: 2026-05-20-us-indicts-former-cuban-president-ra-l-castro-over-1996-aircraft-downing
-  headline: US indicts former Cuban President Raúl Castro over 1996 aircraft downing
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6542
-- slug: 2026-02-27-cuba-says-it-is-communicating-with-u-s-after-fatal-boat-shooting
-  headline: Cuba says it is communicating with U.S. after fatal boat shooting
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6765
-- slug: 2026-01-06-cuba-mourns-32-officers-killed-in-venezuela-strike-as-oas-holds-emergency-sessio
-  headline: Cuba mourns 32 officers killed in Venezuela strike as OAS holds emergency session
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6802
-- slug: 2026-01-12-cuba-s-d-az-canel-denies-us-talks-after-trump-issues-deal-or-else-threat
-  headline: Cuba's Díaz-Canel denies US talks after Trump issues deal-or-else threat
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.675
-- slug: 2026-04-20-cuba-confirms-us-talks-demands-embargo-lifted
-  headline: Cuba confirms US talks, demands embargo lifted
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6582
+  strength: 0.6771
 ---
-
 ## Cuba says groups recruiting Cubans for Russia had no ties to its government
 
 **Subtype:** fact

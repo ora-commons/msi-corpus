@@ -2,8 +2,16 @@
 headline: Bukele launches combat mission in Haiti to free four kidnapped technicians
 secondary_headline: Waltz says intelligence reports suggest the four men survived
 publish_date: '2026-10-22'
-lede: El Salvador President Nayib Bukele launched a military combat operation in Haiti on Wednesday to rescue four Salvadoran aviation technicians kidnapped by criminal gangs. The technicians were from El Salvador's Freedom Task Force II, deployed as part of the international Gang Suppression Force, and U.S. Ambassador to the United Nations Mike Waltz said intelligence reports suggested the men had survived.
-nut_graf: El Salvador's rescue effort comes as its Freedom Task Force II operates within Haiti's international security mission, and Haiti's government has said securing the technicians' release is an absolute priority. Bukele said the operation was in an initial phase and warned that he could order a much larger military intervention if necessary.
+lede: El Salvador President Nayib Bukele launched a military combat operation in Haiti
+  on Wednesday to rescue four Salvadoran aviation technicians kidnapped by criminal
+  gangs. The technicians were from El Salvador's Freedom Task Force II, deployed as
+  part of the international Gang Suppression Force, and U.S. Ambassador to the United
+  Nations Mike Waltz said intelligence reports suggested the men had survived.
+nut_graf: El Salvador's rescue effort comes as its Freedom Task Force II operates
+  within Haiti's international security mission, and Haiti's government has said securing
+  the technicians' release is an absolute priority. Bukele said the operation was
+  in an initial phase and warned that he could order a much larger military intervention
+  if necessary.
 primary_entities:
 - Nayib Bukele
 - El Salvador
@@ -55,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,116 +163,46 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-four-salvadoran-aviation-technicians-remain-missing-after-bukele-announces-rescu
-  headline: Four Salvadoran aviation technicians remain missing after Bukele announces rescue operation in Haiti
+  headline: Four Salvadoran aviation technicians remain missing after Bukele announces
+    rescue operation in Haiti
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.91
-- slug: 2026-09-29-un-security-council-extends-haiti-anti-gang-force-mandate-six-months
-  headline: UN Security Council extends Haiti anti-gang force mandate six months
-  publish_date: '2026-09-29'
+  strength: 0.9098
+- slug: 2026-10-25-william-wheeler-compares-bukele-s-model-with-trump-s-federal-raids
+  headline: William Wheeler compares Bukele’s model with Trump’s federal raids
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6352
-- slug: 2026-09-23-abinader-urges-un-to-fill-haiti-force-before-sept-30-mandate-expires
-  headline: Abinader urges UN to fill Haiti force before Sept. 30 mandate expires
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6297
-- slug: 2026-09-20-us-arrests-18-suspects-in-2021-assassination-of-haitian-president-mo-se
-  headline: US arrests 18 suspects in 2021 assassination of Haitian President Moïse
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6406
-- slug: 2026-09-20-badio-extradition-unclear-after-18-extradited-in-2021-mo-se-assassination
-  headline: Badio extradition unclear after 18 extradited in 2021 Moïse assassination
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6338
-- slug: 2026-09-21-haiti-extradites-18-mo-se-suspects-cites-significant-difficulties
-  headline: Haiti extradites 18 Moïse suspects, cites 'significant difficulties'
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6251
+  strength: 0.6521
 - slug: 2026-05-14-us-deportations-to-el-salvador-nearly-double-in-early-2026
   headline: US deportations to El Salvador nearly double in early 2026
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6523
+  strength: 0.6542
 - slug: 2026-04-24-un-says-haiti-s-new-anti-gang-force-has-funding-pledges-ahead-of-deploy-plan
-  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy plan
+  headline: UN says Haiti’s new anti-gang force has funding pledges ahead of deploy
+    plan
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.66
+  strength: 0.6602
 - slug: 2026-05-10-gang-violence-forces-hundreds-to-flee-shutters-hospital-in-haiti-s-capital
   headline: Gang violence forces hundreds to flee, shutters hospital in Haiti’s capital
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6512
-- slug: 2026-06-22-us-military-kills-2-in-latest-drug-boat-strike-campaign-death-toll-at-213
-  headline: US military kills 2 in latest drug boat strike; campaign death toll at 213
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6223
-- slug: 2026-05-13-cite-soleil-residents-demand-protection-after-gang-attacks-displace-hundreds-in-
-  headline: Cite Soleil residents demand protection after gang attacks displace hundreds in Haiti's capital
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6493
-- slug: 2026-05-10-hundreds-flee-haiti-s-capital-as-new-gang-violence-spreads-toward-airport
-  headline: Hundreds flee Haiti’s capital as new gang violence spreads toward airport
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6442
-- slug: 2026-05-19-u-s-justice-department-weighs-indicting-ra-l-castro-over-1996-shootdown
-  headline: U.S. Justice Department weighs indicting Raúl Castro over 1996 shootdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6339
-- slug: 2026-05-14-u-s-deportations-to-el-salvador-nearly-double-as-bukele-aligns-with-trump
-  headline: U.S. deportations to El Salvador nearly double as Bukele aligns with Trump
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6282
-- slug: 2026-05-19-u-s-justice-department-seeks-ra-l-castro-indictment-over-1996-exile-plane-shootd
-  headline: U.S. Justice Department seeks Raúl Castro indictment over 1996 exile plane shootdown
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6257
-- slug: 2026-05-17-brothers-to-the-rescue-is-at-center-of-us-case-on-ra-l-castro
-  headline: Brothers to the Rescue is at center of US case on Raúl Castro
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6248
-- slug: 2026-05-21-ra-l-castro-indictment-centers-on-exiles-brothers-to-the-rescue
-  headline: Raúl Castro indictment centers on exiles’ Brothers to the Rescue
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6226
-- slug: 2026-04-02-first-chadian-troop-linked-to-un-backed-haiti-gang-suppression-force-arrives
-  headline: First Chadian troop linked to UN-backed Haiti gang suppression force arrives
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.638
-- slug: 2026-03-16-un-expert-says-haiti-has-chance-to-curb-gang-violence-with-new-force
-  headline: UN expert says Haiti has chance to curb gang violence with new force
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6391
-- slug: 2026-01-22-us-warns-haiti-council-against-destabilizing-moves-before-feb-7
-  headline: US warns Haiti council against destabilizing moves before Feb. 7
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.637
+  strength: 0.6504
 image:
   url: /articles/2026-10-22-bukele-launches-combat-mission-in-haiti-to-free-four-kidnapped-technicians.png
-  alt: "Illustration accompanying article: Bukele launches combat mission in Haiti to free four kidnapped technicians"
+  alt: 'Illustration accompanying article: Bukele launches combat mission in Haiti
+    to free four kidnapped technicians'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Bukele launches combat mission in Haiti to free four kidnapped technicians
 
 **Subtype:** fact

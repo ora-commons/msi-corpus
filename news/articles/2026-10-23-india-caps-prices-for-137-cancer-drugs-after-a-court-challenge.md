@@ -2,8 +2,20 @@
 headline: India caps prices for 137 cancer drugs after a court challenge
 secondary_headline: A single Kadcyla dose matches a year of family coverage
 publish_date: '2026-10-23'
-lede: India’s government has expanded a 30% trade-margin cap to 137 other cancer drugs, with prices expected to fall from next month by up to 70%. The action follows a 2022 case initiated by Sarojam Radhakrishnan, a former Kerala bank employee whose breast-cancer treatment cost more than 63,000 rupees (£500) a month, and later reviewed by India’s Supreme Court. The Guardian reported that Radhakrishnan acted after concluding that thousands of families were being ruined by such drug costs. India’s Department of Pharmaceuticals says the cap could save cancer patients 2,500 crore rupees (£199m) annually, a measure The Guardian described as addressing drug prices for millions who face ruin if diagnosed.
-nut_graf: The policy addresses costs that the report says can lead poorer patients to forgo treatment, sell land or fall into debt. The Guardian said people on low incomes dread illness because treatment costs can mean financial ruin, particularly for cancer patients. The Supreme Court has asked the government to explain why the cap applies only to cancer drugs rather than the entire range of non-patented medicines.
+lede: India’s government has expanded a 30% trade-margin cap to 137 other cancer drugs,
+  with prices expected to fall from next month by up to 70%. The action follows a
+  2022 case initiated by Sarojam Radhakrishnan, a former Kerala bank employee whose
+  breast-cancer treatment cost more than 63,000 rupees (£500) a month, and later reviewed
+  by India’s Supreme Court. The Guardian reported that Radhakrishnan acted after concluding
+  that thousands of families were being ruined by such drug costs. India’s Department
+  of Pharmaceuticals says the cap could save cancer patients 2,500 crore rupees (£199m)
+  annually, a measure The Guardian described as addressing drug prices for millions
+  who face ruin if diagnosed.
+nut_graf: The policy addresses costs that the report says can lead poorer patients
+  to forgo treatment, sell land or fall into debt. The Guardian said people on low
+  incomes dread illness because treatment costs can mean financial ruin, particularly
+  for cancer patients. The Supreme Court has asked the government to explain why the
+  cap applies only to cancer drugs rather than the entire range of non-patented medicines.
 primary_entities:
 - India
 - Sarojam Radhakrishnan
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +157,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-india-caps-prices-for-137-cancer-drugs-after-a-court-challenge.png
-  alt: 'Illustration accompanying article: India caps prices for 137 cancer drugs after a court challenge'
+  alt: 'Illustration accompanying article: India caps prices for 137 cancer drugs
+    after a court challenge'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-09-30-survey-finds-voters-across-parties-back-price-caps-on-drugs-child-care
-  headline: Survey finds voters across parties back price caps on drugs, child care
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5861
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5903
-- slug: 2026-09-23-customs-rule-will-end-cheap-canadian-prescription-drug-imports-in-october
-  headline: Customs rule will end cheap Canadian prescription drug imports in October
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5894
-- slug: 2026-09-15-tuc-calls-to-rein-in-out-of-control-spending-after-reform-uk-s-72m
-  headline: TUC calls to rein in 'out of control' spending after Reform UK's £72m
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5803
-- slug: 2026-08-26-indiana-law-caps-hospital-prices-at-2-6-times-medicare-rates
-  headline: Indiana law caps hospital prices at 2.6 times Medicare rates
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6251
-- slug: 2026-08-26-fda-approves-first-kras-targeted-pill-for-pancreatic-cancer
-  headline: FDA approves first KRAS-targeted pill for pancreatic cancer
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5802
-- slug: 2026-06-19-u-s-launches-trade-probe-into-germany-over-drug-pricing
-  headline: U.S. launches trade probe into Germany over drug pricing
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6055
-- slug: 2026-02-05-trump-administration-says-15-medicare-drugs-will-cost-less-starting-in-2027
-  headline: Trump administration says 15 Medicare drugs will cost less starting in 2027
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6443
-- slug: 2026-07-02-us-uk-drug-deal-could-cause-229-000-excess-nhs-deaths-by-2036-analysis-says
-  headline: US-UK drug deal could cause 229,000 excess NHS deaths by 2036, analysis says
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5779
-- slug: 2026-06-25-new-federal-loan-caps-deter-would-be-physician-assistants-groups-say
-  headline: New federal loan caps deter would-be physician assistants, groups say
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5783
-- slug: 2026-06-03-canada-clears-generic-ozempic-us-patent-wall-holds-until-2032
-  headline: Canada clears generic Ozempic; US patent wall holds until 2032
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5877
-- slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
-  headline: Democratic-led states sue to block student loan caps for nursing, health degrees
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5825
-- slug: 2026-05-06-white-house-estimates-trump-drug-deals-would-cut-529b-in-10-years
-  headline: White House estimates Trump drug deals would cut $529B in 10 years
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5978
-- slug: 2026-05-31-pill-targeting-kras-mutations-nearly-doubles-survival-in-pancreatic-cancer-trial
-  headline: Pill targeting KRAS mutations nearly doubles survival in pancreatic cancer trial
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5807
-- slug: 2026-01-30-trump-administration-announces-15-new-drugs-for-medicare-price-talks
-  headline: Trump administration announces 15 new drugs for Medicare price talks
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.613
-- slug: 2026-05-18-trump-adds-more-than-600-generic-drugs-to-trumprx-discount-site
-  headline: Trump adds more than 600 generic drugs to TrumpRx discount site
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5873
-- slug: 2026-05-19-trump-adds-more-than-600-generic-drugs-to-trumprx-discount-site
-  headline: Trump adds more than 600 generic drugs to TrumpRx discount site
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5866
-- slug: 2026-05-06-white-house-says-trump-drug-deals-could-cut-529b-in-10-years
-  headline: White House says Trump drug deals could cut $529B in 10 years
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5918
-- slug: 2026-05-05-white-house-says-trump-drug-deals-could-cut-529b-in-10-years
-  headline: White House says Trump drug deals could cut $529B in 10 years
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5906
-- slug: 2026-05-19-supreme-court-rejects-drugmakers-challenge-to-medicare-price-talks
-  headline: Supreme Court rejects drugmakers’ challenge to Medicare price talks
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5778
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## India caps prices for 137 cancer drugs after a court challenge
 
 **Subtype:** fact

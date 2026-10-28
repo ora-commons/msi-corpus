@@ -1,9 +1,20 @@
 ---
 headline: Beckles asks King Charles to use his influence on slavery reparations
-secondary_headline: Draft Commonwealth communiqué draws dispute over dialogue on historical harms
+secondary_headline: Draft Commonwealth communiqué draws dispute over dialogue on historical
+  harms
 publish_date: '2026-10-22'
-lede: Professor Hilary Beckles, chair of the Caricom Reparations Commission, urged King Charles III to use his influence to advance slavery reparations talks between Britain and the Caribbean at next month's Commonwealth summit in Antigua and Barbuda. Beckles made the appeal at a press conference ahead of the meeting and said he believed the wealth Charles was passing to his children and grandchildren came from chattel slavery.
-nut_graf: The appeal comes as Caribbean leaders and groups call for a formal apology, while a disputed second paragraph in a draft 2026 Commonwealth communiqué would require foreign ministers to advance discussions of historical harms from the transatlantic slave trade. Beckles said reparatory justice would be the number-one item for Caribbean attendees with an interest in Caribbean issues and for people from Africa and the global African movement with an interest in those issues.
+lede: Professor Hilary Beckles, chair of the Caricom Reparations Commission, urged
+  King Charles III to use his influence to advance slavery reparations talks between
+  Britain and the Caribbean at next month's Commonwealth summit in Antigua and Barbuda.
+  Beckles made the appeal at a press conference ahead of the meeting and said he believed
+  the wealth Charles was passing to his children and grandchildren came from chattel
+  slavery.
+nut_graf: The appeal comes as Caribbean leaders and groups call for a formal apology,
+  while a disputed second paragraph in a draft 2026 Commonwealth communiqué would
+  require foreign ministers to advance discussions of historical harms from the transatlantic
+  slave trade. Beckles said reparatory justice would be the number-one item for Caribbean
+  attendees with an interest in Caribbean issues and for people from Africa and the
+  global African movement with an interest in those issues.
 primary_entities:
 - Hilary Beckles
 - King Charles III
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +152,8 @@ cross_article_links:
   strength: 0.5621
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-02-un-mission-venezuela-s-repression-institutions-intact-as-abuses-decline
-  headline: 'UN mission: Venezuela''s repression institutions intact as abuses decline'
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5622
-- slug: 2026-09-23-abinader-urges-un-to-fill-haiti-force-before-sept-30-mandate-expires
-  headline: Abinader urges UN to fill Haiti force before Sept. 30 mandate expires
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5617
-- slug: 2026-09-22-ancestry-and-ucl-release-nearly-4-million-enslavement-records-for-online-search
-  headline: Ancestry and UCL release nearly 4 million enslavement records for online search
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5598
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5691
-- slug: 2026-09-18-over-1-500-economists-urge-creation-of-global-inequality-panel
-  headline: Over 1,500 economists urge creation of global inequality panel
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5619
-- slug: 2026-09-17-milei-sends-bill-expanding-falklands-resource-penalties-to-congress
-  headline: Milei sends bill expanding Falklands resource penalties to Congress
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5592
-- slug: 2026-08-18-stiglitz-led-economists-push-burnham-to-back-ipcc-style-inequality-panel
-  headline: Stiglitz-led economists push Burnham to back IPCC-style inequality panel
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5726
-- slug: 2026-05-24-pope-leo-xiv-apologizes-for-vatican-role-in-legitimizing-historical-slavery
-  headline: Pope Leo XIV apologizes for Vatican role in legitimizing historical slavery
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6075
-- slug: 2026-04-30-king-charles-iii-tells-congress-uk-us-ties-are-interlinked-in-speech
-  headline: King Charles III tells Congress UK-US ties are ‘interlinked’ in speech
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6127
-- slug: 2026-02-24-caribbean-leaders-confront-u-s-over-military-strikes-and-cuba-policy
-  headline: Caribbean leaders confront U.S. over military strikes and Cuba policy
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6182
-- slug: 2026-04-29-king-charles-meets-trump-and-urges-u-s-leaders-to-stay-engaged-globally
-  headline: King Charles meets Trump and urges U.S. leaders to stay engaged globally
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6003
-- slug: 2026-04-02-king-charles-iii-to-deliver-address-to-u-s-congress-in-late-april
-  headline: King Charles III to deliver address to U.S. Congress in late April
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6068
-- slug: 2026-04-29-venezuela-s-delcy-rodr-guez-wears-pin-seen-as-asserting-essequibo-claim
-  headline: Venezuela’s Delcy Rodríguez wears pin seen as asserting Essequibo claim
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5942
-- slug: 2026-04-28-king-charles-iii-arrives-in-us-for-4-day-state-visit-amid-trump-rift
-  headline: King Charles III arrives in US for 4-day state visit amid Trump rift
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-25-pope-leo-xiv-apologizes-for-vatican-s-role-in-legitimizing-slavery
-  headline: Pope Leo XIV apologizes for Vatican’s role in legitimizing slavery
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5797
-- slug: 2026-04-28-king-charles-iii-s-charity-marks-50-years-helping-young-people-find-work
-  headline: King Charles III’s charity marks 50 years helping young people find work
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5859
-- slug: 2026-03-15-king-felipe-says-spain-s-conquest-of-americas-included-much-abuse
-  headline: King Felipe says Spain’s conquest of Americas included “much abuse”
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5894
-- slug: 2026-06-02-king-charles-tells-oldest-post-office-scandal-victim-it-was-dreadful
-  headline: King Charles tells oldest Post Office scandal victim it was 'dreadful'
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5595
-- slug: 2026-05-14-macron-guterres-back-african-seats-on-un-security-council-in-ethiopia-talks
-  headline: Macron, Guterres back African seats on UN Security Council in Ethiopia talks
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5684
-- slug: 2026-02-10-king-charles-says-he-will-back-police-probing-prince-andrew-epstein-links
-  headline: King Charles says he will back police probing Prince Andrew Epstein links
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.5883
+related_stories: []
 ---
-
 ## Beckles asks King Charles to use his influence on slavery reparations
 
 **Subtype:** fact

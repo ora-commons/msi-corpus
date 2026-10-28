@@ -1,9 +1,22 @@
 ---
 headline: Crude futures rise as Hormuz threats offset recovering Middle East exports
-secondary_headline: Saudi-led coalition intercepts drones; IRGC says tanker fires south of the Strait of Hormuz
+secondary_headline: Saudi-led coalition intercepts drones; IRGC says tanker fires
+  south of the Strait of Hormuz
 publish_date: '2026-10-21'
-lede: Crude oil futures rose Wednesday as traders weighed renewed threats to shipping through the Strait of Hormuz and attacks targeting Saudi Arabia against a recovery in Middle East oil exports. December Brent crude futures rose 1.3% to $110.19 a barrel, while December West Texas Intermediate futures gained 1.2% to $98.97 a barrel.
-nut_graf: 'Oil markets weighed recovered crude shipments against renewed shipping risks: Iran''s Islamic Revolutionary Guard Corps said Tuesday that two oil tankers caught fire after striking mines south of the Strait of Hormuz, the Saudi-led coalition said Wednesday it intercepted drones launched toward the kingdom, and ING analysts said elevated shipping costs and persistent Middle East security risks continued to support oil prices. Kpler measured flows through the Strait of Hormuz and alternative export routes averaging more than 24 million barrels a day in the week through Oct. 18, above the prewar level of 23.3 million barrels a day, while the International Energy Agency said Middle East refined-product exports remained below prewar levels and expected tight diesel supplies to persist well into 2027.'
+lede: Crude oil futures rose Wednesday as traders weighed renewed threats to shipping
+  through the Strait of Hormuz and attacks targeting Saudi Arabia against a recovery
+  in Middle East oil exports. December Brent crude futures rose 1.3% to $110.19 a
+  barrel, while December West Texas Intermediate futures gained 1.2% to $98.97 a barrel.
+nut_graf: 'Oil markets weighed recovered crude shipments against renewed shipping
+  risks: Iran''s Islamic Revolutionary Guard Corps said Tuesday that two oil tankers
+  caught fire after striking mines south of the Strait of Hormuz, the Saudi-led coalition
+  said Wednesday it intercepted drones launched toward the kingdom, and ING analysts
+  said elevated shipping costs and persistent Middle East security risks continued
+  to support oil prices. Kpler measured flows through the Strait of Hormuz and alternative
+  export routes averaging more than 24 million barrels a day in the week through Oct.
+  18, above the prewar level of 23.3 million barrels a day, while the International
+  Energy Agency said Middle East refined-product exports remained below prewar levels
+  and expected tight diesel supplies to persist well into 2027.'
 primary_entities:
 - Strait of Hormuz
 - Iran
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +159,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-brent-futures-top-114-as-u-s--iran-and-gulf-threats-persist
+  headline: Brent futures top $114 as U.S.-Iran and Gulf threats persist
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8553
 - slug: 2026-10-20-oil-prices-climb-as-middle-east-supply-risks-offset-gulf-exports
   headline: Oil prices climb as Middle East supply risks offset Gulf exports
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8618
+  strength: 0.862
+- slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8467
 - slug: 2026-10-22-brent-crude-tops-111-after-saudi-press-agency-says-drone-debris-killed-two
-  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed two
+  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed
+    two
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8428
+  strength: 0.8425
 - slug: 2026-10-20-oil-prices-soar-past-105-as-hormuz-tanker-attacks-mount
   headline: Oil prices soar past $105 as Hormuz tanker attacks mount
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8256
+  strength: 0.8259
 - slug: 2026-10-14-oil-prices-rise-as-saudi-aramco-attack-hormuz-tanker-strike-reported
   headline: Oil prices rise as Saudi Aramco attack, Hormuz tanker strike reported
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.848
+  strength: 0.8475
 - slug: 2026-10-13-oil-prices-fall-middle-east-risks-russian-diesel
   headline: Brent slides 0.9% as Strait of Hormuz oil flows run 38% below prewar baseline
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8114
+  strength: 0.8106
 - slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
   headline: Oil futures rise as Middle East exports recover to prewar levels
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8753
-- slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
-  headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.8638
-- slug: 2026-10-06-oil-prices-fall-as-middle-east-exports-recover-shipping-attacks-resume
-  headline: Oil prices fall as Middle East exports recover, shipping attacks resume
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8251
-- slug: 2026-10-02-crude-futures-jump-4-4-to-102-31-despite-hormuz-rebound
-  headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8325
-- slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
-  headline: Oil rises on Hormuz risks as Saudi crude flows rebound
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.872
-- slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
-  headline: Oil prices rise as Trump rejects Iran ceasefire proposal
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.8309
-- slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
-  headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.817
-- slug: 2026-09-14-oil-rises-as-saudi-pipeline-attack-and-houthi-gains-squeeze-exports
-  headline: Oil rises as Saudi pipeline attack and Houthi gains squeeze exports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.8365
-- slug: 2026-09-15-oil-rises-as-saudi-pipeline-outage-and-houthi-gains-pressure-middle-east-supply
-  headline: Oil rises as Saudi pipeline outage and Houthi gains pressure Middle East supply
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8207
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.8135
-- slug: 2026-09-09-oil-futures-rise-as-middle-east-conflict-escalates
-  headline: Oil futures rise as Middle East conflict escalates
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.8129
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.8455
-- slug: 2026-08-10-oil-rises-as-iran-demands-u-s-withdrawal-to-reopen-strait-of-hormuz
-  headline: Oil rises as Iran demands U.S. withdrawal to reopen Strait of Hormuz
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.8292
-- slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
-  headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.8171
-- slug: 2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet
-  headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.8185
+  strength: 0.8745
 ---
-
 ## Crude futures rise as Hormuz threats offset recovering Middle East exports
 
 **Subtype:** fact

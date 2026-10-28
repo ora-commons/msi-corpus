@@ -1,9 +1,18 @@
 ---
 headline: Hail damages a Phoenix car; homes reported damaged elsewhere in Arizona
-secondary_headline: National Weather Service issued multiple warnings and tornado watches
+secondary_headline: National Weather Service issued multiple warnings and tornado
+  watches
 publish_date: '2026-10-22'
-lede: A severe storm brought hail to Phoenix on October 22, 2026, as BBC News videos showed people sheltering inside a car while hail smashed its windscreen. Intense downpours covered Phoenix neighborhoods in ice, and the severe weather battered other parts of Arizona. BBC News reported that golf ball-sized hail damaged homes and shattered windows in those areas, while the National Weather Service issued multiple warnings and tornado watches as the storms moved across the region.
-nut_graf: Hail damaged a car in Phoenix and intense downpours covered neighborhoods in ice, while BBC News reported golf ball-sized hail damaging homes and shattering windows elsewhere in Arizona. The National Weather Service issued multiple warnings and tornado watches as the storms moved across the region.
+lede: A severe storm brought hail to Phoenix on October 22, 2026, as BBC News videos
+  showed people sheltering inside a car while hail smashed its windscreen. Intense
+  downpours covered Phoenix neighborhoods in ice, and the severe weather battered
+  other parts of Arizona. BBC News reported that golf ball-sized hail damaged homes
+  and shattered windows in those areas, while the National Weather Service issued
+  multiple warnings and tornado watches as the storms moved across the region.
+nut_graf: Hail damaged a car in Phoenix and intense downpours covered neighborhoods
+  in ice, while BBC News reported golf ball-sized hail damaging homes and shattering
+  windows elsewhere in Arizona. The National Weather Service issued multiple warnings
+  and tornado watches as the storms moved across the region.
 primary_entities:
 - Phoenix
 - Arizona
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +144,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-12-post-tropical-cyclone-rachel-floods-area-near-las-vegas-strip-damages-california
-  headline: Post-Tropical Cyclone Rachel floods area near Las Vegas Strip, damages California homes
-  publish_date: '2026-10-12'
+- slug: 2026-10-22-golf-ball-sized-hail-hits-central-and-northern-arizona
+  headline: Golf ball-sized hail hits central and northern Arizona
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6321
-- slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
-  headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5996
-- slug: 2026-10-09-zimbabwe-declares-disaster-after-hailstorm-damages-8-500-homes
-  headline: Zimbabwe declares disaster after hailstorm damages 8,500 homes
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6212
-- slug: 2026-09-29-hurricane-polo-makes-landfall-on-baja-california-coast-with-110-mph-winds
-  headline: Hurricane Polo makes landfall on Baja California coast with 110 mph winds
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6077
-- slug: 2026-09-03-powerful-thunderstorms-bring-hail-flooding-and-outages-to-toronto
-  headline: Powerful thunderstorms bring hail, flooding, and outages to Toronto
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.648
+  strength: 0.8018
 - slug: 2026-08-06-two-extreme-haboobs-strike-phoenix-within-a-week
   headline: Two extreme haboobs strike Phoenix within a week
   publish_date: '2026-08-06'
   relation: related
   strength: 0.6666
-- slug: 2026-07-30-dashcam-captures-tornado-dropping-power-lines-onto-car-in-wisconsin
-  headline: Dashcam captures tornado dropping power lines onto car in Wisconsin
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6098
-- slug: 2026-07-12-microbursts-hit-philadelphia-causing-building-collapse-and-downing-trees
-  headline: Microbursts hit Philadelphia, causing building collapse and downing trees
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6234
-- slug: 2026-07-12-philadelphia-cleans-up-after-microbursts-damage-buildings-and-streets
-  headline: Philadelphia cleans up after microbursts damage buildings and streets
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6139
-- slug: 2026-04-30-missouri-hailstorm-kills-emu-at-zoo-disrupts-flights-and-damages-vehicles
-  headline: Missouri hailstorm kills emu at zoo, disrupts flights and damages vehicles
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6209
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6346
-- slug: 2026-03-15-storms-blizzards-and-triple-digit-heat-put-over-half-the-u-s-at-risk
-  headline: Storms, blizzards and triple-digit heat put over half the U.S. at risk
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6285
-- slug: 2026-01-19-florida-panhandle-snow-second-straight-year
-  headline: Snow dusts Florida Panhandle for second straight year as winter spreads across South
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.6253
-- slug: 2026-04-28-storms-flatten-buildings-and-damage-homes-in-texas-city-of-mineral-wells
-  headline: Storms flatten buildings and damage homes in Texas city of Mineral Wells
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6064
-- slug: 2026-03-04-small-plane-strikes-two-phoenix-homes-injures-three
-  headline: Small plane strikes two Phoenix homes, injures three
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.613
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6
-- slug: 2026-02-16-tornado-watch-issued-as-storm-system-hits-mississippi-and-louisiana
-  headline: Tornado watch issued as storm system hits Mississippi and Louisiana
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6101
-- slug: 2026-03-12-large-tornado-causes-significant-damage-near-chicago-and-indiana
-  headline: Large tornado causes significant damage near Chicago and Indiana
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6066
-- slug: 2026-03-14-powerful-storm-chain-brings-blizzard-conditions-to-upper-midwest
-  headline: Powerful storm chain brings blizzard conditions to Upper Midwest
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6061
-- slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
-  headline: Tornadoes, hail and flooding threaten parts of the Midwest
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5922
 ---
-
 ## Hail damages a Phoenix car; homes reported damaged elsewhere in Arizona
 
 **Subtype:** fact

@@ -1,9 +1,23 @@
 ---
-headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski inquiry
+headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski
+  inquiry
 secondary_headline: Two DHS officials describe holds on certain grants and contracts
 publish_date: '2026-10-23'
-lede: Three U.S. officials and a fourth person familiar with the matter told Reuters on Thursday that Corey Lewandowski, a former political adviser to Donald Trump and top aide at the Department of Homeland Security, was under criminal investigation over allegations that he profited from his government role. According to those four people, the investigation began with a criminal referral to the Justice Department from the DHS internal watchdog. One of the people said the Justice Department had not yet issued subpoenas or other legal demands, while two DHS officials said certain grants and contracts, including those involving the Federal Emergency Management Agency, were put on hold at Lewandowski's direction.
-nut_graf: The inquiry brings federal criminal scrutiny to a former senior aide's handling of government contracts. Three U.S. officials and a fourth person familiar with the matter told Reuters that Lewandowski was under criminal investigation; all four spoke on condition of anonymity. One person said DOJ had not yet issued subpoenas or other legal demands, while lawyer Adam Trigg said Lewandowski denies all allegations of wrongdoing.
+lede: Three U.S. officials and a fourth person familiar with the matter told Reuters
+  on Thursday that Corey Lewandowski, a former political adviser to Donald Trump and
+  top aide at the Department of Homeland Security, was under criminal investigation
+  over allegations that he profited from his government role. According to those four
+  people, the investigation began with a criminal referral to the Justice Department
+  from the DHS internal watchdog. One of the people said the Justice Department had
+  not yet issued subpoenas or other legal demands, while two DHS officials said certain
+  grants and contracts, including those involving the Federal Emergency Management
+  Agency, were put on hold at Lewandowski's direction.
+nut_graf: The inquiry brings federal criminal scrutiny to a former senior aide's handling
+  of government contracts. Three U.S. officials and a fourth person familiar with
+  the matter told Reuters that Lewandowski was under criminal investigation; all four
+  spoke on condition of anonymity. One person said DOJ had not yet issued subpoenas
+  or other legal demands, while lawyer Adam Trigg said Lewandowski denies all allegations
+  of wrongdoing.
 primary_entities:
 - Corey Lewandowski
 - Department of Justice
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +153,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-washington-sun-reports-some-dhs-records-requests-denied-in-lewandowski-s-tenure
+  headline: Washington Sun reports some DHS records requests denied in Lewandowski’s
+    tenure
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8546
 - slug: 2026-10-22-justice-department-examines-allegations-that-lewandowski-profited-from-dhs-role
-  headline: Justice Department examines allegations that Lewandowski profited from DHS role
+  headline: Justice Department examines allegations that Lewandowski profited from
+    DHS role
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.85
+  strength: 0.8492
 - slug: 2026-10-22-doj-reportedly-opens-probe-into-former-dhs-official-corey-lewandowski
   headline: DOJ reportedly opens probe into former DHS official Corey Lewandowski
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8448
+- slug: 2026-10-23-lawmakers-question-noem-s-220m-ad-award-to-two-firms-tied-to-noem-and-her-circle
+  headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and
+    her circle
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.8017
 - slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6595
+  strength: 0.6584
 - slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
   headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6591
+  strength: 0.6573
 - slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
   headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6584
+  strength: 0.6579
 - slug: 2026-09-08-lewandowski-allegedly-pitched-government-services-to-qatar-uae-while-at-dhs
-  headline: Lewandowski allegedly pitched government services to Qatar, UAE while at DHS
+  headline: Lewandowski allegedly pitched government services to Qatar, UAE while
+    at DHS
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7875
-- slug: 2026-10-09-doj-convenes-grand-jury-in-case-against-cassidy-hutchinson
-  headline: DOJ convenes grand jury in case against Cassidy Hutchinson
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6326
-- slug: 2026-07-10-dhs-inspector-general-finds-lewandowski-may-have-improperly-awarded-contracts
-  headline: DHS inspector general finds Lewandowski may have improperly awarded contracts
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.8299
-- slug: 2026-09-11-joe-digenova-resigns-from-justice-department-probe-of-trump-opponents
-  headline: Joe diGenova resigns from Justice Department probe of Trump opponents
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6404
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6351
-- slug: 2026-07-23-trump-leak-probe-subpoenas-seek-records-of-reporters-relatives
-  headline: Trump leak probe subpoenas seek records of reporters' relatives
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6329
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6408
-- slug: 2026-07-11-four-new-york-times-journalists-ordered-to-testify-before-federal-grand-jury
-  headline: Four New York Times journalists ordered to testify before federal grand jury
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6344
-- slug: 2026-04-21-doj-subpoenas-witnesses-as-brennan-investigation-advances
-  headline: DOJ subpoenas witnesses as Brennan investigation advances
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6712
-- slug: 2026-06-16-trump-lawyer-boris-epshteyn-said-to-be-part-of-adani-defense-push
-  headline: Trump lawyer Boris Epshteyn said to be part of Adani defense push
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6391
-- slug: 2026-05-10-former-polish-justice-minister-ziobro-says-he-is-in-the-u-s
-  headline: Former Polish justice minister Ziobro says he is in the U.S.
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6492
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.641
-- slug: 2026-03-05-kristi-noem-defends-dhs-immigration-actions-and-spending-in-congress
-  headline: Kristi Noem defends DHS immigration actions and spending in Congress
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.662
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6423
+  strength: 0.7879
 ---
-
 ## One source says DOJ has not yet issued subpoenas in the Corey Lewandowski inquiry
 
 **Subtype:** fact

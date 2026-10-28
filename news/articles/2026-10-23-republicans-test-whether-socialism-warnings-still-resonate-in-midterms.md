@@ -2,8 +2,19 @@
 headline: Republicans test whether socialism warnings still resonate in midterms
 secondary_headline: Gallup records highest favorable rating for socialism
 publish_date: '2026-10-23'
-lede: Republican candidates are centering socialism and communism in their Nov. 3 midterm messaging as favorable views of socialism have risen. A September Gallup poll found 43% of Americans view socialism favorably, the highest share in its records, and socialism outpolled capitalism 57% to 43% among voters ages 18 to 34. In one of the country's most competitive House races, Democratic candidate Will Lawrence is running neck-and-neck with Republican incumbent Rep. Tom Barrett after defeating two moderate candidates in the Democratic primary.
-nut_graf: The Wall Street Journal reported that the Republican goal of making the Nov. 3 elections a referendum on Democratic extremism is complicated by widespread economic frustration, and that candidate results, polling and Republican political consultants' concerns about Trump's own embrace of government intervention suggest the socialism and communism warnings may not carry the same force with independents and younger voters.
+lede: Republican candidates are centering socialism and communism in their Nov. 3
+  midterm messaging as favorable views of socialism have risen. A September Gallup
+  poll found 43% of Americans view socialism favorably, the highest share in its records,
+  and socialism outpolled capitalism 57% to 43% among voters ages 18 to 34. In one
+  of the country's most competitive House races, Democratic candidate Will Lawrence
+  is running neck-and-neck with Republican incumbent Rep. Tom Barrett after defeating
+  two moderate candidates in the Democratic primary.
+nut_graf: The Wall Street Journal reported that the Republican goal of making the
+  Nov. 3 elections a referendum on Democratic extremism is complicated by widespread
+  economic frustration, and that candidate results, polling and Republican political
+  consultants' concerns about Trump's own embrace of government intervention suggest
+  the socialism and communism warnings may not carry the same force with independents
+  and younger voters.
 primary_entities:
 - Republican Party
 - Democratic Socialists of America
@@ -60,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,108 +170,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
+  headline: Economic populism gains ground as both parties court midterm voters
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7452
+- slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
+  headline: Only one of 54 Republican economy ads in the closest races mentions Trump
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6858
+- slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
+  headline: Wall Street Journal seeks reader questions on midterms and the economy
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6844
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.721
+  strength: 0.7217
+- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
+  headline: New poll finds Democrats 11 points ahead among registered voters
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6817
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6984
+  strength: 0.6991
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6914
+  strength: 0.6924
 - slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
   headline: Young voters under 30 become key 2026 midterm target for both parties
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7074
-- slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
-  headline: Working-class white voters cool on Republicans, WSJ poll finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6877
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7112
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6735
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6825
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.69
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6816
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6806
-- slug: 2026-09-30-trump-pairs-anti-communist-rhetoric-with-unorthodox-economic-moves
-  headline: Trump pairs anti-communist rhetoric with unorthodox economic moves
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6923
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6763
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7038
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6739
-- slug: 2026-09-23-gallup-positive-views-of-socialism-top-40-for-first-time-since-2010
-  headline: 'Gallup: Positive views of socialism top 40% for first time since 2010'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6933
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7087
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6732
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6741
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6831
+  strength: 0.7081
 ---
-
 ## Republicans test whether socialism warnings still resonate in midterms
 
 **Subtype:** fact

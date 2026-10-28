@@ -2,8 +2,16 @@
 headline: Study attributes 32,619 European heat deaths to human-caused warming
 secondary_headline: The estimate excluded May and deaths beyond the 854 studied cities
 publish_date: '2026-10-23'
-lede: Researchers estimated that record-breaking heat in Europe this summer killed 50,391 people across 854 cities during repeated heat waves, with 32,619 deaths attributed to the additional heat caused by human-caused climate change. The results, set for an upcoming issue of Nature Health, exclude a deadly May heat wave and cover only cities representing about 40% of Europe’s population.
-nut_graf: The study estimated mortality by comparing this summer’s heat deaths with simulations of a world without climate change and treating the difference as the additional toll from global warming. Researchers said the limited geographic scope and omission of May likely make the total an underestimate, while outside experts called the statistical method state of the art.
+lede: Researchers estimated that record-breaking heat in Europe this summer killed
+  50,391 people across 854 cities during repeated heat waves, with 32,619 deaths attributed
+  to the additional heat caused by human-caused climate change. The results, set for
+  an upcoming issue of Nature Health, exclude a deadly May heat wave and cover only
+  cities representing about 40% of Europe’s population.
+nut_graf: The study estimated mortality by comparing this summer’s heat deaths with
+  simulations of a world without climate change and treating the difference as the
+  additional toll from global warming. Researchers said the limited geographic scope
+  and omission of May likely make the total an underestimate, while outside experts
+  called the statistical method state of the art.
 primary_entities:
 - Clair Barnes
 - Garyfallos Konstantinoudis
@@ -33,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,108 +140,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-hotter-summers-draw-residents-and-home-buyers-toward-scotland
-  headline: Hotter summers draw residents and home buyers toward Scotland
-  publish_date: '2026-10-21'
+- slug: 2026-10-22-study-estimates-50-391-heat-deaths-across-854-european-cities
+  headline: Study estimates 50,391 heat deaths across 854 European cities
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6261
+  strength: 0.9286
 - slug: 2026-07-17-europe-heat-wave-linked-to-well-over-10-000-excess-deaths
   headline: Europe heat wave linked to well over 10,000 excess deaths
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.8241
+  strength: 0.8244
 - slug: 2026-09-07-mayors-of-paris-milan-and-phoenix-detail-heat-policies-in-joint-column
   headline: Mayors of Paris, Milan and Phoenix detail heat policies in joint column
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6854
+  strength: 0.6856
 - slug: 2026-06-29-who-says-europe-heatwave-linked-to-over-1-300-excess-deaths
   headline: WHO says Europe heatwave linked to over 1,300 excess deaths
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7954
-- slug: 2026-09-10-august-2026-ties-july-2023-as-hottest-month-on-record-copernicus-reports
-  headline: August 2026 ties July 2023 as hottest month on record, Copernicus reports
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6361
+  strength: 0.7953
 - slug: 2026-08-10-western-europe-topples-june-july-average-temperature-record
   headline: Western Europe topples June-July average temperature record
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7087
+  strength: 0.7094
 - slug: 2026-06-26-study-finds-europe-heat-wave-impossible-without-climate-change
   headline: Study finds Europe heat wave impossible without climate change
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.7545
-- slug: 2026-08-31-study-finds-air-conditioning-saved-nearly-58-000-us-lives-over-decade
-  headline: Study finds air conditioning saved nearly 58,000 US lives over decade
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6225
+  strength: 0.7548
 - slug: 2026-07-02-european-heat-waves-and-floods-cost-43-billion-last-year-study-finds
   headline: European heat waves and floods cost $43 billion last year, study finds
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7195
-- slug: 2026-08-04-rebecca-solnit-argues-climate-change-has-turned-summer-into-a-season-of-dread
-  headline: Rebecca Solnit argues climate change has turned summer into a season of dread
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6418
+  strength: 0.7197
 - slug: 2026-06-22-heat-stress-days-surge-globally-study-finds
   headline: Heat stress days surge globally, study finds
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6964
-- slug: 2026-07-05-heatwave-kills-at-least-25-across-eastern-united-states
-  headline: Heatwave kills at least 25 across eastern United States
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.665
-- slug: 2026-08-06-climate-change-doubled-odds-of-canada-fire-weather-study-finds
-  headline: Climate change doubled odds of Canada fire weather, study finds
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6133
-- slug: 2026-07-29-global-wildfire-burning-hits-record-low-despite-extreme-fires-in-europe-and-nort
-  headline: Global wildfire burning hits record low despite extreme fires in Europe and North America
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6209
-- slug: 2026-06-23-heat-dome-grips-europe-bringing-early-season-extreme-heat-to-millions
-  headline: Heat dome grips Europe, bringing early-season extreme heat to millions
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6642
-- slug: 2026-07-14-new-heatwave-spreads-extreme-temperatures-across-us-and-canada
-  headline: New heatwave spreads extreme temperatures across US and Canada
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6347
-- slug: 2026-06-13-how-excessive-heat-kills-and-tips-to-stay-safe
-  headline: How excessive heat kills and tips to stay safe
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6501
-- slug: 2026-06-30-heat-wave-reaches-balkans-raising-alarm-for-abandoned-animals
-  headline: Heat wave reaches Balkans, raising alarm for abandoned animals
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-24-us-cities-built-for-1950s-weather-face-unsurvivable-heat-researchers-warn
-  headline: US Cities Built for 1950s Weather Face Unsurvivable Heat, Researchers Warn
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.617
-- slug: 2026-06-26-americans-in-europe-admit-they-underestimated-continent-s-heat-waves
-  headline: Americans in Europe admit they underestimated continent's heat waves
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6106
+  strength: 0.6966
 ---
-
 ## Study attributes 32,619 European heat deaths to human-caused warming
 
 **Subtype:** causal_claim

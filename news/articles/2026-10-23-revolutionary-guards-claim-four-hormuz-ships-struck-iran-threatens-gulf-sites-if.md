@@ -1,9 +1,23 @@
 ---
-headline: Revolutionary Guards claim four Hormuz ships struck; Iran threatens Gulf sites if a US-Israeli attack
-secondary_headline: State Department orders some diplomats and employee families to leave Saudi Arabia
+headline: Revolutionary Guards claim four Hormuz ships struck; Iran threatens Gulf
+  sites if a US-Israeli attack
+secondary_headline: State Department orders some diplomats and employee families to
+  leave Saudi Arabia
 publish_date: '2026-10-23'
-lede: Regional tensions rose this week as Iran's Islamic Revolutionary Guards Corps claimed it struck four commercial ships in the Strait of Hormuz on Wednesday. Iran said it would strike oil facilities, undersea cables, datacentres and AI facilities in the Gulf region if a new U.S.-Israeli attack was launched against Iran. The U.S. State Department ordered some diplomats and families of U.S. government employees to leave Saudi Arabia, which has faced continued attacks from Houthi rebels in Yemen. Brent crude rose 1% to $114.72 a barrel on Friday morning, its highest level since May.
-nut_graf: Susannah Streeter of Wealth Club said the Strait of Hormuz remained dangerous for commercial shipping, with projectiles still being fired. Iran's conditional warning put Gulf energy and technology infrastructure at risk, while Ukraine's bombardment of Russian diesel refineries added diesel-supply concerns. Brent traded well above its pre-war level — below April's $126 peak but far above the roughly $72 price recorded in February before the Iran war began.
+lede: Regional tensions rose this week as Iran's Islamic Revolutionary Guards Corps
+  claimed it struck four commercial ships in the Strait of Hormuz on Wednesday. Iran
+  said it would strike oil facilities, undersea cables, datacentres and AI facilities
+  in the Gulf region if a new U.S.-Israeli attack was launched against Iran. The U.S.
+  State Department ordered some diplomats and families of U.S. government employees
+  to leave Saudi Arabia, which has faced continued attacks from Houthi rebels in Yemen.
+  Brent crude rose 1% to $114.72 a barrel on Friday morning, its highest level since
+  May.
+nut_graf: Susannah Streeter of Wealth Club said the Strait of Hormuz remained dangerous
+  for commercial shipping, with projectiles still being fired. Iran's conditional
+  warning put Gulf energy and technology infrastructure at risk, while Ukraine's bombardment
+  of Russian diesel refineries added diesel-supply concerns. Brent traded well above
+  its pre-war level — below April's $126 peak but far above the roughly $72 price
+  recorded in February before the Iran war began.
 primary_entities:
 - Islamic Revolutionary Guards Corps
 - Iran
@@ -55,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,7 +172,7 @@ related_stories:
   headline: Crude futures rise as Hormuz threats offset recovering Middle East exports
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8053
+  strength: 0.8054
 - slug: 2026-10-20-oil-prices-soar-past-105-as-hormuz-tanker-attacks-mount
   headline: Oil prices soar past $105 as Hormuz tanker attacks mount
   publish_date: '2026-10-20'
@@ -167,22 +182,22 @@ related_stories:
   headline: Tanker struck near Qatar as shipping strikes extend beyond Hormuz
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.8172
+  strength: 0.8171
 - slug: 2026-10-08-brent-crude-tops-105-amid-reports-of-more-us-strikes-on-iran
   headline: Brent crude tops $105 amid reports of more US strikes on Iran
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7876
+  strength: 0.7877
 - slug: 2026-10-04-shipping-attacks-resume-in-strait-of-hormuz-threatening-oil-export-recovery
   headline: Shipping attacks resume in Strait of Hormuz, threatening oil export recovery
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.8052
+  strength: 0.8053
 - slug: 2026-09-29-iran-s-ability-to-choke-off-hormuz-oil-breaks-down
   headline: Iran's ability to choke off Hormuz oil breaks down
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7943
+  strength: 0.7935
 - slug: 2026-09-28-oil-prices-rise-as-trump-rejects-iran-ceasefire-proposal
   headline: Oil prices rise as Trump rejects Iran ceasefire proposal
   publish_date: '2026-09-28'
@@ -192,69 +207,8 @@ related_stories:
   headline: Oil rises as U.S. strikes three Iranian tankers in Strait of Hormuz
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.8019
-- slug: 2026-08-31-trump-threatens-escalation-after-u-s-iran-exchange-strikes-in-hormuz-jordan
-  headline: Trump threatens escalation after U.S., Iran exchange strikes in Hormuz, Jordan
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.822
-- slug: 2026-09-08-houthi-attacks-on-saudi-energy-sites-push-oil-toward-100
-  headline: Houthi attacks on Saudi energy sites push oil toward $100
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7902
-- slug: 2026-09-01-oil-climbs-further-asian-shares-mixed-after-renewed-iran-fighting
-  headline: Oil climbs further, Asian shares mixed after renewed Iran fighting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.7903
-- slug: 2026-08-10-oil-rises-as-iran-demands-u-s-withdrawal-to-reopen-strait-of-hormuz
-  headline: Oil rises as Iran demands U.S. withdrawal to reopen Strait of Hormuz
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.826
-- slug: 2026-08-19-oil-climbs-as-iran-missiles-and-stalled-hormuz-talks-keep-supply-risk-elevated
-  headline: Oil climbs as Iran missiles and stalled Hormuz talks keep supply risk elevated
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7907
-- slug: 2026-07-08-oil-prices-jump-as-u-s-iran-exchange-airstrikes-threaten-strait-of-hormuz
-  headline: Oil prices jump as U.S., Iran exchange airstrikes, threaten Strait of Hormuz
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8126
-- slug: 2026-07-20-oil-surges-above-90-as-u-s--iran-hostilities-escalate
-  headline: Oil surges above $90 as U.S.-Iran hostilities escalate
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7869
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8255
-- slug: 2026-05-10-iran-warns-us-against-tanker-strikes-threatens-base-assault-as-fragile-ceasefire
-  headline: Iran warns US against tanker strikes, threatens base assault as fragile ceasefire holds
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8075
-- slug: 2026-04-20-iran-s-revolutionary-guard-closes-strait-of-hormuz-fires-on-ships-after-blockade
-  headline: Iran’s Revolutionary Guard closes Strait of Hormuz; fires on ships after blockade
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.8117
-- slug: 2026-05-10-iran-warns-us-any-attack-on-its-tankers-would-be-met-with-heavy-assault
-  headline: Iran warns US any attack on its tankers would be met with heavy assault
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8018
-- slug: 2026-03-10-oil-prices-swing-wildly-as-iran-war-threatens-supplies-then-ease-briefly
-  headline: Oil prices swing wildly as Iran war threatens supplies, then ease briefly
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.8152
+  strength: 0.8011
 ---
-
 ## Revolutionary Guards claim four Hormuz ships struck; Iran threatens Gulf sites if a US-Israeli attack
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
-secondary_headline: American Airlines expects fuel bill about $7 billion above initial forecast
+secondary_headline: American Airlines expects fuel bill about $7 billion above initial
+  forecast
 publish_date: '2026-10-22'
-lede: American Airlines will materially slow capacity growth next year after higher jet fuel prices weakened third-quarter results and left the carrier forecasting another quarterly loss, CEO Robert Isom said. The carrier expects to pay about $7 billion more for fuel this year than it expected at the start of the year. Other transport markets in the same roundup included weakness at Tesla, financial strain at Air New Zealand and Taiwan's scrutiny of Grab's Foodpanda purchase.
-nut_graf: American Airlines' response shows how sustained fuel pressure is changing carrier plans, while the rest of the roundup tracks weakness in electric vehicles, delivery-platform consolidation and airline balance sheets. Transport companies are adjusting capacity, capital spending and market positions as costs and competition rise.
+lede: American Airlines will materially slow capacity growth next year after higher
+  jet fuel prices weakened third-quarter results and left the carrier forecasting
+  another quarterly loss, CEO Robert Isom said. The carrier expects to pay about $7
+  billion more for fuel this year than it expected at the start of the year. Other
+  transport markets in the same roundup included weakness at Tesla, financial strain
+  at Air New Zealand and Taiwan's scrutiny of Grab's Foodpanda purchase.
+nut_graf: American Airlines' response shows how sustained fuel pressure is changing
+  carrier plans, while the rest of the roundup tracks weakness in electric vehicles,
+  delivery-platform consolidation and airline balance sheets. Transport companies
+  are adjusting capacity, capital spending and market positions as costs and competition
+  rise.
 primary_entities:
 - American Airlines
 - Robert Isom
@@ -60,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,108 +169,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8416
 - slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
   headline: Transport firms adjust plans as fuel costs and demand shift
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7185
+  strength: 0.7187
 - slug: 2026-10-20-latin-american-airlines-face-rising-fuel-costs-and-higher-fares
   headline: Latin American airlines face rising fuel costs and higher fares
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7033
+  strength: 0.7019
 - slug: 2026-10-20-alaska-air-group-reports-147-million-third-quarter-loss
   headline: Alaska Air Group reports $147 million third-quarter loss
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6957
+  strength: 0.6961
+- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
+  headline: American Express retains nearly all customers moved to higher-fee Platinum
+    card
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6609
 - slug: 2026-10-08-american-airlines-says-it-will-stop-involuntarily-bumping-passengers
   headline: American Airlines says it will stop involuntarily bumping passengers
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6986
+  strength: 0.6989
 - slug: 2026-09-29-alaska-air-adds-premium-cabins-lie-flat-suites-and-new-seattle-lounge
   headline: Alaska Air adds premium cabins, lie-flat suites, and new Seattle lounge
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6874
-- slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
-  headline: Boeing aerospace union months into first full contract talks in 14 years
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6551
+  strength: 0.6871
 - slug: 2026-08-27-qantas-annual-profit-slides-14-as-iran-conflict-lifts-fuel-costs
   headline: Qantas annual profit slides 14% as Iran conflict lifts fuel costs
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6706
-- slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
-  headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7309
-- slug: 2026-08-18-american-airlines-reverses-course-will-add-seat-back-screens-to-domestic-fleet
-  headline: American Airlines reverses course, will add seat-back screens to domestic fleet
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6745
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6832
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6602
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7036
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7045
-- slug: 2026-07-10-analysts-flag-weak-demand-shifting-spending-across-auto-and-transport-sectors
-  headline: Analysts flag weak demand, shifting spending across auto and transport sectors
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6669
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6641
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6818
-- slug: 2026-06-23-norwegian-acquisition-wins-backing-qantas-ultra-long-haul-panned
-  headline: Norwegian Acquisition Wins Backing; Qantas Ultra Long-Haul Panned
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6656
-- slug: 2026-06-01-jetblue-raises-second-quarter-revenue-outlook-on-strong-travel-demand
-  headline: JetBlue raises second-quarter revenue outlook on strong travel demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6803
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7072
-- slug: 2026-04-10-travelers-face-higher-costs-as-jet-fuel-volatility-squeezes-airlines
-  headline: Travelers face higher costs as jet fuel volatility squeezes airlines
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6992
+  strength: 0.6698
 ---
-
 ## American Airlines slows capacity growth as jet fuel costs pressure carriers
 
 **Subtype:** fact

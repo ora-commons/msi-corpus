@@ -1,9 +1,23 @@
 ---
-headline: Meta plans AI capital raise as future spending commitments rise to roughly $825 billion
+headline: Meta plans AI capital raise as future spending commitments rise to roughly
+  $825 billion
 secondary_headline: Treasury yields fall as investors rotate out of AI-linked stocks
 publish_date: '2026-10-22'
-lede: Meta Platforms announced Wednesday that it plans to create a new class of nonvoting stock to raise capital for developing and serving AI models, and disclosed that future spending commitments had risen to roughly $825 billion from nearly $700 billion in July. A Meta regulatory filing said the company would move proactively to raise funding before competitors absorbed the market's available capital, citing capital raises by Alphabet and SpaceX and anticipated fundraising by Anthropic and OpenAI. The Wall Street Journal reported that the financing signals helped prompt a broad rotation out of AI-linked stocks and into U.S. Treasurys, home-builder shares and software companies.
-nut_graf: The disclosure placed the financing of the AI build-out at the center of the market's reassessment of the technology sector, weighing planned spending against questions about returns and borrowing costs. Meta reported that free cash flow had turned negative for the first time since it became a public company, while The Wall Street Journal reported that Amazon, Alphabet and Microsoft were taking on heavy debt loads to fund expanding capital expenditures.
+lede: Meta Platforms announced Wednesday that it plans to create a new class of nonvoting
+  stock to raise capital for developing and serving AI models, and disclosed that
+  future spending commitments had risen to roughly $825 billion from nearly $700 billion
+  in July. A Meta regulatory filing said the company would move proactively to raise
+  funding before competitors absorbed the market's available capital, citing capital
+  raises by Alphabet and SpaceX and anticipated fundraising by Anthropic and OpenAI.
+  The Wall Street Journal reported that the financing signals helped prompt a broad
+  rotation out of AI-linked stocks and into U.S. Treasurys, home-builder shares and
+  software companies.
+nut_graf: The disclosure placed the financing of the AI build-out at the center of
+  the market's reassessment of the technology sector, weighing planned spending against
+  questions about returns and borrowing costs. Meta reported that free cash flow had
+  turned negative for the first time since it became a public company, while The Wall
+  Street Journal reported that Amazon, Alphabet and Microsoft were taking on heavy
+  debt loads to fund expanding capital expenditures.
 primary_entities:
 - Meta Platforms
 - Alphabet
@@ -52,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -68,7 +83,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-10-22'
-  caption: FRED's raw DGS10 daily series recorded a 5.13% 10-year Treasury yield for Oct. 22, 2026. The separate Tradeweb market-session close was 4.952%, down from 5.145% Wednesday.
+  caption: FRED's raw DGS10 daily series recorded a 5.13% 10-year Treasury yield for
+    Oct. 22, 2026. The separate Tradeweb market-session close was 4.952%, down from
+    5.145% Wednesday.
 figures_aggregate:
   count: 1
   series_ids:
@@ -159,32 +176,35 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
-  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
+  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend
+    this year
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8001
+  strength: 0.8007
+- slug: 2026-10-25-meta-s-roughly-825-billion-in-commitments-lead-a-weekly-tech-newsletter-roundup
+  headline: Meta's roughly $825 billion in commitments lead a weekly tech newsletter
+    roundup
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7845
 - slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
   headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.752
+  strength: 0.7518
 - slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
   headline: Meta reports 37% profit drop and 15% headcount cut
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7105
+  strength: 0.7107
 - slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7052
-- slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6993
+  strength: 0.7042
 - slug: 2026-09-21-meta-surges-12-as-muse-hits-no-1-on-app-store-truist-sees-28-5b-by-2030
-  headline: Meta surges 12% as Muse hits No. 1 on App Store; Truist sees $28.5B by 2030
+  headline: Meta surges 12% as Muse hits No. 1 on App Store; Truist sees $28.5B by
+    2030
   publish_date: '2026-09-21'
   relation: related
   strength: 0.7203
@@ -192,74 +212,13 @@ related_stories:
   headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7146
+  strength: 0.7138
 - slug: 2026-09-16-openai-in-early-talks-for-funding-round-at-1-2-trillion-valuation
   headline: OpenAI in early talks for funding round at $1.2 trillion valuation
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7167
-- slug: 2026-09-14-venture-capital-tightens-for-second-wave-ai-startups
-  headline: Venture capital tightens for second-wave AI startups
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7115
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.8104
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7225
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7081
-- slug: 2026-07-23-alphabet-posts-negative-free-cash-flow-as-ai-capex-heads-to-205bn
-  headline: Alphabet posts negative free cash flow as AI capex heads to $205bn
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7378
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7132
-- slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
-  headline: Meta faces lawsuits over teen safety as it pushes into AI
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7047
-- slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7482
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7691
-- slug: 2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show
-  headline: Meta plans AI-powered prediction market app, internal documents show
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7222
-- slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
-  headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7571
-- slug: 2026-06-11-base-rate-analysis-casts-doubt-on-ai-investment-frenzy-as-revenue-projections-hi
-  headline: Base-rate analysis casts doubt on AI investment frenzy as revenue projections hit historic extremes
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7246
+  strength: 0.7159
 ---
-
 ## Meta plans AI capital raise as future spending commitments rise to roughly $825 billion
 
 **Subtype:** fact

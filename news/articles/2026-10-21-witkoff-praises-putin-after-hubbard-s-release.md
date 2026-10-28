@@ -1,9 +1,18 @@
 ---
 headline: Witkoff praises Putin after Hubbard’s release
-secondary_headline: Hubbard, a former teacher, spent more than four years in Russian jails
+secondary_headline: Hubbard, a former teacher, spent more than four years in Russian
+  jails
 publish_date: '2026-10-21'
-lede: Donald Trump's envoy Steve Witkoff called Vladimir Putin a ‘humanitarian,’ The Guardian reported on October 21, 2026, after Putin ordered the release of Stephen Hubbard. Hubbard was an American and former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine. Witkoff met Putin in St Petersburg for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington.
-nut_graf: The Guardian's account covered Hubbard's release, Steve Witkoff's fresh talks with Vladimir Putin in St Petersburg and Witkoff's description of the Russian president as a ‘humanitarian.’ The report placed the Ukraine meeting amid increasingly close relations between Moscow and Washington.
+lede: Donald Trump's envoy Steve Witkoff called Vladimir Putin a ‘humanitarian,’ The
+  Guardian reported on October 21, 2026, after Putin ordered the release of Stephen
+  Hubbard. Hubbard was an American and former teacher who had spent more than four
+  years in Russian jails on charges of fighting as a mercenary for Ukraine. Witkoff
+  met Putin in St Petersburg for fresh talks on ending the war in Ukraine, amid increasingly
+  close relations between Moscow and Washington.
+nut_graf: The Guardian's account covered Hubbard's release, Steve Witkoff's fresh
+  talks with Vladimir Putin in St Petersburg and Witkoff's description of the Russian
+  president as a ‘humanitarian.’ The report placed the Ukraine meeting amid increasingly
+  close relations between Moscow and Washington.
 primary_entities:
 - Vladimir Putin
 - Stephen Hubbard
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,7 +170,8 @@ related_stories:
   relation: related
   strength: 0.8195
 - slug: 2026-10-21-putin-says-hubbard-was-at-pulkovo-airport-after-being-sentenced-to-nearly-seven-
-  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly seven years in 2024
+  headline: Putin says Hubbard was at Pulkovo Airport after being sentenced to nearly
+    seven years in 2024
   publish_date: '2026-10-21'
   relation: related
   strength: 0.8064
@@ -184,73 +195,12 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.7181
-- slug: 2026-10-22-u-k-officials-dispute-witkoff-s-portrayal-of-putin
-  headline: U.K. officials dispute Witkoff's portrayal of Putin
+- slug: 2026-10-22-patricia-hubbard-fox-recounts-hubbard-s-first-moments-of-freedom
+  headline: Patricia Hubbard Fox recounts Hubbard’s first moments of freedom
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7075
-- slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
-  headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.704
-- slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
-  headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6928
-- slug: 2026-10-21-ukrainian-anti-corruption-police-search-national-bank-of-ukraine-premises
-  headline: Ukrainian anti-corruption police search National Bank of Ukraine premises
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6327
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6356
-- slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6249
-- slug: 2026-10-22-tisdall-compares-trump-s-ukraine-policy-with-chamberlain-s-1938-munich-strategy
-  headline: Tisdall compares Trump's Ukraine policy with Chamberlain's 1938 Munich strategy
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6152
-- slug: 2026-09-23-zelensky-tells-un-general-assembly-russia-s-war-could-spread
-  headline: Zelensky tells UN General Assembly Russia's war could spread
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6246
-- slug: 2026-09-23-rubio-says-us-invited-putin-to-december-g-20-at-trump-doral-resort
-  headline: Rubio says US invited Putin to December G-20 at Trump Doral resort
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6128
-- slug: 2026-09-08-russia-strikes-kyiv-after-u-s-peace-envoys-leave-killing-at-least-2
-  headline: Russia strikes Kyiv after U.S. peace envoys leave, killing at least 2
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6181
-- slug: 2026-09-08-kushner-meets-russia-s-dmitriev-in-moscow-on-ukraine-peace-track
-  headline: Kushner meets Russia's Dmitriev in Moscow on Ukraine peace track
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6099
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6186
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6674
+  strength: 0.7178
 ---
-
 ## Witkoff praises Putin after Hubbard’s release
 
 **Subtype:** fact

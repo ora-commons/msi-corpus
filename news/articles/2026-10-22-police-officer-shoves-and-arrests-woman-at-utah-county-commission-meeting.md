@@ -1,9 +1,17 @@
 ---
 headline: Police officer shoves and arrests woman at Utah county commission meeting
-secondary_headline: Sheriff's office says the woman refused to leave and struck the officer
+secondary_headline: Sheriff's office says the woman refused to leave and struck the
+  officer
 publish_date: '2026-10-22'
-lede: A police officer shoved a woman to the ground and arrested her after a protest against datacenters at a Utah county commission meeting, according to The Guardian. The Guardian published the report as a 1:28 video on October 22, 2026. The Utah county sheriff's office said the woman refused to leave the meeting and struck the officer in the groin before she was arrested.
-nut_graf: The incident places a protest over datacenters and police action at the same Utah county commission meeting. The Guardian's account describes a shove and arrest, while the Utah county sheriff's office said the woman refused to leave and struck the officer.
+lede: A police officer shoved a woman to the ground and arrested her after a protest
+  against datacenters at a Utah county commission meeting, according to The Guardian.
+  The Guardian published the report as a 1:28 video on October 22, 2026. The Utah
+  county sheriff's office said the woman refused to leave the meeting and struck the
+  officer in the groin before she was arrested.
+nut_graf: The incident places a protest over datacenters and police action at the
+  same Utah county commission meeting. The Guardian's account describes a shove and
+  arrest, while the Utah county sheriff's office said the woman refused to leave and
+  struck the officer.
 primary_entities:
 - Utah
 - The Guardian
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,109 +142,8 @@ cross_article_links:
   strength: 0.5549
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-19-ice-agents-break-us-citizen-s-arm-during-long-beach-detention-officials-say
-  headline: ICE agents break US citizen's arm during Long Beach detention, officials say
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5826
-- slug: 2026-10-14-harris-county-da-weighs-aggravated-assault-charge-against-ice-officer
-  headline: Harris County DA weighs aggravated-assault charge against ICE officer
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6026
-- slug: 2026-10-02-edited-bodycam-footage-shows-mangione-s-december-2024-mcdonald-s-arrest
-  headline: Edited bodycam footage shows Mangione's December 2024 McDonald's arrest
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.568
-- slug: 2026-09-24-climate-protesters-picket-openai-google-amazon-offices-during-nyc-climate-week
-  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate week
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5789
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5848
-- slug: 2026-08-23-two-phoenix-officers-arrested-on-assault-charges-in-unreported-traffic-stop
-  headline: Two Phoenix officers arrested on assault charges in unreported traffic stop
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5817
-- slug: 2026-08-04-wife-says-springdale-police-picked-up-immigrant-awaiting-green-card-officer-said
-  headline: Wife says Springdale police picked up immigrant awaiting green card, officer said he'd be transported to ICE
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5736
-- slug: 2026-07-17-geo-group-employee-shoots-protester-outside-colorado-ice-facility
-  headline: GEO Group employee shoots protester outside Colorado ICE facility
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5863
-- slug: 2026-06-04-new-jersey-police-sergeant-charged-with-stealing-journalist-s-camera-gear
-  headline: New Jersey police sergeant charged with stealing journalist's camera gear
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5895
-- slug: 2026-06-01-several-arrested-at-nj-ice-facility-as-protesters-defy-curfew-amid-ongoing-clash
-  headline: Several arrested at NJ ICE facility as protesters defy curfew amid ongoing clashes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5763
-- slug: 2026-06-13-ice-arrest-outside-baltimore-elementary-school-draws-criticism-from-officials
-  headline: ICE arrest outside Baltimore elementary school draws criticism from officials
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.566
-- slug: 2026-06-03-police-block-press-from-delaney-hall-protests-arrest-three-journalists
-  headline: Police block press from Delaney Hall protests, arrest three journalists
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5707
-- slug: 2026-05-14-hill-county-texas-pauses-new-data-centers-in-rural-unincorporated-areas-for-a-ye
-  headline: Hill County Texas pauses new data centers in rural unincorporated areas for a year
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5697
-- slug: 2026-04-22-immigration-officer-charged-with-assault-after-protest-da-says
-  headline: Immigration officer charged with assault after protest, DA says
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5737
-- slug: 2026-02-25-quakertown-residents-demand-police-chief-resignation-after-student-scuffle
-  headline: Quakertown residents demand police chief resignation after student scuffle
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5836
-- slug: 2026-04-30-minnesota-family-indicted-after-clash-with-turning-point-usa-journalist
-  headline: Minnesota family indicted after clash with Turning Point USA journalist
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5657
-- slug: 2026-01-16-disabled-u-s-citizen-dragged-from-car-by-ice-agents-in-minneapolis-hospitalized
-  headline: Disabled U.S. citizen dragged from car by ICE agents in Minneapolis, hospitalized
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.584
-- slug: 2026-04-04-outrage-over-ai-data-centers-could-aid-georgia-democrats-in-2026
-  headline: Outrage over AI data centers could aid Georgia Democrats in 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5713
-- slug: 2026-03-05-anti-war-protester-arrested-at-senate-hearing-after-scuffle-injures-three-capito
-  headline: Anti-war protester arrested at Senate hearing after scuffle injures three Capitol Police
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.577
-- slug: 2026-01-12-driver-detained-after-u-haul-speeds-through-los-angeles-march-backing-iran-prote
-  headline: Driver detained after U-Haul speeds through Los Angeles march backing Iran protesters
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5821
+related_stories: []
 ---
-
 ## Police officer shoves and arrests woman at Utah county commission meeting
 
 **Subtype:** fact

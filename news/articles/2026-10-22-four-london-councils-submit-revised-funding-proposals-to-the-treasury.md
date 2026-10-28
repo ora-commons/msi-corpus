@@ -1,9 +1,21 @@
 ---
 headline: Four London councils submit revised funding proposals to the Treasury
-secondary_headline: Wandsworth proposes 94% council tax rise and says reforms require service cuts
+secondary_headline: Wandsworth proposes 94% council tax rise and says reforms require
+  service cuts
 publish_date: '2026-10-22'
-lede: Four London council leaders have formally challenged government reforms that they say could reduce their respective councils' central funding by 40% to 58% by 2029. The leaders of Wandsworth, Richmond, Westminster and Kensington and Chelsea submitted revised proposals to the Treasury, asking the government to reconsider its overhaul of local authority funding rules. The council leaders collectively warned that services would be hit because of the funding cuts.
-nut_graf: The dispute concerns Fair Funding Review 2.0; the government says it is intended to direct more money to areas with higher deprivation, while the four councils say their central funding would be cut. Wandsworth's Conservative administration says the changes would force service cuts and a higher council tax, and has proposed a 94% council-tax increase from April; a Ministry of Housing, Communities and Local Government spokesperson previously said transitional arrangements would protect councils.
+lede: Four London council leaders have formally challenged government reforms that
+  they say could reduce their respective councils' central funding by 40% to 58% by
+  2029. The leaders of Wandsworth, Richmond, Westminster and Kensington and Chelsea
+  submitted revised proposals to the Treasury, asking the government to reconsider
+  its overhaul of local authority funding rules. The council leaders collectively
+  warned that services would be hit because of the funding cuts.
+nut_graf: The dispute concerns Fair Funding Review 2.0; the government says it is
+  intended to direct more money to areas with higher deprivation, while the four councils
+  say their central funding would be cut. Wandsworth's Conservative administration
+  says the changes would force service cuts and a higher council tax, and has proposed
+  a 94% council-tax increase from April; a Ministry of Housing, Communities and Local
+  Government spokesperson previously said transitional arrangements would protect
+  councils.
 primary_entities:
 - London
 - Wandsworth Council
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +157,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
-  headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6481
-- slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
-  headline: AI firms seek UK datacentre compact before opposition spreads
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.608
-- slug: 2026-10-20-badenoch-says-healey-s-budget-will-be-even-worse-than-reeves-s-two
-  headline: Badenoch says Healey's budget will be even worse than Reeves's two
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6148
-- slug: 2026-10-16-london-assembly-urges-devolved-robotaxi-authority-as-drivers-plan-protests
-  headline: London Assembly urges devolved robotaxi authority as drivers plan protests
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6141
-- slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
-  headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6112
-- slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
-  headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6325
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6379
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6398
-- slug: 2026-09-22-ed-davey-sets-out-17bn-income-tax-cut-plan-at-lib-dem-conference
-  headline: Ed Davey sets out £17bn income tax cut plan at Lib Dem conference
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6301
 - slug: 2026-09-15-tuc-calls-to-rein-in-out-of-control-spending-after-reform-uk-s-72m
   headline: TUC calls to rein in 'out of control' spending after Reform UK's £72m
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6507
+  strength: 0.6505
 - slug: 2026-09-03-reform-uk-sets-out-80bn-in-public-spending-cuts
   headline: Reform UK sets out £80bn in public spending cuts
   publish_date: '2026-09-03'
   relation: related
   strength: 0.6804
-- slug: 2026-09-15-uk-government-plans-tighter-residency-rules-for-political-donors
-  headline: UK government plans tighter residency rules for political donors
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-14-farage-defends-72m-reform-uk-donations-as-government-weighs-donor-cap
-  headline: Farage defends £72m Reform UK donations as government weighs donor cap
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6381
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6222
-- slug: 2026-09-13-reform-uk-receives-two-36m-donations-totaling-72m
-  headline: Reform UK receives two £36m donations, totaling £72m
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6376
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6218
 - slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
   headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6681
-- slug: 2026-08-30-congress-weighs-bipartisan-social-security-fixes-ahead-of-2032-deadline
-  headline: Congress weighs bipartisan Social Security fixes ahead of 2032 deadline
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6141
-- slug: 2026-08-24-thames-water-creditors-propose-new-board-to-head-off-nationalisation
-  headline: Thames Water creditors propose new board to head off nationalisation
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6225
-- slug: 2026-08-10-lse-deputy-ceo-says-capital-is-key-to-reviving-london-s-public-markets
-  headline: LSE deputy CEO says capital is key to reviving London's public markets
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6299
+  strength: 0.6684
 ---
-
 ## Four London councils submit revised funding proposals to the Treasury
 
 **Subtype:** fact

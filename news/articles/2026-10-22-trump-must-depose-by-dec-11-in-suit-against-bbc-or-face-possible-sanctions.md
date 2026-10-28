@@ -1,9 +1,19 @@
 ---
 headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
-secondary_headline: Lett rejects Trump's legal team's request to prevent videotaping of the deposition
+secondary_headline: Lett rejects Trump's legal team's request to prevent videotaping
+  of the deposition
 publish_date: '2026-10-22'
-lede: Federal magistrate judge Enjoliqué Lett ordered Donald Trump on Thursday to cooperate with discovery and sit for a seven-hour deposition by Dec. 11 in his $10bn lawsuit against the BBC, warning that noncompliance could bring sanctions including possible dismissal. Lett also rejected a request by Trump's legal team to block videotaping of the deposition, though the recording would be accessible only to attorneys in the case.
-nut_graf: The order pairs a Dec. 11 deposition with a 30-day document-production period ahead of the Dec. 18 discovery deadline and warns that sanctions could include dismissal of the $10bn case. District court judge Jeffrey T Kuntz could extend the discovery schedule, and BBC attorney Charles Tobin said the BBC was willing to push back Trump's deposition if Kuntz adjusted it.
+lede: Federal magistrate judge Enjoliqué Lett ordered Donald Trump on Thursday to
+  cooperate with discovery and sit for a seven-hour deposition by Dec. 11 in his $10bn
+  lawsuit against the BBC, warning that noncompliance could bring sanctions including
+  possible dismissal. Lett also rejected a request by Trump's legal team to block
+  videotaping of the deposition, though the recording would be accessible only to
+  attorneys in the case.
+nut_graf: The order pairs a Dec. 11 deposition with a 30-day document-production period
+  ahead of the Dec. 18 discovery deadline and warns that sanctions could include dismissal
+  of the $10bn case. District court judge Jeffrey T Kuntz could extend the discovery
+  schedule, and BBC attorney Charles Tobin said the BBC was willing to push back Trump's
+  deposition if Kuntz adjusted it.
 primary_entities:
 - Donald Trump
 - BBC
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +153,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
+  headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.865
+- slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
+  headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8567
+- slug: 2026-10-22-trump-s-lawyers-offer-january-deposition-dates-bbc-seeks-lawsuit-dismissal
+  headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8312
+- slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8247
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8366
-- slug: 2026-10-15-federal-judge-extends-block-on-trump-government-funded-ads-through-november-8
-  headline: Federal judge extends block on Trump government-funded ads through November 8
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6326
-- slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
-  headline: Judge blocks Trump from enforcing White House press ban on three outlets
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6271
-- slug: 2026-10-13-doj-apologizes-as-pro-trump-government-ads-air-past-court-deadline
-  headline: DOJ apologizes as pro-Trump government ads air past court deadline
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6173
-- slug: 2026-10-08-judge-extends-press-reprieve-for-cnn-ms-now-politico-through-tuesday
-  headline: Judge extends press reprieve for CNN, MS Now, Politico through Tuesday
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6459
-- slug: 2026-10-11-rochon-issues-14-day-halt-of-20-million-cbp-funded-pro-trump-ads
-  headline: Rochon issues 14-day halt of $20 million CBP-funded pro-Trump ads
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6165
+  strength: 0.8363
 - slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
   headline: Trump asks judge to block BBC subpoenas to his family members
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7507
+  strength: 0.751
 - slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
+  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED'
+    placard
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6514
+  strength: 0.651
 - slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
   headline: Trump attorneys ask court to pause BBC access to financial records
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.758
-- slug: 2026-09-17-judge-orders-kennedy-center-board-to-give-30-days-notice-on-building-changes
-  headline: Judge orders Kennedy Center board to give 30 days' notice on building changes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6263
-- slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
-  headline: Judge orders Trump to release financial records in BBC defamation case
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.765
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7344
-- slug: 2026-07-06-judge-denies-trump-bid-to-delay-5-8m-judgment-to-e-jean-carroll
-  headline: Judge denies Trump bid to delay $5.8M judgment to E Jean Carroll
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6537
-- slug: 2026-07-13-judge-rules-trump-s-10b-irs-lawsuit-was-brought-in-bad-faith
-  headline: Judge rules Trump's $10B IRS lawsuit was brought in bad faith
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6227
-- slug: 2026-06-26-bolton-expected-to-plead-guilty-to-retaining-classified-information-pay-2-25m-fi
-  headline: Bolton expected to plead guilty to retaining classified information, pay $2.25M fine
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6421
-- slug: 2026-07-11-four-new-york-times-journalists-ordered-to-testify-before-federal-grand-jury
-  headline: Four New York Times journalists ordered to testify before federal grand jury
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6226
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6602
-- slug: 2026-06-04-john-bolton-to-plead-guilty-to-retaining-classified-documents-pay-over-2m-fine
-  headline: John Bolton to plead guilty to retaining classified documents, pay over $2M fine
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.626
-- slug: 2026-05-14-trump-gets-delay-on-83m-defamation-payment-to-e-jean-carroll
-  headline: Trump gets delay on $83M defamation payment to E. Jean Carroll
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6354
-- slug: 2026-05-22-trump-says-he-may-release-tax-returns-after-justice-department-deal
-  headline: Trump says he may release tax returns after Justice Department deal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6227
+  strength: 0.7587
 ---
-
 ## Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
 
 **Subtype:** fact

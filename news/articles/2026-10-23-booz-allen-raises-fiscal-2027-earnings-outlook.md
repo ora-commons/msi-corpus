@@ -2,8 +2,15 @@
 headline: Booz Allen raises fiscal 2027 earnings outlook
 secondary_headline: Revenue falls 3.9% as backlog stands near $41 billion
 publish_date: '2026-10-23'
-lede: On Friday, Booz Allen Hamilton raised its fiscal 2027 adjusted earnings outlook after second-quarter adjusted results exceeded a FactSet estimate. The company reported $181 million in profit for the three months ended Sept. 30 as revenue fell 3.9% to $2.78 billion. Booz Allen Hamilton also narrowed its revenue forecast to $11.3 billion to $11.6 billion. A market display showed BAH up 4.70%; separately, Booz Allen Hamilton shares rose 5% to $82.50 in premarket trading.
-nut_graf: The higher earnings guidance came despite a revenue result below Wall Street expectations. Booz Allen Hamilton also reported lower headcount, while its backlog increased and management cited momentum in national security.
+lede: On Friday, Booz Allen Hamilton raised its fiscal 2027 adjusted earnings outlook
+  after second-quarter adjusted results exceeded a FactSet estimate. The company reported
+  $181 million in profit for the three months ended Sept. 30 as revenue fell 3.9%
+  to $2.78 billion. Booz Allen Hamilton also narrowed its revenue forecast to $11.3
+  billion to $11.6 billion. A market display showed BAH up 4.70%; separately, Booz
+  Allen Hamilton shares rose 5% to $82.50 in premarket trading.
+nut_graf: The higher earnings guidance came despite a revenue result below Wall Street
+  expectations. Booz Allen Hamilton also reported lower headcount, while its backlog
+  increased and management cited momentum in national security.
 primary_entities:
 - Booz Allen Hamilton
 - Trump administration
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +144,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-whirlpool-expects-a-full-year-loss-as-third-quarter-sales-fall-short
+  headline: Whirlpool expects a full-year loss as third-quarter sales fall short
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6747
 - slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
   headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6711
+  strength: 0.6682
 - slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6836
+  strength: 0.6785
 - slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
   headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6783
+  strength: 0.6762
 - slug: 2026-10-13-unitedhealth-posts-4-11-billion-quarterly-profit-raises-guidance
   headline: UnitedHealth posts $4.11 billion quarterly profit, raises guidance
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6609
+  strength: 0.6548
 - slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
   headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6604
+  strength: 0.6572
+- slug: 2026-10-08-aritzia-lifts-fiscal-2027-outlook-after-44-quarterly-revenue-surge
+  headline: Aritzia lifts fiscal 2027 outlook after 44% quarterly revenue surge
+  publish_date: '2026-10-08'
+  relation: related
+  strength: 0.6505
 - slug: 2026-10-06-lamb-weston-raises-fiscal-2027-outlook-after-q1-earnings-beat
   headline: Lamb Weston raises fiscal 2027 outlook after Q1 earnings beat
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6607
-- slug: 2026-07-24-booz-allen-profit-falls-27-as-revenue-slips-civil-business-lags
-  headline: Booz Allen profit falls 27% as revenue slips, civil business lags
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.8819
-- slug: 2026-09-03-tyson-cuts-fiscal-2026-revenue-outlook-citing-severe-u-s-cattle-shortage
-  headline: Tyson cuts fiscal 2026 revenue outlook, citing severe U.S. cattle shortage
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6718
-- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6706
-- slug: 2026-08-27-best-buy-raises-full-year-outlook-after-q2-comparable-sales-beat-expectations
-  headline: Best Buy raises full-year outlook after Q2 comparable sales beat expectations
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.655
-- slug: 2026-07-21-halliburton-beats-revenue-estimates-profit-rises-13
-  headline: Halliburton beats revenue estimates, profit rises 13%
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7075
-- slug: 2026-08-05-motorola-solutions-raises-outlook-after-q2-profit-and-revenue-beat-estimates
-  headline: Motorola Solutions raises outlook after Q2 profit and revenue beat estimates
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6794
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6897
-- slug: 2026-08-05-applovin-shares-fall-17-after-revenue-misses-estimates-q3-adjusted-earnings-outl
-  headline: AppLovin shares fall 17% after revenue misses estimates, Q3 adjusted earnings outlook comes in below forecast
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6622
-- slug: 2026-08-06-datadog-cites-lower-usage-from-major-ai-customer-in-2026-outlook
-  headline: Datadog cites lower usage from major AI customer in 2026 outlook
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6577
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6605
-- slug: 2026-07-16-unitedhealth-beats-wall-street-estimates-and-raises-full-year-earnings-outlook
-  headline: UnitedHealth beats Wall Street estimates and raises full-year earnings outlook
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.686
-- slug: 2026-08-05-uber-bookings-and-adjusted-earnings-top-estimates-shares-fall-4
-  headline: Uber bookings and adjusted earnings top estimates; shares fall 4%
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6512
-- slug: 2026-08-03-tyson-foods-cuts-profit-outlook-after-575-million-cattle-cost-increase
-  headline: Tyson Foods cuts profit outlook after $575 million cattle-cost increase
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6525
-- slug: 2026-07-28-boeing-posts-428m-loss-on-air-force-one-cost-overruns
-  headline: Boeing posts $428M loss on Air Force One cost overruns
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6539
+  strength: 0.6571
 ---
-
 ## Booz Allen raises fiscal 2027 earnings outlook
 
 **Subtype:** fact

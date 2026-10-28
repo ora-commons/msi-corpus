@@ -2,8 +2,15 @@
 headline: Army spokesperson confirms attempted move damaged Eisenhower globe
 secondary_headline: Pentagon calls damaged artifact a replica; no one was hurt
 publish_date: '2026-10-22'
-lede: A U.S. Army spokesperson confirmed that a 30-inch globe was damaged during a February attempt to move it into defense secretary Pete Hegseth’s office in the Pentagon. The Washington Post reported that Hegseth’s aides dropped the artifact, while the U.S. Department of Defense described it as a replica.
-nut_graf: 'An Army spokesperson acknowledged the attempted move and resulting damage, while the Defense Department separately said the globe was being repaired and no one was harmed. The accounts leave the globe’s provenance unresolved: The Washington Post linked the object to Dwight D Eisenhower’s D-Day planning, while the Defense Department described it as a replica.'
+lede: A U.S. Army spokesperson confirmed that a 30-inch globe was damaged during a
+  February attempt to move it into defense secretary Pete Hegseth’s office in the
+  Pentagon. The Washington Post reported that Hegseth’s aides dropped the artifact,
+  while the U.S. Department of Defense described it as a replica.
+nut_graf: 'An Army spokesperson acknowledged the attempted move and resulting damage,
+  while the Defense Department separately said the globe was being repaired and no
+  one was harmed. The accounts leave the globe’s provenance unresolved: The Washington
+  Post linked the object to Dwight D Eisenhower’s D-Day planning, while the Defense
+  Department described it as a replica.'
 primary_entities:
 - Pete Hegseth
 - Dwight D Eisenhower
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,118 +145,21 @@ cross_article_links:
   strength: 0.5877
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-hegseth-reportedly-authorizes-dhs-a-seven-month-active-denial-system-loan
-  headline: Hegseth reportedly authorizes DHS a seven-month Active Denial System loan
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5902
-- slug: 2026-10-19-downing-street-rebukes-hegseth-for-downplaying-nato-s-afghan-combat-role
-  headline: Downing Street rebukes Hegseth for downplaying NATO's Afghan combat role
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5798
-- slug: 2026-10-08-hegseth-says-lincoln-strike-group-set-record-with-10-000-sorties
-  headline: Hegseth says Lincoln strike group set record with 10,000 sorties
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5901
-- slug: 2026-10-07-hegseth-awards-uss-lincoln-presidential-unit-citation-after-record-deployment
-  headline: Hegseth awards USS Lincoln presidential unit citation after record deployment
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5857
-- slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
-  headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5981
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5904
-- slug: 2026-09-15-pentagon-sets-physical-standards-for-hegseth-s-september-speech
-  headline: Pentagon sets physical standards for Hegseth's September speech
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5862
-- slug: 2026-09-16-pentagon-watchdog-reports-3-7b-in-iran-strike-equipment-losses
-  headline: Pentagon watchdog reports $3.7B in Iran strike equipment losses
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5796
-- slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
-  headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5959
-- slug: 2026-09-02-hegseth-s-social-media-post-on-canadian-cadets-sparks-bipartisan-backlash
-  headline: Hegseth's social media post on Canadian cadets sparks bipartisan backlash
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5783
-- slug: 2026-08-28-hegseth-may-reconvene-top-military-leaders-at-quantico-this-year
-  headline: Hegseth may reconvene top military leaders at Quantico this year
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5826
-- slug: 2026-08-15-senate-democrats-seek-answers-from-hegseth-on-conditions-aboard-lincoln
-  headline: Senate Democrats seek answers from Hegseth on conditions aboard Lincoln
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5904
-- slug: 2026-08-17-trump-dismisses-lincoln-conditions-reports-calls-cnn-coverage-fake-news
-  headline: Trump dismisses Lincoln conditions reports, calls CNN coverage fake news
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5795
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5938
-- slug: 2026-07-03-senior-officials-blocked-hegseth-plan-for-deeper-troop-cuts-in-europe
-  headline: Senior officials blocked Hegseth plan for deeper troop cuts in Europe
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5983
-- slug: 2026-06-24-hegseth-cuts-army-commander-s-european-assignment-short-amid-broader-shake-up
-  headline: Hegseth cuts Army commander's European assignment short amid broader shake-up
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5927
-- slug: 2026-06-24-last-us-soldier-out-of-afghanistan-steps-down-as-army-commander-in-europe
-  headline: Last US soldier out of Afghanistan steps down as Army commander in Europe
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.589
-- slug: 2026-05-18-post-seeks-court-order-for-seized-reporter-s-devices
-  headline: Post seeks court order for seized reporter's devices
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5882
-- slug: 2026-03-24-trump-administration-places-columbus-statue-replica-near-white-house
-  headline: Trump administration places Columbus statue replica near White House
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6028
-- slug: 2026-03-12-pentagon-blocks-photographers-from-hegseth-briefings-times-seeks-access
-  headline: Pentagon blocks photographers from Hegseth briefings, Times seeks access
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.5985
+related_stories: []
 image:
   url: /articles/2026-10-22-army-spokesperson-confirms-attempted-move-damaged-eisenhower-globe.png
-  alt: "Illustration accompanying article: Army spokesperson confirms attempted move damaged Eisenhower globe"
+  alt: 'Illustration accompanying article: Army spokesperson confirms attempted move
+    damaged Eisenhower globe'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Army spokesperson confirms attempted move damaged Eisenhower globe
 
 **Subtype:** fact

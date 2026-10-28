@@ -2,8 +2,22 @@
 headline: United Arab Emirates nominates Lana Zaki Nusseibeh for U.N. secretary-general
 secondary_headline: Nominee would be first Gulf national and the UAE's first Muslim
 publish_date: '2026-10-22'
-lede: The United Arab Emirates formally nominated former deputy foreign minister Lana Zaki Nusseibeh this week to succeed António Guterres as U.N. secretary-general. The Wall Street Journal described the 47-year-old late entrant as one that “has shaken up a fraught process in which none of the other candidates has emerged as a clear favorite.” Daniel Forti, head of U.N. affairs at International Crisis Group, said Nusseibeh’s entrance “marks a pivot point” in the race and noted that she is well known around the United Nations. Nusseibeh would be the first secretary-general from a Gulf nation and the UAE’s first Muslim to hold the post; Guterres, a former prime minister of Portugal, is due to step down at year-end after a decade.
-nut_graf: The race is taking longer than the previous two cycles and has no fixed deadline. The next secretary-general will take an office with limited power and an increasingly pinched budget. Demands for a woman and Latin American leaders’ argument for a candidate from their region are part of a process marked by leaked polling suggesting resistance from the permanent Security Council members. Nusseibeh brings more than a decade as the Emirates’ U.N. ambassador, but her bid has prompted criticism of the UAE’s human rights record and questions about her independence.
+lede: The United Arab Emirates formally nominated former deputy foreign minister Lana
+  Zaki Nusseibeh this week to succeed António Guterres as U.N. secretary-general.
+  The Wall Street Journal described the 47-year-old late entrant as one that “has
+  shaken up a fraught process in which none of the other candidates has emerged as
+  a clear favorite.” Daniel Forti, head of U.N. affairs at International Crisis Group,
+  said Nusseibeh’s entrance “marks a pivot point” in the race and noted that she is
+  well known around the United Nations. Nusseibeh would be the first secretary-general
+  from a Gulf nation and the UAE’s first Muslim to hold the post; Guterres, a former
+  prime minister of Portugal, is due to step down at year-end after a decade.
+nut_graf: The race is taking longer than the previous two cycles and has no fixed
+  deadline. The next secretary-general will take an office with limited power and
+  an increasingly pinched budget. Demands for a woman and Latin American leaders’
+  argument for a candidate from their region are part of a process marked by leaked
+  polling suggesting resistance from the permanent Security Council members. Nusseibeh
+  brings more than a decade as the Emirates’ U.N. ambassador, but her bid has prompted
+  criticism of the UAE’s human rights record and questions about her independence.
 primary_entities:
 - Lana Zaki Nusseibeh
 - United Arab Emirates
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +159,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-20-next-un-secretary-general-faces-gaza-genocide-accusation-climate-crisis-ai-threa
-  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis, AI threats
+  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis,
+    AI threats
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7098
-- slug: 2026-09-22-world-leaders-at-un-general-assembly-call-for-security-council-reform
-  headline: World leaders at UN General Assembly call for Security Council reform
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.647
+  strength: 0.7108
 - slug: 2026-09-20-chile-s-bachelet-withdraws-from-un-secretary-general-race
   headline: Chile's Bachelet withdraws from UN secretary general race
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6535
-- slug: 2026-10-01-iran-s-president-tells-un-iran-has-been-victim-of-us-aggression
-  headline: Iran's president tells UN Iran has been victim of US aggression
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5968
-- slug: 2026-09-25-hague-group-convenes-40-states-at-un-to-defend-international-legal-order
-  headline: Hague Group convenes 40 states at UN to defend international legal order
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6007
-- slug: 2026-09-25-salam-urges-un-to-prevent-vacuum-as-unifil-mandate-nears-end
-  headline: Salam urges UN to prevent vacuum as UNIFIL mandate nears end
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5978
-- slug: 2026-09-21-abbas-to-address-un-general-assembly-by-video-after-visa-denial
-  headline: Abbas to address UN General Assembly by video after visa denial
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6064
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5794
-- slug: 2026-09-22-guterres-opens-un-general-assembly-warning-of-widening-fault-lines
-  headline: Guterres opens UN General Assembly warning of 'widening fault lines'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5842
-- slug: 2026-09-21-trump-to-address-un-general-assembly-as-iran-s-president-set-to-speak-next-day
-  headline: Trump to address UN General Assembly as Iran's president set to speak next day
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5878
-- slug: 2026-09-24-salam-tells-pezeshkian-lebanon-won-t-be-stage-for-regional-conflicts
-  headline: Salam tells Pezeshkian Lebanon won't be 'stage for regional conflicts'
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5743
-- slug: 2026-09-20-albanese-launches-australia-s-un-security-council-bid
-  headline: Albanese launches Australia's UN Security Council bid
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.587
-- slug: 2026-09-22-pezeshkian-expected-to-speak-at-un-as-us-restricts-iranian-delegation
-  headline: Pezeshkian expected to speak at UN as US restricts Iranian delegation
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5757
-- slug: 2026-07-24-bahrain-and-kuwait-secretly-struck-iranian-military-sites-in-retaliation
-  headline: Bahrain and Kuwait Secretly Struck Iranian Military Sites in Retaliation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5737
-- slug: 2026-05-14-uae-denies-netanyahu-made-secret-visit-during-iran-war
-  headline: UAE denies Netanyahu made secret visit during Iran war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6113
-- slug: 2026-05-14-uae-denies-netanyahu-secret-visit-during-iran-war
-  headline: UAE denies Netanyahu secret visit during Iran war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.604
-- slug: 2026-04-01-gulf-allies-urge-trump-to-keep-war-pressure-on-iran-until-decisive-shift
-  headline: Gulf allies urge Trump to keep war pressure on Iran until decisive shift
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6127
-- slug: 2026-02-28-melania-trump-to-preside-over-un-security-council-meeting-for-march
-  headline: Melania Trump to preside over UN Security Council meeting for March
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.618
-- slug: 2026-05-14-macron-guterres-back-african-seats-on-un-security-council-in-ethiopia-talks
-  headline: Macron, Guterres back African seats on UN Security Council in Ethiopia talks
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5925
-- slug: 2026-01-15-guterres-opens-final-year-at-un-by-condemning-law-violations-ultra-wealthy-influ
-  headline: Guterres opens final year at UN by condemning law violations, ultra-wealthy influence
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6167
+  strength: 0.6538
 ---
-
 ## United Arab Emirates nominates Lana Zaki Nusseibeh for U.N. secretary-general
 
 **Subtype:** fact

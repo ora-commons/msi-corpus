@@ -2,8 +2,15 @@
 headline: Braden Peters enters not-guilty plea in Massachusetts rape case
 secondary_headline: Peters agrees to $10,000 bail and surrenders his passport
 publish_date: '2026-10-22'
-lede: Braden Peters, the 20-year-old looksmaxxing livestreamer known as Clavicular, pleaded not guilty Thursday in Orleans district court in Massachusetts to charges that he raped a 17-year-old girl. Peters agreed to $10,000 bail, surrendered his passport and agreed not to contact or post about the woman who accused him.
-nut_graf: The not-guilty plea leaves the criminal case unresolved as Peters rejects the accuser's account and accepts limits on contact and posts about her. The brief proceeding records his response and bail terms but does not resolve the allegation that he gave the woman alcohol until she was drunk and then sexually assaulted her at his family's Massachusetts home.
+lede: Braden Peters, the 20-year-old looksmaxxing livestreamer known as Clavicular,
+  pleaded not guilty Thursday in Orleans district court in Massachusetts to charges
+  that he raped a 17-year-old girl. Peters agreed to $10,000 bail, surrendered his
+  passport and agreed not to contact or post about the woman who accused him.
+nut_graf: The not-guilty plea leaves the criminal case unresolved as Peters rejects
+  the accuser's account and accepts limits on contact and posts about her. The brief
+  proceeding records his response and bail terms but does not resolve the allegation
+  that he gave the woman alcohol until she was drunk and then sexually assaulted her
+  at his family's Massachusetts home.
 primary_entities:
 - Braden Peters
 - Clavicular
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +156,13 @@ related_stories:
   headline: Clavicular posts video appearing to show accuser after Massachusetts charges
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8354
+  strength: 0.8348
 - slug: 2026-09-22-braden-peters-to-face-cape-cod-arraignment-on-rape-drugging-charges
   headline: Braden Peters to face Cape Cod arraignment on rape, drugging charges
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8303
-- slug: 2026-10-15-mace-calls-for-predator-accountability-after-ex-fianc-charged
-  headline: Mace calls for predator accountability after ex-fiancé charged
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5895
-- slug: 2026-10-06-new-york-lawmakers-push-to-close-voluntary-intoxication-consent-gap
-  headline: New York lawmakers push to close 'voluntary intoxication' consent gap
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5832
-- slug: 2026-09-29-texts-between-defendant-and-accuser-surface-in-alleged-cornell-gang-rape-case
-  headline: Texts between defendant and accuser surface in alleged Cornell gang-rape case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6083
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5915
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.591
-- slug: 2026-09-30-sexual-assault-survivors-navigate-parallel-campus-and-criminal-tracks
-  headline: Sexual assault survivors navigate parallel campus and criminal tracks
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.582
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5908
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.57
-- slug: 2026-09-02-dawn-light-arraigned-on-charge-of-filming-clancy-trial-jurors
-  headline: Dawn Light arraigned on charge of filming Clancy trial jurors
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5812
-- slug: 2026-08-28-meta-announces-18bn-settlement-with-new-teen-limits-on-instagram-facebook
-  headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5776
-- slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5789
-- slug: 2026-08-23-massachusetts-fake-id-seizures-hit-highest-level-in-two-decades
-  headline: Massachusetts fake ID seizures hit highest level in two decades
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.573
-- slug: 2026-07-22-florida-teen-drops-meta-addiction-lawsuit-after-settling-other-claims
-  headline: Florida teen drops Meta addiction lawsuit after settling other claims
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5992
-- slug: 2026-06-06-maine-senate-candidate-graham-platner-faces-scrutiny-over-past-texts-abuse-accus
-  headline: Maine Senate candidate Graham Platner faces scrutiny over past texts, abuse accusation
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5858
-- slug: 2026-06-23-dc-man-arrested-near-reflecting-pool-plans-to-fight-obscenity-charge
-  headline: DC man arrested near reflecting pool plans to fight obscenity charge
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5703
-- slug: 2026-05-20-chud-the-builder-claims-free-speech-after-shooting-critics-see-race-baiting
-  headline: Chud the Builder claims free speech after shooting; critics see race-baiting
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5797
-- slug: 2026-05-21-judge-sets-1-million-bond-for-chud-the-builder-in-clarksville-shooting
-  headline: Judge sets $1 million bond for ‘Chud the Builder’ in Clarksville shooting
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5719
-- slug: 2026-05-14-dalton-eatherly-charged-with-attempted-murder-after-racist-livestream-confrontat
-  headline: Dalton Eatherly charged with attempted murder after racist livestream confrontation at courthouse
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5719
+  strength: 0.83
 ---
-
 ## Braden Peters enters not-guilty plea in Massachusetts rape case
 
 **Subtype:** fact

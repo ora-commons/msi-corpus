@@ -2,8 +2,17 @@
 headline: Iran threatens Gulf targets as U.S. weighs renewed strikes
 secondary_headline: Damage to Iran's missile stockpile could limit a prolonged exchange
 publish_date: '2026-10-23'
-lede: Iran has threatened to strike U.S. bases, warships and civilian targets across neighboring Gulf countries if the U.S. and Israel resume attacks, The Wall Street Journal reported. The warning came as the U.S. sent additional military forces toward the Middle East, moved some troops off regional bases and directed nonemergency government employees and their families to leave Saudi Arabia.
-nut_graf: Iranian Foreign Minister Abbas Araghchi warned that renewed attacks would put civilian lives and the wellbeing of all regional states and the global economy at risk. Damage to Iran's arsenal and launch infrastructure limited its ability to sustain a long exchange, while analysts believed Iran would nevertheless run the risk; U.S. and regional officials separately believed Iran had resumed production of ballistic missiles in limited numbers.
+lede: Iran has threatened to strike U.S. bases, warships and civilian targets across
+  neighboring Gulf countries if the U.S. and Israel resume attacks, The Wall Street
+  Journal reported. The warning came as the U.S. sent additional military forces toward
+  the Middle East, moved some troops off regional bases and directed nonemergency
+  government employees and their families to leave Saudi Arabia.
+nut_graf: Iranian Foreign Minister Abbas Araghchi warned that renewed attacks would
+  put civilian lives and the wellbeing of all regional states and the global economy
+  at risk. Damage to Iran's arsenal and launch infrastructure limited its ability
+  to sustain a long exchange, while analysts believed Iran would nevertheless run
+  the risk; U.S. and regional officials separately believed Iran had resumed production
+  of ballistic missiles in limited numbers.
 primary_entities:
 - Iran
 - U.S.
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +157,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-23-revolutionary-guards-claim-four-hormuz-ships-struck-iran-threatens-gulf-sites-if
+  headline: Revolutionary Guards claim four Hormuz ships struck; Iran threatens Gulf
+    sites if a US-Israeli attack
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7584
 - slug: 2026-10-13-iran-fortifies-nuclear-sites-and-warns-gulf-allies
   headline: Iran Fortifies Nuclear Sites and Warns Gulf Allies
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8144
+  strength: 0.8145
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7554
+  strength: 0.7577
 - slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
   headline: Iran threatens US bases as Trump weighs renewed bombing campaign
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7923
+  strength: 0.7926
 - slug: 2026-09-22-mohebbi-says-iran-would-use-new-weapons-change-targets-if-us-attacks
   headline: Mohebbi says Iran would use new weapons, change targets if US attacks
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7676
-- slug: 2026-09-10-iran-resumes-underground-ballistic-missile-production-officials-say
-  headline: Iran resumes underground ballistic missile production, officials say
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7529
+  strength: 0.7685
 - slug: 2026-09-02-u-s-military-completes-second-wave-of-strikes-on-iranian-targets
   headline: U.S. military completes second wave of strikes on Iranian targets
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7661
-- slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
-  headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7598
+  strength: 0.7667
 - slug: 2026-07-31-trump-vows-to-hit-iran-very-hard-as-diplomacy-collapses
   headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.758
-- slug: 2026-07-18-u-s-iran-escalate-strikes-in-gulf-as-israel-bombs-lebanon
-  headline: U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon
-  publish_date: '2026-07-18'
+  strength: 0.7595
+- slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
+  headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
+  publish_date: '2026-07-30'
   relation: related
-  strength: 0.768
-- slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.758
-- slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7537
-- slug: 2026-02-27-iran-has-options-if-america-attacks-experts-say-despite-u-s-edge
-  headline: Iran has options if America attacks, experts say, despite U.S. edge
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.8165
-- slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar sites
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7729
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7606
-- slug: 2026-05-10-iran-warns-us-against-tanker-strikes-threatens-base-assault-as-fragile-ceasefire
-  headline: Iran warns US against tanker strikes, threatens base assault as fragile ceasefire holds
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7605
-- slug: 2026-03-15-iran-urges-uae-port-evacuations-as-war-enters-third-week
-  headline: Iran urges UAE port evacuations as war enters third week
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7708
-- slug: 2026-03-31-trump-threatens-wider-attacks-on-iran-power-oil-and-desalination-if-no-deal
-  headline: Trump threatens wider attacks on Iran power, oil and desalination if no deal
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7663
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7674
-- slug: 2026-03-05-iran-spreads-missile-and-drone-fire-across-gulf-to-pressure-u-s-into-diplomatic-
-  headline: Iran spreads missile and drone fire across Gulf to pressure U.S. into diplomatic off-ramp
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7657
-- slug: 2026-04-01-militarily-degraded-iran-is-still-a-stubborn-foe-after-u-s--israeli-strikes
-  headline: Militarily degraded Iran is still a stubborn foe after U.S.-Israeli strikes
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.76
+  strength: 0.7609
 ---
-
 ## Iran threatens Gulf targets as U.S. weighs renewed strikes
 
 **Subtype:** fact

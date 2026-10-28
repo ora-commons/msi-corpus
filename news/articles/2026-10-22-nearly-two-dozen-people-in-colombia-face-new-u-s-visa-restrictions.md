@@ -1,9 +1,18 @@
 ---
 headline: Nearly two dozen people in Colombia face new U.S. visa restrictions
-secondary_headline: Seven current and former Colombian officials and their families were targeted
+secondary_headline: Seven current and former Colombian officials and their families
+  were targeted
 publish_date: '2026-10-22'
-lede: The United States imposed visa restrictions on nearly two dozen people in Colombia on Thursday, expanding enforcement of a new Trump administration policy that prohibits entry for foreign nationals in Latin America whom the administration accuses of corruption or narcotrafficking. The State Department identified seven current and former Colombian officials and said the restrictions also apply to those officials' families.
-nut_graf: The action extends a policy that followed a New York City meeting of 15 governments, which declared an intention to impose sanctions and visa restrictions on members, associates and supporters of 24 identified criminal organizations. Secretary of State Marco Rubio said the policy applies regardless of political affiliation.
+lede: The United States imposed visa restrictions on nearly two dozen people in Colombia
+  on Thursday, expanding enforcement of a new Trump administration policy that prohibits
+  entry for foreign nationals in Latin America whom the administration accuses of
+  corruption or narcotrafficking. The State Department identified seven current and
+  former Colombian officials and said the restrictions also apply to those officials'
+  families.
+nut_graf: The action extends a policy that followed a New York City meeting of 15
+  governments, which declared an intention to impose sanctions and visa restrictions
+  on members, associates and supporters of 24 identified criminal organizations. Secretary
+  of State Marco Rubio said the policy applies regardless of political affiliation.
 primary_entities:
 - United States
 - Colombia
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,20 +158,21 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-28-state-department-revokes-visas-of-more-than-15-latin-american-officials-and-busi
-  headline: State Department revokes visas of more than 15 Latin American officials and businessmen
+  headline: State Department revokes visas of more than 15 Latin American officials
+    and businessmen
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7894
+  strength: 0.7895
 - slug: 2026-10-12-u-s-arrests-colombian-fugitive-tied-to-maduro-on-laundering-charges
   headline: U.S. arrests Colombian fugitive tied to Maduro on laundering charges
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6564
+  strength: 0.6568
 - slug: 2026-10-07-sheinbaum-agrees-to-freeze-ex-officials-accounts-hit-by-u-s-sanctions
   headline: Sheinbaum agrees to freeze ex-officials' accounts hit by U.S. sanctions
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6617
+  strength: 0.6618
 - slug: 2026-10-01-bolivia-arrests-attorney-general-two-days-after-us-revokes-visa
   headline: Bolivia arrests attorney general two days after US revokes visa
   publish_date: '2026-10-01'
@@ -171,84 +182,23 @@ related_stories:
   headline: Armed group imposes 72-hour shutdown in Santa Marta after Colombia raid
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.656
-- slug: 2026-09-25-fern-ndez-fires-foreign-minister-over-undisclosed-trump-security-forum
-  headline: Fernández fires foreign minister over undisclosed Trump security forum
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6483
+  strength: 0.6559
 - slug: 2026-09-22-state-department-imposes-visa-restrictions-on-32-tied-to-prince-group
   headline: State Department imposes visa restrictions on 32 tied to Prince Group
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6597
-- slug: 2026-09-12-peru-joins-us-led-shield-of-the-americas-antidrug-coalition
-  headline: Peru joins US-led Shield of the Americas antidrug coalition
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6964
+  strength: 0.6596
 - slug: 2026-09-16-u-s-decertifies-colombia-bolivia-venezuela-on-counternarcotics
   headline: U.S. decertifies Colombia, Bolivia, Venezuela on counternarcotics
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6811
-- slug: 2026-09-16-state-department-redirects-52-million-in-military-aid-to-latin-america
-  headline: State Department redirects $52 million in military aid to Latin America
-  publish_date: '2026-09-16'
+  strength: 0.6814
+- slug: 2026-09-12-peru-joins-us-led-shield-of-the-americas-antidrug-coalition
+  headline: Peru joins US-led Shield of the Americas antidrug coalition
+  publish_date: '2026-09-12'
   relation: related
-  strength: 0.6645
-- slug: 2026-09-10-rubio-designates-ecuadorean-gang-as-terrorist-group-sanctions-officials
-  headline: Rubio designates Ecuadorean gang as terrorist group, sanctions officials
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6751
-- slug: 2026-09-10-peru-joins-shield-of-the-americas-at-lima-meeting-with-rubio
-  headline: Peru joins Shield of the Americas at Lima meeting with Rubio
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6578
-- slug: 2026-09-09-colombia-and-u-s-sign-minerals-nuclear-pacts-in-barranquilla
-  headline: Colombia and U.S. sign minerals, nuclear pacts in Barranquilla
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6568
-- slug: 2026-09-10-us-pursues-regional-drug-interdiction-agreements-while-retaining-strikes
-  headline: US pursues regional drug-interdiction agreements while retaining strikes
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6392
-- slug: 2026-08-25-de-la-espriella-orders-immigration-operations-in-barranquilla
-  headline: De la Espriella orders immigration operations in Barranquilla
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6727
-- slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
-  headline: Washington targets Cuba’s military network with new restrictions
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.66
-- slug: 2026-08-14-us-revokes-visa-of-former-mexican-president-s-son
-  headline: US revokes visa of former Mexican president's son
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6436
-- slug: 2026-07-10-colombia-to-close-cuba-nicaragua-embassies-restore-us-and-israel-ties
-  headline: Colombia to close Cuba, Nicaragua embassies, restore US and Israel ties
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6507
-- slug: 2026-06-22-us-military-kills-2-in-latest-drug-boat-strike-campaign-death-toll-at-213
-  headline: US military kills 2 in latest drug boat strike; campaign death toll at 213
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6402
-- slug: 2026-06-10-colombian-president-gustavo-petro-faces-suspension-order-amid-election-probe
-  headline: Colombian President Gustavo Petro faces suspension order amid election probe
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6433
+  strength: 0.6958
 ---
-
 ## Nearly two dozen people in Colombia face new U.S. visa restrictions
 
 **Subtype:** fact
