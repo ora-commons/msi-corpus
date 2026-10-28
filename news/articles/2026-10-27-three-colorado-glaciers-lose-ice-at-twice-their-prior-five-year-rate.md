@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-02-11'
   relation: related
   strength: 0.6537
+analyses:
+- '2026-10-27-low-snow-and-record-heat-accelerate-colorado-glacier-mass-loss'
 ---
 ## Three Colorado glaciers lose ice at twice their prior five-year rate
 
@@ -220,3 +222,8 @@ Harlan Ulmer, 20, is a student at Colorado State University who has photographed
 **Publication date:** 2026-10-27
 **Title:** Climate change is rapidly melting Colorado's glaciers
 **URL:** https://apnews.com/article/glaciers-melt-climate-change-colorado-0dd833f733e49fd9393cfa79cbc28fb5
+
+---
+
+<!-- analysis-link:2026-10-27-low-snow-and-record-heat-accelerate-colorado-glacier-mass-loss -->
+**Going deeper:** [Read MSI's analysis of Colorado glacier mass balance →](/analyses/2026-10-27-low-snow-and-record-heat-accelerate-colorado-glacier-mass-loss)
