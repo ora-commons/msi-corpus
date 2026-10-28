@@ -157,6 +157,8 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.6573
+analyses:
+- '2026-10-27-centene-raises-2026-guidance-as-lower-membership-tests-the-durability-of-its-rec'
 ---
 ## Centene raises 2026 guidance after third-quarter loss of $71 million
 
@@ -202,3 +204,8 @@ The update leaves Centene projecting higher revenue and earnings despite lower a
 **Publication date:** 2026-10-27
 **Title:** Centene Lifts 2026 Guidance as Medicare Cost Controls Offset Lower Membership
 **URL:** https://www.wsj.com/business/earnings/centene-lifts-2026-guidance-amid-medicare-cost-controls-886f1375
+
+---
+
+<!-- analysis-link:2026-10-27-centene-raises-2026-guidance-as-lower-membership-tests-the-durability-of-its-rec -->
+**Going deeper:** [Read MSI's analysis of Centene’s 2026 guidance durability →](/analyses/2026-10-27-centene-raises-2026-guidance-as-lower-membership-tests-the-durability-of-its-rec)
