@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-10-09'
   relation: related
   strength: 0.662
+analyses:
+- '2026-10-27-ronald-wright-argues-prosecutor-elections-can-transmit-policy-choices-subject-to'
 ---
 ## Local prosecutor races give voters choices on criminal justice policy
 
@@ -197,3 +199,8 @@ United Press International republished Wright's article from The Conversation un
 **Publication date:** 2026-10-27
 **Title:** Why your vote for local chief prosecutor will matter on Election Day
 **URL:** https://www.upi.com/Voices/2026/10/27/local-chief-prosecutor-vote-matters/2301793111382/
+
+---
+
+<!-- analysis-link:2026-10-27-ronald-wright-argues-prosecutor-elections-can-transmit-policy-choices-subject-to -->
+**Going deeper:** [Read MSI's analysis of local prosecutor elections and policy consequences →](/analyses/2026-10-27-ronald-wright-argues-prosecutor-elections-can-transmit-policy-choices-subject-to)
