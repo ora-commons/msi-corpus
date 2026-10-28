@@ -2,8 +2,14 @@
 headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
 secondary_headline: Orders rose 49% as commercial services backlog exceeded $170 billion
 publish_date: '2026-10-20'
-lede: GE Aerospace raised its full-year outlook on October 20, 2026, after third-quarter profit and revenue exceeded Wall Street expectations. The jet-engine maker lifted adjusted earnings guidance to $8 to $8.10 a share from $7.65 to $7.85 and raised adjusted revenue-growth guidance to 19% to 20%.
-nut_graf: GE Aerospace’s revision raised both its earnings guidance and adjusted revenue-growth outlook after quarterly profit and revenue exceeded the cited estimates. Larry Culp attributed higher orders to solid demand and said the company’s over $170 billion commercial services backlog supports expected low-double-digit growth in 2027.
+lede: GE Aerospace raised its full-year outlook on October 20, 2026, after third-quarter
+  profit and revenue exceeded Wall Street expectations. The jet-engine maker lifted
+  adjusted earnings guidance to $8 to $8.10 a share from $7.65 to $7.85 and raised
+  adjusted revenue-growth guidance to 19% to 20%.
+nut_graf: GE Aerospace’s revision raised both its earnings guidance and adjusted revenue-growth
+  outlook after quarterly profit and revenue exceeded the cited estimates. Larry Culp
+  attributed higher orders to solid demand and said the company’s over $170 billion
+  commercial services backlog supports expected low-double-digit growth in 2027.
 primary_entities:
 - GE Aerospace
 - Larry Culp
@@ -36,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +141,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
+- slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6481
+  strength: 0.6925
+- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6904
+- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
+  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6791
+- slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
+  headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6729
+- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
+  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.664
+- slug: 2026-10-20-adidas-raises-2026-profit-guidance-to-2-5-billion-after-u-s-tariff-refunds
+  headline: Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6564
+- slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
+  headline: Transport firms adjust plans as fuel costs and demand shift
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6502
 - slug: 2026-10-13-johnson-johnson-raises-outlook-as-medical-device-sales-miss-estimates
   headline: Johnson & Johnson raises outlook as medical device sales miss estimates
   publish_date: '2026-10-13'
   relation: related
   strength: 0.6584
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6438
-- slug: 2026-10-07-analysts-raise-top-glove-targets-keep-sell-or-reduce-ratings-on-oversupply
-  headline: Analysts raise Top Glove targets, keep sell or reduce ratings on oversupply
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6387
-- slug: 2026-09-29-carnival-q3-earnings-top-estimates-as-2027-bookings-hit-record-levels
-  headline: Carnival Q3 earnings top estimates as 2027 bookings hit record levels
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.652
-- slug: 2026-08-27-best-buy-raises-full-year-outlook-after-q2-comparable-sales-beat-expectations
-  headline: Best Buy raises full-year outlook after Q2 comparable sales beat expectations
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6713
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7296
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6908
-- slug: 2026-08-21-bj-s-wholesale-raises-full-year-forecast-as-q2-profit-climbs-to-173-9-million
-  headline: BJ's Wholesale raises full-year forecast as Q2 profit climbs to $173.9 million
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6414
-- slug: 2026-08-05-motorola-solutions-raises-outlook-after-q2-profit-and-revenue-beat-estimates
-  headline: Motorola Solutions raises outlook after Q2 profit and revenue beat estimates
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6775
-- slug: 2026-08-05-siemens-energy-reports-record-orders-as-profit-more-than-triples
-  headline: Siemens Energy reports record orders as profit more than triples
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6591
-- slug: 2026-08-10-hims-hers-lifts-annual-forecast-as-quarterly-costs-drive-loss
-  headline: Hims & Hers lifts annual forecast as quarterly costs drive loss
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6466
-- slug: 2026-08-13-maersk-lifts-2026-guidance-after-much-stronger-q2-transurban-misses-fy26
-  headline: Maersk lifts 2026 guidance after 'much stronger' Q2; Transurban misses FY26
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6397
-- slug: 2026-08-05-uber-bookings-and-adjusted-earnings-top-estimates-shares-fall-4
-  headline: Uber bookings and adjusted earnings top estimates; shares fall 4%
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6481
-- slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
-  headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6559
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6522
-- slug: 2026-07-22-ge-vernova-lifts-free-cash-flow-outlook-as-oil-rises-on-iran-strikes
-  headline: GE Vernova Lifts Free Cash Flow Outlook as Oil Rises on Iran Strikes
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6408
-- slug: 2026-07-15-elevance-health-raises-2026-earnings-outlook-after-q2-sales-beat-estimates
-  headline: Elevance Health raises 2026 earnings outlook after Q2 sales beat estimates
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6471
-- slug: 2026-07-17-volvo-car-reports-wide-second-quarter-earnings-miss
-  headline: Volvo Car reports wide second-quarter earnings miss
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6407
-- slug: 2026-07-16-unitedhealth-beats-wall-street-estimates-and-raises-full-year-earnings-outlook
-  headline: UnitedHealth beats Wall Street estimates and raises full-year earnings outlook
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6399
 ---
-
 ## GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
 
 **Subtype:** fact

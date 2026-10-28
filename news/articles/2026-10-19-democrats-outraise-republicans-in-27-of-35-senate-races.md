@@ -2,11 +2,21 @@
 headline: Democrats outraise Republicans in 27 of 35 Senate races
 secondary_headline: Musk gives the Senate Leadership Fund $158 million
 publish_date: '2026-10-19'
-lede: 'The 2026 midterms are on track to be the most expensive on record, with more than $15 billion raised since the start of 2025, according to Federal Election Commission data reviewed by NPR. Democratic or independent candidates outraised Republican opponents in 27 of 35 Senate races from July through September and posted a nearly 5-to-1 advantage in the 13 most competitive contests.
+lede: 'The 2026 midterms are on track to be the most expensive on record, with more
+  than $15 billion raised since the start of 2025, according to Federal Election Commission
+  data reviewed by NPR. Democratic or independent candidates outraised Republican
+  opponents in 27 of 35 Senate races from July through September and posted a nearly
+  5-to-1 advantage in the 13 most competitive contests.
 
 
-  The candidate-level totals come as Republican-aligned outside groups, including super PACs tied to Trump''s MAGA, Inc., spend heavily in the final stretch. Elon Musk donated $158 million to the Republican Senate Leadership Fund in recent weeks, while Democrats added spending to competitive Senate and House races.'
-nut_graf: The latest filings show that Elon Musk directed more money into the Texas Senate race than the Talarico and Paxton campaigns raised combined, while Republicans shifted advertising away from Senate races in North Carolina and Georgia and one-time toss-up House seats that now favor Democrats.
+  The candidate-level totals come as Republican-aligned outside groups, including
+  super PACs tied to Trump''s MAGA, Inc., spend heavily in the final stretch. Elon
+  Musk donated $158 million to the Republican Senate Leadership Fund in recent weeks,
+  while Democrats added spending to competitive Senate and House races.'
+nut_graf: The latest filings show that Elon Musk directed more money into the Texas
+  Senate race than the Talarico and Paxton campaigns raised combined, while Republicans
+  shifted advertising away from Senate races in North Carolina and Georgia and one-time
+  toss-up House seats that now favor Democrats.
 primary_entities:
 - Democratic Party
 - Republican Party
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +160,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
+  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to
+    Paxton PAC
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8297
+  strength: 0.8293
+- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
+  headline: Musk's Republican midterm giving exceeds $442 million
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7997
 - slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.816
+  strength: 0.8151
+- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
+  headline: Talarico says Musk is backing Paxton at UT Austin rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7918
 - slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
   headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7577
+  strength: 0.757
+- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
+  headline: Talarico alleges Musk is trying to buy Texas Senate seat
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.752
+- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
+  headline: Talarico and Paxton enter final stretch of Texas Senate race
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7477
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7741
-- slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
-  headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7797
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7443
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7579
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.8036
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7394
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.8004
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7327
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.8029
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.728
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7443
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7588
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7331
-- slug: 2026-09-05-maga-inc-launches-10-million-texas-senate-ad-campaign
-  headline: MAGA Inc. launches $10 million Texas Senate ad campaign
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7405
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7275
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7267
-- slug: 2026-04-15-democrats-boast-fundraising-hauls-in-key-senate-races-as-court-contests-loom
-  headline: Democrats boast fundraising hauls in key Senate races as court contests loom
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.8252
+  strength: 0.7729
 analyses:
-- '2026-10-19-candidate-fundraising-edge-expands-senate-competitive-map-as-musk-led-outside-sp'
+- 2026-10-19-candidate-fundraising-edge-expands-senate-competitive-map-as-musk-led-outside-sp
 ---
-
 ## Democrats outraise Republicans in 27 of 35 Senate races
 
 - NPR's review of Federal Election Commission filings found Democratic or independent candidates raised more than Republican opponents in 27 of 35 Senate races from July through September, with a nearly 5-to-1 advantage in the 13 most competitive contests.

@@ -1,9 +1,19 @@
 ---
-headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
-secondary_headline: Builders cut prices most since 2020 as confidence hits 14-year low
+headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies
+  tighten
+secondary_headline: Builders cut prices most since 2020 as confidence hits 14-year
+  low
 publish_date: '2026-10-20'
-lede: On Monday, Cleveland-Cliffs said it expected its highest profit since 2021 next year as constrained steel supplies pushed prices higher and imports remained well below historical levels. The company swung to a profit in what Chief Executive Lourenco Goncalves called its strongest quarterly results in three years; Goncalves separately credited domestic trade policy with helping brighten its prospects.
-nut_graf: Cleveland-Cliffs' profit outlook reflected tight steel supplies and higher prices. Higher costs for fuel and for recruiting and retaining drivers weighed on Werner Enterprises. The highest share of U.S. home builders since 2020 were cutting prices. An S&P Global report projected U.S. food inflation could exceed 3.5% next year.
+lede: On Monday, Cleveland-Cliffs said it expected its highest profit since 2021 next
+  year as constrained steel supplies pushed prices higher and imports remained well
+  below historical levels. The company swung to a profit in what Chief Executive Lourenco
+  Goncalves called its strongest quarterly results in three years; Goncalves separately
+  credited domestic trade policy with helping brighten its prospects.
+nut_graf: Cleveland-Cliffs' profit outlook reflected tight steel supplies and higher
+  prices. Higher costs for fuel and for recruiting and retaining drivers weighed on
+  Werner Enterprises. The highest share of U.S. home builders since 2020 were cutting
+  prices. An S&P Global report projected U.S. food inflation could exceed 3.5% next
+  year.
 primary_entities:
 - Cleveland-Cliffs
 - Lourenco Goncalves
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,119 +151,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-16-lutnick-stalls-u-s--mexico-tariff-talks-on-metals-autos
-  headline: Lutnick stalls U.S.-Mexico tariff talks on metals, autos
-  publish_date: '2026-10-16'
+- slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
+  headline: Record copper and elevated steel costs add pressure to GM's full-year
+    outlook
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.6293
+  strength: 0.6773
 - slug: 2026-10-09-u-s-oil-refiners-forecast-record-q3-earnings-as-wars-curb-global-supply
   headline: U.S. oil refiners forecast record Q3 earnings as wars curb global supply
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6686
-- slug: 2026-10-13-volkswagen-rises-as-analysts-praise-cost-cuts-stellantis-slips-on-2cv
-  headline: Volkswagen rises as analysts praise cost-cuts; Stellantis slips on 2CV
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6338
-- slug: 2026-10-14-major-banks-post-higher-q3-profits-but-trail-second-quarter-pace
-  headline: Major banks post higher Q3 profits but trail second-quarter pace
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6237
-- slug: 2026-10-08-climate-takes-a-back-seat-at-london-energy-forum
-  headline: Climate takes a back seat at London energy forum
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6251
-- slug: 2026-09-28-walmart-costco-stellantis-adjust-motor-oil-as-iran-war-lifts-costs
-  headline: Walmart, Costco, Stellantis adjust motor oil as Iran war lifts costs
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6391
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6231
-- slug: 2026-09-23-chevron-cfo-ties-elevated-oil-prices-to-hormuz-flows-and-refining-capacity
-  headline: Chevron CFO ties elevated oil prices to Hormuz flows and refining capacity
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6283
-- slug: 2026-09-15-american-businesses-split-on-price-hikes-as-energy-costs-climb
-  headline: American businesses split on price hikes as energy costs climb
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.648
+  strength: 0.6684
 - slug: 2026-09-08-ubs-lifts-brent-forecast-to-95-as-middle-east-supply-risk-persists
   headline: UBS lifts Brent forecast to $95 as Middle East supply risk persists
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6636
+  strength: 0.6619
 - slug: 2026-08-04-companies-report-higher-costs-and-weaker-demand-amid-iran-conflict
   headline: Companies report higher costs and weaker demand amid Iran conflict
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6552
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6361
-- slug: 2026-08-04-continental-reaffirms-tires-guidance-sees-raw-material-costs-climb
-  headline: Continental reaffirms tires guidance, sees raw-material costs climb
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6321
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6404
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6241
-- slug: 2026-07-09-seven-i-raises-guidance-after-gas-earnings-surge-at-north-america-unit
-  headline: Seven & i raises guidance after gas earnings surge at North America unit
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6249
-- slug: 2026-06-27-canada-slips-into-technical-recession-as-carney-urges-patience
-  headline: Canada slips into technical recession as Carney urges patience
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6263
-- slug: 2026-06-10-novelis-to-restart-aluminum-plant-after-fires-disrupted-auto-supply
-  headline: Novelis to restart aluminum plant after fires disrupted auto supply
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6384
-- slug: 2026-06-03-stellantis-targets-2028-profit-rebound-as-analysts-see-skepticism
-  headline: Stellantis targets 2028 profit rebound as analysts see skepticism
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.64
-- slug: 2026-06-10-america-s-four-year-trucking-slump-ends-as-rates-surge
-  headline: America's four-year trucking slump ends as rates surge
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6273
+  strength: 0.6542
 image:
   url: /articles/2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten.png
-  alt: "Illustration accompanying article: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten"
+  alt: 'Illustration accompanying article: Cleveland-Cliffs projects strongest profit
+    since 2021 as steel supplies tighten'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-20-cleveland-cliffs-links-tighter-steel-supply-to-a-conditional-profit-outlook'
+- 2026-10-20-cleveland-cliffs-links-tighter-steel-supply-to-a-conditional-profit-outlook
 ---
-
 ## Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
 
 **Subtype:** fact

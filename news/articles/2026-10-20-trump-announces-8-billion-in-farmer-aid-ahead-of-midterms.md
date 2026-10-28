@@ -2,8 +2,15 @@
 headline: Trump announces $8 billion in farmer aid ahead of midterms
 secondary_headline: Diesel above $6 a gallon as farmers work through harvest
 publish_date: '2026-10-20'
-lede: President Trump announced an $8 billion Agriculture Department program Monday at a Kansas campaign rally for Sen. Roger Marshall, a Republican locked in a competitive race with two weeks remaining before the midterm elections. The Harvest Fuel Relief program will provide direct payments to farmers to offset losses from rising fuel and other input costs.
-nut_graf: The new payments arrive as farmers absorb diesel prices above $6 a gallon, rising fertilizer costs and a recent drop in corn futures during the harvest season. Before the new program was created, the Agriculture Department estimated direct payments to farmers would reach $44 billion this year.
+lede: President Trump announced an $8 billion Agriculture Department program Monday
+  at a Kansas campaign rally for Sen. Roger Marshall, a Republican locked in a competitive
+  race with two weeks remaining before the midterm elections. The Harvest Fuel Relief
+  program will provide direct payments to farmers to offset losses from rising fuel
+  and other input costs.
+nut_graf: The new payments arrive as farmers absorb diesel prices above $6 a gallon,
+  rising fertilizer costs and a recent drop in corn futures during the harvest season.
+  Before the new program was created, the Agriculture Department estimated direct
+  payments to farmers would reach $44 billion this year.
 primary_entities:
 - Donald Trump
 - U.S. Agriculture Department
@@ -32,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -130,108 +138,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-20-u-s-department-of-agriculture-and-trump-announce-8-billion-farm-aid
+  headline: U.S. Department of Agriculture and Trump announce $8 billion farm aid
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8882
+- slug: 2026-10-21-planned-farm-aid-could-sustain-seed-fertilizer-and-equipment-purchases
+  headline: Planned farm aid could sustain seed, fertilizer and equipment purchases
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8202
+- slug: 2026-10-23-trump-directs-150-million-to-boost-u-s-gasoline-and-diesel-production
+  headline: Trump directs $150 million to boost U.S. gasoline and diesel production
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7619
+- slug: 2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal
+  headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7488
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7477
-- slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
-  headline: Trump pulls fuel-price levers as midterm elections approach
-  publish_date: '2026-10-09'
+  strength: 0.7462
+- slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
+  headline: Trump's fuel-price measures leave gasoline and diesel costs high
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.733
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
+  strength: 0.7321
+- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
+  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7005
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
+  strength: 0.7207
+- slug: 2026-10-21-trump-conditionally-offers-to-settle-veterans-legitimate-camp-lejeune-claims
+  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune
+    claims
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.7034
-- slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
-  headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6757
-- slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
-  headline: Bipartisan senators urge Trump to reverse Russian diesel deal
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6719
-- slug: 2026-10-05-trump-orders-dyed-diesel-opened-to-highway-use-defers-excise-tax
-  headline: Trump orders dyed diesel opened to highway use, defers excise tax
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6994
-- slug: 2026-10-03-trump-reiterates-5-000-voter-pledge-with-1929-depression-warning
-  headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7057
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.683
-- slug: 2026-10-03-midwest-farmers-face-record-diesel-bills-as-soybean-harvest-begins
-  headline: Midwest farmers face record diesel bills as soybean harvest begins
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6756
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7058
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6814
-- slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
-  headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.674
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.671
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6738
-- slug: 2026-09-21-grassley-urges-trump-to-embargo-diesel-exports-as-farm-costs-climb
-  headline: Grassley urges Trump to embargo diesel exports as farm costs climb
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6704
-- slug: 2026-09-17-trump-administration-weighs-diesel-export-ban-to-ease-fuel-prices
-  headline: Trump administration weighs diesel export ban to ease fuel prices
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6798
-- slug: 2026-09-15-senate-republicans-push-back-on-trump-s-5-000-election-linked-payments
-  headline: Senate Republicans push back on Trump's $5,000 election-linked payments
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.673
-- slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
-  headline: Current tariff pace would take nearly five years to cover Trump payout
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6759
-- slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
-  headline: Trump announces 90-day tariff cut on imported ground beef
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6723
+  strength: 0.7107
 ---
-
 ## Trump announces $8 billion in farmer aid ahead of midterms
 
 **Subtype:** fact

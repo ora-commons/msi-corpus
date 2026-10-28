@@ -171,109 +171,44 @@ related_stories:
   headline: Powder envelopes target over three dozen Congress offices ahead of midterms
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7674
+  strength: 0.7681
+- slug: 2026-10-21-pelosi-s-office-receives-suspicious-letter-in-ongoing-congressional-mailings
+  headline: Pelosi's office receives suspicious letter in ongoing congressional mailings
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7424
 - slug: 2026-10-18-schiff-says-suspicious-envelope-to-california-office-intercepted
   headline: Schiff says suspicious envelope to California office intercepted
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7429
+  strength: 0.7436
 - slug: 2026-10-20-more-than-a-dozen-lawmakers-report-suspicious-envelopes-sent-to-offices
   headline: More than a dozen lawmakers report suspicious envelopes sent to offices
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7189
+  strength: 0.7197
 - slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
   headline: DOJ charges 28 California green card holders over alleged illegal voting
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7161
+  strength: 0.7172
 - slug: 2026-10-15-more-than-100-powder-letters-were-sent-to-thomas-boebert-in-mid-2023
   headline: More than 100 powder letters were sent to Thomas, Boebert in mid-2023
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7387
+  strength: 0.7397
 - slug: 2026-10-15-fbi-probe-adds-new-york-wyoming-capitols-senator-murphy
   headline: FBI probe adds New York, Wyoming capitols, Senator Murphy
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7337
-- slug: 2026-10-15-fbi-probes-suspicious-letters-mailed-to-us-election-offices-before-midterms
-  headline: FBI probes suspicious letters mailed to US election offices before midterms
-  publish_date: '2026-10-15'
+  strength: 0.734
+- slug: 2026-10-22-pelosi-office-receives-suspicious-letter-three-illinois-democrats-report-repeat-
+  headline: Pelosi office receives suspicious letter; three Illinois Democrats report
+    repeat mailings
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.7234
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6949
-- slug: 2026-10-14-fbi-investigates-suspicious-powder-mailed-to-election-officials-in-three-states
-  headline: FBI investigates suspicious powder mailed to election officials in three
-    states
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7248
-- slug: 2026-10-19-subramanyam-s-leesburg-office-receives-suspicious-white-powder-in-mail
-  headline: Subramanyam's Leesburg office receives suspicious white powder in mail
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6898
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6863
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6703
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6645
-- slug: 2026-10-15-senate-sergeant-at-arms-image-shows-dsa-return-address-on-election-mailings
-  headline: Senate Sergeant at Arms image shows 'DSA' return address on election mailings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6468
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against
-    states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6401
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution
-    checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6898
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6462
-- slug: 2026-09-18-civil-rights-groups-and-unions-sue-to-block-federal-agents-from-polling-places
-  headline: Civil rights groups and unions sue to block federal agents from polling
-    places
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6506
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6591
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter
-    outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6453
+  strength: 0.6987
 ---
-
 ## Federal agents probe white-powder envelopes sent to congressional offices
 
 **Subtype:** fact

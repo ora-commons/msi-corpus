@@ -2,8 +2,17 @@
 headline: Albertans reject path to independence referendum, projections show
 secondary_headline: Carney calls projected Alberta result 'a clear choice'
 publish_date: '2026-10-20'
-lede: Voters in Alberta chose overwhelmingly to remain part of Canada in a Monday ballot that asked whether the province should pursue a binding referendum on independence, according to Elections Alberta projections. With most votes counted, more than two-thirds of ballots selected the option to stay in Canada, the election authority reported. Prime Minister Mark Carney called the projected result "a clear choice" on the part of Albertans.
-nut_graf: The ballot was a non-binding advisory question asking whether Alberta should commence the constitutional process required to hold a binding referendum on separation, rather than a direct vote on independence itself. It was seen as a major test of national unity at a time when Canada faces an ongoing trade war with the United States.
+lede: Voters in Alberta chose overwhelmingly to remain part of Canada in a Monday
+  ballot that asked whether the province should pursue a binding referendum on independence,
+  according to Elections Alberta projections. With most votes counted, more than two-thirds
+  of ballots selected the option to stay in Canada, the election authority reported.
+  Prime Minister Mark Carney called the projected result "a clear choice" on the part
+  of Albertans.
+nut_graf: The ballot was a non-binding advisory question asking whether Alberta should
+  commence the constitutional process required to hold a binding referendum on separation,
+  rather than a direct vote on independence itself. It was seen as a major test of
+  national unity at a time when Canada faces an ongoing trade war with the United
+  States.
 primary_entities:
 - Alberta
 - Canada
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,115 +154,60 @@ related_stories:
   headline: Alberta to vote Monday on path to binding separation referendum
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8845
+  strength: 0.8842
+- slug: 2026-10-20-smith-made-alberta-s-vote-nonbinding-after-a-failure-to-consult-first-nations
+  headline: Smith made Alberta's vote nonbinding after a failure to consult First
+    Nations
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.8414
 - slug: 2026-10-16-carney-urges-albertans-to-vote-against-separation-at-calgary-rally
   headline: Carney urges Albertans to vote against separation at Calgary rally
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8314
+  strength: 0.8318
+- slug: 2026-10-20-carney-backs-pipeline-and-environmental-rule-changes-in-alberta
+  headline: Carney backs pipeline and environmental-rule changes in Alberta
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.7453
 - slug: 2026-10-07-alberta-to-vote-october-19-on-whether-to-pursue-independence-referendum
   headline: Alberta to vote October 19 on whether to pursue independence referendum
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7594
+  strength: 0.7588
 - slug: 2026-10-16-carney-pushes-nation-building-projects-as-alberta-prepares-independence-vote
-  headline: Carney pushes nation-building projects as Alberta prepares independence vote
+  headline: Carney pushes nation-building projects as Alberta prepares independence
+    vote
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6763
+  strength: 0.6759
 - slug: 2026-10-07-parti-qu-b-cois-wins-quebec-election-but-falls-short-of-majority
   headline: Parti Québécois wins Quebec election but falls short of majority
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6568
-- slug: 2026-10-06-parti-qu-b-cois-projected-to-win-quebec-election
-  headline: Parti Québécois projected to win Quebec election
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6447
-- slug: 2026-09-30-carney-rides-trump-confrontation-into-sweeping-canadian-policy-overhaul
-  headline: Carney rides Trump confrontation into sweeping Canadian policy overhaul
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6108
-- slug: 2026-10-01-carney-fast-tracks-1-250km-pacific-oil-pipeline-to-cut-us-dependency
-  headline: Carney fast-tracks 1,250km Pacific oil pipeline to cut US dependency
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5852
-- slug: 2026-09-23-carney-says-canada-open-to-us-trade-deal-but-won-t-compromise-sovereignty
-  headline: Carney says Canada open to US trade deal but won't compromise sovereignty
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6177
-- slug: 2026-09-17-canadians-voice-support-for-carney-s-eu-associate-member-welcome
-  headline: Canadians voice support for Carney's EU 'associate member' welcome
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6352
+  strength: 0.6567
 - slug: 2026-07-11-alberta-independence-referendum-battle-takes-shape-at-calgary-stampede
   headline: Alberta independence referendum battle takes shape at Calgary Stampede
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.7916
-- slug: 2026-09-17-carney-cites-polling-showing-canadians-back-closer-eu-ties
-  headline: Carney cites polling showing Canadians back closer EU ties
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.599
-- slug: 2026-09-17-carney-tells-eu-parliament-canada-wants-first-ever-associate-membership
-  headline: Carney tells EU Parliament Canada wants first-ever associate membership
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.594
-- slug: 2026-09-16-canada-pursues-visa-free-eu-access-under-broader-strategic-partnership
-  headline: Canada pursues visa-free EU access under broader strategic partnership
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5881
-- slug: 2026-09-17-carney-outlines-canada-eu-cooperation-areas-rules-out-full-membership
-  headline: Carney outlines Canada-EU cooperation areas, rules out full membership
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5797
-- slug: 2026-09-14-carney-rejects-eu-membership-seeks-unique-alliance-instead
-  headline: Carney rejects EU membership, seeks 'unique alliance' instead
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.588
-- slug: 2026-09-14-carney-seeks-unique-alliance-with-eu-rules-out-full-membership
-  headline: Carney seeks 'unique alliance' with EU, rules out full membership
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5837
-- slug: 2026-09-03-canada-breaks-off-us-trade-talks-citing-venezuela-sovereignty-fears
-  headline: Canada breaks off US trade talks, citing Venezuela sovereignty fears
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5794
-- slug: 2026-09-01-carney-liberals-sweep-three-by-elections-after-us-trade-rupture
-  headline: Carney Liberals sweep three by-elections after US trade rupture
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5717
-- slug: 2026-08-28-icelanders-vote-saturday-on-whether-to-restart-eu-membership-talks
-  headline: Icelanders vote Saturday on whether to restart EU membership talks
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5737
+  strength: 0.7913
 image:
   url: /articles/2026-10-20-albertans-reject-path-to-independence-referendum-projections-show.png
-  alt: "Illustration accompanying article: Albertans reject path to independence referendum, projections show"
+  alt: 'Illustration accompanying article: Albertans reject path to independence referendum,
+    projections show'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-10-20-alberta-voters-projected-to-reject-process-step-toward-independence'
+- 2026-10-20-alberta-voters-projected-to-reject-process-step-toward-independence
 ---
-
 ## Albertans reject path to independence referendum, projections show
 
 **Subtype:** fact

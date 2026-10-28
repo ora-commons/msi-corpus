@@ -1,9 +1,24 @@
 ---
 headline: Former Trump, Biden and Obama officials push permitting reform
-secondary_headline: Community, labor, climate and environmental-justice groups oppose bill
+secondary_headline: Community, labor, climate and environmental-justice groups oppose
+  bill
 publish_date: '2026-10-20'
-lede: Former officials from the Trump, Biden and Obama administrations warned in a letter scheduled to be sent Tuesday that the U.S. risks losing a technological and industrial race with China without passage of a sweeping energy-permitting bill. The letter, organized by Arnab Datta, director of policy implementation at the Institute for Progress, a Washington, D.C. think tank, was addressed to Senate Majority Leader John Thune (R., S.D.), House Speaker Mike Johnson (R., La.), Senate Minority Leader Chuck Schumer (D., N.Y.) and House Minority Leader Hakeem Jeffries (D., N.Y.). Among the signatories are former Secretary of State Mike Pompeo of the first Trump administration, former Biden-era Treasury Secretary Janet Yellen, former Federal Reserve governor Stephen Miran appointed by President Trump, former Biden national security adviser Jake Sullivan and former Obama chief economist Jason Furman.
-nut_graf: The Senate measure would accelerate federal permitting, change environmental rules, include grid-strengthening measures and require data centers to pay all associated transmission costs. A coalition of 185 community, labor, climate and environmental-justice organizations opposed the bill last week, sharpening the debate before the November midterms.
+lede: Former officials from the Trump, Biden and Obama administrations warned in a
+  letter scheduled to be sent Tuesday that the U.S. risks losing a technological and
+  industrial race with China without passage of a sweeping energy-permitting bill.
+  The letter, organized by Arnab Datta, director of policy implementation at the Institute
+  for Progress, a Washington, D.C. think tank, was addressed to Senate Majority Leader
+  John Thune (R., S.D.), House Speaker Mike Johnson (R., La.), Senate Minority Leader
+  Chuck Schumer (D., N.Y.) and House Minority Leader Hakeem Jeffries (D., N.Y.). Among
+  the signatories are former Secretary of State Mike Pompeo of the first Trump administration,
+  former Biden-era Treasury Secretary Janet Yellen, former Federal Reserve governor
+  Stephen Miran appointed by President Trump, former Biden national security adviser
+  Jake Sullivan and former Obama chief economist Jason Furman.
+nut_graf: The Senate measure would accelerate federal permitting, change environmental
+  rules, include grid-strengthening measures and require data centers to pay all associated
+  transmission costs. A coalition of 185 community, labor, climate and environmental-justice
+  organizations opposed the bill last week, sharpening the debate before the November
+  midterms.
 primary_entities:
 - John Thune
 - Mike Johnson
@@ -53,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +167,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
+  headline: Candidates in four states seek tighter data-center approval rules
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6613
 - slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
   headline: Bipartisan senators introduce bill to speed federal energy permitting
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7279
+  strength: 0.727
 - slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
   headline: Advocates allege datacenter developers split emissions to avoid EPA review
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6632
-- slug: 2026-10-01-new-york-led-coalition-of-21-states-sues-epa-over-power-plant-rule-repeal
-  headline: New York-led coalition of 21 states sues EPA over power plant rule repeal
-  publish_date: '2026-10-01'
+  strength: 0.6621
+- slug: 2026-09-14-zeldin-calls-climate-rules-war-on-coal-at-g20-as-epa-ends-power-plant-limits
+  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant
+    limits
+  publish_date: '2026-09-14'
   relation: related
-  strength: 0.6387
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6415
-- slug: 2026-09-24-u-s-presses-china-on-suspected-low-yield-nuclear-tests-in-confidential-talks
-  headline: U.S. presses China on suspected low-yield nuclear tests in confidential talks
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6401
-- slug: 2026-09-18-auto-coalition-urges-trump-to-block-chinese-carmakers-ahead-of-xi-summit
-  headline: Auto coalition urges Trump to block Chinese carmakers ahead of Xi summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6462
+  strength: 0.6602
 - slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
   headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6595
-- slug: 2026-09-14-zeldin-calls-climate-rules-war-on-coal-at-g20-as-epa-ends-power-plant-limits
-  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant limits
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6593
+  strength: 0.6591
 - slug: 2026-09-14-epa-scraps-biden-era-greenhouse-gas-rules-for-power-plants
   headline: EPA scraps Biden-era greenhouse gas rules for power plants
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.656
-- slug: 2026-09-15-sanders-bannon-share-stage-urging-congress-to-act-on-ai-curbs
-  headline: Sanders, Bannon share stage urging Congress to act on AI curbs
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6387
-- slug: 2026-09-14-epa-moves-to-repeal-all-greenhouse-gas-standards-for-power-plants
-  headline: EPA moves to repeal all greenhouse gas standards for power plants
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6416
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6467
+  strength: 0.6562
 - slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
   headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6577
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6445
-- slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.646
-- slug: 2026-08-01-activists-urge-democrats-to-embrace-climate-messaging-during-recess
-  headline: Activists urge Democrats to embrace climate messaging during recess
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6372
-- slug: 2026-07-25-apple-pushes-trump-to-allow-chinese-memory-chips-micron-opposes
-  headline: Apple pushes Trump to allow Chinese memory chips; Micron opposes
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6411
-- slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
-  headline: Trump accuses China of voter file hack as both sides keep summit plans
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6384
+  strength: 0.6569
 - slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
   headline: Blue states weaken climate rules as red states lead renewable energy growth
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6631
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6508
+  strength: 0.6633
 ---
-
 ## Former Trump, Biden and Obama officials push permitting reform
 
 **Subtype:** fact

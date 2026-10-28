@@ -1,9 +1,18 @@
 ---
 headline: Democratic governors divided over Federal Scholarship Tax Credit
-secondary_headline: Public school groups launch SGOs to channel donations to public school students
+secondary_headline: Public school groups launch SGOs to channel donations to public
+  school students
 publish_date: '2026-10-20'
-lede: The Federal Scholarship Tax Credit, a program the Trump administration has called 'America's first nationwide school choice program,' is set to begin in January 2027, with a Jan. 1 deadline to opt in for 2027 participation. Colorado Gov. Jared Polis and New York Gov. Kathy Hochul are the only two Democratic governors who have embraced it. Minnesota Gov. Tim Walz has rejected the program. Fifteen other Democratic governors and the mayor of Washington, D.C., have yet to announce a position.
-nut_graf: The decision turns on whether the program, which offers a dollar-for-dollar federal tax credit of up to $1,700 per donor, can be steered to benefit public schools or will primarily subsidize private school tuition. Brookings Institution researchers project the funding flow could favor wealthy communities over poor ones.
+lede: The Federal Scholarship Tax Credit, a program the Trump administration has called
+  'America's first nationwide school choice program,' is set to begin in January 2027,
+  with a Jan. 1 deadline to opt in for 2027 participation. Colorado Gov. Jared Polis
+  and New York Gov. Kathy Hochul are the only two Democratic governors who have embraced
+  it. Minnesota Gov. Tim Walz has rejected the program. Fifteen other Democratic governors
+  and the mayor of Washington, D.C., have yet to announce a position.
+nut_graf: The decision turns on whether the program, which offers a dollar-for-dollar
+  federal tax credit of up to $1,700 per donor, can be steered to benefit public schools
+  or will primarily subsidize private school tuition. Brookings Institution researchers
+  project the funding flow could favor wealthy communities over poor ones.
 primary_entities:
 - Jared Polis
 - Kathy Hochul
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,110 +154,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-19-billionaire-backed-pacs-help-oust-west-virginia-lawmaker-over-voucher-cap
-  headline: Billionaire-backed PACs help oust West Virginia lawmaker over voucher cap
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6338
-- slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
-  headline: SNAP enrollment falls almost 13% as new federal requirements take hold
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6418
-- slug: 2026-09-15-senate-republicans-push-back-on-trump-s-5-000-election-linked-payments
-  headline: Senate Republicans push back on Trump's $5,000 election-linked payments
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6438
 - slug: 2026-09-03-treasury-proposes-ending-tax-exemption-for-schools-with-race-based-benefits
   headline: Treasury proposes ending tax exemption for schools with race-based benefits
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6516
+  strength: 0.651
 - slug: 2026-01-21-mississippi-participates-in-federal-school-choice-tax-credit-program
   headline: Mississippi participates in federal school-choice tax-credit program
   publish_date: '2026-01-21'
   relation: related
-  strength: 0.7338
-- slug: 2026-06-28-new-graduate-loan-limits-take-effect-july-1-as-economists-debate-tuition-impact
-  headline: New graduate loan limits take effect July 1 as economists debate tuition impact
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6484
+  strength: 0.7332
 - slug: 2026-05-20-democratic-led-states-sue-trump-over-federal-student-loan-caps
   headline: Democratic-led states sue Trump over federal student loan caps
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.6785
+  strength: 0.6781
 - slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
-  headline: Democratic-led states sue to block student loan caps for nursing, health degrees
+  headline: Democratic-led states sue to block student loan caps for nursing, health
+    degrees
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6637
+  strength: 0.6633
 - slug: 2026-05-19-democratic-led-states-sue-over-trump-caps-on-federal-student-loans
   headline: Democratic-led states sue over Trump caps on federal student loans
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.671
-- slug: 2026-06-30-eleven-states-approve-workforce-pell-frameworks-as-july-1-launch-begins
-  headline: Eleven states approve Workforce Pell frameworks as July 1 launch begins
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6371
-- slug: 2026-06-25-new-federal-loan-caps-deter-would-be-physician-assistants-groups-say
-  headline: New federal loan caps deter would-be physician assistants, groups say
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.64
+  strength: 0.6704
 - slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
   headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6731
+  strength: 0.6726
 - slug: 2026-04-14-democrats-seek-to-overturn-trump-rule-changing-public-service-loan-forgiveness
   headline: Democrats seek to overturn Trump rule changing Public Service Loan Forgiveness
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.6531
+  strength: 0.6526
 - slug: 2026-02-11-trump-administration-plans-to-hold-back-1-5b-grants-from-4-democratic-states
-  headline: Trump administration plans to hold back $1.5B+ grants from 4 Democratic states
+  headline: Trump administration plans to hold back $1.5B+ grants from 4 Democratic
+    states
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.6613
-- slug: 2026-04-13-few-states-have-copied-trump-s-tax-breaks-for-tips-and-overtime
-  headline: Few states have copied Trump’s tax breaks for tips and overtime
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6464
-- slug: 2026-01-06-trump-administration-withholds-safety-net-funds-from-five-states-over-fraud-clai
-  headline: Trump administration withholds safety net funds from five states over fraud claims
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6528
-- slug: 2026-02-13-democratic-led-states-sue-trump-over-600m-health-grant-cut-plans
-  headline: Democratic-led states sue Trump over $600M health grant cut plans
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6448
-- slug: 2026-02-13-trump-bill-save-pause-leave-borrowers-weighing-repayment-options
-  headline: Trump bill, SAVE pause leave borrowers weighing repayment options
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6444
-- slug: 2026-01-13-trump-threatens-to-halt-federal-payments-to-sanctuary-cities-and-their-states
-  headline: Trump threatens to halt federal payments to sanctuary cities and their states
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6466
-- slug: 2026-01-09-judge-blocks-trump-freeze-of-child-care-and-social-service-funds
-  headline: Judge blocks Trump freeze of child care and social service funds
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6455
+  strength: 0.6607
 analyses:
-- '2026-10-20-governors-divide-over-a-scholarship-credit-shaped-by-organizational-capacity-and'
+- 2026-10-20-governors-divide-over-a-scholarship-credit-shaped-by-organizational-capacity-and
 ---
-
 ## Democratic governors divided over Federal Scholarship Tax Credit
 
 **Subtype:** fact

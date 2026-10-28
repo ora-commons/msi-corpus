@@ -2,8 +2,18 @@
 headline: Populist Democrats make the affordability pitch in red-state races
 secondary_headline: Ex-smokejumper Forstag challenges Flint in Montana toss-up
 publish_date: '2026-10-19'
-lede: Democratic candidates across the Great Plains, Upper Midwest and Deep South are running on economic populism this midterm season, betting that anger at corporate power and both parties can help the party reclaim ground in Republican-leaning states. In Montana, former U.S. Forest Service smokejumper Sam Forstag is seeking to flip a House seat that President Trump carried by double digits in 2024, a race NPR reports is now considered a toss-up.
-nut_graf: The broader approach draws on economic populism that once flourished away from the coasts; in Iowa, Arkansas and Wisconsin, candidates are using the more specific label of prairie populism. Democrats are testing whether economic grievance can strengthen their party in places many national Democrats have written off, while NPR cautioned that gains may reflect a deteriorating national environment for Republicans, who also face pressure to campaign on affordability.
+lede: Democratic candidates across the Great Plains, Upper Midwest and Deep South
+  are running on economic populism this midterm season, betting that anger at corporate
+  power and both parties can help the party reclaim ground in Republican-leaning states.
+  In Montana, former U.S. Forest Service smokejumper Sam Forstag is seeking to flip
+  a House seat that President Trump carried by double digits in 2024, a race NPR reports
+  is now considered a toss-up.
+nut_graf: The broader approach draws on economic populism that once flourished away
+  from the coasts; in Iowa, Arkansas and Wisconsin, candidates are using the more
+  specific label of prairie populism. Democrats are testing whether economic grievance
+  can strengthen their party in places many national Democrats have written off, while
+  NPR cautioned that gains may reflect a deteriorating national environment for Republicans,
+  who also face pressure to campaign on affordability.
 primary_entities:
 - Sam Forstag
 - Aaron Flint
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +158,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
+  headline: Economic populism gains ground as both parties court midterm voters
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7171
+- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
+  headline: Candidates campaign directly with rural voters in the midterms
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.699
+- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
+  headline: Arkansas Democrats push affordability message in final midterm stretch
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.679
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6782
+  strength: 0.6788
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6714
+  strength: 0.6727
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6831
+  strength: 0.6855
 - slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
   headline: Republican candidates recalibrate on affordability ahead of November midterms
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6861
+  strength: 0.6873
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6789
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.676
-- slug: 2026-09-06-former-smokejumper-forstag-faces-trump-backed-flint-in-montana-house-race
-  headline: Former smokejumper Forstag faces Trump-backed Flint in Montana House race
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7894
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6705
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6667
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6743
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6665
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6714
-- slug: 2026-09-14-three-midterm-candidates-build-campaigns-on-climate-linked-issues
-  headline: Three midterm candidates build campaigns on climate-linked issues
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6633
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6932
-- slug: 2026-09-03-democrats-expand-midterm-map-into-reliably-republican-territory
-  headline: Democrats expand midterm map into reliably Republican territory
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6796
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6719
-- slug: 2026-08-28-democrats-push-affordability-republicans-spotlight-dsa-in-fall-sprint
-  headline: Democrats push affordability, Republicans spotlight DSA in fall sprint
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6839
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6666
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6728
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6768
+  strength: 0.6798
 ---
-
 ## Populist Democrats make the affordability pitch in red-state races
 
 **Subtype:** fact

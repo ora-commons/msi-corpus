@@ -2,8 +2,16 @@
 headline: Two Sigma co-founder's divorce trial centers on Laura's $6.2 billion valuation
 secondary_headline: Without a prenup, Two Sigma growth can face equitable distribution
 publish_date: '2026-10-20'
-lede: John Overdeck is offering Laura Overdeck $723 million in a divorce trial that has unfolded for months in a Newark, N.J., courtroom and centers on his Two Sigma stake. Laura Overdeck wants about $2.2 billion, which she says represents 35% of her valuation of John Overdeck's Two Sigma stake. John Overdeck has argued the stake is worth $4.5 billion, while a valuation expert hired by John testified that it was worth $50 million at the time of their marriage. The couple did not sign a prenuptial agreement.
-nut_graf: The proceeding is offering a public read into how founders who skip prenuptial agreements can become mired in months-long disputes over business growth, with consequences that extend beyond the marriage to the firm itself.
+lede: John Overdeck is offering Laura Overdeck $723 million in a divorce trial that
+  has unfolded for months in a Newark, N.J., courtroom and centers on his Two Sigma
+  stake. Laura Overdeck wants about $2.2 billion, which she says represents 35% of
+  her valuation of John Overdeck's Two Sigma stake. John Overdeck has argued the stake
+  is worth $4.5 billion, while a valuation expert hired by John testified that it
+  was worth $50 million at the time of their marriage. The couple did not sign a prenuptial
+  agreement.
+nut_graf: The proceeding is offering a public read into how founders who skip prenuptial
+  agreements can become mired in months-long disputes over business growth, with consequences
+  that extend beyond the marriage to the firm itself.
 primary_entities:
 - Two Sigma
 - John Overdeck
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +147,8 @@ related_stories:
   headline: Two Sigma loses state pension money as co-founder rift goes public
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8153
-- slug: 2026-10-02-sittenfeld-describes-unanimous-ruling-vacating-his-2022-conviction
-  headline: Sittenfeld describes unanimous ruling vacating his 2022 conviction
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5654
-- slug: 2026-10-02-oregon-housing-chief-amended-ethics-filings-after-husband-s-employer-surfaced
-  headline: Oregon housing chief amended ethics filings after husband's employer surfaced
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5604
-- slug: 2026-09-29-piper-sandler-in-talks-to-acquire-perella-weinberg-partners
-  headline: Piper Sandler in talks to acquire Perella Weinberg Partners
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5644
-- slug: 2026-09-19-us-law-firms-deploy-creative-incentives-to-push-senior-partners-into-retirement
-  headline: US law firms deploy creative incentives to push senior partners into retirement
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5965
-- slug: 2026-09-15-fedex-ceo-calls-ai-defining-technology-that-ceos-must-drive
-  headline: FedEx CEO calls AI 'defining technology' that CEOs must drive
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5672
-- slug: 2026-09-05-jane-goldman-steps-down-from-family-empire-as-nephew-s-lawsuit-continues
-  headline: Jane Goldman steps down from family empire as nephew's lawsuit continues
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5842
-- slug: 2026-08-30-four-of-ford-s-children-sue-for-control-of-his-600-million-hilltop-stake
-  headline: Four of Ford's children sue for control of his $600 million Hilltop stake
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6007
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5753
-- slug: 2026-08-21-nyc-council-hearing-reveals-split-over-mamdani-second-home-tax-rollout
-  headline: NYC council hearing reveals split over Mamdani second-home tax rollout
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5632
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5629
-- slug: 2026-07-31-savitt-and-five-wachtell-partners-leave-for-gibson-dunn
-  headline: Savitt and five Wachtell partners leave for Gibson Dunn
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5803
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5753
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5667
-- slug: 2026-05-23-musk-altman-trial-exposes-ai-s-deep-funding-needs-raising-profit-vs-purpose-ques
-  headline: Musk-Altman trial exposes AI's deep funding needs, raising profit vs. purpose question
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5979
-- slug: 2026-06-22-ai-super-pacs-spending-43-3-million-on-midterms-as-proxy-war-over-regulation-int
-  headline: AI super PACs spending $43.3 million on midterms as proxy war over regulation intensifies
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5647
-- slug: 2026-06-01-wealthy-heirs-gather-at-exclusive-retreats-as-families-navigate-record-wealth-tr
-  headline: Wealthy heirs gather at exclusive retreats as families navigate record wealth transfers
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5794
-- slug: 2026-06-02-california-governor-primary-exposes-deep-democratic-divide
-  headline: California governor primary exposes deep Democratic divide
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5662
-- slug: 2026-05-23-proposed-roundup-settlement-faces-delays-as-parties-fight-over-court-venue
-  headline: Proposed Roundup settlement faces delays as parties fight over court venue
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5606
-- slug: 2026-05-14-altman-defends-honesty-as-musk-seeks-his-ouster-in-openai-trial
-  headline: Altman defends honesty as Musk seeks his ouster in OpenAI trial
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5619
+  strength: 0.8161
 ---
-
 ## Two Sigma co-founder's divorce trial centers on Laura's $6.2 billion valuation
 
 **Subtype:** fact

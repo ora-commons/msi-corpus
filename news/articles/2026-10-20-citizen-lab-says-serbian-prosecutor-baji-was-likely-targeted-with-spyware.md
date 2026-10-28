@@ -163,111 +163,13 @@ related_stories:
   headline: Vučić personally pushed Belgrade site clearance for Trump tower
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7507
-- slug: 2026-10-07-trump-distances-himself-from-advisers-after-reported-balkans-consulting
-  headline: Trump distances himself from advisers after reported Balkans consulting
-  publish_date: '2026-10-07'
+  strength: 0.7494
+- slug: 2026-10-21-audio-feature-examines-unbuilt-trump-tower-proposal-in-belgrade
+  headline: Audio feature examines unbuilt Trump tower proposal in Belgrade
+  publish_date: '2026-10-21'
   relation: related
-  strength: 0.5855
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to
-    China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5809
-- slug: 2026-09-15-trump-jr-confirms-russian-oligarch-paid-for-wedding-after-propublica-report
-  headline: Trump Jr confirms Russian oligarch paid for wedding after ProPublica report
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5784
-- slug: 2026-09-11-us-lawmakers-press-british-tribunal-to-open-apple-encryption-case
-  headline: US lawmakers press British tribunal to open Apple encryption case
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5821
-- slug: 2026-09-10-huawei-racketeering-trial-opens-in-brooklyn-with-criminal-enterprise-claim
-  headline: Huawei racketeering trial opens in Brooklyn with 'criminal enterprise'
-    claim
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5718
-- slug: 2026-09-08-documents-reveal-us-law-enforcement-concerns-over-meta-smart-glasses
-  headline: Documents reveal US law enforcement concerns over Meta smart glasses
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5764
-- slug: 2026-08-19-secret-cia-purchase-of-next-computers-gave-jobs-the-runway-to-return-to-apple
-  headline: Secret CIA purchase of NeXT computers gave Jobs the runway to return to
-    Apple
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.577
-- slug: 2026-07-23-prosecution-of-cop-city-protester-tests-federal-anti-destruction-statute
-  headline: Prosecution of Cop City protester tests federal anti-destruction statute
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6317
-- slug: 2026-08-04-ice-s-social-media-surveillance-spurs-hundreds-of-subpoenas-to-unmask-critics
-  headline: ICE's social media surveillance spurs hundreds of subpoenas to unmask
-    critics
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5848
-- slug: 2026-07-23-trump-leak-probe-subpoenas-seek-records-of-reporters-relatives
-  headline: Trump leak probe subpoenas seek records of reporters' relatives
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.577
-- slug: 2026-07-24-ex-icc-prosecutor-says-trump-fears-prosecution-after-leaving-office
-  headline: Ex-ICC prosecutor says Trump fears prosecution after leaving office
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5725
-- slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
-  headline: White House probe finds it can't track staff bets on prediction markets
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5761
-- slug: 2026-06-24-ice-surveillance-tech-spending-hits-record-513m-report-finds
-  headline: ICE surveillance tech spending hits record $513M, report finds
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5764
-- slug: 2026-05-16-iraqi-man-charged-with-nyc-synagogue-plot-europe-attacks-tied-to-iran-war
-  headline: Iraqi man charged with NYC synagogue plot, Europe attacks tied to Iran
-    war
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6003
-- slug: 2026-06-16-cia-official-allegedly-created-fake-spy-program-to-steal-40-million-in-gold
-  headline: CIA official allegedly created fake spy program to steal $40 million in
-    gold
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5749
-- slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
-  headline: MPs press UK regulator to prove Palantir deal won't expose data to US
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5796
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP
-    finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5904
-- slug: 2026-05-16-iraqi-man-charged-with-supporting-iran-backed-terror-groups-in-plot
-  headline: Iraqi man charged with supporting Iran-backed terror groups in plot
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5803
-- slug: 2026-01-21-snapchats-central-to-trial-in-border-patrol-murder-for-hire-case
-  headline: Snapchats central to trial in Border Patrol murder-for-hire case
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5964
+  strength: 0.6832
 ---
-
 ## Citizen Lab says Serbian prosecutor Bajić was likely targeted with spyware
 
 **Subtype:** fact
