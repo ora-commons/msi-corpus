@@ -165,6 +165,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8507
+analyses:
+- '2026-10-27-video-evidence-places-morley-beyond-tennessee-prison-fence-while-cause-remains-u'
 ---
 ## Hornbeak video shows Jacob Morley about 15 miles from Tennessee prison
 
@@ -207,3 +209,8 @@ The Associated Press contributed reporting.
 **Publication date:** 2026-10-27
 **Title:** Man serving life sentence for murder escapes Tennessee prison, slipping through fence, officials say
 **URL:** https://www.theguardian.com/us-news/2026/oct/27/prison-escape-tennessee-fence
+
+---
+
+<!-- analysis-link:2026-10-27-video-evidence-places-morley-beyond-tennessee-prison-fence-while-cause-remains-u -->
+**Going deeper:** [Read MSI's analysis of Morley’s prison escape and unresolved cause →](/analyses/2026-10-27-video-evidence-places-morley-beyond-tennessee-prison-fence-while-cause-remains-u)

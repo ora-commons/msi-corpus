@@ -1,9 +1,18 @@
 ---
 headline: Polymarket builds detections around election-market manipulation tactics
-secondary_headline: In April, Kalshi banned and fined three political candidates; lawmakers sought prediction-market laws
+secondary_headline: In April, Kalshi banned and fined three political candidates;
+  lawmakers sought prediction-market laws
 publish_date: '2026-10-27'
-lede: In an Oct. 27 statement, Shana Bautista said Polymarket builds detections around how someone would try to manipulate an election market and what the activity would leave behind. Bautista, head of Global Intelligence & Investigations at the company, said its team traces funds, investigates sophisticated networks and feeds case findings into future detections. She also said a new election surveillance system is policing election bets ahead of the Nov. 3 midterms.
-nut_graf: The disclosures came as prediction markets became increasingly popular and regulators and lawmakers were scrambling to enact laws to control them. In April, Kalshi had banned and fined three political candidates for betting on themselves. Bautista said she would not disclose specific detection criteria or methods.
+lede: In an Oct. 27 statement, Shana Bautista said Polymarket builds detections around
+  how someone would try to manipulate an election market and what the activity would
+  leave behind. Bautista, head of Global Intelligence & Investigations at the company,
+  said its team traces funds, investigates sophisticated networks and feeds case findings
+  into future detections. She also said a new election surveillance system is policing
+  election bets ahead of the Nov. 3 midterms.
+nut_graf: The disclosures came as prediction markets became increasingly popular and
+  regulators and lawmakers were scrambling to enact laws to control them. In April,
+  Kalshi had banned and fined three political candidates for betting on themselves.
+  Bautista said she would not disclose specific detection criteria or methods.
 primary_entities:
 - Polymarket
 - Shana Bautista
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,7 +148,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-27-polymarket-election-betting-probes-reportedly-yield-at-least-two-cftc-referrals
-  headline: Polymarket election-betting probes reportedly yield at least two CFTC referrals
+  headline: Polymarket election-betting probes reportedly yield at least two CFTC
+    referrals
   publish_date: '2026-10-27'
   relation: related
   strength: 0.899
@@ -146,99 +157,40 @@ related_stories:
   headline: Pentagon bars betting on military operations with nonpublic information
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7018
+  strength: 0.7019
 - slug: 2026-10-22-hegseth-bars-department-personnel-from-bets-informed-by-nonpublic-information
   headline: Hegseth bars Department personnel from bets informed by nonpublic information
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7067
+  strength: 0.707
 - slug: 2026-10-03-fca-engages-peers-over-polymarket-bank-failure-bets
   headline: FCA engages peers over Polymarket bank-failure bets
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6961
+  strength: 0.6968
 - slug: 2026-09-24-new-york-ag-james-sues-polymarket-u-s-alleging-illegal-gambling
   headline: New York AG James sues Polymarket U.S., alleging illegal gambling
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7069
+  strength: 0.7076
 - slug: 2026-09-08-states-push-to-ban-prediction-markets-as-election-betting-expands
   headline: States push to ban prediction markets as election betting expands
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.736
+  strength: 0.7369
 - slug: 2026-09-11-bubblemaps-finds-19-polymarket-accounts-won-98-of-bets-on-kpmg-audited-firms
-  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited firms
+  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited
+    firms
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7079
+  strength: 0.7078
 - slug: 2026-08-28-prakash-denies-betting-on-races-covered-by-his-fake-median-strategies-polls
-  headline: Prakash denies betting on races covered by his fake Median Strategies polls
+  headline: Prakash denies betting on races covered by his fake Median Strategies
+    polls
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7184
-- slug: 2026-08-13-cftc-probes-kalshi-mention-markets-after-white-house-teleprompter-bets
-  headline: CFTC probes Kalshi 'mention markets' after White House teleprompter bets
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7026
-- slug: 2026-07-26-wisconsin-warns-election-bets-could-cost-voters-their-ballot
-  headline: Wisconsin warns election bets could cost voters their ballot
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7324
-- slug: 2026-08-12-nyc-council-investigates-polymarket-kalshi-coinbase-gemini-titan
-  headline: NYC Council investigates Polymarket, Kalshi, Coinbase, Gemini Titan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6989
-- slug: 2026-07-18-white-house-probe-finds-it-can-t-track-staff-bets-on-prediction-markets
-  headline: White House probe finds it can't track staff bets on prediction markets
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7315
-- slug: 2026-04-27-prediction-markets-face-tighter-scrutiny-as-officials-target-insider-trading
-  headline: Prediction markets face tighter scrutiny as officials target insider trading
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7667
-- slug: 2026-04-11-polymarket-flagged-a-classified-info-trade-as-the-maduro-raid-bet-led-to-a-400-0
-  headline: Polymarket flagged a classified-info trade as the Maduro raid bet led to a $400,000 win
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7685
-- slug: 2026-06-26-lawmakers-call-for-federal-probe-of-polymarket-over-deceptive-advertising
-  headline: Lawmakers call for federal probe of Polymarket over deceptive advertising
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7267
-- slug: 2026-06-08-kalshi-and-polymarket-bar-affiliates-from-spreading-election-misinformation
-  headline: Kalshi and Polymarket bar affiliates from spreading election misinformation
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7366
-- slug: 2026-03-24-kalshi-and-polymarket-ban-insider-trading-by-politicians-and-athletes
-  headline: Kalshi and Polymarket ban insider trading by politicians and athletes
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.763
-- slug: 2026-04-11-lawmakers-seek-investigations-into-well-timed-polymarket-bets-on-iran-ceasefire
-  headline: Lawmakers seek investigations into well-timed Polymarket bets on Iran ceasefire
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7478
-- slug: 2026-06-21-polymarket-recruited-creators-to-film-fake-winning-bets-wsj-finds
-  headline: Polymarket recruited creators to film fake winning bets, WSJ finds
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7034
-- slug: 2026-06-22-wsj-investigation-finds-polymarket-ran-secret-social-media-campaign-with-fake-wi
-  headline: WSJ investigation finds Polymarket ran secret social media campaign with fake winning bets
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6976
+  strength: 0.7192
 ---
-
 ## Polymarket builds detections around election-market manipulation tactics
 
 **Subtype:** fact

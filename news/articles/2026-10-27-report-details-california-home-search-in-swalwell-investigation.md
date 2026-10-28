@@ -1,9 +1,17 @@
 ---
 headline: Report details California home search in Swalwell investigation
-secondary_headline: August action seized Swalwell's devices and searched his Washington home
+secondary_headline: August action seized Swalwell's devices and searched his Washington
+  home
 publish_date: '2026-10-27'
-lede: FBI officers reportedly raided a California home in connection with an investigation into former U.S. Congressman Eric Swalwell, according to U.S. media reports on October 27. The BBC said it had contacted Swalwell's lawyer and the Department of Justice for comment.
-nut_graf: The reported California raid follows FBI activity in August, when officers stopped Swalwell at an airport, seized his electronic devices and searched his Washington DC home. The BBC said it had contacted Swalwell's lawyer and the Department of Justice for comment; Swalwell has denied wrongdoing and his attorney has called the allegations fabricated.
+lede: FBI officers reportedly raided a California home in connection with an investigation
+  into former U.S. Congressman Eric Swalwell, according to U.S. media reports on October
+  27. The BBC said it had contacted Swalwell's lawyer and the Department of Justice
+  for comment.
+nut_graf: The reported California raid follows FBI activity in August, when officers
+  stopped Swalwell at an airport, seized his electronic devices and searched his Washington
+  DC home. The BBC said it had contacted Swalwell's lawyer and the Department of Justice
+  for comment; Swalwell has denied wrongdoing and his attorney has called the allegations
+  fabricated.
 primary_entities:
 - Eric Swalwell
 - FBI
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,36 +153,11 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.6633
-- slug: 2026-10-19-obama-calls-federal-omar-probe-so-appalling-and-politically-motivated
-  headline: Obama calls federal Omar probe 'so appalling' and politically motivated
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-15-federal-agents-search-omar-s-washington-home-in-federal-probe
-  headline: Federal agents search Omar's Washington home in federal probe
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6397
 - slug: 2026-08-20-federal-agents-seize-former-rep-swalwell-s-devices-and-search-his-home
   headline: Federal agents seize former Rep. Swalwell's devices and search his home
   publish_date: '2026-08-20'
   relation: related
   strength: 0.8449
-- slug: 2026-10-12-democrats-condemn-federal-search-of-ilhan-omar-s-home
-  headline: Democrats condemn federal search of Ilhan Omar's home
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6457
-- slug: 2026-09-25-caldwell-s-attorney-rejects-harassment-report-as-multi-layered-hearsay
-  headline: Caldwell's attorney rejects harassment report as 'multi-layered hearsay'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6444
-- slug: 2026-09-25-new-jersey-lt-gov-caldwell-resigns-after-harassment-ethics-probe
-  headline: New Jersey Lt. Gov. Caldwell resigns after harassment, ethics probe
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6364
 - slug: 2026-04-15-swalwell-exits-congress-and-california-governor-race-amid-misconduct-allegations
   headline: Swalwell exits Congress and California governor race amid misconduct allegations
   publish_date: '2026-04-15'
@@ -200,47 +184,12 @@ related_stories:
   relation: related
   strength: 0.7747
 - slug: 2026-08-17-house-ethics-committee-opens-sexual-misconduct-investigation-into-rep-jimmy-gome
-  headline: House Ethics Committee opens sexual misconduct investigation into Rep. Jimmy Gomez
+  headline: House Ethics Committee opens sexual misconduct investigation into Rep.
+    Jimmy Gomez
   publish_date: '2026-08-17'
   relation: related
   strength: 0.6599
-- slug: 2026-04-12-swalwell-s-california-governor-bid-loses-key-democratic-endorsements-over-assaul
-  headline: Swalwell’s California governor bid loses key Democratic endorsements over assault claims
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7751
-- slug: 2026-04-14-swalwell-exit-leaves-california-governor-s-race-in-disarray
-  headline: Swalwell exit leaves California governor’s race in disarray
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7562
-- slug: 2026-06-15-california-voters-pick-swalwell-successor-in-special-primary
-  headline: California voters pick Swalwell successor in special primary
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.723
-- slug: 2026-04-11-swalwell-denies-sexual-assault-allegations-as-allies-pull-support
-  headline: Swalwell denies sexual assault allegations as allies pull support
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7489
-- slug: 2026-08-07-lawmakers-urge-stricter-ethics-enforcement-amid-scandals
-  headline: Lawmakers urge stricter ethics enforcement amid scandals
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6441
-- slug: 2026-04-01-swalwell-s-lawyers-demand-fbi-halt-plan-to-release-old-patel-file
-  headline: Swalwell’s lawyers demand FBI halt plan to release old Patel file
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7333
-- slug: 2026-07-09-cheyenne-hunt-surfaced-allegations-that-felled-democrats-platner-swalwell
-  headline: Cheyenne Hunt surfaced allegations that felled Democrats Platner, Swalwell
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6529
 ---
-
 ## Report details California home search in Swalwell investigation
 
 **Subtype:** fact
