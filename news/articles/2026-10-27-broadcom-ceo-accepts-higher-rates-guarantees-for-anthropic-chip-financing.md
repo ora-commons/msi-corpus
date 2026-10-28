@@ -184,6 +184,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6652
+analyses:
+- '2026-10-27-hock-tan-accepts-costlier-anthropic-terms-for-a-42-billion-commitment'
 ---
 ## Broadcom CEO accepts higher rates, guarantees for Anthropic chip financing
 
@@ -234,3 +236,8 @@ The 10-Point said WSJ. Magazine named the stadium-packing baseball circus this y
 **Publication date:** 2026-10-27
 **Title:** Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal
 **URL:** https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883
+
+---
+
+<!-- analysis-link:2026-10-27-hock-tan-accepts-costlier-anthropic-terms-for-a-42-billion-commitment -->
+**Going deeper:** [Read MSI's analysis of AI debt’s new risk allocation →](/analyses/2026-10-27-hock-tan-accepts-costlier-anthropic-terms-for-a-42-billion-commitment)

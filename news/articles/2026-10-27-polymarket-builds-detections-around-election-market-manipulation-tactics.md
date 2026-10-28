@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-08-28'
   relation: related
   strength: 0.7192
+analyses:
+- '2026-10-27-polymarket-deploys-election-market-surveillance-as-public-oversight-remains-unse'
 ---
 ## Polymarket builds detections around election-market manipulation tactics
 
@@ -230,3 +232,8 @@ Election prediction markets are uniquely vulnerable to market manipulation and i
 **Publication date:** 2026-10-27
 **Title:** Polymarket says its investigating election market insider bets
 **URL:** https://www.upi.com/Top_News/US/2026/10/27/polymarket-investigating-election-bets/3671793115248/
+
+---
+
+<!-- analysis-link:2026-10-27-polymarket-deploys-election-market-surveillance-as-public-oversight-remains-unse -->
+**Going deeper:** [Read MSI's analysis of election-market surveillance oversight →](/analyses/2026-10-27-polymarket-deploys-election-market-surveillance-as-public-oversight-remains-unse)
