@@ -1,9 +1,20 @@
 ---
 headline: D.C. officials advance plan as Los Angeles seeks fully automated line
-secondary_headline: Years of implementation, technical hurdles and upfront costs challenge transit automation
+secondary_headline: Years of implementation, technical hurdles and upfront costs challenge
+  transit automation
 publish_date: '2026-10-24'
-lede: Washington, D.C., and Los Angeles are pursuing fully automated mass transit as robotaxis become more prevalent in the United States. D.C. officials advanced a nearly $1 billion plan that could allow Metro's Red Line to run without a worker in the cab as early as 2033, while Los Angeles is reviewing a fully automated underground line through the Santa Monica Mountains. Both projects would take years to implement and still face financial and technical hurdles amid an active debate over safety.
-nut_graf: The projects come amid debate over whether substantial upfront expense can be justified by long-term savings in labor costs. Honolulu project director Vance Tsuda says the operating Skyline has had no crash or injury associated with automation, while Arizona State University researcher David King says the success rate has to remain perfect to retain public trust. Transport Workers Union international president John Samuelsen calls passenger self-evacuation a disaster in a third-rail system.
+lede: Washington, D.C., and Los Angeles are pursuing fully automated mass transit
+  as robotaxis become more prevalent in the United States. D.C. officials advanced
+  a nearly $1 billion plan that could allow Metro's Red Line to run without a worker
+  in the cab as early as 2033, while Los Angeles is reviewing a fully automated underground
+  line through the Santa Monica Mountains. Both projects would take years to implement
+  and still face financial and technical hurdles amid an active debate over safety.
+nut_graf: The projects come amid debate over whether substantial upfront expense can
+  be justified by long-term savings in labor costs. Honolulu project director Vance
+  Tsuda says the operating Skyline has had no crash or injury associated with automation,
+  while Arizona State University researcher David King says the success rate has to
+  remain perfect to retain public trust. Transport Workers Union international president
+  John Samuelsen calls passenger self-evacuation a disaster in a third-rail system.
 primary_entities:
 - Washington, D.C.
 - Los Angeles
@@ -35,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,9 +144,30 @@ cross_article_links:
   strength: 0.6003
   confidence: medium
 draft: false
-related_stories: []
+related_stories:
+- slug: 2026-08-23-amazon-s-zoox-launches-paid-robotaxi-service-in-las-vegas-and-san-francisco
+  headline: Amazon's Zoox launches paid robotaxi service in Las Vegas and San Francisco
+  publish_date: '2026-08-23'
+  relation: related
+  strength: 0.6608
+- slug: 2026-06-17-backlash-grows-against-delivery-robots-as-cities-impose-bans-residents-protest
+  headline: Backlash grows against delivery robots as cities impose bans, residents
+    protest
+  publish_date: '2026-06-17'
+  relation: related
+  strength: 0.6576
+- slug: 2026-02-22-london-black-cab-drivers-skeptical-as-robotaxi-firms-prepare-spring-trials
+  headline: London black cab drivers skeptical as robotaxi firms prepare spring trials
+  publish_date: '2026-02-22'
+  relation: related
+  strength: 0.667
+- slug: 2026-02-23-london-robotaxi-trials-set-to-begin-as-black-cab-drivers-question-the-pitch
+  headline: London robotaxi trials set to begin as black-cab drivers question the
+    pitch
+  publish_date: '2026-02-23'
+  relation: related
+  strength: 0.6601
 ---
-
 ## D.C. officials advance plan as Los Angeles seeks fully automated line
 
 **Subtype:** fact

@@ -1,9 +1,16 @@
 ---
 headline: Barack Obama to support Abdul El-Sayed at Detroit Senate rally
-secondary_headline: Michigan begins in-person early voting 10 days before election day
+secondary_headline: Michigan begins in-person early voting 10 days before election
+  day
 publish_date: '2026-10-24'
-lede: Former President Barack Obama will take the stage in Detroit on October 24 to support Abdul El-Sayed, the progressive candidate in Michigan's US Senate race, according to The Guardian. The rally falls on the first day of Michigan's in-person early voting period and 10 days before election day.
-nut_graf: Barack Obama's appearance for Abdul El-Sayed coincides with the opening of Michigan's in-person early voting, 10 days before election day. The Guardian said it would provide live updates from the Detroit rally and surrounding developments as the US midterm campaign continues.
+lede: Former President Barack Obama will take the stage in Detroit on October 24 to
+  support Abdul El-Sayed, the progressive candidate in Michigan's US Senate race,
+  according to The Guardian. The rally falls on the first day of Michigan's in-person
+  early voting period and 10 days before election day.
+nut_graf: Barack Obama's appearance for Abdul El-Sayed coincides with the opening
+  of Michigan's in-person early voting, 10 days before election day. The Guardian
+  said it would provide live updates from the Detroit rally and surrounding developments
+  as the US midterm campaign continues.
 primary_entities:
 - Barack Obama
 - Abdul El-Sayed
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,116 +145,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-barack-obama-to-support-abdul-el-sayed-at-detroit-senate-rally.png
-  alt: 'Illustration accompanying article: Barack Obama to support Abdul El-Sayed at Detroit Senate rally'
+  alt: 'Illustration accompanying article: Barack Obama to support Abdul El-Sayed
+    at Detroit Senate rally'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.819
 - slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
   headline: Obama to rally with El-Sayed in Michigan Senate race
   publish_date: '2026-10-05'
   relation: related
   strength: 0.8478
+- slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
+  headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7197
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7311
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7087
+- slug: 2026-10-26-el-sayed-rallies-rural-michigan-on-medicare-for-all
+  headline: El-Sayed rallies rural Michigan on Medicare for All
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6907
+- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
+  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.678
 - slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
   headline: El-Sayed's universalist campaign lags among Black voters in Michigan
   publish_date: '2026-10-11'
   relation: related
   strength: 0.7544
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7184
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6636
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.707
-- slug: 2026-09-26-harris-campaigns-with-el-sayed-in-michigan-plans-georgia-and-nevada-stops
-  headline: Harris campaigns with El-Sayed in Michigan, plans Georgia and Nevada stops
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6746
-- slug: 2026-09-23-xi-arrives-in-washington-wednesday-for-state-visit
-  headline: Xi arrives in Washington Wednesday for state visit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6846
-- slug: 2026-09-15-guardian-to-host-live-q-a-on-democratic-unity-ahead-of-midterms
-  headline: Guardian to host live Q&A on Democratic unity ahead of midterms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7144
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6825
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.783
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7013
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6666
-- slug: 2026-08-24-michigan-senate-candidate-el-sayed-distances-himself-from-streamer-piker
-  headline: Michigan Senate candidate El-Sayed distances himself from streamer Piker
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6678
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6962
-- slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
-  headline: El-Sayed maintains Medicare for All support in Michigan Senate race
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6867
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7019
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6919
-- slug: 2026-06-29-sanders-backed-el-sayed-leads-michigan-senate-primary-polls
-  headline: Sanders-backed El-Sayed leads Michigan Senate primary polls
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7261
-- slug: 2026-07-31-el-sayed-tells-detroit-faith-leaders-that-his-muslim-faith-shapes-his-progressiv
-  headline: El-Sayed tells Detroit faith leaders that his Muslim faith shapes his progressive views
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6809
 ---
-
 ## Barack Obama to support Abdul El-Sayed at Detroit Senate rally
 
 **Subtype:** fact

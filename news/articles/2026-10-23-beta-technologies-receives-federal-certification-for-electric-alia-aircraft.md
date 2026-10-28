@@ -1,9 +1,20 @@
 ---
 headline: Beta Technologies receives federal certification for electric ALIA aircraft
-secondary_headline: Certificate allows customer flights to gather marketing survey data
+secondary_headline: Certificate allows customer flights to gather marketing survey
+  data
 publish_date: '2026-10-23'
-lede: Beta Technologies, a Vermont-based aircraft manufacturer, has received federal certification to fly potential customers aboard its ALIA eVTOL, an all-electric aircraft capable of taking off and landing vertically. The approval, detailed in a Federal Aviation Administration press release and reported on October 23, 2026, allows the aircraft to be flown with participants and operators in order to gather data for marketing surveys. The approval marks a new step toward commercial operations.
-nut_graf: 'The certificate opens a defined data-gathering phase for the ALIA rather than the start of commercial service: the FAA permits flights with participants and operators to collect marketing survey data, and, according to Frank Cioffi, the planes will be allowed to take off and land at commercial airports. Beta Technologies now holds a federal certificate for a defined set of missions, with commercial operations still ahead of the program.'
+lede: Beta Technologies, a Vermont-based aircraft manufacturer, has received federal
+  certification to fly potential customers aboard its ALIA eVTOL, an all-electric
+  aircraft capable of taking off and landing vertically. The approval, detailed in
+  a Federal Aviation Administration press release and reported on October 23, 2026,
+  allows the aircraft to be flown with participants and operators in order to gather
+  data for marketing surveys. The approval marks a new step toward commercial operations.
+nut_graf: 'The certificate opens a defined data-gathering phase for the ALIA rather
+  than the start of commercial service: the FAA permits flights with participants
+  and operators to collect marketing survey data, and, according to Frank Cioffi,
+  the planes will be allowed to take off and land at commercial airports. Beta Technologies
+  now holds a federal certificate for a defined set of missions, with commercial operations
+  still ahead of the program.'
 primary_entities:
 - Beta Technologies
 - Federal Aviation Administration
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +149,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-faa-clears-boeing-737-max-10-for-customer-deliveries
-  headline: FAA clears Boeing 737 MAX 10 for customer deliveries
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6494
-- slug: 2026-10-21-duffy-says-u-s-aircraft-certification-hurts-aviation-competitiveness
-  headline: Duffy says U.S. aircraft certification hurts aviation competitiveness
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6184
-- slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6411
-- slug: 2026-09-26-faa-probes-boeing-737-max-software-glitch-in-landing-scenarios
-  headline: FAA probes Boeing 737 MAX software glitch in landing scenarios
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6405
-- slug: 2026-10-02-faa-review-board-rules-boeing-737-max-software-glitch-not-a-safety-issue
-  headline: FAA review board rules Boeing 737 MAX software glitch not a safety issue
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6095
-- slug: 2026-09-29-alaska-air-adds-premium-cabins-lie-flat-suites-and-new-seattle-lounge
-  headline: Alaska Air adds premium cabins, lie-flat suites, and new Seattle lounge
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5979
-- slug: 2026-09-28-software-glitch-delays-approval-of-boeing-s-newest-737-max
-  headline: Software glitch delays approval of Boeing's newest 737 MAX
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5849
-- slug: 2026-09-21-faa-launches-875m-ai-system-to-manage-u-s-airspace
-  headline: FAA launches $875M AI system to manage U.S. airspace
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5968
-- slug: 2026-09-17-faa-set-to-deploy-smart-ai-tool-in-washington-airspace-monday
-  headline: FAA set to deploy Smart AI tool in Washington airspace Monday
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5995
-- slug: 2026-09-18-joby-aviation-says-aircraft-completed-first-fully-autonomous-u-s-flight
-  headline: Joby Aviation says aircraft completed first fully autonomous U.S. flight
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.594
-- slug: 2026-09-11-tsa-marks-25-years-since-9-11-with-biometric-ai-upgrades
-  headline: TSA marks 25 years since 9/11 with biometric, AI upgrades
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5848
 - slug: 2026-03-10-beta-technologies-wins-federal-pilot-slot-for-electric-medical-flights-in-vermon
-  headline: Beta Technologies wins federal pilot slot for electric medical flights in Vermont
+  headline: Beta Technologies wins federal pilot slot for electric medical flights
+    in Vermont
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.767
-- slug: 2026-08-03-boeing-737-max-7-certified-by-faa-after-nearly-decade-long-wait
-  headline: Boeing 737 Max 7 certified by FAA after nearly decade-long wait
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6467
+  strength: 0.7644
 - slug: 2026-07-17-faa-restores-boeing-s-authority-to-certify-737-max-787-as-airworthy
   headline: FAA restores Boeing's authority to certify 737 Max, 787 as airworthy
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6452
-- slug: 2026-08-07-faa-orders-inspections-of-471-boeing-737-max-jets-for-possible-cracks
-  headline: FAA orders inspections of 471 Boeing 737 Max jets for possible cracks
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5835
-- slug: 2026-07-09-faa-set-to-certify-boeing-737-max-7-later-this-month
-  headline: FAA set to certify Boeing 737 MAX 7 later this month
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6241
-- slug: 2026-06-11-faa-rule-change-expected-to-unlock-surge-in-commercial-drone-flights
-  headline: FAA rule change expected to unlock surge in commercial drone flights
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.649
-- slug: 2026-07-28-faa-proposes-waiving-environmental-requirements-for-commercial-space-launches
-  headline: FAA proposes waiving environmental requirements for commercial space launches
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5851
-- slug: 2026-03-05-china-s-matrix-evtol-demonstrates-big-electric-flying-taxi-potential
-  headline: China’s Matrix eVTOL demonstrates big electric flying-taxi potential
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6389
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6053
+  strength: 0.6517
 ---
-
 ## Beta Technologies receives federal certification for electric ALIA aircraft
 
 **Subtype:** fact

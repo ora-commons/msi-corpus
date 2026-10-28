@@ -2,8 +2,15 @@
 headline: WSJ video documents $126 billion California high-speed rail project
 secondary_headline: Eighteen years after Prop 1A approval, no track is finished
 publish_date: '2026-10-22'
-lede: The Wall Street Journal published a video documentary on October 22 examining the 18-year effort to build California's high-speed rail system. Costs for the project are now projected to reach $126 billion, with no finished track built and an uncertain future, according to the documentary.
-nut_graf: The documentary, produced by WSJ video journalist Todd Johnson, draws on visits to construction sites, analysis of satellite imagery, and reviews of legal filings. Voters approved Proposition 1A eighteen years ago, authorizing a system intended to carry passengers between Los Angeles and San Francisco at speeds up to 220 miles per hour.
+lede: The Wall Street Journal published a video documentary on October 22 examining
+  the 18-year effort to build California's high-speed rail system. Costs for the project
+  are now projected to reach $126 billion, with no finished track built and an uncertain
+  future, according to the documentary.
+nut_graf: The documentary, produced by WSJ video journalist Todd Johnson, draws on
+  visits to construction sites, analysis of satellite imagery, and reviews of legal
+  filings. Voters approved Proposition 1A eighteen years ago, authorizing a system
+  intended to carry passengers between Los Angeles and San Francisco at speeds up
+  to 220 miles per hour.
 primary_entities:
 - The Wall Street Journal
 - Todd Johnson
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +145,19 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
-  headline: Proposition 40 aims to raise $100 billion for California health care
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5829
-- slug: 2026-10-15-eu-funded-9-million-pipeon-aims-to-detect-sewer-pipe-problems
-  headline: EU-funded $9 million PIPEON aims to detect sewer pipe problems
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5925
-- slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6111
-- slug: 2026-09-26-bay-area-bart-faces-fiscal-cliff-ahead-of-november-transit-tax-vote
-  headline: Bay Area BART faces fiscal cliff ahead of November transit tax vote
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5938
 - slug: 2026-08-26-california-high-speed-rail-funding-cliff-federal-withdrawal
-  headline: California's high-speed rail faces funding cliff after $4 billion federal withdrawal
+  headline: California's high-speed rail faces funding cliff after $4 billion federal
+    withdrawal
   publish_date: '2026-08-26'
   relation: related
   strength: 0.6805
-- slug: 2026-08-19-california-adopts-tire-efficiency-rules-projects-1-billion-in-annual-savings
-  headline: California adopts tire efficiency rules, projects $1 billion in annual savings
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5904
 - slug: 2025-12-29-california-drops-lawsuit-seeking-to-reinstate-federal-high-speed-rail-funds
-  headline: California drops lawsuit seeking to reinstate federal high-speed rail funds
+  headline: California drops lawsuit seeking to reinstate federal high-speed rail
+    funds
   publish_date: '2025-12-29'
   relation: related
   strength: 0.6711
-- slug: 2026-05-14-huge-drills-begin-work-on-new-hudson-river-train-tunnel-for-nyc-region
-  headline: Huge drills begin work on new Hudson River train tunnel for NYC-region
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6296
-- slug: 2026-02-19-california-high-speed-rail-chief-ian-choudri-takes-leave-after-arrest
-  headline: California high-speed rail chief Ian Choudri takes leave after arrest
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6462
-- slug: 2026-06-18-new-york-leaders-question-8b-penn-station-plan-as-trump-s-role-draws-scrutiny
-  headline: New York leaders question $8B Penn Station plan as Trump's role draws scrutiny
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5859
-- slug: 2026-05-14-tunnel-boring-machines-assembled-in-n-j-for-16b-hudson-river-rail-project
-  headline: Tunnel-boring machines assembled in N.J. for $16B Hudson River rail project
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6024
-- slug: 2026-05-19-trump-tours-white-house-ballroom-construction-after-congress-balks-at-1b-price-t
-  headline: Trump tours White House ballroom construction after Congress balks at $1B price tag
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5967
-- slug: 2026-05-20-trump-shows-reporters-white-house-east-wing-ballroom-construction-despite-congre
-  headline: Trump shows reporters White House East Wing ballroom construction, despite Congress impasse
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5938
-- slug: 2026-04-08-california-considers-green-jet-fuel-tax-credit-that-critics-say-drains-road-fund
-  headline: California considers green jet fuel tax credit that critics say drains road funds
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6054
-- slug: 2026-05-19-trump-tours-construction-of-white-house-ballroom-after-congress-balks-at-1b
-  headline: Trump tours construction of White House ballroom after Congress balks at $1B
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5857
-- slug: 2026-03-02-california-republicans-clash-with-rural-backers-over-gas-tax-study
-  headline: California Republicans clash with rural backers over gas tax study
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6075
-- slug: 2026-05-02-delta-tunnel-plan-nears-end-of-newsom-era-but-hurdles-remain
-  headline: Delta tunnel plan nears end of Newsom era, but hurdles remain
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.591
-- slug: 2026-03-05-federal-panel-hears-public-opposition-to-trump-s-white-house-ballroom-plan
-  headline: Federal panel hears public opposition to Trump's White House ballroom plan
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5978
-- slug: 2026-03-10-california-has-40-000-affordable-units-ready-but-funding-delays-remain
-  headline: California has 40,000 affordable units ready, but funding delays remain
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5927
-- slug: 2026-02-14-california-lawmakers-eye-factory-built-housing-push-for-2026
-  headline: California lawmakers eye factory-built housing push for 2026
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.5924
 ---
-
 ## WSJ video documents $126 billion California high-speed rail project
 
 **Subtype:** fact

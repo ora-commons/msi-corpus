@@ -1,9 +1,24 @@
 ---
 headline: Brazil's runoff result may affect the pace of the Amazon forest transition
-secondary_headline: Models suggest collapse risk, but the proposed 20% forest-loss threshold remains unconfirmed
+secondary_headline: Models suggest collapse risk, but the proposed 20% forest-loss
+  threshold remains unconfirmed
 publish_date: '2026-10-23'
-lede: Climate scientists and environmentalists cited by The Associated Press said the winner of Sunday's presidential runoff could determine whether and how soon the Amazon rainforest could reach a climate tipping point. President Luiz Inácio Lula da Silva is seeking reelection after pursuing policies to curb deforestation and finance a sustainable economy, while opposition candidate Sen. Flávio Bolsonaro says he does not believe climate change is real and has offered few details on forest protection.
-nut_graf: The Associated Press describes the heavily debated threshold as a shift from dense, humid, moisture-generating forest to a drier ecosystem and says the change would bring irreversible consequences for biodiversity and the climate. Some research links the risk to the combination of losing more than 20% of the forest and global warming of around 2 degrees Celsius since the early 1800s, but David Lapola said observations and experiments have not established that losing 20% would trigger collapse. The Associated Press reports that Brazil contains about 60% of the Amazon, which spans several South American countries and absorbs massive amounts of carbon dioxide.
+lede: Climate scientists and environmentalists cited by The Associated Press said
+  the winner of Sunday's presidential runoff could determine whether and how soon
+  the Amazon rainforest could reach a climate tipping point. President Luiz Inácio
+  Lula da Silva is seeking reelection after pursuing policies to curb deforestation
+  and finance a sustainable economy, while opposition candidate Sen. Flávio Bolsonaro
+  says he does not believe climate change is real and has offered few details on forest
+  protection.
+nut_graf: The Associated Press describes the heavily debated threshold as a shift
+  from dense, humid, moisture-generating forest to a drier ecosystem and says the
+  change would bring irreversible consequences for biodiversity and the climate. Some
+  research links the risk to the combination of losing more than 20% of the forest
+  and global warming of around 2 degrees Celsius since the early 1800s, but David
+  Lapola said observations and experiments have not established that losing 20% would
+  trigger collapse. The Associated Press reports that Brazil contains about 60% of
+  the Amazon, which spans several South American countries and absorbs massive amounts
+  of carbon dioxide.
 primary_entities:
 - Brazil
 - Amazon rainforest
@@ -38,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-netherlands-pledges-500-million-to-brazil-backed-forest-fund-after-lula-s-runoff
+  headline: Netherlands pledges $500 million to Brazil-backed forest fund after Lula’s
+    runoff victory
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7893
 - slug: 2026-10-23-brazil-runoff-puts-amazon-communities-and-mining-in-focus
   headline: Brazil runoff puts Amazon communities and mining in focus
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7397
+  strength: 0.7681
+- slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.7547
 - slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
   headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7974
+  strength: 0.8384
 - slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
   headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6765
-- slug: 2026-10-19-amazon-fires-blanket-manaus-as-brazil-probes-political-motive
-  headline: Amazon fires blanket Manaus as Brazil probes political motive
-  publish_date: '2026-10-19'
+  strength: 0.7237
+- slug: 2026-10-26-lula-pledges-against-dictatorship-as-brazil-s-victory-draws-global-recognition
+  headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6892
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
+  strength: 0.7206
+- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
+  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6401
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
+  strength: 0.7128
+- slug: 2026-10-27-brazil-s-currency-plunges-as-pollsters-describe-lula-s-comeback
+  headline: Brazil's currency plunges as pollsters describe Lula's comeback
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6959
-- slug: 2026-10-04-lula-80-seeks-fourth-term-as-brazilian-left-searches-for-successor
-  headline: Lula, 80, seeks fourth term as Brazilian left searches for successor
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6687
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6609
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6299
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6387
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6433
-- slug: 2026-09-25-lula-ad-accuses-trump-of-seeking-to-colonise-brazil-via-october-election
-  headline: Lula ad accuses Trump of seeking to 'colonise' Brazil via October election
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6338
-- slug: 2026-08-11-brazil-s-supreme-court-weighs-cases-that-could-reshape-amazon-protections
-  headline: Brazil's Supreme Court weighs cases that could reshape Amazon protections
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7325
-- slug: 2026-08-17-indigenous-environmental-groups-sue-to-halt-lula-backed-amazon-oil-drilling
-  headline: Indigenous, environmental groups sue to halt Lula-backed Amazon oil drilling
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6803
-- slug: 2026-06-24-colombian-election-result-may-reshape-amazon-rainforest-s-future
-  headline: Colombian election result may reshape Amazon rainforest’s future
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.734
-- slug: 2026-05-10-brazil-deforestation-falls-to-12-year-low-but-silent-degradation-threatens-amazo
-  headline: Brazil deforestation falls to 12-year low, but silent degradation threatens Amazon recovery
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7533
-- slug: 2026-05-10-brazil-s-amazon-deforestation-slows-but-el-nino-could-worsen-degradation
-  headline: Brazil’s Amazon deforestation slows, but El Nino could worsen degradation
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.726
-- slug: 2026-06-06-colombia-s-presidential-runoff-stark-choice-for-amazon-fossil-fuels
-  headline: 'Colombia''s presidential runoff: stark choice for Amazon, fossil fuels'
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7089
-- slug: 2026-06-11-brazil-reports-sharp-drop-in-amazon-deforestation-amid-us-tariff-dispute
-  headline: Brazil Reports Sharp Drop in Amazon Deforestation Amid US Tariff Dispute
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6968
-- slug: 2026-06-24-petrobras-head-says-brazil-must-choose-between-fossil-fuel-phaseout-and-tax-reve
-  headline: Petrobras head says Brazil must choose between fossil fuel phaseout and tax revenue
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6786
+  strength: 0.7023
 ---
-
 ## Brazil's runoff result may affect the pace of the Amazon forest transition
 
 **Subtype:** fact

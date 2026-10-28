@@ -2,8 +2,16 @@
 headline: Utah officials issue a verbal hold as bird flu spreads among mink
 secondary_headline: Mink samples matched the strain circulating in dairy herds
 publish_date: '2026-10-23'
-lede: Utah officials did not order a cull, and state and federal authorities did not conduct active worker monitoring after bird flu spread among thousands of mink at C&T Fenn Farms in Utah, a ProPublica investigation found. The Oct. 23, 2026, report said the virus remained on the farm at a slower pace while experts warned that continued circulation could allow the dairy-linked strain to adapt and infect people.
-nut_graf: The strain has already moved from poultry to dairy cattle, and research cited by ProPublica found that a single mutation could shift the virus toward human-type cell receptors. Scientists said it remains unclear whether mink would enable efficient human infection, while early samples showed no particularly concerning mutations and newer results were pending.
+lede: Utah officials did not order a cull, and state and federal authorities did not
+  conduct active worker monitoring after bird flu spread among thousands of mink at
+  C&T Fenn Farms in Utah, a ProPublica investigation found. The Oct. 23, 2026, report
+  said the virus remained on the farm at a slower pace while experts warned that continued
+  circulation could allow the dairy-linked strain to adapt and infect people.
+nut_graf: The strain has already moved from poultry to dairy cattle, and research
+  cited by ProPublica found that a single mutation could shift the virus toward human-type
+  cell receptors. Scientists said it remains unclear whether mink would enable efficient
+  human infection, while early samples showed no particularly concerning mutations
+  and newer results were pending.
 primary_entities:
 - ProPublica
 - C&T Fenn Farms
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +150,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-california-reports-9-65-flu-test-positivity-as-west-coast-activity-rises-early
-  headline: California reports 9.65% flu test positivity as West Coast activity rises early
-  publish_date: '2026-10-23'
+- slug: 2026-10-25-nuzzo-says-federal-monitoring-of-farms-for-viruses-appears-reduced
+  headline: Nuzzo says federal monitoring of farms for viruses appears reduced
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6225
-- slug: 2026-10-20-tiktok-employees-repeatedly-raised-child-safety-concerns-with-leadership
-  headline: TikTok employees repeatedly raised child-safety concerns with leadership
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6067
-- slug: 2026-09-20-cdc-rabies-advisory-follows-beaver-attacks-petting-zoo-exposures-amid-uncertaint
-  headline: CDC rabies advisory follows beaver attacks, petting zoo exposures amid uncertainty
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6088
-- slug: 2026-09-12-delaware-turns-to-sentinel-chickens-as-west-nile-virus-cases-rise
-  headline: Delaware turns to sentinel chickens as West Nile virus cases rise
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6232
-- slug: 2026-07-27-fda-delays-food-traceability-rule-cdc-ends-foodnet-before-taylor-farms-cyclospor
-  headline: FDA delays food traceability rule, CDC ends FoodNet before Taylor Farms cyclospora outbreak
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6203
-- slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6376
-- slug: 2026-07-24-usda-to-lift-more-than-yearlong-ban-on-mexican-cattle-imports-in-30-days
-  headline: USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.616
-- slug: 2026-07-21-health-secretary-declares-cyclosporiasis-outbreak-under-control-as-fda-maintains
-  headline: Health secretary declares cyclosporiasis outbreak under control as FDA maintains lettuce recall
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6156
-- slug: 2026-07-16-cdc-downgrades-cyclospora-surveillance-as-case-counts-surge-past-1-600
-  headline: CDC downgrades cyclospora surveillance as case counts surge past 1,600
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6124
-- slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
-  headline: Farm workers face elevated risk as screwworm spreads in US south-west
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6355
-- slug: 2026-06-13-utah-measles-outbreak-nears-one-year-threatening-us-elimination-status
-  headline: Utah measles outbreak nears one year, threatening US elimination status
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6304
-- slug: 2026-07-03-experts-say-fda-staff-cuts-leave-infant-formula-safety-at-risk
-  headline: Experts say FDA staff cuts leave infant formula safety at risk
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6111
-- slug: 2026-06-16-rfk-jr-orders-woman-exposed-to-hantavirus-to-stay-in-quarantine-against-cdc-advi
-  headline: RFK Jr. Orders Woman Exposed to Hantavirus to Stay in Quarantine Against CDC Advice
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6226
-- slug: 2026-06-10-us-measles-cases-top-2-000-as-outbreak-approaches-worst-in-decades
-  headline: US measles cases top 2,000 as outbreak approaches worst in decades
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6272
-- slug: 2026-06-12-texas-ranchers-fight-return-of-long-eradicated-cattle-killing-parasite
-  headline: Texas Ranchers Fight Return of Long-Eradicated Cattle-Killing Parasite
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6168
+  strength: 0.7966
 - slug: 2026-01-09-us-flu-activity-dips-slightly-as-health-officials-warn-severe-season-has-not-pea
-  headline: US flu activity dips slightly as health officials warn severe season has not peaked
+  headline: US flu activity dips slightly as health officials warn severe season has
+    not peaked
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.6533
-- slug: 2026-04-26-tick-season-off-to-fast-start-as-cdc-warns-of-more-lyme-risk
-  headline: Tick season off to fast start as CDC warns of more Lyme risk
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6326
-- slug: 2026-06-04-new-world-screwworm-detected-in-texas-calf-first-us-livestock-case-since-1966
-  headline: New World screwworm detected in Texas calf, first US livestock case since 1966
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6114
-- slug: 2026-05-10-tierra-del-fuego-officials-dispute-hantavirus-origin-as-cruise-probe-lags
-  headline: Tierra del Fuego officials dispute hantavirus origin as cruise probe lags
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6229
-- slug: 2026-05-08-public-health-officials-trace-potential-hantavirus-contacts-from-cruise
-  headline: Public health officials trace potential hantavirus contacts from cruise
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6225
+  strength: 0.6537
 ---
-
 ## Utah officials issue a verbal hold as bird flu spreads among mink
 
 **Subtype:** fact

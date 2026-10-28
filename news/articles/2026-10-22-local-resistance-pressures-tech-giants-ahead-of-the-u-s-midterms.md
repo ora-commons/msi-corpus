@@ -2,8 +2,24 @@
 headline: Local resistance pressures tech giants ahead of the U.S. midterms
 secondary_headline: Companies promise fewer tax breaks, more disclosure or more money
 publish_date: '2026-10-22'
-lede: 'Amazon, Google, Meta and Microsoft are responding to local opposition to their data centers with three kinds of promises: taking fewer tax breaks, keeping fewer secrets or offering host communities more money. Meta and Amazon each say they will spend $1 billion on financial incentives for host communities in the coming years, while Amazon, Google and Microsoft have stopped requiring government officials to sign data-center non-disclosure agreements. The announcements come as opposition that blocks municipal permits has become a bottleneck for the companies'' construction plans and as community opposition is a factor in the midterm elections next month, which will decide control of Congress and 36 governors'' offices. President Donald Trump has backed the data centers and has urged the companies to make deals with local communities.'
-nut_graf: The pledges come as community opposition that blocks municipal permits and election pressure complicate data-center projects. Amazon, Google, Meta and Microsoft project more than $600 billion in combined capital spending this year, primarily on U.S. data-center construction. Communities are pressing for more information about energy, water, grid costs, taxes and effects on neighboring properties, while the companies seek to preserve the support needed to build. Critics say the commitments do not go far enough.
+lede: 'Amazon, Google, Meta and Microsoft are responding to local opposition to their
+  data centers with three kinds of promises: taking fewer tax breaks, keeping fewer
+  secrets or offering host communities more money. Meta and Amazon each say they will
+  spend $1 billion on financial incentives for host communities in the coming years,
+  while Amazon, Google and Microsoft have stopped requiring government officials to
+  sign data-center non-disclosure agreements. The announcements come as opposition
+  that blocks municipal permits has become a bottleneck for the companies'' construction
+  plans and as community opposition is a factor in the midterm elections next month,
+  which will decide control of Congress and 36 governors'' offices. President Donald
+  Trump has backed the data centers and has urged the companies to make deals with
+  local communities.'
+nut_graf: The pledges come as community opposition that blocks municipal permits and
+  election pressure complicate data-center projects. Amazon, Google, Meta and Microsoft
+  project more than $600 billion in combined capital spending this year, primarily
+  on U.S. data-center construction. Communities are pressing for more information
+  about energy, water, grid costs, taxes and effects on neighboring properties, while
+  the companies seek to preserve the support needed to build. Critics say the commitments
+  do not go far enough.
 primary_entities:
 - Amazon
 - Google
@@ -36,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +151,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
+  headline: Candidates in four states seek tighter data-center approval rules
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7245
 - slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
   headline: AI firms seek UK datacentre compact before opposition spreads
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7188
+  strength: 0.7195
 - slug: 2026-10-21-trump-proposes-own-electricity-and-community-dividends-for-new-data-centers
   headline: Trump proposes own electricity and community dividends for new data centers
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7085
+  strength: 0.7092
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7266
+  strength: 0.7282
 - slug: 2026-10-16-amazon-drops-data-center-ndas-as-google-courts-local-residents
   headline: Amazon drops data-center NDAs as Google courts local residents
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7079
+  strength: 0.7085
 - slug: 2026-10-02-aws-pledges-over-1-billion-to-communities-amid-data-center-backlash
   headline: AWS pledges over $1 billion to communities amid data center backlash
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.715
+  strength: 0.7161
 - slug: 2026-09-24-climate-protesters-picket-openai-google-amazon-offices-during-nyc-climate-week
-  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate week
+  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate
+    week
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6936
+  strength: 0.6941
 - slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
   headline: Tech giants step up community investments to counter AI data-center opposition
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7992
-- slug: 2026-09-15-anti-datacenter-organizers-run-for-local-offices-across-us
-  headline: Anti-datacenter organizers run for local offices across US
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7053
-- slug: 2026-08-26-snowballing-data-center-opposition-reshapes-us-midterm-contests
-  headline: Snowballing data center opposition reshapes US midterm contests
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7579
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7174
-- slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
-  headline: More than 10 states pause or cancel data center tax exemptions
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.697
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6972
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7149
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7152
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7057
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6949
-- slug: 2026-01-03-community-opposition-stalls-data-center-expansion-as-backlash-spreads
-  headline: Community opposition stalls data center expansion as backlash spreads
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7871
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6922
-- slug: 2026-07-11-microsoft-amazon-and-google-emissions-rise-nearly-a-fifth-in-year
-  headline: Microsoft, Amazon and Google emissions rise nearly a fifth in year
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6989
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6887
+  strength: 0.7991
 ---
-
 ## Local resistance pressures tech giants ahead of the U.S. midterms
 
 **Subtype:** fact

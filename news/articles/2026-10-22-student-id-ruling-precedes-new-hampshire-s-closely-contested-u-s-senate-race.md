@@ -1,9 +1,20 @@
 ---
-headline: Student ID ruling precedes New Hampshire's closely contested U.S. Senate race
-secondary_headline: Sponsor cited colleges' different controls over issuing student IDs
+headline: Student ID ruling precedes New Hampshire's closely contested U.S. Senate
+  race
+secondary_headline: Sponsor cited colleges' different controls over issuing student
+  IDs
 publish_date: '2026-10-22'
-lede: New Hampshire voters were less than two weeks from casting ballots in a closely contested U.S. Senate race when the Supreme Court of the United States allowed the state to bar student IDs as backup identification during the midterm elections. New Hampshire state Rep. Donald McFarlane, who sponsored the measure, said he backed it because colleges do not have the same controls over issuing those cards as government agencies. McFarlane called the decision a victory for common sense in an email.
-nut_graf: The practical effect is that New Hampshire voters cannot use student IDs as backup identification during the midterms, less than two weeks before a closely contested U.S. Senate vote. McFarlane said the ruling allows HB 323 to strengthen voter identity verification, apply a consistent standard and maintain public confidence in New Hampshire elections.
+lede: New Hampshire voters were less than two weeks from casting ballots in a closely
+  contested U.S. Senate race when the Supreme Court of the United States allowed the
+  state to bar student IDs as backup identification during the midterm elections.
+  New Hampshire state Rep. Donald McFarlane, who sponsored the measure, said he backed
+  it because colleges do not have the same controls over issuing those cards as government
+  agencies. McFarlane called the decision a victory for common sense in an email.
+nut_graf: The practical effect is that New Hampshire voters cannot use student IDs
+  as backup identification during the midterms, less than two weeks before a closely
+  contested U.S. Senate vote. McFarlane said the ruling allows HB 323 to strengthen
+  voter identity verification, apply a consistent standard and maintain public confidence
+  in New Hampshire elections.
 primary_entities:
 - New Hampshire
 - Supreme Court of the United States
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,113 +156,56 @@ related_stories:
   headline: Supreme Court bars student IDs as backup identification in New Hampshire
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8727
+  strength: 0.8728
 - slug: 2026-10-23-jackson-says-lower-court-sought-to-correct-misleading-new-hampshire-guidance
   headline: Jackson says lower court sought to correct misleading New Hampshire guidance
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8106
+  strength: 0.8111
 - slug: 2026-08-17-three-states-bar-student-ids-at-polls-as-courts-weigh-challenges
   headline: Three states bar student IDs at polls as courts weigh challenges
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.829
+  strength: 0.8292
 - slug: 2026-09-25-supreme-court-lifts-restrictions-on-federal-voter-citizenship-database
   headline: Supreme Court lifts restrictions on federal voter citizenship database
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6526
-- slug: 2026-09-01-whistleblower-report-warns-usps-portal-may-disrupt-midterm-voting
-  headline: Whistleblower report warns USPS portal may disrupt midterm voting
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6307
+  strength: 0.6522
 - slug: 2026-08-23-massachusetts-fake-id-seizures-hit-highest-level-in-two-decades
   headline: Massachusetts fake ID seizures hit highest level in two decades
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6553
+  strength: 0.656
 - slug: 2026-03-21-democrats-call-save-voter-id-bill-too-strict-as-senate-debates
   headline: Democrats call SAVE voter-ID bill too strict as Senate debates
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.6882
+  strength: 0.6884
 - slug: 2026-03-15-gop-save-act-documents-requirement-could-burden-voters-advocate-warns
   headline: GOP SAVE Act documents requirement could burden voters, advocate warns
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6857
+  strength: 0.6855
 - slug: 2026-03-18-republicans-press-senate-on-save-citizenship-proof-for-new-voters
   headline: Republicans press Senate on SAVE citizenship proof for new voters
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6797
-- slug: 2026-06-22-judge-rules-trump-era-save-voter-data-system-unlawful
-  headline: Judge rules Trump-era SAVE voter data system unlawful
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6342
-- slug: 2026-02-12-house-gop-advances-save-america-act-voter-id-push-ahead-of-midterms
-  headline: House GOP advances SAVE America Act voter ID push ahead of midterms
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6806
-- slug: 2026-04-05-judge-blocks-trump-admin-effort-to-collect-college-race-data
-  headline: Judge Blocks Trump Admin. Effort to Collect College Race Data
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.67
-- slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-voting-requirement
-  headline: West Virginia primary tests new photo ID voting requirement
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6494
-- slug: 2026-03-27-north-carolina-voter-id-law-upheld-by-federal-judge-in-bias-challenge
-  headline: North Carolina voter ID law upheld by federal judge in bias challenge
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6649
-- slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-requirement-at-polls
-  headline: West Virginia primary tests new photo ID requirement at polls
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6482
-- slug: 2026-01-30-house-republicans-propose-stricter-voting-rules-before-the-midterms
-  headline: House Republicans propose stricter voting rules before the midterms
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6715
-- slug: 2026-04-06-judge-blocks-trump-admin-college-race-data-collection
-  headline: Judge Blocks Trump Admin. College Race Data Collection
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6605
-- slug: 2026-04-04-judge-halts-trump-effort-to-collect-colleges-race-admissions-data
-  headline: Judge halts Trump effort to collect colleges’ race admissions data
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6554
-- slug: 2026-03-27-only-some-driver-s-licenses-could-be-used-under-save-america-act
-  headline: Only some driver’s licenses could be used under SAVE America Act
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6513
-- slug: 2026-02-14-justice-department-sues-harvard-for-admissions-data-access-over-race
-  headline: Justice Department sues Harvard for admissions data access over race
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6558
+  strength: 0.6798
 image:
   url: /articles/2026-10-22-student-id-ruling-precedes-new-hampshire-s-closely-contested-u-s-senate-race.png
-  alt: "Illustration accompanying article: Student ID ruling precedes New Hampshire's closely contested U.S. Senate race"
+  alt: 'Illustration accompanying article: Student ID ruling precedes New Hampshire''s
+    closely contested U.S. Senate race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Student ID ruling precedes New Hampshire's closely contested U.S. Senate race
 
 **Subtype:** fact

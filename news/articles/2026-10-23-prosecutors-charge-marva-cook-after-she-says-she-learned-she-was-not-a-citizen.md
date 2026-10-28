@@ -1,9 +1,22 @@
 ---
 headline: Prosecutors charge Marva Cook after she says she learned she was not a citizen
-secondary_headline: Cook says seeking her biological mother led to a German birth certificate
+secondary_headline: Cook says seeking her biological mother led to a German birth
+  certificate
 publish_date: '2026-10-23'
-lede: Federal prosecutors charged upstate New York resident Marva Cook with voting by an alien, alleging that the 66-year-old cast ballots in recent elections despite holding a green card and not having U.S. citizenship. Cook told Homeland Security investigators that she had always assumed she was a citizen. Separately, Cook said she discovered she had a German birth certificate while searching for her biological mother. The single federal charge stems from her vote in the 2022 midterms.
-nut_graf: Prosecutors say Cook voted while not a citizen; Cook says she only recently learned that she was not a citizen. Her lawyer, Paul Tuck, said there were no pending immigration proceedings, though Cook had immigration counsel if that changes. First Assistant U.S. Attorney John A. Sarcone III said Cook’s arrest showed “voter fraud is rampant” in New York, but the Associated Press reported that administration investigations had shown such cases “incredibly rare” and not changed election outcomes. If convicted, Cook could receive up to one year in prison, a fine of up to $100,000, and could also face deportation under federal law.
+lede: Federal prosecutors charged upstate New York resident Marva Cook with voting
+  by an alien, alleging that the 66-year-old cast ballots in recent elections despite
+  holding a green card and not having U.S. citizenship. Cook told Homeland Security
+  investigators that she had always assumed she was a citizen. Separately, Cook said
+  she discovered she had a German birth certificate while searching for her biological
+  mother. The single federal charge stems from her vote in the 2022 midterms.
+nut_graf: Prosecutors say Cook voted while not a citizen; Cook says she only recently
+  learned that she was not a citizen. Her lawyer, Paul Tuck, said there were no pending
+  immigration proceedings, though Cook had immigration counsel if that changes. First
+  Assistant U.S. Attorney John A. Sarcone III said Cook’s arrest showed “voter fraud
+  is rampant” in New York, but the Associated Press reported that administration investigations
+  had shown such cases “incredibly rare” and not changed election outcomes. If convicted,
+  Cook could receive up to one year in prison, a fine of up to $100,000, and could
+  also face deportation under federal law.
 primary_entities:
 - Marva Cook
 - Syracuse
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6898
 - slug: 2026-10-23-federal-voter-fraud-cases-target-california-citizenship-applicants
   headline: Federal voter fraud cases target California citizenship applicants
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6769
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
+  strength: 0.6837
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6754
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
+  strength: 0.6788
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6646
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6326
+  strength: 0.6763
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6527
+  strength: 0.665
 - slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
   headline: Los Angeles County officials question DOJ list of suspected non-citizens
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.647
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
+  strength: 0.6621
+- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
+  headline: DOJ charges 28 California green card holders over alleged illegal voting
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6432
+  strength: 0.6654
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6396
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6871
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.649
-- slug: 2026-10-14-federal-probe-aims-to-build-case-to-strip-omar-of-citizenship
-  headline: Federal probe aims to build case to strip Omar of citizenship
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6338
-- slug: 2026-09-30-sixth-noncitizen-voting-indictment-of-september-lands-in-minnesota
-  headline: Sixth noncitizen voting indictment of September lands in Minnesota
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6775
-- slug: 2026-10-01-dnc-sues-trump-administration-over-overseas-voting-form-changes
-  headline: DNC sues Trump administration over overseas voting form changes
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6432
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6419
-- slug: 2026-09-13-alaska-drops-voter-misconduct-cases-against-american-samoans-after-appeals-court
-  headline: Alaska drops voter-misconduct cases against American Samoans after appeals court ruling
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6305
-- slug: 2026-05-03-federal-prosecutors-charge-4-new-jersey-residents-with-illegally-voting
-  headline: Federal prosecutors charge 4 New Jersey residents with illegally voting
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6946
-- slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
-  headline: Arizona proof-of-citizenship voting law heads to Supreme Court
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6477
-- slug: 2026-07-08-justice-department-warns-state-election-officials-of-criminal-liability-for-nonc
-  headline: Justice Department warns state election officials of criminal liability for noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6343
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6295
-- slug: 2026-05-20-ohio-judge-acquits-maria-dearaujo-of-illegally-voting-as-a-noncitizen
-  headline: Ohio judge acquits Maria Dearaujo of illegally voting as a noncitizen
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.657
+  strength: 0.6502
 ---
-
 ## Prosecutors charge Marva Cook after she says she learned she was not a citizen
 
 **Subtype:** fact

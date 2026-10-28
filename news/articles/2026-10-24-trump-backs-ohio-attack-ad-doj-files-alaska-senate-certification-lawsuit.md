@@ -2,8 +2,20 @@
 headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
 secondary_headline: Second registered Republican Dan Sullivan is not the party nominee
 publish_date: '2026-10-24'
-lede: The Justice Department asked a federal judge on Oct. 23 to block certification of Alaska's U.S. Senate results if President Trump's preferred candidate does not win, according to NPR's political analysis. The report also examined Ohio's gubernatorial race, where Trump told Republican candidate Vivek Ramaswamy to keep an attack ad featuring Amy Acton's estranged mother running. NPR senior political contributor Ron Elving said the ad could affect Republican incumbent Jon Husted's tight reelection race and that broader intervention by Trump could raise concerns beyond Alaska.
-nut_graf: 'The two matters place Trump''s direction at the center of separate state-level election contests: a Republican attack ad involving a Democratic candidate''s estranged mother and a Justice Department request that a federal judge block certification of Alaska''s Senate results if Trump''s preferred candidate does not win. Elving said the Ohio controversy could spill into the state''s Senate contest, while the Alaska lawsuit put federal intervention into the state''s election-certification process.'
+lede: The Justice Department asked a federal judge on Oct. 23 to block certification
+  of Alaska's U.S. Senate results if President Trump's preferred candidate does not
+  win, according to NPR's political analysis. The report also examined Ohio's gubernatorial
+  race, where Trump told Republican candidate Vivek Ramaswamy to keep an attack ad
+  featuring Amy Acton's estranged mother running. NPR senior political contributor
+  Ron Elving said the ad could affect Republican incumbent Jon Husted's tight reelection
+  race and that broader intervention by Trump could raise concerns beyond Alaska.
+nut_graf: 'The two matters place Trump''s direction at the center of separate state-level
+  election contests: a Republican attack ad involving a Democratic candidate''s estranged
+  mother and a Justice Department request that a federal judge block certification
+  of Alaska''s Senate results if Trump''s preferred candidate does not win. Elving
+  said the Ohio controversy could spill into the state''s Senate contest, while the
+  Alaska lawsuit put federal intervention into the state''s election-certification
+  process.'
 primary_entities:
 - Trump
 - Vivek Ramaswamy
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +163,58 @@ related_stories:
   headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7905
+  strength: 0.793
 - slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
-  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7797
+  strength: 0.7813
 - slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
-  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7777
+  strength: 0.7783
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7639
+  strength: 0.7636
+- slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
+  headline: Polls show narrower Democratic lead in competitive House seats
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.753
+- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
+  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7549
+- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
+  headline: Justice Department files pre-election challenge to Alaska Senate certification
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7536
 - slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
   headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7655
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7452
-- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7461
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7388
-- slug: 2026-10-22-dewine-says-acton-certainly-told-the-truth-in-his-experience
-  headline: DeWine says Acton 'certainly told the truth' in his experience
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7409
-- slug: 2026-10-21-ramaswamy-pledges-4m-to-air-attack-ad-featuring-amy-acton-s-mother
-  headline: Ramaswamy pledges $4m to air attack ad featuring Amy Acton's mother
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7446
-- slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
-  headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7479
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6769
-- slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
-  headline: Blanche won't rule out DOJ role in state election certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.675
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6795
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7005
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6827
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7457
-- slug: 2026-07-11-alaska-senate-challenger-dan-j-sullivan-keeps-low-profile-on-july-fourth
-  headline: Alaska Senate challenger Dan J. Sullivan keeps low profile on July Fourth
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6778
-- slug: 2026-06-15-alaska-disqualifies-challenger-dan-sullivan-from-senate-primary-citing-voter-con
-  headline: Alaska disqualifies challenger Dan Sullivan from Senate primary, citing voter confusion
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6931
-- slug: 2026-05-04-what-to-expect-in-ohio-s-statewide-primaries-for-governor-senate-and-house
-  headline: What to expect in Ohio’s statewide primaries for governor, Senate and House
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7166
+  strength: 0.7667
 image:
   url: /articles/2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit.png
-  alt: "Illustration accompanying article: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit"
+  alt: 'Illustration accompanying article: Trump backs Ohio attack ad; DOJ files Alaska
+    Senate certification lawsuit'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
 
 **Subtype:** fact

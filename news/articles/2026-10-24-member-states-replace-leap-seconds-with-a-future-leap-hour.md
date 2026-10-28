@@ -2,8 +2,16 @@
 headline: Member states replace leap seconds with a future leap hour
 secondary_headline: Most people will not notice the change, Philippe Richard says
 publish_date: '2026-10-24'
-lede: Member states at the General Conference on Weights and Measure have decided to abandon leap seconds and introduce a future leap hour, according to Philippe Richard, director of the Swiss Federal Institute of Metrology. The conference met in Versailles near Paris before Richard discussed the vote with NPR host Scott Simon in an interview published October 24, 2026. Richard said most people would not notice a difference in daily life.
-nut_graf: The decision changes the scale and timing of future corrections to the world's time standard, not the precision required by technical systems. Richard said electricity networks, computer networks and satellite positioning increasingly depend on synchronized measurements.
+lede: Member states at the General Conference on Weights and Measure have decided
+  to abandon leap seconds and introduce a future leap hour, according to Philippe
+  Richard, director of the Swiss Federal Institute of Metrology. The conference met
+  in Versailles near Paris before Richard discussed the vote with NPR host Scott Simon
+  in an interview published October 24, 2026. Richard said most people would not notice
+  a difference in daily life.
+nut_graf: The decision changes the scale and timing of future corrections to the world's
+  time standard, not the precision required by technical systems. Richard said electricity
+  networks, computer networks and satellite positioning increasingly depend on synchronized
+  measurements.
 primary_entities:
 - Scott Simon
 - Philippe Richard
@@ -35,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,109 +141,8 @@ cross_article_links:
   strength: 0.542
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-ipcc-suspends-meeting-without-setting-ar7-publication-timeline
-  headline: IPCC suspends meeting without setting AR7 publication timeline
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5519
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5504
-- slug: 2026-09-02-un-report-acknowledges-earth-will-exceed-paris-climate-threshold
-  headline: UN report acknowledges Earth will exceed Paris climate threshold
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5494
-- slug: 2026-03-05-states-pursue-an-end-to-twice-a-year-clock-changes
-  headline: States pursue an end to twice-a-year clock changes
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6445
-- slug: 2026-07-08-warsh-era-fed-minutes-reveal-stark-division-on-rate-path
-  headline: Warsh-era Fed minutes reveal stark division on rate path
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5574
-- slug: 2026-06-14-scientists-warn-amoc-collapse-risk-growing-as-monitoring-funding-falters
-  headline: Scientists warn AMOC collapse risk growing as monitoring funding falters
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5697
-- slug: 2026-06-11-ai-convenience-may-harm-health-researchers-warn
-  headline: AI convenience may harm health, researchers warn
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5679
-- slug: 2026-05-19-scientists-revise-global-warming-projections-say-worst-and-best-cases-no-longer-
-  headline: Scientists revise global warming projections, say worst and best cases no longer plausible
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5821
-- slug: 2026-07-14-house-panel-advances-bill-for-permanent-daylight-saving-time
-  headline: House panel advances bill for permanent daylight saving time
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5321
-- slug: 2026-03-13-what-to-know-about-your-health-as-the-us-springs-forward-sunday
-  headline: What to know about your health as the US springs forward Sunday
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.5991
-- slug: 2026-05-18-scientists-revise-global-warming-futures-say-1-5-c-goal-slipping
-  headline: Scientists revise global warming futures, say 1.5°C goal slipping
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5711
-- slug: 2026-05-17-experts-share-strategies-to-rebuild-attention-spans-shrinking-to-47-seconds
-  headline: Experts share strategies to rebuild attention spans shrinking to 47 seconds
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.571
-- slug: 2026-05-20-scientists-narrow-climate-warming-futures-but-say-1-5-c-is-slipping
-  headline: Scientists narrow climate warming futures, but say 1.5°C is slipping
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5628
-- slug: 2026-06-01-pochettino-s-laptop-timeout-adds-new-wrinkle-to-world-cup-s-mid-half-breaks
-  headline: Pochettino's laptop timeout adds new wrinkle to World Cup's mid-half breaks
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5538
-- slug: 2026-06-09-mit-researchers-use-wristband-to-capture-hand-motion-for-robot-training
-  headline: MIT researchers use wristband to capture hand motion for robot training
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5399
-- slug: 2026-05-10-pediatricians-urge-schools-to-protect-recess-for-students-of-all-ages
-  headline: Pediatricians urge schools to protect recess for students of all ages
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5418
-- slug: 2026-01-30-doomsday-clock-advances-to-85-seconds-to-midnight
-  headline: Doomsday Clock’ advances to 85 seconds to midnight
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.5602
-- slug: 2026-05-19-scientists-narrow-climate-worst-and-best-case-projections-but-1-5-goal-slipping
-  headline: Scientists narrow climate worst and best case projections, but 1.5 goal slipping
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5326
-- slug: 2026-03-04-macron-says-france-will-align-nuclear-deterrence-with-european-allies
-  headline: Macron says France will align nuclear deterrence with European allies
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5481
-- slug: 2026-01-22-seismic-networks-help-track-falling-space-debris
-  headline: Seismic networks help track falling space debris
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5494
+related_stories: []
 ---
-
 ## Member states replace leap seconds with a future leap hour
 
 **Subtype:** fact

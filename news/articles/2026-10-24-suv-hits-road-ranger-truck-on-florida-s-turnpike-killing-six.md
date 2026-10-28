@@ -1,9 +1,15 @@
 ---
 headline: SUV hits Road Ranger truck on Florida's Turnpike, killing six
-secondary_headline: Both vehicles caught fire, trapping the six people inside the SUV
+secondary_headline: Both vehicles caught fire, trapping the six people inside the
+  SUV
 publish_date: '2026-10-24'
-lede: Six people died Friday night after a northbound Chevy Traverse struck a state Road Ranger truck assisting another crash on Florida's Turnpike in Orange County, according to the Florida Highway Patrol. Witnesses said the SUV was speeding with its headlights off.
-nut_graf: The collision occurred while the state Road Ranger truck was assisting another crash. All six people in the striking SUV died at the scene, while the Road Ranger driver suffered minor injuries and did not require medical assistance.
+lede: Six people died Friday night after a northbound Chevy Traverse struck a state
+  Road Ranger truck assisting another crash on Florida's Turnpike in Orange County,
+  according to the Florida Highway Patrol. Witnesses said the SUV was speeding with
+  its headlights off.
+nut_graf: The collision occurred while the state Road Ranger truck was assisting another
+  crash. All six people in the striking SUV died at the scene, while the Road Ranger
+  driver suffered minor injuries and did not require medical assistance.
 primary_entities:
 - Florida Highway Patrol
 - Road Ranger
@@ -40,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +145,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-05-school-bus-rollover-kills-two-in-winter-haven-florida
-  headline: School bus rollover kills two in Winter Haven, Florida
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6377
-- slug: 2026-10-12-sheriff-wayne-ivey-names-kevin-morris-as-deputy-killed-in-i-95-crash
-  headline: Sheriff Wayne Ivey names Kevin Morris as deputy killed in I-95 crash
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5907
-- slug: 2026-10-09-driver-reportedly-trying-to-beat-bronx-traffic-light-kills-one-injures-nine
-  headline: Driver reportedly trying to beat Bronx traffic light kills one, injures nine
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5723
-- slug: 2026-10-05-school-bus-passengers-accounted-for-6-of-crash-deaths-nsc-data-shows
-  headline: School bus passengers accounted for 6% of crash deaths, NSC data shows
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5743
-- slug: 2026-09-30-two-killed-as-car-strikes-pedestrians-at-canada-reconciliation-event
-  headline: Two killed as car strikes pedestrians at Canada reconciliation event
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.566
-- slug: 2026-09-16-nbc4-helicopter-crash-in-los-angeles-neighborhood-kills-at-least-three
-  headline: NBC4 helicopter crash in Los Angeles neighborhood kills at least three
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5644
-- slug: 2026-09-07-small-plane-crashes-near-titusville-airport-ntsb-says
-  headline: Small plane crashes near Titusville airport, NTSB says
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.592
-- slug: 2026-07-15-carbon-monoxide-confirmed-in-parked-ford-explorer-where-3-died-2-critical-in-tol
-  headline: Carbon monoxide confirmed in parked Ford Explorer where 3 died, 2 critical in Toledo
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6054
 - slug: 2026-04-05-police-pursuits-lead-to-8-deaths-nationwide-calls-grow-to-curb-chases
   headline: Police pursuits lead to 8 deaths nationwide, calls grow to curb chases
   publish_date: '2026-04-05'
   relation: related
   strength: 0.6605
-- slug: 2026-07-14-tractor-trailer-strikes-and-kills-man-fleeing-ice-agents-in-florida
-  headline: Tractor-trailer strikes and kills man fleeing ICE agents in Florida
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5814
-- slug: 2026-07-16-ntsb-finds-tesla-driver-overrode-self-driving-before-fatal-texas-crash
-  headline: NTSB finds Tesla driver overrode self-driving before fatal Texas crash
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5776
-- slug: 2026-04-06-police-pursuits-lead-to-8-deaths-nationwide-prompting-calls-to-curb-chases
-  headline: Police pursuits lead to 8 deaths nationwide, prompting calls to curb chases
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6421
-- slug: 2026-07-14-third-immigration-enforcement-death-in-week-after-florida-semi-collision
-  headline: Third immigration enforcement death in week after Florida semi collision
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5776
-- slug: 2026-05-29-bus-strikes-6-vehicles-at-virginia-i-95-work-zone-killing-5
-  headline: Bus strikes 6 vehicles at Virginia I-95 work zone, killing 5
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6142
-- slug: 2026-06-30-coach-bus-flips-on-long-island-expressway-killing-two-in-queens-chain-collision
-  headline: Coach bus flips on Long Island Expressway, killing two in Queens chain collision
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5797
-- slug: 2026-06-17-small-plane-crashes-on-texas-highway-killing-1
-  headline: Small plane crashes on Texas highway, killing 1
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5854
-- slug: 2026-04-04-police-pursuits-linked-to-8-deaths-in-separate-u-s-incidents
-  headline: Police pursuits linked to 8 deaths in separate U.S. incidents
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6207
-- slug: 2026-02-26-florida-deputy-shot-and-killed-suspect-after-suv-strike-3-killed-1-hurt
-  headline: Florida deputy shot and killed suspect after SUV strike; 3 killed, 1 hurt
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6268
-- slug: 2026-05-31-virginia-tour-bus-driver-charged-with-manslaughter-in-i-95-crash
-  headline: Virginia tour bus driver charged with manslaughter in I-95 crash
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5732
-- slug: 2026-06-08-truck-carrying-fireworks-explodes-on-tennessee-highway
-  headline: Truck carrying fireworks explodes on Tennessee highway
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5648
 ---
-
 ## SUV hits Road Ranger truck on Florida's Turnpike, killing six
 
 **Subtype:** fact

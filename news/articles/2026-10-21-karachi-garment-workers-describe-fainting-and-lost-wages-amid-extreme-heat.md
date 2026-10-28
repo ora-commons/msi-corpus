@@ -2,8 +2,18 @@
 headline: Karachi garment workers describe fainting and lost wages amid extreme heat
 secondary_headline: Workers describe broken fans and missing heat safeguards at factories
 publish_date: '2026-10-21'
-lede: More than a dozen garment workers in Karachi, Pakistan, told The Associated Press that they faced scorching workplaces, absent heat protocols and negative health effects, including fainting. All but one said heat-related illness forced them to miss work and cost them wages, while 10 said they made goods for global brands sold in the United States and Europe. Siddiqui, 28, said her supervisor told her to complete the work; darkness then came before her eyes, and she collapsed. Experts and labor rights advocates said global companies' safety pledges remained unfulfilled as extreme heat intensified.
-nut_graf: 'The interviews document fainting, lost wages and missing heat protocols among workers producing clothing for global markets. Experts and labor rights advocates say the central issue is enforcement: whether corporate safety pledges reach workers exposed to extreme heat.'
+lede: More than a dozen garment workers in Karachi, Pakistan, told The Associated
+  Press that they faced scorching workplaces, absent heat protocols and negative health
+  effects, including fainting. All but one said heat-related illness forced them to
+  miss work and cost them wages, while 10 said they made goods for global brands sold
+  in the United States and Europe. Siddiqui, 28, said her supervisor told her to complete
+  the work; darkness then came before her eyes, and she collapsed. Experts and labor
+  rights advocates said global companies' safety pledges remained unfulfilled as extreme
+  heat intensified.
+nut_graf: 'The interviews document fainting, lost wages and missing heat protocols
+  among workers producing clothing for global markets. Experts and labor rights advocates
+  say the central issue is enforcement: whether corporate safety pledges reach workers
+  exposed to extreme heat.'
 primary_entities:
 - Associated Press
 - Karachi
@@ -57,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,108 +166,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-25-workers-labor-in-record-us-heat-as-federal-heat-safety-rule-remains-frozen
-  headline: Workers labor in record US heat as federal heat-safety rule remains frozen
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6459
-- slug: 2026-09-26-five-gazans-show-how-the-blockade-reshapes-daily-life
-  headline: Five Gazans show how the blockade reshapes daily life
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5715
 - slug: 2026-06-18-textile-factory-heat-in-surat-poses-dangers-for-workers
   headline: Textile factory heat in Surat poses dangers for workers
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.7018
+  strength: 0.7003
 - slug: 2026-06-25-extreme-heat-endangers-indian-textile-workers-in-surat
   headline: Extreme heat endangers Indian textile workers in Surat
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6884
-- slug: 2026-07-16-in-banda-india-extreme-heat-and-power-cuts-test-daily-survival
-  headline: In Banda, India, extreme heat and power cuts test daily survival
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6121
-- slug: 2026-07-18-cma-recommends-stronger-protections-for-uk-heating-oil-customers
-  headline: CMA recommends stronger protections for UK heating oil customers
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5786
-- slug: 2026-07-10-texas-prisons-face-mounting-legal-pressure-over-extreme-heat-conditions
-  headline: Texas prisons face mounting legal pressure over extreme heat conditions
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5837
-- slug: 2026-07-14-new-heatwave-spreads-extreme-temperatures-across-us-and-canada
-  headline: New heatwave spreads extreme temperatures across US and Canada
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5701
-- slug: 2026-06-26-americans-in-europe-admit-they-underestimated-continent-s-heat-waves
-  headline: Americans in Europe admit they underestimated continent's heat waves
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5811
-- slug: 2026-07-02-extreme-heat-warnings-cover-midwest-eastern-u-s-as-holiday-weekend-begins
-  headline: Extreme heat warnings cover Midwest, Eastern U.S. as holiday weekend begins
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5736
-- slug: 2026-06-22-heat-stress-days-surge-globally-study-finds
-  headline: Heat stress days surge globally, study finds
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5823
-- slug: 2026-06-30-health-experts-share-tips-for-staying-safe-in-dangerous-heat
-  headline: Health experts share tips for staying safe in dangerous heat
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5718
-- slug: 2026-05-15-gaza-s-remote-work-economy-survives-war-blackouts-and-bank-restrictions
-  headline: Gaza’s remote work economy survives war, blackouts and bank restrictions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5985
-- slug: 2026-06-22-13-killed-in-blast-at-qatar-s-largest-natural-gas-plant
-  headline: 13 killed in blast at Qatar’s largest natural gas plant
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5694
-- slug: 2026-05-15-bombs-blackouts-and-bank-restrictions-fail-to-stop-gaza-s-digital-workers
-  headline: Bombs, blackouts and bank restrictions fail to stop Gaza’s digital workers
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5839
-- slug: 2026-05-09-iran-war-disruptions-spark-higher-costs-and-lost-income-in-bangladesh
-  headline: Iran war disruptions spark higher costs and lost income in Bangladesh
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5856
-- slug: 2026-05-18-fire-at-lahore-hotel-kills-3-injures-8
-  headline: Fire at Lahore hotel kills 3, injures 8
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5808
-- slug: 2026-03-31-trial-begins-over-whether-texas-prisons-need-air-conditioning-to-save-lives
-  headline: Trial begins over whether Texas prisons need air conditioning to save lives
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5966
-- slug: 2026-05-05-iran-war-sharpens-dilemmas-for-foreign-workers-in-gulf-advocates-say
-  headline: Iran war sharpens dilemmas for foreign workers in Gulf, advocates say
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5795
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5702
+  strength: 0.6885
 ---
-
 ## Karachi garment workers describe fainting and lost wages amid extreme heat
 
 **Subtype:** fact

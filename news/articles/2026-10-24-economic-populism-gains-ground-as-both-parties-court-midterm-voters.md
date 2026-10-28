@@ -1,9 +1,19 @@
 ---
 headline: Economic populism gains ground as both parties court midterm voters
-secondary_headline: Wall Street Journal survey finds majority support for economic proposals
+secondary_headline: Wall Street Journal survey finds majority support for economic
+  proposals
 publish_date: '2026-10-24'
-lede: Republican and Democratic candidates are presenting similar economic-populist messages as U.S. midterm voters seek a party that can address financial stability, NPR reported. Mara Liasson found Republican ads attacking Wall Street, pharmaceutical companies and lawmakers' wealth, while recent polling showed majority support for capping prescription drug, child-care and credit-card costs, raising taxes on the rich and Medicare for All. The report places affordability, wealth concentration and fear about the future at the center of the parties’ economic contest.
-nut_graf: The bipartisan shift puts affordability, wealth concentration and fear about the future at the center of the 2026 midterms. NPR’s report frames the central contest as which party can turn support for direct government action into a durable governing majority.
+lede: Republican and Democratic candidates are presenting similar economic-populist
+  messages as U.S. midterm voters seek a party that can address financial stability,
+  NPR reported. Mara Liasson found Republican ads attacking Wall Street, pharmaceutical
+  companies and lawmakers' wealth, while recent polling showed majority support for
+  capping prescription drug, child-care and credit-card costs, raising taxes on the
+  rich and Medicare for All. The report places affordability, wealth concentration
+  and fear about the future at the center of the parties’ economic contest.
+nut_graf: The bipartisan shift puts affordability, wealth concentration and fear about
+  the future at the center of the 2026 midterms. NPR’s report frames the central contest
+  as which party can turn support for direct government action into a durable governing
+  majority.
 primary_entities:
 - United States
 - Mara Liasson
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,44 @@ related_stories:
   headline: Republicans test whether socialism warnings still resonate in midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7182
+  strength: 0.7186
 - slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.713
-- slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
-  headline: Only one of 54 Republican economy ads in the closest races mentions Trump
-  publish_date: '2026-10-23'
+  strength: 0.7133
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6956
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7408
+  strength: 0.7051
 - slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
   headline: Populist Democrats make the affordability pitch in red-state races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7151
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  strength: 0.7157
+- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
+  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7267
+  strength: 0.7389
+- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
+  publish_date: '2026-10-15'
+  relation: related
+  strength: 0.7252
 - slug: 2026-10-14-pew-finds-more-americans-now-call-for-full-rebuild-of-economic-system
   headline: Pew finds more Americans now call for full rebuild of economic system
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6984
+  strength: 0.6982
 - slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
   headline: Republican candidates recalibrate on affordability ahead of November midterms
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7265
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7091
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7239
-- slug: 2026-10-08-conservative-podcasts-match-left-leaning-creators-in-affordability-talk
-  headline: Conservative podcasts match left-leaning creators in 'affordability' talk
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6955
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7362
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6966
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7015
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6993
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6962
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7101
-- slug: 2026-08-27-survey-of-6-000-americans-names-kitchen-table-populism-as-top-democratic-message
-  headline: Survey of 6,000 Americans names 'kitchen-table populism' as top Democratic message
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7303
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7131
+  strength: 0.7271
 ---
-
 ## Economic populism gains ground as both parties court midterm voters
 
 **Subtype:** fact

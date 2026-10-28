@@ -1,9 +1,25 @@
 ---
 headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
-secondary_headline: AI-related shares rallied, cushioning a broad decline across the S&P 500
+secondary_headline: AI-related shares rallied, cushioning a broad decline across the
+  S&P 500
 publish_date: '2026-10-23'
-lede: Wall Street closed broadly lower on Friday, October 23, 2026, as Brent crude oil rose 3.1% to settle at $116.72 a barrel, its highest close since June 2022. The S&P 500 fell 0.5%, the Dow Jones Industrial Average dropped 1.2% and the Nasdaq composite slipped 0.2% after giving up a modest gain. The U.S. war with Iran had severely cut the world's oil supply, driving energy prices higher. Wall Street expected the Federal Reserve to hold rates steady at its meeting next week but leaned heavily toward another rate hike in December, while U.S. inflation remained above 3% and the upcoming PCE report was expected to show 3.7% September inflation, above the Federal Reserve's 2% target.
-nut_graf: 'Friday''s session put two developments on the same screen: crude oil at a close not seen since June 2022, and the S&P 500 absorbing a second consecutive weekly loss. The market''s losses were broad, with nearly three out of every four S&P 500 stocks falling, while a rally in AI-related companies kept the decline from being steeper. The backdrop also included a Federal Reserve rate increase at its last meeting, Wall Street''s expectation of a rate hold next week and a heavy lean toward another December hike, and an upcoming PCE report expected to show 3.7% September inflation, above the Federal Reserve''s 2% target.'
+lede: Wall Street closed broadly lower on Friday, October 23, 2026, as Brent crude
+  oil rose 3.1% to settle at $116.72 a barrel, its highest close since June 2022.
+  The S&P 500 fell 0.5%, the Dow Jones Industrial Average dropped 1.2% and the Nasdaq
+  composite slipped 0.2% after giving up a modest gain. The U.S. war with Iran had
+  severely cut the world's oil supply, driving energy prices higher. Wall Street expected
+  the Federal Reserve to hold rates steady at its meeting next week but leaned heavily
+  toward another rate hike in December, while U.S. inflation remained above 3% and
+  the upcoming PCE report was expected to show 3.7% September inflation, above the
+  Federal Reserve's 2% target.
+nut_graf: 'Friday''s session put two developments on the same screen: crude oil at
+  a close not seen since June 2022, and the S&P 500 absorbing a second consecutive
+  weekly loss. The market''s losses were broad, with nearly three out of every four
+  S&P 500 stocks falling, while a rally in AI-related companies kept the decline from
+  being steeper. The backdrop also included a Federal Reserve rate increase at its
+  last meeting, Wall Street''s expectation of a rate hold next week and a heavy lean
+  toward another December hike, and an upcoming PCE report expected to show 3.7% September
+  inflation, above the Federal Reserve''s 2% target.'
 primary_entities:
 - Brent crude oil
 - S&P 500
@@ -41,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +157,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-brent-crude-settles-at-116-72-as-wall-street-closes-broadly-lower.png
-  alt: 'Illustration accompanying article: Brent crude settles at $116.72 as Wall Street closes broadly lower'
+  alt: 'Illustration accompanying article: Brent crude settles at $116.72 as Wall
+    Street closes broadly lower'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7858
+  strength: 0.8033
 - slug: 2026-10-08-brent-crude-jumps-4-on-persian-gulf-tanker-attack-as-stocks-retreat
   headline: Brent crude jumps 4% on Persian Gulf tanker attack as stocks retreat
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7574
+  strength: 0.7896
 - slug: 2026-07-23-oil-tops-100-tech-selloff-deepens-as-wall-street-slides
   headline: Oil tops $100, tech selloff deepens as Wall Street slides
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7754
-- slug: 2026-07-29-dow-drops-1-153-points-as-oil-surges-7-3-on-resumed-iran-fighting
-  headline: Dow drops 1,153 points as oil surges 7.3% on resumed Iran fighting
-  publish_date: '2026-07-29'
+  strength: 0.7839
+- slug: 2026-03-06-oil-hits-highest-price-since-2023-as-iran-war-weak-jobs-report-fan-stagflation-f
+  headline: Oil hits highest price since 2023 as Iran war, weak jobs report fan stagflation
+    fears
+  publish_date: '2026-03-06'
   relation: related
-  strength: 0.7568
-- slug: 2026-07-13-wall-street-drops-as-chip-stocks-slide-4-8-oil-hits-83-on-iran-blockade
-  headline: Wall Street drops as chip stocks slide 4.8%, oil hits $83 on Iran blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7559
+  strength: 0.8522
 - slug: 2026-04-29-sinking-ai-stocks-and-rising-oil-prices-weigh-on-wall-street
   headline: Sinking AI stocks and rising oil prices weigh on Wall Street
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.8105
+  strength: 0.8245
+- slug: 2026-03-05-oil-spike-drives-wall-street-lower-as-iran-war-stokes-global-economic-fears
+  headline: Oil spike drives Wall Street lower as Iran war stokes global economic
+    fears
+  publish_date: '2026-03-05'
+  relation: related
+  strength: 0.8288
 - slug: 2026-05-13-wall-street-s-record-run-halts-as-ai-chip-stocks-slide-and-oil-rises
   headline: Wall Street’s record run halts as AI chip stocks slide and oil rises
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7974
-- slug: 2026-03-06-oil-hits-highest-price-since-2023-as-iran-war-weak-jobs-report-fan-stagflation-f
-  headline: Oil hits highest price since 2023 as Iran war, weak jobs report fan stagflation fears
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.8126
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7847
+  strength: 0.8036
 - slug: 2026-05-26-wall-street-sets-more-records-as-oil-prices-fall-on-us-iran-ceasefire-hold
-  headline: Wall Street sets more records as oil prices fall on US-Iran ceasefire hold
+  headline: Wall Street sets more records as oil prices fall on US-Iran ceasefire
+    hold
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.7792
-- slug: 2026-05-20-oil-s-latest-dip-helps-us-stocks-erase-losses-nasdaq-edges-up
-  headline: Oil’s latest dip helps US stocks erase losses; Nasdaq edges up
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7735
-- slug: 2026-05-26-another-surge-for-micron-wall-street-s-latest-1-trillion-company-sends-us-stocks
-  headline: Another surge for Micron, Wall Street's latest $1 trillion company, sends US stocks to records
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.768
-- slug: 2026-05-13-wall-street-s-record-run-stumbles-as-oil-jumps-and-ai-chip-stocks-slide
-  headline: Wall Street’s record run stumbles as oil jumps and AI chip stocks slide
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7647
-- slug: 2026-05-06-wall-street-hits-records-as-oil-eases-and-earnings-beat-expectations
-  headline: Wall Street hits records as oil eases and earnings beat expectations
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7677
-- slug: 2026-05-08-us-stocks-fall-from-records-as-oil-prices-yo-yo-amid-iran-talks
-  headline: US stocks fall from records as oil prices yo-yo amid Iran talks
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7645
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7567
-- slug: 2026-05-07-oil-falls-and-markets-rally-as-strait-of-hormuz-reopening-hopes-grow
-  headline: Oil falls and markets rally as Strait of Hormuz reopening hopes grow
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7579
-- slug: 2026-03-05-oil-spike-drives-wall-street-lower-as-iran-war-stokes-global-economic-fears
-  headline: Oil spike drives Wall Street lower as Iran war stokes global economic fears
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7737
-- slug: 2026-04-24-us-stocks-slip-as-brent-oil-tops-107-on-strait-of-hormuz-tensions
-  headline: US stocks slip as Brent oil tops $107 on Strait of Hormuz tensions
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.7602
-- slug: 2026-03-20-brent-crude-tops-119-briefly-then-retreats-as-markets-swing-on-iran
-  headline: Brent crude tops $119 briefly, then retreats as markets swing on Iran
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7676
+  strength: 0.7962
 ---
-
 ## Brent crude settles at $116.72 as Wall Street closes broadly lower
 
 **Subtype:** fact

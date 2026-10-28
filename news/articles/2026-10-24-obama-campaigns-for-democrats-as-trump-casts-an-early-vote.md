@@ -2,8 +2,15 @@
 headline: Obama campaigns for Democrats as Trump casts an early vote
 secondary_headline: Trump says he may finish the Iran war or reach a deal
 publish_date: '2026-10-24'
-lede: Barack Obama campaigned for Democrats in Ohio on October 24, 2026, and was scheduled to campaign in Michigan, while Donald Trump cast an advance Florida ballot and was headed to Georgia. In Cleveland, Obama criticized the Trump administration over consumer prices and the Iran war. Trump said the conflict might end in a deal or be finished, adding, “Either way, we win.”
-nut_graf: Early voting was underway ahead of the November 3 midterm elections, which will decide which party controls Congress for the rest of Trump’s presidency. Obama’s message focused on consumer prices and the Iran war, while Trump said he had handled the war effectively and campaigned for Republican candidates.
+lede: Barack Obama campaigned for Democrats in Ohio on October 24, 2026, and was scheduled
+  to campaign in Michigan, while Donald Trump cast an advance Florida ballot and was
+  headed to Georgia. In Cleveland, Obama criticized the Trump administration over
+  consumer prices and the Iran war. Trump said the conflict might end in a deal or
+  be finished, adding, “Either way, we win.”
+nut_graf: Early voting was underway ahead of the November 3 midterm elections, which
+  will decide which party controls Congress for the rest of Trump’s presidency. Obama’s
+  message focused on consumer prices and the Iran war, while Trump said he had handled
+  the war effectively and campaigned for Republican candidates.
 primary_entities:
 - Barack Obama
 - Donald Trump
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +152,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
+  headline: Former President Obama criticizes Trump at Ohio midterm rally
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8145
 - slug: 2026-10-24-obama-stumps-in-ohio-accuses-trump-of-corruption-and-incompetence
   headline: Obama stumps in Ohio, accuses Trump of 'corruption and incompetence'
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7931
+  strength: 0.7926
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7192
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6954
+- slug: 2026-10-27-gop-strategists-issue-warnings-over-iran-war-as-dubow-tips-toward-democrats
+  headline: GOP strategists issue warnings over Iran war as Dubow tips toward Democrats
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6879
 - slug: 2026-10-15-trump-says-iran-war-will-end-very-soon-as-midterm-pressure-builds
   headline: Trump says Iran war will end 'very soon' as midterm pressure builds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6761
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6683
+  strength: 0.6769
 - slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
   headline: Trump launches rally blitz to boost GOP midterm turnout
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6837
+  strength: 0.6832
 - slug: 2026-10-08-trump-says-us-will-not-attack-iran-before-midterm-elections
   headline: Trump says US will not attack Iran before midterm elections
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6804
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.694
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6682
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6991
-- slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
-  headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6925
-- slug: 2026-09-25-republicans-break-with-trump-on-iran-war-and-immigration-ahead-of-midterms
-  headline: Republicans break with Trump on Iran war and immigration ahead of midterms
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.682
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6695
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6728
-- slug: 2026-08-27-iran-war-at-six-months-looms-over-house-races-as-gas-prices-climb
-  headline: Iran war at six months looms over House races as gas prices climb
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6679
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6817
-- slug: 2026-05-27-trump-is-getting-the-gop-he-wants-but-can-he-win-the-midterms
-  headline: Trump is getting the GOP he wants, but can he win the midterms?
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.694
-- slug: 2026-04-04-midterm-elections-loom-as-gop-grapples-with-trump-s-wartime-presidency
-  headline: Midterm elections loom as GOP grapples with Trump's wartime presidency
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7143
-- slug: 2026-03-26-trump-vows-bigger-gop-majorities-for-november-amid-warning-signs
-  headline: Trump vows bigger GOP majorities for November amid warning signs
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7046
-- slug: 2026-03-25-trump-promises-bigger-gop-majorities-as-warning-signs-flash-for-party
-  headline: Trump promises bigger GOP majorities as warning signs flash for party
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6985
-- slug: 2026-03-15-how-mixed-messaging-on-iran-may-have-trump-reeling-politically
-  headline: How mixed messaging on Iran may have Trump reeling politically
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6806
-- slug: 2026-02-20-trump-visits-georgia-as-republicans-seek-midterm-boost-amid-election-claims
-  headline: Trump visits Georgia as Republicans seek midterm boost amid election claims
-  publish_date: '2026-02-20'
-  relation: related
   strength: 0.6805
 ---
-
 ## Obama campaigns for Democrats as Trump casts an early vote
 
 **Subtype:** fact

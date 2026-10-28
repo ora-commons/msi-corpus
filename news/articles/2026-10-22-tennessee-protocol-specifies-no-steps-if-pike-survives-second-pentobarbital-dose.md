@@ -1,9 +1,21 @@
 ---
-headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital dose
+headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital
+  dose
 secondary_headline: Establishing Pike’s left-arm IV took nearly an hour
 publish_date: '2026-10-22'
-lede: Tennessee’s execution protocol calls for a second pentobarbital dose if the first does not result in death, but does not specify what to do if a person survives the second injection. The filing concerns Tennessee’s Sept. 30 attempt to execute Christa Pike. Attorney Randy Spivey wrote that staff used about 10 needles across several sites in both of Pike’s arms and struggled to push saline through the last IV site they established. Spivey also wrote that staff established an IV in Pike’s right arm within about 6 minutes but took nearly an hour to complete the process in her left arm after she advised them to look in her upper arm.
-nut_graf: The document was part of a separate legal proceeding in which people on Tennessee’s death row are challenging the state’s lethal-injection procedures. After the Sept. 30 attempt, Pike, 50, spent several days on a ventilator; at one point, her attorneys did not expect her to survive. She ultimately regained consciousness and returned to prison after discharge.
+lede: Tennessee’s execution protocol calls for a second pentobarbital dose if the
+  first does not result in death, but does not specify what to do if a person survives
+  the second injection. The filing concerns Tennessee’s Sept. 30 attempt to execute
+  Christa Pike. Attorney Randy Spivey wrote that staff used about 10 needles across
+  several sites in both of Pike’s arms and struggled to push saline through the last
+  IV site they established. Spivey also wrote that staff established an IV in Pike’s
+  right arm within about 6 minutes but took nearly an hour to complete the process
+  in her left arm after she advised them to look in her upper arm.
+nut_graf: The document was part of a separate legal proceeding in which people on
+  Tennessee’s death row are challenging the state’s lethal-injection procedures. After
+  the Sept. 30 attempt, Pike, 50, spent several days on a ventilator; at one point,
+  her attorneys did not expect her to survive. She ultimately regained consciousness
+  and returned to prison after discharge.
 primary_entities:
 - Christa Pike
 - Randy Spivey
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,27 +154,29 @@ related_stories:
   headline: Medical experts fault Tennessee's IV team after Pike's failed execution
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8427
+  strength: 0.8428
 - slug: 2026-10-22-randy-spivey-details-team-doubts-before-christa-pike-s-failed-execution
   headline: Randy Spivey details team doubts before Christa Pike’s failed execution
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8376
 - slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
+  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed
+    execution in 14 months
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8529
+  strength: 0.853
 - slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
+  headline: Christa Pike survives Tennessee execution; governor calls for review of
+    what went wrong
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.8089
+  strength: 0.8087
 - slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
   headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8434
+  strength: 0.8433
 - slug: 2026-10-10-tennessee-says-it-followed-protocol-as-christa-pike-recovers
   headline: Tennessee says it followed protocol as Christa Pike recovers
   publish_date: '2026-10-10'
@@ -171,83 +186,27 @@ related_stories:
   headline: Judge orders preservation of Pike execution chamber drugs and equipment
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8056
+  strength: 0.805
 - slug: 2026-10-02-filing-tennessee-team-gave-pike-backup-pentobarbital-instead-of-fixing-iv
-  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing IV'
+  headline: 'Filing: Tennessee team gave Pike backup pentobarbital instead of fixing
+    IV'
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8245
-- slug: 2026-10-10-no-official-explanation-for-why-pike-survived-tennessee-s-failed-execution
-  headline: No official explanation for why Pike survived Tennessee's failed execution
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7742
-- slug: 2026-10-07-texas-schedules-first-us-execution-since-tennessee-s-botched-pike-injection
-  headline: Texas schedules first US execution since Tennessee's botched Pike injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7879
-- slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.8185
-- slug: 2026-10-07-judge-orders-preservation-of-evidence-in-tennessee-s-failed-pike-execution
-  headline: Judge orders preservation of evidence in Tennessee's failed Pike execution
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.785
-- slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8114
-- slug: 2026-10-08-lawyer-reports-seven-needles-one-bent-in-pike-s-arm-after-execution
-  headline: Lawyer reports seven needles, one bent, in Pike's arm after execution
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7767
-- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
-  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7998
-- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
-  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7944
-- slug: 2026-10-07-lawyer-says-pike-helped-execution-team-find-a-vein-was-kind-and-polite
-  headline: Lawyer says Pike helped execution team find a vein, was 'kind and polite'
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7727
-- slug: 2026-10-08-christa-pike-is-walking-after-surviving-failed-tennessee-execution
-  headline: Christa Pike is walking after surviving failed Tennessee execution
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7651
-- slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
-  headline: Tennessee weighs execution options after Pike survives lethal injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.769
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7903
+  strength: 0.8247
 image:
   url: /articles/2026-10-22-tennessee-protocol-specifies-no-steps-if-pike-survives-second-pentobarbital-dose.png
-  alt: "Illustration accompanying article: Tennessee protocol specifies no steps if Pike survives second pentobarbital dose"
+  alt: 'Illustration accompanying article: Tennessee protocol specifies no steps if
+    Pike survives second pentobarbital dose'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Tennessee protocol specifies no steps if Pike survives second pentobarbital dose
 
 **Subtype:** fact

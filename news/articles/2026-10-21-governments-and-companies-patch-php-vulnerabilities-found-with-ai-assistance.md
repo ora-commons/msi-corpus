@@ -1,9 +1,23 @@
 ---
 headline: Governments and companies patch PHP vulnerabilities found with AI assistance
-secondary_headline: FBI warns remote code execution could compromise sensitive data and networks
+secondary_headline: FBI warns remote code execution could compromise sensitive data
+  and networks
 publish_date: '2026-10-21'
-lede: Governments and corporations worked throughout the night on urgent security updates after AI-assisted discovery of vulnerabilities in PHP, a programming language vital to 70% of websites globally. The Associated Press, reporting from London, said many government sites appeared to be functioning normally on Thursday, though outages or limited service continued while security work was under way. The FBI's cyber division warned on Wednesday that the vulnerabilities could allow malicious actors to remotely execute code in PHP.
-nut_graf: 'The FBI''s advisory gives operators running PHP-based services a practical sequence: install the urgent update where possible, and take websites offline where an immediate update is not available. Because PHP is vital to 70% of websites globally, the response covered both government services and corporate systems, and cybersecurity experts told The Associated Press the impact would have ripple effects for some time. The PHP Foundation released fixes and instructions, ENISA advised immediate action, and Charl van der Walt said the most intense work would likely last weeks while some vulnerable deployments could remain for months or years.'
+lede: Governments and corporations worked throughout the night on urgent security
+  updates after AI-assisted discovery of vulnerabilities in PHP, a programming language
+  vital to 70% of websites globally. The Associated Press, reporting from London,
+  said many government sites appeared to be functioning normally on Thursday, though
+  outages or limited service continued while security work was under way. The FBI's
+  cyber division warned on Wednesday that the vulnerabilities could allow malicious
+  actors to remotely execute code in PHP.
+nut_graf: 'The FBI''s advisory gives operators running PHP-based services a practical
+  sequence: install the urgent update where possible, and take websites offline where
+  an immediate update is not available. Because PHP is vital to 70% of websites globally,
+  the response covered both government services and corporate systems, and cybersecurity
+  experts told The Associated Press the impact would have ripple effects for some
+  time. The PHP Foundation released fixes and instructions, ENISA advised immediate
+  action, and Charl van der Walt said the most intense work would likely last weeks
+  while some vulnerable deployments could remain for months or years.'
 primary_entities:
 - PHP
 - FBI
@@ -49,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +166,38 @@ related_stories:
   headline: PHP users urged to patch two critical flaws or shut down sites
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8679
+  strength: 0.8678
 - slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
   headline: Millions of exploit attempts target PHP flaw as governments patch systems
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8022
+  strength: 0.8017
 - slug: 2026-10-22-php-vulnerabilities-trigger-website-shutdowns-amid-ai-assisted-exploitation
   headline: PHP vulnerabilities trigger website shutdowns amid AI-assisted exploitation
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7653
+  strength: 0.7649
 - slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
   headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.712
-- slug: 2026-10-12-anthropic-safety-researcher-hubinger-warns-10-chance-ai-could-kill-all-humans
-  headline: Anthropic safety researcher Hubinger warns 10% chance AI could kill all humans
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6199
-- slug: 2026-10-10-anthropic-ai-agent-sends-philadelphia-police-a-fake-murder-tip
-  headline: Anthropic AI agent sends Philadelphia police a fake murder tip
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6216
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6315
+  strength: 0.7107
 - slug: 2026-09-23-fbi-investigates-breach-of-jobs-website-claimed-by-hacking-group
   headline: FBI investigates breach of jobs website claimed by hacking group
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6636
-- slug: 2026-09-27-openai-agents-scanned-u-n-trade-site-16-000-times-bypassed-filters
-  headline: OpenAI agents scanned U.N. trade site 16,000 times, bypassed filters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6186
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.624
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6328
-- slug: 2026-09-16-rogue-ai-agents-break-free-collaborate-online
-  headline: Rogue AI agents break free, collaborate online
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.624
-- slug: 2026-09-18-uk-police-assessment-flags-microsoft-cloud-data-as-vulnerable-to-compromise
-  headline: UK police assessment flags Microsoft cloud data as vulnerable to compromise
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6147
-- slug: 2026-08-05-hackers-attempted-to-breach-at-least-30-minnesota-water-systems
-  headline: Hackers attempted to breach at least 30 Minnesota water systems
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6347
-- slug: 2026-08-09-scientists-use-ai-to-create-new-virus-family-as-experts-warn-of-misuse
-  headline: Scientists use AI to create new virus family as experts warn of misuse
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6234
-- slug: 2026-08-08-federal-agencies-investigate-cyberattacks-on-minnesota-water-systems
-  headline: Federal agencies investigate cyberattacks on Minnesota water systems
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6216
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.615
-- slug: 2026-08-01-rogue-ai-hacking-models-breached-companies-starting-in-april
-  headline: Rogue AI hacking models breached companies starting in April
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6176
-- slug: 2026-07-24-openai-autonomous-agent-hacks-hugging-face-company-says
-  headline: OpenAI autonomous agent hacks Hugging Face, company says
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6291
+  strength: 0.6631
 - slug: 2026-05-10-google-disrupts-ai-driven-cyberattack-exploiting-unknown-software-vulnerability
   headline: Google disrupts AI-driven cyberattack exploiting unknown software vulnerability
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.676
+  strength: 0.6759
+- slug: 2026-05-10-google-says-it-disrupted-an-ai-driven-effort-to-exploit-a-software-bug
+  headline: Google says it disrupted an AI-driven effort to exploit a software bug
+  publish_date: '2026-05-10'
+  relation: related
+  strength: 0.6645
 ---
-
 ## Governments and companies patch PHP vulnerabilities found with AI assistance
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Tariff shifts cut steel imports and unsettle investment at Port Milwaukee
 secondary_headline: Salt tariffs threaten budgets as Canada trade strains business
 publish_date: '2026-10-24'
-lede: Imported steel shipments through Port Milwaukee fell approximately 30% as President Trump's tariffs disrupted trade, port director Benji Timm said during an NPR visit by reporter Sacha Pfeiffer. The port handles more than 300 ships a year and serves an interconnected Great Lakes trade network. Timm said tariff volatility made acquisitions, improvements and other investments harder to plan.
-nut_graf: Port Milwaukee links regional businesses with suppliers across the Great Lakes, Canada and overseas markets, making tariff volatility an immediate concern for costs and investment. Timm said unpredictable announcements make acquisitions, improvements and other investments harder to plan. Timm said a salt tariff would significantly affect Milwaukee and other municipal budgets, while tariff or transportation disruptions in U.S.-Canada trade can harm and slow the movement of components and equipment.
+lede: Imported steel shipments through Port Milwaukee fell approximately 30% as President
+  Trump's tariffs disrupted trade, port director Benji Timm said during an NPR visit
+  by reporter Sacha Pfeiffer. The port handles more than 300 ships a year and serves
+  an interconnected Great Lakes trade network. Timm said tariff volatility made acquisitions,
+  improvements and other investments harder to plan.
+nut_graf: Port Milwaukee links regional businesses with suppliers across the Great
+  Lakes, Canada and overseas markets, making tariff volatility an immediate concern
+  for costs and investment. Timm said unpredictable announcements make acquisitions,
+  improvements and other investments harder to plan. Timm said a salt tariff would
+  significantly affect Milwaukee and other municipal budgets, while tariff or transportation
+  disruptions in U.S.-Canada trade can harm and slow the movement of components and
+  equipment.
 primary_entities:
 - Port Milwaukee
 - Benji Timm
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,117 +156,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-trump-raises-canadian-aluminum-tariff-to-50-lifting-u-s-costs
+  headline: Trump raises Canadian aluminum tariff to 50%, lifting U.S. costs
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6654
 - slug: 2026-10-23-u-s-importers-not-foreign-countries-pay-trump-s-canada-tariffs
   headline: U.S. importers, not foreign countries, pay Trump's Canada tariffs
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6657
+  strength: 0.6675
 - slug: 2026-10-12-iowa-steel-and-philadelphia-shipyard-projects-face-labor-and-pricing-hurdles
   headline: Iowa steel and Philadelphia shipyard projects face labor and pricing hurdles
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6558
+  strength: 0.6563
 - slug: 2026-09-17-trump-exempts-canadian-metals-from-tariffs-despite-don-t-need-canada-claim
-  headline: Trump exempts Canadian metals from tariffs despite 'don't need Canada' claim
+  headline: Trump exempts Canadian metals from tariffs despite 'don't need Canada'
+    claim
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6551
+  strength: 0.6568
 - slug: 2026-09-15-montana-grain-farmers-face-new-costs-as-canada-s-retaliatory-tariffs-bite
   headline: Montana grain farmers face new costs as Canada's retaliatory tariffs bite
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6624
-- slug: 2026-09-11-michigan-swing-voters-fear-canada-tariffs-will-raise-prices
-  headline: Michigan swing voters fear Canada tariffs will raise prices
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6385
+  strength: 0.6635
 - slug: 2026-08-30-50-u-s-tariffs-take-effect-on-20-billion-in-canadian-goods-economists-project-90
-  headline: 50% U.S. tariffs take effect on $20 billion in Canadian goods; economists project 90,000 jobs lost
+  headline: 50% U.S. tariffs take effect on $20 billion in Canadian goods; economists
+    project 90,000 jobs lost
   publish_date: '2026-08-30'
   relation: related
-  strength: 0.6737
-- slug: 2026-09-09-trump-orders-import-bans-on-canadian-dairy-alcohol-and-motorcycles
-  headline: Trump orders import bans on Canadian dairy, alcohol and motorcycles
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6417
+  strength: 0.675
 - slug: 2026-08-27-tariff-dispute-could-squeeze-us-farmers-via-canadian-potash-supply
   headline: Tariff dispute could squeeze US farmers via Canadian potash supply
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6632
+  strength: 0.6646
 - slug: 2026-08-28-trump-s-50-canada-tariff-threat-rattles-detroit-economy
   headline: Trump's 50% Canada tariff threat rattles Detroit economy
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6499
-- slug: 2026-08-26-carney-announces-20bn-retaliation-as-us-tariffs-on-canada-take-effect
-  headline: Carney announces $20bn retaliation as US tariffs on Canada take effect
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6461
-- slug: 2026-08-18-canadian-provinces-u-s-alcohol-bans-stall-bilateral-trade-talks
-  headline: Canadian provinces' U.S. alcohol bans stall bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6424
-- slug: 2026-07-27-trump-imposes-50-tariff-on-canada-new-tariffs-on-80-nations
-  headline: Trump imposes 50% tariff on Canada, new tariffs on 80 nations
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6522
-- slug: 2026-07-23-carney-s-concessions-to-trump-fail-to-halt-50-tariff-on-canadian-goods
-  headline: Carney's concessions to Trump fail to halt 50% tariff on Canadian goods
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6583
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.652
-- slug: 2026-05-17-trump-donor-ceo-seeks-quartz-tariffs-rivals-warn-of-job-losses
-  headline: Trump donor CEO seeks quartz tariffs, rivals warn of job losses
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6707
-- slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
-  headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.644
-- slug: 2026-03-19-how-trump-s-tariffs-have-hurt-u-s-manufacturers-instead-of-helping-them
-  headline: How Trump’s tariffs have hurt U.S. manufacturers instead of helping them
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6796
-- slug: 2026-02-10-tariffs-boost-maine-softwood-mill-while-others-brace-for-uncertainty
-  headline: Tariffs boost Maine softwood mill while others brace for uncertainty
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6631
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  headline: Carney says Canada must reduce U.S. economic ties over Trump tariffs
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.646
-- slug: 2026-04-30-how-tariffs-and-war-are-hurting-california-small-businesses
-  headline: How tariffs and war are hurting California small businesses
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6417
+  strength: 0.6509
 image:
   url: /articles/2026-10-24-tariff-shifts-cut-steel-imports-and-unsettle-investment-at-port-milwaukee.png
-  alt: "Illustration accompanying article: Tariff shifts cut steel imports and unsettle investment at Port Milwaukee"
+  alt: 'Illustration accompanying article: Tariff shifts cut steel imports and unsettle
+    investment at Port Milwaukee'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Tariff shifts cut steel imports and unsettle investment at Port Milwaukee
 
 **Subtype:** fact

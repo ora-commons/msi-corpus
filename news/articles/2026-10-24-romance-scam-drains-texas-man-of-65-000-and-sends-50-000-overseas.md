@@ -2,8 +2,18 @@
 headline: Romance scam drains Texas man of $65,000 and sends $50,000 overseas
 secondary_headline: Investigator traced a $21,000 business scam to Stafford’s account
 publish_date: '2026-10-24'
-lede: Garrick Stafford, 49, a quality inspector at a machine shop in Tyler, Texas, lost $65,000 and unwittingly moved about $50,000 for an international crime ring after nearly two years of messages with an online acquaintance using the name Sarah Williams. Richland County Sheriff’s Department investigator Markus Johnson traced a $21,000 business scam to money in Stafford’s accounts and found the romance persona was shared by a married couple in Nigeria, sometimes with AI answering Stafford’s texts.
-nut_graf: 'The Stafford case shows how romance-scam operators can extend a theft scheme into cryptocurrency and overseas banking channels by using an unsuspecting account holder as the transfer point. It also shows the limits of local tracing: Johnson mapped emails, phone numbers and crypto accounts, but the money moved into overseas bank accounts beyond his warrants.'
+lede: Garrick Stafford, 49, a quality inspector at a machine shop in Tyler, Texas,
+  lost $65,000 and unwittingly moved about $50,000 for an international crime ring
+  after nearly two years of messages with an online acquaintance using the name Sarah
+  Williams. Richland County Sheriff’s Department investigator Markus Johnson traced
+  a $21,000 business scam to money in Stafford’s accounts and found the romance persona
+  was shared by a married couple in Nigeria, sometimes with AI answering Stafford’s
+  texts.
+nut_graf: 'The Stafford case shows how romance-scam operators can extend a theft scheme
+  into cryptocurrency and overseas banking channels by using an unsuspecting account
+  holder as the transfer point. It also shows the limits of local tracing: Johnson
+  mapped emails, phone numbers and crypto accounts, but the money moved into overseas
+  bank accounts beyond his warrants.'
 primary_entities:
 - Garrick Stafford
 - Markus Johnson
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +145,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-lawsuit-says-epstein-lawyer-structured-cash-just-below-10-000
-  headline: Lawsuit says Epstein lawyer structured cash just below $10,000
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5751
-- slug: 2026-10-14-senate-report-finds-tinder-scam-detection-models-went-years-without-updates
-  headline: Senate report finds Tinder scam-detection models went years without updates
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6034
-- slug: 2026-10-13-alleged-texts-show-guilfoyle-pressed-trump-donor-for-100-000-american-express-wi
-  headline: Alleged texts show Guilfoyle pressed Trump donor for $100,000 American Express wire
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5888
-- slug: 2026-10-13-records-show-two-indicted-americans-at-dubai-party-with-paxton
-  headline: Records show two indicted Americans at Dubai party with Paxton
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5829
-- slug: 2026-10-07-guilfoyle-pushes-trump-donor-to-wire-100-000-before-ambassador-confirmation
-  headline: Guilfoyle pushes Trump donor to wire $100,000 before ambassador confirmation
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6033
-- slug: 2026-09-14-inmates-use-contraband-phones-to-run-scams-from-u-s-prisons
-  headline: Inmates use contraband phones to run scams from U.S. prisons
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6306
-- slug: 2026-09-12-six-nigerian-fraud-suspects-arrive-in-us-after-cape-town-extradition
-  headline: Six Nigerian fraud suspects arrive in US after Cape Town extradition
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6041
-- slug: 2026-09-02-americans-reported-record-15-9-billion-in-scam-losses-last-year-joint-investigat
-  headline: Americans reported record $15.9 billion in scam losses last year, joint investigation finds
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6131
-- slug: 2026-09-11-south-africa-to-extradite-six-nigerians-to-us-over-alleged-romance-scams
-  headline: South Africa to extradite six Nigerians to US over alleged romance scams
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5813
-- slug: 2026-09-11-fbi-says-ex-cia-officer-used-fake-classified-program-to-obtain-303-gold-bars
-  headline: FBI says ex-CIA officer used fake classified program to obtain 303 gold bars
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5778
 - slug: 2026-08-09-scammers-posing-as-officers-take-25-000-from-florida-woman
   headline: Scammers posing as officers take $25,000 from Florida woman
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.6537
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5767
+  strength: 0.6539
 - slug: 2026-07-21-south-carolina-town-fights-to-recover-545k-lost-in-phishing-scam
   headline: South Carolina town fights to recover $545K lost in phishing scam
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6512
+  strength: 0.6517
 - slug: 2026-07-16-romance-scams-cost-americans-record-1-3-billion-in-2025
   headline: Romance scams cost Americans record $1.3 billion in 2025
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6481
-- slug: 2026-08-18-georgia-man-faces-165m-crypto-fraud-charges-after-fiji-deportation
-  headline: Georgia man faces $165M crypto fraud charges after Fiji deportation
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5865
-- slug: 2026-08-08-new-york-warns-seniors-about-scammers-demanding-gold-bars
-  headline: New York warns seniors about scammers demanding gold bars
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6048
-- slug: 2026-08-09-jury-duty-scam-costs-victims-thousands
-  headline: Jury duty scam costs victims thousands
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5772
-- slug: 2026-07-02-man-pleads-guilty-to-fake-ransom-note-in-nancy-guthrie-case
-  headline: Man pleads guilty to fake ransom note in Nancy Guthrie case
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5959
-- slug: 2026-02-05-savannah-guthrie-s-brother-records-new-message-for-kidnapper
-  headline: Savannah Guthrie’s brother records new message for kidnapper
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.592
-- slug: 2026-03-15-scammers-step-up-tax-season-robocalls-texts-emails-how-to-stay-safe
-  headline: Scammers step up tax-season robocalls, texts, emails—how to stay safe
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5867
+  strength: 0.65
 ---
-
 ## Romance scam drains Texas man of $65,000 and sends $50,000 overseas
 
 **Subtype:** fact

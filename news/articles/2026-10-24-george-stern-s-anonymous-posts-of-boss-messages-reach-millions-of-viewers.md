@@ -2,8 +2,19 @@
 headline: George Stern's anonymous posts of boss messages reach millions of viewers
 secondary_headline: Stern asks for receipts, probes senders and strips names and companies
 publish_date: '2026-10-24'
-lede: Management consultant George Stern has drawn millions of viewers to social media posts built around direct messages that employees say their bosses sent them, including an exchange in which a manager presses an employee about bereavement leave during a grandmother's funeral. In an NPR News profile published Oct. 24, Ryan Warner of Colorado Public Radio describes Stern as a former Colorado election clerk and former CEO who reads the messages aloud, checks each account before posting and leaves out names and companies.
-nut_graf: 'The account has turned private workplace grievances into public teaching material for managers, and Stern said he has yet to post a video that did not draw dozens of comments and messages saying the same thing had happened to the commenter. The subject is basic and so is his prescription: communicate well, treat people well, and treat an employee''s bereavement leave or vacation as a circumstance rather than a scheduling problem.'
+lede: Management consultant George Stern has drawn millions of viewers to social media
+  posts built around direct messages that employees say their bosses sent them, including
+  an exchange in which a manager presses an employee about bereavement leave during
+  a grandmother's funeral. In an NPR News profile published Oct. 24, Ryan Warner of
+  Colorado Public Radio describes Stern as a former Colorado election clerk and former
+  CEO who reads the messages aloud, checks each account before posting and leaves
+  out names and companies.
+nut_graf: 'The account has turned private workplace grievances into public teaching
+  material for managers, and Stern said he has yet to post a video that did not draw
+  dozens of comments and messages saying the same thing had happened to the commenter.
+  The subject is basic and so is his prescription: communicate well, treat people
+  well, and treat an employee''s bereavement leave or vacation as a circumstance rather
+  than a scheduling problem.'
 primary_entities:
 - George Stern
 - Ryan Warner
@@ -36,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,109 +145,8 @@ cross_article_links:
   strength: 0.5591
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
-  headline: The New York Times first publishes Doe's letter; her lawyer authenticates it
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5703
-- slug: 2026-10-15-greens-senator-steele-john-takes-party-room-leave-denies-inappropriate-comment-a
-  headline: Greens senator Steele-John takes party-room leave, denies inappropriate-comment allegations
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5767
-- slug: 2026-09-25-report-caldwell-told-staffer-you-young-women-are-looking-for-young-sperm
-  headline: 'Report: Caldwell told staffer ''you young women are looking for young sperm'''
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5764
-- slug: 2026-09-24-sherrill-seeks-caldwell-s-resignation-over-harassment-ethics-probe
-  headline: Sherrill seeks Caldwell's resignation over harassment, ethics probe
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5733
-- slug: 2026-09-23-parton-manager-files-restraining-order-against-singer-s-nephew
-  headline: Parton manager files restraining order against singer's nephew
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5749
-- slug: 2026-09-01-wyden-jayapal-ask-gao-to-investigate-dhs-use-of-summonses-against-journalists
-  headline: Wyden, Jayapal ask GAO to investigate DHS use of summonses against journalists
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5888
-- slug: 2026-08-21-state-lawmakers-push-bills-to-curb-ghost-job-listings
-  headline: State lawmakers push bills to curb 'ghost job' listings
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5966
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6079
-- slug: 2026-06-02-starmer-uses-disappearing-whatsapp-messages-no-10-confirms
-  headline: Starmer uses disappearing WhatsApp messages, No 10 confirms
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6128
-- slug: 2026-06-18-executive-calls-for-revival-of-three-martini-lunch-to-combat-workplace-isolation
-  headline: Executive calls for revival of three-martini lunch to combat workplace isolation
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5916
-- slug: 2026-06-15-columnist-proposes-escrache-protests-to-name-us-officials
-  headline: Columnist proposes 'escrache' protests to name US officials
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5846
-- slug: 2026-06-05-scott-pelley-s-firing-resonated-as-workers-revenge-fantasy
-  headline: Scott Pelley's firing resonated as workers' revenge fantasy
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5731
-- slug: 2026-06-04-minister-darren-jones-private-messages-to-mandelson-revealed
-  headline: Minister Darren Jones' private messages to Mandelson revealed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.573
-- slug: 2026-06-01-bill-gates-acknowledges-epstein-meetings-misses-microsoft-summit-after-doj-files
-  headline: Bill Gates acknowledges Epstein meetings, misses Microsoft summit after DOJ files
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5743
-- slug: 2026-04-23-gates-foundation-reviewing-epstein-ties-after-emails-raise-questions
-  headline: Gates Foundation reviewing Epstein ties after emails raise questions
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5799
-- slug: 2026-04-22-gates-foundation-to-review-epstein-ties-as-bill-gates-faces-scrutiny
-  headline: Gates Foundation to review Epstein ties as Bill Gates faces scrutiny
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5771
-- slug: 2026-02-08-multigenerational-workplaces-turn-to-mentoring-that-works-both-ways
-  headline: Multigenerational workplaces turn to mentoring that works both ways
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5879
-- slug: 2026-02-11-what-to-look-for-when-choosing-nursing-home-or-assisted-living-care
-  headline: What to look for when choosing nursing home or assisted living care
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5855
-- slug: 2026-01-01-virtual-reality-helps-seniors-socialize-and-reduce-isolation-ap-reports
-  headline: Virtual reality helps seniors socialize and reduce isolation, AP reports
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.588
-- slug: 2026-03-15-group-chats-come-with-their-own-often-unspoken-etiquette
-  headline: Group chats come with their own, often unspoken, etiquette
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5804
+related_stories: []
 ---
-
 ## George Stern's anonymous posts of boss messages reach millions of viewers
 
 **Subtype:** fact

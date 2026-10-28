@@ -1,9 +1,21 @@
 ---
 headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
-secondary_headline: Trump must depose by Dec. 11 unless the presiding judge extends discovery
+secondary_headline: Trump must depose by Dec. 11 unless the presiding judge extends
+  discovery
 publish_date: '2026-10-22'
-lede: U.S. Magistrate Judge Enjoliqué Lett ordered the Department of Justice on Thursday to respond by Nov. 2 to former special counsel Jack Smith's request for permission to sit for a deposition in President Donald Trump's $10 billion defamation lawsuit against the BBC. Smith's request remained unanswered, leaving his participation unresolved. In the same case, Lett ordered Trump to sit for a deposition by Dec. 11 unless the presiding judge extended the discovery period; the ruling set a deadline rather than a fixed deposition date.
-nut_graf: The unresolved request came from a letter Smith sent to DOJ saying he would not testify without permission. Separately, Lett said Trump could face sanctions up to dismissal of his lawsuit if he did not sit by Dec. 11, unless the presiding judge extended discovery. The BBC wanted Trump's testimony before the scheduled Dec. 18 end of discovery, and the BBC's lawyers said a later date could be considered if the trial schedule changed.
+lede: U.S. Magistrate Judge Enjoliqué Lett ordered the Department of Justice on Thursday
+  to respond by Nov. 2 to former special counsel Jack Smith's request for permission
+  to sit for a deposition in President Donald Trump's $10 billion defamation lawsuit
+  against the BBC. Smith's request remained unanswered, leaving his participation
+  unresolved. In the same case, Lett ordered Trump to sit for a deposition by Dec.
+  11 unless the presiding judge extended the discovery period; the ruling set a deadline
+  rather than a fixed deposition date.
+nut_graf: The unresolved request came from a letter Smith sent to DOJ saying he would
+  not testify without permission. Separately, Lett said Trump could face sanctions
+  up to dismissal of his lawsuit if he did not sit by Dec. 11, unless the presiding
+  judge extended discovery. The BBC wanted Trump's testimony before the scheduled
+  Dec. 18 end of discovery, and the BBC's lawyers said a later date could be considered
+  if the trial schedule changed.
 primary_entities:
 - Donald Trump
 - BBC
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +154,44 @@ related_stories:
   headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8166
-- slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
-  headline: BBC asks judge to dismiss Trump suit over London production and no U.S. airing
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7726
+  strength: 0.8581
 - slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
   headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7703
+  strength: 0.8066
+- slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.7992
 - slug: 2026-10-22-trump-s-lawyers-offer-january-deposition-dates-bbc-seeks-lawsuit-dismissal
   headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7634
+  strength: 0.7805
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8033
-- slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
-  headline: Judge blocks Trump from enforcing White House press ban on three outlets
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6156
-- slug: 2026-10-08-judge-extends-press-reprieve-for-cnn-ms-now-politico-through-tuesday
-  headline: Judge extends press reprieve for CNN, MS Now, Politico through Tuesday
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6219
+  strength: 0.8245
 - slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
   headline: Trump asks judge to block BBC subpoenas to his family members
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7299
+  strength: 0.7433
 - slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
   headline: Trump attorneys ask court to pause BBC access to financial records
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7146
+  strength: 0.7347
 - slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
   headline: Judge orders Trump to release financial records in BBC defamation case
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7025
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7217
-- slug: 2026-07-23-jordan-refers-smith-to-doj-over-alleged-false-congressional-testimony
-  headline: Jordan refers Smith to DOJ over alleged false congressional testimony
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6304
-- slug: 2026-01-13-jack-smith-to-testify-publicly-before-house-judiciary-on-trump-investigations
-  headline: Jack Smith to testify publicly before House Judiciary on Trump investigations
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7069
-- slug: 2026-07-06-judge-denies-trump-bid-to-delay-5-8m-judgment-to-e-jean-carroll
-  headline: Judge denies Trump bid to delay $5.8M judgment to E Jean Carroll
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6371
-- slug: 2026-07-11-four-new-york-times-journalists-ordered-to-testify-before-federal-grand-jury
-  headline: Four New York Times journalists ordered to testify before federal grand jury
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6189
-- slug: 2026-01-22-smith-defends-trump-investigation-at-house-hearing
-  headline: Smith defends Trump investigation at House hearing
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6632
-- slug: 2026-01-01-jack-smith-tells-house-panel-his-team-had-proof-against-trump
-  headline: Jack Smith tells House panel his team had proof against Trump
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6601
-- slug: 2026-05-14-trump-gets-delay-on-83m-defamation-payment-to-e-jean-carroll
-  headline: Trump gets delay on $83M defamation payment to E. Jean Carroll
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6256
-- slug: 2026-01-23-jack-smith-testifies-trump-caused-jan-6-and-committed-serious-crimes
-  headline: Jack Smith testifies Trump caused Jan. 6 and committed serious crimes
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6455
-- slug: 2026-05-08-trump-s-lawyer-asks-appeals-court-to-block-83m-defamation-payout
-  headline: Trump’s lawyer asks appeals court to block $83M defamation payout
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6228
+  strength: 0.711
 ---
-
 ## Judge orders DOJ to answer Smith's request to testify by Nov. 2
 
 **Subtype:** fact

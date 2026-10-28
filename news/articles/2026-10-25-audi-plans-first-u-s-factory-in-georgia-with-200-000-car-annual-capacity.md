@@ -2,8 +2,14 @@
 headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
 secondary_headline: Audi says the plant will create about 4,500 jobs
 publish_date: '2026-10-25'
-lede: President Trump announced Saturday that Audi will build its first U.S. factory in Macon, Georgia, with planned annual output of 200,000 cars. Trump said construction would begin next month, while Audi said production is slated to start in the early 2030s and the plant will create about 4,500 jobs.
-nut_graf: The Macon plant would give Audi its first U.S. production base as tariff costs weigh on profits and sales decline in China, its largest single-country market. Audi expects the tariff effect on profits this year to be similar to the roughly 1.2 billion euros it reported for 2025.
+lede: President Trump announced Saturday that Audi will build its first U.S. factory
+  in Macon, Georgia, with planned annual output of 200,000 cars. Trump said construction
+  would begin next month, while Audi said production is slated to start in the early
+  2030s and the plant will create about 4,500 jobs.
+nut_graf: The Macon plant would give Audi its first U.S. production base as tariff
+  costs weigh on profits and sales decline in China, its largest single-country market.
+  Audi expects the tariff effect on profits this year to be similar to the roughly
+  1.2 billion euros it reported for 2025.
 primary_entities:
 - Audi
 - Trump
@@ -40,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +146,49 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-25-audi-plans-first-u-s-factory-in-georgia-with-200-000-car-annual-capacity.png
-  alt: 'Illustration accompanying article: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity'
+  alt: 'Illustration accompanying article: Audi plans first U.S. factory in Georgia
+    with 200,000-car annual capacity'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
-  headline: Chinese automakers pitch American-style cars as U.S. stays shut
-  publish_date: '2026-10-14'
+- slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
+  headline: Audi sets 2027 construction start for its Macon plant
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.6118
+  strength: 0.8774
+- slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
+  headline: Audi plans Q7, Q8 and Q9 production in Macon
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8624
+- slug: 2026-10-25-audi-plans-macon-plant-to-emphasize-gas-powered-vehicles-and-plug-in-hybrids
+  headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.8509
+- slug: 2026-10-26-cavallo-benner-and-cademartori-criticize-d-llner-s-trump-rally-appearance
+  headline: Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7267
+- slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
+  headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.694
 - slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
   headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6563
-- slug: 2026-10-07-u-s-ev-sales-fall-almost-50-from-2025-with-7-500-tax-credit-gone-prices-up
-  headline: U.S. EV sales fall almost 50% from 2025 with $7,500 tax credit gone, prices up
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6139
-- slug: 2026-09-28-trump-to-unveil-15-billion-mesabi-metallics-steel-mill-in-iowa
-  headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6186
-- slug: 2026-09-28-trump-unveils-15bn-iowa-steel-plant-by-indian-owned-mesabi-metallics
-  headline: Trump unveils $15bn Iowa steel plant by Indian-owned Mesabi Metallics
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6081
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6019
-- slug: 2026-09-18-auto-coalition-urges-trump-to-block-chinese-carmakers-ahead-of-xi-summit
-  headline: Auto coalition urges Trump to block Chinese carmakers ahead of Xi summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6114
-- slug: 2026-09-02-ford-targets-100-000-first-year-sales-for-new-30-000-fathom-electric-truck
-  headline: Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6217
-- slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
-  headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5972
-- slug: 2026-08-15-ford-and-gm-push-competing-tariff-demands-on-washington
-  headline: Ford and GM push competing tariff demands on Washington
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6139
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6046
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5982
-- slug: 2026-07-06-toyota-to-invest-3-6-billion-to-move-tacoma-production-to-texas
-  headline: Toyota to invest $3.6 billion to move Tacoma production to Texas
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6224
-- slug: 2026-06-26-volkswagen-reportedly-planning-up-to-100-000-job-cuts-four-german-plant-closures
-  headline: Volkswagen reportedly planning up to 100,000 job cuts, four German plant closures
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6175
-- slug: 2026-07-10-volkswagen-plans-to-cut-car-lineup-by-up-to-half
-  headline: Volkswagen plans to cut car lineup by up to half
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5978
-- slug: 2026-06-23-trump-tours-mack-trucks-plant-holds-campaign-style-rally-in-pennsylvania
-  headline: Trump tours Mack Trucks plant, holds campaign-style rally in Pennsylvania
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6048
-- slug: 2026-06-11-argentina-plans-to-allow-duty-free-import-of-10-000-us-vehicles-annually
-  headline: Argentina plans to allow duty-free import of 10,000 US vehicles annually
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5987
-- slug: 2026-06-02-volkswagen-launches-china-designed-cars-in-bid-to-revive-fading-market-share
-  headline: Volkswagen launches China-designed cars in bid to revive fading market share
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6048
-- slug: 2026-05-02-trump-says-he-will-raise-eu-auto-tariffs-to-25-next-week
-  headline: Trump says he will raise EU auto tariffs to 25% next week
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.619
-- slug: 2026-03-06-sk-battery-america-lays-off-958-workers-at-georgia-plant-amid-ev-slowdown
-  headline: SK Battery America lays off 958 workers at Georgia plant amid EV slowdown
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.623
 ---
-
 ## Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
 
 **Subtype:** fact

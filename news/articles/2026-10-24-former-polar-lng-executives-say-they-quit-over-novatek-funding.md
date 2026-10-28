@@ -1,9 +1,18 @@
 ---
 headline: Former Polar LNG executives say they quit over Novatek funding
-secondary_headline: Treasury has not approved Polar’s purchase from sanctioned Arctic LNG 2
+secondary_headline: Treasury has not approved Polar’s purchase from sanctioned Arctic
+  LNG 2
 publish_date: '2026-10-24'
-lede: Former Polar LNG executives said they quit the energy startup after learning that Russian gas company Novatek financed the company and controlled its strategic direction. Joel Riddle, Polar's CEO until September, said he resigned after the role emerged in budget discussions over the summer. Polar sought Treasury approval to buy infrastructure from Novatek's sanctioned Arctic LNG 2 business but had not received it.
-nut_graf: Polar's plan depended on a Treasury license and infrastructure from a sanctioned Russian entity. The executives' account placed alleged Novatek financing and strategic control at the center of the project, while the licensing request and requests for comment from Novatek and U.S. agencies remained unresolved.
+lede: Former Polar LNG executives said they quit the energy startup after learning
+  that Russian gas company Novatek financed the company and controlled its strategic
+  direction. Joel Riddle, Polar's CEO until September, said he resigned after the
+  role emerged in budget discussions over the summer. Polar sought Treasury approval
+  to buy infrastructure from Novatek's sanctioned Arctic LNG 2 business but had not
+  received it.
+nut_graf: Polar's plan depended on a Treasury license and infrastructure from a sanctioned
+  Russian entity. The executives' account placed alleged Novatek financing and strategic
+  control at the center of the project, while the licensing request and requests for
+  comment from Novatek and U.S. agencies remained unresolved.
 primary_entities:
 - Polar LNG
 - Novatek
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +148,8 @@ cross_article_links:
   strength: 0.616
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.59
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5666
-- slug: 2026-10-21-john-healey-announces-2bn-energy-wealth-fund
-  headline: John Healey announces £2bn Energy Wealth Fund
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5653
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5971
-- slug: 2026-10-18-several-republican-candidates-break-with-trump-over-russian-diesel-deal
-  headline: Several Republican candidates break with Trump over Russian diesel deal
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.5728
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5748
-- slug: 2026-10-15-ex-uk-envoy-says-russia-has-no-interest-in-ending-ukraine-war
-  headline: Ex-UK envoy says Russia has 'no interest' in ending Ukraine war
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5675
-- slug: 2026-10-15-starlink-throttling-and-missed-missile-warnings-expose-ukraine-s-us-dependency
-  headline: Starlink throttling and missed missile warnings expose Ukraine's US dependency
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5642
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5691
-- slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5643
-- slug: 2026-08-17-interior-department-announces-1-22-billion-offshore-wind-lease-buyout
-  headline: Interior Department announces $1.22 billion offshore wind lease buyout
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5716
-- slug: 2026-08-12-noaa-pulls-support-for-annual-arctic-report-card
-  headline: NOAA pulls support for annual Arctic Report Card
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5636
-- slug: 2026-08-06-rwe-agrees-to-1-2-billion-deal-to-exit-u-s-offshore-wind-leases
-  headline: RWE agrees to $1.2 billion deal to exit U.S. offshore wind leases
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5625
-- slug: 2026-07-21-financier-behind-trump-media-s-nuclear-fusion-deal-draws-scrutiny
-  headline: Financier behind Trump Media's nuclear fusion deal draws scrutiny
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5774
-- slug: 2026-07-10-trump-administration-pays-2-7bn-to-cancel-offshore-wind-leases-spends-1-1bn-on-c
-  headline: Trump administration pays $2.7bn to cancel offshore wind leases, spends $1.1bn on coal
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5799
-- slug: 2026-07-06-wind-project-workers-say-trump-s-stop-work-orders-cost-them-jobs
-  headline: Wind project workers say Trump's stop-work orders cost them jobs
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.581
-- slug: 2026-07-09-trump-linked-texas-oil-company-pursues-greenland-drilling-permits
-  headline: Trump-linked Texas oil company pursues Greenland drilling permits
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5646
-- slug: 2026-03-24-trump-administration-pays-totalenergies-to-exit-offshore-wind-boosting-lng
-  headline: Trump administration pays TotalEnergies to exit offshore wind, boosting LNG
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5874
-- slug: 2026-04-30-trump-pays-offshore-wind-operators-to-walk-away-democrats-call-it-a-scam
-  headline: Trump pays offshore wind operators to walk away; Democrats call it a scam
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5608
-- slug: 2026-02-26-appeals-court-grills-epa-nonprofits-over-fate-of-trump-green-bank-contracts
-  headline: Appeals court grills EPA, nonprofits over fate of Trump “green bank” contracts
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5738
+related_stories: []
 ---
-
 ## Former Polar LNG executives say they quit over Novatek funding
 
 **Subtype:** fact

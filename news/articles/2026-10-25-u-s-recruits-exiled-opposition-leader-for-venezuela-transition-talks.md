@@ -1,9 +1,20 @@
 ---
 headline: U.S. recruits exiled opposition leader for Venezuela transition talks
-secondary_headline: Venezuela eased restrictions but set no presidential-election date
+secondary_headline: Venezuela eased restrictions but set no presidential-election
+  date
 publish_date: '2026-10-25'
-lede: The United States recruited exiled Venezuelan opposition politician Dinorah Figuera to return home and lead talks with Venezuela’s government over the country’s democratic future, The Wall Street Journal reported Oct. 25, 2026. The third round of negotiations produced initial steps toward political and judicial reforms, but the sides have not agreed on a timetable for presidential elections. U.S. officials said a fourth round is set for November.
-nut_graf: U.S. officials describe the process as Venezuelan-led and say Washington is facilitating it, while The Wall Street Journal reports that Trump administration officials designed the framework, recruited Figuera and intervened when talks encountered resistance. The negotiations have produced some reforms but no election timetable and face broad public distrust, leaving their effect on Venezuela’s democratic institutions unresolved.
+lede: The United States recruited exiled Venezuelan opposition politician Dinorah
+  Figuera to return home and lead talks with Venezuela’s government over the country’s
+  democratic future, The Wall Street Journal reported Oct. 25, 2026. The third round
+  of negotiations produced initial steps toward political and judicial reforms, but
+  the sides have not agreed on a timetable for presidential elections. U.S. officials
+  said a fourth round is set for November.
+nut_graf: U.S. officials describe the process as Venezuelan-led and say Washington
+  is facilitating it, while The Wall Street Journal reports that Trump administration
+  officials designed the framework, recruited Figuera and intervened when talks encountered
+  resistance. The negotiations have produced some reforms but no election timetable
+  and face broad public distrust, leaving their effect on Venezuela’s democratic institutions
+  unresolved.
 primary_entities:
 - Dinorah Figuera
 - United States
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +157,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-26-venezuela-says-machado-was-free-to-enter-after-u-s-request
+  headline: Venezuela says Machado was free to enter after U.S. request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6852
+- slug: 2026-10-25-venezuela-s-machado-returns-home-after-nearly-11-months-abroad
+  headline: Venezuela's Machado returns home after nearly 11 months abroad
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.684
+- slug: 2026-10-25-trump-says-machado-lacks-the-support-or-respect-to-lead-venezuela
+  headline: Trump says Machado lacks the support or respect to lead Venezuela
+  publish_date: '2026-10-25'
+  relation: related
+  strength: 0.6824
 - slug: 2026-09-23-venezuela-s-rodr-guez-pledges-elections-in-un-speech-sets-no-date
   headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7547
+  strength: 0.7531
 - slug: 2026-09-24-venezuela-s-interim-president-meets-trump-addresses-un-in-new-york
   headline: Venezuela's interim president meets Trump, addresses UN in New York
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7054
+  strength: 0.7028
 - slug: 2026-09-24-venezuela-s-acting-president-tells-un-of-earthquake-toll-pledges-elections
   headline: Venezuela's acting president tells UN of earthquake toll, pledges elections
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6927
+  strength: 0.6895
 - slug: 2026-09-19-machado-readies-return-to-venezuela-to-press-for-elections
   headline: Machado readies return to Venezuela to press for elections
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6853
+  strength: 0.683
 - slug: 2026-08-01-u-s--backed-venezuela-democracy-talks-begin-without-opposition-leader-machado
-  headline: U.S.-backed Venezuela democracy talks begin without opposition leader Machado
+  headline: U.S.-backed Venezuela democracy talks begin without opposition leader
+    Machado
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.7967
-- slug: 2026-07-15-venezuela-government-opposition-launch-joint-working-group-for-democratic-transi
-  headline: Venezuela government, opposition launch joint working group for democratic transition
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7995
-- slug: 2026-08-03-maduro-urges-sincere-dialogue-as-new-round-of-venezuela-negotiations-begins
-  headline: Maduro urges 'sincere dialogue' as new round of Venezuela negotiations begins
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.7292
-- slug: 2026-05-15-trump-s-51st-state-talk-draws-near-silence-from-venezuela
-  headline: Trump’s 51st state talk draws near-silence from Venezuela
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7025
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  headline: Venezuela's opposition sidelined as Maduro's party holds power after U.S. seizure
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7232
-- slug: 2026-01-09-venezuela-frees-opposition-leaders-foreign-nationals-after-maduro-capture
-  headline: Venezuela frees opposition leaders, foreign nationals after Maduro's capture
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7186
-- slug: 2026-01-14-venezuela-s-acting-president-pledges-more-prisoner-releases-after-trump-call
-  headline: Venezuela's acting president pledges more prisoner releases after Trump call
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7139
-- slug: 2026-03-05-us-and-venezuela-agree-to-restore-diplomatic-relations-after-maduro-s-ouster
-  headline: US and Venezuela agree to restore diplomatic relations after Maduro's ouster
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7029
-- slug: 2026-01-10-venezuela-frees-16-political-prisoners-in-3-days-804-remain-detained
-  headline: Venezuela frees 16 political prisoners in 3 days; 804 remain detained
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.7053
-- slug: 2026-01-27-us-takes-first-steps-to-reopen-venezuela-embassy-after-maduro-ouster
-  headline: US takes first steps to reopen Venezuela embassy after Maduro ouster
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7009
-- slug: 2026-01-07-delcy-rodriguez-venezuela-interim-president-rise-trump-gamble
-  headline: Venezuela's new interim president once gambled on Trump with a $500,000 donation
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7008
-- slug: 2026-01-12-49-political-prisoners-freed-in-venezuela-as-families-wait-for-more
-  headline: 49 political prisoners freed in Venezuela as families wait for more
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6971
-- slug: 2026-02-07-venezuela-releases-jailed-opposition-as-acting-president-faces-pressure
-  headline: Venezuela releases jailed opposition as acting President faces pressure
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6937
-- slug: 2026-04-02-us-lifts-sanctions-on-delcy-rodr-guez-venezuela-s-acting-president
-  headline: US lifts sanctions on Delcy Rodríguez, Venezuela’s acting president
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6795
-- slug: 2026-01-17-ratcliffe-meets-venezuela-acting-president-rodriguez-in-caracas
-  headline: CIA director Ratcliffe meets Venezuela's acting president Rodríguez in Caracas
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6856
-- slug: 2026-03-02-venezuela-opposition-leader-machado-says-she-will-return-in-coming-weeks
-  headline: Venezuela opposition leader Machado says she will return in coming weeks
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.678
+  strength: 0.7959
 ---
-
 ## U.S. recruits exiled opposition leader for Venezuela transition talks
 
 **Subtype:** fact

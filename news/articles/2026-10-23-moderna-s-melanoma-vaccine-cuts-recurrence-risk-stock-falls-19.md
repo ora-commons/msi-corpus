@@ -1,9 +1,20 @@
 ---
 headline: Moderna's melanoma vaccine cuts recurrence risk; stock falls 19%
-secondary_headline: Clinicians see promise but await survival data more than a year out
+secondary_headline: Clinicians see promise but await survival data more than a year
+  out
 publish_date: '2026-10-23'
-lede: Moderna’s personalized mRNA cancer vaccine reduced the risk of melanoma returning by 42% when added to immunotherapy, according to details from the drugmaker’s vaccine study, and Adil Daud, a melanoma researcher who worked on the trial, called the result “a massive conceptual breakthrough.” Investors read the same data differently, sending Moderna’s stock down 19% in the days after the results were prematurely released.
-nut_graf: 'The gap between the trial’s scientific reception and its market reception reflects pressure on both companies behind the vaccine: Moderna must prove its mRNA platform has a future outside infectious diseases, and Merck must prove it can make up revenue that will be lost when Keytruda goes off patent in about two years. Clinicians said the vaccine holds promise, particularly for patients with less advanced melanoma. Survival data is not expected for more than a year.'
+lede: Moderna’s personalized mRNA cancer vaccine reduced the risk of melanoma returning
+  by 42% when added to immunotherapy, according to details from the drugmaker’s vaccine
+  study, and Adil Daud, a melanoma researcher who worked on the trial, called the
+  result “a massive conceptual breakthrough.” Investors read the same data differently,
+  sending Moderna’s stock down 19% in the days after the results were prematurely
+  released.
+nut_graf: 'The gap between the trial’s scientific reception and its market reception
+  reflects pressure on both companies behind the vaccine: Moderna must prove its mRNA
+  platform has a future outside infectious diseases, and Merck must prove it can make
+  up revenue that will be lost when Keytruda goes off patent in about two years. Clinicians
+  said the vaccine holds promise, particularly for patients with less advanced melanoma.
+  Survival data is not expected for more than a year.'
 primary_entities:
 - Moderna
 - Merck
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +152,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-22-personalized-mrna-vaccine-added-to-keytruda-cuts-two-year-melanoma-recurrence-ri
+  headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence
+    risk by 42% in trial
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.8233
+- slug: 2026-10-26-merck-melanoma-trial-finds-a-42-reduction-in-recurrence-or-death
+  headline: Merck melanoma trial finds a 42% reduction in recurrence or death
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7907
 - slug: 2026-08-22-moderna-s-personalized-cancer-vaccine-clears-phase-3-melanoma-trial
   headline: Moderna's personalized cancer vaccine clears phase 3 melanoma trial
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.8325
+  strength: 0.8328
 - slug: 2026-08-20-merck-and-moderna-melanoma-vaccine-extends-cancer-free-period-in-phase-3-trial
-  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase 3 trial
+  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase
+    3 trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7795
+  strength: 0.7796
 - slug: 2026-08-19-moderna-shares-more-than-double-after-melanoma-trial
   headline: Moderna shares more than double after melanoma trial
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7805
+  strength: 0.7808
 - slug: 2026-09-16-fda-shift-under-acting-commissioner-lifts-rare-disease-biotech-stocks
   headline: FDA shift under acting commissioner lifts rare-disease biotech stocks
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6615
-- slug: 2026-09-30-demos-29-of-q3-ipos-price-below-range-almost-double-prior-four-quarter-high
-  headline: 'Demos: 29% of Q3 IPOs price below range, almost double prior four-quarter high'
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5892
-- slug: 2026-09-23-meta-s-muse-tops-app-store-as-amazon-blocks-it-from-purchases
-  headline: Meta's Muse tops App Store as Amazon blocks it from purchases
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5846
-- slug: 2026-09-03-novartis-bristol-myers-pause-car-t-trials-after-deaths-brain-inflammation
-  headline: Novartis, Bristol Myers pause CAR-T trials after deaths, brain inflammation
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5812
-- slug: 2026-08-06-fda-approves-replimune-s-tudriqev-for-advanced-melanoma-after-two-rejections
-  headline: FDA approves Replimune's Tudriqev for advanced melanoma after two rejections
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6379
+  strength: 0.6612
 - slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
   headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6668
-- slug: 2026-08-06-fda-approves-mflusiva-moderna-s-mrna-flu-vaccine-for-older-adults
-  headline: FDA approves mFlusiva, Moderna’s mRNA flu vaccine for older adults
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5982
-- slug: 2026-07-22-molina-healthcare-profit-falls-as-membership-declines
-  headline: Molina Healthcare profit falls as membership declines
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6047
-- slug: 2026-08-03-astrazeneca-shares-fall-more-than-7-after-reported-bms-takeover-talks
-  headline: AstraZeneca shares fall more than 7% after reported BMS takeover talks
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.582
-- slug: 2026-07-12-ai-shows-promise-in-drug-labs-commercial-payoff-years-away
-  headline: AI shows promise in drug labs; commercial payoff years away
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6109
-- slug: 2026-07-24-regeneron-bets-on-science-over-acquisitions-as-flagship-drugs-face-pressure
-  headline: Regeneron bets on science over acquisitions as flagship drugs face pressure
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5887
-- slug: 2026-07-23-ai-power-stocks-decline-as-investors-grow-wary-of-future-demand
-  headline: AI power stocks decline as investors grow wary of future demand
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.589
-- slug: 2026-07-10-u-s-biotechs-tighten-secrecy-to-beat-chinese-fast-follower-drugs
-  headline: U.S. biotechs tighten secrecy to beat Chinese fast-follower drugs
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5893
+  strength: 0.667
 - slug: 2026-02-11-moderna-says-fda-will-not-consider-its-mrna-flu-vaccine-application
   headline: Moderna says FDA will not consider its mRNA flu vaccine application
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.6507
-- slug: 2026-02-19-fda-will-consider-moderna-s-mrna-flu-vaccine-after-all
-  headline: FDA will consider Moderna's mRNA flu vaccine after all
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6489
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.588
-- slug: 2026-06-24-micron-s-blockbuster-earnings-quiet-ai-doubters-shares-soar-14
-  headline: Micron's blockbuster earnings quiet AI doubters; shares soar 14%
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5913
+  strength: 0.6503
 ---
-
 ## Moderna's melanoma vaccine cuts recurrence risk; stock falls 19%
 
 **Subtype:** fact

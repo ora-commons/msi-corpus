@@ -2,8 +2,21 @@
 headline: Texas polls suggest Hispanic voters are moving away from Trump before midterms
 secondary_headline: Redrawn 15th District carries a notional 18-point Republican majority
 publish_date: '2026-10-23'
-lede: Surveys taken since late summer suggest a majority of Texas Hispanic voters disapprove of President Donald Trump and favor Democrats over Republicans by a significant margin, though the BBC said polling might not prove correct. Trump took around 55% of the Hispanic vote in Texas in 2024 — a record for a Republican presidential candidate — and campaigned in the state earlier in October 2026. In the redrawn 15th District, current polling suggests a five- or six-point Democratic lead against a notional 18-point Republican majority. Democrats hope to turn the political tide on November 3, though the BBC said that would not be easy.
-nut_graf: Trump took around 55% of the Hispanic vote in Texas in 2024, a record for a Republican presidential candidate. Surveys taken since late summer suggest that support has ebbed, with a majority of Texas Hispanic voters disapproving of him and favoring Democrats over Republicans by a significant margin, but the BBC said there was no guarantee the polls would prove correct. If the polling is correct and a modest shift back to Democrats occurs on November 3, it could put a U.S. Senate seat in play; Democrats have not won a Texas Senate seat in more than 30 years.
+lede: Surveys taken since late summer suggest a majority of Texas Hispanic voters
+  disapprove of President Donald Trump and favor Democrats over Republicans by a significant
+  margin, though the BBC said polling might not prove correct. Trump took around 55%
+  of the Hispanic vote in Texas in 2024 — a record for a Republican presidential candidate
+  — and campaigned in the state earlier in October 2026. In the redrawn 15th District,
+  current polling suggests a five- or six-point Democratic lead against a notional
+  18-point Republican majority. Democrats hope to turn the political tide on November
+  3, though the BBC said that would not be easy.
+nut_graf: Trump took around 55% of the Hispanic vote in Texas in 2024, a record for
+  a Republican presidential candidate. Surveys taken since late summer suggest that
+  support has ebbed, with a majority of Texas Hispanic voters disapproving of him
+  and favoring Democrats over Republicans by a significant margin, but the BBC said
+  there was no guarantee the polls would prove correct. If the polling is correct
+  and a modest shift back to Democrats occurs on November 3, it could put a U.S. Senate
+  seat in play; Democrats have not won a Texas Senate seat in more than 30 years.
 primary_entities:
 - Father Roy Snipes
 - La Lomita Catholic Chapel
@@ -57,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +173,44 @@ related_stories:
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7232
+  strength: 0.7251
+- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
+  headline: Democrats lead House polling as Trump approval stays below 50%
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6959
 - slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
   headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7868
+  strength: 0.7869
 - slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
+  headline: Rural voters cool on Republicans as economic-political divide begins to
+    shift
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7005
+  strength: 0.7009
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7135
+  strength: 0.7137
 - slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
   headline: Immigration enforcement reshapes midterm races as voter disapproval grows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7037
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6847
+  strength: 0.7036
 - slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
   headline: Democrats favored in House as Trump approval hits historic low
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.718
+  strength: 0.7187
 - slug: 2026-10-04-texas-democrat-bobby-pulido-courts-latino-voters-with-quincea-era-appearances
   headline: Texas Democrat Bobby Pulido courts Latino voters with quinceañera appearances
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7285
-- slug: 2026-10-10-bold-pac-recruits-latino-influencers-as-democrats-court-hispanic-voters
-  headline: BOLD PAC recruits Latino influencers as Democrats court Hispanic voters
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6922
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7329
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.77
-- slug: 2026-09-29-miami-dade-voters-fault-trump-immigration-enforcement-ahead-of-midterms
-  headline: Miami-Dade voters fault Trump immigration enforcement ahead of midterms
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6861
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7074
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6837
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7156
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7051
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6887
-- slug: 2026-05-22-trump-s-latino-vote-gains-face-test-as-ice-raids-and-costs-bite
-  headline: Trump’s Latino vote gains face test as ICE raids and costs bite
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7081
-- slug: 2026-05-21-trump-s-2024-latino-gains-face-midterm-test-as-ice-raids-and-costs-strain-househ
-  headline: Trump's 2024 Latino gains face midterm test as ICE raids and costs strain households
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7002
-- slug: 2026-03-01-voters-face-new-us-house-maps-in-texas-midterm-elections
-  headline: Voters face new US House maps in Texas midterm elections
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.7133
+  strength: 0.7277
 ---
-
 ## Texas polls suggest Hispanic voters are moving away from Trump before midterms
 
 **Subtype:** fact

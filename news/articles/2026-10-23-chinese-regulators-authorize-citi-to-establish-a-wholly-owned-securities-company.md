@@ -1,9 +1,18 @@
 ---
-headline: Chinese regulators authorize Citi to establish a wholly owned securities company
-secondary_headline: The license covers equities brokerage, securities underwriting, securities research and principal trading
+headline: Chinese regulators authorize Citi to establish a wholly owned securities
+  company
+secondary_headline: The license covers equities brokerage, securities underwriting,
+  securities research and principal trading
 publish_date: '2026-10-23'
-lede: Chinese regulators have approved Citi's plan to establish a wholly owned securities company in China. The China Securities Regulatory Commission announced the approval Friday, and Citi said the onshore license will allow Citi, through the new entity, to offer equities brokerage, securities underwriting, securities research and principal trading services to domestic and foreign clients.
-nut_graf: The approval gives Citi a new onshore securities platform as Beijing opens its financial market to U.S. companies. It follows a recent approval for Visa to prepare a bank-card clearing business in China and comes as Xi Jinping and Donald Trump are expected to meet two more times by year's end.
+lede: Chinese regulators have approved Citi's plan to establish a wholly owned securities
+  company in China. The China Securities Regulatory Commission announced the approval
+  Friday, and Citi said the onshore license will allow Citi, through the new entity,
+  to offer equities brokerage, securities underwriting, securities research and principal
+  trading services to domestic and foreign clients.
+nut_graf: The approval gives Citi a new onshore securities platform as Beijing opens
+  its financial market to U.S. companies. It follows a recent approval for Visa to
+  prepare a bank-card clearing business in China and comes as Xi Jinping and Donald
+  Trump are expected to meet two more times by year's end.
 primary_entities:
 - Citi
 - China Securities Regulatory Commission
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +150,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
-  headline: Chinese automakers pitch American-style cars as U.S. stays shut
-  publish_date: '2026-10-14'
+- slug: 2026-10-26-citi-receives-chinese-approval-for-wholly-owned-securities-company
+  headline: Citi receives Chinese approval for wholly owned securities company
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.6078
+  strength: 0.7486
 - slug: 2026-09-15-china-enacts-new-exit-restrictions-tied-to-export-control-violations
   headline: China enacts new exit restrictions tied to export-control violations
   publish_date: '2026-09-15'
   relation: related
   strength: 0.657
-- slug: 2026-09-22-xi-unlikely-to-bring-corporate-executives-to-washington-summit-with-trump
-  headline: Xi unlikely to bring corporate executives to Washington summit with Trump
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6106
-- slug: 2026-09-14-china-updates-ai-safety-framework-cites-deception-and-autonomy-risks
-  headline: China updates AI safety framework, cites deception and autonomy risks
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5979
 - slug: 2026-07-13-chinese-regulator-clears-shein-for-hong-kong-ipo-at-over-40b-valuation
   headline: Chinese regulator clears Shein for Hong Kong IPO at over $40B valuation
   publish_date: '2026-07-13'
   relation: related
   strength: 0.6539
-- slug: 2026-07-28-ftc-investigating-shein-s-u-s-operations-retailer-reveals-in-ipo-filing
-  headline: FTC investigating Shein's U.S. operations, retailer reveals in IPO filing
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6079
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6171
-- slug: 2026-06-26-china-readies-law-empowering-prosecutors-to-sue-foreign-entities
-  headline: China readies law empowering prosecutors to sue foreign entities
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6369
 - slug: 2026-06-01-china-tightens-outbound-investment-rules-amid-u-s--china-tech-rivalry
   headline: China tightens outbound investment rules amid U.S.-China tech rivalry
   publish_date: '2026-06-01'
   relation: related
   strength: 0.6567
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6052
-- slug: 2026-07-17-xi-endorses-open-source-ai-launches-china-led-global-body
-  headline: Xi endorses open-source AI, launches China-led global body
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6107
-- slug: 2026-07-15-deepseek-prepares-for-shanghai-ipo-as-soon-as-q2-2027
-  headline: DeepSeek prepares for Shanghai IPO as soon as Q2 2027
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6126
-- slug: 2026-07-17-us-will-not-renew-order-revoking-hong-kong-trade-status
-  headline: US will not renew order revoking Hong Kong trade status
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5952
-- slug: 2026-02-17-china-grants-visa-free-entry-for-uk-and-canada-travelers-in-boost-to-tourism
-  headline: China grants visa-free entry for UK and Canada travelers in boost to tourism
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6463
-- slug: 2026-02-17-china-allows-uk-and-canada-visa-free-entry-expanding-to-79-countries
-  headline: China allows UK and Canada visa-free entry, expanding to 79 countries
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6441
-- slug: 2026-06-11-citigroup-rolls-out-tokenized-shares-of-private-companies
-  headline: Citigroup rolls out tokenized shares of private companies
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5978
-- slug: 2026-05-13-what-to-know-about-trump-xi-summit-in-beijing
-  headline: What to know about Trump-Xi summit in Beijing
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6114
-- slug: 2026-05-17-china-to-boost-trade-for-us-agricultural-products-including-beef-and-poultry
-  headline: China to boost trade for US agricultural products including beef and poultry
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5965
-- slug: 2026-05-10-china-steps-up-iran-war-diplomacy-ahead-of-trump-xi-summit
-  headline: China steps up Iran war diplomacy ahead of Trump-Xi summit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5982
-- slug: 2026-05-09-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-adds-trip-tension
-  headline: Trump heads to Beijing for talks with Xi as Iran war adds trip tension
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5985
 ---
-
 ## Chinese regulators authorize Citi to establish a wholly owned securities company
 
 **Subtype:** fact

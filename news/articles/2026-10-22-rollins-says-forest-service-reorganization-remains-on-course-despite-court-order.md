@@ -1,9 +1,21 @@
 ---
-headline: Rollins says Forest Service reorganization remains on course despite court order
-secondary_headline: Chhabria said implementation would likely force thousands to relocate or lose jobs
+headline: Rollins says Forest Service reorganization remains on course despite court
+  order
+secondary_headline: Chhabria said implementation would likely force thousands to relocate
+  or lose jobs
 publish_date: '2026-10-22'
-lede: Agriculture Secretary Brooke Rollins said Thursday that the Trump administration remained “full-bore ahead” with a sweeping reorganization of the Forest Service and other agencies after a federal judge blocked the changes last week. U.S. District Judge Vince Chhabria’s Oct. 13 order halted the reorganization while an opponents’ lawsuit proceeded through the courts, and the administration has appealed. The proposal would move Forest Service headquarters from Washington to Salt Lake City, close 23 research stations and replace many regional offices with state offices.
-nut_graf: 'Administration officials say the reorganization will trim costs and concentrate resources in Western states, which contain nearly 90% of national forest lands. Worker consequences are central to the dispute: Chhabria found that implementation would likely force thousands of USDA employees to relocate far from home or lose their jobs.'
+lede: Agriculture Secretary Brooke Rollins said Thursday that the Trump administration
+  remained “full-bore ahead” with a sweeping reorganization of the Forest Service
+  and other agencies after a federal judge blocked the changes last week. U.S. District
+  Judge Vince Chhabria’s Oct. 13 order halted the reorganization while an opponents’
+  lawsuit proceeded through the courts, and the administration has appealed. The proposal
+  would move Forest Service headquarters from Washington to Salt Lake City, close
+  23 research stations and replace many regional offices with state offices.
+nut_graf: 'Administration officials say the reorganization will trim costs and concentrate
+  resources in Western states, which contain nearly 90% of national forest lands.
+  Worker consequences are central to the dispute: Chhabria found that implementation
+  would likely force thousands of USDA employees to relocate far from home or lose
+  their jobs.'
 primary_entities:
 - Brooke Rollins
 - Donald Trump
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,46 @@ related_stories:
   headline: Forest Service closes 23 research stations in cost-cutting reorganization
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.713
-- slug: 2026-09-05-trump-executive-order-directs-interior-to-weigh-gray-wolf-de-listing
-  headline: Trump executive order directs Interior to weigh gray wolf de-listing
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6225
-- slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
-  headline: Trump administration formally proposes rescinding 2001 Roadless Rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6398
+  strength: 0.7136
 - slug: 2026-08-03-federal-agency-relocations-draw-lawsuits-empty-lease-costs-and-worker-complaints
-  headline: Federal agency relocations draw lawsuits, empty lease costs, and worker complaints
+  headline: Federal agency relocations draw lawsuits, empty lease costs, and worker
+    complaints
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6886
+  strength: 0.6891
 - slug: 2026-04-01-trump-to-move-forest-service-headquarters-from-dc-to-salt-lake-city
   headline: Trump to move Forest Service headquarters from DC to Salt Lake City
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.7857
+  strength: 0.7861
 - slug: 2026-08-18-forest-service-files-proposal-to-scrap-roadless-rule-on-national-forests
   headline: Forest Service files proposal to scrap roadless rule on national forests
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6523
-- slug: 2026-08-19-federal-firefighters-challenge-usfs-chief-s-fully-staffed-assurances
-  headline: Federal firefighters challenge USFS chief's 'fully staffed' assurances
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6352
+  strength: 0.6545
 - slug: 2026-06-17-forest-service-says-it-s-fully-staffed-as-wildfires-erupt-in-the-west
   headline: Forest Service says it's fully staffed as wildfires erupt in the West
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.7131
+  strength: 0.7146
 - slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
   headline: Trump targets forest fire research as West braces for wildfire season
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7082
-- slug: 2026-07-19-federal-cuts-and-policy-rollbacks-leave-us-facing-multiple-crises
-  headline: Federal cuts and policy rollbacks leave US facing multiple crises
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.626
+  strength: 0.709
 - slug: 2026-06-05-trump-administration-moves-to-rescind-roadless-rule-protecting-58-million-acres-
-  headline: Trump administration moves to rescind Roadless Rule protecting 58 million acres of national forests
+  headline: Trump administration moves to rescind Roadless Rule protecting 58 million
+    acres of national forests
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6665
+  strength: 0.6688
 - slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
+  headline: Trump administration orders sweeping rollback of hunting restrictions
+    on public lands
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6715
-- slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6711
-- slug: 2026-07-06-wind-project-workers-say-trump-s-stop-work-orders-cost-them-jobs
-  headline: Wind project workers say Trump's stop-work orders cost them jobs
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6207
-- slug: 2026-06-29-education-department-shifts-programs-to-other-agencies-via-interagency-agreement
-  headline: Education Department shifts programs to other agencies via interagency agreements
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6272
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6419
-- slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands
-  headline: Interior Department cancels conservation rule on public lands
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.646
-- slug: 2026-04-27-hospitality-executive-scott-socha-withdrawn-from-national-park-service-director-
-  headline: Hospitality executive Scott Socha withdrawn from National Park Service director bid
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6389
-- slug: 2026-05-11-tongass-plan-revision-draws-criticism-over-timeline-old-growth-protections
-  headline: Tongass plan revision draws criticism over timeline, old-growth protections
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6208
-- slug: 2026-02-13-trump-nominates-hospitality-executive-scott-socha-as-national-park-service-direc
-  headline: Trump nominates hospitality executive Scott Socha as National Park Service director
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6407
+  strength: 0.6732
 ---
-
 ## Rollins says Forest Service reorganization remains on course despite court order
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence risk by 42% in trial
-secondary_headline: Moderna and Merck talk to regulators about next steps for seeking approval
+headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence
+  risk by 42% in trial
+secondary_headline: Moderna and Merck talk to regulators about next steps for seeking
+  approval
 publish_date: '2026-10-22'
-lede: Moderna and Merck released Thursday results from a major late-stage trial showing that adding the personalized mRNA cancer vaccine intismeran to standard post-surgery treatment reduced the risk of melanoma returning by 42% over two years. AP characterized the vaccine as a first-of-its-kind cancer vaccine and the study as the most advanced to date of the strategy for fighting cancer. Moderna and Merck said they are talking with regulatory authorities about next steps for seeking approval.
-nut_graf: 'The trial points to a possible way to prevent recurrence after surgery for patients with surgically removed high-risk melanoma, all of whom received standard Keytruda, while practical questions remain open: the full manufacturing process beginning with tumor-genetic analysis can take roughly six weeks, sometimes more, although brewing the vaccine takes a few days, and Moderna and Merck are not discussing what intismeran might cost.'
+lede: Moderna and Merck released Thursday results from a major late-stage trial showing
+  that adding the personalized mRNA cancer vaccine intismeran to standard post-surgery
+  treatment reduced the risk of melanoma returning by 42% over two years. AP characterized
+  the vaccine as a first-of-its-kind cancer vaccine and the study as the most advanced
+  to date of the strategy for fighting cancer. Moderna and Merck said they are talking
+  with regulatory authorities about next steps for seeking approval.
+nut_graf: 'The trial points to a possible way to prevent recurrence after surgery
+  for patients with surgically removed high-risk melanoma, all of whom received standard
+  Keytruda, while practical questions remain open: the full manufacturing process
+  beginning with tumor-genetic analysis can take roughly six weeks, sometimes more,
+  although brewing the vaccine takes a few days, and Moderna and Merck are not discussing
+  what intismeran might cost.'
 primary_entities:
 - Moderna
 - Merck
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +156,52 @@ related_stories:
   headline: Moderna's melanoma vaccine cuts recurrence risk; stock falls 19%
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8299
+  strength: 0.8285
+- slug: 2026-10-26-merck-melanoma-trial-finds-a-42-reduction-in-recurrence-or-death
+  headline: Merck melanoma trial finds a 42% reduction in recurrence or death
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7894
 - slug: 2026-08-20-merck-and-moderna-melanoma-vaccine-extends-cancer-free-period-in-phase-3-trial
-  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase 3 trial
+  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase
+    3 trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.8722
-- slug: 2026-10-19-ai-tool-predicts-cancer-survival-from-a-single-facial-photo
-  headline: AI tool predicts cancer survival from a single facial photo
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5751
+  strength: 0.8729
 - slug: 2026-08-19-moderna-shares-more-than-double-after-melanoma-trial
   headline: Moderna shares more than double after melanoma trial
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.8291
+  strength: 0.8293
 - slug: 2026-08-22-moderna-s-personalized-cancer-vaccine-clears-phase-3-melanoma-trial
   headline: Moderna's personalized cancer vaccine clears phase 3 melanoma trial
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7886
-- slug: 2026-09-16-fda-shift-under-acting-commissioner-lifts-rare-disease-biotech-stocks
-  headline: FDA shift under acting commissioner lifts rare-disease biotech stocks
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6173
+  strength: 0.7876
 - slug: 2026-08-06-fda-approves-replimune-s-tudriqev-for-advanced-melanoma-after-two-rejections
   headline: FDA approves Replimune's Tudriqev for advanced melanoma after two rejections
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6623
-- slug: 2026-08-26-fda-approves-first-kras-targeted-pill-for-pancreatic-cancer
-  headline: FDA approves first KRAS-targeted pill for pancreatic cancer
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5969
-- slug: 2026-08-27-npr-s-a-martinez-interviews-stat-s-feuerstein-on-fda-pancreatic-cancer-drug
-  headline: NPR's A Martinez interviews STAT's Feuerstein on FDA pancreatic cancer drug
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5774
-- slug: 2026-08-27-fda-approves-pfizer-s-updated-covid-19-vaccine-for-stratus-variant
-  headline: FDA approves Pfizer's updated COVID-19 vaccine for Stratus variant
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5696
-- slug: 2026-08-06-fda-approves-mflusiva-moderna-s-mrna-flu-vaccine-for-older-adults
-  headline: FDA approves mFlusiva, Moderna’s mRNA flu vaccine for older adults
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6157
-- slug: 2026-08-06-experimental-vaccines-target-inherited-colorectal-cancer-risk
-  headline: Experimental vaccines target inherited colorectal cancer risk
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5981
+  strength: 0.6597
 - slug: 2026-06-18-fda-panel-weighs-first-mrna-flu-vaccine-for-adults-50-and-older
   headline: FDA panel weighs first mRNA flu vaccine for adults 50 and older
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6571
-- slug: 2026-07-16-fda-approves-merck-s-lipfendra-first-oral-pcsk9-inhibitor
-  headline: FDA approves Merck’s Lipfendra, first oral PCSK9 inhibitor
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5856
-- slug: 2026-05-31-pill-targeting-kras-mutations-nearly-doubles-survival-in-pancreatic-cancer-trial
-  headline: Pill targeting KRAS mutations nearly doubles survival in pancreatic cancer trial
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6226
-- slug: 2026-05-13-car-t-therapy-suppresses-hiv-in-two-patients-for-over-a-year-study-finds
-  headline: CAR-T therapy suppresses HIV in two patients for over a year, study finds
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6041
-- slug: 2026-02-19-fda-will-consider-moderna-s-mrna-flu-vaccine-after-all
-  headline: FDA will consider Moderna's mRNA flu vaccine after all
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6127
-- slug: 2026-02-05-merck-s-experimental-enlicitide-pill-sharply-lowered-ldl-in-study
-  headline: Merck’s experimental enlicitide pill sharply lowered LDL in study
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6099
-- slug: 2026-02-11-moderna-says-fda-will-not-consider-its-mrna-flu-vaccine-application
-  headline: Moderna says FDA will not consider its mRNA flu vaccine application
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6087
-- slug: 2026-06-09-fda-adds-bemotrizinol-to-sunscreen-ingredient-list-first-new-addition-since-1990
-  headline: FDA adds bemotrizinol to sunscreen ingredient list, first new addition since 1990s
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5691
+  strength: 0.6557
 image:
   url: /articles/2026-10-22-personalized-mrna-vaccine-added-to-keytruda-cuts-two-year-melanoma-recurrence-ri.png
-  alt: "Illustration accompanying article: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence risk by…"
+  alt: 'Illustration accompanying article: Personalized mRNA vaccine added to Keytruda
+    cuts two-year melanoma recurrence risk by…'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence risk by 42% in trial
 
 **Subtype:** fact

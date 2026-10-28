@@ -2,8 +2,14 @@
 headline: Golf ball-sized hail hits central and northern Arizona
 secondary_headline: Tornado watches marked Arizona's first since October 2010
 publish_date: '2026-10-22'
-lede: Severe thunderstorms swept through northern and central Arizona overnight Tuesday and into Wednesday, bringing golf ball-sized hail, damaging wind gusts, tornado risks and possible flash flooding. The National Weather Service issued multiple warnings and encouraged people to seek shelter and stay away from windows as the storms moved through the state.
-nut_graf: The storm combined damaging hail and strong winds with the state's first tornado watches since 2010 and a separate flash-flood threat for the Phoenix metro area.
+lede: Severe thunderstorms swept through northern and central Arizona overnight Tuesday
+  and into Wednesday, bringing golf ball-sized hail, damaging wind gusts, tornado
+  risks and possible flash flooding. The National Weather Service issued multiple
+  warnings and encouraged people to seek shelter and stay away from windows as the
+  storms moved through the state.
+nut_graf: The storm combined damaging hail and strong winds with the state's first
+  tornado watches since 2010 and a separate flash-flood threat for the Phoenix metro
+  area.
 primary_entities:
 - National Weather Service
 - Arizona
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,41 +154,16 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8018
-- slug: 2026-09-29-hurricane-polo-makes-landfall-on-baja-california-coast-with-110-mph-winds
-  headline: Hurricane Polo makes landfall on Baja California coast with 110 mph winds
-  publish_date: '2026-09-29'
+- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
+  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6419
-- slug: 2026-09-29-hurricane-polo-makes-landfall-on-baja-peninsula-moves-toward-sonora
-  headline: Hurricane Polo makes landfall on Baja peninsula, moves toward Sonora
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6376
-- slug: 2026-09-26-hurricane-polo-restrengthens-to-category-5-heads-toward-baja-california
-  headline: Hurricane Polo restrengthens to Category 5, heads toward Baja California
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6318
-- slug: 2026-09-03-powerful-thunderstorms-bring-hail-flooding-and-outages-to-toronto
-  headline: Powerful thunderstorms bring hail, flooding, and outages to Toronto
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6377
+  strength: 0.7123
 - slug: 2026-08-06-two-extreme-haboobs-strike-phoenix-within-a-week
   headline: Two extreme haboobs strike Phoenix within a week
   publish_date: '2026-08-06'
   relation: related
   strength: 0.6779
-- slug: 2026-07-12-microbursts-hit-philadelphia-causing-building-collapse-and-downing-trees
-  headline: Microbursts hit Philadelphia, causing building collapse and downing trees
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6449
-- slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6288
 - slug: 2026-02-16-tornado-watch-issued-as-storm-system-hits-mississippi-and-louisiana
   headline: Tornado watch issued as storm system hits Mississippi and Louisiana
   publish_date: '2026-02-16'
@@ -197,53 +179,19 @@ related_stories:
   publish_date: '2026-03-15'
   relation: related
   strength: 0.6684
-- slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
-  headline: Tornadoes, hail and flooding threaten parts of the Midwest
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6484
-- slug: 2026-04-30-missouri-hailstorm-kills-emu-at-zoo-disrupts-flights-and-damages-vehicles
-  headline: Missouri hailstorm kills emu at zoo, disrupts flights and damages vehicles
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6431
 - slug: 2026-03-15-spring-s-jet-stream-chaos-brings-blizzard-storms-extreme-heat-hawaii-rain
-  headline: Spring’s jet stream chaos brings blizzard, storms, extreme heat, Hawaii rain
+  headline: Spring’s jet stream chaos brings blizzard, storms, extreme heat, Hawaii
+    rain
   publish_date: '2026-03-15'
   relation: related
   strength: 0.6554
-- slug: 2026-04-15-severe-storms-threaten-plains-and-midwest-again
-  headline: Severe storms threaten Plains and Midwest again
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6481
 - slug: 2026-03-05-storm-outbreak-threatens-heartland-with-tornadoes-6-million-at-highest-risk
-  headline: Storm outbreak threatens heartland with tornadoes; 6 million at highest risk
+  headline: Storm outbreak threatens heartland with tornadoes; 6 million at highest
+    risk
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6567
-- slug: 2026-04-28-storms-flatten-buildings-and-damage-homes-in-texas-city-of-mineral-wells
-  headline: Storms flatten buildings and damage homes in Texas city of Mineral Wells
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6379
-- slug: 2026-02-13-winter-storm-watch-issued-for-northern-california-major-travel-impacts-expected
-  headline: Winter storm watch issued for northern California; major travel impacts expected
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6513
-- slug: 2026-03-12-large-tornado-causes-significant-damage-near-chicago-and-indiana
-  headline: Large tornado causes significant damage near Chicago and Indiana
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.647
-- slug: 2026-03-15-every-kind-of-weather-is-about-to-hit-the-us-forecasters-warn
-  headline: Every kind of weather is about to hit the US, forecasters warn
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.646
 ---
-
 ## Golf ball-sized hail hits central and northern Arizona
 
 **Subtype:** fact

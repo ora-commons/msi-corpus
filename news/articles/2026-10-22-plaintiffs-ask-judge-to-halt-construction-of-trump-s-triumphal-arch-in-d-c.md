@@ -1,9 +1,18 @@
 ---
 headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
-secondary_headline: National Capital Planning Commission to consider final approval on Nov. 5
+secondary_headline: National Capital Planning Commission to consider final approval
+  on Nov. 5
 publish_date: '2026-10-22'
-lede: Three veterans and a retired architectural historian asked U.S. District Judge Tanya Chutkan on Thursday to halt construction of a planned 250-foot triumphal arch in Washington's Memorial Circle, absent congressional authorization. The request came one day after the National Park Service told the court that construction could begin as early as Nov. 5 if required approvals were completed. Chutkan ordered the administration and plaintiffs to meet and file a briefing schedule by noon Friday.
-nut_graf: The dispute concerns the administration's Nov. 5 construction timetable and the plaintiffs' contention that Congress must approve the project. The cross-motions for summary judgment remain pending, and the plaintiffs say the defendants intend to proceed without waiting for Chutkan's ruling.
+lede: Three veterans and a retired architectural historian asked U.S. District Judge
+  Tanya Chutkan on Thursday to halt construction of a planned 250-foot triumphal arch
+  in Washington's Memorial Circle, absent congressional authorization. The request
+  came one day after the National Park Service told the court that construction could
+  begin as early as Nov. 5 if required approvals were completed. Chutkan ordered the
+  administration and plaintiffs to meet and file a briefing schedule by noon Friday.
+nut_graf: The dispute concerns the administration's Nov. 5 construction timetable
+  and the plaintiffs' contention that Congress must approve the project. The cross-motions
+  for summary judgment remain pending, and the plaintiffs say the defendants intend
+  to proceed without waiting for Chutkan's ruling.
 primary_entities:
 - Tanya Chutkan
 - National Park Service
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +157,45 @@ related_stories:
   headline: Judge orders 48-hour notice before Trump DC arch Memorial Circle work
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.8495
+  strength: 0.8492
 - slug: 2026-10-09-arlington-county-sues-to-halt-trump-s-250-foot-arch-over-environmental-review
-  headline: Arlington County sues to halt Trump's 250-foot arch over environmental review
+  headline: Arlington County sues to halt Trump's 250-foot arch over environmental
+    review
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7421
+  strength: 0.7411
 - slug: 2026-10-02-dozens-protest-trump-s-250-foot-d-c-arch-at-memorial-circle
   headline: Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7616
+  strength: 0.7606
 - slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
   headline: Park Service finds Trump 250-foot DC arch would harm historic sites
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7665
+  strength: 0.7658
 - slug: 2026-09-21-trump-accused-of-manufacturing-national-security-justification-for-dc-arch
-  headline: Trump accused of manufacturing national security justification for DC arch
+  headline: Trump accused of manufacturing national security justification for DC
+    arch
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7462
+  strength: 0.7448
 - slug: 2026-09-25-council-ends-trump-arch-preservation-talks-citing-local-impasse
   headline: Council ends Trump arch preservation talks, citing local impasse
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7165
+  strength: 0.7153
 - slug: 2026-09-20-trump-says-250-foot-dc-arch-will-house-weapons-as-military-complex
   headline: Trump says 250-foot DC arch will house weapons as military complex
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.734
+  strength: 0.7334
 - slug: 2026-09-20-faa-finds-trump-dc-arch-poses-no-reagan-national-flight-hazard
   headline: FAA finds Trump DC arch poses no Reagan National flight hazard
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7289
-- slug: 2026-09-22-preservation-experts-call-trump-s-military-arch-about-face-whiplash-inducing
-  headline: Preservation experts call Trump's military arch about-face 'whiplash-inducing'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7124
-- slug: 2026-09-03-trump-administration-to-begin-excavation-on-250-foot-washington-arch
-  headline: Trump administration to begin excavation on 250-foot Washington arch
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7233
-- slug: 2026-07-10-federal-panel-clears-preliminary-approval-for-trump-s-250-foot-arch
-  headline: Federal panel clears preliminary approval for Trump's 250-foot arch
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7865
-- slug: 2026-07-08-trump-s-250-foot-washington-arch-traces-to-april-2025-essay-by-design-critic
-  headline: Trump's 250-foot Washington arch traces to April 2025 essay by design critic
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7889
-- slug: 2026-08-06-park-service-lists-37-historic-sites-that-trump-s-250-foot-arch-would-affect
-  headline: Park Service lists 37 historic sites that Trump's 250-foot arch would affect
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.719
-- slug: 2026-08-03-park-service-review-finds-trump-s-arch-would-adversely-affect-about-40-historic-
-  headline: Park Service review finds Trump's arch would adversely affect about 40 historic sites
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.7171
-- slug: 2026-06-10-veterans-sue-to-block-trump-s-250-foot-arch-near-arlington-national-cemetery
-  headline: Veterans sue to block Trump's 250-foot arch near Arlington National Cemetery
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7741
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-triumphal-arch-in-washington
-  headline: Survey work begins on Trump’s proposed Triumphal Arch in Washington
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.7703
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-d-c-arch-as-lawsuit-proceeds
-  headline: Survey work begins on Trump’s proposed D.C. arch as lawsuit proceeds
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.7703
-- slug: 2026-05-21-fine-arts-commission-approves-design-for-trump-s-250-foot-washington-arch
-  headline: Fine Arts Commission approves design for Trump's 250-foot Washington arch
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7568
-- slug: 2026-05-22-federal-fine-arts-commission-approves-trump-s-proposed-washington-triumphal-arch
-  headline: Federal fine arts commission approves Trump’s proposed Washington triumphal arch
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7526
-- slug: 2026-05-21-fine-arts-commission-approves-trump-s-proposed-250-foot-washington-arch-design
-  headline: Fine Arts Commission approves Trump’s proposed 250-foot Washington arch design
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7327
+  strength: 0.7275
 ---
-
 ## Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
 
 **Subtype:** fact

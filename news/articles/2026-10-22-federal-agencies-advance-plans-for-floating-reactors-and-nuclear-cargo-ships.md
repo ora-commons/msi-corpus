@@ -1,9 +1,18 @@
 ---
 headline: Federal agencies advance plans for floating reactors and nuclear cargo ships
-secondary_headline: Core Power targets 2028 construction as regulatory standards remain unsettled
+secondary_headline: Core Power targets 2028 construction as regulatory standards remain
+  unsettled
 publish_date: '2026-10-22'
-lede: The U.S. Maritime Administration and the Port of Long Beach signed an agreement to help establish carbon-free offshore nuclear power at the California port, part of a federal effort to prepare for floating reactors and privately owned nuclear-powered cargo ships. The Nuclear Regulatory Commission, Coast Guard and the departments of energy, interior and transportation are working on the industry’s safety and regulatory framework, but no timeline has been set for additional guidance and standards.
-nut_graf: The agreements show that the maritime nuclear push remains at the framework-building stage. Agencies still must divide responsibilities and address safety, environmental and security issues before private operators can use reactors at sea, while nuclear-powered cargo vessels could cost several times more than conventional ships.
+lede: The U.S. Maritime Administration and the Port of Long Beach signed an agreement
+  to help establish carbon-free offshore nuclear power at the California port, part
+  of a federal effort to prepare for floating reactors and privately owned nuclear-powered
+  cargo ships. The Nuclear Regulatory Commission, Coast Guard and the departments
+  of energy, interior and transportation are working on the industry’s safety and
+  regulatory framework, but no timeline has been set for additional guidance and standards.
+nut_graf: The agreements show that the maritime nuclear push remains at the framework-building
+  stage. Agencies still must divide responsibilities and address safety, environmental
+  and security issues before private operators can use reactors at sea, while nuclear-powered
+  cargo vessels could cost several times more than conventional ships.
 primary_entities:
 - U.S. Maritime Administration
 - Port of Long Beach
@@ -52,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,117 +160,63 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6344
-- slug: 2026-09-25-trump-order-directs-agencies-to-prioritize-recreational-fishing
-  headline: Trump order directs agencies to prioritize recreational fishing
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6474
 - slug: 2026-07-23-port-of-long-beach-signs-agreement-to-explore-on-site-nuclear-power
   headline: Port of Long Beach signs agreement to explore on-site nuclear power
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7964
+  strength: 0.7965
 - slug: 2026-09-03-trump-administration-opens-federal-review-of-california-coastal-program
   headline: Trump administration opens federal review of California coastal program
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6936
-- slug: 2026-09-16-us-investigates-cyberattacks-on-energy-tankers-in-strait-of-gibraltar
-  headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6269
-- slug: 2026-09-09-pacific-fusion-to-build-albuquerque-plant-for-nuclear-weapons-testing
-  headline: Pacific Fusion to Build Albuquerque Plant for Nuclear Weapons Testing
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6279
-- slug: 2026-08-26-trump-administration-approves-wave-energy-test-site-off-oregon-coast
-  headline: Trump administration approves wave energy test site off Oregon coast
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6283
+  strength: 0.6943
 - slug: 2026-06-29-trump-administration-to-evaluate-california-coastal-commission-in-energy-dispute
-  headline: Trump administration to evaluate California Coastal Commission in energy dispute
+  headline: Trump administration to evaluate California Coastal Commission in energy
+    dispute
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6811
+  strength: 0.6813
 - slug: 2026-05-22-trump-order-sparks-deep-sea-mining-push-as-regulators-race-to-fast-track-permits
-  headline: Trump order sparks deep-sea mining push as regulators race to fast-track permits
+  headline: Trump order sparks deep-sea mining push as regulators race to fast-track
+    permits
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6847
+  strength: 0.6862
 - slug: 2026-05-21-trump-order-fuels-deep-sea-mining-push-as-regulators-fast-track-permits
   headline: Trump order fuels deep-sea mining push as regulators fast-track permits
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6805
+  strength: 0.6819
 - slug: 2026-05-21-trump-order-spurs-u-s-push-for-deep-sea-mining-but-questions-remain
   headline: Trump order spurs U.S. push for deep-sea mining, but questions remain
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6702
+  strength: 0.6711
 - slug: 2026-05-21-trump-deep-sea-mining-push-draws-investors-as-regulators-move-to-fast-track-perm
-  headline: Trump deep-sea mining push draws investors as regulators move to fast-track permits
+  headline: Trump deep-sea mining push draws investors as regulators move to fast-track
+    permits
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6671
+  strength: 0.6684
 - slug: 2026-06-09-south-korea-us-align-on-nuclear-powered-submarine-plan
   headline: South Korea, US align on nuclear-powered submarine plan
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6547
-- slug: 2026-07-05-canada-nears-decision-on-submarine-contract-between-hanwha-and-tkms
-  headline: Canada nears decision on submarine contract between Hanwha and TKMS
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6264
-- slug: 2026-05-23-trump-s-deep-sea-mining-order-spurs-investor-rush-as-regulators-fast-track-permi
-  headline: Trump’s deep‑sea mining order spurs investor rush as regulators fast‑track permits
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6591
-- slug: 2026-05-22-trump-executive-order-boosts-deep-sea-mining-growth-but-future-remains-unclear
-  headline: Trump executive order boosts deep-sea mining growth, but future remains unclear
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6589
-- slug: 2026-06-23-california-sues-trump-administration-over-cancellation-of-offshore-wind-lease
-  headline: California sues Trump administration over cancellation of offshore wind lease
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6332
-- slug: 2026-05-21-investors-pour-millions-into-deep-sea-mining-startups-a-year-after-trump-executi
-  headline: Investors pour millions into deep-sea mining startups a year after Trump executive order
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.657
-- slug: 2026-06-09-nuclear-power-sees-revival-as-ai-demand-public-support-rise
-  headline: Nuclear power sees revival as AI demand, public support rise
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6441
-- slug: 2026-03-05-nrc-approves-first-non-light-water-reactor-permit-in-40-years-for-gates-backed-w
-  headline: NRC approves first non-light-water reactor permit in 40 years for Gates-backed Wyoming plant
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6596
+  strength: 0.655
 image:
   url: /articles/2026-10-22-federal-agencies-advance-plans-for-floating-reactors-and-nuclear-cargo-ships.png
-  alt: "Illustration accompanying article: Federal agencies advance plans for floating reactors and nuclear cargo ships"
+  alt: 'Illustration accompanying article: Federal agencies advance plans for floating
+    reactors and nuclear cargo ships'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Federal agencies advance plans for floating reactors and nuclear cargo ships
 
 **Subtype:** fact

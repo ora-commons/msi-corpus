@@ -2,8 +2,16 @@
 headline: Obama rallies for El-Sayed in Michigan Senate race
 secondary_headline: Cook Political Report rates Senate contest a toss-up
 publish_date: '2026-10-24'
-lede: Former President Barack Obama rallied thousands at Cass Technical High School in Detroit on Saturday, endorsing Democratic U.S. Senate candidate Abdul El-Sayed and the rest of the state Democratic ticket. The event on the first day of Michigan's early-voting period came as Obama argued that El-Sayed would get money out of politics and put it in voters' pockets. It was Obama's first public show of support for El-Sayed after he stayed on the sidelines in the August primary.
-nut_graf: Obama's endorsement comes as Michigan begins early voting in a race the Cook Political Report rates a toss-up. El-Sayed is campaigning on money in politics and health care, Trump has repeatedly attacked him, and statewide polling has the candidates separated narrowly.
+lede: Former President Barack Obama rallied thousands at Cass Technical High School
+  in Detroit on Saturday, endorsing Democratic U.S. Senate candidate Abdul El-Sayed
+  and the rest of the state Democratic ticket. The event on the first day of Michigan's
+  early-voting period came as Obama argued that El-Sayed would get money out of politics
+  and put it in voters' pockets. It was Obama's first public show of support for El-Sayed
+  after he stayed on the sidelines in the August primary.
+nut_graf: Obama's endorsement comes as Michigan begins early voting in a race the
+  Cook Political Report rates a toss-up. El-Sayed is campaigning on money in politics
+  and health care, Trump has repeatedly attacked him, and statewide polling has the
+  candidates separated narrowly.
 primary_entities:
 - Barack Obama
 - Abdul El-Sayed
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +154,43 @@ related_stories:
   headline: Barack Obama to support Abdul El-Sayed at Detroit Senate rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8046
+  strength: 0.8065
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7853
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7759
+  strength: 0.7747
+- slug: 2026-10-26-el-sayed-rallies-rural-michigan-on-medicare-for-all
+  headline: El-Sayed rallies rural Michigan on Medicare for All
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7443
+- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
+  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7411
+- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
+  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7368
+- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
+  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7298
 - slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
   headline: Obama to rally with El-Sayed in Michigan Senate race
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.8401
-- slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
-  headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7377
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.8015
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.779
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7355
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7079
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7091
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7192
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7602
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7368
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.8199
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7408
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.727
-- slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
-  headline: El-Sayed maintains Medicare for All support in Michigan Senate race
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.7599
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7229
-- slug: 2026-08-24-michigan-senate-candidate-el-sayed-distances-himself-from-streamer-piker
-  headline: Michigan Senate candidate El-Sayed distances himself from streamer Piker
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7149
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.762
-- slug: 2026-07-31-el-sayed-tells-detroit-faith-leaders-that-his-muslim-faith-shapes-his-progressiv
-  headline: El-Sayed tells Detroit faith leaders that his Muslim faith shapes his progressive views
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7231
+  strength: 0.8404
 ---
-
 ## Obama rallies for El-Sayed in Michigan Senate race
 
 **Subtype:** fact

@@ -1,9 +1,15 @@
 ---
 headline: Woodhill Capital president pleads guilty to $54 million mail fraud
-secondary_headline: The scheme ran from the mid-1990s until March 2026, prosecutors said
+secondary_headline: The scheme ran from the mid-1990s until March 2026, prosecutors
+  said
 publish_date: '2026-10-24'
-lede: Richard Teplitsky, president of the New York investment firm Woodhill Capital Corporation, pleaded guilty Friday to mail fraud in federal court in Buffalo, officials said. Prosecutors said the Ponzi scheme defrauded hundreds of investors over nearly three decades and resulted in more than $54.4 million in losses.
-nut_graf: Prosecutors said the scheme operated from the mid-1990s until March 2026, using monthly payouts and fabricated loan paperwork to make fraudulent investments appear legitimate. Teplitsky faces up to 20 years in prison and a $250,000 fine.
+lede: Richard Teplitsky, president of the New York investment firm Woodhill Capital
+  Corporation, pleaded guilty Friday to mail fraud in federal court in Buffalo, officials
+  said. Prosecutors said the Ponzi scheme defrauded hundreds of investors over nearly
+  three decades and resulted in more than $54.4 million in losses.
+nut_graf: Prosecutors said the scheme operated from the mid-1990s until March 2026,
+  using monthly payouts and fabricated loan paperwork to make fraudulent investments
+  appear legitimate. Teplitsky faces up to 20 years in prison and a $250,000 fine.
 primary_entities:
 - Richard Teplitsky
 - Woodhill Capital Corporation
@@ -36,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,86 +141,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
-  headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5848
-- slug: 2026-10-14-changli-luo-pleads-guilty-to-wire-fraud-against-billionaire-wesley-edens
-  headline: Changli Luo pleads guilty to wire fraud against billionaire Wesley Edens
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6328
-- slug: 2026-10-19-two-sigma-loses-state-pension-money-as-co-founder-rift-goes-public
-  headline: Two Sigma loses state pension money as co-founder rift goes public
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5964
-- slug: 2026-10-09-destinee-ruffin-pleads-guilty-in-34m-postal-check-fraud
-  headline: Destinee Ruffin pleads guilty in $34M postal check fraud
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6104
-- slug: 2026-10-07-former-cia-officer-pleads-guilty-to-194-million-scheme
-  headline: Former CIA officer pleads guilty to $194 million scheme
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5833
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5846
 - slug: 2026-08-14-todd-burkhalter-sentenced-to-20-years-in-nearly-400-million-ponzi-scheme
   headline: Todd Burkhalter sentenced to 20 years in nearly $400 million Ponzi scheme
   publish_date: '2026-08-14'
   relation: related
   strength: 0.663
-- slug: 2026-09-01-georgia-gop-faces-fallout-from-140m-first-liberty-ponzi-scheme
-  headline: Georgia GOP faces fallout from $140M First Liberty Ponzi scheme
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.611
-- slug: 2026-08-18-georgia-man-faces-165m-crypto-fraud-charges-after-fiji-deportation
-  headline: Georgia man faces $165M crypto fraud charges after Fiji deportation
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6474
-- slug: 2026-08-20-christine-hunsicker-sentenced-to-5-years-for-300m-caastle-investor-fraud
-  headline: Christine Hunsicker sentenced to 5 years for $300M CaaStle investor fraud
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6238
-- slug: 2026-08-31-kalshi-bans-george-santos-for-life-imposes-71-356-penalty
-  headline: Kalshi bans George Santos for life, imposes $71,356 penalty
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5849
 - slug: 2026-04-29-businessman-miles-burt-marshall-pleads-guilty-in-50m-new-york-ponzi
   headline: Businessman Miles “Burt” Marshall pleads guilty in $50M New York Ponzi
   publish_date: '2026-04-29'
   relation: related
   strength: 0.7276
-- slug: 2026-08-18-illinois-man-pleads-not-guilty-in-alleged-ozempic-fraud-scheme
-  headline: Illinois man pleads not guilty in alleged Ozempic fraud scheme
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.585
-- slug: 2026-08-08-new-york-warns-seniors-about-scammers-demanding-gold-bars
-  headline: New York warns seniors about scammers demanding gold bars
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5824
-- slug: 2026-07-24-thomas-goldstein-gets-6-years-for-tax-evasion-mortgage-fraud
-  headline: Thomas Goldstein gets 6 years for tax evasion, mortgage fraud
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6079
-- slug: 2026-07-21-south-carolina-town-fights-to-recover-545k-lost-in-phishing-scam
-  headline: South Carolina town fights to recover $545K lost in phishing scam
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6017
 - slug: 2026-01-21-financial-adviser-pleads-guilty-in-380m-ponzi-scheme
   headline: Financial adviser pleads guilty in $380M Ponzi scheme
   publish_date: '2026-01-21'
@@ -224,18 +161,7 @@ related_stories:
   publish_date: '2026-04-24'
   relation: related
   strength: 0.6588
-- slug: 2026-07-14-british-whistleblower-says-he-uncovered-lutnick-s-undisclosed-epstein-ties
-  headline: British whistleblower says he uncovered Lutnick's undisclosed Epstein ties
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5888
-- slug: 2026-07-09-ex-epoch-times-cfo-pleads-guilty-to-money-laundering-conspiracy
-  headline: Ex-Epoch Times CFO pleads guilty to money laundering conspiracy
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5846
 ---
-
 ## Woodhill Capital president pleads guilty to $54 million mail fraud
 
 **Subtype:** fact

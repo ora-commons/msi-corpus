@@ -1,9 +1,19 @@
 ---
 headline: SRTR adds tools for comparing U.S. transplant centers
-secondary_headline: Kidney transplant speed varies about 16-fold among centers, Husain said
+secondary_headline: Kidney transplant speed varies about 16-fold among centers, Husain
+  said
 publish_date: '2026-10-20'
-lede: New patient-friendly tools from the Scientific Registry of Transplant Recipients let people compare U.S. transplant centers by organ type, program volume, wait times and outcomes. The database can also compare results for patients with similar medical profiles for certain organs. Dr. Syed Ali Husain said that sometimes a patient turned down by one center can be successfully transplanted at another.
-nut_graf: With about 100,000 people on the U.S. transplant waiting list at any given time and just over 49,000 transplants performed last year, the new tools were developed in the hope that more would-be transplant recipients would use the database. Husain said wait times differ between centers partly because of surgeons' experience with complex kidneys and differences in how conservative hospitals are about which organs they accept.
+lede: New patient-friendly tools from the Scientific Registry of Transplant Recipients
+  let people compare U.S. transplant centers by organ type, program volume, wait times
+  and outcomes. The database can also compare results for patients with similar medical
+  profiles for certain organs. Dr. Syed Ali Husain said that sometimes a patient turned
+  down by one center can be successfully transplanted at another.
+nut_graf: With about 100,000 people on the U.S. transplant waiting list at any given
+  time and just over 49,000 transplants performed last year, the new tools were developed
+  in the hope that more would-be transplant recipients would use the database. Husain
+  said wait times differ between centers partly because of surgeons' experience with
+  complex kidneys and differences in how conservative hospitals are about which organs
+  they accept.
 primary_entities:
 - Scientific Registry of Transplant Recipients
 - Katherine Screws
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +145,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5798
-- slug: 2026-09-27-survey-fewer-than-3-of-us-sickle-cell-patients-receive-red-blood-cell-exchange
-  headline: 'Survey: fewer than 3% of US sickle cell patients receive red blood cell exchange'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6469
-- slug: 2026-09-05-new-endometriosis-tests-raise-hopes-but-remain-unavailable-in-u-s
-  headline: New endometriosis tests raise hopes but remain unavailable in U.S.
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5842
-- slug: 2026-08-18-data-tracker-finds-366-federal-datasets-deleted-or-altered-under-trump
-  headline: Data tracker finds 366 federal datasets deleted or altered under Trump
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5834
-- slug: 2026-08-06-patients-use-ai-to-interpret-medical-tests-despite-doctors-concerns
-  headline: Patients use AI to interpret medical tests despite doctors' concerns
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5992
 - slug: 2026-01-14-public-mistrust-drives-first-drop-in-us-kidney-transplants-in-over-a-decade
   headline: Public mistrust drives first drop in US kidney transplants in over a decade
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.7167
+  strength: 0.7173
 - slug: 2026-01-30-medicare-proposes-new-rules-to-expand-deceased-organ-use-and-oversight
   headline: Medicare proposes new rules to expand deceased organ use and oversight
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.7117
-- slug: 2026-08-11-social-security-adds-14-conditions-to-disability-fast-track-list
-  headline: Social Security adds 14 conditions to disability fast-track list
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5811
+  strength: 0.7095
 - slug: 2026-03-13-biased-kidney-test-fix-credits-black-candidates-with-waiting-time
   headline: Biased kidney test fix credits Black candidates with waiting time
   publish_date: '2026-03-13'
   relation: related
-  strength: 0.691
+  strength: 0.6937
 - slug: 2026-02-28-more-organs-are-being-donated-after-the-heart-stops-not-brain-death
   headline: More organs are being donated after the heart stops, not brain death
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.6693
+  strength: 0.6701
 - slug: 2025-12-17-pennsylvania-pilot-uses-angel-advocates-to-recruit-living-kidney-donors
   headline: Pennsylvania pilot uses 'angel advocates' to recruit living kidney donors
   publish_date: '2025-12-17'
   relation: related
-  strength: 0.6702
-- slug: 2026-06-18-utah-pilot-lets-ai-renew-prescriptions-drawing-physician-safety-concerns
-  headline: Utah pilot lets AI renew prescriptions, drawing physician safety concerns
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5742
-- slug: 2026-05-21-planned-parenthood-to-offer-just-in-case-abortion-pills-in-two-states
-  headline: Planned Parenthood to offer “just in case” abortion pills in two states
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5765
-- slug: 2026-05-22-trump-s-health-department-expands-ai-use-to-police-healthcare-fraud
-  headline: Trump’s health department expands AI use to police healthcare fraud
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5667
-- slug: 2026-05-10-us-lifts-visa-pause-for-doctors-but-many-other-applicants-remain-stuck
-  headline: US lifts visa pause for doctors, but many other applicants remain stuck
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5679
-- slug: 2026-04-02-virtual-replicas-of-patients-hearts-help-doctors-tackle-irregular-heartbeat
-  headline: Virtual replicas of patients' hearts help doctors tackle irregular heartbeat
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5787
-- slug: 2026-04-16-polls-show-why-many-americans-are-turning-to-ai-for-health-advice
-  headline: Polls show why many Americans are turning to AI for health advice
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5706
-- slug: 2026-01-01-trump-administration-rolls-out-rural-health-transformation-funding-for-states
-  headline: Trump administration rolls out rural health transformation funding for states
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.5803
-- slug: 2026-02-06-houston-doctor-indicted-for-falsifying-medical-records-in-liver-transplant-case
-  headline: Houston doctor indicted for falsifying medical records in liver transplant case
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.5705
-- slug: 2026-03-20-tsa-wait-times-a-wild-card-during-dhs-shutdown-as-staffing-varies
-  headline: TSA wait times a wild card during DHS shutdown as staffing varies
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5642
+  strength: 0.6694
 ---
-
 ## SRTR adds tools for comparing U.S. transplant centers
 
 **Subtype:** fact

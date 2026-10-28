@@ -1,9 +1,19 @@
 ---
-headline: Treasury proposal targets selected high-tech investments in countries of concern
-secondary_headline: Proposed rule would cover AI, supercomputing, biotechnology and hypersonic systems
+headline: Treasury proposal targets selected high-tech investments in countries of
+  concern
+secondary_headline: Proposed rule would cover AI, supercomputing, biotechnology and
+  hypersonic systems
 publish_date: '2026-10-22'
-lede: The U.S. Treasury Department proposed a rule on Thursday to restrict American investments in high-tech sectors in China, Russia, North Korea and other countries of concern, according to the Associated Press. The proposal would cover artificial intelligence, supercomputing, biotechnology and hypersonic systems, and would apply only to investments exceeding $50,000.
-nut_graf: The proposal would extend an outbound investment program that Congress expanded in December 2025 to cover more technologies and more countries, and Jason Chipman said the rule would require more substantial compliance programs to manage risk. It is not final. Treasury will hear public comments before issuing a rule, and Ryan Majerus said later stages would presumably be more enforcement-minded.
+lede: The U.S. Treasury Department proposed a rule on Thursday to restrict American
+  investments in high-tech sectors in China, Russia, North Korea and other countries
+  of concern, according to the Associated Press. The proposal would cover artificial
+  intelligence, supercomputing, biotechnology and hypersonic systems, and would apply
+  only to investments exceeding $50,000.
+nut_graf: The proposal would extend an outbound investment program that Congress expanded
+  in December 2025 to cover more technologies and more countries, and Jason Chipman
+  said the rule would require more substantial compliance programs to manage risk.
+  It is not final. Treasury will hear public comments before issuing a rule, and Ryan
+  Majerus said later stages would presumably be more enforcement-minded.
 primary_entities:
 - U.S. Treasury Department
 - China
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +151,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
+  headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6573
 - slug: 2026-10-19-dhs-orders-federal-civilian-agencies-to-remove-deepseek-ai-from-it-systems
   headline: DHS orders federal civilian agencies to remove DeepSeek AI from IT systems
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6665
-- slug: 2026-10-20-state-department-invokes-2022-ip-law-to-blacklist-five-china-based-entities
-  headline: State Department invokes 2022 IP law to blacklist five China-based entities
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6407
-- slug: 2026-09-24-technet-urges-trump-administration-to-withdraw-proposed-103-265-h-1b-fee
-  headline: TechNet urges Trump administration to withdraw proposed $103,265 H-1B fee
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6426
+  strength: 0.6661
 - slug: 2026-09-14-dozens-of-lawmakers-push-new-ai-regulation-proposals
   headline: Dozens of lawmakers push new AI regulation proposals
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6779
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6406
-- slug: 2026-09-23-bessent-he-lifeng-propose-ai-safety-mechanism-ahead-of-trump-xi-summit
-  headline: Bessent, He Lifeng propose AI safety mechanism ahead of Trump-Xi summit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.635
-- slug: 2026-09-20-china-rebuffs-us-calls-to-slow-ai-development-ahead-of-trump-xi-summit
-  headline: China rebuffs US calls to slow AI development ahead of Trump-Xi summit
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.643
-- slug: 2026-09-21-bessent-chinese-vice-premier-discuss-ai-notification-mechanism-in-new-york
-  headline: Bessent, Chinese vice premier discuss AI notification mechanism in New York
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6387
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6496
-- slug: 2026-09-15-china-enacts-new-exit-restrictions-tied-to-export-control-violations
-  headline: China enacts new exit restrictions tied to export-control violations
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6447
-- slug: 2026-09-17-huawei-announces-two-new-ai-chips-next-year-to-rival-nvidia
-  headline: Huawei announces two new AI chips next year to rival Nvidia
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6293
-- slug: 2026-09-10-south-korea-nears-u-s-energy-deal-potentially-worth-more-than-100-billion
-  headline: South Korea nears U.S. energy deal potentially worth more than $100 billion
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6375
+  strength: 0.6791
 - slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
+  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions
+    loom
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6639
+  strength: 0.6643
 - slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
   headline: China warns AI users they are ‘traitors’ if they resist domestic chips
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6576
+  strength: 0.6577
 - slug: 2026-06-01-china-tightens-outbound-investment-rules-amid-u-s--china-tech-rivalry
   headline: China tightens outbound investment rules amid U.S.-China tech rivalry
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7044
+  strength: 0.7036
 - slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
   headline: China weighs limits on overseas access to its AI models
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.6663
-- slug: 2026-07-21-white-house-shifts-research-funding-to-individual-scientists-and-ai
-  headline: White House shifts research funding to individual scientists and AI
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.648
-- slug: 2026-07-15-deepseek-prepares-for-shanghai-ipo-as-soon-as-q2-2027
-  headline: DeepSeek prepares for Shanghai IPO as soon as Q2 2027
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.641
-- slug: 2026-07-10-micron-s-250-billion-plan-sets-stage-for-korean-chip-production-calls
-  headline: Micron's $250 billion plan sets stage for Korean chip production calls
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6451
+  strength: 0.6657
 - slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
   headline: Taiwan considers tighter export controls on AI chips bound for China
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6674
+  strength: 0.6677
 ---
-
 ## Treasury proposal targets selected high-tech investments in countries of concern
 
 **Subtype:** fact

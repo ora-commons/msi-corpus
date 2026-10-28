@@ -2,8 +2,15 @@
 headline: Gasoline and diesel prices climb again after a summer of easing
 secondary_headline: Local pump prices vary widely across the country
 publish_date: '2026-10-24'
-lede: The Wall Street Journal published a national and local comparison of gasoline and diesel prices on October 24, 2026, comparing fuel costs across national and local markets. The Journal reported that an extended ceasefire eased prices from late June into July, and that gasoline and diesel have climbed again since late summer and into the fall.
-nut_graf: Pump costs have not settled into a single level since the war with Iran began, moving down under a summer ceasefire and back up through the fall. The Journal's October 24 comparison covers fuel prices nationally and locally, giving readers a local frame for the autumn increase rather than a single countrywide number.
+lede: The Wall Street Journal published a national and local comparison of gasoline
+  and diesel prices on October 24, 2026, comparing fuel costs across national and
+  local markets. The Journal reported that an extended ceasefire eased prices from
+  late June into July, and that gasoline and diesel have climbed again since late
+  summer and into the fall.
+nut_graf: Pump costs have not settled into a single level since the war with Iran
+  began, moving down under a summer ceasefire and back up through the fall. The Journal's
+  October 24 comparison covers fuel prices nationally and locally, giving readers
+  a local frame for the autumn increase rather than a single countrywide number.
 primary_entities:
 - The Wall Street Journal
 - Iran
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,15 +157,11 @@ related_stories:
   relation: related
   strength: 0.6872
 - slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
+  headline: Analysts forecast diesel prices will keep driving inflation until wars
+    end
   publish_date: '2026-10-07'
   relation: related
   strength: 0.6796
-- slug: 2026-10-04-energy-costs-squeeze-voters-before-midterms
-  headline: Energy costs squeeze voters across gas, diesel, and electricity before midterms
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6687
 - slug: 2026-09-16-iran-war-adds-107-billion-to-us-fuel-costs-brown-estimates
   headline: Iran war adds $107 billion to US fuel costs, Brown estimates
   publish_date: '2026-09-16'
@@ -183,63 +187,7 @@ related_stories:
   publish_date: '2026-09-11'
   relation: related
   strength: 0.675
-- slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.686
-- slug: 2026-08-18-diesel-prices-climb-as-global-buyers-compete-for-shrinking-supply
-  headline: Diesel prices climb as global buyers compete for shrinking supply
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6802
-- slug: 2026-08-18-oil-tops-90-as-us-iran-ceasefire-ends
-  headline: Oil tops $90 as US-Iran ceasefire ends
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6707
-- slug: 2026-07-17-refining-constraints-widen-gap-between-crude-oil-and-u-s-gasoline-prices
-  headline: Refining constraints widen gap between crude oil and U.S. gasoline prices
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7133
-- slug: 2026-06-18-us-gas-prices-ease-from-war-highs-but-remain-elevated-nationwide
-  headline: US gas prices ease from war highs but remain elevated nationwide
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7173
-- slug: 2026-07-03-record-61-4-million-drivers-hit-the-road-for-july-fourth-as-gas-prices-ease
-  headline: Record 61.4 million drivers hit the road for July Fourth as gas prices ease
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6858
-- slug: 2026-03-04-gasoline-prices-in-the-us-jump-overnight-as-iran-war-strains-fuel-supply
-  headline: Gasoline prices in the US jump overnight as Iran war strains fuel supply
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7304
-- slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
-  headline: Fed's preferred inflation gauge rises to three-year high in May
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6781
-- slug: 2026-06-12-us-consumer-sentiment-improves-in-june-as-gas-prices-ease
-  headline: US consumer sentiment improves in June as gas prices ease
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6754
-- slug: 2026-05-22-gas-prices-at-four-year-highs-leave-drivers-weighing-evs-and-driving-less
-  headline: Gas prices at four-year highs leave drivers weighing EVs and driving less
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6784
-- slug: 2026-03-18-iran-war-jolts-oil-markets-sending-us-gas-prices-to-a-2-5-year-high
-  headline: Iran war jolts oil markets, sending US gas prices to a 2.5-year high
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6972
 ---
-
 ## Gasoline and diesel prices climb again after a summer of easing
 
 **Subtype:** fact

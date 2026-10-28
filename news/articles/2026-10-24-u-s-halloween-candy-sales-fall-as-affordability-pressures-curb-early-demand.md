@@ -2,8 +2,16 @@
 headline: U.S. Halloween candy sales fall as affordability pressures curb early demand
 secondary_headline: Only small candy bags posted growth through mid-October
 publish_date: '2026-10-24'
-lede: U.S. Halloween candy sales fell 6.7% in the month ending Oct. 17 compared with the same period last year, according to NielsenIQ. NielsenIQ also recorded an 11.7% candy-sales decline in mid-September, erasing preseason gains from the previous two years. Chris Costagli, a NielsenIQ vice president, said higher gasoline prices had worsened consumers’ affordability concerns and dampened demand for treats.
-nut_graf: The early figures show that lower prices for non-chocolate Halloween candy have not offset pressure from expensive chocolate and gasoline, with the steepest declines in larger bags. NielsenIQ data point to weak demand, while a Circana adviser said some shoppers may wait until closer to Halloween and the National Confectioners Association remained optimistic entering the peak period.
+lede: U.S. Halloween candy sales fell 6.7% in the month ending Oct. 17 compared with
+  the same period last year, according to NielsenIQ. NielsenIQ also recorded an 11.7%
+  candy-sales decline in mid-September, erasing preseason gains from the previous
+  two years. Chris Costagli, a NielsenIQ vice president, said higher gasoline prices
+  had worsened consumers’ affordability concerns and dampened demand for treats.
+nut_graf: The early figures show that lower prices for non-chocolate Halloween candy
+  have not offset pressure from expensive chocolate and gasoline, with the steepest
+  declines in larger bags. NielsenIQ data point to weak demand, while a Circana adviser
+  said some shoppers may wait until closer to Halloween and the National Confectioners
+  Association remained optimistic entering the peak period.
 primary_entities:
 - NielsenIQ
 - Chris Costagli
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,117 +143,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-14-september-inflation-3-7-percent-household-strain
-  headline: US inflation climbs above forecasts to 3.7% as Americans detail strain
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5963
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5884
-- slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5819
-- slug: 2026-09-16-u-s-crude-inventories-post-third-consecutive-weekly-decline
-  headline: U.S. crude inventories post third consecutive weekly decline
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5832
-- slug: 2026-09-11-lettuce-prices-fall-sharply-as-cyclospora-outbreak-cuts-demand
-  headline: Lettuce prices fall sharply as cyclospora outbreak cuts demand
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6009
-- slug: 2026-09-01-casey-s-general-stores-undercuts-domino-s-with-13-99-pizza
-  headline: Casey's General Stores undercuts Domino's with $13.99 pizza
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5818
-- slug: 2026-08-25-us-consumer-confidence-falls-to-89-4-gasoline-stays-above-4
-  headline: US consumer confidence falls to 89.4; gasoline stays above $4
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5844
 - slug: 2026-02-16-falling-cocoa-prices-won-t-necessarily-lower-valentine-s-chocolates
   headline: Falling cocoa prices won’t necessarily lower Valentine’s chocolates
   publish_date: '2026-02-16'
   relation: related
-  strength: 0.6811
-- slug: 2026-07-25-grocery-prices-up-33-since-2019-as-shoppers-change-buying-habits
-  headline: Grocery prices up 33% since 2019 as shoppers change buying habits
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5878
-- slug: 2026-06-10-new-york-candy-stores-thrive-despite-economic-gloom-as-shoppers-seek-affordable-
-  headline: New York candy stores thrive despite economic gloom as shoppers seek affordable treats
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6372
-- slug: 2026-07-09-pepsico-cuts-snack-prices-bets-on-portion-control-as-glp-1s-reshape-demand
-  headline: PepsiCo cuts snack prices, bets on portion control as GLP-1s reshape demand
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5968
-- slug: 2026-07-19-general-mills-kraft-heinz-stocks-trade-at-decade-low-as-shoppers-turn-away-from-
-  headline: General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn away from legacy brands
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.583
-- slug: 2026-07-02-nestle-shifts-to-volume-growth-as-polarized-buying-reshapes-us-grocery-aisles
-  headline: Nestle shifts to volume growth as polarized buying reshapes US grocery aisles
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6033
-- slug: 2026-07-05-u-s-spirits-volume-declines-for-fourth-straight-year-as-drinkers-cut-back
-  headline: U.S. spirits volume declines for fourth straight year as drinkers cut back
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5966
-- slug: 2026-07-17-refining-constraints-widen-gap-between-crude-oil-and-u-s-gasoline-prices
-  headline: Refining constraints widen gap between crude oil and U.S. gasoline prices
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5813
-- slug: 2026-07-03-record-61-4-million-drivers-hit-the-road-for-july-fourth-as-gas-prices-ease
-  headline: Record 61.4 million drivers hit the road for July Fourth as gas prices ease
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5825
-- slug: 2026-06-12-us-consumer-sentiment-improves-in-june-as-gas-prices-ease
-  headline: US consumer sentiment improves in June as gas prices ease
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5834
-- slug: 2026-06-07-u-s-consumers-reassess-spending-as-iran-war-drives-up-fuel-costs
-  headline: U.S. consumers reassess spending as Iran war drives up fuel costs
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5862
-- slug: 2026-05-21-memorial-day-high-fuel-prices-are-reshaping-summer-vacation-plans
-  headline: 'Memorial Day: High fuel prices are reshaping summer vacation plans'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5858
-- slug: 2026-01-14-november-retail-sales-rise-0-6-as-holiday-spending-tops-expectations
-  headline: November retail sales rise 0.6% as holiday spending tops expectations
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6098
+  strength: 0.6818
 image:
   url: /articles/2026-10-24-u-s-halloween-candy-sales-fall-as-affordability-pressures-curb-early-demand.png
-  alt: "Illustration accompanying article: U.S. Halloween candy sales fall as affordability pressures curb early demand"
+  alt: 'Illustration accompanying article: U.S. Halloween candy sales fall as affordability
+    pressures curb early demand'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. Halloween candy sales fall as affordability pressures curb early demand
 
 **Subtype:** fact

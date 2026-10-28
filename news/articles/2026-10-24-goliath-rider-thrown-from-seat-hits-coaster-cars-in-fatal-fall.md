@@ -1,9 +1,19 @@
 ---
 headline: Goliath rider thrown from seat hits coaster cars in fatal fall
-secondary_headline: CNN investigation uncovers X2 brain injuries and at least two deaths
+secondary_headline: CNN investigation uncovers X2 brain injuries and at least two
+  deaths
 publish_date: '2026-10-24'
-lede: Hassan Jihad Ibn Kariem, a 42-year-old father and educator, was thrown from his seat on the Goliath rollercoaster at Six Flags Over Georgia earlier this month and collided with the ride's other cars on his way down. The coaster plunges riders 165 feet before a second drop of 180 feet. Six Flags will install seatbelts on the ride before it reopens, and the company announced that coasters with a similar restraint will also receive them, although an exact list remains unclear.
-nut_graf: The newly detailed mechanics of the fatal event — a 165-foot first drop, a second drop of 180 feet, and a collision with the ride's other cars — come as Six Flags adds seatbelts to the Goliath and to other coasters with a similar restraint, Georgia authorities investigate the death, and the company faces an independent safety review, a lawsuit, and a CNN investigation tied to its X2 ride at Magic Mountain.
+lede: Hassan Jihad Ibn Kariem, a 42-year-old father and educator, was thrown from
+  his seat on the Goliath rollercoaster at Six Flags Over Georgia earlier this month
+  and collided with the ride's other cars on his way down. The coaster plunges riders
+  165 feet before a second drop of 180 feet. Six Flags will install seatbelts on the
+  ride before it reopens, and the company announced that coasters with a similar restraint
+  will also receive them, although an exact list remains unclear.
+nut_graf: The newly detailed mechanics of the fatal event — a 165-foot first drop,
+  a second drop of 180 feet, and a collision with the ride's other cars — come as
+  Six Flags adds seatbelts to the Goliath and to other coasters with a similar restraint,
+  Georgia authorities investigate the death, and the company faces an independent
+  safety review, a lawsuit, and a CNN investigation tied to its X2 ride at Magic Mountain.
 primary_entities:
 - Six Flags
 - Six Flags Over Georgia
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,12 +159,24 @@ related_stories:
   headline: Six Flags plans added restraints after Georgia coaster fatality
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8985
+  strength: 0.8976
+- slug: 2026-10-24-six-flags-to-reinforce-employee-training-and-safety-reviews-after-goliath-death
+  headline: Six Flags to reinforce employee training and safety reviews after Goliath
+    death
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.852
+- slug: 2026-10-24-seaworld-and-la-ronde-close-rides-using-similar-restraints-after-goliath-death
+  headline: SeaWorld and La Ronde close rides using similar restraints after Goliath
+    death
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.8277
 - slug: 2026-10-14-six-flags-over-georgia-death-is-at-least-seventh-at-park-firm-says
   headline: Six Flags Over Georgia death is at least seventh at park, firm says
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8627
+  strength: 0.862
 - slug: 2026-10-14-six-flags-temporarily-closes-10-coasters-after-georgia-rider-death
   headline: Six Flags temporarily closes 10 coasters after Georgia rider death
   publish_date: '2026-10-14'
@@ -163,89 +186,18 @@ related_stories:
   headline: Cobb County police report fatal incident at Six Flags Over Georgia
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.8292
+  strength: 0.8287
 - slug: 2026-10-13-six-flags-closes-nine-rollercoasters-across-six-states-after-georgia-death
   headline: Six Flags closes nine rollercoasters across six states after Georgia death
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8148
+  strength: 0.8149
 - slug: 2026-10-13-atlanta-educator-fatally-ejected-from-six-flags-rollercoaster
   headline: Atlanta educator fatally ejected from Six Flags rollercoaster
   publish_date: '2026-10-13'
   relation: related
   strength: 0.801
-- slug: 2026-10-12-six-flags-says-x2-coaster-retirement-was-the-right-thing-to-do
-  headline: Six Flags says X2 coaster retirement was 'the right thing to do'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7929
-- slug: 2026-10-13-six-flags-closes-similar-attractions-across-parks-after-fatal-georgia-incident
-  headline: Six Flags closes similar attractions across parks after fatal Georgia incident
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7279
-- slug: 2026-09-29-three-neurosurgeons-link-x2-riders-brain-injuries-to-ride-mechanics
-  headline: Three neurosurgeons link X2 riders' brain injuries to ride mechanics
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7127
-- slug: 2026-09-29-six-flags-permanently-retires-x2-coaster-as-injury-allegations-exceed-100
-  headline: Six Flags permanently retires X2 coaster as injury allegations exceed 100
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6996
-- slug: 2026-09-29-wisner-calls-for-government-oversight-of-amusement-rides-after-x2-closure
-  headline: Wisner calls for government oversight of amusement rides after X2 closure
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6983
-- slug: 2026-08-28-six-flags-shuts-x2-rollercoaster-after-riders-report-brain-injuries
-  headline: Six Flags shuts X2 rollercoaster after riders report brain injuries
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7388
-- slug: 2026-07-12-grandfather-sustains-serious-injuries-in-yellowstone-bison-attack
-  headline: Grandfather sustains serious injuries in Yellowstone bison attack
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5944
-- slug: 2026-07-16-ntsb-finds-geese-remains-on-helicopter-that-crashed-into-hudson-river-killing-6
-  headline: NTSB finds geese remains on helicopter that crashed into Hudson River, killing 6
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5815
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5877
-- slug: 2025-12-31-disney-world-worker-injured-stopping-runaway-prop-boulder-at-indiana-jones-show
-  headline: Disney World worker injured stopping runaway prop boulder at Indiana Jones show
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6165
-- slug: 2026-01-01-disney-world-worker-injured-stopping-runaway-boulder-at-indiana-jones-stunt-show
-  headline: Disney World worker injured stopping runaway boulder at Indiana Jones stunt show
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.616
-- slug: 2026-05-15-denver-runway-fatality-reveals-airport-perimeter-security-weakness
-  headline: Denver runway fatality reveals airport perimeter security weakness
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.581
-- slug: 2026-05-18-navy-jets-collide-midair-during-idaho-air-show-crews-ejected-safely
-  headline: Navy jets collide midair during Idaho air show; crews ejected safely
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.576
-- slug: 2026-05-19-2-navy-jets-collide-at-idaho-air-show-all-four-crew-eject-safely
-  headline: 2 Navy jets collide at Idaho air show; all four crew eject safely
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5709
 ---
-
 ## Goliath rider thrown from seat hits coaster cars in fatal fall
 
 **Subtype:** fact

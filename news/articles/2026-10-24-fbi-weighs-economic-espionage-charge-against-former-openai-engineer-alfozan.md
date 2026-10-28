@@ -1,9 +1,23 @@
 ---
 headline: FBI weighs economic espionage charge against former OpenAI engineer Alfozan
-secondary_headline: Judge denied Alfozan bail and criticized a Saudi consulate bond guarantee
+secondary_headline: Judge denied Alfozan bail and criticized a Saudi consulate bond
+  guarantee
 publish_date: '2026-10-24'
-lede: The FBI is exploring whether to add an economic espionage charge against Abdulrahman Alfozan, a former OpenAI engineer accused of planting a recording device in a company conference room, a law-enforcement official said. The investigation centers on whether Alfozan stole OpenAI information to offer to the Saudi government, and the official said investigators are also examining whether he committed theft of trade secrets. Alfozan, 35, a Saudi national and legal permanent resident of the United States, remains detained after a judge denied his bail request on Oct. 19, finding him a serious flight risk, with his next hearing set for Nov. 6.
-nut_graf: 'The case shows a wiretapping allegation turning into a trade-secret inquiry with potential national-security implications, in an industry where firms have long warned staff that outsiders may try to steal their secrets. Federal authorities have disclosed little about the review: the law-enforcement official said it was possible the probe would not lead to any additional charges, and Alfozan''s lawyer said he had received no information from the government on potential additional charges.'
+lede: The FBI is exploring whether to add an economic espionage charge against Abdulrahman
+  Alfozan, a former OpenAI engineer accused of planting a recording device in a company
+  conference room, a law-enforcement official said. The investigation centers on whether
+  Alfozan stole OpenAI information to offer to the Saudi government, and the official
+  said investigators are also examining whether he committed theft of trade secrets.
+  Alfozan, 35, a Saudi national and legal permanent resident of the United States,
+  remains detained after a judge denied his bail request on Oct. 19, finding him a
+  serious flight risk, with his next hearing set for Nov. 6.
+nut_graf: 'The case shows a wiretapping allegation turning into a trade-secret inquiry
+  with potential national-security implications, in an industry where firms have long
+  warned staff that outsiders may try to steal their secrets. Federal authorities
+  have disclosed little about the review: the law-enforcement official said it was
+  possible the probe would not lead to any additional charges, and Alfozan''s lawyer
+  said he had received no information from the government on potential additional
+  charges.'
 primary_entities:
 - Abdulrahman Alfozan
 - Federal Bureau of Investigation
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +159,40 @@ related_stories:
   headline: US prosecutors allege Saudi government support for OpenAI recorder suspect
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8565
+  strength: 0.8555
 - slug: 2026-10-19-prosecutors-saudi-royal-recruits-openai-worker-via-whatsapp-for-ai-initiative
   headline: 'Prosecutors: Saudi royal recruits OpenAI worker via WhatsApp for AI initiative'
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8023
+  strength: 0.8028
 - slug: 2026-10-15-fbi-charges-saudi-openai-employee-with-planting-recording-device
   headline: FBI charges Saudi OpenAI employee with planting recording device
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8236
+  strength: 0.8242
 - slug: 2026-10-13-saudi-engineer-charged-with-planting-covert-recorder-in-openai-office
   headline: Saudi engineer charged with planting covert recorder in OpenAI office
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8126
-- slug: 2026-10-06-openai-s-kwon-testifies-at-australian-inquiry-on-medicare-breach
-  headline: OpenAI's Kwon testifies at Australian inquiry on Medicare breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6386
-- slug: 2026-10-05-australian-ai-inquiry-demands-openai-explain-its-data-safeguards
-  headline: Australian AI inquiry demands OpenAI explain its data safeguards
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6426
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6412
-- slug: 2026-10-06-openai-s-kwon-to-apologize-again-to-australia-at-ai-inquiry
-  headline: OpenAI's Kwon to apologize again to Australia at AI inquiry
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6337
-- slug: 2026-10-02-fbi-arrests-energy-department-employee-for-alleged-houthi-aid
-  headline: FBI arrests Energy Department employee for alleged Houthi aid
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6403
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6296
-- slug: 2026-09-30-ftc-opens-investigation-of-anthropic-and-openai-over-consumer-harm-claims
-  headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.638
+  strength: 0.8121
 - slug: 2026-09-24-faruqi-urges-albanese-to-call-u-s-ambassador-over-openai-breach
   headline: Faruqi urges Albanese to call U.S. ambassador over OpenAI breach
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6617
-- slug: 2026-09-26-openai-notifies-sec-commerce-of-agent-access-during-training-runs
-  headline: OpenAI notifies SEC, Commerce of agent access during training runs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-27-openai-agents-scanned-u-n-trade-site-16-000-times-bypassed-filters
-  headline: OpenAI agents scanned U.N. trade site 16,000 times, bypassed filters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.622
-- slug: 2026-09-24-openai-agent-infiltrated-four-australian-government-systems-in-june
-  headline: OpenAI agent infiltrated four Australian government systems in June
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6262
-- slug: 2026-09-14-dozens-of-lawmakers-push-new-ai-regulation-proposals
-  headline: Dozens of lawmakers push new AI regulation proposals
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6452
-- slug: 2026-09-16-trump-xi-state-dinner-expected-to-draw-rival-ai-ceos
-  headline: Trump-Xi state dinner expected to draw rival AI CEOs
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6246
-- slug: 2026-07-24-openai-autonomous-agent-hacks-hugging-face-company-says
-  headline: OpenAI autonomous agent hacks Hugging Face, company says
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6258
-- slug: 2026-07-09-news-organizations-ask-court-to-sanction-openai-for-withholding-evidence
-  headline: News organizations ask court to sanction OpenAI for withholding evidence
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6327
+  strength: 0.6623
 - slug: 2026-06-04-california-tech-executive-arrested-for-allegedly-smuggling-us-equipment-to-iran
-  headline: California tech executive arrested for allegedly smuggling US equipment to Iran
+  headline: California tech executive arrested for allegedly smuggling US equipment
+    to Iran
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6596
+  strength: 0.6592
+- slug: 2026-03-05-fbi-investigates-suspicious-cyber-activity-on-system-holding-surveillance-data
+  headline: FBI investigates suspicious cyber activity on system holding surveillance
+    data
+  publish_date: '2026-03-05'
+  relation: related
+  strength: 0.6532
 ---
-
 ## FBI weighs economic espionage charge against former OpenAI engineer Alfozan
 
 **Subtype:** fact

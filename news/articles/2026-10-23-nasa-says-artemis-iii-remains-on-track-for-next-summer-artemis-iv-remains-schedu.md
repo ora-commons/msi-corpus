@@ -1,9 +1,21 @@
 ---
-headline: NASA says Artemis III remains on track for next summer, Artemis IV remains scheduled for 2028
+headline: NASA says Artemis III remains on track for next summer, Artemis IV remains
+  scheduled for 2028
 secondary_headline: Blue Ghost and Starship will dock with Orion in Earth orbit
 publish_date: '2026-10-23'
-lede: NASA Administrator Jared Isaacman said Friday that the agency remains on track to launch Artemis III next summer, sending four astronauts into Earth orbit for a two-week docking exercise rather than a trip to the moon. He said Artemis IV remains scheduled for 2028 and would be NASA's first astronaut moon landing since Apollo. Speaking at a news conference at Kennedy Space Center in Cape Canaveral, Florida, Isaacman said NASA is moving fast on plans to build a base near the moon's south pole and return astronauts to the lunar surface in as little as two years.
-nut_graf: NASA's planned moon base near the moon's south pole should see its first launch by year's end, ahead of next summer's Artemis III orbital rehearsal. Isaacman said Artemis IV remains scheduled for 2028 and would be NASA's first astronaut moon landing since Apollo. He said the new space race with China will be “much closer than it ever needed to be” because of years of slow going, and that NASA is moving faster to close the gap.
+lede: NASA Administrator Jared Isaacman said Friday that the agency remains on track
+  to launch Artemis III next summer, sending four astronauts into Earth orbit for
+  a two-week docking exercise rather than a trip to the moon. He said Artemis IV remains
+  scheduled for 2028 and would be NASA's first astronaut moon landing since Apollo.
+  Speaking at a news conference at Kennedy Space Center in Cape Canaveral, Florida,
+  Isaacman said NASA is moving fast on plans to build a base near the moon's south
+  pole and return astronauts to the lunar surface in as little as two years.
+nut_graf: NASA's planned moon base near the moon's south pole should see its first
+  launch by year's end, ahead of next summer's Artemis III orbital rehearsal. Isaacman
+  said Artemis IV remains scheduled for 2028 and would be NASA's first astronaut moon
+  landing since Apollo. He said the new space race with China will be “much closer
+  than it ever needed to be” because of years of slow going, and that NASA is moving
+  faster to close the gap.
 primary_entities:
 - NASA
 - Jared Isaacman
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,7 +164,7 @@ related_stories:
   headline: NASA names Artemis III crew for orbital test after moon landing delay
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.8381
+  strength: 0.8376
 - slug: 2026-04-11-artemis-ii-s-success-sets-up-nasa-s-next-steps-for-moon-missions
   headline: Artemis II’s success sets up NASA’s next steps for moon missions
   publish_date: '2026-04-11'
@@ -161,7 +174,7 @@ related_stories:
   headline: Artemis II’s lunar comeback points to Artemis III and a new crew race
   publish_date: '2026-04-13'
   relation: related
-  strength: 0.8215
+  strength: 0.8209
 - slug: 2026-04-14-artemis-ii-s-success-puts-focus-on-artemis-iii-and-moon-base-timeline
   headline: Artemis II’s success puts focus on Artemis III and moon-base timeline
   publish_date: '2026-04-14'
@@ -171,84 +184,24 @@ related_stories:
   headline: NASA revamps Artemis moon landing plan to tighten flight schedule
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.8223
+  strength: 0.8236
 - slug: 2026-04-15-nasa-eyes-next-artemis-mission-after-successful-moon-flyby
   headline: NASA Eyes Next Artemis Mission After Successful Moon Flyby
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.8087
+  strength: 0.8077
 - slug: 2026-07-08-artemis-ii-crew-reunites-with-capsule-after-record-lunar-flyby
   headline: Artemis II crew reunites with capsule after record lunar flyby
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7528
+  strength: 0.7523
 - slug: 2026-04-12-artemis-ii-s-success-sets-up-the-next-nasa-artemis-missions-including-artemis-ii
-  headline: Artemis II’s success sets up the next NASA Artemis missions, including Artemis III
+  headline: Artemis II’s success sets up the next NASA Artemis missions, including
+    Artemis III
   publish_date: '2026-04-12'
   relation: related
-  strength: 0.7982
-- slug: 2026-03-15-nasa-clears-artemis-moon-rocket-for-april-launch-with-four-astronauts
-  headline: NASA clears Artemis moon rocket for April launch with four astronauts
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7984
-- slug: 2026-03-30-artemis-ii-astronauts-arrive-at-kennedy-space-center-ahead-of-moon-launch
-  headline: Artemis II astronauts arrive at Kennedy Space Center ahead of moon launch
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7943
-- slug: 2026-05-26-nasa-outlines-multi-phase-moon-base-plan-with-landers-rovers-and-drones
-  headline: NASA outlines multi‑phase moon base plan with landers, rovers and drones
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.772
-- slug: 2026-05-27-nasa-lays-out-moon-base-plans-awards-contracts-for-landers-rovers-and-drones
-  headline: NASA lays out moon base plans, awards contracts for landers, rovers and drones
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7679
-- slug: 2026-04-01-apollo-vs-artemis-nasa-s-planned-lunar-return-explained
-  headline: 'Apollo vs. Artemis: NASA’s planned lunar return explained'
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7845
-- slug: 2026-04-01-nasa-starts-countdown-for-artemis-ii-moon-mission-with-4-astronauts
-  headline: NASA starts countdown for Artemis II moon mission with 4 astronauts
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7841
-- slug: 2026-04-01-artemis-ii-nasa-s-4-astronauts-fly-past-the-moon-and-splash-down
-  headline: 'Artemis II: NASA’s 4 astronauts fly past the moon and splash down'
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.77
-- slug: 2026-04-01-apollo-veterans-root-for-artemis-ii-as-nasa-aims-faster-lunar-return
-  headline: Apollo veterans root for Artemis II as NASA aims faster lunar return
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7551
-- slug: 2026-03-21-nasa-hauls-repaired-artemis-moon-rocket-back-toward-launch-pad-in-april
-  headline: NASA hauls repaired Artemis moon rocket back toward launch pad in April
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7471
-- slug: 2026-02-25-nasa-rolls-artemis-ii-moon-rocket-back-for-more-repairs-targeting-april
-  headline: NASA rolls Artemis II moon rocket back for more repairs, targeting April
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7471
-- slug: 2026-04-02-nasa-alista-artemis-ii-para-primer-viaje-lunar-tripulado-en-d-cadas
-  headline: NASA alista Artemis II para primer viaje lunar tripulado en décadas
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7373
-- slug: 2026-04-08-what-to-know-about-artemis-ii-s-record-breaking-moon-flyby
-  headline: What to know about Artemis II’s record-breaking moon flyby
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7356
+  strength: 0.7983
 ---
-
 ## NASA says Artemis III remains on track for next summer, Artemis IV remains scheduled for 2028
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Ford Foundation redirects spending toward democratic institutions
 secondary_headline: Seven new programs will guide broader social grants
 publish_date: '2026-10-22'
-lede: The Ford Foundation will redirect more grantmaking toward democratic governance and other basic building blocks of democracy in a strategic overhaul announced Thursday. President Heather Gerken, in a report to trustees, framed the changes in the context of an “emboldened strain of 21st-century authoritarianism.” The New York-based philanthropy, one of the world’s largest private grantmakers, has an $18 billion endowment and will detail seven new programs throughout next year.
-nut_graf: The strategy combines broader democracy grants with more flexible funding for nonprofits facing constraints, while some existing programs will eventually be sunset. Ford Foundation staff will move into three temporary units in January 2027 to maintain existing grants and transition new ones, and a spokesperson estimated the foundation will move $700 million in grants that year.
+lede: The Ford Foundation will redirect more grantmaking toward democratic governance
+  and other basic building blocks of democracy in a strategic overhaul announced Thursday.
+  President Heather Gerken, in a report to trustees, framed the changes in the context
+  of an “emboldened strain of 21st-century authoritarianism.” The New York-based philanthropy,
+  one of the world’s largest private grantmakers, has an $18 billion endowment and
+  will detail seven new programs throughout next year.
+nut_graf: The strategy combines broader democracy grants with more flexible funding
+  for nonprofits facing constraints, while some existing programs will eventually
+  be sunset. Ford Foundation staff will move into three temporary units in January
+  2027 to maintain existing grants and transition new ones, and a spokesperson estimated
+  the foundation will move $700 million in grants that year.
 primary_entities:
 - Ford Foundation
 - Heather Gerken
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +159,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-democratic-governors-divided-over-federal-scholarship-tax-credit
-  headline: Democratic governors divided over Federal Scholarship Tax Credit
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6267
 - slug: 2026-09-30-trump-administration-pushes-176m-human-rights-fund-to-43-awards
   headline: Trump administration pushes $176M human rights fund to 43 awards
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6881
-- slug: 2026-09-29-omb-draft-rule-would-ban-federal-grants-for-voter-registration-drives
-  headline: OMB draft rule would ban federal grants for voter registration drives
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6141
-- slug: 2026-09-16-trump-administration-cut-or-froze-177bn-in-federal-grants-tracker-finds
-  headline: Trump administration cut or froze $177bn in federal grants, tracker finds
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6137
-- slug: 2026-08-12-us-grants-to-uk-conservative-groups-draw-foreign-meddling-accusations
-  headline: US grants to UK conservative groups draw foreign meddling accusations
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.634
-- slug: 2026-08-08-us-embassy-seeks-applicants-for-500-000-uk-public-education-grants
-  headline: US embassy seeks applicants for $500,000 UK public education grants
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6184
+  strength: 0.6883
 - slug: 2026-05-21-soros-backed-open-society-foundations-pledges-300-million-for-u-s-democracy
   headline: Soros-backed Open Society Foundations pledges $300 million for U.S. democracy
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6968
-- slug: 2026-08-05-mamdani-dismisses-all-advisers-from-nyc-mayor-s-fund-board
-  headline: Mamdani dismisses all advisers from NYC Mayor's Fund board
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6111
+  strength: 0.6966
 - slug: 2026-05-20-soros-open-society-foundations-pledges-300-million-for-u-s-democracy
   headline: Soros Open Society Foundations pledges $300 million for U.S. democracy
   publish_date: '2026-05-20'
   relation: related
   strength: 0.6942
-- slug: 2026-07-21-white-house-shifts-research-funding-to-individual-scientists-and-ai
-  headline: White House shifts research funding to individual scientists and AI
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6232
-- slug: 2026-07-17-state-department-plans-12m-in-grants-to-uk-conservative-groups
-  headline: State Department plans $12M in grants to UK conservative groups
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6123
-- slug: 2026-07-16-merz-warns-u-s-against-funding-european-groups-tied-to-maga-movement
-  headline: Merz warns U.S. against funding European groups tied to MAGA movement
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.612
-- slug: 2026-07-20-omb-rule-would-give-political-appointees-control-of-1-trillion-in-grants
-  headline: OMB rule would give political appointees control of $1 trillion in grants
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6041
 - slug: 2026-02-02-gates-foundation-stays-course-on-global-health-despite-foreign-aid-cuts
   headline: Gates Foundation stays course on global health despite foreign aid cuts
   publish_date: '2026-02-02'
   relation: related
-  strength: 0.669
-- slug: 2026-05-12-open-society-foundations-pledge-30m-to-combat-antisemitism-and-anti-muslim-hate
-  headline: Open Society Foundations pledge $30M to combat antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.631
-- slug: 2026-06-17-sanders-proposes-7t-sovereign-wealth-fund-from-ai-stock-tax
-  headline: Sanders proposes $7T sovereign wealth fund from AI stock tax
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6055
-- slug: 2026-05-12-open-society-foundations-commits-30m-to-counter-antisemitism-and-anti-muslim-hat
-  headline: Open Society Foundations commits $30M to counter antisemitism and anti-Muslim hate
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6259
-- slug: 2026-01-14-gates-foundation-sets-record-9-billion-budget-plans-up-to-500-job-cuts-by-2030
-  headline: Gates Foundation sets record $9 billion budget, plans up to 500 job cuts by 2030
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6442
-- slug: 2026-04-08-liberty-mutual-foundation-to-create-600m-endowment-for-grants
-  headline: Liberty Mutual Foundation to create $600M endowment for grants
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6291
-- slug: 2026-02-23-education-department-transfers-grant-programs-to-hhs-and-state
-  headline: Education Department transfers grant programs to HHS and State
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6361
+  strength: 0.6697
 ---
-
 ## Ford Foundation redirects spending toward democratic institutions
 
 **Subtype:** fact

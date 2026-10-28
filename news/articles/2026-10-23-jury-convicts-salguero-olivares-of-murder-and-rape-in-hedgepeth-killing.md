@@ -1,9 +1,23 @@
 ---
 headline: Jury convicts Salguero Olivares of murder and rape in Hedgepeth killing
-secondary_headline: Defense rested without calling witnesses; DNA evidence was the trial's focus
+secondary_headline: Defense rested without calling witnesses; DNA evidence was the
+  trial's focus
 publish_date: '2026-10-23'
-lede: A jury convicted Miguel Salguero Olivares on Friday of first-degree murder, rape, sexual offense and burglary in the beating death of Faith Hedgepeth, a 19-year-old sophomore at the University of North Carolina at Chapel Hill killed in her off-campus apartment in September 2012. Jurors deliberated for six hours over two days before returning the verdict, and the judge sentenced the 33-year-old defendant to life in prison without the possibility of parole on the murder charge plus 45-65 years on the other charges.
-nut_graf: 'The conviction ends a case that began with Hedgepeth''s death in 2012 and with Salguero Olivares'' arrest nine years later, after he was pulled over for driving while intoxicated and provided a DNA sample that prosecutors say matched evidence from the crime scene. Both sides put the forensic record at the center of the trial: prosecutors pointed to a palm print, fingerprints and DNA recovered from the apartment, while defense attorneys argued that gaps in the police search and the durability of DNA from sexual intercourse undercut the case. Hedgepeth''s parents told the court that they had forgiven the defendant.'
+lede: A jury convicted Miguel Salguero Olivares on Friday of first-degree murder,
+  rape, sexual offense and burglary in the beating death of Faith Hedgepeth, a 19-year-old
+  sophomore at the University of North Carolina at Chapel Hill killed in her off-campus
+  apartment in September 2012. Jurors deliberated for six hours over two days before
+  returning the verdict, and the judge sentenced the 33-year-old defendant to life
+  in prison without the possibility of parole on the murder charge plus 45-65 years
+  on the other charges.
+nut_graf: 'The conviction ends a case that began with Hedgepeth''s death in 2012 and
+  with Salguero Olivares'' arrest nine years later, after he was pulled over for driving
+  while intoxicated and provided a DNA sample that prosecutors say matched evidence
+  from the crime scene. Both sides put the forensic record at the center of the trial:
+  prosecutors pointed to a palm print, fingerprints and DNA recovered from the apartment,
+  while defense attorneys argued that gaps in the police search and the durability
+  of DNA from sexual intercourse undercut the case. Hedgepeth''s parents told the
+  court that they had forgiven the defendant.'
 primary_entities:
 - Miguel Salguero Olivares
 - Faith Hedgepeth
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,109 +157,8 @@ cross_article_links:
   strength: 0.5943
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-05-caleb-flynn-gets-life-without-parole-for-wife-s-murder
-  headline: Caleb Flynn gets life without parole for wife's murder
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5882
-- slug: 2026-09-30-cornell-accuser-told-campus-police-i-was-raped-in-2024-interview
-  headline: Cornell accuser told campus police 'I was raped' in 2024 interview
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6066
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6025
-- slug: 2026-09-29-utah-frees-carter-on-bail-after-41-years-on-death-row
-  headline: Utah frees Carter on bail after 41 years on death row
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5869
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5865
-- slug: 2026-09-08-celeste-rivas-hernandez-s-family-calls-for-death-penalty-in-d4vd-murder-trial
-  headline: Celeste Rivas Hernandez's family calls for death penalty in D4vd murder trial
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5915
-- slug: 2026-09-03-galveston-county-jury-imposes-20-year-sentence-after-elmore-manslaughter-convict
-  headline: Galveston County jury imposes 20-year sentence after Elmore manslaughter conviction
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5928
-- slug: 2026-07-27-prosecutors-detail-slain-girl-s-final-texts-in-d4vd-hearing
-  headline: Prosecutors detail slain girl's final texts in D4vd hearing
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6029
-- slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5942
-- slug: 2026-05-07-scientists-take-soil-samples-outside-home-tied-to-kristin-smart-case
-  headline: Scientists take soil samples outside home tied to Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6206
-- slug: 2026-04-09-rex-heuermann-pleads-guilty-in-gilgo-beach-killings-admits-all-eight
-  headline: Rex Heuermann pleads guilty in Gilgo Beach killings, admits all eight
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6244
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6145
-- slug: 2026-04-08-gilgo-beach-serial-killer-rex-heuermann-pleads-guilty-to-7-murders
-  headline: Gilgo Beach serial killer Rex Heuermann pleads guilty to 7 murders
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6207
-- slug: 2026-05-06-search-continues-outside-a-home-tied-to-kristin-smart-s-killer
-  headline: Search continues outside a home tied to Kristin Smart's killer
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6111
-- slug: 2026-01-29-dna-expert-testifies-as-jose-ibarra-seeks-new-trial-in-laken-riley-case
-  headline: DNA expert testifies as Jose Ibarra seeks new trial in Laken Riley case
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6295
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6073
-- slug: 2026-05-10-california-authorities-have-not-found-kristin-smart-s-remains-after-home-search
-  headline: California authorities have not found Kristin Smart’s remains after home search
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6031
-- slug: 2026-05-10-sheriff-completes-kristin-smart-home-search-without-finding-her-remains
-  headline: Sheriff completes Kristin Smart home search without finding her remains
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5919
-- slug: 2026-03-06-sophia-negroponte-sentenced-to-35-years-for-maryland-stabbing-death
-  headline: Sophia Negroponte sentenced to 35 years for Maryland stabbing death
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6072
-- slug: 2026-04-29-suspect-held-without-bond-in-murders-of-two-usf-doctoral-students
-  headline: Suspect held without bond in murders of two USF doctoral students
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5887
+related_stories: []
 ---
-
 ## Jury convicts Salguero Olivares of murder and rape in Hedgepeth killing
 
 **Subtype:** fact

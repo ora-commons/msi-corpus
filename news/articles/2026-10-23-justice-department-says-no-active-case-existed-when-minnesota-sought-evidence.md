@@ -1,9 +1,23 @@
 ---
 headline: Justice Department says no active case existed when Minnesota sought evidence
-secondary_headline: Video analysis details Good shooting; federal officials cited self-defense
+secondary_headline: Video analysis details Good shooting; federal officials cited
+  self-defense
 publish_date: '2026-10-23'
-lede: In a reply filed Tuesday, Justice Department attorneys said there was no active court case when Minnesota requested federal evidence in the investigations of the killings of Renee Good and Alex Pretti by federal officers. The attorneys invoked the department's Touhy regulations for responding to record requests, which they said apply only when formal legal proceedings are underway, and argued that sharing information with state authorities was within the department's discretion. Bystander video analyzed by The Associated Press and others shows an Immigration and Customs Enforcement officer firing at Good's windshield and then twice more; federal officials said at the time that the officer acted in self-defense.
-nut_graf: The legal dispute centers on whether state prosecutors can obtain federal material to investigate two killings involving federal officers independently. Justice Department attorneys say the Touhy regulations apply only when formal legal proceedings are underway, and Minnesota prosecutors say federal agencies have obstructed their investigations. No criminal charges have been filed in connection with the fatal shootings.
+lede: In a reply filed Tuesday, Justice Department attorneys said there was no active
+  court case when Minnesota requested federal evidence in the investigations of the
+  killings of Renee Good and Alex Pretti by federal officers. The attorneys invoked
+  the department's Touhy regulations for responding to record requests, which they
+  said apply only when formal legal proceedings are underway, and argued that sharing
+  information with state authorities was within the department's discretion. Bystander
+  video analyzed by The Associated Press and others shows an Immigration and Customs
+  Enforcement officer firing at Good's windshield and then twice more; federal officials
+  said at the time that the officer acted in self-defense.
+nut_graf: The legal dispute centers on whether state prosecutors can obtain federal
+  material to investigate two killings involving federal officers independently. Justice
+  Department attorneys say the Touhy regulations apply only when formal legal proceedings
+  are underway, and Minnesota prosecutors say federal agencies have obstructed their
+  investigations. No criminal charges have been filed in connection with the fatal
+  shootings.
 primary_entities:
 - Minnesota
 - Minneapolis
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,13 +156,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-23-justice-department-says-no-active-case-existed-when-minnesota-sought-evidence.png
-  alt: 'Illustration accompanying article: Justice Department says no active case existed when Minnesota sought evidence'
+  alt: 'Illustration accompanying article: Justice Department says no active case
+    existed when Minnesota sought evidence'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-23-minnesota-asks-judge-to-compel-federal-evidence-in-two-fatal-shootings
   headline: Minnesota asks judge to compel federal evidence in two fatal shootings
@@ -158,99 +177,43 @@ related_stories:
   headline: Renee Good's family sues US government, Trump officials over ICE killing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.719
+  strength: 0.7198
 - slug: 2026-07-13-hennepin-county-prosecutors-obtain-hard-drives-of-withheld-evidence-in-three-fed
-  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in three federal-shooting cases
+  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in
+    three federal-shooting cases
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.7551
+  strength: 0.7555
 - slug: 2026-03-25-minnesota-officials-sue-trump-administration-over-federal-shooting-deaths
   headline: Minnesota officials sue Trump administration over federal shooting deaths
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.7968
+  strength: 0.7975
 - slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  headline: Federal authorities bar Minnesota from ICE shooting probe, claim no state jurisdiction
+  headline: Federal authorities bar Minnesota from ICE shooting probe, claim no state
+    jurisdiction
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.7588
+  strength: 0.7582
 - slug: 2026-01-13-doj-declines-civil-rights-probe-into-minneapolis-ice-shooting-as-prosecutors-res
-  headline: DOJ declines civil rights probe into Minneapolis ICE shooting as prosecutors resign
+  headline: DOJ declines civil rights probe into Minneapolis ICE shooting as prosecutors
+    resign
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.7572
+  strength: 0.7569
 - slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  headline: Minnesota probes federal officers over two killings, wounding and highway assault
+  headline: Minnesota probes federal officers over two killings, wounding and highway
+    assault
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.7427
+  strength: 0.7426
 - slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland shooting draws scrutiny
+  headline: Minneapolis protests erupt over ICE killing of Renee Good as Portland
+    shooting draws scrutiny
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.7428
-- slug: 2026-02-15-video-evidence-contradicts-immigration-officials-accounts-of-shootings
-  headline: Video evidence contradicts immigration officials’ accounts of shootings
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.7376
-- slug: 2026-03-24-minnesota-officials-sue-trump-administration-over-shooting-deaths
-  headline: Minnesota officials sue Trump administration over shooting deaths
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7311
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  headline: Protests erupt in Minneapolis as officials dispute jurisdiction in fatal ICE shooting
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7392
-- slug: 2026-01-08-video-shows-minnesota-ice-shooting-experts-question-tactics-used
-  headline: Video shows Minnesota ICE shooting; experts question tactics used
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7294
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7272
-- slug: 2026-01-29-doj-opens-federal-civil-rights-probe-into-death-of-alex-pretti
-  headline: DOJ opens federal civil rights probe into death of Alex Pretti
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7222
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  headline: Federal agents deploy tear gas in Minneapolis as five prosecutors resign over Renee Good case
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7208
-- slug: 2026-03-27-witness-describes-trauma-after-federal-officers-shot-alex-pretti-in-minnesota
-  headline: Witness describes trauma after federal officers shot Alex Pretti in Minnesota
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7085
-- slug: 2026-02-02-more-prosecutors-leave-minnesota-u-s-attorney-s-office-ap-sources-say
-  headline: More prosecutors leave Minnesota U.S. attorney’s office, AP sources say
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.7147
-- slug: 2026-01-27-three-federal-investigations-open-into-minneapolis-nurse-killing-by-border-patro
-  headline: Three federal investigations open into Minneapolis nurse killing by Border Patrol
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.71
-- slug: 2026-02-10-polic-a-arresta-a-docenas-de-manifestantes-en-protesta-por-la-muerte-de-renee-go
-  headline: Policía arresta a docenas de manifestantes en protesta por la muerte de Renee Good
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7087
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  headline: ICE officer shoots and kills Minneapolis woman during immigration enforcement
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7107
+  strength: 0.743
 ---
-
 ## Justice Department says no active case existed when Minnesota sought evidence
 
 **Subtype:** fact

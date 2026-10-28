@@ -2,8 +2,20 @@
 headline: Judge cites "high likelihood of error" in DHS list of people to visit
 secondary_headline: DHS says it used multiple data sources to eliminate false positives
 publish_date: '2026-10-22'
-lede: A federal judge said there was a "high likelihood of error" in the government's process for building a list of people to visit, and the Department of Homeland Security has said officials used multiple data sources to verify registrants' identities to do away with false positives. U.S. District Judge Araceli Martinez-Olguin made the finding as she ordered DHS on Wednesday to stop "elections-related field operations and field interviews" in nine states when the operations are likely to involve people whom officials know, suspect or should reasonably know or suspect are U.S. citizens. She stayed the order until 5 p.m. EDT Friday to allow an appeal.
-nut_graf: The finding concerns the accuracy of the government's list of people to visit, and it arrives less than two weeks before the midterm elections. Martinez-Olguin wrote that the plaintiffs did not claim, and the court did not find, that federal investigations into unlawful voting were unlawful; the case instead targets DHS investigating U.S. citizens "in a way that intimidates and threatens the participation of CNA/NNU members from urging or aiding others to vote."
+lede: A federal judge said there was a "high likelihood of error" in the government's
+  process for building a list of people to visit, and the Department of Homeland Security
+  has said officials used multiple data sources to verify registrants' identities
+  to do away with false positives. U.S. District Judge Araceli Martinez-Olguin made
+  the finding as she ordered DHS on Wednesday to stop "elections-related field operations
+  and field interviews" in nine states when the operations are likely to involve people
+  whom officials know, suspect or should reasonably know or suspect are U.S. citizens.
+  She stayed the order until 5 p.m. EDT Friday to allow an appeal.
+nut_graf: The finding concerns the accuracy of the government's list of people to
+  visit, and it arrives less than two weeks before the midterm elections. Martinez-Olguin
+  wrote that the plaintiffs did not claim, and the court did not find, that federal
+  investigations into unlawful voting were unlawful; the case instead targets DHS
+  investigating U.S. citizens "in a way that intimidates and threatens the participation
+  of CNA/NNU members from urging or aiding others to vote."
 primary_entities:
 - Department of Homeland Security
 - Araceli Martinez-Olguin
@@ -40,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +152,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
+  headline: USCIS official says citizen misidentification risk in federal records
+    is low
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8029
+  strength: 0.8027
 - slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
   headline: Federal judge orders pause to noncitizen-voting probes in nine states
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7877
+  strength: 0.7878
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.764
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
+  strength: 0.7647
+- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
+  headline: California leaders challenge federal review of suspected noncitizen ballots
+  publish_date: '2026-10-25'
   relation: related
-  strength: 0.7122
+  strength: 0.727
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7106
-- slug: 2026-10-23-federal-voter-fraud-cases-target-california-citizenship-applicants
-  headline: Federal voter fraud cases target California citizenship applicants
-  publish_date: '2026-10-23'
+  strength: 0.712
+- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.6898
+  strength: 0.711
 - slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
   headline: Los Angeles County officials question DOJ list of suspected non-citizens
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6965
+  strength: 0.6975
 - slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
   headline: DOJ charges 28 California green card holders over alleged illegal voting
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6944
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7116
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6968
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7437
-- slug: 2026-09-14-dhs-whistleblower-says-agents-may-have-broken-state-laws-in-voter-hunt
-  headline: DHS whistleblower says agents may have broken state laws in voter hunt
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7471
-- slug: 2026-09-24-nevada-confirms-all-185-dhs-flagged-non-citizens-are-us-citizens
-  headline: Nevada confirms all 185 DHS-flagged non-citizens are US citizens
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7048
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7275
-- slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7096
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7509
-- slug: 2026-09-02-immigrant-rights-group-sues-to-block-federal-voter-database-use
-  headline: Immigrant rights group sues to block federal voter database use
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7004
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7069
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7107
-- slug: 2026-06-22-judge-rules-trump-era-save-voter-data-system-unlawful
-  headline: Judge rules Trump-era SAVE voter data system unlawful
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7093
+  strength: 0.6956
 ---
-
 ## Judge cites "high likelihood of error" in DHS list of people to visit
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
 headline: Russian strikes push Kyiv toward a winter of power outages
-secondary_headline: Damaged energy systems and civilian preparations show the strains of repeated blackouts
+secondary_headline: Damaged energy systems and civilian preparations show the strains
+  of repeated blackouts
 publish_date: '2026-10-24'
-lede: Power outages are becoming common in Kyiv as Russian missiles pound power plants and attacks on Ukraine's energy infrastructure continue, leaving residents to manage intermittent electricity, weak water pressure and subway suspensions. President Volodymyr Zelensky said Russia had carried out more than 170 attacks on Ukraine's energy infrastructure since President Trump announced an energy ceasefire on Oct. 11. Kyiv's three million residents are preparing for another winter, and some are considering leaving the city.
-nut_graf: The renewed attacks have compounded years of damage to Kyiv's power-generation capacity while Ukraine remains chronically short of Patriot interceptors, described as the most effective defense against Russian ballistic missiles. The immediate consequences are dark streets, uncertain refrigeration, intermittent water service and psychological strain; longer-term effects include departures from Kyiv and sharply different rental conditions between the capital and western Ukrainian cities.
+lede: Power outages are becoming common in Kyiv as Russian missiles pound power plants
+  and attacks on Ukraine's energy infrastructure continue, leaving residents to manage
+  intermittent electricity, weak water pressure and subway suspensions. President
+  Volodymyr Zelensky said Russia had carried out more than 170 attacks on Ukraine's
+  energy infrastructure since President Trump announced an energy ceasefire on Oct.
+  11. Kyiv's three million residents are preparing for another winter, and some are
+  considering leaving the city.
+nut_graf: The renewed attacks have compounded years of damage to Kyiv's power-generation
+  capacity while Ukraine remains chronically short of Patriot interceptors, described
+  as the most effective defense against Russian ballistic missiles. The immediate
+  consequences are dark streets, uncertain refrigeration, intermittent water service
+  and psychological strain; longer-term effects include departures from Kyiv and sharply
+  different rental conditions between the capital and western Ukrainian cities.
 primary_entities:
 - Kyiv
 - Ukraine
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +156,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7675
@@ -151,108 +165,52 @@ related_stories:
   headline: Russian strikes on Kyiv and Kharkiv power plants resemble leaked plan
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8017
+  strength: 0.8003
 - slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7554
+  strength: 0.756
 - slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
   headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7619
+  strength: 0.7625
 - slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
   headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7707
+  strength: 0.7708
 - slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
   headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7766
+  strength: 0.7764
 - slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
   headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7694
+  strength: 0.7696
 - slug: 2026-10-12-zelenskyy-threatens-retaliation-as-russian-strikes-hit-ukraine-power-grid
   headline: Zelenskyy threatens retaliation as Russian strikes hit Ukraine power grid
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7676
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7477
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7603
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7479
-- slug: 2026-10-01-russia-strikes-kyiv-odesa-energy-sites-in-heaviest-combined-attack-in-months
-  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in months
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7548
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.78
-- slug: 2026-08-01-russian-missiles-kill-nine-in-kyiv-ukraine-cites-air-defense-shortage
-  headline: Russian missiles kill nine in Kyiv, Ukraine cites air defense shortage
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.8074
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.82
-- slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
-  headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7541
-- slug: 2026-06-02-russia-kills-18-in-third-massive-kyiv-attack-in-three-weeks-as-front-stalls
-  headline: Russia kills 18 in third massive Kyiv attack in three weeks as front stalls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7971
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7638
-- slug: 2026-02-04-russia-launches-major-drone-and-missile-attack-on-ukraine-overnight
-  headline: Russia launches major drone and missile attack on Ukraine overnight
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.7976
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7566
+  strength: 0.7678
 image:
   url: /articles/2026-10-24-russian-strikes-push-kyiv-toward-a-winter-of-power-outages.png
-  alt: "Illustration accompanying article: Russian strikes push Kyiv toward a winter of power outages"
+  alt: 'Illustration accompanying article: Russian strikes push Kyiv toward a winter
+    of power outages'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Russian strikes push Kyiv toward a winter of power outages
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: California leaders challenge federal review of suspected noncitizen ballots
-secondary_headline: Los Angeles officials say a high percentage of listed people were U.S.-born
+secondary_headline: Los Angeles officials say a high percentage of listed people were
+  U.S.-born
 publish_date: '2026-10-25'
-lede: Less than two weeks before the midterms, the justice department asked California election officials to verify within 48 hours a list of about 20,000 ballots belonging to suspected noncitizens. California election personnel said the directive could disenfranchise citizens, while Attorney General Rob Bonta said the federal government supplied a list without explaining why it suspected the people were ineligible.
-nut_graf: The dispute centers on whether the federal list is reliable and whether a rapid pre-election review could exclude ballots cast by eligible citizens. California officials say the government has not shared its reasons for suspecting the listed people were ineligible, while the justice department says county cooperation with DHS will make the election secure. An appeals court is set to hear the legal dispute Tuesday.
+lede: Less than two weeks before the midterms, the justice department asked California
+  election officials to verify within 48 hours a list of about 20,000 ballots belonging
+  to suspected noncitizens. California election personnel said the directive could
+  disenfranchise citizens, while Attorney General Rob Bonta said the federal government
+  supplied a list without explaining why it suspected the people were ineligible.
+nut_graf: The dispute centers on whether the federal list is reliable and whether
+  a rapid pre-election review could exclude ballots cast by eligible citizens. California
+  officials say the government has not shared its reasons for suspecting the listed
+  people were ineligible, while the justice department says county cooperation with
+  DHS will make the election secure. An appeals court is set to hear the legal dispute
+  Tuesday.
 primary_entities:
 - California
 - Trump administration
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +150,61 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8786
+  strength: 0.8794
+- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
+  headline: California ballot dispute reaches 9th Circuit
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.8346
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8201
+  strength: 0.8202
+- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
+  headline: Justice Department asks Washington to set aside ballots from suspected
+    noncitizens
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.8051
+- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
+  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7988
+- slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
+  headline: Monthslong California voter-roll dispute precedes DOJ emergency request
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7984
 - slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
   headline: DOJ California ballot demand called unprecedented as voting is underway
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8301
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.8232
+  strength: 0.8298
 - slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
   headline: DHS says voter-roll figures overstated noncitizen numbers
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8165
-- slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
-  headline: Los Angeles County officials question DOJ list of suspected non-citizens
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8076
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.8024
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8087
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7956
-- slug: 2026-10-23-federal-voter-fraud-cases-target-california-citizenship-applicants
-  headline: Federal voter fraud cases target California citizenship applicants
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7377
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7443
-- slug: 2026-10-22-uscis-official-says-citizen-misidentification-risk-in-federal-records-is-low
-  headline: USCIS official says citizen misidentification risk in federal records is low
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.739
-- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
-  headline: Judge cites "high likelihood of error" in DHS list of people to visit
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7335
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7692
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7299
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7271
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7314
-- slug: 2026-08-21-nevada-s-flagged-voter-list-yields-185-confirmed-non-citizens-after-dhs-review
-  headline: Nevada's flagged voter list yields 185 confirmed non-citizens after DHS review
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7243
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7439
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7564
+  strength: 0.8166
 image:
   url: /articles/2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots.png
-  alt: "Illustration accompanying article: California leaders challenge federal review of suspected noncitizen ballots"
+  alt: 'Illustration accompanying article: California leaders challenge federal review
+    of suspected noncitizen ballots'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## California leaders challenge federal review of suspected noncitizen ballots
 
 **Subtype:** fact

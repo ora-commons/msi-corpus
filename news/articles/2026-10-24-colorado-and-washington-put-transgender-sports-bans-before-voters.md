@@ -2,8 +2,16 @@
 headline: Colorado and Washington put transgender sports bans before voters
 secondary_headline: State proposals would set different sports eligibility rules
 publish_date: '2026-10-24'
-lede: Supporters of bans on transgender women and girls from female sports competitions have put proposed measures on the ballots in Colorado and Washington, two reliably Democratic states whose elected officials have rejected such bans, according to the Associated Press. The campaigns are the first to send the issue directly to voters, after it was debated in many legislatures.
-nut_graf: Supporters say a win in either state would open the door to similar ballot campaigns in other places where lawmakers have blocked bans, and polls cited in Associated Press reporting show Americans generally back the restrictions. The measures put the question to voters in two states where the legislature would not take it up.
+lede: Supporters of bans on transgender women and girls from female sports competitions
+  have put proposed measures on the ballots in Colorado and Washington, two reliably
+  Democratic states whose elected officials have rejected such bans, according to
+  the Associated Press. The campaigns are the first to send the issue directly to
+  voters, after it was debated in many legislatures.
+nut_graf: Supporters say a win in either state would open the door to similar ballot
+  campaigns in other places where lawmakers have blocked bans, and polls cited in
+  Associated Press reporting show Americans generally back the restrictions. The measures
+  put the question to voters in two states where the legislature would not take it
+  up.
 primary_entities:
 - Colorado
 - Washington
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +147,47 @@ related_stories:
   headline: Federal prison policy would bar transition-related treatment
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6278
-- slug: 2026-10-19-unpaid-idaho-volunteers-place-abortion-rights-measure-on-november-ballot
-  headline: Unpaid Idaho volunteers place abortion rights measure on November ballot
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6371
+  strength: 0.6512
 - slug: 2026-09-22-missouri-asks-voters-to-overturn-2024-abortion-protections
   headline: Missouri asks voters to overturn 2024 abortion protections
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6476
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6397
+  strength: 0.6528
 - slug: 2026-07-01-supreme-court-upholds-state-bans-on-transgender-athletes-in-6-3-ruling
   headline: Supreme Court upholds state bans on transgender athletes in 6-3 ruling
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.7421
-- slug: 2026-08-07-supreme-court-weighs-trump-bid-to-restrict-mail-in-voting
-  headline: Supreme Court weighs Trump bid to restrict mail-in voting
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6278
-- slug: 2026-02-13-nevada-women-s-rights-group-sues-to-block-lombardo-sports-ballot-measure
-  headline: Nevada women’s rights group sues to block Lombardo sports ballot measure
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7342
-- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6766
-- slug: 2026-01-08-nevada-governor-launches-ballot-drive-to-ban-transgender-athletes-from-women-s-s
-  headline: Nevada governor launches ballot drive to ban transgender athletes from women's sports
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7334
+  strength: 0.78
 - slug: 2026-01-13-supreme-court-appears-set-to-uphold-state-bans-on-transgender-athletes
   headline: Supreme Court appears set to uphold state bans on transgender athletes
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.7329
-- slug: 2026-03-22-senate-blocks-transgender-athletes-amendment-during-voting-bill-debate
-  headline: Senate blocks transgender athletes amendment during voting bill debate
-  publish_date: '2026-03-22'
+  strength: 0.7707
+- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
+  headline: Supreme Court expected to rule on birthright citizenship, trans athlete
+    bans on final day
+  publish_date: '2026-06-30'
   relation: related
-  strength: 0.7152
+  strength: 0.697
 - slug: 2026-05-26-maine-secretary-of-state-removes-transgender-sports-ballot-measure-over-insuffic
-  headline: Maine secretary of state removes transgender sports ballot measure over insufficient signatures
+  headline: Maine secretary of state removes transgender sports ballot measure over
+    insufficient signatures
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.6892
+  strength: 0.7171
+- slug: 2026-01-08-nevada-governor-launches-ballot-drive-to-ban-transgender-athletes-from-women-s-s
+  headline: Nevada governor launches ballot drive to ban transgender athletes from
+    women's sports
+  publish_date: '2026-01-08'
+  relation: related
+  strength: 0.7433
 - slug: 2026-01-11-supreme-court-hears-arguments-on-transgender-athlete-bans-from-west-virginia-ida
-  headline: Supreme Court hears arguments on transgender athlete bans from West Virginia, Idaho
+  headline: Supreme Court hears arguments on transgender athlete bans from West Virginia,
+    Idaho
   publish_date: '2026-01-11'
   relation: related
-  strength: 0.7104
-- slug: 2026-05-27-maine-secretary-of-state-removes-transgender-sports-referendum-from-november-bal
-  headline: Maine secretary of state removes transgender sports referendum from November ballot
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6702
-- slug: 2026-02-26-kansas-law-invalidates-transgender-driver-s-licenses-and-birth-certificates
-  headline: Kansas law invalidates transgender driver's licenses and birth certificates
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6819
-- slug: 2026-05-15-conservative-states-push-to-ban-abortion-pills-as-telehealth-use-rises
-  headline: Conservative states push to ban abortion pills as telehealth use rises
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6528
-- slug: 2026-05-17-transgender-athlete-leans-into-track-season-as-supreme-court-case-nears-decision
-  headline: Transgender athlete leans into track season as Supreme Court case nears decision
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6463
-- slug: 2026-05-24-democrats-face-steep-state-hurdles-in-push-to-match-gop-redistricting-gains
-  headline: Democrats face steep state hurdles in push to match GOP redistricting gains
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6333
-- slug: 2026-05-01-transgender-idaho-residents-sue-over-strict-new-bathroom-ban
-  headline: Transgender Idaho residents sue over strict new bathroom ban
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6404
-- slug: 2026-02-28-kansas-faces-lawsuit-over-law-invalidating-some-trans-residents-ids
-  headline: Kansas faces lawsuit over law invalidating some trans residents’ IDs
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6514
+  strength: 0.7423
 ---
-
 ## Colorado and Washington put transgender sports bans before voters
 
 **Subtype:** fact

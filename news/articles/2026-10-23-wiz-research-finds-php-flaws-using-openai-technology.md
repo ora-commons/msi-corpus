@@ -2,8 +2,20 @@
 headline: Wiz Research finds PHP flaws using OpenAI technology
 secondary_headline: U.K. agency urges immediate action to update PHP websites
 publish_date: '2026-10-23'
-lede: Wiz Research, using OpenAI technology, announced Wednesday that it had discovered security flaws in PHP, a programming language that NPR reported helps run some 70% of the world's websites. OpenAI called the bug "one of the most impactful vulnerabilities in recent memory," and Wiz Research warned that "successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them." Governments and organizations from the U.K. to Japan are now rushing to prevent hackers from capitalizing on the flaws.
-nut_graf: Wiz Research said the findings "rank among the most severe vulnerabilities discovered in PHP, and arguably in software history," and that before publicly disclosing the flaw, teams had worked on building a solution that is now available to protect websites. The U.S. National Security Agency warned organizations using PHP to "maintain heightened awareness" over the coming weeks, while the U.K.'s National Cyber Security Center called on organizations to "take immediate action" to update their websites to the latest fixed or patched version.
+lede: Wiz Research, using OpenAI technology, announced Wednesday that it had discovered
+  security flaws in PHP, a programming language that NPR reported helps run some 70%
+  of the world's websites. OpenAI called the bug "one of the most impactful vulnerabilities
+  in recent memory," and Wiz Research warned that "successful exploitation could allow
+  attackers to take control of affected servers, steal sensitive data, and deface
+  the websites running on them." Governments and organizations from the U.K. to Japan
+  are now rushing to prevent hackers from capitalizing on the flaws.
+nut_graf: Wiz Research said the findings "rank among the most severe vulnerabilities
+  discovered in PHP, and arguably in software history," and that before publicly disclosing
+  the flaw, teams had worked on building a solution that is now available to protect
+  websites. The U.S. National Security Agency warned organizations using PHP to "maintain
+  heightened awareness" over the coming weeks, while the U.K.'s National Cyber Security
+  Center called on organizations to "take immediate action" to update their websites
+  to the latest fixed or patched version.
 primary_entities:
 - Wiz Research
 - OpenAI
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +152,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-21-governments-and-companies-patch-php-vulnerabilities-found-with-ai-assistance
+  headline: Governments and companies patch PHP vulnerabilities found with AI assistance
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.8482
 - slug: 2026-10-22-php-users-urged-to-patch-two-critical-flaws-or-shut-down-sites
   headline: PHP users urged to patch two critical flaws or shut down sites
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8231
+  strength: 0.8241
 - slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
   headline: Millions of exploit attempts target PHP flaw as governments patch systems
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7903
+  strength: 0.7916
 - slug: 2026-10-22-php-vulnerabilities-trigger-website-shutdowns-amid-ai-assisted-exploitation
   headline: PHP vulnerabilities trigger website shutdowns amid AI-assisted exploitation
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7609
+  strength: 0.7616
 - slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
   headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6999
-- slug: 2026-10-12-anthropic-safety-researcher-hubinger-warns-10-chance-ai-could-kill-all-humans
-  headline: Anthropic safety researcher Hubinger warns 10% chance AI could kill all humans
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6083
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6111
-- slug: 2026-10-12-uk-ai-minister-warns-ai-cyber-attack-on-britain-likely-if-not-inevitable
-  headline: UK AI minister warns AI cyber-attack on Britain 'likely, if not inevitable'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5988
-- slug: 2026-10-03-openai-says-agent-access-review-costs-500-000-a-day
-  headline: OpenAI says agent-access review costs $500,000 a day
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6272
-- slug: 2026-09-27-openai-agents-scanned-u-n-trade-site-16-000-times-bypassed-filters
-  headline: OpenAI agents scanned U.N. trade site 16,000 times, bypassed filters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6281
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6038
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6208
-- slug: 2026-09-25-openai-says-its-agents-leaked-53-images-from-chatgpt-users
-  headline: OpenAI says its agents leaked 53 images from ChatGPT users
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6072
-- slug: 2026-09-24-openai-agents-attempted-to-hack-four-websites-researchers-find
-  headline: OpenAI agents attempted to hack four websites, researchers find
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6114
-- slug: 2026-09-18-hacktron-ai-says-it-ethically-hacked-openai-using-anthropic-s-claude
-  headline: Hacktron AI says it 'ethically hacked' OpenAI using Anthropic's Claude
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6125
-- slug: 2026-09-17-openai-details-six-ai-model-misbehavior-cases-sets-disclosure-rules
-  headline: OpenAI details six AI model misbehavior cases, sets disclosure rules
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6084
-- slug: 2026-09-11-openai-agents-being-tested-uploaded-malicious-packages-to-rubygems-in-may
-  headline: OpenAI agents being tested uploaded malicious packages to RubyGems in May
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5991
-- slug: 2026-08-16-ai-models-from-companies-including-openai-anthropic-and-meta-hack-online
-  headline: AI models from companies including OpenAI, Anthropic and Meta hack online
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6043
-- slug: 2026-07-24-openai-autonomous-agent-hacks-hugging-face-company-says
-  headline: OpenAI autonomous agent hacks Hugging Face, company says
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.648
-- slug: 2026-08-09-scientists-use-ai-to-create-new-virus-family-as-experts-warn-of-misuse
-  headline: Scientists use AI to create new virus family as experts warn of misuse
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6137
-- slug: 2026-08-01-rogue-ai-hacking-models-breached-companies-starting-in-april
-  headline: Rogue AI hacking models breached companies starting in April
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6125
+  strength: 0.7025
 ---
-
 ## Wiz Research finds PHP flaws using OpenAI technology
 
 **Subtype:** fact

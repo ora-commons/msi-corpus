@@ -2,8 +2,15 @@
 headline: Former President Obama criticizes Trump at Ohio midterm rally
 secondary_headline: Brown and Acton are in neck-and-neck Ohio races
 publish_date: '2026-10-24'
-lede: Former President Barack Obama criticized President Trump and Republicans at an Ohio midterm campaign rally on Saturday, his first appearance at such an event with less than two weeks until Election Day. Obama appeared with Democratic gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown, whose race against Republican incumbent Jon Husted could decide the balance of power in the Senate.
-nut_graf: The rally brought Obama into a Democratic campaign focused on high costs, tariffs, the war in Iran and allegations of corruption surrounding Trump. Trump, who was not a candidate, responded by criticizing Obama and Bill Clinton and urging supporters to “pretend I’m on the ballot” to mobilize Republican voters.
+lede: Former President Barack Obama criticized President Trump and Republicans at
+  an Ohio midterm campaign rally on Saturday, his first appearance at such an event
+  with less than two weeks until Election Day. Obama appeared with Democratic gubernatorial
+  candidate Amy Acton and Senate candidate Sherrod Brown, whose race against Republican
+  incumbent Jon Husted could decide the balance of power in the Senate.
+nut_graf: The rally brought Obama into a Democratic campaign focused on high costs,
+  tariffs, the war in Iran and allegations of corruption surrounding Trump. Trump,
+  who was not a candidate, responded by criticizing Obama and Bill Clinton and urging
+  supporters to “pretend I’m on the ballot” to mobilize Republican voters.
 primary_entities:
 - Barack Obama
 - Trump
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +151,44 @@ related_stories:
   headline: Obama stumps in Ohio, accuses Trump of 'corruption and incompetence'
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8343
+  strength: 0.8346
 - slug: 2026-10-24-obama-campaigns-for-democrats-as-trump-casts-an-early-vote
   headline: Obama campaigns for Democrats as Trump casts an early vote
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8334
+  strength: 0.8339
+- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
+  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7455
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7172
+- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
+  headline: Trump holds seven rallies across seven states during midterm push
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6816
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.6793
 - slug: 2026-10-23-trump-comments-on-candidates-looks-during-midterm-rallies
   headline: Trump comments on candidates' looks during midterm rallies
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6723
+  strength: 0.6727
 - slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
+  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's
+    race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6758
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6951
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7164
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6705
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6874
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6701
-- slug: 2026-09-25-republicans-break-with-trump-on-iran-war-and-immigration-ahead-of-midterms
-  headline: Republicans break with Trump on Iran war and immigration ahead of midterms
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6672
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6739
-- slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
-  headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6688
-- slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
-  headline: Trump stumps for Whatley in North Carolina Senate race
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6632
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.661
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6608
-- slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6727
-- slug: 2026-03-12-trump-slams-fellow-republican-massie-during-kentucky-rally
-  headline: Trump slams fellow Republican Massie during Kentucky rally
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.7004
-- slug: 2026-05-27-trump-is-getting-the-gop-he-wants-but-can-he-win-the-midterms
-  headline: Trump is getting the GOP he wants, but can he win the midterms?
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6609
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6679
-- slug: 2026-03-25-trump-promises-bigger-gop-majorities-as-warning-signs-flash-for-party
-  headline: Trump promises bigger GOP majorities as warning signs flash for party
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6768
+  strength: 0.6752
 ---
-
 ## Former President Obama criticizes Trump at Ohio midterm rally
 
 **Subtype:** fact

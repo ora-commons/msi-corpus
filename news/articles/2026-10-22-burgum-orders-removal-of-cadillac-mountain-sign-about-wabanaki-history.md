@@ -2,8 +2,19 @@
 headline: Burgum orders removal of Cadillac Mountain sign about Wabanaki history
 secondary_headline: Lawsuit seeks restoration of hundreds of removed park items
 publish_date: '2026-10-22'
-lede: Interior Secretary Doug Burgum ordered the removal of a Cadillac Mountain interpretive sign in Acadia National Park that explained the mountain’s sacred significance to the Wabanaki people, according to the National Parks Conservation Association. The marker was among 30 removed from Acadia in a Trump administration campaign targeting materials the administration deemed disparaging to American history. A nonprofit coalition of conservation, history and science organizations sued the federal government in February seeking restoration of the Acadia signs and hundreds of other removed items.
-nut_graf: The dispute extends beyond one marker because federal removals covered signs, books, films and exhibits addressing slavery, climate change and the massacre of Native Americans. Wabanaki members and park partners have continued programs that bring Indigenous voices into Acadia, develop shared stewardship and work to improve tribal access to sweetgrass.
+lede: Interior Secretary Doug Burgum ordered the removal of a Cadillac Mountain interpretive
+  sign in Acadia National Park that explained the mountain’s sacred significance to
+  the Wabanaki people, according to the National Parks Conservation Association. The
+  marker was among 30 removed from Acadia in a Trump administration campaign targeting
+  materials the administration deemed disparaging to American history. A nonprofit
+  coalition of conservation, history and science organizations sued the federal government
+  in February seeking restoration of the Acadia signs and hundreds of other removed
+  items.
+nut_graf: The dispute extends beyond one marker because federal removals covered signs,
+  books, films and exhibits addressing slavery, climate change and the massacre of
+  Native Americans. Wabanaki members and park partners have continued programs that
+  bring Indigenous voices into Acadia, develop shared stewardship and work to improve
+  tribal access to sweetgrass.
 primary_entities:
 - Acadia National Park
 - Cadillac Mountain
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +163,34 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-trump-signs-law-establishing-chiricahua-as-64th-u-s-national-park
-  headline: Trump signs law establishing Chiricahua as 64th U.S. national park
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5964
-- slug: 2026-10-10-dhs-deployed-masked-agents-drones-against-tohono-o-odham-prayer-fire
-  headline: DHS deployed masked agents, drones against Tohono O'odham prayer fire
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6003
-- slug: 2026-09-16-interior-s-park-qr-code-comments-drew-majority-opposition-per-foia-records
-  headline: Interior's park QR-code comments drew majority opposition, per FOIA records
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6436
-- slug: 2026-09-16-interior-secretary-plans-warning-signs-outside-smithsonian-museums
-  headline: Interior Secretary plans warning signs outside Smithsonian museums
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6396
 - slug: 2026-09-02-patagonia-joins-lawsuit-challenging-trump-s-utah-monument-reductions
   headline: Patagonia joins lawsuit challenging Trump's Utah monument reductions
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6485
-- slug: 2026-08-20-blm-proposes-scrapping-chaco-drilling-buffer-over-tribal-unesco-opposition
-  headline: BLM proposes scrapping Chaco drilling buffer over tribal, UNESCO opposition
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6054
+  strength: 0.6505
 - slug: 2026-06-13-judge-orders-restoration-of-national-park-plaques-removed-under-trump-directive
-  headline: Judge orders restoration of national park plaques removed under Trump directive
+  headline: Judge orders restoration of national park plaques removed under Trump
+    directive
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.6711
-- slug: 2026-07-24-trump-orders-signs-at-smithsonian-history-museum-after-white-house-report
-  headline: Trump orders signs at Smithsonian history museum after White House report
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6152
-- slug: 2026-07-02-appeals-court-us-not-required-to-restore-removed-national-park-material
-  headline: 'Appeals court: US not required to restore removed national park material'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6376
-- slug: 2026-07-14-trump-shrinks-two-utah-national-monuments-environmentalists-vow-legal-challenge
-  headline: Trump shrinks two Utah national monuments, environmentalists vow legal challenge
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6163
+  strength: 0.6716
 - slug: 2026-05-17-indigenous-leaders-decry-us-border-wall-work-desecrating-sacred-sites
   headline: Indigenous leaders decry US border-wall work desecrating sacred sites
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.6623
-- slug: 2026-06-26-former-park-rangers-launch-teach-in-after-trump-axed-black-history-exhibit
-  headline: Former park rangers launch teach-in after Trump axed Black history exhibit
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6274
+  strength: 0.6611
 - slug: 2026-05-17-border-wall-construction-desecrates-sacred-indigenous-sites-tribal-leaders-say
-  headline: Border wall construction desecrates sacred Indigenous sites, tribal leaders say
+  headline: Border wall construction desecrates sacred Indigenous sites, tribal leaders
+    say
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.6564
-- slug: 2026-07-01-trump-attends-roosevelt-library-opening-as-critics-cite-conservation-rollbacks
-  headline: Trump attends Roosevelt library opening as critics cite conservation rollbacks
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6044
+  strength: 0.6556
 - slug: 2026-02-18-lawsuit-challenges-trump-era-changes-to-exhibits-at-national-parks
   headline: Lawsuit challenges Trump-era changes to exhibits at national parks
   publish_date: '2026-02-18'
   relation: related
-  strength: 0.6608
-- slug: 2026-07-03-as-us-marks-250-years-communities-and-historians-broaden-accounts-of-the-nation-
-  headline: As US marks 250 years, communities and historians broaden accounts of the nation's founding
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5968
-- slug: 2026-01-23-philadelphia-sues-to-block-removal-of-slavery-exhibit-from-independence-park
-  headline: Philadelphia sues to block removal of slavery exhibit from Independence Park
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6362
-- slug: 2026-05-31-interior-secretary-defends-250th-concert-donors-as-artists-withdraw
-  headline: Interior Secretary defends 250th concert donors as artists withdraw
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6013
-- slug: 2026-05-06-events-mark-missing-and-murdered-indigenous-peoples-awareness-day
-  headline: Events mark Missing and Murdered Indigenous Peoples awareness day
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.602
-- slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6001
+  strength: 0.6618
 ---
-
 ## Burgum orders removal of Cadillac Mountain sign about Wabanaki history
 
 **Subtype:** fact

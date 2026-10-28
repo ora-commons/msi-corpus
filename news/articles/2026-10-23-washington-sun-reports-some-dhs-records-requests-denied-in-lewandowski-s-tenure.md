@@ -1,9 +1,21 @@
 ---
-headline: Washington Sun reports some DHS records requests denied in Lewandowski’s tenure
+headline: Washington Sun reports some DHS records requests denied in Lewandowski’s
+  tenure
 secondary_headline: Reported DOJ probe followed DHS inspector general referral
 publish_date: '2026-10-23'
-lede: The Washington Sun reported this week that some open-records requests from the Department of Homeland Security were denied during Corey Lewandowski’s tenure because of an ongoing criminal probe. Associated Press reporting cited The Wall Street Journal’s account that a reported Justice Department inquiry began after a referral from the DHS inspector general that included details about Lewandowski’s time at the agency. The details of the allegations against Lewandowski were not yet clear. The Justice Department and Homeland Security did not immediately answer an AP request for comment.
-nut_graf: The Washington Sun report concerns access to DHS records during Lewandowski’s tenure, while The Wall Street Journal reported that the Justice Department inquiry followed a referral from the DHS inspector general. That referral included details about Lewandowski’s time at the agency. Attorney Adam Trigg said the Justice Department had not contacted Lewandowski and that his client denied wrongdoing while serving voluntarily.
+lede: The Washington Sun reported this week that some open-records requests from the
+  Department of Homeland Security were denied during Corey Lewandowski’s tenure because
+  of an ongoing criminal probe. Associated Press reporting cited The Wall Street Journal’s
+  account that a reported Justice Department inquiry began after a referral from the
+  DHS inspector general that included details about Lewandowski’s time at the agency.
+  The details of the allegations against Lewandowski were not yet clear. The Justice
+  Department and Homeland Security did not immediately answer an AP request for comment.
+nut_graf: The Washington Sun report concerns access to DHS records during Lewandowski’s
+  tenure, while The Wall Street Journal reported that the Justice Department inquiry
+  followed a referral from the DHS inspector general. That referral included details
+  about Lewandowski’s time at the agency. Attorney Adam Trigg said the Justice Department
+  had not contacted Lewandowski and that his client denied wrongdoing while serving
+  voluntarily.
 primary_entities:
 - The Washington Sun
 - The Wall Street Journal
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +156,40 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-23-one-source-says-doj-has-not-yet-issued-subpoenas-in-the-corey-lewandowski-inquir
-  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski inquiry
+  headline: One source says DOJ has not yet issued subpoenas in the Corey Lewandowski
+    inquiry
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.861
+  strength: 0.8611
 - slug: 2026-10-22-justice-department-examines-allegations-that-lewandowski-profited-from-dhs-role
-  headline: Justice Department examines allegations that Lewandowski profited from DHS role
+  headline: Justice Department examines allegations that Lewandowski profited from
+    DHS role
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8605
+  strength: 0.8595
 - slug: 2026-10-22-doj-reportedly-opens-probe-into-former-dhs-official-corey-lewandowski
   headline: DOJ reportedly opens probe into former DHS official Corey Lewandowski
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.837
+  strength: 0.8371
 - slug: 2026-10-23-lawmakers-question-noem-s-220m-ad-award-to-two-firms-tied-to-noem-and-her-circle
-  headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and her circle
+  headline: Lawmakers question Noem's $220m ad award to two firms tied to Noem and
+    her circle
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.78
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.625
-- slug: 2026-10-14-trump-press-secretary-zacharia-faces-complaint-over-lawyer-claims
-  headline: Trump press secretary Zacharia faces complaint over lawyer claims
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6152
-- slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
-  headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6267
-- slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
-  headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6232
+  strength: 0.7789
 - slug: 2026-09-08-lewandowski-allegedly-pitched-government-services-to-qatar-uae-while-at-dhs
-  headline: Lewandowski allegedly pitched government services to Qatar, UAE while at DHS
+  headline: Lewandowski allegedly pitched government services to Qatar, UAE while
+    at DHS
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7471
+  strength: 0.7458
 - slug: 2026-07-10-dhs-inspector-general-finds-lewandowski-may-have-improperly-awarded-contracts
   headline: DHS inspector general finds Lewandowski may have improperly awarded contracts
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7831
-- slug: 2026-09-11-joe-digenova-resigns-from-justice-department-probe-of-trump-opponents
-  headline: Joe diGenova resigns from Justice Department probe of Trump opponents
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6215
-- slug: 2026-09-01-wyden-jayapal-ask-gao-to-investigate-dhs-use-of-summonses-against-journalists
-  headline: Wyden, Jayapal ask GAO to investigate DHS use of summonses against journalists
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6149
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6143
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6214
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6394
-- slug: 2026-05-10-former-polish-justice-minister-ziobro-says-he-is-in-the-u-s
-  headline: Former Polish justice minister Ziobro says he is in the U.S.
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6337
-- slug: 2026-03-05-kristi-noem-defends-dhs-immigration-actions-and-spending-in-congress
-  headline: Kristi Noem defends DHS immigration actions and spending in Congress
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6453
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6359
-- slug: 2026-03-06-trump-fires-noem-as-dhs-chief-after-220m-ad-blitz-draws-gop-ire
-  headline: Trump fires Noem as DHS chief after $220M ad blitz draws GOP ire
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6409
-- slug: 2026-02-23-judge-bars-release-of-jack-smith-s-classified-documents-report
-  headline: Judge bars release of Jack Smith's classified documents report
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6264
+  strength: 0.7818
 ---
-
 ## Washington Sun reports some DHS records requests denied in Lewandowski’s tenure
 
 **Subtype:** fact

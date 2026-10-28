@@ -1,9 +1,19 @@
 ---
 headline: Energy Department adds helium to critical materials list
-secondary_headline: U.S. output reached 43% of global supply; Qatar and Russia face export limits
+secondary_headline: U.S. output reached 43% of global supply; Qatar and Russia face
+  export limits
 publish_date: '2026-10-23'
-lede: The U.S. Energy Department added helium to its critical materials list on Friday, citing the gas's indispensable role in making semiconductors essential to energy generation and the risk of disruption to global supply. The designation makes more federal financing available to helium producers and brings helium under closer government monitoring. Helium is the 20th critical material identified by the department.
-nut_graf: Helium is primarily produced as a byproduct of natural gas processing, and the United States is the world's largest producer of natural gas and helium. U.S. output reached 81 million cubic meters in 2025, or 43% of global supply, but extraction plants are at their limits and new plants take years to permit and build. The designation comes as Qatar's exports have been severely curtailed and Russia has imposed temporary helium export controls.
+lede: The U.S. Energy Department added helium to its critical materials list on Friday,
+  citing the gas's indispensable role in making semiconductors essential to energy
+  generation and the risk of disruption to global supply. The designation makes more
+  federal financing available to helium producers and brings helium under closer government
+  monitoring. Helium is the 20th critical material identified by the department.
+nut_graf: Helium is primarily produced as a byproduct of natural gas processing, and
+  the United States is the world's largest producer of natural gas and helium. U.S.
+  output reached 81 million cubic meters in 2025, or 43% of global supply, but extraction
+  plants are at their limits and new plants take years to permit and build. The designation
+  comes as Qatar's exports have been severely curtailed and Russia has imposed temporary
+  helium export controls.
 primary_entities:
 - Energy Department
 - Chris Wright
@@ -54,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,108 +163,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6399
-- slug: 2026-09-19-iran-and-ukraine-wars-squeeze-global-diesel-supply-as-refinery-exports-plunge
-  headline: Iran and Ukraine wars squeeze global diesel supply as refinery exports plunge
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-14-oil-executives-say-global-fuel-crisis-has-arrived
-  headline: Oil executives say global fuel crisis has arrived
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6371
-- slug: 2026-09-17-trump-exempts-canadian-metals-from-tariffs-despite-don-t-need-canada-claim
-  headline: Trump exempts Canadian metals from tariffs despite 'don't need Canada' claim
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6253
-- slug: 2026-09-17-announced-strategies-could-offset-70-of-hormuz-oil-dependency-by-2030
-  headline: Announced strategies could offset 70% of Hormuz oil dependency by 2030
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6201
 - slug: 2026-07-10-china-invokes-foreign-trade-law-to-halt-helium-exports
   headline: China invokes Foreign Trade Law to halt helium exports
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7301
+  strength: 0.7294
 - slug: 2026-03-22-why-the-iran-war-matters-for-the-world-s-helium-supply
   headline: Why the Iran war matters for the world’s helium supply
   publish_date: '2026-03-22'
   relation: related
-  strength: 0.7799
-- slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
-  headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6245
-- slug: 2026-08-05-commerce-department-bans-battery-scrap-tungsten-waste-exports-for-one-year
-  headline: Commerce Department bans battery scrap, tungsten waste exports for one year
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6494
+  strength: 0.7795
 - slug: 2026-06-25-chip-makers-avoided-helium-supply-shock-from-iran-war
   headline: Chip makers avoided helium supply shock from Iran war
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6943
-- slug: 2026-08-07-u-s-refiners-run-at-full-capacity-as-global-fuel-crunch-boosts-profits
-  headline: U.S. refiners run at full capacity as global fuel crunch boosts profits
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6332
-- slug: 2026-08-03-pentagon-backs-new-hampshire-refinery-with-500m-loan-for-critical-minerals
-  headline: Pentagon backs New Hampshire refinery with $500M loan for critical minerals
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6326
-- slug: 2026-07-30-cameron-parish-lng-boom-transforms-hurricane-ravaged-louisiana-community
-  headline: Cameron Parish LNG boom transforms hurricane-ravaged Louisiana community
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6254
-- slug: 2026-06-25-army-leases-land-on-bases-for-critical-mineral-processing
-  headline: Army Leases Land on Bases for Critical Mineral Processing
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6408
-- slug: 2026-07-09-u-s-oil-stockpiles-stay-near-operational-limits-as-trump-ends-iran-ceasefire
-  headline: U.S. oil stockpiles stay near operational limits as Trump ends Iran ceasefire
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.625
-- slug: 2026-07-13-aging-infrastructure-and-repeated-draws-cut-strategic-petroleum-reserve-pumping-
-  headline: Aging infrastructure and repeated draws cut Strategic Petroleum Reserve pumping capacity, GAO finds
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6198
-- slug: 2026-06-15-oil-executives-warn-of-severe-supply-crunch-as-u-s-depletes-reserve
-  headline: Oil executives warn of severe supply crunch as U.S. depletes reserve
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6436
-- slug: 2026-06-21-strait-of-hormuz-crisis-spotlights-fragile-global-trade-chokepoints
-  headline: Strait of Hormuz Crisis Spotlights Fragile Global Trade Chokepoints
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6352
-- slug: 2026-06-25-u-s-plastic-exports-to-china-top-23-billion-fueling-global-pollution-concerns
-  headline: U.S. plastic exports to China top $23 billion, fueling global pollution concerns
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6272
-- slug: 2026-03-05-demand-for-critical-minerals-to-triple-by-2030-un-chief-tells-security-council
-  headline: Demand for critical minerals to triple by 2030, UN chief tells Security Council
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6307
+  strength: 0.6935
 ---
-
 ## Energy Department adds helium to critical materials list
 
 **Subtype:** fact

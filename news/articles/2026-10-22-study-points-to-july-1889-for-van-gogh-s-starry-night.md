@@ -2,8 +2,16 @@
 headline: Study points to July 1889 for Van Gogh’s ‘Starry Night’
 secondary_headline: Nearby dates and a multi-night composite remain possible
 publish_date: '2026-10-22'
-lede: A South Korean research team reported Thursday that the sky most similar to Vincent van Gogh’s “The Starry Night” occurred over Saint-Remy de Provence around July 22, 1889. The proposed date is about a month later than the long-accepted June 1889 timeframe for the painting. Elijah Jeong-hyun Kim said nearby days could also have inspired the painting, while physicist Jose Luis Aragon said the sky is likely a composite of many nights.
-nut_graf: The comparison gives art historians a concrete astronomical reference for dating the work, but it does not settle July 22 or a single-night origin. Aragon said the broader message is that Van Gogh watched the real sky closely, while the painted sky likely combines multiple nights.
+lede: A South Korean research team reported Thursday that the sky most similar to
+  Vincent van Gogh’s “The Starry Night” occurred over Saint-Remy de Provence around
+  July 22, 1889. The proposed date is about a month later than the long-accepted June
+  1889 timeframe for the painting. Elijah Jeong-hyun Kim said nearby days could also
+  have inspired the painting, while physicist Jose Luis Aragon said the sky is likely
+  a composite of many nights.
+nut_graf: The comparison gives art historians a concrete astronomical reference for
+  dating the work, but it does not settle July 22 or a single-night origin. Aragon
+  said the broader message is that Van Gogh watched the real sky closely, while the
+  painted sky likely combines multiple nights.
 primary_entities:
 - Vincent van Gogh
 - The Starry Night
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -73,24 +82,8 @@ cross_article_links:
   strength: 0.5227
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-08-05-scientists-capture-sharpest-images-yet-of-the-sun-s-surface
-  headline: Scientists capture sharpest images yet of the Sun’s surface
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5426
-- slug: 2026-02-23-six-planets-to-parade-across-night-sky-at-month-s-end
-  headline: Six planets to parade across night sky at month's end
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.5573
-- slug: 2026-04-25-updated-chile-telescope-image-shows-sombrero-galaxy-in-greater-detail
-  headline: Updated Chile telescope image shows Sombrero Galaxy in greater detail
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5111
+related_stories: []
 ---
-
 ## Study points to July 1889 for Van Gogh’s ‘Starry Night’
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
-headline: Deer Park football fans weigh economy, immigration and a tight governor race
-secondary_headline: Statewide races are effectively tied as voters describe different priorities
+headline: Deer Park football fans weigh economy, immigration and a tight governor
+  race
+secondary_headline: Statewide races are effectively tied as voters describe different
+  priorities
 publish_date: '2026-10-23'
-lede: Bianca Seward interviewed voters at Deer Park High School's homecoming game while recent polling put Democrats Gina Hinojosa and James Talarico in effectively tied races with Gov. Greg Abbott and Attorney General Ken Paxton. The interviews included Democratic optimism, Republican confidence and an undecided voter weighing rising prices and whether to participate in the midterms.
-nut_graf: NPR reported that Texas has been a safe Republican state for three decades, but polling suggests next month's midterms could be tight. The Deer Park accounts illustrated different voter priorities as both statewide contests polled as effectively tied, while Seward said either party would need voters willing to participate in the fourth quarter.
+lede: Bianca Seward interviewed voters at Deer Park High School's homecoming game
+  while recent polling put Democrats Gina Hinojosa and James Talarico in effectively
+  tied races with Gov. Greg Abbott and Attorney General Ken Paxton. The interviews
+  included Democratic optimism, Republican confidence and an undecided voter weighing
+  rising prices and whether to participate in the midterms.
+nut_graf: NPR reported that Texas has been a safe Republican state for three decades,
+  but polling suggests next month's midterms could be tight. The Deer Park accounts
+  illustrated different voter priorities as both statewide contests polled as effectively
+  tied, while Seward said either party would need voters willing to participate in
+  the fourth quarter.
 primary_entities:
 - Bianca Seward
 - Houston Public Media
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,108 +72,28 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories:
+- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
+  headline: Talarico and Paxton enter final stretch of Texas Senate race
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.6571
 - slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
   headline: Talarico says Musk is backing Paxton at UT Austin rally
   publish_date: '2026-10-24'
   relation: related
   strength: 0.6518
-- slug: 2026-10-21-neil-bush-says-he-cast-early-ballot-for-talarico-in-texas-senate-race
-  headline: Neil Bush says he cast early ballot for Talarico in Texas Senate race
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6427
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6359
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6351
-- slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
-  headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6428
-- slug: 2026-10-07-paxton-tells-donors-iran-war-and-fuel-prices-are-republicans-biggest-problem
-  headline: Paxton tells donors Iran war and fuel prices are Republicans' biggest problem
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6453
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6493
-- slug: 2026-10-06-morning-edition-launches-six-state-midterm-reporting-tour
-  headline: Morning Edition launches six-state midterm reporting tour
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6417
-- slug: 2026-10-04-texas-democrat-bobby-pulido-courts-latino-voters-with-quincea-era-appearances
-  headline: Texas Democrat Bobby Pulido courts Latino voters with quinceañera appearances
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6395
 - slug: 2026-09-29-miami-dade-voters-fault-trump-immigration-enforcement-ahead-of-midterms
   headline: Miami-Dade voters fault Trump immigration enforcement ahead of midterms
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6535
-- slug: 2026-09-27-democratic-clergy-and-seminary-students-run-for-congress-on-christian-faith
-  headline: Democratic clergy and seminary students run for Congress on Christian faith
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6473
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6437
-- slug: 2026-09-10-talarico-challenges-paxton-to-act-for-epstein-survivors-in-dallas
-  headline: Talarico challenges Paxton to act for Epstein survivors in Dallas
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.641
-- slug: 2026-08-25-annenberg-finds-61-oppose-new-datacenters-as-paxton-unveils-texas-first-plan
-  headline: Annenberg finds 61% oppose new datacenters as Paxton unveils Texas-first plan
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6341
-- slug: 2026-07-23-hinojosa-seizes-on-data-center-backlash-in-longshot-texas-governor-run
-  headline: Hinojosa seizes on data center backlash in longshot Texas governor run
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6406
-- slug: 2026-07-25-talarico-courts-border-hispanic-voters-in-texas-senate-race
-  headline: Talarico courts border Hispanic voters in Texas Senate race
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6356
+  strength: 0.6531
 - slug: 2026-04-10-dingell-watches-el-sayed-rally-seeing-frustration-and-hope-among-young-voters
-  headline: Dingell watches El-Sayed rally, seeing frustration and hope among young voters
+  headline: Dingell watches El-Sayed rally, seeing frustration and hope among young
+    voters
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.6517
-- slug: 2026-05-21-trump-s-2024-latino-gains-face-midterm-test-as-ice-raids-and-costs-strain-househ
-  headline: Trump's 2024 Latino gains face midterm test as ICE raids and costs strain households
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6332
-- slug: 2026-03-04-talarico-wins-texas-senate-democratic-nomination-cornyn-paxton-face-off
-  headline: Talarico wins Texas Senate Democratic nomination; Cornyn, Paxton face off
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6427
-- slug: 2026-02-24-trump-backs-newcomer-over-former-congresswoman-in-texas-primary
-  headline: Trump backs newcomer over former congresswoman in Texas primary
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6398
+  strength: 0.6515
 ---
-
 ## Deer Park football fans weigh economy, immigration and a tight governor race
 
 **Subtype:** fact

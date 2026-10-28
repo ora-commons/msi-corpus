@@ -1,9 +1,22 @@
 ---
-headline: Some K-12 districts ban caffeine pouches over nicotine resemblance and teen health
-secondary_headline: Some pouches hold 200 milligrams of caffeine, American Academy of Pediatrics says
+headline: Some K-12 districts ban caffeine pouches over nicotine resemblance and teen
+  health
+secondary_headline: Some pouches hold 200 milligrams of caffeine, American Academy
+  of Pediatrics says
 publish_date: '2026-10-22'
-lede: Some K-12 school districts across the United States have banned caffeine pouches, the small packets that have drawn attention from health experts, school officials and parents. The pouches are marketed as a portable and discreet way to boost energy and focus, and some contain as much as 200 milligrams of caffeine, about the amount in two cups of coffee, according to the American Academy of Pediatrics. Caffeine pouches also closely resemble nicotine products, raising concerns among school officials about student health and about how difficult the products are to distinguish from one another.
-nut_graf: No federal minimum purchase age applies to caffeine pouches. Health experts warn that consuming too much caffeine can cause serious side effects, including increased heart rate, especially in children and teens. School officials cite student health, classroom distractions and the products' resemblance to nicotine products as reasons for restrictions.
+lede: Some K-12 school districts across the United States have banned caffeine pouches,
+  the small packets that have drawn attention from health experts, school officials
+  and parents. The pouches are marketed as a portable and discreet way to boost energy
+  and focus, and some contain as much as 200 milligrams of caffeine, about the amount
+  in two cups of coffee, according to the American Academy of Pediatrics. Caffeine
+  pouches also closely resemble nicotine products, raising concerns among school officials
+  about student health and about how difficult the products are to distinguish from
+  one another.
+nut_graf: No federal minimum purchase age applies to caffeine pouches. Health experts
+  warn that consuming too much caffeine can cause serious side effects, including
+  increased heart rate, especially in children and teens. School officials cite student
+  health, classroom distractions and the products' resemblance to nicotine products
+  as reasons for restrictions.
 primary_entities:
 - American Academy of Pediatrics
 - United States
@@ -34,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -132,108 +146,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-11-american-academy-of-pediatrics-calls-for-ban-on-raw-milk-sales
-  headline: American Academy of Pediatrics calls for ban on raw milk sales
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5927
-- slug: 2026-10-08-pediatricians-group-renews-call-for-ban-on-raw-milk-sales
-  headline: Pediatricians group renews call for ban on raw milk sales
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5869
-- slug: 2026-09-23-fda-plans-to-speed-authorization-of-flavored-vapes-and-nicotine-pouches
-  headline: FDA plans to speed authorization of flavored vapes and nicotine pouches
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6406
-- slug: 2026-09-25-investigators-find-kratom-with-two-deceased-university-of-mississippi-students
-  headline: Investigators find kratom with two deceased University of Mississippi students
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.585
-- slug: 2026-09-14-nyc-council-members-call-for-ban-on-student-youtube-use-in-schools
-  headline: NYC Council members call for ban on student YouTube use in schools
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6106
-- slug: 2026-09-13-us-schools-police-warn-of-viral-cat-in-the-hat-trend-after-teen-arrests
-  headline: US schools, police warn of viral Cat in the Hat trend after teen arrests
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5817
-- slug: 2026-09-09-pennsylvania-sues-tiktok-alleges-platform-designed-addictive-features-for-youth
-  headline: Pennsylvania sues TikTok, alleges platform designed addictive features for youth
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5914
-- slug: 2026-09-09-philip-morris-expands-zyn-lineup-with-new-strengths-zyn-ultra
-  headline: Philip Morris expands Zyn lineup with new strengths, Zyn Ultra
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5902
-- slug: 2026-08-31-parents-sue-lower-merion-school-district-over-student-internet-use
-  headline: Parents sue Lower Merion school district over student internet use
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5861
-- slug: 2026-08-13-teens-build-tech-free-alternatives-as-school-phone-bans-spread
-  headline: Teens build tech-free alternatives as school phone bans spread
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6155
-- slug: 2026-08-19-schools-reported-nearly-32-000-paddling-cases-in-2021-22-federal-data-shows
-  headline: Schools reported nearly 32,000 paddling cases in 2021-22, federal data shows
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5932
-- slug: 2026-05-23-fda-staff-blindsided-by-new-vaping-policy-that-allows-more-e-cigarettes-and-nico
-  headline: FDA staff blindsided by new vaping policy that allows more e‑cigarettes and nicotine pouches
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6421
-- slug: 2026-06-30-fda-allows-zyn-to-market-nicotine-pouches-as-less-harmful-than-cigarettes
-  headline: FDA allows Zyn to market nicotine pouches as less harmful than cigarettes
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6003
-- slug: 2026-07-06-study-links-air-pollution-to-childhood-obesity-through-impulse-control
-  headline: Study links air pollution to childhood obesity through impulse control
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5926
 - slug: 2026-01-22-fda-leans-toward-approving-zyn-reduced-risk-marketing-claims
   headline: FDA leans toward approving Zyn reduced-risk marketing claims
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.6565
-- slug: 2026-05-26-nationwide-backlash-against-school-issued-devices-grows-as-los-angeles-leads-cra
-  headline: Nationwide backlash against school-issued devices grows as Los Angeles leads crackdown
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6189
-- slug: 2026-05-22-fda-vaping-policy-blindsided-regulators-staffers-say-memo-eased-market-rules
-  headline: FDA vaping policy blindsided regulators; staffers say memo eased market rules
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6186
-- slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
-  headline: School screen bans risk isolating millions of students with disabilities
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6072
-- slug: 2026-05-27-fda-staffers-blindsided-by-new-vaping-policy-easing-e-cigarette-access
-  headline: FDA staffers blindsided by new vaping policy easing e‑cigarette access
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6062
-- slug: 2026-05-15-pennsylvania-district-rejects-parent-push-to-let-students-opt-out-of-classroom-l
-  headline: Pennsylvania district rejects parent push to let students opt out of classroom laptops
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6047
+  strength: 0.6563
 ---
-
 ## Some K-12 districts ban caffeine pouches over nicotine resemblance and teen health
 
 **Subtype:** fact

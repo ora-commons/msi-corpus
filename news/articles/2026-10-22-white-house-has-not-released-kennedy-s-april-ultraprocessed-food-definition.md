@@ -1,9 +1,24 @@
 ---
 headline: White House has not released Kennedy's April ultraprocessed food definition
-secondary_headline: Allison Schuster praises Means' MAHA work as advocates cite food security and glyphosate
+secondary_headline: Allison Schuster praises Means' MAHA work as advocates cite food
+  security and glyphosate
 publish_date: '2026-10-22'
-lede: The Trump administration has not released the first-ever government definition of ultraprocessed food that Health Secretary Robert F. Kennedy Jr. promised in April, according to The Associated Press. FDA acting commissioner Kyle Diamantas told a conference that month that defining the class "is really hard," and an August announcement that Kennedy staffers had suggested was imminent focused on a proposal bringing greater scrutiny of food additives, mentioning ultraprocessed foods only in passing. Leading Make America Healthy Again figures have expressed discontent with what they say is the administration's lack of progress on food security and regulating the weed killer glyphosate.
-nut_graf: Calley Means' departure comes as the administration's food reforms progress slowly and leading MAHA figures criticize the lack of progress on food security and glyphosate. From his Health and Human Services position, Means criticized leading physician groups, federal agencies and government scientists, which he said protect only their own interests. Other MAHA figures wanted Kennedy to focus more heavily on "medical freedom" issues, which for many meant rolling back federal recommendations and approvals for vaccines.
+lede: The Trump administration has not released the first-ever government definition
+  of ultraprocessed food that Health Secretary Robert F. Kennedy Jr. promised in April,
+  according to The Associated Press. FDA acting commissioner Kyle Diamantas told a
+  conference that month that defining the class "is really hard," and an August announcement
+  that Kennedy staffers had suggested was imminent focused on a proposal bringing
+  greater scrutiny of food additives, mentioning ultraprocessed foods only in passing.
+  Leading Make America Healthy Again figures have expressed discontent with what they
+  say is the administration's lack of progress on food security and regulating the
+  weed killer glyphosate.
+nut_graf: Calley Means' departure comes as the administration's food reforms progress
+  slowly and leading MAHA figures criticize the lack of progress on food security
+  and glyphosate. From his Health and Human Services position, Means criticized leading
+  physician groups, federal agencies and government scientists, which he said protect
+  only their own interests. Other MAHA figures wanted Kennedy to focus more heavily
+  on "medical freedom" issues, which for many meant rolling back federal recommendations
+  and approvals for vaccines.
 primary_entities:
 - Calley Means
 - Robert F. Kennedy Jr.
@@ -47,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +162,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-calley-means-quits-kennedy-adviser-role-in-trump-administration-amid-food-policy
-  headline: Calley Means quits Kennedy adviser role in Trump administration amid food-policy delays
+  headline: Calley Means quits Kennedy adviser role in Trump administration amid food-policy
+    delays
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.772
+  strength: 0.7726
 - slug: 2026-10-22-calley-means-cites-maha-wins-as-movement-frustration-grows
   headline: Calley Means cites MAHA wins as movement frustration grows
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7553
+  strength: 0.7567
 - slug: 2026-09-29-white-house-resistance-stalls-kennedy-s-ultraprocessed-food-push
   headline: White House resistance stalls Kennedy's ultraprocessed food push
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8292
+  strength: 0.8291
 - slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
   headline: FDA proposes allowing some chemicals into food without safety review
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6656
+  strength: 0.6666
 - slug: 2026-10-04-vance-courts-maha-movement-as-2028-positioning-intensifies
   headline: Vance courts MAHA movement as 2028 positioning intensifies
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.655
+  strength: 0.6564
 - slug: 2026-09-13-maha-food-agenda-shows-limits-as-outbreaks-cuts-mount
   headline: MAHA food agenda shows limits as outbreaks, cuts mount
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7117
-- slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6439
+  strength: 0.7131
 - slug: 2026-08-28-trump-picks-overton-to-lead-fda-amid-record-foodborne-outbreaks
   headline: Trump picks Overton to lead FDA amid record foodborne outbreaks
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6862
+  strength: 0.6871
 - slug: 2026-07-10-epa-retreats-from-promised-maha-agenda-allies-say
   headline: EPA retreats from promised MAHA agenda, allies say
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7338
-- slug: 2026-08-10-fda-proposes-mandatory-notice-for-new-food-ingredients
-  headline: FDA proposes mandatory notice for new food ingredients
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6803
-- slug: 2026-08-19-trump-selects-overton-to-lead-fda
-  headline: Trump selects Overton to lead FDA
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6491
-- slug: 2026-06-05-affordability-crisis-jams-up-rfk-jr-s-food-agenda
-  headline: Affordability Crisis Jams Up RFK Jr.’s Food Agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7514
-- slug: 2026-02-26-rfk-jr-backs-u-s-pesticide-production-after-years-opposing-glyphosate
-  headline: RFK Jr. backs U.S. pesticide production after years opposing glyphosate
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6916
-- slug: 2026-05-08-fda-announces-plan-to-phase-out-synthetic-dyes-but-rulemaking-has-stalled
-  headline: FDA announces plan to phase out synthetic dyes, but rulemaking has stalled
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.669
-- slug: 2026-05-14-fda-commissioner-makary-resigns-widening-leadership-void-across-nation-s-health-
-  headline: FDA Commissioner Makary resigns, widening leadership void across nation's health agencies
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6649
-- slug: 2026-05-13-marty-makary-is-out-as-trump-s-fda-chief-acting-role-goes-to-kyle-diamantas
-  headline: Marty Makary is out as Trump’s FDA chief; acting role goes to Kyle Diamantas
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6648
-- slug: 2025-12-29-us-health-policy-dramatically-reshaped-under-rfk-jr-in-trump-s-second-term
-  headline: US health policy dramatically reshaped under RFK Jr. in Trump’s second term
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6729
-- slug: 2026-05-01-trump-withdraws-casey-means-surgeon-general-nomination-taps-nicole-saphier
-  headline: Trump withdraws Casey Means’ surgeon general nomination, taps Nicole Saphier
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6505
-- slug: 2026-05-13-fda-commissioner-marty-makary-resigns-under-pressure-from-pharma-anti-abortion-v
-  headline: FDA Commissioner Marty Makary resigns under pressure from pharma, anti-abortion, vaping allies
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6392
-- slug: 2026-05-14-makary-s-fda-resignation-widens-leadership-gap-at-hhs
-  headline: Makary’s FDA resignation widens leadership gap at HHS
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6372
+  strength: 0.7347
 ---
-
 ## White House has not released Kennedy's April ultraprocessed food definition
 
 **Subtype:** fact

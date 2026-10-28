@@ -1,9 +1,22 @@
 ---
 headline: Rick Jackson balances Trump support with softer Georgia campaign pitches
-secondary_headline: Jackson is among the largest self-funding candidates after spending nearly $200 million
+secondary_headline: Jackson is among the largest self-funding candidates after spending
+  nearly $200 million
 publish_date: '2026-10-24'
-lede: Republican Rick Jackson, a 72-year-old health care magnate and investor, is running his first campaign for Georgia governor and trying to turn a foster-care-to-billionaire story and nearly $200 million of personal spending into a closing argument in the Nov. 3 race. He launched his first company at 21; it led to Jackson Healthcare. Jackson appeared with Donald Trump at a Saturday rally in Perry, Georgia, marking his second appearance with the president, while Democratic nominee Keisha Lance Bottoms alleges he is “trying to buy this election.”
-nut_graf: The Associated Press framed the Nov. 3 contest as a test of whether an alternate, softer version of conservative billionaire politics could complement or even counter Donald Trump’s “pugilistic populism” in Georgia, a key swing state. Democratic nominee Keisha Lance Bottoms disputes Jackson’s appeal to working-class voters and alleges that he is “trying to buy this election” so he can be a Trump stooge. Jackson’s personal history and nearly $200 million in spending anchor his campaign, while Bottoms challenges his economic comments.
+lede: Republican Rick Jackson, a 72-year-old health care magnate and investor, is
+  running his first campaign for Georgia governor and trying to turn a foster-care-to-billionaire
+  story and nearly $200 million of personal spending into a closing argument in the
+  Nov. 3 race. He launched his first company at 21; it led to Jackson Healthcare.
+  Jackson appeared with Donald Trump at a Saturday rally in Perry, Georgia, marking
+  his second appearance with the president, while Democratic nominee Keisha Lance
+  Bottoms alleges he is “trying to buy this election.”
+nut_graf: The Associated Press framed the Nov. 3 contest as a test of whether an alternate,
+  softer version of conservative billionaire politics could complement or even counter
+  Donald Trump’s “pugilistic populism” in Georgia, a key swing state. Democratic nominee
+  Keisha Lance Bottoms disputes Jackson’s appeal to working-class voters and alleges
+  that he is “trying to buy this election” so he can be a Trump stooge. Jackson’s
+  personal history and nearly $200 million in spending anchor his campaign, while
+  Bottoms challenges his economic comments.
 primary_entities:
 - Rick Jackson
 - Keisha Lance Bottoms
@@ -36,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +152,46 @@ related_stories:
   headline: Tom Kean faces tight New Jersey race after months out of public view
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6542
+  strength: 0.6528
 - slug: 2026-10-16-ossoff-leads-georgia-senate-race-denies-2028-presidential-interest
   headline: Ossoff leads Georgia Senate race, denies 2028 presidential interest
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6605
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6473
+  strength: 0.6595
 - slug: 2026-09-07-collins-trails-ossoff-in-georgia-senate-race-as-family-and-staff-controversies-s
-  headline: Collins trails Ossoff in Georgia Senate race as family and staff controversies surface
+  headline: Collins trails Ossoff in Georgia Senate race as family and staff controversies
+    surface
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6769
+  strength: 0.6755
 - slug: 2026-02-04-business-owner-rick-jackson-enters-georgia-gop-governor-s-race
   headline: Business owner Rick Jackson enters Georgia GOP governor’s race
   publish_date: '2026-02-04'
   relation: related
-  strength: 0.8595
+  strength: 0.8594
 - slug: 2026-03-15-wealthy-georgian-could-wrest-gop-governor-nomination-from-trump-s-pick
   headline: Wealthy Georgian could wrest GOP governor nomination from Trump's pick
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.8027
+  strength: 0.8028
 - slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
+  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts
+    in Georgia
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7032
+  strength: 0.703
 - slug: 2026-04-23-burt-jones-record-becomes-a-battleground-in-georgia-gop-governor-primary
   headline: Burt Jones’ record becomes a battleground in Georgia GOP governor primary
   publish_date: '2026-04-23'
   relation: related
-  strength: 0.7386
+  strength: 0.7375
 - slug: 2026-04-22-burt-jones-record-becomes-battleground-against-rick-jackson-in-georgia-gop-prima
-  headline: Burt Jones' record becomes battleground against Rick Jackson in Georgia GOP primary
+  headline: Burt Jones' record becomes battleground against Rick Jackson in Georgia
+    GOP primary
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.7382
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6892
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6517
-- slug: 2026-05-12-raffensperger-running-for-georgia-governor-after-defying-trump-in-2020
-  headline: Raffensperger running for Georgia governor after defying Trump in 2020
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6877
-- slug: 2026-05-12-raffensperger-runs-for-georgia-governor-asking-republicans-to-forget-his-defianc
-  headline: Raffensperger runs for Georgia governor, asking Republicans to forget his defiance of Trump
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6847
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6747
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6709
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6646
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6763
-- slug: 2026-05-17-georgia-republicans-scramble-to-challenge-sen-jon-ossoff-in-november
-  headline: Georgia Republicans scramble to challenge Sen. Jon Ossoff in November
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6549
-- slug: 2026-04-17-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6581
-- slug: 2026-02-05-jesse-jackson-jr-seeks-comeback-for-old-house-seat-in-illinois-primary
-  headline: Jesse Jackson Jr. seeks comeback for old House seat in Illinois primary
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6676
+  strength: 0.7374
 ---
-
 ## Rick Jackson balances Trump support with softer Georgia campaign pitches
 
 **Subtype:** fact

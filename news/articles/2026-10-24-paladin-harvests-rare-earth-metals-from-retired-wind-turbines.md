@@ -1,9 +1,18 @@
 ---
 headline: Paladin harvests rare-earth metals from retired wind turbines
-secondary_headline: New turbine blades raise power output as old generators enter recycling
+secondary_headline: New turbine blades raise power output as old generators enter
+  recycling
 publish_date: '2026-10-24'
-lede: The Wall Street Journal reported that Paladin EnviroTech is harvesting rare-earth metals from retired wind turbines at MidAmerican Energy's Highland wind farm in O'Brien County, Iowa. The company says the effort can help reduce U.S. reliance on China for rare earths, which go into everything from drones to MRI scanners. MidAmerican is replacing the older units with more powerful models.
-nut_graf: 'Paladin''s project links two developments in the U.S. wind industry: utilities are replacing older turbines with more powerful models, and the U.S. is trying to reduce its reliance on China for rare earths. The effort shows the potential for domestic reuse, but turbine dismantling, material separation and access to enough feedstock remain constraints.'
+lede: The Wall Street Journal reported that Paladin EnviroTech is harvesting rare-earth
+  metals from retired wind turbines at MidAmerican Energy's Highland wind farm in
+  O'Brien County, Iowa. The company says the effort can help reduce U.S. reliance
+  on China for rare earths, which go into everything from drones to MRI scanners.
+  MidAmerican is replacing the older units with more powerful models.
+nut_graf: 'Paladin''s project links two developments in the U.S. wind industry: utilities
+  are replacing older turbines with more powerful models, and the U.S. is trying to
+  reduce its reliance on China for rare earths. The effort shows the potential for
+  domestic reuse, but turbine dismantling, material separation and access to enough
+  feedstock remain constraints.'
 primary_entities:
 - Paladin EnviroTech
 - MidAmerican Energy
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +151,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-12-iowa-steel-and-philadelphia-shipyard-projects-face-labor-and-pricing-hurdles
-  headline: Iowa steel and Philadelphia shipyard projects face labor and pricing hurdles
-  publish_date: '2026-10-12'
+- slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
+  headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.5996
-- slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6373
-- slug: 2026-09-30-pentagon-invests-65-million-in-hertha-metals-for-rare-earth-magnet-iron
-  headline: Pentagon invests $65 million in Hertha Metals for rare-earth magnet iron
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6185
-- slug: 2026-09-28-trump-to-unveil-15-billion-mesabi-metallics-steel-mill-in-iowa
-  headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5882
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5959
-- slug: 2026-08-28-pulpwood-prices-in-the-south-hit-40-year-low-as-paper-mills-close
-  headline: Pulpwood prices in the South hit 40-year low as paper mills close
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5997
-- slug: 2026-08-07-trump-administration-commits-2-billion-to-battery-mineral-firms
-  headline: Trump administration commits $2 billion to battery, mineral firms
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6295
-- slug: 2026-08-14-mining-companies-adopt-patriotic-names-creating-investor-confusion
-  headline: Mining companies adopt patriotic names, creating investor confusion
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5945
-- slug: 2026-08-03-pentagon-backs-new-hampshire-refinery-with-500m-loan-for-critical-minerals
-  headline: Pentagon backs New Hampshire refinery with $500M loan for critical minerals
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6087
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6275
+  strength: 0.6931
 - slug: 2026-06-09-western-companies-invest-in-brazil-rare-earths-to-challenge-china-s-dominance
   headline: Western companies invest in Brazil rare earths to challenge China's dominance
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6626
-- slug: 2026-06-25-army-leases-land-on-bases-for-critical-mineral-processing
-  headline: Army Leases Land on Bases for Critical Mineral Processing
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6382
-- slug: 2026-06-29-mp-materials-sues-usa-rare-earth-over-alleged-magnet-technology-theft
-  headline: MP Materials sues USA Rare Earth over alleged magnet technology theft
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6311
-- slug: 2026-06-01-usa-rare-earth-plans-200-million-france-expansion-to-cut-china-reliance
-  headline: USA Rare Earth plans $200 million France expansion to cut China reliance
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6367
-- slug: 2026-06-18-amanda-lacaze-built-a-western-rare-earths-giant-now-she-s-stepping-down
-  headline: Amanda Lacaze built a Western rare-earths giant. Now she's stepping down
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6075
-- slug: 2026-04-20-us-backs-south-africa-rare-earths-project-to-counter-china
-  headline: US backs South Africa rare earths project to counter China
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6175
-- slug: 2026-01-26-commerce-dept-invests-1-6b-in-rare-earth-miner-usa-rare-earth
-  headline: Commerce Dept invests $1.6B in rare earth miner USA Rare Earth
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6264
-- slug: 2026-02-03-trump-launches-project-vault-rare-earths-reserve-with-12b-plan
-  headline: Trump launches “Project Vault” rare-earths reserve with $12B plan
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6149
-- slug: 2026-01-11-greenland-rare-earth-mining-faces-years-of-obstacles-regardless-of-trump-push-ex
-  headline: Greenland rare earth mining faces years of obstacles regardless of Trump push, experts say
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6158
-- slug: 2026-05-19-new-england-grid-operator-forecasts-9-electricity-demand-growth-over-next-decade
-  headline: New England grid operator forecasts 9% electricity demand growth over next decade
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.586
+  strength: 0.6644
 ---
-
 ## Paladin harvests rare-earth metals from retired wind turbines
 
 **Subtype:** fact

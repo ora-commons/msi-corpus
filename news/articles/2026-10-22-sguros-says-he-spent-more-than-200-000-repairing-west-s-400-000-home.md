@@ -1,9 +1,23 @@
 ---
 headline: Sguros says he spent more than $200,000 repairing West’s $400,000 home
-secondary_headline: Sguros described a trash-filled, unstable house with a partially collapsed roof
+secondary_headline: Sguros described a trash-filled, unstable house with a partially
+  collapsed roof
 publish_date: '2026-10-22'
-lede: In an affidavit, Brian Sguros said he took possession of Dennis West’s $400,000 Lauderhill home in August 2022, less than a month after finding West dead inside it, and spent more than $200,000 of his own money on repairs over the next 2 1/2 years. He described the two-story home in a tidy neighborhood just outside Fort Lauderdale as filled with trash, with a partially collapsed roof and an unstable structure. Sguros said he took the property to prevent squatters and argued that cleaning, securing and restoring the dangerous, abandoned residence was lawful and responsible.
-nut_graf: The case places Sguros’s claimed cleanup-and-restoration work against investigators’ allegation that he used West’s identification to pay taxes and obtain permits while making it appear West was still alive. Sguros said he cleaned, secured and restored an abandoned residence to protect the surrounding community; investigators describe his conduct as a “complex scheme” to take control of the property. The five felony charges include official misconduct and criminal use of deceased personal identification, and Sguros has been suspended from his Lauderhill job.
+lede: In an affidavit, Brian Sguros said he took possession of Dennis West’s $400,000
+  Lauderhill home in August 2022, less than a month after finding West dead inside
+  it, and spent more than $200,000 of his own money on repairs over the next 2 1/2
+  years. He described the two-story home in a tidy neighborhood just outside Fort
+  Lauderdale as filled with trash, with a partially collapsed roof and an unstable
+  structure. Sguros said he took the property to prevent squatters and argued that
+  cleaning, securing and restoring the dangerous, abandoned residence was lawful and
+  responsible.
+nut_graf: The case places Sguros’s claimed cleanup-and-restoration work against investigators’
+  allegation that he used West’s identification to pay taxes and obtain permits while
+  making it appear West was still alive. Sguros said he cleaned, secured and restored
+  an abandoned residence to protect the surrounding community; investigators describe
+  his conduct as a “complex scheme” to take control of the property. The five felony
+  charges include official misconduct and criminal use of deceased personal identification,
+  and Sguros has been suspended from his Lauderhill job.
 primary_entities:
 - Brian Sguros
 - Dennis West
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +157,14 @@ related_stories:
   headline: Brian Louis Sguros faces charges over Dennis West’s home and identity
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8862
+  strength: 0.8857
 - slug: 2026-10-22-body-camera-footage-shows-lauderhill-officer-at-welfare-check-in-identity-case
-  headline: Body-camera footage shows Lauderhill officer at welfare check in identity case
+  headline: Body-camera footage shows Lauderhill officer at welfare check in identity
+    case
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8306
-- slug: 2026-10-07-arcadia-judge-orders-couple-to-surrender-all-passports-sets-20m-bail
-  headline: Arcadia judge orders couple to surrender all passports, sets $20M bail
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5657
-- slug: 2026-09-11-california-petition-worker-arrested-for-allegedly-paying-skid-row-residents-to-f
-  headline: California petition worker arrested for allegedly paying Skid Row residents to forge signatures
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5861
-- slug: 2026-05-08-sheriff-says-evidence-suggests-human-remains-at-susan-flores-property
-  headline: Sheriff says evidence suggests human remains at Susan Flores property
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6102
-- slug: 2026-05-07-search-in-kristin-smart-case-turns-up-evidence-of-human-remains-at-home
-  headline: Search in Kristin Smart case turns up evidence of human remains at home
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6087
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5964
-- slug: 2026-05-31-family-linked-to-homeless-housing-supplier-accused-of-fake-prayer-tax-scheme
-  headline: Family linked to homeless housing supplier accused of fake prayer tax scheme
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5808
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.59
-- slug: 2026-01-05-man-detained-after-breaking-windows-at-vp-vance-s-cincinnati-home-secret-service
-  headline: Man detained after breaking windows at VP Vance's Cincinnati home, Secret Service says
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6084
-- slug: 2026-01-14-grand-jury-indicts-suspect-in-vandalism-of-vance-s-ohio-home
-  headline: Grand jury indicts suspect in vandalism of Vance's Ohio home
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6051
-- slug: 2026-05-06-search-continues-outside-a-home-tied-to-kristin-smart-s-killer
-  headline: Search continues outside a home tied to Kristin Smart's killer
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5815
-- slug: 2026-01-14-grand-jury-indicts-cincinnati-man-on-federal-charges-in-vandalism-of-vp-vance-s-
-  headline: Grand jury indicts Cincinnati man on federal charges in vandalism of VP Vance's Ohio home
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6031
-- slug: 2026-01-20-vandalism-suspect-in-vp-vance-s-ohio-home-pleads-not-guilty
-  headline: Vandalism suspect in VP Vance's Ohio home pleads not guilty
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6024
-- slug: 2026-05-05-us-charges-man-who-used-astor-name-to-steal-about-450-million
-  headline: US charges man who used Astor name to steal about $450 million
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5766
-- slug: 2026-01-06-man-arraigned-on-state-and-federal-charges-in-vandalism-of-vp-vance-s-ohio-home
-  headline: Man arraigned on state and federal charges in vandalism of VP Vance's Ohio home
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.5972
-- slug: 2026-05-10-sheriff-completes-kristin-smart-home-search-without-finding-her-remains
-  headline: Sheriff completes Kristin Smart home search without finding her remains
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5727
-- slug: 2026-05-07-us-authorities-charge-man-with-duping-mexican-billionaire-out-of-450-million
-  headline: US authorities charge man with duping Mexican billionaire out of $450 million
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5738
-- slug: 2026-05-07-scientists-take-soil-samples-outside-home-tied-to-kristin-smart-case
-  headline: Scientists take soil samples outside home tied to Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5684
-- slug: 2026-05-06-us-authorities-charge-man-using-astor-name-to-steal-450-million-from-mexican-bil
-  headline: US authorities charge man using Astor name to steal $450 million from Mexican billionaire
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5668
+  strength: 0.8298
 ---
-
 ## Sguros says he spent more than $200,000 repairing West’s $400,000 home
 
 **Subtype:** fact

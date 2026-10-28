@@ -1,9 +1,26 @@
 ---
 headline: Prosecutors charge 15 over alleged healthcare fraud in Southern California
-secondary_headline: Network of fake substance-abuse treatment centers allegedly collected more than $1.5 billion
+secondary_headline: Network of fake substance-abuse treatment centers allegedly collected
+  more than $1.5 billion
 publish_date: '2026-10-22'
-lede: The U.S. Department of Justice and state prosecutors charged 15 people in Southern California with alleged healthcare fraud and alleged nearly $2 billion in fraudulent healthcare costs; prosecutors said at least eight of the 15 charged people had been arrested. Federal authorities arrested chiropractor Hany Malek, 61, and the charges named surgeon Harold Tabaie, 78; prosecutors alleged the pair made roughly $134 million through medically unnecessary procedures. No attorneys were listed for either man, and efforts to reach them through phones listed on public records were unsuccessful Thursday morning. At least six of the 15 charged people were doctors, including one accused of performing unnecessary and invasive surgeries to bill Medicaid for over $130 million; prosecutors also alleged that dozens of fake substance-abuse treatment centers collected more than $1.5 billion for addiction treatment that was never provided.
-nut_graf: 'The case alleges nearly $2 billion in fraudulent healthcare costs connected to substance-abuse treatment centers, hospice services and surgeons, with at least six doctors among the 15 charged people. The announcement was followed by a dispute over federal and California responsibility: Gov. Gavin Newsom said most of the fraud targeted in Thursday''s raid was for federal or private insurance, while California helped target the case affecting state-funded public insurance.'
+lede: The U.S. Department of Justice and state prosecutors charged 15 people in Southern
+  California with alleged healthcare fraud and alleged nearly $2 billion in fraudulent
+  healthcare costs; prosecutors said at least eight of the 15 charged people had been
+  arrested. Federal authorities arrested chiropractor Hany Malek, 61, and the charges
+  named surgeon Harold Tabaie, 78; prosecutors alleged the pair made roughly $134
+  million through medically unnecessary procedures. No attorneys were listed for either
+  man, and efforts to reach them through phones listed on public records were unsuccessful
+  Thursday morning. At least six of the 15 charged people were doctors, including
+  one accused of performing unnecessary and invasive surgeries to bill Medicaid for
+  over $130 million; prosecutors also alleged that dozens of fake substance-abuse
+  treatment centers collected more than $1.5 billion for addiction treatment that
+  was never provided.
+nut_graf: 'The case alleges nearly $2 billion in fraudulent healthcare costs connected
+  to substance-abuse treatment centers, hospice services and surgeons, with at least
+  six doctors among the 15 charged people. The announcement was followed by a dispute
+  over federal and California responsibility: Gov. Gavin Newsom said most of the fraud
+  targeted in Thursday''s raid was for federal or private insurance, while California
+  helped target the case affecting state-funded public insurance.'
 primary_entities:
 - U.S. Department of Justice
 - National Fraud Enforcement Division
@@ -41,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +161,45 @@ related_stories:
   headline: Federal prosecutors charge Nathan Young and his father in healthcare fraud
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7358
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6563
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6439
+  strength: 0.7223
 - slug: 2026-10-09-oklahoma-chiropractor-gets-14-years-for-30m-fraud-targeting-medicare-tricare-cha
-  headline: Oklahoma chiropractor gets 14 years for $30M fraud targeting Medicare, TRICARE, CHAMPVA
+  headline: Oklahoma chiropractor gets 14 years for $30M fraud targeting Medicare,
+    TRICARE, CHAMPVA
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6613
-- slug: 2026-09-22-cms-creates-anti-fraud-coordination-group-after-315-000-enrollment-cancellations
-  headline: CMS creates anti-fraud coordination group after 315,000 enrollment cancellations
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6632
+  strength: 0.6696
 - slug: 2026-08-27-trump-administration-removes-more-than-1-000-california-hospices-from-medicare
-  headline: Trump administration removes more than 1,000 California hospices from Medicare
+  headline: Trump administration removes more than 1,000 California hospices from
+    Medicare
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6794
-- slug: 2026-06-23-justice-department-unveils-6-5-billion-healthcare-fraud-crackdown
-  headline: Justice Department unveils $6.5 billion healthcare fraud crackdown
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7841
-- slug: 2026-04-03-federal-officials-arrest-8-in-los-angeles-area-medicare-health-care-fraud
-  headline: Federal officials arrest 8 in Los Angeles-area Medicare health care fraud
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.8033
-- slug: 2026-08-27-california-lawmakers-weigh-liability-caps-as-abuse-claims-drive-billions-in-cost
-  headline: California lawmakers weigh liability caps as abuse claims drive billions in costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6383
-- slug: 2026-08-03-complete-health-agrees-to-14-1-million-medicare-settlement
-  headline: Complete Health agrees to $14.1 million Medicare settlement
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6833
-- slug: 2026-08-18-illinois-man-pleads-not-guilty-in-alleged-ozempic-fraud-scheme
-  headline: Illinois man pleads not guilty in alleged Ozempic fraud scheme
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6511
+  strength: 0.658
 - slug: 2026-06-04-doj-secures-6-healthcare-fraud-convictions-in-3-weeks
   headline: DOJ secures 6 healthcare fraud convictions in 3 weeks
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7462
+  strength: 0.7459
+- slug: 2026-06-23-justice-department-unveils-6-5-billion-healthcare-fraud-crackdown
+  headline: Justice Department unveils $6.5 billion healthcare fraud crackdown
+  publish_date: '2026-06-23'
+  relation: related
+  strength: 0.7281
+- slug: 2026-04-03-federal-officials-arrest-8-in-los-angeles-area-medicare-health-care-fraud
+  headline: Federal officials arrest 8 in Los Angeles-area Medicare health care fraud
+  publish_date: '2026-04-03'
+  relation: related
+  strength: 0.7558
 - slug: 2026-04-10-state-ag-rob-bonta-charges-21-in-hospice-services-fraud-scheme
   headline: State AG Rob Bonta charges 21 in hospice services fraud scheme
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.7604
-- slug: 2026-07-21-hhs-halts-1-billion-in-medicaid-payments-after-ai-flagged-potential-fraud
-  headline: HHS halts $1 billion in Medicaid payments after AI flagged potential fraud
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6855
-- slug: 2026-05-14-vance-announces-1-3b-medicaid-deferral-to-california-over-fraud-suspicions
-  headline: Vance announces $1.3B Medicaid deferral to California over fraud suspicions
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.691
+  strength: 0.7091
 - slug: 2026-05-14-vance-announces-1-3b-medicaid-deferral-medicare-hospice-enrollment-freeze
   headline: Vance announces $1.3B Medicaid deferral, Medicare hospice enrollment freeze
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6846
-- slug: 2026-04-24-federal-authorities-arrest-mexican-mafia-members-in-california-sweep
-  headline: Federal authorities arrest Mexican Mafia members in California sweep
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6638
-- slug: 2026-01-15-kaiser-affiliates-to-pay-556m-to-settle-medicare-fraud-lawsuit
-  headline: Kaiser affiliates to pay $556M to settle Medicare fraud lawsuit
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.675
-- slug: 2026-04-11-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6583
-- slug: 2026-03-04-trump-administration-launches-medicaid-fraud-probe-in-new-york
-  headline: Trump administration launches Medicaid fraud probe in New York
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6596
+  strength: 0.6637
 ---
-
 ## Prosecutors charge 15 over alleged healthcare fraud in Southern California
 
 **Subtype:** fact

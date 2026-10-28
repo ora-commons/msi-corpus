@@ -1,9 +1,19 @@
 ---
-headline: Six Flags to reinforce employee training and safety reviews after Goliath death
+headline: Six Flags to reinforce employee training and safety reviews after Goliath
+  death
 secondary_headline: Six Flags says it continues cooperating with ongoing investigations
 publish_date: '2026-10-24'
-lede: Six Flags said Friday it will reinforce safety precautions and employee training nearly two weeks after a man died after falling from the Goliath roller coaster at Six Flags Over Georgia on Oct. 12. President and CEO John Reilly said the company has hired independent engineers and ride inspection specialists to review safety procedures at all its parks, and Six Flags said it continues to cooperate with ongoing investigations into the fatal accident.
-nut_graf: Reilly said independent engineers and ride inspection specialists would review safety procedures at all Six Flags parks, and the company would install seat belts on Goliath and other rides with similar restraints. Goliath remains closed pending safety reviews and clearances, along with eight other rides at five Six Flags parks that were temporarily shut down as a precaution.
+lede: Six Flags said Friday it will reinforce safety precautions and employee training
+  nearly two weeks after a man died after falling from the Goliath roller coaster
+  at Six Flags Over Georgia on Oct. 12. President and CEO John Reilly said the company
+  has hired independent engineers and ride inspection specialists to review safety
+  procedures at all its parks, and Six Flags said it continues to cooperate with ongoing
+  investigations into the fatal accident.
+nut_graf: Reilly said independent engineers and ride inspection specialists would
+  review safety procedures at all Six Flags parks, and the company would install seat
+  belts on Goliath and other rides with similar restraints. Goliath remains closed
+  pending safety reviews and clearances, along with eight other rides at five Six
+  Flags parks that were temporarily shut down as a precaution.
 primary_entities:
 - Six Flags
 - Six Flags Over Georgia
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,6 +159,12 @@ related_stories:
   publish_date: '2026-10-24'
   relation: related
   strength: 0.8563
+- slug: 2026-10-24-seaworld-and-la-ronde-close-rides-using-similar-restraints-after-goliath-death
+  headline: SeaWorld and La Ronde close rides using similar restraints after Goliath
+    death
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.7856
 - slug: 2026-10-14-six-flags-temporarily-closes-10-coasters-after-georgia-rider-death
   headline: Six Flags temporarily closes 10 coasters after Georgia rider death
   publish_date: '2026-10-14'
@@ -173,73 +190,7 @@ related_stories:
   publish_date: '2026-10-12'
   relation: related
   strength: 0.7921
-- slug: 2026-10-13-six-flags-closes-similar-attractions-across-parks-after-fatal-georgia-incident
-  headline: Six Flags closes similar attractions across parks after fatal Georgia incident
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7793
-- slug: 2026-10-13-atlanta-educator-fatally-ejected-from-six-flags-rollercoaster
-  headline: Atlanta educator fatally ejected from Six Flags rollercoaster
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.752
-- slug: 2026-09-29-three-neurosurgeons-link-x2-riders-brain-injuries-to-ride-mechanics
-  headline: Three neurosurgeons link X2 riders' brain injuries to ride mechanics
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6743
-- slug: 2026-09-29-six-flags-permanently-retires-x2-coaster-as-injury-allegations-exceed-100
-  headline: Six Flags permanently retires X2 coaster as injury allegations exceed 100
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6715
-- slug: 2026-09-29-wisner-calls-for-government-oversight-of-amusement-rides-after-x2-closure
-  headline: Wisner calls for government oversight of amusement rides after X2 closure
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6575
-- slug: 2026-08-28-six-flags-shuts-x2-rollercoaster-after-riders-report-brain-injuries
-  headline: Six Flags shuts X2 rollercoaster after riders report brain injuries
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6848
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5993
-- slug: 2026-01-22-faa-makes-permanent-safety-rules-from-d-c-plane-crash
-  headline: FAA makes permanent safety rules from D.C. plane crash
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6323
-- slug: 2026-05-15-denver-runway-fatality-reveals-airport-perimeter-security-weakness
-  headline: Denver runway fatality reveals airport perimeter security weakness
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6027
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6133
-- slug: 2026-03-29-3-killed-in-tour-company-helicopter-crash-on-kauai-s-na-pali-coast
-  headline: 3 killed in tour company helicopter crash on Kauai’s Na Pali Coast
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6109
-- slug: 2026-01-25-ntsb-to-probe-dc-midair-collision-recommend-fixes-to-prevent-repeats
-  headline: NTSB to probe DC midair collision, recommend fixes to prevent repeats
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6146
-- slug: 2025-12-31-disney-world-worker-injured-stopping-runaway-prop-boulder-at-indiana-jones-show
-  headline: Disney World worker injured stopping runaway prop boulder at Indiana Jones show
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6081
 ---
-
 ## Six Flags to reinforce employee training and safety reviews after Goliath death
 
 **Subtype:** fact

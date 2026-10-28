@@ -1,9 +1,19 @@
 ---
-headline: Honduran government uses cloud seeding to seek rain for drought-stricken farms
+headline: Honduran government uses cloud seeding to seek rain for drought-stricken
+  farms
 secondary_headline: Dried corn and bean crops leave subsistence farmers without food
 publish_date: '2026-10-21'
-lede: In Nueva Concepcion, Honduras, a government cloud-seeding operation is trying to produce rain over parched corn fields and help farmers and their crops survive months of drought. Pilot Victor Torres flies a small plane over the rugged Honduran mountains while a technician sprays yellow silver iodide particles into the sky from a large metal tank.
-nut_graf: The stakes extend beyond Honduras' corn fields. The Associated Press reported that El Niño, scrambling weather worldwide and now exacerbated by warming seas, has devastated communities across the Central American Dry Corridor, an arid region from southern Mexico through Panama. Across the corridor, corn and bean crops have dried up, leaving subsistence farmers without food; cattle have died or been sold off, coffee plantations have withered and shrimp farms have lost production.
+lede: In Nueva Concepcion, Honduras, a government cloud-seeding operation is trying
+  to produce rain over parched corn fields and help farmers and their crops survive
+  months of drought. Pilot Victor Torres flies a small plane over the rugged Honduran
+  mountains while a technician sprays yellow silver iodide particles into the sky
+  from a large metal tank.
+nut_graf: The stakes extend beyond Honduras' corn fields. The Associated Press reported
+  that El Niño, scrambling weather worldwide and now exacerbated by warming seas,
+  has devastated communities across the Central American Dry Corridor, an arid region
+  from southern Mexico through Panama. Across the corridor, corn and bean crops have
+  dried up, leaving subsistence farmers without food; cattle have died or been sold
+  off, coffee plantations have withered and shrimp farms have lost production.
 primary_entities:
 - Honduras
 - Victor Torres
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +153,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-20-drought-and-el-ni-o-strain-the-panama-canal-farms-and-water-supply
-  headline: Drought and El Niño strain the Panama Canal, farms and water supply
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6147
 - slug: 2026-10-07-drone-cloud-seeding-startups-expand-amid-unresolved-safety-questions
   headline: Drone cloud-seeding startups expand amid unresolved safety questions
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6658
-- slug: 2026-10-12-carlisle-says-cover-crops-perennials-can-steady-farms-ahead-of-super-el-ni-o
-  headline: Carlisle says cover crops, perennials can steady farms ahead of super El Niño
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6181
-- slug: 2026-10-15-indonesia-to-disperse-dry-ice-over-south-sumatra-as-wildfire-haze-spreads
-  headline: Indonesia to disperse dry ice over South Sumatra as wildfire haze spreads
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5819
-- slug: 2026-10-01-noaa-scales-back-el-ni-o-research-as-super-event-peaks
-  headline: NOAA scales back El Niño research as super event peaks
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.589
-- slug: 2026-09-24-drone-strikes-halve-russian-and-ukrainian-wheat-exports
-  headline: Drone strikes halve Russian and Ukrainian wheat exports
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.591
-- slug: 2026-09-23-hurricane-polo-reaches-category-5-off-mexico-s-pacific-coast
-  headline: Hurricane Polo reaches Category 5 off Mexico's Pacific coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5784
-- slug: 2026-09-18-us-wheat-prices-hit-three-year-high-as-drought-and-black-sea-attacks-curb-supply
-  headline: US wheat prices hit three-year high as drought and Black Sea attacks curb supply
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5904
-- slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6024
-- slug: 2026-08-27-hedge-fund-manager-seeks-400-million-for-el-ni-o-commodity-fund
-  headline: Hedge fund manager seeks $400 million for El Niño commodity fund
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6085
-- slug: 2026-08-29-strong-el-ni-o-disrupts-global-commodity-and-shipping-markets
-  headline: Strong El Niño disrupts global commodity and shipping markets
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5869
-- slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
-  headline: Latin American governments prepare contingency plans for El Niño impacts
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6034
-- slug: 2026-06-09-professor-outlines-10-ways-super-el-ni-o-could-hit-global-economy-food-supply
-  headline: Professor outlines 10 ways 'super' El Niño could hit global economy, food supply
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6137
-- slug: 2026-02-05-ecuador-amazon-seed-guardian-family-battles-climate-drought-and-policy-risk
-  headline: Ecuador Amazon seed guardian family battles climate drought and policy risk
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6297
-- slug: 2026-05-23-chile-starts-border-shield-trench-work-to-deter-illegal-entry
-  headline: Chile starts “Border Shield” trench work to deter illegal entry
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.594
-- slug: 2026-05-16-small-farmers-in-a-bind-after-hawaii-s-worst-flooding-in-20-years
-  headline: Small farmers in a bind after Hawaii’s worst flooding in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5918
-- slug: 2026-05-01-how-to-use-water-wisely-for-food-gardens-during-drought
-  headline: How to use water wisely for food gardens during drought
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5905
-- slug: 2026-05-16-hawaii-s-small-farmers-face-50-million-in-damage-after-worst-floods-in-20-years
-  headline: Hawaii's small farmers face $50 million in damage after worst floods in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.578
-- slug: 2026-02-12-ecuador-family-guards-at-risk-amazon-plant-seeds-for-reforestation
-  headline: Ecuador family guards at-risk Amazon plant seeds for reforestation
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5916
-- slug: 2025-12-29-hawaii-farmers-try-to-keep-soil-from-washing-into-coastal-waters
-  headline: Hawaii farmers try to keep soil from washing into coastal waters
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.5921
+  strength: 0.6652
 ---
-
 ## Honduran government uses cloud seeding to seek rain for drought-stricken farms
 
 **Subtype:** fact

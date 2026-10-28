@@ -1,9 +1,18 @@
 ---
 headline: Obama stumps in Ohio, accuses Trump of 'corruption and incompetence'
-secondary_headline: Obama links Trump's decisions to rising costs and an 'unnecessary war'
+secondary_headline: Obama links Trump's decisions to rising costs and an 'unnecessary
+  war'
 publish_date: '2026-10-24'
-lede: Former President Barack Obama told a Cleveland crowd on Saturday that President Donald Trump's actions were "directly responsible for rising costs," as the former president stumped for Democrats in Ohio ahead of their bid to gain control of Congress in the November midterms. Obama described Trump's second term as marked by "chaos and cruelty," "corruption and incompetence," and an unnecessary war that "nobody asked for, nobody voted for."
-nut_graf: The remarks placed rising costs and the war at the center of Obama's Ohio appearances as Democrats sought congressional control. Trump, questioned in Florida the same day, said he had carried out the Iran war effectively and might finish it or reach a deal, while saying he was not sure which outcome would occur.
+lede: Former President Barack Obama told a Cleveland crowd on Saturday that President
+  Donald Trump's actions were "directly responsible for rising costs," as the former
+  president stumped for Democrats in Ohio ahead of their bid to gain control of Congress
+  in the November midterms. Obama described Trump's second term as marked by "chaos
+  and cruelty," "corruption and incompetence," and an unnecessary war that "nobody
+  asked for, nobody voted for."
+nut_graf: The remarks placed rising costs and the war at the center of Obama's Ohio
+  appearances as Democrats sought congressional control. Trump, questioned in Florida
+  the same day, said he had carried out the Iran war effectively and might finish
+  it or reach a deal, while saying he was not sure which outcome would occur.
 primary_entities:
 - Barack Obama
 - Donald Trump
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,66 +150,32 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
-  headline: Fox News poll finds government corruption outranks inflation among voters
+- slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
+  headline: Former President Obama criticizes Trump at Ohio midterm rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6299
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
+  strength: 0.8228
+- slug: 2026-10-24-obama-campaigns-for-democrats-as-trump-casts-an-early-vote
+  headline: Obama campaigns for Democrats as Trump casts an early vote
+  publish_date: '2026-10-24'
   relation: related
-  strength: 0.6351
+  strength: 0.7883
+- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
+  headline: Obama rallies for El-Sayed in Michigan Senate race
+  publish_date: '2026-10-24'
+  relation: related
+  strength: 0.6567
 - slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
   headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
   publish_date: '2026-10-03'
   relation: related
   strength: 0.652
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6456
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6373
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6329
-- slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
-  headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6456
-- slug: 2026-08-16-quinnipiac-poll-puts-trump-approval-at-32-as-leavitt-plans-to-exit
-  headline: Quinnipiac poll puts Trump approval at 32% as Leavitt plans to exit
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6422
 - slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
+  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts
+    in Georgia
   publish_date: '2026-07-22'
   relation: related
   strength: 0.662
-- slug: 2026-07-27-jeffries-faults-republican-record-on-affordability-and-war-as-midterm-pitch
-  headline: Jeffries faults Republican record on affordability and war as midterm pitch
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.641
-- slug: 2026-06-07-trump-denies-iran-war-broke-no-new-wars-campaign-pledge
-  headline: Trump denies Iran war broke 'no new wars' campaign pledge
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6445
-- slug: 2026-06-08-trump-denies-he-ever-pledged-no-new-wars-contradicting-years-of-statements
-  headline: Trump denies he ever pledged no new wars, contradicting years of statements
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6421
 - slug: 2026-03-25-trump-promises-bigger-gop-majorities-as-warning-signs-flash-for-party
   headline: Trump promises bigger GOP majorities as warning signs flash for party
   publish_date: '2026-03-25'
@@ -215,33 +191,7 @@ related_stories:
   publish_date: '2026-04-04'
   relation: related
   strength: 0.6522
-- slug: 2026-03-12-trump-slams-fellow-republican-massie-during-kentucky-rally
-  headline: Trump slams fellow Republican Massie during Kentucky rally
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6541
-- slug: 2026-04-04-trump-s-go-it-alone-certainty-collides-with-iran-war-uncertainties
-  headline: Trump’s go-it-alone certainty collides with Iran war uncertainties
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6472
-- slug: 2026-05-16-trump-returns-from-chinese-state-visit-to-face-inflation-and-affordability-press
-  headline: Trump returns from Chinese state visit to face inflation and affordability pressure
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6304
-- slug: 2026-02-18-inside-obama-advisers-blind-spot-on-trump
-  headline: Inside Obama advisers’ blind spot on Trump
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6457
-- slug: 2026-03-29-trump-s-conflicting-messages-sow-confusion-over-iran-war
-  headline: Trump’s conflicting messages sow confusion over Iran war
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6384
 ---
-
 ## Obama stumps in Ohio, accuses Trump of 'corruption and incompetence'
 
 **Subtype:** fact

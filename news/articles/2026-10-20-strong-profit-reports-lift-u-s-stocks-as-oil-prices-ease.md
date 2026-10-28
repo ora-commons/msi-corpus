@@ -1,9 +1,23 @@
 ---
 headline: Strong profit reports lift U.S. stocks as oil prices ease
-secondary_headline: Dow gains 529 points while artificial-intelligence volatility leaves Nasdaq slightly lower
+secondary_headline: Dow gains 529 points while artificial-intelligence volatility
+  leaves Nasdaq slightly lower
 publish_date: '2026-10-20'
-lede: Most U.S. stocks rose Tuesday, Oct. 20, 2026, as strong earnings reports from Equifax, Hasbro and other companies helped push the market higher and easing crude oil prices added support, with Brent crude falling 0.7% to $108.79 after nearing $112. The S&P 500 gained 0.3%, and the Dow Jones Industrial Average advanced 529 points, or 1%. The Nasdaq composite fell less than 0.1% as stocks in the artificial-intelligence industry swung again.
-nut_graf: 'Profit reports from Equifax, Hasbro and other companies supported a broad U.S. stock-market advance on Oct. 20, 2026, with several companies posting quarterly results above analyst expectations. Hasbro said its "Magic: The Gathering" game made more than $600 million in revenue during a quarter for the first time, and Hasbro''s shares climbed 11.2%. AP said Brent crude''s 0.7% drop to $108.79 would relieve some pressure on inflation if it lasted. General Motors fell 6.8% despite reporting a larger-than-expected profit. The company also announced a plan to send up to $20 billion to investors through stock buybacks and gave a full-year 2026 profit forecast whose midpoint fell short of analysts'' expectations.'
+lede: Most U.S. stocks rose Tuesday, Oct. 20, 2026, as strong earnings reports from
+  Equifax, Hasbro and other companies helped push the market higher and easing crude
+  oil prices added support, with Brent crude falling 0.7% to $108.79 after nearing
+  $112. The S&P 500 gained 0.3%, and the Dow Jones Industrial Average advanced 529
+  points, or 1%. The Nasdaq composite fell less than 0.1% as stocks in the artificial-intelligence
+  industry swung again.
+nut_graf: 'Profit reports from Equifax, Hasbro and other companies supported a broad
+  U.S. stock-market advance on Oct. 20, 2026, with several companies posting quarterly
+  results above analyst expectations. Hasbro said its "Magic: The Gathering" game
+  made more than $600 million in revenue during a quarter for the first time, and
+  Hasbro''s shares climbed 11.2%. AP said Brent crude''s 0.7% drop to $108.79 would
+  relieve some pressure on inflation if it lasted. General Motors fell 6.8% despite
+  reporting a larger-than-expected profit. The company also announced a plan to send
+  up to $20 billion to investors through stock buybacks and gave a full-year 2026
+  profit forecast whose midpoint fell short of analysts'' expectations.'
 primary_entities:
 - Equifax
 - Hasbro
@@ -35,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -51,7 +66,9 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: 2026-10-20
-  caption: The raw NASDAQ Composite Index stood at 26,424.82 on Oct. 20, 2026. The level provides context for the tech-heavy index's less-than-0.1% decline that day.
+  caption: The raw NASDAQ Composite Index stood at 26,424.82 on Oct. 20, 2026. The
+    level provides context for the tech-heavy index's less-than-0.1% decline that
+    day.
 figures_aggregate:
   count: 1
   series_ids:
@@ -145,104 +162,45 @@ related_stories:
   headline: Wall Street advances as SpaceX beats summer profit expectations
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7979
+  strength: 0.7844
+- slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.7399
+- slug: 2026-10-23-brent-crude-settles-at-116-72-as-wall-street-closes-broadly-lower
+  headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7398
 - slug: 2026-07-31-amazon-surge-lifts-s-p-500-as-apple-drop-and-oil-concerns-weigh
   headline: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7828
+  strength: 0.7418
 - slug: 2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street
   headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.7462
-- slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
-  headline: Tech rally lifts Wall Street to records as oil, inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7747
+  strength: 0.7257
 - slug: 2026-05-06-wall-street-hits-records-as-oil-eases-and-earnings-beat-expectations
   headline: Wall Street hits records as oil eases and earnings beat expectations
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7748
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.768
-- slug: 2026-06-08-u-s-stocks-rebound-as-oil-surge-eases-on-iran-israel-tensions
-  headline: U.S. stocks rebound as oil surge eases on Iran-Israel tensions
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7495
-- slug: 2026-05-15-cisco-boosts-wall-street-records-s-p-hits-another-high-dow-reclaims-50-000
-  headline: Cisco boosts Wall Street records; S&P hits another high, Dow reclaims 50,000
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7626
-- slug: 2026-05-26-wall-street-sets-more-records-as-oil-prices-fall-on-us-iran-ceasefire-hold
-  headline: Wall Street sets more records as oil prices fall on US-Iran ceasefire hold
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7539
+  strength: 0.7583
 - slug: 2026-05-20-oil-s-latest-dip-helps-us-stocks-erase-losses-nasdaq-edges-up
   headline: Oil’s latest dip helps US stocks erase losses; Nasdaq edges up
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.7531
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7753
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7697
-- slug: 2026-05-21-us-stocks-recover-as-bond-pressure-eases-and-oil-gives-back-gains
-  headline: US stocks recover as bond pressure eases and oil gives back gains
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7438
-- slug: 2026-01-03-us-stocks-edge-higher-in-a-wobbly-start-to-2026
-  headline: US stocks edge higher in a wobbly start to 2026
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7744
-- slug: 2026-04-25-intel-s-results-lift-wall-street-to-more-records-as-oil-stays-volatile
-  headline: Intel’s results lift Wall Street to more records as oil stays volatile
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7549
-- slug: 2026-01-15-wall-street-steadies-as-chip-stocks-rebound-and-oil-prices-retreat
-  headline: Wall Street steadies as chip stocks rebound and oil prices retreat
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7724
-- slug: 2026-04-15-wall-street-climbs-near-record-as-oil-eases-on-renewed-u-s--iran-talks
-  headline: Wall Street climbs near record as oil eases on renewed U.S.-Iran talks
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.753
-- slug: 2026-04-08-us-stocks-rise-as-oil-trims-gains-on-ceasefire-hopes-with-iran
-  headline: US stocks rise as oil trims gains on ceasefire hopes with Iran
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7542
+  strength: 0.7475
 - slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
+  headline: US stocks edge higher after swinging through worries about AI and the
+    economy
   publish_date: '2026-02-18'
   relation: related
-  strength: 0.7632
-- slug: 2026-05-02-apple-leads-wall-street-to-more-records-as-oil-prices-pull-back
-  headline: Apple leads Wall Street to more records as oil prices pull back
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.743
+  strength: 0.7554
 ---
-
 ## Strong profit reports lift U.S. stocks as oil prices ease
 
 **Subtype:** fact

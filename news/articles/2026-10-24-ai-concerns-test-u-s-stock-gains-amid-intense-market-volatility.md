@@ -1,9 +1,18 @@
 ---
 headline: AI concerns test U.S. stock gains amid intense market volatility
-secondary_headline: Energy prices and Federal Reserve rate increases add to market uncertainty
+secondary_headline: Energy prices and Federal Reserve rate increases add to market
+  uncertainty
 publish_date: '2026-10-24'
-lede: U.S. stock markets have posted strong gains over the past four years but have also experienced intense volatility in 2026, with AI concerns among the factors driving investor uncertainty. On a single day this week, the tech-heavy NASDAQ suffered its biggest loss in months, although stocks overall ended the week not too badly, according to an NPR market interview published October 24, 2026.
-nut_graf: The volatility has broader implications because AI companies such as Nvidia drove much of the four-year market gains, while AI investment has become a significant part of business generally. James McCann of Edward Jones said rising interest rates make borrowing more expensive and warned that a disappointment in AI could spread beyond the sector into wider distress across the economy and markets.
+lede: U.S. stock markets have posted strong gains over the past four years but have
+  also experienced intense volatility in 2026, with AI concerns among the factors
+  driving investor uncertainty. On a single day this week, the tech-heavy NASDAQ suffered
+  its biggest loss in months, although stocks overall ended the week not too badly,
+  according to an NPR market interview published October 24, 2026.
+nut_graf: The volatility has broader implications because AI companies such as Nvidia
+  drove much of the four-year market gains, while AI investment has become a significant
+  part of business generally. James McCann of Edward Jones said rising interest rates
+  make borrowing more expensive and warned that a disappointment in AI could spread
+  beyond the sector into wider distress across the economy and markets.
 primary_entities:
 - Scott Simon
 - Rafael Nam
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +158,44 @@ related_stories:
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7619
+  strength: 0.7618
 - slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
+  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global
+    risks
   publish_date: '2026-10-20'
   relation: related
   strength: 0.7429
+- slug: 2026-10-27-nvidia-advances-2-4-as-asian-indexes-diverge
+  headline: Nvidia advances 2.4% as Asian indexes diverge
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7076
 - slug: 2026-10-23-ai-stocks-fall-overnight-before-japan-and-south-korea-trade-broadly-flat
   headline: AI stocks fall overnight before Japan and South Korea trade broadly flat
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7033
+  strength: 0.703
+- slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
+  headline: Dow ends lower as AI shares rebound and European indexes retreat
+  publish_date: '2026-10-19'
+  relation: related
+  strength: 0.7165
 - slug: 2026-09-20-treasury-yields-hit-4-94-amid-iran-war-and-ai-debt-fears
   headline: Treasury yields hit 4.94% amid Iran war and AI debt fears
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7124
+  strength: 0.7123
 - slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
   headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7181
+  strength: 0.7177
 - slug: 2026-08-24-nvidia-s-upcoming-earnings-report-puts-ai-trade-to-the-test
   headline: Nvidia's upcoming earnings report puts AI trade to the test
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7177
-- slug: 2026-08-28-ai-investment-boom-props-up-global-growth-despite-trade-and-energy-strains
-  headline: AI investment boom props up global growth despite trade and energy strains
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7005
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7377
-- slug: 2026-07-31-amazon-surge-lifts-s-p-500-as-apple-drop-and-oil-concerns-weigh
-  headline: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7003
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7427
-- slug: 2026-06-02-fomo-drives-wall-street-pros-into-ai-rally-as-career-risk-outweighs-caution
-  headline: FOMO drives Wall Street pros into AI rally as career risk outweighs caution
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7426
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7106
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7429
-- slug: 2026-06-11-base-rate-analysis-casts-doubt-on-ai-investment-frenzy-as-revenue-projections-hi
-  headline: Base-rate analysis casts doubt on AI investment frenzy as revenue projections hit historic extremes
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7034
-- slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
-  headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7072
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7154
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7074
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7297
-- slug: 2026-02-26-nvidia-reports-big-jump-in-fiscal-fourth-quarter-revenue-as-ai-demand-grows
-  headline: Nvidia reports big jump in fiscal fourth-quarter revenue as AI demand grows
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7284
-- slug: 2026-02-19-us-stocks-slip-as-ai-fears-weigh-oil-rises-on-us-iran-conflict-worries
-  headline: US stocks slip as AI fears weigh, oil rises on US-Iran conflict worries
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7228
+  strength: 0.7172
 ---
-
 ## AI concerns test U.S. stock gains amid intense market volatility
 
 **Subtype:** fact

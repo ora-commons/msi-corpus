@@ -1,9 +1,22 @@
 ---
-headline: SeaWorld and La Ronde close rides using similar restraints after Goliath death
+headline: SeaWorld and La Ronde close rides using similar restraints after Goliath
+  death
 secondary_headline: Witnesses described Ibn Kariem rising before the fatal ejection
 publish_date: '2026-10-24'
-lede: The Associated Press reported that SeaWorld Orlando in Florida and La Ronde in Montreal, Canada, each temporarily closed one roller coaster after the Oct. 12 death of 42-year-old Hassan Jihad Ibn Kariem of Atlanta on Goliath at Six Flags Over Georgia. The affected rides use clamshell restraints; all nine Six Flags coasters taken offline were made by Bolliger & Mabillard and have similar restraints. SeaWorld reopened Mako on Tuesday after a week offline, while the Associated Press asked whether Mako would receive seat belts or other safety upgrades and separately emailed a La Ronde spokesperson for an update. Witnesses told the Associated Press they saw Ibn Kariem rise from his seat and fall headfirst back into the cart before his ejection; investigators had not said what went wrong.
-nut_graf: The temporary closures extended the response beyond Six Flags to SeaWorld Orlando and La Ronde, both of which use clamshell restraints. Investigators have not said what went wrong, and Six Flags has not said when eight additional coasters will reopen or identified every coaster set to receive seat belts.
+lede: The Associated Press reported that SeaWorld Orlando in Florida and La Ronde
+  in Montreal, Canada, each temporarily closed one roller coaster after the Oct. 12
+  death of 42-year-old Hassan Jihad Ibn Kariem of Atlanta on Goliath at Six Flags
+  Over Georgia. The affected rides use clamshell restraints; all nine Six Flags coasters
+  taken offline were made by Bolliger & Mabillard and have similar restraints. SeaWorld
+  reopened Mako on Tuesday after a week offline, while the Associated Press asked
+  whether Mako would receive seat belts or other safety upgrades and separately emailed
+  a La Ronde spokesperson for an update. Witnesses told the Associated Press they
+  saw Ibn Kariem rise from his seat and fall headfirst back into the cart before his
+  ejection; investigators had not said what went wrong.
+nut_graf: The temporary closures extended the response beyond Six Flags to SeaWorld
+  Orlando and La Ronde, both of which use clamshell restraints. Investigators have
+  not said what went wrong, and Six Flags has not said when eight additional coasters
+  will reopen or identified every coaster set to receive seat belts.
 primary_entities:
 - SeaWorld Orlando
 - La Ronde
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +154,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-24-seaworld-and-la-ronde-close-rides-using-similar-restraints-after-goliath-death.png
-  alt: 'Illustration accompanying article: SeaWorld and La Ronde close rides using similar restraints after Goliath death'
+  alt: 'Illustration accompanying article: SeaWorld and La Ronde close rides using
+    similar restraints after Goliath death'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-24-goliath-rider-thrown-from-seat-hits-coaster-cars-in-fatal-fall
   headline: Goliath rider thrown from seat hits coaster cars in fatal fall
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8166
+  strength: 0.8177
 - slug: 2026-10-24-six-flags-plans-added-restraints-after-georgia-coaster-fatality
   headline: Six Flags plans added restraints after Georgia coaster fatality
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.814
+  strength: 0.8145
 - slug: 2026-10-24-six-flags-to-reinforce-employee-training-and-safety-reviews-after-goliath-death
-  headline: Six Flags to reinforce employee training and safety reviews after Goliath death
+  headline: Six Flags to reinforce employee training and safety reviews after Goliath
+    death
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7458
+  strength: 0.746
 - slug: 2026-10-14-six-flags-over-georgia-death-is-at-least-seventh-at-park-firm-says
   headline: Six Flags Over Georgia death is at least seventh at park, firm says
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.794
+  strength: 0.7939
 - slug: 2026-10-13-six-flags-closes-nine-rollercoasters-across-six-states-after-georgia-death
   headline: Six Flags closes nine rollercoasters across six states after Georgia death
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7719
+  strength: 0.7723
 - slug: 2026-10-13-atlanta-educator-fatally-ejected-from-six-flags-rollercoaster
   headline: Atlanta educator fatally ejected from Six Flags rollercoaster
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7705
+  strength: 0.7713
 - slug: 2026-10-14-six-flags-temporarily-closes-10-coasters-after-georgia-rider-death
   headline: Six Flags temporarily closes 10 coasters after Georgia rider death
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7624
+  strength: 0.7622
 - slug: 2026-10-12-cobb-county-police-report-fatal-incident-at-six-flags-over-georgia
   headline: Cobb County police report fatal incident at Six Flags Over Georgia
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7317
-- slug: 2026-10-12-six-flags-says-x2-coaster-retirement-was-the-right-thing-to-do
-  headline: Six Flags says X2 coaster retirement was 'the right thing to do'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7228
-- slug: 2026-10-13-six-flags-closes-similar-attractions-across-parks-after-fatal-georgia-incident
-  headline: Six Flags closes similar attractions across parks after fatal Georgia incident
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6885
-- slug: 2026-09-29-three-neurosurgeons-link-x2-riders-brain-injuries-to-ride-mechanics
-  headline: Three neurosurgeons link X2 riders' brain injuries to ride mechanics
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6566
-- slug: 2026-09-29-six-flags-permanently-retires-x2-coaster-as-injury-allegations-exceed-100
-  headline: Six Flags permanently retires X2 coaster as injury allegations exceed 100
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6461
-- slug: 2026-09-29-wisner-calls-for-government-oversight-of-amusement-rides-after-x2-closure
-  headline: Wisner calls for government oversight of amusement rides after X2 closure
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6344
-- slug: 2026-08-28-six-flags-shuts-x2-rollercoaster-after-riders-report-brain-injuries
-  headline: Six Flags shuts X2 rollercoaster after riders report brain injuries
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6874
-- slug: 2026-03-27-doj-sues-seaworld-parent-over-ban-on-wheeled-walkers-with-seats
-  headline: DOJ sues SeaWorld parent over ban on wheeled walkers with seats
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6385
-- slug: 2026-01-01-disney-world-worker-injured-stopping-runaway-boulder-at-indiana-jones-stunt-show
-  headline: Disney World worker injured stopping runaway boulder at Indiana Jones stunt show
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6452
-- slug: 2025-12-31-disney-world-worker-injured-stopping-runaway-prop-boulder-at-indiana-jones-show
-  headline: Disney World worker injured stopping runaway prop boulder at Indiana Jones show
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6446
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5839
-- slug: 2026-05-05-second-sloth-dies-at-florida-zoo-during-rehab-after-transfer-from-sloth-world
-  headline: Second sloth dies at Florida zoo during rehab after transfer from Sloth World
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5979
-- slug: 2026-05-17-4-crew-members-eject-safely-after-2-navy-jets-collide-at-idaho-air-show
-  headline: 4 crew members eject safely after 2 Navy jets collide at Idaho air show
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5803
+  strength: 0.732
 ---
-
 ## SeaWorld and La Ronde close rides using similar restraints after Goliath death
 
 **Subtype:** fact

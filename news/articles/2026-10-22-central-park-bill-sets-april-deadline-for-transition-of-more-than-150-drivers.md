@@ -1,9 +1,20 @@
 ---
 headline: Central Park bill sets April deadline for transition of more than 150 drivers
-secondary_headline: Mamdani administration may consider compensation, but worker benchmarks remain unspecified
+secondary_headline: Mamdani administration may consider compensation, but worker benchmarks
+  remain unspecified
 publish_date: '2026-10-22'
-lede: New York City Council legislation requires Mayor Zohran Mamdani's office to develop a transition plan by next April to help more than 150 remaining carriage drivers and the rest of the industry find other jobs. The program must include job referrals, career counseling and educational opportunities, and it allows the administration to consider some form of compensation. The provisions are vague and do not set clear benchmarks for displaced workers; the Council-approved bill would end Central Park carriage rides by June 2028.
-nut_graf: City Hall says it is working on a workforce transition program and has started discussions about potential compensation, while drivers have raised unresolved questions about livelihoods and horse care. Mayor Zohran Mamdani's spokesperson said the mayor would sign the bill; the union representing drivers had vowed a legal challenge, and Council Speaker Julie Menin said workers deserved protection.
+lede: New York City Council legislation requires Mayor Zohran Mamdani's office to
+  develop a transition plan by next April to help more than 150 remaining carriage
+  drivers and the rest of the industry find other jobs. The program must include job
+  referrals, career counseling and educational opportunities, and it allows the administration
+  to consider some form of compensation. The provisions are vague and do not set clear
+  benchmarks for displaced workers; the Council-approved bill would end Central Park
+  carriage rides by June 2028.
+nut_graf: City Hall says it is working on a workforce transition program and has started
+  discussions about potential compensation, while drivers have raised unresolved questions
+  about livelihoods and horse care. Mayor Zohran Mamdani's spokesperson said the mayor
+  would sign the bill; the union representing drivers had vowed a legal challenge,
+  and Council Speaker Julie Menin said workers deserved protection.
 primary_entities:
 - New York City Council
 - Central Park
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +161,43 @@ related_stories:
   headline: NYC Council to vote Thursday on ban of Central Park horse-drawn carriages
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8407
+  strength: 0.8411
 - slug: 2026-10-22-mamdani-and-menin-reach-carriage-ban-deal-as-union-threatens-federal-suit
   headline: Mamdani and Menin reach carriage-ban deal as union threatens federal suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8309
+  strength: 0.8308
 - slug: 2026-10-14-nyc-mayor-council-speaker-agree-to-ban-horse-drawn-carriages
   headline: NYC mayor, council speaker agree to ban horse-drawn carriages
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8069
+  strength: 0.807
 - slug: 2026-10-13-nyc-council-moves-to-ban-central-park-horse-carriages-by-june-2028
   headline: NYC Council moves to ban Central Park horse carriages by June 2028
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8083
+  strength: 0.808
 - slug: 2026-10-22-romanch-s-law-sets-june-2028-end-date-requires-transition-plan-next-year
   headline: Romanch's Law sets June 2028 end date, requires transition plan next year
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7437
-- slug: 2026-10-12-mamdani-orders-nypd-use-of-force-review-after-2024-fatal-shooting
-  headline: Mamdani orders NYPD use-of-force review after 2024 fatal shooting
-  publish_date: '2026-10-12'
+  strength: 0.7442
+- slug: 2026-10-26-mamdani-s-nyc-encampment-policy-draws-criticism-from-residents-and-businesses
+  headline: Mamdani’s NYC encampment policy draws criticism from residents and businesses
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.632
-- slug: 2026-10-16-london-assembly-urges-devolved-robotaxi-authority-as-drivers-plan-protests
-  headline: London Assembly urges devolved robotaxi authority as drivers plan protests
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6052
-- slug: 2026-09-23-mamdani-turns-greedy-algorithm-remark-into-midterm-targeting-of-corporations
-  headline: Mamdani turns 'greedy algorithm' remark into midterm targeting of corporations
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6075
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6425
+  strength: 0.6778
 - slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
   headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6569
+  strength: 0.6568
 - slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
   headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6834
-- slug: 2026-07-20-new-york-city-council-speaker-backs-ban-on-central-park-horse-carriages
-  headline: New York City Council speaker backs ban on Central Park horse carriages
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7187
-- slug: 2026-08-29-mamdani-sues-to-block-10-000-bonuses-for-nyc-school-aides
-  headline: Mamdani sues to block $10,000 bonuses for NYC school aides
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6215
-- slug: 2026-08-31-mamdani-rent-freeze-keeps-rents-flat-for-roughly-one-million-nyc-apartments
-  headline: Mamdani rent freeze keeps rents flat for roughly one million NYC apartments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6096
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7141
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6144
-- slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
-  headline: NYC board approves Mamdani's rent freeze for 1 million apartments
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6319
-- slug: 2026-06-17-18-year-old-dies-after-being-thrown-from-central-park-horse-drawn-carriage
-  headline: 18-year-old dies after being thrown from Central Park horse-drawn carriage
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6333
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.633
-- slug: 2026-03-20-nyc-mayor-mamdani-unveils-community-safety-office-first-step-on-crisis-response-
-  headline: NYC Mayor Mamdani unveils community safety office, first step on crisis response pledge
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6248
+  strength: 0.6838
 ---
-
 ## Central Park bill sets April deadline for transition of more than 150 drivers
 
 **Subtype:** fact

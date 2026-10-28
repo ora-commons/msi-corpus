@@ -1,9 +1,23 @@
 ---
-headline: BBC asks judge to dismiss Trump suit over London production and no U.S. airing
-secondary_headline: Judge Lett orders Dec. 11 Trump deposition unless evidence deadline extended
+headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+  airing
+secondary_headline: Judge Lett orders Dec. 11 Trump deposition unless evidence deadline
+  extended
 publish_date: '2026-10-22'
-lede: The BBC has asked a federal judge to dismiss President Trump's defamation lawsuit over a 2024 documentary, arguing that the case was wrongly filed in federal court in Florida and that the documentary was produced in London and did not air in the United States. BBC lawyers also said Trump had not plausibly alleged that the broadcaster aired the documentary intending to create a false impression that the president incited the crowd. The request comes as U.S. Magistrate Judge Enjoliqué A. Lett on Thursday ordered Trump to sit for a deposition by Dec. 11, unless the deadline to exchange evidence is extended.
-nut_graf: The dismissal request and the court's new deposition date come in a lawsuit Trump filed last year over the BBC's airing of a 2024 documentary that featured his edited speech before the Jan. 6, 2021, Capitol riot. The BBC disputes the Florida filing and argues Trump cannot show it intended to create a false impression, while its lawyers say they have faced repeated delays in securing Trump's deposition since July.
+lede: The BBC has asked a federal judge to dismiss President Trump's defamation lawsuit
+  over a 2024 documentary, arguing that the case was wrongly filed in federal court
+  in Florida and that the documentary was produced in London and did not air in the
+  United States. BBC lawyers also said Trump had not plausibly alleged that the broadcaster
+  aired the documentary intending to create a false impression that the president
+  incited the crowd. The request comes as U.S. Magistrate Judge Enjoliqué A. Lett
+  on Thursday ordered Trump to sit for a deposition by Dec. 11, unless the deadline
+  to exchange evidence is extended.
+nut_graf: The dismissal request and the court's new deposition date come in a lawsuit
+  Trump filed last year over the BBC's airing of a 2024 documentary that featured
+  his edited speech before the Jan. 6, 2021, Capitol riot. The BBC disputes the Florida
+  filing and argues Trump cannot show it intended to create a false impression, while
+  its lawyers say they have faced repeated delays in securing Trump's deposition since
+  July.
 primary_entities:
 - President Trump
 - BBC
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +157,43 @@ related_stories:
   headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.868
+  strength: 0.8668
 - slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
   headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8265
+  strength: 0.8263
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8703
+  strength: 0.8696
 - slug: 2026-10-22-trump-must-depose-by-dec-11-in-suit-against-bbc-or-face-possible-sanctions
   headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8047
-- slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
-  headline: Judge blocks Trump from enforcing White House press ban on three outlets
-  publish_date: '2026-10-14'
+  strength: 0.8037
+- slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
+  headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
+  publish_date: '2026-10-22'
   relation: related
-  strength: 0.6201
-- slug: 2026-10-07-dnc-sues-trump-administration-over-taxpayer-funded-self-promotion-ads
-  headline: DNC sues Trump administration over taxpayer-funded self-promotion ads
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6216
+  strength: 0.7959
 - slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
   headline: Trump attorneys ask court to pause BBC access to financial records
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.8257
+  strength: 0.8252
 - slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
   headline: Trump asks judge to block BBC subpoenas to his family members
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7751
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.635
+  strength: 0.775
 - slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
   headline: Judge orders Trump to release financial records in BBC defamation case
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.8038
-- slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
-  headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6278
-- slug: 2026-09-21-three-news-outlets-sue-trump-to-restore-white-house-press-credentials
-  headline: Three news outlets sue Trump to restore White House press credentials
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6254
-- slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6252
-- slug: 2026-09-18-federal-audit-shows-kennedy-center-surplus-contradicting-trump-loss-claim
-  headline: Federal audit shows Kennedy Center surplus, contradicting Trump loss claim
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6243
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.8547
-- slug: 2026-08-22-bbc-video-examines-trump-s-pattern-of-publicly-insulting-reporters
-  headline: BBC video examines Trump's pattern of publicly insulting reporters
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6218
-- slug: 2026-07-08-judge-throws-out-trump-media-s-3-8b-suit-against-washington-post
-  headline: Judge throws out Trump Media's $3.8B suit against Washington Post
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6773
-- slug: 2026-07-06-judge-denies-trump-bid-to-delay-5-8m-judgment-to-e-jean-carroll
-  headline: Judge denies Trump bid to delay $5.8M judgment to E Jean Carroll
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6261
-- slug: 2026-05-10-federal-judge-dismisses-former-trump-supporter-s-defamation-suit-against-fox-new
-  headline: Federal judge dismisses former Trump supporter’s defamation suit against Fox News
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6467
-- slug: 2026-04-29-justice-department-asks-court-to-dismiss-white-house-ballroom-lawsuit
-  headline: Justice Department asks court to dismiss White House ballroom lawsuit
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6464
+  strength: 0.8036
 ---
-
 ## BBC asks judge to dismiss Trump suit over London production and no U.S. airing
 
 **Subtype:** fact
