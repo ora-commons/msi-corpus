@@ -2,8 +2,21 @@
 headline: Retrospective account traces Ted Bundy's targeting of young women and girls
 secondary_headline: Custody escapes and Florida attacks precede the 1979 trial
 publish_date: '2026-10-27'
-lede: An Associated Press retrospective traces Ted Bundy's targeting of young women and girls from a January 1974 break-in near the University of Washington campus through abductions in Washington and Oregon and deadly attacks in Florida. The reporting says the January 1974 attack fit a pattern Bundy established in later years, often breaking into young women's homes, bludgeoning and sexually assaulting them, and either leaving them to die or dumping their bodies elsewhere. Utah authorities separately identified 17-year-old Melissa Anne Smith as a Bundy victim, Summit County Sheriff Kacey Bates said, after detectives matched evidence from her body to a DNA profile recovered in the Laura Ann Aime case.
-nut_graf: The retrospective places the Utah DNA identifications within a history of targeting, abduction, custody escape and murder, while documenting the 1978 Chi Omega and Lake City killings and the 1979 trial. It links Bundy's widespread public fascination in part to many people considering him charming and handsome at that trial, and says his case and his self-assured attitude in court both drew widespread attention during that proceeding.
+lede: An Associated Press retrospective traces Ted Bundy's targeting of young women
+  and girls from a January 1974 break-in near the University of Washington campus
+  through abductions in Washington and Oregon and deadly attacks in Florida. The reporting
+  says the January 1974 attack fit a pattern Bundy established in later years, often
+  breaking into young women's homes, bludgeoning and sexually assaulting them, and
+  either leaving them to die or dumping their bodies elsewhere. Utah authorities separately
+  identified 17-year-old Melissa Anne Smith as a Bundy victim, Summit County Sheriff
+  Kacey Bates said, after detectives matched evidence from her body to a DNA profile
+  recovered in the Laura Ann Aime case.
+nut_graf: The retrospective places the Utah DNA identifications within a history of
+  targeting, abduction, custody escape and murder, while documenting the 1978 Chi
+  Omega and Lake City killings and the 1979 trial. It links Bundy's widespread public
+  fascination in part to many people considering him charming and handsome at that
+  trial, and says his case and his self-assured attitude in court both drew widespread
+  attention during that proceeding.
 primary_entities:
 - Ted Bundy
 - Melissa Anne Smith
@@ -49,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,109 +160,8 @@ cross_article_links:
   strength: 0.5592
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-27-dna-technology-links-ted-bundy-to-utah-teen-found-dead-in-1974
-  headline: DNA technology links Ted Bundy to Utah teen found dead in 1974
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.8865
-- slug: 2026-10-27-summit-county-attorney-s-office-clears-melissa-ann-smith-s-1974-cold-case
-  headline: Summit County attorney’s office clears Melissa Ann Smith’s 1974 cold case
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.8027
-- slug: 2026-10-27-utah-investigators-avoid-blanket-bundy-attribution-as-dna-testing-advances
-  headline: Utah investigators avoid blanket Bundy attribution as DNA testing advances
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7606
-- slug: 2026-10-20-dna-genealogy-and-ai-help-solve-a-1993-illinois-murder
-  headline: DNA genealogy and AI help solve a 1993 Illinois murder
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.622
-- slug: 2026-04-01-new-dna-link-boosts-ted-bundy-s-confirmed-victim-count-utah-sheriff-says
-  headline: New DNA link boosts Ted Bundy’s confirmed victim count, Utah sheriff says
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.858
-- slug: 2026-04-02-decades-later-ted-bundy-s-victim-count-rises-with-new-dna-link
-  headline: Decades later, Ted Bundy’s victim count rises with new DNA link
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.8441
-- slug: 2026-04-02-new-dna-testing-links-laura-ann-aime-s-1974-death-to-ted-bundy
-  headline: New DNA testing links Laura Ann Aime’s 1974 death to Ted Bundy
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.8423
-- slug: 2026-09-29-christa-pike-s-attorneys-argue-tennessee-execution-ignores-brain-science
-  headline: Christa Pike's attorneys argue Tennessee execution ignores brain science
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5819
-- slug: 2026-09-28-christa-pike-execution-set-as-tennessee-governor-denies-clemency
-  headline: Christa Pike execution set as Tennessee governor denies clemency
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5835
-- slug: 2026-09-10-north-carolina-identifies-1977-remains-as-cindy-marcell-blizzard
-  headline: North Carolina identifies 1977 remains as Cindy Marcell Blizzard
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5782
-- slug: 2026-08-07-mother-says-police-failures-preceded-killing-of-trafficked-houston-teen
-  headline: Mother says police failures preceded killing of trafficked Houston teen
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5847
-- slug: 2026-02-06-nancy-guthrie-kidnapping-prompts-renewed-focus-on-past-u-s-abductions
-  headline: Nancy Guthrie kidnapping prompts renewed focus on past U.S. abductions
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.629
-- slug: 2026-02-12-few-leads-in-nancy-guthrie-case-after-11-days-investigators-seek-tips
-  headline: Few leads in Nancy Guthrie case after 11 days; investigators seek tips
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6108
-- slug: 2026-02-16-fbi-says-dna-from-glove-near-guthrie-home-matches-suspect-s-glove
-  headline: FBI says DNA from glove near Guthrie home matches suspect’s glove
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6031
-- slug: 2026-02-19-police-in-nancy-guthrie-case-consider-dna-genealogy-database-searches
-  headline: Police in Nancy Guthrie case consider DNA genealogy database searches
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6002
-- slug: 2026-02-16-fbi-says-dna-glove-near-nancy-guthrie-home-matches-suspect-s-glove
-  headline: FBI says DNA glove near Nancy Guthrie home matches suspect’s glove
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5932
-- slug: 2026-02-06-dna-matches-nancy-guthrie-fbi-ups-reward-in-monthlong-search
-  headline: DNA matches Nancy Guthrie; FBI ups reward in monthlong search
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.5919
-- slug: 2026-04-04-how-the-epstein-files-dogged-pam-bondi-s-time-as-attorney-general
-  headline: How the Epstein files dogged Pam Bondi's time as attorney general
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5791
-- slug: 2026-03-16-florida-executed-michael-lee-king-after-2008-denise-amber-lee-killing
-  headline: Florida executed Michael Lee King after 2008 Denise Amber Lee killing
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.5814
-- slug: 2026-02-12-fbi-searches-desert-near-nancy-guthrie-s-home-after-detained-suspect-released
-  headline: FBI searches desert near Nancy Guthrie’s home after detained suspect released
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.583
+related_stories: []
 ---
-
 ## Retrospective account traces Ted Bundy's targeting of young women and girls
 
 **Subtype:** fact
