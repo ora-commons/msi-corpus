@@ -1,9 +1,22 @@
 ---
-headline: Minnesota nurse's parents seek federal accountability after Alex Pretti's killing
-secondary_headline: Federal prosecutors stopped sharing evidence, according to court filings
+headline: Minnesota nurse's parents seek federal accountability after Alex Pretti's
+  killing
+secondary_headline: Federal prosecutors stopped sharing evidence, according to court
+  filings
 publish_date: '2026-10-27'
-lede: Michael and Susan Pretti said Tuesday that no federal official had provided substantive information about the immigration enforcement officers who shot and killed their son for nine months. At a Minneapolis news conference, Susan Pretti said the family wanted the truth told about Alex Pretti and what happened on the day he was killed, and Michael and Susan Pretti asked the Department of Justice to hold the officers accountable. Federal prosecutors said in recent court filings that they had stopped sharing evidence with Minnesota authorities investigating the shootings of Alex Pretti and Renee Good.
-nut_graf: The dispute centers on evidence and investigative authority. Minnesota officials sued the Trump administration in March for access to materials they say they need to investigate the shootings of Pretti and Good. The administration has questioned whether state prosecutors can investigate federal officers, while state officials have said they do not trust the federal government to investigate itself.
+lede: Michael and Susan Pretti said Tuesday that no federal official had provided
+  substantive information about the immigration enforcement officers who shot and
+  killed their son for nine months. At a Minneapolis news conference, Susan Pretti
+  said the family wanted the truth told about Alex Pretti and what happened on the
+  day he was killed, and Michael and Susan Pretti asked the Department of Justice
+  to hold the officers accountable. Federal prosecutors said in recent court filings
+  that they had stopped sharing evidence with Minnesota authorities investigating
+  the shootings of Alex Pretti and Renee Good.
+nut_graf: The dispute centers on evidence and investigative authority. Minnesota officials
+  sued the Trump administration in March for access to materials they say they need
+  to investigate the shootings of Pretti and Good. The administration has questioned
+  whether state prosecutors can investigate federal officers, while state officials
+  have said they do not trust the federal government to investigate itself.
 primary_entities:
 - Alex Pretti
 - Michael Pretti
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +161,45 @@ related_stories:
   headline: Minnesota asks judge to compel federal evidence in two fatal shootings
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8141
+  strength: 0.8146
 - slug: 2026-10-23-justice-department-says-no-active-case-existed-when-minnesota-sought-evidence
   headline: Justice Department says no active case existed when Minnesota sought evidence
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7482
+  strength: 0.7489
 - slug: 2026-10-01-renee-good-s-family-sues-us-government-trump-officials-over-ice-killing
   headline: Renee Good's family sues US government, Trump officials over ICE killing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7329
+  strength: 0.7333
 - slug: 2026-01-26-minneapolis-nurse-killed-by-border-patrol-as-family-disputes-account
   headline: Minneapolis nurse killed by Border Patrol as family disputes account
   publish_date: '2026-01-26'
   relation: related
-  strength: 0.8216
+  strength: 0.8229
 - slug: 2026-05-18-federal-officer-shoots-and-kills-minneapolis-man-in-immigration-sweep
   headline: Federal officer shoots and kills Minneapolis man in immigration sweep
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7932
+  strength: 0.7941
 - slug: 2026-07-13-hennepin-county-prosecutors-obtain-hard-drives-of-withheld-evidence-in-three-fed
-  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in three federal-shooting cases
+  headline: Hennepin County prosecutors obtain hard drives of withheld evidence in
+    three federal-shooting cases
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.747
+  strength: 0.748
 - slug: 2026-01-24-border-patrol-kills-minneapolis-icu-nurse-amid-immigration-crackdown
   headline: Border Patrol kills Minneapolis ICU nurse amid immigration crackdown
   publish_date: '2026-01-24'
   relation: related
-  strength: 0.8066
+  strength: 0.8082
 - slug: 2026-01-27-three-federal-investigations-open-into-minneapolis-nurse-killing-by-border-patro
-  headline: Three federal investigations open into Minneapolis nurse killing by Border Patrol
+  headline: Three federal investigations open into Minneapolis nurse killing by Border
+    Patrol
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.8039
-- slug: 2026-03-25-minnesota-officials-sue-trump-administration-over-federal-shooting-deaths
-  headline: Minnesota officials sue Trump administration over federal shooting deaths
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7857
-- slug: 2026-05-18-video-contradicts-federal-account-of-minneapolis-nurse-s-death
-  headline: Video contradicts federal account of Minneapolis nurse's death
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7685
-- slug: 2026-01-25-federal-and-state-officials-clash-over-deadly-minneapolis-shooting
-  headline: Federal and state officials clash over deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7774
-- slug: 2026-01-29-alex-pretti-s-family-hires-former-chauvin-prosecutor-lawyer
-  headline: Alex Pretti’s family hires former Chauvin prosecutor lawyer
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.764
-- slug: 2026-01-25-republicans-press-for-investigation-into-fatal-minneapolis-shooting
-  headline: Republicans press for investigation into fatal Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7593
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.759
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  headline: Minnesota probes federal officers over two killings, wounding and highway assault
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7424
-- slug: 2026-01-29-doj-opens-federal-civil-rights-probe-into-death-of-alex-pretti
-  headline: DOJ opens federal civil rights probe into death of Alex Pretti
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7474
-- slug: 2026-01-26-minnesota-s-misinformation-site-and-evidence-lawsuit-deepen-feud-with-feds
-  headline: Minnesota’s misinformation site and evidence lawsuit deepen feud with feds
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7476
-- slug: 2026-01-27-federal-shooting-of-armed-minneapolis-man-sparks-gun-rights-backlash
-  headline: Federal shooting of armed Minneapolis man sparks gun-rights backlash
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7472
-- slug: 2026-01-30-new-videos-of-alex-pretti-scuffle-with-federal-agents-emerge-days-after-death
-  headline: New videos of Alex Pretti scuffle with federal agents emerge days after death
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7445
-- slug: 2026-03-24-minnesota-officials-sue-trump-administration-over-shooting-deaths
-  headline: Minnesota officials sue Trump administration over shooting deaths
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7356
+  strength: 0.8056
 ---
-
 ## Minnesota nurse's parents seek federal accountability after Alex Pretti's killing
 
 **Subtype:** fact
