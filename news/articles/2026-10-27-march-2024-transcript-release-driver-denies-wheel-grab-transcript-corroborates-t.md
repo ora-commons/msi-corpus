@@ -1,9 +1,23 @@
 ---
-headline: 'March 2024 transcript release: driver denies wheel grab; transcript corroborates Trump’s Capitol effort'
+headline: 'March 2024 transcript release: driver denies wheel grab; transcript corroborates
+  Trump’s Capitol effort'
 secondary_headline: Cassidy Hutchinson testified she was not present for the SUV altercation
 publish_date: '2026-10-27'
-lede: House Republicans released a previously undisclosed transcript in March 2024 from the Select Committee’s interview with the Secret Service officer who drove the presidential SUV. According to The Associated Press, the transcript contradicted some of Cassidy Hutchinson’s 2022 testimony but corroborated other aspects of her account, including Donald Trump’s attempt to join the mob scene at the Capitol. In the transcript, the driver said he did not see the altercation Hutchinson described and that Trump “never grabbed the steering wheel.”
-nut_graf: The transcript contradicted the steering-wheel claim in Cassidy Hutchinson’s secondhand account while corroborating her description of Donald Trump’s attempt to join the Capitol crowd. The Associated Press placed the related prosecution effort within what it described as a politically sensitive Justice Department surge before the following week’s midterm elections, including a new attempt to prosecute former FBI Director James Comey and a federal search of Democratic U.S. Rep. Ilhan Omar’s Minnesota home. The outlet also reported that a Washington grand jury declined prosecutors’ request to indict Hutchinson.
+lede: House Republicans released a previously undisclosed transcript in March 2024
+  from the Select Committee’s interview with the Secret Service officer who drove
+  the presidential SUV. According to The Associated Press, the transcript contradicted
+  some of Cassidy Hutchinson’s 2022 testimony but corroborated other aspects of her
+  account, including Donald Trump’s attempt to join the mob scene at the Capitol.
+  In the transcript, the driver said he did not see the altercation Hutchinson described
+  and that Trump “never grabbed the steering wheel.”
+nut_graf: The transcript contradicted the steering-wheel claim in Cassidy Hutchinson’s
+  secondhand account while corroborating her description of Donald Trump’s attempt
+  to join the Capitol crowd. The Associated Press placed the related prosecution effort
+  within what it described as a politically sensitive Justice Department surge before
+  the following week’s midterm elections, including a new attempt to prosecute former
+  FBI Director James Comey and a federal search of Democratic U.S. Rep. Ilhan Omar’s
+  Minnesota home. The outlet also reported that a Washington grand jury declined prosecutors’
+  request to indict Hutchinson.
 primary_entities:
 - Cassidy Hutchinson
 - Donald Trump
@@ -52,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +169,43 @@ related_stories:
   headline: Grand jury rejects Justice Department request to indict Cassidy Hutchinson
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7535
-- slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
-  headline: Congressional Democrats prepare legal filings before midterm voting
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6277
+  strength: 0.7536
 - slug: 2026-10-09-doj-convenes-grand-jury-in-case-against-cassidy-hutchinson
   headline: DOJ convenes grand jury in case against Cassidy Hutchinson
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7368
+  strength: 0.7384
 - slug: 2026-10-08-doj-seeks-to-charge-cassidy-hutchinson-for-lying-to-congress
   headline: DOJ seeks to charge Cassidy Hutchinson for lying to Congress
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6863
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6322
+  strength: 0.6865
 - slug: 2026-01-01-jack-smith-tells-house-panel-jan-6-riot-does-not-happen-without-trump
   headline: Jack Smith tells House panel Jan. 6 riot ‘does not happen’ without Trump
   publish_date: '2026-01-01'
   relation: related
-  strength: 0.6916
+  strength: 0.6912
 - slug: 2026-03-26-trump-showed-classified-map-on-2022-plane-trip-lawmaker-says
   headline: Trump showed classified map on 2022 plane trip, lawmaker says
   publish_date: '2026-03-26'
   relation: related
-  strength: 0.6636
+  strength: 0.6632
 - slug: 2026-03-25-trump-showed-classified-map-on-2022-plane-trip-raskin-letter-says
   headline: Trump showed classified map on 2022 plane trip, Raskin letter says
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.6609
+  strength: 0.6604
 - slug: 2026-01-13-jack-smith-to-testify-publicly-before-house-judiciary-on-trump-investigations
   headline: Jack Smith to testify publicly before House Judiciary on Trump investigations
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.6671
-- slug: 2026-05-22-dnc-faces-fresh-turmoil-as-ken-martin-confronts-calls-to-resign
-  headline: DNC faces fresh turmoil as Ken Martin confronts calls to resign
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6391
+  strength: 0.6675
 - slug: 2026-01-22-smith-defends-trump-investigation-at-house-hearing
   headline: Smith defends Trump investigation at House hearing
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.661
-- slug: 2026-05-23-dnc-faces-fresh-turmoil-as-ken-martin-confronts-calls-to-resign
-  headline: DNC faces fresh turmoil as Ken Martin confronts calls to resign
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6324
-- slug: 2026-05-21-dnc-releases-2024-election-autopsy-with-disclaimer-on-party-verification
-  headline: DNC releases 2024 election autopsy with disclaimer on party verification
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6304
-- slug: 2026-05-18-louisiana-sen-bill-cassidy-says-he-has-no-regrets-about-trump-impeachment
-  headline: Louisiana Sen. Bill Cassidy says he has no regrets about Trump impeachment
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6278
-- slug: 2026-05-22-dnc-releases-post-election-autopsy-after-internal-pressure-on-ken-martin
-  headline: DNC releases post-election autopsy after internal pressure on Ken Martin
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.625
-- slug: 2026-05-18-louisiana-sen-bill-cassidy-has-no-regrets-over-impeachment-vote-after-primary-lo
-  headline: Louisiana Sen. Bill Cassidy has no regrets over impeachment vote after primary loss
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6249
-- slug: 2026-01-23-jack-smith-testifies-trump-caused-jan-6-and-committed-serious-crimes
-  headline: Jack Smith testifies Trump caused Jan. 6 and committed serious crimes
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6482
-- slug: 2026-05-21-dnc-releases-post-election-autopsy-criticizing-harris-and-ken-martin
-  headline: DNC releases post-election autopsy criticizing Harris and Ken Martin
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6217
-- slug: 2026-05-21-dnc-election-autopsy-report-raises-questions-over-harris-and-gaza-omissions
-  headline: DNC election autopsy report raises questions over Harris and Gaza omissions
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6212
-- slug: 2026-05-22-dnc-election-autopsy-faults-harris-campaign-omits-biden-run-and-gaza
-  headline: DNC election autopsy faults Harris campaign, omits Biden run and Gaza
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6206
+  strength: 0.6597
 ---
-
 ## March 2024 transcript release: driver denies wheel grab; transcript corroborates Trump’s Capitol effort
 
 **Subtype:** fact
