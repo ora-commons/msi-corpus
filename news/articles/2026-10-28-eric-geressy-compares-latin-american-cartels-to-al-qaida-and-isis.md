@@ -1,9 +1,28 @@
 ---
 headline: Eric Geressy compares Latin American cartels to Al-Qaida and ISIS
-secondary_headline: Geressy alleges cartels unable to compete with U.S. forces file spurious human-rights petitions
+secondary_headline: Geressy alleges cartels unable to compete with U.S. forces file
+  spurious human-rights petitions
 publish_date: '2026-10-28'
-lede: UPI reported that Eric Geressy, senior adviser to Defense Secretary Pete Hegseth for strategy, said in opening remarks at an Americas Counter Cartel Coalition forum in Santo Domingo on Oct. 27 that Latin American drug cartels “operate as the Al-Qaida and ISIS of the Western Hemisphere.” In those opening remarks, Geressy praised the U.S. military campaign against alleged drug-trafficking boats, claiming that its first 12 months had “severed” drug-cartel maritime corridors. Speaking to defense and public security leaders from 19 Western Hemisphere nations, Geressy alleged without proof that cartels unable to compete with U.S. forces finance and run NGOs and file spurious human-rights petitions to impede military operations. Coalition leaders approved a campaign plan and governance charter outlining a unified strategy and structure for shared objectives.
-nut_graf: Geressy's opening remarks came as coalition leaders approved a campaign plan and governance charter for a unified anti-trafficking strategy and as the U.S. military carried out the 72nd known attack on alleged drug-trafficking boats since the operation launched in September 2025. UPI reported that strikes in the campaign had killed at least 243 people whom the military alleged were involved in drug trafficking; family members said some victims were fishermen and farmers. Geressy said U.S. forces and coalition partners complied with the law of armed conflict, while Democratic lawmakers, human-rights advocates and international legal experts accused the Trump administration of killing people without charges, trials or convictions.
+lede: UPI reported that Eric Geressy, senior adviser to Defense Secretary Pete Hegseth
+  for strategy, said in opening remarks at an Americas Counter Cartel Coalition forum
+  in Santo Domingo on Oct. 27 that Latin American drug cartels “operate as the Al-Qaida
+  and ISIS of the Western Hemisphere.” In those opening remarks, Geressy praised the
+  U.S. military campaign against alleged drug-trafficking boats, claiming that its
+  first 12 months had “severed” drug-cartel maritime corridors. Speaking to defense
+  and public security leaders from 19 Western Hemisphere nations, Geressy alleged
+  without proof that cartels unable to compete with U.S. forces finance and run NGOs
+  and file spurious human-rights petitions to impede military operations. Coalition
+  leaders approved a campaign plan and governance charter outlining a unified strategy
+  and structure for shared objectives.
+nut_graf: Geressy's opening remarks came as coalition leaders approved a campaign
+  plan and governance charter for a unified anti-trafficking strategy and as the U.S.
+  military carried out the 72nd known attack on alleged drug-trafficking boats since
+  the operation launched in September 2025. UPI reported that strikes in the campaign
+  had killed at least 243 people whom the military alleged were involved in drug trafficking;
+  family members said some victims were fishermen and farmers. Geressy said U.S. forces
+  and coalition partners complied with the law of armed conflict, while Democratic
+  lawmakers, human-rights advocates and international legal experts accused the Trump
+  administration of killing people without charges, trials or convictions.
 primary_entities:
 - Eric Geressy
 - Pete Hegseth
@@ -49,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +171,45 @@ related_stories:
   headline: U.S. military kills four in 71st Caribbean drug-boat strike
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6992
+  strength: 0.6997
 - slug: 2026-08-21-u-s-ecuador-conduct-joint-operations-against-drug-cartels-in-esmeraldas
   headline: U.S., Ecuador conduct joint operations against drug cartels in Esmeraldas
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6747
+  strength: 0.6753
 - slug: 2026-06-22-us-military-kills-2-in-latest-drug-boat-strike-campaign-death-toll-at-213
-  headline: US military kills 2 in latest drug boat strike; campaign death toll at 213
+  headline: US military kills 2 in latest drug boat strike; campaign death toll at
+    213
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.7129
+  strength: 0.7138
 - slug: 2026-05-18-u-s-military-strikes-alleged-drug-boat-in-caribbean-killing-3
   headline: U.S. military strikes alleged drug boat in Caribbean, killing 3
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7107
+  strength: 0.7115
 - slug: 2026-06-18-us-kills-3-in-latest-drug-boat-strike-military-campaign-death-toll-at-211
-  headline: US kills 3 in latest drug boat strike; military campaign death toll at 211
+  headline: US kills 3 in latest drug boat strike; military campaign death toll at
+    211
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6862
+  strength: 0.687
 - slug: 2026-03-09-us-military-kills-6-in-strike-on-alleged-drug-boat-in-the-pacific
   headline: US military kills 6 in strike on alleged drug boat in the Pacific
   publish_date: '2026-03-09'
   relation: related
-  strength: 0.7184
+  strength: 0.7192
 - slug: 2026-06-19-us-strike-policy-in-latin-america-carries-strategic-risks-analyst-warns
   headline: US strike policy in Latin America carries strategic risks, analyst warns
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6769
+  strength: 0.6777
 - slug: 2026-06-04-us-strike-on-alleged-drug-boat-kills-2-campaign-death-toll-reaches-207
   headline: US strike on alleged drug boat kills 2, campaign death toll reaches 207
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6875
-- slug: 2026-06-01-us-military-strike-on-alleged-drug-boat-kills-3-in-eastern-pacific
-  headline: US military strike on alleged drug boat kills 3 in eastern Pacific
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6791
-- slug: 2026-02-18-strikes-on-3-alleged-drug-boats-leave-11-dead-u-s-military-says
-  headline: Strikes on 3 alleged drug boats leave 11 dead, U.S. military says
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7066
-- slug: 2026-05-29-death-toll-from-us-strikes-on-suspected-drug-boats-in-caribbean-and-pacific-reac
-  headline: Death toll from US strikes on suspected drug boats in Caribbean and Pacific reaches 199
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6787
-- slug: 2026-05-30-us-military-strike-on-alleged-drug-boat-in-eastern-pacific-kills-3-surpassing-20
-  headline: US military strike on alleged drug boat in eastern Pacific kills 3, surpassing 200 deaths in campaign
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6756
-- slug: 2026-05-10-us-military-strike-kills-2-on-alleged-drug-boat-in-eastern-pacific
-  headline: US military strike kills 2 on alleged drug boat in eastern Pacific
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6838
-- slug: 2026-05-19-pentagon-watchdog-to-evaluate-targeting-framework-in-boat-strikes-that-killed-ne
-  headline: Pentagon watchdog to evaluate targeting framework in boat strikes that killed nearly 200
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6792
-- slug: 2026-04-27-latest-u-s-strike-on-suspected-drug-boat-kills-3-in-eastern-pacific
-  headline: Latest U.S. strike on suspected drug boat kills 3 in eastern Pacific
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6844
-- slug: 2026-05-06-u-s-military-strike-kills-3-in-eastern-pacific-after-caribbean-attack
-  headline: U.S. military strike kills 3 in eastern Pacific after Caribbean attack
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6762
-- slug: 2026-05-05-us-strike-on-alleged-drug-boat-in-eastern-pacific-kills-3
-  headline: US strike on alleged drug boat in eastern Pacific kills 3
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6764
-- slug: 2026-02-14-u-s-military-strikes-another-alleged-drug-boat-in-caribbean-killing-3
-  headline: U.S. military strikes another alleged drug boat in Caribbean, killing 3
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6918
-- slug: 2026-04-12-u-s-strikes-alleged-drug-boats-kill-5-trump-vows-hormuz-blockade
-  headline: U.S. strikes alleged drug boats kill 5, Trump vows Hormuz blockade
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6819
-- slug: 2026-02-21-u-s-military-strikes-alleged-drug-boat-killing-3
-  headline: U.S. military strikes alleged drug boat, killing 3
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6872
+  strength: 0.6882
 ---
-
 ## Eric Geressy compares Latin American cartels to Al-Qaida and ISIS
 
 **Subtype:** fact
