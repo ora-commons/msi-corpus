@@ -1,9 +1,18 @@
 ---
 headline: WMO reports carbon dioxide hit a record 426.8 parts per million in 2025
-secondary_headline: Methane reached 267% and nitrous oxide 126% of pre-industrial levels
+secondary_headline: Methane reached 267% and nitrous oxide 126% of pre-industrial
+  levels
 publish_date: '2026-10-27'
-lede: Atmospheric carbon dioxide averaged 426.8 parts per million in 2025, the highest annual concentration on record, according to the World Meteorological Organization's annual Greenhouse Gas Bulletin, announced Tuesday. The 2025 average is 153% of pre-industrial levels and 0.68% above the 423.9 parts per million recorded in 2024. Methane and nitrous oxide also reached new highs.
-nut_graf: The bulletin records new highs for carbon dioxide, methane and nitrous oxide in the same year, and the same agency expects average global temperatures to remain at or near record highs through the next five years. WMO Deputy Secretary-General Ko Barrett said carbon dioxide's long atmospheric lifetime means it will affect the global climate for decades and even centuries.
+lede: Atmospheric carbon dioxide averaged 426.8 parts per million in 2025, the highest
+  annual concentration on record, according to the World Meteorological Organization's
+  annual Greenhouse Gas Bulletin, announced Tuesday. The 2025 average is 153% of pre-industrial
+  levels and 0.68% above the 423.9 parts per million recorded in 2024. Methane and
+  nitrous oxide also reached new highs.
+nut_graf: The bulletin records new highs for carbon dioxide, methane and nitrous oxide
+  in the same year, and the same agency expects average global temperatures to remain
+  at or near record highs through the next five years. WMO Deputy Secretary-General
+  Ko Barrett said carbon dioxide's long atmospheric lifetime means it will affect
+  the global climate for decades and even centuries.
 primary_entities:
 - World Meteorological Organization
 - Ko Barrett
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -116,108 +126,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6328
-- slug: 2026-10-01-swiss-glaciers-lose-19-4-of-ice-since-2021-report-finds
-  headline: Swiss glaciers lose 19.4% of ice since 2021, report finds
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.598
-- slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
-  headline: WMO warns strongest El Niño in 70 years set to intensify into winter
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6035
-- slug: 2026-09-15-study-finds-pollution-spiked-after-state-department-ended-embassy-monitoring
-  headline: Study finds pollution spiked after State Department ended embassy monitoring
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5989
-- slug: 2026-09-10-august-2026-ties-july-2023-as-hottest-month-on-record-copernicus-reports
-  headline: August 2026 ties July 2023 as hottest month on record, Copernicus reports
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6119
-- slug: 2026-08-31-study-finds-air-conditioning-saved-nearly-58-000-us-lives-over-decade
-  headline: Study finds air conditioning saved nearly 58,000 US lives over decade
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6344
-- slug: 2026-08-24-copernicus-reports-oceans-hit-hottest-temperatures-on-record
-  headline: Copernicus reports oceans hit hottest temperatures on record
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6095
-- slug: 2026-08-13-fossil-study-prehistoric-co2-surge-withered-forests-not-greened-them
-  headline: 'Fossil study: prehistoric CO2 surge withered forests, not greened them'
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6212
 - slug: 2026-05-27-un-75-chance-global-warming-breaches-1-5-c-in-next-five-years
   headline: 'UN: 75% chance global warming breaches 1.5°C in next five years'
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6964
-- slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
-  headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6083
-- slug: 2026-07-11-microsoft-amazon-and-google-emissions-rise-nearly-a-fifth-in-year
-  headline: Microsoft, Amazon and Google emissions rise nearly a fifth in year
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6243
-- slug: 2026-07-11-big-tech-carbon-emissions-jump-nearly-19-to-rival-france
-  headline: Big tech carbon emissions jump nearly 19% to rival France
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6209
+  strength: 0.698
 - slug: 2026-01-14-climate-change-blamed-for-earth-s-near-record-hot-year-in-2025
   headline: Climate change blamed for Earth’s near-record hot year in 2025
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.6861
+  strength: 0.6876
 - slug: 2026-01-14-us-greenhouse-gas-emissions-rose-in-2025-study-finds-after-cold-winter
   headline: US greenhouse gas emissions rose in 2025, study finds after cold winter
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.6854
-- slug: 2026-06-17-ocean-marine-heatwaves-more-than-triple-since-early-1990s-report-finds
-  headline: Ocean marine heatwaves more than triple since early 1990s, report finds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.615
-- slug: 2026-05-16-global-warming-reduces-oxygen-in-rivers-worldwide-threatening-fish-and-creating-
-  headline: Global warming reduces oxygen in rivers worldwide, threatening fish and creating dead zones
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.627
-- slug: 2026-06-04-wildfire-smoke-reverses-us-ozone-progress-study-finds
-  headline: Wildfire smoke reverses US ozone progress, study finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6148
-- slug: 2026-05-19-scientists-narrow-climate-worst-and-best-case-projections-but-1-5-goal-slipping
-  headline: Scientists narrow climate worst and best case projections, but 1.5 goal slipping
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6139
-- slug: 2026-05-19-scientists-revise-global-warming-projections-say-worst-and-best-cases-no-longer-
-  headline: Scientists revise global warming projections, say worst and best cases no longer plausible
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6111
-- slug: 2026-05-18-scientists-revise-global-warming-futures-say-1-5-c-goal-slipping
-  headline: Scientists revise global warming futures, say 1.5°C goal slipping
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6106
+  strength: 0.686
 ---
-
 ## WMO reports carbon dioxide hit a record 426.8 parts per million in 2025
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
-headline: Tennessee Highway Patrol deploys aviation assets and troopers for Morley search
-secondary_headline: Prison records list Morley's 'low' supervision level and December 2083 release eligibility
+headline: Tennessee Highway Patrol deploys aviation assets and troopers for Morley
+  search
+secondary_headline: Prison records list Morley's 'low' supervision level and December
+  2083 release eligibility
 publish_date: '2026-10-27'
-lede: The Tennessee Highway Patrol deployed aviation assets and state troopers to assist the search for Jacob Allen Morley after the 28-year-old escaped on Sunday from the Northwest Correctional Complex in Tiptonville, about 90 miles (145 km) north of Memphis, according to the Tennessee Department of Correction. Prison records listed Morley's supervision level as "low" and said he was not eligible for release until December 2083. Morley was serving a life sentence after his conviction for first-degree murder in the 2022 killing of colleague Cody Birchfield.
-nut_graf: The Tennessee Highway Patrol deployment added aviation assets and state troopers to the search after prison staff confirmed Morley was unaccounted for on Sunday night. Investigators released security-camera video they said showed Morley stealing a nearby farm's work car. Separately, the Tennessee Department of Correction said a reward of up to $2,500 (£1,900) was being offered for information leading to his arrest.
+lede: The Tennessee Highway Patrol deployed aviation assets and state troopers to
+  assist the search for Jacob Allen Morley after the 28-year-old escaped on Sunday
+  from the Northwest Correctional Complex in Tiptonville, about 90 miles (145 km)
+  north of Memphis, according to the Tennessee Department of Correction. Prison records
+  listed Morley's supervision level as "low" and said he was not eligible for release
+  until December 2083. Morley was serving a life sentence after his conviction for
+  first-degree murder in the 2022 killing of colleague Cody Birchfield.
+nut_graf: The Tennessee Highway Patrol deployment added aviation assets and state
+  troopers to the search after prison staff confirmed Morley was unaccounted for on
+  Sunday night. Investigators released security-camera video they said showed Morley
+  stealing a nearby farm's work car. Separately, the Tennessee Department of Correction
+  said a reward of up to $2,500 (£1,900) was being offered for information leading
+  to his arrest.
 primary_entities:
 - Jacob Allen Morley
 - Tennessee Department of Correction
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +155,28 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-26-tennessee-department-of-correction-offers-up-to-2-500-reward-for-jacob-morley
-  headline: Tennessee Department of Correction offers up to $2,500 reward for Jacob Morley
+  headline: Tennessee Department of Correction offers up to $2,500 reward for Jacob
+    Morley
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8834
+  strength: 0.8846
 - slug: 2026-10-27-hornbeak-video-shows-jacob-morley-about-15-miles-from-tennessee-prison
   headline: Hornbeak video shows Jacob Morley about 15 miles from Tennessee prison
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8622
+  strength: 0.8637
 - slug: 2026-10-26-tbi-asks-residents-to-check-cameras-for-jacob-allen-morley-and-stolen-pickup
-  headline: TBI asks residents to check cameras for Jacob Allen Morley and stolen pickup
+  headline: TBI asks residents to check cameras for Jacob Allen Morley and stolen
+    pickup
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8505
+  strength: 0.851
 - slug: 2026-10-26-tennessee-authorities-hunt-for-jacob-morley-after-prison-escape
   headline: Tennessee authorities hunt for Jacob Morley after prison escape
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8443
-- slug: 2026-10-23-jury-convicts-ohio-man-of-murder-in-deputy-s-death
-  headline: Jury convicts Ohio man of murder in deputy's death
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6199
-- slug: 2026-10-25-federal-court-documents-show-herndon-has-been-charged-in-a-second-shooting-incid
-  headline: Federal court documents show Herndon has been charged in a second shooting incident
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6061
-- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
-  headline: Mississippi releases body-camera footage of fatal toddler police shooting
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6106
-- slug: 2026-10-23-prosecutors-and-defense-differ-over-rodney-hinton-jr-s-mental-state
-  headline: Prosecutors and defense differ over Rodney Hinton Jr.'s mental state
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6059
-- slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
-  headline: Foster remains certified after resigning from Senatobia police force
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6015
-- slug: 2026-10-20-kay-ivey-commutes-toforest-johnson-s-death-sentence-to-life-without-parole
-  headline: Kay Ivey commutes Toforest Johnson's death sentence to life without parole
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5985
-- slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
-  headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6183
-- slug: 2026-08-18-georgia-man-charged-in-biffle-home-burglary-after-fatal-crash
-  headline: Georgia man charged in Biffle home burglary after fatal crash
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.621
-- slug: 2026-08-17-louisiana-man-faces-murder-charge-after-driving-wife-s-body-across-states
-  headline: Louisiana man faces murder charge after driving wife's body across states
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6021
-- slug: 2026-07-13-family-demands-answers-after-memphis-task-force-agent-kills-man-in-crisis
-  headline: Family demands answers after Memphis task force agent kills man in crisis
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6089
-- slug: 2026-07-10-sheriff-places-officer-on-leave-after-mississippi-jail-inmate-death
-  headline: Sheriff places officer on leave after Mississippi jail inmate death
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6088
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6106
-- slug: 2026-06-01-oregon-man-named-loony-toon-sentenced-to-20-years-for-shooting-at-police
-  headline: Oregon man named Loony Toon sentenced to 20 years for shooting at police
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5986
-- slug: 2026-05-16-chud-the-builder-held-on-1-25m-bond-for-courthouse-shooting
-  headline: ‘Chud the Builder’ held on $1.25M bond for courthouse shooting
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5993
-- slug: 2026-02-20-south-carolina-officer-acquitted-in-unarmed-man-s-shooting-death
-  headline: South Carolina officer acquitted in unarmed man's shooting death
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6161
-- slug: 2026-01-14-thieves-burglarize-greg-biffle-s-north-carolina-home-weeks-after-fatal-plane-cra
-  headline: Thieves burglarize Greg Biffle's North Carolina home weeks after fatal plane crash
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6136
+  strength: 0.8465
 ---
-
 ## Tennessee Highway Patrol deploys aviation assets and troopers for Morley search
 
 **Subtype:** fact
