@@ -92,6 +92,8 @@ related_stories:
   publish_date: '2026-02-08'
   relation: related
   strength: 0.6501
+analyses:
+- '2026-10-28-warrants-in-cherokee-high-case-allege-a-dated-coordinated-plan-public-record-lea'
 ---
 ## Police arrest three in alleged Cherokee High School shooting plot
 
@@ -132,3 +134,8 @@ Davis added that law enforcement agencies working together had “completely dis
 **Publication date:** 2026-10-28
 **Title:** Warrants show suspects in alleged school shooting plot had chosen a date
 **URL:** https://apnews.com/article/georgia-school-shooting-plot-arrests-c6751e11c9bde87e83ddf464f392c77c
+
+---
+
+<!-- analysis-link:2026-10-28-warrants-in-cherokee-high-case-allege-a-dated-coordinated-plan-public-record-lea -->
+**Going deeper:** [Read MSI's analysis of Follow Cherokee County court filings: whether charging documents specify the weapons'' provenance and →](/analyses/2026-10-28-warrants-in-cherokee-high-case-allege-a-dated-coordinated-plan-public-record-lea)
