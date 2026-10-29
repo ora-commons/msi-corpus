@@ -2,8 +2,18 @@
 headline: Dante Milne denies hijack threat after United flight returns to Las Vegas
 secondary_headline: Police charged Milne with making a threat or offering false information
 publish_date: '2026-10-28'
-lede: Dante Milne denied intending to hijack or harm anyone after a text he sent during a United flight prompted the aircraft to return to Las Vegas, according to a police report. The 25-year-old passenger was charged with making a threat or offering false information in reference to an act of terrorism, and attorney James Gallo said Milne plans to plead not guilty. The flight was headed to Newark, New Jersey, when it turned back shortly after takeoff Saturday night.
-nut_graf: The police report documents an explicit hijack-and-crash statement and Milne’s denial that he intended harm. Milne told officers the wording was poorly stated banter with a co-worker, while police charged him with making a threat or offering false information in reference to an act of terrorism. After a flight attendant reported the message, the aircraft returned to Las Vegas and Milne was arrested; attorney James Gallo said Milne plans to plead not guilty.
+lede: Dante Milne denied intending to hijack or harm anyone after a text he sent during
+  a United flight prompted the aircraft to return to Las Vegas, according to a police
+  report. The 25-year-old passenger was charged with making a threat or offering false
+  information in reference to an act of terrorism, and attorney James Gallo said Milne
+  plans to plead not guilty. The flight was headed to Newark, New Jersey, when it
+  turned back shortly after takeoff Saturday night.
+nut_graf: The police report documents an explicit hijack-and-crash statement and Milne’s
+  denial that he intended harm. Milne told officers the wording was poorly stated
+  banter with a co-worker, while police charged him with making a threat or offering
+  false information in reference to an act of terrorism. After a flight attendant
+  reported the message, the aircraft returned to Las Vegas and Milne was arrested;
+  attorney James Gallo said Milne plans to plead not guilty.
 primary_entities:
 - Dante Milne
 - James Gallo
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,19 @@ related_stories:
   headline: Police arrest passenger over alleged threat that diverted United flight
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8134
+  strength: 0.8133
 - slug: 2026-10-07-passenger-arrested-after-stealing-tug-crashing-it-at-john-wayne-airport
   headline: Passenger arrested after stealing tug, crashing it at John Wayne Airport
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6598
-- slug: 2026-09-08-long-realty-severs-ties-with-agent-after-air-rage-arrest
-  headline: Long Realty severs ties with agent after air-rage arrest
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6082
-- slug: 2026-08-22-passenger-treated-after-device-fire-on-american-airlines-flight
-  headline: Passenger treated after device fire on American Airlines flight
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5907
-- slug: 2026-08-06-southwest-blocks-ice-attempt-to-board-dallas-flight-without-judicial-warrant
-  headline: Southwest blocks ICE attempt to board Dallas flight without judicial warrant
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6023
-- slug: 2026-07-20-united-employee-threatens-to-call-ice-on-passenger-at-sfo
-  headline: United employee threatens to call ICE on passenger at SFO
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.599
+  strength: 0.659
 - slug: 2026-05-04-united-jet-strikes-light-pole-damages-delivery-truck-while-landing-in-newark
-  headline: United jet strikes light pole, damages delivery truck while landing in Newark
+  headline: United jet strikes light pole, damages delivery truck while landing in
+    Newark
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.6515
-- slug: 2026-05-31-united-flight-to-spain-returns-to-newark-after-possible-security-threat
-  headline: United flight to Spain returns to Newark after possible security threat
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6367
-- slug: 2026-06-08-man-used-fake-boarding-pass-to-board-united-flight-at-houston-airport-feds-say
-  headline: Man used fake boarding pass to board United flight at Houston airport, feds say
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-21-american-airlines-passenger-bites-fellow-flyer-pilot-says
-  headline: American Airlines passenger bites fellow flyer, pilot says
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6073
-- slug: 2026-05-05-united-plane-avoids-catastrophe-after-hitting-truck-light-pole-in-newark
-  headline: United plane avoids catastrophe after hitting truck, light pole in Newark
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6315
-- slug: 2026-02-27-convicted-stowaway-svetlana-dali-arrested-again-after-newark-to-milan-trip
-  headline: Convicted stowaway Svetlana Dali arrested again after Newark-to-Milan trip
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6461
-- slug: 2026-06-22-two-more-arrested-in-alleged-white-house-ufc-attack-plot
-  headline: Two more arrested in alleged White House UFC attack plot
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6011
-- slug: 2026-06-04-ntsb-united-jet-was-too-slow-and-too-low-before-newark-landing-accident
-  headline: 'NTSB: United jet was too slow and too low before Newark landing accident'
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6131
-- slug: 2026-03-28-united-airlines-flight-narrowly-avoids-military-helicopter-near-california-airpo
-  headline: United Airlines flight narrowly avoids military helicopter near California airport
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6348
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.611
-- slug: 2026-02-06-man-arrested-over-alleged-cyberstalking-in-minnesota-ice-crackdown
-  headline: Man arrested over alleged cyberstalking in Minnesota ICE crackdown
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6051
-- slug: 2026-01-21-toronto-man-pleads-not-guilty-to-posing-as-pilot-to-obtain-hundreds-of-free-airl
-  headline: Toronto man pleads not guilty to posing as pilot to obtain hundreds of free airline tickets
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6062
-- slug: 2026-02-27-tampa-airport-says-pajama-ban-post-was-a-joke-after-backlash
-  headline: Tampa airport says pajama “ban” post was a joke after backlash
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6007
-- slug: 2026-03-25-trump-showed-classified-map-on-2022-plane-trip-raskin-letter-says
-  headline: Trump showed classified map on 2022 plane trip, Raskin letter says
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.5923
+  strength: 0.6508
 ---
-
 ## Dante Milne denies hijack threat after United flight returns to Las Vegas
 
 **Subtype:** fact

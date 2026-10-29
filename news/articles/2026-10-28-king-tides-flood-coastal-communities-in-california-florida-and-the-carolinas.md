@@ -2,8 +2,14 @@
 headline: King tides flood coastal communities in California, Florida and the Carolinas
 secondary_headline: Forecasters say some areas could see more flooding into the weekend
 publish_date: '2026-10-28'
-lede: King tides flooded streets and sent seawater into homes and businesses in beach communities in California, Florida and the Carolinas, the Associated Press reported. The tides began with the full moon earlier in the week, and forecasters said some areas could see flooding into the weekend.
-nut_graf: The flooding sent seawater into homes and businesses, shut traffic on a flooded section of the Pacific Coast Highway and complicated access to a Fort Lauderdale boat show. Flood warnings covered most of Florida's Atlantic coast through early Friday, while forecasters warned of high surf and rip currents through the weekend.
+lede: King tides flooded streets and sent seawater into homes and businesses in beach
+  communities in California, Florida and the Carolinas, the Associated Press reported.
+  The tides began with the full moon earlier in the week, and forecasters said some
+  areas could see flooding into the weekend.
+nut_graf: The flooding sent seawater into homes and businesses, shut traffic on a
+  flooded section of the Pacific Coast Highway and complicated access to a Fort Lauderdale
+  boat show. Flood warnings covered most of Florida's Atlantic coast through early
+  Friday, while forecasters warned of high surf and rip currents through the weekend.
 primary_entities:
 - California
 - Florida
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +149,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas.png
-  alt: 'Illustration accompanying article: King tides flood coastal communities in California, Florida and the Carolinas'
+  alt: 'Illustration accompanying article: King tides flood coastal communities in
+    California, Florida and the Carolinas'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
+  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding
+    risk
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.736
+  strength: 0.7366
 - slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
   headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6501
+  strength: 0.6514
 - slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
   headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6879
+  strength: 0.6886
 - slug: 2026-10-15-santa-ana-winds-raise-california-wildfire-risk-through-saturday
   headline: Santa Ana winds raise California wildfire risk through Saturday
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6561
+  strength: 0.6566
 - slug: 2026-09-30-california-prepares-for-kelvin-wave-set-to-raise-sea-levels-a-foot
   headline: California prepares for Kelvin wave set to raise sea levels a foot
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7301
+  strength: 0.7313
 - slug: 2026-10-15-newsom-declares-california-state-of-emergency-ahead-of-el-ni-o-season
   headline: Newsom declares California state of emergency ahead of El Niño season
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6536
+  strength: 0.6541
 - slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
   headline: California readies for potentially historic El Niño winter
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6872
+  strength: 0.6878
 - slug: 2026-09-28-kelvin-wave-could-raise-california-sea-levels-by-up-to-a-foot-for-months
   headline: Kelvin wave could raise California sea levels by up to a foot for months
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7084
-- slug: 2026-10-10-tropical-storm-rachel-shifts-course-toward-southern-california-coast
-  headline: Tropical Storm Rachel shifts course toward Southern California coast
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6495
-- slug: 2026-10-03-southern-california-enters-week-long-heatwave-with-temperatures-near-100f
-  headline: Southern California enters week-long heatwave with temperatures near 100F
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6591
-- slug: 2026-10-05-nws-issues-extreme-heat-warnings-for-southern-california-through-thursday
-  headline: NWS issues extreme heat warnings for Southern California through Thursday
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6453
-- slug: 2026-09-25-nor-easter-lashes-new-england-with-high-winds-heavy-rain
-  headline: Nor'easter lashes New England with high winds, heavy rain
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6437
-- slug: 2026-09-23-hurricane-polo-reaches-category-5-off-mexico-s-pacific-coast
-  headline: Hurricane Polo reaches Category 5 off Mexico's Pacific coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6389
-- slug: 2026-09-06-hurricane-marie-generates-life-threatening-surf-at-southern-california-beaches
-  headline: Hurricane Marie generates life-threatening surf at southern California beaches
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6854
-- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
-  headline: King tides kill two along California coast, advisories issued
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7914
-- slug: 2026-09-10-hurricane-lowell-damages-kauai-forecaster-says-hawaii-storm-season-not-over
-  headline: Hurricane Lowell damages Kauai; forecaster says Hawaii storm season not over
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6396
-- slug: 2026-01-03-heavy-rain-and-king-tides-flood-northern-california-one-killed-in-santa-barbara
-  headline: Heavy rain and king tides flood Northern California; one killed in Santa Barbara
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7913
-- slug: 2026-01-04-more-storms-forecast-for-california-as-flood-cleanup-continues-after-king-tide-s
-  headline: More storms forecast for California as flood cleanup continues after King Tide surge
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7381
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7001
-- slug: 2026-02-16-tornado-watch-issued-as-storm-system-hits-mississippi-and-louisiana
-  headline: Tornado watch issued as storm system hits Mississippi and Louisiana
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6899
+  strength: 0.7087
 ---
-
 ## King tides flood coastal communities in California, Florida and the Carolinas
 
 **Subtype:** fact
