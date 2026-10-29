@@ -2,8 +2,19 @@
 headline: MZX buys Southaven homes, requiring owners not to join residents' suit
 secondary_headline: A realtor said the buyout target was 418 Colonial Hills properties
 publish_date: '2026-10-28'
-lede: Real estate agents working for xAI are going door to door in Southaven, Mississippi, making market-value offers to buy homes if the owners agree not to join Jason Haley’s class action over noise from the company’s gas-turbine power plant. A realtor told one resident the effort targeted 418 homes, while DeSoto County records show MZX, the xAI subsidiary operating the site, bought five properties since Oct. 9.
-nut_graf: The purchases turn a dispute over turbine noise and the EPA’s finding that turbines ran without federally required permits into a test of whether owners will sell their homes on condition that they not join Jason Haley’s class action. xAI denies the noise allegations. MZX’s letter says it requires property for business purposes, while the realtor and Mayor Darren Musselwhite say the homes will house staff. Residents and plaintiffs describe sleep disruption, air pollution and the company’s operating permit history, while local officials and businesses cite jobs, tax revenue and increased activity.
+lede: Real estate agents working for xAI are going door to door in Southaven, Mississippi,
+  making market-value offers to buy homes if the owners agree not to join Jason Haley’s
+  class action over noise from the company’s gas-turbine power plant. A realtor told
+  one resident the effort targeted 418 homes, while DeSoto County records show MZX,
+  the xAI subsidiary operating the site, bought five properties since Oct. 9.
+nut_graf: The purchases turn a dispute over turbine noise and the EPA’s finding that
+  turbines ran without federally required permits into a test of whether owners will
+  sell their homes on condition that they not join Jason Haley’s class action. xAI
+  denies the noise allegations. MZX’s letter says it requires property for business
+  purposes, while the realtor and Mayor Darren Musselwhite say the homes will house
+  staff. Residents and plaintiffs describe sleep disruption, air pollution and the
+  company’s operating permit history, while local officials and businesses cite jobs,
+  tax revenue and increased activity.
 primary_entities:
 - xAI
 - MZX
@@ -50,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +160,24 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-28-companies-develop-quieter-aircraft-as-drone-deliveries-expand
-  headline: Companies develop quieter aircraft as drone deliveries expand
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5994
-- slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
-  headline: Local resistance pressures tech giants ahead of the U.S. midterms
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5905
-- slug: 2026-09-27-developer-offers-hazle-township-households-10-000-each-for-data-center
-  headline: Developer offers Hazle Township households $10,000 each for data center
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6384
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6159
-- slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6212
 - slug: 2026-08-03-justice-department-asks-judge-to-dismiss-naacp-lawsuit-against-xai
   headline: Justice Department asks judge to dismiss NAACP lawsuit against xAI
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6642
+  strength: 0.6641
 - slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  headline: xAI to build $20 billion data center in Mississippi amid environmental pushback
+  headline: xAI to build $20 billion data center in Mississippi amid environmental
+    pushback
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.7248
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5888
+  strength: 0.7256
 - slug: 2026-06-17-doj-seeks-to-quash-environmental-lawsuit-against-musk-s-xai-citing-national-secu
-  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national security
+  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national
+    security
   publish_date: '2026-06-17'
   relation: related
   strength: 0.6718
-- slug: 2026-08-07-gilroy-residents-protest-amazon-data-center-approved-without-public-vote
-  headline: Gilroy residents protest Amazon data center approved without public vote
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5936
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5915
-- slug: 2026-06-14-juneau-plans-to-raze-historic-homes-on-telephone-hill-for-housing
-  headline: Juneau plans to raze historic homes on Telephone Hill for housing
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6269
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6074
-- slug: 2026-06-14-georgia-residents-push-for-referendum-to-block-rural-datacenter
-  headline: Georgia residents push for referendum to block rural datacenter
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6051
-- slug: 2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-inten
-  headline: Southern Arizona data centers advance as fights over power, water and rates intensify
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6359
-- slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
-  headline: Seattle enacts year-long ban on new AI datacenters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5932
-- slug: 2026-05-14-hill-county-texas-pauses-new-data-centers-in-rural-unincorporated-areas-for-a-ye
-  headline: Hill County Texas pauses new data centers in rural unincorporated areas for a year
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6066
-- slug: 2026-06-04-seattle-council-committees-pass-year-long-moratorium-on-new-data-centers
-  headline: Seattle council committees pass year-long moratorium on new data centers
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5917
-- slug: 2026-05-14-texas-county-issues-first-moratorium-on-data-centers-to-study-impacts
-  headline: Texas county issues first moratorium on data centers to study impacts
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5928
-- slug: 2026-03-31-michigan-neighborhoods-use-solarize-group-buys-to-cut-rooftop-solar-costs
-  headline: Michigan neighborhoods use Solarize group buys to cut rooftop solar costs
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6019
 ---
-
 ## MZX buys Southaven homes, requiring owners not to join residents' suit
 
 **Subtype:** fact

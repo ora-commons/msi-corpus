@@ -2,8 +2,17 @@
 headline: McKay and Eubanks call for grassroots opposition to AI data centers
 secondary_headline: Nearly $200 billion in blocked or delayed U.S. data center projects
 publish_date: '2026-10-28'
-lede: Philip Eubanks and Adam McKay said Climate Emergency Fund has put half of its funding toward grassroots groups opposing AI data centers. In a commentary published Oct. 28, 2026, in The Guardian, the two cited Data Center Watch's count of at least 120 U.S. data center projects worth nearly $200 billion blocked or delayed in the first half of 2026, and Heatmap News' finding that at least 20 projects were canceled outright during the first three months of 2026, a record.
-nut_graf: McKay and Eubanks are urging funders to shift resources toward community resistance to data centers as they argue that AI infrastructure and fossil-fuel expansion deepen the same climate crisis. Their proposal places present effects, including water use, gas-fired power and the use of AI in new oil and gas exploration and extraction, ahead of debates over speculative future risks.
+lede: Philip Eubanks and Adam McKay said Climate Emergency Fund has put half of its
+  funding toward grassroots groups opposing AI data centers. In a commentary published
+  Oct. 28, 2026, in The Guardian, the two cited Data Center Watch's count of at least
+  120 U.S. data center projects worth nearly $200 billion blocked or delayed in the
+  first half of 2026, and Heatmap News' finding that at least 20 projects were canceled
+  outright during the first three months of 2026, a record.
+nut_graf: McKay and Eubanks are urging funders to shift resources toward community
+  resistance to data centers as they argue that AI infrastructure and fossil-fuel
+  expansion deepen the same climate crisis. Their proposal places present effects,
+  including water use, gas-fired power and the use of AI in new oil and gas exploration
+  and extraction, ahead of debates over speculative future risks.
 primary_entities:
 - Climate Emergency Fund
 - Adam McKay
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,7 +155,7 @@ related_stories:
   headline: AI firms seek UK datacentre compact before opposition spreads
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7067
+  strength: 0.7063
 - slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
   headline: Local resistance pressures tech giants ahead of the U.S. midterms
   publish_date: '2026-10-22'
@@ -155,12 +165,13 @@ related_stories:
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7003
+  strength: 0.7004
 - slug: 2026-09-24-climate-protesters-picket-openai-google-amazon-offices-during-nyc-climate-week
-  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate week
+  headline: Climate protesters picket OpenAI, Google, Amazon offices during NYC climate
+    week
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7412
+  strength: 0.7406
 - slug: 2026-10-02-aws-pledges-over-1-billion-to-communities-amid-data-center-backlash
   headline: AWS pledges over $1 billion to communities amid data center backlash
   publish_date: '2026-10-02'
@@ -170,79 +181,18 @@ related_stories:
   headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.683
+  strength: 0.6826
 - slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
   headline: Tech CEOs and White House split on global AI governance at UN
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6851
+  strength: 0.6849
 - slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
   headline: Trump, tech leaders suggest China is behind data-center opposition
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.7082
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7478
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7039
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7148
-- slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
-  headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6996
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7032
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7002
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6853
-- slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
-  headline: Two-thirds of planned US AI datacenters built on drought-hit land
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.718
-- slug: 2026-06-24-ai-expansion-strains-climate-progress-water-supplies-experts-say
-  headline: AI expansion strains climate progress, water supplies, experts say
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6929
-- slug: 2026-07-03-ai-data-centers-consume-as-much-as-12-times-more-water-indirectly-than-directly-
-  headline: AI data centers consume as much as 12 times more water indirectly than directly, lab finds
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6816
-- slug: 2026-06-14-o-leary-blames-china-for-utah-data-center-opposition
-  headline: O'Leary blames China for Utah data center opposition
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6803
-- slug: 2026-03-29-tech-climate-goals-under-pressure-as-ai-boosts-data-center-energy-demand
-  headline: Tech climate goals under pressure as AI boosts data-center energy demand
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7124
+  strength: 0.708
 ---
-
 ## McKay and Eubanks call for grassroots opposition to AI data centers
 
 **Subtype:** fact
