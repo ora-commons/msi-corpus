@@ -1,9 +1,19 @@
 ---
 headline: Cornell faculty advance no-confidence vote over rape-case handling
-secondary_headline: Twenty female science and engineering faculty urge Kotlikoff to resign
+secondary_headline: Twenty female science and engineering faculty urge Kotlikoff to
+  resign
 publish_date: '2026-10-29'
-lede: Cornell University faculty voted down an attempt to delay a no-confidence resolution in the administration and will proceed with an electronic ballot through 6 November, after an emotional faculty meeting on Wednesday over the school's handling of a 2024 gang-rape case. Professors at the Ivy League university in Ithaca, New York, split during the closed-door meeting between those urging patience and those demanding immediate action, according to a recording obtained by the Associated Press.
-nut_graf: The largely symbolic vote is the latest accountability test for Cornell leaders over their handling of a woman's report that she was raped by at least seven male students at a fraternity in 2024 — a case that has drawn mass campus protests, the reopening of an investigation by New York prosecutors, and the appointment of the state attorney general as special counsel.
+lede: Cornell University faculty voted down an attempt to delay a no-confidence resolution
+  in the administration and will proceed with an electronic ballot through 6 November,
+  after an emotional faculty meeting on Wednesday over the school's handling of a
+  2024 gang-rape case. Professors at the Ivy League university in Ithaca, New York,
+  split during the closed-door meeting between those urging patience and those demanding
+  immediate action, according to a recording obtained by the Associated Press.
+nut_graf: The largely symbolic vote is the latest accountability test for Cornell
+  leaders over their handling of a woman's report that she was raped by at least seven
+  male students at a fraternity in 2024 — a case that has drawn mass campus protests,
+  the reopening of an investigation by New York prosecutors, and the appointment of
+  the state attorney general as special counsel.
 primary_entities:
 - Cornell University
 - Ithaca
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,43 @@ related_stories:
   headline: Cornell faculty schedule no-confidence vote over 2024 gang-rape allegations
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8877
+  strength: 0.8879
 - slug: 2026-10-28-cornell-disputes-letter-depicting-kotlikoff-s-response-to-jane-doe
   headline: Cornell disputes letter depicting Kotlikoff's response to Jane Doe
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7896
+  strength: 0.7901
 - slug: 2026-10-27-cornell-university-reviews-dorm-placement-of-student-accused-of-rape
   headline: Cornell University reviews dorm placement of student accused of rape
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7942
+  strength: 0.7949
 - slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
   headline: Cornell faculty file no-confidence resolution over sexual assault response
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8675
+  strength: 0.8674
 - slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
   headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7758
+  strength: 0.776
 - slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
   headline: Cornell president says he knew of assault report but didn't follow up
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8017
+  strength: 0.8021
 - slug: 2026-10-20-jane-doe-says-cornell-president-s-response-left-her-feeling-disbelieved
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.755
+  strength: 0.7553
 - slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
   headline: Cornell suspends fraternity parties for academic year after rape allegations
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7836
-- slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
-  headline: The New York Times first publishes Doe's letter; her lawyer authenticates it
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7371
-- slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
-  headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7711
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7875
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7948
-- slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
-  headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7715
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7951
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.786
-- slug: 2026-10-06-cornell-trustees-appoint-sally-yates-to-review-sexual-misconduct-response
-  headline: Cornell trustees appoint Sally Yates to review sexual misconduct response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7463
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7451
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7726
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7539
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7334
+  strength: 0.7844
 ---
-
 ## Cornell faculty advance no-confidence vote over rape-case handling
 
 **Subtype:** fact

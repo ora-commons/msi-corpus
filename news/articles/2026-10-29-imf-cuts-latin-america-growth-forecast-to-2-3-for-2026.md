@@ -1,9 +1,21 @@
 ---
 headline: IMF cuts Latin America growth forecast to 2.3% for 2026
-secondary_headline: Economist outlines three scenarios for Latin America's growth path
+secondary_headline: Economist outlines three scenarios for Latin America's growth
+  path
 publish_date: '2026-10-29'
-lede: Latin America and the Caribbean will grow about 2.3% this year, according to the International Monetary Fund's October forecast, down from 2.5% in 2025. Economist César Addario Soljancic, in the latest essay of a series, lays out three scenarios — optimistic, baseline and pessimistic — for the region through the rest of the decade and argues its direction will hinge on choices its governments make.
-nut_graf: The Fund expects only a modest pickup to 2.5% in 2027, and the World Bank estimates a lower 2.2% for this year — a pace the series describes as a low-growth trap in which economies expand enough to keep moving but too little to substantially improve living standards or close the gap with advanced economies. The IMF links the downgrade to the energy shock from the war in the Middle East, and Soljancic writes that whether the region's next decade brings sustained prosperity or another cycle of missed opportunities will depend less on external circumstances than on the choices its governments make and their capacity to carry them out.
+lede: Latin America and the Caribbean will grow about 2.3% this year, according to
+  the International Monetary Fund's October forecast, down from 2.5% in 2025. Economist
+  César Addario Soljancic, in the latest essay of a series, lays out three scenarios
+  — optimistic, baseline and pessimistic — for the region through the rest of the
+  decade and argues its direction will hinge on choices its governments make.
+nut_graf: The Fund expects only a modest pickup to 2.5% in 2027, and the World Bank
+  estimates a lower 2.2% for this year — a pace the series describes as a low-growth
+  trap in which economies expand enough to keep moving but too little to substantially
+  improve living standards or close the gap with advanced economies. The IMF links
+  the downgrade to the energy shock from the war in the Middle East, and Soljancic
+  writes that whether the region's next decade brings sustained prosperity or another
+  cycle of missed opportunities will depend less on external circumstances than on
+  the choices its governments make and their capacity to carry them out.
 primary_entities:
 - International Monetary Fund
 - World Bank
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +158,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-08-usmca-annual-review-reshapes-latin-america-s-nearshoring-outlook
-  headline: USMCA annual review reshapes Latin America's nearshoring outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7396
 - slug: 2026-09-10-latin-america-projected-to-grow-2-2-in-2026-eclac-says
   headline: Latin America projected to grow 2.2% in 2026, ECLAC says
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8508
+  strength: 0.8527
+- slug: 2026-10-08-usmca-annual-review-reshapes-latin-america-s-nearshoring-outlook
+  headline: USMCA annual review reshapes Latin America's nearshoring outlook
+  publish_date: '2026-10-08'
+  relation: related
+  strength: 0.7389
 - slug: 2026-10-13-imf-warns-global-economy-nearing-resilience-limits-as-oil-stocks-deplete
   headline: IMF warns global economy nearing resilience limits as oil stocks deplete
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7034
+  strength: 0.7029
 - slug: 2026-09-24-latin-america-debt-at-52-of-gdp-limits-fiscal-space-eclac-finds
   headline: Latin America debt at 52% of GDP limits fiscal space, ECLAC finds
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7636
+  strength: 0.7645
 - slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
   headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6653
+  strength: 0.6637
 - slug: 2026-08-27-latin-america-stuck-in-low-growth-trap-eclac-projects-2-2-for-2026
   headline: Latin America stuck in low-growth trap, ECLAC projects 2.2% for 2026
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8215
+  strength: 0.823
 - slug: 2026-10-06-lavca-only-27-of-latin-american-startups-raised-follow-on-funding
   headline: 'LAVCA: only 27% of Latin American startups raised follow-on funding'
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6686
+  strength: 0.6715
 - slug: 2026-08-13-latin-america-projected-to-grow-2-4-in-2026-amid-commodity-volatility
   headline: Latin America projected to grow 2.4% in 2026 amid commodity volatility
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.8261
-- slug: 2026-07-16-latin-america-stuck-at-low-growth-as-region-enters-fourth-straight-weak-year
-  headline: Latin America stuck at low growth as region enters fourth straight weak year
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.848
-- slug: 2026-09-23-oecd-raises-2026-growth-forecast-to-2-9-warns-el-ni-o-and-iran-war-pose-risks
-  headline: OECD raises 2026 growth forecast to 2.9%, warns El Niño and Iran war pose risks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6734
-- slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
-  headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6878
-- slug: 2026-09-23-s-p-raises-asia-pacific-2026-growth-forecast-to-4-6
-  headline: S&P raises Asia-Pacific 2026 growth forecast to 4.6%
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6616
-- slug: 2026-09-08-latin-america-s-pisa-scores-decline-further-in-2025-results
-  headline: Latin America's PISA scores decline further in 2025 results
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6781
-- slug: 2026-06-24-us-investment-in-latin-america-fell-11-in-2025-eclac-says
-  headline: US investment in Latin America fell 11% in 2025, ECLAC says
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7638
-- slug: 2026-07-08-imf-cuts-global-growth-forecast-to-3-as-iran-war-lifts-energy-costs
-  headline: IMF cuts global growth forecast to 3% as Iran war lifts energy costs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7168
-- slug: 2026-06-09-imf-warns-costa-rica-on-pension-reserves-security-risks-in-favorable-review
-  headline: IMF warns Costa Rica on pension reserves, security risks in favorable review
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7114
-- slug: 2026-07-11-imf-cuts-global-growth-to-3-as-iran-war-record-home-prices-squeeze-economy
-  headline: IMF cuts global growth to 3% as Iran war, record home prices squeeze economy
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6758
-- slug: 2026-01-19-imf-raises-2026-global-growth-forecast-to-3-3-citing-ai-investment-surge
-  headline: IMF raises 2026 global growth forecast to 3.3%, citing AI investment surge
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.7367
-- slug: 2026-04-15-iran-war-fallout-cuts-imf-outlook-for-global-growth-and-lifts-inflation
-  headline: Iran war fallout cuts IMF outlook for global growth and lifts inflation
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7197
-- slug: 2026-07-15-imf-warns-global-oil-buffers-near-depletion-as-hormuz-hostilities-resume
-  headline: IMF warns global oil buffers near depletion as Hormuz hostilities resume
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6529
+  strength: 0.827
 ---
-
 ## IMF cuts Latin America growth forecast to 2.3% for 2026
 
 **Subtype:** fact
