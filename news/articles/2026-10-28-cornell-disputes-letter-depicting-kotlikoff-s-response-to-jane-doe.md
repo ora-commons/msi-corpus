@@ -2,8 +2,20 @@
 headline: Cornell disputes letter depicting Kotlikoff's response to Jane Doe
 secondary_headline: Faculty statement cites student safety fears and alumni accounts
 publish_date: '2026-10-28'
-lede: A statement by Cornell University faculty co-sponsors said many of the faculty, including the statement's author, were approached by students who were upset, fearful for their personal safety and wanted Cornell to address campus sexual assault. Jane Doe's attorney said Doe felt "unsupported and disbelieved" by President Michael Kotlikoff when she reported the alleged rape, while a Cornell spokesperson disputed the letter's depiction of Kotlikoff's initial response. The proposed resolution would declare no confidence in the central administration's ability to address what the resolution calls the ongoing crisis of sexual assault. Debate over the resolution had continued since mid-October, and Cornell's faculty senate was scheduled to begin an electronic vote Wednesday after a Wednesday-afternoon meeting.
-nut_graf: The competing accounts of Kotlikoff's initial response and the task force's student survey findings provide context for the faculty resolution. The faculty senate cannot compel administrative action, but UPI reported the vote could add pressure on Cornell's administration to make changes.
+lede: A statement by Cornell University faculty co-sponsors said many of the faculty,
+  including the statement's author, were approached by students who were upset, fearful
+  for their personal safety and wanted Cornell to address campus sexual assault. Jane
+  Doe's attorney said Doe felt "unsupported and disbelieved" by President Michael
+  Kotlikoff when she reported the alleged rape, while a Cornell spokesperson disputed
+  the letter's depiction of Kotlikoff's initial response. The proposed resolution
+  would declare no confidence in the central administration's ability to address what
+  the resolution calls the ongoing crisis of sexual assault. Debate over the resolution
+  had continued since mid-October, and Cornell's faculty senate was scheduled to begin
+  an electronic vote Wednesday after a Wednesday-afternoon meeting.
+nut_graf: The competing accounts of Kotlikoff's initial response and the task force's
+  student survey findings provide context for the faculty resolution. The faculty
+  senate cannot compel administrative action, but UPI reported the vote could add
+  pressure on Cornell's administration to make changes.
 primary_entities:
 - Cornell University
 - Cornell University Faculty Senate
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +160,58 @@ related_stories:
   headline: Cornell faculty schedule no-confidence vote over 2024 gang-rape allegations
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8443
+  strength: 0.8441
 - slug: 2026-10-20-jane-doe-says-cornell-president-s-response-left-her-feeling-disbelieved
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8828
+  strength: 0.8813
 - slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
   headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8658
+  strength: 0.8656
 - slug: 2026-10-27-cornell-university-reviews-dorm-placement-of-student-accused-of-rape
   headline: Cornell University reviews dorm placement of student accused of rape
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8165
+  strength: 0.8167
 - slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
-  headline: The New York Times first publishes Doe's letter; her lawyer authenticates it
+  headline: The New York Times first publishes Doe's letter; her lawyer authenticates
+    it
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8586
+  strength: 0.8567
 - slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
   headline: Cornell president says he knew of assault report but didn't follow up
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8416
+  strength: 0.8377
 - slug: 2026-10-23-jane-doe-s-lawyer-says-she-fears-for-her-safety-as-cornell-civil-case-advances
-  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case advances
+  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case
+    advances
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7434
+  strength: 0.7436
 - slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
   headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8361
-- slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
-  headline: Cornell suspends fraternity parties for academic year after rape allegations
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.777
-- slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
-  headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7658
-- slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
-  headline: Cornell faculty file no-confidence resolution over sexual assault response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7979
-- slug: 2026-10-02-cornell-student-assembly-holds-public-hearing-on-2024-campus-rape-allegations
-  headline: Cornell Student Assembly holds public hearing on 2024 campus rape allegations
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7884
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7785
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.751
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7473
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7479
-- slug: 2026-10-06-cornell-names-sally-yates-to-lead-independent-rape-case-review
-  headline: Cornell names Sally Yates to lead independent rape-case review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7293
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7514
-- slug: 2026-10-01-lawyer-says-cornell-health-system-failed-student-rape-accuser
-  headline: Lawyer says Cornell health system failed student rape accuser
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7374
-- slug: 2026-09-28-cornell-denies-submitting-essays-claim-in-alleged-fraternity-assault-lawsuit
-  headline: Cornell denies 'submitting essays' claim in alleged fraternity assault lawsuit
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7462
+  strength: 0.8344
 image:
   url: /articles/2026-10-28-cornell-disputes-letter-depicting-kotlikoff-s-response-to-jane-doe.png
-  alt: "Illustration accompanying article: Cornell disputes letter depicting Kotlikoff's response to Jane Doe"
+  alt: 'Illustration accompanying article: Cornell disputes letter depicting Kotlikoff''s
+    response to Jane Doe'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Cornell disputes letter depicting Kotlikoff's response to Jane Doe
 
 **Subtype:** fact

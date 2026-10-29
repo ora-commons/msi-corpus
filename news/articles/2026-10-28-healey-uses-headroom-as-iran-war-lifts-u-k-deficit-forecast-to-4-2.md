@@ -1,9 +1,21 @@
 ---
 headline: Healey uses headroom as Iran war lifts U.K. deficit forecast to 4.2%
-secondary_headline: Bank and gambling taxes rise as fiscal cushion falls from £24 billion to £15 billion
+secondary_headline: Bank and gambling taxes rise as fiscal cushion falls from £24
+  billion to £15 billion
 publish_date: '2026-10-28'
-lede: U.K. Treasury chief John Healey used part of the headroom established last year to absorb higher energy and interest costs tied to the Iran war, narrowing fiscal headroom to £15 billion from £24 billion in March. The Office for Budget Responsibility said the government remained within its fiscal rules after Wednesday’s spending and tax measures. The OBR revised the deficit for the fiscal year ending early April 2027 to 4.2% of GDP from 3.6%, and The Wall Street Journal reported that the outcome was in line with what economists had expected. Healey also raised taxes on banks and gambling firms.
-nut_graf: Healey’s use of headroom preserves the government’s compliance with fiscal rules but leaves less room to absorb future setbacks, while the Iran war widens the deficit and weakens near-term growth. The budget also pairs modest support for less wealthy households facing higher energy bills with higher taxes on banks and gambling firms.
+lede: U.K. Treasury chief John Healey used part of the headroom established last year
+  to absorb higher energy and interest costs tied to the Iran war, narrowing fiscal
+  headroom to £15 billion from £24 billion in March. The Office for Budget Responsibility
+  said the government remained within its fiscal rules after Wednesday’s spending
+  and tax measures. The OBR revised the deficit for the fiscal year ending early April
+  2027 to 4.2% of GDP from 3.6%, and The Wall Street Journal reported that the outcome
+  was in line with what economists had expected. Healey also raised taxes on banks
+  and gambling firms.
+nut_graf: Healey’s use of headroom preserves the government’s compliance with fiscal
+  rules but leaves less room to absorb future setbacks, while the Iran war widens
+  the deficit and weakens near-term growth. The budget also pairs modest support for
+  less wealthy households facing higher energy bills with higher taxes on banks and
+  gambling firms.
 primary_entities:
 - John Healey
 - Office for Budget Responsibility
@@ -36,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +151,45 @@ related_stories:
   headline: John Healey sets out Budget 2026 household relief and fiscal plans
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7989
+  strength: 0.7998
 - slug: 2026-10-28-john-healey-prepares-first-uk-budget-amid-inflation-and-debt-pressure
   headline: John Healey prepares first UK budget amid inflation and debt pressure
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7827
+  strength: 0.7834
 - slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
   headline: John Healey prepares his first budget amid war-driven economic pressure
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7885
+  strength: 0.7895
 - slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
+  headline: John Healey prepares UK Budget expected to have smaller tax and spending
+    changes
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7278
+  strength: 0.7293
 - slug: 2026-10-25-john-healey-s-budget-secrecy-comes-amid-leaks-on-key-policies
   headline: John Healey’s budget secrecy comes amid leaks on key policies
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7259
+  strength: 0.7258
 - slug: 2026-10-21-uk-government-records-24-5bn-september-deficit-ahead-of-healey-s-first-budget
-  headline: UK government records £24.5bn September deficit ahead of Healey’s first budget
+  headline: UK government records £24.5bn September deficit ahead of Healey’s first
+    budget
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7447
+  strength: 0.7458
 - slug: 2026-10-28-readers-seek-cost-of-living-relief-ahead-of-burnham-s-first-budget
   headline: Readers seek cost-of-living relief ahead of Burnham's first budget
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6746
-- slug: 2026-10-27-welsh-ministers-press-healey-for-rail-cash-and-budget-protection
-  headline: Welsh ministers press Healey for rail cash and budget protection
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.67
+  strength: 0.6748
 - slug: 2026-10-11-ifs-warns-iran-war-inflation-will-force-hard-healey-budget-choices
   headline: IFS warns Iran-war inflation will force hard Healey Budget choices
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.767
-- slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
-  headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7345
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7221
-- slug: 2026-10-14-uk-to-shift-vat-collection-to-online-marketplaces-in-first-budget
-  headline: UK to shift VAT collection to online marketplaces in first budget
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7173
-- slug: 2026-10-20-badenoch-says-healey-s-budget-will-be-even-worse-than-reeves-s-two
-  headline: Badenoch says Healey's budget will be even worse than Reeves's two
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6755
-- slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
-  headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7153
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7315
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7282
-- slug: 2026-09-23-oecd-cuts-uk-2027-growth-forecast-to-1-on-iran-war-energy-costs
-  headline: OECD cuts UK 2027 growth forecast to 1% on Iran war energy costs
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7144
-- slug: 2026-09-23-oecd-raises-2026-growth-forecast-to-2-9-warns-el-ni-o-and-iran-war-pose-risks
-  headline: OECD raises 2026 growth forecast to 2.9%, warns El Niño and Iran war pose risks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.695
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7465
-- slug: 2026-09-22-uk-borrowing-totals-18-3bn-in-august-above-obr-forecast
-  headline: UK borrowing totals £18.3bn in August, above OBR forecast
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6883
+  strength: 0.768
 ---
-
 ## Healey uses headroom as Iran war lifts U.K. deficit forecast to 4.2%
 
 **Subtype:** fact

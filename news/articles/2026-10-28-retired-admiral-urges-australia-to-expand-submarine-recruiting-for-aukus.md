@@ -1,9 +1,18 @@
 ---
 headline: Retired admiral urges Australia to expand submarine recruiting for AUKUS
-secondary_headline: Royal Australian Navy targets 400 submarine-trained personnel by 2030
+secondary_headline: Royal Australian Navy targets 400 submarine-trained personnel
+  by 2030
 publish_date: '2026-10-28'
-lede: Australia must recruit and train more naval personnel to crew the nuclear-powered submarine fleet planned under the $368bn AUKUS deal, retired admiral Peter Briggs warned. The warning came as the Virginia-class USS Colorado arrived at HMAS Stirling south of Perth for a month of routine maintenance and Australian training. The Royal Australian Navy said 230 personnel were in its US nuclear-submarine training pipeline and expected 400 officers and sailors trained and ready by 2030.
-nut_graf: Virginia-class submarines can require up to 134 crew, almost three times the Collins-class requirement. Briggs said maintaining two different submarine types would add complexity to training, logistics, maintenance and spare-parts arrangements, making personnel one part of a broader transition.
+lede: Australia must recruit and train more naval personnel to crew the nuclear-powered
+  submarine fleet planned under the $368bn AUKUS deal, retired admiral Peter Briggs
+  warned. The warning came as the Virginia-class USS Colorado arrived at HMAS Stirling
+  south of Perth for a month of routine maintenance and Australian training. The Royal
+  Australian Navy said 230 personnel were in its US nuclear-submarine training pipeline
+  and expected 400 officers and sailors trained and ready by 2030.
+nut_graf: Virginia-class submarines can require up to 134 crew, almost three times
+  the Collins-class requirement. Briggs said maintaining two different submarine types
+  would add complexity to training, logistics, maintenance and spare-parts arrangements,
+  making personnel one part of a broader transition.
 primary_entities:
 - Australia
 - AUKUS
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +151,8 @@ cross_article_links:
   strength: 0.5623
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-22-federal-agencies-advance-plans-for-floating-reactors-and-nuclear-cargo-ships
-  headline: Federal agencies advance plans for floating reactors and nuclear cargo ships
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5595
-- slug: 2026-10-12-trump-s-august-steam-catapult-order-traces-to-unidentified-navy-sailor
-  headline: Trump's August steam catapult order traces to unidentified Navy sailor
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5739
-- slug: 2026-10-08-sara-jacobs-demands-inspector-general-probe-of-uss-lincoln-conditions
-  headline: Sara Jacobs demands inspector general probe of USS Lincoln conditions
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5872
-- slug: 2026-10-08-hegseth-says-lincoln-strike-group-set-record-with-10-000-sorties
-  headline: Hegseth says Lincoln strike group set record with 10,000 sorties
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5794
-- slug: 2026-10-07-hegseth-awards-uss-lincoln-presidential-unit-citation-after-record-deployment
-  headline: Hegseth awards USS Lincoln presidential unit citation after record deployment
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5698
-- slug: 2026-09-18-keating-says-aukus-locks-australia-into-us-china-war-it-would-lose
-  headline: Keating says AUKUS locks Australia into US-China war it would lose
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6414
-- slug: 2026-09-30-hegseth-confirms-20-reduction-in-generals-admirals-at-quantico-address
-  headline: Hegseth confirms 20% reduction in generals, admirals at Quantico address
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5876
-- slug: 2026-09-29-hegseth-to-announce-20-cut-to-general-admiral-positions
-  headline: Hegseth to announce 20% cut to general, admiral positions
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5847
-- slug: 2026-09-29-four-injured-during-eisenhower-carrier-qualifications-dod-says
-  headline: Four injured during Eisenhower carrier qualifications, DoD says
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5627
-- slug: 2026-09-24-navy-letter-to-senator-confirms-eight-uss-lincoln-crew-attempted-suicide
-  headline: Navy letter to senator confirms eight USS Lincoln crew attempted suicide
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5773
-- slug: 2026-09-12-rudd-calls-for-australian-self-reliance-as-us-china-war-risks-rise
-  headline: Rudd calls for Australian self-reliance as US-China war risks rise
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6127
-- slug: 2026-09-24-navy-letter-details-two-lincoln-overboard-incidents-during-deployment
-  headline: Navy letter details two Lincoln overboard incidents during deployment
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5649
-- slug: 2026-09-16-crews-say-us-firefighting-capacity-stretched-to-limit-in-2026-wildfire-season
-  headline: Crews say US firefighting capacity stretched to limit in 2026 wildfire season
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5687
-- slug: 2026-08-10-turnbull-says-aukus-deal-may-deliver-no-submarines-to-australia
-  headline: Turnbull says AUKUS deal may deliver no submarines to Australia
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6486
-- slug: 2026-08-05-marines-seek-10-000-attack-drones-as-forces-exercise-in-australia
-  headline: Marines seek 10,000 attack drones as forces exercise in Australia
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6243
-- slug: 2026-08-18-military-families-describe-weight-loss-and-exhaustion-aboard-uss-lincoln
-  headline: Military families describe weight loss and exhaustion aboard USS Lincoln
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5592
-- slug: 2026-07-05-canada-nears-decision-on-submarine-contract-between-hanwha-and-tkms
-  headline: Canada nears decision on submarine contract between Hanwha and TKMS
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6271
-- slug: 2026-08-17-uss-benfold-loses-power-and-drifts-for-four-days-in-south-china-sea
-  headline: USS Benfold loses power and drifts for four days in South China Sea
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5591
-- slug: 2026-08-13-trump-directs-navy-to-restore-steam-catapults-in-future-carriers
-  headline: Trump directs Navy to restore steam catapults in future carriers
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5608
-- slug: 2026-08-15-senate-democrats-seek-answers-from-hegseth-on-conditions-aboard-lincoln
-  headline: Senate Democrats seek answers from Hegseth on conditions aboard Lincoln
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5531
+related_stories: []
 ---
-
 ## Retired admiral urges Australia to expand submarine recruiting for AUKUS
 
 **Subtype:** fact
