@@ -1,9 +1,19 @@
 ---
 headline: Sullivan, Peltola clash over trawler bycatch in Alaska Senate race
-secondary_headline: Pollock trawlers say 40,000 Alaska salmon caught as bycatch this year
+secondary_headline: Pollock trawlers say 40,000 Alaska salmon caught as bycatch this
+  year
 publish_date: '2026-10-29'
-lede: Alaska's U.S. Senate race is embroiled in an emotional fight over fish, as salmon that have long sustained Indigenous people fail to return to some Western Alaska rivers. Republican Senator Dan Sullivan and Democratic challenger Mary Peltola are clashing over trawler bycatch in a race that could affect the balance of power in Washington, D.C. In remote Kuskokwim villages, subsistence fishers say their smokehouses sit empty while industrial trawlers keep operating.
-nut_graf: 'Alaska''s Senate race could affect the balance of power in Washington, giving the bycatch fight national stakes. For Indigenous villagers on the Kuskokwim, the issue is subsistence: the salmon they rely on to feed their families are not arriving, and closures meant to conserve fish have left smokehouses empty while the industrial fleet keeps fishing.'
+lede: Alaska's U.S. Senate race is embroiled in an emotional fight over fish, as salmon
+  that have long sustained Indigenous people fail to return to some Western Alaska
+  rivers. Republican Senator Dan Sullivan and Democratic challenger Mary Peltola are
+  clashing over trawler bycatch in a race that could affect the balance of power in
+  Washington, D.C. In remote Kuskokwim villages, subsistence fishers say their smokehouses
+  sit empty while industrial trawlers keep operating.
+nut_graf: 'Alaska''s Senate race could affect the balance of power in Washington,
+  giving the bycatch fight national stakes. For Indigenous villagers on the Kuskokwim,
+  the issue is subsistence: the salmon they rely on to feed their families are not
+  arriving, and closures meant to conserve fish have left smokehouses empty while
+  the industrial fleet keeps fishing.'
 primary_entities:
 - Dan Sullivan
 - Mary Peltola
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,24 +153,28 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-29-sullivan-peltola-clash-over-trawler-bycatch-in-alaska-senate-race.png
-  alt: 'Illustration accompanying article: Sullivan, Peltola clash over trawler bycatch in Alaska Senate race'
+  alt: 'Illustration accompanying article: Sullivan, Peltola clash over trawler bycatch
+    in Alaska Senate race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
   headline: Sullivan and Peltola court Alaska Native voters before midterms
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7608
+  strength: 0.7609
 - slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
   headline: Gov. Dunleavy orders investigation into alleged election scheme
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6962
+  strength: 0.6964
 - slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
   headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
   publish_date: '2026-10-22'
@@ -169,7 +184,7 @@ related_stories:
   headline: Peltola reschedules Alaska Senate campaign events on medical advice
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7109
+  strength: 0.7121
 - slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
   headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
   publish_date: '2026-10-28'
@@ -179,79 +194,18 @@ related_stories:
   headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6874
+  strength: 0.6875
 - slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
   headline: Alaska Republican governor calls for investigation into namesake filing
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6765
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6708
+  strength: 0.6772
 - slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
   headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6771
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7062
-- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
-  headline: Blanche defends lawsuit to block Alaska Senate certification
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.69
-- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
-  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6844
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6923
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6909
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6738
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6714
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6695
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7088
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7686
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6737
+  strength: 0.6774
 ---
-
 ## Sullivan, Peltola clash over trawler bycatch in Alaska Senate race
 
 **Subtype:** fact
