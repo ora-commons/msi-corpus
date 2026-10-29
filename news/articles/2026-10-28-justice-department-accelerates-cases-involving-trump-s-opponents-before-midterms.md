@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.6956
+analyses:
+- '2026-10-28-judges-arbitrate-the-legality-of-accelerated-charging-tactics'
 ---
 ## Justice Department accelerates cases involving Trump's opponents before midterms
 
@@ -256,3 +258,8 @@ The cases remain before federal judges on questions of procedure and legal autho
 **Publication date:** 2026-10-28
 **Title:** Justice Department Push Against Trump’s Foes Reaches Higher Gear
 **URL:** https://www.wsj.com/us-news/law/justice-department-push-against-trumps-foes-reaches-higher-gear-a06110ed
+
+---
+
+<!-- analysis-link:2026-10-28-judges-arbitrate-the-legality-of-accelerated-charging-tactics -->
+**Going deeper:** [Read MSI's analysis of the accelerated prosecution tactics →](/analyses/2026-10-28-judges-arbitrate-the-legality-of-accelerated-charging-tactics)
