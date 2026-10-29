@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-02-03'
   relation: related
   strength: 0.6512
+analyses:
+- '2026-10-28-the-hellerstein-obituary-s-legacy-account-three-frames-one-record-and-what-the-e'
 ---
 ## Federal Judge Alvin Hellerstein dies after nearly three decades on the bench
 
@@ -241,3 +243,8 @@ Hellerstein was known for a quirky independent streak and strict discipline in h
 **Publication date:** 2026-10-28
 **Title:** Federal judge Alvin Hellerstein, who handled Trump and 9/11 cases, dies
 **URL:** https://apnews.com/article/alvin-hellerstein-dies-4d263fef1ad4a368feb3a76864e62325
+
+---
+
+<!-- analysis-link:2026-10-28-the-hellerstein-obituary-s-legacy-account-three-frames-one-record-and-what-the-e -->
+**Going deeper:** [Read MSI's analysis of Follow-up: legal questions the Maduro arraignment coverage left unaddressed — jurisdiction, immunity →](/analyses/2026-10-28-the-hellerstein-obituary-s-legacy-account-three-frames-one-record-and-what-the-e)

@@ -2,8 +2,17 @@
 headline: Utah brings felony charges against Kalshi and its executives
 secondary_headline: Federal judge rejected Kalshi’s Utah enforcement challenge
 publish_date: '2026-10-29'
-lede: Utah filed criminal charges Wednesday against prediction-market operator Kalshi and co-founders Tarek Mansour and Luana Lopes Lara. The state's charging documents include 13 counts of violating Utah's prohibition on gambling and another charge involving profiting from illegal activity. The felony filing follows a federal judge's rejection of Kalshi's effort to block enforcement of the state's gambling laws.
-nut_graf: The Utah case could become a criminal enforcement model for states that have primarily brought civil actions against prediction-market operators, according to gaming-law attorney Daniel Wallach. The wider dispute spans roughly 20 states and pits state gambling enforcement against Kalshi's claim of exclusive federal jurisdiction; analysts say the U.S. Supreme Court is likely to settle the fragmented legal landscape.
+lede: Utah filed criminal charges Wednesday against prediction-market operator Kalshi
+  and co-founders Tarek Mansour and Luana Lopes Lara. The state's charging documents
+  include 13 counts of violating Utah's prohibition on gambling and another charge
+  involving profiting from illegal activity. The felony filing follows a federal judge's
+  rejection of Kalshi's effort to block enforcement of the state's gambling laws.
+nut_graf: The Utah case could become a criminal enforcement model for states that
+  have primarily brought civil actions against prediction-market operators, according
+  to gaming-law attorney Daniel Wallach. The wider dispute spans roughly 20 states
+  and pits state gambling enforcement against Kalshi's claim of exclusive federal
+  jurisdiction; analysts say the U.S. Supreme Court is likely to settle the fragmented
+  legal landscape.
 primary_entities:
 - Utah
 - Kalshi
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,45 @@ related_stories:
   headline: Kalshi hires former FBI agent to lead anti-money laundering team
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6749
+  strength: 0.6769
 - slug: 2026-09-24-new-york-ag-james-sues-polymarket-u-s-alleging-illegal-gambling
   headline: New York AG James sues Polymarket U.S., alleging illegal gambling
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7228
+  strength: 0.721
 - slug: 2026-09-02-split-appeals-rulings-put-kalshi-oversight-before-supreme-court
   headline: Split appeals rulings put Kalshi oversight before Supreme Court
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7593
+  strength: 0.7586
 - slug: 2026-08-06-federal-judge-lets-utah-enforce-gambling-laws-against-prediction-markets
   headline: Federal judge lets Utah enforce gambling laws against prediction markets
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.8112
+  strength: 0.8067
 - slug: 2026-09-24-polymarket-rejects-ny-gambling-suit-as-recycled-filing
   headline: Polymarket rejects NY gambling suit as 'recycled' filing
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6588
+  strength: 0.6581
 - slug: 2026-07-31-new-york-sues-kalshi-over-sports-betting-contracts-demands-billions-in-penalties
-  headline: New York sues Kalshi over sports betting contracts, demands billions in penalties
+  headline: New York sues Kalshi over sports betting contracts, demands billions in
+    penalties
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7756
+  strength: 0.7725
 - slug: 2026-08-28-9th-circuit-panel-refuses-to-let-kalshi-resume-nevada-trading
   headline: 9th Circuit panel refuses to let Kalshi resume Nevada trading
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.707
+  strength: 0.7051
 - slug: 2026-03-11-utah-plans-law-to-curb-prediction-markets-kalshi-and-polymarket-set-for-court
-  headline: Utah plans law to curb prediction markets Kalshi and Polymarket, set for court
+  headline: Utah plans law to curb prediction markets Kalshi and Polymarket, set for
+    court
   publish_date: '2026-03-11'
   relation: related
-  strength: 0.8275
-- slug: 2026-04-10-kalshi-loses-bid-to-stop-arizona-criminal-case-over-prediction-markets
-  headline: Kalshi loses bid to stop Arizona criminal case over prediction markets
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.8111
-- slug: 2026-03-18-arizona-files-criminal-charges-against-prediction-market-kalshi
-  headline: Arizona files criminal charges against prediction market Kalshi
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.8147
-- slug: 2026-08-12-nyc-council-investigates-polymarket-kalshi-coinbase-gemini-titan
-  headline: NYC Council investigates Polymarket, Kalshi, Coinbase, Gemini Titan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6587
-- slug: 2026-08-13-cftc-probes-kalshi-mention-markets-after-white-house-teleprompter-bets
-  headline: CFTC probes Kalshi 'mention markets' after White House teleprompter bets
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6565
-- slug: 2026-04-14-judge-bars-arizona-from-enforcing-gambling-laws-against-kalshi
-  headline: Judge bars Arizona from enforcing gambling laws against Kalshi
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7536
-- slug: 2026-04-03-u-s-sues-states-over-efforts-to-regulate-prediction-markets
-  headline: U.S. sues states over efforts to regulate prediction markets
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.754
-- slug: 2026-07-28-judge-finds-prediction-market-operators-likely-to-prevail-over-minnesota-ban
-  headline: Judge finds prediction market operators likely to prevail over Minnesota ban
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6672
-- slug: 2026-03-20-trading-or-gambling-prediction-markets-test-nebraska-betting-ban
-  headline: Trading or gambling? Prediction markets test Nebraska betting ban
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7394
-- slug: 2026-07-26-wisconsin-warns-election-bets-could-cost-voters-their-ballot
-  headline: Wisconsin warns election bets could cost voters their ballot
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6606
-- slug: 2026-06-30-zuckerberg-meets-with-kalshi-ceo-about-acquisition-sources-say
-  headline: Zuckerberg meets with Kalshi CEO about acquisition, sources say
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6782
-- slug: 2026-04-22-new-york-sues-coinbase-and-gemini-over-prediction-market-gambling-claims
-  headline: New York sues Coinbase and Gemini over prediction-market gambling claims
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7128
-- slug: 2026-04-03-prediction-markets-threaten-tribal-gambling-industry-group-says
-  headline: Prediction markets threaten tribal gambling, industry group says
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7116
+  strength: 0.8263
 ---
-
 ## Utah brings felony charges against Kalshi and its executives
 
 **Subtype:** fact
