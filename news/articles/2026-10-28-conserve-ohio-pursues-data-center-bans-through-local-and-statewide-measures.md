@@ -1,9 +1,19 @@
 ---
 headline: Conserve Ohio pursues data center bans through local and statewide measures
-secondary_headline: Candidates offer competing approaches to hyperscale development in Ohio's Senate race
+secondary_headline: Candidates offer competing approaches to hyperscale development
+  in Ohio's Senate race
 publish_date: '2026-10-28'
-lede: Conserve Ohio, a grassroots network formed around concerns over a proposed data center in Mt. Orab, is backing ballot initiatives in 10 Ohio communities to prohibit large-scale data centers. The group is also pursuing a state constitutional amendment that would ban the facilities, with a goal of putting the proposal before Ohio voters in 2027. The data-center issue has become a prominent topic in the 2026 midterms, including the tight race for a U.S. Senate seat.
-nut_graf: The local measures would go beyond the temporary pauses embraced by hundreds of municipal and county governments, while the statewide proposal would extend the restriction across Ohio. The data-center issue has become a prominent topic in the 2026 midterms, including Ohio's tight U.S. Senate race, as statewide candidates offer differing responses.
+lede: Conserve Ohio, a grassroots network formed around concerns over a proposed data
+  center in Mt. Orab, is backing ballot initiatives in 10 Ohio communities to prohibit
+  large-scale data centers. The group is also pursuing a state constitutional amendment
+  that would ban the facilities, with a goal of putting the proposal before Ohio voters
+  in 2027. The data-center issue has become a prominent topic in the 2026 midterms,
+  including the tight race for a U.S. Senate seat.
+nut_graf: The local measures would go beyond the temporary pauses embraced by hundreds
+  of municipal and county governments, while the statewide proposal would extend the
+  restriction across Ohio. The data-center issue has become a prominent topic in the
+  2026 midterms, including Ohio's tight U.S. Senate race, as statewide candidates
+  offer differing responses.
 primary_entities:
 - Conserve Ohio
 - Nick Owens
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,12 +160,13 @@ related_stories:
   headline: Candidates in four states seek tighter data-center approval rules
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7364
+  strength: 0.7372
 - slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
+  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm
+    races
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8223
+  strength: 0.8215
 - slug: 2026-10-08-brown-makes-data-centers-central-to-ohio-senate-rematch
   headline: Brown makes data centers central to Ohio Senate rematch
   publish_date: '2026-10-08'
@@ -164,89 +176,28 @@ related_stories:
   headline: Rural Ohio voters weigh costs in toss-up Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7172
+  strength: 0.7177
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.757
+  strength: 0.7571
 - slug: 2026-10-26-ohio-early-voting-indicators-point-to-higher-democratic-participation
   headline: Ohio early-voting indicators point to higher Democratic participation
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6791
+  strength: 0.6801
 - slug: 2026-10-02-brown-rallies-ohio-unions-in-bid-to-reclaim-senate-seat
   headline: Brown rallies Ohio unions in bid to reclaim Senate seat
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7203
+  strength: 0.7205
 - slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
   headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.675
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6497
-- slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
-  headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6473
-- slug: 2026-09-15-anti-datacenter-organizers-run-for-local-offices-across-us
-  headline: Anti-datacenter organizers run for local offices across US
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6863
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7081
-- slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
-  headline: More than 10 states pause or cancel data center tax exemptions
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6715
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7415
-- slug: 2026-09-03-bannon-joins-sanders-ocasio-cortez-in-opposing-new-data-centers
-  headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.67
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6591
-- slug: 2026-07-26-brown-runs-to-reclaim-ohio-senate-seat
-  headline: Brown runs to reclaim Ohio Senate seat
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7293
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6764
-- slug: 2026-06-12-fbi-raids-ohio-voting-rights-group-sparking-midterm-crackdown-concerns
-  headline: FBI raids Ohio voting rights group, sparking midterm crackdown concerns
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6801
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6981
+  strength: 0.6756
 ---
-
 ## Conserve Ohio pursues data center bans through local and statewide measures
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
-headline: Yavapai sheriff's office rejects false claim that missing woman was found alive
-secondary_headline: Kara Feinman said online users cyberbullied her over the false identification
+headline: Yavapai sheriff's office rejects false claim that missing woman was found
+  alive
+secondary_headline: Kara Feinman said online users cyberbullied her over the false
+  identification
 publish_date: '2026-10-28'
-lede: The Yavapai County Sheriff's Office said Tuesday that U.S. authorities had confirmed through physical evidence that the woman located in Tijuana's Encino neighborhood was not Shayna Feinman, an Arizona woman missing since March 2024. The finding came after Tijuana's security and citizen protection secretariat announced that Feinman had been located and placed in protective custody. Feinman's sister Kara said she had waited for official confirmation and later endured online abuse over the false announcement.
-nut_graf: 'The sheriff''s office said detectives were still investigating Feinman''s disappearance and working with the family, so the case remained unresolved. Kara Feinman described another effect of the episode: online users criticized her for not reacting more enthusiastically to an announcement that turned out to be false.'
+lede: The Yavapai County Sheriff's Office said Tuesday that U.S. authorities had confirmed
+  through physical evidence that the woman located in Tijuana's Encino neighborhood
+  was not Shayna Feinman, an Arizona woman missing since March 2024. The finding came
+  after Tijuana's security and citizen protection secretariat announced that Feinman
+  had been located and placed in protective custody. Feinman's sister Kara said she
+  had waited for official confirmation and later endured online abuse over the false
+  announcement.
+nut_graf: 'The sheriff''s office said detectives were still investigating Feinman''s
+  disappearance and working with the family, so the case remained unresolved. Kara
+  Feinman described another effect of the episode: online users criticized her for
+  not reacting more enthusiastically to an announcement that turned out to be false.'
 primary_entities:
 - Shayna Feinman
 - Kara Feinman
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,109 +154,8 @@ cross_article_links:
   strength: 0.5984
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-29-pima-county-sheriff-investigates-possible-new-ransom-note-in-nancy-guthrie-case
-  headline: Pima County sheriff investigates possible new ransom note in Nancy Guthrie case
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5759
-- slug: 2026-09-13-trump-to-raise-detained-american-min-zin-s-case-at-xi-summit
-  headline: Trump to raise detained American Min Zin's case at Xi summit
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5673
-- slug: 2026-05-14-sheinbaum-and-cia-deny-cnn-report-of-covert-operations-in-mexico
-  headline: Sheinbaum and CIA deny CNN report of covert operations in Mexico
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5902
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5682
-- slug: 2026-04-28-sheinbaum-seeks-to-defuse-us-tensions-after-two-cia-agents-die-in-chihuahua-cras
-  headline: Sheinbaum seeks to defuse US tensions after two CIA agents die in Chihuahua crash
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5898
-- slug: 2026-06-02-missing-los-alamos-lab-worker-found-dead-in-new-mexico-forest
-  headline: Missing Los Alamos lab worker found dead in New Mexico forest
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5724
-- slug: 2026-02-11-person-detained-for-questioning-in-kidnapping-of-nancy-guthrie
-  headline: Person detained for questioning in kidnapping of Nancy Guthrie
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.602
-- slug: 2026-02-08-sheriff-frustrated-no-video-captured-during-nancy-guthrie-disappearance
-  headline: Sheriff frustrated no video captured during Nancy Guthrie disappearance
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5952
-- slug: 2026-02-12-fbi-searches-desert-near-nancy-guthrie-s-home-after-detained-suspect-released
-  headline: FBI searches desert near Nancy Guthrie’s home after detained suspect released
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5945
-- slug: 2026-05-14-mexican-president-sheinbaum-denies-cnn-report-on-cia-operations-in-mexico
-  headline: Mexican President Sheinbaum denies CNN report on CIA operations in Mexico
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.573
-- slug: 2026-05-05-indigenous-communities-nationwide-mark-missing-and-murdered-indigenous-peoples-a
-  headline: Indigenous communities nationwide mark Missing and Murdered Indigenous Peoples awareness day
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5767
-- slug: 2026-02-16-what-to-know-about-the-investigation-into-nancy-guthrie-s-disappearance
-  headline: What to know about the investigation into Nancy Guthrie’s disappearance
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5927
-- slug: 2026-02-17-fear-grips-mexican-towns-after-abduction-of-mine-workers-in-sinaloa
-  headline: Fear grips Mexican towns after abduction of mine workers in Sinaloa
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.5822
-- slug: 2026-04-17-navy-reservist-returned-to-u-s-after-fleeing-to-hong-kong-in-wife-s-freezer-deat
-  headline: Navy reservist returned to U.S. after fleeing to Hong Kong in wife's freezer death
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5705
-- slug: 2026-02-12-sheriff-leading-nancy-guthrie-probe-faces-scrutiny-as-case-enters-second-week
-  headline: Sheriff leading Nancy Guthrie probe faces scrutiny as case enters second week
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5812
-- slug: 2026-02-05-savannah-guthrie-s-brother-records-new-message-for-kidnapper
-  headline: Savannah Guthrie’s brother records new message for kidnapper
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5809
-- slug: 2026-02-05-what-to-know-about-search-for-savannah-guthrie-s-missing-mother-in-arizona
-  headline: What to know about search for Savannah Guthrie’s missing mother in Arizona
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5795
-- slug: 2026-02-24-volunteers-continue-searching-for-nancy-guthrie-despite-sheriff-s-plea
-  headline: Volunteers continue searching for Nancy Guthrie despite sheriff's plea
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.5767
-- slug: 2026-02-11-florida-prosecutor-subpoenas-jacksonville-over-alleged-immigration-enforcement-i
-  headline: Florida prosecutor subpoenas Jacksonville over alleged immigration enforcement interference
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5771
-- slug: 2026-02-13-nancy-guthrie-disappearance-investigation-prompts-roadblock-near-tucson-home
-  headline: Nancy Guthrie disappearance investigation prompts roadblock near Tucson home
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5722
+related_stories: []
 ---
-
 ## Yavapai sheriff's office rejects false claim that missing woman was found alive
 
 **Subtype:** fact
