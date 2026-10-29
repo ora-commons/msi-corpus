@@ -1,9 +1,20 @@
 ---
 headline: Oyu Tolgoi says China border restrictions cut copper exports about 70%
-secondary_headline: 'Local media: border slowdown could cost Mongolia $1.2 billion if restrictions last through year-end'
+secondary_headline: 'Local media: border slowdown could cost Mongolia $1.2 billion
+  if restrictions last through year-end'
 publish_date: '2026-10-29'
-lede: Oyu Tolgoi LLC, which operates Oyu Tolgoi, one of the world's largest copper mines, said Thursday that its exports of copper concentrate to China have dropped by about 70% in the past two weeks because of restrictions at a border crossing. The slowdown has reduced daily truck convoys to around four from the usual 12 to 13 and raised concerns over potential revenue losses and disruptions to Mongolia's mineral sector.
-nut_graf: Mining accounts for roughly a quarter of Mongolia's GDP, and China took 89.4% of the country's merchandise exports last year, when coal and copper concentrates together made up 82.3% of the total. The border slowdown therefore threatens the trade channel at the center of Mongolia's economy, with local media reporting export cuts of about $300 million compared with normal operating conditions, potentially reaching $1.2 billion if restrictions continue through the end of the year.
+lede: Oyu Tolgoi LLC, which operates Oyu Tolgoi, one of the world's largest copper
+  mines, said Thursday that its exports of copper concentrate to China have dropped
+  by about 70% in the past two weeks because of restrictions at a border crossing.
+  The slowdown has reduced daily truck convoys to around four from the usual 12 to
+  13 and raised concerns over potential revenue losses and disruptions to Mongolia's
+  mineral sector.
+nut_graf: Mining accounts for roughly a quarter of Mongolia's GDP, and China took
+  89.4% of the country's merchandise exports last year, when coal and copper concentrates
+  together made up 82.3% of the total. The border slowdown therefore threatens the
+  trade channel at the center of Mongolia's economy, with local media reporting export
+  cuts of about $300 million compared with normal operating conditions, potentially
+  reaching $1.2 billion if restrictions continue through the end of the year.
 primary_entities:
 - Oyu Tolgoi LLC
 - Ganqimaodu Border Port
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,109 +147,8 @@ cross_article_links:
   strength: 0.5689
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-24-tariff-shifts-cut-steel-imports-and-unsettle-investment-at-port-milwaukee
-  headline: Tariff shifts cut steel imports and unsettle investment at Port Milwaukee
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5949
-- slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
-  headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5744
-- slug: 2026-10-23-iraq-and-pakistan-cut-off-key-land-routes-into-and-out-of-iran
-  headline: Iraq and Pakistan cut off key land routes into and out of Iran
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.573
-- slug: 2026-10-19-china-s-economy-grows-4-5-in-july-september-quarter-as-exports-strengthen
-  headline: China's economy grows 4.5% in July-September quarter as exports strengthen
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5819
-- slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
-  headline: Chinese automakers target overseas markets as US and EU tighten access
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5829
-- slug: 2026-10-12-analysts-say-eu-hybrid-quota-limits-china-s-europe-push-only-at-the-margin
-  headline: Analysts say EU hybrid quota limits China's Europe push only at the margin
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5844
-- slug: 2026-10-13-oil-prices-fall-middle-east-risks-russian-diesel
-  headline: Brent slides 0.9% as Strait of Hormuz oil flows run 38% below prewar baseline
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5761
-- slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
-  headline: EU regulators question MMG–Anglo American deal over China supply concerns
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5862
-- slug: 2026-10-05-strait-of-hormuz-shipping-disruption-has-removed-2-7-million-tons-of-fertilizer
-  headline: Strait of Hormuz shipping disruption has removed 2.7 million tons of fertilizer
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5691
-- slug: 2026-09-24-drone-strikes-halve-russian-and-ukrainian-wheat-exports
-  headline: Drone strikes halve Russian and Ukrainian wheat exports
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5775
-- slug: 2026-09-22-eu-china-trade-deficit-reaches-36-5-billion-in-july-merics-finds
-  headline: EU-China trade deficit reaches €36.5 billion in July, Merics finds
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5714
-- slug: 2026-09-17-iran-s-overland-trade-push-falters-amid-border-bottlenecks-and-costs
-  headline: Iran's overland trade push falters amid border bottlenecks and costs
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5769
-- slug: 2026-09-15-china-enacts-new-exit-restrictions-tied-to-export-control-violations
-  headline: China enacts new exit restrictions tied to export-control violations
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5801
-- slug: 2026-08-14-china-s-auto-exports-strain-global-shipping-capacity
-  headline: China's auto exports strain global shipping capacity
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5961
-- slug: 2026-08-13-chinese-carrier-begins-regular-arctic-container-service-to-europe
-  headline: Chinese carrier begins regular Arctic container service to Europe
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5819
-- slug: 2026-08-05-china-bans-trade-with-six-us-companies-tightens-drone-export-controls
-  headline: China bans trade with six US companies, tightens drone export controls
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.593
-- slug: 2026-07-15-china-s-crude-buying-pause-may-end-tightening-global-oil-market
-  headline: China's crude buying pause may end, tightening global oil market
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5902
-- slug: 2026-07-22-three-chokepoint-closures-threaten-quarter-of-global-oil-supply
-  headline: Three chokepoint closures threaten quarter of global oil supply
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5789
-- slug: 2026-06-19-european-leaders-weigh-new-trade-powers-to-counter-chinese-export-flood
-  headline: European leaders weigh new trade powers to counter Chinese export flood
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5984
-- slug: 2026-07-10-china-invokes-foreign-trade-law-to-halt-helium-exports
-  headline: China invokes Foreign Trade Law to halt helium exports
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5692
+related_stories: []
 ---
-
 ## Oyu Tolgoi says China border restrictions cut copper exports about 70%
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: DHS tells BBC it is addressing possible personnel data breach
-secondary_headline: Leaked files name dozens of agency operations, including undercover missions
+secondary_headline: Leaked files name dozens of agency operations, including undercover
+  missions
 publish_date: '2026-10-29'
-lede: DHS told the BBC it was aware of a possible data breach and was actively working to address the situation swiftly and effectively, United Press International reported. The response followed the posting online of personnel records of more than 41,000 Department of Homeland Security employees. Wednesday's leak, uploaded to a database called Icepick, contained work addresses, phone numbers and job descriptions of agency staff, mostly agents at Customs and Border Protection and Immigration and Customs Enforcement, and named dozens of agency operations, including undercover missions, and the technology used in them, with Cellbrite and Palantir mentioned by name.
-nut_graf: 'The hack was the third similar incident targeting a U.S. government agency in recent weeks, and the leaked files go beyond contact details: they name dozens of agency operations, including undercover missions, which agents were in charge or worked on them, and the type and provider of tech utilized, with Cellbrite and Palantir mentioned by name.'
+lede: DHS told the BBC it was aware of a possible data breach and was actively working
+  to address the situation swiftly and effectively, United Press International reported.
+  The response followed the posting online of personnel records of more than 41,000
+  Department of Homeland Security employees. Wednesday's leak, uploaded to a database
+  called Icepick, contained work addresses, phone numbers and job descriptions of
+  agency staff, mostly agents at Customs and Border Protection and Immigration and
+  Customs Enforcement, and named dozens of agency operations, including undercover
+  missions, and the technology used in them, with Cellbrite and Palantir mentioned
+  by name.
+nut_graf: 'The hack was the third similar incident targeting a U.S. government agency
+  in recent weeks, and the leaked files go beyond contact details: they name dozens
+  of agency operations, including undercover missions, which agents were in charge
+  or worked on them, and the type and provider of tech utilized, with Cellbrite and
+  Palantir mentioned by name.'
 primary_entities:
 - Department of Homeland Security
 - Customs and Border Protection
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +167,46 @@ related_stories:
   headline: Icepick leak names officials behind DHS covert operations, Best says
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8336
+  strength: 0.839
 - slug: 2026-10-28-distributed-denial-of-secrets-publishes-dhs-data-on-more-than-40-000-workers
   headline: Distributed Denial of Secrets publishes DHS data on more than 40,000 workers
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7559
-- slug: 2026-10-29-tech-companies-push-back-against-broad-ice-demands-for-user-data
-  headline: Tech companies push back against broad ICE demands for user data
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6362
-- slug: 2026-10-26-federal-prosecutors-charge-james-comey-with-leaking-national-defense-information
-  headline: Federal prosecutors charge James Comey with leaking national defense information
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6383
-- slug: 2026-10-20-dhs-warns-deepseek-use-by-federal-staff-or-vendors-may-transfer-data-to-china
-  headline: DHS warns DeepSeek use by federal staff or vendors may transfer data to China
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6402
-- slug: 2026-10-19-dhs-appointees-urged-cisa-to-secretly-hack-voting-machine-sources-say
-  headline: DHS appointees urged CISA to secretly hack voting machine, sources say
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6452
+  strength: 0.7592
 - slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
   headline: Shiny Hunters claims breach of FBI personnel data on 38,000
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7303
-- slug: 2026-10-06-fbi-counterintelligence-squads-face-deep-cuts-as-espionage-threats-grow
-  headline: FBI counterintelligence squads face deep cuts as espionage threats grow
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6374
+  strength: 0.733
 - slug: 2026-09-23-fbi-investigates-breach-of-jobs-website-claimed-by-hacking-group
   headline: FBI investigates breach of jobs website claimed by hacking group
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6824
+  strength: 0.6842
 - slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
+  headline: ShinyHunters claims theft of FBI agents' medical records and personal
+    data
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6722
+  strength: 0.6727
 - slug: 2026-09-23-times-review-finds-shinyhunters-fbi-data-most-likely-legitimate
   headline: Times review finds ShinyHunters FBI data 'most likely legitimate'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6581
+  strength: 0.6613
 - slug: 2026-09-18-dhs-shared-non-english-voting-jurisdictions-alongside-doj-prosecution-checklist
-  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution checklist
+  headline: DHS shared non-English voting jurisdictions alongside DOJ prosecution
+    checklist
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6714
-- slug: 2026-09-14-whistleblower-alleges-federal-agents-misled-states-to-access-voter-records
-  headline: Whistleblower alleges federal agents misled states to access voter records
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.648
-- slug: 2026-08-13-dhs-records-reveal-undercover-surveillance-of-anti-ice-protest-groups
-  headline: DHS records reveal undercover surveillance of anti-ICE protest groups
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6424
+  strength: 0.6736
 - slug: 2026-08-04-ice-s-social-media-surveillance-spurs-hundreds-of-subpoenas-to-unmask-critics
-  headline: ICE's social media surveillance spurs hundreds of subpoenas to unmask critics
+  headline: ICE's social media surveillance spurs hundreds of subpoenas to unmask
+    critics
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6549
-- slug: 2026-07-17-ice-shared-improperly-obtained-medicaid-data-with-palantir-filings-reveal
-  headline: ICE shared improperly obtained Medicaid data with Palantir, filings reveal
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6582
-- slug: 2026-07-11-dhs-workers-faced-polygraphs-forced-reassignments-under-trump-officials-say
-  headline: DHS workers faced polygraphs, forced reassignments under Trump, officials say
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6513
-- slug: 2026-06-19-dhs-plan-to-give-local-police-ice-facial-recognition-app-revealed
-  headline: DHS plan to give local police ICE facial recognition app revealed
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6695
-- slug: 2026-02-12-court-filing-says-irs-mistakenly-shared-taxpayer-data-with-dhs
-  headline: Court filing says IRS mistakenly shared taxpayer data with DHS
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6895
-- slug: 2026-04-16-ap-investigation-highlights-issues-in-backgrounds-of-some-new-ice-hires
-  headline: Issues in backgrounds of some new ICE hires
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6554
+  strength: 0.6551
 ---
-
 ## DHS tells BBC it is addressing possible personnel data breach
 
 **Subtype:** fact

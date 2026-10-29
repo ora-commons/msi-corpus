@@ -53,10 +53,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -110,3 +112,9 @@ Authorities had been concerned that aerial searches could be limited in the comi
 **Publication date:** 2026-10-29
 **Title:** Bodies of 2 college students missing on hiking trip found on Colorado mountain
 **URL:** https://apnews.com/article/missing-college-students-hikers-dead-colorado-mountain-4977a595605815106e6a6b220b8dcc31
+
+### src_late_1219750fd90f8456 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-10-29
+**Title:** Two Colorado college students found dead after going missing during hike
+**URL:** https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike
+**Added after publication:** true

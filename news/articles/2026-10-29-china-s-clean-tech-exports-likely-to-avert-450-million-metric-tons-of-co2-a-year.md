@@ -1,9 +1,19 @@
 ---
-headline: China's clean tech exports likely to avert 450 million metric tons of CO2 a year
+headline: China's clean tech exports likely to avert 450 million metric tons of CO2
+  a year
 secondary_headline: Iran war energy shock pushes Southeast Asia toward renewables
 publish_date: '2026-10-29'
-lede: China is exporting a record amount of clean energy technology and equipment as the energy crisis from the Iran war drives surging demand for renewables, according to a report released Thursday. The analysis, by the Finland-based Centre for Research on Energy and Clean Air, estimates that once installed or deployed, these 2026 exports will likely avert about 450 million metric tons of carbon dioxide per year, roughly equal to Brazil's annual emissions.
-nut_graf: The finding is a small sign of progress as global efforts to curb climate change fall short, and it lands ahead of annual U.N. climate talks in Turkey in November, where electrification is expected to be a leading topic. It also underscores China's dual position as the world's biggest provider of clean tech equipment and the largest global source of carbon emissions.
+lede: China is exporting a record amount of clean energy technology and equipment
+  as the energy crisis from the Iran war drives surging demand for renewables, according
+  to a report released Thursday. The analysis, by the Finland-based Centre for Research
+  on Energy and Clean Air, estimates that once installed or deployed, these 2026 exports
+  will likely avert about 450 million metric tons of carbon dioxide per year, roughly
+  equal to Brazil's annual emissions.
+nut_graf: The finding is a small sign of progress as global efforts to curb climate
+  change fall short, and it lands ahead of annual U.N. climate talks in Turkey in
+  November, where electrification is expected to be a leading topic. It also underscores
+  China's dual position as the world's biggest provider of clean tech equipment and
+  the largest global source of carbon emissions.
 primary_entities:
 - China
 - Southeast Asia
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +158,45 @@ related_stories:
   headline: China's exports surge 36.3% in September, topping forecasts
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6725
+  strength: 0.6701
 - slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
   headline: Chinese automakers target overseas markets as US and EU tighten access
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.66
+  strength: 0.6578
 - slug: 2026-09-03-china-s-evs-displaced-1-5-million-barrels-of-oil-per-day-in-q2-iea-says
   headline: China's EVs displaced 1.5 million barrels of oil per day in Q2, IEA says
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7141
+  strength: 0.7118
 - slug: 2026-07-19-china-s-battery-storage-surges-to-155-gw-chinese-suppliers-capture-90-of-market
-  headline: China's battery storage surges to 155 GW, Chinese suppliers capture 90% of market
+  headline: China's battery storage surges to 155 GW, Chinese suppliers capture 90%
+    of market
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.6961
+  strength: 0.6968
 - slug: 2026-04-14-china-gains-from-iran-war-as-global-energy-interest-turns-away-from-fossil-fuels
-  headline: China gains from Iran war as global energy interest turns away from fossil fuels
+  headline: China gains from Iran war as global energy interest turns away from fossil
+    fuels
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.7388
+  strength: 0.7376
 - slug: 2026-04-10-china-s-car-exports-soar-more-than-80-in-march-as-ev-pivot-looks-ahead
   headline: China's car exports soar more than 80% in March as EV pivot looks ahead
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.7193
+  strength: 0.7177
 - slug: 2026-04-14-china-exports-grew-2-5-in-march-as-iran-war-raises-uncertainty
   headline: China exports grew 2.5% in March as Iran war raises uncertainty
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.7163
+  strength: 0.716
 - slug: 2026-04-09-china-car-exports-soar-more-than-80-in-march-evs-jump-on-energy-shock
   headline: China car exports soar more than 80% in March, EVs jump on energy shock
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.717
-- slug: 2026-07-15-china-s-crude-buying-pause-may-end-tightening-global-oil-market
-  headline: China's crude buying pause may end, tightening global oil market
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6566
-- slug: 2026-02-08-china-keeps-building-coal-power-despite-solar-and-wind-boom
-  headline: China keeps building coal power despite solar and wind boom
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7233
-- slug: 2026-05-10-china-s-car-exports-jump-nearly-85-in-april-as-domestic-sales-slump
-  headline: China's car exports jump nearly 85% in April as domestic sales slump
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6993
-- slug: 2026-05-10-china-car-exports-jump-nearly-85-in-april-led-by-evs
-  headline: China car exports jump nearly 85% in April, led by EVs
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.694
-- slug: 2026-04-13-china-export-growth-slows-to-2-5-in-march-as-iran-war-adds-uncertainty
-  headline: China export growth slows to 2.5% in March as Iran war adds uncertainty
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6951
-- slug: 2026-03-10-china-s-exports-surge-in-jan-feb-as-trade-with-us-shrinks
-  headline: China's exports surge in Jan-Feb as trade with US shrinks
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6988
-- slug: 2026-06-10-china-car-exports-jump-73-in-may-evs-more-than-double
-  headline: China car exports jump 73% in May, EVs more than double
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6667
-- slug: 2026-02-05-report-says-china-commissioned-record-coal-power-capacity-in-2025
-  headline: Report says China commissioned record coal power capacity in 2025
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7018
-- slug: 2026-05-12-iran-war-fuel-shocks-drive-rooftop-solar-surge-across-energy-hungry-asia
-  headline: Iran war fuel shocks drive rooftop solar surge across energy-hungry Asia
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6807
-- slug: 2026-04-16-china-s-economy-grows-5-in-q1-largely-shrugging-off-iran-war-shocks
-  headline: China’s economy grows 5% in Q1, largely shrugging off Iran war shocks
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6874
-- slug: 2026-01-14-china-car-exports-surged-21-in-2025-as-domestic-ev-demand-slowed
-  headline: China car exports surged 21% in 2025, as domestic EV demand slowed
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6977
-- slug: 2026-05-12-iran-war-drives-solar-sales-in-energy-hungry-asia
-  headline: Iran war drives solar sales in energy-hungry Asia
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6731
+  strength: 0.7154
 ---
-
 ## China's clean tech exports likely to avert 450 million metric tons of CO2 a year
 
 **Subtype:** fact

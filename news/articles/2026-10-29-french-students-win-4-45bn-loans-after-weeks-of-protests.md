@@ -1,9 +1,21 @@
 ---
 headline: French students win $4.45bn loans after weeks of protests
-secondary_headline: Student union calls package 'crumbs'; national strike set for 5 November
+secondary_headline: Student union calls package 'crumbs'; national strike set for
+  5 November
 publish_date: '2026-10-29'
-lede: French students won their first government concessions Monday after more than a month of demonstrations across France, securing $4.45bn in government loans for the renovation of rundown buildings, more university spaces, more teachers and other administrative changes. A spokesperson for l'Union Étudiante, a national university student union, called the package 'crumbs' and vowed to keep fighting, with more actions scheduled for 31 October and a national strike called for 5 November.
-nut_graf: The concessions are the first the government has granted to a movement that has drawn hundreds of thousands of people onto French streets since mid-September; the state had previously responded with policing and protest bans. With France facing a dire budget crisis and a presidential election next spring, the Guardian's analysis of the movement — drawing on historians, labor-studies scholars and student movement specialists — examines what US organizers can learn from the French model of union power and coalition building.
+lede: French students won their first government concessions Monday after more than
+  a month of demonstrations across France, securing $4.45bn in government loans for
+  the renovation of rundown buildings, more university spaces, more teachers and other
+  administrative changes. A spokesperson for l'Union Étudiante, a national university
+  student union, called the package 'crumbs' and vowed to keep fighting, with more
+  actions scheduled for 31 October and a national strike called for 5 November.
+nut_graf: The concessions are the first the government has granted to a movement that
+  has drawn hundreds of thousands of people onto French streets since mid-September;
+  the state had previously responded with policing and protest bans. With France facing
+  a dire budget crisis and a presidential election next spring, the Guardian's analysis
+  of the movement — drawing on historians, labor-studies scholars and student movement
+  specialists — examines what US organizers can learn from the French model of union
+  power and coalition building.
 primary_entities:
 - France
 - United States
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +156,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
-  headline: French authorities mobilize 70,000 police and soldiers ahead of expected protests
+  headline: French authorities mobilize 70,000 police and soldiers ahead of expected
+    protests
   publish_date: '2026-10-24'
   relation: related
   strength: 0.6936
@@ -151,99 +165,28 @@ related_stories:
   headline: French authorities prepare about 70,000 police for Saturday demonstrations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6693
+  strength: 0.6695
 - slug: 2026-10-25-marine-le-pen-opens-campaign-with-unity-pledge-amid-french-unrest
   headline: Marine Le Pen opens campaign with unity pledge amid French unrest
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6532
+  strength: 0.6533
 - slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
   headline: Macron says some leaders used French unrest for political campaigns
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6565
+  strength: 0.6561
 - slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
   headline: Youth-led protests over French schools draw hundreds of thousands
   publish_date: '2026-10-08'
   relation: related
   strength: 0.7195
-- slug: 2026-10-20-french-police-pursue-suspects-after-weekend-violence
-  headline: French police pursue suspects after weekend violence
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6442
 - slug: 2026-10-06-french-police-fire-tear-gas-as-256-000-rally-nationwide-for-school-funding
   headline: French police fire tear gas as 256,000 rally nationwide for school funding
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6961
-- slug: 2026-10-22-france-s-10-year-bond-yield-rises-above-5-amid-budget-gridlock
-  headline: France’s 10-year bond yield rises above 5% amid budget gridlock
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5981
-- slug: 2026-10-20-meichtry-says-le-pen-is-positioned-to-emerge-stronger-pitching-order
-  headline: Meichtry says Le Pen is positioned to emerge stronger, pitching order
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6085
-- slug: 2026-10-19-democrats-outraise-republicans-5-to-1-in-13-competitive-2026-midterm-races
-  headline: Democrats outraise Republicans 5-to-1 in 13 competitive 2026 midterm races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5783
-- slug: 2026-10-06-france-s-10-year-borrowing-cost-climbs-to-highest-level-since-2002
-  headline: France's 10-year borrowing cost climbs to highest level since 2002
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5916
-- slug: 2026-10-02-french-bond-yields-hit-highest-since-2002-as-borrowing-costs-surge
-  headline: French bond yields hit highest since 2002 as borrowing costs surge
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5807
-- slug: 2026-07-27-first-pyrocumulonimbus-in-france-as-europe-wildfire-crisis-worsens
-  headline: First pyrocumulonimbus in France as Europe wildfire crisis worsens
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5892
-- slug: 2026-07-20-student-loan-defaults-jump-by-4-2-million-after-pandemic-pause
-  headline: Student loan defaults jump by 4.2 million after pandemic pause
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5779
-- slug: 2026-06-17-g7-summit-draws-smaller-protests-as-wealth-inequality-focus-sharpens
-  headline: G7 summit draws smaller protests as wealth inequality focus sharpens
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5903
-- slug: 2026-06-28-new-graduate-loan-limits-take-effect-july-1-as-economists-debate-tuition-impact
-  headline: New graduate loan limits take effect July 1 as economists debate tuition impact
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.5771
-- slug: 2026-06-01-student-loan-inquiry-begins-as-third-of-people-say-degree-not-worth-it
-  headline: Student loan inquiry begins as third of people say degree not worth it
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5812
-- slug: 2026-05-13-argentines-protest-milei-funding-cuts-to-public-universities-nationwide
-  headline: Argentines protest Milei funding cuts to public universities nationwide
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5869
-- slug: 2026-05-13-mass-protests-in-argentina-decry-milei-s-public-university-funding-cuts
-  headline: Mass protests in Argentina decry Milei's public university funding cuts
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5711
-- slug: 2026-04-09-senegal-workers-protest-in-dakar-over-broken-promises-and-rising-costs
-  headline: Senegal workers protest in Dakar over broken promises and rising costs
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5796
+  strength: 0.696
 ---
-
 ## French students win $4.45bn loans after weeks of protests
 
 **Subtype:** fact
