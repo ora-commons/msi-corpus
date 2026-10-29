@@ -2,8 +2,18 @@
 headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
 secondary_headline: Hourly monitors tracked chemical changes during the Eaton Fire
 publish_date: '2026-10-28'
-lede: A California Institute of Technology study found that about 7 million people were exposed for 24 hours to lead levels more than 80 times typical at the height of the 2025 Los Angeles fires. The Eaton Fire plume contained 50 times more lead, three times more arsenic and seven times more halogens than smoke from a 2024 Riverside County fire that burned mostly vegetation. The study was published Wednesday in Science Advances.
-nut_graf: The study documents a chemical difference between smoke from an urban fire and smoke from a vegetation fire, a distinction researchers said monitoring and emergency response must account for as urban growth and climate change push more fires into cities. The findings leave the human-health effects of short-term, high lead exposure unresolved, while outside experts called for more detailed monitoring, public alerts and changes to emergency response.
+lede: A California Institute of Technology study found that about 7 million people
+  were exposed for 24 hours to lead levels more than 80 times typical at the height
+  of the 2025 Los Angeles fires. The Eaton Fire plume contained 50 times more lead,
+  three times more arsenic and seven times more halogens than smoke from a 2024 Riverside
+  County fire that burned mostly vegetation. The study was published Wednesday in
+  Science Advances.
+nut_graf: The study documents a chemical difference between smoke from an urban fire
+  and smoke from a vegetation fire, a distinction researchers said monitoring and
+  emergency response must account for as urban growth and climate change push more
+  fires into cities. The findings leave the human-health effects of short-term, high
+  lead exposure unresolved, while outside experts called for more detailed monitoring,
+  public alerts and changes to emergency response.
 primary_entities:
 - California Institute of Technology
 - Los Angeles
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +154,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-03-southern-california-enters-week-long-heatwave-with-temperatures-near-100f
-  headline: Southern California enters week-long heatwave with temperatures near 100F
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6356
-- slug: 2026-09-26-study-identifies-485-breast-cancer-linked-chemicals-in-us-pesticide-products
-  headline: Study identifies 485 breast cancer-linked chemicals in US pesticide products
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6396
 - slug: 2026-09-08-california-weighs-home-return-standards-for-smoke-damaged-wildfire-survivors
   headline: California weighs home-return standards for smoke-damaged wildfire survivors
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6622
-- slug: 2026-09-15-study-finds-pollution-spiked-after-state-department-ended-embassy-monitoring
-  headline: Study finds pollution spiked after State Department ended embassy monitoring
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.626
+  strength: 0.6612
 - slug: 2026-01-05-lead-and-toxins-persist-in-altadena-homes-a-year-after-la-wildfires
   headline: Lead and toxins persist in Altadena homes a year after LA wildfires
   publish_date: '2026-01-05'
   relation: related
-  strength: 0.7363
+  strength: 0.7337
 - slug: 2026-06-04-wildfire-smoke-reverses-us-ozone-progress-study-finds
   headline: Wildfire smoke reverses US ozone progress, study finds
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6863
+  strength: 0.686
 - slug: 2026-02-05-new-study-links-wildfire-smoke-pollution-to-about-24-100-u-s-deaths-a-year
-  headline: New study links wildfire smoke pollution to about 24,100 U.S. deaths a year
+  headline: New study links wildfire smoke pollution to about 24,100 U.S. deaths a
+    year
   publish_date: '2026-02-05'
   relation: related
-  strength: 0.6999
-- slug: 2026-06-29-road-pollution-linked-to-41-800-premature-u-s-deaths-in-2024-study-finds
-  headline: Road pollution linked to 41,800 premature U.S. deaths in 2024, study finds
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6394
-- slug: 2026-07-07-dc-air-quality-hits-worst-in-world-after-record-fireworks
-  headline: DC air quality hits worst in world after record fireworks
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6308
-- slug: 2026-06-18-heat-waves-drive-42-of-western-us-wildfire-burn-area-study-finds
-  headline: Heat waves drive 42% of Western US wildfire burn area, study finds
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6475
-- slug: 2026-06-23-london-new-york-offer-template-for-cities-to-cut-air-pollution-mayors-say
-  headline: London, New York offer template for cities to cut air pollution, mayors say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6378
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6405
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6419
-- slug: 2026-04-21-test-fires-help-scientists-protect-homes-from-climate-change-fueled-wildfires
-  headline: Test fires help scientists protect homes from climate-change fueled wildfires
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6493
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  headline: Wildfire burning season extends 36% in North America due to climate change
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6479
-- slug: 2026-04-25-wildfires-aren-t-just-out-west-climate-change-brings-blazes-east
-  headline: Wildfires aren’t just out West. Climate change brings blazes East
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6395
-- slug: 2026-01-06-los-angeles-wildfires-killed-31-destroyed-16-246-structures-one-year-on-only-10-
-  headline: Los Angeles wildfires killed 31, destroyed 16,246 structures; one year on, only 10 homes rebuilt
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6535
-- slug: 2026-04-11-la-s-community-colleges-race-to-train-construction-workers-for-wildfire-rebuildi
-  headline: LA’s community colleges race to train construction workers for wildfire rebuilding
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6343
-- slug: 2026-01-28-california-pollution-rules-years-late-still-insufficient-for-vulnerable-towns
-  headline: California pollution rules, years late, still insufficient for vulnerable towns
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6436
-- slug: 2026-04-16-health-effects-tied-to-toxic-hydrogen-sulfide-from-tijuana-river-sewage
-  headline: Health effects tied to toxic hydrogen sulfide from Tijuana River sewage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6293
+  strength: 0.699
 ---
-
 ## Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
 
 **Subtype:** fact
