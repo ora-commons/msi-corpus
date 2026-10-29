@@ -2,8 +2,15 @@
 headline: Alphabet shares fall after third-quarter revenue misses estimates
 secondary_headline: Net income declines after an $8.7 billion loss on equity investments
 publish_date: '2026-10-28'
-lede: Alphabet Inc., the Mountain View, California-based parent of Google, reported third-quarter revenue below Wall Street expectations on Wednesday, sending its shares lower in after-hours trading. Revenue rose 25% from a year earlier to $127.58 billion, while net income fell to $26.17 billion from $34.98 billion. Analysts on average expected $127.97 billion, according to FactSet.
-nut_graf: Alphabet reported 25% revenue growth and a Gemini app user base of one billion, but the company's revenue remained below the FactSet analyst average and net income declined from a year earlier. Shares fell about 9% in after-hours trading as the market responded to the earnings report.
+lede: Alphabet Inc., the Mountain View, California-based parent of Google, reported
+  third-quarter revenue below Wall Street expectations on Wednesday, sending its shares
+  lower in after-hours trading. Revenue rose 25% from a year earlier to $127.58 billion,
+  while net income fell to $26.17 billion from $34.98 billion. Analysts on average
+  expected $127.97 billion, according to FactSet.
+nut_graf: Alphabet reported 25% revenue growth and a Gemini app user base of one billion,
+  but the company's revenue remained below the FactSet analyst average and net income
+  declined from a year earlier. Shares fell about 9% in after-hours trading as the
+  market responded to the earnings report.
 primary_entities:
 - Alphabet Inc.
 - Google
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,16 +144,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-meta-reports-37-profit-drop-and-15-headcount-cut
-  headline: Meta reports 37% profit drop and 15% headcount cut
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.638
-- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
-  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6379
 - slug: 2026-07-22-alphabet-reports-112-11-billion-q2-profit-revenue-tops-forecasts
   headline: Alphabet reports $112.11 billion Q2 profit; revenue tops forecasts
   publish_date: '2026-07-22'
@@ -162,7 +160,8 @@ related_stories:
   relation: related
   strength: 0.6988
 - slug: 2026-08-05-applovin-shares-fall-17-after-revenue-misses-estimates-q3-adjusted-earnings-outl
-  headline: AppLovin shares fall 17% after revenue misses estimates, Q3 adjusted earnings outlook comes in below forecast
+  headline: AppLovin shares fall 17% after revenue misses estimates, Q3 adjusted earnings
+    outlook comes in below forecast
   publish_date: '2026-08-05'
   relation: related
   strength: 0.7082
@@ -186,58 +185,7 @@ related_stories:
   publish_date: '2026-08-01'
   relation: related
   strength: 0.6747
-- slug: 2026-08-06-datadog-cites-lower-usage-from-major-ai-customer-in-2026-outlook
-  headline: Datadog cites lower usage from major AI customer in 2026 outlook
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6324
-- slug: 2026-07-16-netflix-profit-rises-9-percent-q2-shares-fall
-  headline: Netflix profit rises 9% in Q2 but shares fall on weaker forecast
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6589
-- slug: 2026-07-23-oil-tops-100-tech-selloff-deepens-as-wall-street-slides
-  headline: Oil tops $100, tech selloff deepens as Wall Street slides
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6492
-- slug: 2026-01-12-alphabet-joins-4-trillion-club-as-investors-bet-on-ai-breakthroughs
-  headline: Alphabet joins $4 trillion club as investors bet on AI breakthroughs
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7274
-- slug: 2026-07-16-netflix-guidance-disappoints-paypal-talks-advance-openai-denies-theft
-  headline: Netflix guidance disappoints, PayPal talks advance, OpenAI denies theft
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6482
-- slug: 2026-06-01-alphabet-plans-80-billion-equity-raise-to-fund-ai-infrastructure-expansion
-  headline: Alphabet plans $80 billion equity raise to fund AI infrastructure expansion
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6872
-- slug: 2026-07-22-tesla-r-d-spending-jumps-49-driving-profit-below-analyst-forecasts
-  headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6388
-- slug: 2026-07-13-oxford-nanopore-shares-slide-11-after-revenue-below-management-expectations
-  headline: Oxford Nanopore shares slide 11% after revenue below management expectations
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.643
-- slug: 2026-01-12-apple-turns-to-google-s-gemini-to-power-siri-upgrade-and-iphone-ai-features
-  headline: Apple turns to Google's Gemini to power Siri upgrade and iPhone AI features
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6913
-- slug: 2026-06-10-tech-stocks-slide-bitcoin-slumps-below-61k-as-market-selloff-deepens
-  headline: Tech stocks slide, Bitcoin slumps below $61K as market selloff deepens
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6352
 ---
-
 ## Alphabet shares fall after third-quarter revenue misses estimates
 
 **Subtype:** fact

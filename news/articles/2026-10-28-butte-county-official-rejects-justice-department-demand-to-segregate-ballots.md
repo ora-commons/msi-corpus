@@ -1,9 +1,20 @@
 ---
 headline: Butte County official rejects Justice Department demand to segregate ballots
-secondary_headline: Denlay said federal list had 46 entries despite DOJ’s 47-name count
+secondary_headline: Denlay said federal list had 46 entries despite DOJ’s 47-name
+  count
 publish_date: '2026-10-28'
-lede: In a Wednesday interview, Keaton Denlay, Butte County's clerk-recorder and registrar of voters, rejected a Justice Department request to segregate ballots for people on a list the department described as containing 47 likely noncitizens. Denlay said the printed list contained 46 names, including one name repeated twice, and that the Justice Department letter gave him 48 hours to respond while warning of federal criminal liability.
-nut_graf: The case shows how the Justice Department's effort to challenge alleged noncitizen voting reached a California county office through a printed spreadsheet, a 48-hour deadline and threats of prosecution. State officials said the broader claims relied on unreliable data, risked disenfranchising U.S. citizens, and that the federal government lacked authority to interfere with California's elections in that manner.
+lede: In a Wednesday interview, Keaton Denlay, Butte County's clerk-recorder and registrar
+  of voters, rejected a Justice Department request to segregate ballots for people
+  on a list the department described as containing 47 likely noncitizens. Denlay said
+  the printed list contained 46 names, including one name repeated twice, and that
+  the Justice Department letter gave him 48 hours to respond while warning of federal
+  criminal liability.
+nut_graf: The case shows how the Justice Department's effort to challenge alleged
+  noncitizen voting reached a California county office through a printed spreadsheet,
+  a 48-hour deadline and threats of prosecution. State officials said the broader
+  claims relied on unreliable data, risked disenfranchising U.S. citizens, and that
+  the federal government lacked authority to interfere with California's elections
+  in that manner.
 primary_entities:
 - Keaton Denlay
 - Butte County
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +153,45 @@ related_stories:
   headline: California ballot dispute reaches 9th Circuit
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7561
+  strength: 0.7564
 - slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
   headline: California leaders challenge federal review of suspected noncitizen ballots
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.76
+  strength: 0.7605
 - slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
   headline: California election officials question DOJ voter list, keep counting
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7662
+  strength: 0.7664
 - slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
   headline: Monthslong California voter-roll dispute precedes DOJ emergency request
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.752
+  strength: 0.7518
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7618
+  strength: 0.7619
 - slug: 2026-10-20-los-angeles-county-officials-question-doj-list-of-suspected-non-citizens
   headline: Los Angeles County officials question DOJ list of suspected non-citizens
   publish_date: '2026-10-20'
   relation: related
   strength: 0.7805
 - slug: 2026-10-27-federal-list-methodology-and-200-record-sample-sharpen-california-ballot-list-di
-  headline: Federal list methodology and 200-record sample sharpen California ballot list dispute
+  headline: Federal list methodology and 200-record sample sharpen California ballot
+    list dispute
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.73
+  strength: 0.7298
 - slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
   headline: 9th Circuit declines expedited ruling in DOJ California ballot case
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7343
-- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
-  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7268
-- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.719
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7561
-- slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
-  headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7132
-- slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
-  headline: Appeals panel questions DOJ bid to set aside California ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7048
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7417
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7567
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7156
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7116
-- slug: 2026-10-15-deputy-attorney-general-orders-california-to-access-noncitizen-voter-list
-  headline: Deputy Attorney General orders California to access noncitizen voter list
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7266
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7223
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7
+  strength: 0.7342
 ---
-
 ## Butte County official rejects Justice Department demand to segregate ballots
 
 **Subtype:** fact

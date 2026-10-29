@@ -1,9 +1,18 @@
 ---
-headline: Sen. Warren presses Anthropic for answers on existential risks before its IPO
+headline: Sen. Warren presses Anthropic for answers on existential risks before its
+  IPO
 secondary_headline: Four pages of questions target safety, partners and valuation
 publish_date: '2026-10-28'
-lede: In a letter sent Tuesday and viewed by The Wall Street Journal, Sen. Elizabeth Warren asked Anthropic Chief Executive Dario Amodei for “exhaustive responses” to risks raised in the artificial-intelligence company’s IPO paperwork. Warren set a Nov. 3 deadline for answers to four pages of questions as Anthropic prepares an IPO that could raise as much as $100 billion.
-nut_graf: The exchange places a senator’s demands before a potential public-market debut that could be the largest IPO ever. Warren’s questions cover existential threats, relationships with Amazon.com and Broadcom and a valuation that could approach $2 trillion, while Anthropic’s filing pairs broad potential benefits of AI with warnings about new bioweapons and geopolitical disruption.
+lede: In a letter sent Tuesday and viewed by The Wall Street Journal, Sen. Elizabeth
+  Warren asked Anthropic Chief Executive Dario Amodei for “exhaustive responses” to
+  risks raised in the artificial-intelligence company’s IPO paperwork. Warren set
+  a Nov. 3 deadline for answers to four pages of questions as Anthropic prepares an
+  IPO that could raise as much as $100 billion.
+nut_graf: The exchange places a senator’s demands before a potential public-market
+  debut that could be the largest IPO ever. Warren’s questions cover existential threats,
+  relationships with Amazon.com and Broadcom and a valuation that could approach $2
+  trillion, while Anthropic’s filing pairs broad potential benefits of AI with warnings
+  about new bioweapons and geopolitical disruption.
 primary_entities:
 - Elizabeth Warren
 - Anthropic
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +148,45 @@ related_stories:
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8232
+  strength: 0.8236
 - slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
+  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time
+    charge
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8093
+  strength: 0.8103
 - slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
   headline: Anthropic begins IPO process, outlining potential AI benefits and risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.792
+  strength: 0.7946
 - slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
   headline: Anthropic says AI research could outpace model safeguards
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7901
+  strength: 0.7908
 - slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
   headline: Anthropic's IPO filing details compute, customer and data-center risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7784
+  strength: 0.7797
 - slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7607
+  strength: 0.7609
 - slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
-  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its IPO filing
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7407
+  strength: 0.7408
 - slug: 2026-10-27-broadcom-ceo-accepts-higher-rates-guarantees-for-anthropic-chip-financing
   headline: Broadcom CEO accepts higher rates, guarantees for Anthropic chip financing
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7105
-- slug: 2026-10-09-tom-brown-leads-anthropic-s-trump-administration-outreach
-  headline: Tom Brown leads Anthropic's Trump administration outreach
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7159
-- slug: 2026-09-27-trump-to-meet-anthropic-ceo-amodei-at-white-house-dinner
-  headline: Trump to meet Anthropic CEO Amodei at White House dinner
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7189
-- slug: 2026-09-18-anthropic-shifts-planned-ipo-from-october-to-november
-  headline: Anthropic shifts planned IPO from October to November
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7338
-- slug: 2026-09-14-anthropic-on-track-for-second-straight-profitable-quarter-ft-reports
-  headline: Anthropic on track for second straight profitable quarter, FT reports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7198
-- slug: 2026-09-15-anthropic-co-founder-says-mandatory-ai-kill-switch-may-be-needed
-  headline: Anthropic co-founder says mandatory AI 'kill switch' may be needed
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7106
-- slug: 2026-09-12-openai-delays-2026-ipo-citing-ai-safety-concerns
-  headline: OpenAI delays 2026 IPO, citing AI safety concerns
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7147
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.784
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7884
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7655
-- slug: 2026-07-14-openai-files-for-ipo-as-apple-lawsuit-and-leadership-gap-threaten-timing
-  headline: OpenAI files for IPO as Apple lawsuit and leadership gap threaten timing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7198
-- slug: 2026-06-10-anthropic-invests-200m-to-study-ai-s-impact-on-jobs-and-economy
-  headline: Anthropic invests $200M to study AI’s impact on jobs and economy
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7193
-- slug: 2026-06-01-openai-and-anthropic-race-toward-ipos-as-first-mover-stakes-mount
-  headline: OpenAI and Anthropic race toward IPOs as first-mover stakes mount
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7173
+  strength: 0.7125
 ---
-
 ## Sen. Warren presses Anthropic for answers on existential risks before its IPO
 
 **Subtype:** fact
