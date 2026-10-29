@@ -1,9 +1,19 @@
 ---
 headline: Kennedy says he will allow unapproved peptide injections
-secondary_headline: HHS policy directs FDA not to act against pharmacies selling the peptides
+secondary_headline: HHS policy directs FDA not to act against pharmacies selling the
+  peptides
 publish_date: '2026-10-28'
-lede: U.S. Health and Human Services Secretary Robert F. Kennedy Jr. said Wednesday that he will allow access to unapproved peptide injections promoted by internet influencers, bypassing most U.S. Food and Drug Administration safeguards. A Health and Human Services Department policy posted Wednesday directs the FDA not to take action against pharmacies selling the covered peptides and uses enforcement discretion to allow production without the usual approval process.
-nut_graf: The policy shifts the covered peptides from the usual FDA approval process to enforcement discretion, permitting production and pharmacy sales without the standard review. The change affects compounds marketed for longevity and muscle repair, while former FDA official Peter Lurie says approved medications already exist for conditions the peptides are said to help.
+lede: U.S. Health and Human Services Secretary Robert F. Kennedy Jr. said Wednesday
+  that he will allow access to unapproved peptide injections promoted by internet
+  influencers, bypassing most U.S. Food and Drug Administration safeguards. A Health
+  and Human Services Department policy posted Wednesday directs the FDA not to take
+  action against pharmacies selling the covered peptides and uses enforcement discretion
+  to allow production without the usual approval process.
+nut_graf: The policy shifts the covered peptides from the usual FDA approval process
+  to enforcement discretion, permitting production and pharmacy sales without the
+  standard review. The change affects compounds marketed for longevity and muscle
+  repair, while former FDA official Peter Lurie says approved medications already
+  exist for conditions the peptides are said to help.
 primary_entities:
 - Robert F. Kennedy Jr.
 - Health and Human Services Department
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +149,43 @@ related_stories:
   headline: HHS policy directs FDA to limit enforcement on specialty peptide pharmacies
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8274
+  strength: 0.8275
 - slug: 2026-10-28-most-fda-scientists-reportedly-oppose-hhs-plan-to-ease-peptide-access
   headline: Most FDA scientists reportedly oppose HHS plan to ease peptide access
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8243
+  strength: 0.8241
 - slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
   headline: FDA proposes allowing some chemicals into food without safety review
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7131
+  strength: 0.7132
 - slug: 2026-07-23-fda-advisory-panel-opens-review-of-peptides-backed-by-rfk-jr
   headline: FDA advisory panel opens review of peptides backed by RFK Jr.
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7891
+  strength: 0.7892
 - slug: 2026-06-30-fda-scientists-flag-lack-of-evidence-for-peptides-backed-by-rfk-jr
   headline: FDA scientists flag lack of evidence for peptides backed by RFK Jr.
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.8132
-- slug: 2026-06-26-fda-panel-to-weigh-easing-restrictions-on-unapproved-peptides
-  headline: FDA panel to weigh easing restrictions on unapproved peptides
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7903
+  strength: 0.8136
 - slug: 2026-04-15-fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr
   headline: FDA to weigh easing limits on unproven peptides favored by RFK Jr.
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.8277
+  strength: 0.8285
+- slug: 2026-06-26-fda-panel-to-weigh-easing-restrictions-on-unapproved-peptides
+  headline: FDA panel to weigh easing restrictions on unapproved peptides
+  publish_date: '2026-06-26'
+  relation: related
+  strength: 0.79
 - slug: 2026-08-03-fda-panel-votes-to-support-compounding-of-six-peptide-therapies
   headline: FDA panel votes to support compounding of six peptide therapies
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.7339
-- slug: 2026-07-08-fda-panel-to-weigh-easing-restrictions-on-popular-peptides
-  headline: FDA panel to weigh easing restrictions on popular peptides
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7609
-- slug: 2026-08-10-fda-proposes-mandatory-notice-for-new-food-ingredients
-  headline: FDA proposes mandatory notice for new food ingredients
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7053
-- slug: 2026-01-24-unapproved-peptide-injections-what-to-know-about-the-wellness-trend
-  headline: 'Unapproved peptide injections: what to know about the wellness trend'
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.8152
-- slug: 2026-06-23-telehealth-compounding-pharmacies-race-into-2-2b-peptide-market-as-fda-prepares-
-  headline: Telehealth, compounding pharmacies race into $2.2B peptide market as FDA prepares to ease restrictions
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.72
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6771
-- slug: 2026-03-29-dietary-supplement-makers-press-fda-to-broaden-ingredients-to-peptides
-  headline: Dietary supplement makers press FDA to broaden ingredients to peptides
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7524
-- slug: 2026-05-08-fda-announces-plan-to-phase-out-synthetic-dyes-but-rulemaking-has-stalled
-  headline: FDA announces plan to phase out synthetic dyes, but rulemaking has stalled
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7142
-- slug: 2026-06-17-parents-turn-to-unproven-stem-cell-autism-treatments-backed-by-rfk-jr
-  headline: Parents turn to unproven stem cell autism treatments backed by RFK Jr.
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6899
-- slug: 2026-05-27-fda-staffers-blindsided-by-new-vaping-policy-easing-e-cigarette-access
-  headline: FDA staffers blindsided by new vaping policy easing e‑cigarette access
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6908
-- slug: 2026-05-22-fda-vaping-policy-blindsided-regulators-staffers-say-memo-eased-market-rules
-  headline: FDA vaping policy blindsided regulators; staffers say memo eased market rules
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6803
-- slug: 2026-05-23-fda-staff-blindsided-by-new-vaping-policy-that-allows-more-e-cigarettes-and-nico
-  headline: FDA staff blindsided by new vaping policy that allows more e‑cigarettes and nicotine pouches
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6787
-- slug: 2026-02-26-rfk-jr-backs-u-s-pesticide-production-after-years-opposing-glyphosate
-  headline: RFK Jr. backs U.S. pesticide production after years opposing glyphosate
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6953
+  strength: 0.7334
 ---
-
 ## Kennedy says he will allow unapproved peptide injections
 
 **Subtype:** fact

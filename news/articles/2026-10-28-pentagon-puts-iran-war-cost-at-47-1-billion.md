@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.7445
+analyses:
+- '2026-10-28-iran-war-cost-estimate-signals-further-growth-beyond-47-1-billion'
 ---
 ## Pentagon puts Iran war cost at $47.1 billion
 
@@ -247,3 +249,8 @@ The Pentagon's accounting leaves several questions open. The $47.1 billion estim
 **Publication date:** 2026-10-28
 **Title:** Iran war's cost grows to $47.1 billion
 **URL:** https://apnews.com/article/iran-war-costs-trump-congress-81d781a54149709d1ca6754d2aab78bc
+
+---
+
+<!-- analysis-link:2026-10-28-iran-war-cost-estimate-signals-further-growth-beyond-47-1-billion -->
+**Going deeper:** [Read MSI's analysis of the $47.1 billion Iran war estimate →](/analyses/2026-10-28-iran-war-cost-estimate-signals-further-growth-beyond-47-1-billion)

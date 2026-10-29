@@ -2,8 +2,26 @@
 headline: Law firm management recommends dissolution after partner exodus
 secondary_headline: Bolsonaro's son leaves Brazil despite Supreme Court order
 publish_date: '2026-10-28'
-lede: The Wall Street Journal reported in its Oct. 28 What's News newsletter that Barry Wolf, who has led a law firm for 16 years, said on a firmwide call that management is recommending the firm's dissolution, with a partner vote expected in the coming days, according to a person familiar with the matter. The discussions follow an exodus of many of the firm's highest earning partners and failed merger talks that left the firm in a precarious position, and a wind-down would mark an extraordinary fall for a firm with some 1,200 lawyers worldwide that had been among the most well-regarded and profitable in the industry. The same edition reported that a 45-year-old Brazilian senator, son of former right-wing President Jair Bolsonaro, crossed into Argentina late Tuesday before boarding a private jet that took his family to the U.S. via Ecuador, defying a Supreme Court order barring him from leaving Brazil.
-nut_graf: The Wall Street Journal reported in its Oct. 28 What's News newsletter that management of a law firm with some 1,200 lawyers worldwide is recommending the firm's dissolution, with a partner vote expected in the coming days; a wind-down would mark an extraordinary fall for a firm that had been among the most well-regarded and profitable in the industry. The same edition reported that a 45-year-old senator, son of former right-wing President Jair Bolsonaro, defied a Supreme Court order barring him from leaving Brazil, and that Bolsonaro faces criminal investigations into alleged financial crimes that he has dismissed as a political witch hunt against his family by left-leaning justices.
+lede: The Wall Street Journal reported in its Oct. 28 What's News newsletter that
+  Barry Wolf, who has led a law firm for 16 years, said on a firmwide call that management
+  is recommending the firm's dissolution, with a partner vote expected in the coming
+  days, according to a person familiar with the matter. The discussions follow an
+  exodus of many of the firm's highest earning partners and failed merger talks that
+  left the firm in a precarious position, and a wind-down would mark an extraordinary
+  fall for a firm with some 1,200 lawyers worldwide that had been among the most well-regarded
+  and profitable in the industry. The same edition reported that a 45-year-old Brazilian
+  senator, son of former right-wing President Jair Bolsonaro, crossed into Argentina
+  late Tuesday before boarding a private jet that took his family to the U.S. via
+  Ecuador, defying a Supreme Court order barring him from leaving Brazil.
+nut_graf: The Wall Street Journal reported in its Oct. 28 What's News newsletter that
+  management of a law firm with some 1,200 lawyers worldwide is recommending the firm's
+  dissolution, with a partner vote expected in the coming days; a wind-down would
+  mark an extraordinary fall for a firm that had been among the most well-regarded
+  and profitable in the industry. The same edition reported that a 45-year-old senator,
+  son of former right-wing President Jair Bolsonaro, defied a Supreme Court order
+  barring him from leaving Brazil, and that Bolsonaro faces criminal investigations
+  into alleged financial crimes that he has dismissed as a political witch hunt against
+  his family by left-leaning justices.
 primary_entities:
 - Barry Wolf
 - Jair Bolsonaro
@@ -51,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +169,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-28-law-firm-management-recommends-dissolution-after-partner-exodus.png
-  alt: 'Illustration accompanying article: Law firm management recommends dissolution after partner exodus'
+  alt: 'Illustration accompanying article: Law firm management recommends dissolution
+    after partner exodus'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-10-28-weil-gotshal-accelerates-merger-search-as-partners-depart-and-chair-declines
-  headline: Weil Gotshal accelerates merger search as partners depart and chair declines
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6297
-- slug: 2026-10-27-brazilian-official-says-fl-vio-s-two-passports-canceled-after-defying-de-moraes-
-  headline: Brazilian official says Flávio’s two passports canceled after defying de Moraes’s order
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6311
-- slug: 2026-10-28-unnamed-sources-report-fl-vio-bolsonaro-s-us-arrival-after-passport-cancellation
-  headline: Unnamed sources report Flávio Bolsonaro's US arrival after passport cancellation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6239
-- slug: 2026-10-28-fl-vio-bolsonaro-s-jet-leaves-guayaquil-for-miami-after-argentina-stop
-  headline: Flávio Bolsonaro’s jet leaves Guayaquil for Miami after Argentina stop
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6127
-- slug: 2026-10-28-fl-vio-bolsonaro-arrives-in-miami-after-brazil-cancels-his-passport
-  headline: Flávio Bolsonaro arrives in Miami after Brazil cancels his passport
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6064
-- slug: 2026-10-26-citi-receives-chinese-approval-for-wholly-owned-securities-company
-  headline: Citi receives Chinese approval for wholly owned securities company
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6157
-- slug: 2026-10-22-weil-gotshal-holds-merger-talks-amid-partner-departures
-  headline: Weil Gotshal holds merger talks amid partner departures
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6424
-- slug: 2026-10-26-justice-de-moraes-bars-fl-vio-bolsonaro-from-leaving-brazil-after-runoff-loss
-  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff loss
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6072
-- slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
-  headline: Fox News poll finds government corruption outranks inflation among voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6047
-- slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
-  headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6215
-- slug: 2026-10-23-lawsuit-seeks-to-delay-alaska-senate-race-finalization-over-ballot-confusion
-  headline: Lawsuit seeks to delay Alaska Senate race finalization over ballot confusion
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6066
-- slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6186
-- slug: 2026-10-09-trump-vance-back-bill-letting-merchants-pick-card-networks
-  headline: Trump, Vance back bill letting merchants pick card networks
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6101
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6092
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6103
-- slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
-  headline: Boeing aerospace union months into first full contract talks in 14 years
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6062
-- slug: 2026-09-22-meta-surges-on-ai-agent-app-financial-sector-drops-2-on-ai-fears
-  headline: Meta surges on AI agent app; financial sector drops 2% on AI fears
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6391
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6145
-- slug: 2026-09-19-us-law-firms-deploy-creative-incentives-to-push-senior-partners-into-retirement
-  headline: US law firms deploy creative incentives to push senior partners into retirement
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.611
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-jobs-gas-hits-labor-day-record
-  headline: Jaguar Land Rover cuts 4,000 jobs; gas hits Labor Day record
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6292
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## Law firm management recommends dissolution after partner exodus
 
 **Subtype:** fact
