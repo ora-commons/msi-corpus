@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-06-23'
   relation: related
   strength: 0.7489
+analyses:
+- '2026-10-28-hhs-substitutes-non-enforcement-directive-for-peptide-safety-rule'
 ---
 ## HHS policy directs FDA to limit enforcement on specialty peptide pharmacies
 
@@ -246,3 +248,8 @@ The new policy avoids a direct confrontation with FDA staff because it only dire
 **Publication date:** 2026-10-28
 **Title:** FDA scientists opposed Trump administration’s move to ease peptide access
 **URL:** https://www.theguardian.com/us-news/2026/oct/28/peptides-fda-health-human-services-department
+
+---
+
+<!-- analysis-link:2026-10-28-hhs-substitutes-non-enforcement-directive-for-peptide-safety-rule -->
+**Going deeper:** [Read MSI's analysis of the peptide non-enforcement directive →](/analyses/2026-10-28-hhs-substitutes-non-enforcement-directive-for-peptide-safety-rule)
