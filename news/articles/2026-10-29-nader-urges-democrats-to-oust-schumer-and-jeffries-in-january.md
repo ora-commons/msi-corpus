@@ -2,8 +2,19 @@
 headline: Nader urges Democrats to oust Schumer and Jeffries in January
 secondary_headline: Record 45% of US voters identify as independents, Gallup finds
 publish_date: '2026-10-29'
-lede: Ralph Nader, the 92-year-old consumer advocate many Democrats still blame for Al Gore's 2000 loss, is pressing the party to replace its congressional leadership days before the US midterm elections. In interviews with the Guardian, Nader said Senate and House Democratic leaders Chuck Schumer and Hakeem Jeffries should be voted out of their leadership posts in January, and that a victorious Democratic party must prosecute corruption, restore federal agencies and 'really change things for the working class.'
-nut_graf: The intervention lands days before an election in which the issues that drove Nader's 2000 campaign — corporate power, widening inequality, a broken healthcare system and cash-soaked elections — are front and center, even as Gallup polling shows a record 45% of US voters identify as independents. For Nader and many others, the central question of the closing campaign is whether anyone in US politics has the fight to fix what is wrong.
+lede: Ralph Nader, the 92-year-old consumer advocate many Democrats still blame for
+  Al Gore's 2000 loss, is pressing the party to replace its congressional leadership
+  days before the US midterm elections. In interviews with the Guardian, Nader said
+  Senate and House Democratic leaders Chuck Schumer and Hakeem Jeffries should be
+  voted out of their leadership posts in January, and that a victorious Democratic
+  party must prosecute corruption, restore federal agencies and 'really change things
+  for the working class.'
+nut_graf: The intervention lands days before an election in which the issues that
+  drove Nader's 2000 campaign — corporate power, widening inequality, a broken healthcare
+  system and cash-soaked elections — are front and center, even as Gallup polling
+  shows a record 45% of US voters identify as independents. For Nader and many others,
+  the central question of the closing campaign is whether anyone in US politics has
+  the fight to fix what is wrong.
 primary_entities:
 - Ralph Nader
 - Chuck Schumer
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +158,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-26-mueller-urges-democrats-to-learn-broader-lessons-from-possible-midterm-win
-  headline: Mueller urges Democrats to learn broader lessons from possible midterm win
+  headline: Mueller urges Democrats to learn broader lessons from possible midterm
+    win
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6615
+  strength: 0.6606
 - slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
   headline: Fox News poll finds government corruption outranks inflation among voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6737
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6489
-- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
-  headline: Arkansas Democrats push affordability message in final midterm stretch
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6494
+  strength: 0.6715
 - slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
+  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump
+    on Iran
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7158
+  strength: 0.7159
 - slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
   headline: Democrats elevate Trump corruption claims as midterm campaign issue
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6622
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.651
+  strength: 0.6592
 - slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
   headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6524
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.65
+  strength: 0.6505
 - slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
   headline: Cash gap, party divisions risk slowing Democratic midterm momentum
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6542
+  strength: 0.6512
 - slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
   headline: Democrats hold polling edge as midterm campaign enters final stretch
   publish_date: '2026-09-06'
   relation: related
-  strength: 0.6527
+  strength: 0.6504
 - slug: 2026-09-03-jeffries-previews-democratic-agenda-for-potential-house-majority
   headline: Jeffries previews Democratic agenda for potential House majority
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6579
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6484
-- slug: 2026-08-26-jeffries-faces-progressive-backlash-after-private-kushner-meeting
-  headline: Jeffries faces progressive backlash after private Kushner meeting
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6664
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6625
-- slug: 2026-07-27-jeffries-faults-republican-record-on-affordability-and-war-as-midterm-pitch
-  headline: Jeffries faults Republican record on affordability and war as midterm pitch
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6659
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6631
-- slug: 2026-07-26-jeffries-launches-democrats-affordability-agenda-at-100-day-midterm-mark
-  headline: Jeffries launches Democrats' affordability agenda at 100-day midterm mark
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6483
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6596
-- slug: 2026-01-14-schumer-says-democrats-are-preparing-for-trump-to-disrupt-and-dispute-the-midter
-  headline: Schumer says Democrats are preparing for Trump to disrupt and dispute the midterms
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7126
+  strength: 0.6583
 ---
-
 ## Nader urges Democrats to oust Schumer and Jeffries in January
 
 **Subtype:** fact
