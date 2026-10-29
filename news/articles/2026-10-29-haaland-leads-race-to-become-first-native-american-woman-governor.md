@@ -1,9 +1,17 @@
 ---
 headline: Haaland leads race to become first Native American woman governor
-secondary_headline: Record 358 Indigenous candidates are running for office across the U.S.
+secondary_headline: Record 358 Indigenous candidates are running for office across
+  the U.S.
 publish_date: '2026-10-29'
-lede: Deb Haaland, a member of Laguna Pueblo and the former U.S. interior secretary, is set to become the first Native American woman elected governor of a U.S. state when New Mexico voters cast ballots on 3 November. Recent polling shows her with a comfortable lead over Republican Gregg Hull, a businessman and the longtime mayor of Rio Rancho.
-nut_graf: A victory would make Haaland the first Native American woman to lead a U.S. state and would land in an election cycle in which, according to Advance Native Political Leadership, a record-setting 358 Indigenous candidates have or are running for office nationwide this year.
+lede: Deb Haaland, a member of Laguna Pueblo and the former U.S. interior secretary,
+  is set to become the first Native American woman elected governor of a U.S. state
+  when New Mexico voters cast ballots on 3 November. Recent polling shows her with
+  a comfortable lead over Republican Gregg Hull, a businessman and the longtime mayor
+  of Rio Rancho.
+nut_graf: A victory would make Haaland the first Native American woman to lead a U.S.
+  state and would land in an election cycle in which, according to Advance Native
+  Political Leadership, a record-setting 358 Indigenous candidates have or are running
+  for office nationwide this year.
 primary_entities:
 - Deb Haaland
 - Gregg Hull
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,104 +73,29 @@ related_stories:
   headline: Haaland centers addiction recovery in New Mexico governor bid
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.84
-- slug: 2026-10-13-173-independent-house-candidates-test-the-size-of-america-s-political-middle
-  headline: 173 independent House candidates test the size of America's political middle
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6041
-- slug: 2026-10-14-ayotte-leads-warmington-in-new-hampshire-governor-reelection-race
-  headline: Ayotte leads Warmington in New Hampshire governor reelection race
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5953
-- slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
-  headline: Record seven Black gubernatorial nominees set for November ballots
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6005
+  strength: 0.8404
 - slug: 2026-05-15-new-mexico-politicians-weigh-oil-windfall-from-iran-war
   headline: New Mexico politicians weigh oil windfall from Iran war
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6953
-- slug: 2026-08-10-vermont-democrats-try-again-to-unseat-gop-gov-phil-scott-in-primary
-  headline: Vermont Democrats try again to unseat GOP Gov. Phil Scott in primary
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6046
-- slug: 2026-08-11-hobbs-taps-ex-gop-mesa-mayor-giles-as-running-mate
-  headline: Hobbs taps ex-GOP Mesa mayor Giles as running mate
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.595
-- slug: 2026-08-11-wisconsin-democrats-pick-governor-nominee-in-tuesday-primary
-  headline: Wisconsin Democrats pick governor nominee in Tuesday primary
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.595
+  strength: 0.6958
 - slug: 2026-06-03-voters-in-tuesday-primaries-set-midterm-matchups-across-key-states
   headline: Voters in Tuesday primaries set midterm matchups across key states
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6728
+  strength: 0.6732
 - slug: 2026-06-06-three-biden-administration-alumni-secure-governor-nominations
   headline: Three Biden administration alumni secure governor nominations
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.6634
-- slug: 2026-07-23-hinojosa-seizes-on-data-center-backlash-in-longshot-texas-governor-run
-  headline: Hinojosa seizes on data center backlash in longshot Texas governor run
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5949
+  strength: 0.6622
 - slug: 2026-05-15-new-mexico-s-850-million-wartime-oil-windfall-forces-democrats-to-reconcile-prio
-  headline: New Mexico’s $850 million wartime oil windfall forces Democrats to reconcile priorities
+  headline: New Mexico’s $850 million wartime oil windfall forces Democrats to reconcile
+    priorities
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6506
-- slug: 2026-04-27-latino-leaders-surge-into-local-office-as-trump-era-rhetoric-fuels-urgency
-  headline: Latino leaders surge into local office as Trump-era rhetoric fuels urgency
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6343
-- slug: 2026-06-21-new-mexico-tribes-challenge-governor-s-drug-exposed-newborn-custody-rule
-  headline: New Mexico tribes challenge governor's drug-exposed newborn custody rule
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.593
-- slug: 2026-06-17-wasserman-schultz-primary-run-in-black-majority-district-roils-florida-democrats
-  headline: Wasserman Schultz primary run in Black majority district roils Florida Democrats
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5918
-- slug: 2026-02-05-new-york-gov-hochul-names-adrienne-adams-as-running-mate
-  headline: New York Gov. Hochul names Adrienne Adams as running mate
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.629
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5987
-- slug: 2026-02-21-new-mexico-to-investigate-forced-sterilization-of-native-women
-  headline: New Mexico to investigate forced sterilization of Native women
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6193
-- slug: 2026-02-24-trump-backs-newcomer-over-former-congresswoman-in-texas-primary
-  headline: Trump backs newcomer over former congresswoman in Texas primary
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6181
-- slug: 2026-02-12-mcmaster-endorses-pamela-evette-to-succeed-him-as-sc-governor
-  headline: McMaster endorses Pamela Evette to succeed him as SC governor
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6121
+  strength: 0.6519
 ---
-
 ## Haaland leads race to become first Native American woman governor
 
 **Subtype:** fact

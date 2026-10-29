@@ -2,8 +2,17 @@
 headline: Hegseth fires Joint Chiefs strategy chief in leak probe
 secondary_headline: Pentagon says ousted general failed three leak polygraphs
 publish_date: '2026-10-29'
-lede: The Pentagon has accused a newly ousted three-star general of leaking sensitive information to the media just hours after officials confirmed his removal from a top military planning post. Defense Secretary Pete Hegseth fired Army Lt. Gen. Brett Sylvia as head of strategy, plans and policy for the Joint Chiefs of Staff, a defense official said late Wednesday, and a Pentagon official later said Sylvia is under investigation over allegations he shared classified information with journalists.
-nut_graf: The firing is the latest in a series of ousters or departures of military leaders under Hegseth and extends his campaign against suspected leaks, which has included polygraph tests, the dismissal of three aides from his inner circle and new restrictions on media access. It comes as President Donald Trump weighs renewed strikes on Iran in the eight-month-long war following next week's midterm elections.
+lede: The Pentagon has accused a newly ousted three-star general of leaking sensitive
+  information to the media just hours after officials confirmed his removal from a
+  top military planning post. Defense Secretary Pete Hegseth fired Army Lt. Gen. Brett
+  Sylvia as head of strategy, plans and policy for the Joint Chiefs of Staff, a defense
+  official said late Wednesday, and a Pentagon official later said Sylvia is under
+  investigation over allegations he shared classified information with journalists.
+nut_graf: The firing is the latest in a series of ousters or departures of military
+  leaders under Hegseth and extends his campaign against suspected leaks, which has
+  included polygraph tests, the dismissal of three aides from his inner circle and
+  new restrictions on media access. It comes as President Donald Trump weighs renewed
+  strikes on Iran in the eight-month-long war following next week's midterm elections.
 primary_entities:
 - Pete Hegseth
 - Brett Sylvia
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,43 @@ related_stories:
   headline: Hegseth fires Brett Sylvia as Joint Chiefs strategy chief
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8676
+  strength: 0.8675
 - slug: 2026-10-29-sylvia-retires-from-joint-staff-strategy-post-after-being-fired
   headline: Sylvia retires from Joint Staff strategy post after being fired
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8259
+  strength: 0.8252
 - slug: 2026-09-30-at-least-20-generals-admirals-departed-under-hegseth
   headline: At least 20 generals, admirals departed under Hegseth
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7152
+  strength: 0.7149
 - slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
   headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7388
+  strength: 0.7378
 - slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
   headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6753
+  strength: 0.6748
 - slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
   headline: Hegseth attacks press, doubles general-officer cut at Quantico
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.675
+  strength: 0.6739
 - slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
   headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.728
+  strength: 0.7271
 - slug: 2026-09-22-hegseth-announces-battlefield-style-officer-promotion-assessment
   headline: Hegseth announces battlefield-style officer promotion assessment
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6703
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7265
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6689
-- slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
-  headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6984
-- slug: 2026-09-08-army-secretary-driscoll-resigns-amid-clash-with-hegseth-over-reform-pace
-  headline: Army Secretary Driscoll resigns amid clash with Hegseth over reform pace
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6745
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6798
-- slug: 2026-09-02-hegseth-s-social-media-post-on-canadian-cadets-sparks-bipartisan-backlash
-  headline: Hegseth's social media post on Canadian cadets sparks bipartisan backlash
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6696
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6631
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7008
-- slug: 2026-07-03-senior-officials-blocked-hegseth-plan-for-deeper-troop-cuts-in-europe
-  headline: Senior officials blocked Hegseth plan for deeper troop cuts in Europe
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.711
-- slug: 2026-04-03-hegseth-ousts-army-chief-names-acting-successor-amid-iran-war
-  headline: Hegseth ousts Army chief, names acting successor amid Iran war
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7072
-- slug: 2026-06-03-hegseth-removes-all-women-some-black-officers-from-navy-promotion-list
-  headline: Hegseth removes all women, some Black officers from Navy promotion list
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6822
-- slug: 2026-06-18-hegseth-announces-review-of-u-s-forces-in-europe-threatens-nato-cuts
-  headline: Hegseth announces review of U.S. forces in Europe, threatens NATO cuts
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.671
+  strength: 0.6687
 ---
-
 ## Hegseth fires Joint Chiefs strategy chief in leak probe
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: DoorDash announces $17 billion acquisition of Instacart
 secondary_headline: FTC orders nine firms to disclose personalized pricing data
 publish_date: '2026-10-29'
-lede: DoorDash announced Thursday it has acquired Instacart in a transaction worth $17 billion, priced at $65 per share, a deal the companies said will unite the biggest prepared-food delivery platform with the dominant presence in online grocery delivery. Instacart's board unanimously approved the agreement, and the combination could raise antitrust red flags with the Trump administration's Federal Trade Commission. Both companies are based in San Francisco.
-nut_graf: The deal would combine the two dominant forces in adjacent delivery markets — Instacart controls an estimated 58% of U.S. third-party grocery delivery — at a moment when the Federal Trade Commission is opening a new inquiry into how companies use personal data to set prices.
+lede: DoorDash announced Thursday it has acquired Instacart in a transaction worth
+  $17 billion, priced at $65 per share, a deal the companies said will unite the biggest
+  prepared-food delivery platform with the dominant presence in online grocery delivery.
+  Instacart's board unanimously approved the agreement, and the combination could
+  raise antitrust red flags with the Trump administration's Federal Trade Commission.
+  Both companies are based in San Francisco.
+nut_graf: The deal would combine the two dominant forces in adjacent delivery markets
+  — Instacart controls an estimated 58% of U.S. third-party grocery delivery — at
+  a moment when the Federal Trade Commission is opening a new inquiry into how companies
+  use personal data to set prices.
 primary_entities:
 - DoorDash
 - Instacart
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +148,39 @@ related_stories:
   headline: DoorDash offers $17 billion to buy Instacart
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.902
-- slug: 2026-10-28-ftc-orders-delta-walmart-and-others-to-disclose-pricing-data-practices
-  headline: FTC orders Delta, Walmart and others to disclose pricing data practices
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6398
-- slug: 2026-10-29-ftc-demands-pricing-data-from-airlines-it-cannot-fine
-  headline: FTC demands pricing data from airlines it cannot fine
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6127
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6045
-- slug: 2026-10-21-instacart-agrees-to-5-million-employment-discrimination-settlements
-  headline: Instacart agrees to $5 million employment discrimination settlements
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6313
-- slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
-  headline: Consumer frustration spans higher prices and perceived artificial intelligence pricing
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5977
+  strength: 0.9018
 - slug: 2026-10-06-uber-agrees-to-acquire-ezcater-for-2-3-billion
   headline: Uber agrees to acquire ezCater for $2.3 billion
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.66
-- slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
-  headline: McDonald's faces federal lawsuit over AI pricing tool
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.604
+  strength: 0.6618
 - slug: 2026-09-22-doordash-to-pay-264-000-drivers-in-131-5m-nyc-settlement
   headline: DoorDash to pay 264,000 drivers in $131.5M NYC settlement
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6531
-- slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.599
+  strength: 0.6519
 - slug: 2026-09-02-delivery-hero-board-endorses-uber-s-14-8-billion-takeover-bid
   headline: Delivery Hero board endorses Uber's $14.8 billion takeover bid
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7099
-- slug: 2026-09-23-mamdani-turns-greedy-algorithm-remark-into-midterm-targeting-of-corporations
-  headline: Mamdani turns 'greedy algorithm' remark into midterm targeting of corporations
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6398
-- slug: 2026-09-17-mastercard-plans-to-roll-out-agentic-payment-option-with-alchemy
-  headline: Mastercard plans to roll out agentic payment option with Alchemy
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5987
+  strength: 0.7108
 - slug: 2026-08-06-instacart-reports-higher-q2-revenue-q3-forecast-above-estimates-shares-jump
-  headline: Instacart reports higher Q2 revenue, Q3 forecast above estimates; shares jump
+  headline: Instacart reports higher Q2 revenue, Q3 forecast above estimates; shares
+    jump
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6674
-- slug: 2026-09-02-barilla-group-to-acquire-goodles-for-undisclosed-terms
-  headline: Barilla Group to acquire Goodles for undisclosed terms
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6007
-- slug: 2026-08-07-reservation-apps-credit-card-companies-compete-for-exclusive-access-to-restauran
-  headline: Reservation apps, credit-card companies compete for exclusive access to restaurant tables
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6373
+  strength: 0.67
 - slug: 2026-02-19-doordash-reports-revenue-orders-growth-but-warns-of-costly-tech-build
   headline: DoorDash reports revenue, orders growth but warns of costly tech build
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.698
+  strength: 0.6971
 - slug: 2026-05-07-doordash-to-spend-50m-on-gas-price-relief-for-delivery-drivers
   headline: DoorDash to spend $50M on gas price relief for delivery drivers
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.6587
-- slug: 2026-05-06-doordash-to-spend-more-than-50-million-on-gas-price-relief-for-drivers
-  headline: DoorDash to spend more than $50 million on gas price relief for drivers
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6452
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6249
+  strength: 0.6581
 ---
-
 ## DoorDash announces $17 billion acquisition of Instacart
 
 **Subtype:** fact

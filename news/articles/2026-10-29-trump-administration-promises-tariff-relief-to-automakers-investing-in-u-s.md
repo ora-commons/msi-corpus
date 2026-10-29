@@ -2,8 +2,18 @@
 headline: Trump administration promises tariff relief to automakers investing in U.S.
 secondary_headline: IG Metall leader criticizes Audi CEO's Trump rally appearance
 publish_date: '2026-10-29'
-lede: The Trump administration has promised to ease tariffs on automakers that commit to more U.S. manufacturing, according to people familiar with the situation, a policy shift that emerged during talks to secure a $4 billion Audi assembly plant in Georgia. Audi executives received assurances that the Commerce Department would soon institute a tariff-relief program for companies that invest in the U.S., people with knowledge of the discussions said. President Trump announced the plant, planned for rural Georgia with capacity for 200,000 vehicles a year, Saturday at a campaign rally in the state.
-nut_graf: The pledge shows how the administration has used tariffs as a bargaining chip to win manufacturing investment even as the duties have driven up the cost of many goods. For automakers facing billion-dollar tariff bills, a relief program tied to U.S. investment would offer a path to offset those costs.
+lede: The Trump administration has promised to ease tariffs on automakers that commit
+  to more U.S. manufacturing, according to people familiar with the situation, a policy
+  shift that emerged during talks to secure a $4 billion Audi assembly plant in Georgia.
+  Audi executives received assurances that the Commerce Department would soon institute
+  a tariff-relief program for companies that invest in the U.S., people with knowledge
+  of the discussions said. President Trump announced the plant, planned for rural
+  Georgia with capacity for 200,000 vehicles a year, Saturday at a campaign rally
+  in the state.
+nut_graf: The pledge shows how the administration has used tariffs as a bargaining
+  chip to win manufacturing investment even as the duties have driven up the cost
+  of many goods. For automakers facing billion-dollar tariff bills, a relief program
+  tied to U.S. investment would offer a path to offset those costs.
 primary_entities:
 - Audi
 - Volkswagen
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +153,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-29-trump-administration-promises-tariff-relief-to-automakers-investing-in-u-s.png
-  alt: 'Illustration accompanying article: Trump administration promises tariff relief to automakers investing in U.S.'
+  alt: 'Illustration accompanying article: Trump administration promises tariff relief
+    to automakers investing in U.S.'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-25-audi-plans-first-u-s-factory-in-georgia-with-200-000-car-annual-capacity
   headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8151
+  strength: 0.8154
 - slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
   headline: Audi sets 2027 construction start for its Macon plant
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7984
+  strength: 0.7995
 - slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
   headline: Audi plans Q7, Q8 and Q9 production in Macon
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7651
+  strength: 0.7656
 - slug: 2026-10-25-audi-plans-macon-plant-to-emphasize-gas-powered-vehicles-and-plug-in-hybrids
   headline: Audi plans Macon plant to emphasize gas-powered vehicles and plug-in hybrids
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7402
+  strength: 0.741
 - slug: 2026-10-26-cavallo-benner-and-cademartori-criticize-d-llner-s-trump-rally-appearance
   headline: Cavallo, Benner and Cademartori criticize Döllner's Trump rally appearance
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7052
+  strength: 0.7059
 - slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
   headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6837
+  strength: 0.6825
 - slug: 2026-10-20-u-s-department-of-agriculture-and-trump-announce-8-billion-farm-aid
   headline: U.S. Department of Agriculture and Trump announce $8 billion farm aid
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7004
+  strength: 0.6997
 - slug: 2026-10-23-trump-administration-expected-to-exempt-some-canadian-goods-from-50-tariffs
   headline: Trump administration expected to exempt some Canadian goods from 50% tariffs
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.667
-- slug: 2026-10-20-trump-announces-8-billion-in-farmer-aid-ahead-of-midterms
-  headline: Trump announces $8 billion in farmer aid ahead of midterms
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6672
-- slug: 2026-09-28-trump-to-unveil-15-billion-mesabi-metallics-steel-mill-in-iowa
-  headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6678
-- slug: 2026-09-24-trump-says-leave-ai-exactly-where-it-is-ahead-of-xi-state-visit
-  headline: Trump says leave AI 'exactly where it is' ahead of Xi state visit
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6632
-- slug: 2026-09-18-auto-coalition-urges-trump-to-block-chinese-carmakers-ahead-of-xi-summit
-  headline: Auto coalition urges Trump to block Chinese carmakers ahead of Xi summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6794
-- slug: 2026-09-08-trump-announces-plan-to-remove-canadian-firms-from-federal-contracting-schedules
-  headline: Trump announces plan to remove Canadian firms from federal contracting schedules
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6658
-- slug: 2026-08-31-trump-announces-nine-more-drugmakers-join-medicaid-pricing-deal
-  headline: Trump announces nine more drugmakers join Medicaid pricing deal
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6701
-- slug: 2026-08-24-trump-sets-jan-1-2027-start-for-50-tariffs-on-canadian-vehicles-parts-and-steel
-  headline: Trump sets Jan. 1, 2027 start for 50% tariffs on Canadian vehicles, parts and steel
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6768
-- slug: 2026-08-21-trump-authorizes-300-000-tons-of-beef-imports-to-ease-prices
-  headline: Trump authorizes 300,000 tons of beef imports to ease prices
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6629
-- slug: 2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms
-  headline: Trump rallies in Michigan as tariffs become key issue for midterms
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6826
-- slug: 2026-05-02-trump-says-he-will-raise-eu-auto-tariffs-to-25-next-week
-  headline: Trump says he will raise EU auto tariffs to 25% next week
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6989
-- slug: 2026-03-19-how-trump-s-tariffs-have-hurt-u-s-manufacturers-instead-of-helping-them
-  headline: How Trump’s tariffs have hurt U.S. manufacturers instead of helping them
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6954
-- slug: 2026-04-29-gm-expects-500-million-refund-from-trump-tariffs-struck-down-by-supreme-court
-  headline: GM expects $500 million refund from Trump tariffs struck down by Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6812
+  strength: 0.6645
 ---
-
 ## Trump administration promises tariff relief to automakers investing in U.S.
 
 **Subtype:** fact
