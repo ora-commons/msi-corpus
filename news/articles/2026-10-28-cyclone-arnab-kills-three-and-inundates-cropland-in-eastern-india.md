@@ -1,9 +1,20 @@
 ---
 headline: Cyclone Arnab kills three and inundates cropland in eastern India
-secondary_headline: India's weakest southwest monsoon since 2015 preceded Arnab's landfall
+secondary_headline: India's weakest southwest monsoon since 2015 preceded Arnab's
+  landfall
 publish_date: '2026-10-28'
-lede: Cyclone Arnab made landfall Wednesday in eastern India, killing three people and inundating roughly 200,000 acres of cropland, authorities said. As the storm's wind speeds weakened, heavy rainfall became the greatest threat inland. Electricity poles were uprooted and roads blocked. Visakhapatnam lay in the path of the heavy rains, where Google, Adani and Airtel plan $15 billion for a hyperscale data center.
-nut_graf: Authorities reported three deaths and roughly 200,000 acres of cropland inundated; electricity poles were uprooted and roads were blocked. Full damage estimates were likely to take days or weeks. Climate experts said the arrival underscored threats to infrastructure on an Indian coastline where billions of dollars are being invested in data centers. Specialists said the event illustrates how a changing climate, a weak monsoon and overlapping infrastructure failures can extend the consequences of one cyclone beyond the places directly hit.
+lede: Cyclone Arnab made landfall Wednesday in eastern India, killing three people
+  and inundating roughly 200,000 acres of cropland, authorities said. As the storm's
+  wind speeds weakened, heavy rainfall became the greatest threat inland. Electricity
+  poles were uprooted and roads blocked. Visakhapatnam lay in the path of the heavy
+  rains, where Google, Adani and Airtel plan $15 billion for a hyperscale data center.
+nut_graf: Authorities reported three deaths and roughly 200,000 acres of cropland
+  inundated; electricity poles were uprooted and roads were blocked. Full damage estimates
+  were likely to take days or weeks. Climate experts said the arrival underscored
+  threats to infrastructure on an Indian coastline where billions of dollars are being
+  invested in data centers. Specialists said the event illustrates how a changing
+  climate, a weak monsoon and overlapping infrastructure failures can extend the consequences
+  of one cyclone beyond the places directly hit.
 primary_entities:
 - Cyclone Arnab
 - India
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,116 +159,30 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-28-cyclone-arnab-kills-three-and-inundates-cropland-in-eastern-india.png
-  alt: 'Illustration accompanying article: Cyclone Arnab kills three and inundates cropland in eastern India'
+  alt: 'Illustration accompanying article: Cyclone Arnab kills three and inundates
+    cropland in eastern India'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-28-cyclone-arnab-crosses-andhra-pradesh-coast-with-winds-up-to-185-kph
   headline: Cyclone Arnab crosses Andhra Pradesh coast with winds up to 185 kph
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7535
+  strength: 0.7555
 - slug: 2026-10-27-andhra-pradesh-authorities-evacuate-at-least-89-000-people-ahead-of-cyclone-arna
-  headline: Andhra Pradesh authorities evacuate at least 89,000 people ahead of Cyclone Arnab
+  headline: Andhra Pradesh authorities evacuate at least 89,000 people ahead of Cyclone
+    Arnab
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7414
-- slug: 2026-09-14-weather-tracker-floods-eastern-india-hurricane-damage-california
-  headline: West Bengal floods kill three as Hurricane Marie damages California beaches
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6216
-- slug: 2026-09-25-second-most-intense-east-pacific-storm-on-record-heads-toward-baja-california
-  headline: Second-most intense east Pacific storm on record heads toward Baja California
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5756
-- slug: 2026-09-16-study-finds-climate-change-destabilized-glacier-behind-nepal-tibet-floods
-  headline: Study finds climate change destabilized glacier behind Nepal-Tibet floods
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5893
-- slug: 2026-09-09-glacial-collapse-wipes-out-a-dozen-nepal-hydropower-projects
-  headline: Glacial collapse wipes out a dozen Nepal hydropower projects
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6109
-- slug: 2026-09-02-india-curtailed-nearly-11-twh-of-solar-power-over-15-months
-  headline: India Curtailed Nearly 11 TWh of Solar Power Over 15 Months
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6019
-- slug: 2026-08-19-assam-floods-kill-more-than-100-in-state-s-worst-flooding-in-decades
-  headline: Assam floods kill more than 100 in state's worst flooding in decades
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6169
-- slug: 2026-08-28-scientists-warn-chile-argentina-peru-face-growing-glacial-flood-risks
-  headline: Scientists warn Chile, Argentina, Peru face growing glacial flood risks
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5789
-- slug: 2026-08-29-strong-el-ni-o-disrupts-global-commodity-and-shipping-markets
-  headline: Strong El Niño disrupts global commodity and shipping markets
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.571
-- slug: 2026-07-16-in-banda-india-extreme-heat-and-power-cuts-test-daily-survival
-  headline: In Banda, India, extreme heat and power cuts test daily survival
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5915
-- slug: 2026-07-17-warming-atmosphere-driving-more-frequent-flash-floods-experts-say
-  headline: Warming atmosphere driving more frequent flash floods, experts say
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5821
-- slug: 2026-06-23-nearly-80-of-datacenters-vulnerable-to-climate-hazards-study-finds
-  headline: Nearly 80% of datacenters vulnerable to climate hazards, study finds
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5973
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5888
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5716
-- slug: 2026-05-27-cities-swap-asphalt-parking-lots-for-porous-panels-and-plants-to-beat-heat-and-f
-  headline: Cities swap asphalt parking lots for porous panels and plants to beat heat and flooding
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6
-- slug: 2026-07-02-triple-digit-heat-amplifies-data-center-power-strain-grid-risks
-  headline: Triple-digit heat amplifies data center power strain, grid risks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5684
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5949
-- slug: 2026-04-07-extreme-weather-kills-at-least-110-in-afghanistan-in-12-days
-  headline: Extreme weather kills at least 110 in Afghanistan in 12 days
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5833
-- slug: 2026-03-15-storms-blizzards-and-triple-digit-heat-put-over-half-the-u-s-at-risk
-  headline: Storms, blizzards and triple-digit heat put over half the U.S. at risk
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5857
+  strength: 0.743
 ---
-
 ## Cyclone Arnab kills three and inundates cropland in eastern India
 
 **Subtype:** fact
