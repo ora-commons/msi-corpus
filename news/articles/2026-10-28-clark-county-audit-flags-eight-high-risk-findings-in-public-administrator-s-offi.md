@@ -1,9 +1,20 @@
 ---
-headline: Clark County audit flags eight high-risk findings in public administrator's office
-secondary_headline: Nearly 1,900 cases remain open amid fee, security and cremains concerns
+headline: Clark County audit flags eight high-risk findings in public administrator's
+  office
+secondary_headline: Nearly 1,900 cases remain open amid fee, security and cremains
+  concerns
 publish_date: '2026-10-28'
-lede: A Clark County audit identified eight high-risk issues or instances of mismanagement in the Public Administrator's Office, which manages estates of people who die without a will or next of kin. The 2024-through-2026 audit found nearly 1,900 open cases, $623,000 in collected fees not handed to the county, and security and record-control weaknesses. Auditors had not received an action plan from the office as of Oct. 22, while the findings were set for finalization at a county audit committee meeting Wednesday.
-nut_graf: The audit details case backlogs, fees, stored belongings, checks and cremated remains in an elected county office that manages estates and property. Both candidates said they were concerned; Mike Murphy proposed body cameras, while Stephanie Itkin-Goodman called for immediate safeguards and a corrective action plan with clear deadlines.
+lede: A Clark County audit identified eight high-risk issues or instances of mismanagement
+  in the Public Administrator's Office, which manages estates of people who die without
+  a will or next of kin. The 2024-through-2026 audit found nearly 1,900 open cases,
+  $623,000 in collected fees not handed to the county, and security and record-control
+  weaknesses. Auditors had not received an action plan from the office as of Oct.
+  22, while the findings were set for finalization at a county audit committee meeting
+  Wednesday.
+nut_graf: The audit details case backlogs, fees, stored belongings, checks and cremated
+  remains in an elected county office that manages estates and property. Both candidates
+  said they were concerned; Mike Murphy proposed body cameras, while Stephanie Itkin-Goodman
+  called for immediate safeguards and a corrective action plan with clear deadlines.
 primary_entities:
 - Clark County Public Administrator's Office
 - Clark County
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +150,8 @@ cross_article_links:
   strength: 0.579
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5934
-- slug: 2026-10-08-la-county-partners-with-hospitals-to-auto-screen-patients-for-financial-aid
-  headline: LA County partners with hospitals to auto-screen patients for financial aid
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5869
-- slug: 2026-09-10-usps-audit-finds-ballot-handling-failures-at-multiple-primary-facilities
-  headline: USPS audit finds ballot-handling failures at multiple primary facilities
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5864
-- slug: 2026-09-04-private-equity-sits-on-record-backlog-of-unsold-us-portfolio-companies
-  headline: Private equity sits on record backlog of unsold US portfolio companies
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5929
-- slug: 2026-08-25-dhs-official-tells-nevada-the-16-000-noncitizen-voter-figure-was-the-ceiling
-  headline: DHS official tells Nevada the 16,000 noncitizen voter figure was 'the ceiling'
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5872
-- slug: 2026-08-27-california-lawmakers-weigh-liability-caps-as-abuse-claims-drive-billions-in-cost
-  headline: California lawmakers weigh liability caps as abuse claims drive billions in costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.582
-- slug: 2026-07-20-525-000-foreclosure-buyer-finds-3-skeletal-remains-inside-connecticut-home
-  headline: $525,000 foreclosure buyer finds 3 skeletal remains inside Connecticut home
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5823
-- slug: 2026-01-07-nevada-writes-off-106-million-in-bad-debt-since-2023
-  headline: Nevada has written off $106 million in bad debt since 2023, controller says
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6411
-- slug: 2026-02-05-nearly-200-bodies-were-found-in-colorado-court-records-show-earlier-complaints
-  headline: Nearly 200 bodies were found in Colorado. Court records show earlier complaints
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6361
-- slug: 2026-04-15-illinois-lawmakers-refuse-to-accept-corrections-audit-findings-demand-agency-ret
-  headline: Illinois lawmakers refuse to accept corrections audit findings, demand agency return
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6207
-- slug: 2026-02-11-nevada-ordered-to-pay-447-000-in-fines-over-mental-health-care-delays
-  headline: Nevada ordered to pay $447,000 in fines over mental health care delays
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6265
-- slug: 2026-04-02-pennsylvania-begins-indigent-defense-upgrades-with-new-funding-standards
-  headline: Pennsylvania begins indigent defense upgrades with new funding, standards
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.609
-- slug: 2026-06-02-california-slow-vote-counting-could-delay-primary-results-for-weeks
-  headline: California slow vote counting could delay primary results for weeks
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5857
-- slug: 2026-02-20-nevada-prison-overtime-costs-hit-18m-in-quarter-as-staffing-crisis-deepens
-  headline: Nevada prison overtime costs hit $18M in quarter as staffing crisis deepens
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6146
-- slug: 2026-01-09-nebraska-guardian-charged-with-theft-kept-authority-over-25-vulnerable-adults-fo
-  headline: Nebraska guardian charged with theft kept authority over 25 vulnerable adults for months
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6174
-- slug: 2026-01-08-connecticut-public-sector-health-plan-posts-23m-deficit-as-medical-costs-surge
-  headline: Connecticut public-sector health plan posts $23M deficit as medical costs surge
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6149
-- slug: 2026-04-22-hawaii-auditor-warns-of-control-gaps-in-homeless-tiny-home-payments
-  headline: Hawaii auditor warns of control gaps in homeless tiny home payments
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5936
-- slug: 2026-03-04-newsom-threatens-california-counties-over-care-court-rollout-gaps
-  headline: Newsom threatens California counties over CARE Court rollout gaps
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5999
-- slug: 2026-01-26-inconsistent-policies-stymie-nevada-s-attendance-push
-  headline: Inconsistent policies stymie Nevada's attendance push
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6014
-- slug: 2026-01-21-nevada-voters-to-decide-31-percent-of-district-court-judges-in-november
-  headline: Nevada voters to decide 31 percent of District Court judges in November
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5991
+related_stories: []
 ---
-
 ## Clark County audit flags eight high-risk findings in public administrator's office
 
 **Subtype:** fact

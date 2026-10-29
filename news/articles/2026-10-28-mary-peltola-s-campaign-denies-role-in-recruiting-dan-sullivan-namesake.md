@@ -2,8 +2,18 @@
 headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
 secondary_headline: Alaska's state supreme court upheld the challenger's ballot access
 publish_date: '2026-10-28'
-lede: Mary Peltola's campaign denied helping recruit Dan J. Sullivan, an Alaska Senate challenger with nearly the same name as U.S. Senator Dan Sullivan, after The New York Times reported that campaign officials and the Democratic Senatorial Campaign Committee sought potential candidates who shared the senator's name. The senator's campaign called the reported effort a vote-splitting scheme, while both Dan Sullivans remain on the general-election ballot.
-nut_graf: Alaska's Senate contest is one of several races Democrats are targeting as they seek a majority in a chamber where they hold 47 seats to the GOP's 53, and recent polls cited in the reporting showed Peltola ahead. The reported recruitment also comes as Donald Trump has backed the incumbent and said he ordered the Justice Department to file a lawsuit attempting to block election certification if Dan Sullivan loses.
+lede: Mary Peltola's campaign denied helping recruit Dan J. Sullivan, an Alaska Senate
+  challenger with nearly the same name as U.S. Senator Dan Sullivan, after The New
+  York Times reported that campaign officials and the Democratic Senatorial Campaign
+  Committee sought potential candidates who shared the senator's name. The senator's
+  campaign called the reported effort a vote-splitting scheme, while both Dan Sullivans
+  remain on the general-election ballot.
+nut_graf: Alaska's Senate contest is one of several races Democrats are targeting
+  as they seek a majority in a chamber where they hold 47 seats to the GOP's 53, and
+  recent polls cited in the reporting showed Peltola ahead. The reported recruitment
+  also comes as Donald Trump has backed the incumbent and said he ordered the Justice
+  Department to file a lawsuit attempting to block election certification if Dan Sullivan
+  loses.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +155,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake.png
-  alt: 'Illustration accompanying article: Mary Peltola''s campaign denies role in recruiting Dan Sullivan namesake'
+  alt: 'Illustration accompanying article: Mary Peltola''s campaign denies role in
+    recruiting Dan Sullivan namesake'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
   headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8891
+  strength: 0.8883
 - slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
   headline: Justice Department files pre-election challenge to Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8116
+  strength: 0.8087
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8011
+  strength: 0.7988
 - slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
   headline: Peltola reschedules Alaska Senate campaign events on medical advice
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7748
+  strength: 0.7741
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7891
+  strength: 0.7859
 - slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
+  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its
+    course'
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7871
+  strength: 0.7851
 - slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
   headline: Sullivan and Peltola court Alaska Native voters before midterms
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7496
+  strength: 0.748
 - slug: 2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo
-  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday and Monday events
+  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday
+    and Monday events
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7447
-- slug: 2026-10-25-blanche-defends-lawsuit-to-block-alaska-senate-certification
-  headline: Blanche defends lawsuit to block Alaska Senate certification
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7357
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7518
-- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
-  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7309
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7897
-- slug: 2026-10-25-mary-peltola-to-reschedule-fairbanks-and-bethel-events-after-car-crash
-  headline: Mary Peltola to reschedule Fairbanks and Bethel events after car crash
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.707
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7179
-- slug: 2026-09-24-peltola-s-campaign-calls-nyt-report-on-her-staff-conduct-exaggerated
-  headline: Peltola's campaign calls NYT report on her staff conduct exaggerated
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7853
-- slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
-  headline: Dan J. Sullivan advances to November ballot above incumbent namesake
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7266
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7775
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7611
-- slug: 2026-08-15-sullivan-campaign-links-peltola-to-harris-after-fundraising-email-rejection
-  headline: Sullivan campaign links Peltola to Harris after fundraising-email rejection
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7733
-- slug: 2026-06-09-challenger-dan-sullivan-says-alaska-senate-run-is-his-choice-not-a-democratic-sc
-  headline: Challenger Dan Sullivan says Alaska Senate run is his choice, not a Democratic scheme
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7996
+  strength: 0.7434
 ---
-
 ## Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
 
 **Subtype:** fact

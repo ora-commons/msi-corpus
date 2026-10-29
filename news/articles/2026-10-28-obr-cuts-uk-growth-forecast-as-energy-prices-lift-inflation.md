@@ -2,8 +2,18 @@
 headline: OBR cuts UK growth forecast as energy prices lift inflation
 secondary_headline: Bank rates and government borrowing costs are forecast to rise
 publish_date: '2026-10-28'
-lede: The Office for Budget Responsibility has cut its UK growth forecast for next year to 1% from 1.6% as rising energy prices linked to the US-Iran war weigh on the economy. Its first assessment since the Middle East conflict began also forecasts inflation above the Bank of England's 2% target for longer, more expensive borrowing and a dip in household living standards next year, with real disposable income growing from 2027 by less than previously expected.
-nut_graf: 'The forecast places energy prices at the center of the UK''s economic outlook: higher bills feed into business costs, consumer prices and household budgets, while higher interest rates increase borrowing costs for households and the government. Chancellor John Healey said new policies would provide households "breathing space," but economists at Pantheon Macroeconomics said the support was "small beer given the surge in inflation we expect over the winter."'
+lede: The Office for Budget Responsibility has cut its UK growth forecast for next
+  year to 1% from 1.6% as rising energy prices linked to the US-Iran war weigh on
+  the economy. Its first assessment since the Middle East conflict began also forecasts
+  inflation above the Bank of England's 2% target for longer, more expensive borrowing
+  and a dip in household living standards next year, with real disposable income growing
+  from 2027 by less than previously expected.
+nut_graf: 'The forecast places energy prices at the center of the UK''s economic outlook:
+  higher bills feed into business costs, consumer prices and household budgets, while
+  higher interest rates increase borrowing costs for households and the government.
+  Chancellor John Healey said new policies would provide households "breathing space,"
+  but economists at Pantheon Macroeconomics said the support was "small beer given
+  the surge in inflation we expect over the winter."'
 primary_entities:
 - Office for Budget Responsibility
 - John Healey
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +151,43 @@ related_stories:
   headline: Healey uses headroom as Iran war lifts U.K. deficit forecast to 4.2%
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.746
+  strength: 0.74
 - slug: 2026-10-28-john-healey-sets-out-budget-2026-household-relief-and-fiscal-plans
   headline: John Healey sets out Budget 2026 household relief and fiscal plans
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7432
+  strength: 0.7355
 - slug: 2026-10-28-john-healey-prepares-first-uk-budget-amid-inflation-and-debt-pressure
   headline: John Healey prepares first UK budget amid inflation and debt pressure
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7255
-- slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
-  headline: John Healey prepares his first budget amid war-driven economic pressure
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7114
+  strength: 0.717
 - slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
   headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.751
+  strength: 0.75
 - slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
   headline: Higher petrol and diesel costs drive Britain's September inflation
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7192
+  strength: 0.7156
 - slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
   headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7316
+  strength: 0.7272
 - slug: 2026-09-23-oecd-cuts-uk-2027-growth-forecast-to-1-on-iran-war-energy-costs
   headline: OECD cuts UK 2027 growth forecast to 1% on Iran war energy costs
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.8167
+  strength: 0.8128
 - slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
   headline: Rising energy bills and inflation test Burnham's economic agenda
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7371
-- slug: 2026-09-23-oecd-raises-2026-growth-forecast-to-2-9-warns-el-ni-o-and-iran-war-pose-risks
-  headline: OECD raises 2026 growth forecast to 2.9%, warns El Niño and Iran war pose risks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7267
-- slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
-  headline: UK inflation rises to 3.1% in August as fuel prices surge
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7265
-- slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7216
-- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
-  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7248
-- slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
-  headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.715
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7627
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7336
-- slug: 2026-08-12-treasury-modelling-warns-uk-gdp-growth-could-fall-to-0-3-in-2027
-  headline: Treasury modelling warns UK GDP growth could fall to 0.3% in 2027
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.7403
-- slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
-  headline: Central banks face inflation risks as energy prices threaten weak growth
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.7115
-- slug: 2026-07-26-economists-warn-oil-surge-could-force-bank-of-england-rate-hikes
-  headline: Economists warn oil surge could force Bank of England rate hikes
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7271
-- slug: 2026-07-16-uk-economy-rebounds-0-1-in-may-on-services-strength
-  headline: UK Economy Rebounds 0.1% in May on Services Strength
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7392
+  strength: 0.7304
 ---
-
 ## OBR cuts UK growth forecast as energy prices lift inflation
 
 **Subtype:** fact
