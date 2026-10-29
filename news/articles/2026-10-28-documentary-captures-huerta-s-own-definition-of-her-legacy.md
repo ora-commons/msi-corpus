@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-03-27'
   relation: related
   strength: 0.6537
+analyses:
+- '2026-10-28-huerta-s-self-definition-frames-legacy-as-practice-not-verdict'
 ---
 ## Documentary captures Huerta's own definition of her legacy
 
@@ -251,3 +253,8 @@ Guitarist Carlos Santana later oversaw a documentary based on Huerta's life afte
 **Publication date:** 2026-10-28
 **Title:** Dolores Huerta, United Farmworkers co-founder and civil rights icon, has died
 **URL:** https://apnews.com/article/dolores-huerta-dies-255fd49a5346475dbace4a74994b2c62
+
+---
+
+<!-- analysis-link:2026-10-28-huerta-s-self-definition-frames-legacy-as-practice-not-verdict -->
+**Going deeper:** [Read MSI's analysis of legacy as self-defined practice →](/analyses/2026-10-28-huerta-s-self-definition-frames-legacy-as-practice-not-verdict)

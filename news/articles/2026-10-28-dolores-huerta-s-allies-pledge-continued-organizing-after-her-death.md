@@ -2,8 +2,15 @@
 headline: Dolores Huerta’s allies pledge continued organizing after her death
 secondary_headline: Tributes emphasize voting, labor and immigrant rights
 publish_date: '2026-10-28'
-lede: Dolores Huerta’s death on Wednesday prompted labor and civil-rights leaders, elected officials and community organizers to describe how she shaped their public service and activism. In statements and social-media posts gathered by The Associated Press, allies credited Huerta with organizing for working families, women, immigrants, LGBTQ Americans and voting rights, and pledged to carry that work forward.
-nut_graf: The response focused on Huerta’s organizing as a model for continued civic action. Leaders tied her example to voter registration, labor solidarity, immigrant rights and political power, while community admirers described becoming public servants, volunteering and organizing in their own communities because of her.
+lede: Dolores Huerta’s death on Wednesday prompted labor and civil-rights leaders,
+  elected officials and community organizers to describe how she shaped their public
+  service and activism. In statements and social-media posts gathered by The Associated
+  Press, allies credited Huerta with organizing for working families, women, immigrants,
+  LGBTQ Americans and voting rights, and pledged to carry that work forward.
+nut_graf: The response focused on Huerta’s organizing as a model for continued civic
+  action. Leaders tied her example to voter registration, labor solidarity, immigrant
+  rights and political power, while community admirers described becoming public servants,
+  volunteering and organizing in their own communities because of her.
 primary_entities:
 - Dolores Huerta
 - United Farm Workers
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +151,44 @@ related_stories:
   headline: Labor leaders and lawmakers honor Dolores Huerta after her death
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7547
+  strength: 0.7545
 - slug: 2026-10-28-united-farm-workers-vows-to-continue-huerta-s-fight
   headline: United Farm Workers vows to continue Huerta's fight
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7384
+  strength: 0.7391
 - slug: 2026-10-28-documentary-captures-huerta-s-own-definition-of-her-legacy
   headline: Documentary captures Huerta's own definition of her legacy
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7227
+  strength: 0.7235
 - slug: 2026-10-28-huerta-s-1972-retort-answers-arizona-s-no-se-puede-with-s-se-puede
   headline: Huerta's 1972 retort answers Arizona's no se puede with Sí, se puede
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7216
+  strength: 0.7211
 - slug: 2026-10-28-dolores-huerta-ufw-co-founder-dies-at-96
   headline: Dolores Huerta, UFW co-founder, dies at 96
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7113
+  strength: 0.7109
 - slug: 2026-10-28-new-york-times-interviews-show-huerta-said-chavez-raped-her-in-1966
   headline: New York Times interviews show Huerta said Chavez raped her in 1966
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7017
-- slug: 2026-10-21-extreme-weather-survivors-seek-federal-disaster-response-reforms
-  headline: Extreme weather survivors seek federal disaster-response reforms
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5775
-- slug: 2026-09-03-gloria-steinem-co-founder-of-ms-magazine-dies-at-92
-  headline: Gloria Steinem, co-founder of Ms. magazine, dies at 92
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.587
+  strength: 0.702
 - slug: 2026-03-20-dolores-huerta-s-decades-old-chavez-abuse-disclosure-prompts-calls-to-rebrand-le
-  headline: Dolores Huerta’s decades-old Chavez abuse disclosure prompts calls to rebrand legacy
+  headline: Dolores Huerta’s decades-old Chavez abuse disclosure prompts calls to
+    rebrand legacy
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.7339
+  strength: 0.7344
 - slug: 2026-03-19-latino-leaders-weigh-c-sar-chavez-abuse-allegations-and-calls-to-rebrand
   headline: Latino leaders weigh César Chavez abuse allegations and calls to rebrand
   publish_date: '2026-03-19'
   relation: related
-  strength: 0.6975
-- slug: 2026-03-19-c-sar-chavez-dolores-huerta-legacy-examined-as-allegations-prompt-cancellations
-  headline: César Chavez, Dolores Huerta legacy examined as allegations prompt cancellations
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6859
-- slug: 2026-08-06-historian-links-latino-support-for-ice-to-a-longer-us-history
-  headline: Historian links Latino support for ICE to a longer US history
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5675
-- slug: 2026-03-23-women-farmworkers-keep-fighting-sexual-abuse-even-after-chavez-legacy
-  headline: Women farmworkers keep fighting sexual abuse, even after Chavez legacy
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6455
-- slug: 2026-02-17-tributes-pour-in-for-civil-rights-leader-jesse-jackson-after-death-at-84
-  headline: Tributes pour in for civil rights leader Jesse Jackson after death at 84
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6238
-- slug: 2026-05-16-mexico-s-invisible-displacement-crisis-as-cartel-violence-displaces-families
-  headline: Mexico’s invisible displacement crisis as cartel violence displaces families
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5816
-- slug: 2026-03-27-c-sar-chavez-day-events-canceled-or-renamed-amid-sexual-abuse-allegations
-  headline: César Chavez Day events canceled or renamed amid sexual abuse allegations
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5939
-- slug: 2026-02-19-jesse-jackson-s-1988-presidential-run-inspired-generations
-  headline: Jesse Jackson’s 1988 presidential run inspired generations
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5951
-- slug: 2026-01-25-eleanor-holmes-norton-ends-dc-delegate-reelection-campaign
-  headline: Eleanor Holmes Norton ends DC delegate reelection campaign
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.5941
-- slug: 2026-03-30-chavez-supporters-wrestle-with-legacy-amid-abuse-allegations
-  headline: Chavez supporters wrestle with legacy amid abuse allegations
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.5832
-- slug: 2026-04-27-latino-leaders-surge-into-local-office-as-trump-era-rhetoric-fuels-urgency
-  headline: Latino leaders surge into local office as Trump-era rhetoric fuels urgency
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5682
+  strength: 0.6971
 ---
-
 ## Dolores Huerta’s allies pledge continued organizing after her death
 
 **Subtype:** fact
