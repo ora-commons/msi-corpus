@@ -1,9 +1,21 @@
 ---
 headline: Couple who sold Maui firm to live at sea now face voyage's end
-secondary_headline: Villa Vie blames fuel costs; says 60-day effort has no assured outcome
+secondary_headline: Villa Vie blames fuel costs; says 60-day effort has no assured
+  outcome
 publish_date: '2026-10-28'
-lede: Johan Bodin and Lanette Canen sold their car-rental company on Maui, Hawaii, and paid $100,000 for a 144-square-foot cabin on the Odyssey, whose voyage Villa Vie Residences ended Monday, telling passengers to leave the ship in Sihanoukville, Cambodia. The couple, both in their mid-50s, spent two years documenting shipboard life in YouTube updates; "So we're spending way less than what we did in Maui," Canen said in a video posted in February. Villa Vie said it would spend the next 60 days working to resolve its financial problems, adding that no outcome is assured.
-nut_graf: Passengers bought cabins for as little as $100,000 on the expectation of years of sailing; Bodin said Villa Vie guaranteed resident passengers at least 15 to 20 years' worth of voyages. Villa Vie said monthly fuel expenses of $6,000 to $8,000 per cabin, up from around $1,800, left the company unable to sustain its operating model, and passenger Randy Cassingham said he and others had received no company support to find or pay for hotels.
+lede: Johan Bodin and Lanette Canen sold their car-rental company on Maui, Hawaii,
+  and paid $100,000 for a 144-square-foot cabin on the Odyssey, whose voyage Villa
+  Vie Residences ended Monday, telling passengers to leave the ship in Sihanoukville,
+  Cambodia. The couple, both in their mid-50s, spent two years documenting shipboard
+  life in YouTube updates; "So we're spending way less than what we did in Maui,"
+  Canen said in a video posted in February. Villa Vie said it would spend the next
+  60 days working to resolve its financial problems, adding that no outcome is assured.
+nut_graf: Passengers bought cabins for as little as $100,000 on the expectation of
+  years of sailing; Bodin said Villa Vie guaranteed resident passengers at least 15
+  to 20 years' worth of voyages. Villa Vie said monthly fuel expenses of $6,000 to
+  $8,000 per cabin, up from around $1,800, left the company unable to sustain its
+  operating model, and passenger Randy Cassingham said he and others had received
+  no company support to find or pay for hotels.
 primary_entities:
 - Johan Bodin
 - Lanette Canen
@@ -38,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +153,8 @@ related_stories:
   headline: Villa Vie ends Odyssey cruise in Cambodia as fuel costs rise
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8106
-- slug: 2026-09-29-family-presses-navy-on-sailor-s-suicide-aboard-uss-fort-lauderdale
-  headline: Family presses Navy on sailor's suicide aboard USS Fort Lauderdale
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.562
-- slug: 2026-09-02-uss-abraham-lincoln-crew-arrives-in-thailand-for-first-shore-leave-in-270-days
-  headline: USS Abraham Lincoln crew arrives in Thailand for first shore leave in 270 days
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5831
-- slug: 2026-09-02-historic-schooners-pilot-victory-chimes-remain-submerged-off-brooklyn
-  headline: Historic schooners Pilot, Victory Chimes remain submerged off Brooklyn
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5555
-- slug: 2026-08-25-democrats-press-pentagon-on-uss-lincoln-conditions-as-carrier-heads-to-thailand
-  headline: Democrats press Pentagon on USS Lincoln conditions as carrier heads to Thailand
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5579
-- slug: 2026-08-17-interior-department-announces-1-22-billion-offshore-wind-lease-buyout
-  headline: Interior Department announces $1.22 billion offshore wind lease buyout
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5556
-- slug: 2026-06-23-florida-real-estate-broker-acquitted-in-fatal-birthday-boat-crash
-  headline: Florida real estate broker acquitted in fatal birthday boat crash
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5864
-- slug: 2026-07-20-cfo-says-ryanair-fleet-safe-after-window-nearly-pulls-passenger-from-plane
-  headline: CFO says Ryanair fleet safe after window nearly pulls passenger from plane
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.555
-- slug: 2026-06-13-a-cherished-pontiac-vibe-survives-a-neighbor-s-mishap-and-its-owner-s-resolve-re
-  headline: A cherished Pontiac Vibe survives a neighbor's mishap — and its owner's resolve remains unshaken
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5901
-- slug: 2026-06-16-rivian-r2-lease-prices-top-800-disappointing-reservation-holders
-  headline: Rivian R2 lease prices top $800, disappointing reservation holders
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5771
-- slug: 2026-01-16-norwegian-cruise-line-charges-hawaii-tourist-tax-despite-court-injunction
-  headline: Norwegian Cruise Line charges Hawaii tourist tax despite court injunction
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6142
-- slug: 2026-05-14-ship-passenger-makes-best-of-quarantine-after-hantavirus-outbreak
-  headline: Ship passenger makes best of quarantine after hantavirus outbreak
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5914
-- slug: 2026-06-11-us-charters-750k-yacht-to-evacuate-american-exposed-to-hantavirus
-  headline: US charters $750K yacht to evacuate American exposed to hantavirus
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5578
-- slug: 2026-05-21-maine-beach-towns-brace-for-fewer-canadian-bookings-as-fuel-costs-rise
-  headline: Maine beach towns brace for fewer Canadian bookings as fuel costs rise
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.567
-- slug: 2026-05-14-quarantined-cruise-passenger-details-isolation-after-hantavirus-outbreak-kills-t
-  headline: Quarantined cruise passenger details isolation after hantavirus outbreak kills three
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5655
-- slug: 2026-04-30-kaua-i-s-waimea-canyon-to-get-faa-weather-cameras-for-air-tours
-  headline: Kauaʻi’s Waimea Canyon to get FAA weather cameras for air tours
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5683
-- slug: 2026-05-16-cruise-demand-holds-steady-despite-hantavirus-and-norovirus-outbreaks
-  headline: Cruise demand holds steady despite hantavirus and norovirus outbreaks
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5588
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5652
-- slug: 2026-05-03-from-rock-bottom-fares-to-final-flight-spirit-airlines-ends-34-year-run
-  headline: 'From rock-bottom fares to final flight: Spirit Airlines ends 34-year run'
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5597
-- slug: 2026-05-06-inside-the-cruise-ship-with-deadly-hantavirus-outbreak-off-cape-verde
-  headline: Inside the cruise ship with deadly hantavirus outbreak off Cape Verde
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5558
+  strength: 0.8102
 ---
-
 ## Couple who sold Maui firm to live at sea now face voyage's end
 
 **Subtype:** fact

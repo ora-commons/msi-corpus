@@ -2,8 +2,16 @@
 headline: Most FDA scientists reportedly oppose HHS plan to ease peptide access
 secondary_headline: Draft guidance would limit enforcement against specialty pharmacies
 publish_date: '2026-10-28'
-lede: Most U.S. Food and Drug Administration scientific staff members opposed a Department of Health and Human Services plan to ease access to unproven peptide drugs, according to six people familiar with its development. The draft guidance would direct the FDA not to enforce certain rules against specialty pharmacies selling certain widely used injectable peptides, according to three of the people. It recently underwent regulatory review at the White House, typically the final step before publication.
-nut_graf: The proposal would change how the FDA enforces rules against compounding pharmacies for drugs that have not completed the agency's safety and effectiveness review. The document had recently undergone White House regulatory review, typically the final step before publication, while HHS had not responded to requests for comment.
+lede: Most U.S. Food and Drug Administration scientific staff members opposed a Department
+  of Health and Human Services plan to ease access to unproven peptide drugs, according
+  to six people familiar with its development. The draft guidance would direct the
+  FDA not to enforce certain rules against specialty pharmacies selling certain widely
+  used injectable peptides, according to three of the people. It recently underwent
+  regulatory review at the White House, typically the final step before publication.
+nut_graf: The proposal would change how the FDA enforces rules against compounding
+  pharmacies for drugs that have not completed the agency's safety and effectiveness
+  review. The document had recently undergone White House regulatory review, typically
+  the final step before publication, while HHS had not responded to requests for comment.
 primary_entities:
 - U.S. Food and Drug Administration
 - Department of Health and Human Services
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +149,43 @@ related_stories:
   headline: FDA proposes allowing some chemicals into food without safety review
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6766
+  strength: 0.6774
 - slug: 2026-09-23-fda-plans-to-speed-authorization-of-flavored-vapes-and-nicotine-pouches
   headline: FDA plans to speed authorization of flavored vapes and nicotine pouches
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6733
+  strength: 0.6735
 - slug: 2026-08-03-fda-panel-votes-to-support-compounding-of-six-peptide-therapies
   headline: FDA panel votes to support compounding of six peptide therapies
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.7637
+  strength: 0.7648
 - slug: 2026-07-08-fda-panel-to-weigh-easing-restrictions-on-popular-peptides
   headline: FDA panel to weigh easing restrictions on popular peptides
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7848
+  strength: 0.7846
 - slug: 2026-06-30-fda-scientists-flag-lack-of-evidence-for-peptides-backed-by-rfk-jr
   headline: FDA scientists flag lack of evidence for peptides backed by RFK Jr.
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7918
+  strength: 0.7923
 - slug: 2026-06-26-fda-panel-to-weigh-easing-restrictions-on-unapproved-peptides
   headline: FDA panel to weigh easing restrictions on unapproved peptides
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.7746
+  strength: 0.7739
 - slug: 2026-08-10-fda-proposes-mandatory-notice-for-new-food-ingredients
   headline: FDA proposes mandatory notice for new food ingredients
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6872
+  strength: 0.6882
 - slug: 2026-07-23-fda-advisory-panel-opens-review-of-peptides-backed-by-rfk-jr
   headline: FDA advisory panel opens review of peptides backed by RFK Jr.
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7042
-- slug: 2026-04-15-fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr
-  headline: FDA to weigh easing limits on unproven peptides favored by RFK Jr.
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7716
-- slug: 2026-03-29-dietary-supplement-makers-press-fda-to-broaden-ingredients-to-peptides
-  headline: Dietary supplement makers press FDA to broaden ingredients to peptides
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7525
-- slug: 2026-06-23-telehealth-compounding-pharmacies-race-into-2-2b-peptide-market-as-fda-prepares-
-  headline: Telehealth, compounding pharmacies race into $2.2B peptide market as FDA prepares to ease restrictions
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7114
-- slug: 2026-01-24-unapproved-peptide-injections-what-to-know-about-the-wellness-trend
-  headline: 'Unapproved peptide injections: what to know about the wellness trend'
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.7526
-- slug: 2026-07-20-epa-scraps-proposed-pfas-limits-on-sewage-sludge-used-as-farm-fertilizer
-  headline: EPA scraps proposed PFAS limits on sewage sludge used as farm fertilizer
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6672
-- slug: 2026-07-08-fda-rejects-petition-to-set-pfas-limits-in-food-group-plans-lawsuit
-  headline: FDA rejects petition to set PFAS limits in food, group plans lawsuit
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6626
-- slug: 2026-05-23-fda-staff-blindsided-by-new-vaping-policy-that-allows-more-e-cigarettes-and-nico
-  headline: FDA staff blindsided by new vaping policy that allows more e‑cigarettes and nicotine pouches
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6847
-- slug: 2026-06-26-cdc-tells-health-programs-to-deprioritize-harm-reduction-within-days
-  headline: CDC tells health programs to deprioritize harm reduction within days
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6591
-- slug: 2026-02-26-fda-proposes-new-approval-pathway-for-rare-disease-customized-therapies
-  headline: FDA proposes new approval pathway for rare-disease customized therapies
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7024
-- slug: 2026-05-27-fda-staffers-blindsided-by-new-vaping-policy-easing-e-cigarette-access
-  headline: FDA staffers blindsided by new vaping policy easing e‑cigarette access
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6745
-- slug: 2026-05-22-fda-vaping-policy-blindsided-regulators-staffers-say-memo-eased-market-rules
-  headline: FDA vaping policy blindsided regulators; staffers say memo eased market rules
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6767
-- slug: 2026-05-08-fda-announces-plan-to-phase-out-synthetic-dyes-but-rulemaking-has-stalled
-  headline: FDA announces plan to phase out synthetic dyes, but rulemaking has stalled
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6716
+  strength: 0.7036
 ---
-
 ## Most FDA scientists reportedly oppose HHS plan to ease peptide access
 
 **Subtype:** fact

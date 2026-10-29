@@ -1,9 +1,17 @@
 ---
 headline: Three defendants plead guilty over romance fraud losses exceeding $9 million
-secondary_headline: More than 130 victims were targeted in 25 states, Germany and Austria
+secondary_headline: More than 130 victims were targeted in 25 states, Germany and
+  Austria
 publish_date: '2026-10-28'
-lede: Three defendants pleaded guilty Monday to conspiracy to commit wire fraud in a romance scheme that the Justice Department said targeted more than 130 victims in 25 states, Germany and Austria and resulted in more than $9 million in losses. The U.S. Attorney’s Office for the Northern District of Ohio announced the pleas by Jamal Abubakari, Kamal Abubakari and Amanda Joy Opoku-Boachie.
-nut_graf: The guilty pleas leave sentencing pending while the defendants agree to forfeit jewelry and other co-conspirators await extradition from Ghana. Prosecutors say the operation used fabricated romantic identities and artificial intelligence-driven video to solicit transfers from older adults.
+lede: Three defendants pleaded guilty Monday to conspiracy to commit wire fraud in
+  a romance scheme that the Justice Department said targeted more than 130 victims
+  in 25 states, Germany and Austria and resulted in more than $9 million in losses.
+  The U.S. Attorney’s Office for the Northern District of Ohio announced the pleas
+  by Jamal Abubakari, Kamal Abubakari and Amanda Joy Opoku-Boachie.
+nut_graf: The guilty pleas leave sentencing pending while the defendants agree to
+  forfeit jewelry and other co-conspirators await extradition from Ghana. Prosecutors
+  say the operation used fabricated romantic identities and artificial intelligence-driven
+  video to solicit transfers from older adults.
 primary_entities:
 - Jamal Abubakari
 - Kamal Abubakari
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +150,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-zheng-zhao-faces-u-s-charge-over-36-9-million-crypto-scam
-  headline: Zheng Zhao faces U.S. charge over $36.9 million crypto scam
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6323
-- slug: 2026-10-24-romance-scam-drains-texas-man-of-65-000-and-sends-50-000-overseas
-  headline: Romance scam drains Texas man of $65,000 and sends $50,000 overseas
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6178
-- slug: 2026-10-22-prosecutors-charge-15-in-southern-california-healthcare-fraud-case
-  headline: Prosecutors charge 15 over alleged healthcare fraud in Southern California
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5992
-- slug: 2026-10-14-changli-luo-pleads-guilty-to-wire-fraud-against-billionaire-wesley-edens
-  headline: Changli Luo pleads guilty to wire fraud against billionaire Wesley Edens
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6219
-- slug: 2026-10-07-former-cia-officer-pleads-guilty-to-194-million-scheme
-  headline: Former CIA officer pleads guilty to $194 million scheme
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6291
-- slug: 2026-10-03-federal-jury-convicts-couple-in-1-6m-fraud-against-elderly-disabled-homeless
-  headline: Federal jury convicts couple in $1.6M fraud against elderly, disabled, homeless
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6215
-- slug: 2026-10-06-ex-cia-official-rush-pleads-guilty-admits-revealing-human-source
-  headline: Ex-CIA official Rush pleads guilty, admits revealing human source
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5958
-- slug: 2026-10-06-former-cia-official-pleads-guilty-to-wire-fraud-in-gold-bar-scheme
-  headline: Former CIA official pleads guilty to wire fraud in gold bar scheme
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5929
 - slug: 2026-09-12-six-nigerian-fraud-suspects-arrive-in-us-after-cape-town-extradition
   headline: Six Nigerian fraud suspects arrive in US after Cape Town extradition
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6755
-- slug: 2026-10-02-doj-dismantles-2-million-hamas-funding-network-in-us-france
-  headline: DOJ dismantles $2 million Hamas funding network in US, France
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5912
-- slug: 2026-09-11-south-africa-to-extradite-six-nigerians-to-us-over-alleged-romance-scams
-  headline: South Africa to extradite six Nigerians to US over alleged romance scams
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-14-inmates-use-contraband-phones-to-run-scams-from-u-s-prisons
-  headline: Inmates use contraband phones to run scams from U.S. prisons
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6017
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5841
-- slug: 2026-09-10-hundreds-of-victims-seek-share-of-225-million-seized-in-operation-big-tuna
-  headline: Hundreds of victims seek share of $225 million seized in Operation Big Tuna
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5816
-- slug: 2026-09-02-americans-reported-record-15-9-billion-in-scam-losses-last-year-joint-investigat
-  headline: Americans reported record $15.9 billion in scam losses last year, joint investigation finds
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5992
+  strength: 0.6754
 - slug: 2026-07-16-romance-scams-cost-americans-record-1-3-billion-in-2025
   headline: Romance scams cost Americans record $1.3 billion in 2025
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.659
-- slug: 2026-08-08-new-york-warns-seniors-about-scammers-demanding-gold-bars
-  headline: New York warns seniors about scammers demanding gold bars
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6233
-- slug: 2026-08-18-illinois-man-pleads-not-guilty-in-alleged-ozempic-fraud-scheme
-  headline: Illinois man pleads not guilty in alleged Ozempic fraud scheme
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6018
-- slug: 2026-08-12-doj-charges-11-in-decade-long-sham-marriage-scheme-targeting-chinese-nationals
-  headline: DOJ charges 11 in decade-long sham marriage scheme targeting Chinese nationals
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6061
-- slug: 2026-08-09-scammers-posing-as-officers-take-25-000-from-florida-woman
-  headline: Scammers posing as officers take $25,000 from Florida woman
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6002
+  strength: 0.6593
 ---
-
 ## Three defendants plead guilty over romance fraud losses exceeding $9 million
 
 **Subtype:** fact
