@@ -2,8 +2,22 @@
 headline: Netanyahu's Likud wins most seats as his coalition loses majority
 secondary_headline: Netanyahu campaigned on security as his bloc fell short
 publish_date: '2026-10-28'
-lede: Benjamin Netanyahu's Likud Party won the largest number of seats in Israel's Knesset on Tuesday, but his coalition lost its majority and lacked a clear path to another one that would keep it in power. With three-quarters of the vote counted, The Wall Street Journal projected the bloc at 54 seats, down from 68, and reported that a majority of Israelis, including Israeli Arabs, voted against Likud. Under Israel's complex electoral system, Netanyahu could still be chosen by Israel's president to make the first attempt at forming a government because his bloc appeared likely to outpoll its opponents, but the vote did not identify partners. Netanyahu campaigned on a hard-line security message and secured Trump's endorsement in the final days of the race.
-nut_graf: The 54-seat projection left Netanyahu short of a majority and made coalition formation his immediate task. Israel's president still had to decide whom to give the first attempt at forming a government, and the vote did not identify potential partners. Responsibility for the Oct. 7 security failures also remained unsettled in part because Netanyahu had opposed an official inquiry, while The Wall Street Journal said his popularity had never fully recovered from the attack.
+lede: Benjamin Netanyahu's Likud Party won the largest number of seats in Israel's
+  Knesset on Tuesday, but his coalition lost its majority and lacked a clear path
+  to another one that would keep it in power. With three-quarters of the vote counted,
+  The Wall Street Journal projected the bloc at 54 seats, down from 68, and reported
+  that a majority of Israelis, including Israeli Arabs, voted against Likud. Under
+  Israel's complex electoral system, Netanyahu could still be chosen by Israel's president
+  to make the first attempt at forming a government because his bloc appeared likely
+  to outpoll its opponents, but the vote did not identify partners. Netanyahu campaigned
+  on a hard-line security message and secured Trump's endorsement in the final days
+  of the race.
+nut_graf: The 54-seat projection left Netanyahu short of a majority and made coalition
+  formation his immediate task. Israel's president still had to decide whom to give
+  the first attempt at forming a government, and the vote did not identify potential
+  partners. Responsibility for the Oct. 7 security failures also remained unsettled
+  in part because Netanyahu had opposed an official inquiry, while The Wall Street
+  Journal said his popularity had never fully recovered from the attack.
 primary_entities:
 - Benjamin Netanyahu
 - Likud Party
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,22 +165,22 @@ related_stories:
   headline: Israel vote count leaves Netanyahu and Eisenkot short of a Knesset majority
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7895
+  strength: 0.79
 - slug: 2026-10-27-exit-polls-show-tight-netanyahu-eisenkot-race-after-israel-s-election
   headline: Exit polls show tight Netanyahu-Eisenkot race after Israel's election
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7442
+  strength: 0.744
 - slug: 2026-10-25-likud-asks-israeli-election-commission-to-stop-fly-vote
   headline: Likud asks Israeli election commission to stop Fly&Vote
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7341
+  strength: 0.7352
 - slug: 2026-10-25-netanyahu-faces-eisenkot-in-israel-s-first-election-since-oct-7
   headline: Netanyahu faces Eisenkot in Israel's first election since Oct. 7
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7167
+  strength: 0.7175
 - slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
   headline: Poll shows Democrats with House edge as Israelis cast ballots
   publish_date: '2026-10-27'
@@ -175,74 +190,14 @@ related_stories:
   headline: Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6993
+  strength: 0.7
 - slug: 2026-10-28-npr-s-daniel-estrin-says-netanyahu-pulled-ahead-by-morning-in-a-race-too-close-t
-  headline: NPR's Daniel Estrin says Netanyahu pulled ahead by morning in a race too close to call
+  headline: NPR's Daniel Estrin says Netanyahu pulled ahead by morning in a race too
+    close to call
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6568
-- slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
-  headline: Trump endorses Netanyahu days before Israel's closely contested election
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7185
-- slug: 2026-10-18-netanyahu-warns-eisenkot-win-would-let-iran-obtain-nuclear-weapons
-  headline: Netanyahu warns Eisenkot win would let Iran obtain nuclear weapons
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7009
-- slug: 2026-10-18-trump-s-disputes-with-netanyahu-span-an-iranian-gas-field-hezbollah-and-gaza
-  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and Gaza
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6965
-- slug: 2026-10-20-hegseth-held-undisclosed-meeting-with-netanyahu-in-israel
-  headline: Hegseth held undisclosed meeting with Netanyahu in Israel
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6328
-- slug: 2026-10-19-vance-declines-netanyahu-endorsement-ahead-of-israel-election
-  headline: Vance declines Netanyahu endorsement ahead of Israel election
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6263
-- slug: 2026-09-28-netanyahu-singles-out-mamdani-at-un-ahead-of-israeli-elections
-  headline: Netanyahu singles out Mamdani at UN ahead of Israeli elections
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6626
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6633
-- slug: 2026-07-06-israeli-poll-shows-eisenkot-and-netanyahu-tied-at-23-seats-each
-  headline: Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7631
-- slug: 2026-08-10-netanyahu-rejects-sequencing-of-board-of-peace-s-15-point-gaza-plan
-  headline: Netanyahu rejects sequencing of Board of Peace's 15-point Gaza plan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6667
-- slug: 2026-07-28-netanyahu-trump-hold-first-face-to-face-meeting-since-launching-iran-war
-  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran war
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.66
-- slug: 2026-06-08-trump-netanyahu-rift-tests-fragile-middle-east-ceasefire
-  headline: Trump-Netanyahu rift tests fragile Middle East ceasefire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6785
-- slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-knesset-setting-stage-for-elections
-  headline: Netanyahu coalition submits bill to dissolve Knesset, setting stage for elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6871
+  strength: 0.6562
 ---
-
 ## Netanyahu's Likud wins most seats as his coalition loses majority
 
 **Subtype:** fact

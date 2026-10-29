@@ -2,14 +2,8 @@
 headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
 secondary_headline: Two-thirds of S&P 500 stocks rise as Treasuries draw buyers
 publish_date: '2026-10-22'
-lede: AI-related shares led a global selloff on Oct. 22, dragging the S&P 500 down
-  1.2% and the Nasdaq composite down 2.6% as investors weighed the cost of financing
-  datacenters and AI chips. Brent crude rose 4% to $113.17 a barrel amid uncertainty
-  about the war with Iran, while the Dow was nearly unchanged and most S&P 500 stocks
-  advanced.
-nut_graf: The split session placed AI infrastructure financing costs and valuations
-  at the center of global market moves even as some companies beat quarterly expectations.
-  Oil's rise added pressure from the war with Iran, while most other U.S. stocks advanced.
+lede: AI-related shares led a global selloff on Oct. 22, dragging the S&P 500 down 1.2% and the Nasdaq composite down 2.6% as investors weighed the cost of financing datacenters and AI chips. Brent crude rose 4% to $113.17 a barrel amid uncertainty about the war with Iran, while the Dow was nearly unchanged and most S&P 500 stocks advanced.
+nut_graf: The split session placed AI infrastructure financing costs and valuations at the center of global market moves even as some companies beat quarterly expectations. Oil's rise added pressure from the war with Iran, while most other U.S. stocks advanced.
 primary_entities:
 - S&P 500
 - Nasdaq composite
@@ -62,16 +56,17 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - wire
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures:
@@ -79,9 +74,7 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: '2026-10-22'
-  caption: FRED's raw DGS10 daily series listed the 10-year Treasury yield at 5.13%
-    as of Oct. 22, 2026. The Guardian separately reported that the yield fell to 4.97%
-    from 5.13% late Wednesday.
+  caption: FRED's raw DGS10 daily series listed the 10-year Treasury yield at 5.13% as of Oct. 22, 2026. The Guardian separately reported that the yield fell to 4.97% from 5.13% late Wednesday.
 figures_aggregate:
   count: 1
   series_ids:
@@ -212,45 +205,50 @@ related_stories:
   relation: related
   strength: 0.7735
 ---
+
 ## AI stock selloff drags global indexes lower as Brent reaches $113.17
 
 **Subtype:** fact
 
-- AI-related stocks drove a global selloff on Oct. 22 as expensive financing and high valuations outweighed better quarterly results.
-- The S&P 500 fell 1.2% for its worst session since July, and the Nasdaq composite fell 2.6%.
-- The Dow rose less than 0.1% while two-thirds of S&P 500 stocks advanced, leaving losses in Nvidia and other influential technology shares to pull indexes lower.
-- Nvidia fell 4.4%, making the Wall Street heavyweight the S&P 500's strongest downward force.
+- AI-related stocks drove a global selloff on Oct. 22 as investors weighed costly financing for datacenters and AI chips and concerns that valuations were too high.
+- The S&P 500 fell 1.2% and the Nasdaq composite fell 2.6%, with Nvidia's 4.4% decline the strongest force pulling the S&P lower.
+- The Dow rose less than 0.1% while two-thirds of S&P 500 stocks advanced.
+- Associated Press reporting said Lam Research's profit forecast midpoint was slightly below analysts' expectations, while its 52.4% year-to-date gain left room for potential disappointment before an 11.8% fall.
 - Investors bought U.S. government bonds as the 10-year Treasury yield fell to 4.97% from 5.13% late Wednesday after exceeding 5.30% earlier in the month.
-- Brent crude rose 4% to $113.17 a barrel, a five-month high, as uncertainty grew over the war with Iran.
+- Brent crude rose 4% to $113.17 a barrel, a five-month high, amid uncertainty over when the war with Iran would allow the global energy industry to return to normal.
 
 ## Two-thirds of S&P 500 stocks rise as Treasuries draw buyers
 
-The selloff was concentrated in heavily weighted technology shares rather than a uniform decline across the U.S. market. The S&P 500 fell 1.2% for its worst session since July and the Nasdaq composite tumbled 2.6%, while the Dow Jones Industrial Average added 11 points, or less than 0.1%. Two-thirds of the S&P 500's stocks rose, but declines in Nvidia and other influential technology issues outweighed those gains at the index level. Nvidia dropped 4.4%; because it was the largest company on Wall Street by total market value, its decline was the single strongest force pulling the S&P 500 lower.
+AI-related shares led a global selloff on Oct. 22, dragging the S&P 500 down 1.2% and the Nasdaq composite down 2.6% as investors weighed the cost of financing datacenters and AI chips. Brent crude rose 4% to $113.17 a barrel amid uncertainty about the war with Iran, while the Dow was nearly unchanged and most S&P 500 stocks advanced.
 
-Trading in AI-related stocks had swung on two concerns: the boom could be under threat because money had become expensive to borrow for datacenters and more AI chips, and prices had risen too high after a years-long frenzy. Companies in the industry continued to report growth, but that did not prevent the selloff.
+*Photo caption: An options trader works on the floor of the New York Stock Exchange on Jan. 7, 2026. Photograph by Richard Drew/AP.*
 
-Quarterly results showed a pronounced disconnect between operating performance and share prices. Lam Research, whose equipment and services help make semiconductors, reported summer gains in profit and revenue that were slightly stronger than analysts expected. Its stock nevertheless tumbled 11.8%.
+**The split U.S. session.** The selloff was concentrated in heavily weighted technology shares rather than a uniform decline across the U.S. market. The S&P 500 fell 1.2% for its worst session since July, which the Associated Press described as its worst day in three months, and the Nasdaq composite tumbled 2.6%. The Dow Jones Industrial Average added 11.89 points, or less than 0.1%. Two-thirds of the S&P 500's stocks rose, but declines in Nvidia and other influential technology issues outweighed those gains at the index level. Nvidia dropped 4.4%; because it was the largest company on Wall Street by total market value, its moves carried more weight on the S&P 500 than any other stock, and its decline was the single strongest force pulling the index lower. All told, the S&P 500 fell 93.74 points to 7,663.43, the Dow rose 11.89 points to 52,867.98 and the Nasdaq composite lost 694.00 points to 26,008.86.
 
-Meta Platforms, the company behind Facebook and Instagram, was also pushing its Muse AI agent. It lost 7% and shed tens of billions in market value after reporting quarterly revenue stronger than analysts expected, though its profit fell short. The company said it was creating a new class of stock to raise money for AI investments and other expenses. Tesla fell 3.1% after reporting stronger summer profit than analysts expected but weaker-than-forecast revenue.
+**Financing and valuations.** Trading in AI-related stocks had swung on two concerns: that expensive borrowing for datacenters and more AI chips could slow expansion, and that share prices had risen too high after years of gains. Companies in the industry continued to report growth, but that did not prevent the selloff.
 
-CoreWeave, which has borrowed money to buy Nvidia's AI chips that it rents to cloud customers, dropped 10.1%. Worries about the company's debt had made it particularly shaky in recent weeks.
+**Quarterly results and Lam Research's forecast.** The Guardian reported that Lam Research, whose equipment and services help make semiconductors, posted summer gains in profit and revenue that were slightly stronger than analysts expected. The Guardian noted that such results usually help lift a stock, but Lam Research shares tumbled 11.8%. The Associated Press said the company gave a range for its profit forecast for the quarter whose midpoint was slightly below analysts' expectations. AP noted that the stock entered the day with a 52.4% surge for the year so far, nearly quadruple the gain for the overall S&P 500, leaving plenty of room for potential disappointment.
 
-The weakness in AI and other technology shares began in Asia, where indexes are full of industry players. South Korea's Kospi tumbled 3.5%, Hong Kong's Hang Seng dropped 3% and Japan's Nikkei 225 sank 2.7%.
-
-Oil added separate pressure on global stock markets. Brent crude rose 4% to $113.17 a barrel after touching its highest level in five months, up from less than $97 at the start of the month. The increase reflected uncertainty about when the war with Iran would allow the global energy industry to return to normal.
-
-In Europe, France's CAC 40 fell 1.4%, one of the continent's sharpest losses. The index has fewer technology stocks than Asian or U.S. benchmarks, but it was hurt by a jump in French government bond yields. Those yields had been climbing because of worries about the government's large debt load and strained budget. Violent protests across France raised pressure on the government to increase spending, which could add further to the debt.
-
-Worries about large government debts were weighing on almost every developed economy, including the United States. Such concerns, along with high inflation, signals of a still-strong U.S. economy and other factors, had pushed U.S. bond yields recently to their highest levels in decades. But U.S. yields nevertheless fell sharply Thursday as investors bought U.S. government bonds in search of something safer to own while AI stocks tumbled.
-
-The 10-year Treasury yield tumbled to 4.97% from 5.13% late Wednesday, after having exceeded 5.30% earlier in the month. The Guardian described that as a major move for the bond market. Separately, [FRED's raw DGS10 daily series](https://fred.stlouisfed.org/series/DGS10) listed the 10-year Treasury yield at 5.13% as of Oct. 22, 2026.
-
-Thursday's drop in yields came even as another report suggested the U.S. economy might be doing better than economists expected. It said fewer U.S. workers applied for unemployment benefits last week, which could signal that layoffs remained low across the country. The stronger economy had helped companies broadly post bigger profits and helped the U.S. stock market reach a record high earlier in the month despite competing concerns.
+Other big technology stocks also fell following quarterly reports that contained at least some encouraging results. Meta Platforms, the company behind Facebook and Instagram, was pushing its Muse AI agent when it lost 7% and shed tens of billions in market value. Meta reported quarterly revenue stronger than analysts expected, though its profit fell short, and said it was creating a new class of stock to raise money for AI investments and other expenses. Tesla fell 3.1% after reporting stronger summer profit than analysts expected but weaker-than-forecast revenue.
 
 Procter & Gamble, Lockheed Martin and CSX were among the latest companies topping profit expectations for the summer, and gains in their shares helped limit the market's losses. Procter & Gamble CEO Shailesh Jejurikar said the company expects “geopolitical and economic challenges” to continue, but it stood by its full-year growth forecasts for revenue, profit and other measures. The company behind the Crest, Olay and Oral-B brands rose 5.6%.
 
-All told, the S&P 500 fell 93.74 points to 7,663.43, the Dow added 11.89 points to 52,867.98 and the Nasdaq composite lost 694.00 points to 26,008.86. Broad gains outside AI-related stocks kept the Dow nearly unchanged, but losses in Nvidia and other influential technology issues outweighed them at the index level.
+CoreWeave, which has borrowed money to buy Nvidia's AI chips that it rents out to customers over the cloud, dropped 10.1%. Worries about the company's debt had made it particularly shaky in recent weeks.
 
+**Global equities.** The weakness in AI and other technology shares began in Asia, where indexes are full of industry players. South Korea's Kospi tumbled 3.5%, Hong Kong's Hang Seng dropped 3% and Japan's Nikkei 225 sank 2.7%.
+
+In Europe, France's CAC 40 fell 1.4%, one of the continent's sharpest losses. The index has fewer technology stocks than Asian or U.S. benchmarks, but it was hurt by a jump in French government bond yields. Those yields had been climbing because of worries about the government's large debt load and strained budget. Violent protests across France raised pressure on the government to increase spending, which could add further to the debt.
+
+**Oil, rates and economic data.** Brent crude rose 4% to $113.17 a barrel after touching its highest level in five months and reaching its highest level since May. The price had risen from less than $97 at the start of the month because of uncertainty about when the war with Iran would allow the global energy industry to return to normal.
+
+Worries about large government debts were weighing on almost every developed economy, including the United States. Such concerns, along with high inflation, signals of a still-strong U.S. economy and other factors, had pushed U.S. bond yields recently to their highest levels in decades. But U.S. yields nevertheless fell sharply Thursday as investors bought U.S. government bonds in search of something safer to own while AI stocks tumbled.
+
+The 10-year Treasury yield tumbled to 4.97% from 5.13% late Wednesday and from more than 5.30% earlier in the month. The Guardian described that as a major move for the bond market. Separately, [FRED's raw DGS10 daily series](https://fred.stlouisfed.org/series/DGS10) listed the 10-year Treasury yield at 5.13% as of Oct. 22, 2026.
+
+Thursday's drop in yields came even as another report suggested the U.S. economy might be doing better than economists expected. It said fewer U.S. workers applied for unemployment benefits last week, which could signal that layoffs remained low across the country. The stronger economy had helped companies broadly post bigger profits and helped the U.S. stock market reach a record high earlier in the month despite competing concerns.
+
+
+The Associated Press credited AP Business Writer Elaine Kurtenbach as a contributor to its report.
 
 MSI [previously reported](/articles/2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise/) that falling AI stocks, higher oil and rising Treasury yields pulled Wall Street off record highs in May, and [also reported](/articles/2026-06-08-asian-stocks-tumble-oil-jumps-as-middle-east-conflict-reignites/) a June selloff across Asian and U.S. markets amid the Iran conflict and AI-spending fears. Oct. 22 again brought worldwide AI-stock weakness and higher oil, but the bond-market response differed: Treasury yields fell sharply as investors sought safer assets.
 
@@ -260,3 +258,10 @@ MSI [previously reported](/articles/2026-05-16-sinking-ai-stocks-knock-wall-stre
 **Publication date:** 2026-10-22
 **Title:** Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump
 **URL:** https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil
+
+### src_002 — Associated Press, wire, Tier 1, originating
+**Author:** Stan Choe
+**Publication date:** 2026-10-22
+**Title:** Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump
+**URL:** https://apnews.com/article/stocks-markets-rates-earnings-oil-33767691a4a0730b96d6f0c5100ea9b2
+**Added after publication:** true

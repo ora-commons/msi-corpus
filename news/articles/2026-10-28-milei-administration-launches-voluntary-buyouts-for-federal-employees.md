@@ -2,8 +2,18 @@
 headline: Milei administration launches voluntary buyouts for federal employees
 secondary_headline: CEPA reported a 21.6% federal workforce reduction through August
 publish_date: '2026-10-28'
-lede: Argentina's federal government launched a voluntary buyout program offering compensation to federal employees who agree to leave their jobs. Federico Sturzenegger, Argentina's minister of deregulation and state transformation, said about 20,000 public employees could qualify. Applications run from Sunday through Nov. 30, with a possible 30-day extension, and participants would be barred from returning to federal government employment for eight years.
-nut_graf: The buyout gives President Javier Milei's administration another route to reduce federal staffing after the Argentine Center for Political Economy counted 74,332 positions eliminated between December 2023 and August. The program is part of a broader restructuring, but CEPA director Hernán Letcher said eliminating jobs can also reduce the staff available to carry out public duties, develop policy and participate in decisions.
+lede: Argentina's federal government launched a voluntary buyout program offering
+  compensation to federal employees who agree to leave their jobs. Federico Sturzenegger,
+  Argentina's minister of deregulation and state transformation, said about 20,000
+  public employees could qualify. Applications run from Sunday through Nov. 30, with
+  a possible 30-day extension, and participants would be barred from returning to
+  federal government employment for eight years.
+nut_graf: The buyout gives President Javier Milei's administration another route to
+  reduce federal staffing after the Argentine Center for Political Economy counted
+  74,332 positions eliminated between December 2023 and August. The program is part
+  of a broader restructuring, but CEPA director Hernán Letcher said eliminating jobs
+  can also reduce the staff available to carry out public duties, develop policy and
+  participate in decisions.
 primary_entities:
 - Argentina
 - Javier Milei
@@ -35,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,108 +144,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-microsoft-s-april-buyout-program-reportedly-drew-more-than-30-acceptance
-  headline: Microsoft's April buyout program reportedly drew more than 30% acceptance
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6417
-- slug: 2026-10-26-microsoft-opens-voluntary-exit-offers-as-ai-related-capital-spending-surges
-  headline: Microsoft opens voluntary exit offers as AI-related capital spending surges
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6393
-- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
-  headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6005
-- slug: 2026-10-06-argentine-court-clears-milei-land-reform-as-indigenous-groups-rally
-  headline: Argentine court clears Milei land reform as Indigenous groups rally
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6398
-- slug: 2026-09-30-argentina-congress-weighs-bill-allowing-companies-to-operate-without-employees
-  headline: Argentina's Congress weighs bill allowing companies to operate without employees
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6324
-- slug: 2026-09-15-gao-finds-doge-program-cost-more-than-9-billion-in-paid-administrative-leave
-  headline: GAO finds DOGE program cost more than $9 billion in paid administrative leave
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.625
-- slug: 2026-09-16-critics-call-doge-cuts-case-study-in-mismanagement-after-gao-paid-leave-report
-  headline: Critics call DOGE cuts 'case study in mismanagement' after GAO paid-leave report
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6142
 - slug: 2026-07-08-milei-announces-bill-to-halt-government-when-budget-exhausted
   headline: Milei announces bill to halt government when budget exhausted
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.6957
-- slug: 2026-08-28-argentina-household-debt-delinquency-reaches-highest-level-in-decades
-  headline: Argentina household debt delinquency reaches highest level in decades
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6029
+  strength: 0.7
 - slug: 2026-06-11-argentina-plans-to-allow-duty-free-import-of-10-000-us-vehicles-annually
   headline: Argentina plans to allow duty-free import of 10,000 US vehicles annually
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.6609
+  strength: 0.6643
 - slug: 2026-06-05-argentines-over-65-return-to-work-as-milei-austerity-erodes-pension-buying-power
-  headline: Argentines over 65 return to work as Milei austerity erodes pension buying power
+  headline: Argentines over 65 return to work as Milei austerity erodes pension buying
+    power
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6568
-- slug: 2026-05-13-mass-protests-in-argentina-decry-milei-s-public-university-funding-cuts
-  headline: Mass protests in Argentina decry Milei's public university funding cuts
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6654
+  strength: 0.6594
 - slug: 2026-05-13-argentines-protest-milei-funding-cuts-to-public-universities-nationwide
   headline: Argentines protest Milei funding cuts to public universities nationwide
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6648
+  strength: 0.6709
+- slug: 2026-05-13-mass-protests-in-argentina-decry-milei-s-public-university-funding-cuts
+  headline: Mass protests in Argentina decry Milei's public university funding cuts
+  publish_date: '2026-05-13'
+  relation: related
+  strength: 0.67
 - slug: 2026-02-12-argentine-senate-gives-initial-approval-to-milei-s-divisive-labor-law
   headline: Argentine Senate gives initial approval to Milei’s divisive labor law
   publish_date: '2026-02-12'
   relation: related
-  strength: 0.6738
+  strength: 0.6795
 - slug: 2026-05-01-argentine-workers-rally-in-buenos-aires-against-milei-s-labor-reforms
   headline: Argentine workers rally in Buenos Aires against Milei’s labor reforms
   publish_date: '2026-05-01'
   relation: related
-  strength: 0.6514
-- slug: 2026-05-16-argentines-eat-less-beef-than-any-time-in-two-decades-as-milei-austerity-reshape
-  headline: Argentines eat less beef than any time in two decades as Milei austerity reshapes diet
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6412
-- slug: 2026-06-03-trump-signs-order-to-make-it-easier-to-fire-8-000-senior-federal-workers
-  headline: Trump signs order to make it easier to fire 8,000 senior federal workers
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.623
-- slug: 2026-02-06-argentina-and-us-sign-trade-deal-slashing-tariffs-and-expanding-imports
-  headline: Argentina and US sign trade deal slashing tariffs and expanding imports
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6414
-- slug: 2026-05-16-argentina-s-beef-demand-drops-as-milei-austerity-lifts-meat-prices
-  headline: Argentina’s beef demand drops as Milei austerity lifts meat prices
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6179
-- slug: 2026-02-19-argentina-s-milei-heads-to-u-s-amid-trump-pushback-on-china-trade
-  headline: Argentina’s Milei heads to U.S. amid Trump pushback on China trade
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6351
+  strength: 0.6538
 ---
-
 ## Milei administration launches voluntary buyouts for federal employees
 
 **Subtype:** fact

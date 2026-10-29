@@ -1,9 +1,21 @@
 ---
 headline: Arizona's 1st District race puts Trump's endorsement of Feely to the test
-secondary_headline: Cook Political Report moved the Feely-Shah race from "toss-up" to "leans Democrat"
+secondary_headline: Cook Political Report moved the Feely-Shah race from "toss-up"
+  to "leans Democrat"
 publish_date: '2026-10-28'
-lede: 'President Donald Trump has repeatedly asked voters to pretend he is on the ballot in November''s midterm elections, and in Arizona''s 1st congressional district — the state''s most affluent and fiercely contested — Trump is on voters'' minds. Whether that helps or hurts the candidates depends on who you ask: Democrat Amish Shah, an emergency room doctor, and Republican Jay Feely, a former National Football League kicker, are the final contenders for the seat, which includes north Scottsdale and Paradise Valley and could help determine control of the House. Voters cast ballots on 3 November.'
-nut_graf: The contest tests how far a Republican-leaning, affluent district will move at a moment of dissatisfaction with the Trump agenda. Both campaigns have moved toward the middle; the candidates disagree sharply on healthcare, datacenters, tariffs and congressional accountability, while abortion — a major topic in the 2024 race — is an issue they have not spent time openly debating.
+lede: 'President Donald Trump has repeatedly asked voters to pretend he is on the
+  ballot in November''s midterm elections, and in Arizona''s 1st congressional district
+  — the state''s most affluent and fiercely contested — Trump is on voters'' minds.
+  Whether that helps or hurts the candidates depends on who you ask: Democrat Amish
+  Shah, an emergency room doctor, and Republican Jay Feely, a former National Football
+  League kicker, are the final contenders for the seat, which includes north Scottsdale
+  and Paradise Valley and could help determine control of the House. Voters cast ballots
+  on 3 November.'
+nut_graf: The contest tests how far a Republican-leaning, affluent district will move
+  at a moment of dissatisfaction with the Trump agenda. Both campaigns have moved
+  toward the middle; the candidates disagree sharply on healthcare, datacenters, tariffs
+  and congressional accountability, while abortion — a major topic in the 2024 race
+  — is an issue they have not spent time openly debating.
 primary_entities:
 - Amish Shah
 - Jay Feely
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,12 +75,17 @@ figures:
   series_id: FRBATLWGT3MMAUMHWGO
   transformation: raw
   as_of: '2026-10-28'
-  caption: The Atlanta Fed wage growth tracker, a three-month moving average of composition-adjusted pay growth for the median continuously employed worker, stood at 3.9% as of Oct. 28, 2026, against a backdrop in which voters in Arizona's 1st congressional district cite prices and wages as campaign concerns.
+  caption: The Atlanta Fed wage growth tracker, a three-month moving average of composition-adjusted
+    pay growth for the median continuously employed worker, stood at 3.9% as of Oct.
+    28, 2026, against a backdrop in which voters in Arizona's 1st congressional district
+    cite prices and wages as campaign concerns.
 - source: fred
   series_id: MICH
   transformation: raw
   as_of: '2026-10-28'
-  caption: Household one-year-ahead inflation expectations, measured by the University of Michigan, stood at 4.6% as of Oct. 28, 2026, the national price backdrop to the affordability concerns both campaigns in the district are invoking.
+  caption: Household one-year-ahead inflation expectations, measured by the University
+    of Michigan, stood at 4.6% as of Oct. 28, 2026, the national price backdrop to
+    the affordability concerns both campaigns in the district are invoking.
 figures_aggregate:
   count: 2
   series_ids:
@@ -78,108 +96,38 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories:
-- slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
-  headline: Trump puts his political brand at the center of the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6328
-- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
-  headline: Arkansas Democrats push affordability message in final midterm stretch
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6487
-- slug: 2026-10-15-valadao-villegas-vie-for-nation-s-highest-medicaid-house-seat
-  headline: Valadao, Villegas vie for nation's highest-Medicaid House seat
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6322
-- slug: 2026-10-12-marine-veteran-mendoza-challenges-ciscomani-in-arizona-6th-district-race
-  headline: Marine veteran Mendoza challenges Ciscomani in Arizona 6th District race
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6379
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.63
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6329
 - slug: 2026-10-04-lds-women-in-arizona-s-5th-district-turn-against-republican-nominee-mark-lamb
-  headline: LDS women in Arizona's 5th District turn against Republican nominee Mark Lamb
+  headline: LDS women in Arizona's 5th District turn against Republican nominee Mark
+    Lamb
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6507
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6292
+  strength: 0.6508
 - slug: 2026-07-23-shah-wins-arizona-democratic-primary-rejects-party-backed-rival
   headline: Shah wins Arizona Democratic primary, rejects party-backed rival
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7821
+  strength: 0.7813
 - slug: 2026-07-21-arizona-primaries-set-stage-for-toss-up-house-races-and-governor-contest
   headline: Arizona primaries set stage for toss-up House races and governor contest
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7313
-- slug: 2026-08-18-florida-and-alaska-primaries-test-gop-redistricting-push
-  headline: Florida and Alaska primaries test GOP redistricting push
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6348
+  strength: 0.7305
 - slug: 2026-07-20-fontes-says-trump-election-claims-are-top-concern-for-arizona-voting
   headline: Fontes says Trump election claims are top concern for Arizona voting
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.6732
-- slug: 2026-06-23-ai-proxy-battle-trump-endorsements-highlight-tuesday-primaries
-  headline: AI proxy battle, Trump endorsements highlight Tuesday primaries
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6291
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6355
-- slug: 2026-05-21-trump-s-2024-latino-gains-face-midterm-test-as-ice-raids-and-costs-strain-househ
-  headline: Trump's 2024 Latino gains face midterm test as ICE raids and costs strain households
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6407
-- slug: 2026-05-22-trump-s-latino-vote-gains-face-test-as-ice-raids-and-costs-bite
-  headline: Trump’s Latino vote gains face test as ICE raids and costs bite
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6355
-- slug: 2026-06-03-republican-s-primary-showing-threatens-california-democrats-redistricting-goal
-  headline: Republican's primary showing threatens California Democrats' redistricting goal
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6286
+  strength: 0.6728
 - slug: 2026-02-26-battleground-arizona-gop-primary-tests-trump-aligned-future
   headline: Battleground Arizona GOP primary tests Trump-aligned future
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6579
-- slug: 2026-05-08-indiana-primary-shows-how-trump-can-punish-republicans-who-defy-him
-  headline: Indiana primary shows how Trump can punish Republicans who defy him
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6327
+  strength: 0.6574
 - slug: 2026-02-24-trump-backs-newcomer-over-former-congresswoman-in-texas-primary
   headline: Trump backs newcomer over former congresswoman in Texas primary
   publish_date: '2026-02-24'
   relation: related
-  strength: 0.6494
+  strength: 0.6505
 ---
-
 ## Arizona's 1st District race puts Trump's endorsement of Feely to the test
 
 **Subtype:** fact
