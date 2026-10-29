@@ -1,9 +1,19 @@
 ---
 headline: Watchmen union local authorizes strike at Southern California ports
-secondary_headline: Six of 13 container terminals could halt vessel, yard and gate operations
+secondary_headline: Six of 13 container terminals could halt vessel, yard and gate
+  operations
 publish_date: '2026-10-28'
-lede: A union local representing 250 watchmen across the ports of Los Angeles and Long Beach voted to authorize a strike that could begin at 5 p.m. PT Sunday if a deal is not reached, the Pacific Maritime Association said. Port employers said the walkout could halt vessel, yard and gate operations at six of the 13 container terminals in the nation's busiest container-port complex.
-nut_graf: The strike threat comes as retailers rush final end-of-year merchandise through the ports, which handled a record 1,055,086 containers in September, according to ports data. The 24% year-over-year increase places the potential interruption during a heavy holiday-import period. The same logistics report also examines domestic computer manufacturing, Cuba's fuel crisis, economic indicators, corporate results and shipping developments.
+lede: A union local representing 250 watchmen across the ports of Los Angeles and
+  Long Beach voted to authorize a strike that could begin at 5 p.m. PT Sunday if a
+  deal is not reached, the Pacific Maritime Association said. Port employers said
+  the walkout could halt vessel, yard and gate operations at six of the 13 container
+  terminals in the nation's busiest container-port complex.
+nut_graf: The strike threat comes as retailers rush final end-of-year merchandise
+  through the ports, which handled a record 1,055,086 containers in September, according
+  to ports data. The 24% year-over-year increase places the potential interruption
+  during a heavy holiday-import period. The same logistics report also examines domestic
+  computer manufacturing, Cuba's fuel crisis, economic indicators, corporate results
+  and shipping developments.
 primary_entities:
 - Pacific Maritime Association
 - International Longshore and Warehouse Union
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,51 +158,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-logistics-briefs-track-freight-data-industrial-moves-and-corporate-results
-  headline: Logistics briefs track freight data, industrial moves and corporate results
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6439
-- slug: 2026-10-23-union-pacific-norfolk-southern-and-csx-post-higher-profits-amid-rail-shift
-  headline: Union Pacific, Norfolk Southern and CSX post higher profits amid rail shift
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6187
-- slug: 2026-10-21-california-state-workers-walk-out-amid-contract-dispute
-  headline: California state workers walk out amid contract dispute
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6234
 - slug: 2026-10-13-la-long-beach-ports-log-busiest-ever-september-for-container-imports
   headline: LA, Long Beach ports log busiest-ever September for container imports
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6694
+  strength: 0.6692
 - slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
+  headline: Southern California ports consider $60-per-trip subsidy for zero-emission
+    trucks
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6861
-- slug: 2026-10-08-ftc-usda-open-joint-inquiry-into-farm-equipment-market-competition
-  headline: FTC, USDA open joint inquiry into farm equipment market competition
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6234
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6355
-- slug: 2026-09-16-us-investigates-cyberattacks-on-energy-tankers-in-strait-of-gibraltar
-  headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6264
+  strength: 0.6862
 - slug: 2026-08-07-port-of-los-angeles-peak-shipping-season-extends-as-retailers-keep-importing
   headline: Port of Los Angeles peak shipping season extends as retailers keep importing
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7006
+  strength: 0.7
 - slug: 2026-07-23-port-of-long-beach-signs-agreement-to-explore-on-site-nuclear-power
   headline: Port of Long Beach signs agreement to explore on-site nuclear power
   publish_date: '2026-07-23'
@@ -201,54 +183,24 @@ related_stories:
   headline: Retailers rush holiday imports early to avoid looming costs
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6787
+  strength: 0.6786
 - slug: 2026-06-22-us-military-kills-2-in-latest-drug-boat-strike-campaign-death-toll-at-213
-  headline: US military kills 2 in latest drug boat strike; campaign death toll at 213
+  headline: US military kills 2 in latest drug boat strike; campaign death toll at
+    213
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.6534
+  strength: 0.6528
 - slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
   headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6521
-- slug: 2026-06-01-us-military-strike-on-alleged-drug-boat-kills-3-in-eastern-pacific
-  headline: US military strike on alleged drug boat kills 3 in eastern Pacific
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6451
+  strength: 0.6513
 - slug: 2026-04-16-nyc-building-workers-vote-to-authorize-strike-as-contract-deadline-looms
   headline: NYC building workers vote to authorize strike as contract deadline looms
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.657
-- slug: 2026-05-29-death-toll-from-us-strikes-on-suspected-drug-boats-in-caribbean-and-pacific-reac
-  headline: Death toll from US strikes on suspected drug boats in Caribbean and Pacific reaches 199
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6384
-- slug: 2026-04-27-latest-u-s-strike-on-suspected-drug-boat-kills-3-in-eastern-pacific
-  headline: Latest U.S. strike on suspected drug boat kills 3 in eastern Pacific
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6339
-- slug: 2026-05-22-california-turns-to-ai-to-reduce-whale-ship-collisions-as-deaths-rise
-  headline: California turns to AI to reduce whale-ship collisions as deaths rise
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.622
-- slug: 2026-05-21-ai-whale-detection-network-goes-live-in-san-francisco-bay-to-prevent-strikes
-  headline: AI whale-detection network goes live in San Francisco Bay to prevent strikes
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6212
-- slug: 2026-05-16-lirr-strike-will-halt-north-america-s-largest-commuter-rail-system
-  headline: LIRR strike will halt North America’s largest commuter rail system
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6179
+  strength: 0.6565
 ---
-
 ## Watchmen union local authorizes strike at Southern California ports
 
 **Subtype:** fact
