@@ -192,6 +192,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3-pro-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-10-28-flanagan-and-tafoya-assign-blame-across-federal-state-and-fraud-tracks'
 ---
 ## Minnesota Senate race tightens around immigration and fraud allegations
 
@@ -235,3 +237,8 @@ Flanagan has built her case around what she calls unchecked federal power, while
 **Publication date:** 2026-10-28
 **Title:** Minnesota becomes battleground as political clashes shape Senate race
 **URL:** https://www.npr.org/2026/10/28/nx-s1-6019356/minnesota-becomes-battleground-as-political-clashes-shape-senate-race
+
+---
+
+<!-- analysis-link:2026-10-28-flanagan-and-tafoya-assign-blame-across-federal-state-and-fraud-tracks -->
+**Going deeper:** [Read MSI's analysis of the Minnesota Senate race's three-track fight →](/analyses/2026-10-28-flanagan-and-tafoya-assign-blame-across-federal-state-and-fraud-tracks)
