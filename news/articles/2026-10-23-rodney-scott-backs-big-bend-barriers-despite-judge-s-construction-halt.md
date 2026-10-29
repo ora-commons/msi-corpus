@@ -1,17 +1,9 @@
 ---
 headline: Rodney Scott backs Big Bend barriers despite judge's construction halt
-secondary_headline: Scott says protecting the country with a barrier is non-negotiable
+secondary_headline: Scott cites navigable crossings and cartel risk
 publish_date: '2026-10-23'
-lede: US Customs and Border Protection Commissioner Rodney Scott defended the Trump
-  administration’s $46 billion border-wall plan in an exclusive Associated Press interview
-  on Thursday despite a court-ordered construction pause in Big Bend, Texas, and bipartisan
-  opposition. Scott said the government needed to know who and what was entering the
-  United States and called fortifying the border “non-negotiable.”
-nut_graf: The dispute now combines a federal court’s Big Bend construction pause,
-  the administration’s request to the Supreme Court and Scott’s defense of a broader
-  border-building program. Scott said CBP would not install huge steel fences in Big
-  Bend National Park because of ongoing lawsuits while the agency continued outreach
-  about how to build other projects without marring the park.
+lede: The Guardian reported that US Customs and Border Protection Commissioner Rodney Scott defended the Trump administration’s $46 billion border-wall plan in an exclusive Associated Press interview on Thursday despite a court-ordered construction pause in Big Bend, Texas, and bipartisan opposition. Scott said the government needed to know who and what was entering the United States and called fortifying the border “non-negotiable.” The Associated Press reported that Scott said natural barriers were insufficient at more navigable points and expressed concern that cartels controlling smuggling from Mexico into the United States would exploit any opening; in a response Friday, No Big Bend Wall coalition communications director Hillary Pierce said the “government’s own numbers show there is no border emergency in Big Bend.”
+nut_graf: The dispute now combines the Big Bend construction order, the administration’s request to the Supreme Court to lift it and Scott’s defense of a broader border-building program. Scott said CBP would not install huge steel fences in Big Bend National Park because of ongoing lawsuits while the agency continued outreach about how to build other projects without marring the park. Scott cited more navigable points and cartel risk, while No Big Bend Wall coalition communications director Hillary Pierce said government numbers show there is no border emergency in Big Bend.
 primary_entities:
 - Rodney Scott
 - US Customs and Border Protection
@@ -56,16 +48,17 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - wire
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -196,41 +189,50 @@ related_stories:
   relation: related
   strength: 0.7755
 ---
+
 ## Rodney Scott backs Big Bend barriers despite judge's construction halt
 
 **Subtype:** fact
 
-- US Customs and Border Protection Commissioner Rodney Scott defended the Trump administration’s $46 billion border-wall plan in an exclusive Associated Press interview despite a court-ordered pause on construction in Big Bend and bipartisan opposition.
-- Scott said his goal of fortifying US borders was “non-negotiable.”
-- Scott said Big Bend would be “completely overrun and destroyed” if it lacked barriers while other border areas received fortifications.
-- Resistance to the wider wall plan was bipartisan in some places, with Big Bend especially prominent among the opposition sites.
-- A judge ordered a pause on construction in the Big Bend region after citing what could be a likelihood that plaintiffs “will suffer serious, irreparable harm without an injunction.”
+- The Guardian reported that US Customs and Border Protection Commissioner Rodney Scott defended the Trump administration’s $46 billion border-wall plan in an exclusive Associated Press interview despite a court-ordered pause on construction in Big Bend and bipartisan opposition.
+- Scott said Big Bend would be “completely overrun and destroyed” if it lacked barriers while other areas along the border received fortifications.
+- The Associated Press reported that Scott said Big Bend’s natural barriers were insufficient at more navigable points and that Scott expressed concern that cartels controlling smuggling from Mexico into the United States would exploit any opening.
+- No Big Bend Wall coalition communications director Hillary Pierce said the government’s own numbers show there is no border emergency in Big Bend.
+- A judge ordered a pause on Big Bend construction after citing what could be a likelihood that plaintiffs “will suffer serious, irreparable harm without an injunction.”
 - The Trump administration asked the Supreme Court to lift the Big Bend construction order.
 
-## Scott says protecting the country with a barrier is non-negotiable
+## Scott cites navigable crossings and cartel risk
 
-US Customs and Border Protection Commissioner Rodney Scott defended the Trump administration’s $46 billion border-wall plan in an exclusive Associated Press interview on Thursday despite a court-ordered pause on construction in Big Bend, Texas. Scott said the government needed to know who and what was entering the United States and called fortifying the border “non-negotiable.”
+The Guardian reported that US Customs and Border Protection Commissioner Rodney Scott defended the Trump administration’s $46 billion border-wall plan in an exclusive Associated Press interview on Thursday despite a court-ordered construction pause in Big Bend, Texas, and bipartisan opposition. Scott said the government needed to know who and what was entering the United States and called fortifying the border “non-negotiable.” The Associated Press reported that Scott said natural barriers were insufficient at more navigable points and expressed concern that cartels controlling smuggling from Mexico into the United States would exploit any opening; in a response Friday, No Big Bend Wall coalition communications director Hillary Pierce said the “government’s own numbers show there is no border emergency in Big Bend.”
 
-Rodney Scott, a former border patrol agent whom Trump tapped to complete the border barrier, said, “Our number one goal right out the gate is we have to know who and what is coming into the United States.” He called his goal of fortifying the country’s borders “non-negotiable.”
+Rodney Scott, a former Border Patrol agent whom Trump tapped to complete the border barrier, argued that the $46 billion project was justified. “Our number one goal right out the gate is we have to know who and what is coming into the United States,” Scott said. He also said CBP’s stated goal of protecting the country and knowing what was coming in and going out was “non-negotiable.”
 
-Scott argued that Big Bend needs a wall or other border infrastructure if nearby areas receive fortifications. If the region were left without them, he said, “I am 100% convinced it will be completely overrun and destroyed.” Big Bend lies close to the US-Mexico line, where the Rio Grande follows a massive curve on its way to the Gulf of Mexico.
+Scott said Big Bend needed a wall or other border infrastructure if other areas along the border received fortifications. If the region were left without them, he said, “I am 100% convinced it will be completely overrun and destroyed.” Big Bend lies close to the US-Mexico line, where the Rio Grande follows a massive curve on its way to the Gulf of Mexico. Scott said the area’s formidable natural barriers were not enough to prevent people from entering the country illegally through other, more navigable points. Scott expressed concern that cartels that control smuggling from Mexico into the United States would exploit any opening.
 
-CBP is executing a plan funded last summer by Republicans in Congress to line the roughly 2,000-mile (3,200km) border with Mexico with a mixture of steel fences 30ft (9 metre) high, vehicle barriers, new roads and surveillance technology to prevent irregular immigration and the smuggling of drugs and humans. Some areas are also slated to receive a secondary layer of fencing.
+Earlier this month, a judge ordered a pause on border-wall construction in the Big Bend region, citing what could be a likelihood that plaintiffs “will suffer serious, irreparable harm without an injunction.” The Associated Press described the order as a major setback for the Trump administration. The order covered any construction in Big Bend National Park, where The Guardian and The Associated Press reported opposition from both parties, including some Republican lawmakers. The Trump administration has asked the Supreme Court to lift the order.
 
-The Trump administration says it is building about 12 miles (19km) of border wall a week. Scott said he receives daily progress updates and that the primary wall would be finished by the end of December 2027, with the broader project due to be complete by the end of Trump’s second term. “We’re actually ahead of schedule,” Scott said.
+The Associated Press described the dispute as “a major test for how far the Republican administration is willing to go” and called the border wall President Donald Trump’s “signature infrastructure project.” The Guardian wrote that the fight “has become a major test for how far the Republican administration is willing to go to shut off the border.”
 
-The wider wall plan has run into stiff and bipartisan resistance in some places, especially Big Bend. Opposition to the Big Bend project has crossed party lines. A bipartisan coalition of landowners, local businesses and environmentalists argues that the wall is a waste of taxpayer money and could damage a region with historically low migrant crossings. The Guardian wrote that the fight over Big Bend “has become a major test for how far the Republican administration is willing to go to shut off the border.”
+Scott defended the wider plan despite opposition from a bipartisan coalition of landowners, local businesses and environmentalists. The coalition views the project as a waste of taxpayer money that could be destructive to a region with historically low migrant crossings. In a direct response to Scott’s comments on Friday, Hillary Pierce, director of communications for the No Big Bend Wall coalition, said in a news release that the “government’s own numbers show there is no border emergency in Big Bend.”
 
-Earlier this month, a judge ordered a pause on border-wall construction in the Big Bend region, citing what could be a likelihood that plaintiffs “will suffer serious, irreparable harm without an injunction.” The ruling included any construction in Big Bend National Park, an area that has drawn a loud bipartisan outcry, including from some Republican lawmakers. The administration has asked the Supreme Court to lift the order.
+CBP is executing a plan funded last summer by Republicans in Congress to line the roughly 2,000-mile (3,200-kilometer) border with Mexico with 30-foot (9-meter) steel fences, vehicle barriers, new roads and surveillance technology to prevent irregular immigration and the smuggling of drugs and people. Some areas are also slated to receive a secondary layer of fencing. The Trump administration says it is building about 12 miles (19 kilometers) of border wall a week. Scott, who receives daily progress updates, said the broader project would be complete by the end of Trump’s second term and the primary wall by the end of December 2027. “We’re actually ahead of schedule,” Scott said.
 
-Construction had already drawn attention in August, when bulldozers were spotted tearing up ground in the park. Scott ordered CBP to pause all construction-related activity there while he spoke with people in the region. The agency has also reached out to local residents to discuss how projects could be built without marring the park. “We’re talking through and figuring out what is the right solution for that area,” Scott said.
-
-Scott said the huge steel fences would not go up in Big Bend National Park because of ongoing lawsuits, while maintaining that protecting the country with a barrier was non-negotiable. He said CBP was still talking through what it considered the right solution for the area.
+After bulldozers were spotted in the park tearing up ground in August, Scott ordered CBP to pause all construction-related activity there while he spoke with people in the region. The agency has also reached out to local residents to discuss how projects could be built without marring the park. “We’re talking through and figuring out what is the right solution for that area,” Scott said. Scott said he could not get into specific details on the agency’s plans for the park because of the numerous ongoing lawsuits, but reiterated that the project would not include tall steel walls.
 
 Local opposition was visible in Study Butte, Texas, where demonstrators held signs during a weekly protest against border barriers on September 26, 2026. A photograph by John Locher of the Associated Press documented the protest. The judge’s construction pause applies specifically to the Big Bend region, including Big Bend National Park.
 
+Scott leads an agency of 67,000 employees responsible for controlling who and what comes into the country through official border crossings, including airports and seaports, and stopping illegal smuggling and migration outside those crossing points. The Associated Press reported that CBP officers were sent into cities deep inside the country to help carry out immigration-enforcement operations alongside Immigration and Customs Enforcement under the Trump administration. Those deployments drew heavy scrutiny last year.
 
-The sequence of pauses began with [CBP halting construction in Big Bend National Park for Scott’s on-the-ground evaluation](/articles/2026-08-17-cbp-pauses-border-construction-in-big-bend-national-park-for-evaluation/) and [the federal government extending that pause through mid-September](/articles/2026-08-28-big-bend-border-construction-pause-runs-through-mid-september/). The later court order and Scott’s defense advance the same unresolved dispute over the project.
+As protests against an operation rocked Minneapolis, a Border Patrol officer and a CBP officer both fired shots in an encounter that killed U.S. citizen Alex Pretti. The Associated Press reported that the shooting eventually prompted the Trump administration to wind down high-profile city-based crackdowns. Gregory Bovino, who was the face of the missions, led a helicopter raid at a large apartment building and used chemical agents to confront demonstrators. Bovino retired earlier this year.
+
+Scott said CBP still helps ICE but is now less involved in immigration enforcement far from the country’s borders because ICE has since hired more officers to its ranks. He declined to comment on the investigation into Pretti’s killing, saying the FBI was handling the ongoing investigation. When asked about Bovino’s tactics, Scott said Bovino did not report to him during the operations.
+
+The Associated Press reported from Blaine, Washington. Scott spoke to the AP just outside the border with Canada, where he met with border security representatives from other countries to share information about threats and trends. He visited an operations center where he said Canadian and American law enforcement work together and accompanied a CBP unit patrolling waterways off the coast of Washington state to understand the challenges of stopping smugglers in the network of islands and inlets. “We have this massive marine environment where you have legitimate boats floating around, you have fishing vessels floating around, and we’re trying to ... find the criminal needle in a whole bunch of needles,” Scott said.
+
+Scott also met with CBP staff at the crossing point overseeing traffic between Canada and the small community of Point Roberts, Washington. The station’s location on a peninsula requires staff to drive from the mainland through Canada to get to work every day. The Associated Press reported that the Point Roberts border has far fewer threats than the US border with Mexico. Scott said cartels in Mexico are increasingly sending drones into the United States to move contraband and keep tabs on Border Patrol agents. Cartels in Mexico are also using drones to attack one another or Mexican law enforcement. The Department of Homeland Security, which includes CBP, recently announced temporary flight restrictions targeting unauthorized drone activity in a zone extending one mile (1.6 kilometers) north of the US-Mexico border to counter cartels. “We want to make sure,” Scott said, “that threat does not come into the United States.”
+
+
+[MSI previously reported CBP’s initial pause](/articles/2026-08-17-cbp-pauses-border-construction-in-big-bend-national-park-for-evaluation/) and [the federal extension through mid-September](/articles/2026-08-28-big-bend-border-construction-pause-runs-through-mid-september/). The later court order and Scott’s defense advance the same unresolved dispute over the project.
 
 ## Sources
 
@@ -238,3 +240,10 @@ The sequence of pauses began with [CBP halting construction in Big Bend National
 **Publication date:** 2026-10-23
 **Title:** Trump’s top border official defends Big Bend border wall plan despite mounting opposition
 **URL:** https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall
+
+### src_002 — Associated Press, wire, Tier 1, originating
+**Author:** Rebecca Santana
+**Publication date:** 2026-10-23
+**Title:** Trump’s border chief defends wall plans in Texas’ Big Bend
+**URL:** https://apnews.com/article/border-immigration-big-bend-rodney-scott-wall-32734cc4aa2f83a7b3b23c81163d6fef
+**Added after publication:** true
