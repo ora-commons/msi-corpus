@@ -164,6 +164,8 @@ related_stories:
   publish_date: '2026-07-31'
   relation: related
   strength: 0.6562
+analyses:
+- '2026-10-28-at-weil-gotshal-each-departing-partner-reprices-a-shrinking-option-set'
 ---
 ## Weil Gotshal accelerates merger search as partners depart and chair declines
 
@@ -212,3 +214,8 @@ One challenge to downsizing is Weil's real-estate portfolio, which reflects the 
 **Publication date:** 2026-10-28
 **Title:** How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos
 **URL:** https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d
+
+---
+
+<!-- analysis-link:2026-10-28-at-weil-gotshal-each-departing-partner-reprices-a-shrinking-option-set -->
+**Going deeper:** [Read MSI's analysis of Weil Gotshal's narrowing merger options →](/analyses/2026-10-28-at-weil-gotshal-each-departing-partner-reprices-a-shrinking-option-set)

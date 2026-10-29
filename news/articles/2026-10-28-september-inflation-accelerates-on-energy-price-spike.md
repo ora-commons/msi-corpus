@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.7486
+analyses:
+- '2026-10-28-the-december-rate-decision-what-the-september-data-can-and-cannot-prove'
 ---
 ## September inflation accelerates on energy-price spike
 
@@ -244,3 +246,8 @@ Wednesday's decision is expected to hold rates steady, with the vote itself a qu
 **Publication date:** 2026-10-28
 **Title:** Fed expected to hold interest rates steady but a hike is anticipated by year's end
 **URL:** https://www.npr.org/2026/10/28/nx-s1-6017978/fed-expected-to-hold-interest-rates-steady-but-a-hike-is-anticipated-by-years-end
+
+---
+
+<!-- analysis-link:2026-10-28-the-december-rate-decision-what-the-september-data-can-and-cannot-prove -->
+**Going deeper:** [Read MSI's analysis of Federal Reserve December rate decision — causal limits, committee negotiation, hike forecast →](/analyses/2026-10-28-the-december-rate-decision-what-the-september-data-can-and-cannot-prove)
