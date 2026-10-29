@@ -213,6 +213,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-28-times-report-links-peltola-texts-to-second-sullivan-recruitment-discussion'
 ---
 ## Peltola campaign discussed recruiting second Dan Sullivan, report says
 
@@ -256,3 +258,8 @@ Riccardi reported from Denver.
 **Publication date:** 2026-10-28
 **Title:** Second Dan Sullivan in Alaska Senate race recruited by Democrats, report says
 **URL:** https://apnews.com/article/alaska-peltola-senate-dan-sullivan-democrats-743677c9fb0d6696af7901504df2be3e
+
+---
+
+<!-- analysis-link:2026-10-28-times-report-links-peltola-texts-to-second-sullivan-recruitment-discussion -->
+**Going deeper:** [Read MSI's analysis of the second Dan Sullivan recruitment report →](/analyses/2026-10-28-times-report-links-peltola-texts-to-second-sullivan-recruitment-discussion)
