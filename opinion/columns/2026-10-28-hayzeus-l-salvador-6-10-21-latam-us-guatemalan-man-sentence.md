@@ -1,7 +1,9 @@
 ---
-headline: Federal judge sentences Miranda-Orozco to 30 years over 53 migrant smuggling deaths
+headline: Federal judge sentences Miranda-Orozco to 30 years over 53 migrant smuggling
+  deaths
 publish_date: '2026-10-28'
-lede: Miranda-Orozco’s smuggling operation killed 53 migrants in a sweltering trailer with no escape.
+lede: Miranda-Orozco’s smuggling operation killed 53 migrants in a sweltering trailer
+  with no escape.
 pen_name: hayzeus-l-salvador
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +40,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/federal-judge-sentences-miranda-orozco-to-30-years-over-53.png
+  alt: 'Editorial cartoon by Hector Rentier: Federal judge sentences Miranda-Orozco
+    to 30 years over 53 migrant smuggling deaths'
+  caption: The manifest priced them. The trailer sealed them. Neither was weather.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-28T22:13:06-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving. Center-right: Rigoberto
+    Ramimiranda-Orozco, fully individuated and calmly composed, stands at a plain
+    wooden table signing a COARGO MANIFEST; his fa'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-28-hector-paired-with-2026-10-28-hayzeus-l-salvador-6-10-21-latam-us-guatemalan-man-sentence
 ---
+
+![Editorial cartoon by Hector Rentier: Federal judge sentences Miranda-Orozco to 30 years over 53 migrant smuggling deaths](/cartoons/federal-judge-sentences-miranda-orozco-to-30-years-over-53.png)
+*The manifest priced them. The trailer sealed them. Neither was weather.*
 
 Miranda-Orozco’s smuggling operation killed 53 migrants in a sweltering trailer with no escape.
 

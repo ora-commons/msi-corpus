@@ -1,7 +1,9 @@
 ---
-headline: El-Sayed Won Michigan by Refusing and Exposing the Guilt-by-Association Test
+headline: El-Sayed Won Michigan by Refusing and Exposing the Guilt-by-Association
+  Test
 publish_date: '2026-10-28'
-lede: The most revealing five minutes of Abdul El-Sayed’s Senate campaign did not begin with policy.
+lede: The most revealing five minutes of Abdul El-Sayed’s Senate campaign did not
+  begin with policy.
 pen_name: joanna-rivera-blackwell
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +40,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/el-sayed-won-michigan-by-refusing-and-exposing-the-guilt-by.png
+  alt: 'Editorial cartoon by Hector Rentier: El-Sayed Won Michigan by Refusing and
+    Exposing the Guilt-by-Association Test'
+  caption: They did not seek an answer. They made refusal another accusation.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-28T22:08:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Square 1:1, rendered as a heavy Nast-style wood engraving: dense cross-hatching,
+    strong black masses, carved white highlights, and exactly one restrained sepia
+    accent (#6B4226) on the gopher’s pointer'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-28-hector-paired-with-2026-10-28-joanna-rivera-blackwell-us-news-2026-oct-21-abdul-el-sayed-michi
 ---
+
+![Editorial cartoon by Hector Rentier: El-Sayed Won Michigan by Refusing and Exposing the Guilt-by-Association Test](/cartoons/el-sayed-won-michigan-by-refusing-and-exposing-the-guilt-by.png)
+*They did not seek an answer. They made refusal another accusation.*
 
 The most revealing five minutes of Abdul El-Sayed’s Senate campaign did not begin with policy. They began with a man demanding that the Michigan Democratic candidate disavow the Muslim Brotherhood in front of a crowded room. It was, in effect, a demand for a religious loyalty oath.
 

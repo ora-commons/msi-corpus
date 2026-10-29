@@ -1,7 +1,10 @@
 ---
-headline: Trump's SNAP cuts didn't create 5 million jobs. They just created 5 million hungry people.
+headline: Trump's SNAP cuts didn't create 5 million jobs. They just created 5 million
+  hungry people.
 publish_date: '2026-10-28'
-lede: At a free food distribution at Rancho Cienega Park in Los Angeles on 29 August, a volunteer handed milk to a line of people who had come for it (Justin Sullivan/Getty Images).
+lede: At a free food distribution at Rancho Cienega Park in Los Angeles on 29 August,
+  a volunteer handed milk to a line of people who had come for it (Justin Sullivan/Getty
+  Images).
 pen_name: mary-magdalena
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,9 +35,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements.png
-  alt: 'Illustration accompanying article: SNAP enrollment drops 13% after Trump administration work requirements'
+  url: /cartoons/trumps-snap-cuts-didnt-create-5-million-jobs-they-just.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump''s SNAP cuts didn''t create 5 million
+    jobs. They just created 5 million hungry…'
+  caption: The ledger called it work. The line outside called it dinner.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-10-28T22:13:31-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving. Center-right: Agriculture
+    Secretary Brooke Rollins stands at a podium labeled AGRICULTURE DEPARTMENT, mid-sentence,
+    one hand raised palm-out to bloc'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
   relation: extends
@@ -41,7 +56,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-28-hector-paired-with-2026-10-28-mary-magdalena-us-news-2026-oct-25-trump-food-stamp-cut
 ---
+
+![Editorial cartoon by Hector Rentier: Trump's SNAP cuts didn't create 5 million jobs. They just created 5 million hungry…](/cartoons/trumps-snap-cuts-didnt-create-5-million-jobs-they-just.png)
+*The ledger called it work. The line outside called it dinner.*
 
 At a free food distribution at Rancho Cienega Park in Los Angeles on 29 August, a volunteer handed milk to a line of people who had come for it (Justin Sullivan/Getty Images). That is the visible cost of a program the government says has just lost 5 million participants.
 

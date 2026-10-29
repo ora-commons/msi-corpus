@@ -1,7 +1,8 @@
 ---
 headline: The AI Trade Is Stronger Than Ever. Its Proof Is Still Thin.
 publish_date: '2026-10-28'
-lede: Nvidia and Musk are selling investors forecasts in place of measured engineering proof.
+lede: Nvidia and Musk are selling investors forecasts in place of measured engineering
+  proof.
 pen_name: stewart-letterkenski
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +39,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-ai-trade-is-stronger-than-ever-its-proof-is-still-thin.png
+  alt: 'Editorial cartoon by Hector Rentier: The AI Trade Is Stronger Than Ever. Its
+    Proof Is Still Thin.'
+  caption: 'The market made three different propositions wear the same word: proof.'
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-28T22:11:45-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square single-panel Nast-style engraving in heavy cross-hatch, with
+    dense black masses and one restrained #6B4226 sepia accent on the final PROOF
+    stamp. Center frame: a fully individuated fund manager'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-28-hector-paired-with-2026-10-28-stewart-letterkenski--and-nvidia-help-snap-tech-stocks-out-of
 ---
+
+![Editorial cartoon by Hector Rentier: The AI Trade Is Stronger Than Ever. Its Proof Is Still Thin.](/cartoons/the-ai-trade-is-stronger-than-ever-its-proof-is-still-thin.png)
+*The market made three different propositions wear the same word: proof.*
 
 Nvidia and Musk are selling investors forecasts in place of measured engineering proof.
 
