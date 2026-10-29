@@ -1,9 +1,22 @@
 ---
 headline: Vance sends letter to Iranian security chief to restart peace talks
-secondary_headline: Diplomatic contacts center on a framework, not a detailed peace proposal
+secondary_headline: Diplomatic contacts center on a framework, not a detailed peace
+  proposal
 publish_date: '2026-10-28'
-lede: Vice President JD Vance sent a letter to Mohsen Rezaei, secretary of Iran's Supreme National Security Council and a former commander of the Islamic Revolutionary Guard Corps, to revive peace negotiations, according to U.S. officials and people familiar with the matter. A person familiar with the matter said President Donald Trump directed the outreach. Trump has threatened to restart the war after next week's midterm elections, according to U.S. officials and people familiar with the matter. According to a person familiar with the matter, the letter and subsequent discussions did not include specific terms for a peace proposal and focused instead on a possible framework for negotiations.
-nut_graf: The outreach seeks to determine whether Washington and Tehran can find enough common ground to persuade Trump not to order a short, intense attack, even as negotiations remain deadlocked over nuclear and economic terms. The initiative also comes as Republicans were preparing to lose House and Senate seats, with voters citing the Iran conflict and rising fuel costs as sources of frustration.
+lede: Vice President JD Vance sent a letter to Mohsen Rezaei, secretary of Iran's
+  Supreme National Security Council and a former commander of the Islamic Revolutionary
+  Guard Corps, to revive peace negotiations, according to U.S. officials and people
+  familiar with the matter. A person familiar with the matter said President Donald
+  Trump directed the outreach. Trump has threatened to restart the war after next
+  week's midterm elections, according to U.S. officials and people familiar with the
+  matter. According to a person familiar with the matter, the letter and subsequent
+  discussions did not include specific terms for a peace proposal and focused instead
+  on a possible framework for negotiations.
+nut_graf: The outreach seeks to determine whether Washington and Tehran can find enough
+  common ground to persuade Trump not to order a short, intense attack, even as negotiations
+  remain deadlocked over nuclear and economic terms. The initiative also comes as
+  Republicans were preparing to lose House and Senate seats, with voters citing the
+  Iran conflict and rising fuel costs as sources of frustration.
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,24 +157,23 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks.png
-  alt: 'Illustration accompanying article: Vance sends letter to Iranian security chief to restart peace talks'
+  alt: 'Illustration accompanying article: Vance sends letter to Iranian security
+    chief to restart peace talks'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-28-u-s-briefs-gulf-states-on-possible-post-midterm-iran-campaign
-  headline: U.S. briefs Gulf states on possible post-midterm Iran campaign
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7187
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7235
+  strength: 0.7232
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
@@ -170,89 +183,33 @@ related_stories:
   headline: Vance works to rebuild fractured Trump coalition ahead of midterms
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7251
+  strength: 0.7247
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7236
+  strength: 0.7238
 - slug: 2026-08-09-iran-replaces-top-security-official-amid-hormuz-strait-talks
   headline: Iran replaces top security official amid Hormuz Strait talks
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.7426
+  strength: 0.7421
 - slug: 2026-08-05-trump-alternates-iran-strike-threats-with-retreats-column-says
   headline: Trump alternates Iran strike threats with retreats, column says
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7476
+  strength: 0.7472
 - slug: 2026-08-17-iran-hardliners-prepare-for-larger-war-with-us-distrusting-june-pact
   headline: Iran hardliners prepare for larger war with US, distrusting June pact
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7197
+  strength: 0.7194
 - slug: 2026-07-31-trump-vows-to-hit-iran-very-hard-as-diplomacy-collapses
   headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7469
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7831
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7642
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7518
-- slug: 2026-06-22-trump-threatens-to-restart-attacks-on-iran-as-vance-hails-progress-in-talks
-  headline: Trump threatens to restart attacks on Iran as Vance hails progress in talks
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7482
-- slug: 2026-06-17-vance-works-to-sell-iran-deal-amid-conservative-skepticism
-  headline: Vance works to sell Iran deal amid conservative skepticism
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7425
-- slug: 2026-06-22-vance-says-iran-agreed-to-allow-un-nuclear-inspectors-back-into-the-country
-  headline: Vance says Iran agreed to allow UN nuclear inspectors back into the country
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7283
-- slug: 2026-06-28-vance-says-us-wins-either-way-on-iran-as-ceasefire-frays
-  headline: Vance says US wins either way on Iran as ceasefire frays
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7182
-- slug: 2026-04-11-vance-warns-iran-not-to-play-the-us-as-talks-aim-to-end-war
-  headline: Vance warns Iran not to “play” the US as talks aim to end war
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7589
-- slug: 2026-06-23-iran-denies-vance-claim-on-nuclear-inspectors-after-first-round-talks
-  headline: Iran denies Vance claim on nuclear inspectors after first-round talks
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7216
-- slug: 2026-06-18-vance-says-iran-deal-is-us-win-no-matter-what-happens-next
-  headline: Vance says Iran deal is US win no matter what happens next
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7253
-- slug: 2026-04-11-us-vice-president-heads-to-pakistan-for-iran-talks-as-lebanon-talks-loom
-  headline: US vice president heads to Pakistan for Iran talks as Lebanon talks loom
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7363
+  strength: 0.7468
 ---
-
 ## Vance sends letter to Iranian security chief to restart peace talks
 
 **Subtype:** fact

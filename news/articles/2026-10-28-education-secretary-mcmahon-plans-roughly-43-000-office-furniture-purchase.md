@@ -1,9 +1,20 @@
 ---
 headline: Education Secretary McMahon plans roughly $43,000 office furniture purchase
-secondary_headline: McMahon said the relocation would save taxpayers $4.8 million a year
+secondary_headline: McMahon said the relocation would save taxpayers $4.8 million
+  a year
 publish_date: '2026-10-28'
-lede: The Trump administration has said its education cuts are saving "millions of dollars." The New York Times reported that Education Secretary Linda McMahon is planning to furnish her office with new furniture — a desk, conference table, chairs and other items — expected to cost $43,278.64, according to an unnamed senior official who briefed the newspaper. McMahon's office told Congress that the secretary's current furniture was worn out and could not be integrated into the department's new office space, according to non-public records seen by the New York Times.
-nut_graf: The reported purchase lands as the administration presses a shutdown of the Department of Education that Congress has not authorized. The department has already nearly halved its staffing and moved special education services and civil rights enforcement to other agencies, while McMahon has said the relocation will save taxpayers $4.8 million a year.
+lede: The Trump administration has said its education cuts are saving "millions of
+  dollars." The New York Times reported that Education Secretary Linda McMahon is
+  planning to furnish her office with new furniture — a desk, conference table, chairs
+  and other items — expected to cost $43,278.64, according to an unnamed senior official
+  who briefed the newspaper. McMahon's office told Congress that the secretary's current
+  furniture was worn out and could not be integrated into the department's new office
+  space, according to non-public records seen by the New York Times.
+nut_graf: The reported purchase lands as the administration presses a shutdown of
+  the Department of Education that Congress has not authorized. The department has
+  already nearly halved its staffing and moved special education services and civil
+  rights enforcement to other agencies, while McMahon has said the relocation will
+  save taxpayers $4.8 million a year.
 primary_entities:
 - Linda McMahon
 - Donald Trump
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,36 +154,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-28-falling-u-s-k-12-enrollment-prompts-public-school-staff-and-program-cuts
-  headline: Falling U.S. K-12 enrollment prompts public-school staff and program cuts
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6252
 - slug: 2026-09-24-education-department-dismantling-has-potentially-increased-inefficiency-staff-te
-  headline: Education Department dismantling has potentially increased inefficiency, staff tell NPR
+  headline: Education Department dismantling has potentially increased inefficiency,
+    staff tell NPR
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7671
-- slug: 2026-09-25-nces-staffing-cut-to-12-as-us-reading-and-math-scores-hit-25-year-low
-  headline: NCES staffing cut to 12 as US reading and math scores hit 25-year low
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6161
-- slug: 2026-09-17-trump-administration-proposes-dropping-head-start-priority-for-homeless-children
-  headline: Trump administration proposes dropping Head Start priority for homeless children
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6294
-- slug: 2026-09-16-interior-secretary-plans-warning-signs-outside-smithsonian-museums
-  headline: Interior Secretary plans warning signs outside Smithsonian museums
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6265
-- slug: 2026-09-15-gao-finds-doge-program-cost-more-than-9-billion-in-paid-administrative-leave
-  headline: GAO finds DOGE program cost more than $9 billion in paid administrative leave
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6226
+  strength: 0.767
 - slug: 2026-03-27-education-department-to-relocate-to-another-washington-building
   headline: Education Department to relocate to another Washington building
   publish_date: '2026-03-27'
@@ -181,69 +169,36 @@ related_stories:
   headline: McMahon asks colleges to post statements on academic rigor, free speech
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6588
-- slug: 2026-08-14-democrats-cite-court-ruling-rising-costs-in-seeking-gao-ballroom-review
-  headline: Democrats cite court ruling, rising costs in seeking GAO ballroom review
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6291
-- slug: 2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states
-  headline: Trump administration proposes shifting Head Start rules to states
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6441
+  strength: 0.6593
 - slug: 2026-06-16-trump-administration-shifts-special-education-civil-rights-offices-to-other-agen
-  headline: Trump administration shifts special education, civil rights offices to other agencies
+  headline: Trump administration shifts special education, civil rights offices to
+    other agencies
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6912
-- slug: 2026-08-03-federal-agency-relocations-draw-lawsuits-empty-lease-costs-and-worker-complaints
-  headline: Federal agency relocations draw lawsuits, empty lease costs, and worker complaints
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.632
+  strength: 0.6911
 - slug: 2026-07-09-education-department-holds-private-call-with-disability-advocates-on-special-ed-
-  headline: Education Department holds private call with disability advocates on special ed move
+  headline: Education Department holds private call with disability advocates on special
+    ed move
   publish_date: '2026-07-09'
   relation: related
   strength: 0.652
 - slug: 2026-06-29-education-department-shifts-programs-to-other-agencies-via-interagency-agreement
-  headline: Education Department shifts programs to other agencies via interagency agreements
+  headline: Education Department shifts programs to other agencies via interagency
+    agreements
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6592
+  strength: 0.6593
 - slug: 2026-05-21-education-dept-hires-for-student-aid-after-firing-thousands
   headline: Education Dept hires for student aid after firing thousands
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6814
+  strength: 0.6817
 - slug: 2026-02-23-education-department-transfers-grant-programs-to-hhs-and-state
   headline: Education Department transfers grant programs to HHS and State
   publish_date: '2026-02-23'
   relation: related
-  strength: 0.6972
-- slug: 2026-07-05-trump-s-plan-for-qatar-donated-air-force-one-in-library-faces-hurdles
-  headline: Trump's plan for Qatar-donated Air Force One in library faces hurdles
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6202
-- slug: 2026-06-18-secret-service-funds-redirected-to-white-house-ballroom-in-352m-transfer
-  headline: Secret Service funds redirected to White House ballroom in $352M transfer
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6266
-- slug: 2025-12-30-duke-cuts-299-million-via-buyouts-and-closures-amid-federal-funding-shifts
-  headline: Duke cuts $299 million via buyouts and closures amid federal funding shifts
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6484
-- slug: 2026-05-19-trump-tours-construction-of-white-house-ballroom-after-congress-balks-at-1b
-  headline: Trump tours construction of White House ballroom after Congress balks at $1B
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6185
+  strength: 0.6973
 ---
-
 ## Education Secretary McMahon plans roughly $43,000 office furniture purchase
 
 **Subtype:** fact
