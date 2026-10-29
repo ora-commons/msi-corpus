@@ -1,9 +1,18 @@
 ---
 headline: Oil prices fall as Vance letter renews U.S.-Iran outreach
-secondary_headline: U.S. tells Gulf states to prepare for possible Iran campaign after midterms
+secondary_headline: U.S. tells Gulf states to prepare for possible Iran campaign after
+  midterms
 publish_date: '2026-10-29'
-lede: Oil prices fell Thursday as traders assessed fresh U.S. efforts to revive peace negotiations with Iran against persistent Middle East supply risks and the possibility of renewed military escalation. December Brent crude futures fell 1.1% to $114.02 a barrel, while December West Texas Intermediate futures dropped 1.4% to $101.37 a barrel.
-nut_graf: 'The pullback underscores how heavily oil markets are trading on Middle East risk: new U.S. diplomatic outreach to Iran has coincided with warnings to Gulf states to prepare for possible military action, continued Houthi missile fire toward Saudi Arabia, and a review of production policy by OPEC+ producers scheduled for Sunday.'
+lede: Oil prices fell Thursday as traders assessed fresh U.S. efforts to revive peace
+  negotiations with Iran against persistent Middle East supply risks and the possibility
+  of renewed military escalation. December Brent crude futures fell 1.1% to $114.02
+  a barrel, while December West Texas Intermediate futures dropped 1.4% to $101.37
+  a barrel.
+nut_graf: 'The pullback underscores how heavily oil markets are trading on Middle
+  East risk: new U.S. diplomatic outreach to Iran has coincided with warnings to Gulf
+  states to prepare for possible military action, continued Houthi missile fire toward
+  Saudi Arabia, and a review of production policy by OPEC+ producers scheduled for
+  Sunday.'
 primary_entities:
 - Iran
 - Saudi Arabia
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,9 +153,10 @@ related_stories:
   headline: Oil futures fall as traders weigh Tehran talks and Houthi attack risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8335
+  strength: 0.8338
 - slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
-  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8321
@@ -153,94 +164,34 @@ related_stories:
   headline: Brent falls 1.8% as Trump waives Russia sanctions
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.8015
+  strength: 0.8006
 - slug: 2026-10-09-brent-wti-fall-as-trump-appears-to-rule-out-iran-strikes-before-midterms
   headline: Brent, WTI fall as Trump appears to rule out Iran strikes before midterms
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7976
+  strength: 0.7971
 - slug: 2026-10-13-oil-prices-fall-middle-east-risks-russian-diesel
   headline: Brent slides 0.9% as Strait of Hormuz oil flows run 38% below prewar baseline
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7647
+  strength: 0.7649
 - slug: 2026-10-12-december-brent-falls-0-2-to-104-53-after-post-riyadh-rally-reverses
   headline: December Brent falls 0.2% to $104.53 after post-Riyadh rally reverses
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7662
+  strength: 0.7652
 - slug: 2026-10-06-oil-prices-fall-as-middle-east-exports-recover-shipping-attacks-resume
   headline: Oil prices fall as Middle East exports recover, shipping attacks resume
   publish_date: '2026-10-06'
   relation: related
   strength: 0.7923
 - slug: 2026-10-09-brent-wti-fall-as-trump-says-u-s-is-not-planning-iran-strikes-before-midterms
-  headline: Brent, WTI fall as Trump says U.S. is not planning Iran strikes before midterms
+  headline: Brent, WTI fall as Trump says U.S. is not planning Iran strikes before
+    midterms
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.769
-- slug: 2026-09-25-oil-prices-fall-as-us-iran-diplomacy-hopes-offset-saudi-attack-threats
-  headline: Oil prices fall as US-Iran diplomacy hopes offset Saudi attack threats
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.8244
-- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
-  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7848
-- slug: 2026-09-24-oil-prices-fall-saudi-pipeline-restart-iran-talks
-  headline: Oil prices fall as Saudi pipeline restarts and U.S.-Iran contacts continue
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.8128
-- slug: 2026-09-30-oil-futures-extend-losses-as-persian-gulf-exports-near-2025-average
-  headline: Oil futures extend losses as Persian Gulf exports near 2025 average
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7834
-- slug: 2026-09-23-oil-prices-fall-for-sixth-session-on-saudi-supply-iran-talks
-  headline: Oil prices fall for sixth session on Saudi supply, Iran talks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7908
-- slug: 2026-09-18-oil-prices-fall-on-reports-some-saudi-crude-reached-asia-through-oman
-  headline: Oil prices fall on reports some Saudi crude reached Asia through Oman
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.8045
-- slug: 2026-09-22-oil-falls-below-100-as-saudi-arabia-plans-pipeline-restart
-  headline: Oil falls below $100 as Saudi Arabia plans pipeline restart
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7592
-- slug: 2026-09-18-wti-dips-below-100-a-barrel-on-saudi-pipeline-restart-expectations
-  headline: WTI dips below $100 a barrel on Saudi pipeline restart expectations
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7601
-- slug: 2026-09-16-oil-futures-slip-ahead-of-fed-decision-as-saudi-pipeline-repairs-extend
-  headline: Oil futures slip ahead of Fed decision as Saudi pipeline repairs extend
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7592
-- slug: 2026-08-11-oil-prices-erase-gains-on-u-s--iran-progress-reports
-  headline: Oil prices erase gains on U.S.-Iran progress reports
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.765
-- slug: 2026-07-28-oil-prices-extend-losses-as-u-s--iran-lull-spurs-strait-of-hormuz-diplomacy
-  headline: Oil prices extend losses as U.S.-Iran lull spurs Strait of Hormuz diplomacy
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7858
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7614
+  strength: 0.7683
 ---
-
 ## Oil prices fall as Vance letter renews U.S.-Iran outreach
 
 **Subtype:** fact

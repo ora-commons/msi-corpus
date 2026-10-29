@@ -2,8 +2,16 @@
 headline: Sylvia retires from Joint Staff strategy post after being fired
 secondary_headline: Removal came amid Iran war stalemate as Trump considers new operations
 publish_date: '2026-10-29'
-lede: Lt. Gen. Brett Sylvia has retired from the Joint Staff after Defense Secretary Pete Hegseth removed him as director for Strategy, Plans and Policy, ABC News reported, citing two sources familiar with the situation. A Joint Staff spokesperson thanked Sylvia and his family for 32 years of distinguished service to the nation. CNN, citing a spokesman for Joint Chiefs Chairman Gen. Dan Caine, reported the firing, which ABC News said occurred earlier this week.
-nut_graf: The removal comes as the U.S. war with Iran stands at a stalemate and President Donald Trump has said he is considering a resumption of major military operations. It also extends a Pentagon overhaul in which some two dozen generals, admirals and senior civilian officials have resigned, retired early or were fired.
+lede: Lt. Gen. Brett Sylvia has retired from the Joint Staff after Defense Secretary
+  Pete Hegseth removed him as director for Strategy, Plans and Policy, ABC News reported,
+  citing two sources familiar with the situation. A Joint Staff spokesperson thanked
+  Sylvia and his family for 32 years of distinguished service to the nation. CNN,
+  citing a spokesman for Joint Chiefs Chairman Gen. Dan Caine, reported the firing,
+  which ABC News said occurred earlier this week.
+nut_graf: The removal comes as the U.S. war with Iran stands at a stalemate and President
+  Donald Trump has said he is considering a resumption of major military operations.
+  It also extends a Pentagon overhaul in which some two dozen generals, admirals and
+  senior civilian officials have resigned, retired early or were fired.
 primary_entities:
 - Pete Hegseth
 - Brett Sylvia
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,45 @@ related_stories:
   headline: Hegseth fires Brett Sylvia as Joint Chiefs strategy chief
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8857
-- slug: 2026-10-20-hegseth-held-undisclosed-meeting-with-netanyahu-in-israel
-  headline: Hegseth held undisclosed meeting with Netanyahu in Israel
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.627
+  strength: 0.885
 - slug: 2026-09-30-at-least-20-generals-admirals-departed-under-hegseth
   headline: At least 20 generals, admirals departed under Hegseth
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6917
-- slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
-  headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6468
-- slug: 2026-09-29-hegseth-to-announce-20-cut-to-general-admiral-positions
-  headline: Hegseth to announce 20% cut to general, admiral positions
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6416
+  strength: 0.6913
 - slug: 2026-09-08-army-secretary-driscoll-resigns-amid-clash-with-hegseth-over-reform-pace
   headline: Army Secretary Driscoll resigns amid clash with Hegseth over reform pace
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.7108
+  strength: 0.7102
 - slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
   headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7149
-- slug: 2026-09-22-hegseth-announces-battlefield-style-officer-promotion-assessment
-  headline: Hegseth announces battlefield-style officer promotion assessment
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.645
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6447
+  strength: 0.7139
 - slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
   headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6833
+  strength: 0.6823
 - slug: 2026-08-31-driscoll-resigns-as-army-secretary-army-left-without-senate-confirmed-leaders
-  headline: Driscoll resigns as Army Secretary, Army left without Senate-confirmed leaders
+  headline: Driscoll resigns as Army Secretary, Army left without Senate-confirmed
+    leaders
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6743
+  strength: 0.6733
 - slug: 2026-08-21-driscoll-s-expected-departure-would-leave-army-without-senate-confirmed-civilian
-  headline: Driscoll's expected departure would leave Army without Senate-confirmed civilian leader
+  headline: Driscoll's expected departure would leave Army without Senate-confirmed
+    civilian leader
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6708
-- slug: 2026-09-02-us-airstrikes-resume-on-iran-tehran-launches-counterstrikes
-  headline: US airstrikes resume on Iran; Tehran launches counterstrikes
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6332
-- slug: 2026-09-03-trump-names-adam-telle-as-acting-army-secretary
-  headline: Trump names Adam Telle as acting Army secretary
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6249
-- slug: 2026-08-28-hegseth-may-reconvene-top-military-leaders-at-quantico-this-year
-  headline: Hegseth may reconvene top military leaders at Quantico this year
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6363
+  strength: 0.6698
 - slug: 2026-07-03-senior-officials-blocked-hegseth-plan-for-deeper-troop-cuts-in-europe
   headline: Senior officials blocked Hegseth plan for deeper troop cuts in Europe
   publish_date: '2026-07-03'
   relation: related
-  strength: 0.6719
-- slug: 2026-06-24-hegseth-cuts-army-commander-s-european-assignment-short-amid-broader-shake-up
-  headline: Hegseth cuts Army commander's European assignment short amid broader shake-up
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6566
-- slug: 2026-07-03-retired-gen-cq-brown-cautions-against-troops-in-u-s-cities-for-political-mission
-  headline: Retired Gen. CQ Brown cautions against troops in U.S. cities for political missions
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6462
-- slug: 2026-04-03-hegseth-ousts-army-chief-names-acting-successor-amid-iran-war
-  headline: Hegseth ousts Army chief, names acting successor amid Iran war
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.692
-- slug: 2026-06-24-last-us-soldier-out-of-afghanistan-steps-down-as-army-commander-in-europe
-  headline: Last US soldier out of Afghanistan steps down as Army commander in Europe
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.638
+  strength: 0.6713
 ---
-
 ## Sylvia retires from Joint Staff strategy post after being fired
 
 **Subtype:** fact
