@@ -195,6 +195,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-28-annual-u-n-embargo-ballot-loses-35-favorable-votes-as-the-middle-hedges'
 ---
 ## United Nations General Assembly approves Cuba resolution on U.S. embargo
 
@@ -235,3 +237,8 @@ The vote came amid a deepening economic and energy crisis in Cuba, marked by pro
 **Publication date:** 2026-10-28
 **Title:** Cuba loses some previous  support in U.N. vote on U.S. embargo
 **URL:** https://www.upi.com/Top_News/World-News/2026/10/28/latam-cuba-united-nations-vote-us-embargo/1411793211989/
+
+---
+
+<!-- analysis-link:2026-10-28-annual-u-n-embargo-ballot-loses-35-favorable-votes-as-the-middle-hedges -->
+**Going deeper:** [Read MSI's analysis of the 2027 round's consolidating middle →](/analyses/2026-10-28-annual-u-n-embargo-ballot-loses-35-favorable-votes-as-the-middle-hedges)
