@@ -2,8 +2,18 @@
 headline: Villa Vie ends Odyssey cruise in Cambodia as fuel costs rise
 secondary_headline: Passengers leave ship during 60-day restructuring and recapitalization
 publish_date: '2026-10-28'
-lede: Villa Vie Residences announced the early end of its 42-month Villa Vie Odyssey residential cruise in Cambodia because fuel costs had become unsustainable. About 200 passengers were disembarking in Sihanoukville after receiving less than 24 hours' notice, according to resident Holly Hennessey. The company said it was working on restructuring and recapitalization over the next 60 days, stressed that the effort was ongoing and said "no outcome is assured."
-nut_graf: The abrupt termination puts a business built around multiyear cabin leases and permanent-home offerings under acute financial strain while affecting residents, crew members and employees. Villa Vie said it was coordinating disembarkation and identifying temporary living arrangements while pursuing restructuring and recapitalization over the next 60 days. The effort was ongoing, and the company said "no outcome is assured."
+lede: Villa Vie Residences announced the early end of its 42-month Villa Vie Odyssey
+  residential cruise in Cambodia because fuel costs had become unsustainable. About
+  200 passengers were disembarking in Sihanoukville after receiving less than 24 hours'
+  notice, according to resident Holly Hennessey. The company said it was working on
+  restructuring and recapitalization over the next 60 days, stressed that the effort
+  was ongoing and said "no outcome is assured."
+nut_graf: The abrupt termination puts a business built around multiyear cabin leases
+  and permanent-home offerings under acute financial strain while affecting residents,
+  crew members and employees. Villa Vie said it was coordinating disembarkation and
+  identifying temporary living arrangements while pursuing restructuring and recapitalization
+  over the next 60 days. The effort was ongoing, and the company said "no outcome
+  is assured."
 primary_entities:
 - Villa Vie Residences
 - Villa Vie Odyssey
@@ -32,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -129,109 +140,8 @@ cross_article_links:
   strength: 0.5629
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-02-uss-abraham-lincoln-crew-arrives-in-thailand-for-first-shore-leave-in-270-days
-  headline: USS Abraham Lincoln crew arrives in Thailand for first shore leave in 270 days
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5712
-- slug: 2026-08-25-democrats-press-pentagon-on-uss-lincoln-conditions-as-carrier-heads-to-thailand
-  headline: Democrats press Pentagon on USS Lincoln conditions as carrier heads to Thailand
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5647
-- slug: 2026-07-14-vail-ceo-pivots-to-guest-experience-focus-as-epic-pass-growth-stalls
-  headline: Vail CEO pivots to guest-experience focus as Epic pass growth stalls
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5838
-- slug: 2026-05-03-from-rock-bottom-fares-to-final-flight-spirit-airlines-ends-34-year-run
-  headline: 'From rock-bottom fares to final flight: Spirit Airlines ends 34-year run'
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5945
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5861
-- slug: 2026-06-16-rivian-r2-lease-prices-top-800-disappointing-reservation-holders
-  headline: Rivian R2 lease prices top $800, disappointing reservation holders
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5555
-- slug: 2026-05-14-french-woman-critical-as-cruise-ship-hantavirus-cases-reach-11-three-dead
-  headline: French Woman Critical as Cruise-Ship Hantavirus Cases Reach 11, Three Dead
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5679
-- slug: 2026-05-14-ship-passenger-makes-best-of-quarantine-after-hantavirus-outbreak
-  headline: Ship passenger makes best of quarantine after hantavirus outbreak
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5668
-- slug: 2026-05-14-operator-expects-to-say-by-week-s-end-when-hantavirus-hit-ship-will-sail-again
-  headline: Operator expects to say by week's end when hantavirus-hit ship will sail again
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.566
-- slug: 2026-05-14-british-cruise-ship-confined-in-bordeaux-after-gastrointestinal-illness-sickens-
-  headline: British cruise ship confined in Bordeaux after gastrointestinal illness sickens 50
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5626
-- slug: 2026-05-15-passengers-allowed-off-british-ambition-cruise-ship-in-bordeaux-after-norovirus
-  headline: Passengers allowed off British Ambition cruise ship in Bordeaux after norovirus
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5595
-- slug: 2026-05-10-last-hondius-cruise-passengers-leave-for-quarantine-after-hantavirus-cases
-  headline: Last Hondius cruise passengers leave for quarantine after hantavirus cases
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5591
-- slug: 2026-05-16-cruise-demand-holds-steady-despite-hantavirus-and-norovirus-outbreaks
-  headline: Cruise demand holds steady despite hantavirus and norovirus outbreaks
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5558
-- slug: 2026-05-06-inside-the-cruise-ship-with-deadly-hantavirus-outbreak-off-cape-verde
-  headline: Inside the cruise ship with deadly hantavirus outbreak off Cape Verde
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5574
-- slug: 2026-05-10-last-hondius-passengers-fly-home-after-hantavirus-outbreak-kills-3
-  headline: Last Hondius passengers fly home after hantavirus outbreak kills 3
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5545
-- slug: 2026-04-07-cruise-ship-runs-aground-in-fiji-30-passengers-evacuate-safely
-  headline: Cruise ship runs aground in Fiji; 30 passengers evacuate safely
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5648
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5608
-- slug: 2026-02-08-cubans-face-deeper-energy-crisis-after-us-moves-to-block-oil-supply
-  headline: Cubans face deeper energy crisis after US moves to block oil supply
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5705
-- slug: 2026-05-05-3-cruise-ship-passengers-die-in-suspected-hantavirus-outbreak-off-cape-verde
-  headline: 3 cruise ship passengers die in suspected hantavirus outbreak off Cape Verde
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5529
-- slug: 2026-04-14-cuba-fuel-rationing-drives-commuters-to-havana-s-underwater-ciclob-s
-  headline: Cuba fuel rationing drives commuters to Havana’s underwater Ciclobús
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5575
+related_stories: []
 ---
-
 ## Villa Vie ends Odyssey cruise in Cambodia as fuel costs rise
 
 **Subtype:** fact

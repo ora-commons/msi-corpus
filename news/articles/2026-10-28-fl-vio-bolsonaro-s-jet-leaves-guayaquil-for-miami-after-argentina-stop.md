@@ -1,9 +1,21 @@
 ---
 headline: Flávio Bolsonaro’s jet leaves Guayaquil for Miami after Argentina stop
-secondary_headline: Brazilian federal police face criticism over failure to prevent Flávio Bolsonaro's departure
+secondary_headline: Brazilian federal police face criticism over failure to prevent
+  Flávio Bolsonaro's departure
 publish_date: '2026-10-28'
-lede: Flávio Bolsonaro entered Argentina by land late Tuesday after disappearing for more than 24 hours following his loss to incumbent President Luiz Inácio Lula da Silva, Argentina’s migration authorities said. His wife and two daughters later boarded a jet with him in Puerto Iguazú; the family flew to Guayaquil, reportedly to avoid Brazilian airspace, made a brief stop in Ecuador and continued to Miami-Opa Locka executive airport, with an arrival in Miami expected around mid-morning Wednesday. U.S. President Donald Trump said he would approve the move, and a senior State Department official said visas would be granted to the family.
-nut_graf: The departure placed the Brazilian request to retain Flávio Bolsonaro's passport and the federal police response under scrutiny. Trump said he would approve the family's move, and a State Department official said visas would be granted. Reporting also described political planning around the journey and an unexplained gap in Bolsonaro's movements before he entered Argentina.
+lede: Flávio Bolsonaro entered Argentina by land late Tuesday after disappearing for
+  more than 24 hours following his loss to incumbent President Luiz Inácio Lula da
+  Silva, Argentina’s migration authorities said. His wife and two daughters later
+  boarded a jet with him in Puerto Iguazú; the family flew to Guayaquil, reportedly
+  to avoid Brazilian airspace, made a brief stop in Ecuador and continued to Miami-Opa
+  Locka executive airport, with an arrival in Miami expected around mid-morning Wednesday.
+  U.S. President Donald Trump said he would approve the move, and a senior State Department
+  official said visas would be granted to the family.
+nut_graf: The departure placed the Brazilian request to retain Flávio Bolsonaro's
+  passport and the federal police response under scrutiny. Trump said he would approve
+  the family's move, and a State Department official said visas would be granted.
+  Reporting also described political planning around the journey and an unexplained
+  gap in Bolsonaro's movements before he entered Argentina.
 primary_entities:
 - Flávio Bolsonaro
 - Luiz Inácio Lula da Silva
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,107 +161,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-27-brazilian-official-says-fl-vio-s-two-passports-canceled-after-defying-de-moraes-
-  headline: Brazilian official says Flávio’s two passports canceled after defying de Moraes’s order
+  headline: Brazilian official says Flávio’s two passports canceled after defying
+    de Moraes’s order
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7938
+  strength: 0.7937
 - slug: 2026-10-28-unnamed-sources-report-fl-vio-bolsonaro-s-us-arrival-after-passport-cancellation
   headline: Unnamed sources report Flávio Bolsonaro's US arrival after passport cancellation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7866
+  strength: 0.786
 - slug: 2026-10-26-justice-de-moraes-bars-fl-vio-bolsonaro-from-leaving-brazil-after-runoff-loss
-  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff loss
+  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff
+    loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7359
+  strength: 0.7365
 - slug: 2026-10-27-fl-vio-bolsonaro-s-liberal-party-recognizes-lula-s-win-fl-vio-does-not-concede
-  headline: Flávio Bolsonaro's Liberal Party recognizes Lula's win; Flávio does not concede
+  headline: Flávio Bolsonaro's Liberal Party recognizes Lula's win; Flávio does not
+    concede
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6877
+  strength: 0.6875
 - slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
+  headline: Official results show Lula wins Brazil runoff with more than 51% of the
+    vote
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.656
-- slug: 2026-10-24-lula-trails-fl-vio-bolsonaro-as-brazil-runoff-hinges-on-abstaining-voters
-  headline: Lula trails Flávio Bolsonaro as Brazil runoff hinges on abstaining voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6461
+  strength: 0.6562
 - slug: 2026-10-12-brazil-s-top-court-clears-fl-vio-bolsonaro-to-visit-house-arrested-father
   headline: Brazil's top court clears Flávio Bolsonaro to visit house-arrested father
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6786
+  strength: 0.6782
 - slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
   headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6897
+  strength: 0.6875
 - slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
+  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct.
+    25
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6979
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6805
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6683
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6732
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6527
-- slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
-  headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6755
-- slug: 2026-10-05-three-bolsonaro-family-members-win-congressional-seats-as-bolsonarista-candidate
-  headline: Three Bolsonaro family members win congressional seats as Bolsonarista candidates expand Brazil's legislature
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6585
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6549
-- slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
-  headline: Flávio Bolsonaro formally investigated over alleged corruption
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6461
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6965
-- slug: 2026-08-08-brazil-s-supreme-court-denies-bolsonaro-father-s-day-visit-with-sons
-  headline: Brazil's Supreme Court denies Bolsonaro Father's Day visit with sons
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6579
-- slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6711
+  strength: 0.6987
 ---
-
 ## Flávio Bolsonaro’s jet leaves Guayaquil for Miami after Argentina stop
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
-headline: Trump stages Corpus Christi rally with tanker he said carried a million barrels
-secondary_headline: The Guardian reported voter discontent over oil-price spike since Trump attacked Iran
+headline: Trump stages Corpus Christi rally with tanker he said carried a million
+  barrels
+secondary_headline: The Guardian reported voter discontent over oil-price spike since
+  Trump attacked Iran
 publish_date: '2026-10-28'
-lede: 'Donald Trump staged a rally in Corpus Christi, Texas, on Tuesday beside the vast oil tanker Angerona. Trump said the vessel had just arrived from Venezuela carrying what he described as a personal gift for him: a million barrels of oil. The Guardian reported widespread voter discontent over a spike in oil prices since Trump attacked Iran.'
-nut_graf: The Corpus Christi rally put the oil-price spike and Trump's tanker claim at the center of the political developments. Separate updates involved a senior State Department official's statement that the US would issue visas to Flávio Bolsonaro and his family and allow their entry, and Trump's criticism of Democratic Senate nominee James Talarico. A federal judge's ruling that Bill Essayli was not lawfully serving as Los Angeles U.S. attorney is background to those events.
+lede: 'Donald Trump staged a rally in Corpus Christi, Texas, on Tuesday beside the
+  vast oil tanker Angerona. Trump said the vessel had just arrived from Venezuela
+  carrying what he described as a personal gift for him: a million barrels of oil.
+  The Guardian reported widespread voter discontent over a spike in oil prices since
+  Trump attacked Iran.'
+nut_graf: The Corpus Christi rally put the oil-price spike and Trump's tanker claim
+  at the center of the political developments. Separate updates involved a senior
+  State Department official's statement that the US would issue visas to Flávio Bolsonaro
+  and his family and allow their entry, and Trump's criticism of Democratic Senate
+  nominee James Talarico. A federal judge's ruling that Bill Essayli was not lawfully
+  serving as Los Angeles U.S. attorney is background to those events.
 primary_entities:
 - Donald Trump
 - Angerona
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +154,45 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-28-trump-stages-corpus-christi-rally-with-tanker-he-said-carried-a-million-barrels.png
-  alt: 'Illustration accompanying article: Trump stages Corpus Christi rally with tanker he said carried a million barrels'
+  alt: 'Illustration accompanying article: Trump stages Corpus Christi rally with
+    tanker he said carried a million barrels'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-27-venezuelan-crude-reaches-texas-as-trump-and-rubio-plan-port-arthur-visit
   headline: Venezuelan crude reaches Texas as Trump and Rubio plan Port Arthur visit
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6924
+  strength: 0.6929
 - slug: 2026-10-28-trump-and-talarico-hold-rallies-three-miles-apart-in-close-texas-senate-race
-  headline: Trump and Talarico hold rallies three miles apart in close Texas Senate race
+  headline: Trump and Talarico hold rallies three miles apart in close Texas Senate
+    race
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6847
+  strength: 0.6849
 - slug: 2026-10-27-trump-makes-third-texas-trip-of-the-month-for-paxton-s-senate-bid
   headline: Trump makes third Texas trip of the month for Paxton's Senate bid
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.691
-- slug: 2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal
-  headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6195
-- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
-  headline: Trump holds seven rallies across seven states during midterm push
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6134
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6377
-- slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
-  headline: Trump to rally in Arizona and Montana after Alaska stop
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6377
+  strength: 0.6911
 - slug: 2026-10-08-protests-disrupt-trump-s-san-antonio-rally-for-ken-paxton
   headline: Protests disrupt Trump's San Antonio rally for Ken Paxton
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6684
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.61
-- slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
-  headline: Trump stumps for Whatley in North Carolina Senate race
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6181
-- slug: 2026-08-22-trump-calls-strait-of-hormuz-american-territory-at-south-carolina-rally
-  headline: Trump calls Strait of Hormuz 'American territory' at South Carolina rally
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6133
+  strength: 0.6681
 - slug: 2026-02-26-trump-won-t-name-texas-senate-primary-pick-yet-as-rivals-court-him
   headline: Trump won’t name Texas Senate primary pick yet as rivals court him
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6621
-- slug: 2026-03-31-trump-says-he-has-no-problem-with-russian-tanker-aiding-cuba
-  headline: Trump says he has ‘no problem’ with Russian tanker aiding Cuba
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6453
-- slug: 2026-05-19-trump-tours-white-house-ballroom-construction-after-congress-balks-at-1b-price-t
-  headline: Trump tours White House ballroom construction after Congress balks at $1B price tag
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6137
-- slug: 2026-02-13-trump-tells-fort-bragg-maduro-raid-showed-u-s-is-feared-by-enemies
-  headline: Trump tells Fort Bragg Maduro raid showed U.S. is “feared” by enemies
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6304
-- slug: 2026-02-27-trump-won-t-name-his-texas-senate-primary-pick-yet-backs-all-three
-  headline: Trump won’t name his Texas Senate primary pick yet, backs all three
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6272
-- slug: 2026-01-12-trump-says-he-is-inclined-to-keep-exxonmobil-out-of-venezuela-after-ceo-balks
-  headline: Trump says he is inclined to keep ExxonMobil out of Venezuela after CEO balks
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6311
-- slug: 2026-03-12-trump-slams-fellow-republican-massie-during-kentucky-rally
-  headline: Trump slams fellow Republican Massie during Kentucky rally
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6239
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  headline: Trump vows to 'run' Venezuela after U.S. military operation ousts Maduro
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6287
-- slug: 2026-01-08-trump-calls-on-oil-executives-to-invest-in-venezuela-after-maduro-ouster
-  headline: Trump calls on oil executives to invest in Venezuela after Maduro ouster
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6225
+  strength: 0.6615
 ---
-
 ## Trump stages Corpus Christi rally with tanker he said carried a million barrels
 
 **Subtype:** fact
