@@ -208,6 +208,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-28-the-fed-pause-the-election-inference-and-the-arithmetic-the-coverage-omits'
 ---
 ## Federal Reserve leaves benchmark rate unchanged as inflation accelerates
 
@@ -251,3 +253,8 @@ The Fed's pause came against an uneven economic backdrop: inflation was accelera
 **Publication date:** 2026-10-28
 **Title:** Fed holds interest rates steady even as inflation remains stubborn
 **URL:** https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation
+
+---
+
+<!-- analysis-link:2026-10-28-the-fed-pause-the-election-inference-and-the-arithmetic-the-coverage-omits -->
+**Going deeper:** [Read MSI's analysis of Federal Reserve pause — election-timing inference, real-rate arithmetic, demand-side mechanism →](/analyses/2026-10-28-the-fed-pause-the-election-inference-and-the-arithmetic-the-coverage-omits)
