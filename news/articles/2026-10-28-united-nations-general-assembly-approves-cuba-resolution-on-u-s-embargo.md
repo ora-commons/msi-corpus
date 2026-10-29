@@ -2,8 +2,16 @@
 headline: United Nations General Assembly approves Cuba resolution on U.S. embargo
 secondary_headline: Support fell by 35 votes as governments changed positions
 publish_date: '2026-10-28'
-lede: The United Nations General Assembly approved a Cuban-sponsored resolution for the 34th time on Wednesday, calling for an end to the U.S. economic, commercial and financial embargo on Cuba. The measure passed with 130 votes in favor, 17 against and 25 abstentions, while 21 countries did not participate. Support fell 35 votes from 165 in 2025, when seven countries voted against and 12 abstained.
-nut_graf: The measure still commanded a General Assembly majority, but Cuba's international backing fell sharply, with 130 favorable votes compared with 165 in 2025. Because the resolution is nonbinding, it did not require Washington to change its sanctions policy. The result came as Cuba faced prolonged power outages, fuel shortages and difficulties maintaining essential services.
+lede: The United Nations General Assembly approved a Cuban-sponsored resolution for
+  the 34th time on Wednesday, calling for an end to the U.S. economic, commercial
+  and financial embargo on Cuba. The measure passed with 130 votes in favor, 17 against
+  and 25 abstentions, while 21 countries did not participate. Support fell 35 votes
+  from 165 in 2025, when seven countries voted against and 12 abstained.
+nut_graf: The measure still commanded a General Assembly majority, but Cuba's international
+  backing fell sharply, with 130 favorable votes compared with 165 in 2025. Because
+  the resolution is nonbinding, it did not require Washington to change its sanctions
+  policy. The result came as Cuba faced prolonged power outages, fuel shortages and
+  difficulties maintaining essential services.
 primary_entities:
 - United Nations General Assembly
 - Cuba
@@ -32,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,116 +140,62 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-27-waltz-and-rodr-guez-trade-accusations-over-u-s-embargo-against-cuba-at-u-n
-  headline: Waltz and Rodríguez trade accusations over U.S. embargo against Cuba at U.N.
+  headline: Waltz and Rodríguez trade accusations over U.S. embargo against Cuba at
+    U.N.
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7383
+  strength: 0.7381
 - slug: 2026-09-28-u-s-becomes-cuba-s-top-2026-supplier-with-record-674m-in-shipments
   headline: U.S. becomes Cuba's top 2026 supplier with record $674M in shipments
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6633
+  strength: 0.6644
 - slug: 2026-09-08-cuba-reports-record-8-08-billion-in-annual-u-s-embargo-losses
   headline: Cuba reports record $8.08 billion in annual U.S. embargo losses
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6664
+  strength: 0.6651
 - slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
   headline: Washington targets Cuba’s military network with new restrictions
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.68
+  strength: 0.6822
 - slug: 2026-07-31-d-az-canel-tells-national-assembly-cuba-received-one-fuel-tanker-in-seven-months
-  headline: Díaz-Canel tells National Assembly Cuba received one fuel tanker in seven months
+  headline: Díaz-Canel tells National Assembly Cuba received one fuel tanker in seven
+    months
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.6775
-- slug: 2026-05-20-un-general-assembly-backs-icj-climate-ruling-despite-us-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite US opposition
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7095
+  strength: 0.6798
 - slug: 2026-06-19-cuba-s-parliament-approves-sweeping-economic-reforms-amid-crisis
   headline: Cuba's parliament approves sweeping economic reforms amid crisis
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6886
-- slug: 2026-05-23-un-general-assembly-backs-advisory-opinion-on-climate-duties-after-us-opposition
-  headline: UN General Assembly backs advisory opinion on climate duties after US opposition
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7052
-- slug: 2026-05-22-un-general-assembly-backs-icj-climate-ruling-after-u-s-opposes-measure
-  headline: UN General Assembly backs ICJ climate ruling after U.S. opposes measure
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7038
-- slug: 2026-06-12-cuba-unveils-economic-reforms-hours-after-us-freezes-state-oil-company-assets
-  headline: Cuba unveils economic reforms hours after US freezes state oil company assets
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6887
-- slug: 2026-05-21-un-general-assembly-backs-icj-climate-ruling-despite-u-s-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite U.S. opposition
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7002
-- slug: 2026-05-08-us-says-it-is-not-planning-imminent-military-action-against-cuba
-  headline: US says it is not planning imminent military action against Cuba
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7013
-- slug: 2026-06-24-us-sanctions-five-cuban-state-firms-castro-family-member
-  headline: US sanctions five Cuban state firms, Castro family member
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6571
-- slug: 2026-05-20-un-general-assembly-backs-international-court-climate-ruling-141-8
-  headline: UN General Assembly backs international court climate ruling, 141-8
+  strength: 0.6907
+- slug: 2026-05-20-un-general-assembly-backs-icj-climate-ruling-despite-us-opposition
+  headline: UN General Assembly backs ICJ climate ruling despite US opposition
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.6784
-- slug: 2026-06-04-u-s-sanctions-cuban-president-miguel-d-az-canel-military-castro-kin
-  headline: U.S. sanctions Cuban President Miguel Díaz-Canel, military, Castro kin
-  publish_date: '2026-06-04'
+  strength: 0.7093
+- slug: 2026-05-23-un-general-assembly-backs-advisory-opinion-on-climate-duties-after-us-opposition
+  headline: UN General Assembly backs advisory opinion on climate duties after US
+    opposition
+  publish_date: '2026-05-23'
   relation: related
-  strength: 0.6646
-- slug: 2026-05-10-rubio-defends-new-u-s-sanctions-targeting-cuba-s-military-run-conglomerate-gaesa
-  headline: Rubio defends new U.S. sanctions targeting Cuba’s military-run conglomerate GAESA
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.674
-- slug: 2026-04-20-cuba-confirms-us-talks-demands-embargo-lifted
-  headline: Cuba confirms US talks, demands embargo lifted
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6767
-- slug: 2026-04-29-senate-rejects-bid-to-require-trump-approval-to-escalate-in-cuba
-  headline: Senate rejects bid to require Trump approval to escalate in Cuba
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6714
-- slug: 2026-05-10-rubio-defends-new-us-sanctions-aimed-at-cuba-s-gaesa
-  headline: Rubio defends new US sanctions aimed at Cuba’s GAESA
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6545
-- slug: 2026-01-12-cuba-s-d-az-canel-denies-us-talks-after-trump-issues-deal-or-else-threat
-  headline: Cuba's Díaz-Canel denies US talks after Trump issues deal-or-else threat
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.675
+  strength: 0.7059
 image:
   url: /articles/2026-10-28-united-nations-general-assembly-approves-cuba-resolution-on-u-s-embargo.png
-  alt: "Illustration accompanying article: United Nations General Assembly approves Cuba resolution on U.S. embargo"
+  alt: 'Illustration accompanying article: United Nations General Assembly approves
+    Cuba resolution on U.S. embargo'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## United Nations General Assembly approves Cuba resolution on U.S. embargo
 
 **Subtype:** fact
