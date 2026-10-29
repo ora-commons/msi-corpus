@@ -1,9 +1,19 @@
 ---
 headline: Support among young men who voted for Trump has eroded since the 2024 election
-secondary_headline: Analysts heavily favor House Democrats; retaking the Senate remains possible
+secondary_headline: Analysts heavily favor House Democrats; retaking the Senate remains
+  possible
 publish_date: '2026-10-28'
-lede: Two years after the 2024 election, support among young men who voted for President Trump has eroded, according to The Wall Street Journal. The paper invited back men under 30 who had graded Trump's first six months in office, asking them for their perspectives before the 2026 midterm elections. The report said Republicans headed into the November contests facing low approval for Trump among young men and other parts of his 2024 coalition, while analysts heavily favored Democrats in the House and gave them a chance to retake the Senate.
-nut_graf: The follow-up focuses on a specific part of Trump's 2024 coalition as Republicans head into the November elections facing low approval for Trump among young men and other parts of that coalition. According to analysts, Democrats are heavily favored to win the House and have a chance to retake the Senate.
+lede: Two years after the 2024 election, support among young men who voted for President
+  Trump has eroded, according to The Wall Street Journal. The paper invited back men
+  under 30 who had graded Trump's first six months in office, asking them for their
+  perspectives before the 2026 midterm elections. The report said Republicans headed
+  into the November contests facing low approval for Trump among young men and other
+  parts of his 2024 coalition, while analysts heavily favored Democrats in the House
+  and gave them a chance to retake the Senate.
+nut_graf: The follow-up focuses on a specific part of Trump's 2024 coalition as Republicans
+  head into the November elections facing low approval for Trump among young men and
+  other parts of that coalition. According to analysts, Democrats are heavily favored
+  to win the House and have a chance to retake the Senate.
 primary_entities:
 - Trump
 - The Wall Street Journal
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,43 @@ related_stories:
   headline: New York Times/Siena survey records 36% approval for Trump
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7355
+  strength: 0.7346
 - slug: 2026-10-16-navigator-focus-group-finds-some-gen-z-trump-voters-regret-2024-vote
   headline: Navigator focus group finds some Gen Z Trump voters regret 2024 vote
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7622
+  strength: 0.7593
 - slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
   headline: Young voters under 30 become key 2026 midterm target for both parties
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7792
+  strength: 0.7781
 - slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
   headline: Democrats lead House polling as Trump approval stays below 50%
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6825
+  strength: 0.683
 - slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6901
+  strength: 0.6895
 - slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6976
+  strength: 0.6962
 - slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
   headline: Working-class white voters cool on Republicans, WSJ poll finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7081
+  strength: 0.7057
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7025
-- slug: 2026-10-15-georgia-swing-voters-regret-2024-trump-vote-eye-democratic-midterms
-  headline: Georgia swing voters regret 2024 Trump vote, eye Democratic midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6799
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7183
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7599
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7117
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7223
-- slug: 2026-09-29-trump-approval-hits-record-lows-as-2024-backers-break-with-president
-  headline: Trump approval hits record lows as 2024 backers break with president
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7348
-- slug: 2026-10-02-democratic-voters-describe-their-party-as-weak-despondent
-  headline: Democratic voters describe their party as weak, despondent
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7039
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6956
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7298
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6866
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6988
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7364
+  strength: 0.7005
 ---
-
 ## Support among young men who voted for Trump has eroded since the 2024 election
 
 **Subtype:** fact
