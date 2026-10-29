@@ -2,8 +2,17 @@
 headline: Samsung reports record quarterly profit on AI memory demand
 secondary_headline: Quarterly revenue reached 195.3 trillion won
 publish_date: '2026-10-29'
-lede: South Korean technology company Samsung Electronics reported record quarterly operating profit of 107.4 trillion won ($80.5 billion) on Thursday and attributed the result to surging demand for computer memory chips used in artificial intelligence systems. Revenue for July through September reached an all-time high of 195.3 trillion won ($146 billion), marking Samsung's fourth straight quarter of record profit and revenue. Samsung said it expects AI-related chip demand to accelerate through 2027 and outpace supply.
-nut_graf: Samsung's record results came amid AI-driven demand for memory chips, while Samsung and SK Hynix have announced major investments in new chipmaking capacity. South Korea's central bank has warned that the country's reliance on chips could deepen the effects of an AI-related downturn.
+lede: South Korean technology company Samsung Electronics reported record quarterly
+  operating profit of 107.4 trillion won ($80.5 billion) on Thursday and attributed
+  the result to surging demand for computer memory chips used in artificial intelligence
+  systems. Revenue for July through September reached an all-time high of 195.3 trillion
+  won ($146 billion), marking Samsung's fourth straight quarter of record profit and
+  revenue. Samsung said it expects AI-related chip demand to accelerate through 2027
+  and outpace supply.
+nut_graf: Samsung's record results came amid AI-driven demand for memory chips, while
+  Samsung and SK Hynix have announced major investments in new chipmaking capacity.
+  South Korea's central bank has warned that the country's reliance on chips could
+  deepen the effects of an AI-related downturn.
 primary_entities:
 - Samsung Electronics
 - SK Hynix
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,11 +157,6 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.7858
-- slug: 2026-08-12-kospi-jumps-3-68-on-chip-rally-third-straight-session-of-gains
-  headline: KOSPI jumps 3.68% on chip rally, third straight session of gains
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6739
 - slug: 2026-06-01-south-korea-s-may-exports-surge-53-2-to-record-highs-on-ai-chip-demand
   headline: South Korea's May exports surge 53.2% to record highs on AI chip demand
   publish_date: '2026-06-01'
@@ -168,7 +173,8 @@ related_stories:
   relation: related
   strength: 0.6845
 - slug: 2026-07-05-sk-hynix-to-begin-u-s-stock-trading-as-chipmakers-weigh-competing-investment-dem
-  headline: SK Hynix to begin U.S. stock trading as chipmakers weigh competing investment demands
+  headline: SK Hynix to begin U.S. stock trading as chipmakers weigh competing investment
+    demands
   publish_date: '2026-07-05'
   relation: related
   strength: 0.7111
@@ -182,63 +188,7 @@ related_stories:
   publish_date: '2026-07-27'
   relation: related
   strength: 0.6785
-- slug: 2026-07-07-kospi-falls-nearly-5-on-tech-weakness-after-samsung-earnings-beat
-  headline: KOSPI falls nearly 5% on tech weakness after Samsung earnings beat
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7008
-- slug: 2026-06-29-south-korea-announces-518-billion-semiconductor-cluster-in-southwest
-  headline: South Korea announces $518 billion semiconductor cluster in southwest
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7052
-- slug: 2026-06-25-kospi-surges-over-5-reclaims-9-000-intraday-on-micron-earnings
-  headline: KOSPI surges over 5%, reclaims 9,000 intraday on Micron earnings
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.707
-- slug: 2026-07-02-kospi-falls-7-89-as-ai-capacity-concerns-hit-chip-stocks
-  headline: KOSPI falls 7.89% as AI capacity concerns hit chip stocks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6977
-- slug: 2026-07-10-micron-s-250-billion-plan-sets-stage-for-korean-chip-production-calls
-  headline: Micron's $250 billion plan sets stage for Korean chip production calls
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6802
-- slug: 2026-06-18-seoul-s-kospi-tops-9-000-for-first-time-on-chip-rally-iran-war-hopes
-  headline: Seoul's KOSPI tops 9,000 for first time on chip rally, Iran war hopes
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6979
-- slug: 2026-06-24-sk-hynix-seeks-29-65-billion-u-s-listing-to-fund-ai-expansion
-  headline: SK Hynix Seeks $29.65 Billion U.S. Listing to Fund AI Expansion
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6847
-- slug: 2026-05-20-samsung-union-puts-off-strike-after-last-minute-wage-deal-with-management
-  headline: Samsung union puts off strike after last-minute wage deal with management
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7063
-- slug: 2026-05-19-samsung-union-puts-off-strike-after-reaching-tentative-wage-deal
-  headline: Samsung union puts off strike after reaching tentative wage deal
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7068
-- slug: 2026-06-24-micron-s-blockbuster-earnings-quiet-ai-doubters-shares-soar-14
-  headline: Micron's blockbuster earnings quiet AI doubters; shares soar 14%
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6777
-- slug: 2026-05-19-samsung-union-delays-strike-after-last-minute-wage-deal
-  headline: Samsung union delays strike after last-minute wage deal
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.699
 ---
-
 ## Samsung reports record quarterly profit on AI memory demand
 
 **Subtype:** fact
