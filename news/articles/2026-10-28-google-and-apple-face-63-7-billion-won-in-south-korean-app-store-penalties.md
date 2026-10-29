@@ -2,8 +2,19 @@
 headline: Google and Apple face 63.7 billion won in South Korean app-store penalties
 secondary_headline: External payment links and review changes ordered for both companies
 publish_date: '2026-10-28'
-lede: SEOUL, South Korea — The Korea Media and Communications Commission, South Korea’s media and telecommunications regulator, fined Alphabet’s Google and Apple a combined 63.7 billion won ($47.6 million) on Wednesday over app-store payment and review practices. The commission said the companies "abused their dominance in app store markets by forcing local developers onto their own payment systems and by unfairly delaying app reviews." It ordered both companies to let South Korean developers use external payment links within their apps and improve their app-review procedures.
-nut_graf: The orders followed years of investigation into whether Google and Apple violated South Korea’s 2021 law prohibiting app-store operators from forcing developers to use specified payment systems. The commission also found instances of unexplained app-review delays and accused Apple of charging South Korean developers higher commissions than developers elsewhere from 2015 to January 2023. Google and Apple did not immediately respond to requests for comment.
+lede: SEOUL, South Korea — The Korea Media and Communications Commission, South Korea’s
+  media and telecommunications regulator, fined Alphabet’s Google and Apple a combined
+  63.7 billion won ($47.6 million) on Wednesday over app-store payment and review
+  practices. The commission said the companies "abused their dominance in app store
+  markets by forcing local developers onto their own payment systems and by unfairly
+  delaying app reviews." It ordered both companies to let South Korean developers
+  use external payment links within their apps and improve their app-review procedures.
+nut_graf: The orders followed years of investigation into whether Google and Apple
+  violated South Korea’s 2021 law prohibiting app-store operators from forcing developers
+  to use specified payment systems. The commission also found instances of unexplained
+  app-review delays and accused Apple of charging South Korean developers higher commissions
+  than developers elsewhere from 2015 to January 2023. Google and Apple did not immediately
+  respond to requests for comment.
 primary_entities:
 - South Korea
 - Alphabet
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +148,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-28-jury-orders-apple-to-pay-5-7bn-in-taction-haptics-patent-verdict
-  headline: Jury orders Apple to pay $5.7bn in Taction haptics patent verdict
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6305
-- slug: 2026-09-26-alabama-lawsuit-alleged-tiktok-deceived-app-stores-to-obtain-teen-safe-ratings
-  headline: Alabama lawsuit alleged TikTok deceived app stores to obtain teen-safe ratings
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6015
-- slug: 2026-09-16-snap-ceo-says-company-would-be-willing-to-implement-teen-time-limits-after-meta-
-  headline: Snap CEO says company would be willing to implement teen time limits after Meta settlement
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6021
 - slug: 2026-06-11-south-korea-fines-coupang-record-410m-over-data-breach-affecting-37-5m-users
-  headline: South Korea fines Coupang record $410M over data breach affecting 37.5M users
+  headline: South Korea fines Coupang record $410M over data breach affecting 37.5M
+    users
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.7216
+  strength: 0.7225
 - slug: 2026-08-07-four-house-republicans-seek-south-korea-briefing-on-online-speech-law
   headline: Four House Republicans seek South Korea briefing on online speech law
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6531
+  strength: 0.6537
 - slug: 2026-07-02-house-report-says-south-korea-violated-trade-deal-with-coupang-actions
   headline: House report says South Korea violated trade deal with Coupang actions
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6755
-- slug: 2026-08-21-dutch-regulators-fine-uber-964-million-over-automated-driver-suspensions
-  headline: Dutch regulators fine Uber $964 million over automated driver suspensions
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5901
-- slug: 2026-07-22-seoul-mayor-fined-6-600-for-illegal-polls-faces-removal
-  headline: Seoul mayor fined $6,600 for illegal polls, faces removal
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.609
-- slug: 2026-07-01-alibaba-admits-to-80-000-illegal-sales-will-pay-600-million
-  headline: Alibaba admits to 80,000 illegal sales, will pay $600 million
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.628
-- slug: 2026-07-15-youtube-appeals-jury-verdict-that-found-company-negligent-in-social-media-case
-  headline: YouTube appeals jury verdict that found company negligent in social media case
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6106
-- slug: 2026-06-17-uk-orders-google-to-make-search-rankings-fairer-provide-advance-notice
-  headline: UK Orders Google to Make Search Rankings Fairer, Provide Advance Notice
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6291
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6034
-- slug: 2026-03-05-google-agrees-to-lower-play-store-fees-in-deal-with-epic-games
-  headline: Google agrees to lower Play Store fees in deal with Epic Games
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.648
-- slug: 2026-06-23-stubhub-uk-fined-nearly-900-000-for-hidden-ticket-fees
-  headline: StubHub UK Fined Nearly £900,000 for Hidden Ticket Fees
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5944
-- slug: 2026-01-12-apple-turns-to-google-s-gemini-to-power-siri-upgrade-and-iphone-ai-features
-  headline: Apple turns to Google's Gemini to power Siri upgrade and iPhone AI features
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6382
-- slug: 2026-02-05-google-s-quarterly-results-show-ad-growth-and-higher-cloud-revenue
-  headline: Google’s quarterly results show ad growth and higher cloud revenue
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6299
-- slug: 2026-03-27-jury-finds-instagram-and-youtube-liable-in-landmark-social-media-addiction-trial
-  headline: Jury finds Instagram and YouTube liable in landmark social media addiction trial
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6229
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6215
-- slug: 2026-01-12-alphabet-joins-4-trillion-club-as-investors-bet-on-ai-breakthroughs
-  headline: Alphabet joins $4 trillion club as investors bet on AI breakthroughs
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6289
-- slug: 2026-06-04-supreme-court-backs-fcc-in-house-penalty-system-over-wireless-carriers
-  headline: Supreme Court backs FCC in-house penalty system over wireless carriers
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5929
+  strength: 0.6756
 ---
-
 ## Google and Apple face 63.7 billion won in South Korean app-store penalties
 
 **Subtype:** fact
