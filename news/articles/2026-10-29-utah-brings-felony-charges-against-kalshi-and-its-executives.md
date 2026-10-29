@@ -53,10 +53,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -231,3 +233,9 @@ Wallach, a lawyer who specializes in sports wagering and gaming law and teaches 
 **Publication date:** 2026-10-29
 **Title:** Utah files criminal charges against Kalshi, co-founders
 **URL:** https://apnews.com/article/kalshi-prediction-markets-utah-42468686dad6981f58436befdedee03d
+
+### src_late_d0adcc04bc19d78c — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-10-29
+**Title:** Utah files criminal charges against prediction market Kalshi and company co-founders
+**URL:** https://www.theguardian.com/us-news/2026/oct/28/utah-criminal-charges-kalshi
+**Added after publication:** true
