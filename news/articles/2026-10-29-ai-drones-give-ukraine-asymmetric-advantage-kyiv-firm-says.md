@@ -1,9 +1,18 @@
 ---
 headline: AI drones give Ukraine asymmetric advantage, Kyiv firm says
-secondary_headline: Zelenskyy warns AI could lead decisions on the battlefield next year
+secondary_headline: Zelenskyy warns AI could lead decisions on the battlefield next
+  year
 publish_date: '2026-10-29'
-lede: KYIV, Ukraine — A Ukrainian tech entrepreneur who built a business selling AI-powered pet cameras now runs two Ukraine-based defense firms whose autonomous drones are used by dozens of Ukrainian military units. Yaroslav Azhnyuk says artificial intelligence gives Ukraine an asymmetric advantage against Russian forces in the war that began with Moscow's 2022 invasion.
-nut_graf: The Ukraine war has become a proving ground for artificial intelligence in combat as Kyiv and Moscow race to field drones that can navigate, identify and strike targets with shrinking human involvement. Azhnyuk argues the technology is what keeps Ukraine competitive; President Volodymyr Zelenskyy has warned about where growing autonomy could lead.
+lede: KYIV, Ukraine — A Ukrainian tech entrepreneur who built a business selling AI-powered
+  pet cameras now runs two Ukraine-based defense firms whose autonomous drones are
+  used by dozens of Ukrainian military units. Yaroslav Azhnyuk says artificial intelligence
+  gives Ukraine an asymmetric advantage against Russian forces in the war that began
+  with Moscow's 2022 invasion.
+nut_graf: The Ukraine war has become a proving ground for artificial intelligence
+  in combat as Kyiv and Moscow race to field drones that can navigate, identify and
+  strike targets with shrinking human involvement. Azhnyuk argues the technology is
+  what keeps Ukraine competitive; President Volodymyr Zelenskyy has warned about where
+  growing autonomy could lead.
 primary_entities:
 - Yaroslav Azhnyuk
 - The Fourth Law
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,15 +151,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-29-ai-drones-give-ukraine-asymmetric-advantage-kyiv-firm-says.png
-  alt: "Illustration accompanying article: AI drones give Ukraine asymmetric advantage, Kyiv firm says"
+  alt: 'Illustration accompanying article: AI drones give Ukraine asymmetric advantage,
+    Kyiv firm says'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories:
+- slug: 2026-10-05-drones-dominate-ukraine-s-700-mile-kill-zone-reshaping-ground-war
+  headline: Drones dominate Ukraine's 700-mile kill zone, reshaping ground war
+  publish_date: '2026-10-05'
+  relation: related
+  strength: 0.7736
+- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
+  headline: Ukrainian drones hit third Yandex data center in four days
+  publish_date: '2026-10-12'
+  relation: related
+  strength: 0.6935
+- slug: 2026-10-06-electronic-warfare-reshapes-ukraine-battlefield-as-west-works-to-catch-up
+  headline: Electronic warfare reshapes Ukraine battlefield as West works to catch
+    up
+  publish_date: '2026-10-06'
+  relation: related
+  strength: 0.7069
+- slug: 2026-09-22-nato-brigade-latvia-drone-warfare-drills
+  headline: NATO brigade in Latvia adapts drills to drone warfare lessons from Ukraine
+  publish_date: '2026-09-22'
+  relation: related
+  strength: 0.6847
+- slug: 2026-08-12-ukrainian-drone-operators-defeat-u-s-armored-brigade-in-german-exercise
+  headline: Ukrainian drone operators defeat U.S. armored brigade in German exercise
+  publish_date: '2026-08-12'
+  relation: related
+  strength: 0.7037
+- slug: 2026-06-19-either-robots-kill-us-or-russians-ai-warfare-hits-point-of-no-return
+  headline: '‘Either robots kill us or Russians’: AI warfare hits point of no return'
+  publish_date: '2026-06-19'
+  relation: related
+  strength: 0.7625
+- slug: 2026-05-11-ukraine-names-zelenskyy-ex-chief-of-staff-yermak-suspect-in-graft-probe
+  headline: Ukraine names Zelenskyy ex-chief of staff Yermak suspect in graft probe
+  publish_date: '2026-05-11'
+  relation: related
+  strength: 0.722
+- slug: 2026-06-10-great-powers-confront-limits-as-modern-warfare-levels-the-battlefield
+  headline: Great powers confront limits as modern warfare levels the battlefield
+  publish_date: '2026-06-10'
+  relation: related
+  strength: 0.6921
 ---
-
 ## AI drones give Ukraine asymmetric advantage, Kyiv firm says
 
 **Subtype:** fact

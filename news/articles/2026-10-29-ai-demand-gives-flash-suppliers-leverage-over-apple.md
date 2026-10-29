@@ -66,7 +66,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -257,3 +257,10 @@ The industry's low point came in 2023, when the Covid-era, work-from-home device
 **Publication date:** 2026-10-29
 **Title:** The Beleaguered Chip Sellers Getting Their Revenge on Apple
 **URL:** https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9
+
+### src_late_f11f5ea1135b7a19 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Emma Tucker
+**Publication date:** 2026-10-29
+**Title:** Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.
+**URL:** https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4
+**Added after publication:** true

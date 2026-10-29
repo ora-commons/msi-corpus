@@ -2,8 +2,17 @@
 headline: House recycling bills would bar states from stricter labeling rules
 secondary_headline: Mass balance bill would bypass FTC's Green Guides review
 publish_date: '2026-10-29'
-lede: Two bipartisan House bills that would set national recycling-label standards, bar states from imposing stricter requirements, and endorse a contested 'mass balance' accounting method cleared the House Energy and Commerce Committee in September and could face a full House vote after the midterm elections. Oil, chemical and packaging companies are championing the measures, which the Natural Resources Defense Council's Rachel Fullmer called 'peak greenwashing.'
-nut_graf: The legislation would neutralize state efforts such as California's 'truth in labeling' law at a time when federal estimates put the share of U.S. plastic waste that is recycled at 5% to 8.7%. Supporters say national standards would reduce consumer confusion and encourage manufacturing investment; critics say the bills would lock in misleading claims while increasing plastic production and waste incineration.
+lede: Two bipartisan House bills that would set national recycling-label standards,
+  bar states from imposing stricter requirements, and endorse a contested 'mass balance'
+  accounting method cleared the House Energy and Commerce Committee in September and
+  could face a full House vote after the midterm elections. Oil, chemical and packaging
+  companies are championing the measures, which the Natural Resources Defense Council's
+  Rachel Fullmer called 'peak greenwashing.'
+nut_graf: The legislation would neutralize state efforts such as California's 'truth
+  in labeling' law at a time when federal estimates put the share of U.S. plastic
+  waste that is recycled at 5% to 8.7%. Supporters say national standards would reduce
+  consumer confusion and encourage manufacturing investment; critics say the bills
+  would lock in misleading claims while increasing plastic production and waste incineration.
 primary_entities:
 - United States Congress
 - Federal Trade Commission
@@ -53,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,109 +160,8 @@ cross_article_links:
   strength: 0.6478
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-28-industry-environmentalists-split-over-epa-methane-rollback-costs
-  headline: Industry, environmentalists split over EPA methane rollback costs
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6434
-- slug: 2026-10-28-epa-moves-to-revise-biden-era-methane-rules-for-oil-and-gas
-  headline: EPA moves to revise Biden-era methane rules for oil and gas
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6342
-- slug: 2026-10-27-epa-methane-proposal-would-end-leak-identification-program-expand-gas-flaring
-  headline: EPA methane proposal would end leak-identification program, expand gas flaring
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6332
-- slug: 2026-10-20-former-trump-biden-and-obama-officials-push-permitting-reform
-  headline: Former Trump, Biden and Obama officials push permitting reform
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6363
-- slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
-  headline: FDA proposes allowing some chemicals into food without safety review
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6372
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6713
-- slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6338
-- slug: 2026-09-28-trump-administration-finalizes-rule-easing-fuel-economy-standards
-  headline: Trump administration finalizes rule easing fuel economy standards
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6453
-- slug: 2026-09-28-nhtsa-fuel-rule-ends-credit-trading-that-benefited-tesla
-  headline: NHTSA fuel rule ends credit trading that benefited Tesla
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6359
-- slug: 2026-09-11-australian-government-shelves-promised-packaging-laws-citing-cost-of-living
-  headline: Australian government shelves promised packaging laws, citing cost of living
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6517
-- slug: 2026-08-16-california-assembly-passes-diaper-chemical-disclosure-bill
-  headline: California Assembly passes diaper chemical disclosure bill
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6716
-- slug: 2026-06-23-17-states-and-trade-group-sue-california-over-plastic-packaging-law
-  headline: 17 states and trade group sue California over plastic packaging law
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7338
-- slug: 2026-05-14-california-plastic-recycling-rules-spark-court-threats-and-industry-pushback
-  headline: California plastic recycling rules spark court threats and industry pushback
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7308
-- slug: 2026-05-14-california-sets-2032-deadline-for-recyclable-plastic-packaging-drawing-lawsuits-
-  headline: California sets 2032 deadline for recyclable plastic packaging, drawing lawsuits from both sides
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.717
-- slug: 2026-06-25-u-s-plastic-exports-to-china-top-23-billion-fueling-global-pollution-concerns
-  headline: U.S. plastic exports to China top $23 billion, fueling global pollution concerns
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6554
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6562
-- slug: 2026-04-15-epa-proposes-reclassifying-plastic-pyrolysis-potentially-gutting-air-pollution-c
-  headline: EPA proposes reclassifying plastic pyrolysis, potentially gutting air pollution controls
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6645
-- slug: 2026-05-30-california-air-regulators-approve-cap-and-trade-changes-drawing-fire-from-all-si
-  headline: California air regulators approve cap-and-trade changes, drawing fire from all sides
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6414
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6326
+related_stories: []
 ---
-
 ## House recycling bills would bar states from stricter labeling rules
 
 **Subtype:** fact

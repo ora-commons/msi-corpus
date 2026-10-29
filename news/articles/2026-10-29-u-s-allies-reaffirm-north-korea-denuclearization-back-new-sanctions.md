@@ -2,8 +2,17 @@
 headline: U.S., allies reaffirm North Korea denuclearization, back new sanctions
 secondary_headline: Treasury targets 10 individuals, one entity over IT worker fraud
 publish_date: '2026-10-29'
-lede: The United States, South Korea and nine allied governments, together with the European Union, issued a joint statement Wednesday reaffirming their commitment to North Korea's denuclearization and backing new sanctions on Pyongyang's overseas workers, cyber activities and military cooperation with Russia. The U.S. Treasury Department separately sanctioned 10 individuals and one entity accused of facilitating government-run information technology worker schemes that defraud American businesses and finance Pyongyang's weapons programs.
-nut_graf: The measures target the revenue streams behind North Korea's nuclear weapons and ballistic missile programs, an effort documented by the Multilateral Sanctions Monitoring Team, the 11-country body created in 2024 after Russia vetoed renewal of a United Nations expert panel's mandate.
+lede: The United States, South Korea and nine allied governments, together with the
+  European Union, issued a joint statement Wednesday reaffirming their commitment
+  to North Korea's denuclearization and backing new sanctions on Pyongyang's overseas
+  workers, cyber activities and military cooperation with Russia. The U.S. Treasury
+  Department separately sanctioned 10 individuals and one entity accused of facilitating
+  government-run information technology worker schemes that defraud American businesses
+  and finance Pyongyang's weapons programs.
+nut_graf: The measures target the revenue streams behind North Korea's nuclear weapons
+  and ballistic missile programs, an effort documented by the Multilateral Sanctions
+  Monitoring Team, the 11-country body created in 2024 after Russia vetoed renewal
+  of a United Nations expert panel's mandate.
 primary_entities:
 - United States
 - South Korea
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,51 +151,48 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-29-u-s-allies-reaffirm-north-korea-denuclearization-back-new-sanctions.png
-  alt: 'Illustration accompanying article: U.S., allies reaffirm North Korea denuclearization, back new sanctions'
+  alt: 'Illustration accompanying article: U.S., allies reaffirm North Korea denuclearization,
+    back new sanctions'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-09-us-sanctions-iran-shadow-fleet-as-war-continues
   headline: US sanctions Iran shadow fleet as war continues
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6851
-- slug: 2026-10-16-us-treasury-blacklists-iraqi-bank-as-part-of-broader-iran-sanctions
-  headline: US Treasury blacklists Iraqi bank as part of broader Iran sanctions
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6433
-- slug: 2026-09-30-joint-investigation-finds-north-korean-mine-south-of-dmz-violated-armistice
-  headline: Joint investigation finds North Korean mine south of DMZ violated armistice
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6453
+  strength: 0.6849
 - slug: 2026-09-22-state-department-imposes-visa-restrictions-on-32-tied-to-prince-group
   headline: State Department imposes visa restrictions on 32 tied to Prince Group
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6768
+  strength: 0.6771
 - slug: 2026-07-31-11-countries-issue-joint-alert-on-north-korean-it-workers-funding-weapons-progra
-  headline: 11 countries issue joint alert on North Korean IT workers funding weapons programs
+  headline: 11 countries issue joint alert on North Korean IT workers funding weapons
+    programs
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7983
+  strength: 0.7999
 - slug: 2026-08-31-north-korea-says-u-s-denuclearization-push-will-not-weaken-its-nuclear-arsenal
-  headline: North Korea says U.S. denuclearization push will not weaken its nuclear arsenal
+  headline: North Korea says U.S. denuclearization push will not weaken its nuclear
+    arsenal
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7004
+  strength: 0.7008
 - slug: 2026-09-09-us-sanctions-27-iranian-airlines-9-people-and-firms-outside-iran
   headline: US sanctions 27 Iranian airlines, 9 people and firms outside Iran
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6655
+  strength: 0.6649
 - slug: 2026-08-27-u-s-clears-sidewinder-missile-sale-to-south-korea-north-korea-warns-of-response
-  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns of response
+  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns
+    of response
   publish_date: '2026-08-27'
   relation: related
   strength: 0.6948
@@ -193,64 +200,13 @@ related_stories:
   headline: Trump says North Korea has 57 nuclear weapons, expects Kim meeting
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.6812
+  strength: 0.6808
 - slug: 2026-07-08-ankara-meeting-deepens-trilateral-nuclear-cyber-coordination
   headline: Ankara meeting deepens trilateral nuclear, cyber coordination
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7321
-- slug: 2026-08-26-kim-jong-un-chairs-enlarged-workers-party-meeting-on-2026-economic-plan
-  headline: Kim Jong Un chairs enlarged Workers' Party meeting on 2026 economic plan
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6458
-- slug: 2026-06-14-north-korea-says-nuclear-status-is-irreversible-rejects-denuclearization-calls
-  headline: North Korea says nuclear status is irreversible, rejects denuclearization calls
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7151
-- slug: 2026-08-07-washington-targets-cuba-s-military-network-with-new-restrictions
-  headline: Washington targets Cuba’s military network with new restrictions
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6494
-- slug: 2026-07-24-treasury-puts-south-korea-on-currency-list-fourth-straight-time
-  headline: Treasury puts South Korea on currency list fourth straight time
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6668
-- slug: 2026-06-13-us-japan-south-korea-hold-trilateral-talks-on-north-korea
-  headline: US, Japan, South Korea hold trilateral talks on North Korea
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7004
-- slug: 2026-07-16-us-south-korea-japan-military-chiefs-reaffirm-trilateral-security-cooperation
-  headline: US, South Korea, Japan military chiefs reaffirm trilateral security cooperation
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6532
-- slug: 2025-12-30-u-s-sanctions-10-people-and-firms-over-alleged-iran-drone-missile-ties
-  headline: U.S. sanctions 10 people and firms over alleged Iran drone, missile ties
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7087
-- slug: 2025-12-31-u-s-sanctions-10-people-and-firms-tied-to-iran-drone-missile-efforts
-  headline: U.S. sanctions 10 people and firms tied to Iran drone, missile efforts
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6938
-- slug: 2026-06-18-kim-yo-jong-rejects-g7-denuclearization-call-says-nuclear-arms-are-core-interest
-  headline: Kim Yo Jong rejects G7 denuclearization call, says nuclear arms are 'core interests'
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6483
-- slug: 2026-02-26-us-imposes-new-sanctions-on-iran-ahead-of-nuclear-talks-in-geneva
-  headline: US imposes new sanctions on Iran ahead of nuclear talks in Geneva
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6766
+  strength: 0.7318
 ---
-
 ## U.S., allies reaffirm North Korea denuclearization, back new sanctions
 
 **Subtype:** fact

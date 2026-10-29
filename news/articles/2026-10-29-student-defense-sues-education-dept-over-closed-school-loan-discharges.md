@@ -2,8 +2,18 @@
 headline: Student Defense sues Education Dept. over closed-school loan discharges
 secondary_headline: DeVos used same authority to expand loan discharges in 2019
 publish_date: '2026-10-29'
-lede: Student Defense, a nonprofit borrower advocacy group, filed a lawsuit in federal court Wednesday alleging the Trump administration is illegally refusing to fully follow all of the rules of the closed school discharge program. The case, brought on behalf of former Brooks Institute student Kendrick Gaussoin and potentially thousands of other borrowers, centers on a for-profit photography college that closed a decade ago and left Gaussoin with nearly $22,000 in student loan debt and no degree.
-nut_graf: The lawsuit tests whether the Education Department may abandon a Biden-era rule, issued days before the previous administration left office, that expanded discharge eligibility for borrowers of several closed schools including Brooks. Federal law has required loan cancellation for qualified borrowers of closed colleges for more than three decades, and the Government Accountability Office counted more than 1,100 college closures between 2010 and 2020.
+lede: Student Defense, a nonprofit borrower advocacy group, filed a lawsuit in federal
+  court Wednesday alleging the Trump administration is illegally refusing to fully
+  follow all of the rules of the closed school discharge program. The case, brought
+  on behalf of former Brooks Institute student Kendrick Gaussoin and potentially thousands
+  of other borrowers, centers on a for-profit photography college that closed a decade
+  ago and left Gaussoin with nearly $22,000 in student loan debt and no degree.
+nut_graf: The lawsuit tests whether the Education Department may abandon a Biden-era
+  rule, issued days before the previous administration left office, that expanded
+  discharge eligibility for borrowers of several closed schools including Brooks.
+  Federal law has required loan cancellation for qualified borrowers of closed colleges
+  for more than three decades, and the Government Accountability Office counted more
+  than 1,100 college closures between 2010 and 2020.
 primary_entities:
 - Student Defense
 - U.S. Department of Education
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,8 +153,51 @@ cross_article_links:
   strength: 0.6292
   confidence: medium
 draft: false
+related_stories:
+- slug: 2026-10-22-federal-loan-caps-expand-private-student-lending
+  headline: Federal loan caps expand private student lending
+  publish_date: '2026-10-22'
+  relation: related
+  strength: 0.6704
+- slug: 2026-07-20-student-loan-defaults-jump-by-4-2-million-after-pandemic-pause
+  headline: Student loan defaults jump by 4.2 million after pandemic pause
+  publish_date: '2026-07-20'
+  relation: related
+  strength: 0.6805
+- slug: 2026-05-19-democratic-led-states-sue-over-trump-caps-on-federal-student-loans
+  headline: Democratic-led states sue over Trump caps on federal student loans
+  publish_date: '2026-05-19'
+  relation: related
+  strength: 0.6979
+- slug: 2026-06-28-new-graduate-loan-limits-take-effect-july-1-as-economists-debate-tuition-impact
+  headline: New graduate loan limits take effect July 1 as economists debate tuition
+    impact
+  publish_date: '2026-06-28'
+  relation: related
+  strength: 0.6625
+- slug: 2026-05-20-democratic-led-states-sue-trump-over-federal-student-loan-caps
+  headline: Democratic-led states sue Trump over federal student loan caps
+  publish_date: '2026-05-20'
+  relation: related
+  strength: 0.6829
+- slug: 2026-06-30-federal-judge-blocks-trump-rule-on-public-service-loan-forgiveness
+  headline: Federal judge blocks Trump rule on public service loan forgiveness
+  publish_date: '2026-06-30'
+  relation: related
+  strength: 0.6538
+- slug: 2026-05-19-states-sue-trump-rule-limiting-federal-loans-for-some-nursing-health-degrees
+  headline: States sue Trump rule limiting federal loans for some nursing, health
+    degrees
+  publish_date: '2026-05-19'
+  relation: related
+  strength: 0.676
+- slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
+  headline: Democratic-led states sue to block student loan caps for nursing, health
+    degrees
+  publish_date: '2026-06-04'
+  relation: related
+  strength: 0.6669
 ---
-
 ## Student Defense sues Education Dept. over closed-school loan discharges
 
 **Subtype:** fact
