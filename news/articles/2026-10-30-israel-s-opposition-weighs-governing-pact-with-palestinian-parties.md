@@ -217,6 +217,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-30-the-61-seat-test-interests-and-red-lines-in-israel-s-coalition-arithmetic'
 ---
 ## Israel's opposition weighs governing pact with Palestinian parties
 
@@ -278,3 +280,8 @@ The briefing's Upside section reported on the move away from diesel-powered ferr
 **Publication date:** 2026-10-30
 **Title:** Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?
 **URL:** https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties
+
+---
+
+<!-- analysis-link:2026-10-30-the-61-seat-test-interests-and-red-lines-in-israel-s-coalition-arithmetic -->
+**Going deeper:** [Read MSI's analysis of Minority-government precedents in Israeli parliamentary history — Rabin's reliance on Palestinian su →](/analyses/2026-10-30-the-61-seat-test-interests-and-red-lines-in-israel-s-coalition-arithmetic)
