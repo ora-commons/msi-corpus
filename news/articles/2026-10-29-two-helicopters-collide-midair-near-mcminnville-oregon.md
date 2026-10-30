@@ -56,9 +56,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - United Press International
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -213,3 +214,9 @@ The small airport, which sits on 650 acres (263 hectares), has two paved runways
 **Publication date:** 2026-10-29
 **Title:** 2 helicopters carrying a total of 3 people collide in Oregon
 **URL:** https://apnews.com/article/mcminnville-oregon-helicopter-crash-4af37b6cecd0f0876d05637d00ea622c
+
+### src_late_50d7ab85634d036c — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-10-29
+**Title:** Helicopters collide mid-air in northeastern Oregon
+**URL:** https://www.upi.com/Top_News/US/2026/10/29/mid-air-helicopter-collision/3001793323068/
+**Added after publication:** true
