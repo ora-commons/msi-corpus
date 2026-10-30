@@ -1,9 +1,18 @@
 ---
-headline: Meta settles Mississippi woman's social media addiction lawsuit ahead of trial
-secondary_headline: Trial proceeds against Snap with CEO Evan Spiegel expected to testify
+headline: Meta settles Mississippi woman's social media addiction lawsuit ahead of
+  trial
+secondary_headline: Trial proceeds against Snap with CEO Evan Spiegel expected to
+  testify
 publish_date: '2026-10-30'
-lede: Meta has settled a social media addiction lawsuit filed by an 18-year-old Mississippi woman, reaching the agreement on Friday after jury selection had already started for the trial. The case now continues against Snap, Snapchat's parent company — the only social media company among the defendants that has not settled — where CEO Evan Spiegel is expected to give his first trial testimony.
-nut_graf: The settlement is the latest development in a year of litigation over claims that social media platforms harm young users, and it leaves Snap — whose chief executive is expected to testify — as the only social media company among the defendants that has not settled.
+lede: Meta has settled a social media addiction lawsuit filed by an 18-year-old Mississippi
+  woman, reaching the agreement on Friday after jury selection had already started
+  for the trial. The case now continues against Snap, Snapchat's parent company —
+  the only social media company among the defendants that has not settled — where
+  CEO Evan Spiegel is expected to give his first trial testimony.
+nut_graf: The settlement is the latest development in a year of litigation over claims
+  that social media platforms harm young users, and it leaves Snap — whose chief executive
+  is expected to testify — as the only social media company among the defendants that
+  has not settled.
 primary_entities:
 - Meta
 - Snap
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +155,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-16-snap-ceo-says-company-would-be-willing-to-implement-teen-time-limits-after-meta-
-  headline: Snap CEO says company would be willing to implement teen time limits after Meta settlement
+  headline: Snap CEO says company would be willing to implement teen time limits after
+    Meta settlement
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7972
+  strength: 0.7959
 - slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
+  headline: Meta agrees to $16.7 billion settlement with US states over youth mental
+    health
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.8056
+  strength: 0.8046
 - slug: 2026-08-28-meta-announces-18bn-settlement-with-new-teen-limits-on-instagram-facebook
   headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7774
+  strength: 0.7756
 - slug: 2026-08-20-meta-opens-defense-in-california-youth-mental-health-trial
   headline: Meta opens defense in California youth mental health trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7662
+  strength: 0.7654
 - slug: 2026-08-17-meta-faces-federal-trial-in-oakland-over-youth-mental-health
   headline: Meta faces federal trial in Oakland over youth mental health
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7682
+  strength: 0.7673
 - slug: 2026-08-07-new-mexico-judge-orders-meta-to-pay-942-million-over-harms-to-kids
   headline: New Mexico judge orders Meta to pay $942 million over harms to kids
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.7501
+  strength: 0.7489
 - slug: 2026-07-22-florida-teen-drops-meta-addiction-lawsuit-after-settling-other-claims
   headline: Florida teen drops Meta addiction lawsuit after settling other claims
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7686
+  strength: 0.7679
 - slug: 2026-07-28-meta-faces-lawsuits-over-teen-safety-as-it-pushes-into-ai
   headline: Meta faces lawsuits over teen safety as it pushes into AI
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7522
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.77
-- slug: 2026-02-02-meta-faces-new-mexico-trial-over-alleged-harm-to-children
-  headline: Meta faces New Mexico trial over alleged harm to children
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.803
-- slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.753
-- slug: 2026-06-23-youtube-settles-social-media-addiction-lawsuit-brought-by-florida-teen
-  headline: YouTube settles social media addiction lawsuit brought by Florida teen
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7438
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.773
-- slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
-  headline: Meta says it could shut down social media platforms in New Mexico
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7554
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7621
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7554
-- slug: 2026-02-08-meta-accused-in-new-mexico-trial-of-failing-to-protect-children-online
-  headline: Meta accused in New Mexico trial of failing to protect children online
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7589
-- slug: 2026-04-15-state-court-hears-massachusetts-lawsuit-against-meta-over-addictive-apps-for-kid
-  headline: State court hears Massachusetts lawsuit against Meta over addictive apps for kids
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7474
-- slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
-  headline: Senate calls tech CEOs to testify on social media risks to children
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7326
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.745
+  strength: 0.7513
 ---
-
 ## Meta settles Mississippi woman's social media addiction lawsuit ahead of trial
 
 **Subtype:** fact

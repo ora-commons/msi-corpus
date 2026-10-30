@@ -1,9 +1,18 @@
 ---
-headline: West Virginia polls close at 7:30 p.m. ET Tuesday as voters decide federal and state races
-secondary_headline: More than half the state's counties expect to report advance votes first
+headline: West Virginia polls close at 7:30 p.m. ET Tuesday as voters decide federal
+  and state races
+secondary_headline: More than half the state's counties expect to report advance votes
+  first
 publish_date: '2026-10-30'
-lede: West Virginia voters will elect leaders for federal, state and other offices on Tuesday, when polls close at 7:30 p.m. ET, according to an Associated Press election guide. The AP said it will provide vote results and declare winners in races for U.S. Senate, U.S. House, mayor of Charleston, a statewide ballot measure, state Senate and state House of Delegates.
-nut_graf: 'The guide lays out the mechanics that will shape election night in West Virginia: how much of the vote is cast early or by absentee ballot, how quickly the state''s 55 counties expect to report results, and what happens if a margin is close enough for a candidate to request a recount.'
+lede: West Virginia voters will elect leaders for federal, state and other offices
+  on Tuesday, when polls close at 7:30 p.m. ET, according to an Associated Press election
+  guide. The AP said it will provide vote results and declare winners in races for
+  U.S. Senate, U.S. House, mayor of Charleston, a statewide ballot measure, state
+  Senate and state House of Delegates.
+nut_graf: 'The guide lays out the mechanics that will shape election night in West
+  Virginia: how much of the vote is cast early or by absentee ballot, how quickly
+  the state''s 55 counties expect to report results, and what happens if a margin
+  is close enough for a candidate to request a recount.'
 primary_entities:
 - West Virginia
 - Associated Press
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,32 +153,34 @@ related_stories:
   headline: Wyoming voters decide federal and state offices in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8222
+  strength: 0.8221
 - slug: 2026-10-30-washington-voters-decide-federal-and-state-races-tuesday-mostly-by-mail
   headline: Washington voters decide federal and state races Tuesday, mostly by mail
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8115
+  strength: 0.8118
 - slug: 2026-10-30-vermont-voters-head-to-the-polls-tuesday-for-federal-and-state-midterm-races
-  headline: Vermont voters head to the polls Tuesday for federal and state midterm races
+  headline: Vermont voters head to the polls Tuesday for federal and state midterm
+    races
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.806
+  strength: 0.8056
 - slug: 2026-10-30-nevada-voters-decide-governor-u-s-house-and-state-races-in-tuesday-s-election
-  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's election
+  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's
+    election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7815
+  strength: 0.7808
 - slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
   headline: Connecticut voters decide governor, House and statewide races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7806
+  strength: 0.7805
 - slug: 2026-10-30-tennessee-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Tennessee voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7782
+  strength: 0.7783
 - slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
   headline: South Carolina voters decide federal and state offices in Tuesday's election
   publish_date: '2026-10-30'
@@ -178,69 +190,8 @@ related_stories:
   headline: Kentucky voters decide federal, state and local races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.77
-- slug: 2026-10-30-delaware-voters-decide-senate-house-and-state-offices-in-tuesday-s-election
-  headline: Delaware voters decide Senate, House and state offices in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7662
-- slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
-  headline: Indiana voters decide federal and state races in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7616
-- slug: 2026-10-30-oklahoma-voters-decide-congressional-statewide-and-legislative-races-tuesday
-  headline: Oklahoma voters decide congressional, statewide and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7584
-- slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
-  headline: Alabama voters decide Senate, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7575
-- slug: 2026-10-30-oregon-voters-decide-federal-and-state-races-tuesday-in-a-mostly-mail-election
-  headline: Oregon voters decide federal and state races Tuesday in a mostly mail election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7564
-- slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
-  headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.751
-- slug: 2026-10-30-south-dakota-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: South Dakota voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7495
-- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: Montana voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7433
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7353
-- slug: 2026-10-30-utah-voters-choose-federal-and-state-leaders-in-tuesday-s-mail-based-election
-  headline: Utah voters choose federal and state leaders in Tuesday's mail-based election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7345
-- slug: 2026-10-30-north-dakota-voters-decide-house-statewide-and-legislative-races-tuesday
-  headline: North Dakota voters decide House, statewide and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7336
-- slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
-  headline: Colorado voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7329
+  strength: 0.7699
 ---
-
 ## West Virginia polls close at 7:30 p.m. ET Tuesday as voters decide federal and state races
 
 **Subtype:** fact

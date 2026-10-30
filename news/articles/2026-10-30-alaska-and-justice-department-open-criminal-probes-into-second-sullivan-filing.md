@@ -1,9 +1,19 @@
 ---
-headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-secondary_headline: Lawsuit seeks to block certification in race that could decide Senate control
+headline: Alaska and Justice Department open criminal probes into second Sullivan
+  filing
+secondary_headline: Lawsuit seeks to block certification in race that could decide
+  Senate control
 publish_date: '2026-10-30'
-lede: The state of Alaska and the Justice Department have each opened criminal investigations into whether anyone broke the law while putting a second Dan Sullivan on the ballot in Alaska's U.S. Senate race. The probes add a criminal track to a Justice Department lawsuit seeking to block certification of the results if incumbent Sen. Dan S. Sullivan loses.
-nut_graf: The inquiries land in a contest that could determine whether Democrats take control of the Senate, after Republicans failed for weeks to keep the incumbent's namesake off the ballot. Legal experts question whether the conduct under investigation violates any law, and fast-moving litigation over certification could shape who is seated.
+lede: The state of Alaska and the Justice Department have each opened criminal investigations
+  into whether anyone broke the law while putting a second Dan Sullivan on the ballot
+  in Alaska's U.S. Senate race. The probes add a criminal track to a Justice Department
+  lawsuit seeking to block certification of the results if incumbent Sen. Dan S. Sullivan
+  loses.
+nut_graf: The inquiries land in a contest that could determine whether Democrats take
+  control of the Senate, after Republicans failed for weeks to keep the incumbent's
+  namesake off the ballot. Legal experts question whether the conduct under investigation
+  violates any law, and fast-moving litigation over certification could shape who
+  is seated.
 primary_entities:
 - Dan S. Sullivan
 - Dan J. Sullivan
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +160,44 @@ related_stories:
   headline: Justice Department expands Alaska election probe with new subpoenas
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8945
+  strength: 0.8944
 - slug: 2026-10-29-justice-department-reportedly-issues-subpoenas-in-alaska-namesake-probe
   headline: Justice Department reportedly issues subpoenas in Alaska namesake probe
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.857
+  strength: 0.8574
 - slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
   headline: Gov. Dunleavy orders investigation into alleged election scheme
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8542
+  strength: 0.8543
 - slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
   headline: Alaska voters decide Senate race shadowed by DOJ probe
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8408
+  strength: 0.8411
 - slug: 2026-10-29-justice-department-files-amended-complaint-in-alaska-senate-race-probe
   headline: Justice Department files amended complaint in Alaska Senate race probe
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8422
+  strength: 0.8428
 - slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
+  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe
+    escalates
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8235
+  strength: 0.8238
 - slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
   headline: Alaska Republican governor calls for investigation into namesake filing
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8229
+  strength: 0.8231
 - slug: 2026-10-29-dunleavy-orders-probe-into-peltola-campaign-over-sullivan-namesake
   headline: Dunleavy orders probe into Peltola campaign over Sullivan namesake
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8152
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8508
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.8086
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8482
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.796
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7939
-- slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
-  headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7994
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8283
-- slug: 2026-10-30-doj-escalates-ballot-fights-with-states-ahead-of-tuesday-s-midterms
-  headline: DOJ escalates ballot fights with states ahead of Tuesday's midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7776
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8218
-- slug: 2026-10-29-murkowski-condemns-peltola-campaign-while-opposing-doj-lawsuit
-  headline: Murkowski condemns Peltola campaign while opposing DOJ lawsuit
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7803
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8162
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7792
+  strength: 0.8156
 ---
-
 ## Alaska and Justice Department open criminal probes into second Sullivan filing
 
 **Subtype:** fact

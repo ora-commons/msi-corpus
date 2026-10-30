@@ -1,9 +1,18 @@
 ---
 headline: US approves proposed $2.1 billion sale of Patriot interceptors for Ukraine
-secondary_headline: State Department says 500 missiles bought with Canadian, German and Norwegian donations
+secondary_headline: State Department says 500 missiles bought with Canadian, German
+  and Norwegian donations
 publish_date: '2026-10-30'
-lede: The Trump administration said Friday that it has approved a proposed $2.1 billion sale of 500 Patriot air defense interceptors for Ukraine, purchased with donations from Canada, Germany and Norway. The announcement came after Ukrainian President Volodymyr Zelenskyy accused the Pentagon of delaying delivery of the vital munition Ukraine needs to stop Russian ballistic missiles.
-nut_graf: Patriot interceptors are the munition Ukraine says it needs to stop Russian ballistic missile attacks. The approval follows escalated tensions in which Zelenskyy accused the Pentagon of delaying deliveries, said U.S. attack-warning intelligence had been interrupted and said the Starlink satellite internet service had been throttled; Ukraine says the intelligence and Starlink speeds have since been restored.
+lede: The Trump administration said Friday that it has approved a proposed $2.1 billion
+  sale of 500 Patriot air defense interceptors for Ukraine, purchased with donations
+  from Canada, Germany and Norway. The announcement came after Ukrainian President
+  Volodymyr Zelenskyy accused the Pentagon of delaying delivery of the vital munition
+  Ukraine needs to stop Russian ballistic missiles.
+nut_graf: Patriot interceptors are the munition Ukraine says it needs to stop Russian
+  ballistic missile attacks. The approval follows escalated tensions in which Zelenskyy
+  accused the Pentagon of delaying deliveries, said U.S. attack-warning intelligence
+  had been interrupted and said the Starlink satellite internet service had been throttled;
+  Ukraine says the intelligence and Starlink speeds have since been restored.
 primary_entities:
 - United States
 - Ukraine
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -183,68 +193,7 @@ related_stories:
   publish_date: '2026-10-15'
   relation: related
   strength: 0.7017
-- slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
-  headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7124
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6992
-- slug: 2026-10-15-uk-defence-secretary-meets-hegseth-at-pentagon-on-ukraine
-  headline: UK defence secretary meets Hegseth at Pentagon on Ukraine
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6955
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6986
-- slug: 2026-10-14-trump-denies-cutting-ukraine-off-as-russian-strikes-hit-kyiv-power-grid
-  headline: Trump denies cutting Ukraine off as Russian strikes hit Kyiv power grid
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6967
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7058
-- slug: 2026-09-19-state-department-approves-2-68b-air-defense-sale-to-ukraine
-  headline: State Department approves $2.68B air defense sale to Ukraine
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7668
-- slug: 2026-09-08-us-urges-europe-to-keep-backing-ukraine-as-uk-pledges-100m-for-air-defences
-  headline: US urges Europe to keep backing Ukraine as UK pledges £100m for air defences
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7651
-- slug: 2026-07-31-zelenskyy-asks-trump-for-help-expanding-starlink-targeting-inside-russia
-  headline: Zelenskyy asks Trump for help expanding Starlink targeting inside Russia
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7918
-- slug: 2026-08-27-patriot-missile-shortage-in-europe-hits-beyond-critical-level-officials-say
-  headline: Patriot missile shortage in Europe hits 'beyond critical' level, officials say
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7309
-- slug: 2026-07-31-trump-says-us-has-not-agreed-to-ukraine-patriot-production-license
-  headline: Trump says US has not agreed to Ukraine Patriot production license
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7774
-- slug: 2026-07-08-trump-says-he-may-let-ukraine-produce-patriot-interceptors
-  headline: Trump says he may let Ukraine produce Patriot interceptors
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7944
 ---
-
 ## US approves proposed $2.1 billion sale of Patriot interceptors for Ukraine
 
 **Subtype:** fact
