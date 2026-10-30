@@ -197,6 +197,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-10-30-audi-s-two-point-margin-cut-outweighs-its-headwind-list'
 ---
 ## Audi lowers 2026 revenue forecast to 55 billion to 59 billion euros
 
@@ -237,3 +239,8 @@ The company said further measures are to be developed to ensure the long-term co
 **Publication date:** 2026-10-30
 **Title:** Audi Pledges to Intensify Efficiency Measures as It Cuts Guidance
 **URL:** https://www.wsj.com/business/earnings/audi-pledges-to-intensify-efficiency-measures-as-it-cuts-guidance-942233b0
+
+---
+
+<!-- analysis-link:2026-10-30-audi-s-two-point-margin-cut-outweighs-its-headwind-list -->
+**Going deeper:** [Read MSI's analysis of Audi's guidance cut and margin arithmetic →](/analyses/2026-10-30-audi-s-two-point-margin-cut-outweighs-its-headwind-list)

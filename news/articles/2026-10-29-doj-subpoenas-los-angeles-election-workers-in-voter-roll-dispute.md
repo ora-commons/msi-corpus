@@ -55,11 +55,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - NPR
+  - United Press International
   outlet_classes:
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -225,3 +227,9 @@ He added: "We will take whatever steps necessary to ensure the safety of our emp
 **Publication date:** 2026-10-29
 **Title:** Justice Department issues subpoenas to California election workers
 **URL:** https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election
+
+### src_late_06b66adb6ebd63e8 — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-10-30
+**Title:** California election workers get subpoenas from federal officials
+**URL:** https://www.upi.com/Top_News/US/2026/10/30/california-election-workers-subpoenas/3731793365592/
+**Added after publication:** true

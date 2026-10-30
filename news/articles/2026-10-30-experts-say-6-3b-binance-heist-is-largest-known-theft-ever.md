@@ -1,9 +1,17 @@
 ---
 headline: Experts say $6.3B Binance heist is largest known theft ever
-secondary_headline: Attackers entered through an engineer's laptop before draining hot wallets
+secondary_headline: Attackers entered through an engineer's laptop before draining
+  hot wallets
 publish_date: '2026-10-30'
-lede: The world's largest cryptocurrency exchange has been hit by a $6.3bn heist that, according to experts, is likely the work of North Korea. Elliptic, a consultancy specialising in crypto-related crime, says the theft could be the biggest heist of any kind in history. Binance said it will cover all losses from its own funds.
-nut_graf: The theft — more than $2.5bn of it moved in a single transaction — would surpass any known heist of the pre-crypto era, and it underscores how the largely unregulated crypto market has become a recurring target for a sanctions-bound North Korea, even as the customers whose assets sit on exchanges hold no deposit-insurance safety net.
+lede: The world's largest cryptocurrency exchange has been hit by a $6.3bn heist that,
+  according to experts, is likely the work of North Korea. Elliptic, a consultancy
+  specialising in crypto-related crime, says the theft could be the biggest heist
+  of any kind in history. Binance said it will cover all losses from its own funds.
+nut_graf: The theft — more than $2.5bn of it moved in a single transaction — would
+  surpass any known heist of the pre-crypto era, and it underscores how the largely
+  unregulated crypto market has become a recurring target for a sanctions-bound North
+  Korea, even as the customers whose assets sit on exchanges hold no deposit-insurance
+  safety net.
 primary_entities:
 - Binance
 - Elliptic
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +152,34 @@ related_stories:
   headline: Binance says $6.3B stolen in hack, North Korea suspected
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8696
+  strength: 0.8697
 - slug: 2026-10-30-trm-says-binance-attacker-moved-6-36b-most-in-20-minutes
   headline: TRM says Binance attacker moved $6.36B, most in 20 minutes
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8275
+  strength: 0.8281
 - slug: 2026-10-30-binance-probes-possible-hack-as-crypto-firms-freeze-2-5bn-in-funds
   headline: Binance probes possible hack as crypto firms freeze $2.5bn in funds
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7729
+  strength: 0.7737
 - slug: 2026-10-29-binance-investigates-potential-security-issue-as-stablecoin-firms-freeze-funds
-  headline: Binance investigates potential security issue as stablecoin firms freeze funds
+  headline: Binance investigates potential security issue as stablecoin firms freeze
+    funds
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7519
-- slug: 2026-10-23-zheng-zhao-faces-u-s-charge-over-36-9-million-crypto-scam
-  headline: Zheng Zhao faces U.S. charge over $36.9 million crypto scam
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6033
-- slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
-  headline: Millions of exploit attempts target PHP flaw as governments patch systems
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5859
-- slug: 2026-10-09-internal-binance-report-details-850-million-irgc-sanctions-evasion-network
-  headline: Internal Binance report details $850 million IRGC sanctions-evasion network
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5963
-- slug: 2026-10-06-hackers-use-chinese-ai-agent-to-breach-south-korea-s-biggest-banks
-  headline: Hackers use Chinese AI agent to breach South Korea's biggest banks
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.598
+  strength: 0.7532
 - slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
   headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6635
+  strength: 0.6649
 - slug: 2026-09-08-malone-lam-pleads-guilty-to-federal-racketeering-charge
   headline: Malone Lam pleads guilty to federal racketeering charge
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6511
-- slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5887
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5914
-- slug: 2026-09-10-hundreds-of-victims-seek-share-of-225-million-seized-in-operation-big-tuna
-  headline: Hundreds of victims seek share of $225 million seized in Operation Big Tuna
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6285
-- slug: 2026-09-07-malone-lam-faces-tuesday-plea-hearing-over-alleged-240m-bitcoin-theft
-  headline: Malone Lam faces Tuesday plea hearing over alleged $240M bitcoin theft
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6247
-- slug: 2026-09-15-crypto-exchange-coinex-shuts-down-citing-compliance-costs-and-market-downturn
-  headline: Crypto exchange CoinEx shuts down, citing compliance costs and market downturn
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5988
-- slug: 2026-07-31-11-countries-issue-joint-alert-on-north-korean-it-workers-funding-weapons-progra
-  headline: 11 countries issue joint alert on North Korean IT workers funding weapons programs
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5601
-- slug: 2026-07-08-ankara-meeting-deepens-trilateral-nuclear-cyber-coordination
-  headline: Ankara meeting deepens trilateral nuclear, cyber coordination
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5824
-- slug: 2026-06-11-south-korea-fines-coupang-record-410m-over-data-breach-affecting-37-5m-users
-  headline: South Korea fines Coupang record $410M over data breach affecting 37.5M users
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.587
-- slug: 2026-05-14-instructure-says-hackers-agreed-to-delete-stolen-canvas-data-experts-caution-dea
-  headline: Instructure says hackers agreed to delete stolen Canvas data; experts caution deal may not end threat
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5805
-- slug: 2026-06-04-eight-indicted-for-stealing-5m-in-cheese-beef-cigarettes
-  headline: Eight indicted for stealing $5M in cheese, beef, cigarettes
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5676
+  strength: 0.6527
 ---
-
 ## Experts say $6.3B Binance heist is largest known theft ever
 
 **Subtype:** fact

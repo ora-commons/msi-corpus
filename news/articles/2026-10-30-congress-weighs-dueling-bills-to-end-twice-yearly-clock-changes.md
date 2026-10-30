@@ -2,8 +2,14 @@
 headline: Congress weighs dueling bills to end twice-yearly clock changes
 secondary_headline: Sleep physicians warn spring-ahead switch harms health and safety
 publish_date: '2026-10-30'
-lede: Clocks across the United States fall back on Sunday, and dueling proposals in Congress would end the twice-yearly time change for good — one by making daylight saving time permanent, the other by returning the country to permanent standard time.
-nut_graf: The competing measures would not change how much daylight the country gets; each would shift when that daylight occurs, reshaping sunrises and sunsets nationwide and, according to the American Academy of Sleep Medicine, affecting public health and safety.
+lede: Clocks across the United States fall back on Sunday, and dueling proposals in
+  Congress would end the twice-yearly time change for good — one by making daylight
+  saving time permanent, the other by returning the country to permanent standard
+  time.
+nut_graf: The competing measures would not change how much daylight the country gets;
+  each would shift when that daylight occurs, reshaping sunrises and sunsets nationwide
+  and, according to the American Academy of Sleep Medicine, affecting public health
+  and safety.
 primary_entities:
 - U.S. Congress
 - Rick Scott
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +150,28 @@ related_stories:
   headline: Senate resists Trump push for permanent daylight saving time
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7701
-- slug: 2026-10-29-democratic-lawmakers-urge-osha-to-abandon-respirator-rule-rollback
-  headline: Democratic lawmakers urge OSHA to abandon respirator rule rollback
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5798
-- slug: 2026-10-24-member-states-replace-leap-seconds-with-a-future-leap-hour
-  headline: Member states replace leap seconds with a future leap hour
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5968
+  strength: 0.7714
 - slug: 2026-10-03-trump-posts-apparent-cotton-phone-number-in-daylight-saving-time-push
   headline: Trump posts apparent Cotton phone number in daylight saving time push
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7052
-- slug: 2026-10-22-pennsylvania-lawmakers-send-sunshine-act-meeting-notice-fix-to-governor-s-desk
-  headline: Pennsylvania lawmakers send Sunshine Act meeting-notice fix to governor's desk
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5883
+  strength: 0.7061
 - slug: 2026-07-14-house-panel-advances-bill-for-permanent-daylight-saving-time
   headline: House panel advances bill for permanent daylight saving time
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7985
-- slug: 2026-10-01-congress-likely-done-legislating-until-after-november-midterms
-  headline: Congress likely done legislating until after November midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.598
+  strength: 0.7988
 - slug: 2026-03-05-states-pursue-an-end-to-twice-a-year-clock-changes
   headline: States pursue an end to twice-a-year clock changes
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.8234
-- slug: 2026-09-25-workers-labor-in-record-us-heat-as-federal-heat-safety-rule-remains-frozen
-  headline: Workers labor in record US heat as federal heat-safety rule remains frozen
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5921
-- slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
-  headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5793
-- slug: 2026-09-15-trump-dismisses-ai-safety-warnings-as-congress-stalls-legislation
-  headline: Trump dismisses AI safety warnings as Congress stalls legislation
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5851
+  strength: 0.8239
 - slug: 2026-03-13-what-to-know-about-your-health-as-the-us-springs-forward-sunday
   headline: What to know about your health as the US springs forward Sunday
   publish_date: '2026-03-13'
   relation: related
-  strength: 0.766
-- slug: 2026-08-30-congress-weighs-bipartisan-social-security-fixes-ahead-of-2032-deadline
-  headline: Congress weighs bipartisan Social Security fixes ahead of 2032 deadline
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.588
-- slug: 2026-08-08-senate-leaves-for-recess-without-advancing-save-america-act
-  headline: Senate leaves for recess without advancing SAVE America Act
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.593
-- slug: 2026-07-20-parents-push-state-lawmakers-to-restore-recess-as-school-playtime-shrinks
-  headline: Parents push state lawmakers to restore recess as school playtime shrinks
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5979
-- slug: 2026-04-26-all-nighters-in-congress-create-dysfunction-after-dark
-  headline: All-nighters in Congress create dysfunction after dark
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6443
-- slug: 2026-06-19-critical-care-doctor-says-administration-is-withdrawing-children-s-health-protec
-  headline: Critical care doctor says administration is withdrawing children's health protections
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.612
-- slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
-  headline: School screen bans risk isolating millions of students with disabilities
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5802
-- slug: 2026-05-10-first-new-recess-guidance-in-13-years-protect-play-pediatricians-say
-  headline: 'First new recess guidance in 13 years: protect play, pediatricians say'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5814
-- slug: 2026-05-10-pediatricians-urge-schools-to-protect-recess-for-students-of-all-ages
-  headline: Pediatricians urge schools to protect recess for students of all ages
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5794
+  strength: 0.7658
 ---
-
 ## Congress weighs dueling bills to end twice-yearly clock changes
 
 **Subtype:** fact
