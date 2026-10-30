@@ -2,8 +2,17 @@
 headline: Nevada voters decide governor, U.S. House and state races in Tuesday's election
 secondary_headline: About 80% of Nevada's 2022 Senate ballots were cast early or absentee
 publish_date: '2026-10-30'
-lede: Nevada voters will elect federal, state and local leaders in Tuesday's midterm election. Polls close at 7 p.m. local time — 10 p.m. Eastern — and remain open under state law until every voter in line at closing has cast a ballot, the Associated Press reported. The AP said it will report results and declare winners in races from governor and U.S. House to Henderson mayor and statewide ballot measures.
-nut_graf: About 80% of ballots in Nevada's 2022 midterm Senate race were cast early or by absentee ballot, and the AP expects counties to front-load those early results on election night while many Election Day ballots wait for later updates. Nevada needed most of a day in 2024 to move from half of votes reported to 90%, and the AP will call a race only when no scenario allows the trailing candidate to close the gap.
+lede: Nevada voters will elect federal, state and local leaders in Tuesday's midterm
+  election. Polls close at 7 p.m. local time — 10 p.m. Eastern — and remain open under
+  state law until every voter in line at closing has cast a ballot, the Associated
+  Press reported. The AP said it will report results and declare winners in races
+  from governor and U.S. House to Henderson mayor and statewide ballot measures.
+nut_graf: About 80% of ballots in Nevada's 2022 midterm Senate race were cast early
+  or by absentee ballot, and the AP expects counties to front-load those early results
+  on election night while many Election Day ballots wait for later updates. Nevada
+  needed most of a day in 2024 to move from half of votes reported to 90%, and the
+  AP will call a race only when no scenario allows the trailing candidate to close
+  the gap.
 primary_entities:
 - Nevada
 - Associated Press
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,23 +148,35 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-30-new-mexico-voters-decide-senate-governor-and-state-races-in-tuesday-s-midterms
+  headline: New Mexico voters decide Senate, governor and state races in Tuesday's
+    midterms
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.8508
+- slug: 2026-10-30-north-dakota-voters-decide-house-statewide-and-legislative-races-tuesday
+  headline: North Dakota voters decide House, statewide and legislative races Tuesday
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.8361
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8325
+  strength: 0.8329
 - slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8128
+  strength: 0.8129
 - slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
   headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8053
+  strength: 0.8056
 - slug: 2026-10-30-new-jersey-voters-elect-senate-and-house-members-in-tuesday-s-midterm-election
-  headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
+  headline: New Jersey voters elect Senate and House members in Tuesday's midterm
+    election
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7992
@@ -162,84 +184,13 @@ related_stories:
   headline: Montana voters decide federal, state and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.794
+  strength: 0.7941
 - slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
   headline: Alabama voters decide Senate, governor and state offices Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7933
-- slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
-  headline: Colorado voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7851
-- slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
-  headline: Illinois voters decide Senate, governor and state races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7748
-- slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
-  headline: Connecticut voters decide governor, House and statewide races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7745
-- slug: 2026-10-30-oregon-voters-decide-federal-and-state-races-tuesday-in-a-mostly-mail-election
-  headline: Oregon voters decide federal and state races Tuesday in a mostly mail election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7739
-- slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
-  headline: South Carolina voters decide federal and state offices in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7729
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7558
-- slug: 2026-10-30-louisiana-voters-decide-federal-and-state-races-in-tuesday-s-open-primary-electi
-  headline: Louisiana voters decide federal and state races in Tuesday's open-primary election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7551
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7532
-- slug: 2026-10-30-massachusetts-voters-decide-senator-governor-and-state-offices-tuesday
-  headline: Massachusetts voters decide senator, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7401
-- slug: 2026-10-28-ap-voter-poll-will-survey-75-000-voters-for-the-2026-midterms
-  headline: AP Voter Poll will survey 75,000 voters for the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7189
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6933
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7035
-- slug: 2026-06-09-nevada-primary-voters-pick-nominees-for-governor-key-house-seats
-  headline: Nevada primary voters pick nominees for governor, key House seats
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7388
-- slug: 2026-05-04-indiana-voters-head-to-polls-tuesday-for-state-primaries-and-u-s-house-races
-  headline: Indiana voters head to polls Tuesday for state primaries and U.S. House races
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7159
+  strength: 0.7937
 ---
-
 ## Nevada voters decide governor, U.S. House and state races in Tuesday's election
 
 **Subtype:** fact

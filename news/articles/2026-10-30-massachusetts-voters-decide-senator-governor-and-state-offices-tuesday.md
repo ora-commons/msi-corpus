@@ -2,8 +2,15 @@
 headline: Massachusetts voters decide senator, governor and state offices Tuesday
 secondary_headline: Counting runs through the night across 351 city and town jurisdictions
 publish_date: '2026-10-30'
-lede: Massachusetts voters decide Tuesday whether to reelect a full slate of Democratic incumbents to statewide office, including U.S. senator and governor, with races also on the ballot for the U.S. House, the state Legislature and other state and local offices. Polls close at 8 p.m. ET.
-nut_graf: Massachusetts runs its elections at the town and city level through 351 separate jurisdictions that vary in how and when they release results, so the pace of Tuesday's count and the timing of race calls rest on local reporting through the night, according to the Associated Press. The AP Decision Team compiled the key facts and data points it will monitor as votes are tallied.
+lede: Massachusetts voters decide Tuesday whether to reelect a full slate of Democratic
+  incumbents to statewide office, including U.S. senator and governor, with races
+  also on the ballot for the U.S. House, the state Legislature and other state and
+  local offices. Polls close at 8 p.m. ET.
+nut_graf: Massachusetts runs its elections at the town and city level through 351
+  separate jurisdictions that vary in how and when they release results, so the pace
+  of Tuesday's count and the timing of race calls rest on local reporting through
+  the night, according to the Associated Press. The AP Decision Team compiled the
+  key facts and data points it will monitor as votes are tallied.
 primary_entities:
 - Massachusetts
 - Associated Press
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +151,45 @@ related_stories:
   headline: Alabama voters decide Senate, governor and state offices Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7973
+  strength: 0.7984
+- slug: 2026-10-30-new-mexico-voters-decide-senate-governor-and-state-races-in-tuesday-s-midterms
+  headline: New Mexico voters decide Senate, governor and state races in Tuesday's
+    midterms
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7983
 - slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
   headline: Montana voters decide federal, state and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7915
+  strength: 0.7924
 - slug: 2026-10-30-missouri-voters-decide-congressional-races-and-five-ballot-measures-tuesday
   headline: Missouri voters decide congressional races and five ballot measures Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7887
+  strength: 0.7889
 - slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
   headline: Illinois voters decide Senate, governor and state races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7869
+  strength: 0.7882
 - slug: 2026-10-30-oregon-voters-decide-federal-and-state-races-tuesday-in-a-mostly-mail-election
-  headline: Oregon voters decide federal and state races Tuesday in a mostly mail election
+  headline: Oregon voters decide federal and state races Tuesday in a mostly mail
+    election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7782
+  strength: 0.7798
 - slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
   headline: Connecticut voters decide governor, House and statewide races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7778
+  strength: 0.7797
 - slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7762
-- slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
-  headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7727
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7625
-- slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
-  headline: Colorado voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7624
-- slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
-  headline: Indiana voters decide federal and state races in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7594
-- slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
-  headline: South Carolina voters decide federal and state offices in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7589
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7483
-- slug: 2026-10-30-new-jersey-voters-elect-senate-and-house-members-in-tuesday-s-midterm-election
-  headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7439
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7386
-- slug: 2026-10-30-minnesota-voters-pick-governor-senator-as-legislature-hangs-in-balance
-  headline: Minnesota voters pick governor, senator as Legislature hangs in balance
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7264
-- slug: 2026-10-30-louisiana-voters-decide-federal-and-state-races-in-tuesday-s-open-primary-electi
-  headline: Louisiana voters decide federal and state races in Tuesday's open-primary election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7222
-- slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
-  headline: Maine voters weigh Senate control, open governor race Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.708
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7038
-- slug: 2026-06-12-maine-begins-ranked-choice-ballot-counting-for-governor-house-primaries
-  headline: Maine begins ranked-choice ballot counting for governor, House primaries
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6822
+  strength: 0.7776
 ---
-
 ## Massachusetts voters decide senator, governor and state offices Tuesday
 
 **Subtype:** fact

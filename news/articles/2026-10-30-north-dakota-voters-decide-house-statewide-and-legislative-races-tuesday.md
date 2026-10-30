@@ -2,8 +2,18 @@
 headline: North Dakota voters decide House, statewide and legislative races Tuesday
 secondary_headline: Polls close at 7 p.m. local time across two time zones
 publish_date: '2026-10-30'
-lede: North Dakota voters will elect leaders for federal, state and other offices in Tuesday's midterm election, with polls closing at 7 p.m. local time in a state that spans the Central and Mountain time zones. The Associated Press will provide vote results and declare winners in races for U.S. House, attorney general, secretary of state, the state Senate and House, the state Supreme Court and several other statewide offices, along with statewide ballot measures.
-nut_graf: 'North Dakota''s election-night rhythm is shaped by county reporting habits: almost every county is expected to release all or nearly all of its results at once, while mail ballots lead the first reports in Cass, Grand Forks and Ward counties and in-person votes lead in Burleigh County. The AP''s no-projections standard and North Dakota''s 0.5% automatic-recount threshold set the benchmarks for when a race can be called.'
+lede: North Dakota voters will elect leaders for federal, state and other offices
+  in Tuesday's midterm election, with polls closing at 7 p.m. local time in a state
+  that spans the Central and Mountain time zones. The Associated Press will provide
+  vote results and declare winners in races for U.S. House, attorney general, secretary
+  of state, the state Senate and House, the state Supreme Court and several other
+  statewide offices, along with statewide ballot measures.
+nut_graf: 'North Dakota''s election-night rhythm is shaped by county reporting habits:
+  almost every county is expected to release all or nearly all of its results at once,
+  while mail ballots lead the first reports in Cass, Grand Forks and Ward counties
+  and in-person votes lead in Burleigh County. The AP''s no-projections standard and
+  North Dakota''s 0.5% automatic-recount threshold set the benchmarks for when a race
+  can be called.'
 primary_entities:
 - North Dakota
 - Associated Press
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +150,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-30-nevada-voters-decide-governor-u-s-house-and-state-races-in-tuesday-s-election
-  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's election
+  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's
+    election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8292
+  strength: 0.8298
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7938
+  strength: 0.7947
+- slug: 2026-10-30-new-mexico-voters-decide-senate-governor-and-state-races-in-tuesday-s-midterms
+  headline: New Mexico voters decide Senate, governor and state races in Tuesday's
+    midterms
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.791
 - slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
   headline: South Carolina voters decide federal and state offices in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.788
+  strength: 0.787
 - slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
   headline: Colorado voters decide federal, state and local races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7838
+  strength: 0.784
 - slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.782
+  strength: 0.7824
 - slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
   headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7797
+  strength: 0.7802
 - slug: 2026-10-30-oregon-voters-decide-federal-and-state-races-tuesday-in-a-mostly-mail-election
-  headline: Oregon voters decide federal and state races Tuesday in a mostly mail election
+  headline: Oregon voters decide federal and state races Tuesday in a mostly mail
+    election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7755
-- slug: 2026-10-30-new-jersey-voters-elect-senate-and-house-members-in-tuesday-s-midterm-election
-  headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7746
-- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: Montana voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7731
-- slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
-  headline: Connecticut voters decide governor, House and statewide races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7714
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7601
-- slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
-  headline: Illinois voters decide Senate, governor and state races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7538
-- slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
-  headline: Alabama voters decide Senate, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7525
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7395
-- slug: 2026-10-30-massachusetts-voters-decide-senator-governor-and-state-offices-tuesday
-  headline: Massachusetts voters decide senator, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7385
-- slug: 2026-10-30-louisiana-voters-decide-federal-and-state-races-in-tuesday-s-open-primary-electi
-  headline: Louisiana voters decide federal and state races in Tuesday's open-primary election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7331
-- slug: 2026-10-30-missouri-voters-decide-congressional-races-and-five-ballot-measures-tuesday
-  headline: Missouri voters decide congressional races and five ballot measures Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7099
-- slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
-  headline: Early ballots pass 43 million as US midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.693
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7123
-- slug: 2026-10-28-ap-voter-poll-will-survey-75-000-voters-for-the-2026-midterms
-  headline: AP Voter Poll will survey 75,000 voters for the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6852
+  strength: 0.7766
 ---
-
 ## North Dakota voters decide House, statewide and legislative races Tuesday
 
 **Subtype:** fact

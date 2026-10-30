@@ -1,9 +1,17 @@
 ---
 headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
-secondary_headline: Almost every county expected to release early ballots in the first report
+secondary_headline: Almost every county expected to release early ballots in the first
+  report
 publish_date: '2026-10-30'
-lede: New Jersey voters will elect U.S. Senate and U.S. House members on Tuesday in the 2026 midterm election, with polls closing at 8 p.m. ET, according to the Associated Press. Almost every county in the state is expected to release most or all mail and in-person early voting results in the first vote report of the night, before any in-person Election Day results.
-nut_graf: The Associated Press outlined the key facts and data points its decision team will monitor as votes are tallied — when results are expected to appear, how the organization decides to declare a winner, and how recounts work in a state where they are rare.
+lede: New Jersey voters will elect U.S. Senate and U.S. House members on Tuesday in
+  the 2026 midterm election, with polls closing at 8 p.m. ET, according to the Associated
+  Press. Almost every county in the state is expected to release most or all mail
+  and in-person early voting results in the first vote report of the night, before
+  any in-person Election Day results.
+nut_graf: The Associated Press outlined the key facts and data points its decision
+  team will monitor as votes are tallied — when results are expected to appear, how
+  the organization decides to declare a winner, and how recounts work in a state where
+  they are rare.
 primary_entities:
 - New Jersey
 - Associated Press
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,21 +145,38 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-30-new-mexico-voters-decide-senate-governor-and-state-races-in-tuesday-s-midterms
+  headline: New Mexico voters decide Senate, governor and state races in Tuesday's
+    midterms
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.8171
+- slug: 2026-10-30-nevada-voters-decide-governor-u-s-house-and-state-races-in-tuesday-s-election
+  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's
+    election
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.803
 - slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
   headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8029
+  strength: 0.8028
+- slug: 2026-10-30-north-dakota-voters-decide-house-statewide-and-legislative-races-tuesday
+  headline: North Dakota voters decide House, statewide and legislative races Tuesday
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7854
 - slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
   headline: Illinois voters decide Senate, governor and state races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7847
+  strength: 0.7849
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7845
+  strength: 0.7846
 - slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
   headline: South Carolina voters decide federal and state offices in Tuesday's election
   publish_date: '2026-10-30'
@@ -160,84 +186,8 @@ related_stories:
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.78
-- slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
-  headline: Alabama voters decide Senate, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7688
-- slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
-  headline: Connecticut voters decide governor, House and statewide races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7644
-- slug: 2026-10-30-oregon-voters-decide-federal-and-state-races-tuesday-in-a-mostly-mail-election
-  headline: Oregon voters decide federal and state races Tuesday in a mostly mail election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7612
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7612
-- slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
-  headline: Colorado voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7606
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7504
-- slug: 2026-10-30-louisiana-voters-decide-federal-and-state-races-in-tuesday-s-open-primary-electi
-  headline: Louisiana voters decide federal and state races in Tuesday's open-primary election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7461
-- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: Montana voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7371
-- slug: 2026-10-30-missouri-voters-decide-congressional-races-and-five-ballot-measures-tuesday
-  headline: Missouri voters decide congressional races and five ballot measures Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7332
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7212
-- slug: 2026-10-28-ap-voter-poll-will-survey-75-000-voters-for-the-2026-midterms
-  headline: AP Voter Poll will survey 75,000 voters for the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7217
-- slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
-  headline: Early ballots pass 43 million as US midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.703
-- slug: 2026-10-30-sununu-pappas-face-off-for-new-hampshire-s-open-senate-seat
-  headline: Sununu, Pappas face off for New Hampshire's open Senate seat
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6888
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7006
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.692
+  strength: 0.7802
 ---
-
 ## New Jersey voters elect Senate and House members in Tuesday's midterm election
 
 **Subtype:** fact
