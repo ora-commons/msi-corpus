@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-05-01'
   relation: related
   strength: 0.6693
+analyses:
+- '2026-10-30-creator-payouts-erode-the-trust-campaigns-seek-to-buy'
 ---
 ## Influencer campaigns overstate sway over Gen Z voters, essay argues
 
@@ -235,3 +237,8 @@ But Bronzini-Vender notes that both were interviews, not simply paid content, an
 **Publication date:** 2026-10-30
 **Title:** I’m a gen Z voter. Content creators have far less power than politicians think | Alex Bronzini-Vender
 **URL:** https://www.theguardian.com/commentisfree/2026/oct/30/gen-z-politics-content-creators
+
+---
+
+<!-- analysis-link:2026-10-30-creator-payouts-erode-the-trust-campaigns-seek-to-buy -->
+**Going deeper:** [Read MSI's analysis of creator payouts and Gen Z trust →](/analyses/2026-10-30-creator-payouts-erode-the-trust-campaigns-seek-to-buy)
