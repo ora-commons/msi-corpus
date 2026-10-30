@@ -202,6 +202,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-10-30-oil-s-rally-prices-claims-not-measured-supply'
 ---
 ## Oil futures climb after Hormuz tanker attack and Houthi claims
 
@@ -241,3 +243,8 @@ Seven OPEC+ producers are scheduled to meet Sunday to review market conditions a
 **Publication date:** 2026-10-30
 **Title:** Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears
 **URL:** https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37
+
+---
+
+<!-- analysis-link:2026-10-30-oil-s-rally-prices-claims-not-measured-supply -->
+**Going deeper:** [Read MSI's analysis of oil's rally versus the supply record →](/analyses/2026-10-30-oil-s-rally-prices-claims-not-measured-supply)
