@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-fear-trade-is-fully-booked.png
+  alt: 'Editorial cartoon by Hector Rentier: The Fear Trade Is Fully Booked'
+  caption: He files the bed count before the body count.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-29T22:04:35-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single 1:1 panel, heavy Nast cross-hatch wood-engraving. Center-right,
+    a composed, fully individuated financier in an expensive suit sits at a narrow
+    banquet table, calmly eating from a platter; he is
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-29-hector-paired-with-2026-10-29-sterling-the-fear-trade-is-fully-booked
 ---
+
+![Editorial cartoon by Hector Rentier: The Fear Trade Is Fully Booked](/cartoons/the-fear-trade-is-fully-booked.png)
+*He files the bed count before the body count.*
 
 To the holders of Valdosta Secure Holdings:
 

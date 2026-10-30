@@ -1,7 +1,9 @@
 ---
 headline: Wanda Grades the Sentences. The Fund Sends Me the Invoice.
 publish_date: '2026-10-29'
-lede: Wanda is a 41-year-old judgment hand on the model-training floor I own outside Scranton, Pennsylvania, and she's the reason the chat window you opened before your coffee sounded calm instead of mechanical.
+lede: Wanda is a 41-year-old judgment hand on the model-training floor I own outside
+  Scranton, Pennsylvania, and she's the reason the chat window you opened before your
+  coffee sounded calm instead of mechanical.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +33,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/wanda-grades-the-sentences-the-fund-sends-me-the-invoice.png
+  alt: 'Editorial cartoon by Hector Rentier: Wanda Grades the Sentences. The Fund
+    Sends Me the Invoice.'
+  caption: The tax doesn't take from my margin. It takes from hers.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-29T22:05:17-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single 1:1 panel, heavy cross-hatch wood-engraving. At center, Sterling
+    A. Varice — fully individuated, well-dressed in a tailored suit, composed and
+    self-pleased — sits at a polished desk atop a smal
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-29-hector-paired-with-2026-10-29-sterling-wanda-grades-the-sentences-the-fund-sends-me-the-invoice
 ---
+
+![Editorial cartoon by Hector Rentier: Wanda Grades the Sentences. The Fund Sends Me the Invoice.](/cartoons/wanda-grades-the-sentences-the-fund-sends-me-the-invoice.png)
+*The tax doesn't take from my margin. It takes from hers.*
 
 Wanda is a 41-year-old judgment hand on the model-training floor I own outside Scranton, Pennsylvania, and she's the reason the chat window you opened before your coffee sounded calm instead of mechanical. She grades 1,400 sentences a shift so the machine can learn which of its own sentences sound human. You used her before the cup was poured. I keep $0.015 of every judgment she renders; with Tuesday's difference I bought a footrest. God has blessed your morning, and the conversation that wrote itself was hers, credited to the machine.
 

@@ -1,7 +1,9 @@
 ---
-headline: Trump Has Turned the Justice Department Into His Election-Theft Weapon. The Courts Are the Only Wall — for Now.
+headline: Trump Has Turned the Justice Department Into His Election-Theft Weapon.
+  The Courts Are the Only Wall — for Now.
 publish_date: '2026-10-29'
-lede: Trump ordered the Justice Department into court to stop Alaska from certifying its own election.
+lede: Trump ordered the Justice Department into court to stop Alaska from certifying
+  its own election.
 pen_name: thomas-reynolds
 primary_entities:
 - Donald Trump
@@ -35,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +59,28 @@ cross_article_links:
   strength: 0.9568
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-has-turned-the-justice-department-into-his-election.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Has Turned the Justice Department
+    Into His Election-Theft Weapon. The Courts Are…'
+  caption: The denial and the boast were sworn and boasted in the same news cycle.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-29T22:03:22-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 wood-engraving panel, heavy cross-hatch, pure black masses
+    balanced against carved-out whites. Center-left: Attorney General Todd Blanche
+    stands at a CNN-branded podium in a well-tailored s'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-29-hector-paired-with-2026-10-29-thomas-reynolds-midterms-trump-voting-election-interfere
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Has Turned the Justice Department Into His Election-Theft Weapon. The Courts Are…](/cartoons/trump-has-turned-the-justice-department-into-his-election.png)
+*The denial and the boast were sworn and boasted in the same news cycle.*
 
 Trump ordered the Justice Department into court to stop Alaska from certifying its own election. For the first time since the Civil Rights era, academics believe, the federal government has sued to stop a state from certifying an election — not to contest a result after it was announced, but to prevent the result from ever being declared. He ordered this lawsuit before anyone even knows who won. The suit will be thrown out. That is not the warning; it is the plan.
 

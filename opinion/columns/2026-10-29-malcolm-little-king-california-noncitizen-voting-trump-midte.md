@@ -1,5 +1,6 @@
 ---
-headline: 'Three States, One Tell: Nobody Filing These Briefs Is Waiting to Find Out Who Wins'
+headline: 'Three States, One Tell: Nobody Filing These Briefs Is Waiting to Find Out
+  Who Wins'
 publish_date: '2026-10-29'
 lede: The list had 20,000 names on it.
 pen_name: malcolm-little-king
@@ -33,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +56,28 @@ cross_article_links:
   strength: 0.6188
   confidence: high
 draft: false
+image:
+  url: /cartoons/three-states-one-tell-nobody-filing-these-briefs-is-waiting.png
+  alt: 'Editorial cartoon by Hector Rentier: Three States, One Tell: Nobody Filing
+    These Briefs Is Waiting to Find Out Who Wins'
+  caption: A deadline designed to be missed is a lawsuit with the complaint pre-written.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-29T22:04:11-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 wood-engraving panel, heavy cross-hatch. Center frame: an
+    immaculate federal courthouse desk, and stacked upon it three legal filing boxes
+    labeled in sequence up a rising diagonal — CALIFOR'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-29-hector-paired-with-2026-10-29-malcolm-little-king-california-noncitizen-voting-trump-midte
 ---
+
+![Editorial cartoon by Hector Rentier: Three States, One Tell: Nobody Filing These Briefs Is Waiting to Find Out Who Wins](/cartoons/three-states-one-tell-nobody-filing-these-briefs-is-waiting.png)
+*A deadline designed to be missed is a lawsuit with the complaint pre-written.*
 
 The list had 20,000 names on it. President Donald Trump's administration handed it to California's election officials in mid-October, told them the people on it were likely noncitizens sitting on the state's voter rolls, and gave officials 48 hours to review. The administration says the state missed that deadline. California kept counting ballots anyway. So the administration sued — and on Wednesday, U.S. District Judge David O. Carter [rejected its request](/articles/2026-10-29-federal-judge-rejects-doj-bid-to-segregate-california-ballots-over-citizenship/) to stop California from processing those ballots. His warning: requiring the state to wait until the voters' immigration status was verified would "wreak havoc" on the midterms, with Election Day, Nov. 3, still ahead.
 
