@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - United Press International
   outlet_classes:
@@ -244,3 +244,9 @@ The Friday hearing is scheduled before Chutkan, who has already imposed the adva
 **Publication date:** 2026-10-30
 **Title:** Emergency hearing planned on Trump's arch project
 **URL:** https://www.upi.com/Top_News/World-News/2026/10/30/emergency-hearing-trump-arch/6071793370546/
+
+### src_late_a564300d7252ca0d — United Press International, wire, Tier 2, originating
+**Publication date:** 2026-10-30
+**Title:** Emergency hearing planned on Trump's arch project
+**URL:** https://www.upi.com/Top_News/US/2026/10/30/emergency-hearing-trump-arch/6071793370546/
+**Added after publication:** true
