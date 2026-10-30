@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-01-16'
   relation: related
   strength: 0.7616
+analyses:
+- '2026-10-30-youth-chatbot-adoption-outruns-causal-evidence-on-mental-health-link'
 ---
 ## Surveys find nearly two-thirds of tweens and teens use AI chatbots
 
@@ -237,3 +239,8 @@ One potential explanation, Maheux said, is that AI eases people's emotional dist
 **Publication date:** 2026-10-30
 **Title:** Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows
 **URL:** https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media
+
+---
+
+<!-- analysis-link:2026-10-30-youth-chatbot-adoption-outruns-causal-evidence-on-mental-health-link -->
+**Going deeper:** [Read MSI's analysis of youth chatbot use and distress correlation →](/analyses/2026-10-30-youth-chatbot-adoption-outruns-causal-evidence-on-mental-health-link)
