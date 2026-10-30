@@ -156,6 +156,8 @@ related_stories:
   publish_date: '2026-06-15'
   relation: related
   strength: 0.662
+analyses:
+- '2026-10-30-synchronized-site-registration-escapes-chatbot-credibility-checks'
 ---
 ## ChatGPT cites political ad sites disguised as local news
 
@@ -202,3 +204,8 @@ NPR's review was based on downloads of every website homepage and article page t
 **Publication date:** 2026-10-30
 **Title:** Websites pretending to be local news are boosting Democratic candidates
 **URL:** https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats
+
+---
+
+<!-- analysis-link:2026-10-30-synchronized-site-registration-escapes-chatbot-credibility-checks -->
+**Going deeper:** [Read MSI's analysis of the disguised local-news ad network →](/analyses/2026-10-30-synchronized-site-registration-escapes-chatbot-credibility-checks)
