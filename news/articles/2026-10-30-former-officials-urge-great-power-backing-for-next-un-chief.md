@@ -2,8 +2,18 @@
 headline: Former officials urge great-power backing for next UN chief
 secondary_headline: US, China, Russia hold disproportionate capacity, essay says
 publish_date: '2026-10-30'
-lede: Alex Rondos, a former envoy of the European Union, and Mark Medish, a former senior US national security and Treasury official, published an opinion essay in The Guardian on Oct. 30 arguing that the United Nations "needs a new lease on life" and that the next secretary-general will require the concerted backing of the few powers that govern the Security Council. The authors contend that the great powers that created the UN in the 1940s and now treat it with "cavalier cynicism" are the ones who need it most as the resort to war, drone proliferation and artificial intelligence multiply global dangers.
-nut_graf: The essay casts the choice of the next secretary-general as one of the few moments when the Security Council's permanent members must agree on "a qualified person and a timely agenda," arguing that in practice the United States, China and Russia hold the disproportionate capacity to contain or unleash the dangers it catalogs.
+lede: Alex Rondos, a former envoy of the European Union, and Mark Medish, a former
+  senior US national security and Treasury official, published an opinion essay in
+  The Guardian on Oct. 30 arguing that the United Nations "needs a new lease on life"
+  and that the next secretary-general will require the concerted backing of the few
+  powers that govern the Security Council. The authors contend that the great powers
+  that created the UN in the 1940s and now treat it with "cavalier cynicism" are the
+  ones who need it most as the resort to war, drone proliferation and artificial intelligence
+  multiply global dangers.
+nut_graf: The essay casts the choice of the next secretary-general as one of the few
+  moments when the Security Council's permanent members must agree on "a qualified
+  person and a timely agenda," arguing that in practice the United States, China and
+  Russia hold the disproportionate capacity to contain or unleash the dangers it catalogs.
 primary_entities:
 - United Nations
 - Security Council
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,45 @@ related_stories:
   headline: World fixated on AI ignores nuclear arms race, columnist warns
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6755
-- slug: 2026-10-20-unidir-to-launch-first-international-forum-on-military-ai
-  headline: UNIDIR to launch first international forum on military AI
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6218
-- slug: 2026-10-15-elliott-column-warns-global-economy-s-resilience-faces-limits
-  headline: Elliott column warns global economy's resilience faces limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6181
+  strength: 0.6752
 - slug: 2026-09-22-world-leaders-at-un-general-assembly-call-for-security-council-reform
   headline: World leaders at UN General Assembly call for Security Council reform
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7112
-- slug: 2026-10-05-michael-jacobs-outlines-uk-g20-priorities-on-ai-food-climate
-  headline: Michael Jacobs outlines UK G20 priorities on AI, food, climate
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6256
+  strength: 0.7109
 - slug: 2026-09-20-next-un-secretary-general-faces-gaza-genocide-accusation-climate-crisis-ai-threa
-  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis, AI threats
+  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis,
+    AI threats
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6677
+  strength: 0.6667
 - slug: 2026-09-22-guterres-opens-un-general-assembly-warning-of-widening-fault-lines
   headline: Guterres opens UN General Assembly warning of 'widening fault lines'
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6574
+  strength: 0.6578
 - slug: 2026-09-21-middle-powers-form-hedging-alliances-as-trump-reshapes-global-order
   headline: Middle powers form hedging alliances as Trump reshapes global order
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6608
-- slug: 2026-09-30-chilean-academic-pope-s-paradise-of-machines-warning-carries-urgency-for-latin-a
-  headline: 'Chilean academic: Pope''s ''paradise of machines'' warning carries urgency for Latin America'
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6218
-- slug: 2026-09-26-macron-defends-multilateralism-in-final-un-speech
-  headline: Macron defends multilateralism in final UN speech
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6308
-- slug: 2026-09-22-widmer-trump-un-speech-was-hollow-and-short-on-ideas
-  headline: 'Widmer: Trump UN speech was ''hollow'' and ''short on ideas'''
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6264
-- slug: 2026-09-23-zelensky-tells-un-general-assembly-russia-s-war-could-spread
-  headline: Zelensky tells UN General Assembly Russia's war could spread
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6212
-- slug: 2026-09-22-trump-prepares-un-address-as-approval-sits-below-40
-  headline: Trump prepares UN address as approval sits below 40%
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.623
-- slug: 2026-09-23-burnham-weighs-uk-position-between-us-china-and-eu-spheres-of-influence
-  headline: Burnham weighs UK position between US, China and EU 'spheres of influence'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6178
-- slug: 2026-09-18-lagarde-urges-europe-to-build-its-own-ai-to-avoid-us-china-dependency
-  headline: Lagarde urges Europe to build its own AI to avoid US, China dependency
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6187
-- slug: 2026-09-12-rudd-calls-for-australian-self-reliance-as-us-china-war-risks-rise
-  headline: Rudd calls for Australian self-reliance as US-China war risks rise
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.633
+  strength: 0.6614
 - slug: 2026-07-29-yale-law-professors-call-for-anti-war-agenda-to-replace-u-s--led-order
   headline: Yale law professors call for anti-war agenda to replace U.S.-led order
   publish_date: '2026-07-29'
   relation: related
-  strength: 0.6625
+  strength: 0.6626
 - slug: 2026-06-10-great-powers-confront-limits-as-modern-warfare-levels-the-battlefield
   headline: Great powers confront limits as modern warfare levels the battlefield
   publish_date: '2026-06-10'
   relation: related
   strength: 0.6548
-- slug: 2026-07-06-guterres-calls-for-international-ban-on-killer-robots
-  headline: Guterres calls for international ban on ‘killer robots’
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6281
 - slug: 2026-01-15-guterres-opens-final-year-at-un-by-condemning-law-violations-ultra-wealthy-influ
-  headline: Guterres opens final year at UN by condemning law violations, ultra-wealthy influence
+  headline: Guterres opens final year at UN by condemning law violations, ultra-wealthy
+    influence
   publish_date: '2026-01-15'
   relation: related
-  strength: 0.6613
+  strength: 0.6611
 ---
-
 ## Former officials urge great-power backing for next UN chief
 
 **Subtype:** fact

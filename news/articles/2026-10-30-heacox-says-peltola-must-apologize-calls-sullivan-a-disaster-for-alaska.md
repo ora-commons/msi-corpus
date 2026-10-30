@@ -2,8 +2,15 @@
 headline: Heacox says Peltola must apologize, calls Sullivan a disaster for Alaska
 secondary_headline: DOJ seeks to block Peltola win pending probe into namesake votes
 publish_date: '2026-10-30'
-lede: Kim Heacox, a former Alaska national park ranger and author, argued in a Guardian opinion column published Oct. 30 that Democrat Mary Peltola made a mistake and must apologize to Alaskans, while warning that Republican Sen. Dan Sullivan would be a disaster for the state. Heacox wrote that control of the U.S. Senate for the next two years could come down to the Nov. 3 Alaska race between Sullivan and Peltola.
-nut_graf: The column lands four days before the Nov. 3 election, with a Justice Department lawsuit over the namesake ballot listing and New York Times reporting on an alleged spoiler scheme at the center of a Senate race that Heacox says could determine control of the chamber.
+lede: Kim Heacox, a former Alaska national park ranger and author, argued in a Guardian
+  opinion column published Oct. 30 that Democrat Mary Peltola made a mistake and must
+  apologize to Alaskans, while warning that Republican Sen. Dan Sullivan would be
+  a disaster for the state. Heacox wrote that control of the U.S. Senate for the next
+  two years could come down to the Nov. 3 Alaska race between Sullivan and Peltola.
+nut_graf: The column lands four days before the Nov. 3 election, with a Justice Department
+  lawsuit over the namesake ballot listing and New York Times reporting on an alleged
+  spoiler scheme at the center of a Senate race that Heacox says could determine control
+  of the chamber.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +150,43 @@ related_stories:
   headline: Spoiler allegations roil Alaska's tight Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7486
+  strength: 0.7487
 - slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
   headline: Peltola reschedules Alaska Senate campaign events on medical advice
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7669
+  strength: 0.7671
 - slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
   headline: Sullivan and Peltola court Alaska Native voters before midterms
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7644
-- slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
-  headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7418
 - slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
   headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7413
+  strength: 0.7419
+- slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
+  headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
+  publish_date: '2026-10-28'
+  relation: related
+  strength: 0.7416
 - slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
   headline: Alaska Republican governor calls for investigation into namesake filing
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7327
+  strength: 0.7333
 - slug: 2026-10-29-murkowski-condemns-peltola-campaign-while-opposing-doj-lawsuit
   headline: Murkowski condemns Peltola campaign while opposing DOJ lawsuit
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7327
-- slug: 2026-10-29-justice-department-files-amended-complaint-in-alaska-senate-race-probe
-  headline: Justice Department files amended complaint in Alaska Senate race probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7243
+  strength: 0.7326
 - slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
   headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7311
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7197
-- slug: 2026-10-28-fired-campaign-manager-says-peltola-was-definitely-aware-of-an-alleged-plan
-  headline: Fired campaign manager says Peltola was "definitely aware" of an alleged plan
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7182
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7482
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7447
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7397
-- slug: 2026-10-25-trump-criticizes-murkowski-after-she-opposes-alaska-certification-suit
-  headline: Trump criticizes Murkowski after she opposes Alaska certification suit
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7243
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7346
-- slug: 2026-10-25-mary-peltola-s-campaign-says-medical-providers-advise-rescheduling-sunday-and-mo
-  headline: Mary Peltola's campaign says medical providers advise rescheduling Sunday and Monday events
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7207
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7398
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7436
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7519
+  strength: 0.7318
 ---
-
 ## Heacox says Peltola must apologize, calls Sullivan a disaster for Alaska
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Harris poll finds corruption second only to cost of living for voters
 secondary_headline: Voters twice as likely to call GOP the bigger corruption problem
 publish_date: '2026-10-30'
-lede: Government corruption has emerged as a top issue in the U.S. midterm elections, ranking second only to the rising cost of living among voter concerns, according to an exclusive Harris Poll conducted for the Guardian. The survey, conducted online Oct. 22-24 among a nationally representative sample of 2,065 U.S. adults, found 76% of voters say elected officials care more about enriching themselves than improving the economy for ordinary people, and nearly nine in 10 Americans call corruption a problem.
-nut_graf: Corruption outpaced immigration, housing costs, abortion, crime and safety, and AI as a voter concern in the survey, which follows nearly two years of Donald Trump's second term. Voters were twice as likely to say Republicans have a bigger corruption problem than Democrats, and the cycle has already drawn a record $11.2bn in advertising, according to NBC News.
+lede: Government corruption has emerged as a top issue in the U.S. midterm elections,
+  ranking second only to the rising cost of living among voter concerns, according
+  to an exclusive Harris Poll conducted for the Guardian. The survey, conducted online
+  Oct. 22-24 among a nationally representative sample of 2,065 U.S. adults, found
+  76% of voters say elected officials care more about enriching themselves than improving
+  the economy for ordinary people, and nearly nine in 10 Americans call corruption
+  a problem.
+nut_graf: Corruption outpaced immigration, housing costs, abortion, crime and safety,
+  and AI as a voter concern in the survey, which follows nearly two years of Donald
+  Trump's second term. Voters were twice as likely to say Republicans have a bigger
+  corruption problem than Democrats, and the cycle has already drawn a record $11.2bn
+  in advertising, according to NBC News.
 primary_entities:
 - United States
 - Donald Trump
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,12 +72,14 @@ figures:
   series_id: SP500
   transformation: raw
   as_of: '2026-10-30'
-  caption: The S&P 500 stood at 7,743.98 on Oct. 30, 2026, after the index hit a record high in early October amid heavy AI-related spending.
+  caption: The S&P 500 stood at 7,743.98 on Oct. 30, 2026, after the index hit a record
+    high in early October amid heavy AI-related spending.
 - source: fred
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-10-30'
-  caption: The Nasdaq Composite stood at 26,184.72 on Oct. 30, 2026, after the tech-heavy index set a record high in early October.
+  caption: The Nasdaq Composite stood at 26,184.72 on Oct. 30, 2026, after the tech-heavy
+    index set a record high in early October.
 figures_aggregate:
   count: 2
   series_ids:
@@ -161,104 +174,44 @@ related_stories:
   headline: Fox News poll finds government corruption outranks inflation among voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.765
+  strength: 0.7652
 - slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
   headline: The Guardian seeks US voter priorities for Nov. 3 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7166
+  strength: 0.7165
 - slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll
+    finds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7807
+  strength: 0.781
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7115
-- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
-  headline: Economic populism gains ground as both parties court midterm voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6972
+  strength: 0.7097
 - slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7017
+  strength: 0.702
 - slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
   headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7489
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7128
+  strength: 0.7488
 - slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
   headline: Poll finds 66% of Americans say Trump enriching himself
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7187
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
+  strength: 0.7197
+- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
+  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
+  publish_date: '2026-10-20'
   relation: related
-  strength: 0.7031
-- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
-  headline: Democrats elevate Trump corruption claims as midterm campaign issue
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7564
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.713
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.699
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7053
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7066
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7187
-- slug: 2026-07-08-maga-supporters-report-widespread-financial-strain-harris-poll-finds
-  headline: MAGA supporters report widespread financial strain, Harris poll finds
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7319
-- slug: 2026-07-21-two-in-five-americans-say-stock-market-only-serves-the-top-1-poll-finds
-  headline: Two in five Americans say stock market only serves the top 1%, poll finds
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7076
-- slug: 2026-02-05-americans-report-high-anxiety-about-politics-and-economy-gallup-poll
-  headline: Americans report high anxiety about politics and economy, Gallup poll
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7583
-- slug: 2026-06-19-economic-anxiety-spreads-to-wealthiest-americans-poll-finds
-  headline: Economic Anxiety Spreads to Wealthiest Americans, Poll Finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7025
+  strength: 0.7116
 ---
-
 ## Harris poll finds corruption second only to cost of living for voters
 
 **Subtype:** fact
