@@ -1,9 +1,18 @@
 ---
 headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-secondary_headline: Polls close at midnight ET, with early and mail ballots reported first
+secondary_headline: Polls close at midnight ET, with early and mail ballots reported
+  first
 publish_date: '2026-10-30'
-lede: Hawaii voters will elect leaders for federal, state and other offices on Tuesday, in an election the state conducts primarily by mail. Polls close at 7 p.m. Hawaii time — midnight Eastern. The Associated Press will report results and declare winners in the races for governor, U.S. House, statewide ballot measures, state Senate and state House.
-nut_graf: 'Hawaii''s vote-by-mail structure shapes election-night expectations: all four counties are expected to release most early in-person and mail results in their first updates, and the state reported its first 2024 general election results about five hours after polls closed. The AP''s no-projection calling standard and Hawaii''s automatic recount thresholds govern how races are decided and reported.'
+lede: Hawaii voters will elect leaders for federal, state and other offices on Tuesday,
+  in an election the state conducts primarily by mail. Polls close at 7 p.m. Hawaii
+  time — midnight Eastern. The Associated Press will report results and declare winners
+  in the races for governor, U.S. House, statewide ballot measures, state Senate and
+  state House.
+nut_graf: 'Hawaii''s vote-by-mail structure shapes election-night expectations: all
+  four counties are expected to release most early in-person and mail results in their
+  first updates, and the state reported its first 2024 general election results about
+  five hours after polls closed. The AP''s no-projection calling standard and Hawaii''s
+  automatic recount thresholds govern how races are decided and reported.'
 primary_entities:
 - Hawaii
 - Associated Press
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +146,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
+  headline: Montana voters decide federal, state and legislative races Tuesday
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.8047
 - slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
   headline: Colorado voters decide federal, state and local races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7922
+  strength: 0.7923
 - slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
   headline: Alabama voters decide Senate, governor and state offices Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7789
+  strength: 0.7787
 - slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7745
+  strength: 0.7744
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7727
+  strength: 0.7723
 - slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
   headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7691
+  strength: 0.7692
 - slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
   headline: Connecticut voters decide governor, House and statewide races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7599
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
+  strength: 0.7598
+- slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
+  headline: South Carolina voters decide federal and state offices in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7565
-- slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
-  headline: Illinois voters decide Senate, governor and state races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7525
-- slug: 2026-10-30-arizona-voters-decide-governor-congressional-races-tuesday
-  headline: Arizona voters decide governor, congressional races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6775
-- slug: 2026-10-28-ap-voter-poll-will-survey-75-000-voters-for-the-2026-midterms
-  headline: AP Voter Poll will survey 75,000 voters for the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6863
-- slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
-  headline: Early ballots pass 43 million as US midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6745
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6709
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6637
-- slug: 2026-03-02-arkansas-voters-head-to-tuesday-primaries-with-key-federal-and-state-contests
-  headline: Arkansas voters head to Tuesday primaries with key federal and state contests
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7207
-- slug: 2026-05-17-what-to-expect-in-alabama-s-primaries-amid-map-triggered-delays
-  headline: What to expect in Alabama’s primaries amid map-triggered delays
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7008
-- slug: 2026-05-18-idaho-primaries-tuesday-key-races-voting-rules-and-when-polls-close
-  headline: 'Idaho primaries Tuesday: key races, voting rules, and when polls close'
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6919
-- slug: 2026-05-17-pennsylvania-primary-elections-set-for-tuesday-with-key-house-races-in-focus
-  headline: Pennsylvania primary elections set for Tuesday, with key House races in focus
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6908
-- slug: 2026-03-04-why-and-how-ap-calls-elections
-  headline: Why and how AP calls elections
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7092
-- slug: 2026-05-18-what-to-expect-in-oregon-s-primaries-from-ballot-rules-to-key-races
-  headline: What to expect in Oregon’s primaries, from ballot rules to key races
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6861
-- slug: 2026-06-12-maine-begins-ranked-choice-ballot-counting-for-governor-house-primaries
-  headline: Maine begins ranked-choice ballot counting for governor, House primaries
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.655
+  strength: 0.7573
 ---
-
 ## Hawaii voters decide federal and state races Tuesday in mail-ballot election
 
 **Subtype:** fact
