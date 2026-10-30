@@ -2,8 +2,16 @@
 headline: Evacuations begin in occupied Oleshky, 527 expected to return
 secondary_headline: Evacuees to enter Ukraine via Russia and Belarus
 publish_date: '2026-10-30'
-lede: Reports from Russian-occupied Oleshky confirm that evacuations are now under way as part of a US-brokered localized ceasefire to provide humanitarian aid to the city's residents. Ukraine's prime minister, Sergii Koretskyi, said 527 people are expected to return to Ukraine-controlled territories, traveling through Russia to Belarus before re-entering Ukraine through the Kyiv and Chernihiv regions.
-nut_graf: The evacuations represent the movement of residents out of a city in Ukraine's Russian-occupied Kherson region under a ceasefire the US brokered for a humanitarian aid mission. Ukraine's prime minister, Sergii Koretskyi, said 527 people are expected to return to Ukraine-controlled territories. Russian human rights commissioner Yana Lantratova claimed that some people wanted to be evacuated to Russia.
+lede: Reports from Russian-occupied Oleshky confirm that evacuations are now under
+  way as part of a US-brokered localized ceasefire to provide humanitarian aid to
+  the city's residents. Ukraine's prime minister, Sergii Koretskyi, said 527 people
+  are expected to return to Ukraine-controlled territories, traveling through Russia
+  to Belarus before re-entering Ukraine through the Kyiv and Chernihiv regions.
+nut_graf: The evacuations represent the movement of residents out of a city in Ukraine's
+  Russian-occupied Kherson region under a ceasefire the US brokered for a humanitarian
+  aid mission. Ukraine's prime minister, Sergii Koretskyi, said 527 people are expected
+  to return to Ukraine-controlled territories. Russian human rights commissioner Yana
+  Lantratova claimed that some people wanted to be evacuated to Russia.
 primary_entities:
 - Oleshky
 - Sergii Koretskyi
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,7 +151,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
-  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses arrive
+  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+    arrive
   publish_date: '2026-10-27'
   relation: related
   strength: 0.7952
@@ -172,77 +182,18 @@ related_stories:
   relation: related
   strength: 0.7158
 - slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
   publish_date: '2026-10-22'
   relation: related
   strength: 0.6679
 - slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
   publish_date: '2026-10-22'
   relation: related
   strength: 0.6648
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6623
-- slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
-  headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6634
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6653
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.666
-- slug: 2026-10-10-russian-attacks-kill-at-least-19-across-ukraine-overnight
-  headline: Russian attacks kill at least 19 across Ukraine overnight
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6639
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7296
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6674
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6807
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6803
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6744
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6728
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6661
 ---
-
 ## Evacuations begin in occupied Oleshky, 527 expected to return
 
 **Subtype:** fact

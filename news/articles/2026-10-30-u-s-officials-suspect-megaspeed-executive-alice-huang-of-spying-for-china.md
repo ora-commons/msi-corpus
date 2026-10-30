@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.668
+analyses:
+- '2026-10-30-analysis-the-export-control-regime-s-load-bearing-fault-runs-through-third-count'
 ---
 ## U.S. officials suspect Megaspeed executive Alice Huang of spying for China
 
@@ -237,3 +239,8 @@ In March, Nvidia was drawn into another China-related export-control case when W
 **Publication date:** 2026-10-30
 **Title:** Chinese Executive Close to Nvidia CEO Suspected of Giving China Information
 **URL:** https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1
+
+---
+
+<!-- analysis-link:2026-10-30-analysis-the-export-control-regime-s-load-bearing-fault-runs-through-third-count -->
+**Going deeper:** [Read MSI's analysis of The Megaspeed case locates the export-control architecture's principal fragility at the third-countr →](/analyses/2026-10-30-analysis-the-export-control-regime-s-load-bearing-fault-runs-through-third-count)

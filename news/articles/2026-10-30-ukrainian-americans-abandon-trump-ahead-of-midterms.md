@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-06-22'
   relation: related
   strength: 0.652
+analyses:
+- '2026-10-30-trump-s-russia-turn-negates-a-republican-identity-built-on-anti-communism'
 ---
 ## Ukrainian Americans abandon Trump ahead of midterms
 
@@ -272,3 +274,8 @@ A clear-eyed view of Trump’s foreign policy could reap an electoral whirlwind 
 **Publication date:** 2026-10-30
 **Title:** Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections
+
+---
+
+<!-- analysis-link:2026-10-30-trump-s-russia-turn-negates-a-republican-identity-built-on-anti-communism -->
+**Going deeper:** [Read MSI's analysis of the Russia turn's Republican rupture →](/analyses/2026-10-30-trump-s-russia-turn-negates-a-republican-identity-built-on-anti-communism)

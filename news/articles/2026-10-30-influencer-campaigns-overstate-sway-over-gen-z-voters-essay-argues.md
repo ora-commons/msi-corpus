@@ -1,9 +1,20 @@
 ---
 headline: Influencer campaigns overstate sway over Gen Z voters, essay argues
-secondary_headline: Surveys show young voters turn to family and friends for political advice
+secondary_headline: Surveys show young voters turn to family and friends for political
+  advice
 publish_date: '2026-10-30'
-lede: Alex Bronzini-Vender, a writer living in New York who identifies as a Gen Z voter, published an opinion essay in The Guardian on Oct. 30 arguing that content creators have far less power over young voters than either party assumes and that the evidence does not support the parties' influencer operations. The essay cites a series of surveys showing that most young people turn to family members, friends and organizations they follow — not influencers — for political information.
-nut_graf: 'With the 2026 US midterm elections approaching, both parties have invested heavily in courting the creators they believe hold young voters'' attention: the NRCC has paid more than $120,000 to conservative influencers, and the DNC has partnered with more than 500 online personalities. Bronzini-Vender contends that premise is unsupported and can backfire, citing polling that voters trust creators less once campaign payments are disclosed.'
+lede: Alex Bronzini-Vender, a writer living in New York who identifies as a Gen Z
+  voter, published an opinion essay in The Guardian on Oct. 30 arguing that content
+  creators have far less power over young voters than either party assumes and that
+  the evidence does not support the parties' influencer operations. The essay cites
+  a series of surveys showing that most young people turn to family members, friends
+  and organizations they follow — not influencers — for political information.
+nut_graf: 'With the 2026 US midterm elections approaching, both parties have invested
+  heavily in courting the creators they believe hold young voters'' attention: the
+  NRCC has paid more than $120,000 to conservative influencers, and the DNC has partnered
+  with more than 500 online personalities. Bronzini-Vender contends that premise is
+  unsupported and can backfire, citing polling that voters trust creators less once
+  campaign payments are disclosed.'
 primary_entities:
 - Alex Bronzini-Vender
 - The Guardian
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,10 +156,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-28-support-among-young-men-who-voted-for-trump-has-eroded-since-the-2024-election
-  headline: Support among young men who voted for Trump has eroded since the 2024 election
+  headline: Support among young men who voted for Trump has eroded since the 2024
+    election
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6912
+  strength: 0.6915
 - slug: 2026-10-27-the-guardian-asks-gen-z-voters-what-will-guide-their-2026-midterms
   headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
   publish_date: '2026-10-27'
@@ -157,94 +170,33 @@ related_stories:
   headline: Navigator focus group finds some Gen Z Trump voters regret 2024 vote
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6836
+  strength: 0.6845
 - slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
   headline: Young voters under 30 become key 2026 midterm target for both parties
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7041
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6337
-- slug: 2026-10-15-georgia-swing-voters-regret-2024-trump-vote-eye-democratic-midterms
-  headline: Georgia swing voters regret 2024 Trump vote, eye Democratic midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.641
+  strength: 0.704
 - slug: 2026-10-10-bold-pac-recruits-latino-influencers-as-democrats-court-hispanic-voters
   headline: BOLD PAC recruits Latino influencers as Democrats court Hispanic voters
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6656
-- slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
-  headline: Young voters split on gun control despite shared fear of mass shootings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6373
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6327
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6482
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6366
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6348
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6309
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6342
-- slug: 2026-09-09-democratic-aligned-groups-court-gen-z-voters-with-donuts-and-block-parties
-  headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6495
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6464
+  strength: 0.6653
 - slug: 2026-06-15-as-midterms-approach-campaigns-test-whether-internet-fame-can-win-votes
   headline: As midterms approach, campaigns test whether internet fame can win votes
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.7118
-- slug: 2026-08-11-guardian-editorial-says-ai-money-is-distorting-us-political-debate
-  headline: Guardian editorial says AI money is distorting US political debate
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6318
+  strength: 0.7115
 - slug: 2026-06-15-ai-generated-campaign-ads-surge-ahead-of-midterms-researchers-say
   headline: AI-generated campaign ads surge ahead of midterms, researchers say
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.6859
+  strength: 0.6857
 - slug: 2026-05-01-most-teens-get-news-from-social-media-and-influencers-ap-norc-poll-finds
   headline: Most teens get news from social media and influencers, AP-NORC poll finds
   publish_date: '2026-05-01'
   relation: related
-  strength: 0.6697
+  strength: 0.6693
 ---
-
 ## Influencer campaigns overstate sway over Gen Z voters, essay argues
 
 **Subtype:** fact
