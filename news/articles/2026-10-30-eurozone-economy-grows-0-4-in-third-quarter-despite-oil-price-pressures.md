@@ -2,8 +2,13 @@
 headline: Eurozone economy grows 0.4% in third quarter despite oil-price pressures
 secondary_headline: France contracts 0.1% as budget deadlock weighs on confidence
 publish_date: '2026-10-30'
-lede: The eurozone economy grew 0.4% in the third quarter, beating analyst expectations of 0.2% despite higher oil prices from the U.S.-Iran war, the EU's statistics agency reported Friday. The 21 European Union member countries that use the euro expanded 1.3% compared with the same period a year earlier.
-nut_graf: The reading keeps the European Central Bank weighing a possible December rate increase, with inflation at 3.8% running nearly double its 2% target and economists flagging signs that oil-price pressure is spreading to wages and prices.
+lede: The eurozone economy grew 0.4% in the third quarter, beating analyst expectations
+  of 0.2% despite higher oil prices from the U.S.-Iran war, the EU's statistics agency
+  reported Friday. The 21 European Union member countries that use the euro expanded
+  1.3% compared with the same period a year earlier.
+nut_graf: The reading keeps the European Central Bank weighing a possible December
+  rate increase, with inflation at 3.8% running nearly double its 2% target and economists
+  flagging signs that oil-price pressure is spreading to wages and prices.
 primary_entities:
 - Eurozone
 - European Central Bank
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +147,43 @@ related_stories:
   headline: US economy grows 3.4% in third quarter on AI and consumer spending
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6868
+  strength: 0.6836
 - slug: 2026-10-29-us-economy-grows-3-4-in-third-quarter-on-consumer-spending-ai-investment
   headline: US economy grows 3.4% in third quarter on consumer spending, AI investment
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6761
+  strength: 0.6733
 - slug: 2026-10-15-eurozone-industrial-output-falls-0-5-in-august-third-straight-decline
   headline: Eurozone industrial output falls 0.5% in August, third straight decline
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7557
+  strength: 0.7542
 - slug: 2026-10-28-german-consumer-confidence-slips-as-inflation-concerns-persist
   headline: German consumer confidence slips as inflation concerns persist
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.672
+  strength: 0.6696
 - slug: 2026-09-29-spanish-inflation-climbs-to-5-0-highest-since-february-2023
   headline: Spanish inflation climbs to 5.0%, highest since February 2023
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6613
+  strength: 0.6602
 - slug: 2026-09-10-ecb-lifts-rate-to-2-5-projects-3-inflation-this-year
   headline: ECB lifts rate to 2.5%, projects 3% inflation this year
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6727
+  strength: 0.6688
 - slug: 2026-07-30-us-economy-slows-to-1-5-annual-growth-in-second-quarter
   headline: US economy slows to 1.5% annual growth in second quarter
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.7532
+  strength: 0.7502
 - slug: 2026-08-28-french-inflation-accelerates-to-2-7-in-august-on-energy-costs
   headline: French inflation accelerates to 2.7% in August on energy costs
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6929
-- slug: 2026-08-27-ecb-reports-eurozone-business-loans-fell-to-22-billion-euros-in-july
-  headline: ECB reports eurozone business loans fell to 22 billion euros in July
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6781
-- slug: 2026-01-29-eurozone-growth-defies-recession-fears-but-a-weaker-dollar-could-hurt-exports
-  headline: Eurozone growth defies recession fears, but a weaker dollar could hurt exports
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.818
-- slug: 2026-07-15-eurozone-industrial-production-fell-0-2-in-may-snapping-three-month-streak
-  headline: Eurozone industrial production fell 0.2% in May, snapping three-month streak
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7442
-- slug: 2026-06-15-eurozone-industrial-output-edges-up-0-1-in-april-as-iran-war-disrupts-supply-cha
-  headline: Eurozone industrial output edges up 0.1% in April as Iran war disrupts supply chains
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7669
-- slug: 2026-06-04-eurozone-retail-sales-fell-0-4-in-april-as-iran-war-energy-costs-bite
-  headline: Eurozone retail sales fell 0.4% in April as Iran war energy costs bite
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7741
-- slug: 2026-06-30-french-and-italian-inflation-slow-more-than-expected-in-june
-  headline: French and Italian inflation slow more than expected in June
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7254
-- slug: 2026-06-01-eurozone-household-inflation-expectations-steady-at-4-well-above-prewar-levels
-  headline: Eurozone household inflation expectations steady at 4%, well above prewar levels
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7458
-- slug: 2026-07-24-german-consumer-sentiment-falls-to-minus-29-6-in-august-forecast
-  headline: German consumer sentiment falls to minus 29.6 in August forecast
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6627
-- slug: 2026-07-23-ecb-holds-rates-steady-at-2-25-as-oil-volatility-clouds-inflation-outlook
-  headline: ECB holds rates steady at 2.25% as oil volatility clouds inflation outlook
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6603
-- slug: 2026-06-25-final-q1-gdp-revised-up-to-2-1-as-consumer-spending-cools
-  headline: Final Q1 GDP revised up to 2.1% as consumer spending cools
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6763
-- slug: 2026-06-14-us-economy-resilient-through-trade-turmoil-and-energy-shocks-economists-say
-  headline: US economy resilient through trade turmoil and energy shocks, economists say
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6698
-- slug: 2026-05-01-u-s-economy-grew-2-in-q1-after-shutdown-iran-war-adds-uncertainty
-  headline: U.S. economy grew 2% in Q1 after shutdown; Iran war adds uncertainty
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6833
+  strength: 0.692
 ---
-
 ## Eurozone economy grows 0.4% in third quarter despite oil-price pressures
 
 **Subtype:** fact

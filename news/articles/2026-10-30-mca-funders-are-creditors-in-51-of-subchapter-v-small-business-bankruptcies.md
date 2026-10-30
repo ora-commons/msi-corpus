@@ -63,7 +63,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -212,3 +212,10 @@ Steve Denis, executive director of the Small Business Finance Association, which
 **Publication date:** 2026-10-30
 **Title:** The Easy Money Offers That Disguise a Deathtrap for Small Businesses
 **URL:** https://www.wsj.com/business/entrepreneurship/business-finance-merchant-cash-advance-37d8bc42
+
+### src_late_a3ae9bcda3e040cb — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Emma Tucker
+**Publication date:** 2026-10-30
+**Title:** The Fast-Cash Advances Draining America’s Small Businesses
+**URL:** https://www.wsj.com/business/the-fast-cash-advances-draining-americas-small-businesses-ff7124e2
+**Added after publication:** true
