@@ -1,9 +1,20 @@
 ---
 headline: South Carolina voters decide federal and state offices in Tuesday's election
-secondary_headline: AP calls races only when a trailing candidate cannot close the gap
+secondary_headline: AP calls races only when a trailing candidate cannot close the
+  gap
 publish_date: '2026-10-30'
-lede: South Carolina voters will elect leaders for federal, state and other offices on Tuesday, with polls closing at 7 p.m. ET, according to an Associated Press election guide by reporter Camille Baker. The AP said it will provide vote results and declare winners in races for U.S. Senate, governor, U.S. House, attorney general, secretary of state, state Senate, state House, agriculture commissioner, Comptroller General, Superintendent of Education and state treasurer.
-nut_graf: The guide details the data points the AP Decision Team will monitor as votes are tallied — how many votes past contests drew, how large a share of the ballot is cast before Election Day, when counties release early and mail ballots into the count, and the standard the AP applies before declaring a winner — the procedural record that determines what South Carolina voters will see as results arrive Tuesday night.
+lede: South Carolina voters will elect leaders for federal, state and other offices
+  on Tuesday, with polls closing at 7 p.m. ET, according to an Associated Press election
+  guide by reporter Camille Baker. The AP said it will provide vote results and declare
+  winners in races for U.S. Senate, governor, U.S. House, attorney general, secretary
+  of state, state Senate, state House, agriculture commissioner, Comptroller General,
+  Superintendent of Education and state treasurer.
+nut_graf: The guide details the data points the AP Decision Team will monitor as votes
+  are tallied — how many votes past contests drew, how large a share of the ballot
+  is cast before Election Day, when counties release early and mail ballots into the
+  count, and the standard the AP applies before declaring a winner — the procedural
+  record that determines what South Carolina voters will see as results arrive Tuesday
+  night.
 primary_entities:
 - South Carolina
 - Associated Press
@@ -37,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +151,43 @@ related_stories:
   headline: Colorado voters decide federal, state and local races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.832
+  strength: 0.8324
 - slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
   headline: Alabama voters decide Senate, governor and state offices Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.807
+  strength: 0.808
 - slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
   headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8009
+  strength: 0.8021
 - slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
   headline: Connecticut voters decide governor, House and statewide races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8005
+  strength: 0.8015
 - slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
   headline: Illinois voters decide Senate, governor and state races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7878
+  strength: 0.7887
 - slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
   headline: Kentucky voters decide federal, state and local races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7859
+  strength: 0.7863
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7823
+  strength: 0.7838
 - slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7765
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7456
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7342
-- slug: 2026-10-30-north-carolina-voters-choose-between-cooper-and-whatley-for-senate
-  headline: North Carolina voters choose between Cooper and Whatley for Senate
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.68
-- slug: 2026-10-30-arizona-voters-decide-governor-congressional-races-tuesday
-  headline: Arizona voters decide governor, congressional races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6785
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6854
-- slug: 2026-10-28-ap-voter-poll-will-survey-75-000-voters-for-the-2026-midterms
-  headline: AP Voter Poll will survey 75,000 voters for the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6694
-- slug: 2026-03-02-arkansas-voters-head-to-tuesday-primaries-with-key-federal-and-state-contests
-  headline: Arkansas voters head to Tuesday primaries with key federal and state contests
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7273
-- slug: 2026-03-02-north-carolina-primaries-senate-house-and-court-races-head-to-tuesday-vote
-  headline: 'North Carolina primaries: Senate, House, and court races head to Tuesday vote'
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7272
-- slug: 2026-05-17-what-to-expect-in-alabama-s-primaries-amid-map-triggered-delays
-  headline: What to expect in Alabama’s primaries amid map-triggered delays
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6988
-- slug: 2026-05-17-georgia-voters-pick-gop-governor-and-senate-nominees-in-tuesday-primaries
-  headline: Georgia voters pick GOP governor and Senate nominees in Tuesday primaries
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6821
-- slug: 2026-05-17-south-carolina-house-debates-redistricting-for-u-s-house-seat-gains
-  headline: South Carolina House debates redistricting for U.S. House seat gains
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6694
-- slug: 2026-05-19-south-carolina-house-approves-gop-leaning-congressional-map-senate-next
-  headline: South Carolina House approves GOP-leaning congressional map, Senate next
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6639
+  strength: 0.778
 ---
-
 ## South Carolina voters decide federal and state offices in Tuesday's election
 
 **Subtype:** fact

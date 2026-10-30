@@ -2,8 +2,18 @@
 headline: Oberlin photography professor and wife shot dead at home
 secondary_headline: Prosecutor says accused confessed and led police to the home
 publish_date: '2026-10-30'
-lede: An Oberlin College studio art and photography professor and his wife were found shot to death in their home a few blocks off campus on Wednesday, and the professor's 31-year-old child is being held on a $3 million bond on murder charges, according to police and court filings. Asia Nguyen-Duy, previously known as Daniel Jones, of Ashland, Oregon, was arraigned Thursday in Oberlin Municipal Court on charges of murder, felonious assault and tampering with evidence. A motive has not been released.
-nut_graf: The deaths of Pipo Nguyen-Duy, an internationally acclaimed photographer who joined the Oberlin faculty in 1998, and his wife, Tran Thi Nam Phong, struck a private liberal arts college whose students had just returned from fall break. The case now moves to a Lorain County grand jury, and the court record so far consists of charges and prosecutors' statements in open court rather than a finding of guilt.
+lede: An Oberlin College studio art and photography professor and his wife were found
+  shot to death in their home a few blocks off campus on Wednesday, and the professor's
+  31-year-old child is being held on a $3 million bond on murder charges, according
+  to police and court filings. Asia Nguyen-Duy, previously known as Daniel Jones,
+  of Ashland, Oregon, was arraigned Thursday in Oberlin Municipal Court on charges
+  of murder, felonious assault and tampering with evidence. A motive has not been
+  released.
+nut_graf: The deaths of Pipo Nguyen-Duy, an internationally acclaimed photographer
+  who joined the Oberlin faculty in 1998, and his wife, Tran Thi Nam Phong, struck
+  a private liberal arts college whose students had just returned from fall break.
+  The case now moves to a Lorain County grand jury, and the court record so far consists
+  of charges and prosecutors' statements in open court rather than a finding of guilt.
 primary_entities:
 - Oberlin College
 - Pipo Nguyen-Duy
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +162,8 @@ related_stories:
   headline: Authorities charge Oberlin professor's son with murder in couple's deaths
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.9087
-- slug: 2026-10-25-federal-court-documents-show-herndon-has-been-charged-in-a-second-shooting-incid
-  headline: Federal court documents show Herndon has been charged in a second shooting incident
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.59
-- slug: 2026-10-21-prosecutors-charge-willie-herndon-with-murder-in-overland-highway-shooting
-  headline: Prosecutors charge Willie Herndon with murder in Overland highway shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5999
-- slug: 2026-10-14-wyoming-graduate-student-aili-wang-faces-poisoning-charge-after-lax-arrest
-  headline: Wyoming graduate student Aili Wang faces poisoning charge after LAX arrest
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5673
-- slug: 2026-09-30-dublin-couple-arraigned-in-saturday-killing-of-new-york-times-engineer
-  headline: Dublin couple arraigned in Saturday killing of New York Times engineer
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5655
-- slug: 2026-09-29-ohio-jury-convicts-former-american-idol-contestant-in-wife-s-murder
-  headline: Ohio jury convicts former American Idol contestant in wife's murder
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5686
-- slug: 2026-09-17-wife-of-jailed-us-scholar-min-zin-asks-trump-to-raise-case-at-xi-summit
-  headline: Wife of jailed US scholar Min Zin asks Trump to raise case at Xi summit
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5892
-- slug: 2026-09-13-trump-to-raise-detained-american-min-zin-s-case-at-xi-summit
-  headline: Trump to raise detained American Min Zin's case at Xi summit
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5836
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5956
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.567
-- slug: 2026-05-06-search-continues-outside-a-home-tied-to-kristin-smart-s-killer
-  headline: Search continues outside a home tied to Kristin Smart's killer
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5862
-- slug: 2026-04-04-former-death-row-inmate-asks-utah-judge-to-dismiss-case-for-retrial
-  headline: Former death row inmate asks Utah judge to dismiss case for retrial
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5949
-- slug: 2026-01-10-ex-husband-charged-with-murder-in-shooting-deaths-of-ohio-couple
-  headline: Ex-husband charged with murder in shooting deaths of Ohio couple
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.5973
-- slug: 2026-05-07-scientists-take-soil-samples-outside-home-tied-to-kristin-smart-case
-  headline: Scientists take soil samples outside home tied to Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5769
-- slug: 2026-01-06-ex-husband-charged-with-premeditated-murder-in-slayings-of-columbus-dentist-wife
-  headline: Ex-husband charged with premeditated murder in slayings of Columbus dentist, wife
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.5923
-- slug: 2026-01-16-ohio-grand-jury-indicts-vascular-surgeon-in-columbus-couple-s-slaying
-  headline: Ohio grand jury indicts vascular surgeon in Columbus couple's slaying
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5903
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.569
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.566
-- slug: 2025-12-30-oklahoma-man-charged-with-manslaughter-after-stray-bullet-kills-neighbor
-  headline: Oklahoma man charged with manslaughter after stray bullet kills neighbor
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.5854
-- slug: 2026-02-21-former-american-idol-contestant-charged-with-wife-s-murder-in-ohio
-  headline: Former American Idol contestant charged with wife's murder in Ohio
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.5779
+  strength: 0.9093
 ---
-
 ## Oberlin photography professor and wife shot dead at home
 
 **Subtype:** fact

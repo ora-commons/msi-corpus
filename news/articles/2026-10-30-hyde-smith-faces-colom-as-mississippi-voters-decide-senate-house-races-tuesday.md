@@ -1,9 +1,22 @@
 ---
-headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-secondary_headline: Senate matchup more competitive than expected, drawing a Trump campaign visit
+headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races
+  Tuesday
+secondary_headline: Senate matchup more competitive than expected, drawing a Trump
+  campaign visit
 publish_date: '2026-10-30'
-lede: Mississippi voters decide Tuesday between Republican Sen. Cindy Hyde-Smith, who is seeking a second full term, and Democratic challenger Scott Colom in the state's U.S. Senate race, with U.S. House contests and two state House special elections also on the ballot. Polls close at 7 p.m. local time, or 8 p.m. Eastern. The Associated Press will report results and declare winners in the contested races, according to its Election Day guide.
-nut_graf: 'The AP guide lays out the mechanics that shape how quickly Mississippi''s results become clear: an electorate that votes heavily in person, limited absentee voting, counties expected to post some Election Day ballots in the first update of the night, and recount rules that allow a recount only by court order. The Senate race has drawn added attention because no federal office in Mississippi has changed party hands since 2010, yet the matchup has been more competitive than expected, even drawing a campaign visit from President Donald Trump.'
+lede: Mississippi voters decide Tuesday between Republican Sen. Cindy Hyde-Smith,
+  who is seeking a second full term, and Democratic challenger Scott Colom in the
+  state's U.S. Senate race, with U.S. House contests and two state House special elections
+  also on the ballot. Polls close at 7 p.m. local time, or 8 p.m. Eastern. The Associated
+  Press will report results and declare winners in the contested races, according
+  to its Election Day guide.
+nut_graf: 'The AP guide lays out the mechanics that shape how quickly Mississippi''s
+  results become clear: an electorate that votes heavily in person, limited absentee
+  voting, counties expected to post some Election Day ballots in the first update
+  of the night, and recount rules that allow a recount only by court order. The Senate
+  race has drawn added attention because no federal office in Mississippi has changed
+  party hands since 2010, yet the matchup has been more competitive than expected,
+  even drawing a campaign visit from President Donald Trump.'
 primary_entities:
 - Cindy Hyde-Smith
 - Scott Colom
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +158,43 @@ related_stories:
   headline: Alabama voters decide Senate, governor and state offices Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7688
+  strength: 0.768
+- slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
+  headline: South Carolina voters decide federal and state offices in Tuesday's election
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7612
 - slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
   headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7512
+  strength: 0.7511
 - slug: 2026-10-30-illinois-voters-decide-senate-governor-and-state-races-tuesday
   headline: Illinois voters decide Senate, governor and state races Tuesday
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7499
+- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
+  headline: Montana voters decide federal, state and legislative races Tuesday
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7465
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7438
+  strength: 0.7427
 - slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
   headline: Kentucky voters decide federal, state and local races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7402
+  strength: 0.7396
 - slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
   headline: Idaho voters decide Senate, governor and legislative races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7373
-- slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
-  headline: Maine voters weigh Senate control, open governor race Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7305
-- slug: 2026-10-30-hawaii-voters-decide-federal-and-state-races-tuesday-in-mail-ballot-election
-  headline: Hawaii voters decide federal and state races Tuesday in mail-ballot election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.73
-- slug: 2026-10-30-minnesota-voters-pick-governor-senator-as-legislature-hangs-in-balance
-  headline: Minnesota voters pick governor, senator as Legislature hangs in balance
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7295
-- slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
-  headline: Colorado voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7283
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7451
-- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
-  headline: Trump heads to Mississippi as Democrats expand battleground maps
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7481
-- slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
-  headline: Connecticut voters decide governor, House and statewide races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7068
-- slug: 2026-10-30-sununu-pappas-face-off-for-new-hampshire-s-open-senate-seat
-  headline: Sununu, Pappas face off for New Hampshire's open Senate seat
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7067
-- slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7061
-- slug: 2026-10-30-arizona-voters-decide-governor-congressional-races-tuesday
-  headline: Arizona voters decide governor, congressional races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7007
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7269
-- slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
-  headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7019
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7417
-- slug: 2026-08-07-black-democrat-scott-colom-aims-to-unseat-hyde-smith-in-mississippi
-  headline: Black Democrat Scott Colom aims to unseat Hyde-Smith in Mississippi
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7563
+  strength: 0.7366
 ---
-
 ## Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
 
 **Subtype:** fact

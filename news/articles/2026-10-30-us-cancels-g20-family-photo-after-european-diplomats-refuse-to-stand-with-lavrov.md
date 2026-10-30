@@ -1,9 +1,27 @@
 ---
-headline: US cancels G20 family photo after European diplomats refuse to stand with Lavrov
-secondary_headline: Ukraine absent from Atlanta talks as US-Russia ties appear to partially thaw
+headline: US cancels G20 family photo after European diplomats refuse to stand with
+  Lavrov
+secondary_headline: Ukraine absent from Atlanta talks as US-Russia ties appear to
+  partially thaw
 publish_date: '2026-10-30'
-lede: European diplomats refused to stand for an official photograph alongside Russian Foreign Minister Sergei Lavrov, leading the United States to cancel the G20 family photo scheduled for Friday morning at the Foreign Ministers' Meeting in Atlanta. Two officials confirmed the cancellation to the BBC. Ukraine was not invited to the meeting, which US Secretary of State Marco Rubio is hosting, even as relations between Washington and Moscow appear to have partially thawed over a sanctions waiver and diesel-import deal that Ukrainian President Volodymyr Zelensky has criticized as a gift to Russian President Vladimir Putin.
-nut_graf: 'The cancellation captured the divide at the Atlanta table: European diplomats refused to stand with Lavrov, and the UK, per a British official, maintains a longstanding policy of no direct, bilateral engagement with Russian ministers since the invasion of Ukraine. US relations with Russia, by contrast, appear to have partially thawed in recent weeks: Trump waived some sanctions and agreed a deal to import Russian diesel for the American market, and he said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table in the war between Russia and Ukraine. Ukraine was not at the meeting — Russia launched its full-scale invasion in 2022, currently controls approximately a fifth of Ukrainian territory, and has intensified missile and drone attacks on Ukrainian cities in recent weeks.'
+lede: European diplomats refused to stand for an official photograph alongside Russian
+  Foreign Minister Sergei Lavrov, leading the United States to cancel the G20 family
+  photo scheduled for Friday morning at the Foreign Ministers' Meeting in Atlanta.
+  Two officials confirmed the cancellation to the BBC. Ukraine was not invited to
+  the meeting, which US Secretary of State Marco Rubio is hosting, even as relations
+  between Washington and Moscow appear to have partially thawed over a sanctions waiver
+  and diesel-import deal that Ukrainian President Volodymyr Zelensky has criticized
+  as a gift to Russian President Vladimir Putin.
+nut_graf: 'The cancellation captured the divide at the Atlanta table: European diplomats
+  refused to stand with Lavrov, and the UK, per a British official, maintains a longstanding
+  policy of no direct, bilateral engagement with Russian ministers since the invasion
+  of Ukraine. US relations with Russia, by contrast, appear to have partially thawed
+  in recent weeks: Trump waived some sanctions and agreed a deal to import Russian
+  diesel for the American market, and he said his decision to suspend several Russian
+  sanctions is an effort to keep Moscow at the negotiating table in the war between
+  Russia and Ukraine. Ukraine was not at the meeting — Russia launched its full-scale
+  invasion in 2022, currently controls approximately a fifth of Ukrainian territory,
+  and has intensified missile and drone attacks on Ukrainian cities in recent weeks.'
 primary_entities:
 - Sergei Lavrov
 - Marco Rubio
@@ -45,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +166,44 @@ related_stories:
   headline: G20 foreign ministers open Atlanta talks as rifts persist
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7568
+  strength: 0.757
 - slug: 2026-10-21-witkoff-brings-peace-ideas-to-putin-in-renewed-ukraine-talks
   headline: Witkoff brings peace ideas to Putin in renewed Ukraine talks
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6544
-- slug: 2026-10-22-u-k-officials-dispute-witkoff-s-portrayal-of-putin
-  headline: U.K. officials dispute Witkoff's portrayal of Putin
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6414
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6488
-- slug: 2026-10-20-zelensky-plans-oslo-talks-with-us-envoys-as-trump-tensions-rise
-  headline: Zelensky plans Oslo talks with US envoys as Trump tensions rise
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6448
+  strength: 0.6538
 - slug: 2026-10-15-ex-uk-envoy-says-russia-has-no-interest-in-ending-ukraine-war
   headline: Ex-UK envoy says Russia has 'no interest' in ending Ukraine war
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6719
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6382
+  strength: 0.6714
 - slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
   headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6548
-- slug: 2026-10-14-burnham-pledges-further-and-faster-ukraine-aid-in-zelensky-meeting
-  headline: Burnham pledges 'further and faster' Ukraine aid in Zelensky meeting
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6453
-- slug: 2026-10-13-zelenskyy-calls-russian-attacks-putin-s-thanks-for-diesel-deal
-  headline: Zelenskyy calls Russian attacks Putin's 'thanks' for diesel deal
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6435
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6364
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6373
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6383
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6373
+  strength: 0.6538
 - slug: 2026-09-23-rubio-says-us-invited-putin-to-december-g-20-at-trump-doral-resort
   headline: Rubio says US invited Putin to December G-20 at Trump Doral resort
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7083
+  strength: 0.7084
 - slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
   headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.656
+  strength: 0.6551
 - slug: 2026-09-02-g-20-summit-ends-amid-bond-selloff-russia-photo-dispute
   headline: G-20 summit ends amid bond selloff, Russia photo dispute
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6554
-- slug: 2026-08-25-kremlin-adviser-says-uk-drone-plants-could-face-semi-military-response
-  headline: Kremlin adviser says UK drone plants could face 'semi-military' response
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6396
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6434
+  strength: 0.656
 - slug: 2026-06-19-italian-foreign-minister-cancels-us-trip-after-trump-says-meloni-begged-for-phot
-  headline: Italian foreign minister cancels US trip after Trump says Meloni 'begged' for photo
+  headline: Italian foreign minister cancels US trip after Trump says Meloni 'begged'
+    for photo
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.6547
+  strength: 0.6546
 ---
-
 ## US cancels G20 family photo after European diplomats refuse to stand with Lavrov
 
 **Subtype:** fact

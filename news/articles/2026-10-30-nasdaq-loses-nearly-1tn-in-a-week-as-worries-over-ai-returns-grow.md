@@ -1,9 +1,22 @@
 ---
 headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
-secondary_headline: Intel plunges nearly 30% toward worst day since 1974 on disappointing outlook
+secondary_headline: Intel plunges nearly 30% toward worst day since 1974 on disappointing
+  outlook
 publish_date: '2026-10-30'
-lede: US technology stocks sold off again on Friday after disappointing earnings from Intel and Amazon, extending a decline that has erased nearly $1tn in market value from the Nasdaq in one week and about $2tn over the past month. The S&P 500 fell more than 1%, losing hundreds of billions of dollars in market value, and the Nasdaq composite dropped more than 3%, also erasing hundreds of billions, as investors questioned whether the billions being poured into artificial intelligence can generate returns quickly enough.
-nut_graf: More than $2tn in market value is set to be wiped from the Nasdaq 100 this month as investor scrutiny intensifies over whether the hundreds of billions of dollars being poured into artificial intelligence can generate returns quickly enough. Companies racing to expand AI infrastructure — including Meta Platforms, Alphabet and Amazon — have raised their spending forecasts further, while chipmakers and other AI beneficiaries face pressure from concerns that high interest rates could slow data center construction.
+lede: US technology stocks sold off again on Friday after disappointing earnings from
+  Intel and Amazon, extending a decline that has erased nearly $1tn in market value
+  from the Nasdaq in one week and about $2tn over the past month. The S&P 500 fell
+  more than 1%, losing hundreds of billions of dollars in market value, and the Nasdaq
+  composite dropped more than 3%, also erasing hundreds of billions, as investors
+  questioned whether the billions being poured into artificial intelligence can generate
+  returns quickly enough.
+nut_graf: More than $2tn in market value is set to be wiped from the Nasdaq 100 this
+  month as investor scrutiny intensifies over whether the hundreds of billions of
+  dollars being poured into artificial intelligence can generate returns quickly enough.
+  Companies racing to expand AI infrastructure — including Meta Platforms, Alphabet
+  and Amazon — have raised their spending forecasts further, while chipmakers and
+  other AI beneficiaries face pressure from concerns that high interest rates could
+  slow data center construction.
 primary_entities:
 - Nasdaq
 - Nasdaq 100
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,12 +74,16 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-10-30'
-  caption: The Nasdaq Composite stood at 26,184.72 on 30 October 2026, according to FRED, closing out a week in which nearly $1tn in market value was erased from the tech-heavy index.
+  caption: The Nasdaq Composite stood at 26,184.72 on 30 October 2026, according to
+    FRED, closing out a week in which nearly $1tn in market value was erased from
+    the tech-heavy index.
 - source: fred
   series_id: SP500
   transformation: raw
   as_of: '2026-10-30'
-  caption: The S&P 500 closed at 7,743.98 on 30 October 2026, per FRED, after falling more than 1% and moving on track to erase its gain for a month in which it had set an all-time high.
+  caption: The S&P 500 closed at 7,743.98 on 30 October 2026, per FRED, after falling
+    more than 1% and moving on track to erase its gain for a month in which it had
+    set an all-time high.
 figures_aggregate:
   count: 2
   series_ids:
@@ -160,12 +178,12 @@ related_stories:
   headline: Intel shares fall as much as 30% as Nasdaq opens at two-month low
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8145
+  strength: 0.8135
 - slug: 2026-10-29-alphabet-erases-roughly-500-billion-in-worst-day-on-record
   headline: Alphabet erases roughly $500 billion in worst day on record
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7785
+  strength: 0.7778
 - slug: 2026-10-29-alphabet-loses-500bn-as-ai-search-summaries-hit-ad-revenue
   headline: Alphabet loses $500bn as AI search summaries hit ad revenue
   publish_date: '2026-10-29'
@@ -175,89 +193,29 @@ related_stories:
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7769
+  strength: 0.7772
 - slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
+  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global
+    risks
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.765
+  strength: 0.7645
 - slug: 2026-10-23-brent-crude-settles-at-116-72-as-wall-street-closes-broadly-lower
   headline: Brent crude settles at $116.72 as Wall Street closes broadly lower
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7325
+  strength: 0.7331
 - slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
   headline: Tech shares tumble as AI rally doubts grip Wall Street
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.8004
+  strength: 0.8006
 - slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
   headline: Stocks post second weekly decline as tech earnings and Fed decision approach
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7604
-- slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
-  headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7966
-- slug: 2026-07-31-amazon-surge-lifts-s-p-500-as-apple-drop-and-oil-concerns-weigh
-  headline: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7373
-- slug: 2026-07-23-oil-tops-100-tech-selloff-deepens-as-wall-street-slides
-  headline: Oil tops $100, tech selloff deepens as Wall Street slides
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7357
-- slug: 2026-06-10-tech-stocks-slide-bitcoin-slumps-below-61k-as-market-selloff-deepens
-  headline: Tech stocks slide, Bitcoin slumps below $61K as market selloff deepens
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7716
-- slug: 2026-02-13-us-stocks-drop-sharply-as-investors-price-ai-winners-and-losers
-  headline: US stocks drop sharply as investors price AI winners and losers
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7841
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7593
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7467
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7586
-- slug: 2026-06-10-nasdaq-drops-1-as-chip-volatility-pushes-investors-toward-transports-equal-weigh
-  headline: Nasdaq drops 1% as chip volatility pushes investors toward transports, equal-weight
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7345
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7652
-- slug: 2026-04-29-sinking-ai-stocks-and-rising-oil-prices-weigh-on-wall-street
-  headline: Sinking AI stocks and rising oil prices weigh on Wall Street
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7455
-- slug: 2026-02-19-us-stocks-slip-as-ai-fears-weigh-oil-rises-on-us-iran-conflict-worries
-  headline: US stocks slip as AI fears weigh, oil rises on US-Iran conflict worries
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7457
+  strength: 0.7603
 ---
-
 ## Nasdaq loses nearly $1tn in a week as worries over AI returns grow
 
 **Subtype:** fact

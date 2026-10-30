@@ -1,9 +1,18 @@
 ---
 headline: Binance halts transactions and Polymarket pauses trading after hacks
-secondary_headline: Joly gave Cleveland-Cliffs 15 days to act or risk a possible forced Stelco sale
+secondary_headline: Joly gave Cleveland-Cliffs 15 days to act or risk a possible forced
+  Stelco sale
 publish_date: '2026-10-30'
-lede: Binance suspended transactions Thursday as the cryptocurrency exchange investigates what The Wall Street Journal described as the biggest cyber heist in history, and the prediction-markets platform Polymarket paused trading after some users said their accounts had been drained. The two disclosures led the Journal's Morning Risk Report, a risk-and-compliance newsletter published Friday.
-nut_graf: The newsletter did not say how much was stolen from Binance or how many Polymarket accounts were affected. The hack report anchored a Friday edition that also carried a standoff between Cleveland-Cliffs and the Canadian government over steel layoffs, U.S. trade measures touching batteries and cars, and Shell's counsel to governments about intervention in energy markets.
+lede: Binance suspended transactions Thursday as the cryptocurrency exchange investigates
+  what The Wall Street Journal described as the biggest cyber heist in history, and
+  the prediction-markets platform Polymarket paused trading after some users said
+  their accounts had been drained. The two disclosures led the Journal's Morning Risk
+  Report, a risk-and-compliance newsletter published Friday.
+nut_graf: The newsletter did not say how much was stolen from Binance or how many
+  Polymarket accounts were affected. The hack report anchored a Friday edition that
+  also carried a standoff between Cleveland-Cliffs and the Canadian government over
+  steel layoffs, U.S. trade measures touching batteries and cars, and Shell's counsel
+  to governments about intervention in energy markets.
 primary_entities:
 - Binance
 - Polymarket
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +160,29 @@ related_stories:
   headline: Binance probes possible hack as crypto firms freeze $2.5bn in funds
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7156
+  strength: 0.7166
 - slug: 2026-10-29-binance-investigates-potential-security-issue-as-stablecoin-firms-freeze-funds
-  headline: Binance investigates potential security issue as stablecoin firms freeze funds
+  headline: Binance investigates potential security issue as stablecoin firms freeze
+    funds
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.707
+  strength: 0.7085
 - slug: 2026-10-30-binance-says-6-3b-stolen-in-hack-north-korea-suspected
   headline: Binance says $6.3B stolen in hack, North Korea suspected
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.685
+  strength: 0.6856
 - slug: 2026-10-30-experts-say-6-3b-binance-heist-is-largest-known-theft-ever
   headline: Experts say $6.3B Binance heist is largest known theft ever
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6798
+  strength: 0.6812
 - slug: 2026-10-30-trm-says-binance-attacker-moved-6-36b-most-in-20-minutes
   headline: TRM says Binance attacker moved $6.36B, most in 20 minutes
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6525
-- slug: 2026-10-21-canada-commits-c-7-5-billion-to-steel-and-automakers-amid-u-s-trade-dispute
-  headline: Canada commits C$7.5 billion to steel and automakers amid U.S. trade dispute
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6153
-- slug: 2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten
-  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6128
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5986
-- slug: 2026-10-16-lutnick-stalls-u-s--mexico-tariff-talks-on-metals-autos
-  headline: Lutnick stalls U.S.-Mexico tariff talks on metals, autos
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6156
-- slug: 2026-10-09-trump-vance-back-bill-letting-merchants-pick-card-networks
-  headline: Trump, Vance back bill letting merchants pick card networks
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6152
-- slug: 2026-10-09-internal-binance-report-details-850-million-irgc-sanctions-evasion-network
-  headline: Internal Binance report details $850 million IRGC sanctions-evasion network
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6093
-- slug: 2026-10-07-eu-delays-methane-rules-a-year-sheinbaum-confronts-security-aides
-  headline: EU delays methane rules a year; Sheinbaum confronts security aides
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6019
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6479
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6263
-- slug: 2026-09-17-unifor-threatens-strike-at-stellantis-over-brampton-plant-sale-to-defense-firm
-  headline: Unifor threatens strike at Stellantis over Brampton plant sale to defense firm
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5958
-- slug: 2026-09-11-bubblemaps-finds-19-polymarket-accounts-won-98-of-bets-on-kpmg-audited-firms
-  headline: Bubblemaps finds 19 Polymarket accounts won 98% of bets on KPMG-audited firms
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6082
-- slug: 2026-09-04-us-antitrust-division-pauses-cooperation-with-canadian-government
-  headline: US antitrust division pauses cooperation with Canadian government
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6235
-- slug: 2026-08-17-doj-fraud-chief-highlights-old-case-at-record-enforcement-event
-  headline: DOJ fraud chief highlights old case at 'record' enforcement event
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.602
-- slug: 2026-08-12-nyc-council-investigates-polymarket-kalshi-coinbase-gemini-titan
-  headline: NYC Council investigates Polymarket, Kalshi, Coinbase, Gemini Titan
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6029
-- slug: 2026-05-10-canvas-learning-platform-restored-after-cyberattack-disrupts-schools-worldwide
-  headline: Canvas learning platform restored after cyberattack disrupts schools worldwide
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6198
+  strength: 0.6537
 ---
-
 ## Binance halts transactions and Polymarket pauses trading after hacks
 
 **Subtype:** fact

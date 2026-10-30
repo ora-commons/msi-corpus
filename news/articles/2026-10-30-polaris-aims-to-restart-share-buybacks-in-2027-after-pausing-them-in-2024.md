@@ -1,9 +1,20 @@
 ---
 headline: Polaris aims to restart share buybacks in 2027 after pausing them in 2024
-secondary_headline: Quarterly profit returned as Polaris expects $215 million in tariffs this year
+secondary_headline: Quarterly profit returned as Polaris expects $215 million in tariffs
+  this year
 publish_date: '2026-10-30'
-lede: Polaris aims to restart its share-buyback program in 2027, resuming repurchases the Minnesota-based maker of off-road vehicles and boats paused in 2024 after a postpandemic slump in retail sales, Chief Financial Officer Bob Mack said in an interview published Friday by The Wall Street Journal. Any restart would begin with offsetting dilution from the company's employee stock plans, Mack told the newspaper's Kristin Broughton, and Polaris has not set its budget or cash forecast for 2027.
-nut_graf: The buyback ambitions mark how far Polaris's postpandemic recovery has come — and how much external pressure remains. The company's third-quarter report showed a return to profit and 11% sales growth, but Polaris said tariffs and inflationary pressure in trucking, fuel, aluminum and steel remain significant headwinds, and Mack tied any 2027 repurchases to the success of new product launches, additional efficiency gains and the path of commodity costs.
+lede: Polaris aims to restart its share-buyback program in 2027, resuming repurchases
+  the Minnesota-based maker of off-road vehicles and boats paused in 2024 after a
+  postpandemic slump in retail sales, Chief Financial Officer Bob Mack said in an
+  interview published Friday by The Wall Street Journal. Any restart would begin with
+  offsetting dilution from the company's employee stock plans, Mack told the newspaper's
+  Kristin Broughton, and Polaris has not set its budget or cash forecast for 2027.
+nut_graf: The buyback ambitions mark how far Polaris's postpandemic recovery has come
+  — and how much external pressure remains. The company's third-quarter report showed
+  a return to profit and 11% sales growth, but Polaris said tariffs and inflationary
+  pressure in trucking, fuel, aluminum and steel remain significant headwinds, and
+  Mack tied any 2027 repurchases to the success of new product launches, additional
+  efficiency gains and the path of commodity costs.
 primary_entities:
 - Polaris
 - Bob Mack
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,109 +147,8 @@ cross_article_links:
   strength: 0.627
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-26-whirlpool-expects-a-full-year-loss-as-third-quarter-sales-fall-short
-  headline: Whirlpool expects a full-year loss as third-quarter sales fall short
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6298
-- slug: 2026-10-20-cleveland-cliffs-projects-strongest-profit-since-2021-as-steel-supplies-tighten
-  headline: Cleveland-Cliffs projects strongest profit since 2021 as steel supplies tighten
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6322
-- slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
-  headline: Transport firms adjust plans as fuel costs and demand shift
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6094
-- slug: 2026-10-20-reported-eu-hybrid-cap-could-slow-chinese-automakers-share-gains-next-year
-  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next year
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6144
-- slug: 2026-10-16-rbc-downgrades-lloyds-msci-weighs-indonesia-shift-analysts-revisit-treasury
-  headline: RBC downgrades Lloyds, MSCI weighs Indonesia shift, analysts revisit Treasury
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6175
-- slug: 2026-10-09-wto-raises-2026-goods-trade-growth-forecast-to-3-9-on-ai-boom
-  headline: WTO raises 2026 goods-trade growth forecast to 3.9% on AI boom
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6166
-- slug: 2026-10-09-u-s-oil-refiners-forecast-record-q3-earnings-as-wars-curb-global-supply
-  headline: U.S. oil refiners forecast record Q3 earnings as wars curb global supply
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.615
-- slug: 2026-09-30-supplier-shortage-halts-ford-f-150-production-at-michigan-plant
-  headline: Supplier shortage halts Ford F-150 production at Michigan plant
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6402
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6209
-- slug: 2026-09-08-ubs-lifts-brent-forecast-to-95-as-middle-east-supply-risk-persists
-  headline: UBS lifts Brent forecast to $95 as Middle East supply risk persists
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6139
-- slug: 2026-08-12-carnival-cfo-says-he-kept-promise-to-repay-pandemic-debt
-  headline: Carnival CFO says he kept promise to repay pandemic debt
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6095
-- slug: 2026-08-05-motorola-solutions-raises-outlook-after-q2-profit-and-revenue-beat-estimates
-  headline: Motorola Solutions raises outlook after Q2 profit and revenue beat estimates
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6209
-- slug: 2026-07-27-porsche-to-cut-5-000-jobs-via-early-retirement-in-agreement-with-workers
-  headline: Porsche to cut 5,000 jobs via early retirement in agreement with workers
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6305
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6099
-- slug: 2026-07-28-philips-shares-fall-as-order-intake-slips-on-north-america-delays
-  headline: Philips shares fall as order intake slips on North America delays
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6163
-- slug: 2026-08-01-ford-ends-production-of-sedans-and-crossovers-pivots-to-trucks-suvs-sports-cars
-  headline: Ford ends production of sedans and crossovers, pivots to trucks, SUVs, sports cars
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6087
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6181
-- slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6103
-- slug: 2026-06-09-porsche-lufthansa-uber-nvidia-analysts-assess-auto-and-transport-sector
-  headline: 'Porsche, Lufthansa, Uber-Nvidia: Analysts Assess Auto and Transport Sector'
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6384
-- slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
-  headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6326
+related_stories: []
 ---
-
 ## Polaris aims to restart share buybacks in 2027 after pausing them in 2024
 
 **Subtype:** fact
