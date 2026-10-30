@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-10-13'
   relation: related
   strength: 0.7324
+analyses:
+- '2026-10-30-historians-split-on-musk-masks-agreement-on-wealth-s-political-role'
 ---
 ## Historians weigh Musk's political power against Gilded Age moguls
 
@@ -244,3 +246,8 @@ Brands said capitalism surged ahead of democracy in the late 19th century, produ
 **Publication date:** 2026-10-30
 **Title:** How powerful is Elon Musk? How his political influence compares to past U.S. moguls
 **URL:** https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics
+
+---
+
+<!-- analysis-link:2026-10-30-historians-split-on-musk-masks-agreement-on-wealth-s-political-role -->
+**Going deeper:** [Read MSI's analysis of the causal structure of Musk's power →](/analyses/2026-10-30-historians-split-on-musk-masks-agreement-on-wealth-s-political-role)
