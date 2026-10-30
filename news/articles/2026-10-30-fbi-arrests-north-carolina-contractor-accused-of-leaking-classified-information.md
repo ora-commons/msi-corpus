@@ -1,9 +1,20 @@
 ---
 headline: FBI arrests North Carolina contractor accused of leaking classified information
-secondary_headline: Prosecutors say a home search found defense records and missing night-vision goggles
+secondary_headline: Prosecutors say a home search found defense records and missing
+  night-vision goggles
 publish_date: '2026-10-30'
-lede: The FBI has arrested a former North Carolina government contractor on charges that he leaked classified national defense information on social media, prosecutors said. James Thomas Ashbacher, 37, of Spring Lake, was taken into custody on charges that he shared classified material online, unlawfully stored national defense materials at his residence and stole night-vision equipment from the US Army Special Operations Command.
-nut_graf: The arrest came nearly two years after a federal judge sentenced Jack Teixeira, a member of the Massachusetts Air National Guard, to 15 years in prison for leaking highly classified military documents about Russia's war in Ukraine. Teixeira admitted that he illegally collected those secrets and shared them with other users on Discord, and the Justice Department says the materials in the North Carolina case were re-posted by other users across two social media sites.
+lede: The FBI has arrested a former North Carolina government contractor on charges
+  that he leaked classified national defense information on social media, prosecutors
+  said. James Thomas Ashbacher, 37, of Spring Lake, was taken into custody on charges
+  that he shared classified material online, unlawfully stored national defense materials
+  at his residence and stole night-vision equipment from the US Army Special Operations
+  Command.
+nut_graf: The arrest came nearly two years after a federal judge sentenced Jack Teixeira,
+  a member of the Massachusetts Air National Guard, to 15 years in prison for leaking
+  highly classified military documents about Russia's war in Ukraine. Teixeira admitted
+  that he illegally collected those secrets and shared them with other users on Discord,
+  and the Justice Department says the materials in the North Carolina case were re-posted
+  by other users across two social media sites.
 primary_entities:
 - James Thomas Ashbacher
 - FBI
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +154,32 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-23-fbi-arrests-government-contractor-accused-of-leaking-national-defense-informatio
-  headline: FBI arrests government contractor accused of leaking national defense information
+  headline: FBI arrests government contractor accused of leaking national defense
+    information
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7173
+  strength: 0.7177
 - slug: 2026-10-26-federal-prosecutors-charge-james-comey-with-leaking-national-defense-information
   headline: Federal prosecutors charge James Comey with leaking national defense information
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6656
-- slug: 2026-10-26-justice-department-charges-james-comey-over-alleged-2016-leak
-  headline: Justice Department charges James Comey over alleged 2016 leak
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6454
-- slug: 2026-10-29-dhs-tells-bbc-it-is-addressing-possible-personnel-data-breach
-  headline: DHS tells BBC it is addressing possible personnel data breach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.601
-- slug: 2026-10-26-prosecutors-say-comey-sought-to-correct-reuters-misinformation
-  headline: Prosecutors say Comey sought to correct Reuters misinformation
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6186
-- slug: 2026-10-26-james-comey-remains-unindicted-after-defense-filed-dismissal-motion
-  headline: James Comey remains unindicted after defense filed dismissal motion
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6117
-- slug: 2026-10-07-former-cia-officer-pleads-guilty-to-194-million-scheme
-  headline: Former CIA officer pleads guilty to $194 million scheme
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6035
-- slug: 2026-10-02-fbi-arrests-energy-department-employee-for-alleged-houthi-aid
-  headline: FBI arrests Energy Department employee for alleged Houthi aid
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6077
-- slug: 2026-09-11-fbi-says-ex-cia-officer-used-fake-classified-program-to-obtain-303-gold-bars
-  headline: FBI says ex-CIA officer used fake classified program to obtain 303 gold bars
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6073
-- slug: 2026-09-11-cia-official-accused-in-40-million-gold-bar-theft-reaches-tentative-plea-deal
-  headline: CIA official accused in $40 million gold-bar theft reaches tentative plea deal
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6038
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6111
+  strength: 0.6674
 - slug: 2026-05-18-contractor-indicted-for-leaking-classified-documents-to-post-reporter
   headline: Contractor indicted for leaking classified documents to Post reporter
   publish_date: '2026-05-18'
   relation: related
   strength: 0.6728
-- slug: 2026-04-14-judge-orders-home-detention-for-courtney-williams-in-classified-leak-case
-  headline: Judge orders home detention for Courtney Williams in classified leak case
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.657
 - slug: 2026-04-09-army-veteran-charged-with-leaking-classified-information-to-journalist
   headline: Army veteran charged with leaking classified information to journalist
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.6575
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
+  strength: 0.6578
+- slug: 2026-04-14-judge-orders-home-detention-for-courtney-williams-in-classified-leak-case
+  headline: Judge orders home detention for Courtney Williams in classified leak case
+  publish_date: '2026-04-14'
   relation: related
-  strength: 0.5978
-- slug: 2026-06-16-cia-official-allegedly-created-fake-spy-program-to-steal-40-million-in-gold
-  headline: CIA official allegedly created fake spy program to steal $40 million in gold
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6152
-- slug: 2026-02-10-video-recovered-from-nest-camera-in-nancy-guthrie-case-raises-privacy-questions
-  headline: Video recovered from Nest camera in Nancy Guthrie case raises privacy questions
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6331
-- slug: 2026-06-07-ex-cia-official-created-fake-spy-program-to-steal-millions-in-gold-bars-official
-  headline: Ex-CIA official created fake spy program to steal millions in gold bars, officials say
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5988
-- slug: 2026-02-11-fbi-says-it-retrieved-residual-data-from-nest-camera-after-nancy-guthrie-abducti
-  headline: FBI says it retrieved “residual data” from Nest camera after Nancy Guthrie abduction
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6256
-- slug: 2026-05-18-post-seeks-court-order-for-seized-reporter-s-devices
-  headline: Post seeks court order for seized reporter's devices
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.603
+  strength: 0.6562
 ---
-
 ## FBI arrests North Carolina contractor accused of leaking classified information
 
 **Subtype:** fact

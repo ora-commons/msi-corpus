@@ -1,9 +1,20 @@
 ---
 headline: El Paso Matters sues to open records of 2019 Walmart mass shooting
-secondary_headline: Texas attorney general rulings treated the shooting investigation as a child abuse case
+secondary_headline: Texas attorney general rulings treated the shooting investigation
+  as a child abuse case
 publish_date: '2026-10-30'
-lede: El Paso Matters, a news organization, filed a lawsuit Thursday asking a Texas state judge to order the city of El Paso and the El Paso District Attorney's Office to release investigative records from the 2019 Walmart mass shooting that killed 23 people, according to the petition. The case was assigned to 243rd District Court Judge Selena Solis.
-nut_graf: Because Patrick Crusius pleaded guilty in federal and state court rather than stand trial, and because El Paso police and prosecutors have withheld their investigative records, the public has received limited information about the deadliest mass shooting targeting Hispanics in modern U.S. history. The lawsuit argues that the Family Code's confidentiality for child abuse investigations — written for suspected abusive caregivers — cannot lawfully be applied to seal the entire case file of a public attack whose gunman had no relationship with his victims.
+lede: El Paso Matters, a news organization, filed a lawsuit Thursday asking a Texas
+  state judge to order the city of El Paso and the El Paso District Attorney's Office
+  to release investigative records from the 2019 Walmart mass shooting that killed
+  23 people, according to the petition. The case was assigned to 243rd District Court
+  Judge Selena Solis.
+nut_graf: Because Patrick Crusius pleaded guilty in federal and state court rather
+  than stand trial, and because El Paso police and prosecutors have withheld their
+  investigative records, the public has received limited information about the deadliest
+  mass shooting targeting Hispanics in modern U.S. history. The lawsuit argues that
+  the Family Code's confidentiality for child abuse investigations — written for suspected
+  abusive caregivers — cannot lawfully be applied to seal the entire case file of
+  a public attack whose gunman had no relationship with his victims.
 primary_entities:
 - El Paso Matters
 - City of El Paso
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +161,8 @@ cross_article_links:
   strength: 0.6083
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.597
-- slug: 2026-10-15-doj-sues-california-seeking-to-block-counting-of-alleged-noncitizen-votes
-  headline: DOJ sues California seeking to block counting of alleged noncitizen votes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.599
-- slug: 2026-10-13-federal-hate-crimes-trial-opens-in-buffalo-supermarket-attack-that-killed-10
-  headline: Federal hate-crimes trial opens in Buffalo supermarket attack that killed 10
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6056
-- slug: 2026-10-10-attacker-kills-nine-including-children-in-erie-pa
-  headline: Attacker kills nine, including children, in Erie, Pa.
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5989
-- slug: 2026-10-05-marimar-martinez-sues-federal-government-over-2025-border-patrol-shooting
-  headline: Marimar Martinez sues federal government over 2025 Border Patrol shooting
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6052
-- slug: 2026-09-25-kirk-family-rejects-uvu-report-s-no-bad-faith-finding-plans-wrongful-death-suit
-  headline: Kirk family rejects UVU report's no-bad-faith finding, plans wrongful-death suit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5988
-- slug: 2026-09-23-gunfluencer-brandon-herrera-leads-gop-bid-for-uvalde-area-house-seat
-  headline: Gunfluencer Brandon Herrera leads GOP bid for Uvalde-area House seat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6029
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6245
-- slug: 2026-07-13-sheinbaum-orders-criminal-complaints-after-17-mexicans-die-in-ice-custody
-  headline: Sheinbaum orders criminal complaints after 17 Mexicans die in ICE custody
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6093
-- slug: 2026-07-21-sacramento-k-street-mass-shooting-trial-ends-in-mistrial
-  headline: Sacramento K Street mass shooting trial ends in mistrial
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5991
-- slug: 2026-07-15-mexico-requests-us-criminal-investigations-after-17-mexican-immigrants-die-in-ic
-  headline: Mexico requests US criminal investigations after 17 Mexican immigrants die in ICE custody
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6098
-- slug: 2026-02-25-witness-in-texas-immigration-shooting-case-dies-in-car-crash
-  headline: Witness in Texas immigration shooting case dies in car crash
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6211
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6025
-- slug: 2026-04-28-families-sue-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting
-  headline: Families sue OpenAI over ChatGPT role in Tumbler Ridge school shooting
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5991
-- slug: 2026-03-27-private-contractor-investigates-rape-allegations-at-otay-mesa-immigration-center
-  headline: Private contractor investigates rape allegations at Otay Mesa immigration center
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6038
-- slug: 2026-03-07-videos-challenge-dhs-account-of-fatal-shooting-of-us-citizen-by-immigration-agen
-  headline: Videos challenge DHS account of fatal shooting of US citizen by immigration agent in Texas
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6047
-- slug: 2026-03-06-texas-supreme-court-weighs-spacex-beach-closures-against-public-access-rights
-  headline: Texas Supreme Court weighs SpaceX beach closures against public access rights
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6043
-- slug: 2026-03-25-minnesota-officials-sue-trump-administration-over-federal-shooting-deaths
-  headline: Minnesota officials sue Trump administration over federal shooting deaths
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6011
-- slug: 2026-02-23-police-use-google-searches-to-find-suspects-courts-weigh-privacy-costs
-  headline: Police use Google searches to find suspects, courts weigh privacy costs
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6048
+related_stories: []
 ---
-
 ## El Paso Matters sues to open records of 2019 Walmart mass shooting
 
 **Subtype:** fact
