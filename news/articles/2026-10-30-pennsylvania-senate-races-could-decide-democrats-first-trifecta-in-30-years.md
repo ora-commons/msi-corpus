@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-09-06'
   relation: related
   strength: 0.7077
+analyses:
+- '2026-10-30-pennsylvania-s-trifecta-bid-rests-on-four-suburban-senate-seats'
 ---
 ## Pennsylvania Senate races could decide Democrats' first trifecta in 30 years
 
@@ -244,3 +246,8 @@ The Democratic push would counter a years-long Republican strategy, Kennedy said
 **Publication date:** 2026-10-30
 **Title:** Democrats seek to weaken the Republican lead in state legislatures
 **URL:** https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania
+
+---
+
+<!-- analysis-link:2026-10-30-pennsylvania-s-trifecta-bid-rests-on-four-suburban-senate-seats -->
+**Going deeper:** [Read MSI's analysis of Pennsylvania's 2026 trifecta stakes →](/analyses/2026-10-30-pennsylvania-s-trifecta-bid-rests-on-four-suburban-senate-seats)
