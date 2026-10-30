@@ -2,8 +2,15 @@
 headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
 secondary_headline: Justice Department leads probe into Megaspeed chip diversions
 publish_date: '2026-10-30'
-lede: U.S. officials concluded last year that Alice Huang, a Chinese citizen then serving as a top executive at Megaspeed International, shared information with the Chinese government while working with Nvidia to build data centers in Asia, people familiar with the matter said. The Justice Department is now leading a probe into whether Megaspeed diverted Nvidia chips to China, circumventing U.S. export controls.
-nut_graf: The suspicions place a business partner of Nvidia Chief Executive Jensen Huang at the center of U.S. efforts to keep advanced artificial-intelligence chips out of China, as the Justice Department investigates whether export controls are being circumvented through data centers built in nearby countries.
+lede: U.S. officials concluded last year that Alice Huang, a Chinese citizen then
+  serving as a top executive at Megaspeed International, shared information with the
+  Chinese government while working with Nvidia to build data centers in Asia, people
+  familiar with the matter said. The Justice Department is now leading a probe into
+  whether Megaspeed diverted Nvidia chips to China, circumventing U.S. export controls.
+nut_graf: The suspicions place a business partner of Nvidia Chief Executive Jensen
+  Huang at the center of U.S. efforts to keep advanced artificial-intelligence chips
+  out of China, as the Justice Department investigates whether export controls are
+  being circumvented through data centers built in nearby countries.
 primary_entities:
 - Alice Huang
 - Megaspeed International
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +153,43 @@ related_stories:
   headline: US intelligence believes Chinese spy targeted Nvidia CEO
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8932
-- slug: 2026-10-20-dhs-warns-deepseek-use-by-federal-staff-or-vendors-may-transfer-data-to-china
-  headline: DHS warns DeepSeek use by federal staff or vendors may transfer data to China
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6476
-- slug: 2026-10-20-house-china-panel-has-investigated-deepseek-over-spying-and-chip-export-controls
-  headline: House China panel has investigated DeepSeek over spying and chip export controls
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6316
+  strength: 0.8929
 - slug: 2026-10-05-fbi-arrests-california-woman-accused-of-spying-on-taiwan-president-s-son
   headline: FBI arrests California woman accused of spying on Taiwan president's son
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6562
+  strength: 0.6546
 - slug: 2026-09-17-huawei-announces-two-new-ai-chips-next-year-to-rival-nvidia
   headline: Huawei announces two new AI chips next year to rival Nvidia
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6642
-- slug: 2026-09-21-anthropic-report-details-ai-model-misuse-by-criminals-state-actors
-  headline: Anthropic report details AI model misuse by criminals, state actors
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6331
+  strength: 0.6648
 - slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
   headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.7142
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6358
-- slug: 2026-09-14-china-updates-ai-safety-framework-cites-deception-and-autonomy-risks
-  headline: China updates AI safety framework, cites deception and autonomy risks
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6336
-- slug: 2026-09-09-u-s-agencies-accuse-six-chinese-ai-firms-of-industrial-scale-distillation
-  headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6449
+  strength: 0.7137
 - slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
   headline: China warns AI users they are ‘traitors’ if they resist domestic chips
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.666
-- slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
-  headline: Taiwan considers tighter export controls on AI chips bound for China
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7066
+  strength: 0.6662
 - slug: 2026-03-20-3-men-charged-in-smuggling-scheme-to-divert-nvidia-ai-chips-to-china
   headline: 3 men charged in smuggling scheme to divert Nvidia AI chips to China
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.7359
-- slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
-  headline: Trump accuses China of voter file hack as both sides keep summit plans
-  publish_date: '2026-07-21'
+  strength: 0.7363
+- slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
+  headline: Taiwan considers tighter export controls on AI chips bound for China
+  publish_date: '2026-06-10'
   relation: related
-  strength: 0.6465
+  strength: 0.7063
 - slug: 2026-06-29-nvidia-s-ai-chip-sales-stall-in-china-as-huawei-gains-ground
   headline: Nvidia's AI chip sales stall in China as Huawei gains ground
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6679
-- slug: 2026-07-14-china-charges-u-s-seismologist-with-espionage-after-secret-detention
-  headline: China Charges U.S. Seismologist With Espionage After Secret Detention
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6396
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
-  headline: China weighs limits on overseas access to its AI models
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6295
-- slug: 2026-06-24-china-s-lineshine-supercomputer-tops-global-ranking-with-22-speed-edge
-  headline: China’s LineShine supercomputer tops global ranking with 22% speed edge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6377
-- slug: 2026-05-05-how-silicon-valley-tech-helped-build-china-s-digital-police-state
-  headline: How Silicon Valley tech helped build China’s digital police state
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6654
+  strength: 0.668
 ---
-
 ## U.S. officials suspect Megaspeed executive Alice Huang of spying for China
 
 **Subtype:** fact
