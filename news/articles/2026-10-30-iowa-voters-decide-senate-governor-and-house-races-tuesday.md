@@ -2,8 +2,14 @@
 headline: Iowa voters decide Senate, governor and House races Tuesday
 secondary_headline: Super PAC affiliated with Thune spends $36 million backing Hinson
 publish_date: '2026-10-30'
-lede: Iowa voters go to the polls Tuesday with control of both chambers of Congress in the balance, choosing a successor to retiring Republican Sen. Joni Ernst, a new governor and members of the U.S. House. Democrats are hoping to end a 16-year drought for the state's highest office in a state President Donald Trump has carried three times.
-nut_graf: The Iowa results will help determine control of both chambers of Congress for the rest of President Donald Trump's second term, with the state's open 2nd District House seat among the most competitive in the nation.
+lede: Iowa voters go to the polls Tuesday with control of both chambers of Congress
+  in the balance, choosing a successor to retiring Republican Sen. Joni Ernst, a new
+  governor and members of the U.S. House. Democrats are hoping to end a 16-year drought
+  for the state's highest office in a state President Donald Trump has carried three
+  times.
+nut_graf: The Iowa results will help determine control of both chambers of Congress
+  for the rest of President Donald Trump's second term, with the state's open 2nd
+  District House seat among the most competitive in the nation.
 primary_entities:
 - Iowa
 - United States Congress
@@ -45,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +154,44 @@ related_stories:
   headline: Thune campaigns with Hinson ahead of Senate Republican leadership vote
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7832
+  strength: 0.7846
+- slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
+  headline: Maine voters weigh Senate control, open governor race Tuesday
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.6847
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6868
+  strength: 0.6888
 - slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
   headline: Polls show narrower Democratic lead in competitive House seats
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6852
+  strength: 0.6875
 - slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
   headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7306
+  strength: 0.7318
 - slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
   headline: Polls, forecasters favor Democrats as 2026 midterms near
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.714
+  strength: 0.7168
 - slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
   headline: Cook downgrades Iowa Senate race from lean Republican to tossup
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.8087
-- slug: 2026-09-16-nyt-siena-poll-democrats-lead-by-nearly-nine-points-as-iowa-battleground-expands
-  headline: 'NYT/Siena poll: Democrats lead by nearly nine points as Iowa battleground expands'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7296
+  strength: 0.8103
 - slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
   headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6916
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6902
-- slug: 2026-06-03-turek-wins-iowa-democratic-senate-primary-will-face-hinson-in-november
-  headline: Turek wins Iowa Democratic Senate primary, will face Hinson in November
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.8399
-- slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
-  headline: Iowa Republicans trail in governor's race amid rural economic strain
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.7217
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7796
-- slug: 2026-08-16-iowa-s-rising-cancer-rates-fuel-midterm-debate-over-farm-links
-  headline: Iowa's rising cancer rates fuel midterm debate over farm links
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6887
-- slug: 2026-05-15-democrats-debate-iowa-senate-primary-candidates-turek-and-wahls
-  headline: Democrats debate Iowa Senate primary candidates Turek and Wahls
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7765
-- slug: 2026-05-15-turek-wahls-clash-on-electability-in-iowa-senate-democratic-debate
-  headline: Turek, Wahls clash on electability in Iowa Senate Democratic debate
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7637
-- slug: 2026-06-02-iowa-california-montana-hold-primary-elections-tuesday
-  headline: Iowa, California, Montana hold primary elections Tuesday
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.747
-- slug: 2026-06-03-voters-in-tuesday-primaries-set-midterm-matchups-across-key-states
-  headline: Voters in Tuesday primaries set midterm matchups across key states
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7238
-- slug: 2026-05-05-democrats-eye-iowa-as-battleground-as-vance-backs-gop-candidates
-  headline: Democrats eye Iowa as battleground as Vance backs GOP candidates
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7266
-- slug: 2026-06-03-iowa-businessman-defeats-trump-backed-congressman-in-gop-governor-primary
-  headline: Iowa businessman defeats Trump-backed congressman in GOP governor primary
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7061
-- slug: 2025-12-29-iowa-special-election-could-decide-gop-supermajority-in-state-senate
-  headline: Iowa special election could decide GOP supermajority in state Senate
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7277
+  strength: 0.6914
 ---
-
 ## Iowa voters decide Senate, governor and House races Tuesday
 
 **Subtype:** fact
