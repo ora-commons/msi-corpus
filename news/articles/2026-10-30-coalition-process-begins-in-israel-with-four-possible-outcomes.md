@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-10-18'
   relation: related
   strength: 0.7331
+analyses:
+- '2026-10-30-israel-s-president-sets-coalition-clock-against-four-blocked-branches'
 ---
 ## Coalition process begins in Israel with four possible outcomes
 
@@ -232,3 +234,8 @@ Danny Citrinowicz, an Israeli analyst on Iran, said Netanyahu has a political in
 **Publication date:** 2026-10-30
 **Title:** Israel is in a political deadlock. What comes next?
 **URL:** https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs
+
+---
+
+<!-- analysis-link:2026-10-30-israel-s-president-sets-coalition-clock-against-four-blocked-branches -->
+**Going deeper:** [Read MSI's analysis of Israel's four-outcome coalition deadlock →](/analyses/2026-10-30-israel-s-president-sets-coalition-clock-against-four-blocked-branches)

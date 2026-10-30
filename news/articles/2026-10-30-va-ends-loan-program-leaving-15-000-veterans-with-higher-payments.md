@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-01-01'
   relation: related
   strength: 0.6552
+analyses:
+- '2026-10-30-two-clocks-one-gap-the-sequencing-problem-inside-the-va-s-loan-programs'
 ---
 ## VA ends loan program, leaving 15,000 veterans with higher payments
 
@@ -247,3 +249,8 @@ Outside Columbus, Boyd is still managing to make the higher payments. He bought 
 **Publication date:** 2026-10-30
 **Title:** Trump's VA killed a home loan program. Thousands of veterans are paying the price
 **URL:** https://www.npr.org/2026/10/30/nx-s1-5995628/trump-va-home-loan-program-veterans-paying
+
+---
+
+<!-- analysis-link:2026-10-30-two-clocks-one-gap-the-sequencing-problem-inside-the-va-s-loan-programs -->
+**Going deeper:** [Read MSI's analysis of VA home loan modifications; VASP termination May 1 2025; VA Partial Claim Program implementation lag →](/analyses/2026-10-30-two-clocks-one-gap-the-sequencing-problem-inside-the-va-s-loan-programs)
