@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.7002
+analyses:
+- '2026-10-31-election-week-calendar-leaves-voters-casting-ballots-on-september-s-jobs-data'
 ---
 ## Jobs data, surveys and earnings reports fill the calendar around Election Day
 
@@ -245,3 +247,8 @@ Clorox, the maker of bleach and other household staples, reports Monday. Big Tec
 **Publication date:** 2026-10-31
 **Title:** Jobs reports and corporate earnings set the agenda this week
 **URL:** https://apnews.com/article/economy-inflation-earnings-jobs-68760a6faf7f819673481d4246577c83
+
+---
+
+<!-- analysis-link:2026-10-31-election-week-calendar-leaves-voters-casting-ballots-on-september-s-jobs-data -->
+**Going deeper:** [Read MSI's analysis of election-week data timing and fuel inflation →](/analyses/2026-10-31-election-week-calendar-leaves-voters-casting-ballots-on-september-s-jobs-data)
