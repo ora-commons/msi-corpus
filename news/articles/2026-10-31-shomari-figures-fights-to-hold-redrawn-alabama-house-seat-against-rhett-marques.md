@@ -1,9 +1,21 @@
 ---
-headline: Shomari Figures fights to hold redrawn Alabama House seat against Rhett Marques
-secondary_headline: Ad spending neared $10 million as Democrats outspent Republicans in the district
+headline: Shomari Figures fights to hold redrawn Alabama House seat against Rhett
+  Marques
+secondary_headline: Ad spending neared $10 million as Democrats outspent Republicans
+  in the district
 publish_date: '2026-10-31'
-lede: U.S. Rep. Shomari Figures is fighting to hold his Alabama congressional seat after the Republican-controlled Legislature redrew the 2nd District, one of only two in the state represented by a Democrat, to make it easier for the GOP to win. He faces state lawmaker Rhett Marques, who is endorsed by President Donald Trump, in Tuesday's midterm election. Television advertising in the contest has surged from almost nothing to nearly $10 million, with Democratic groups outspending Republicans.
-nut_graf: The race has become a rallying point for Black voters angry over how Southern states redrew congressional districts after a Supreme Court decision last term, and national figures from both parties have campaigned in the district. Democrats hope a redistricting backlash and frustration over the economy can overcome new lines that cut the seat's Black voting-age population from 48% to 40% in an area Trump carried by 14 percentage points two years ago.
+lede: U.S. Rep. Shomari Figures is fighting to hold his Alabama congressional seat
+  after the Republican-controlled Legislature redrew the 2nd District, one of only
+  two in the state represented by a Democrat, to make it easier for the GOP to win.
+  He faces state lawmaker Rhett Marques, who is endorsed by President Donald Trump,
+  in Tuesday's midterm election. Television advertising in the contest has surged
+  from almost nothing to nearly $10 million, with Democratic groups outspending Republicans.
+nut_graf: The race has become a rallying point for Black voters angry over how Southern
+  states redrew congressional districts after a Supreme Court decision last term,
+  and national figures from both parties have campaigned in the district. Democrats
+  hope a redistricting backlash and frustration over the economy can overcome new
+  lines that cut the seat's Black voting-age population from 48% to 40% in an area
+  Trump carried by 14 percentage points two years ago.
 primary_entities:
 - Shomari Figures
 - Rhett Marques
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,12 +75,15 @@ figures:
   series_id: MICH
   transformation: raw
   as_of: '2026-10-31'
-  caption: The University of Michigan's median one-year-ahead inflation expectation, as published via FRED, stood at 4.6% at the article's Oct. 31, 2026 vintage.
+  caption: The University of Michigan's median one-year-ahead inflation expectation,
+    as published via FRED, stood at 4.6% at the article's Oct. 31, 2026 vintage.
 - source: fred
   series_id: FRBATLWGT3MMAUMHWGO
   transformation: raw
   as_of: '2026-10-31'
-  caption: The Atlanta Fed Wage Growth Tracker's median three-month moving average of wage growth for continuously employed workers stood at 3.9% at the article's Oct. 31, 2026 vintage.
+  caption: The Atlanta Fed Wage Growth Tracker's median three-month moving average
+    of wage growth for continuously employed workers stood at 3.9% at the article's
+    Oct. 31, 2026 vintage.
 figures_aggregate:
   count: 2
   series_ids:
@@ -159,116 +175,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-31-shomari-figures-fights-to-hold-redrawn-alabama-house-seat-against-rhett-marques.png
-  alt: 'Illustration accompanying article: Shomari Figures fights to hold redrawn Alabama House seat against Rhett Marques'
+  alt: 'Illustration accompanying article: Shomari Figures fights to hold redrawn
+    Alabama House seat against Rhett Marques'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-26-redrawn-house-races-put-republican-redistricting-advantage-to-the-test
   headline: Redrawn House races put Republican redistricting advantage to the test
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6662
+  strength: 0.6663
 - slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
   headline: Arkansas Democrats push affordability message in final midterm stretch
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6674
+  strength: 0.6683
 - slug: 2026-07-11-supreme-court-reinstatement-of-alabama-map-eliminates-second-democratic-district
-  headline: Supreme Court reinstatement of Alabama map eliminates second Democratic district
+  headline: Supreme Court reinstatement of Alabama map eliminates second Democratic
+    district
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.8368
+  strength: 0.8375
 - slug: 2026-07-18-figures-defends-alabama-seat-after-supreme-court-redraws-district
   headline: Figures defends Alabama seat after Supreme Court redraws district
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7837
+  strength: 0.784
 - slug: 2026-08-10-alabama-voters-pick-house-nominees-under-map-cutting-black-district
   headline: Alabama voters pick House nominees under map cutting Black district
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6878
+  strength: 0.688
 - slug: 2026-06-02-supreme-court-reinstates-republican-favored-alabama-congressional-districts
   headline: Supreme Court reinstates Republican-favored Alabama congressional districts
   publish_date: '2026-06-02'
   relation: related
-  strength: 0.7281
+  strength: 0.7288
 - slug: 2026-05-17-thousands-rally-in-montgomery-to-defend-black-voting-power-after-scotus
   headline: Thousands rally in Montgomery to defend Black voting power after SCOTUS
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.7285
+  strength: 0.7296
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.671
-- slug: 2026-05-17-thousands-rally-in-montgomery-against-voting-rights-rollbacks-calling-supreme-co
-  headline: Thousands rally in Montgomery against voting rights rollbacks, calling Supreme Court ruling a 'moral disgrace'
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7244
-- slug: 2026-07-23-blake-miguez-hopes-to-again-earn-trump-endorsement-after-redistricting
-  headline: Blake Miguez hopes to again earn Trump endorsement after redistricting
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6695
-- slug: 2026-05-10-supreme-court-allows-alabama-to-revert-to-single-majority-black-district-ahead-o
-  headline: Supreme Court allows Alabama to revert to single majority-Black district ahead of midterms
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7194
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6918
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6946
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6911
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6834
-- slug: 2026-05-10-supreme-court-halts-alabama-plan-for-a-house-map-with-2-black-districts
-  headline: Supreme Court halts Alabama plan for a House map with 2 Black districts
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6847
-- slug: 2026-05-18-alabama-primaries-set-rematch-for-governor-runoffs-for-u-s-senate-seat
-  headline: Alabama primaries set rematch for governor, runoffs for U.S. Senate seat
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6796
-- slug: 2026-06-03-supreme-court-allows-alabama-to-use-map-eliminating-majority-black-district
-  headline: Supreme Court Allows Alabama to Use Map Eliminating Majority-Black District
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6668
-- slug: 2026-05-18-alabama-to-hold-primaries-in-three-districts-as-redistricting-delays-four-others
-  headline: Alabama to hold primaries in three districts as redistricting delays four others
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6749
-- slug: 2026-05-05-tennessee-gop-targets-memphis-house-seat-as-other-states-move-post-ruling
-  headline: Tennessee GOP targets Memphis House seat as other states move post-ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6787
+  strength: 0.6708
 ---
-
 ## Shomari Figures fights to hold redrawn Alabama House seat against Rhett Marques
 
 **Subtype:** fact

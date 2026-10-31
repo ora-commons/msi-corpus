@@ -1,9 +1,21 @@
 ---
-headline: Detained men mail nearly 200 pages of testimony and art out of Texas ICE jail
+headline: Detained men mail nearly 200 pages of testimony and art out of Texas ICE
+  jail
 secondary_headline: DHS denies mistreatment claims while CoreCivic defends its role
 publish_date: '2026-10-31'
-lede: Men held at a privately run Immigration and Customs Enforcement jail on the outskirts of Austin have mailed nearly 200 pages of handwritten testimony, drawings and documents describing life inside the T. Don Hutto detention facility, which detainees call "la perrera" — Spanish for "the dog pound." One detainee, Colombian asylum seeker Julian Osorio Garcia, sang two protest songs over the prison pay phone to The Guardian. The Department of Homeland Security called allegations of substandard conditions at the facility false.
-nut_graf: Personal accounts of lengthy detention, sickness and alleged abuse rarely reach the public directly while people are still behind bars. The men's compilation — mailed to a detainee's relative, shared with the Center for Popular Democracy and passed to The Guardian — offers a rare direct account from inside ICE detention, where many tens of thousands of people, the majority without criminal histories, are held nationwide.
+lede: Men held at a privately run Immigration and Customs Enforcement jail on the
+  outskirts of Austin have mailed nearly 200 pages of handwritten testimony, drawings
+  and documents describing life inside the T. Don Hutto detention facility, which
+  detainees call "la perrera" — Spanish for "the dog pound." One detainee, Colombian
+  asylum seeker Julian Osorio Garcia, sang two protest songs over the prison pay phone
+  to The Guardian. The Department of Homeland Security called allegations of substandard
+  conditions at the facility false.
+nut_graf: Personal accounts of lengthy detention, sickness and alleged abuse rarely
+  reach the public directly while people are still behind bars. The men's compilation
+  — mailed to a detainee's relative, shared with the Center for Popular Democracy
+  and passed to The Guardian — offers a rare direct account from inside ICE detention,
+  where many tens of thousands of people, the majority without criminal histories,
+  are held nationwide.
 primary_entities:
 - T. Don Hutto detention facility
 - U.S. Immigration and Customs Enforcement
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +158,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-30-harris-county-da-says-indicted-ice-officer-faces-two-to-20-years-in-prison
-  headline: Harris County DA says indicted ICE officer faces two to 20 years in prison
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6301
-- slug: 2026-10-30-sheriff-says-ice-suv-that-struck-houston-man-carried-two-handcuffed-detainees
-  headline: Sheriff says ICE SUV that struck Houston man carried two handcuffed detainees
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6242
-- slug: 2026-10-19-ice-agents-break-us-citizen-s-arm-during-long-beach-detention-officials-say
-  headline: ICE agents break US citizen's arm during Long Beach detention, officials say
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6259
-- slug: 2026-10-16-lawsuit-alleges-texas-ice-camp-conditions-threaten-detainee-safety-health
-  headline: Lawsuit alleges Texas ICE camp conditions threaten detainee safety, health
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6339
-- slug: 2026-10-06-propublica-documents-over-500-u-s-citizens-detained-by-immigration-agents
-  headline: ProPublica documents over 500 U.S. citizens detained by immigration agents
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.623
 - slug: 2026-09-22-independent-immigrant-newsrooms-reach-readers-via-whatsapp-sms
   headline: Independent immigrant newsrooms reach readers via WhatsApp, SMS
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6718
-- slug: 2026-09-21-doj-brings-rare-charge-against-ice-agent-for-lying-about-minnesota-shooting
-  headline: DOJ brings rare charge against ICE agent for lying about Minnesota shooting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6268
-- slug: 2026-09-21-three-journalists-describe-arrests-and-deportation-by-ice
-  headline: Three journalists describe arrests and deportation by ICE
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6234
-- slug: 2026-09-04-california-ice-facility-bans-contact-visits-as-detainees-organize
-  headline: California ICE facility bans contact visits as detainees organize
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6395
+  strength: 0.6722
 - slug: 2026-07-15-90-of-detainees-at-texas-ice-camp-report-beatings-advocates-say
   headline: 90% of detainees at Texas ICE camp report beatings, advocates say
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6525
+  strength: 0.653
 - slug: 2026-05-18-families-protest-texas-detention-of-5-year-old-boy-and-father
   headline: Families protest Texas detention of 5-year-old boy and father
   publish_date: '2026-05-18'
   relation: related
   strength: 0.668
-- slug: 2026-07-12-texas-university-shut-down-artist-s-ice-parody-exhibition-texts-show-provost-pus
-  headline: Texas university shut down artist's ICE-parody exhibition; texts show provost pushed for full removal
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.627
-- slug: 2026-06-26-alarm-grows-over-extreme-sentences-in-texas-ice-protest-case
-  headline: Alarm grows over extreme sentences in Texas ICE protest case
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6257
 - slug: 2026-03-05-911-calls-and-interviews-raise-concerns-about-ice-camp-conditions-in-el-paso
-  headline: 911 calls and interviews raise concerns about ICE camp conditions in El Paso
+  headline: 911 calls and interviews raise concerns about ICE camp conditions in El
+    Paso
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6673
+  strength: 0.6679
 - slug: 2026-02-02-attorneys-families-struggle-to-find-hospitalized-ice-detainees
   headline: Attorneys, families struggle to find hospitalized ICE detainees
   publish_date: '2026-02-02'
   relation: related
-  strength: 0.6669
-- slug: 2026-06-06-families-describe-distress-over-inhumane-conditions-at-new-jersey-ice-jail
-  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE jail
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6341
+  strength: 0.6675
 - slug: 2026-03-06-911-calls-document-deaths-and-neglect-at-ice-s-largest-detention-camp
   headline: 911 calls document deaths and neglect at ICE's largest detention camp
   publish_date: '2026-03-06'
   relation: related
-  strength: 0.6534
+  strength: 0.654
 - slug: 2026-02-10-prolonged-ice-detention-rises-in-trump-s-second-term-advocates-say
   headline: Prolonged ICE detention rises in Trump’s second term, advocates say
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.6511
-- slug: 2026-01-16-cuban-immigrant-dies-in-texas-ice-detention-medical-examiner-rules-homicide
-  headline: Cuban immigrant dies in Texas ICE detention; medical examiner rules homicide
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.649
-- slug: 2026-01-16-medical-examiner-finds-texas-ice-detainee-s-death-a-homicide-witness-describes-c
-  headline: Medical examiner finds Texas ICE detainee's death a homicide; witness describes chokehold
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6459
+  strength: 0.6515
 ---
-
 ## Detained men mail nearly 200 pages of testimony and art out of Texas ICE jail
 
 **Subtype:** fact

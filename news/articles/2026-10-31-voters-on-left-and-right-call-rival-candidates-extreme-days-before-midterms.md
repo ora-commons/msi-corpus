@@ -1,9 +1,23 @@
 ---
 headline: Voters on left and right call rival candidates extreme days before midterms
-secondary_headline: Panel members also divided over election fairness and Defense Secretary Pete Hegseth
+secondary_headline: Panel members also divided over election fairness and Defense
+  Secretary Pete Hegseth
 publish_date: '2026-10-31'
-lede: Nine voters across the United States and the political spectrum split over the integrity of the 3 November midterm elections and divided along partisan lines over Defense Secretary Pete Hegseth, while panel members on the left and right told The Guardian they view the rival party's candidates as extreme, in interviews published on 31 October, three days before the vote. The Guardian's 2026 midterm voter panel asked the participants, aged 19 to 85, about extremism in US politics, their confidence in the voting system, what they want Congress to tackle first and their views of the president's secretary of defense. Voters will decide control of the House of Representatives and the Senate, governorships in 36 states and state legislatures across the country.
-nut_graf: The Guardian said the panel's answers offer insight into the national mood days before voters head to the polls, and the publication said it will return to the panel after final votes are cast. With control of Congress, 36 governorships and state legislatures on the ballot, The Guardian noted the results could have a huge impact on Trump's final two years in office.
+lede: Nine voters across the United States and the political spectrum split over the
+  integrity of the 3 November midterm elections and divided along partisan lines over
+  Defense Secretary Pete Hegseth, while panel members on the left and right told The
+  Guardian they view the rival party's candidates as extreme, in interviews published
+  on 31 October, three days before the vote. The Guardian's 2026 midterm voter panel
+  asked the participants, aged 19 to 85, about extremism in US politics, their confidence
+  in the voting system, what they want Congress to tackle first and their views of
+  the president's secretary of defense. Voters will decide control of the House of
+  Representatives and the Senate, governorships in 36 states and state legislatures
+  across the country.
+nut_graf: The Guardian said the panel's answers offer insight into the national mood
+  days before voters head to the polls, and the publication said it will return to
+  the panel after final votes are cast. With control of Congress, 36 governorships
+  and state legislatures on the ballot, The Guardian noted the results could have
+  a huge impact on Trump's final two years in office.
 primary_entities:
 - The Guardian
 - Donald Trump
@@ -55,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,12 +172,13 @@ related_stories:
   headline: The Guardian seeks US voter priorities for Nov. 3 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7447
+  strength: 0.745
 - slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
+  headline: Republicans brace for potential House losses as Trump disapproval hits
+    59%
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7026
+  strength: 0.7043
 - slug: 2026-10-27-the-guardian-asks-gen-z-voters-what-will-guide-their-2026-midterms
   headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
   publish_date: '2026-10-27'
@@ -172,89 +188,29 @@ related_stories:
   headline: Midterms open high-stakes fight over post-Trump future
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6955
+  strength: 0.6963
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7183
+  strength: 0.7194
 - slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
   headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6954
+  strength: 0.6965
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6947
+  strength: 0.6956
 - slug: 2026-10-23-republicans-test-whether-socialism-warnings-still-resonate-in-midterms
   headline: Republicans test whether socialism warnings still resonate in midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6877
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7398
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6918
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7187
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7254
-- slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
-  headline: Democrats narrow gaps in Republican-held races with month to midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6957
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7162
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6846
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6942
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7181
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6864
-- slug: 2026-09-24-guardian-hosts-live-q-a-on-midterm-campaign-spending
-  headline: Guardian hosts live Q&A on midterm campaign spending
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6879
-- slug: 2026-09-15-guardian-to-host-live-q-a-on-democratic-unity-ahead-of-midterms
-  headline: Guardian to host live Q&A on Democratic unity ahead of midterms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7095
+  strength: 0.6881
 ---
-
 ## Voters on left and right call rival candidates extreme days before midterms
 
 **Subtype:** fact
