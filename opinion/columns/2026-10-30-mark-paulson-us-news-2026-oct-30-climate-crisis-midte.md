@@ -44,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,7 +67,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-is-raising-your-power-bill-to-reward-drillers.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Raising Your Power Bill to Reward
+    Drillers'
+  caption: The bill finally names its author.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-30T22:12:13-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel editorial cartoon, 1:1, heavy cross-hatch wood-engraving
+    in the Nast manner, black masses balanced against carved whites. Upper third:
+    a tall president-figure in a dark suit, swept blond '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-30-hector-paired-with-2026-10-30-mark-paulson-us-news-2026-oct-30-climate-crisis-midte
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Raising Your Power Bill to Reward Drillers](/cartoons/trump-is-raising-your-power-bill-to-reward-drillers.png)
+*The bill finally names its author.*
 
 Trump's energy agenda is on every Adams County electric bill. I picked up the statement off the bench Tuesday next to a carburetor, and the number on it is not an abstraction some economist modeled in Washington — it is what it cost to keep the shop and the house running through a September that would not break. Out in Houston a gas meter sits outside an apartment building, and since Trump took office gas and electric utilities have raised or sought to raise bills by more than $92bn, touching more than 100 million customers. I have never seen that Houston meter. I have got my own, out here on the section-line road, and it is reading the same policy. That $92bn is the entire election in one number, and four days out it is remarkable how few candidates anywhere want to say so out loud.
 

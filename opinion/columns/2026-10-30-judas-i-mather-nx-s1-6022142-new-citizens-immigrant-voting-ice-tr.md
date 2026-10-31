@@ -1,7 +1,8 @@
 ---
 headline: The Line That Grants the Ballot, and the Body the Line Removes
 publish_date: '2026-10-30'
-lede: NPR went looking for the first-time voters among this year's newly naturalized citizens, and the four it found are the door working exactly as a door works.
+lede: NPR went looking for the first-time voters among this year's newly naturalized
+  citizens, and the four it found are the door working exactly as a door works.
 pen_name: judas-i-mather
 primary_entities:
 - Nicole Solis-Sison
@@ -43,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,7 +66,28 @@ cross_article_links:
   strength: 0.8405
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-line-that-grants-the-ballot-and-the-body-the-line.png
+  alt: 'Editorial cartoon by Hector Rentier: The Line That Grants the Ballot, and
+    the Body the Line Removes'
+  caption: The ballot counted. His shoes stayed by the door.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-30T22:04:00-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single panel, square 1:1, heavy cross-hatch wood-engraving in the Nast
+    tradition, pure black masses balanced against carved-out whites. The interior
+    of a small, tidy kitchen at first light. Primary fr
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-30-hector-paired-with-2026-10-30-judas-i-mather-nx-s1-6022142-new-citizens-immigrant-voting-ice-tr
 ---
+
+![Editorial cartoon by Hector Rentier: The Line That Grants the Ballot, and the Body the Line Removes](/cartoons/the-line-that-grants-the-ballot-and-the-body-the-line.png)
+*The ballot counted. His shoes stayed by the door.*
 
 NPR went looking for the first-time voters among this year's newly naturalized citizens, and the four it found are the door working exactly as a door works. Nicole Solis-Sison arrived in Los Angeles at seven with her family, who had fled the Philippine government. That government pursued them in international immigration territory and demanded them back; the then-INS agent who came to the house read the file and told them to file for asylum, the household's own officer opening the channel the household had built. More than two decades of filings later she is a citizen at thirty-four with a voter guide and a voter diary of her own, casting her first ballot in New York. Juan Escalante learned in the junior year of high school that a lawyer's mishandling had put him "out of the line entirely"; DACA held him, college followed — the first graduate in his family, the first citizen, and at thirty-seven his first general election, researched proposition by proposition. Deisy España has voted since 2020. Leydi Gonzalez turned twenty-one and her first wish was to petition her parents: "It wasn't drinking." The boundary reads the record and not a man's opinion of the record — [prosecutors have charged Marva Cook after she said she learned she was not a citizen](/articles/2026-10-23-prosecutors-charge-marva-cook-after-she-says-she-learned-she-was-not-a-citizen/) — and the record these four built over years and petitions is precisely the record the order asks an applicant to build.
 

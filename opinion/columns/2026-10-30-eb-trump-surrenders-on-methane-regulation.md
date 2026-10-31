@@ -1,7 +1,8 @@
 ---
 headline: Trump Surrenders on Methane Regulation
 publish_date: '2026-10-30'
-lede: President Trump on Tuesday reminded Americans exactly what they were promised — and why so many of them fear him.
+lede: President Trump on Tuesday reminded Americans exactly what they were promised
+  — and why so many of them fear him.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -32,7 +34,27 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-surrenders-on-methane-regulation.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Surrenders on Methane Regulation'
+  caption: He priced the sky at zero and called the difference savings.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-10-30T22:08:11-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy wood-engraving cross-hatch in the Nast register,
+    black masses balanced against carved-out whites. Top: a ribbon banner carrying
+    the President''s own words: "I''m officially term'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-30-hector-paired-with-2026-10-30-eb-trump-surrenders-on-methane-regulation
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Surrenders on Methane Regulation](/cartoons/trump-surrenders-on-methane-regulation.png)
+*He priced the sky at zero and called the difference savings.*
 
 President Trump on Tuesday reminded Americans exactly what they were promised — and why so many of them fear him. "I'm officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers $45 billion in costs," he announced at a rally in Lubbock, Texas. The $45 billion is written on one book only: the savings are tallied, the costs are pushed into the air everyone breathes. That isn't a savings; it's a transfer from the public to polluters — producers' avoided compliance costs become everyone else's cleanup, health, and climate bills. More pollution, fewer rules, please.
 
