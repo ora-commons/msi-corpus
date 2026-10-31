@@ -1,9 +1,23 @@
 ---
-headline: Justice Department election suits draw expert warnings of post-election disputes
-secondary_headline: Alaska certification suit targets Senate race that could decide chamber control
+headline: Justice Department election suits draw expert warnings of post-election
+  disputes
+secondary_headline: Alaska certification suit targets Senate race that could decide
+  chamber control
 publish_date: '2026-10-31'
-lede: The Trump administration's final-days election litigation — a Justice Department certification suit in Alaska's contested Senate race and ballot-sequestration demands in California and Washington — has drawn warnings of post-election delay and chaos, in what election lawyers describe as an unprecedented federal interference campaign. Election lawyers and scholars expect the federal government's legal efforts to fail in court, but the litigation has raised concerns about disruption when the new Congress is seated next year.
-nut_graf: The US constitution gives the states, not the federal government, authority to run elections, and gives the president no power over voting. Experts said the administration's suits are built on legal theories unlikely to prevail. But after the January 6, 2021, attack on the Capitol, voting lawyers and democracy groups are not dismissing the possibility of anything, and the disputes could matter on 3 January 2027, when the new Congress convenes and Alaska's Senate outcome could help determine which party controls the chamber.
+lede: The Trump administration's final-days election litigation — a Justice Department
+  certification suit in Alaska's contested Senate race and ballot-sequestration demands
+  in California and Washington — has drawn warnings of post-election delay and chaos,
+  in what election lawyers describe as an unprecedented federal interference campaign.
+  Election lawyers and scholars expect the federal government's legal efforts to fail
+  in court, but the litigation has raised concerns about disruption when the new Congress
+  is seated next year.
+nut_graf: The US constitution gives the states, not the federal government, authority
+  to run elections, and gives the president no power over voting. Experts said the
+  administration's suits are built on legal theories unlikely to prevail. But after
+  the January 6, 2021, attack on the Capitol, voting lawyers and democracy groups
+  are not dismissing the possibility of anything, and the disputes could matter on
+  3 January 2027, when the new Congress convenes and Alaska's Senate outcome could
+  help determine which party controls the chamber.
 primary_entities:
 - Donald Trump
 - US Justice Department
@@ -58,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,104 +175,45 @@ related_stories:
   headline: Trump directs Justice Department to challenge possible Alaska Senate result
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8249
+  strength: 0.8238
 - slug: 2026-10-30-doj-escalates-ballot-fights-with-states-ahead-of-tuesday-s-midterms
   headline: DOJ escalates ballot fights with states ahead of Tuesday's midterms
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7969
+  strength: 0.7965
 - slug: 2026-10-29-ballot-disputes-span-three-states-as-midterms-near
   headline: Ballot disputes span three states as midterms near
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7563
+  strength: 0.7556
 - slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
   headline: Legal experts say Alaska Senate certification suit has no chance of success
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7933
+  strength: 0.792
 - slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
+  headline: Alaska and Justice Department open criminal probes into second Sullivan
+    filing
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7351
+  strength: 0.734
 - slug: 2026-10-29-justice-department-expands-alaska-election-probe-with-new-subpoenas
   headline: Justice Department expands Alaska election probe with new subpoenas
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7286
+  strength: 0.7282
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7639
+  strength: 0.7631
 - slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
+  headline: Judge orders Trump administration to turn over disputed California voter
+    list
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7083
-- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
-  headline: Blanche frames Alaska election suit as federal-law test
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7403
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7514
-- slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
-  headline: Alaska Republican governor calls for investigation into namesake filing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7085
-- slug: 2026-10-29-justice-department-appeals-ruling-on-california-s-disputed-ballots
-  headline: Justice Department appeals ruling on California's disputed ballots
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7079
-- slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
-  headline: Congressional Democrats prepare legal filings before midterm voting
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7188
-- slug: 2026-10-25-blanche-defends-doj-alaska-suit-calls-cnn-question-crazy
-  headline: Blanche defends DOJ Alaska suit, calls CNN question 'crazy'
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7259
-- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7098
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7348
-- slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
-  headline: Blanche won't rule out DOJ role in state election certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7308
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.719
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7178
-- slug: 2026-09-27-experts-warn-midterm-counting-window-is-a-vulnerable-period
-  headline: Experts warn midterm counting window is a vulnerable period
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7123
+  strength: 0.7077
 ---
-
 ## Justice Department election suits draw expert warnings of post-election disputes
 
 **Subtype:** fact
