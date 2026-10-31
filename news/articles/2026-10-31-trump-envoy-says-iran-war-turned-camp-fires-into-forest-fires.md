@@ -221,6 +221,8 @@ related_stories:
   publish_date: '2026-06-21'
   relation: related
   strength: 0.7175
+analyses:
+- '2026-10-31-barrack-s-forest-fire-admission-maps-an-iran-war-that-spread-along-pre-existing-'
 ---
 ## Trump envoy says Iran war turned 'camp fires into forest fires'
 
@@ -273,3 +275,8 @@ The Guardian concluded that more and more countries are waking up to the dangers
 **Publication date:** 2026-10-31
 **Title:** As Trump fans the flames of a world on fire, can diplomacy take back control?
 **URL:** https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control
+
+---
+
+<!-- analysis-link:2026-10-31-barrack-s-forest-fire-admission-maps-an-iran-war-that-spread-along-pre-existing- -->
+**Going deeper:** [Read MSI's analysis of Iran war spillover and coupled systems →](/analyses/2026-10-31-barrack-s-forest-fire-admission-maps-an-iran-war-that-spread-along-pre-existing-)
