@@ -2,8 +2,16 @@
 headline: Judge bars DoJ from threats to election workers before midterms
 secondary_headline: Cost of living a central concern as inflation reaches 3.7%
 publish_date: '2026-10-31'
-lede: A judge has barred the DoJ from threatening election workers, and Donald Trump is set to hold tele-rallies in the final three days before the 3 November midterm elections, according to the Guardian's live coverage of the campaign's closing weekend. Millions of Americans will vote in contests that will determine control of the Republican-held House of Representatives and Senate and the governorships of 36 states.
-nut_graf: The judge's order and the tele-rally plans land in the closing stretch of a campaign the Guardian described as shaped by mounting public frustration over the cost of living, immigration, the climate crisis, artificial intelligence, big tech and the country's overseas wars — with Trump's approval at 36% in this month's New York Times/Siena poll and inflation at 3.7%.
+lede: A judge has barred the DoJ from threatening election workers, and Donald Trump
+  is set to hold tele-rallies in the final three days before the 3 November midterm
+  elections, according to the Guardian's live coverage of the campaign's closing weekend.
+  Millions of Americans will vote in contests that will determine control of the Republican-held
+  House of Representatives and Senate and the governorships of 36 states.
+nut_graf: The judge's order and the tele-rally plans land in the closing stretch of
+  a campaign the Guardian described as shaped by mounting public frustration over
+  the cost of living, immigration, the climate crisis, artificial intelligence, big
+  tech and the country's overseas wars — with Trump's approval at 36% in this month's
+  New York Times/Siena poll and inflation at 3.7%.
 primary_entities:
 - Donald Trump
 - DoJ
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +152,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-10-31-judge-bars-doj-from-threats-to-election-workers-before-midterms.png
-  alt: 'Illustration accompanying article: Judge bars DoJ from threats to election workers before midterms'
+  alt: 'Illustration accompanying article: Judge bars DoJ from threats to election
+    workers before midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
   headline: The Guardian seeks US voter priorities for Nov. 3 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.735
+  strength: 0.7361
 - slug: 2026-10-31-voters-on-left-and-right-call-rival-candidates-extreme-days-before-midterms
   headline: Voters on left and right call rival candidates extreme days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.705
+  strength: 0.7052
 - slug: 2026-10-31-federal-judge-bars-doj-from-pressuring-election-workers-on-ballots
   headline: Federal judge bars DOJ from pressuring election workers on ballots
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6888
+  strength: 0.688
 - slug: 2026-10-29-trump-urges-voters-to-pretend-i-m-on-the-ballot-at-midterm-rallies
   headline: Trump urges voters to 'pretend I'm on the ballot' at midterm rallies
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6936
+  strength: 0.6938
 - slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
   headline: Trump puts his political brand at the center of the 2026 midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6957
+  strength: 0.696
 - slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
   headline: Congressional Democrats prepare legal filings before midterm voting
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6854
+  strength: 0.6853
 - slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
   headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7071
+  strength: 0.7076
 - slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
   headline: Only one of 54 Republican economy ads in the closest races mentions Trump
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6866
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6862
-- slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
-  headline: Wall Street Journal seeks reader questions on midterms and the economy
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6841
-- slug: 2026-10-14-guardian-to-host-reader-q-a-on-us-economy-and-midterms
-  headline: Guardian to host reader Q&A on US economy and midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7038
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7185
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7265
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7206
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7037
-- slug: 2026-09-30-survey-finds-voters-across-parties-back-price-caps-on-drugs-child-care
-  headline: Survey finds voters across parties back price caps on drugs, child care
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6989
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6867
-- slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
-  headline: Democrats, retired military lawyers press Trump on National Guard at polls
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.683
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6827
-- slug: 2026-08-21-justice-department-targets-1-000-poll-monitors-for-november-midterms
-  headline: Justice Department targets 1,000 poll monitors for November midterms
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6824
+  strength: 0.6872
 ---
-
 ## Judge bars DoJ from threats to election workers before midterms
 
 **Subtype:** fact
