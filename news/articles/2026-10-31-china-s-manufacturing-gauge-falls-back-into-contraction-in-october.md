@@ -2,8 +2,16 @@
 headline: China's manufacturing gauge falls back into contraction in October
 secondary_headline: Services and construction also weakened as new export orders declined
 publish_date: '2026-10-31'
-lede: China's economic activity slowed sharply in October, with official gauges of manufacturing, services and construction all pointing to a loss of momentum. The National Bureau of Statistics said Saturday that its manufacturing purchasing managers index fell to 49.3 from 50.1 in September, undershooting the 49.8 forecast in a Wall Street Journal survey of economists and returning to contraction territory.
-nut_graf: A purchasing managers index reading above 50 signals expansion, while a reading below that threshold indicates contraction. October's data reversed a short rebound into expansion in Chinese factory activity and showed orders weakening alongside output, with production, total new orders and new export orders all falling below the 50 line.
+lede: China's economic activity slowed sharply in October, with official gauges of
+  manufacturing, services and construction all pointing to a loss of momentum. The
+  National Bureau of Statistics said Saturday that its manufacturing purchasing managers
+  index fell to 49.3 from 50.1 in September, undershooting the 49.8 forecast in a
+  Wall Street Journal survey of economists and returning to contraction territory.
+nut_graf: A purchasing managers index reading above 50 signals expansion, while a
+  reading below that threshold indicates contraction. October's data reversed a short
+  rebound into expansion in Chinese factory activity and showed orders weakening alongside
+  output, with production, total new orders and new export orders all falling below
+  the 50 line.
 primary_entities:
 - China
 - National Bureau of Statistics
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,11 +163,6 @@ related_stories:
   publish_date: '2026-08-31'
   relation: related
   strength: 0.8046
-- slug: 2026-10-06-german-factory-orders-fall-10-6-in-august
-  headline: German factory orders fall 10.6% in August
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6479
 - slug: 2026-06-01-china-s-factory-activity-flattens-in-may-amid-global-energy-shock
   headline: China's factory activity flattens in May amid global energy shock
   publish_date: '2026-06-01'
@@ -169,11 +173,6 @@ related_stories:
   publish_date: '2026-08-09'
   relation: related
   strength: 0.7286
-- slug: 2026-09-07-german-industrial-production-falls-1-1-in-july-undershooting-forecasts
-  headline: German industrial production falls 1.1% in July, undershooting forecasts
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6481
 - slug: 2026-03-04-china-factory-activity-contracts-again-in-february-as-tariffs-could-help
   headline: China factory activity contracts again in February as tariffs could help
   publish_date: '2026-03-04'
@@ -184,58 +183,7 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.74
-- slug: 2026-03-31-china-factory-activity-rebounds-in-march-as-iran-war-looms-over-growth
-  headline: China factory activity rebounds in March as Iran war looms over growth
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7368
-- slug: 2026-03-30-china-factory-activity-rebounds-in-march-as-iran-war-looms-over-growth
-  headline: China factory activity rebounds in March as Iran war looms over growth
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7182
-- slug: 2026-04-30-chinese-factory-output-expands-for-second-straight-month-despite-iran-war
-  headline: Chinese factory output expands for second straight month despite Iran war
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.706
-- slug: 2026-04-29-chinese-factory-activity-expands-for-second-straight-month-despite-iran-war
-  headline: Chinese factory activity expands for second straight month despite Iran war
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6932
-- slug: 2025-12-30-china-s-economy-looks-more-resilient-than-it-feels-as-property-slump-bites
-  headline: China’s economy looks more resilient than it feels as property slump bites
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6832
-- slug: 2026-06-08-german-factory-orders-fell-back-in-april
-  headline: German Factory Orders Fell Back in April
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6459
-- slug: 2026-04-13-china-export-growth-slows-to-2-5-in-march-as-iran-war-adds-uncertainty
-  headline: China export growth slows to 2.5% in March as Iran war adds uncertainty
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6661
-- slug: 2026-04-16-china-s-economy-grows-5-in-q1-largely-shrugging-off-iran-war-shocks
-  headline: China’s economy grows 5% in Q1, largely shrugging off Iran war shocks
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6618
-- slug: 2026-01-19-china-s-economy-grows-5-in-2025-as-export-engine-offsets-weak-demand
-  headline: China’s economy grows 5% in 2025 as export engine offsets weak demand
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.6683
-- slug: 2025-12-29-china-s-economy-looks-more-resilient-than-it-feels-amid-property-slump
-  headline: China's economy looks more resilient than it feels amid property slump
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6609
 ---
-
 ## China's manufacturing gauge falls back into contraction in October
 
 **Subtype:** fact
