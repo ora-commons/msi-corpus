@@ -1,9 +1,20 @@
 ---
-headline: Javits Frimpong, 15, chased and fatally shot on his way to school in the Bronx
-secondary_headline: Father says son was bullied at DreamYard preparatory school before the attack
+headline: Javits Frimpong, 15, chased and fatally shot on his way to school in the
+  Bronx
+secondary_headline: Father says son was bullied at DreamYard preparatory school before
+  the attack
 publish_date: '2026-10-30'
-lede: A 15-year-old boy from Ghana was chased down and fatally shot Thursday morning as he walked to school in the Bronx, and New York City police said they are searching for three teenage boys in connection with the killing. Responding officers found Javits Frimpong with a gunshot wound to his stomach at about 9.24am near Corona Park, a police spokesperson said, and the teenager was pronounced dead at a local hospital. No arrests have been made.
-nut_graf: The killing has rocked the Bronx's Claremont neighborhood and the city's West African community. It came as Frimpong marked one year in New York after leaving Ghana to reunite with his father, who said the teenager had been bullied at his school. Police declined to say whether the bullying was connected to the shooting, and Ghana's government vowed to pursue justice in a statement on Friday.
+lede: A 15-year-old boy from Ghana was chased down and fatally shot Thursday morning
+  as he walked to school in the Bronx, and New York City police said they are searching
+  for three teenage boys in connection with the killing. Responding officers found
+  Javits Frimpong with a gunshot wound to his stomach at about 9.24am near Corona
+  Park, a police spokesperson said, and the teenager was pronounced dead at a local
+  hospital. No arrests have been made.
+nut_graf: The killing has rocked the Bronx's Claremont neighborhood and the city's
+  West African community. It came as Frimpong marked one year in New York after leaving
+  Ghana to reunite with his father, who said the teenager had been bullied at his
+  school. Police declined to say whether the bullying was connected to the shooting,
+  and Ghana's government vowed to pursue justice in a statement on Friday.
 primary_entities:
 - Javits Frimpong
 - Thomas Frimpong
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +151,8 @@ cross_article_links:
   strength: 0.5635
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-kaylub-giamanco-calls-for-school-resource-officers-school-safety-funding
-  headline: Kaylub Giamanco calls for school resource officers, school safety funding
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5867
-- slug: 2026-10-22-becky-drury-says-she-was-shot-while-trying-to-shut-a-classroom-door
-  headline: Becky Drury says she was shot while trying to shut a classroom door
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5696
-- slug: 2026-10-23-police-credit-giamanco-and-the-unarmed-teacher-who-confronted-john-ii-with-savin
-  headline: Police credit Giamanco and the unarmed teacher who confronted John II with saving lives
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5625
-- slug: 2026-10-08-ice-agent-shoots-man-in-bronx-suv-dhs-says-target-had-gang-ties
-  headline: ICE agent shoots man in Bronx SUV; DHS says target had gang ties
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5996
-- slug: 2026-10-09-ice-agent-shoots-man-in-the-bronx-dhs-confirms
-  headline: ICE agent shoots man in the Bronx, DHS confirms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.581
-- slug: 2026-10-08-federal-agents-shoot-person-in-the-bronx-nypd-says
-  headline: Federal agents shoot person in the Bronx, NYPD says
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5833
-- slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5747
-- slug: 2026-10-09-mullin-says-ice-won-t-pause-nyc-operations-after-bronx-shooting
-  headline: Mullin says ICE won't pause NYC operations after Bronx shooting
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5577
-- slug: 2026-10-06-us-resident-charged-in-conspiracy-to-aid-deadly-tumbler-ridge-school-shooting
-  headline: US resident charged in conspiracy to aid deadly Tumbler Ridge school shooting
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5701
-- slug: 2026-09-18-israeli-drone-strike-kills-gaza-teen-rushing-to-help-wounded-medical-worker
-  headline: Israeli drone strike kills Gaza teen rushing to help wounded medical worker
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5744
-- slug: 2026-09-17-memphis-prevention-programs-struggle-to-meet-teen-demand-after-federal-cuts
-  headline: Memphis prevention programs struggle to meet teen demand after federal cuts
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5552
-- slug: 2026-08-16-nypd-fatally-shoots-knife-wielding-man-on-manhattan-s-lower-east-side
-  headline: NYPD fatally shoots knife-wielding man on Manhattan's Lower East Side
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.5593
-- slug: 2026-07-24-georgia-teen-pleads-guilty-in-school-shooting-that-killed-four
-  headline: Georgia teen pleads guilty in school shooting that killed four
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5609
-- slug: 2026-04-02-baby-killed-by-stray-bullet-after-drive-by-on-brooklyn-sidewalk-police-say
-  headline: Baby killed by stray bullet after drive-by on Brooklyn sidewalk, police say
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5935
-- slug: 2026-04-20-planned-fight-escalates-into-deadly-shooting-at-n-c-park
-  headline: Planned fight escalates into deadly shooting at N.C. park
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5861
-- slug: 2026-05-10-teen-and-woman-fatally-shot-after-dispute-over-kids-soccer-michigan-court-hears
-  headline: Teen and woman fatally shot after dispute over kids soccer, Michigan court hears
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5613
-- slug: 2026-04-22-preschool-teacher-in-shreveport-recounts-loss-after-father-kills-children
-  headline: Preschool teacher in Shreveport recounts loss after father kills children
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5657
-- slug: 2026-02-18-georgia-students-describe-classroom-shooting-trauma-in-father-trial
-  headline: Georgia students describe classroom shooting trauma in father trial
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5743
-- slug: 2026-02-27-accused-georgia-school-shooter-s-dad-testifies-he-saw-no-red-flags
-  headline: Accused Georgia school shooter’s dad testifies he saw no red flags
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.569
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.5591
+related_stories: []
 ---
-
 ## Javits Frimpong, 15, chased and fatally shot on his way to school in the Bronx
 
 **Subtype:** fact

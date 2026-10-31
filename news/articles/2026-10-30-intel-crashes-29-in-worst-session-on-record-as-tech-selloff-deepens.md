@@ -2,8 +2,20 @@
 headline: Intel crashes 29% in worst session on record as tech selloff deepens
 secondary_headline: Nasdaq logs worst day since June, worst month in more than a year
 publish_date: '2026-10-30'
-lede: Intel shares crashed 29% on Oct. 30, the worst session on record for the company, as cracks in the AI trade sent the Nasdaq composite to its worst day since June and its worst month in more than a year. The plunge erased more than $15 billion in combined paper holdings held by two of Intel's largest shareholders, the U.S. government and Nvidia. Earlier in the week, an Anthropic filing showing soaring revenue ahead of its planned IPO had briefly rejuvenated investors before publicly traded technology firms reported earnings.
-nut_graf: 'The session''s records quantify the pullback in AI-linked shares: Intel suffered its worst session on record, the Nasdaq composite posted its worst month in more than a year, and the U.S. government and Nvidia — two of Intel''s largest shareholders — absorbed more than $15 billion in combined paper losses in a single day. The declines followed a week in which Anthropic''s IPO filing momentarily rejuvenated investors before earnings reports from publicly traded technology firms delivered a reality check.'
+lede: Intel shares crashed 29% on Oct. 30, the worst session on record for the company,
+  as cracks in the AI trade sent the Nasdaq composite to its worst day since June
+  and its worst month in more than a year. The plunge erased more than $15 billion
+  in combined paper holdings held by two of Intel's largest shareholders, the U.S.
+  government and Nvidia. Earlier in the week, an Anthropic filing showing soaring
+  revenue ahead of its planned IPO had briefly rejuvenated investors before publicly
+  traded technology firms reported earnings.
+nut_graf: 'The session''s records quantify the pullback in AI-linked shares: Intel
+  suffered its worst session on record, the Nasdaq composite posted its worst month
+  in more than a year, and the U.S. government and Nvidia — two of Intel''s largest
+  shareholders — absorbed more than $15 billion in combined paper losses in a single
+  day. The declines followed a week in which Anthropic''s IPO filing momentarily rejuvenated
+  investors before earnings reports from publicly traded technology firms delivered
+  a reality check.'
 primary_entities:
 - Intel
 - Nvidia
@@ -71,7 +83,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -87,7 +100,9 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-10-30'
-  caption: The Nasdaq Composite stood at 26,184.72 as of Oct. 30, 2026, according to FRED, after the tech-heavy index logged its worst day since June and its worst month in more than a year.
+  caption: The Nasdaq Composite stood at 26,184.72 as of Oct. 30, 2026, according
+    to FRED, after the tech-heavy index logged its worst day since June and its worst
+    month in more than a year.
 figures_aggregate:
   count: 1
   series_ids:
@@ -181,104 +196,43 @@ related_stories:
   headline: Intel shares fall as much as 30% as Nasdaq opens at two-month low
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7828
+  strength: 0.7836
 - slug: 2026-10-30-nasdaq-loses-nearly-1tn-in-a-week-as-worries-over-ai-returns-grow
   headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7539
+  strength: 0.7533
 - slug: 2026-10-30-stocks-fall-sharply-as-tech-earnings-renew-concerns-over-ai-spending
   headline: Stocks fall sharply as tech earnings renew concerns over AI spending
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.743
+  strength: 0.7431
 - slug: 2026-10-29-alphabet-erases-roughly-500-billion-in-worst-day-on-record
   headline: Alphabet erases roughly $500 billion in worst day on record
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.672
+  strength: 0.6734
 - slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7171
+  strength: 0.7161
+- slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
+  headline: Dow ends lower as AI shares rebound and European indexes retreat
+  publish_date: '2026-10-19'
+  relation: related
+  strength: 0.6662
 - slug: 2026-09-14-ai-stocks-slide-worldwide-after-anthropic-ceo-urges-industry-slowdown
   headline: AI stocks slide worldwide after Anthropic CEO urges industry slowdown
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6756
+  strength: 0.6779
 - slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
   headline: Tech shares tumble as AI rally doubts grip Wall Street
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7344
-- slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
-  headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7327
-- slug: 2026-06-10-tech-stocks-slide-bitcoin-slumps-below-61k-as-market-selloff-deepens
-  headline: Tech stocks slide, Bitcoin slumps below $61K as market selloff deepens
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7166
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6661
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7049
-- slug: 2026-07-13-wall-street-drops-as-chip-stocks-slide-4-8-oil-hits-83-on-iran-blockade
-  headline: Wall Street drops as chip stocks slide 4.8%, oil hits $83 on Iran blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6676
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.693
-- slug: 2026-06-10-nasdaq-drops-1-as-chip-volatility-pushes-investors-toward-transports-equal-weigh
-  headline: Nasdaq drops 1% as chip volatility pushes investors toward transports, equal-weight
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6734
-- slug: 2026-02-27-nvidia-s-worst-day-since-last-spring-drags-wall-street-lower
-  headline: Nvidia’s worst day since last spring drags Wall Street lower
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7063
-- slug: 2026-06-05-european-tech-stocks-slide-zcash-crashes-27-on-exploit
-  headline: European tech stocks slide; Zcash crashes 27% on exploit
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6705
-- slug: 2026-06-08-south-korean-stocks-crash-8-on-ai-profit-fears-fed-rate-concerns
-  headline: South Korean stocks crash 8% on AI profit fears, Fed rate concerns
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6659
-- slug: 2026-04-25-intel-s-results-lift-wall-street-to-more-records-as-oil-stays-volatile
-  headline: Intel’s results lift Wall Street to more records as oil stays volatile
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.685
-- slug: 2026-05-13-wall-street-s-record-run-halts-as-ai-chip-stocks-slide-and-oil-rises
-  headline: Wall Street’s record run halts as AI chip stocks slide and oil rises
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6773
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6754
+  strength: 0.7341
 ---
-
 ## Intel crashes 29% in worst session on record as tech selloff deepens
 
 **Subtype:** fact
