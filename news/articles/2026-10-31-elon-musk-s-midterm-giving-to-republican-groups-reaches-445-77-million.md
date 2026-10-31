@@ -207,6 +207,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-31-four-control-points-concentrate-musk-s-445-77-million-midterm-spending-in-one-pa'
 ---
 ## Elon Musk's midterm giving to Republican groups reaches $445.77 million
 
@@ -249,3 +251,8 @@ For all its scale, Musk's election spending remains a tiny fraction of the centi
 **Publication date:** 2026-10-31
 **Title:** The staggering $446m Elon Musk has spent on the US midterms – visualized
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized
+
+---
+
+<!-- analysis-link:2026-10-31-four-control-points-concentrate-musk-s-445-77-million-midterm-spending-in-one-pa -->
+**Going deeper:** [Read MSI's analysis of Musk's midterm spending control points →](/analyses/2026-10-31-four-control-points-concentrate-musk-s-445-77-million-midterm-spending-in-one-pa)
