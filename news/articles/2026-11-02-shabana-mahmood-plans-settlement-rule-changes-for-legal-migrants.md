@@ -1,9 +1,19 @@
 ---
 headline: Shabana Mahmood plans settlement rule changes for legal migrants
-secondary_headline: IPPR said the original plans would never create a £10bn long-term saving
+secondary_headline: IPPR said the original plans would never create a £10bn long-term
+  saving
 publish_date: '2026-11-02'
-lede: UK Home Secretary Shabana Mahmood is set to announce changes to settlement rules for legal migrants on November 2, according to BBC News. The revisions come after the “a fairer pathway to settlement” plan announced in November 2025, a consultation that sought opinions on Mahmood's instincts and criticism from within Labour. The original consultation proposed a separate 15-year qualifying period for lower-wage migrants who bring non-working dependants and children.
-nut_graf: The planned revisions will determine how quickly some legal migrants can obtain indefinite leave to remain and begin accessing benefits and council housing. They also reopen IPPR's argument that the original plans would not create a £10bn long-term saving, while opponents argue that the implementation route could affect whether the changes are successfully challenged in court.
+lede: UK Home Secretary Shabana Mahmood is set to announce changes to settlement rules
+  for legal migrants on November 2, according to BBC News. The revisions come after
+  the “a fairer pathway to settlement” plan announced in November 2025, a consultation
+  that sought opinions on Mahmood's instincts and criticism from within Labour. The
+  original consultation proposed a separate 15-year qualifying period for lower-wage
+  migrants who bring non-working dependants and children.
+nut_graf: The planned revisions will determine how quickly some legal migrants can
+  obtain indefinite leave to remain and begin accessing benefits and council housing.
+  They also reopen IPPR's argument that the original plans would not create a £10bn
+  long-term saving, while opponents argue that the implementation route could affect
+  whether the changes are successfully challenged in court.
 primary_entities:
 - Shabana Mahmood
 - Chris Mason
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,109 +157,8 @@ cross_article_links:
   strength: 0.6093
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-27-welsh-ministers-press-healey-for-rail-cash-and-budget-protection
-  headline: Welsh ministers press Healey for rail cash and budget protection
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6116
-- slug: 2026-10-20-mahdawi-calls-omar-immigration-probe-an-abuse-of-power
-  headline: Mahdawi calls Omar immigration probe an abuse of power
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6111
-- slug: 2026-09-24-mahmood-orders-urgent-border-review-after-781-channel-arrivals-in-one-day
-  headline: Mahmood orders urgent border review after 781 Channel arrivals in one day
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6848
-- slug: 2026-09-22-uk-to-examine-domestic-abuse-in-hague-child-abduction-cases
-  headline: UK to examine domestic abuse in Hague child-abduction cases
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6244
-- slug: 2026-09-18-australia-to-reopen-visa-overstayer-detention-greens-liken-it-to-trump
-  headline: Australia to reopen visa overstayer detention, Greens liken it to Trump
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6258
-- slug: 2026-09-15-uk-government-plans-tighter-residency-rules-for-political-donors
-  headline: UK government plans tighter residency rules for political donors
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6347
-- slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
-  headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6176
-- slug: 2026-09-16-burke-to-outline-labor-migration-plan-restricting-student-family-visas
-  headline: Burke to outline Labor migration plan restricting student family visas
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6258
-- slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
-  headline: 2030 census proposal seeks input on immigrants with temporary status
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6427
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6198
-- slug: 2026-09-02-gowayed-10-258-us-refugees-in-fiscal-2026-were-white-south-africans
-  headline: 'Gowayed: 10,258 US refugees in fiscal 2026 were white South Africans'
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6469
-- slug: 2026-08-06-uk-illegal-working-arrests-double-since-labour-took-office-home-office-says
-  headline: UK illegal-working arrests double since Labour took office, Home Office says
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6184
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6196
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6127
-- slug: 2026-06-30-npr-details-five-trump-immigration-strategies-across-enforcement-courts-and-dete
-  headline: NPR details five Trump immigration strategies across enforcement, courts, and detention
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.613
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6132
-- slug: 2026-01-10-judge-to-temporarily-block-trump-plan-to-end-family-reunification-parole
-  headline: Judge to temporarily block Trump plan to end Family Reunification Parole
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6308
-- slug: 2026-01-09-judge-to-temporarily-block-effort-to-end-family-reunification-parole
-  headline: Judge to temporarily block effort to end Family Reunification Parole
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6273
-- slug: 2026-02-20-hud-proposes-rule-to-require-citizenship-or-eligible-status-in-public-housing
-  headline: HUD proposes rule to require citizenship or eligible status in public housing
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6238
-- slug: 2026-02-26-trump-asks-supreme-court-to-allow-ending-syria-tps-legal-protections
-  headline: Trump asks Supreme Court to allow ending Syria TPS legal protections
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6195
+related_stories: []
 ---
-
 ## Shabana Mahmood plans settlement rule changes for legal migrants
 
 **Subtype:** fact

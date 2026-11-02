@@ -2,8 +2,17 @@
 headline: Gleason dismisses Justice Department bid to delay Alaska Senate certification
 secondary_headline: Justice Department says it will appeal Alaska ballot ruling
 publish_date: '2026-11-01'
-lede: U.S. District Judge Sharon Gleason dismissed a Trump administration lawsuit that sought to delay certification of Alaska's Senate election if Republican incumbent Dan S. Sullivan lost. Gleason ruled that the federal government lacked authority to force Alaska to segregate and investigate ballots in the three-way race between Dan S. Sullivan, Daniel J. Sullivan and Democrat Mary Peltola. The Justice Department said it would appeal, while Alaska's governor ordered a probe into alleged links between the Democratic campaign and the same-name candidate.
-nut_graf: The dismissal answers the federal request to pause certification but does not end the dispute over Daniel J. Sullivan's candidacy. The Justice Department's planned appeal and Alaska's probe will unfold against the backdrop of the midterms, with voter secrecy and the near-election timing central to the case.
+lede: U.S. District Judge Sharon Gleason dismissed a Trump administration lawsuit
+  that sought to delay certification of Alaska's Senate election if Republican incumbent
+  Dan S. Sullivan lost. Gleason ruled that the federal government lacked authority
+  to force Alaska to segregate and investigate ballots in the three-way race between
+  Dan S. Sullivan, Daniel J. Sullivan and Democrat Mary Peltola. The Justice Department
+  said it would appeal, while Alaska's governor ordered a probe into alleged links
+  between the Democratic campaign and the same-name candidate.
+nut_graf: The dismissal answers the federal request to pause certification but does
+  not end the dispute over Daniel J. Sullivan's candidacy. The Justice Department's
+  planned appeal and Alaska's probe will unfold against the backdrop of the midterms,
+  with voter secrecy and the near-election timing central to the case.
 primary_entities:
 - Sharon Gleason
 - Dan S. Sullivan
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +157,58 @@ related_stories:
   headline: Alaska urges federal judge to dismiss suit to halt Senate certification
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8747
+  strength: 0.8767
 - slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
   headline: Justice Department asks judge to segregate ballots ranking second Sullivan
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8104
+  strength: 0.8115
 - slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
   headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.847
+  strength: 0.8482
 - slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
+  headline: Alaska and Justice Department open criminal probes into second Sullivan
+    filing
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7942
+  strength: 0.7956
 - slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
+  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan
+    loses
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8358
+  strength: 0.838
 - slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
   headline: Alaska voters decide Senate race shadowed by DOJ probe
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7815
+  strength: 0.7822
 - slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
   headline: Justice Department files pre-election challenge to Alaska Senate certification
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8167
+  strength: 0.818
 - slug: 2026-10-29-justice-department-expands-alaska-election-probe-with-new-subpoenas
   headline: Justice Department expands Alaska election probe with new subpoenas
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.774
-- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
-  headline: Blanche frames Alaska election suit as federal-law test
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.793
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8038
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7649
-- slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7569
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7965
-- slug: 2026-10-29-justice-department-reportedly-issues-subpoenas-in-alaska-namesake-probe
-  headline: Justice Department reportedly issues subpoenas in Alaska namesake probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.75
-- slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
-  headline: Gov. Dunleavy orders investigation into alleged election scheme
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7489
-- slug: 2026-10-29-dunleavy-orders-probe-into-peltola-campaign-over-sullivan-namesake
-  headline: Dunleavy orders probe into Peltola campaign over Sullivan namesake
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7468
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7398
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7429
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7387
-- slug: 2026-10-23-blanche-won-t-rule-out-doj-role-in-state-election-certification
-  headline: Blanche won't rule out DOJ role in state election certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7645
+  strength: 0.7759
 image:
   url: /articles/2026-11-01-gleason-dismisses-justice-department-bid-to-delay-alaska-senate-certification.png
-  alt: "Illustration accompanying article: Gleason dismisses Justice Department bid to delay Alaska Senate certification"
+  alt: 'Illustration accompanying article: Gleason dismisses Justice Department bid
+    to delay Alaska Senate certification'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Gleason dismisses Justice Department bid to delay Alaska Senate certification
 
 **Subtype:** fact
