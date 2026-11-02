@@ -1,9 +1,21 @@
 ---
 headline: UK select committee faults Starmer government’s China strategy
-secondary_headline: Committee proposes Chinese-investment zones and preparations for possible EV tariffs
+secondary_headline: Committee proposes Chinese-investment zones and preparations for
+  possible EV tariffs
 publish_date: '2026-11-02'
-lede: On November 2, the Commons business, innovation, science and trade select committee said the UK government had made its China policy “as it goes along.” The report said the approach could leave commercial opportunities undelivered, national-security risks unmanaged and Britain’s relationship shaped in Washington or Beijing. A UK government spokesperson rejected the conclusion and said the government’s approach remained consistent.
-nut_graf: 'The committee’s findings frame the government’s next trade decisions: whether to align with EU protections on Chinese electric vehicles, how to designate industries off-limits to Chinese investment and where to encourage trade, and how to pursue business in China without leaving national-security risks unaddressed. The government rejected the committee’s central charge, maintaining that its policy is already consistent and that it can pursue commercial opportunities without compromising security.'
+lede: On November 2, the Commons business, innovation, science and trade select committee
+  said the UK government had made its China policy “as it goes along.” The report
+  said the approach could leave commercial opportunities undelivered, national-security
+  risks unmanaged and Britain’s relationship shaped in Washington or Beijing. A UK
+  government spokesperson rejected the conclusion and said the government’s approach
+  remained consistent.
+nut_graf: 'The committee’s findings frame the government’s next trade decisions: whether
+  to align with EU protections on Chinese electric vehicles, how to designate industries
+  off-limits to Chinese investment and where to encourage trade, and how to pursue
+  business in China without leaving national-security risks unaddressed. The government
+  rejected the committee’s central charge, maintaining that its policy is already
+  consistent and that it can pursue commercial opportunities without compromising
+  security.'
 primary_entities:
 - UK
 - China
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +154,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-01-us-and-china-pursue-supply-chain-leverage-despite-an-extended-truce
-  headline: US and China pursue supply-chain leverage despite an extended truce
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6164
-- slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
-  headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6025
-- slug: 2026-10-27-chris-packham-urges-uk-chancellor-to-cut-24bn-carbon-capture-plan
-  headline: Chris Packham urges UK chancellor to cut £24bn carbon capture plan
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6006
-- slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
-  headline: AI firms seek UK datacentre compact before opposition spreads
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6045
-- slug: 2026-10-19-china-s-economy-grows-4-5-in-july-september-quarter-as-exports-strengthen
-  headline: China's economy grows 4.5% in July-September quarter as exports strengthen
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6056
-- slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
-  headline: Chinese automakers pitch American-style cars as U.S. stays shut
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6171
-- slug: 2026-10-14-scotland-secretary-says-closer-eu-trade-a-bigger-uk-prize-than-separate-deals
-  headline: Scotland secretary says closer EU trade a bigger UK prize than separate deals
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6154
 - slug: 2026-10-04-uk-carmakers-caught-between-chinese-imports-and-eu-tariff-threat
   headline: UK carmakers caught between Chinese imports and EU tariff threat
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.66
-- slug: 2026-10-12-analysts-say-eu-hybrid-quota-limits-china-s-europe-push-only-at-the-margin
-  headline: Analysts say EU hybrid quota limits China's Europe push only at the margin
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6142
-- slug: 2026-09-24-france-leads-eu-push-to-exclude-uk-from-made-in-europe-law
-  headline: France leads EU push to exclude UK from 'Made in Europe' law
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6126
-- slug: 2026-09-18-auto-coalition-urges-trump-to-block-chinese-carmakers-ahead-of-xi-summit
-  headline: Auto coalition urges Trump to block Chinese carmakers ahead of Xi summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6016
-- slug: 2026-09-03-g-20-statement-implicitly-criticizes-china-s-export-driven-growth
-  headline: G-20 statement implicitly criticizes China's export-driven growth
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6209
-- slug: 2026-07-24-uk-faces-higher-effective-us-tariffs-than-eu-rivals-after-trade-deal
-  headline: UK faces higher effective US tariffs than EU rivals after trade deal
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6229
+  strength: 0.6597
 - slug: 2026-01-29-starmer-starts-china-trip-to-mend-ties-while-weighing-spying-and-security
   headline: Starmer starts China trip to mend ties while weighing spying and security
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.6947
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6269
-- slug: 2026-07-28-china-rejects-overcapacity-claims-ahead-of-us-tariff-probe
-  headline: China rejects overcapacity claims ahead of US tariff probe
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6012
-- slug: 2026-06-06-trump-s-china-trade-war-strategy-flawed-economist-eduardo-porter-says
-  headline: Trump's China trade war strategy flawed, economist Eduardo Porter says
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.646
-- slug: 2026-06-19-european-leaders-weigh-new-trade-powers-to-counter-chinese-export-flood
-  headline: European leaders weigh new trade powers to counter Chinese export flood
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6094
-- slug: 2026-01-11-china-and-eu-agree-on-steps-to-resolve-ev-imports-dispute
-  headline: China and EU agree on steps to resolve EV imports dispute
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6462
-- slug: 2026-06-23-new-book-urges-west-to-adopt-china-s-state-led-trade-tactics
-  headline: New book urges West to adopt China's state-led trade tactics
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6008
+  strength: 0.6953
 ---
-
 ## UK select committee faults Starmer government’s China strategy
 
 **Subtype:** fact

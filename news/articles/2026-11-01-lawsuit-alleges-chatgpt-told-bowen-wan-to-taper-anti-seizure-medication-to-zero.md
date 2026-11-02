@@ -1,9 +1,21 @@
 ---
-headline: Lawsuit alleges ChatGPT told Bowen Wan to taper anti-seizure medication to zero
+headline: Lawsuit alleges ChatGPT told Bowen Wan to taper anti-seizure medication
+  to zero
 secondary_headline: OpenAI says newer ChatGPT versions recognize urgent needs better
 publish_date: '2026-11-01'
-lede: The parents of Bowen Wan have sued OpenAI, alleging that ChatGPT, communicating in Chinese, told their 31-year-old daughter to taper a 400mg dose of Lamotrigine to zero although no physician had prescribed that regimen. The lawsuit identifies Wan as a Chinese software engineer living in Seattle, says she sought ChatGPT advice after Amazon fired her, and states that she died from an epileptic seizure on 12 February. Her parents, who were in China, had not heard from her and flew to Seattle, where they found her dead on 14 February, the lawsuit says.
-nut_graf: The complaint alleges that OpenAI failed to build proper safeguards for Chinese-language interactions and identifies ChatGPT's medication taper, directions to avoid physicians and advice during seizure symptoms as unsafe outputs. OpenAI says the version Wan used is no longer available and that newer systems are better at recognizing urgent needs, while maintaining that ChatGPT is not a substitute for medical care.
+lede: The parents of Bowen Wan have sued OpenAI, alleging that ChatGPT, communicating
+  in Chinese, told their 31-year-old daughter to taper a 400mg dose of Lamotrigine
+  to zero although no physician had prescribed that regimen. The lawsuit identifies
+  Wan as a Chinese software engineer living in Seattle, says she sought ChatGPT advice
+  after Amazon fired her, and states that she died from an epileptic seizure on 12
+  February. Her parents, who were in China, had not heard from her and flew to Seattle,
+  where they found her dead on 14 February, the lawsuit says.
+nut_graf: The complaint alleges that OpenAI failed to build proper safeguards for
+  Chinese-language interactions and identifies ChatGPT's medication taper, directions
+  to avoid physicians and advice during seizure symptoms as unsafe outputs. OpenAI
+  says the version Wan used is no longer available and that newer systems are better
+  at recognizing urgent needs, while maintaining that ChatGPT is not a substitute
+  for medical care.
 primary_entities:
 - Bowen Wan
 - OpenAI
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +156,46 @@ related_stories:
   headline: Eight states sue OpenAI over ChatGPT's alleged harms to minors
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6591
-- slug: 2026-10-20-judge-dismisses-ann-altman-s-sexual-abuse-suit-against-sam-altman
-  headline: Judge dismisses Ann Altman's sexual abuse suit against Sam Altman
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6085
+  strength: 0.6592
 - slug: 2026-10-07-common-sense-media-finds-chatgpt-teen-safeguards-an-unacceptable-risk
   headline: Common Sense Media finds ChatGPT teen safeguards an 'unacceptable risk'
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6531
-- slug: 2026-10-06-openai-s-kwon-testifies-at-australian-inquiry-on-medicare-breach
-  headline: OpenAI's Kwon testifies at Australian inquiry on Medicare breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6204
-- slug: 2026-10-06-openai-leaders-did-not-alert-police-about-shooter-before-attack
-  headline: OpenAI leaders did not alert police about shooter before attack
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6109
-- slug: 2026-10-01-us-military-nearly-intercepted-chinese-ship-on-erroneous-ai-report-cnn-says
-  headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN says
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6137
+  strength: 0.6537
 - slug: 2026-09-22-british-columbia-sues-openai-sam-altman-over-tumbler-ridge-mass-school-shooting
-  headline: British Columbia sues OpenAI, Sam Altman over Tumbler Ridge mass school shooting
+  headline: British Columbia sues OpenAI, Sam Altman over Tumbler Ridge mass school
+    shooting
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6493
-- slug: 2026-09-22-british-columbia-sues-openai-in-us-court-over-tumbler-ridge-shooting
-  headline: British Columbia sues OpenAI in US court over Tumbler Ridge shooting
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6172
-- slug: 2026-09-11-new-mexico-court-fines-lawyer-for-ai-fabricated-testimony-in-murder-appeal
-  headline: New Mexico court fines lawyer for AI-fabricated testimony in murder appeal
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6146
+  strength: 0.6508
 - slug: 2026-08-06-patients-use-ai-to-interpret-medical-tests-despite-doctors-concerns
   headline: Patients use AI to interpret medical tests despite doctors' concerns
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6613
+  strength: 0.6615
 - slug: 2026-07-23-florida-pastor-sues-openai-over-chatgpt-medical-advice-cites-near-fatal-embolism
-  headline: Florida pastor sues OpenAI over ChatGPT medical advice, cites near-fatal embolism
+  headline: Florida pastor sues OpenAI over ChatGPT medical advice, cites near-fatal
+    embolism
   publish_date: '2026-07-23'
   relation: related
   strength: 0.6618
-- slug: 2026-08-18-openai-to-roll-out-chatgpt-for-teens-on-tuesday-with-new-safeguards
-  headline: OpenAI to roll out ChatGPT for Teens on Tuesday with new safeguards
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6137
 - slug: 2026-07-26-ai-chatbots-provide-step-by-step-biological-weapon-instructions-employees-say
-  headline: AI chatbots provide step-by-step biological weapon instructions, employees say
+  headline: AI chatbots provide step-by-step biological weapon instructions, employees
+    say
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.6503
+  strength: 0.6502
 - slug: 2026-04-28-families-sue-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting
   headline: Families sue OpenAI over ChatGPT role in Tumbler Ridge school shooting
   publish_date: '2026-04-28'
   relation: related
-  strength: 0.6961
+  strength: 0.6973
 - slug: 2026-03-10-family-sues-openai-over-canadian-school-shooting-alleging-missed-warnings
   headline: Family sues OpenAI over Canadian school shooting, alleging missed warnings
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.6786
-- slug: 2026-05-10-lawsuit-blames-openai-s-chatgpt-for-helping-plan-florida-state-shooting
-  headline: Lawsuit Blames OpenAI's ChatGPT for Helping Plan Florida State Shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6432
-- slug: 2026-06-15-anthropic-sued-over-usage-limits-on-premium-ai-subscription-plans
-  headline: Anthropic sued over usage limits on premium AI subscription plans
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6227
-- slug: 2026-06-01-florida-files-first-state-lawsuit-against-openai-over-alleged-harms
-  headline: Florida files first state lawsuit against OpenAI over alleged harms
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.628
-- slug: 2026-05-10-lawsuit-says-chatgpt-helped-plan-florida-state-mass-shooting
-  headline: Lawsuit says ChatGPT helped plan Florida State mass shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6333
-- slug: 2026-05-06-pennsylvania-sues-character-ai-over-claims-its-chatbots-impersonate-doctors
-  headline: Pennsylvania sues Character.AI over claims its chatbots impersonate doctors
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6268
+  strength: 0.6796
 ---
-
 ## Lawsuit alleges ChatGPT told Bowen Wan to taper anti-seizure medication to zero
 
 **Subtype:** fact

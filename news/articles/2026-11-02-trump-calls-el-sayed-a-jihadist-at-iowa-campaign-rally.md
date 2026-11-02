@@ -2,8 +2,13 @@
 headline: Trump calls El-Sayed a 'jihadist' at Iowa campaign rally
 secondary_headline: Stevens endorses Rogers after El-Sayed asked her to stay away
 publish_date: '2026-11-02'
-lede: Donald Trump repeatedly called Democratic U.S. Senate candidate Abdul El-Sayed a “jihadist” during a Sunday campaign event in Iowa. The Guardian described the Michigan race as neck-and-neck, and Trump praised Stevens for endorsing Rogers, El-Sayed’s Republican opponent, while urging her to join the Republican Party.
-nut_graf: The remarks came as Stevens, who lost to El-Sayed in the August primary, endorsed Rogers. The Guardian said the race would play an outsized role in determining which party controls the Senate after Tuesday’s midterm elections.
+lede: Donald Trump repeatedly called Democratic U.S. Senate candidate Abdul El-Sayed
+  a “jihadist” during a Sunday campaign event in Iowa. The Guardian described the
+  Michigan race as neck-and-neck, and Trump praised Stevens for endorsing Rogers,
+  El-Sayed’s Republican opponent, while urging her to join the Republican Party.
+nut_graf: The remarks came as Stevens, who lost to El-Sayed in the August primary,
+  endorsed Rogers. The Guardian said the race would play an outsized role in determining
+  which party controls the Senate after Tuesday’s midterm elections.
 primary_entities:
 - Donald Trump
 - Abdul El-Sayed
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +147,44 @@ related_stories:
   headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8312
-- slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
-  headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7879
+  strength: 0.831
 - slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
   headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8135
+  strength: 0.8138
+- slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
+  headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7874
 - slug: 2026-11-02-haley-stevens-backs-mike-rogers-in-michigan-drawing-democratic-backlash
   headline: Haley Stevens backs Mike Rogers in Michigan, drawing Democratic backlash
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7604
+  strength: 0.7601
 - slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
   headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7922
+  strength: 0.7923
 - slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
   headline: Democratic divisions surface in Michigan Senate race's final week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7603
+  strength: 0.7599
 - slug: 2026-10-31-el-sayed-asks-haley-stevens-to-stay-away-from-michigan-senate-campaign-events
-  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign events
+  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign
+    events
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7322
+  strength: 0.7321
 - slug: 2026-10-25-trump-plans-port-huron-rally-after-weeks-assailing-el-sayed-nationwide
   headline: Trump plans Port Huron rally after weeks assailing El-Sayed nationwide
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7691
-- slug: 2026-10-28-trump-attacks-el-sayed-and-omar-as-his-midterm-rally-blitz-continues
-  headline: Trump attacks El-Sayed and Omar as his midterm rally blitz continues
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7465
-- slug: 2026-10-30-anti-muslim-rhetoric-colors-michigan-senate-race-as-bishops-rebuke-white-house
-  headline: Anti-Muslim rhetoric colors Michigan Senate race as bishops rebuke White House
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7275
-- slug: 2026-10-27-vance-links-el-sayed-to-paris-protests-at-michigan-rally
-  headline: Vance links El-Sayed to Paris protests at Michigan rally
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7383
-- slug: 2026-10-25-minaj-urges-michigan-republicans-to-vote-at-trump-rally
-  headline: Minaj urges Michigan Republicans to vote at Trump rally
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7478
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7452
-- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
-  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7564
-- slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
-  headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7455
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7813
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7273
-- slug: 2026-10-11-el-sayed-says-democrats-must-win-midterms-by-massive-margins
-  headline: El-Sayed says Democrats must win midterms by massive margins
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7318
-- slug: 2026-10-07-trump-criticizes-fox-over-el-sayed-interview-as-obama-heads-to-michigan
-  headline: Trump criticizes Fox over El-Sayed interview as Obama heads to Michigan
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7399
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7405
 ---
-
 ## Trump calls El-Sayed a 'jihadist' at Iowa campaign rally
 
 **Subtype:** fact
