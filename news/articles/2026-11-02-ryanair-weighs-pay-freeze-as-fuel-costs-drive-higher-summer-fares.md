@@ -1,9 +1,20 @@
 ---
 headline: Ryanair weighs pay freeze as fuel costs drive higher summer fares
-secondary_headline: Ryanair expects short-haul capacity to stay constrained into early 2030s
+secondary_headline: Ryanair expects short-haul capacity to stay constrained into early
+  2030s
 publish_date: '2026-11-02'
-lede: Ryanair said on 2 November 2026 that it was considering a temporary pay freeze for staff and confirmed airfares would be "materially higher" next summer as fuel costs rose sharply following the US-Israel war with Iran. The airline said the anticipated fare increase was unlikely to cover the higher fuel costs, which it cited as the reason for considering a pay freeze. Ryanair forecast its short-term fuel bill would be €2bn (£1.6bn) higher, while Ryanair boss Michael O'Leary said all airlines were looking at double-digit fare increases across Europe in 2027.
-nut_graf: Ryanair said higher fuel costs were behind its consideration of a temporary wage freeze, slower hiring and materially higher summer fares, and said the anticipated fare increase was unlikely to cover the added fuel cost. The airline reported pre-tax profit fell 16% to €2.4bn in the six months ending in September as fuel costs jumped 15%, while Unite said it had not been advised of any pay-freeze proposal.
+lede: Ryanair said on 2 November 2026 that it was considering a temporary pay freeze
+  for staff and confirmed airfares would be "materially higher" next summer as fuel
+  costs rose sharply following the US-Israel war with Iran. The airline said the anticipated
+  fare increase was unlikely to cover the higher fuel costs, which it cited as the
+  reason for considering a pay freeze. Ryanair forecast its short-term fuel bill would
+  be €2bn (£1.6bn) higher, while Ryanair boss Michael O'Leary said all airlines were
+  looking at double-digit fare increases across Europe in 2027.
+nut_graf: Ryanair said higher fuel costs were behind its consideration of a temporary
+  wage freeze, slower hiring and materially higher summer fares, and said the anticipated
+  fare increase was unlikely to cover the added fuel cost. The airline reported pre-tax
+  profit fell 16% to €2.4bn in the six months ending in September as fuel costs jumped
+  15%, while Unite said it had not been advised of any pay-freeze proposal.
 primary_entities:
 - Ryanair
 - Michael O'Leary
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,7 +153,7 @@ related_stories:
   headline: OBR cuts UK growth forecast as energy prices lift inflation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6771
+  strength: 0.6773
 - slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
   headline: Transport firms adjust plans as fuel costs and demand shift
   publish_date: '2026-10-21'
@@ -151,94 +163,34 @@ related_stories:
   headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6702
+  strength: 0.6707
 - slug: 2026-10-16-jersey-proposes-fuel-duty-freeze-as-diesel-tops-2-a-litre
   headline: Jersey proposes fuel duty freeze as diesel tops £2 a litre
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7015
+  strength: 0.7023
 - slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
-  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6621
+  strength: 0.6623
 - slug: 2026-10-20-latin-american-airlines-face-rising-fuel-costs-and-higher-fares
   headline: Latin American airlines face rising fuel costs and higher fares
   publish_date: '2026-10-20'
   relation: related
   strength: 0.6669
-- slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
-  headline: Trump pulls fuel-price levers as midterm elections approach
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6619
 - slug: 2026-10-04-north-sea-oil-workers-back-strike-that-could-disrupt-uk-fuel-supply
   headline: North Sea oil workers back strike that could disrupt UK fuel supply
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6628
+  strength: 0.663
 - slug: 2026-09-20-davey-proposes-2bn-temporary-fuel-duty-cut-before-budget
   headline: Davey proposes £2bn temporary fuel duty cut before budget
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.674
-- slug: 2026-09-05-virgin-atlantic-expects-to-fly-95-of-regular-winter-schedule
-  headline: Virgin Atlantic expects to fly 95% of regular winter schedule
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6875
-- slug: 2026-08-27-qantas-annual-profit-slides-14-as-iran-conflict-lifts-fuel-costs
-  headline: Qantas annual profit slides 14% as Iran conflict lifts fuel costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6814
-- slug: 2026-07-20-cfo-says-ryanair-fleet-safe-after-window-nearly-pulls-passenger-from-plane
-  headline: CFO says Ryanair fleet safe after window nearly pulls passenger from plane
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7231
-- slug: 2026-08-04-companies-report-higher-costs-and-weaker-demand-amid-iran-conflict
-  headline: Companies report higher costs and weaker demand amid Iran conflict
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6795
-- slug: 2026-07-21-markets-assign-nearly-30-chance-of-rba-rate-hike-in-august-anz-says
-  headline: Markets assign nearly 30% chance of RBA rate hike in August, ANZ says
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6696
-- slug: 2026-05-18-ryanair-ceo-dismisses-musk-s-offer-to-buy-airline-amid-starlink-feud
-  headline: Ryanair CEO dismisses Musk's offer to buy airline amid Starlink feud
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7049
-- slug: 2026-06-01-uk-pump-prices-climb-as-strait-of-hormuz-closure-pushes-crude-past-120
-  headline: UK pump prices climb as Strait of Hormuz closure pushes crude past $120
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6941
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6779
-- slug: 2026-04-18-iran-war-drives-jet-fuel-prices-to-record-highs-raising-summer-airfares
-  headline: Iran war drives jet fuel prices to record highs, raising summer airfares
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.7038
-- slug: 2026-06-12-war-in-iran-drives-jet-fuel-prices-higher-squeezing-african-airlines
-  headline: War in Iran drives jet fuel prices higher, squeezing African airlines
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6709
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6713
+  strength: 0.6736
 ---
-
 ## Ryanair weighs pay freeze as fuel costs drive higher summer fares
 
 **Subtype:** fact

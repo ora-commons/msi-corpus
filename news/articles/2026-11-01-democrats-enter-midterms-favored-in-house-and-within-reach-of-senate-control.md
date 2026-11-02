@@ -2,8 +2,16 @@
 headline: Democrats enter midterms favored in House and within reach of Senate control
 secondary_headline: Cook ratings and redistricting narrow the competitive field
 publish_date: '2026-11-01'
-lede: Democrats enter the 2026 midterms favored to take the House and within striking distance of the Senate, according to an NPR analysis by Domenico Montanaro published Nov. 1, 2026. Cook Political Report ratings showed about 30 fewer competitive House districts — those rated lean or toss-up — than in 2018, when Democrats won more than 40 net seats. Republican turnout remains the pivotal uncertainty, and close Senate races could leave control unsettled for days or weeks.
-nut_graf: 'Control of the House and Senate is at stake, and historical midterm results point toward Democratic gains because Trump’s approval is below 50%. NPR’s analysis also identifies limits: redistricting, a smaller competitive House map, economic strain and unsettled voters on the left could limit the size of those gains.'
+lede: Democrats enter the 2026 midterms favored to take the House and within striking
+  distance of the Senate, according to an NPR analysis by Domenico Montanaro published
+  Nov. 1, 2026. Cook Political Report ratings showed about 30 fewer competitive House
+  districts — those rated lean or toss-up — than in 2018, when Democrats won more
+  than 40 net seats. Republican turnout remains the pivotal uncertainty, and close
+  Senate races could leave control unsettled for days or weeks.
+nut_graf: 'Control of the House and Senate is at stake, and historical midterm results
+  point toward Democratic gains because Trump’s approval is below 50%. NPR’s analysis
+  also identifies limits: redistricting, a smaller competitive House map, economic
+  strain and unsettled voters on the left could limit the size of those gains.'
 primary_entities:
 - Trump
 - Democratic Party
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +159,44 @@ related_stories:
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8112
+  strength: 0.8126
 - slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
   headline: Democrats lead House polling as Trump approval stays below 50%
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8056
+  strength: 0.8063
 - slug: 2026-10-30-democrats-need-four-senate-flips-as-red-state-races-tighten
   headline: Democrats need four Senate flips as red-state races tighten
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7717
+  strength: 0.7708
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7897
+  strength: 0.7902
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7531
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7497
+  strength: 0.7536
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7689
+  strength: 0.7687
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8127
+  strength: 0.8131
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7996
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8347
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8203
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8241
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.8421
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7687
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.8173
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7533
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7759
-- slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
-  headline: Forecasters rate 43 House races competitive for 2026 control
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7741
-- slug: 2026-01-15-republicans-defend-narrow-house-majority-as-history-and-approval-ratings-favor-d
-  headline: Republicans defend narrow House majority as history and approval ratings favor Democrats
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7967
-- slug: 2026-06-10-12-competitive-senate-races-to-watch-as-control-of-chamber-hangs-in-2026
-  headline: 12 competitive Senate races to watch as control of chamber hangs in 2026
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7526
+  strength: 0.7992
 ---
-
 ## Democrats enter midterms favored in House and within reach of Senate control
 
 **Subtype:** fact
