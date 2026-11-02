@@ -2,8 +2,19 @@
 headline: US and China pursue supply-chain leverage despite an extended truce
 secondary_headline: China and Washington target minerals, chips and critical inputs
 publish_date: '2026-11-01'
-lede: The trade truce between the United States and China has been extended until next January as tariff tensions cool, but both governments continue building or tightening controls over strategic supply chains. China has restricted critical-mineral and high-technology exports, while the Trump administration is funding mineral projects and limiting China’s access to advanced chips and semiconductor equipment, according to The Guardian’s analysis by Eduardo Porter. Porter said the calmer period was misleading and warned that the economic confrontation could spill over into military conflict.
-nut_graf: The measures cover inputs used in civilian and military industries, making the economic stakes broader than bilateral tariffs. The International Energy Agency estimates that blocking U.S. and European access to Chinese rare-earth magnets could cost their economies about $1.5tn per year, underscoring why supply-chain controls could carry consequences beyond the current truce.
+lede: The trade truce between the United States and China has been extended until
+  next January as tariff tensions cool, but both governments continue building or
+  tightening controls over strategic supply chains. China has restricted critical-mineral
+  and high-technology exports, while the Trump administration is funding mineral projects
+  and limiting China’s access to advanced chips and semiconductor equipment, according
+  to The Guardian’s analysis by Eduardo Porter. Porter said the calmer period was
+  misleading and warned that the economic confrontation could spill over into military
+  conflict.
+nut_graf: The measures cover inputs used in civilian and military industries, making
+  the economic stakes broader than bilateral tariffs. The International Energy Agency
+  estimates that blocking U.S. and European access to Chinese rare-earth magnets could
+  cost their economies about $1.5tn per year, underscoring why supply-chain controls
+  could carry consequences beyond the current truce.
 primary_entities:
 - United States
 - China
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +152,62 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
+  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply
+    chain
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7395
+  strength: 0.7404
 - slug: 2026-09-25-trump-and-xi-extend-tariff-truce-after-white-house-summit
   headline: Trump and Xi extend tariff truce after White House summit
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7472
+  strength: 0.7479
 - slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
   headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7439
+  strength: 0.7449
 - slug: 2026-09-23-mutual-distrust-killed-chinese-rare-earths-truce-offer-before-trump-xi-summit
-  headline: Mutual distrust killed Chinese rare-earths truce offer before Trump-Xi summit
+  headline: Mutual distrust killed Chinese rare-earths truce offer before Trump-Xi
+    summit
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7366
+  strength: 0.7377
 - slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
   headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7298
+  strength: 0.7306
 - slug: 2026-09-25-trump-welcomes-xi-to-white-house-trade-truce-extended-to-january-10
   headline: Trump welcomes Xi to White House; trade truce extended to January 10
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7232
+  strength: 0.7236
 - slug: 2026-09-24-trump-says-leave-ai-exactly-where-it-is-ahead-of-xi-state-visit
   headline: Trump says leave AI 'exactly where it is' ahead of Xi state visit
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7177
+  strength: 0.7181
 - slug: 2026-09-24-u-s-presses-china-on-suspected-low-yield-nuclear-tests-in-confidential-talks
-  headline: U.S. presses China on suspected low-yield nuclear tests in confidential talks
+  headline: U.S. presses China on suspected low-yield nuclear tests in confidential
+    talks
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7067
-- slug: 2026-09-23-trump-greets-xi-on-tarmac-as-us-and-china-extend-trade-truce
-  headline: Trump greets Xi on tarmac as US and China extend trade truce
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7049
-- slug: 2026-06-06-trump-s-china-trade-war-strategy-flawed-economist-eduardo-porter-says
-  headline: Trump's China trade war strategy flawed, economist Eduardo Porter says
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7746
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7213
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7607
-- slug: 2026-06-16-china-s-record-trade-surplus-persists-despite-u-s-tariffs-raising-alarm-at-g7
-  headline: China's record trade surplus persists despite U.S. tariffs, raising alarm at G7
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7414
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7593
-- slug: 2026-05-13-what-to-know-about-trump-xi-summit-in-beijing
-  headline: What to know about Trump-Xi summit in Beijing
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7506
-- slug: 2026-05-13-trump-xi-summit-preview-trade-truce-possible-but-taiwan-iran-remain-flashpoints
-  headline: 'Trump-Xi summit preview: trade truce possible, but Taiwan, Iran remain flashpoints'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7285
-- slug: 2026-05-14-trump-and-xi-meet-in-beijing-to-stabilize-us-china-trade-after-tariff-war
-  headline: Trump and Xi meet in Beijing to stabilize US-China trade after tariff war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7269
-- slug: 2026-02-22-supreme-court-ruling-reshapes-us-china-trade-talks-ahead-of-trump-xi-summit
-  headline: Supreme Court ruling reshapes US-China trade talks ahead of Trump-Xi summit
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.7403
-- slug: 2026-05-13-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-looms
-  headline: Trump heads to Beijing for talks with Xi as Iran war looms
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7183
-- slug: 2026-04-14-china-exports-grew-2-5-in-march-as-iran-war-raises-uncertainty
-  headline: China exports grew 2.5% in March as Iran war raises uncertainty
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7255
+  strength: 0.707
 image:
   url: /articles/2026-11-01-us-and-china-pursue-supply-chain-leverage-despite-an-extended-truce.png
-  alt: "Illustration accompanying article: US and China pursue supply-chain leverage despite an extended truce"
+  alt: 'Illustration accompanying article: US and China pursue supply-chain leverage
+    despite an extended truce'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## US and China pursue supply-chain leverage despite an extended truce
 
 **Subtype:** fact

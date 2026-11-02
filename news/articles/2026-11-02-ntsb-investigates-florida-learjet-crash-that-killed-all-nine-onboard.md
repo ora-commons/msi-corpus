@@ -2,8 +2,18 @@
 headline: NTSB investigates Florida Learjet crash that killed all nine onboard
 secondary_headline: Aviation attorney suggests icing rather than engine failure
 publish_date: '2026-11-02'
-lede: A private Learjet 60 crashed and exploded on impact in a residential area of Palm Beach county, Florida, on Sunday 1 November, killing all nine people onboard. The National Transportation Safety Board dispatched a go-team to investigate the crash, with Federal Aviation Administration personnel assisting on scene. The aircraft, tail number N722BD, was flying from Austin-Bergstrom International Airport in Texas to North Eleuthera airport in the Bahamas when it came down at about 12.50pm local time.
-nut_graf: The cause of the crash remains undetermined as the National Transportation Safety Board begins its investigation. A Miami-based aviation attorney who reviewed the pilot's radio communications with air traffic control said the aircraft's steep descent points to an icing problem rather than engine failure, and the aircraft's manufacturer has declined to comment on a potential cause.
+lede: A private Learjet 60 crashed and exploded on impact in a residential area of
+  Palm Beach county, Florida, on Sunday 1 November, killing all nine people onboard.
+  The National Transportation Safety Board dispatched a go-team to investigate the
+  crash, with Federal Aviation Administration personnel assisting on scene. The aircraft,
+  tail number N722BD, was flying from Austin-Bergstrom International Airport in Texas
+  to North Eleuthera airport in the Bahamas when it came down at about 12.50pm local
+  time.
+nut_graf: The cause of the crash remains undetermined as the National Transportation
+  Safety Board begins its investigation. A Miami-based aviation attorney who reviewed
+  the pilot's radio communications with air traffic control said the aircraft's steep
+  descent points to an icing problem rather than engine failure, and the aircraft's
+  manufacturer has declined to comment on a potential cause.
 primary_entities:
 - National Transportation Safety Board
 - Federal Aviation Administration
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,113 +153,59 @@ related_stories:
   headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7722
+  strength: 0.7728
 - slug: 2026-10-05-latitude-pledges-full-cooperation-after-nantucket-medical-flight-crash
   headline: Latitude pledges full cooperation after Nantucket medical flight crash
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.679
+  strength: 0.6799
 - slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
   headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6712
-- slug: 2026-10-05-six-presumed-dead-after-medical-plane-vanishes-off-nantucket
-  headline: Six presumed dead after medical plane vanishes off Nantucket
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6484
+  strength: 0.6723
 - slug: 2026-07-10-both-engines-flamed-out-before-texas-highway-crash-ntsb-says
   headline: Both engines flamed out before Texas highway crash, NTSB says
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6801
+  strength: 0.6815
 - slug: 2026-07-06-ntsb-says-full-butler-skydiving-crash-report-months-away-after-ruling-out-engine
-  headline: NTSB says full Butler skydiving crash report months away after ruling out engine failure
+  headline: NTSB says full Butler skydiving crash report months away after ruling
+    out engine failure
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.679
+  strength: 0.6793
 - slug: 2026-07-03-ntsb-finds-no-obvious-cause-in-missouri-skydiving-crash-that-killed-12
   headline: NTSB finds no obvious cause in Missouri skydiving crash that killed 12
   publish_date: '2026-07-03'
   relation: related
-  strength: 0.6645
+  strength: 0.665
 - slug: 2026-03-07-ntsb-bangor-maine-jet-crash-deicing-holdover-time-exceeded
-  headline: 'NTSB: Texas jet exceeded FAA deicing window before crashing in Maine, killing 6'
+  headline: 'NTSB: Texas jet exceeded FAA deicing window before crashing in Maine,
+    killing 6'
   publish_date: '2026-03-07'
   relation: related
-  strength: 0.6904
+  strength: 0.6907
 - slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
+  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were
+    rescued
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6651
-- slug: 2026-06-17-small-plane-crashes-on-texas-highway-killing-1
-  headline: Small plane crashes on Texas highway, killing 1
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6457
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6656
-- slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
-  headline: 10 rescued after small plane crashes in Bahamian waters off Florida
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6598
-- slug: 2026-03-24-laguardia-runway-crash-closes-airport-after-air-canada-collision
-  headline: LaGuardia runway crash closes airport after Air Canada collision
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6696
-- slug: 2026-01-26-six-die-as-business-jet-crashes-during-maine-takeoff-in-snowstorm
-  headline: Six die as business jet crashes during Maine takeoff in snowstorm
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6742
-- slug: 2026-05-16-ntsb-probes-what-caused-plane-crash-into-akron-home-that-killed-2
-  headline: NTSB probes what caused plane crash into Akron home that killed 2
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.649
-- slug: 2026-05-16-plane-carrying-texas-pickleball-players-broke-apart-midair-ntsb-says
-  headline: Plane carrying Texas pickleball players broke apart midair, NTSB says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6489
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6584
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6511
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6439
-- slug: 2026-05-18-ntsb-holds-2-day-hearings-on-louisville-ups-crash-after-engine-failure
-  headline: NTSB holds 2-day hearings on Louisville UPS crash after engine failure
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6415
+  strength: 0.666
 image:
   url: /articles/2026-11-02-ntsb-investigates-florida-learjet-crash-that-killed-all-nine-onboard.png
-  alt: "Illustration accompanying article: NTSB investigates Florida Learjet crash that killed all nine onboard"
+  alt: 'Illustration accompanying article: NTSB investigates Florida Learjet crash
+    that killed all nine onboard'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## NTSB investigates Florida Learjet crash that killed all nine onboard
 
 **Subtype:** fact
