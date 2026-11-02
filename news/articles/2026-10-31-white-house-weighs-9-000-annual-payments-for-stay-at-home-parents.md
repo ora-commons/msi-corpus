@@ -214,6 +214,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-10-31-proposed-9-000-parent-payment-would-shift-funds-from-programs-supporting-single-'
 ---
 ## White House weighs $9,000 annual payments for stay-at-home parents
 
@@ -261,3 +263,8 @@ Liz Hipple, a policy expert at the Georgetown Law Center on Poverty and Inequali
 **Publication date:** 2026-10-31
 **Title:** The Trump administration wants to give married parents money to stay at home. Will it be enough?
 **URL:** https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments
+
+---
+
+<!-- analysis-link:2026-10-31-proposed-9-000-parent-payment-would-shift-funds-from-programs-supporting-single- -->
+**Going deeper:** [Read MSI's analysis of the stay-at-home parent payment proposal →](/analyses/2026-10-31-proposed-9-000-parent-payment-would-shift-funds-from-programs-supporting-single-)

@@ -23,7 +23,8 @@ primary_themes:
 - Low-income consumers
 topic_tags:
 - law
-storyline_nexus: []
+storyline_nexus:
+- convenience-store-pricing-compliance
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -184,6 +185,7 @@ related_stories:
   relation: related
   strength: 0.6524
 ---
+
 ## FTC and 20 states sue Dollar General over alleged register overcharges
 
 **Subtype:** fact

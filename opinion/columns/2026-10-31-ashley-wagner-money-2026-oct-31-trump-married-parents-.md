@@ -1,7 +1,8 @@
 ---
 headline: Trump and Vance Are Closing Your Daycare and Calling It Family Policy
 publish_date: '2026-10-31'
-lede: Trump and Vance are stealing daycare money from poor kids to pay mothers to quit.
+lede: Trump and Vance are stealing daycare money from poor kids to pay mothers to
+  quit.
 pen_name: ashley-wagner
 primary_entities:
 - White House
@@ -42,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,16 +60,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-10-31-white-house-weighs-9-000-annual-payments-for-stay-at-home-parents.png
-  alt: 'Illustration accompanying article: White House weighs $9,000 annual payments for stay-at-home parents'
+  url: /cartoons/trump-and-vance-are-closing-your-daycare-and-calling-it.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump and Vance Are Closing Your Daycare
+    and Calling It Family Policy'
+  caption: One family's bonus, drawn on another family's budget.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-10-31T22:08:54-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1 aspect, heavy cross-hatch wood-engraving, pure black
+    masses balanced against carved-out whites. Center-right: Vice President JD Vance
+    at a White House-style podium beneath an arched '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-10-31-white-house-weighs-9-000-annual-payments-for-stay-at-home-parents
   relation: extends
   strength: 1.0
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-31-hector-paired-with-2026-10-31-ashley-wagner-money-2026-oct-31-trump-married-parents-
 ---
+
+![Editorial cartoon by Hector Rentier: Trump and Vance Are Closing Your Daycare and Calling It Family Policy](/cartoons/trump-and-vance-are-closing-your-daycare-and-calling-it.png)
+*One family's bonus, drawn on another family's budget.*
 
 Trump and Vance are stealing daycare money from poor kids to pay mothers to quit.
 
