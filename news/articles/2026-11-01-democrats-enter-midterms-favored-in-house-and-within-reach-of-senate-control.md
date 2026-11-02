@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-10-15'
   relation: related
   strength: 0.7992
+analyses:
+- '2026-11-01-npr-finds-democrats-favored-in-house-as-senate-remains-turnout-sensitive'
 ---
 ## Democrats enter midterms favored in House and within reach of Senate control
 
@@ -247,3 +249,8 @@ Montanaro said polls had found consistently over a long period in 2026 that Trum
 **Publication date:** 2026-11-01
 **Title:** How to think about the midterms — and the political moment the country is in
 **URL:** https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in
+
+---
+
+<!-- analysis-link:2026-11-01-npr-finds-democrats-favored-in-house-as-senate-remains-turnout-sensitive -->
+**Going deeper:** [Read MSI's analysis of House and Senate conversion constraints →](/analyses/2026-11-01-npr-finds-democrats-favored-in-house-as-senate-remains-turnout-sensitive)
