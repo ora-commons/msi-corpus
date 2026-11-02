@@ -218,6 +218,8 @@ related_stories:
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7158
+analyses:
+- '2026-11-02-cook-political-report-maps-seven-senate-toss-ups-around-democrats-four-seat-cont'
 ---
 ## Seven Senate races could decide Senate control in 2026
 
@@ -276,3 +278,8 @@ The BBC News report was written by Bernd Debusmann, Daniel Bush and Anthony Zurc
 **Publication date:** 2026-11-02
 **Title:** A Paralympian vs a former TV news anchor - and other US Senate races to watch
 **URL:** https://www.bbc.co.uk/news/articles/cqy7ljkprvjko
+
+---
+
+<!-- analysis-link:2026-11-02-cook-political-report-maps-seven-senate-toss-ups-around-democrats-four-seat-cont -->
+**Going deeper:** [Read MSI's analysis of Senate control’s four-win path →](/analyses/2026-11-02-cook-political-report-maps-seven-senate-toss-ups-around-democrats-four-seat-cont)

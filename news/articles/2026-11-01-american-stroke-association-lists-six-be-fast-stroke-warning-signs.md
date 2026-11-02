@@ -1,9 +1,22 @@
 ---
 headline: American Stroke Association lists six BE FAST stroke warning signs
-secondary_headline: Call 911 as soon as possible for BE FAST symptoms, association says
+secondary_headline: Call 911 as soon as possible for BE FAST symptoms, association
+  says
 publish_date: '2026-11-01'
-lede: 'The American Stroke Association says the six-part BE FAST acronym helps people recognize signs that a stroke may be occurring and seek care quickly. Its six categories cover balance loss, eye changes, face drooping, arm weakness, speech difficulty and time to call 911. Sen. Chris Murphy''s case illustrates the guidance: his staff said the 53-year-old senator felt numbness in one arm at his son''s hockey game and sought care quickly; Murphy was hospitalized with a stroke on Saturday, and his office said his prognosis was excellent.'
-nut_graf: The American Stroke Association says BE FAST can help save people experiencing stroke and prevent permanent brain damage. A stroke interrupts blood flow to or within the brain, and brain tissue deprived of oxygen can be permanently damaged, resulting in long-term disability or death. NPR reported that heart-disease deaths declined and identified heart disease as the "#1 killer"; the American Heart Association said stroke was the fourth-leading cause of death in the U.S. in 2023, killing more than 162,000 people.
+lede: 'The American Stroke Association says the six-part BE FAST acronym helps people
+  recognize signs that a stroke may be occurring and seek care quickly. Its six categories
+  cover balance loss, eye changes, face drooping, arm weakness, speech difficulty
+  and time to call 911. Sen. Chris Murphy''s case illustrates the guidance: his staff
+  said the 53-year-old senator felt numbness in one arm at his son''s hockey game
+  and sought care quickly; Murphy was hospitalized with a stroke on Saturday, and
+  his office said his prognosis was excellent.'
+nut_graf: The American Stroke Association says BE FAST can help save people experiencing
+  stroke and prevent permanent brain damage. A stroke interrupts blood flow to or
+  within the brain, and brain tissue deprived of oxygen can be permanently damaged,
+  resulting in long-term disability or death. NPR reported that heart-disease deaths
+  declined and identified heart disease as the "#1 killer"; the American Heart Association
+  said stroke was the fourth-leading cause of death in the U.S. in 2023, killing more
+  than 162,000 people.
 primary_entities:
 - American Stroke Association
 - American Heart Association
@@ -39,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +155,13 @@ related_stories:
   headline: Stroke sends Sen. Chris Murphy to Johns Hopkins for monitoring
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6848
-- slug: 2026-10-31-leading-ob-gyn-group-updates-menopause-guidance-for-first-time-in-12-years
-  headline: Leading OB-GYN group updates menopause guidance for first time in 12 years
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6078
-- slug: 2026-08-25-tbi-act-lapses-and-cdc-team-tracking-brain-injuries-is-fired
-  headline: TBI Act lapses and CDC team tracking brain injuries is fired
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.607
-- slug: 2026-08-06-study-links-navigation-heavy-work-to-lower-alzheimer-s-death-risk
-  headline: Study links navigation-heavy work to lower Alzheimer's death risk
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6022
+  strength: 0.6841
 - slug: 2026-02-26-women-s-heart-attack-symptoms-can-differ-know-the-risks-and-signs
   headline: Women's heart attack symptoms can differ; know the risks and signs
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6833
-- slug: 2026-07-17-wildfire-smoke-affects-nearly-every-human-body-system-studies-find
-  headline: Wildfire smoke affects nearly every human body system, studies find
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6022
-- slug: 2026-07-16-army-fields-handheld-blood-test-that-detects-brain-injuries-in-15-minutes
-  headline: Army fields handheld blood test that detects brain injuries in 15 minutes
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5977
-- slug: 2026-07-13-aortic-dissection-likely-killed-sen-lindsey-graham
-  headline: Aortic dissection likely killed Sen. Lindsey Graham
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.595
-- slug: 2026-07-02-extreme-heat-warnings-cover-midwest-eastern-u-s-as-holiday-weekend-begins
-  headline: Extreme heat warnings cover Midwest, Eastern U.S. as holiday weekend begins
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.605
-- slug: 2026-06-11-ai-convenience-may-harm-health-researchers-warn
-  headline: AI convenience may harm health, researchers warn
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6121
-- slug: 2026-06-17-ai-tool-flagged-blood-clot-before-diagnosis-author-says
-  headline: AI tool flagged blood clot before diagnosis, author says
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6053
-- slug: 2026-04-16-simple-workplace-changes-help-autistic-employees-thrive-experts-say
-  headline: Simple workplace changes help autistic employees thrive, experts say
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6308
-- slug: 2026-04-14-how-to-help-someone-experiencing-a-mental-health-crisis
-  headline: How to help someone experiencing a mental health crisis
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6243
-- slug: 2026-02-21-what-is-als-also-known-as-lou-gehrig-s-disease
-  headline: What is ALS, also known as Lou Gehrig's disease?
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6283
-- slug: 2026-05-17-experts-share-strategies-to-rebuild-attention-spans-shrinking-to-47-seconds
-  headline: Experts share strategies to rebuild attention spans shrinking to 47 seconds
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6058
-- slug: 2026-03-15-brain-exercises-may-help-lower-dementia-risk-experts-say
-  headline: Brain exercises may help lower dementia risk, experts say
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6226
-- slug: 2026-03-13-what-to-know-about-your-health-as-the-us-springs-forward-sunday
-  headline: What to know about your health as the US springs forward Sunday
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6208
-- slug: 2026-02-16-impulso-por-separar-el-autismo-profundo-busca-m-s-apoyo-y-servicios
-  headline: Impulso por separar el autismo profundo busca más apoyo y servicios
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6175
-- slug: 2026-02-08-what-to-know-about-atrial-fibrillation-symptoms-and-treatments
-  headline: What to know about atrial fibrillation, symptoms, and treatments
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6169
-- slug: 2026-01-30-common-sense-slowing-down-key-to-navigating-icy-conditions
-  headline: Common sense, slowing down key to navigating icy conditions
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6062
+  strength: 0.6867
 ---
-
 ## American Stroke Association lists six BE FAST stroke warning signs
 
 **Subtype:** fact

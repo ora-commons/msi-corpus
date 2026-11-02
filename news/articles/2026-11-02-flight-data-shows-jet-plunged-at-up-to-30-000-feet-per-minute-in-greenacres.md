@@ -2,8 +2,22 @@
 headline: Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
 secondary_headline: Aviation expert says icing and turbulence may have stalled jet
 publish_date: '2026-11-02'
-lede: Air traffic control recordings and flight-tracking data showed the Learjet 60 descending at 10,000 feet per minute, then 20,000 and at times up to 30,000, taking it beyond its design limits. Palm Beach County sheriff's officials identified Greenacres, a city of 45,000 people about 7 miles southwest of West Palm Beach, as the crash site. Transportation Secretary Sean Duffy said the jet crashed in Palm Beach County at 12:50 p.m. Sunday and that all nine people aboard were killed. The National Weather Service said a flood watch due to excessive rainfall was in effect through Monday afternoon.
-nut_graf: Palm Beach County authorities were evacuating about 600 people from a nearby mobile home community, and county officials said the road would remain closed until further notice. National Transportation Safety Board investigators were expected to arrive Sunday and Monday, with a media briefing scheduled for Monday in West Palm Beach. Aviation safety expert Steve Arroyo said many potential factors must be considered, including the pilot's response to icing and turbulence, and that investigators would not rule anything out at the early stage. Authorities had not announced a cause.
+lede: Air traffic control recordings and flight-tracking data showed the Learjet 60
+  descending at 10,000 feet per minute, then 20,000 and at times up to 30,000, taking
+  it beyond its design limits. Palm Beach County sheriff's officials identified Greenacres,
+  a city of 45,000 people about 7 miles southwest of West Palm Beach, as the crash
+  site. Transportation Secretary Sean Duffy said the jet crashed in Palm Beach County
+  at 12:50 p.m. Sunday and that all nine people aboard were killed. The National Weather
+  Service said a flood watch due to excessive rainfall was in effect through Monday
+  afternoon.
+nut_graf: Palm Beach County authorities were evacuating about 600 people from a nearby
+  mobile home community, and county officials said the road would remain closed until
+  further notice. National Transportation Safety Board investigators were expected
+  to arrive Sunday and Monday, with a media briefing scheduled for Monday in West
+  Palm Beach. Aviation safety expert Steve Arroyo said many potential factors must
+  be considered, including the pilot's response to icing and turbulence, and that
+  investigators would not rule anything out at the early stage. Authorities had not
+  announced a cause.
 primary_entities:
 - Greenacres
 - Palm Beach County
@@ -47,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +164,46 @@ related_stories:
   headline: NTSB investigates Florida Learjet crash that killed all nine onboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8085
+  strength: 0.8083
 - slug: 2026-11-02-business-jet-crashes-on-military-trail-in-florida-killing-all-nine-aboard
   headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7842
+  strength: 0.7843
 - slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
   headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6702
-- slug: 2026-09-17-texas-air-national-guard-f-16-crashes-near-traverse-city-pilot-ejects-safely
-  headline: Texas Air National Guard F-16 crashes near Traverse City, pilot ejects safely
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6406
+  strength: 0.6735
 - slug: 2026-07-21-wreckage-of-pan-am-plane-found-74-years-after-crash-that-spurred-safety-briefing
-  headline: Wreckage of Pan Am plane found 74 years after crash that spurred safety briefings
+  headline: Wreckage of Pan Am plane found 74 years after crash that spurred safety
+    briefings
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6581
+  strength: 0.6593
 - slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
   headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.695
-- slug: 2026-07-16-navy-blue-angels-jet-flies-low-over-pensacola-beach-prompting-safety-review
-  headline: Navy Blue Angels jet flies low over Pensacola Beach, prompting safety review
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6421
+  strength: 0.6963
 - slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
+  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were
+    rescued
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6848
+  strength: 0.6862
 - slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
   headline: 10 rescued after small plane crashes in Bahamian waters off Florida
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6779
+  strength: 0.6794
 - slug: 2026-03-07-ntsb-bangor-maine-jet-crash-deicing-holdover-time-exceeded
-  headline: 'NTSB: Texas jet exceeded FAA deicing window before crashing in Maine, killing 6'
+  headline: 'NTSB: Texas jet exceeded FAA deicing window before crashing in Maine,
+    killing 6'
   publish_date: '2026-03-07'
   relation: related
-  strength: 0.6823
-- slug: 2026-05-14-11-survivors-of-plane-ditching-off-florida-rescued-after-five-hours-on-life-raft
-  headline: 11 survivors of plane ditching off Florida rescued after five hours on life raft
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6508
-- slug: 2026-01-26-six-die-as-business-jet-crashes-during-maine-takeoff-in-snowstorm
-  headline: Six die as business jet crashes during Maine takeoff in snowstorm
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6696
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6551
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6471
-- slug: 2026-05-15-denver-runway-fatality-reveals-airport-perimeter-security-weakness
-  headline: Denver runway fatality reveals airport perimeter security weakness
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6408
-- slug: 2026-03-24-passengers-escape-after-air-canada-jet-collides-with-fire-truck-at-laguardia
-  headline: Passengers escape after Air Canada jet collides with fire truck at LaGuardia
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6535
-- slug: 2026-04-20-two-southwest-planes-narrowly-avoid-collision-in-nashville-after-controller-erro
-  headline: Two Southwest planes narrowly avoid collision in Nashville after controller error
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.647
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6407
-- slug: 2026-03-24-air-traffic-controller-stress-comes-into-focus-after-laguardia-crash
-  headline: Air traffic controller stress comes into focus after LaGuardia crash
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6492
-- slug: 2026-03-24-laguardia-runway-crash-closes-airport-after-air-canada-collision
-  headline: LaGuardia runway crash closes airport after Air Canada collision
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6486
+  strength: 0.6828
 ---
-
 ## Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
 
 **Subtype:** fact

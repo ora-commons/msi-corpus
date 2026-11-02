@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-10-15'
   relation: related
   strength: 0.8333
+analyses:
+- '2026-11-01-talarico-s-narrow-polling-lead-persists-amid-record-spending-and-unsettled-turno'
 ---
 ## Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
 
@@ -256,3 +258,8 @@ Inside the small Democratic Party office at a Talarico rally in Amarillo on Tues
 **Publication date:** 2026-11-01
 **Title:** Democrats are used to heartbreak in Texas - could Talarico turn the tide?
 **URL:** https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo
+
+---
+
+<!-- analysis-link:2026-11-01-talarico-s-narrow-polling-lead-persists-amid-record-spending-and-unsettled-turno -->
+**Going deeper:** [Read MSI's analysis of Texas Senate polling and turnout →](/analyses/2026-11-01-talarico-s-narrow-polling-lead-persists-amid-record-spending-and-unsettled-turno)

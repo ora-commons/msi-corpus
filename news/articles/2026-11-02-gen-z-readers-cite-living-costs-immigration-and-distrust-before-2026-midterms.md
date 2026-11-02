@@ -1,9 +1,22 @@
 ---
 headline: Gen Z readers cite living costs, immigration and distrust before 2026 midterms
-secondary_headline: Almost half of eligible young adults are unregistered or civically disengaged
+secondary_headline: Almost half of eligible young adults are unregistered or civically
+  disengaged
 publish_date: '2026-11-02'
-lede: The 2026 US midterms are approaching against a backdrop of growing political uncertainty, with young voters increasingly mobilizing around concerns about the country's future. The Guardian reported that young voters have many of the same concerns as the larger voting cohort, even though many are not registered to vote. US Census Bureau data show that nearly 50 million Americans ages 18 to 29 are eligible to vote in the midterms, but almost half are unregistered or civically disengaged. Gen Z readers cited affordability, federal immigration policies, the climate crisis, election interference and the rollback of civil rights, alongside work and money constraints, distrust in both parties and concern that election outcomes would not necessarily produce change.
-nut_graf: 'The reader accounts show how policy concerns overlap with obstacles to participation and doubts about whether election outcomes will produce change. The Census figures establish the scale of the engagement gap: nearly 50 million young Americans are eligible, yet almost half are unregistered or civically disengaged.'
+lede: The 2026 US midterms are approaching against a backdrop of growing political
+  uncertainty, with young voters increasingly mobilizing around concerns about the
+  country's future. The Guardian reported that young voters have many of the same
+  concerns as the larger voting cohort, even though many are not registered to vote.
+  US Census Bureau data show that nearly 50 million Americans ages 18 to 29 are eligible
+  to vote in the midterms, but almost half are unregistered or civically disengaged.
+  Gen Z readers cited affordability, federal immigration policies, the climate crisis,
+  election interference and the rollback of civil rights, alongside work and money
+  constraints, distrust in both parties and concern that election outcomes would not
+  necessarily produce change.
+nut_graf: 'The reader accounts show how policy concerns overlap with obstacles to
+  participation and doubts about whether election outcomes will produce change. The
+  Census figures establish the scale of the engagement gap: nearly 50 million young
+  Americans are eligible, yet almost half are unregistered or civically disengaged.'
 primary_entities:
 - United States
 - The Guardian
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,22 +158,23 @@ related_stories:
   headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8221
+  strength: 0.8222
 - slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
   headline: Cost of living, Iran war and AI weigh on US voters days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7417
+  strength: 0.7409
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7088
+  strength: 0.7084
 - slug: 2026-10-27-millions-of-young-voters-can-register-on-election-day-in-22-states-and-dc
-  headline: Millions of young voters can register on election day in 22 states and DC
+  headline: Millions of young voters can register on election day in 22 states and
+    DC
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7183
+  strength: 0.718
 - slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
   headline: The Guardian seeks US voter priorities for Nov. 3 midterms
   publish_date: '2026-10-27'
@@ -169,12 +184,7 @@ related_stories:
   headline: Early ballots pass 43 million as US midterms approach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6967
-- slug: 2026-10-30-new-citizens-and-immigrant-family-voters-cast-midterm-ballots-as-family-duty
-  headline: New citizens and immigrant-family voters cast midterm ballots as family duty
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6895
+  strength: 0.6961
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
@@ -184,73 +194,21 @@ related_stories:
   headline: Young candidates face barriers in an aging US Congress
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.703
-- slug: 2026-10-16-navigator-focus-group-finds-some-gen-z-trump-voters-regret-2024-vote
-  headline: Navigator focus group finds some Gen Z Trump voters regret 2024 vote
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7211
-- slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
-  headline: Young voters split on gun control despite shared fear of mass shootings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7228
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6949
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7245
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.708
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7067
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7203
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6963
-- slug: 2026-09-09-democratic-aligned-groups-court-gen-z-voters-with-donuts-and-block-parties
-  headline: Democratic-aligned groups court Gen Z voters with donuts and block parties
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7126
-- slug: 2026-06-21-millions-of-18-year-olds-go-unregistered-to-vote-each-year-analysis-finds
-  headline: Millions of 18-year-olds go unregistered to vote each year, analysis finds
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7578
-- slug: 2026-05-10-young-americans-job-market-optimism-drops-sharply-new-gallup-poll-finds
-  headline: Young Americans’ job-market optimism drops sharply, new Gallup poll finds
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6909
+  strength: 0.7021
 image:
   url: /articles/2026-11-02-gen-z-readers-cite-living-costs-immigration-and-distrust-before-2026-midterms.png
-  alt: "Illustration accompanying article: Gen Z readers cite living costs, immigration and distrust before 2026 midterms"
+  alt: 'Illustration accompanying article: Gen Z readers cite living costs, immigration
+    and distrust before 2026 midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Gen Z readers cite living costs, immigration and distrust before 2026 midterms
 
 **Subtype:** fact
