@@ -213,6 +213,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-01-graham-faces-a-recognition-gap-as-trump-rallies-and-andrews-s-spending-test-sout'
 ---
 ## Andrews outraises Graham; some Republican strategists and Trump advisers worry
 
@@ -264,3 +266,8 @@ After the Andrews rally, supporters Lina Hovey and Jennifer Lyons gathered for d
 **Publication date:** 2026-11-01
 **Title:** Inside the Final Days of Darline Graham’s Reluctant Senate Run
 **URL:** https://www.wsj.com/politics/elections/darline-graham-senate-race-da6227b0
+
+---
+
+<!-- analysis-link:2026-11-01-graham-faces-a-recognition-gap-as-trump-rallies-and-andrews-s-spending-test-sout -->
+**Going deeper:** [Read MSI's analysis of Graham’s recognition and Trump support →](/analyses/2026-11-01-graham-faces-a-recognition-gap-as-trump-rallies-and-andrews-s-spending-test-sout)
