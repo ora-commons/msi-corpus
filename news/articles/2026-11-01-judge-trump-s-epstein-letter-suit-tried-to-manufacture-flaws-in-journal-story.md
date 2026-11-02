@@ -1,9 +1,26 @@
 ---
-headline: 'Judge: Trump''s Epstein letter suit tried to ''manufacture'' flaws in Journal story'
+headline: 'Judge: Trump''s Epstein letter suit tried to ''manufacture'' flaws in Journal
+  story'
 secondary_headline: Ghislaine Maxwell reportedly collected Epstein birthday letter
 publish_date: '2026-11-01'
-lede: U.S. District Judge Darrin Gayles ruled in Miami that Donald Trump's $10 billion defamation suit against The Wall Street Journal tried to "manufacture" flaws in the paper's reporting on a letter bearing Trump's name. Gayles wrote that the amended complaint "falls short of pleading actual malice," and the story at issue said the Epstein birthday letter was reportedly collected by Ghislaine Maxwell years before Epstein's first arrest in 2006. Gayles dismissed the suit with prejudice on Saturday, a ruling that means the case cannot be refiled again.
-nut_graf: 'The judicial reasoning is the substantive part of the ruling: Gayles said the lawsuit had attempted to "manufacture" flaws in the Journal''s investigative reporting, and the story at issue said the Epstein birthday letter was reportedly collected by Ghislaine Maxwell years before Epstein''s first arrest in 2006. The permanent dismissal comes amid Trump''s disputes with news organizations during his second term, including lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September, and his frequent denunciation of outlets whose reporting he objects to as "fake news," along with his insults toward their journalists. A central legal issue was the demanding actual-malice standard that applies when a public figure seeks to establish defamation.'
+lede: U.S. District Judge Darrin Gayles ruled in Miami that Donald Trump's $10 billion
+  defamation suit against The Wall Street Journal tried to "manufacture" flaws in
+  the paper's reporting on a letter bearing Trump's name. Gayles wrote that the amended
+  complaint "falls short of pleading actual malice," and the story at issue said the
+  Epstein birthday letter was reportedly collected by Ghislaine Maxwell years before
+  Epstein's first arrest in 2006. Gayles dismissed the suit with prejudice on Saturday,
+  a ruling that means the case cannot be refiled again.
+nut_graf: 'The judicial reasoning is the substantive part of the ruling: Gayles said
+  the lawsuit had attempted to "manufacture" flaws in the Journal''s investigative
+  reporting, and the story at issue said the Epstein birthday letter was reportedly
+  collected by Ghislaine Maxwell years before Epstein''s first arrest in 2006. The
+  permanent dismissal comes amid Trump''s disputes with news organizations during
+  his second term, including lawsuits involving the BBC, The Associated Press and
+  — most recently — CNN, MS NOW and Politico, which are suing him for restored access
+  after he banished them from the White House in mid-September, and his frequent denunciation
+  of outlets whose reporting he objects to as "fake news," along with his insults
+  toward their journalists. A central legal issue was the demanding actual-malice
+  standard that applies when a public figure seeks to establish defamation.'
 primary_entities:
 - Donald Trump
 - Darrin Gayles
@@ -44,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +161,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-31-judge-again-dismisses-trump-s-10-billion-defamation-suit-against-journal-publish
-  headline: Judge again dismisses Trump's $10 billion defamation suit against Journal publisher
+  headline: Judge again dismisses Trump's $10 billion defamation suit against Journal
+    publisher
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8598
+  strength: 0.8603
 - slug: 2026-10-31-judge-dismisses-trump-s-multibillion-dollar-suit-against-wall-street-journal
   headline: Judge dismisses Trump's multibillion-dollar suit against Wall Street Journal
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.749
-- slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
-  headline: House Judiciary Democrats ask Blanche to probe Epstein network
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6424
+  strength: 0.7493
 - slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
-  headline: BBC asks judge to dismiss Trump suit over London production and no U.S. airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6556
+  strength: 0.6551
 - slug: 2026-04-14-judge-dismisses-trump-s-10b-defamation-suit-against-wsj-rupert-murdoch
   headline: Judge dismisses Trump’s $10B defamation suit against WSJ, Rupert Murdoch
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.7845
+  strength: 0.7849
 - slug: 2026-07-08-judge-throws-out-trump-media-s-3-8b-suit-against-washington-post
   headline: Judge throws out Trump Media's $3.8B suit against Washington Post
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7036
-- slug: 2026-08-17-carroll-verdict-against-trump-stands-as-high-court-turns-down-second-appeal
-  headline: Carroll verdict against Trump stands as high court turns down second appeal
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6433
-- slug: 2026-08-17-supreme-court-again-denies-trump-request-to-reconsider-5m-carroll-verdict
-  headline: Supreme Court again denies Trump request to reconsider $5M Carroll verdict
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6421
+  strength: 0.7041
 - slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
   headline: Judge orders Trump to release financial records in BBC defamation case
   publish_date: '2026-07-21'
   relation: related
   strength: 0.6645
-- slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
-  headline: Trump attorneys ask court to pause BBC access to financial records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6407
 - slug: 2026-07-13-judge-rules-trump-s-10b-irs-lawsuit-was-brought-in-bad-faith
   headline: Judge rules Trump's $10B IRS lawsuit was brought in bad faith
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6668
-- slug: 2026-07-14-court-releases-5-6m-to-e-jean-carroll-after-trump-39-s-appeals-fail
-  headline: Court releases $5.6M to E Jean Carroll after Trump&#39;s appeals fail
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.648
+  strength: 0.6665
 - slug: 2026-07-06-judge-denies-trump-bid-to-delay-5-8m-judgment-to-e-jean-carroll
   headline: Judge denies Trump bid to delay $5.8M judgment to E Jean Carroll
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.6535
-- slug: 2026-05-22-judge-dismisses-michael-wolff-s-1b-lawsuit-against-melania-trump
-  headline: Judge dismisses Michael Wolff’s $1B lawsuit against Melania Trump
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6824
-- slug: 2026-07-08-judge-orders-release-of-5-8m-trump-owes-e-jean-carroll
-  headline: Judge orders release of $5.8M Trump owes E. Jean Carroll
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6435
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6781
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6834
-- slug: 2026-04-30-appeals-court-rejects-en-banc-review-of-83m-defamation-verdict
-  headline: Appeals court rejects en banc review of $83M defamation verdict
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6616
-- slug: 2026-05-14-trump-s-83m-defamation-award-to-e-jean-carroll-delayed-by-appeals-court
-  headline: Trump’s $83M defamation award to E. Jean Carroll delayed by appeals court
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6478
-- slug: 2026-05-07-timeline-traces-epstein-probe-and-fight-over-doj-files
-  headline: Timeline traces Epstein probe and fight over DOJ files
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6504
+  strength: 0.6538
 ---
-
 ## Judge: Trump's Epstein letter suit tried to 'manufacture' flaws in Journal story
 
 **Subtype:** fact
