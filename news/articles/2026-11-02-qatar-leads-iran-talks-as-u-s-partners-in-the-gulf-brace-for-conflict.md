@@ -2,8 +2,19 @@
 headline: Qatar leads Iran talks as U.S. partners in the Gulf brace for conflict
 secondary_headline: Supreme Court to hear Colorado pre-K religious-freedom case
 publish_date: '2026-11-02'
-lede: Qatar led negotiations with Iran over the previous 72 hours to prevent further fighting as U.S. partners in the Gulf braced for potential conflict, NPR reported. Iran said a two-day plan to stop attacks on ships in the Strait of Hormuz and resume talks with the U.S. depended on the U.S. response, while NPR's Aya Batrawy reported that President Trump said the U.S. had neutralized key components of Iran's military and had a couple of targets left. The Supreme Court was scheduled to hear arguments in a case between the Catholic Church and Colorado's taxpayer-funded pre-K programs.
-nut_graf: Qatar's negotiations were aimed at preventing further fighting, while Iran said it had a two-day plan to stop attacks on ships in the Strait of Hormuz and resume talks with the U.S., depending on the U.S. response. Gulf states worried that further attacks could destabilize the region and disrupt global energy supplies. The report also examined a Supreme Court religious-freedom case, unexpectedly competitive House races after redistricting, a Binance theft, oil-company profits and burnout.
+lede: Qatar led negotiations with Iran over the previous 72 hours to prevent further
+  fighting as U.S. partners in the Gulf braced for potential conflict, NPR reported.
+  Iran said a two-day plan to stop attacks on ships in the Strait of Hormuz and resume
+  talks with the U.S. depended on the U.S. response, while NPR's Aya Batrawy reported
+  that President Trump said the U.S. had neutralized key components of Iran's military
+  and had a couple of targets left. The Supreme Court was scheduled to hear arguments
+  in a case between the Catholic Church and Colorado's taxpayer-funded pre-K programs.
+nut_graf: Qatar's negotiations were aimed at preventing further fighting, while Iran
+  said it had a two-day plan to stop attacks on ships in the Strait of Hormuz and
+  resume talks with the U.S., depending on the U.S. response. Gulf states worried
+  that further attacks could destabilize the region and disrupt global energy supplies.
+  The report also examined a Supreme Court religious-freedom case, unexpectedly competitive
+  House races after redistricting, a Binance theft, oil-company profits and burnout.
 primary_entities:
 - Qatar
 - Iran
@@ -60,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,104 +174,44 @@ related_stories:
   headline: Gulf states link Hormuz reopening to sanctions relief and Houthi withdrawal
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7065
+  strength: 0.7083
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6906
+  strength: 0.6915
 - slug: 2026-09-25-gulf-states-split-on-iran-talks-as-saudi-arabia-uae-urge-continued-pressure
   headline: Gulf states split on Iran talks as Saudi Arabia, UAE urge continued pressure
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7252
+  strength: 0.7285
 - slug: 2026-09-28-iran-says-no-un-talks-planned-with-us-contradicting-trump
   headline: Iran says no UN talks planned with US, contradicting Trump
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7073
+  strength: 0.7104
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6916
+  strength: 0.6939
 - slug: 2026-09-26-trump-reportedly-rejects-iran-s-seven-day-plan-to-reopen-strait-of-hormuz
   headline: Trump reportedly rejects Iran's seven-day plan to reopen Strait of Hormuz
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6908
+  strength: 0.6932
 - slug: 2026-09-22-iran-and-us-hold-three-hour-talks-on-un-sidelines-as-hormuz-reopening-floated
-  headline: Iran and US hold three-hour talks on UN sidelines as Hormuz reopening floated
+  headline: Iran and US hold three-hour talks on UN sidelines as Hormuz reopening
+    floated
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6974
+  strength: 0.7002
 - slug: 2026-09-23-three-hour-qatari-mediated-iran-us-talks-at-un-end-without-position-shift
   headline: Three-hour Qatari-mediated Iran-US talks at UN end without position shift
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6905
-- slug: 2026-07-20-qatar-proposes-10-day-ceasefire-as-us-iran-strikes-continue
-  headline: Qatar proposes 10-day ceasefire as US-Iran strikes continue
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7437
-- slug: 2026-07-28-iran-oman-seek-reopening-of-strait-of-hormuz-in-narrow-talks
-  headline: Iran, Oman seek reopening of Strait of Hormuz in narrow talks
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6949
-- slug: 2026-06-29-iran-does-not-confirm-it-will-join-us-qatar-talks-after-gulf-strikes
-  headline: Iran does not confirm it will join US-Qatar talks after Gulf strikes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7208
-- slug: 2026-07-15-us-and-iran-face-dueling-time-pressures-as-hormuz-conflict-resumes
-  headline: US and Iran face dueling time pressures as Hormuz conflict resumes
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6895
-- slug: 2026-06-22-us-iran-talks-progress-60-day-roadmap-agreed-mediators-say
-  headline: US-Iran talks progress, 60-day roadmap agreed, mediators say
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7087
-- slug: 2026-07-01-u-s-iran-continue-indirect-talks-in-qatar-on-day-2
-  headline: U.S., Iran continue indirect talks in Qatar on Day 2
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6923
-- slug: 2026-06-30-iran-s-internal-power-struggle-threatens-us-peace-talks-officials-say
-  headline: Iran's internal power struggle threatens US peace talks, officials say
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6902
-- slug: 2026-05-23-trump-says-u-s--iran-deal-and-strait-of-hormuz-reopening-are-largely-negotiated
-  headline: Trump says U.S.-Iran deal and Strait of Hormuz reopening are “largely negotiated”
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.696
-- slug: 2026-05-19-trump-calls-off-iran-strike-planned-for-tuesday-as-negotiations-progress
-  headline: Trump calls off Iran strike planned for Tuesday as negotiations progress
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6903
-- slug: 2026-05-25-trump-says-u-s-and-iran-near-peace-deal-pope-leo-weighs-ai-in-encyclical
-  headline: Trump says U.S. and Iran near peace deal; Pope Leo weighs AI in encyclical
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6855
-- slug: 2026-04-20-trump-offers-mixed-messages-about-us-war-against-iran
-  headline: Trump offers mixed messages about US war against Iran
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6941
-- slug: 2026-04-20-iran-s-revolutionary-guard-closes-strait-of-hormuz-fires-on-ships-after-blockade
-  headline: Iran’s Revolutionary Guard closes Strait of Hormuz; fires on ships after blockade
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6921
+  strength: 0.6935
 ---
-
 ## Qatar leads Iran talks as U.S. partners in the Gulf brace for conflict
 
 **Subtype:** fact

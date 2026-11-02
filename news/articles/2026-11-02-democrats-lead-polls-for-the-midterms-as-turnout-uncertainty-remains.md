@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-10-13'
   relation: related
   strength: 0.79
+analyses:
+- '2026-11-02-democrats-hold-a-broad-house-polling-edge-as-senate-races-remain-unsettled'
 ---
 ## Democrats lead polls for the midterms as turnout uncertainty remains
 
@@ -237,3 +239,8 @@ Voters can still change their minds through election day, and undecided voters r
 **Publication date:** 2026-11-02
 **Title:** Democrats have high hopes for midterms - but are the polls right?
 **URL:** https://www.bbc.co.uk/news/articles/cmg47p3edv4do
+
+---
+
+<!-- analysis-link:2026-11-02-democrats-hold-a-broad-house-polling-edge-as-senate-races-remain-unsettled -->
+**Going deeper:** [Read MSI's analysis of Democratic midterm polling and turnout risk →](/analyses/2026-11-02-democrats-hold-a-broad-house-polling-edge-as-senate-races-remain-unsettled)
