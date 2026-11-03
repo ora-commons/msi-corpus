@@ -2,8 +2,17 @@
 headline: UK government plans 10-year standard for permanent settlement
 secondary_headline: Refugee waiting periods range from five to 30 years
 publish_date: '2026-11-02'
-lede: Home Secretary Shabana Mahmood set out plans in the House of Commons as she announced final decisions on 2 November 2026 to overhaul the UK's immigration rules for permanent settlement, a decision that would double the standard period for settlement from five to 10 years. The changes would apply to migrants already in the UK who have not yet received settlement, but not to people who have already been granted settlement.
-nut_graf: The final decision sets separate rules for migrants and refugees, including residence, earnings and work-or-study tests, with shorter routes for specified workers, Hong Kong status holders and high earners. Settlement applicants would also need to have no criminal record, speak English to a high standard, owe no taxpayer debt and maintain a record of sustained National Insurance contributions.
+lede: Home Secretary Shabana Mahmood set out plans in the House of Commons as she
+  announced final decisions on 2 November 2026 to overhaul the UK's immigration rules
+  for permanent settlement, a decision that would double the standard period for settlement
+  from five to 10 years. The changes would apply to migrants already in the UK who
+  have not yet received settlement, but not to people who have already been granted
+  settlement.
+nut_graf: The final decision sets separate rules for migrants and refugees, including
+  residence, earnings and work-or-study tests, with shorter routes for specified workers,
+  Hong Kong status holders and high earners. Settlement applicants would also need
+  to have no criminal record, speak English to a high standard, owe no taxpayer debt
+  and maintain a record of sustained National Insurance contributions.
 primary_entities:
 - Shabana Mahmood
 - UK
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +150,13 @@ related_stories:
   headline: Shabana Mahmood plans settlement rule changes for legal migrants
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7695
-- slug: 2026-10-24-uk-basic-state-pension-trails-wealthy-countries-oecd-analysis-shows
-  headline: UK basic state pension trails wealthy countries, OECD analysis shows
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6137
+  strength: 0.769
 - slug: 2026-09-15-uk-government-plans-tighter-residency-rules-for-political-donors
   headline: UK government plans tighter residency rules for political donors
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6562
-- slug: 2026-09-24-mahmood-orders-urgent-border-review-after-781-channel-arrivals-in-one-day
-  headline: Mahmood orders urgent border review after 781 Channel arrivals in one day
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5962
-- slug: 2026-09-14-farage-defends-72m-reform-uk-donations-as-government-weighs-donor-cap
-  headline: Farage defends £72m Reform UK donations as government weighs donor cap
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6048
-- slug: 2026-09-13-rayner-says-uk-unlikely-to-meet-1-5-million-homes-target
-  headline: Rayner says UK unlikely to meet 1.5 million homes target
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6048
-- slug: 2026-09-18-australia-to-reopen-visa-overstayer-detention-greens-liken-it-to-trump
-  headline: Australia to reopen visa overstayer detention, Greens liken it to Trump
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5864
-- slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
-  headline: 2030 census proposal seeks input on immigrants with temporary status
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6007
-- slug: 2026-09-09-uk-announces-sanctions-on-israeli-settlement-trade
-  headline: UK announces sanctions on Israeli settlement trade
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5923
-- slug: 2026-09-02-gowayed-10-258-us-refugees-in-fiscal-2026-were-white-south-africans
-  headline: 'Gowayed: 10,258 US refugees in fiscal 2026 were white South Africans'
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6108
-- slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
-  headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5959
-- slug: 2026-08-06-uk-illegal-working-arrests-double-since-labour-took-office-home-office-says
-  headline: UK illegal-working arrests double since Labour took office, Home Office says
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.602
-- slug: 2026-07-15-administration-developing-100-000-bond-for-green-card-applicants
-  headline: Administration developing $100,000 bond for green-card applicants
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6249
-- slug: 2026-07-16-trump-administration-caps-foreign-student-visas-at-four-years
-  headline: Trump administration caps foreign student visas at four years
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6159
-- slug: 2026-05-22-trump-administration-requires-green-card-applicants-to-apply-from-abroad
-  headline: Trump administration requires green card applicants to apply from abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6347
-- slug: 2026-06-15-reform-uk-proposes-tax-on-companies-that-hire-foreign-workers
-  headline: Reform UK proposes tax on companies that hire foreign workers
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6126
-- slug: 2026-05-23-trump-s-green-card-change-would-send-some-applicants-abroad-to-apply
-  headline: Trump’s green-card change would send some applicants abroad to apply
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6215
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.619
-- slug: 2026-06-30-npr-details-five-trump-immigration-strategies-across-enforcement-courts-and-dete
-  headline: NPR details five Trump immigration strategies across enforcement, courts, and detention
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.595
-- slug: 2026-05-23-trump-administration-to-require-many-green-card-applicants-to-apply-abroad
-  headline: Trump administration to require many green-card applicants to apply abroad
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6165
+  strength: 0.6566
 ---
-
 ## UK government plans 10-year standard for permanent settlement
 
 **Subtype:** fact

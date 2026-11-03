@@ -2,8 +2,18 @@
 headline: Petersburg donors describe support and doubts about Dan J. Sullivan's campaign
 secondary_headline: Wood ties contribution to decade-long fight against logging
 publish_date: '2026-11-02'
-lede: Retired fisherman Ed Wood said he donated $1,000 to Dan J. Sullivan's U.S. Senate campaign to repay support Sullivan and his wife gave during a decade-long fight to block logging above Petersburg. Wood's account was among several responses from a community where more than a dozen residents praised the former elementary school teacher, while one donor questioned his reasons for entering the race and one resident questioned his candidacy as a Republican. Several donors said they had not spoken with Sullivan in quite some time.
-nut_graf: Most of Dan J. Sullivan's donors live in Petersburg and together contributed $7,150 to his campaign, according to The Associated Press. Their accounts connect the federal inquiry to Sullivan's teaching, community history and one donor's questions about why he entered the race, showing how the investigation touched a fishing community of 3,000 where residents offered different accounts of the candidate.
+lede: Retired fisherman Ed Wood said he donated $1,000 to Dan J. Sullivan's U.S. Senate
+  campaign to repay support Sullivan and his wife gave during a decade-long fight
+  to block logging above Petersburg. Wood's account was among several responses from
+  a community where more than a dozen residents praised the former elementary school
+  teacher, while one donor questioned his reasons for entering the race and one resident
+  questioned his candidacy as a Republican. Several donors said they had not spoken
+  with Sullivan in quite some time.
+nut_graf: Most of Dan J. Sullivan's donors live in Petersburg and together contributed
+  $7,150 to his campaign, according to The Associated Press. Their accounts connect
+  the federal inquiry to Sullivan's teaching, community history and one donor's questions
+  about why he entered the race, showing how the investigation touched a fishing community
+  of 3,000 where residents offered different accounts of the candidate.
 primary_entities:
 - Dan J. Sullivan
 - Dan S. Sullivan
@@ -55,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +168,23 @@ related_stories:
   headline: FBI contacts donors in Alaska U.S. Senate namesake inquiry
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7622
+  strength: 0.7632
 - slug: 2026-11-01-fbi-contacts-donors-over-dan-j-sullivan-ballot-bid
   headline: FBI contacts donors over Dan J. Sullivan ballot bid
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6785
+  strength: 0.6792
 - slug: 2026-10-31-fbi-begins-asking-donors-to-alaska-senate-candidate-about-potential-deception
   headline: FBI begins asking donors to Alaska Senate candidate about potential deception
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6729
-- slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
-  headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6287
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6126
-- slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
-  headline: Voting-rights experts call Alaska election intervention unprecedented
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5939
-- slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5955
-- slug: 2026-10-30-spoiler-candidacies-span-both-parties-and-can-have-criminal-consequences
-  headline: Spoiler candidacies span both parties and can have criminal consequences
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5953
-- slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
-  headline: Sullivan and Peltola court Alaska Native voters before midterms
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6193
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5848
-- slug: 2026-10-29-sullivan-peltola-clash-over-trawler-bycatch-in-alaska-senate-race
-  headline: Sullivan, Peltola clash over trawler bycatch in Alaska Senate race
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5873
-- slug: 2026-10-19-flippo-campaign-credited-3-500-donation-to-deceased-nevada-donor
-  headline: Flippo campaign credited $3,500 donation to deceased Nevada donor
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6107
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5812
-- slug: 2026-10-20-dga-sends-1-million-to-jolly-s-florida-governor-bid
-  headline: DGA sends $1 million to Jolly's Florida governor bid
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5866
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.588
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5998
+  strength: 0.6742
 - slug: 2026-09-10-dan-j-sullivan-advances-to-november-ballot-above-incumbent-namesake
   headline: Dan J. Sullivan advances to November ballot above incumbent namesake
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6512
-- slug: 2026-09-01-georgia-gop-faces-fallout-from-140m-first-liberty-ponzi-scheme
-  headline: Georgia GOP faces fallout from $140M First Liberty Ponzi scheme
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6056
-- slug: 2026-08-24-ex-anchorage-mayor-backs-incumbent-dan-sullivan-over-namesake-challenger
-  headline: Ex-Anchorage mayor backs incumbent Dan Sullivan over namesake challenger
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5898
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6037
+  strength: 0.6518
 ---
-
 ## Petersburg donors describe support and doubts about Dan J. Sullivan's campaign
 
 **Subtype:** fact

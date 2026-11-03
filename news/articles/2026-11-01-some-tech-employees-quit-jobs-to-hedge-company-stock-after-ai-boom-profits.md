@@ -209,6 +209,8 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.705
+analyses:
+- '2026-11-01-ai-trade-protection-spans-employees-investors-executives-and-trading-firms'
 ---
 ## Some tech employees quit jobs to hedge company stock after AI-boom profits
 
@@ -261,3 +263,8 @@ The newsletter was curated and edited by Bharbi Hazarika and Natasha Dangoor in 
 **Publication date:** 2026-11-01
 **Title:** Investors Are Hedging Against the Risks of the AI Boom
 **URL:** https://www.wsj.com/articles/investors-are-hedging-against-the-risks-of-the-ai-boom-603203d5
+
+---
+
+<!-- analysis-link:2026-11-01-ai-trade-protection-spans-employees-investors-executives-and-trading-firms -->
+**Going deeper:** [Read MSI's analysis of A decision framework for matching protection to exposure →](/analyses/2026-11-01-ai-trade-protection-spans-employees-investors-executives-and-trading-firms)
