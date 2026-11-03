@@ -1,9 +1,25 @@
 ---
 headline: Kaz Resources proposes $2 billion U.S. listing with Trump sons holding stakes
-secondary_headline: Kaz Resources estimates its Kazakhstan tungsten mine could produce 15% of global tungsten output
+secondary_headline: Kaz Resources estimates its Kazakhstan tungsten mine could produce
+  15% of global tungsten output
 publish_date: '2026-11-02'
-lede: Kaz Resources is preparing to sell shares through a direct U.S. listing next year in a proposed $2 billion deal centered on a planned tungsten mine in Kazakhstan. Donald Trump Jr. and Eric Trump would hold an ownership stake of less than 1% in the company, according to a person familiar with the matter, worth less than $20 million if the business reaches a $2 billion valuation. Kaz Resources estimates that the mine could produce 15% of global tungsten output. The company is already in talks to sell its metal to U.S. companies, according to a person familiar with the matter, and is conducting a feasibility study at the site; it hopes to start production in 2030.
-nut_graf: The proposed transaction would give investors another way to back the U.S. effort to secure materials critical for munitions, chips and more. Kaz Resources' main asset is a planned tungsten mine in Kazakhstan, partially owned by the country's state-owned mining firm. The Trump administration has sought closer ties with the Kazakh government and in 2025 helped broker deals that included Kaz Resources' ability to develop the site, while Kaz Resources pursued federal financing and Sen. Elizabeth Warren criticized the pending merger over the first family's alleged conflicts of interest.
+lede: Kaz Resources is preparing to sell shares through a direct U.S. listing next
+  year in a proposed $2 billion deal centered on a planned tungsten mine in Kazakhstan.
+  Donald Trump Jr. and Eric Trump would hold an ownership stake of less than 1% in
+  the company, according to a person familiar with the matter, worth less than $20
+  million if the business reaches a $2 billion valuation. Kaz Resources estimates
+  that the mine could produce 15% of global tungsten output. The company is already
+  in talks to sell its metal to U.S. companies, according to a person familiar with
+  the matter, and is conducting a feasibility study at the site; it hopes to start
+  production in 2030.
+nut_graf: The proposed transaction would give investors another way to back the U.S.
+  effort to secure materials critical for munitions, chips and more. Kaz Resources'
+  main asset is a planned tungsten mine in Kazakhstan, partially owned by the country's
+  state-owned mining firm. The Trump administration has sought closer ties with the
+  Kazakh government and in 2025 helped broker deals that included Kaz Resources' ability
+  to develop the site, while Kaz Resources pursued federal financing and Sen. Elizabeth
+  Warren criticized the pending merger over the first family's alleged conflicts of
+  interest.
 primary_entities:
 - Kaz Resources
 - Donald Trump Jr.
@@ -46,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +161,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-trump-administration-announces-43-deals-involving-government-stock-and-warrants
-  headline: Trump administration announces 43 deals involving government stock and warrants
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6343
-- slug: 2026-10-26-attacks-and-maintenance-outages-leave-nearly-12-of-global-refining-offline
-  headline: Attacks and maintenance outages leave nearly 12% of global refining offline
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6201
 - slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
+  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply
+    chain
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6541
-- slug: 2026-09-28-trump-to-unveil-15-billion-mesabi-metallics-steel-mill-in-iowa
-  headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.629
-- slug: 2026-09-28-trump-unveils-15bn-iowa-steel-plant-by-indian-owned-mesabi-metallics
-  headline: Trump unveils $15bn Iowa steel plant by Indian-owned Mesabi Metallics
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-21-u-s-proposes-10-billion-pact-fund-with-eight-middle-eastern-partners
-  headline: U.S. proposes $10 billion Pact fund with eight Middle Eastern partners
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6418
-- slug: 2026-09-22-trump-seeks-massive-belarus-potash-deal-to-reduce-us-reliance-on-canada
-  headline: Trump seeks massive Belarus potash deal to reduce US reliance on Canada
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6299
-- slug: 2026-09-10-south-korea-nears-u-s-energy-deal-potentially-worth-more-than-100-billion
-  headline: South Korea nears U.S. energy deal potentially worth more than $100 billion
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6257
-- slug: 2026-08-28-proposed-u-s-stake-in-17-venezuelan-fields-covers-90-billion-barrels
-  headline: Proposed U.S. stake in 17 Venezuelan fields covers 90 billion barrels
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6271
-- slug: 2026-08-27-space-eyes-gave-eric-trump-a-6-stake-to-access-his-contacts-filing-shows
-  headline: Space-Eyes gave Eric Trump a 6% stake to access his contacts, filing shows
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6284
-- slug: 2026-08-07-trump-administration-commits-2-billion-to-battery-mineral-firms
-  headline: Trump administration commits $2 billion to battery, mineral firms
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6424
-- slug: 2026-08-18-kkr-offers-9-billion-to-acquire-ugi-gas-and-electric-utility
-  headline: KKR offers $9 billion to acquire UGI gas and electric utility
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.62
-- slug: 2026-08-07-trump-convenes-mining-executives-at-state-department-over-critical-minerals
-  headline: Trump convenes mining executives at State Department over critical minerals
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6399
+  strength: 0.6537
 - slug: 2026-07-25-chevron-discusses-protecting-kazakh-oil-operations-with-white-house-officials
   headline: Chevron discusses protecting Kazakh oil operations with White House officials
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.658
-- slug: 2026-08-10-trump-announces-more-than-2-billion-in-battery-and-critical-minerals-funding
-  headline: Trump announces more than $2 billion in battery and critical minerals funding
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6175
-- slug: 2026-08-06-analysts-weigh-tungsten-supply-henkel-results-and-miner-dividend-calls
-  headline: Analysts weigh tungsten supply, Henkel results and miner dividend calls
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6217
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6433
-- slug: 2026-07-27-blackstone-led-group-signs-16-billion-kuwait-oil-pipeline-lease
-  headline: Blackstone-led group signs $16 billion Kuwait oil pipeline lease
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6205
-- slug: 2026-07-21-financier-behind-trump-media-s-nuclear-fusion-deal-draws-scrutiny
-  headline: Financier behind Trump Media's nuclear fusion deal draws scrutiny
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6262
+  strength: 0.6575
 - slug: 2026-02-03-trump-launches-project-vault-rare-earths-reserve-with-12b-plan
   headline: Trump launches “Project Vault” rare-earths reserve with $12B plan
   publish_date: '2026-02-03'
   relation: related
-  strength: 0.6601
+  strength: 0.6593
+- slug: 2026-02-05-u-s-eyes-critical-minerals-trading-bloc-with-allies-to-counter-china
+  headline: U.S. eyes critical-minerals trading bloc with allies to counter China
+  publish_date: '2026-02-05'
+  relation: related
+  strength: 0.6558
 ---
-
 ## Kaz Resources proposes $2 billion U.S. listing with Trump sons holding stakes
 
 **Subtype:** fact

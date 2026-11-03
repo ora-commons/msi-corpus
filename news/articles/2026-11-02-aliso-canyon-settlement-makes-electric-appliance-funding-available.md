@@ -156,6 +156,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-02-settlement-incentives-confront-household-conversion-barriers-at-aliso-canyon'
 ---
 ## Aliso Canyon settlement makes electric appliance funding available
 
@@ -198,3 +200,8 @@ The Associated Press receives support from the Walton Family Foundation for cove
 **Publication date:** 2026-11-02
 **Title:** Aliso Canyon settlement offers millions for heat pumps and cleaner homes
 **URL:** https://apnews.com/article/aliso-canyon-gas-methane-leak-electrification-8d67784ab5d3762689a9029ad19783f4
+
+---
+
+<!-- analysis-link:2026-11-02-settlement-incentives-confront-household-conversion-barriers-at-aliso-canyon -->
+**Going deeper:** [Read MSI's analysis of Aliso Canyon's separate causal problems →](/analyses/2026-11-02-settlement-incentives-confront-household-conversion-barriers-at-aliso-canyon)
