@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-03-07'
   relation: related
   strength: 0.6828
+analyses:
+- '2026-11-02-learjet-descent-narrows-recovery-margin-in-greenacres-crash'
 ---
 ## Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
 
@@ -248,3 +250,8 @@ The National Transportation Safety Board said investigators were expected to arr
 **Publication date:** 2026-11-02
 **Title:** 9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida
 **URL:** https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash
+
+---
+
+<!-- analysis-link:2026-11-02-learjet-descent-narrows-recovery-margin-in-greenacres-crash -->
+**Going deeper:** [Read MSI's analysis of the Learjet’s narrowing margin for recovery →](/analyses/2026-11-02-learjet-descent-narrows-recovery-margin-in-greenacres-crash)
