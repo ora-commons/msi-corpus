@@ -208,6 +208,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-02-young-voters-concerns-translate-unevenly-into-2026-ballot-participation'
 ---
 ## Gen Z readers cite living costs, immigration and distrust before 2026 midterms
 
@@ -257,3 +259,8 @@ Taken together, the responses connect practical barriers to voting with deeper d
 **Publication date:** 2026-11-02
 **Title:** ICE, inflation and Trump: gen Z readers share their concerns heading into the voting both
 **URL:** https://www.theguardian.com/us-news/2026/nov/02/gen-z-voting-issues
+
+---
+
+<!-- analysis-link:2026-11-02-young-voters-concerns-translate-unevenly-into-2026-ballot-participation -->
+**Going deeper:** [Read MSI's analysis of Gen Z mobilization before the midterms →](/analyses/2026-11-02-young-voters-concerns-translate-unevenly-into-2026-ballot-participation)

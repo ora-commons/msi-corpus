@@ -1,5 +1,6 @@
 ---
-headline: Binance reports approximately $3.64 billion in net outflow after Sunday reopening
+headline: Binance reports approximately $3.64 billion in net outflow after Sunday
+  reopening
 publish_date: '2026-11-02'
 lede: '>-'
 nut_graf: '>-'
@@ -29,7 +30,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,99 +58,39 @@ related_stories:
   headline: Binance says $6.3B stolen in hack, North Korea suspected
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8271
+  strength: 0.8269
 - slug: 2026-10-30-experts-say-6-3b-binance-heist-is-largest-known-theft-ever
   headline: Experts say $6.3B Binance heist is largest known theft ever
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8057
+  strength: 0.8049
 - slug: 2026-10-30-north-korean-hacking-unit-suspected-in-6-3-billion-binance-theft
-  headline: Binance, accused of profiting off crypto criminals, is allegedly robbed of an estimated $6.3B
+  headline: Binance, accused of profiting off crypto criminals, is allegedly robbed
+    of an estimated $6.3B
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7919
+  strength: 0.7914
 - slug: 2026-10-31-fbi-ties-6-3-billion-binance-theft-to-north-korean-hackers
   headline: FBI ties $6.3 billion Binance theft to North Korean hackers
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.782
+  strength: 0.7814
 - slug: 2026-10-30-trm-labs-expects-binance-heist-money-to-fund-north-korean-weapons-proliferation
   headline: TRM Labs expects Binance heist money to fund North Korean weapons proliferation
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7783
+  strength: 0.7777
 - slug: 2026-10-30-binance-probes-possible-hack-as-crypto-firms-freeze-2-5bn-in-funds
   headline: Binance probes possible hack as crypto firms freeze $2.5bn in funds
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7733
+  strength: 0.7729
 - slug: 2026-10-30-trm-says-binance-attacker-moved-6-36b-most-in-20-minutes
   headline: TRM says Binance attacker moved $6.36B, most in 20 minutes
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7632
-- slug: 2026-10-29-binance-investigates-potential-security-issue-as-stablecoin-firms-freeze-funds
-  headline: Binance investigates potential security issue as stablecoin firms freeze funds
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7537
-- slug: 2026-10-30-binance-halts-transactions-and-polymarket-pauses-trading-after-hacks
-  headline: Binance halts transactions and Polymarket pauses trading after hacks
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6661
-- slug: 2026-10-23-zheng-zhao-faces-u-s-charge-over-36-9-million-crypto-scam
-  headline: Zheng Zhao faces U.S. charge over $36.9 million crypto scam
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5887
-- slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
-  headline: Millions of exploit attempts target PHP flaw as governments patch systems
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5877
-- slug: 2026-10-09-internal-binance-report-details-850-million-irgc-sanctions-evasion-network
-  headline: Internal Binance report details $850 million IRGC sanctions-evasion network
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6152
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7005
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5933
-- slug: 2026-09-15-crypto-exchange-coinex-shuts-down-citing-compliance-costs-and-market-downturn
-  headline: Crypto exchange CoinEx shuts down, citing compliance costs and market downturn
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6142
-- slug: 2026-09-10-hundreds-of-victims-seek-share-of-225-million-seized-in-operation-big-tuna
-  headline: Hundreds of victims seek share of $225 million seized in Operation Big Tuna
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6235
-- slug: 2026-09-07-malone-lam-faces-tuesday-plea-hearing-over-alleged-240m-bitcoin-theft
-  headline: Malone Lam faces Tuesday plea hearing over alleged $240M bitcoin theft
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5838
-- slug: 2026-07-07-judge-approves-46-75m-payout-to-victims-of-23andme-data-breach
-  headline: Judge approves $46.75M payout to victims of 23andMe data breach
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5879
-- slug: 2026-06-11-south-korea-fines-coupang-record-410m-over-data-breach-affecting-37-5m-users
-  headline: South Korea fines Coupang record $410M over data breach affecting 37.5M users
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5834
+  strength: 0.762
 ---
-
 ## Binance reports approximately $3.64 billion in net outflow after Sunday reopening
 
 **Subtype:** fact
