@@ -2,8 +2,17 @@
 headline: ISM purchasing managers’ index rises to 55.5 in October
 secondary_headline: Production index reaches highest reading since November 2021
 publish_date: '2026-11-02'
-lede: The Institute for Supply Management’s U.S. purchasing managers’ index rose to 55.5 in October from 54.5 in September, extending factory expansion to a 10th consecutive month. The Nov. 2 ISM report said the production-index reading was the highest since November 2021 and the new-orders index expanded, while the prices index remained in expansion and the employment index edged lower.
-nut_graf: 'The October survey showed the production-index reading at its highest level since November 2021 and the new-orders index expanding, while the prices measure remained in expansion and the employment index reading edged lower. More than half of surveyed firms reported higher prices, leaving the report with a mixed signal: continued manufacturing expansion alongside widespread price increases and a slightly lower employment-index reading.'
+lede: The Institute for Supply Management’s U.S. purchasing managers’ index rose to
+  55.5 in October from 54.5 in September, extending factory expansion to a 10th consecutive
+  month. The Nov. 2 ISM report said the production-index reading was the highest since
+  November 2021 and the new-orders index expanded, while the prices index remained
+  in expansion and the employment index edged lower.
+nut_graf: 'The October survey showed the production-index reading at its highest level
+  since November 2021 and the new-orders index expanding, while the prices measure
+  remained in expansion and the employment index reading edged lower. More than half
+  of surveyed firms reported higher prices, leaving the report with a mixed signal:
+  continued manufacturing expansion alongside widespread price increases and a slightly
+  lower employment-index reading.'
 primary_entities:
 - Institute for Supply Management
 - Susan Spence
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,7 +158,8 @@ related_stories:
   relation: related
   strength: 0.7008
 - slug: 2026-10-31-jobs-data-surveys-and-earnings-reports-fill-the-calendar-around-election-day
-  headline: Jobs data, surveys and earnings reports fill the calendar around Election Day
+  headline: Jobs data, surveys and earnings reports fill the calendar around Election
+    Day
   publish_date: '2026-10-31'
   relation: related
   strength: 0.6521
@@ -172,73 +183,12 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.6933
-- slug: 2026-10-02-mortgage-rates-climb-to-7-28-in-largest-weekly-jump-since-2022
-  headline: Mortgage rates climb to 7.28% in largest weekly jump since 2022
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6468
 - slug: 2026-08-31-china-s-manufacturing-pmi-rises-to-49-8-in-august-still-in-contraction
   headline: China's manufacturing PMI rises to 49.8 in August, still in contraction
   publish_date: '2026-08-31'
   relation: related
   strength: 0.6962
-- slug: 2026-09-05-wall-street-awaits-august-ppi-and-cpi-inflation-reports
-  headline: Wall Street awaits August PPI and CPI inflation reports
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6522
-- slug: 2026-08-11-small-business-optimism-rises-to-99-8-highest-since-august-2025
-  headline: Small-business optimism rises to 99.8, highest since August 2025
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6553
-- slug: 2026-04-29-chinese-factory-activity-expands-for-second-straight-month-despite-iran-war
-  headline: Chinese factory activity expands for second straight month despite Iran war
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6818
-- slug: 2026-06-25-final-q1-gdp-revised-up-to-2-1-as-consumer-spending-cools
-  headline: Final Q1 GDP revised up to 2.1% as consumer spending cools
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6505
-- slug: 2026-06-17-us-retail-sales-rose-0-9-in-may-beating-expectations
-  headline: US retail sales rose 0.9% in May, beating expectations
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6562
-- slug: 2026-04-30-chinese-factory-output-expands-for-second-straight-month-despite-iran-war
-  headline: Chinese factory output expands for second straight month despite Iran war
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6756
-- slug: 2026-06-01-china-s-factory-activity-flattens-in-may-amid-global-energy-shock
-  headline: China's factory activity flattens in May amid global energy shock
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6617
-- slug: 2026-01-22-inflation-rises-to-2-8-in-november-as-consumer-spending-holds-strong
-  headline: Inflation rises to 2.8% in November as consumer spending holds strong
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6731
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.648
-- slug: 2026-01-14-november-wholesale-prices-up-0-2-in-report-delayed-by-federal-shutdown
-  headline: November wholesale prices up 0.2% in report delayed by federal shutdown
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6649
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  headline: Weekly jobless claims rise to 208,000 as labor market momentum slows
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6634
 ---
-
 ## ISM purchasing managers’ index rises to 55.5 in October
 
 **Subtype:** fact

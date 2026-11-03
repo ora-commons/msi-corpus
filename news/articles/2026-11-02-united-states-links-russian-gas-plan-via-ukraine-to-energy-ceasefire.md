@@ -1,9 +1,21 @@
 ---
 headline: United States links Russian gas plan via Ukraine to energy ceasefire
-secondary_headline: Peskov says immediate resumption is impossible; EU legislation sets a 2027 phaseout
+secondary_headline: Peskov says immediate resumption is impossible; EU legislation
+  sets a 2027 phaseout
 publish_date: '2026-11-02'
-lede: The United States is backing a quick resumption of Russian natural-gas sales to Europe through pipelines running through Ukraine, according to U.S., European and Ukrainian officials, as part of negotiations aimed at securing an energy ceasefire. The proposal, broached by U.S. envoys Jared Kushner and Steve Witkoff during September trips to Moscow and Kyiv, would route Russian gas sales through a U.S. intermediary to circumvent European sanctions.
-nut_graf: 'The proposal runs against EU law and official policy: the European Union has legislated a phaseout of all Russian natural-gas purchases by the end of 2027, and EU officials say purchases will not resume even after a full peace agreement with Russia. The stakes are concrete for consumers, with Europe''s underground gas storage about 75% full, below the nine-year average for entering winter, according to the EU''s energy regulators, and energy prices under pressure from the U.S.-Iran war.'
+lede: The United States is backing a quick resumption of Russian natural-gas sales
+  to Europe through pipelines running through Ukraine, according to U.S., European
+  and Ukrainian officials, as part of negotiations aimed at securing an energy ceasefire.
+  The proposal, broached by U.S. envoys Jared Kushner and Steve Witkoff during September
+  trips to Moscow and Kyiv, would route Russian gas sales through a U.S. intermediary
+  to circumvent European sanctions.
+nut_graf: 'The proposal runs against EU law and official policy: the European Union
+  has legislated a phaseout of all Russian natural-gas purchases by the end of 2027,
+  and EU officials say purchases will not resume even after a full peace agreement
+  with Russia. The stakes are concrete for consumers, with Europe''s underground gas
+  storage about 75% full, below the nine-year average for entering winter, according
+  to the EU''s energy regulators, and energy prices under pressure from the U.S.-Iran
+  war.'
 primary_entities:
 - United States
 - Russia
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +165,44 @@ related_stories:
   headline: Ukraine pauses strikes on Russian refineries amid U.S. pressure
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7462
+  strength: 0.7469
 - slug: 2026-10-29-greenpeace-tracks-russian-diesel-tankers-sailing-toward-us
   headline: Greenpeace tracks Russian diesel tankers sailing toward US
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7052
+  strength: 0.7063
 - slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
   headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7128
+  strength: 0.7131
 - slug: 2026-10-15-ex-uk-envoy-says-russia-has-no-interest-in-ending-ukraine-war
   headline: Ex-UK envoy says Russia has 'no interest' in ending Ukraine war
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7283
+  strength: 0.7293
 - slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
   headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7287
+  strength: 0.7297
 - slug: 2026-10-11-trump-declares-energy-ceasefire-as-russia-keeps-striking-ukraine
   headline: Trump declares energy ceasefire as Russia keeps striking Ukraine
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7281
+  strength: 0.7295
 - slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
   headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7218
+  strength: 0.7233
 - slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
+  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under
+    2022 ban
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7153
-- slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
-  headline: Bipartisan senators urge Trump to reverse Russian diesel deal
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7168
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7186
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7011
-- slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
-  headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7055
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.718
-- slug: 2026-10-12-diesel-futures-erase-post-deal-drop-as-traders-dismiss-russian-volumes
-  headline: Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7021
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7094
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7014
-- slug: 2026-10-11-trump-announces-russia-ukraine-deal-to-halt-energy-strikes
-  headline: Trump announces Russia-Ukraine deal to halt energy strikes
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7069
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7205
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7149
+  strength: 0.7169
 ---
-
 ## United States links Russian gas plan via Ukraine to energy ceasefire
 
 **Subtype:** fact
