@@ -2,8 +2,20 @@
 headline: Emmanuel Clase and Luis Ortiz face trial on betting conspiracy charges
 secondary_headline: Prosecutors allege pitchers received thousands for winning wagers
 publish_date: '2026-11-02'
-lede: Emmanuel Clase, the Cleveland Guardians' former closer, and Luis Ortiz, a starter, are scheduled to begin a jury trial Monday in Brooklyn federal court on charges alleging they accepted bribes to help gamblers win wagers tied to individual pitches. Both pitchers have pleaded not guilty to conspiracy charges and are on nondisciplinary leave from the club without pay while their cases are determined. The trial is expected to unfold over the next month, with several professional baseball players expected to testify.
-nut_graf: An indictment says the pitchers accepted several thousand dollars in payoffs to help two gamblers from the pitchers' native Dominican Republic win at least $460,000 through in-game prop bets tied to pitch speed and outcome. Defense lawyers are expected to argue that the pitchers did not collude with gamblers and instead varied pitch placement strategically to fool batters. MLB and the Cleveland Guardians say they fully cooperated with authorities; MLB said it contacted federal law enforcement when it began investigating unusual betting activity.
+lede: Emmanuel Clase, the Cleveland Guardians' former closer, and Luis Ortiz, a starter,
+  are scheduled to begin a jury trial Monday in Brooklyn federal court on charges
+  alleging they accepted bribes to help gamblers win wagers tied to individual pitches.
+  Both pitchers have pleaded not guilty to conspiracy charges and are on nondisciplinary
+  leave from the club without pay while their cases are determined. The trial is expected
+  to unfold over the next month, with several professional baseball players expected
+  to testify.
+nut_graf: An indictment says the pitchers accepted several thousand dollars in payoffs
+  to help two gamblers from the pitchers' native Dominican Republic win at least $460,000
+  through in-game prop bets tied to pitch speed and outcome. Defense lawyers are expected
+  to argue that the pitchers did not collude with gamblers and instead varied pitch
+  placement strategically to fool batters. MLB and the Cleveland Guardians say they
+  fully cooperated with authorities; MLB said it contacted federal law enforcement
+  when it began investigating unusual betting activity.
 primary_entities:
 - Emmanuel Clase
 - Luis Ortiz
@@ -40,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +151,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-11-courts-confront-betting-markets-that-let-users-wager-on-jury-outcomes
-  headline: Courts confront betting markets that let users wager on jury outcomes
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6444
-- slug: 2026-10-12-u-s-arrests-colombian-fugitive-tied-to-maduro-on-laundering-charges
-  headline: U.S. arrests Colombian fugitive tied to Maduro on laundering charges
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5765
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5805
 - slug: 2026-02-19-judge-says-bet-rigging-trial-for-guardians-pitchers-clase-ortiz-likely-fall
-  headline: Judge says bet-rigging trial for Guardians pitchers Clase, Ortiz likely fall
+  headline: Judge says bet-rigging trial for Guardians pitchers Clase, Ortiz likely
+    fall
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.8301
-- slug: 2026-09-15-trainers-lenders-divert-up-to-half-of-1b-paid-to-dominican-prospects
-  headline: Trainers, lenders divert up to half of $1B paid to Dominican prospects
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-04-judge-declares-mistrial-after-jury-convicts-alfortish-on-fraud-counts
-  headline: Judge declares mistrial after jury convicts Alfortish on fraud counts
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.597
+  strength: 0.8295
 - slug: 2026-05-29-terry-rozier-faces-new-bribery-charges-in-sports-gambling-sting
   headline: Terry Rozier faces new bribery charges in sports gambling sting
   publish_date: '2026-05-29'
   relation: related
-  strength: 0.66
+  strength: 0.6607
 - slug: 2026-04-16-ex-nba-player-damon-jones-set-to-plead-guilty-in-basketball-gambling-sweep
   headline: Ex-NBA player Damon Jones set to plead guilty in basketball gambling sweep
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6651
-- slug: 2026-04-29-former-nba-player-damon-jones-to-plead-guilty-in-gambling-scandal
-  headline: Former NBA player Damon Jones to plead guilty in gambling scandal
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6392
-- slug: 2026-07-16-two-plead-not-guilty-in-white-house-ufc-plot
-  headline: Two plead not guilty in White House UFC plot
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5801
-- slug: 2026-02-07-jury-finds-yasiel-puig-guilty-of-obstruction-of-justice-and-lying
-  headline: Jury finds Yasiel Puig guilty of obstruction of justice and lying
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6429
-- slug: 2026-07-10-federal-grand-jury-in-columbus-indicts-west-virginia-man-in-white-house-ufc-plot
-  headline: Federal grand jury in Columbus indicts West Virginia man in White House UFC plot
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5803
-- slug: 2026-06-30-four-men-face-federal-charges-in-connecticut-atm-jackpotting-scheme
-  headline: Four men face federal charges in Connecticut ATM jackpotting scheme
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5808
-- slug: 2026-02-19-jury-set-to-hear-tax-evasion-case-against-supreme-court-lawyer-and-poker-player
-  headline: Jury set to hear tax-evasion case against Supreme Court lawyer and poker player
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6199
-- slug: 2026-04-22-new-york-sues-coinbase-and-gemini-over-prediction-market-gambling-claims
-  headline: New York sues Coinbase and Gemini over prediction-market gambling claims
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.606
-- slug: 2026-06-16-floyd-mayweather-faces-felony-charges-over-200-000-check-in-las-vegas
-  headline: Floyd Mayweather faces felony charges over $200,000 check in Las Vegas
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.575
-- slug: 2026-01-22-missouri-rejects-ncaa-request-to-ban-college-athlete-prop-bets
-  headline: Missouri rejects NCAA request to ban college athlete prop bets
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6116
-- slug: 2026-04-24-feds-charge-soldier-with-using-intel-to-win-400k-bet-on-maduro-raid
-  headline: Feds charge soldier with using intel to win $400K bet on Maduro raid
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5858
-- slug: 2026-03-24-rahm-emanuel-proposes-banning-federal-employees-from-betting-on-prediction-marke
-  headline: Rahm Emanuel proposes banning federal employees from betting on prediction markets
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5928
-- slug: 2026-04-18-los-angeles-ordered-to-pay-11-8m-to-man-blinded-by-police-projectile
-  headline: Los Angeles ordered to pay $11.8M to man blinded by police projectile
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5859
+  strength: 0.6656
 ---
-
 ## Emmanuel Clase and Luis Ortiz face trial on betting conspiracy charges
 
 **Subtype:** fact

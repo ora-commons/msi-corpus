@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-09-22'
   relation: related
   strength: 0.7537
+analyses:
+- '2026-11-02-judge-sullivan-weighs-claims-over-clancy-s-retrial-as-legal-questions-remain-unr'
 ---
 ## Judge Sullivan weighs motion to dismiss Clancy murder charges
 
@@ -231,3 +233,8 @@ Since the trial ended, Desronvil said he was certain of Clancy’s guilt but tha
 **Publication date:** 2026-11-02
 **Title:** Lindsay Clancy back in court seeking to dismiss murder charges after mistrial
 **URL:** https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing
+
+---
+
+<!-- analysis-link:2026-11-02-judge-sullivan-weighs-claims-over-clancy-s-retrial-as-legal-questions-remain-unr -->
+**Going deeper:** [Read MSI's analysis of Clancy’s mistrial and double-jeopardy motion →](/analyses/2026-11-02-judge-sullivan-weighs-claims-over-clancy-s-retrial-as-legal-questions-remain-unr)
