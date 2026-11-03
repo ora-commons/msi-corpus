@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-04-24'
   relation: related
   strength: 0.8095
+analyses:
+- '2026-11-01-white-house-places-a-contested-reflecting-pool-record-inside-trump-s-closing-cam'
 ---
 ## Trump schedules closing midterm speech at Reflecting Pool
 
@@ -236,3 +238,8 @@ Trump has bristled at criticism from former President Barack Obama and other Dem
 **Publication date:** 2026-11-01
 **Title:** Trump making closing midterm pitch at problem-plagued Reflecting Pool
 **URL:** https://apnews.com/article/trump-closing-midterm-speech-reflecting-pool-f35133c6e33e87d1a036e3425af21ad6
+
+---
+
+<!-- analysis-link:2026-11-01-white-house-places-a-contested-reflecting-pool-record-inside-trump-s-closing-cam -->
+**Going deeper:** [Read MSI's analysis of the Reflecting Pool campaign frame →](/analyses/2026-11-01-white-house-places-a-contested-reflecting-pool-record-inside-trump-s-closing-cam)

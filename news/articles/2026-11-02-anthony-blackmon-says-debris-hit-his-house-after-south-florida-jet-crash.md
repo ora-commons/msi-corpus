@@ -2,8 +2,18 @@
 headline: Anthony Blackmon says debris hit his house after South Florida jet crash
 secondary_headline: NTSB planned Monday update as crash cause remained unknown
 publish_date: '2026-11-02'
-lede: Anthony Blackmon, who lives near the crash site in South Florida, told NBC affiliate WTVJ that debris hit his house and the road was on fire when a business jet crashed in Green Acres. Palm Beach County authorities were evacuating about 600 people from a nearby mobile home community while the Federal Aviation Administration and National Transportation Safety Board were investigating. The NTSB planned a Monday news conference in West Palm Beach, and authorities had not established the cause or released the names of the nine people killed aboard. Florida Gov. Ron DeSantis said there were no immediate reports of anyone on the ground injured or killed.
-nut_graf: Blackmon’s account showed debris striking a nearby residence and the road burning as authorities continued evacuating a mobile home community. The FAA and NTSB were investigating, the cause had not been established, and NTSB officials planned a Monday news conference in West Palm Beach.
+lede: Anthony Blackmon, who lives near the crash site in South Florida, told NBC affiliate
+  WTVJ that debris hit his house and the road was on fire when a business jet crashed
+  in Green Acres. Palm Beach County authorities were evacuating about 600 people from
+  a nearby mobile home community while the Federal Aviation Administration and National
+  Transportation Safety Board were investigating. The NTSB planned a Monday news conference
+  in West Palm Beach, and authorities had not established the cause or released the
+  names of the nine people killed aboard. Florida Gov. Ron DeSantis said there were
+  no immediate reports of anyone on the ground injured or killed.
+nut_graf: Blackmon’s account showed debris striking a nearby residence and the road
+  burning as authorities continued evacuating a mobile home community. The FAA and
+  NTSB were investigating, the cause had not been established, and NTSB officials
+  planned a Monday news conference in West Palm Beach.
 primary_entities:
 - Anthony Blackmon
 - WTVJ
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +160,43 @@ related_stories:
   headline: Business jet crashes in Palm Beach County, killing all nine aboard
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8415
+  strength: 0.8412
 - slug: 2026-11-02-flight-data-shows-jet-plunged-at-up-to-30-000-feet-per-minute-in-greenacres
   headline: Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8308
+  strength: 0.8316
 - slug: 2026-11-02-business-jet-crashes-on-military-trail-in-florida-killing-all-nine-aboard
   headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8124
+  strength: 0.8117
 - slug: 2026-11-02-ntsb-investigates-florida-learjet-crash-that-killed-all-nine-onboard
   headline: NTSB investigates Florida Learjet crash that killed all nine onboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7819
+  strength: 0.7827
 - slug: 2026-11-02-storyful-verifies-crash-footage-authorities-move-residents-to-shelters
   headline: Storyful verifies crash footage; authorities move residents to shelters
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7686
-- slug: 2026-10-30-sheriff-elliott-says-1995-robinson-r22-2018-airbus-collided-near-mcminnville
-  headline: Sheriff Elliott says 1995 Robinson R22, 2018 Airbus collided near McMinnville
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6397
+  strength: 0.7687
 - slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
   headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6565
-- slug: 2026-10-04-coast-guard-locates-debris-from-missing-air-ambulance-off-nantucket
-  headline: Coast Guard locates debris from missing air ambulance off Nantucket
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6493
+  strength: 0.6594
 - slug: 2026-09-16-five-la-residents-died-across-two-chatsworth-crashes-bass-says
   headline: Five LA residents died across two Chatsworth crashes, Bass says
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6475
+  strength: 0.6506
 - slug: 2026-09-08-plane-carrying-four-florida-family-members-goes-missing-off-bahamas
   headline: Plane carrying four Florida family members goes missing off Bahamas
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6616
-- slug: 2026-07-10-both-engines-flamed-out-before-texas-highway-crash-ntsb-says
-  headline: Both engines flamed out before Texas highway crash, NTSB says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.656
-- slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6905
-- slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
-  headline: 10 rescued after small plane crashes in Bahamian waters off Florida
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6902
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.673
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6709
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6615
-- slug: 2026-05-16-ntsb-probes-what-caused-plane-crash-into-akron-home-that-killed-2
-  headline: NTSB probes what caused plane crash into Akron home that killed 2
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.645
-- slug: 2026-05-18-business-jet-crashes-during-maine-takeoff-killing-six
-  headline: Business jet crashes during Maine takeoff, killing six
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.644
-- slug: 2026-03-07-ntsb-bangor-maine-jet-crash-deicing-holdover-time-exceeded
-  headline: 'NTSB: Texas jet exceeded FAA deicing window before crashing in Maine, killing 6'
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6593
-- slug: 2026-03-25-what-to-know-about-the-laguardia-runway-collision-between-jet-and-fire-truck
-  headline: What to know about the LaGuardia runway collision between jet and fire truck
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6501
+  strength: 0.6626
 ---
-
 ## Anthony Blackmon says debris hit his house after South Florida jet crash
 
 **Subtype:** fact

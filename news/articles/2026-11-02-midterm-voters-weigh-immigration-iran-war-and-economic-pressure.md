@@ -2,8 +2,19 @@
 headline: Midterm voters weigh immigration, Iran war and economic pressure
 secondary_headline: Democrats and Republicans diverge despite shared unease
 publish_date: '2026-11-02'
-lede: Associated Press interviews with dozens of voters casting ballots ahead of Tuesday's midterm elections found shared anxiety over the country's direction, even as Democrats, Republicans and independents chose sharply different candidates. Immigration enforcement, the Iran war, tariffs, gasoline prices and concerns about political power shaped the conversations. Donald Trump was not on the ballots, but the AP described his striking unpopularity in polls and reported that his request that supporters pretend he was running remained prominent in the interviews.
-nut_graf: The election will determine which party controls the Senate and House and takes charge of governors' offices, legislatures and state leadership posts during the final two years of Trump's presidency. Although their priorities differed, many voters interviewed by the AP described a common sense that the country they knew was slipping away, whether they backed Trump, opposed him or considered themselves independents.
+lede: Associated Press interviews with dozens of voters casting ballots ahead of Tuesday's
+  midterm elections found shared anxiety over the country's direction, even as Democrats,
+  Republicans and independents chose sharply different candidates. Immigration enforcement,
+  the Iran war, tariffs, gasoline prices and concerns about political power shaped
+  the conversations. Donald Trump was not on the ballots, but the AP described his
+  striking unpopularity in polls and reported that his request that supporters pretend
+  he was running remained prominent in the interviews.
+nut_graf: The election will determine which party controls the Senate and House and
+  takes charge of governors' offices, legislatures and state leadership posts during
+  the final two years of Trump's presidency. Although their priorities differed, many
+  voters interviewed by the AP described a common sense that the country they knew
+  was slipping away, whether they backed Trump, opposed him or considered themselves
+  independents.
 primary_entities:
 - Donald Trump
 - Associated Press
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,102 +158,43 @@ related_stories:
   relation: related
   strength: 0.774
 - slug: 2026-11-02-gen-z-readers-cite-living-costs-immigration-and-distrust-before-2026-midterms
-  headline: Gen Z readers cite living costs, immigration and distrust before 2026 midterms
+  headline: Gen Z readers cite living costs, immigration and distrust before 2026
+    midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7151
+  strength: 0.7152
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7176
+  strength: 0.7178
 - slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
+  headline: Republicans brace for potential House losses as Trump disapproval hits
+    59%
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7221
+  strength: 0.7224
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7172
+  strength: 0.718
 - slug: 2026-10-27-gop-strategists-issue-warnings-over-iran-war-as-dubow-tips-toward-democrats
   headline: GOP strategists issue warnings over Iran war as Dubow tips toward Democrats
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7274
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7258
+  strength: 0.7275
 - slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
   headline: The Guardian seeks US voter priorities for Nov. 3 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7186
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
+  strength: 0.7196
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
   relation: related
-  strength: 0.7291
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7234
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7802
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7135
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7386
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.727
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7545
-- slug: 2026-09-25-republicans-break-with-trump-on-iran-war-and-immigration-ahead-of-midterms
-  headline: Republicans break with Trump on Iran war and immigration ahead of midterms
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7274
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7182
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7142
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7238
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7178
+  strength: 0.7259
 ---
-
 ## Midterm voters weigh immigration, Iran war and economic pressure
 
 **Subtype:** fact
