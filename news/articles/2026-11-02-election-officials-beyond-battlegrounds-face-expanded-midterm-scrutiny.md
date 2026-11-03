@@ -1,9 +1,20 @@
 ---
 headline: Election officials beyond battlegrounds face expanded midterm scrutiny
-secondary_headline: Human errors in battlegrounds spark conspiracy claims; close midterms could renew pressure
+secondary_headline: Human errors in battlegrounds spark conspiracy claims; close midterms
+  could renew pressure
 publish_date: '2026-11-02'
-lede: NPR reported Nov. 2 that local election officials outside traditional battlegrounds could face broader scrutiny as 2026 House and Senate races spread across the country. Former Rochester Hills city clerk Tina Barton said human errors in battleground states can become conspiracy claims and that close midterms could renew pressure on officials, while the current threat environment appears calmer than it did after 2020.
-nut_graf: The shift could bring officials in Iowa, Alaska, New York and Kansas into the national spotlight for the first time. Officials may have to explain real technical failures and human errors, while researchers who study election misinformation say most false narratives emerge from real events that influencers or politicians then seize on to falsely imply the incidents were intentional or occurring at a wider scale than they actually are.
+lede: NPR reported Nov. 2 that local election officials outside traditional battlegrounds
+  could face broader scrutiny as 2026 House and Senate races spread across the country.
+  Former Rochester Hills city clerk Tina Barton said human errors in battleground
+  states can become conspiracy claims and that close midterms could renew pressure
+  on officials, while the current threat environment appears calmer than it did after
+  2020.
+nut_graf: The shift could bring officials in Iowa, Alaska, New York and Kansas into
+  the national spotlight for the first time. Officials may have to explain real technical
+  failures and human errors, while researchers who study election misinformation say
+  most false narratives emerge from real events that influencers or politicians then
+  seize on to falsely imply the incidents were intentional or occurring at a wider
+  scale than they actually are.
 primary_entities:
 - Tina Barton
 - Chris McGinn
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +158,46 @@ related_stories:
   headline: Five 2026 midterm voting issues include federal pressure and state rules
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6955
+  strength: 0.696
 - slug: 2026-11-01-the-guardian-warns-of-election-interference-ahead-of-us-midterms
   headline: The Guardian warns of election interference ahead of US midterms
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6927
+  strength: 0.6933
 - slug: 2026-10-31-justice-department-poll-monitoring-puts-county-election-officials-on-high-alert
-  headline: Justice Department poll monitoring puts county election officials on high alert
+  headline: Justice Department poll monitoring puts county election officials on high
+    alert
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6872
+  strength: 0.6878
 - slug: 2026-10-31-justice-department-election-suits-draw-expert-warnings-of-post-election-disputes
-  headline: Justice Department election suits draw expert warnings of post-election disputes
+  headline: Justice Department election suits draw expert warnings of post-election
+    disputes
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6748
+  strength: 0.6753
 - slug: 2026-10-27-false-election-claims-change-form-as-they-spread-through-social-platforms
   headline: False election claims change form as they spread through social platforms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6943
+  strength: 0.6947
 - slug: 2026-10-27-local-prosecutor-races-give-voters-choices-on-criminal-justice-policy
   headline: Local prosecutor races give voters choices on criminal justice policy
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6708
+  strength: 0.6713
 - slug: 2026-10-22-propublica-finds-late-ballot-rates-doubled-or-tripled-in-rural-counties-with-usp
-  headline: ProPublica finds late-ballot rates doubled or tripled in rural counties with USPS cuts
+  headline: ProPublica finds late-ballot rates doubled or tripled in rural counties
+    with USPS cuts
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.683
+  strength: 0.6831
 - slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
   headline: Democratic attorneys general expand midterm election security planning
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6782
-- slug: 2026-10-21-al-schmidt-talks-about-preparing-for-the-midterms
-  headline: Al Schmidt talks about preparing for the midterms
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6741
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6663
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6755
-- slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
-  headline: Election deniers revive fraud claims before midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6657
-- slug: 2026-09-27-experts-warn-midterm-counting-window-is-a-vulnerable-period
-  headline: Experts warn midterm counting window is a vulnerable period
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6945
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6755
-- slug: 2026-09-09-ucla-project-releases-judges-guide-on-ballot-search-warrants
-  headline: UCLA project releases judges' guide on ballot search warrants
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6775
-- slug: 2026-09-09-appeals-courts-to-rule-on-trump-usps-mail-ballot-rules-for-midterms
-  headline: Appeals courts to rule on Trump USPS mail ballot rules for midterms
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.677
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6745
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6758
-- slug: 2026-06-17-election-lawyer-warns-trump-is-setting-stage-to-contest-november-midterms
-  headline: Election lawyer warns Trump is setting stage to contest November midterms
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6768
-- slug: 2026-01-29-democratic-election-officials-plan-crisis-scenarios-ahead-of-midterms
-  headline: Democratic election officials plan crisis scenarios ahead of midterms
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6974
 ---
-
 ## Election officials beyond battlegrounds face expanded midterm scrutiny
 
 **Subtype:** fact
