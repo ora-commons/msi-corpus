@@ -1,9 +1,21 @@
 ---
 headline: Yakima health district confirms third human bird flu case after dairy exposure
-secondary_headline: Three confirmed Yakima County cases; 33 dairy herds positive since early October
+secondary_headline: Three confirmed Yakima County cases; 33 dairy herds positive since
+  early October
 publish_date: '2026-11-02'
-lede: The Yakima health district announced on Sunday that Yakima County has recorded a third confirmed human case of bird flu, in a person exposed to infected dairy cattle at a Yakima County dairy. The district said the person has not experienced severe illness or required hospitalization. US Centers for Disease Control and Prevention data show 72 human cases of bird flu across the country since 2024.
-nut_graf: The third confirmed case brings Yakima County's human case count to three, and comes as officials in the county have reported that 33 dairy herds have tested positive for highly pathogenic avian influenza since early October. Officials said the risk of avian influenza infection to the general public remains low, while people at greater risk include dairy workers and others who have close or prolonged contact with infected animals or environments contaminated with the virus. Human-to-human transmission of bird flu is extremely rare and has never been documented in the United States, officials said.
+lede: The Yakima health district announced on Sunday that Yakima County has recorded
+  a third confirmed human case of bird flu, in a person exposed to infected dairy
+  cattle at a Yakima County dairy. The district said the person has not experienced
+  severe illness or required hospitalization. US Centers for Disease Control and Prevention
+  data show 72 human cases of bird flu across the country since 2024.
+nut_graf: The third confirmed case brings Yakima County's human case count to three,
+  and comes as officials in the county have reported that 33 dairy herds have tested
+  positive for highly pathogenic avian influenza since early October. Officials said
+  the risk of avian influenza infection to the general public remains low, while people
+  at greater risk include dairy workers and others who have close or prolonged contact
+  with infected animals or environments contaminated with the virus. Human-to-human
+  transmission of bird flu is extremely rare and has never been documented in the
+  United States, officials said.
 primary_entities:
 - Yakima health district
 - Yakima County
@@ -40,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +155,13 @@ related_stories:
   headline: Washington resident dies from H5N1 complications after dairy exposure
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8447
-- slug: 2026-10-25-nuzzo-says-federal-monitoring-of-farms-for-viruses-appears-reduced
-  headline: Nuzzo says federal monitoring of farms for viruses appears reduced
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6496
+  strength: 0.8463
 - slug: 2026-10-23-utah-officials-issue-a-verbal-hold-as-bird-flu-spreads-among-mink
   headline: Utah officials issue a verbal hold as bird flu spreads among mink
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6536
-- slug: 2026-10-23-kenya-reports-second-ebola-death-as-nigeria-investigates-first-case
-  headline: Kenya reports second Ebola death as Nigeria investigates first case
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5829
-- slug: 2026-10-23-california-reports-9-65-flu-test-positivity-as-west-coast-activity-rises-early
-  headline: California reports 9.65% flu test positivity as West Coast activity rises early
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5818
-- slug: 2026-10-07-los-angeles-county-documents-first-rabid-raccoon-in-over-50-years
-  headline: Los Angeles County documents first rabid raccoon in over 50 years
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5843
-- slug: 2026-08-03-three-tularemia-cases-reported-in-suffolk-county-new-york
-  headline: Three tularemia cases reported in Suffolk County, New York
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6041
-- slug: 2026-08-06-jalape-o-peppers-are-linked-to-345-salmonella-cases-across-27-states
-  headline: Jalapeño peppers are linked to 345 Salmonella cases across 27 states
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5782
-- slug: 2026-07-20-third-person-dies-in-manhattan-legionnaires-outbreak
-  headline: Third person dies in Manhattan Legionnaires' outbreak
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.593
-- slug: 2026-07-24-fda-identifies-second-cyclospora-cluster-of-72-cases-north-carolina-adds-parsley
-  headline: FDA identifies second cyclospora cluster of 72 cases; North Carolina adds parsley and cilantro to investigation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5831
-- slug: 2026-04-30-salmonella-linked-to-backyard-poultry-sickens-34-in-13-u-s-states
-  headline: Salmonella linked to backyard poultry sickens 34 in 13 U.S. states
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6363
-- slug: 2026-06-13-tick-bite-linked-to-alpha-gal-syndrome-cases-rise-fda-approves-first-drug
-  headline: Tick bite linked to alpha-gal syndrome cases rise; FDA approves first drug
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6055
-- slug: 2026-07-16-cdc-downgrades-cyclospora-surveillance-as-case-counts-surge-past-1-600
-  headline: CDC downgrades cyclospora surveillance as case counts surge past 1,600
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5758
-- slug: 2026-07-05-legionnaires-disease-cluster-on-upper-east-side-rises-to-14-cases
-  headline: Legionnaires' disease cluster on Upper East Side rises to 14 cases
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5839
-- slug: 2026-01-28-botulism-bacteria-found-in-milk-powder-linked-to-byheart-formula-outbreak
-  headline: Botulism bacteria found in milk powder linked to ByHeart formula outbreak
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6272
-- slug: 2026-02-26-researchers-confirm-bird-flu-outbreak-in-elephant-seals-at-california-breeding-g
-  headline: Researchers confirm bird flu outbreak in elephant seals at California breeding ground
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6228
-- slug: 2026-01-09-us-flu-activity-dips-slightly-as-health-officials-warn-severe-season-has-not-pea
-  headline: US flu activity dips slightly as health officials warn severe season has not peaked
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.618
-- slug: 2026-06-04-new-world-screwworm-detected-in-texas-calf-first-us-livestock-case-since-1966
-  headline: New World screwworm detected in Texas calf, first US livestock case since 1966
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5763
-- slug: 2026-01-24-fda-traces-powdered-milk-to-byheart-baby-formula-outbreak
-  headline: FDA traces powdered milk to ByHeart baby formula outbreak
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6063
-- slug: 2026-03-15-e-coli-linked-to-raw-farm-raw-milk-cheddar-sickens-7-in-us
-  headline: E. coli linked to Raw Farm raw milk cheddar sickens 7 in US
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5991
+  strength: 0.6535
 ---
-
 ## Yakima health district confirms third human bird flu case after dairy exposure
 
 **Subtype:** fact
