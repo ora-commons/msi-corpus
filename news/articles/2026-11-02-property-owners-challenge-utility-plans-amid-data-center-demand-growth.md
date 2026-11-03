@@ -208,6 +208,8 @@ related_stories:
   publish_date: '2026-05-16'
   relation: related
   strength: 0.6562
+analyses:
+- '2026-11-02-dominion-energy-concentrates-project-effects-in-ashburn-through-its-approved-tra'
 ---
 ## Property owners challenge utility plans amid data-center demand growth
 
@@ -259,3 +261,8 @@ Dominion's Mathe said: “But when you have a strong grid, you’re bolstering e
 **Publication date:** 2026-11-02
 **Title:** Homeowners Fight Utilities Over Grid Upgrades in Their Backyards
 **URL:** https://www.wsj.com/us-news/homeowners-fight-utilities-over-grid-upgrades-in-their-backyards-7e31d36f
+
+---
+
+<!-- analysis-link:2026-11-02-dominion-energy-concentrates-project-effects-in-ashburn-through-its-approved-tra -->
+**Going deeper:** [Read MSI's analysis of transmission expansion and local property effects →](/analyses/2026-11-02-dominion-energy-concentrates-project-effects-in-ashburn-through-its-approved-tra)
