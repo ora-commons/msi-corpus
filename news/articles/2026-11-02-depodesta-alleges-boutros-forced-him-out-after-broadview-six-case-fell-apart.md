@@ -2,8 +2,19 @@
 headline: DePodesta alleges Boutros forced him out after Broadview Six case fell apart
 secondary_headline: Judge April Perry orders Boutros and three assistants to testify
 publish_date: '2026-11-02'
-lede: Former FBI Chicago field chief Douglas DePodesta sued senior Justice Department officials on Monday, alleging he was forced out after being blamed for the collapse of prosecutions against six protesters. Hours after the filing, U.S. District Judge April Perry ordered Andrew Boutros, Illinois's top federal prosecutor, and three assistant attorneys to testify under oath on Nov. 16 in the Broadview Six case. Boutros's office declined to comment, while the FBI and Justice Department did not immediately respond.
-nut_graf: The suit says Boutros faced pressure from the Justice Department to charge protesters with felonies and that he pressured his own attorneys to act before investigating objective evidence. Perry's testimony order came hours after the filing; the court had already moved to investigate possible prosecutorial misconduct. Federal prosecutors charged around 30 protesters during Operation Midway Blitz, and many of those charges have been dropped or dismissed.
+lede: Former FBI Chicago field chief Douglas DePodesta sued senior Justice Department
+  officials on Monday, alleging he was forced out after being blamed for the collapse
+  of prosecutions against six protesters. Hours after the filing, U.S. District Judge
+  April Perry ordered Andrew Boutros, Illinois's top federal prosecutor, and three
+  assistant attorneys to testify under oath on Nov. 16 in the Broadview Six case.
+  Boutros's office declined to comment, while the FBI and Justice Department did not
+  immediately respond.
+nut_graf: The suit says Boutros faced pressure from the Justice Department to charge
+  protesters with felonies and that he pressured his own attorneys to act before investigating
+  objective evidence. Perry's testimony order came hours after the filing; the court
+  had already moved to investigate possible prosecutorial misconduct. Federal prosecutors
+  charged around 30 protesters during Operation Midway Blitz, and many of those charges
+  have been dropped or dismissed.
 primary_entities:
 - Douglas DePodesta
 - Andrew Boutros
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +161,44 @@ related_stories:
   headline: DePodesta's federal suit accuses DOJ of political pressure
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8824
-- slug: 2026-11-02-ice-officer-morales-makes-first-court-appearance-after-houston-assault-indictmen
-  headline: ICE officer Morales makes first court appearance after Houston assault indictment
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5987
-- slug: 2026-10-27-faruqui-removes-unsigned-doj-complaint-from-docket
-  headline: Federal judge removes unsigned Justice Department complaint from docket
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6038
-- slug: 2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment
-  headline: Justice Department review follows FBI task force's 2025 disbandment
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6134
-- slug: 2026-10-06-whistleblower-alleges-trump-directed-fbi-to-investigate-la-anti-ice-protesters
-  headline: Whistleblower alleges Trump directed FBI to investigate LA anti-ICE protesters
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6337
-- slug: 2026-10-05-marimar-martinez-sues-federal-government-over-2025-border-patrol-shooting
-  headline: Marimar Martinez sues federal government over 2025 Border Patrol shooting
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6193
+  strength: 0.8819
 - slug: 2026-06-08-federal-case-against-ice-protesters-collapses-amid-misconduct-allegations
   headline: Federal case against ICE protesters collapses amid misconduct allegations
   publish_date: '2026-06-08'
   relation: related
   strength: 0.781
 - slug: 2026-06-10-grand-jurors-dismissed-after-disagreeing-with-case-against-broadview-six
-  headline: Grand jurors dismissed after disagreeing with case against 'Broadview Six'
+  headline: Grand jurors dismissed after disagreeing with case against 'Broadview
+    Six'
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.7273
+  strength: 0.726
 - slug: 2026-05-21-prosecutors-drop-charges-against-chicago-activists-in-immigration-case
   headline: Prosecutors drop charges against Chicago activists in immigration case
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6822
+  strength: 0.683
 - slug: 2026-05-27-prosecutors-drop-charges-against-activists-in-chicago-immigration-crackdown
   headline: Prosecutors drop charges against activists in Chicago immigration crackdown
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6785
+  strength: 0.6788
 - slug: 2026-07-01-doj-to-review-over-1-000-illinois-grand-jury-presentations-after-misconduct
   headline: DOJ to review over 1,000 Illinois grand jury presentations after misconduct
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6511
+  strength: 0.6513
 - slug: 2026-05-22-prosecutors-drop-charges-against-activists-in-chicago-immigration-crackdown
   headline: Prosecutors drop charges against activists in Chicago immigration crackdown
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6688
-- slug: 2026-07-28-professor-charged-in-minnesota-ice-protest-conspiracy-case-speaks-out
-  headline: Professor charged in Minnesota ICE protest conspiracy case speaks out
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6016
+  strength: 0.6695
 - slug: 2026-05-23-prosecutors-drop-charges-against-activists-in-chicago-immigration-crackdown
   headline: Prosecutors drop charges against activists in Chicago immigration crackdown
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.6569
-- slug: 2026-06-03-chicago-us-attorney-says-he-personally-addressed-grand-jury-before-immigration-p
-  headline: Chicago US Attorney says he personally addressed grand jury before immigration protest indictment
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6451
-- slug: 2026-01-20-man-on-trial-for-offering-10k-bounty-on-border-patrol-commander
-  headline: Man on trial for offering $10K bounty on Border Patrol commander
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6439
-- slug: 2026-06-09-three-judges-three-scandals-new-scrutiny-of-judicial-accountability
-  headline: Three judges, three scandals, new scrutiny of judicial accountability
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6052
-- slug: 2026-01-27-chicago-man-faces-deportation-after-acquittal-in-murder-for-hire-case
-  headline: Chicago man faces deportation after acquittal in murder-for-hire case
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.628
-- slug: 2026-02-08-ice-beating-allegation-leads-to-calls-for-inquiry-in-minnesota
-  headline: ICE beating allegation leads to calls for inquiry in Minnesota
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6258
-- slug: 2026-04-15-prosecutors-charge-man-shot-by-ice-in-california-with-assaulting-officer
-  headline: Prosecutors charge man shot by ICE in California with assaulting officer
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6055
+  strength: 0.6575
 ---
-
 ## DePodesta alleges Boutros forced him out after Broadview Six case fell apart
 
 **Subtype:** fact

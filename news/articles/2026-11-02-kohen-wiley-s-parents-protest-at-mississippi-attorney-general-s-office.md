@@ -1,9 +1,19 @@
 ---
 headline: Kohen Wiley’s parents protest at Mississippi attorney general’s office
-secondary_headline: Body-camera footage shows Foster firing into the vehicle carrying Kohen
+secondary_headline: Body-camera footage shows Foster firing into the vehicle carrying
+  Kohen
 publish_date: '2026-11-02'
-lede: Davion Williams and Vellesiya Wiley, the parents of 1-year-old Kohen Wiley, led a protest Monday at the Mississippi attorney general’s office in Jackson after the office ruled the police shooting that killed their son justified. They sought an explanation from Attorney General Lynn Fitch, who was not in the office, and Williams called for the prosecution of Senatobia Sgt. Hunter Foster and Fitch’s removal from office.
-nut_graf: The demonstration came after a monthslong investigation by the attorney general’s office found Foster’s use of force appropriate. Williams said he wants Foster prosecuted and Fitch out of office. Foster’s attorney Martin Zummach said his client had “no choice” but to shoot at the vehicle because it was going to hit him.
+lede: Davion Williams and Vellesiya Wiley, the parents of 1-year-old Kohen Wiley,
+  led a protest Monday at the Mississippi attorney general’s office in Jackson after
+  the office ruled the police shooting that killed their son justified. They sought
+  an explanation from Attorney General Lynn Fitch, who was not in the office, and
+  Williams called for the prosecution of Senatobia Sgt. Hunter Foster and Fitch’s
+  removal from office.
+nut_graf: The demonstration came after a monthslong investigation by the attorney
+  general’s office found Foster’s use of force appropriate. Williams said he wants
+  Foster prosecuted and Fitch out of office. Foster’s attorney Martin Zummach said
+  his client had “no choice” but to shoot at the vehicle because it was going to hit
+  him.
 primary_entities:
 - Kohen Wiley
 - Davion Williams
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +161,44 @@ related_stories:
   headline: Mississippi releases body-camera footage of fatal toddler police shooting
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.821
+  strength: 0.8195
 - slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
   headline: Foster remains certified after resigning from Senatobia police force
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8192
+  strength: 0.8186
 - slug: 2026-10-23-hunter-foster-resigns-from-police-after-killing-one-year-old-kohen-wiley
   headline: Hunter Foster resigns from police after killing one-year-old Kohen Wiley
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.801
+  strength: 0.8005
 - slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
+  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage
+    surfaces
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.806
+  strength: 0.8059
 - slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
   headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8144
+  strength: 0.813
 - slug: 2026-10-31-fire-damages-senatobia-police-headquarters-cause-under-investigation
   headline: Fire damages Senatobia police headquarters; cause under investigation
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7253
+  strength: 0.7243
 - slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
   headline: Autopsy indicates Kohen Wiley shot from side of car, not front
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.795
+  strength: 0.7946
 - slug: 2026-10-19-mississippi-ag-rules-officer-s-use-of-force-in-1-year-old-s-death-justified
   headline: Mississippi AG rules officer's use of force in 1-year-old's death justified
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7843
-- slug: 2026-10-23-officer-resigns-after-video-release-in-death-of-one-year-old-kohen-wiley
-  headline: Officer resigns after video release in death of one-year-old Kohen Wiley
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7363
-- slug: 2026-10-23-mississippi-attorney-general-calls-police-shooting-of-one-year-old-justified
-  headline: Mississippi attorney general calls police shooting of one-year-old justified
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7162
-- slug: 2026-10-26-judge-blocks-permanent-dismissal-of-rhinewalt-s-manslaughter-case
-  headline: Judge blocks permanent dismissal of Rhinewalt’s manslaughter case
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6291
-- slug: 2026-10-23-jury-convicts-ohio-man-of-murder-in-deputy-s-death
-  headline: Jury convicts Ohio man of murder in deputy's death
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6373
-- slug: 2026-09-02-senatobia-fires-police-chief-after-report-of-racist-text-messages
-  headline: Senatobia fires police chief after report of racist text messages
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7244
-- slug: 2026-06-26-mississippi-protesters-demand-footage-after-police-kill-one-year-old-boy
-  headline: Mississippi protesters demand footage after police kill one-year-old boy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7844
-- slug: 2026-06-22-fatal-police-shooting-of-one-year-old-boy-ignites-tensions-in-senatobia-mississi
-  headline: Fatal police shooting of one-year-old boy ignites tensions in Senatobia, Mississippi
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7511
-- slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
-  headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6455
-- slug: 2026-06-16-one-year-old-killed-woman-wounded-after-mississippi-police-shoot-at-car
-  headline: One-year-old killed, woman wounded after Mississippi police shoot at car
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7223
-- slug: 2026-08-14-wells-parents-seek-federal-review-of-teen-s-death-at-nabj-convention
-  headline: Wells' parents seek federal review of teen's death at NABJ convention
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6209
-- slug: 2026-07-11-phone-data-witness-accounts-diverge-in-mississippi-teen-s-death-on-island
-  headline: Phone data, witness accounts diverge in Mississippi teen's death on island
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6168
-- slug: 2026-03-18-tennessee-family-s-lawsuit-over-police-restraint-of-austin-hunter-turner-dismiss
-  headline: Tennessee family’s lawsuit over police restraint of Austin Hunter Turner dismissed
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6373
+  strength: 0.7838
 ---
-
 ## Kohen Wiley’s parents protest at Mississippi attorney general’s office
 
 **Subtype:** fact
