@@ -2,8 +2,17 @@
 headline: Trump plans Lincoln Memorial speech as Senate races reach the wire
 secondary_headline: Tele-rallies replace campaign stops in the final push
 publish_date: '2026-11-02'
-lede: President Trump is scheduled to deliver closing remarks at 2 p.m. ET Monday at the Lincoln Memorial Reflecting Pool in Washington, D.C., as the 2026 midterms neared their final stretch. The Wall Street Journal reported that Trump was scheduled to take part in tele-rallies in the morning and more tele-rallies later. Trump was not scheduled to be on the campaign trail in Texas, Kansas or Michigan, where big Senate races were coming down to the wire.
-nut_graf: The Wall Street Journal said Trump was scheduled to speak for House and Senate Republican candidates. The paper said many signs indicated the 2026 election could come down to Trump's low approval rating, the Iran War and high prices, while Tuesday's results were expected to sharpen a Democratic disagreement over time, money and party strategy.
+lede: President Trump is scheduled to deliver closing remarks at 2 p.m. ET Monday
+  at the Lincoln Memorial Reflecting Pool in Washington, D.C., as the 2026 midterms
+  neared their final stretch. The Wall Street Journal reported that Trump was scheduled
+  to take part in tele-rallies in the morning and more tele-rallies later. Trump was
+  not scheduled to be on the campaign trail in Texas, Kansas or Michigan, where big
+  Senate races were coming down to the wire.
+nut_graf: The Wall Street Journal said Trump was scheduled to speak for House and
+  Senate Republican candidates. The paper said many signs indicated the 2026 election
+  could come down to Trump's low approval rating, the Iran War and high prices, while
+  Tuesday's results were expected to sharpen a Democratic disagreement over time,
+  money and party strategy.
 primary_entities:
 - Trump
 - The Wall Street Journal
@@ -57,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +169,44 @@ related_stories:
   headline: Trump schedules closing midterm speech at Reflecting Pool
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7796
+  strength: 0.7795
 - slug: 2026-10-31-trump-says-his-phone-blew-up-after-iowa-and-kansas-rally-cancellations
   headline: Trump says his phone 'blew up' after Iowa and Kansas rally cancellations
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7079
+  strength: 0.708
 - slug: 2026-10-31-paxton-talarico-make-final-pitches-in-texas-as-trump-shifts-to-tele-rallies
   headline: Paxton, Talarico make final pitches in Texas as Trump shifts to tele-rallies
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7056
+  strength: 0.7047
 - slug: 2026-10-30-trump-reinstates-iowa-and-kansas-rallies-for-sunday-after-cancellations
   headline: Trump reinstates Iowa and Kansas rallies for Sunday after cancellations
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6951
+  strength: 0.6946
 - slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
   headline: Trump puts his political brand at the center of the 2026 midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7081
+  strength: 0.7075
 - slug: 2026-10-30-trump-restores-kansas-and-iowa-rallies-days-before-midterms
   headline: Trump restores Kansas and Iowa rallies days before midterms
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6913
-- slug: 2026-10-27-wsj-politics-newsletter-flags-senate-balance-trump-rallies-and-data-center-votes
-  headline: WSJ Politics newsletter flags Senate balance, Trump rallies and data-center votes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6873
+  strength: 0.6907
 - slug: 2026-10-21-trump-conditionally-offers-to-settle-veterans-legitimate-camp-lejeune-claims
-  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune claims
+  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune
+    claims
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7007
+  strength: 0.7004
 - slug: 2026-10-14-trump-to-rally-in-arizona-and-montana-after-alaska-stop
   headline: Trump to rally in Arizona and Montana after Alaska stop
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6901
-- slug: 2026-10-01-trump-campaigns-in-texas-and-oklahoma-for-gop-candidates
-  headline: Trump campaigns in Texas and Oklahoma for GOP candidates
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6879
-- slug: 2026-09-23-xi-arrives-in-washington-wednesday-for-state-visit
-  headline: Xi arrives in Washington Wednesday for state visit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6931
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6975
-- slug: 2026-09-07-trump-headlines-first-republican-midterm-convention-in-dallas
-  headline: Trump headlines first Republican midterm convention in Dallas
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7327
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7172
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7117
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6909
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6888
-- slug: 2026-08-25-trump-and-vance-to-headline-gop-midterm-convention-in-dallas
-  headline: Trump and Vance to headline GOP midterm convention in Dallas
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6997
-- slug: 2026-07-16-trump-addresses-elections-in-primetime-thursday-speech
-  headline: Trump addresses elections in primetime Thursday speech
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7428
-- slug: 2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary
-  headline: Trump to rally in Michigan as early voting begins in primary
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7111
+  strength: 0.6897
 ---
-
 ## Trump plans Lincoln Memorial speech as Senate races reach the wire
 
 **Subtype:** fact

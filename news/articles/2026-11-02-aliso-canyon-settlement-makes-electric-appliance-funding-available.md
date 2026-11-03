@@ -1,9 +1,20 @@
 ---
 headline: Aliso Canyon settlement makes electric appliance funding available
-secondary_headline: Single-family homes qualify; certain income-qualified residents can receive added support
+secondary_headline: Single-family homes qualify; certain income-qualified residents
+  can receive added support
 publish_date: '2026-11-02'
-lede: TECH Clean California and other organizations distributing Aliso Canyon settlement money have made the first $20 million in incentives available to people in the affected area with single-family homes. The $40 million program will help pay for heat pumps, electric stoves, water heaters and other appliances replacing gas equipment at homes and buildings affected by the 2015 Los Angeles-area blowout. Certain income-qualified residents can receive up to $31,800 for electric installations, and access for multi-property owners will come later.
-nut_graf: The program directs part of a 2021 settlement toward household electrification in a community where the leak caused displacement and reported health effects. Certain income-qualified residents affected by the Aliso Canyon leak can receive up to $31,800 in incentives for electric installations, while access for owners of multiple properties will come later.
+lede: TECH Clean California and other organizations distributing Aliso Canyon settlement
+  money have made the first $20 million in incentives available to people in the affected
+  area with single-family homes. The $40 million program will help pay for heat pumps,
+  electric stoves, water heaters and other appliances replacing gas equipment at homes
+  and buildings affected by the 2015 Los Angeles-area blowout. Certain income-qualified
+  residents can receive up to $31,800 for electric installations, and access for multi-property
+  owners will come later.
+nut_graf: The program directs part of a 2021 settlement toward household electrification
+  in a community where the leak caused displacement and reported health effects. Certain
+  income-qualified residents affected by the Aliso Canyon leak can receive up to $31,800
+  in incentives for electric installations, while access for owners of multiple properties
+  will come later.
 primary_entities:
 - Aliso Canyon
 - Aliso Canyon Natural Gas Facility
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +155,8 @@ cross_article_links:
   strength: 0.608
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6157
-- slug: 2026-08-28-15bn-in-la-fire-aid-remains-unappropriated-nearly-600-days-after-the-fires
-  headline: $15bn in LA fire aid remains unappropriated nearly 600 days after the fires
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.62
-- slug: 2026-06-25-california-program-gives-aging-mobile-home-parks-a-second-life
-  headline: California program gives aging mobile home parks a second life
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6499
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6283
-- slug: 2026-04-20-tax-bills-loom-for-wildfire-survivors-accepting-settlement-payouts
-  headline: Tax bills loom for wildfire survivors accepting settlement payouts
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6299
-- slug: 2026-02-23-california-s-heat-pump-push-faces-high-electricity-cost-barrier
-  headline: California's heat pump push faces high electricity cost barrier
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6397
-- slug: 2026-05-08-renter-friendly-air-conditioning-battery-program-could-cut-energy-bills
-  headline: Renter-friendly air-conditioning battery program could cut energy bills
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6232
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6136
-- slug: 2026-01-12-california-hydrogen-gas-blending-pilot-faces-pushback-from-orange-cove-residents
-  headline: California hydrogen gas-blending pilot faces pushback from Orange Cove residents
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.634
-- slug: 2026-01-14-air-leaks-drain-more-than-a-quarter-of-home-heating-energy-experts-say
-  headline: Air leaks drain more than a quarter of home heating energy, experts say
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6337
-- slug: 2026-01-22-california-lawmakers-propose-insurance-regulations-after-wildfire-claims-crisis
-  headline: California lawmakers propose insurance regulations after wildfire claims crisis
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6331
-- slug: 2026-04-11-la-s-community-colleges-race-to-train-construction-workers-for-wildfire-rebuildi
-  headline: LA’s community colleges race to train construction workers for wildfire rebuilding
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6219
-- slug: 2026-05-24-cracked-chemical-tank-triggers-evacuation-at-gkn-aerospace-in-california
-  headline: Cracked chemical tank triggers evacuation at GKN Aerospace in California
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6067
-- slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.602
-- slug: 2026-01-07-fewer-than-a-dozen-homes-rebuilt-one-year-after-la-wildfires-destroyed-13-000-pr
-  headline: Fewer than a dozen homes rebuilt one year after LA wildfires destroyed 13,000 properties
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6258
-- slug: 2026-03-10-california-has-40-000-affordable-units-ready-but-funding-delays-remain
-  headline: California has 40,000 affordable units ready, but funding delays remain
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6189
-- slug: 2026-02-05-energy-star-survives-trump-budget-cuts-as-other-efficiency-rules-face-rollback
-  headline: Energy Star survives Trump budget cuts as other efficiency rules face rollback
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6223
-- slug: 2026-05-05-california-investigates-trump-administration-deal-to-end-offshore-wind-project
-  headline: California investigates Trump administration deal to end offshore wind project
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6058
-- slug: 2026-03-10-state-farm-settlement-caps-california-homeowner-hikes-offers-condo-and-rental-re
-  headline: State Farm settlement caps California homeowner hikes, offers condo and rental refunds
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6161
-- slug: 2026-01-15-california-community-foundation-ceo-miguel-santana-on-status-of-la-fire-recovery
-  headline: California Community Foundation CEO Miguel Santana on status of LA fire recovery
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6194
+related_stories: []
 ---
-
 ## Aliso Canyon settlement makes electric appliance funding available
 
 **Subtype:** fact
