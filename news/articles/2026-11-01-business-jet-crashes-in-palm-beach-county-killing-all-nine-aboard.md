@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-01-26'
   relation: related
   strength: 0.666
+analyses:
+- '2026-11-01-ntsb-investigators-confront-an-unresolved-mechanism-after-the-greenacres-jet-cra'
 ---
 ## Business jet crashes in Palm Beach County, killing all nine aboard
 
@@ -247,3 +249,8 @@ Amy Taxin reported from Santa Ana, California. AP Transportation Writer Josh Fun
 **Publication date:** 2026-11-01
 **Title:** Duffy: All 9 people aboard a jet that crashed into a Florida neighborhood have died
 **URL:** https://apnews.com/article/palm-beach-plane-crash-ffdee609e7916ff7fcd178d2b8e69b39
+
+---
+
+<!-- analysis-link:2026-11-01-ntsb-investigators-confront-an-unresolved-mechanism-after-the-greenacres-jet-cra -->
+**Going deeper:** [Read MSI's analysis of Greenacres crash investigation →](/analyses/2026-11-01-ntsb-investigators-confront-an-unresolved-mechanism-after-the-greenacres-jet-cra)
