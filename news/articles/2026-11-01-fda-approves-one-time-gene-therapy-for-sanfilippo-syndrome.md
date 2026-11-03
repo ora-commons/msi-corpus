@@ -152,6 +152,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-01-fda-approval-shifts-sanfilippo-therapy-from-development-to-access'
 ---
 ## FDA approves one-time gene therapy for Sanfilippo syndrome
 
@@ -211,3 +213,8 @@ Eliza is almost 17 and was the first patient to receive the gene therapy during 
 **Publication date:** 2026-11-01
 **Title:** How one family gave a critical boost to gene therapy research
 **URL:** https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi
+
+---
+
+<!-- analysis-link:2026-11-01-fda-approval-shifts-sanfilippo-therapy-from-development-to-access -->
+**Going deeper:** [Read MSI's analysis of Fayuvi access after approval →](/analyses/2026-11-01-fda-approval-shifts-sanfilippo-therapy-from-development-to-access)
