@@ -181,6 +181,8 @@ related_stories:
   publish_date: '2026-07-03'
   relation: related
   strength: 0.6501
+analyses:
+- '2026-11-01-officials-weigh-provisional-responses-as-halloween-shootings-remain-unresolved'
 ---
 ## Halloween weekend shootings across U.S. kill at least six, injure dozens
 
@@ -224,3 +226,8 @@ John Raby reported from Charleston, West Virginia. AP reporter Claudia Lauer in 
 **Publication date:** 2026-11-01
 **Title:** Mass shootings across US leave at least 6 people dead
 **URL:** https://apnews.com/article/alabama-shooting-birmingham-22eb299b80705cae19e2e5b425459c63
+
+---
+
+<!-- analysis-link:2026-11-01-officials-weigh-provisional-responses-as-halloween-shootings-remain-unresolved -->
+**Going deeper:** [Read MSI's analysis of Halloween shootings and decisions under uncertainty →](/analyses/2026-11-01-officials-weigh-provisional-responses-as-halloween-shootings-remain-unresolved)
