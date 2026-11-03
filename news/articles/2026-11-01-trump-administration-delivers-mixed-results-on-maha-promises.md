@@ -2,8 +2,16 @@
 headline: Trump administration delivers mixed results on MAHA promises
 secondary_headline: EPA rollbacks and corporate interests draw criticism from supporters
 publish_date: '2026-11-01'
-lede: The Donald Trump administration has produced mixed results on Make America Healthy Again promises after just over two years, NPR health correspondent Will Stone reported Nov. 1, 2026. New dietary guidelines reflected parts of the health agenda, while Environmental Protection Agency actions on chemicals and pesticides drew criticism from supporters; at a movement summit, corporate figures also left Kelly Ryerson questioning the movement's direction.
-nut_graf: The administration's choices shape dietary guidance, pesticide approvals and drinking-water protections, and the public-health debate extends to vaccination and foodborne illness. Within MAHA, corporate interests and grassroots activists are also pulling in different directions from some administration supporters.
+lede: The Donald Trump administration has produced mixed results on Make America Healthy
+  Again promises after just over two years, NPR health correspondent Will Stone reported
+  Nov. 1, 2026. New dietary guidelines reflected parts of the health agenda, while
+  Environmental Protection Agency actions on chemicals and pesticides drew criticism
+  from supporters; at a movement summit, corporate figures also left Kelly Ryerson
+  questioning the movement's direction.
+nut_graf: The administration's choices shape dietary guidance, pesticide approvals
+  and drinking-water protections, and the public-health debate extends to vaccination
+  and foodborne illness. Within MAHA, corporate interests and grassroots activists
+  are also pulling in different directions from some administration supporters.
 primary_entities:
 - Donald Trump
 - Robert F. Kennedy Jr.
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,44 @@ related_stories:
   headline: White House has not released Kennedy's April ultraprocessed food definition
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7542
+  strength: 0.7524
 - slug: 2026-10-28-epa-moves-to-revise-biden-era-methane-rules-for-oil-and-gas
   headline: EPA moves to revise Biden-era methane rules for oil and gas
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7025
+  strength: 0.7019
 - slug: 2026-10-28-industry-environmentalists-split-over-epa-methane-rollback-costs
   headline: Industry, environmentalists split over EPA methane rollback costs
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6832
+  strength: 0.6833
 - slug: 2026-10-22-calley-means-cites-maha-wins-as-movement-frustration-grows
   headline: Calley Means cites MAHA wins as movement frustration grows
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7067
 - slug: 2026-10-22-calley-means-quits-kennedy-adviser-role-in-trump-administration-amid-food-policy
-  headline: Calley Means quits Kennedy adviser role in Trump administration amid food-policy delays
+  headline: Calley Means quits Kennedy adviser role in Trump administration amid food-policy
+    delays
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.685
+  strength: 0.6848
 - slug: 2026-10-04-vance-courts-maha-movement-as-2028-positioning-intensifies
   headline: Vance courts MAHA movement as 2028 positioning intensifies
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6977
+  strength: 0.697
 - slug: 2026-09-29-white-house-resistance-stalls-kennedy-s-ultraprocessed-food-push
   headline: White House resistance stalls Kennedy's ultraprocessed food push
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7184
+  strength: 0.7182
 - slug: 2026-09-30-kff-ap-poll-finds-rural-voters-back-maha-but-see-little-personal-impact
   headline: KFF-AP poll finds rural voters back MAHA but see little personal impact
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6779
-- slug: 2026-09-30-us-food-industry-funds-influencer-campaign-to-counter-maha-movement
-  headline: US food industry funds influencer campaign to counter Maha movement
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.673
-- slug: 2026-09-13-maha-food-agenda-shows-limits-as-outbreaks-cuts-mount
-  headline: MAHA food agenda shows limits as outbreaks, cuts mount
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7346
-- slug: 2026-07-10-epa-retreats-from-promised-maha-agenda-allies-say
-  headline: EPA retreats from promised MAHA agenda, allies say
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.8039
-- slug: 2026-02-02-after-molding-health-policy-maha-eyes-reshaping-epa-environmental-rules
-  headline: After molding health policy, MAHA eyes reshaping EPA environmental rules
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.8237
-- slug: 2026-08-21-maha-activists-urge-trump-to-drop-coal-for-ai-data-centers
-  headline: MAHA activists urge Trump to drop coal for AI data centers
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6874
-- slug: 2026-07-20-epa-scraps-proposed-pfas-limits-on-sewage-sludge-used-as-farm-fertilizer
-  headline: EPA scraps proposed PFAS limits on sewage sludge used as farm fertilizer
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6735
-- slug: 2025-12-29-us-health-policy-dramatically-reshaped-under-rfk-jr-in-trump-s-second-term
-  headline: US health policy dramatically reshaped under RFK Jr. in Trump’s second term
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7227
-- slug: 2026-04-03-epa-proposes-listing-microplastics-pharmaceuticals-as-drinking-water-contaminant
-  headline: EPA proposes listing microplastics, pharmaceuticals as drinking-water contaminants
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7067
-- slug: 2026-06-05-affordability-crisis-jams-up-rfk-jr-s-food-agenda
-  headline: Affordability Crisis Jams Up RFK Jr.’s Food Agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6802
-- slug: 2026-05-08-epa-to-propose-rolling-back-some-biden-era-pfas-limits-in-drinking-water
-  headline: EPA to propose rolling back some Biden-era PFAS limits in drinking water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6929
-- slug: 2026-02-26-rfk-jr-backs-u-s-pesticide-production-after-years-opposing-glyphosate
-  headline: RFK Jr. backs U.S. pesticide production after years opposing glyphosate
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7078
-- slug: 2026-04-11-epa-proposes-weakening-rules-for-toxic-coal-ash-groundwater-protections
-  headline: EPA proposes weakening rules for toxic coal ash groundwater protections
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6814
+  strength: 0.6783
 ---
-
 ## Trump administration delivers mixed results on MAHA promises
 
 **Subtype:** fact
