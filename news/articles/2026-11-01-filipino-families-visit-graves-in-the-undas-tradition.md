@@ -2,8 +2,14 @@
 headline: Filipino families visit graves in the Undas tradition
 secondary_headline: Family remembrance customs pass between generations
 publish_date: '2026-11-01'
-lede: Thousands of Filipinos flocked to cemeteries across Manila on Sunday, Nov. 1, to visit the graves of loved ones and mark All Saints’ Day as part of the tradition known as Undas. The observance also encompasses All Souls’ Day on Nov. 2 and incorporates ancestor-veneration customs that predate Spanish colonization.
-nut_graf: Undas combines a religious observance with the transmission of family memory and custom. Nestor Castro said the gatherings strengthen kinship across generations. Lorita Santos described teaching her children the tradition, while Mike Mamaril’s practice came from his grandparents.
+lede: Thousands of Filipinos flocked to cemeteries across Manila on Sunday, Nov. 1,
+  to visit the graves of loved ones and mark All Saints’ Day as part of the tradition
+  known as Undas. The observance also encompasses All Souls’ Day on Nov. 2 and incorporates
+  ancestor-veneration customs that predate Spanish colonization.
+nut_graf: Undas combines a religious observance with the transmission of family memory
+  and custom. Nestor Castro said the gatherings strengthen kinship across generations.
+  Lorita Santos described teaching her children the tradition, while Mike Mamaril’s
+  practice came from his grandparents.
 primary_entities:
 - Undas
 - Lorita Santos
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,118 +145,21 @@ cross_article_links:
   strength: 0.5088
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-31-us-cities-revive-day-of-the-dead-celebrations-as-ice-arrests-continue
-  headline: US cities revive Day of the Dead celebrations as ICE arrests continue
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.555
-- slug: 2026-10-28-labor-leaders-and-lawmakers-honor-dolores-huerta-after-her-death
-  headline: Labor leaders and lawmakers honor Dolores Huerta after her death
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5114
-- slug: 2026-08-26-eight-killed-at-billings-sunday-dinner-sheriff-says-questions-may-go-unanswered
-  headline: Eight killed at Billings Sunday dinner; sheriff says questions may go unanswered
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5112
-- slug: 2026-07-19-houston-s-east-end-rallies-in-grief-and-defiance-after-ice-killing
-  headline: Houston's East End rallies in grief and defiance after ICE killing
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5094
-- slug: 2026-04-02-good-friday-brings-cross-processions-and-ancient-rituals-across-christian-world
-  headline: Good Friday brings cross processions and ancient rituals across Christian world
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5656
-- slug: 2026-05-23-what-is-memorial-day-and-how-has-it-changed-over-the-years
-  headline: What is Memorial Day and how has it changed over the years?
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.543
-- slug: 2026-06-20-for-nuns-who-gave-a-lifetime-to-others-basic-end-of-life-care-is-scarce
-  headline: For nuns who gave a lifetime to others, basic end-of-life care is scarce
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5204
-- slug: 2026-03-15-confront-mortality-at-thailand-s-death-fest
-  headline: Confront mortality at Thailand's "Death Fest"
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5509
-- slug: 2026-05-23-as-memorial-day-sales-surge-veterans-say-holiday-s-solemn-meaning-is-being-lost
-  headline: As Memorial Day sales surge, veterans say holiday's solemn meaning is being lost
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5257
-- slug: 2026-06-11-amanda-sloat-describes-father-s-teachings-on-death-in-personal-essay
-  headline: Amanda Sloat describes father's teachings on death in personal essay
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5116
-- slug: 2026-04-04-good-friday-unfolds-across-latin-america-in-processions-and-ceremonies
-  headline: Good Friday unfolds across Latin America in processions and ceremonies
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5374
-- slug: 2026-01-26-cuban-santer-a-priests-hold-ceremonies-asking-deities-for-peace
-  headline: Cuban Santería priests hold ceremonies asking deities for peace
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.5445
-- slug: 2026-02-26-bones-of-st-francis-on-public-display-in-assisi-for-one-month
-  headline: Bones of St. Francis on public display in Assisi for one month
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5407
-- slug: 2026-05-06-cinco-de-mayo-2026-us-restaurants-emphasize-mexican-heritage-history
-  headline: 'Cinco de Mayo 2026: US restaurants emphasize Mexican heritage, history'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5249
-- slug: 2026-02-17-ash-wednesday-marks-the-start-of-lent-for-catholics-and-many-christians
-  headline: Ash Wednesday marks the start of Lent for Catholics and many Christians
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.539
-- slug: 2026-05-18-how-professional-mourners-aid-the-grieving-in-kenya
-  headline: How professional mourners aid the grieving in Kenya
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.516
-- slug: 2026-05-25-how-memorial-day-has-evolved-from-its-civil-war-origins
-  headline: How Memorial Day has evolved from its Civil War origins
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5107
-- slug: 2026-05-17-police-investigate-56-bodies-dumped-at-trinidad-cemetery
-  headline: Police investigate 56 bodies dumped at Trinidad cemetery
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.514
-- slug: 2026-02-03-mexico-city-artisans-rush-to-restore-broken-baby-jesus-figurines-for-candlemas
-  headline: Mexico City artisans rush to restore broken Baby Jesus figurines for Candlemas
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.5306
-- slug: 2026-02-12-catholic-pilgrimage-in-italy-spotlights-queer-tradition-of-femminielli
-  headline: Catholic pilgrimage in Italy spotlights queer tradition of femminielli
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5272
+related_stories: []
 image:
   url: /articles/2026-11-01-filipino-families-visit-graves-in-the-undas-tradition.png
-  alt: "Illustration accompanying article: Filipino families visit graves in the Undas tradition"
+  alt: 'Illustration accompanying article: Filipino families visit graves in the Undas
+    tradition'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Filipino families visit graves in the Undas tradition
 
 **Subtype:** fact

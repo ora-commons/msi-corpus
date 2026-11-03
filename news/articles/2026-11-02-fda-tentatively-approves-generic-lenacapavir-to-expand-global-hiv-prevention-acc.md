@@ -1,9 +1,19 @@
 ---
-headline: FDA tentatively approves generic lenacapavir to expand global HIV prevention access
+headline: FDA tentatively approves generic lenacapavir to expand global HIV prevention
+  access
 secondary_headline: The twice-yearly generic is expected to cost $40 per person annually
 publish_date: '2026-11-02'
-lede: The U.S. Food and Drug Administration has approved a generic version of lenacapavir, the world’s only twice-a-year HIV prevention injection, clearing a regulatory step toward lower-cost availability in 120 low- and middle-income countries. The FDA’s action is a tentative approval, and the generic is expected to cost $40 per person each year. Organizations behind the drug said supply could begin reaching some places within weeks, though national approvals could delay access elsewhere.
-nut_graf: Lenacapavir nearly eliminated new infections in two studies of people at high risk and requires twice-yearly dosing, while the generic is expected to match the annual price of daily PrEP pills. Carolyn Amole said access could be scaled to the 20 million people worldwide who need PrEP, but funding, delivery and local regulatory approvals remain.
+lede: The U.S. Food and Drug Administration has approved a generic version of lenacapavir,
+  the world’s only twice-a-year HIV prevention injection, clearing a regulatory step
+  toward lower-cost availability in 120 low- and middle-income countries. The FDA’s
+  action is a tentative approval, and the generic is expected to cost $40 per person
+  each year. Organizations behind the drug said supply could begin reaching some places
+  within weeks, though national approvals could delay access elsewhere.
+nut_graf: Lenacapavir nearly eliminated new infections in two studies of people at
+  high risk and requires twice-yearly dosing, while the generic is expected to match
+  the annual price of daily PrEP pills. Carolyn Amole said access could be scaled
+  to the 20 million people worldwide who need PrEP, but funding, delivery and local
+  regulatory approvals remain.
 primary_entities:
 - U.S. Food and Drug Administration
 - lenacapavir
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +155,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-kennedy-releases-plan-to-ease-restrictions-on-six-unapproved-peptides
-  headline: Kennedy releases plan to ease restrictions on six unapproved peptides
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6226
-- slug: 2026-11-01-fda-approves-one-time-gene-therapy-for-sanfilippo-syndrome
-  headline: FDA approves one-time gene therapy for Sanfilippo syndrome
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5975
-- slug: 2026-10-28-kennedy-says-he-will-allow-unapproved-peptide-injections
-  headline: Kennedy says he will allow unapproved peptide injections
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6076
-- slug: 2026-10-28-most-fda-scientists-reportedly-oppose-hhs-plan-to-ease-peptide-access
-  headline: Most FDA scientists reportedly oppose HHS plan to ease peptide access
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6007
-- slug: 2026-10-28-hhs-policy-directs-fda-to-limit-enforcement-on-specialty-peptide-pharmacies
-  headline: HHS policy directs FDA to limit enforcement on specialty peptide pharmacies
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5975
-- slug: 2026-09-26-u-s-thalidomide-survivors-push-congress-for-formal-recognition
-  headline: U.S. thalidomide survivors push Congress for formal recognition
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6101
-- slug: 2026-09-17-trump-medicaid-drug-price-pilot-sees-limited-company-state-uptake
-  headline: Trump Medicaid drug-price pilot sees limited company, state uptake
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5917
-- slug: 2026-07-16-fda-approves-merck-s-lipfendra-first-oral-pcsk9-inhibitor
-  headline: FDA approves Merck’s Lipfendra, first oral PCSK9 inhibitor
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6409
 - slug: 2026-06-03-canada-clears-generic-ozempic-us-patent-wall-holds-until-2032
   headline: Canada clears generic Ozempic; US patent wall holds until 2032
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6641
-- slug: 2026-07-01-medicare-launches-50-monthly-glp-1-pilot-for-some-seniors
-  headline: Medicare launches $50 monthly GLP-1 pilot for some seniors
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6302
-- slug: 2026-06-26-fda-panel-to-weigh-easing-restrictions-on-unapproved-peptides
-  headline: FDA panel to weigh easing restrictions on unapproved peptides
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6125
-- slug: 2026-02-26-fda-proposes-new-approval-pathway-for-rare-disease-customized-therapies
-  headline: FDA proposes new approval pathway for rare-disease customized therapies
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6448
-- slug: 2026-01-12-fda-approves-at-home-std-tests-and-new-gonorrhea-drugs-as-infection-rates-fall
-  headline: FDA approves at-home STD tests and new gonorrhea drugs as infection rates fall
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6479
-- slug: 2026-07-08-fda-panel-to-weigh-easing-restrictions-on-popular-peptides
-  headline: FDA panel to weigh easing restrictions on popular peptides
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5899
-- slug: 2026-06-22-fda-will-reverse-rejection-of-third-rare-disease-drug-regenxbio-says
-  headline: FDA Will Reverse Rejection of Third Rare-Disease Drug, Regenxbio Says
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5956
-- slug: 2026-05-21-planned-parenthood-to-offer-just-in-case-abortion-pills-in-two-states
-  headline: Planned Parenthood to offer “just in case” abortion pills in two states
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6118
-- slug: 2026-06-19-u-s-to-end-hiv-program-funding-for-south-africa-over-policy-differences
-  headline: U.S. to end HIV program funding for South Africa over policy differences
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5904
-- slug: 2026-03-21-fda-approves-high-dose-wegovy-shots-at-7-2-milligrams-weekly
-  headline: FDA approves high-dose Wegovy shots at 7.2 milligrams weekly
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6072
-- slug: 2026-05-13-car-t-therapy-suppresses-hiv-in-two-patients-for-over-a-year-study-finds
-  headline: CAR-T therapy suppresses HIV in two patients for over a year, study finds
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5882
-- slug: 2026-03-13-fda-approves-leucovorin-for-folate-transport-disorder-walks-back-autism-hopes
-  headline: FDA approves leucovorin for folate-transport disorder, walks back autism hopes
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6029
+  strength: 0.6642
 ---
-
 ## FDA tentatively approves generic lenacapavir to expand global HIV prevention access
 
 **Subtype:** fact

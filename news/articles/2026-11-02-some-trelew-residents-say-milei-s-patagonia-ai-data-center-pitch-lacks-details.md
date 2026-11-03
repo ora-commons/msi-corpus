@@ -2,8 +2,15 @@
 headline: Some Trelew residents say Milei's Patagonia AI data center pitch lacks details
 secondary_headline: Milei's proposed tax rate covers projects worth at least $1 billion
 publish_date: '2026-11-02'
-lede: Argentina's President Javier Milei is courting foreign investment in AI data centers across Patagonia, a region with ample land, wind power and shale resources. A planned $3 billion Green Capital facility has prompted objections from some Trelew residents, who say they lack information needed to assess the project. Environmental studies are underway, permits are pending, and Green Capital has not specified the facility's water needs or how much of its power would come from gas.
-nut_graf: The proposal links Argentina's push for foreign capital to Milei's pledge not to regulate AI, while the economic payoff for Argentines and the Green Capital project's resource and environmental details remain unresolved.
+lede: Argentina's President Javier Milei is courting foreign investment in AI data
+  centers across Patagonia, a region with ample land, wind power and shale resources.
+  A planned $3 billion Green Capital facility has prompted objections from some Trelew
+  residents, who say they lack information needed to assess the project. Environmental
+  studies are underway, permits are pending, and Green Capital has not specified the
+  facility's water needs or how much of its power would come from gas.
+nut_graf: The proposal links Argentina's push for foreign capital to Milei's pledge
+  not to regulate AI, while the economic payoff for Argentines and the Green Capital
+  project's resource and environmental details remain unresolved.
 primary_entities:
 - Javier Milei
 - Argentina
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +153,29 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-01-openai-raises-less-than-half-its-target-as-ai-funding-cools
-  headline: OpenAI raises less than half its target as AI funding cools
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.629
-- slug: 2026-10-28-mckay-and-eubanks-call-for-grassroots-opposition-to-ai-data-centers
-  headline: McKay and Eubanks call for grassroots opposition to AI data centers
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6398
-- slug: 2026-10-22-crusoe-sets-2027-target-for-first-latin-american-ai-cloud-operation
-  headline: Crusoe sets 2027 target for first Latin American AI cloud operation
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.648
-- slug: 2026-10-21-u-s-plans-up-to-20-billion-for-argentina-projects-through-2027
-  headline: U.S. plans up to $20 billion for Argentina projects through 2027
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6483
 - slug: 2026-09-30-argentina-congress-weighs-bill-allowing-companies-to-operate-without-employees
-  headline: Argentina's Congress weighs bill allowing companies to operate without employees
+  headline: Argentina's Congress weighs bill allowing companies to operate without
+    employees
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6813
+  strength: 0.6808
 - slug: 2026-09-23-milei-presses-un-on-falklands-claim-targets-sea-lion-oil-project
   headline: Milei presses UN on Falklands claim, targets Sea Lion oil project
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6779
-- slug: 2026-09-18-milei-sends-congress-bill-to-penalize-falklands-resource-work
-  headline: Milei sends Congress bill to penalize Falklands resource work
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.641
-- slug: 2026-09-14-ai-ceos-call-for-industry-slowdown-warn-of-extinction-risk
-  headline: AI CEOs call for industry slowdown, warn of extinction risk
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-14-taiwan-paraguay-technology-forum-opens-in-asunci-n-amid-expanding-cooperation
-  headline: Taiwan-Paraguay technology forum opens in Asunción amid expanding cooperation
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.631
-- slug: 2026-09-03-milei-revives-argentina-s-falklands-claim-as-approval-rating-slides
-  headline: Milei revives Argentina's Falklands claim as approval rating slides
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6331
-- slug: 2026-08-26-piketon-weighs-500bn-ai-datacenter-jobs-against-health-environmental-risks
-  headline: Piketon weighs $500bn AI datacenter jobs against health, environmental risks
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6424
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6324
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6365
-- slug: 2026-06-18-argentina-plans-citizenship-by-investment-program-for-foreign-investors
-  headline: Argentina plans citizenship-by-investment program for foreign investors
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6448
-- slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
-  headline: Seattle enacts year-long ban on new AI datacenters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6312
-- slug: 2026-05-16-states-fight-utility-rate-hikes-as-ai-expansion-drives-power-company-profits
-  headline: States fight utility rate hikes as AI expansion drives power company profits
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.633
+  strength: 0.677
 - slug: 2026-02-19-argentina-s-milei-heads-to-u-s-amid-trump-pushback-on-china-trade
   headline: Argentina’s Milei heads to U.S. amid Trump pushback on China trade
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6516
-- slug: 2026-03-08-ai-data-centers-drive-high-voltage-transmission-expansion-as-landowners-fight-ba
-  headline: AI data centers drive high-voltage transmission expansion as landowners fight back
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.6493
+  strength: 0.6504
 - slug: 2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-inten
-  headline: Southern Arizona data centers advance as fights over power, water and rates intensify
+  headline: Southern Arizona data centers advance as fights over power, water and
+    rates intensify
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.6514
-- slug: 2026-05-16-ai-boom-sparks-state-battles-over-utility-profits-and-rising-electricity-bills
-  headline: AI boom sparks state battles over utility profits and rising electricity bills
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6272
+  strength: 0.6521
 ---
-
 ## Some Trelew residents say Milei's Patagonia AI data center pitch lacks details
 
 **Subtype:** fact
