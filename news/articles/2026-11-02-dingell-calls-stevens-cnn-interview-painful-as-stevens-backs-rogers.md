@@ -1,9 +1,23 @@
 ---
 headline: Dingell calls Stevens CNN interview ‘painful’ as Stevens backs Rogers
-secondary_headline: El-Sayed dismisses Stevens endorsement as something that does not matter
+secondary_headline: El-Sayed dismisses Stevens endorsement as something that does
+  not matter
 publish_date: '2026-11-02'
-lede: Democratic Rep. Debbie Dingell called Haley Stevens's CNN interview “painful” as Stevens said she was “rock solid” in backing Republican Mike Rogers for Michigan's U.S. Senate seat. Stevens insisted “nothing with me changed” and said, “I still love my party a whole lot.” Chuck Schumer, the top Democrat in the U.S. Senate, called the endorsement “despicable betrayal,” while Stevens said she had “changed my mind” but gave no specific rationale. After quoting Abdul El-Sayed's statement that he did not need her endorsement, Stevens answered “That's fine” and questioned the anger and frustration; El-Sayed said the endorsement did not matter to him.
-nut_graf: BBC News characterized the public feud between centrist Democrat Stevens and left-wing El-Sayed as having boiled over in recent days, and fellow Democrats including Rep. Debbie Dingell criticized Stevens's interview performance. Michigan is considered critical to Democrats' hopes of winning control of Congress in the midterms, and analysts said the party must retain the seat and win a handful of Republican-held seats to control the Senate and try to challenge President Donald Trump in his final two years.
+lede: Democratic Rep. Debbie Dingell called Haley Stevens's CNN interview “painful”
+  as Stevens said she was “rock solid” in backing Republican Mike Rogers for Michigan's
+  U.S. Senate seat. Stevens insisted “nothing with me changed” and said, “I still
+  love my party a whole lot.” Chuck Schumer, the top Democrat in the U.S. Senate,
+  called the endorsement “despicable betrayal,” while Stevens said she had “changed
+  my mind” but gave no specific rationale. After quoting Abdul El-Sayed's statement
+  that he did not need her endorsement, Stevens answered “That's fine” and questioned
+  the anger and frustration; El-Sayed said the endorsement did not matter to him.
+nut_graf: BBC News characterized the public feud between centrist Democrat Stevens
+  and left-wing El-Sayed as having boiled over in recent days, and fellow Democrats
+  including Rep. Debbie Dingell criticized Stevens's interview performance. Michigan
+  is considered critical to Democrats' hopes of winning control of Congress in the
+  midterms, and analysts said the party must retain the seat and win a handful of
+  Republican-held seats to control the Senate and try to challenge President Donald
+  Trump in his final two years.
 primary_entities:
 - Haley Stevens
 - Abdul El-Sayed
@@ -44,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +161,45 @@ related_stories:
   headline: Haley Stevens defends switch to Mike Rogers in Michigan Senate race
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8105
+  strength: 0.8117
 - slug: 2026-11-02-haley-stevens-backs-mike-rogers-in-michigan-drawing-democratic-backlash
   headline: Haley Stevens backs Mike Rogers in Michigan, drawing Democratic backlash
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8055
+  strength: 0.8047
 - slug: 2026-11-02-stevens-campaign-chief-says-team-backs-el-sayed-after-reported-departures
   headline: Stevens campaign chief says team backs El-Sayed after reported departures
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7929
+  strength: 0.7913
 - slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
   headline: Democratic divisions surface in Michigan Senate race's final week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7468
+  strength: 0.7455
 - slug: 2026-10-31-el-sayed-asks-haley-stevens-to-stay-away-from-michigan-senate-campaign-events
-  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign events
+  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign
+    events
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7008
+  strength: 0.6998
 - slug: 2026-11-02-trump-calls-el-sayed-a-jihadist-at-iowa-campaign-rally
   headline: Trump calls El-Sayed a 'jihadist' at Iowa campaign rally
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6859
+  strength: 0.683
 - slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
   headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6771
+  strength: 0.6725
 - slug: 2026-10-27-some-michigan-voters-tell-npr-household-costs-outweigh-senate-campaign-rhetoric
-  headline: Some Michigan voters tell NPR household costs outweigh Senate campaign rhetoric
+  headline: Some Michigan voters tell NPR household costs outweigh Senate campaign
+    rhetoric
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6533
-- slug: 2026-10-19-el-sayed-turns-heckler-s-muslim-brotherhood-question-into-viral-moment
-  headline: El-Sayed turns heckler's Muslim Brotherhood question into viral moment
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6973
-- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
-  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.663
-- slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
-  headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6596
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6782
-- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
-  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6543
-- slug: 2026-09-01-vance-tells-rogers-rally-el-sayed-is-very-very-evil-over-usha-vance-remarks
-  headline: Vance tells Rogers rally El-Sayed is 'very, very evil' over Usha Vance remarks
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6907
-- slug: 2026-08-29-mike-rogers-fundraising-email-says-he-saw-bin-laden-s-body-with-own-eyes
-  headline: Mike Rogers' fundraising email says he saw Bin Laden's body with 'own eyes'
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.658
-- slug: 2026-08-25-el-sayed-sits-for-lengthy-fox-news-interview-with-jesse-watters
-  headline: El-Sayed sits for lengthy Fox News interview with Jesse Watters
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6608
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6496
-- slug: 2026-08-01-michigan-senate-primary-tests-democratic-party-s-direction
-  headline: Michigan Senate primary tests Democratic Party's direction
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6818
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.669
-- slug: 2026-08-09-el-sayed-says-he-spoke-with-obama-hopes-he-campaigns-in-michigan
-  headline: El-Sayed says he spoke with Obama, hopes he campaigns in Michigan
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6556
+  strength: 0.6515
 ---
-
 ## Dingell calls Stevens CNN interview ‘painful’ as Stevens backs Rogers
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Habeas releases do not prevent renewed ICE detention for some immigrants
-secondary_headline: Judges in three states have threatened or imposed contempt on immigration authorities
+secondary_headline: Judges in three states have threatened or imposed contempt on
+  immigration authorities
 publish_date: '2026-11-02'
-lede: U.S. Immigration and Customs Enforcement has re-detained immigrants who won release orders in federal habeas corpus cases, according to a review of court records, attorneys and media reports that identified at least 20 cases nationwide in the last year. Federal judges in Louisiana, Pennsylvania and Minnesota have held immigration authorities in contempt or threatened to do so over the repeat detentions.
-nut_graf: 'Habeas petitions ask federal courts to review the government''s right to hold people in immigration detention, and federal judges are responding to repeat detentions with contempt rulings and notice requirements. The reporting documents a gap between the relief detainees obtain and its enforcement: release orders have not kept some of those people out of custody. Susanna Booth''s practice prepares second petitions immediately before clients are moved to another state, and two clients were released after second filings.'
+lede: U.S. Immigration and Customs Enforcement has re-detained immigrants who won
+  release orders in federal habeas corpus cases, according to a review of court records,
+  attorneys and media reports that identified at least 20 cases nationwide in the
+  last year. Federal judges in Louisiana, Pennsylvania and Minnesota have held immigration
+  authorities in contempt or threatened to do so over the repeat detentions.
+nut_graf: 'Habeas petitions ask federal courts to review the government''s right to
+  hold people in immigration detention, and federal judges are responding to repeat
+  detentions with contempt rulings and notice requirements. The reporting documents
+  a gap between the relief detainees obtain and its enforcement: release orders have
+  not kept some of those people out of custody. Susanna Booth''s practice prepares
+  second petitions immediately before clients are moved to another state, and two
+  clients were released after second filings.'
 primary_entities:
 - U.S. Immigration and Customs Enforcement
 - The Guardian
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,37 +158,32 @@ related_stories:
   headline: ProPublica tallies 500+ cases of U.S. citizens detained by agents
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6997
+  strength: 0.6995
 - slug: 2026-10-13-immigrants-sue-ice-alleging-agency-withheld-documents-after-release
   headline: Immigrants sue ICE, alleging agency withheld documents after release
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6989
+  strength: 0.6996
 - slug: 2026-10-06-propublica-documents-over-500-u-s-citizens-detained-by-immigration-agents
   headline: ProPublica documents over 500 U.S. citizens detained by immigration agents
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7189
+  strength: 0.7178
 - slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
   headline: ICE removes detainees with final removal orders from online locator
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7222
-- slug: 2026-09-21-three-journalists-describe-arrests-and-deportation-by-ice
-  headline: Three journalists describe arrests and deportation by ICE
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6869
+  strength: 0.723
 - slug: 2026-09-03-lawyers-mobilize-to-free-migrant-children-held-in-us-custody
   headline: Lawyers mobilize to free migrant children held in US custody
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6986
+  strength: 0.6987
 - slug: 2026-02-28-trump-administration-orders-new-scrutiny-of-admitted-refugees
   headline: Trump administration orders new scrutiny of admitted refugees
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.7565
+  strength: 0.7556
 - slug: 2026-05-08-second-appeals-court-rejects-trump-s-no-bond-immigration-detentions
   headline: Second appeals court rejects Trump’s no-bond immigration detentions
   publish_date: '2026-05-08'
@@ -186,64 +193,8 @@ related_stories:
   headline: Judges say Trump immigration cases are overwhelming federal courts
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.7416
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.695
-- slug: 2026-04-29-2nd-circuit-rejects-trump-no-bond-detentions-case-may-go-to-supreme-court
-  headline: 2nd Circuit rejects Trump no-bond detentions; case may go to Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7212
-- slug: 2026-02-10-prolonged-ice-detention-rises-in-trump-s-second-term-advocates-say
-  headline: Prolonged ICE detention rises in Trump’s second term, advocates say
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7224
-- slug: 2026-02-19-new-trump-order-could-lead-to-arrest-of-tens-of-thousands-of-refugees
-  headline: New Trump order could lead to arrest of tens of thousands of refugees
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7215
-- slug: 2026-01-29-trump-signals-easing-immigration-tensions-but-enforcement-continues-in-minneapol
-  headline: Trump signals easing immigration tensions, but enforcement continues in Minneapolis
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7192
-- slug: 2026-02-20-federal-judge-slams-trump-immigration-crackdown-in-scathing-ruling
-  headline: Federal judge slams Trump immigration crackdown in scathing ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7161
-- slug: 2026-02-28-judge-extends-order-protecting-minnesota-refugees-from-arrest-and-deportation
-  headline: Judge extends order protecting Minnesota refugees from arrest and deportation
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7103
-- slug: 2026-05-26-no-bond-immigrant-policy-echoed-in-tacoma-before-nationwide-rollout
-  headline: No-bond immigrant policy echoed in Tacoma before nationwide rollout
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6862
-- slug: 2026-02-08-fifth-circuit-backs-trump-administration-on-immigrant-detention-without-bond
-  headline: Fifth Circuit backs Trump administration on immigrant detention without bond
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7107
-- slug: 2026-03-27-appeals-court-sides-with-trump-administration-on-detaining-immigrants-without-bo
-  headline: Appeals court sides with Trump administration on detaining immigrants without bond
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7035
-- slug: 2026-03-27-judge-extends-order-for-immigrant-attorney-access-in-minnesota
-  headline: Judge extends order for immigrant attorney access in Minnesota
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7002
+  strength: 0.7413
 ---
-
 ## Habeas releases do not prevent renewed ICE detention for some immigrants
 
 **Subtype:** fact

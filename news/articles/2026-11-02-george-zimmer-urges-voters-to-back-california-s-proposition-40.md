@@ -2,8 +2,16 @@
 headline: George Zimmer urges voters to back California’s Proposition 40
 secondary_headline: Zimmer cites migration data and venture funding to rebut opponents
 publish_date: '2026-11-02'
-lede: George Zimmer, a member of Patriotic Millionaires who says he is wealthy but not a billionaire, is urging California voters to approve Proposition 40 on Tuesday. The one-time measure would impose a 5% tax on the net worth of about 250 California billionaires. Organizers estimate it would raise roughly $100bn, mostly for health care.
-nut_graf: Zimmer’s case rests on his assertion that opponents have overestimated the risk of wealthy residents leaving California and the danger to the state’s innovation economy. He argues that Proposition 40 would instead add progressive revenue for health care, while opponents argue that a departure of billionaires could weaken California’s tax base.
+lede: George Zimmer, a member of Patriotic Millionaires who says he is wealthy but
+  not a billionaire, is urging California voters to approve Proposition 40 on Tuesday.
+  The one-time measure would impose a 5% tax on the net worth of about 250 California
+  billionaires. Organizers estimate it would raise roughly $100bn, mostly for health
+  care.
+nut_graf: Zimmer’s case rests on his assertion that opponents have overestimated the
+  risk of wealthy residents leaving California and the danger to the state’s innovation
+  economy. He argues that Proposition 40 would instead add progressive revenue for
+  health care, while opponents argue that a departure of billionaires could weaken
+  California’s tax base.
 primary_entities:
 - George Zimmer
 - California
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,107 +147,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-31-newsom-leads-opposition-to-california-billionaire-tax-democratic-voters-favor
-  headline: Newsom leads opposition to California billionaire tax Democratic voters favor
+  headline: Newsom leads opposition to California billionaire tax Democratic voters
+    favor
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7701
+  strength: 0.7706
 - slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
   headline: Proposition 40 aims to raise $100 billion for California health care
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.799
-- slug: 2026-10-27-estate-tax-liability-change-precedes-migration-among-forbes-400-billionaires
-  headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7412
+  strength: 0.7986
 - slug: 2026-10-29-four-professors-await-tuesday-vote-on-california-wealth-tax-they-drafted
   headline: Four professors await Tuesday vote on California wealth tax they drafted
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7271
+  strength: 0.727
+- slug: 2026-10-27-estate-tax-liability-change-precedes-migration-among-forbes-400-billionaires
+  headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.7392
 - slug: 2026-10-29-billionaires-opposing-prop-40-offer-tax-code-alternatives
   headline: Billionaires opposing Prop. 40 offer tax-code alternatives
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7225
+  strength: 0.7236
 - slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
-  headline: Building a Better California has raised over $333 million against billionaire tax
+  headline: Building a Better California has raised over $333 million against billionaire
+    tax
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.755
+  strength: 0.7549
 - slug: 2026-10-30-california-voters-weigh-governor-race-billionaire-tax-in-tuesday-election
   headline: California voters weigh governor race, billionaire tax in Tuesday election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6928
+  strength: 0.6922
 - slug: 2026-10-30-union-leader-s-crazy-idea-drives-california-billionaire-tax-fight
   headline: Union leader's 'crazy' idea drives California billionaire-tax fight
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6925
-- slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7397
-- slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
-  headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7418
-- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
-  headline: California’s billionaire tax divides Democrats ahead of November vote
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6769
-- slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
-  headline: Newsom backs Prop. 42 barring new California wealth taxes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7372
-- slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
-  headline: Zuckerberg commits to California stay for eight years under new Meta deal
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6773
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6784
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7568
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7393
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7413
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7628
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7336
-- slug: 2026-02-19-california-proposal-to-tax-billionaires-pits-newsom-against-sanders
-  headline: California proposal to tax billionaires pits Newsom against Sanders
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7327
+  strength: 0.6921
 ---
-
 ## George Zimmer urges voters to back California’s Proposition 40
 
 **Subtype:** fact
