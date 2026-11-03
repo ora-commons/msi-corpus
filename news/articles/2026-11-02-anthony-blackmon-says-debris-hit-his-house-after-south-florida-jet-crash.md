@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-09-08'
   relation: related
   strength: 0.6626
+analyses:
+- '2026-11-02-investigators-pursue-evidence-as-the-south-florida-jet-crash-cause-remains-unres'
 ---
 ## Anthony Blackmon says debris hit his house after South Florida jet crash
 
@@ -237,3 +239,8 @@ Amy Taxin reported from Santa Ana, California, and Associated Press transportati
 **Publication date:** 2026-11-02
 **Title:** Officials set to provide update on jet crash that killed 9 in South Florida
 **URL:** https://apnews.com/article/florida-deadly-plane-crash-fireball-233076d167e2f48eaef7965376dd8ee0
+
+---
+
+<!-- analysis-link:2026-11-02-investigators-pursue-evidence-as-the-south-florida-jet-crash-cause-remains-unres -->
+**Going deeper:** [Read MSI's analysis of the unresolved South Florida crash inquiry →](/analyses/2026-11-02-investigators-pursue-evidence-as-the-south-florida-jet-crash-cause-remains-unres)
