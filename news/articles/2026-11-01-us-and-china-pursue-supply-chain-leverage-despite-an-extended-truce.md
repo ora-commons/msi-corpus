@@ -207,6 +207,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-01-washington-and-beijing-keep-supply-chain-leverage-active-beneath-the-tariff-truc'
 ---
 ## US and China pursue supply-chain leverage despite an extended truce
 
@@ -261,3 +263,8 @@ The larger shift Porter describes is not simply a pause in tariff exchanges. He 
 **Publication date:** 2026-11-01
 **Title:** The US-China trade war seems to have subsided – but the sense of calm is misleading
 **URL:** https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi
+
+---
+
+<!-- analysis-link:2026-11-01-washington-and-beijing-keep-supply-chain-leverage-active-beneath-the-tariff-truc -->
+**Going deeper:** [Read MSI's analysis of Supply-chain leverage beneath the truce →](/analyses/2026-11-01-washington-and-beijing-keep-supply-chain-leverage-active-beneath-the-tariff-truc)

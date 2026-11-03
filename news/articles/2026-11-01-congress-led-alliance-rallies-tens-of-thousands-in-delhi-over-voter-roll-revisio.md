@@ -1,9 +1,18 @@
 ---
-headline: Congress-led alliance rallies tens of thousands in Delhi over voter-roll revision
+headline: Congress-led alliance rallies tens of thousands in Delhi over voter-roll
+  revision
 secondary_headline: A million-person forecast met a turnout marked by empty seats
 publish_date: '2026-11-01'
-lede: Tens of thousands of opposition supporters rallied in Delhi on Sunday against Narendra Modi's government, with the gathering led by the Congress party and its allies in the Indian National Developmental Inclusive Alliance, which uses the acronym India. The protest focused on a large-scale revision of India's voter roll that the opposition says erased 130 million names and gave the ruling Bharatiya Janata Party an electoral advantage, allegations the BJP denies.
-nut_graf: The rally placed the disputed revision at the center of a broader opposition challenge to Modi. The Guardian said turnout below Congress's forecast illustrated the alliance's continuing difficulty presenting itself as a viable challenger to the government.
+lede: Tens of thousands of opposition supporters rallied in Delhi on Sunday against
+  Narendra Modi's government, with the gathering led by the Congress party and its
+  allies in the Indian National Developmental Inclusive Alliance, which uses the acronym
+  India. The protest focused on a large-scale revision of India's voter roll that
+  the opposition says erased 130 million names and gave the ruling Bharatiya Janata
+  Party an electoral advantage, allegations the BJP denies.
+nut_graf: The rally placed the disputed revision at the center of a broader opposition
+  challenge to Modi. The Guardian said turnout below Congress's forecast illustrated
+  the alliance's continuing difficulty presenting itself as a viable challenger to
+  the government.
 primary_entities:
 - Rahul Gandhi
 - Narendra Modi
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +163,18 @@ related_stories:
   headline: Opposition plans supreme court march as Delhi police close six metro stations
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7895
+  strength: 0.788
 - slug: 2026-10-16-thousands-rally-in-new-delhi-demanding-election-chief-s-resignation
   headline: Thousands rally in New Delhi demanding election chief's resignation
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7167
-- slug: 2026-10-31-ucla-analysis-finds-42-of-doj-flagged-california-voter-names-missing-from-rolls
-  headline: UCLA analysis finds 42% of DOJ-flagged California voter names missing from rolls
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6099
+  strength: 0.716
 - slug: 2026-10-10-indian-authorities-detain-thousands-ahead-of-new-delhi-youth-protest
   headline: Indian authorities detain thousands ahead of New Delhi youth protest
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7157
-- slug: 2026-10-29-justice-department-appeals-ruling-on-california-s-disputed-ballots
-  headline: Justice Department appeals ruling on California's disputed ballots
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.586
-- slug: 2026-10-28-federal-judge-says-doj-lost-all-26-voter-cases-cut-nevada-claim-to-185
-  headline: Federal judge says DOJ lost all 26 voter cases, cut Nevada claim to 185
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5706
-- slug: 2026-10-20-dhs-says-voter-roll-figures-overstated-noncitizen-numbers
-  headline: DHS says voter-roll figures overstated noncitizen numbers
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6181
-- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
-  headline: California ballot dispute reaches 9th Circuit
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5722
-- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
-  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5697
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.574
-- slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
-  headline: Appeals panel questions DOJ bid to set aside California ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5731
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5706
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5899
-- slug: 2026-10-19-doj-charges-28-california-green-card-holders-over-alleged-illegal-voting
-  headline: DOJ charges 28 California green card holders over alleged illegal voting
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5677
-- slug: 2026-10-15-doj-has-lost-every-federal-ruling-sought-in-voter-records-cases-against-states
-  headline: DOJ has lost every federal ruling sought in voter-records cases against states
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5705
-- slug: 2026-08-28-rss-chief-bhagwat-s-nyc-event-draws-protests-and-mayoral-denunciation
-  headline: RSS chief Bhagwat's NYC event draws protests and mayoral denunciation
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5812
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6076
-- slug: 2026-06-07-indian-judge-s-cockroach-remark-sparks-gen-z-political-movement
-  headline: Indian judge's 'cockroach' remark sparks Gen Z political movement
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5833
-- slug: 2026-05-16-civil-rights-leaders-plan-alabama-rally-to-defend-black-voting-power
-  headline: Civil rights leaders plan Alabama rally to defend Black voting power
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5766
-- slug: 2026-05-01-voting-rights-ruling-puts-black-caucus-on-edge-as-districts-could-be-redrawn
-  headline: Voting rights ruling puts Black caucus on edge as districts could be redrawn
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5758
+  strength: 0.7147
 ---
-
 ## Congress-led alliance rallies tens of thousands in Delhi over voter-roll revision
 
 **Subtype:** fact

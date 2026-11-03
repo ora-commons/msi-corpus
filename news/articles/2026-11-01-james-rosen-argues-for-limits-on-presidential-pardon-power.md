@@ -1,9 +1,23 @@
 ---
 headline: James Rosen argues for limits on presidential pardon power
-secondary_headline: George Mason warned delegates that broad clemency power could shield presidential wrongdoing
+secondary_headline: George Mason warned delegates that broad clemency power could
+  shield presidential wrongdoing
 publish_date: '2026-11-01'
-lede: The Guardian published an opinion column by James Rosen on November 1, 2026, arguing that the Constitution's broad presidential pardon power should have been limited. Rosen said President Donald Trump pardoned more than 1,500 people who stormed the US Capitol on January 6, 2021, and cited accounts by the New York Times, Wall Street Journal and 60 Minutes that Trump had overseen a "robust pardons market" in which friends or relatives of criminals offered to pay millions for presidential clemency.
-nut_graf: Rosen's column linked the current clemency debate to the 1787 Constitutional Convention, where delegates rejected George Mason's effort to restrict presidential pardons and declined his request to exclude treason. He cited public polling in which a large majority of Americans called Trump's pardoning of violent insurrectionists wrong, and he used earlier presidential pardons to argue that Trump's use of the power differed from prior precedents. Rosen attributed the account that Trump oversaw a market for clemency, in which friends or relatives of criminals offered to pay millions, to the New York Times, Wall Street Journal and 60 Minutes.
+lede: The Guardian published an opinion column by James Rosen on November 1, 2026,
+  arguing that the Constitution's broad presidential pardon power should have been
+  limited. Rosen said President Donald Trump pardoned more than 1,500 people who stormed
+  the US Capitol on January 6, 2021, and cited accounts by the New York Times, Wall
+  Street Journal and 60 Minutes that Trump had overseen a "robust pardons market"
+  in which friends or relatives of criminals offered to pay millions for presidential
+  clemency.
+nut_graf: Rosen's column linked the current clemency debate to the 1787 Constitutional
+  Convention, where delegates rejected George Mason's effort to restrict presidential
+  pardons and declined his request to exclude treason. He cited public polling in
+  which a large majority of Americans called Trump's pardoning of violent insurrectionists
+  wrong, and he used earlier presidential pardons to argue that Trump's use of the
+  power differed from prior precedents. Rosen attributed the account that Trump oversaw
+  a market for clemency, in which friends or relatives of criminals offered to pay
+  millions, to the New York Times, Wall Street Journal and 60 Minutes.
 primary_entities:
 - James Rosen
 - Donald Trump
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +155,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-23-doj-opens-gun-rights-restoration-to-ex-felons-25-million-may-qualify
-  headline: DOJ opens gun rights restoration to ex-felons, 25 million may qualify
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6381
 - slug: 2026-06-01-pardoned-jan-6-defendants-pursue-payouts-from-trump-s-1-776-billion-fund
-  headline: Pardoned Jan. 6 defendants pursue payouts from Trump’s $1.776 billion fund
+  headline: Pardoned Jan. 6 defendants pursue payouts from Trump’s $1.776 billion
+    fund
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.706
+  strength: 0.7068
 - slug: 2026-07-04-trump-pardons-11-people-including-nine-convicted-under-clean-air-act
   headline: Trump pardons 11 people, including nine convicted under Clean Air Act
   publish_date: '2026-07-04'
   relation: related
-  strength: 0.6562
+  strength: 0.6561
 - slug: 2026-06-07-trump-won-t-rule-out-anti-weaponization-fund-for-jan-6-rioters-who-attacked-poli
-  headline: Trump won't rule out 'anti-weaponization' fund for Jan. 6 rioters who attacked police
+  headline: Trump won't rule out 'anti-weaponization' fund for Jan. 6 rioters who
+    attacked police
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.675
+  strength: 0.6749
 - slug: 2026-01-04-capitol-officers-say-jan-6-struggles-persist-five-years-on-deepened-by-trump-par
-  headline: Capitol officers say Jan. 6 struggles persist five years on, deepened by Trump pardons
+  headline: Capitol officers say Jan. 6 struggles persist five years on, deepened
+    by Trump pardons
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.7006
-- slug: 2026-07-02-trump-declares-there-are-no-limits-to-his-power
-  headline: Trump declares 'there are no limits' to his power
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6443
+  strength: 0.7004
 - slug: 2026-05-27-justice-department-removes-jan-6-news-releases-calls-them-partisan-propaganda
-  headline: Justice Department removes Jan. 6 news releases, calls them 'partisan propaganda'
+  headline: Justice Department removes Jan. 6 news releases, calls them 'partisan
+    propaganda'
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6618
-- slug: 2026-06-11-trump-and-house-allies-push-to-expunge-his-two-impeachments
-  headline: Trump and House allies push to 'expunge' his two impeachments
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6455
+  strength: 0.6622
 - slug: 2026-06-02-trump-s-1-78-billion-anti-weaponization-fund-faces-mounting-legal-and-political-
-  headline: Trump's $1.78 billion anti-weaponization fund faces mounting legal and political opposition
+  headline: Trump's $1.78 billion anti-weaponization fund faces mounting legal and
+    political opposition
   publish_date: '2026-06-02'
   relation: related
   strength: 0.6507
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6291
-- slug: 2026-06-14-jpmorgan-fraud-convict-charlie-javice-seeks-pardon-from-trump
-  headline: JPMorgan fraud convict Charlie Javice seeks pardon from Trump
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6391
-- slug: 2026-06-17-january-6-defendants-seek-millions-in-compensation-through-obscure-federal-claim
-  headline: January 6 defendants seek millions in compensation through obscure federal claims process
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6307
-- slug: 2026-05-23-republicans-defy-trump-on-proposed-1-776b-jan-6-compensation-fund
-  headline: Republicans defy Trump on proposed $1.776B Jan. 6 compensation fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6419
-- slug: 2026-06-02-ilhan-omar-says-trump-pardons-conflict-with-his-anti-fraud-posture
-  headline: Ilhan Omar says Trump pardons conflict with his anti-fraud posture
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6316
 - slug: 2026-02-05-man-pardoned-in-capitol-riot-pleads-guilty-to-threatening-hakeem-jeffries
   headline: Man pardoned in Capitol riot pleads guilty to threatening Hakeem Jeffries
   publish_date: '2026-02-05'
   relation: related
-  strength: 0.6604
-- slug: 2026-05-22-former-prosecutor-and-acquitted-professor-sue-to-block-1-776b-trump-anti-weaponi
-  headline: Former prosecutor and acquitted professor sue to block $1.776B Trump 'anti-weaponization' fund
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6311
-- slug: 2026-03-18-man-charged-with-pipe-bombs-seeks-dismissal-under-trump-s-pardons
-  headline: Man charged with pipe bombs seeks dismissal under Trump’s pardons
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6416
-- slug: 2026-01-15-house-gop-s-new-jan-6-committee-holds-first-hearing-amid-clashes-over-attack-his
-  headline: House GOP's new Jan. 6 committee holds first hearing amid clashes over attack history
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6447
-- slug: 2026-03-05-trump-pardoned-jan-6-rioter-andrew-johnson-gets-life-sentence
-  headline: Trump pardoned Jan. 6 rioter Andrew Johnson gets life sentence
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6388
-- slug: 2026-01-06-trump-addresses-house-gop-with-meandering-speech-as-majority-shrinks-to-new-low
-  headline: Trump addresses House GOP with meandering speech as majority shrinks to new low
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6331
+  strength: 0.6607
 ---
-
 ## James Rosen argues for limits on presidential pardon power
 
 **Subtype:** fact

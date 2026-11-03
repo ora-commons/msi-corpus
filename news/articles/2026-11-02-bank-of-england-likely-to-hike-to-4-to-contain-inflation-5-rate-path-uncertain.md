@@ -1,9 +1,22 @@
 ---
-headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path uncertain
-secondary_headline: Inflation forecast could peak above 4%, suggesting an early-year rate increase
+headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path
+  uncertain
+secondary_headline: Inflation forecast could peak above 4%, suggesting an early-year
+  rate increase
 publish_date: '2026-11-02'
-lede: Economists expect the Bank of England to raise its key interest rate to 4% from 3.75% on Thursday to help contain a pickup in inflation as the war between the U.S. and Iran has lifted energy prices. Officials are also expected to raise their inflation forecast, which could peak above 4% in the early months of next year. The higher forecast suggests the Bank of England may lift its key rate again early in the new year, while economists expect officials to avoid endorsing market expectations that the key rate will peak at 5%. Some Monetary Policy Committee members are likely to vote Thursday to leave the rate unchanged at 3.75%.
-nut_graf: An anticipated January increase in home-energy prices feeds into the inflation forecast. Higher energy bills could prompt workers to seek larger pay raises in negotiations starting in early 2027, and those negotiations could affect the eventual peak in the key rate. A Bank of England survey found businesses expect slower wage growth over the coming 12 months, while 71% expect the war to narrow profit margins.
+lede: Economists expect the Bank of England to raise its key interest rate to 4% from
+  3.75% on Thursday to help contain a pickup in inflation as the war between the U.S.
+  and Iran has lifted energy prices. Officials are also expected to raise their inflation
+  forecast, which could peak above 4% in the early months of next year. The higher
+  forecast suggests the Bank of England may lift its key rate again early in the new
+  year, while economists expect officials to avoid endorsing market expectations that
+  the key rate will peak at 5%. Some Monetary Policy Committee members are likely
+  to vote Thursday to leave the rate unchanged at 3.75%.
+nut_graf: An anticipated January increase in home-energy prices feeds into the inflation
+  forecast. Higher energy bills could prompt workers to seek larger pay raises in
+  negotiations starting in early 2027, and those negotiations could affect the eventual
+  peak in the key rate. A Bank of England survey found businesses expect slower wage
+  growth over the coming 12 months, while 71% expect the war to narrow profit margins.
 primary_entities:
 - Bank of England
 - Monetary Policy Committee
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,99 +166,39 @@ related_stories:
   headline: OBR cuts UK growth forecast as energy prices lift inflation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7582
+  strength: 0.7581
 - slug: 2026-10-14-boe-s-pill-questions-need-for-full-percentage-point-of-rate-hikes
   headline: BOE's Pill questions need for full percentage point of rate hikes
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7811
+  strength: 0.7808
 - slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
+  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to
+    4%
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.8692
+  strength: 0.8686
 - slug: 2026-09-17-bank-of-england-holds-rate-at-3-75-while-fed-ecb-raise-theirs
   headline: Bank of England holds rate at 3.75% while Fed, ECB raise theirs
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.8327
+  strength: 0.8323
 - slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
   headline: Rising energy bills and inflation test Burnham's economic agenda
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7722
+  strength: 0.7718
 - slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
   headline: UK inflation rises to 3.1% in August as fuel prices surge
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7958
+  strength: 0.7954
 - slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
   headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7734
-- slug: 2026-09-03-boe-s-pill-argues-war-uncertainty-supports-rate-hike
-  headline: BOE's Pill argues war uncertainty supports rate hike
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.8018
-- slug: 2026-09-10-ecb-lifts-rate-to-2-5-projects-3-inflation-this-year
-  headline: ECB lifts rate to 2.5%, projects 3% inflation this year
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7714
-- slug: 2026-07-26-economists-warn-oil-surge-could-force-bank-of-england-rate-hikes
-  headline: Economists warn oil surge could force Bank of England rate hikes
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.8466
-- slug: 2026-09-13-fed-boe-and-boj-weigh-rate-hikes-as-oil-pushed-past-100
-  headline: Fed, BoE and BoJ weigh rate hikes as oil pushed past $100
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7354
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.8764
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7674
-- slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
-  headline: Central banks face inflation risks as energy prices threaten weak growth
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.7576
-- slug: 2026-04-29-bank-of-england-other-central-banks-pause-rates-as-iran-war-reshapes-outlook
-  headline: Bank of England, other central banks pause rates as Iran war reshapes outlook
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.8234
-- slug: 2026-02-05-bank-of-england-holds-rates-at-3-75-as-inflation-nears-2-target
-  headline: Bank of England holds rates at 3.75% as inflation nears 2% target
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.8333
-- slug: 2026-06-18-bank-of-england-leaves-rates-unchanged-signals-caution-on-hormuz-opening
-  headline: Bank of England Leaves Rates Unchanged, Signals Caution on Hormuz Opening
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7942
-- slug: 2026-04-30-bank-of-england-keeps-rates-on-hold-as-iran-war-scrambles-projections
-  headline: Bank of England keeps rates on hold as Iran war scrambles projections
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.8183
-- slug: 2026-06-17-uk-inflation-holds-at-2-8-in-may-defying-forecast-rise-to-3
-  headline: UK inflation holds at 2.8% in May, defying forecast rise to 3%
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7685
+  strength: 0.7733
 ---
-
 ## Bank of England likely to hike to 4% to contain inflation, 5% rate path uncertain
 
 **Subtype:** fact
