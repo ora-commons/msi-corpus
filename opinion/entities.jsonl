@@ -1029,6 +1029,7 @@
 {"entity": "US Treasury", "article_count": 3, "first_seen": "2026-08-24", "last_seen": "2026-09-10", "articles": ["2026-08-24-house-cartoon-the-hand-on-the-dial", "2026-09-03-prudence-wonk-commentisfree-2026-sep-03-trump-federal-", "2026-09-10-prudence-wonk-business-2026-sep-10-bond-market-higher-"]}
 {"entity": "USAID", "article_count": 3, "first_seen": "2026-08-01", "last_seen": "2026-09-01", "articles": ["2026-08-01-judas-i-mather-us-news-2026-aug-01-brazil-usaid-funding", "2026-08-12-ashley-wagner-26-aug-12-us-tax-dollars-rightwing-europ", "2026-09-01-house-cartoon-criminal-organization-real-lives"]}
 {"entity": "UnidosUS", "article_count": 3, "first_seen": "2026-09-19", "last_seen": "2026-09-19", "articles": ["2026-09-19-ashley-wagner-us-news-2026-sep-19-hispanic-voters-supp", "2026-09-19-barb-mcgowan-us-news-2026-sep-19-hispanic-voters-supp", "2026-09-19-hector-paired-with-2026-09-19-ashley-wagner-us-news-2026-sep-19-hispanic-voters-supp"]}
+{"entity": "Unite", "article_count": 3, "first_seen": "2026-09-29", "last_seen": "2026-11-02", "articles": ["2026-09-29-carla-marks--rayner-lucy-powell-bridget-phillipson-u", "2026-10-18-house-cartoon-100-for-your-speakers-0-for-the-worker-s-black-eye", "2026-11-02-james-big-jim-zebedee-nair-considers-pay-freezes-reducing-crew"]}
 {"entity": "United Auto Workers", "article_count": 3, "first_seen": "2026-08-01", "last_seen": "2026-09-18", "articles": ["2026-08-01-diklis-chump-litics-elections-michigans-primary-democ", "2026-08-01-house-cartoon-the-workers-party-brought-to-you-by-aipac", "2026-09-18-barb-mcgowan-us-news-2026-sep-18-autozone-new-york-un"]}
 {"entity": "United Farm Workers", "article_count": 3, "first_seen": "2026-08-06", "last_seen": "2026-08-06", "articles": ["2026-08-06-hayzeus-l-salvador-us-news-2026-aug-06-ice-latino-border-ag", "2026-08-06-hector-paired-with-2026-08-06-hayzeus-l-salvador-us-news-2026-aug-06-ice-latino-border-ag", "2026-08-06-judas-i-mather-us-news-2026-aug-06-ice-latino-border-ag"]}
 {"entity": "United Press International", "article_count": 3, "first_seen": "2026-08-29", "last_seen": "2026-09-15", "articles": ["2026-08-29-hector-paired-with-2026-08-29-james-big-jim-zebedee-voices-2026-08-29-perspective-deal-not-s", "2026-08-29-james-big-jim-zebedee-voices-2026-08-29-perspective-deal-not-s", "2026-09-15-thomas-reynolds-026-09-15-why-supreme-court-blocked-trum"]}
@@ -2249,7 +2250,6 @@
 {"entity": "Ulrich Siegmund", "article_count": 2, "first_seen": "2026-09-07", "last_seen": "2026-09-07", "articles": ["2026-09-07-hector-paired-with-2026-09-07-ruth-justice--sep-07-first-thing-elon-musk-german-far", "2026-09-07-ruth-justice--sep-07-first-thing-elon-musk-german-far"]}
 {"entity": "Ulysses S. Grant", "article_count": 2, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "articles": ["2026-07-12-hector-paired-with-2026-07-12-thomas-reynolds-mentisfree-2026-jul-12-stephen-miller-bi", "2026-07-12-thomas-reynolds-mentisfree-2026-jul-12-stephen-miller-bi"]}
 {"entity": "Union College", "article_count": 2, "first_seen": "2026-09-25", "last_seen": "2026-09-25", "articles": ["2026-09-25-ashley-wagner-us-news-education-college-tuition-cuts-c", "2026-09-25-barb-mcgowan-us-news-education-college-tuition-cuts-c"]}
-{"entity": "Unite", "article_count": 2, "first_seen": "2026-09-29", "last_seen": "2026-10-18", "articles": ["2026-09-29-carla-marks--rayner-lucy-powell-bridget-phillipson-u", "2026-10-18-house-cartoon-100-for-your-speakers-0-for-the-worker-s-black-eye"]}
 {"entity": "United Federation of Teachers", "article_count": 2, "first_seen": "2026-08-29", "last_seen": "2026-08-29", "articles": ["2026-08-29-ashley-wagner-mamdani-clashes-with-teachers-union-citi", "2026-08-29-house-cartoon-the-stump-and-the-lawsuit"]}
 {"entity": "United Food and Commercial Workers International Union", "article_count": 2, "first_seen": "2026-09-09", "last_seen": "2026-09-09", "articles": ["2026-09-09-ashley-wagner-us-news-2026-sep-09-electronic-shelf-lab", "2026-09-09-barb-mcgowan-us-news-2026-sep-09-electronic-shelf-lab"]}
 {"entity": "United States Central Command", "article_count": 2, "first_seen": "2026-08-22", "last_seen": "2026-08-22", "articles": ["2026-08-22-house-cartoon-he-said-so-now-it-s-american", "2026-08-22-mimi-blockade-renamed"]}
@@ -2707,6 +2707,7 @@
 {"entity": "Bob Brooks", "article_count": 1, "first_seen": "2026-10-21", "last_seen": "2026-10-21", "articles": ["2026-10-21-ashley-wagner-election-2026-candidates-pa-7th-congress"]}
 {"entity": "Bobby Allyn", "article_count": 1, "first_seen": "2026-08-28", "last_seen": "2026-08-28", "articles": ["2026-08-28-wendell-burke-nx-s1-5945290-fake-poll-meridian-stratgies-kalshi-"]}
 {"entity": "Bobby Dean", "article_count": 1, "first_seen": "2026-10-03", "last_seen": "2026-10-03", "articles": ["2026-10-03-ruth-justice-business-2026-oct-03-uk-polymarket-hsbc-"]}
+{"entity": "Boeing 737 Max 10", "article_count": 1, "first_seen": "2026-11-02", "last_seen": "2026-11-02", "articles": ["2026-11-02-james-big-jim-zebedee-nair-considers-pay-freezes-reducing-crew"]}
 {"entity": "Boiler Juice", "article_count": 1, "first_seen": "2026-10-12", "last_seen": "2026-10-12", "articles": ["2026-10-12-mimi-we-re-helping-terms-and-conditions-apply-this-winter"]}
 {"entity": "Bolliger & Mabillard", "article_count": 1, "first_seen": "2026-10-14", "last_seen": "2026-10-14", "articles": ["2026-10-14-house-cartoon-the-pledge-and-the-lap-bar"]}
 {"entity": "Bonnie Glaser", "article_count": 1, "first_seen": "2026-05-17", "last_seen": "2026-05-17", "articles": ["2026-05-17-diklis-chump-trump-china-summit-boeing"]}
@@ -4368,6 +4369,7 @@
 {"entity": "Michael McCaul", "article_count": 1, "first_seen": "2026-08-30", "last_seen": "2026-08-30", "articles": ["2026-08-30-house-cartoon-the-smoking-gun-was-missing"]}
 {"entity": "Michael Morell", "article_count": 1, "first_seen": "2026-09-11", "last_seen": "2026-09-11", "articles": ["2026-09-11-house-cartoon-the-transparency-is-the-indictment"]}
 {"entity": "Michael Nachmanoff", "article_count": 1, "first_seen": "2026-10-06", "last_seen": "2026-10-06", "articles": ["2026-10-06-ruth-justice-us-news-2026-oct-06-cia-official-gold-ba"]}
+{"entity": "Michael O’Leary", "article_count": 1, "first_seen": "2026-11-02", "last_seen": "2026-11-02", "articles": ["2026-11-02-james-big-jim-zebedee-nair-considers-pay-freezes-reducing-crew"]}
 {"entity": "Michael Pettis", "article_count": 1, "first_seen": "2026-09-15", "last_seen": "2026-09-15", "articles": ["2026-09-15-wendell-burke-les-china-can-avoid-a-financial-crisis-i"]}
 {"entity": "Michael Roth", "article_count": 1, "first_seen": "2026-09-04", "last_seen": "2026-09-04", "articles": ["2026-09-04-ashley-wagner-nx-s1-5955592-wesleyan-university-president-on-adm"]}
 {"entity": "Michael S Brown", "article_count": 1, "first_seen": "2026-10-03", "last_seen": "2026-10-03", "articles": ["2026-10-03-mark-paulson-us-news-2026-oct-03-diesel-prices-midwes"]}
@@ -4644,6 +4646,7 @@
 {"entity": "Old City of Jerusalem", "article_count": 1, "first_seen": "2026-08-27", "last_seen": "2026-08-27", "articles": ["2026-08-27-joanna-rivera-blackwell-israel-christians-nun-attack-jerusalem-6"]}
 {"entity": "Oliver Larkin", "article_count": 1, "first_seen": "2026-08-14", "last_seen": "2026-08-14", "articles": ["2026-08-14-malcolm-little-king-s-news-2026-aug-14-oliver-larkin-democra"]}
 {"entity": "Oliver Milman", "article_count": 1, "first_seen": "2026-10-21", "last_seen": "2026-10-21", "articles": ["2026-10-21-mary-magdalena-us-news-2026-oct-21-extreme-weather-surv"]}
+{"entity": "Oliver Richardson", "article_count": 1, "first_seen": "2026-11-02", "last_seen": "2026-11-02", "articles": ["2026-11-02-james-big-jim-zebedee-nair-considers-pay-freezes-reducing-crew"]}
 {"entity": "Olivia Davis", "article_count": 1, "first_seen": "2026-09-05", "last_seen": "2026-09-05", "articles": ["2026-09-05-stewart-letterkenski-nx-s1-5913671-ai-data-center-campaign-spending"]}
 {"entity": "Olivia Y. v. Barbour", "article_count": 1, "first_seen": "2026-08-04", "last_seen": "2026-08-04", "articles": ["2026-08-04-mary-magdalena-mississippi-foster-care-safety-requireme"]}
 {"entity": "Olivier Blanchard", "article_count": 1, "first_seen": "2026-10-31", "last_seen": "2026-10-31", "articles": ["2026-10-31-prudence-wonk-economy-fiscal-hawks-national-debt-midte"]}
@@ -5012,6 +5015,7 @@
 {"entity": "Ryan Warkentin", "article_count": 1, "first_seen": "2026-09-14", "last_seen": "2026-09-14", "articles": ["2026-09-14-house-cartoon-same-hand-two-stories"]}
 {"entity": "Ryan Yamane", "article_count": 1, "first_seen": "2026-07-31", "last_seen": "2026-07-31", "articles": ["2026-07-31-ruth-justice-hawaii-officials-bribery-charges"]}
 {"entity": "Ryan Zinke", "article_count": 1, "first_seen": "2026-09-06", "last_seen": "2026-09-06", "articles": ["2026-09-06-house-cartoon-efficiency"]}
+{"entity": "Ryanair", "article_count": 1, "first_seen": "2026-11-02", "last_seen": "2026-11-02", "articles": ["2026-11-02-james-big-jim-zebedee-nair-considers-pay-freezes-reducing-crew"]}
 {"entity": "S&P 100", "article_count": 1, "first_seen": "2026-10-01", "last_seen": "2026-10-01", "articles": ["2026-10-01-wendell-burke-news-articles-c6je85jzk9y7o"]}
 {"entity": "S-RM", "article_count": 1, "first_seen": "2026-10-11", "last_seen": "2026-10-11", "articles": ["2026-10-11-house-cartoon-peace-of-mind-target-lock"]}
 {"entity": "SAVE plan", "article_count": 1, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "articles": ["2026-07-01-barb-mcgowan-us-news-2026-jul-01-trump-biden-student-"]}
