@@ -1,9 +1,25 @@
 ---
 headline: Storyful verifies crash footage; authorities move residents to shelters
-secondary_headline: FAA says NTSB will investigate; Bombardier supports inquiry and extends condolences
+secondary_headline: FAA says NTSB will investigate; Bombardier supports inquiry and
+  extends condolences
 publish_date: '2026-11-02'
-lede: Social media videos verified by Storyful, which is owned by News Corp, the parent company of The Wall Street Journal, showed a business jet crashing into the ground, exploding in a fireball and leaving a large crater in the road. Authorities were relocating residents of a mobile home park near the crash site to shelters as the investigation continued. Bombardier separately offered condolences and said it would support and cooperate with authorities investigating the crash; a company representative said it could not comment on a potential cause while the investigation was ongoing. Authorities said the Learjet 60 crashed near Cresthaven, Florida, on Sunday, killing all nine people aboard; Florida Gov. Ron DeSantis said debris from the crash spread over a significant distance.
-nut_graf: The additional details document both the visible crash and the response near the impact site. Storyful-verified footage showed the impact, fireball and crater in the road, while authorities were relocating residents of a nearby mobile home park to shelters. Bombardier offered condolences and pledged cooperation with the investigation, while a company representative said it could not comment on a potential cause while the investigation was ongoing; the FAA said federal aviation authorities, including the National Transportation Safety Board, would investigate.
+lede: Social media videos verified by Storyful, which is owned by News Corp, the parent
+  company of The Wall Street Journal, showed a business jet crashing into the ground,
+  exploding in a fireball and leaving a large crater in the road. Authorities were
+  relocating residents of a mobile home park near the crash site to shelters as the
+  investigation continued. Bombardier separately offered condolences and said it would
+  support and cooperate with authorities investigating the crash; a company representative
+  said it could not comment on a potential cause while the investigation was ongoing.
+  Authorities said the Learjet 60 crashed near Cresthaven, Florida, on Sunday, killing
+  all nine people aboard; Florida Gov. Ron DeSantis said debris from the crash spread
+  over a significant distance.
+nut_graf: The additional details document both the visible crash and the response
+  near the impact site. Storyful-verified footage showed the impact, fireball and
+  crater in the road, while authorities were relocating residents of a nearby mobile
+  home park to shelters. Bombardier offered condolences and pledged cooperation with
+  the investigation, while a company representative said it could not comment on a
+  potential cause while the investigation was ongoing; the FAA said federal aviation
+  authorities, including the National Transportation Safety Board, would investigate.
 primary_entities:
 - Storyful
 - News Corp
@@ -50,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,11 +180,6 @@ related_stories:
   publish_date: '2026-11-02'
   relation: related
   strength: 0.736
-- slug: 2026-10-05-latitude-pledges-full-cooperation-after-nantucket-medical-flight-crash
-  headline: Latitude pledges full cooperation after Nantucket medical flight crash
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6316
 - slug: 2026-09-16-five-la-residents-died-across-two-chatsworth-crashes-bass-says
   headline: Five LA residents died across two Chatsworth crashes, Bass says
   publish_date: '2026-09-16'
@@ -178,28 +190,15 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6533
-- slug: 2026-09-16-nbc4-names-journalist-pilot-among-three-killed-in-helicopter-crash
-  headline: NBC4 names journalist, pilot among three killed in helicopter crash
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6457
-- slug: 2026-09-16-moreno-marciniw-have-been-flying-together-since-2023-nbc4-says
-  headline: Moreno, Marciniw have been flying together since 2023, NBC4 says
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.644
-- slug: 2026-07-06-ntsb-says-full-butler-skydiving-crash-report-months-away-after-ruling-out-engine
-  headline: NTSB says full Butler skydiving crash report months away after ruling out engine failure
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6298
 - slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
+  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were
+    rescued
   publish_date: '2026-05-13'
   relation: related
   strength: 0.6546
 - slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
+  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver
+    runway
   publish_date: '2026-05-09'
   relation: related
   strength: 0.6508
@@ -208,48 +207,7 @@ related_stories:
   publish_date: '2026-03-24'
   relation: related
   strength: 0.6571
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6448
-- slug: 2026-05-18-business-jet-crashes-during-maine-takeoff-killing-six
-  headline: Business jet crashes during Maine takeoff, killing six
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6385
-- slug: 2026-03-24-passengers-escape-after-air-canada-jet-collides-with-fire-truck-at-laguardia
-  headline: Passengers escape after Air Canada jet collides with fire truck at LaGuardia
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6434
-- slug: 2026-03-25-what-to-know-about-the-laguardia-runway-collision-between-jet-and-fire-truck
-  headline: What to know about the LaGuardia runway collision between jet and fire truck
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
-  headline: 10 rescued after small plane crashes in Bahamian waters off Florida
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6286
-- slug: 2026-03-24-jet-collides-with-fire-truck-at-laguardia-killing-air-canada-crew
-  headline: Jet collides with fire truck at LaGuardia, killing Air Canada crew
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6421
-- slug: 2026-01-14-thieves-burglarize-greg-biffle-s-north-carolina-home-weeks-after-fatal-plane-cra
-  headline: Thieves burglarize Greg Biffle's North Carolina home weeks after fatal plane crash
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6478
-- slug: 2026-01-26-six-die-as-business-jet-crashes-during-maine-takeoff-in-snowstorm
-  headline: Six die as business jet crashes during Maine takeoff in snowstorm
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.645
 ---
-
 ## Storyful verifies crash footage; authorities move residents to shelters
 
 **Subtype:** fact
