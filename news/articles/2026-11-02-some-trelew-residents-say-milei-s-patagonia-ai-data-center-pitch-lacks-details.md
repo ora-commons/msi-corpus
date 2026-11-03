@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-01-09'
   relation: related
   strength: 0.6521
+analyses:
+- '2026-11-02-green-capital-s-patagonia-campus-remains-a-3-billion-plan-without-an-anchor-cust'
 ---
 ## Some Trelew residents say Milei's Patagonia AI data center pitch lacks details
 
@@ -226,3 +228,8 @@ Sáenz said, “Whenever a foreign company wants to make a major investment in A
 **Publication date:** 2026-11-02
 **Title:** Argentina's Milei pitches Patagonia as AI data center haven as backlash grows in US and Europe
 **URL:** https://apnews.com/article/argentina-data-center-milei-trump-openai-patagonia-a8fab1ac14d1ea9c7992f8797099fb32
+
+---
+
+<!-- analysis-link:2026-11-02-green-capital-s-patagonia-campus-remains-a-3-billion-plan-without-an-anchor-cust -->
+**Going deeper:** [Read MSI's analysis of Patagonia data-center readiness →](/analyses/2026-11-02-green-capital-s-patagonia-campus-remains-a-3-billion-plan-without-an-anchor-cust)
