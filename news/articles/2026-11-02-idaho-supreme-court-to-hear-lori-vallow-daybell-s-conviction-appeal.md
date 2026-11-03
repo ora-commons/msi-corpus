@@ -1,9 +1,19 @@
 ---
 headline: Idaho Supreme Court to hear Lori Vallow Daybell’s conviction appeal
-secondary_headline: Defense raises speedy-trial, choice-of-counsel and jury-evidence issues
+secondary_headline: Defense raises speedy-trial, choice-of-counsel and jury-evidence
+  issues
 publish_date: '2026-11-02'
-lede: The Idaho Supreme Court is scheduled to hear Lori Vallow Daybell’s appeal of her Idaho convictions for killing her two youngest children and conspiring to murder a romantic rival. The Associated Press reported that the hearing is set for Monday and that Vallow Daybell is asking the court to reverse convictions in the deaths of Joshua “JJ” Vallow, Tylee Ryan and Tammy Daybell.
-nut_graf: The Idaho appeal concerns Vallow Daybell’s convictions for killing her two youngest children and conspiring to murder a romantic rival. Vallow Daybell received three life sentences in Idaho, while Chad Daybell received a death sentence for the three killings. Vallow Daybell also received two life sentences in Arizona for conspiring to murder her estranged husband and her niece’s ex-husband, who survived. She has appealed those convictions.
+lede: The Idaho Supreme Court is scheduled to hear Lori Vallow Daybell’s appeal of
+  her Idaho convictions for killing her two youngest children and conspiring to murder
+  a romantic rival. The Associated Press reported that the hearing is set for Monday
+  and that Vallow Daybell is asking the court to reverse convictions in the deaths
+  of Joshua “JJ” Vallow, Tylee Ryan and Tammy Daybell.
+nut_graf: The Idaho appeal concerns Vallow Daybell’s convictions for killing her two
+  youngest children and conspiring to murder a romantic rival. Vallow Daybell received
+  three life sentences in Idaho, while Chad Daybell received a death sentence for
+  the three killings. Vallow Daybell also received two life sentences in Arizona for
+  conspiring to murder her estranged husband and her niece’s ex-husband, who survived.
+  She has appealed those convictions.
 primary_entities:
 - Idaho Supreme Court
 - Lori Vallow Daybell
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,109 +156,8 @@ cross_article_links:
   strength: 0.5941
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-01-lindsay-clancy-returns-to-court-as-lawyers-debate-dismissal-and-retrial
-  headline: Lindsay Clancy returns to court as lawyers debate dismissal and retrial
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.587
-- slug: 2026-10-13-federal-hate-crimes-trial-opens-in-buffalo-supermarket-attack-that-killed-10
-  headline: Federal hate-crimes trial opens in Buffalo supermarket attack that killed 10
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5879
-- slug: 2026-09-29-clancy-s-lawyers-seek-acquittal-cite-double-jeopardy-after-mistrial
-  headline: Clancy's lawyers seek acquittal, cite double jeopardy after mistrial
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6082
-- slug: 2026-09-21-patrick-clancy-describes-events-before-children-s-killings-on-60-minutes
-  headline: Patrick Clancy describes events before children's killings on 60 Minutes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5918
-- slug: 2026-09-08-reddington-plans-motion-to-reconsider-clancy-mistrial-later-this-month
-  headline: Reddington plans motion to reconsider Clancy mistrial later this month
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6125
-- slug: 2026-08-26-hippler-reserves-june-2027-for-possible-kohberger-plea-withdrawal-hearing
-  headline: Hippler reserves June 2027 for possible Kohberger plea withdrawal hearing
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6355
-- slug: 2026-09-04-judge-declares-mistrial-in-clancy-murder-trial-after-jury-deadlock
-  headline: Judge declares mistrial in Clancy murder trial after jury deadlock
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6024
-- slug: 2026-08-26-lindsay-clancy-jury-to-begin-deliberations-after-five-week-murder-trial
-  headline: Lindsay Clancy jury to begin deliberations after five-week murder trial
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6148
-- slug: 2026-07-27-kohberger-claims-innocence-moves-to-withdraw-guilty-plea-in-idaho-killings
-  headline: Kohberger claims innocence, moves to withdraw guilty plea in Idaho killings
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6279
-- slug: 2026-07-20-judge-to-rule-on-pamela-smart-s-petition-for-new-trial
-  headline: Judge to rule on Pamela Smart’s petition for new trial
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6064
-- slug: 2026-07-06-idaho-mother-charged-with-murder-of-twin-18-month-olds
-  headline: Idaho mother charged with murder of twin 18-month-olds
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6125
-- slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6051
-- slug: 2026-07-13-robert-tulloch-convicted-in-dartmouth-killings-seeks-reduced-life-sentence
-  headline: Robert Tulloch, convicted in Dartmouth killings, seeks reduced life sentence
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5992
-- slug: 2026-07-15-idaho-judge-revokes-bond-for-mother-charged-with-twins-deaths
-  headline: Idaho judge revokes bond for mother charged with twins' deaths
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5961
-- slug: 2026-06-29-judge-sets-april-2027-retrial-date-for-alex-murdaugh
-  headline: Judge sets April 2027 retrial date for Alex Murdaugh
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6107
-- slug: 2026-07-13-robert-tulloch-seeks-reduced-sentence-for-2001-dartmouth-killings
-  headline: Robert Tulloch seeks reduced sentence for 2001 Dartmouth killings
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5891
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5906
-- slug: 2026-06-30-charlie-kirk-s-family-to-attend-preliminary-hearing-in-murder-case
-  headline: Charlie Kirk's family to attend preliminary hearing in murder case
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5884
-- slug: 2026-04-04-former-death-row-inmate-asks-utah-judge-to-dismiss-case-for-retrial
-  headline: Former death row inmate asks Utah judge to dismiss case for retrial
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6163
-- slug: 2026-05-19-alex-murdaugh-sues-clerk-whose-conduct-overturned-murder-convictions
-  headline: Alex Murdaugh sues clerk whose conduct overturned murder convictions
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5998
+related_stories: []
 ---
-
 ## Idaho Supreme Court to hear Lori Vallow Daybell’s conviction appeal
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Trump says Iran would receive ‘the hammer’ without progress
 secondary_headline: Reports say Khamenei granted government powers for U.S. talks
 publish_date: '2026-11-02'
-lede: Donald Trump told voters in Iowa on Sunday that Iran would receive “the hammer” unless there was progress. On Monday, reports said Iran’s supreme leader, Mojtaba Khamenei, had granted “powers” to his government in talks with the United States seeking to end the eight-month Middle East war. Iranian Foreign Minister Abbas Araghchi said mediated consultations were intensive and depended on the political rationality of Washington.
-nut_graf: Reports that Iran’s supreme leader had granted his government “powers” for U.S. talks cheered investors, while Trump said Iran could receive “the hammer” without progress. Oil prices fell after Iran said contacts between the two countries were continuing, sending airline shares higher and pushing down government borrowing costs. The Strait of Hormuz remained largely closed on Monday.
+lede: Donald Trump told voters in Iowa on Sunday that Iran would receive “the hammer”
+  unless there was progress. On Monday, reports said Iran’s supreme leader, Mojtaba
+  Khamenei, had granted “powers” to his government in talks with the United States
+  seeking to end the eight-month Middle East war. Iranian Foreign Minister Abbas Araghchi
+  said mediated consultations were intensive and depended on the political rationality
+  of Washington.
+nut_graf: Reports that Iran’s supreme leader had granted his government “powers” for
+  U.S. talks cheered investors, while Trump said Iran could receive “the hammer” without
+  progress. Oil prices fell after Iran said contacts between the two countries were
+  continuing, sending airline shares higher and pushing down government borrowing
+  costs. The Strait of Hormuz remained largely closed on Monday.
 primary_entities:
 - Donald Trump
 - Mojtaba Khamenei
@@ -52,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,116 +161,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-02-trump-says-iran-would-receive-the-hammer-without-progress.png
-  alt: 'Illustration accompanying article: Trump says Iran would receive ‘the hammer’ without progress'
+  alt: 'Illustration accompanying article: Trump says Iran would receive ‘the hammer’
+    without progress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7653
+  strength: 0.7655
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7571
+  strength: 0.7576
 - slug: 2026-09-23-three-hour-qatari-mediated-iran-us-talks-at-un-end-without-position-shift
   headline: Three-hour Qatari-mediated Iran-US talks at UN end without position shift
   publish_date: '2026-09-23'
   relation: related
   strength: 0.7653
-- slug: 2026-08-20-oil-prices-extend-rally-as-trump-announces-unprecedented-iran-sanctions
-  headline: Oil prices extend rally as Trump announces unprecedented Iran sanctions
-  publish_date: '2026-08-20'
+- slug: 2026-08-10-trump-returns-to-iran-economic-pressure-as-war-deadlock-persists
+  headline: Trump returns to Iran economic pressure as war deadlock persists
+  publish_date: '2026-08-10'
   relation: related
-  strength: 0.7531
+  strength: 0.7538
 - slug: 2026-05-10-trump-declares-iran-ceasefire-on-life-support-as-hormuz-stays-shut
   headline: Trump declares Iran ceasefire on 'life support' as Hormuz stays shut
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7903
+  strength: 0.7904
 - slug: 2026-03-24-trump-says-iran-is-eager-for-a-deal-extends-deadline-for-hormuz
   headline: Trump says Iran is eager for a deal, extends deadline for Hormuz
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.7997
+  strength: 0.801
 - slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
   headline: Trump weighs all-out Iran war options, opts to stick with talks
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7551
+  strength: 0.7559
 - slug: 2026-06-12-iran-denies-finalizing-peace-deal-with-us-contradicting-trump-s-claim
   headline: Iran denies finalizing peace deal with US, contradicting Trump's claim
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7674
-- slug: 2026-04-20-trump-offers-mixed-messages-about-us-war-against-iran
-  headline: Trump offers mixed messages about US war against Iran
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7879
-- slug: 2026-03-10-trump-says-iran-war-could-be-over-soon-warns-on-strait-of-hormuz-oil
-  headline: Trump says Iran war could be over soon, warns on Strait of Hormuz oil
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7933
-- slug: 2026-06-23-trump-s-iran-war-aims-shift-as-u-s-signs-deal-with-iran
-  headline: Trump's Iran war aims shift as U.S. signs deal with Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7534
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7625
-- slug: 2026-05-19-trump-s-pressure-campaign-isn-t-moving-iran-as-talks-stay-stalled
-  headline: Trump’s pressure campaign isn’t moving Iran as talks stay stalled
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7702
-- slug: 2026-03-27-trump-delays-threat-on-iran-power-plants-citing-talks-progress-to-april-6
-  headline: Trump delays threat on Iran power plants, citing talks progress to April 6
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7838
-- slug: 2026-03-24-trump-says-u-s-and-iran-are-in-talks-iran-denies-white-house-talks
-  headline: Trump says U.S. and Iran are in talks; Iran denies White House talks
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7812
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7546
-- slug: 2026-05-10-iran-sends-cease-fire-response-trump-rejects-it-as-totally-unacceptable
-  headline: Iran sends cease-fire response; Trump rejects it as ‘totally unacceptable’
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7597
-- slug: 2026-05-18-trump-pressure-campaign-hits-wall-with-iran-during-strait-of-hormuz-standoff
-  headline: Trump pressure campaign hits wall with Iran during Strait of Hormuz standoff
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7554
-- slug: 2026-03-24-stocks-rally-and-oil-sinks-after-trump-hints-at-possible-end-to-iran-war
-  headline: Stocks rally and oil sinks after Trump hints at possible end to Iran war
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7699
-- slug: 2026-04-20-iran-s-ceasefire-offer-sidesteps-nuclear-issue-as-talks-stall
-  headline: Iran's ceasefire offer sidesteps nuclear issue as talks stall
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.754
+  strength: 0.7677
 ---
-
 ## Trump says Iran would receive ‘the hammer’ without progress
 
 **Subtype:** fact

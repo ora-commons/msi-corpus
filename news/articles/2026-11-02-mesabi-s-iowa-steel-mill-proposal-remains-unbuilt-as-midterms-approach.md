@@ -2,8 +2,20 @@
 headline: Mesabi's Iowa steel mill proposal remains unbuilt as midterms approach
 secondary_headline: A Wever resident invokes Foxconn amid Mesabi project skepticism
 publish_date: '2026-11-02'
-lede: Donald Trump announced in late September that Mesabi Metallics would invest $15 billion in what he said would be the country’s largest steel mill in Iowa. By November 2, as Tuesday’s midterm elections approached, The Guardian reported that word had spread in Wever, population 142, that the mill would be built nearby. Mesabi had not named a site, and there were no shovels in the dirt, job-site workers or machinery on the dirt roads leading toward the Mississippi River. Mesabi spokesman Charles Sutton said the company remained on track to produce steel by 2030 in eastern Iowa.
-nut_graf: The proposal offered a potential jobs and investment boost for southeastern Iowa, according to the White House, but the gap between an Oval Office announcement and visible work on the ground remained central to local debate. Candidates from both parties welcomed the potential development, while labor representatives and some residents remained skeptical; Mesabi had not named a site or resolved negotiations with the county.
+lede: Donald Trump announced in late September that Mesabi Metallics would invest
+  $15 billion in what he said would be the country’s largest steel mill in Iowa. By
+  November 2, as Tuesday’s midterm elections approached, The Guardian reported that
+  word had spread in Wever, population 142, that the mill would be built nearby. Mesabi
+  had not named a site, and there were no shovels in the dirt, job-site workers or
+  machinery on the dirt roads leading toward the Mississippi River. Mesabi spokesman
+  Charles Sutton said the company remained on track to produce steel by 2030 in eastern
+  Iowa.
+nut_graf: The proposal offered a potential jobs and investment boost for southeastern
+  Iowa, according to the White House, but the gap between an Oval Office announcement
+  and visible work on the ground remained central to local debate. Candidates from
+  both parties welcomed the potential development, while labor representatives and
+  some residents remained skeptical; Mesabi had not named a site or resolved negotiations
+  with the county.
 primary_entities:
 - Donald Trump
 - Mesabi Metallics
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,12 +164,12 @@ related_stories:
   headline: Trump to unveil $15 billion Mesabi Metallics steel mill in Iowa
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8782
+  strength: 0.8787
 - slug: 2026-10-07-iowa-approves-1-36bn-in-incentives-for-mesabi-steel-plant-amid-skepticism
   headline: Iowa approves $1.36bn in incentives for Mesabi steel plant amid skepticism
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8325
+  strength: 0.832
 - slug: 2026-10-12-iowa-steel-and-philadelphia-shipyard-projects-face-labor-and-pricing-hurdles
   headline: Iowa steel and Philadelphia shipyard projects face labor and pricing hurdles
   publish_date: '2026-10-12'
@@ -166,89 +179,24 @@ related_stories:
   headline: Trump unveils $15bn Iowa steel plant by Indian-owned Mesabi Metallics
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8317
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6459
-- slug: 2026-10-31-quebec-paper-mill-idles-under-us-tariffs-as-townspeople-fight-to-buy-it-back
-  headline: Quebec paper mill idles under US tariffs as townspeople fight to buy it back
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6205
-- slug: 2026-10-30-trump-reinstates-iowa-and-kansas-rallies-for-sunday-after-cancellations
-  headline: Trump reinstates Iowa and Kansas rallies for Sunday after cancellations
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6231
-- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
-  headline: Trump holds seven rallies across seven states during midterm push
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6294
-- slug: 2026-10-25-audi-sets-2027-construction-start-for-its-macon-plant
-  headline: Audi sets 2027 construction start for its Macon plant
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6345
+  strength: 0.8312
 - slug: 2026-10-21-trump-conditionally-offers-to-settle-veterans-legitimate-camp-lejeune-claims
-  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune claims
+  headline: Trump conditionally offers to settle veterans' legitimate Camp Lejeune
+    claims
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.656
-- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
-  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6252
-- slug: 2026-10-26-trump-draws-generally-smaller-midterm-crowds-on-a-multistate-rally-week
-  headline: Trump draws generally smaller midterm crowds on a multistate rally week
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6227
+  strength: 0.6543
 - slug: 2026-09-29-saudi-arabia-resumes-oil-exports-via-east-west-pipeline
   headline: Saudi Arabia resumes oil exports via East-West pipeline
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6858
+  strength: 0.6868
 - slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
   headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6668
-- slug: 2026-09-16-nyt-siena-poll-democrats-lead-by-nearly-nine-points-as-iowa-battleground-expands
-  headline: 'NYT/Siena poll: Democrats lead by nearly nine points as Iowa battleground expands'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6249
-- slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6248
-- slug: 2026-08-18-trump-cabinet-officials-campaign-in-iowa-to-bolster-vulnerable-republicans
-  headline: Trump cabinet officials campaign in Iowa to bolster vulnerable Republicans
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
-  headline: Iowa Republicans trail in governor's race amid rural economic strain
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6332
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6252
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6269
+  strength: 0.6655
 ---
-
 ## Mesabi's Iowa steel mill proposal remains unbuilt as midterms approach
 
 **Subtype:** fact

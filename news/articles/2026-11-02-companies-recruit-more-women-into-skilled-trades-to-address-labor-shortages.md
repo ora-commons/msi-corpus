@@ -1,8 +1,16 @@
 ---
 headline: Companies recruit more women into skilled trades to address labor shortages
 publish_date: '2026-11-02'
-lede: U.S. companies are recruiting more women into skilled trades, pairing well-paying jobs in high demand with paid maternity leave, flexible schedules, properly sized safety gear and responses to workplace harassment to address labor shortages. The Wall Street Journal reported Nov. 2 that women accounted for about 4.4% of workers in construction and installation and repair as of last year, up from 2.9% a decade earlier.
-nut_graf: The hiring push is about retention as much as recruitment. Companies described paid leave, flexible schedules, worksite amenities, properly fitted protective gear and responses to harassment as measures for making male-dominated occupations more welcoming and retaining women.
+lede: U.S. companies are recruiting more women into skilled trades, pairing well-paying
+  jobs in high demand with paid maternity leave, flexible schedules, properly sized
+  safety gear and responses to workplace harassment to address labor shortages. The
+  Wall Street Journal reported Nov. 2 that women accounted for about 4.4% of workers
+  in construction and installation and repair as of last year, up from 2.9% a decade
+  earlier.
+nut_graf: The hiring push is about retention as much as recruitment. Companies described
+  paid leave, flexible schedules, worksite amenities, properly fitted protective gear
+  and responses to harassment as measures for making male-dominated occupations more
+  welcoming and retaining women.
 primary_entities:
 - Universal Technical Institute
 - Mortenson
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +150,24 @@ related_stories:
   headline: U.S. manufacturers add jobs with higher skill requirements
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.708
+  strength: 0.7093
 - slug: 2026-10-11-u-s-employers-add-29-000-jobs-as-job-searches-take-longer
   headline: U.S. employers add 29,000 jobs as job searches take longer
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6513
-- slug: 2026-09-19-data-center-jobs-pay-42-premium-as-workers-face-public-pushback-on-construction
-  headline: Data center jobs pay 42% premium as workers face public pushback on construction
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6215
-- slug: 2026-09-07-us-unions-gain-411-000-members-in-2025-biggest-jump-since-2008
-  headline: US unions gain 411,000 members in 2025, biggest jump since 2008
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6209
-- slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
-  headline: U.S. employers are expected to add 65,000 jobs in August
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6216
+  strength: 0.653
 - slug: 2026-06-06-big-business-and-philanthropies-pour-400-million-into-skilled-trades-training
-  headline: Big business and philanthropies pour $400 million into skilled trades training
+  headline: Big business and philanthropies pour $400 million into skilled trades
+    training
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.7019
-- slug: 2026-08-06-jobless-benefit-filings-edge-higher-while-layoffs-stay-low
-  headline: Jobless-benefit filings edge higher while layoffs stay low
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6264
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6408
-- slug: 2026-07-21-more-men-enter-nursing-as-demand-grows-and-male-dominated-industries-decline
-  headline: More men enter nursing as demand grows and male-dominated industries decline
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6251
-- slug: 2026-07-15-u-s-warehouse-construction-rebounds-as-developers-restart-projects
-  headline: U.S. warehouse construction rebounds as developers restart projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6231
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6165
+  strength: 0.7042
 - slug: 2026-04-07-custom-fit-demand-rises-but-fewer-tailors-are-left-to-do-the-work
   headline: Custom-fit demand rises, but fewer tailors are left to do the work
   publish_date: '2026-04-07'
   relation: related
-  strength: 0.6661
-- slug: 2026-06-14-us-economy-resilient-through-trade-turmoil-and-energy-shocks-economists-say
-  headline: US economy resilient through trade turmoil and energy shocks, economists say
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6243
-- slug: 2026-06-08-meta-launches-workforce-academy-to-train-data-center-construction-workers
-  headline: Meta launches workforce academy to train data center construction workers
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6236
-- slug: 2026-05-03-building-trades-unions-join-forces-with-tech-giants-in-ai-data-center-push
-  headline: Building trades unions join forces with tech giants in AI data center push
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-10-america-s-four-year-trucking-slump-ends-as-rates-surge
-  headline: America's four-year trucking slump ends as rates surge
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6154
-- slug: 2026-05-10-u-s-hiring-beats-forecasts-in-april-as-job-market-holds-steady-amid-iran-war
-  headline: U.S. hiring beats forecasts in April as job market holds steady amid Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6198
-- slug: 2026-04-11-la-s-community-colleges-race-to-train-construction-workers-for-wildfire-rebuildi
-  headline: LA’s community colleges race to train construction workers for wildfire rebuilding
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6236
-- slug: 2026-03-27-jobless-claims-tick-up-to-210-000-as-employers-keep-hiring-low
-  headline: Jobless claims tick up to 210,000 as employers keep hiring low
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6254
-- slug: 2026-04-04-surprise-jobs-rebound-lifts-us-employment-unemployment-dips-to-4-3
-  headline: Surprise jobs rebound lifts US employment; unemployment dips to 4.3%
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6208
+  strength: 0.6664
 ---
-
 ## Companies recruit more women into skilled trades to address labor shortages
 
 **Subtype:** fact
