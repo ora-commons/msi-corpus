@@ -1,9 +1,18 @@
 ---
 headline: Apple revenue of $114.5 billion tops the FactSet poll average
-secondary_headline: Apple says quarterly earnings included 5 cents per share from tariff refunds
+secondary_headline: Apple says quarterly earnings included 5 cents per share from
+  tariff refunds
 publish_date: '2026-11-02'
-lede: Apple Inc. reported stronger-than-expected fiscal fourth-quarter revenue on November 2, following John Ternus's start as CEO in September. The Cupertino, California-based company generated $114.5 billion in revenue and earned $30.71 billion, or $2.10 per share, in the July-September period. Analysts, on average, expected $1.99 per share on $113.4 billion in revenue, according to a FactSet poll.
-nut_graf: Apple's results ran against disappointing quarterly results at Alphabet, Amazon and Intel. Emarketer analyst Jacob Bourne said Apple's strong earnings came after a tech sell-off as investors questioned the enormous cost and uncertain returns of the AI boom driven by Apple's Big Tech counterparts; he also said record iPhone revenue and strong growth in China demonstrated the resilience of Apple's business.
+lede: Apple Inc. reported stronger-than-expected fiscal fourth-quarter revenue on
+  November 2, following John Ternus's start as CEO in September. The Cupertino, California-based
+  company generated $114.5 billion in revenue and earned $30.71 billion, or $2.10
+  per share, in the July-September period. Analysts, on average, expected $1.99 per
+  share on $113.4 billion in revenue, according to a FactSet poll.
+nut_graf: Apple's results ran against disappointing quarterly results at Alphabet,
+  Amazon and Intel. Emarketer analyst Jacob Bourne said Apple's strong earnings came
+  after a tech sell-off as investors questioned the enormous cost and uncertain returns
+  of the AI boom driven by Apple's Big Tech counterparts; he also said record iPhone
+  revenue and strong growth in China demonstrated the resilience of Apple's business.
 primary_entities:
 - Apple Inc.
 - John Ternus
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +152,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-02-stonex-projects-ai-infrastructure-free-cash-losses-exceed-309-billion-in-2027
+  headline: StoneX projects AI infrastructure free-cash losses exceed $309 billion
+    in 2027
+  publish_date: '2026-11-02'
+  relation: related
+  strength: 0.6843
 - slug: 2026-10-28-alphabet-shares-fall-after-third-quarter-revenue-misses-estimates
   headline: Alphabet shares fall after third-quarter revenue misses estimates
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6756
-- slug: 2026-10-30-nasdaq-loses-nearly-1tn-in-a-week-as-worries-over-ai-returns-grow
-  headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6578
+  strength: 0.6769
 - slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
   headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6612
-- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
-  headline: Wall Street advances as SpaceX beats summer profit expectations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6602
+  strength: 0.6617
 - slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
   headline: SpaceX reports 161% revenue growth driven by Starlink and AI
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6589
+  strength: 0.6602
+- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
+  headline: Wall Street advances as SpaceX beats summer profit expectations
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6601
 - slug: 2026-10-14-apple-unveils-299-homeview-hub-in-ceo-ternus-s-new-product-push
   headline: Apple unveils $299 HomeView hub in CEO Ternus's new product push
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6728
+  strength: 0.6729
 - slug: 2026-09-01-john-ternus-takes-over-as-apple-ceo-from-tim-cook
   headline: John Ternus takes over as Apple CEO from Tim Cook
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7141
+  strength: 0.7128
 - slug: 2026-05-02-apple-beats-revenue-expectations-as-iphone-sales-stay-strong
   headline: Apple beats revenue expectations as iPhone sales stay strong
   publish_date: '2026-05-02'
   relation: related
-  strength: 0.812
-- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6575
-- slug: 2026-07-22-alphabet-reports-112-11-billion-q2-profit-revenue-tops-forecasts
-  headline: Alphabet reports $112.11 billion Q2 profit; revenue tops forecasts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.703
-- slug: 2026-08-14-equity-stake-gains-inflate-amazon-and-alphabet-q2-profit-figures
-  headline: Equity-stake gains inflate Amazon and Alphabet Q2 profit figures
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6606
-- slug: 2026-01-30-apple-iphone-sales-hit-quarterly-record-as-ai-plans-turn-to-google
-  headline: Apple iPhone sales hit quarterly record as AI plans turn to Google
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7586
-- slug: 2026-07-22-tesla-r-d-spending-jumps-49-driving-profit-below-analyst-forecasts
-  headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6679
-- slug: 2026-07-23-alphabet-posts-negative-free-cash-flow-as-ai-capex-heads-to-205bn
-  headline: Alphabet posts negative free cash flow as AI capex heads to $205bn
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6665
-- slug: 2026-07-17-apple-reclaims-most-valuable-company-title-from-nvidia
-  headline: Apple reclaims most valuable company title from Nvidia
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6589
-- slug: 2026-06-20-apple-s-iphone-holds-near-monopoly-on-world-s-wealthiest-buyers
-  headline: Apple's iPhone holds near-monopoly on world's wealthiest buyers
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6812
-- slug: 2026-06-30-s-p-500-net-profit-margin-hits-record-14-8-in-first-quarter
-  headline: S&P 500 net profit margin hits record 14.8% in first quarter
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.669
-- slug: 2026-05-17-apple-appoints-hardware-veteran-john-ternus-as-next-ceo
-  headline: Apple appoints hardware veteran John Ternus as next CEO
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6944
-- slug: 2026-05-02-apple-leads-wall-street-to-more-records-as-oil-prices-pull-back
-  headline: Apple leads Wall Street to more records as oil prices pull back
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6887
-- slug: 2026-02-05-google-s-quarterly-results-show-ad-growth-and-higher-cloud-revenue
-  headline: Google’s quarterly results show ad growth and higher cloud revenue
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6881
+  strength: 0.8116
 ---
-
 ## Apple revenue of $114.5 billion tops the FactSet poll average
 
 **Subtype:** fact

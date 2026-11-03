@@ -2,8 +2,17 @@
 headline: Tanya Chutkan sets rapid deadlines for Trump's Washington arch
 secondary_headline: Government plan describes a structure more than 12 stories high
 publish_date: '2026-11-02'
-lede: U.S. District Judge Tanya Chutkan set one-hour reporting requirements on Monday for decisions by three agencies involved in President Donald Trump’s proposed Washington memorial arch. The order also requires defendants to report construction-related or preparatory activity within 30 minutes and reiterates that construction or demolition in preparation before final National Park Service authorization or without 14 days’ notice would violate earlier court orders. The requirements add judicial oversight rather than a final decision on the project.
-nut_graf: The order matters because the government’s Oct. 28 process set Nov. 5 as the earliest possible construction date. Chutkan has consolidated separate challenges and is considering a preliminary injunction, so the new reporting requirements give the court immediate notice of any agency action while the consolidated case proceeds.
+lede: U.S. District Judge Tanya Chutkan set one-hour reporting requirements on Monday
+  for decisions by three agencies involved in President Donald Trump’s proposed Washington
+  memorial arch. The order also requires defendants to report construction-related
+  or preparatory activity within 30 minutes and reiterates that construction or demolition
+  in preparation before final National Park Service authorization or without 14 days’
+  notice would violate earlier court orders. The requirements add judicial oversight
+  rather than a final decision on the project.
+nut_graf: The order matters because the government’s Oct. 28 process set Nov. 5 as
+  the earliest possible construction date. Chutkan has consolidated separate challenges
+  and is considering a preliminary injunction, so the new reporting requirements give
+  the court immediate notice of any agency action while the consolidated case proceeds.
 primary_entities:
 - Donald Trump
 - Tanya Chutkan
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +159,46 @@ related_stories:
   headline: Judge weighs halting Trump's 250-foot D.C. arch at emergency hearing
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.795
+  strength: 0.7931
 - slug: 2026-10-22-plaintiffs-ask-judge-to-halt-construction-of-trump-s-triumphal-arch-in-d-c
-  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
+  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in
+    D.C.
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8242
+  strength: 0.8227
 - slug: 2026-10-31-dc-and-virginia-sue-to-halt-trump-s-250-foot-arch-as-construction-approval-nears
-  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval nears
+  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval
+    nears
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7141
+  strength: 0.7115
 - slug: 2026-10-31-virginia-and-d-c-sue-to-halt-construction-of-trump-s-250-foot-arch
   headline: Virginia and D.C. sue to halt construction of Trump's 250-foot arch
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6991
+  strength: 0.6971
 - slug: 2026-10-31-d-c-and-virginia-sue-to-block-trump-s-250-foot-arch-near-arlington-cemetery
   headline: D.C. and Virginia sue to block Trump's 250-foot arch near Arlington Cemetery
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.653
+  strength: 0.6502
 - slug: 2026-09-20-judge-orders-48-hour-notice-before-trump-dc-arch-memorial-circle-work
   headline: Judge orders 48-hour notice before Trump DC arch Memorial Circle work
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7896
+  strength: 0.7882
 - slug: 2026-10-09-arlington-county-sues-to-halt-trump-s-250-foot-arch-over-environmental-review
-  headline: Arlington County sues to halt Trump's 250-foot arch over environmental review
+  headline: Arlington County sues to halt Trump's 250-foot arch over environmental
+    review
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.653
+  strength: 0.6505
 - slug: 2026-10-02-dozens-protest-trump-s-250-foot-d-c-arch-at-memorial-circle
   headline: Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6619
-- slug: 2026-09-25-council-ends-trump-arch-preservation-talks-citing-local-impasse
-  headline: Council ends Trump arch preservation talks, citing local impasse
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6465
-- slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
-  headline: Park Service finds Trump 250-foot DC arch would harm historic sites
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6676
-- slug: 2026-09-21-trump-accused-of-manufacturing-national-security-justification-for-dc-arch
-  headline: Trump accused of manufacturing national security justification for DC arch
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6463
-- slug: 2026-09-20-faa-finds-trump-dc-arch-poses-no-reagan-national-flight-hazard
-  headline: FAA finds Trump DC arch poses no Reagan National flight hazard
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6469
-- slug: 2026-09-03-trump-administration-to-begin-excavation-on-250-foot-washington-arch
-  headline: Trump administration to begin excavation on 250-foot Washington arch
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6711
-- slug: 2026-08-06-park-service-lists-37-historic-sites-that-trump-s-250-foot-arch-would-affect
-  headline: Park Service lists 37 historic sites that Trump's 250-foot arch would affect
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6648
-- slug: 2026-07-08-trump-s-250-foot-washington-arch-traces-to-april-2025-essay-by-design-critic
-  headline: Trump's 250-foot Washington arch traces to April 2025 essay by design critic
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6961
-- slug: 2026-08-03-park-service-review-finds-trump-s-arch-would-adversely-affect-about-40-historic-
-  headline: Park Service review finds Trump's arch would adversely affect about 40 historic sites
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6522
-- slug: 2026-07-10-federal-panel-clears-preliminary-approval-for-trump-s-250-foot-arch
-  headline: Federal panel clears preliminary approval for Trump's 250-foot arch
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6704
-- slug: 2026-06-10-veterans-sue-to-block-trump-s-250-foot-arch-near-arlington-national-cemetery
-  headline: Veterans sue to block Trump's 250-foot arch near Arlington National Cemetery
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6555
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-triumphal-arch-in-washington
-  headline: Survey work begins on Trump’s proposed Triumphal Arch in Washington
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6671
-- slug: 2026-05-21-fine-arts-commission-approves-design-for-trump-s-250-foot-washington-arch
-  headline: Fine Arts Commission approves design for Trump's 250-foot Washington arch
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6472
+  strength: 0.6594
 ---
-
 ## Tanya Chutkan sets rapid deadlines for Trump's Washington arch
 
 **Subtype:** fact
