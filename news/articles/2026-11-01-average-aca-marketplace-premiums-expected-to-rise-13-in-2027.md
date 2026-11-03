@@ -1,9 +1,19 @@
 ---
 headline: Average ACA marketplace premiums expected to rise 13% in 2027
-secondary_headline: ACA sign-ups open Sunday in most states; certain lawfully present immigrants face tax-credit limits
+secondary_headline: ACA sign-ups open Sunday in most states; certain lawfully present
+  immigrants face tax-credit limits
 publish_date: '2026-11-01'
-lede: Marketplace sign-ups for Affordable Care Act coverage open Sunday in most states, with enrollment for 2027 expected to bring higher premiums, fewer coverage options and narrowing financial help. KFF, a healthcare research nonprofit, projects average prices for plans bought through the marketplaces will rise 13% in 2027, based on its analysis of new CMS data. The enrollment window runs through Jan. 15.
-nut_graf: The changes land on a base of roughly 19.2 million people actively enrolled in ACA marketplace plans as of February, according to the Department of Health and Human Services website, and follow 1.2 million fewer sign-ups for exchange coverage after enhanced subsidies expired. People who do not qualify for a subsidy face the sharpest price increases, KFF's Cynthia Cox said, and some may not be able to keep their coverage.
+lede: Marketplace sign-ups for Affordable Care Act coverage open Sunday in most states,
+  with enrollment for 2027 expected to bring higher premiums, fewer coverage options
+  and narrowing financial help. KFF, a healthcare research nonprofit, projects average
+  prices for plans bought through the marketplaces will rise 13% in 2027, based on
+  its analysis of new CMS data. The enrollment window runs through Jan. 15.
+nut_graf: The changes land on a base of roughly 19.2 million people actively enrolled
+  in ACA marketplace plans as of February, according to the Department of Health and
+  Human Services website, and follow 1.2 million fewer sign-ups for exchange coverage
+  after enhanced subsidies expired. People who do not qualify for a subsidy face the
+  sharpest price increases, KFF's Cynthia Cox said, and some may not be able to keep
+  their coverage.
 primary_entities:
 - Affordable Care Act
 - KFF
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +160,44 @@ related_stories:
   headline: KFF finds family health insurance premiums average $28,000
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.732
+  strength: 0.7309
 - slug: 2026-10-22-small-business-workers-pay-more-as-employer-health-premiums-climb
   headline: Small-business workers pay more as employer health premiums climb
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6719
+  strength: 0.6682
 - slug: 2026-10-15-cms-reinstates-some-aca-enrollees-cut-in-fraud-review-reviews-419-000-more
-  headline: CMS reinstates some ACA enrollees cut in fraud review, reviews 419,000 more
+  headline: CMS reinstates some ACA enrollees cut in fraud review, reviews 419,000
+    more
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6834
+  strength: 0.6817
 - slug: 2026-10-14-social-security-announces-3-6-benefit-increase-for-2027
   headline: Social Security announces 3.6% benefit increase for 2027
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6596
+  strength: 0.66
 - slug: 2026-10-13-trump-administration-removes-750-000-from-aca-marketplaces
   headline: Trump administration removes 750,000 from ACA marketplaces
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6598
+  strength: 0.6594
 - slug: 2026-09-23-vance-cancels-760-000-aca-enrollees-citing-fraud-projects-2-2b-savings
   headline: Vance cancels 760,000 ACA enrollees citing fraud, projects $2.2B savings
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7108
+  strength: 0.7105
 - slug: 2026-09-25-park-calls-hhs-fraud-analyses-at-best-misleading
   headline: Park calls HHS fraud analyses 'at best misleading'
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6665
+  strength: 0.6661
 - slug: 2026-09-22-vance-task-force-to-cancel-760-000-aca-enrollments-projecting-2-2b-savings
   headline: Vance task force to cancel 760,000 ACA enrollments, projecting $2.2B savings
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6714
-- slug: 2026-07-08-aca-insurers-seek-14-median-premium-increase-for-2027
-  headline: ACA insurers seek 14% median premium increase for 2027
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8278
-- slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
-  headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.8068
-- slug: 2026-09-10-trump-promises-500-obamacare-refunds-to-nearly-1-million-enrollees
-  headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6767
-- slug: 2026-05-20-aca-enrollment-projected-to-drop-sharply-amid-rising-costs
-  headline: ACA Enrollment Projected to Drop Sharply Amid Rising Costs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.8134
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-rise
-  headline: ACA enrollment projected to drop by nearly 5 million as costs rise
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8113
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
-  headline: ACA enrollment projected to drop by nearly 5 million as costs spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8067
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7774
-- slug: 2026-01-13-aca-enrollment-falls-by-800-000-as-enhanced-subsidies-expire
-  headline: ACA enrollment falls by 800,000 as enhanced subsidies expire
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.781
-- slug: 2026-01-15-final-day-to-pick-aca-plans-in-most-states-as-subsidies-lapse
-  headline: Final day to pick ACA plans in most states as subsidies lapse
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7784
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  headline: ACA health subsidies expire, leaving millions facing sharply higher premiums in 2026
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7748
-- slug: 2026-06-27-aca-enrollment-falls-to-19-2-million-as-premium-subsidies-end
-  headline: ACA enrollment falls to 19.2 million as premium subsidies end
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7212
-- slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
-  headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6557
+  strength: 0.6705
 ---
-
 ## Average ACA marketplace premiums expected to rise 13% in 2027
 
 **Subtype:** fact

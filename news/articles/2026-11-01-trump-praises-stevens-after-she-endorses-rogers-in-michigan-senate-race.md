@@ -2,8 +2,22 @@
 headline: Trump praises Stevens after she endorses Rogers in Michigan Senate race
 secondary_headline: Michigan Democrats spent months trying to unite behind El-Sayed
 publish_date: '2026-11-01'
-lede: President Donald Trump praised Haley Stevens on Sunday after she endorsed Republican Mike Rogers for the U.S. Senate in Michigan, calling the congresswoman “a Highly Respected Democrat” and saying her support among Black and Jewish voters was “virtually unprecedented.” House Speaker Mike Johnson said he spoke with Stevens after the endorsement and “encouraged her to stay safe and keep speaking the truth,” while Republican National Committee spokesman Hunter Lovell said Democrats who feel abandoned by Abdul El-Sayed “have a home” with Rogers. The responses came less than 48 hours before Election Day, as Michigan Democrats who had spent months trying to unite behind El-Sayed confronted Stevens’s endorsement.
-nut_graf: Rogers, a former congressman, is seeking the U.S. Senate seat held by retiring Democrat Gary Peters, while El-Sayed, a former Michigan public health official, is the Democratic nominee. Holding Michigan in Democratic hands is vital to the party’s effort to win a majority for the final two years of President Donald Trump’s second term. Stevens defeated El-Sayed in Wayne County, which includes Detroit, and neighboring Oakland County in the August primary, although El-Sayed won the primary by a slim margin.
+lede: President Donald Trump praised Haley Stevens on Sunday after she endorsed Republican
+  Mike Rogers for the U.S. Senate in Michigan, calling the congresswoman “a Highly
+  Respected Democrat” and saying her support among Black and Jewish voters was “virtually
+  unprecedented.” House Speaker Mike Johnson said he spoke with Stevens after the
+  endorsement and “encouraged her to stay safe and keep speaking the truth,” while
+  Republican National Committee spokesman Hunter Lovell said Democrats who feel abandoned
+  by Abdul El-Sayed “have a home” with Rogers. The responses came less than 48 hours
+  before Election Day, as Michigan Democrats who had spent months trying to unite
+  behind El-Sayed confronted Stevens’s endorsement.
+nut_graf: Rogers, a former congressman, is seeking the U.S. Senate seat held by retiring
+  Democrat Gary Peters, while El-Sayed, a former Michigan public health official,
+  is the Democratic nominee. Holding Michigan in Democratic hands is vital to the
+  party’s effort to win a majority for the final two years of President Donald Trump’s
+  second term. Stevens defeated El-Sayed in Wayne County, which includes Detroit,
+  and neighboring Oakland County in the August primary, although El-Sayed won the
+  primary by a slim margin.
 primary_entities:
 - Haley Stevens
 - Mike Rogers
@@ -65,7 +79,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -164,116 +179,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-01-trump-praises-stevens-after-she-endorses-rogers-in-michigan-senate-race.png
-  alt: 'Illustration accompanying article: Trump praises Stevens after she endorses Rogers in Michigan Senate race'
+  alt: 'Illustration accompanying article: Trump praises Stevens after she endorses
+    Rogers in Michigan Senate race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-02-haley-stevens-backs-mike-rogers-in-michigan-drawing-democratic-backlash
   headline: Haley Stevens backs Mike Rogers in Michigan, drawing Democratic backlash
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8496
+  strength: 0.8497
 - slug: 2026-11-01-stevens-backs-rogers-less-than-48-hours-before-michigan-senate-election
   headline: Stevens backs Rogers less than 48 hours before Michigan Senate election
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8316
+  strength: 0.8304
 - slug: 2026-11-02-stevens-campaign-chief-says-team-backs-el-sayed-after-reported-departures
   headline: Stevens campaign chief says team backs El-Sayed after reported departures
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8113
+  strength: 0.8109
 - slug: 2026-11-02-haley-stevens-defends-switch-to-mike-rogers-in-michigan-senate-race
   headline: Haley Stevens defends switch to Mike Rogers in Michigan Senate race
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8015
+  strength: 0.8025
 - slug: 2026-11-02-stevens-backs-republican-rogers-a-former-congressman-after-backing-el-sayed
   headline: Stevens backs Republican Rogers, a former congressman, after backing El-Sayed
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8001
+  strength: 0.8002
 - slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
   headline: Democratic divisions surface in Michigan Senate race's final week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8188
+  strength: 0.8182
 - slug: 2026-11-02-trump-calls-el-sayed-a-jihadist-at-iowa-campaign-rally
   headline: Trump calls El-Sayed a 'jihadist' at Iowa campaign rally
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7744
+  strength: 0.7747
 - slug: 2026-11-02-dingell-calls-stevens-cnn-interview-painful-as-stevens-backs-rogers
   headline: Dingell calls Stevens CNN interview ‘painful’ as Stevens backs Rogers
   publish_date: '2026-11-02'
   relation: related
   strength: 0.7734
-- slug: 2026-11-01-stevens-endorses-rogers-as-democratic-divisions-surface-before-the-vote
-  headline: Stevens endorses Rogers as Democratic divisions surface before the vote
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7599
-- slug: 2026-10-31-el-sayed-asks-haley-stevens-to-stay-away-from-michigan-senate-campaign-events
-  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign events
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7613
-- slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
-  headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7409
-- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
-  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7455
-- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
-  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7517
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7271
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7661
-- slug: 2026-10-07-michigan-senate-nominee-rogers-breaks-with-trump-over-canada-tariffs
-  headline: Michigan Senate nominee Rogers breaks with Trump over Canada tariffs
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7455
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7351
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7255
-- slug: 2026-08-01-michigan-senate-primary-tests-democratic-party-s-direction
-  headline: Michigan Senate primary tests Democratic Party's direction
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.8125
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7612
 ---
-
 ## Trump praises Stevens after she endorses Rogers in Michigan Senate race
 
 **Subtype:** fact
