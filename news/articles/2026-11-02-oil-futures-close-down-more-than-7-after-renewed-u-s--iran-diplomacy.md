@@ -2,8 +2,17 @@
 headline: Oil futures close down more than 7% after renewed U.S.-Iran diplomacy
 secondary_headline: Intraday drop neared 10% before final WTI and Brent settlements
 publish_date: '2026-11-02'
-lede: Oil futures sold off sharply on Nov. 2, 2026, as efforts to revive direct U.S.-Iran peace talks reduced the geopolitical risk premium in the market. WTI settled down 7.4% at $96.46 a barrel and Brent fell 7.6% to $104.77 a barrel, producing oil futures' biggest one-day percentage decline since July. Qatari-mediated discussions with Iranian officials raised hopes for negotiations, but concerns about possible U.S. strikes after the midterm elections remained elevated.
-nut_graf: The selloff showed oil traders repricing the risk of prolonged Middle East conflict as diplomatic steps improved the prospect of direct U.S.-Iran talks. Renewed discussions reduced the risk premium, while Goldman Sachs said persistent supply risks and the difficulty of securing a lasting diplomatic breakthrough could sustain an elevated near-term risk premium.
+lede: Oil futures sold off sharply on Nov. 2, 2026, as efforts to revive direct U.S.-Iran
+  peace talks reduced the geopolitical risk premium in the market. WTI settled down
+  7.4% at $96.46 a barrel and Brent fell 7.6% to $104.77 a barrel, producing oil futures'
+  biggest one-day percentage decline since July. Qatari-mediated discussions with
+  Iranian officials raised hopes for negotiations, but concerns about possible U.S.
+  strikes after the midterm elections remained elevated.
+nut_graf: The selloff showed oil traders repricing the risk of prolonged Middle East
+  conflict as diplomatic steps improved the prospect of direct U.S.-Iran talks. Renewed
+  discussions reduced the risk premium, while Goldman Sachs said persistent supply
+  risks and the difficulty of securing a lasting diplomatic breakthrough could sustain
+  an elevated near-term risk premium.
 primary_entities:
 - WTI
 - Brent
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +162,44 @@ related_stories:
   headline: Oil prices fall as renewed U.S.-Iran diplomacy eases supply fears
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8602
+  strength: 0.861
 - slug: 2026-10-29-oil-prices-fall-as-vance-letter-renews-u-s--iran-outreach
   headline: Oil prices fall as Vance letter renews U.S.-Iran outreach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8101
+  strength: 0.8114
 - slug: 2026-10-27-oil-futures-fall-as-traders-weigh-tehran-talks-and-houthi-attack-risks
   headline: Oil futures fall as traders weigh Tehran talks and Houthi attack risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7938
+  strength: 0.7948
 - slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
-  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7917
+  strength: 0.7935
 - slug: 2026-10-28-oil-swings-as-iran-risks-offset-hopes-for-middle-east-diplomacy
   headline: Oil swings as Iran risks offset hopes for Middle East diplomacy
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7782
+  strength: 0.779
 - slug: 2026-10-27-oil-falls-as-traders-weigh-u-s--iran-diplomacy-and-election-risks
   headline: Oil falls as traders weigh U.S.-Iran diplomacy and election risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7612
+  strength: 0.7625
 - slug: 2026-10-26-dhar-says-near-term-inventory-depletion-risks-for-oil-have-declined
   headline: Dhar says near-term inventory-depletion risks for oil have declined
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.762
+  strength: 0.7626
 - slug: 2026-10-19-brent-falls-1-8-as-trump-waives-russia-sanctions
   headline: Brent falls 1.8% as Trump waives Russia sanctions
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7635
-- slug: 2026-10-15-brent-wti-slide-as-iea-says-gulf-crude-shipments-exceed-75-of-prewar-levels
-  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar levels
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7592
-- slug: 2026-10-09-brent-wti-fall-as-trump-appears-to-rule-out-iran-strikes-before-midterms
-  headline: Brent, WTI fall as Trump appears to rule out Iran strikes before midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.787
-- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
-  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7578
-- slug: 2026-09-30-oil-futures-extend-losses-as-persian-gulf-exports-near-2025-average
-  headline: Oil futures extend losses as Persian Gulf exports near 2025 average
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.758
-- slug: 2026-09-23-oil-prices-fall-for-sixth-session-on-saudi-supply-iran-talks
-  headline: Oil prices fall for sixth session on Saudi supply, Iran talks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7673
-- slug: 2026-09-25-natural-gas-futures-jump-9-on-pipeline-leak-oil-falls-on-iran-diplomacy-hopes
-  headline: Natural gas futures jump 9% on pipeline leak; oil falls on Iran diplomacy hopes
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7583
-- slug: 2026-09-23-oil-futures-diverge-as-traders-weigh-us-iran-talks-and-saudi-pipeline-tests
-  headline: Oil futures diverge as traders weigh US-Iran talks and Saudi pipeline tests
-  publish_date: '2026-09-23'
-  relation: related
   strength: 0.7652
-- slug: 2026-09-21-oil-extends-slide-to-fourth-session-on-saudi-pipeline-repairs-iran-hopes
-  headline: Oil extends slide to fourth session on Saudi pipeline repairs, Iran hopes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7581
-- slug: 2026-08-05-crude-oil-futures-fall-on-hopes-of-u-s--iran-deal-to-reopen-strait-of-hormuz
-  headline: Crude oil futures fall on hopes of U.S.-Iran deal to reopen Strait of Hormuz
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7884
-- slug: 2026-08-11-oil-prices-erase-gains-on-u-s--iran-progress-reports
-  headline: Oil prices erase gains on U.S.-Iran progress reports
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7739
-- slug: 2026-08-03-brent-crude-falls-5-2-after-trump-says-iran-talks-will-begin-monday
-  headline: Brent crude falls 5.2% after Trump says Iran talks will begin Monday
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.7624
-- slug: 2026-06-05-oil-prices-fall-iran-talks-supply-cliff-looms
-  headline: Oil falls 2.7% as Iran talks fuel optimism; supply cliff looms
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7996
 ---
-
 ## Oil futures close down more than 7% after renewed U.S.-Iran diplomacy
 
 **Subtype:** fact

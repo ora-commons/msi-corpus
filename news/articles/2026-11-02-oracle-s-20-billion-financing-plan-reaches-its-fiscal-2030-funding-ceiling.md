@@ -2,8 +2,17 @@
 headline: Oracle's $20 billion financing plan reaches its fiscal 2030 funding ceiling
 secondary_headline: Oracle expects capital spending to peak this fiscal year and next
 publish_date: '2026-11-02'
-lede: Oracle plans to raise $20 billion in debt and equity to finance an artificial intelligence infrastructure buildout, according to separate filings with the Securities and Exchange Commission on Monday. The software company is selling $10 billion in common stock and $10 billion in bonds. Oracle said it would use the proceeds for general corporate purposes, with capital expenditures, debt repayment, dividends and future investments or acquisitions among the possible uses.
-nut_graf: The plan would bring Oracle to the $20 billion ceiling on additional capital-market funding through fiscal 2030 that it said last week it would not exceed. Oracle projects capital expenditures will peak this fiscal year and next. The company also described broad uses for the proceeds, so the raise is tied to the data-center buildout and chip purchases without being restricted to artificial intelligence spending.
+lede: Oracle plans to raise $20 billion in debt and equity to finance an artificial
+  intelligence infrastructure buildout, according to separate filings with the Securities
+  and Exchange Commission on Monday. The software company is selling $10 billion in
+  common stock and $10 billion in bonds. Oracle said it would use the proceeds for
+  general corporate purposes, with capital expenditures, debt repayment, dividends
+  and future investments or acquisitions among the possible uses.
+nut_graf: The plan would bring Oracle to the $20 billion ceiling on additional capital-market
+  funding through fiscal 2030 that it said last week it would not exceed. Oracle projects
+  capital expenditures will peak this fiscal year and next. The company also described
+  broad uses for the proceeds, so the raise is tied to the data-center buildout and
+  chip purchases without being restricted to artificial intelligence spending.
 primary_entities:
 - Oracle
 - Securities and Exchange Commission
@@ -35,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -133,108 +143,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-01-openai-raises-less-than-half-its-target-as-ai-funding-cools
-  headline: OpenAI raises less than half its target as AI funding cools
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6412
-- slug: 2026-10-31-lenders-and-investors-demand-tighter-terms-as-ai-financing-strains-mount
-  headline: Lenders and investors demand tighter terms as AI financing strains mount
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6343
-- slug: 2026-10-22-meta-plans-ai-capital-raise-as-future-spending-commitments-rise-to-roughly-825-b
-  headline: Meta plans AI capital raise as future spending commitments rise to roughly $825 billion
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6475
 - slug: 2026-09-25-oracle-s-new-mexico-ai-data-center-hits-power-permitting-roadblocks
   headline: Oracle's New Mexico AI data center hits power, permitting roadblocks
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7053
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6486
+  strength: 0.7048
 - slug: 2026-09-17-salesforce-sets-fiscal-2030-revenue-target-above-wall-street-estimates
   headline: Salesforce sets fiscal 2030 revenue target above Wall Street estimates
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6548
-- slug: 2026-09-16-openai-in-early-talks-for-funding-round-at-1-2-trillion-valuation
-  headline: OpenAI in early talks for funding round at $1.2 trillion valuation
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6324
-- slug: 2026-09-10-rogo-raises-roughly-30-million-to-deploy-ai-across-finance
-  headline: Rogo raises roughly $30 million to deploy AI across finance
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6373
-- slug: 2026-08-25-oura-inspire-brands-among-companies-targeting-fall-ipos
-  headline: Oura, Inspire Brands Among Companies Targeting Fall IPOs
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6482
-- slug: 2026-08-26-okta-lifts-full-year-outlook-as-q2-earnings-beat-on-ai-agent-demand
-  headline: Okta lifts full-year outlook as Q2 earnings beat on AI agent demand
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6327
+  strength: 0.655
 - slug: 2026-06-23-oracle-cuts-21-000-roles-as-it-pivots-to-ai-annual-report-shows
   headline: Oracle cuts 21,000 roles as it pivots to AI, annual report shows
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7113
-- slug: 2026-08-17-big-tech-holds-3-trillion-in-off-balance-sheet-ai-commitments-filings-show
-  headline: Big tech holds $3 trillion in off-balance-sheet AI commitments, filings show
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.634
+  strength: 0.7108
 - slug: 2026-07-22-openai-raises-cloud-spending-target-to-750-billion-by-2030
   headline: OpenAI raises cloud spending target to $750 billion by 2030
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6671
+  strength: 0.6669
 - slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
+  headline: Wall Street funnels record capital to AI build-out across equity and debt
+    markets
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.7035
+  strength: 0.7036
 - slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
+  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8
+    billion euros
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6578
-- slug: 2026-06-11-tech-market-roundup-oracle-ai-push-tsmc-leadership-crypto-slump-super-micro-dilu
-  headline: 'Tech Market Roundup: Oracle AI Push, TSMC Leadership, Crypto Slump, Super Micro Dilution'
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6938
+  strength: 0.658
 - slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
+  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting
+    out spare capacity
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.6724
-- slug: 2026-06-01-alphabet-plans-80-billion-equity-raise-to-fund-ai-infrastructure-expansion
-  headline: Alphabet plans $80 billion equity raise to fund AI infrastructure expansion
-  publish_date: '2026-06-01'
+  strength: 0.6728
+- slug: 2026-06-11-tech-market-roundup-oracle-ai-push-tsmc-leadership-crypto-slump-super-micro-dilu
+  headline: 'Tech Market Roundup: Oracle AI Push, TSMC Leadership, Crypto Slump, Super
+    Micro Dilution'
+  publish_date: '2026-06-11'
   relation: related
-  strength: 0.6901
-- slug: 2026-06-24-ellison-donated-45-million-to-trump-nonprofit-deepening-business-ties
-  headline: Ellison donated $45 million to Trump nonprofit, deepening business ties
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6395
-- slug: 2026-05-20-spacex-ipo-plans-could-reshape-markets-as-spending-shifts-to-rockets-and-ai
-  headline: SpaceX IPO plans could reshape markets as spending shifts to rockets and AI
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6599
+  strength: 0.6934
 ---
-
 ## Oracle's $20 billion financing plan reaches its fiscal 2030 funding ceiling
 
 **Subtype:** fact
