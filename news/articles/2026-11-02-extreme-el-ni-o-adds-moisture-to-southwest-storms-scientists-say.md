@@ -2,8 +2,18 @@
 headline: Extreme El Niño adds moisture to Southwest storms, scientists say
 secondary_headline: A peak in Pacific heating is still ahead
 publish_date: '2026-11-02'
-lede: Flash floods on Sunday prompted evacuations across northern New Mexico and central Arizona, while a Colorado ski town braced for its main river to rise to catastrophic levels. Scientists say an extreme El Niño is making heavy rains more likely and intense across the Southern U.S. by warming Pacific Ocean waters, adding moisture to the air and shifting winds toward the Southwest. They said the climate pattern is not the sole cause of the severe storms.
-nut_graf: Scientists say an exceptionally strong El Niño, warmer ocean temperatures and repeated delivery of Pacific moisture are increasing the likelihood and intensity of heavy rain across the Southwest, although the climate pattern is not the only cause of recent storms. The El Niño event is expected to peak in December, and experts expect its effects to continue for months afterward. Experts recommended that people watch the forecast, plan ahead and heed evacuation warnings from local authorities.
+lede: Flash floods on Sunday prompted evacuations across northern New Mexico and central
+  Arizona, while a Colorado ski town braced for its main river to rise to catastrophic
+  levels. Scientists say an extreme El Niño is making heavy rains more likely and
+  intense across the Southern U.S. by warming Pacific Ocean waters, adding moisture
+  to the air and shifting winds toward the Southwest. They said the climate pattern
+  is not the sole cause of the severe storms.
+nut_graf: Scientists say an exceptionally strong El Niño, warmer ocean temperatures
+  and repeated delivery of Pacific moisture are increasing the likelihood and intensity
+  of heavy rain across the Southwest, although the climate pattern is not the only
+  cause of recent storms. The El Niño event is expected to peak in December, and experts
+  expect its effects to continue for months afterward. Experts recommended that people
+  watch the forecast, plan ahead and heed evacuation warnings from local authorities.
 primary_entities:
 - El Niño
 - Pacific Ocean
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,113 +165,56 @@ related_stories:
   headline: Historic high tides flood California communities and disrupt transportation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7675
+  strength: 0.7682
 - slug: 2026-10-15-newsom-declares-california-state-of-emergency-ahead-of-el-ni-o-season
   headline: Newsom declares California state of emergency ahead of El Niño season
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7599
+  strength: 0.76
 - slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
   headline: California readies for potentially historic El Niño winter
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7945
+  strength: 0.7956
 - slug: 2026-10-15-noaa-forecasts-warmer-wetter-us-winter-with-reduced-northern-snowfall
   headline: NOAA forecasts warmer, wetter US winter with reduced northern snowfall
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7477
+  strength: 0.7475
 - slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
   headline: WMO warns strongest El Niño in 70 years set to intensify into winter
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.8439
+  strength: 0.8447
 - slug: 2026-10-01-noaa-scales-back-el-ni-o-research-as-super-event-peaks
   headline: NOAA scales back El Niño research as super event peaks
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7789
+  strength: 0.7786
 - slug: 2026-09-30-california-prepares-for-kelvin-wave-set-to-raise-sea-levels-a-foot
   headline: California prepares for Kelvin wave set to raise sea levels a foot
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7779
+  strength: 0.7781
 - slug: 2026-09-28-kelvin-wave-could-raise-california-sea-levels-by-up-to-a-foot-for-months
   headline: Kelvin wave could raise California sea levels by up to a foot for months
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7796
-- slug: 2026-09-15-this-year-s-el-ni-o-ranks-among-the-strongest-on-record
-  headline: This year's El Niño ranks among the strongest on record
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.804
-- slug: 2026-09-23-hurricane-polo-reaches-category-5-off-mexico-s-pacific-coast
-  headline: Hurricane Polo reaches Category 5 off Mexico's Pacific coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7579
-- slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7655
-- slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
-  headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.8231
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8393
-- slug: 2026-08-27-study-finds-el-ni-os-more-than-36-stronger-than-pre-industrial-era
-  headline: Study finds El Niños more than 36% stronger than pre-industrial era
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.735
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-could-bring-heat-drought-and-heavier-rain
-  headline: Forecasters warn strong El Niño could bring heat, drought and heavier rain
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8475
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-may-bring-record-heat-and-extreme-weather-in-202
-  headline: Forecasters Warn Strong El Niño May Bring Record Heat and Extreme Weather in 2026
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8451
-- slug: 2026-06-11-el-ni-o-forms-in-pacific-forecast-to-reach-historic-strength
-  headline: El Niño forms in Pacific, forecast to reach historic strength
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8164
-- slug: 2026-07-09-el-ni-o-odds-rise-to-81-for-historic-strength-event
-  headline: El Niño odds rise to 81% for historic-strength event
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7837
-- slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
-  headline: Latin American governments prepare contingency plans for El Niño impacts
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.77
-- slug: 2026-07-02-el-ni-o-and-45-state-drought-push-july-4-heatwave-to-100-million-americans
-  headline: El Niño and 45-state drought push July 4 heatwave to 100 million Americans
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7658
+  strength: 0.7797
 image:
   url: /articles/2026-11-02-extreme-el-ni-o-adds-moisture-to-southwest-storms-scientists-say.png
-  alt: "Illustration accompanying article: Extreme El Niño adds moisture to Southwest storms, scientists say"
+  alt: 'Illustration accompanying article: Extreme El Niño adds moisture to Southwest
+    storms, scientists say'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Extreme El Niño adds moisture to Southwest storms, scientists say
 
 **Subtype:** fact

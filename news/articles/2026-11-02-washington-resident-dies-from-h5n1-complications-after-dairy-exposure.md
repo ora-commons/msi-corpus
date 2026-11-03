@@ -2,8 +2,17 @@
 headline: Washington resident dies from H5N1 complications after dairy exposure
 secondary_headline: CDC finds no genetic changes that would increase spread or severity
 publish_date: '2026-11-02'
-lede: A Yakima County resident with previous health conditions died Sunday from complications of bird flu after exposure to infected cattle at a dairy, county health officials said. The death is the first in the United States linked to bird flu in a year. The Centers for Disease Control and Prevention said the person was infected with H5N1.
-nut_graf: Yakima County officials reported 33 dairy herds that had recently tested positive for H5N1 and three human infections linked to dairy exposure. The Yakima Health District is working with the state health department to find and monitor close contacts, while the CDC said genetic sequencing found no changes that would make the virus spread more easily or cause more severe illness and that the risk to the general public is low.
+lede: A Yakima County resident with previous health conditions died Sunday from complications
+  of bird flu after exposure to infected cattle at a dairy, county health officials
+  said. The death is the first in the United States linked to bird flu in a year.
+  The Centers for Disease Control and Prevention said the person was infected with
+  H5N1.
+nut_graf: Yakima County officials reported 33 dairy herds that had recently tested
+  positive for H5N1 and three human infections linked to dairy exposure. The Yakima
+  Health District is working with the state health department to find and monitor
+  close contacts, while the CDC said genetic sequencing found no changes that would
+  make the virus spread more easily or cause more severe illness and that the risk
+  to the general public is low.
 primary_entities:
 - Centers for Disease Control and Prevention
 - Yakima County
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +147,8 @@ cross_article_links:
   strength: 0.5717
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-23-utah-officials-issue-a-verbal-hold-as-bird-flu-spreads-among-mink
-  headline: Utah officials issue a verbal hold as bird flu spreads among mink
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6429
-- slug: 2026-10-25-nuzzo-says-federal-monitoring-of-farms-for-viruses-appears-reduced
-  headline: Nuzzo says federal monitoring of farms for viruses appears reduced
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6233
-- slug: 2026-10-23-california-reports-9-65-flu-test-positivity-as-west-coast-activity-rises-early
-  headline: California reports 9.65% flu test positivity as West Coast activity rises early
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.591
-- slug: 2026-09-20-cdc-rabies-advisory-follows-beaver-attacks-petting-zoo-exposures-amid-uncertaint
-  headline: CDC rabies advisory follows beaver attacks, petting zoo exposures amid uncertainty
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6007
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.592
-- slug: 2026-08-07-families-sue-new-york-city-over-2025-harlem-legionnaires-outbreak
-  headline: Families sue New York City over 2025 Harlem Legionnaires' outbreak
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6071
-- slug: 2026-07-17-first-death-reported-in-upper-east-side-legionnaires-outbreak
-  headline: First death reported in Upper East Side Legionnaires' outbreak
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6052
-- slug: 2026-07-09-legionnaires-outbreak-sickens-28-on-manhattan-s-upper-east-side
-  headline: Legionnaires' outbreak sickens 28 on Manhattan's Upper East Side
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6116
-- slug: 2026-07-20-third-person-dies-in-manhattan-legionnaires-outbreak
-  headline: Third person dies in Manhattan Legionnaires' outbreak
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5879
-- slug: 2026-04-30-salmonella-linked-to-backyard-poultry-sickens-34-in-13-u-s-states
-  headline: Salmonella linked to backyard poultry sickens 34 in 13 U.S. states
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.641
-- slug: 2026-05-04-what-is-hantavirus-the-infection-that-killed-betsy-arakawa
-  headline: What is hantavirus, the infection that killed Betsy Arakawa?
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6388
-- slug: 2026-01-09-us-flu-activity-dips-slightly-as-health-officials-warn-severe-season-has-not-pea
-  headline: US flu activity dips slightly as health officials warn severe season has not peaked
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6498
-- slug: 2026-07-05-legionnaires-disease-cluster-on-upper-east-side-rises-to-14-cases
-  headline: Legionnaires' disease cluster on Upper East Side rises to 14 cases
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.588
-- slug: 2026-06-13-tick-bite-linked-to-alpha-gal-syndrome-cases-rise-fda-approves-first-drug
-  headline: Tick bite linked to alpha-gal syndrome cases rise; FDA approves first drug
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6022
-- slug: 2026-01-06-flu-season-rivals-last-winter-s-epidemic-as-subclade-k-drives-holiday-surge
-  headline: Flu season rivals last winter's epidemic as subclade K drives holiday surge
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6274
-- slug: 2026-01-28-botulism-bacteria-found-in-milk-powder-linked-to-byheart-formula-outbreak
-  headline: Botulism bacteria found in milk powder linked to ByHeart formula outbreak
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6169
-- slug: 2026-03-15-e-coli-linked-to-raw-farm-raw-milk-cheddar-sickens-7-in-us
-  headline: E. coli linked to Raw Farm raw milk cheddar sickens 7 in US
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6075
-- slug: 2026-05-05-what-to-know-about-hantavirus-the-illness-linked-to-a-cruise-ship-outbreak
-  headline: What to know about hantavirus, the illness linked to a cruise ship outbreak
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5906
-- slug: 2026-02-26-researchers-confirm-bird-flu-outbreak-in-elephant-seals-at-california-breeding-g
-  headline: Researchers confirm bird flu outbreak in elephant seals at California breeding ground
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6046
-- slug: 2026-05-14-elk-refuge-cwd-discovery-prompts-calls-to-reduce-jackson-herd
-  headline: Elk Refuge CWD discovery prompts calls to reduce Jackson herd
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5855
+related_stories: []
 ---
-
 ## Washington resident dies from H5N1 complications after dairy exposure
 
 **Subtype:** fact
