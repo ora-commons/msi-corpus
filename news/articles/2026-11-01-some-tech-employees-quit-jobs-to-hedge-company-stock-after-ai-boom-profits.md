@@ -2,8 +2,18 @@
 headline: Some tech employees quit jobs to hedge company stock after AI-boom profits
 secondary_headline: Trading firms develop derivatives tied to computing-power prices
 publish_date: '2026-11-01'
-lede: Some technology employees are quitting their jobs after making so much money from the AI boom that they are hedging their companies’ stock. The Wall Street Journal reported Nov. 1, 2026, that the strategy reflects growing concern among investors and tech executives about a possible unraveling of Wall Street’s multitrillion-dollar AI bet. Recent disappointments have prompted the use of options and credit-default swaps for protection.
-nut_graf: The Wall Street Journal reported that investors and tech executives are turning to options and credit-default swaps as recent disappointments raise concern about a larger unraveling of Wall Street’s multitrillion-dollar AI bet. Trading firms are also developing derivatives tied to computing-power prices, extending the tools available for managing exposure even though the trade has been enormously profitable.
+lede: Some technology employees are quitting their jobs after making so much money
+  from the AI boom that they are hedging their companies’ stock. The Wall Street Journal
+  reported Nov. 1, 2026, that the strategy reflects growing concern among investors
+  and tech executives about a possible unraveling of Wall Street’s multitrillion-dollar
+  AI bet. Recent disappointments have prompted the use of options and credit-default
+  swaps for protection.
+nut_graf: The Wall Street Journal reported that investors and tech executives are
+  turning to options and credit-default swaps as recent disappointments raise concern
+  about a larger unraveling of Wall Street’s multitrillion-dollar AI bet. Trading
+  firms are also developing derivatives tied to computing-power prices, extending
+  the tools available for managing exposure even though the trade has been enormously
+  profitable.
 primary_entities:
 - The Wall Street Journal
 - The 10-Point
@@ -59,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,104 +172,44 @@ related_stories:
   headline: OpenAI raises less than half its target as AI funding cools
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6809
+  strength: 0.6815
 - slug: 2026-10-31-satellite-images-show-iran-shifted-strikes-to-buildings-where-us-troops-slept
-  headline: Satellite images show Iran shifted strikes to buildings where US troops slept
+  headline: Satellite images show Iran shifted strikes to buildings where US troops
+    slept
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6858
+  strength: 0.6872
 - slug: 2026-10-31-lenders-and-investors-demand-tighter-terms-as-ai-financing-strains-mount
   headline: Lenders and investors demand tighter terms as AI financing strains mount
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6722
+  strength: 0.6725
 - slug: 2026-10-24-ai-concerns-test-u-s-stock-gains-amid-intense-market-volatility
   headline: AI concerns test U.S. stock gains amid intense market volatility
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6745
+  strength: 0.673
 - slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6838
+  strength: 0.6837
 - slug: 2026-10-16-ai-safety-incidents-expose-insurance-gap-in-fast-growing-industry
   headline: AI safety incidents expose insurance gap in fast-growing industry
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6817
+  strength: 0.6833
 - slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
   headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.689
+  strength: 0.6904
 - slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
   headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7035
-- slug: 2026-09-06-retail-investors-hand-stock-portfolios-to-autonomous-ai-trading-agents
-  headline: Retail investors hand stock portfolios to autonomous AI trading agents
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6939
-- slug: 2026-08-28-ai-investment-boom-props-up-global-growth-despite-trade-and-energy-strains
-  headline: AI investment boom props up global growth despite trade and energy strains
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6884
-- slug: 2026-09-02-broadcom-s-ai-chip-business-faces-mounting-competition-ahead-of-earnings
-  headline: Broadcom's AI chip business faces mounting competition ahead of earnings
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6704
-- slug: 2026-07-25-openai-hack-china-competition-fuel-washington-ai-debate
-  headline: OpenAI hack, China competition fuel Washington AI debate
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-24-openai-autonomous-agent-hacks-hugging-face-company-says
-  headline: OpenAI autonomous agent hacks Hugging Face, company says
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6738
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6964
-- slug: 2026-06-02-fomo-drives-wall-street-pros-into-ai-rally-as-career-risk-outweighs-caution
-  headline: FOMO drives Wall Street pros into AI rally as career risk outweighs caution
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6998
-- slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
-  headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6889
-- slug: 2026-06-27-ai-bubble-warnings-mount-as-dot-com-parallels-spread
-  headline: AI bubble warnings mount as dot-com parallels spread
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6714
-- slug: 2026-05-15-streamline-operations-how-ai-is-fueling-tech-world-layoffs
-  headline: 'Streamline operations: How AI is fueling tech world layoffs'
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6929
-- slug: 2026-06-12-european-stocks-pitched-as-hedge-against-u-s-tech-concentration-but-risks-remain
-  headline: European stocks pitched as hedge against U.S. tech concentration, but risks remain
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6713
-- slug: 2026-05-15-companies-from-cisco-to-meta-cite-ai-as-layoffs-mount
-  headline: Companies from Cisco to Meta cite AI as layoffs mount
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.685
+  strength: 0.705
 ---
-
 ## Some tech employees quit jobs to hedge company stock after AI-boom profits
 
 **Subtype:** fact
