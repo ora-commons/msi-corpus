@@ -1,9 +1,20 @@
 ---
-headline: Mother identifies daughter as copilot in Florida Learjet crash that killed nine
-secondary_headline: West Boca Raton aviation academy let students practice on simulators and drones
+headline: Mother identifies daughter as copilot in Florida Learjet crash that killed
+  nine
+secondary_headline: West Boca Raton aviation academy let students practice on simulators
+  and drones
 publish_date: '2026-11-02'
-lede: Nathalia Gadelha Filgueiras, a 20-year-old woman with a pilot's license, was among nine people killed when a small jet crashed and exploded in South Florida, her family said. Her mother, Camila Corteleti, told the New York Post and New York Times that Filgueiras was the copilot flying a Learjet from Austin, Texas, to the Bahamas on Sunday, when the aircraft crashed and exploded near West Palm Beach. Local news reports at the time said Filgueiras earned her pilot's license in 2023 as a 17-year-old senior at West Boca Raton Community High School.
-nut_graf: Her pilot's license showed she had the rating to fly the Learjet but not to be in command of the flight. The Palm Beach County School District paid for her license as part of the specialized aviation academy at West Boca Raton Community High School, where students practice on flight simulators and drones.
+lede: Nathalia Gadelha Filgueiras, a 20-year-old woman with a pilot's license, was
+  among nine people killed when a small jet crashed and exploded in South Florida,
+  her family said. Her mother, Camila Corteleti, told the New York Post and New York
+  Times that Filgueiras was the copilot flying a Learjet from Austin, Texas, to the
+  Bahamas on Sunday, when the aircraft crashed and exploded near West Palm Beach.
+  Local news reports at the time said Filgueiras earned her pilot's license in 2023
+  as a 17-year-old senior at West Boca Raton Community High School.
+nut_graf: Her pilot's license showed she had the rating to fly the Learjet but not
+  to be in command of the flight. The Palm Beach County School District paid for her
+  license as part of the specialized aviation academy at West Boca Raton Community
+  High School, where students practice on flight simulators and drones.
 primary_entities:
 - Nathalia Gadelha Filgueiras
 - Camila Corteleti
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,13 +150,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-02-mother-identifies-daughter-as-copilot-in-florida-learjet-crash-that-killed-nine.png
-  alt: 'Illustration accompanying article: Mother identifies daughter as copilot in Florida Learjet crash that killed nine'
+  alt: 'Illustration accompanying article: Mother identifies daughter as copilot in
+    Florida Learjet crash that killed nine'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-02-ntsb-investigates-florida-learjet-crash-that-killed-all-nine-onboard
   headline: NTSB investigates Florida Learjet crash that killed all nine onboard
@@ -171,83 +187,12 @@ related_stories:
   publish_date: '2026-11-02'
   relation: related
   strength: 0.6589
-- slug: 2026-11-02-storyful-verifies-crash-footage-authorities-move-residents-to-shelters
-  headline: Storyful verifies crash footage; authorities move residents to shelters
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6351
-- slug: 2026-10-05-latitude-pledges-full-cooperation-after-nantucket-medical-flight-crash
-  headline: Latitude pledges full cooperation after Nantucket medical flight crash
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5945
-- slug: 2026-10-05-school-bus-rollover-kills-two-in-winter-haven-florida
-  headline: School bus rollover kills two in Winter Haven, Florida
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5854
-- slug: 2026-10-02-crews-recover-final-body-from-catalina-island-helicopter-crash
-  headline: Crews recover final body from Catalina Island helicopter crash
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5933
-- slug: 2026-09-29-family-presses-navy-on-sailor-s-suicide-aboard-uss-fort-lauderdale
-  headline: Family presses Navy on sailor's suicide aboard USS Fort Lauderdale
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6001
-- slug: 2026-09-08-plane-carrying-four-florida-family-members-goes-missing-off-bahamas
-  headline: Plane carrying four Florida family members goes missing off Bahamas
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5889
-- slug: 2026-09-07-small-plane-crashes-near-titusville-airport-ntsb-says
-  headline: Small plane crashes near Titusville airport, NTSB says
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5872
-- slug: 2026-06-17-small-plane-crashes-on-texas-highway-killing-1
-  headline: Small plane crashes on Texas highway, killing 1
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.636
-- slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6458
 - slug: 2026-03-24-pilots-killed-on-laguardia-runway-identified-as-air-canada-crew
   headline: Pilots killed on LaGuardia runway identified as Air Canada crew
   publish_date: '2026-03-24'
   relation: related
   strength: 0.6524
-- slug: 2026-06-23-florida-real-estate-broker-acquitted-in-fatal-birthday-boat-crash
-  headline: Florida real estate broker acquitted in fatal birthday boat crash
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6096
-- slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
-  headline: 10 rescued after small plane crashes in Bahamian waters off Florida
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6315
-- slug: 2026-06-30-child-found-dead-in-vehicle-outside-plantation-preschool
-  headline: Child found dead in vehicle outside Plantation preschool
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5978
-- slug: 2026-03-25-pilots-killed-in-laguardia-runway-collision-identified-as-air-canada-crew
-  headline: Pilots killed in LaGuardia runway collision identified as Air Canada crew
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6261
-- slug: 2026-05-17-small-plane-crashes-in-los-angeles-lot-pilot-in-critical-condition
-  headline: Small plane crashes in Los Angeles lot, pilot in critical condition
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6061
 ---
-
 ## Mother identifies daughter as copilot in Florida Learjet crash that killed nine
 
 **Subtype:** fact
