@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.7326
+analyses:
+- '2026-11-02-judge-zia-faruqui-dismisses-charges-as-hunter-biden-inquiry-timing-draws-scrutin'
 ---
 ## Federal judge dismisses charges in Hunter Biden laptop case
 
@@ -233,3 +235,8 @@ The Justice Department's case noted that Floris and Benavides gave lawmakers in 
 **Publication date:** 2026-11-02
 **Title:** Judge cites 'weaponization' in Biden laptop-related case and tosses charges
 **URL:** https://apnews.com/article/fbi-hunter-biden-laptop-justice-department-101ccd65d10b5f779985747eb0045b52
+
+---
+
+<!-- analysis-link:2026-11-02-judge-zia-faruqui-dismisses-charges-as-hunter-biden-inquiry-timing-draws-scrutin -->
+**Going deeper:** [Read MSI's analysis of Hunter Biden inquiry's next prosecutorial steps →](/analyses/2026-11-02-judge-zia-faruqui-dismisses-charges-as-hunter-biden-inquiry-timing-draws-scrutin)

@@ -2,8 +2,19 @@
 headline: DOJ takes California voter-roll dispute to Supreme Court
 secondary_headline: Panel cited Purcell precedent and disenfranchisement risk
 publish_date: '2026-11-02'
-lede: The Justice Department asked the U.S. Supreme Court on Nov. 2 to intervene in a dispute with California over voter rolls, one day before Election Day on Nov. 3. The department says ballots linked to 20,000 people it labels likely noncitizens should not be counted until citizenship can be verified. A federal district judge and a divided 9th Circuit panel rejected that request, and the Supreme Court has not said whether it will intervene before Election Day.
-nut_graf: The dispute concerns whether California must halt processing of ballots during an election, a step the lower courts rejected after siding with arguments that the federal list was unreliable and the proposed segregation system infeasible. Separately, in recent weeks, department officials warned local election officials they could be criminally prosecuted if they did not cooperate with federal demands to segregate ballots, and last week the department sent grand jury subpoenas to Los Angeles County Registrar-Recorder employees.
+lede: The Justice Department asked the U.S. Supreme Court on Nov. 2 to intervene in
+  a dispute with California over voter rolls, one day before Election Day on Nov.
+  3. The department says ballots linked to 20,000 people it labels likely noncitizens
+  should not be counted until citizenship can be verified. A federal district judge
+  and a divided 9th Circuit panel rejected that request, and the Supreme Court has
+  not said whether it will intervene before Election Day.
+nut_graf: The dispute concerns whether California must halt processing of ballots
+  during an election, a step the lower courts rejected after siding with arguments
+  that the federal list was unreliable and the proposed segregation system infeasible.
+  Separately, in recent weeks, department officials warned local election officials
+  they could be criminally prosecuted if they did not cooperate with federal demands
+  to segregate ballots, and last week the department sent grand jury subpoenas to
+  Los Angeles County Registrar-Recorder employees.
 primary_entities:
 - Justice Department
 - U.S. Supreme Court
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +155,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-02-doj-takes-california-voter-roll-dispute-to-supreme-court.png
-  alt: 'Illustration accompanying article: DOJ takes California voter-roll dispute to Supreme Court'
+  alt: 'Illustration accompanying article: DOJ takes California voter-roll dispute
+    to Supreme Court'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-31-federal-judge-bars-doj-from-pressuring-election-workers-on-ballots
   headline: Federal judge bars DOJ from pressuring election workers on ballots
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8522
+  strength: 0.8521
 - slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
   headline: Monthslong California voter-roll dispute precedes DOJ emergency request
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8704
+  strength: 0.8716
 - slug: 2026-10-29-justice-department-appeals-ruling-on-california-s-disputed-ballots
   headline: Justice Department appeals ruling on California's disputed ballots
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8476
+  strength: 0.8473
 - slug: 2026-10-29-federal-judge-rejects-doj-bid-to-segregate-california-ballots-over-citizenship
   headline: Federal judge rejects DOJ bid to segregate California ballots over citizenship
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8397
+  strength: 0.839
 - slug: 2026-10-28-federal-judge-rejects-doj-request-to-segregate-california-ballots
   headline: Federal judge rejects DOJ request to segregate California ballots
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8428
+  strength: 0.8421
 - slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
   headline: 9th Circuit declines expedited ruling in DOJ California ballot case
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8359
+  strength: 0.8349
 - slug: 2026-10-29-doj-subpoenas-los-angeles-election-workers-in-voter-roll-dispute
   headline: DOJ subpoenas Los Angeles election workers in voter-roll dispute
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8106
+  strength: 0.8112
 - slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
   headline: California ballot dispute reaches 9th Circuit
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8272
-- slug: 2026-10-28-federal-judge-says-doj-lost-all-26-voter-cases-cut-nevada-claim-to-185
-  headline: Federal judge says DOJ lost all 26 voter cases, cut Nevada claim to 185
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.8097
-- slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7908
-- slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
-  headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8132
-- slug: 2026-10-31-ucla-analysis-finds-42-of-doj-flagged-california-voter-names-missing-from-rolls
-  headline: UCLA analysis finds 42% of DOJ-flagged California voter names missing from rolls
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7706
-- slug: 2026-10-25-appeals-panel-questions-doj-bid-to-set-aside-california-ballots
-  headline: Appeals panel questions DOJ bid to set aside California ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.8053
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.811
-- slug: 2026-10-29-ballot-disputes-span-three-states-as-midterms-near
-  headline: Ballot disputes span three states as midterms near
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7757
-- slug: 2026-10-28-butte-county-official-rejects-justice-department-demand-to-segregate-ballots
-  headline: Butte County official rejects Justice Department demand to segregate ballots
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7703
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7856
-- slug: 2026-10-27-federal-list-methodology-and-200-record-sample-sharpen-california-ballot-list-di
-  headline: Federal list methodology and 200-record sample sharpen California ballot list dispute
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7689
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7841
-- slug: 2026-10-19-doj-california-ballot-demand-called-unprecedented-as-voting-is-underway
-  headline: DOJ California ballot demand called unprecedented as voting is underway
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7971
+  strength: 0.8274
 ---
-
 ## DOJ takes California voter-roll dispute to Supreme Court
 
 **Subtype:** fact

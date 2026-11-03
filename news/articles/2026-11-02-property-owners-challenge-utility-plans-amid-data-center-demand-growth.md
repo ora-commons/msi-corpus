@@ -1,9 +1,23 @@
 ---
 headline: Property owners challenge utility plans amid data-center demand growth
-secondary_headline: Virginia homeowners appeal grid-route approval to the state Supreme Court
+secondary_headline: Virginia homeowners appeal grid-route approval to the state Supreme
+  Court
 publish_date: '2026-11-02'
-lede: Fights over high-voltage transmission lines are increasing across the United States as utilities upgrade the grid, with data centers a major but not exclusive source of demand growth. In Ashburn, Virginia, Vicky Hu is challenging Dominion Energy's plan for a 165-foot transmission tower on her property, and the dispute is headed to Virginia's Supreme Court after the state utility commission approved the 500-kilovolt route. Dominion's Greg Mathe said annual electricity-demand growth in Virginia and North Carolina has jumped to about 5.5% from around 1% to 2% before 2022, while the Edison Electric Institute expects transmission spending by investor-owned utilities and transmission companies to reach $43.7 billion this year.
-nut_graf: The disputes involve both private property and public entities. Dominion Energy can take private property for a public use if it pays fair compensation, while Virginia generally does not give utilities standard eminent-domain authority over entities such as county governments or school boards. Data centers are a major source of demand behind the projects, while utilities also are trying to keep pace with growth in manufacturing, electric vehicles and population.
+lede: Fights over high-voltage transmission lines are increasing across the United
+  States as utilities upgrade the grid, with data centers a major but not exclusive
+  source of demand growth. In Ashburn, Virginia, Vicky Hu is challenging Dominion
+  Energy's plan for a 165-foot transmission tower on her property, and the dispute
+  is headed to Virginia's Supreme Court after the state utility commission approved
+  the 500-kilovolt route. Dominion's Greg Mathe said annual electricity-demand growth
+  in Virginia and North Carolina has jumped to about 5.5% from around 1% to 2% before
+  2022, while the Edison Electric Institute expects transmission spending by investor-owned
+  utilities and transmission companies to reach $43.7 billion this year.
+nut_graf: The disputes involve both private property and public entities. Dominion
+  Energy can take private property for a public use if it pays fair compensation,
+  while Virginia generally does not give utilities standard eminent-domain authority
+  over entities such as county governments or school boards. Data centers are a major
+  source of demand behind the projects, while utilities also are trying to keep pace
+  with growth in manufacturing, electric vehicles and population.
 primary_entities:
 - Dominion Energy
 - Southern
@@ -51,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +164,51 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
-  headline: Electricity bills enter 2026 midterm campaigns
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.645
 - slug: 2026-10-21-dte-energy-seeks-approval-for-two-gas-plants-amid-michigan-datacenter-growth
-  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
+  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter
+    growth
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.669
+  strength: 0.6716
 - slug: 2026-10-21-trump-proposes-own-electricity-and-community-dividends-for-new-data-centers
   headline: Trump proposes own electricity and community dividends for new data centers
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6528
-- slug: 2026-10-09-east-fishkill-enacts-three-year-moratorium-on-large-datacenters
-  headline: East Fishkill enacts three-year moratorium on large datacenters
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6374
+  strength: 0.6509
 - slug: 2026-09-19-data-center-jobs-pay-42-premium-as-workers-face-public-pushback-on-construction
   headline: Data center jobs pay 42% premium as workers face public pushback on construction
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6528
+  strength: 0.6538
 - slug: 2026-07-16-power-companies-use-eminent-domain-to-seize-land-for-data-center-transmission-li
-  headline: Power companies use eminent domain to seize land for data center transmission lines
+  headline: Power companies use eminent domain to seize land for data center transmission
+    lines
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7242
+  strength: 0.7256
 - slug: 2026-03-08-ai-data-centers-drive-high-voltage-transmission-expansion-as-landowners-fight-ba
-  headline: AI data centers drive high-voltage transmission expansion as landowners fight back
+  headline: AI data centers drive high-voltage transmission expansion as landowners
+    fight back
   publish_date: '2026-03-08'
   relation: related
-  strength: 0.7208
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6419
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6367
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6333
+  strength: 0.7245
 - slug: 2026-04-11-nevada-utility-warns-ai-data-centers-may-force-fossil-fuels
   headline: Nevada utility warns AI data centers may force fossil fuels
   publish_date: '2026-04-11'
   relation: related
-  strength: 0.6827
+  strength: 0.6846
 - slug: 2026-06-10-nextera-shares-slide-after-dominion-buyout-as-regulatory-scrutiny-looms
   headline: NextEra shares slide after Dominion buyout as regulatory scrutiny looms
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6501
+  strength: 0.6505
 - slug: 2026-05-16-ai-boom-sparks-state-battles-over-utility-profits-and-rising-electricity-bills
-  headline: AI boom sparks state battles over utility profits and rising electricity bills
+  headline: AI boom sparks state battles over utility profits and rising electricity
+    bills
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6538
-- slug: 2026-06-19-datacenters-drive-us-clean-energy-growth-while-still-threatening-climate
-  headline: Datacenters drive US clean energy growth while still threatening climate
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.63
-- slug: 2026-05-16-states-fight-utility-rate-hikes-as-ai-expansion-drives-power-company-profits
-  headline: States fight utility rate hikes as AI expansion drives power company profits
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.648
-- slug: 2026-03-13-nevada-warns-data-center-boom-may-derail-2030-clean-energy-goal
-  headline: Nevada warns data center boom may derail 2030 clean energy goal
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.651
-- slug: 2026-03-10-virginia-senators-vote-to-end-1-6b-annual-tax-break-for-data-centers
-  headline: Virginia senators vote to end $1.6B annual tax break for data centers
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6481
-- slug: 2025-12-29-dominion-energy-sues-to-block-trump-order-pausing-offshore-wind-projects
-  headline: Dominion Energy sues to block Trump order pausing offshore wind projects
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6517
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  headline: West Virginia electricity rates rose 34% in five years, pushing residents to desperate measures
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6482
-- slug: 2026-01-03-community-opposition-stalls-data-center-expansion-as-backlash-spreads
-  headline: Community opposition stalls data center expansion as backlash spreads
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6454
+  strength: 0.6562
 ---
-
 ## Property owners challenge utility plans amid data-center demand growth
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: U.S. stocks rise, Brent falls 6.7%; Iran says it has a two-day Strait of Hormuz reopening plan
-secondary_headline: Company earnings and AI spending shape a session lifted by lower oil
+headline: U.S. stocks rise, Brent falls 6.7%; Iran says it has a two-day Strait of
+  Hormuz reopening plan
+secondary_headline: Company earnings and AI spending shape a session lifted by lower
+  oil
 publish_date: '2026-11-02'
-lede: U.S. stocks rose in Monday trading, recovering part of a technology- and artificial-intelligence-led sell-off from the previous week. The S&P 500 gained 0.8%, pulling within 2.3% of its all-time high; the Dow Jones Industrial Average added 547 points, or 1.1%, at 10:15 a.m. Eastern time, and the Nasdaq composite rose 1%. Brent crude fell 6.7% to $105.87, while Iran said it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States.
-nut_graf: Brent crude fell 6.7% to $105.87, and Iran described a two-day plan to reopen the Strait of Hormuz. Investors continued to question whether hundreds of billions of dollars in Big Tech AI data-center spending would generate enough productivity and profit. Airline, cruise-line, hotel and veterinary-diagnostic stocks rose, while Marvell Technology fell 6% after announcing a roughly $115 billion acquisition of Lumentum.
+lede: U.S. stocks rose in Monday trading, recovering part of a technology- and artificial-intelligence-led
+  sell-off from the previous week. The S&P 500 gained 0.8%, pulling within 2.3% of
+  its all-time high; the Dow Jones Industrial Average added 547 points, or 1.1%, at
+  10:15 a.m. Eastern time, and the Nasdaq composite rose 1%. Brent crude fell 6.7%
+  to $105.87, while Iran said it had a two-day plan to reopen the Strait of Hormuz
+  and resume nuclear talks with the United States.
+nut_graf: Brent crude fell 6.7% to $105.87, and Iran described a two-day plan to reopen
+  the Strait of Hormuz. Investors continued to question whether hundreds of billions
+  of dollars in Big Tech AI data-center spending would generate enough productivity
+  and profit. Airline, cruise-line, hotel and veterinary-diagnostic stocks rose, while
+  Marvell Technology fell 6% after announcing a roughly $115 billion acquisition of
+  Lumentum.
 primary_entities:
 - S&P 500
 - Dow Jones Industrial Average
@@ -55,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -71,17 +84,23 @@ figures:
   series_id: SP500
   transformation: raw
   as_of: '2026-11-02'
-  caption: Federal Reserve Economic Data's daily S&P 500 series records 7,743.98 for Nov. 2, 2026, on a day when AP reported a 0.8% gain that left the index within 2.3% of its all-time high.
+  caption: Federal Reserve Economic Data's daily S&P 500 series records 7,743.98 for
+    Nov. 2, 2026, on a day when AP reported a 0.8% gain that left the index within
+    2.3% of its all-time high.
 - source: fred
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-02'
-  caption: The Nasdaq composite stood at 26,184.72 on the Federal Reserve's daily series for Nov. 2, 2026, after a 1% rise in Monday trading followed a sell-off led by AI and technology shares.
+  caption: The Nasdaq composite stood at 26,184.72 on the Federal Reserve's daily
+    series for Nov. 2, 2026, after a 1% rise in Monday trading followed a sell-off
+    led by AI and technology shares.
 - source: fred
   series_id: DJIA
   transformation: raw
   as_of: '2026-11-02'
-  caption: The Dow Jones Industrial Average registered 51,770.31 in the Federal Reserve's daily series for Nov. 2, 2026, with AP reporting a 547-point, or 1.1%, rise at 10:15 a.m. Eastern time.
+  caption: The Dow Jones Industrial Average registered 51,770.31 in the Federal Reserve's
+    daily series for Nov. 2, 2026, with AP reporting a 547-point, or 1.1%, rise at
+    10:15 a.m. Eastern time.
 figures_aggregate:
   count: 3
   series_ids:
@@ -174,116 +193,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-02-u-s-stocks-rise-brent-falls-6-7-iran-says-it-has-a-two-day-strait-of-hormuz-reop.png
-  alt: 'Illustration accompanying article: U.S. stocks rise, Brent falls 6.7%; Iran says it has a two-day Strait of Hormuz…'
+  alt: 'Illustration accompanying article: U.S. stocks rise, Brent falls 6.7%; Iran
+    says it has a two-day Strait of Hormuz…'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-05-07-oil-falls-and-markets-rally-as-strait-of-hormuz-reopening-hopes-grow
   headline: Oil falls and markets rally as Strait of Hormuz reopening hopes grow
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.865
+  strength: 0.8647
 - slug: 2026-03-15-u-s-stocks-rise-to-best-day-since-iran-war-began-as-oil-eases
   headline: U.S. stocks rise to best day since Iran war began as oil eases
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.8716
+  strength: 0.8719
 - slug: 2026-04-17-oil-falls-9-and-stocks-hit-record-as-iran-reopens-strait-of-hormuz
   headline: Oil falls 9% and stocks hit record as Iran reopens Strait of Hormuz
   publish_date: '2026-04-17'
   relation: related
-  strength: 0.8534
+  strength: 0.8533
 - slug: 2026-05-21-oil-slides-after-strait-of-hormuz-fears-helping-us-stocks-erase-losses
   headline: Oil slides after Strait of Hormuz fears, helping US stocks erase losses
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.8397
+  strength: 0.8393
 - slug: 2026-06-09-us-futures-rise-on-tech-rally-oil-falls-on-mideast-hopes
   headline: US Futures Rise on Tech Rally, Oil Falls on Mideast Hopes
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.8257
+  strength: 0.8259
 - slug: 2026-05-06-oil-prices-sink-and-stocks-leap-worldwide-on-hopes-for-hormuz-reopening
   headline: Oil prices sink and stocks leap worldwide on hopes for Hormuz reopening
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.841
+  strength: 0.8407
 - slug: 2026-06-03-oil-rises-asian-stocks-mostly-gain-on-us-iran-tensions-ai-rally
   headline: Oil rises, Asian stocks mostly gain on US-Iran tensions, AI rally
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.8166
+  strength: 0.8161
 - slug: 2026-04-01-dow-surges-1-125-points-as-market-prices-hopes-for-iran-war-end
   headline: Dow surges 1,125 points as market prices hopes for Iran war end
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.8338
-- slug: 2026-04-08-us-stocks-rise-as-oil-trims-gains-on-ceasefire-hopes-with-iran
-  headline: US stocks rise as oil trims gains on ceasefire hopes with Iran
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.8317
-- slug: 2026-04-09-u-s-stocks-rise-as-oil-trims-gains-on-ceasefire-hopes-with-iran
-  headline: U.S. stocks rise as oil trims gains on ceasefire hopes with Iran
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.8305
-- slug: 2026-05-05-oil-falls-and-stocks-rally-worldwide-on-hopes-for-strait-of-hormuz-reopening
-  headline: Oil falls and stocks rally worldwide on hopes for Strait of Hormuz reopening
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.8224
-- slug: 2026-04-24-us-stocks-slip-as-brent-oil-tops-107-on-strait-of-hormuz-tensions
-  headline: US stocks slip as Brent oil tops $107 on Strait of Hormuz tensions
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.8231
-- slug: 2026-04-10-us-stocks-rise-as-oil-trims-gains-on-hopes-for-us-iran-ceasefire
-  headline: US stocks rise as oil trims gains on hopes for US-Iran ceasefire
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.8254
-- slug: 2026-05-02-apple-leads-wall-street-to-more-records-as-oil-prices-pull-back
-  headline: Apple leads Wall Street to more records as oil prices pull back
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.8128
-- slug: 2026-03-09-us-stocks-rebound-after-oil-whips-to-below-90-as-iran-war-fears-ease
-  headline: US stocks rebound after oil whips to below $90 as Iran-war fears ease
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.8242
-- slug: 2026-04-20-oil-climbs-5-on-iran-tensions-as-wall-street-retreats-from-record
-  headline: Oil climbs 5% on Iran tensions as Wall Street retreats from record
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.8131
-- slug: 2026-04-25-intel-s-results-lift-wall-street-to-more-records-as-oil-stays-volatile
-  headline: Intel’s results lift Wall Street to more records as oil stays volatile
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.8109
-- slug: 2026-04-21-us-stocks-rally-to-records-brent-tops-100-amid-iran-war-worries
-  headline: US stocks rally to records; Brent tops $100 amid Iran war worries
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.8102
-- slug: 2026-03-27-wall-street-drops-as-nasdaq-sinks-oil-rises-on-iran-war-uncertainty
-  headline: Wall Street drops as Nasdaq sinks; oil rises on Iran war uncertainty
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.8153
-- slug: 2026-04-22-us-stocks-rally-to-records-as-brent-tops-100-on-iran-war-worries
-  headline: US stocks rally to records as Brent tops $100 on Iran war worries
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.8079
+  strength: 0.8337
 ---
-
 ## U.S. stocks rise, Brent falls 6.7%; Iran says it has a two-day Strait of Hormuz reopening plan
 
 **Subtype:** fact
