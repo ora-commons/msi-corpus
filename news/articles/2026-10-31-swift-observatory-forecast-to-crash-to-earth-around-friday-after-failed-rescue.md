@@ -57,7 +57,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -227,3 +227,10 @@ NASA considered Swift a first responder for the Hubble and Webb space telescopes
 **Publication date:** 2026-10-31
 **Title:** NASA telescope is predicted to come crashing down after failed rescue mission
 **URL:** https://apnews.com/article/swift-observatory-nasa-telescope-e890935df7f468048594286566a96357
+
+### src_late_118a3f442e2dd69c — Associated Press, wire, Tier 1, originating
+**Author:** Marcia Dunn
+**Publication date:** 2026-10-31
+**Title:** Telescopio de la NASA está a punto de caer a la Tierra tras fallida misión de rescate
+**URL:** https://apnews.com/article/nasa-telescopio-swift-195521acb34cfe7457a1cf1b45184efc
+**Added after publication:** true

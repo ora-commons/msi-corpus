@@ -2,8 +2,20 @@
 headline: FBI contacts donors over Dan J. Sullivan ballot bid
 secondary_headline: Justice Department reportedly issued new grand jury subpoenas
 publish_date: '2026-11-01'
-lede: The FBI contacted people who donated to Dan J. Sullivan and asked whether they had been misled about which candidate they supported, some donors told The Associated Press. The outreach came as the Justice Department escalated a criminal investigation into the retired teacher's presence on Alaska's ballot; a person familiar with the matter who spoke to The Associated Press said the department issued a raft of new grand jury subpoenas on Thursday. The investigation concerns a ballot entry in a closely watched U.S. Senate race between Republican incumbent Dan Sullivan and former congresswoman Mary Peltola.
-nut_graf: 'The donor contacts and subpoenas are part of an active criminal investigation into Dan J. Sullivan''s ballot presence as the Nov. 3 election nears. Separate proceedings remain unresolved: the Justice Department''s appeal of a dismissed suit seeking to block certification if Republican incumbent Dan Sullivan lost, a Republican governor''s investigation and questions about whether Dan J. Sullivan was recruited to run as a way to confuse voters.'
+lede: The FBI contacted people who donated to Dan J. Sullivan and asked whether they
+  had been misled about which candidate they supported, some donors told The Associated
+  Press. The outreach came as the Justice Department escalated a criminal investigation
+  into the retired teacher's presence on Alaska's ballot; a person familiar with the
+  matter who spoke to The Associated Press said the department issued a raft of new
+  grand jury subpoenas on Thursday. The investigation concerns a ballot entry in a
+  closely watched U.S. Senate race between Republican incumbent Dan Sullivan and former
+  congresswoman Mary Peltola.
+nut_graf: 'The donor contacts and subpoenas are part of an active criminal investigation
+  into Dan J. Sullivan''s ballot presence as the Nov. 3 election nears. Separate proceedings
+  remain unresolved: the Justice Department''s appeal of a dismissed suit seeking
+  to block certification if Republican incumbent Dan Sullivan lost, a Republican governor''s
+  investigation and questions about whether Dan J. Sullivan was recruited to run as
+  a way to confuse voters.'
 primary_entities:
 - FBI
 - Dan J. Sullivan
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +163,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-01-fbi-contacts-donors-over-dan-j-sullivan-ballot-bid.png
-  alt: 'Illustration accompanying article: FBI contacts donors over Dan J. Sullivan ballot bid'
+  alt: 'Illustration accompanying article: FBI contacts donors over Dan J. Sullivan
+    ballot bid'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-31-fbi-begins-asking-donors-to-alaska-senate-candidate-about-potential-deception
   headline: FBI begins asking donors to Alaska Senate candidate about potential deception
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8571
+  strength: 0.8567
 - slug: 2026-11-01-fbi-contacts-donors-in-alaska-u-s-senate-namesake-inquiry
   headline: FBI contacts donors in Alaska U.S. Senate namesake inquiry
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.804
+  strength: 0.8039
 - slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
   headline: Justice Department asks judge to segregate ballots ranking second Sullivan
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7839
+  strength: 0.7827
 - slug: 2026-10-29-justice-department-expands-alaska-election-probe-with-new-subpoenas
   headline: Justice Department expands Alaska election probe with new subpoenas
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7916
+  strength: 0.7906
 - slug: 2026-11-01-gleason-dismisses-justice-department-bid-to-delay-alaska-senate-certification
   headline: Gleason dismisses Justice Department bid to delay Alaska Senate certification
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7657
+  strength: 0.7655
 - slug: 2026-10-29-justice-department-reportedly-issues-subpoenas-in-alaska-namesake-probe
   headline: Justice Department reportedly issues subpoenas in Alaska namesake probe
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7794
+  strength: 0.779
 - slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
+  headline: Alaska and Justice Department open criminal probes into second Sullivan
+    filing
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7676
+  strength: 0.7668
 - slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
+  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe
+    escalates
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7612
-- slug: 2026-11-01-judge-sharon-gleason-dismisses-suit-over-alaska-senate-certification
-  headline: Judge Sharon Gleason dismisses suit over Alaska Senate certification
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7432
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7476
-- slug: 2026-10-31-alaska-urges-federal-judge-to-dismiss-suit-to-halt-senate-certification
-  headline: Alaska urges federal judge to dismiss suit to halt Senate certification
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7402
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7461
-- slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
-  headline: Voting-rights experts call Alaska election intervention unprecedented
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7266
-- slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
-  headline: Gov. Dunleavy orders investigation into alleged election scheme
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7357
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.729
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7675
-- slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
-  headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7335
-- slug: 2026-10-29-dunleavy-orders-probe-into-peltola-campaign-over-sullivan-namesake
-  headline: Dunleavy orders probe into Peltola campaign over Sullivan namesake
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7259
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7575
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7237
 ---
-
 ## FBI contacts donors over Dan J. Sullivan ballot bid
 
 **Subtype:** fact

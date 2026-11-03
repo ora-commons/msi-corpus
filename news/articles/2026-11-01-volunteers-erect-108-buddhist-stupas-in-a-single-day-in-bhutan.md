@@ -2,8 +2,18 @@
 headline: Volunteers erect 108 Buddhist stupas in a single day in Bhutan
 secondary_headline: The planned city pairs Buddhist values with hopes for the economy
 publish_date: '2026-11-01'
-lede: Buddhist masters from various schools and denominations and about 200,000 people from around the world gathered in Gelephu, Bhutan, on Sunday to watch volunteers erect 108 stupas in a single day. The new monuments, sacred structures representing Buddha's enlightenment, each about 50 feet (15 meters) tall, anchor Gelephu Mindfulness City, a development conceived by King Jigme Khesar Namgyel Wangchuck and designed by Danish architects.
-nut_graf: The stupa project is the visible centerpiece of Gelephu Mindfulness City, a development that Bhutan is building as an economic hub putting ecological sustainability and the happiness of its citizens over commercial profit. Bhutanese are pinning their hopes on the city to boost the economy and provide opportunities that would encourage young people to stay in the country, amid rising unemployment, falling birth rates and the mass migration of skilled workers.
+lede: Buddhist masters from various schools and denominations and about 200,000 people
+  from around the world gathered in Gelephu, Bhutan, on Sunday to watch volunteers
+  erect 108 stupas in a single day. The new monuments, sacred structures representing
+  Buddha's enlightenment, each about 50 feet (15 meters) tall, anchor Gelephu Mindfulness
+  City, a development conceived by King Jigme Khesar Namgyel Wangchuck and designed
+  by Danish architects.
+nut_graf: The stupa project is the visible centerpiece of Gelephu Mindfulness City,
+  a development that Bhutan is building as an economic hub putting ecological sustainability
+  and the happiness of its citizens over commercial profit. Bhutanese are pinning
+  their hopes on the city to boost the economy and provide opportunities that would
+  encourage young people to stay in the country, amid rising unemployment, falling
+  birth rates and the mass migration of skilled workers.
 primary_entities:
 - Gelephu
 - Bhutan
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -130,109 +141,8 @@ cross_article_links:
   strength: 0.5052
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-29-umbc-students-use-photography-to-build-interfaith-understanding
-  headline: UMBC students use photography to build interfaith understanding
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5281
-- slug: 2026-09-02-nepal-flood-survivor-says-rebuilt-stupa-saved-her-life
-  headline: Nepal flood survivor says rebuilt stupa saved her life
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5702
-- slug: 2026-09-01-about-85-u-s-citizens-missing-after-nepal-tibet-border-flash-flood
-  headline: About 85 U.S. citizens missing after Nepal-Tibet border flash flood
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5549
-- slug: 2026-08-27-over-100-mount-kailash-pilgrims-among-missing-in-nepal-china-border-floods
-  headline: Over 100 Mount Kailash pilgrims among missing in Nepal-China border floods
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5671
-- slug: 2026-09-09-glacial-collapse-wipes-out-a-dozen-nepal-hydropower-projects
-  headline: Glacial collapse wipes out a dozen Nepal hydropower projects
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5257
-- slug: 2026-08-31-nepal-floods-leave-900-hydropower-workers-unaccounted-700-mw-offline
-  headline: Nepal floods leave 900 hydropower workers unaccounted, 700 MW offline
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5475
-- slug: 2026-08-28-humanitarian-groups-mobilize-for-nepal-china-border-flood-survivors
-  headline: Humanitarian groups mobilize for Nepal-China border flood survivors
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5309
-- slug: 2026-08-27-glacier-collapse-kills-over-360-along-nepal-china-border
-  headline: Glacier collapse kills over 360 along Nepal-China border
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5224
-- slug: 2026-02-12-buddhist-monks-conclude-108-day-walk-for-peace-with-march-to-capitol-hill
-  headline: Buddhist monks conclude 108-day Walk for Peace with march to Capitol Hill
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6323
-- slug: 2026-02-11-buddhist-monks-walk-for-peace-reaches-washington-dc
-  headline: Buddhist monks’ Walk for Peace reaches Washington, DC
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6266
-- slug: 2026-07-17-hindu-and-muslim-pilgrims-flock-to-catholic-marian-shrine-in-eastern-india
-  headline: Hindu and Muslim pilgrims flock to Catholic Marian shrine in eastern India
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.558
-- slug: 2026-08-07-maldives-youth-paddle-kayaks-to-protest-mangrove-reclamation
-  headline: Maldives youth paddle kayaks to protest mangrove reclamation
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5247
-- slug: 2026-05-16-how-this-minnesota-teen-became-a-buddhist-lama-studying-near-the-himalayas
-  headline: How this Minnesota teen became a Buddhist lama studying near the Himalayas
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.593
-- slug: 2026-03-02-lunar-new-year-draws-crowds-to-buddhist-temple-relic-display-in-rosemead
-  headline: Lunar New Year draws crowds to Buddhist temple relic display in Rosemead
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6107
-- slug: 2026-01-11-buddhist-monks-and-rescue-dog-draw-thousands-across-the-south-on-2-300-mile-peac
-  headline: Buddhist monks and rescue dog draw thousands across the South on 2,300-mile peace walk
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6082
-- slug: 2026-05-14-us-teen-identified-as-buddhist-lama-blesses-thousands-in-nepal-foothills
-  headline: US teen identified as Buddhist lama blesses thousands in Nepal foothills
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5734
-- slug: 2026-07-02-boy-11-crashes-truck-into-monks-killing-9-in-thailand
-  headline: Boy, 11, crashes truck into monks, killing 9 in Thailand
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5288
-- slug: 2026-05-16-us-teen-buddhist-lama-begins-monastic-training-in-india-and-nepal
-  headline: US teen Buddhist lama begins monastic training in India and Nepal
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5583
-- slug: 2025-12-30-buddhist-monks-persist-in-peace-walk-reach-georgia-on-day-66-of-journey-to-dc
-  headline: Buddhist monks persist in peace walk, reach Georgia on day 66 of journey to DC
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.5747
-- slug: 2026-03-15-confront-mortality-at-thailand-s-death-fest
-  headline: Confront mortality at Thailand's "Death Fest"
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5514
+related_stories: []
 ---
-
 ## Volunteers erect 108 Buddhist stupas in a single day in Bhutan
 
 **Subtype:** fact

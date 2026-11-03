@@ -2,8 +2,21 @@
 headline: U.S. fears Iran could rush oil out of the Gulf during a blockade pause
 secondary_headline: Qatar’s proposal would link easing to nuclear inspections
 publish_date: '2026-11-02'
-lede: Qatari mediators said the United States was reluctant to ease its naval blockade before clear nuclear progress because it feared Iran would rush bottled-up oil shipments out of the Gulf. Under one proposal floated by Qatar, the United States would loosen its naval blockade if Iran halted attacks on shipping in the Strait of Hormuz for an agreed number of days, the mediators and an Iranian official said. Iran would then allow international nuclear inspectors back and begin discussing its enriched-uranium stockpile within a few days; once inspections were completed, the United States would lift some sanctions.
-nut_graf: Under the proposal, any easing of the blockade would be tied to a halt in shipping attacks for an agreed number of days. Iran would then allow international nuclear inspectors back and begin discussing its enriched-uranium stockpile within a few days, and the United States would lift some sanctions once inspections were completed. Qatar has struggled to secure agreement on that sequence, leaving the main diplomatic channel stuck over which side must move first as Gulf governments prepare for possible U.S. strikes and Iranian retaliation.
+lede: Qatari mediators said the United States was reluctant to ease its naval blockade
+  before clear nuclear progress because it feared Iran would rush bottled-up oil shipments
+  out of the Gulf. Under one proposal floated by Qatar, the United States would loosen
+  its naval blockade if Iran halted attacks on shipping in the Strait of Hormuz for
+  an agreed number of days, the mediators and an Iranian official said. Iran would
+  then allow international nuclear inspectors back and begin discussing its enriched-uranium
+  stockpile within a few days; once inspections were completed, the United States
+  would lift some sanctions.
+nut_graf: Under the proposal, any easing of the blockade would be tied to a halt in
+  shipping attacks for an agreed number of days. Iran would then allow international
+  nuclear inspectors back and begin discussing its enriched-uranium stockpile within
+  a few days, and the United States would lift some sanctions once inspections were
+  completed. Qatar has struggled to secure agreement on that sequence, leaving the
+  main diplomatic channel stuck over which side must move first as Gulf governments
+  prepare for possible U.S. strikes and Iranian retaliation.
 primary_entities:
 - United States
 - Iran
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +158,43 @@ related_stories:
   headline: Qatar mediation extends as Iran offers two-day Hormuz reopening plan
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8318
+  strength: 0.8307
 - slug: 2026-10-28-gulf-states-link-hormuz-reopening-to-sanctions-relief-and-houthi-withdrawal
   headline: Gulf states link Hormuz reopening to sanctions relief and Houthi withdrawal
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8147
+  strength: 0.8159
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.793
+  strength: 0.7937
 - slug: 2026-09-25-gulf-states-split-on-iran-talks-as-saudi-arabia-uae-urge-continued-pressure
   headline: Gulf states split on Iran talks as Saudi Arabia, UAE urge continued pressure
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.8274
+  strength: 0.8279
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.8032
+  strength: 0.8046
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7865
+  strength: 0.788
 - slug: 2026-09-25-iran-sets-seven-day-timeline-for-hormuz-reopening-tied-to-us-concessions
   headline: Iran sets seven-day timeline for Hormuz reopening tied to US concessions
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7842
-- slug: 2026-09-26-trump-reportedly-rejects-iran-s-seven-day-plan-to-reopen-strait-of-hormuz
-  headline: Trump reportedly rejects Iran's seven-day plan to reopen Strait of Hormuz
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.77
+  strength: 0.7843
 - slug: 2026-09-23-three-hour-qatari-mediated-iran-us-talks-at-un-end-without-position-shift
   headline: Three-hour Qatari-mediated Iran-US talks at UN end without position shift
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7765
-- slug: 2026-09-22-iran-and-us-hold-three-hour-talks-on-un-sidelines-as-hormuz-reopening-floated
-  headline: Iran and US hold three-hour talks on UN sidelines as Hormuz reopening floated
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7755
-- slug: 2026-07-20-qatar-proposes-10-day-ceasefire-as-us-iran-strikes-continue
-  headline: Qatar proposes 10-day ceasefire as US-Iran strikes continue
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.8357
-- slug: 2026-08-11-hormuz-oil-flows-fall-as-reopening-negotiations-remain-stalled
-  headline: Hormuz oil flows fall as reopening negotiations remain stalled
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7891
-- slug: 2026-07-28-iran-oman-seek-reopening-of-strait-of-hormuz-in-narrow-talks
-  headline: Iran, Oman seek reopening of Strait of Hormuz in narrow talks
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7957
-- slug: 2026-07-15-us-and-iran-face-dueling-time-pressures-as-hormuz-conflict-resumes
-  headline: US and Iran face dueling time pressures as Hormuz conflict resumes
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7711
-- slug: 2026-04-14-us-plans-blockade-of-iranian-ports-experts-weigh-legality-and-oil-shock
-  headline: US plans blockade of Iranian ports; experts weigh legality and oil shock
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7986
-- slug: 2026-04-20-iran-s-ceasefire-offer-sidesteps-nuclear-issue-as-talks-stall
-  headline: Iran's ceasefire offer sidesteps nuclear issue as talks stall
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7949
-- slug: 2026-05-06-u-n-set-to-consider-sanctions-threat-against-iran-over-strait-of-hormuz
-  headline: U.N. set to consider sanctions threat against Iran over Strait of Hormuz
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7847
-- slug: 2026-05-22-rubio-says-iran-talks-saw-slight-progress-as-pakistan-seeks-mediation
-  headline: Rubio says Iran talks saw slight progress as Pakistan seeks mediation
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7779
-- slug: 2026-05-23-trump-pauses-planned-strike-on-iran-after-gulf-allies-ask
-  headline: Trump pauses planned strike on Iran after Gulf allies ask
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7745
-- slug: 2026-05-05-us-project-freedom-to-open-strait-of-hormuz-roils-iran-ceasefire
-  headline: US “Project Freedom” to open Strait of Hormuz roils Iran ceasefire
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7809
+  strength: 0.7771
 ---
-
 ## U.S. fears Iran could rush oil out of the Gulf during a blockade pause
 
 **Subtype:** fact
