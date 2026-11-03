@@ -2,8 +2,20 @@
 headline: Democrats dispute Senate campaign spending as 2028 positioning takes shape
 secondary_headline: Senate Majority PAC plans more than $60 million for El-Sayed
 publish_date: '2026-11-02'
-lede: Democratic Party factions are disputing how Senate campaign money should be allocated as Democrats have a chance to retake the Senate. The Wall Street Journal reported that the Schumer-aligned Senate Majority PAC had announced plans to spend more than $60 million on communications supporting Abdul El-Sayed and $33 million on television supporting Troy Jackson by Election Day. The Democratic Senatorial Campaign Committee had invested more than $21 million in El-Sayed and $8 million in Jackson. Both camps expect the result to shape their arguments about the party’s 2028 direction.
-nut_graf: The allocation dispute reaches Senate races in Michigan, Maine, Minnesota, Florida and Mississippi, where progressive and establishment candidates have drawn different levels of outside support. A strong Democratic showing could strengthen progressive claims about candidates’ ability to win difficult races, while a weak result could intensify the dispute over party direction before the 2028 presidential contest.
+lede: Democratic Party factions are disputing how Senate campaign money should be
+  allocated as Democrats have a chance to retake the Senate. The Wall Street Journal
+  reported that the Schumer-aligned Senate Majority PAC had announced plans to spend
+  more than $60 million on communications supporting Abdul El-Sayed and $33 million
+  on television supporting Troy Jackson by Election Day. The Democratic Senatorial
+  Campaign Committee had invested more than $21 million in El-Sayed and $8 million
+  in Jackson. Both camps expect the result to shape their arguments about the party’s
+  2028 direction.
+nut_graf: The allocation dispute reaches Senate races in Michigan, Maine, Minnesota,
+  Florida and Mississippi, where progressive and establishment candidates have drawn
+  different levels of outside support. A strong Democratic showing could strengthen
+  progressive claims about candidates’ ability to win difficult races, while a weak
+  result could intensify the dispute over party direction before the 2028 presidential
+  contest.
 primary_entities:
 - Democratic Party
 - Senate Majority PAC
@@ -60,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,32 +175,28 @@ related_stories:
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7115
+  strength: 0.711
 - slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
   headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7109
+  strength: 0.7105
 - slug: 2026-10-31-el-sayed-asks-haley-stevens-to-stay-away-from-michigan-senate-campaign-events
-  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign events
+  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign
+    events
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7024
+  strength: 0.7023
 - slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
   headline: Democratic divisions surface in Michigan Senate race's final week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7141
+  strength: 0.7139
 - slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
   headline: Democrats outraise Republicans in 27 of 35 Senate races
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7329
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6993
+  strength: 0.7328
 - slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
   headline: Musk channels $158 million in September to Senate Republican super PAC
   publish_date: '2026-10-16'
@@ -197,69 +206,13 @@ related_stories:
   headline: Virtually unknown donors gave up to $1 million each to a super PAC
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7229
+  strength: 0.7219
 - slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
   headline: El-Sayed's universalist campaign lags among Black voters in Michigan
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7146
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7091
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7407
-- slug: 2026-09-14-cash-gap-party-divisions-risk-slowing-democratic-midterm-momentum
-  headline: Cash gap, party divisions risk slowing Democratic midterm momentum
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.751
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7625
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7149
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7235
-- slug: 2026-08-10-el-sayed-primary-win-intensifies-democrats-debate-over-2028
-  headline: El-Sayed primary win intensifies Democrats’ debate over 2028
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7602
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7658
-- slug: 2026-08-01-michigan-senate-primary-tests-democratic-party-s-direction
-  headline: Michigan Senate primary tests Democratic Party's direction
-  publish_date: '2026-08-01'
-  relation: related
   strength: 0.7135
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7314
-- slug: 2026-07-19-aipac-spending-hits-30m-in-michigan-senate-primary-its-largest-ever
-  headline: AIPAC spending hits $30M in Michigan Senate primary, its largest ever
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.7156
 ---
-
 ## Democrats dispute Senate campaign spending as 2028 positioning takes shape
 
 **Subtype:** fact

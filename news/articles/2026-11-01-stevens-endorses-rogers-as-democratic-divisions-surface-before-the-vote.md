@@ -2,8 +2,16 @@
 headline: Stevens endorses Rogers as Democratic divisions surface before the vote
 secondary_headline: Peltola staff role in Sullivan candidacy under investigation
 publish_date: '2026-11-01'
-lede: The Wall Street Journal reported Sunday that Democratic Rep. Haley Stevens endorsed Republican Mike Rogers for the Senate after two days of squabbling with Democratic nominee Abdul El-Sayed. In Alaska, the extent to which staff for Mary Peltola helped install candidate Dan J. Sullivan Jr. was under investigation. The developments left questions about Democratic unity and the outcomes of two Senate races before Tuesday's election.
-nut_graf: The Michigan endorsement and Alaska candidate dispute showed internal Democratic tensions during the final week of the election. Paletta said the Michigan rift could shape party debates over the budget, Israel policy and confronting Trump, while the Alaska investigation left the outcome uncertain.
+lede: The Wall Street Journal reported Sunday that Democratic Rep. Haley Stevens endorsed
+  Republican Mike Rogers for the Senate after two days of squabbling with Democratic
+  nominee Abdul El-Sayed. In Alaska, the extent to which staff for Mary Peltola helped
+  install candidate Dan J. Sullivan Jr. was under investigation. The developments
+  left questions about Democratic unity and the outcomes of two Senate races before
+  Tuesday's election.
+nut_graf: The Michigan endorsement and Alaska candidate dispute showed internal Democratic
+  tensions during the final week of the election. Paletta said the Michigan rift could
+  shape party debates over the budget, Israel policy and confronting Trump, while
+  the Alaska investigation left the outcome uncertain.
 primary_entities:
 - Haley Stevens
 - Mike Rogers
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,44 @@ related_stories:
   headline: Haley Stevens backs Mike Rogers in Michigan, drawing Democratic backlash
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7817
+  strength: 0.7804
 - slug: 2026-11-02-stevens-campaign-chief-says-team-backs-el-sayed-after-reported-departures
   headline: Stevens campaign chief says team backs El-Sayed after reported departures
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.764
+  strength: 0.7625
 - slug: 2026-11-02-haley-stevens-defends-switch-to-mike-rogers-in-michigan-senate-race
   headline: Haley Stevens defends switch to Mike Rogers in Michigan Senate race
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7554
+  strength: 0.7536
 - slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
   headline: Democratic divisions surface in Michigan Senate race's final week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7673
+  strength: 0.7662
 - slug: 2026-11-02-stevens-backs-republican-rogers-a-former-congressman-after-backing-el-sayed
   headline: Stevens backs Republican Rogers, a former congressman, after backing El-Sayed
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7264
+  strength: 0.7252
 - slug: 2026-11-02-dingell-calls-stevens-cnn-interview-painful-as-stevens-backs-rogers
   headline: Dingell calls Stevens CNN interview ‘painful’ as Stevens backs Rogers
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.716
+  strength: 0.7145
 - slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
   headline: Voting-rights experts call Alaska election intervention unprecedented
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7036
+  strength: 0.7029
 - slug: 2026-10-31-el-sayed-asks-haley-stevens-to-stay-away-from-michigan-senate-campaign-events
-  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign events
+  headline: El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign
+    events
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7086
-- slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
-  headline: Justice Department asks judge to segregate ballots ranking second Sullivan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7016
-- slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7083
-- slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
-  headline: Alaska Republican governor calls for investigation into namesake filing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7068
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6999
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6924
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6916
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6887
-- slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
-  headline: Gov. Dunleavy orders investigation into alleged election scheme
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6924
-- slug: 2026-10-29-justice-department-files-amended-complaint-in-alaska-senate-race-probe
-  headline: Justice Department files amended complaint in Alaska Senate race probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6895
-- slug: 2026-10-05-obama-to-rally-with-el-sayed-in-michigan-senate-race
-  headline: Obama to rally with El-Sayed in Michigan Senate race
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6896
-- slug: 2026-08-01-michigan-senate-primary-tests-democratic-party-s-direction
-  headline: Michigan Senate primary tests Democratic Party's direction
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7538
-- slug: 2026-07-26-progressive-and-moderate-democrats-locked-in-tight-michigan-senate-primary
-  headline: Progressive and moderate Democrats locked in tight Michigan Senate primary
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7478
+  strength: 0.7078
 ---
-
 ## Stevens endorses Rogers as Democratic divisions surface before the vote
 
 **Subtype:** fact
