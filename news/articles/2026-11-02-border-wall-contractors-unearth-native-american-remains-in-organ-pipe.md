@@ -2,8 +2,23 @@
 headline: Border wall contractors unearth Native American remains in Organ Pipe
 secondary_headline: Trump administration builds second wall in Organ Pipe
 publish_date: '2026-11-02'
-lede: ProPublica confirmed that Native American remains were unearthed in Organ Pipe Cactus National Monument on Sept. 8 amid soil overturned by border wall contractors. The discovery went unreported until ProPublica's account and came 15 days after Lorraine Eiler warned that the Trump administration's second wall in Organ Pipe could disturb final resting places of her family and Hia-Ced O'odham ancestors. Following established protocols, the National Park Service said the University of Arizona conducted an assessment that confirmed the remains were human and aligned with tribal cremation practices.
-nut_graf: 'DHS has contracted for two separate border wall projects: a $443 million Sundt Construction contract for a second wall in Organ Pipe and a $1.3 billion contract for a 62-mile wall across the Tohono O''odham Nation. In the American Southwest, where archaeological sites are abundant, inadvertent disturbance of Native American remains occurs with some regularity. What sets the Organ Pipe discovery apart is DHS''s extraordinary power to expedite wall construction through legal waivers that can set aside laws protecting cultural resources, tribal sovereignty and sacred sites; CBP says the 2019 Organ Pipe waiver remains in effect years after the project that prompted it.'
+lede: ProPublica confirmed that Native American remains were unearthed in Organ Pipe
+  Cactus National Monument on Sept. 8 amid soil overturned by border wall contractors.
+  The discovery went unreported until ProPublica's account and came 15 days after
+  Lorraine Eiler warned that the Trump administration's second wall in Organ Pipe
+  could disturb final resting places of her family and Hia-Ced O'odham ancestors.
+  Following established protocols, the National Park Service said the University of
+  Arizona conducted an assessment that confirmed the remains were human and aligned
+  with tribal cremation practices.
+nut_graf: 'DHS has contracted for two separate border wall projects: a $443 million
+  Sundt Construction contract for a second wall in Organ Pipe and a $1.3 billion contract
+  for a 62-mile wall across the Tohono O''odham Nation. In the American Southwest,
+  where archaeological sites are abundant, inadvertent disturbance of Native American
+  remains occurs with some regularity. What sets the Organ Pipe discovery apart is
+  DHS''s extraordinary power to expedite wall construction through legal waivers that
+  can set aside laws protecting cultural resources, tribal sovereignty and sacred
+  sites; CBP says the 2019 Organ Pipe waiver remains in effect years after the project
+  that prompted it.'
 primary_entities:
 - Organ Pipe Cactus National Monument
 - National Park Service
@@ -49,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +167,30 @@ related_stories:
   headline: DHS deployed masked agents, drones against Tohono O'odham prayer fire
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.685
-- slug: 2026-10-23-rodney-scott-backs-big-bend-barriers-despite-judge-s-construction-halt
-  headline: Rodney Scott backs Big Bend barriers despite judge's construction halt
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5982
-- slug: 2026-10-22-burgum-orders-removal-of-cadillac-mountain-sign-about-wabanaki-history
-  headline: Burgum orders removal of Cadillac Mountain sign about Wabanaki history
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.592
-- slug: 2026-10-22-trump-signs-law-establishing-chiricahua-as-64th-u-s-national-park
-  headline: Trump signs law establishing Chiricahua as 64th U.S. national park
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5905
-- slug: 2026-10-10-contractors-topple-200-year-old-cottonwood-near-arizona-border-after-tree-sit
-  headline: Contractors topple 200-year-old cottonwood near Arizona border after tree-sit
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6323
+  strength: 0.6843
 - slug: 2026-08-27-trump-administration-builds-border-wall-on-tohono-o-odham-reservation
   headline: Trump administration builds border wall on Tohono O'odham reservation
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6944
-- slug: 2026-09-16-remains-found-near-grand-canyon-s-crystal-rapids-after-flash-floods
-  headline: Remains found near Grand Canyon's Crystal Rapids after flash floods
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6089
+  strength: 0.6933
 - slug: 2026-07-24-researchers-warn-trump-border-wall-plans-threaten-rare-desert-oasis-and-species
-  headline: Researchers warn Trump border wall plans threaten rare desert oasis and species
+  headline: Researchers warn Trump border wall plans threaten rare desert oasis and
+    species
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7185
-- slug: 2026-08-28-big-bend-border-construction-pause-runs-through-mid-september
-  headline: Big Bend border construction pause runs through mid-September
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6215
-- slug: 2026-08-21-pima-county-reports-19-migrant-remains-recovered-in-july-highest-since-2024
-  headline: Pima County reports 19 migrant remains recovered in July, highest since 2024
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6344
-- slug: 2026-08-14-bulldozers-begin-clearing-ground-at-big-bend-s-santa-elena-canyon
-  headline: Bulldozers begin clearing ground at Big Bend's Santa Elena Canyon
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6337
-- slug: 2026-08-14-federal-judge-denies-tohono-o-odham-nation-s-request-to-block-border-wall
-  headline: Federal judge denies Tohono O'odham Nation's request to block border wall
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6264
-- slug: 2026-08-20-blm-proposes-scrapping-chaco-drilling-buffer-over-tribal-unesco-opposition
-  headline: BLM proposes scrapping Chaco drilling buffer over tribal, UNESCO opposition
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5924
+  strength: 0.7173
 - slug: 2026-05-17-border-wall-construction-desecrates-sacred-indigenous-sites-tribal-leaders-say
-  headline: Border wall construction desecrates sacred Indigenous sites, tribal leaders say
+  headline: Border wall construction desecrates sacred Indigenous sites, tribal leaders
+    say
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.6787
+  strength: 0.6791
 - slug: 2026-05-17-indigenous-leaders-decry-us-border-wall-work-desecrating-sacred-sites
   headline: Indigenous leaders decry US border-wall work desecrating sacred sites
   publish_date: '2026-05-17'
   relation: related
   strength: 0.6765
-- slug: 2026-08-07-rescinded-offshore-survey-rules-may-affect-native-artifacts
-  headline: Rescinded offshore survey rules may affect Native artifacts
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6013
-- slug: 2026-08-03-border-wall-groundwater-pumping-halted-after-new-mexico-rancher-complaints
-  headline: Border wall groundwater pumping halted after New Mexico rancher complaints
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5939
-- slug: 2026-07-22-presidio-argues-border-wall-could-flood-town-in-lawsuit
-  headline: Presidio argues border wall could flood town in lawsuit
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5919
-- slug: 2026-07-14-trump-shrinks-two-utah-national-monuments-environmentalists-vow-legal-challenge
-  headline: Trump shrinks two Utah national monuments, environmentalists vow legal challenge
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5972
-- slug: 2026-06-24-trump-faces-pressure-to-release-proof-of-reflecting-pool-sabotage
-  headline: Trump faces pressure to release proof of reflecting pool sabotage
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6061
 ---
-
 ## Border wall contractors unearth Native American remains in Organ Pipe
 
 **Subtype:** fact

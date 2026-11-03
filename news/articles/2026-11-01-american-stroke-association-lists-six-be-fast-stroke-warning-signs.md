@@ -161,6 +161,8 @@ related_stories:
   publish_date: '2026-02-26'
   relation: related
   strength: 0.6867
+analyses:
+- '2026-11-01-american-stroke-association-guidance-links-five-signs-to-911-escalation-rather-t'
 ---
 ## American Stroke Association lists six BE FAST stroke warning signs
 
@@ -205,3 +207,8 @@ NPR reported that heart-disease deaths declined and identified heart disease as 
 **Publication date:** 2026-11-01
 **Title:** Do you know signs of a stroke? BE FAST are the words to remember
 **URL:** https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast
+
+---
+
+<!-- analysis-link:2026-11-01-american-stroke-association-guidance-links-five-signs-to-911-escalation-rather-t -->
+**Going deeper:** [Read MSI's analysis of BE FAST stroke-warning escalation →](/analyses/2026-11-01-american-stroke-association-guidance-links-five-signs-to-911-escalation-rather-t)
