@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-10-12'
   relation: related
   strength: 0.7169
+analyses:
+- '2026-11-02-u-s-officials-frame-russian-gas-plan-as-conditional-ceasefire-leverage'
 ---
 ## United States links Russian gas plan via Ukraine to energy ceasefire
 
@@ -253,3 +255,8 @@ It would be easier for Europe to change its position if Kyiv endorsed the gas sa
 **Publication date:** 2026-11-02
 **Title:** U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine
 **URL:** https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7
+
+---
+
+<!-- analysis-link:2026-11-02-u-s-officials-frame-russian-gas-plan-as-conditional-ceasefire-leverage -->
+**Going deeper:** [Read MSI's analysis of Russian gas as ceasefire leverage →](/analyses/2026-11-02-u-s-officials-frame-russian-gas-plan-as-conditional-ceasefire-leverage)

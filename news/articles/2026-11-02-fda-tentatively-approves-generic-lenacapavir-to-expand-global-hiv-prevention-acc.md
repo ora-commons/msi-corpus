@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-06-03'
   relation: related
   strength: 0.6642
+analyses:
+- '2026-11-02-fda-tentative-approval-opens-a-path-from-lower-cost-lenacapavir-to-broader-hiv-p'
 ---
 ## FDA tentatively approves generic lenacapavir to expand global HIV prevention access
 
@@ -223,3 +225,8 @@ Laura Ungar wrote the story, with Gerald Imray in Cape Town, South Africa, contr
 **Publication date:** 2026-11-02
 **Title:** US regulators approve generic version of HIV-prevention drug to be sold in low-income countries
 **URL:** https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6
+
+---
+
+<!-- analysis-link:2026-11-02-fda-tentative-approval-opens-a-path-from-lower-cost-lenacapavir-to-broader-hiv-p -->
+**Going deeper:** [Read MSI's analysis of lenacapavir access after approval →](/analyses/2026-11-02-fda-tentative-approval-opens-a-path-from-lower-cost-lenacapavir-to-broader-hiv-p)

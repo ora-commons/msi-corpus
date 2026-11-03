@@ -2,8 +2,21 @@
 headline: Mandatory evacuations follow flash flooding in the Southwest
 secondary_headline: San Juan River forecast tops the 1911 flood crest
 publish_date: '2026-11-01'
-lede: Sedona, Arizona, officials rescued residents trapped in their homes on Sunday and ordered residents near Oak Creek to leave immediately, while Pagosa Springs, Colorado, officials warned of potentially catastrophic flooding as the San Juan River was forecast to crest at more than 20 feet late Sunday night. The Archuleta County Sheriff's Office said the San Juan River crested at approximately 17.8 feet during the 1911 flood, and Yavapai County spokesperson David McAtee said no injuries or deaths had been reported so far. Communities in northern New Mexico and central Arizona also issued mandatory evacuations, and Flagstaff police said authorities were searching for a man who slipped and fell into fast-moving floodwaters and was not seen resurfacing.
-nut_graf: The National Weather Service estimated as much as 4 inches of rain could fall across the region through Monday. Flooding closed highways, prompted rooftop evacuations and swift boat rescues, and forced residents from low-lying communities to shelter or evacuate, while authorities warned that emergency crews could be limited and sewage had been discharged into the San Juan River.
+lede: Sedona, Arizona, officials rescued residents trapped in their homes on Sunday
+  and ordered residents near Oak Creek to leave immediately, while Pagosa Springs,
+  Colorado, officials warned of potentially catastrophic flooding as the San Juan
+  River was forecast to crest at more than 20 feet late Sunday night. The Archuleta
+  County Sheriff's Office said the San Juan River crested at approximately 17.8 feet
+  during the 1911 flood, and Yavapai County spokesperson David McAtee said no injuries
+  or deaths had been reported so far. Communities in northern New Mexico and central
+  Arizona also issued mandatory evacuations, and Flagstaff police said authorities
+  were searching for a man who slipped and fell into fast-moving floodwaters and was
+  not seen resurfacing.
+nut_graf: The National Weather Service estimated as much as 4 inches of rain could
+  fall across the region through Monday. Flooding closed highways, prompted rooftop
+  evacuations and swift boat rescues, and forced residents from low-lying communities
+  to shelter or evacuate, while authorities warned that emergency crews could be limited
+  and sewage had been discharged into the San Juan River.
 primary_entities:
 - Pagosa Springs
 - Sedona
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +160,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-01-mandatory-evacuations-follow-flash-flooding-in-the-southwest.png
-  alt: 'Illustration accompanying article: Mandatory evacuations follow flash flooding in the Southwest'
+  alt: 'Illustration accompanying article: Mandatory evacuations follow flash flooding
+    in the Southwest'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-31-weekend-rain-threatens-flash-flooding-across-saturated-southwest
   headline: Weekend rain threatens flash flooding across saturated Southwest
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7281
+  strength: 0.7283
 - slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
   headline: Flood warning remains in Four Corners as San Juan River nears crest
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7564
+  strength: 0.7566
 - slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
   headline: Flooding in Four Corners prompts rooftop rescues and evacuations
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7255
+  strength: 0.7254
 - slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
   headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7264
+  strength: 0.7258
 - slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
   headline: Four Corners region braces for more storms amid flood cleanup
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6971
+  strength: 0.6967
 - slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
   headline: New Mexico crews search evacuated neighborhoods for flood hazards
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6939
+  strength: 0.6945
 - slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
+  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten
+    surges
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7054
+  strength: 0.7058
 - slug: 2026-10-27-lujan-grisham-says-new-mexico-flood-costs-could-be-closer-to-200-million-to-300-
-  headline: Lujan Grisham says New Mexico flood costs could be closer to $200 million to $300 million
+  headline: Lujan Grisham says New Mexico flood costs could be closer to $200 million
+    to $300 million
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.665
-- slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
-  headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6817
-- slug: 2026-08-31-grand-canyon-flash-flood-kills-one-destroys-water-pipeline
-  headline: Grand Canyon flash flood kills one, destroys water pipeline
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6527
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7112
-- slug: 2026-08-16-indiana-flooding-kills-at-least-6-as-white-river-crests-above-1913-record
-  headline: Indiana flooding kills at least 6 as White River crests above 1913 record
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.65
-- slug: 2026-08-15-hogsett-urges-white-river-evacuations-as-central-indiana-floods-prompt-dozens-of
-  headline: Hogsett urges White River evacuations as central Indiana floods prompt dozens of rescues
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6434
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6864
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6538
-- slug: 2026-07-16-texas-flooding-cuts-off-uvalde-as-deadly-flood-wave-threatens
-  headline: Texas flooding cuts off Uvalde as deadly flood wave threatens
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6369
-- slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6367
-- slug: 2026-07-11-helicopters-rescue-200-from-missouri-summer-camp-as-floods-sweep-southeast
-  headline: Helicopters rescue 200 from Missouri summer camp as floods sweep southeast
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6322
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6876
-- slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
-  headline: Tornadoes, hail and flooding threaten parts of the Midwest
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6324
+  strength: 0.6655
 ---
-
 ## Mandatory evacuations follow flash flooding in the Southwest
 
 **Subtype:** fact

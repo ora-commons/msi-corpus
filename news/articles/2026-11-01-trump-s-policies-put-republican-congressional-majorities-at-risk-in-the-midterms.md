@@ -1,9 +1,27 @@
 ---
-headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-secondary_headline: Trump’s loyalty demands and economic messaging constrain Republicans’ political distance
+headline: Trump’s policies put Republican congressional majorities at risk in the
+  midterms
+secondary_headline: Trump’s loyalty demands and economic messaging constrain Republicans’
+  political distance
 publish_date: '2026-11-01'
-lede: Republicans across the United States headed into Tuesday's midterm elections facing a difficult 2026 campaign as President Donald Trump's tariffs, an eight-month Iran war and expanding White House construction projects left the party exposed on affordability and governance. An Associated Press analysis published Nov. 1 said Trump's decisions had made it harder for Republicans to protect House and Senate majorities and that his demands for loyalty and repeated claims that the economy was just fine left Republican candidates little room to distance themselves from him. The analysis also reported that Trump's political groups spent nearly $277 million to support Republicans since September. Rep. Derrick Van Orden, a vulnerable Republican who supports the Iran effort, said the war was “making it exponentially harder for Republicans to keep the House and Senate.”
-nut_graf: 'Midterms have historically punished the president''s party, but the AP analysis said Trump''s own record on trade, war, prices and Washington projects has left Republicans with little room to distance themselves from a president who demands loyalty and routinely tells voters the economy is just fine. The contest is not one-sided: Democrats have spent hundreds of millions on advertising that links Republicans to Trump, while Maryland Gov. Wes Moore warned that anger at Trump could fade and Democrats still had to deliver.'
+lede: Republicans across the United States headed into Tuesday's midterm elections
+  facing a difficult 2026 campaign as President Donald Trump's tariffs, an eight-month
+  Iran war and expanding White House construction projects left the party exposed
+  on affordability and governance. An Associated Press analysis published Nov. 1 said
+  Trump's decisions had made it harder for Republicans to protect House and Senate
+  majorities and that his demands for loyalty and repeated claims that the economy
+  was just fine left Republican candidates little room to distance themselves from
+  him. The analysis also reported that Trump's political groups spent nearly $277
+  million to support Republicans since September. Rep. Derrick Van Orden, a vulnerable
+  Republican who supports the Iran effort, said the war was “making it exponentially
+  harder for Republicans to keep the House and Senate.”
+nut_graf: 'Midterms have historically punished the president''s party, but the AP
+  analysis said Trump''s own record on trade, war, prices and Washington projects
+  has left Republicans with little room to distance themselves from a president who
+  demands loyalty and routinely tells voters the economy is just fine. The contest
+  is not one-sided: Democrats have spent hundreds of millions on advertising that
+  links Republicans to Trump, while Maryland Gov. Wes Moore warned that anger at Trump
+  could fade and Democrats still had to deliver.'
 primary_entities:
 - Donald Trump
 - U.S. Republican Party
@@ -43,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +78,9 @@ figures:
   series_id: MICH
   transformation: raw
   as_of: '2026-11-01'
-  caption: The University of Michigan's median one-year inflation expectations stood at 4.6% as of Nov. 1, 2026, providing dated context for the affordability concerns central to the campaign.
+  caption: The University of Michigan's median one-year inflation expectations stood
+    at 4.6% as of Nov. 1, 2026, providing dated context for the affordability concerns
+    central to the campaign.
 figures_aggregate:
   count: 1
   series_ids:
@@ -153,113 +174,57 @@ related_stories:
   headline: Trump puts his political brand at the center of the 2026 midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8103
+  strength: 0.8118
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7811
+  strength: 0.7832
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7622
+  strength: 0.7658
 - slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
+  headline: Republicans brace for potential House losses as Trump disapproval hits
+    59%
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7624
+  strength: 0.7634
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7603
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.8002
+  strength: 0.7648
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7735
+  strength: 0.7765
+- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
+  headline: Trump launches rally blitz to boost GOP midterm turnout
+  publish_date: '2026-10-10'
+  relation: related
+  strength: 0.8015
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7772
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.8048
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.768
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.8084
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.758
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7868
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.757
-- slug: 2026-09-19-vulnerable-republicans-push-back-on-trump-over-tariffs-iran-data-centers
-  headline: Vulnerable Republicans push back on Trump over tariffs, Iran, data centers
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7684
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7728
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7784
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7616
-- slug: 2026-08-27-iran-war-at-six-months-looms-over-house-races-as-gas-prices-climb
-  headline: Iran war at six months looms over House races as gas prices climb
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7616
-- slug: 2026-05-27-trump-is-getting-the-gop-he-wants-but-can-he-win-the-midterms
-  headline: Trump is getting the GOP he wants, but can he win the midterms?
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.8017
+  strength: 0.7801
 image:
   url: /articles/2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms.png
-  alt: "Illustration accompanying article: Trump’s policies put Republican congressional majorities at risk in the midterms"
+  alt: 'Illustration accompanying article: Trump’s policies put Republican congressional
+    majorities at risk in the midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump’s policies put Republican congressional majorities at risk in the midterms
 
 **Subtype:** fact
