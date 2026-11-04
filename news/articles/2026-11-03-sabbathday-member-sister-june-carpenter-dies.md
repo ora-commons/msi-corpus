@@ -1,9 +1,17 @@
 ---
 headline: Sabbathday member Sister June Carpenter dies
-secondary_headline: Village credits Carpenter with making collections more accessible to researchers
+secondary_headline: Village credits Carpenter with making collections more accessible
+  to researchers
 publish_date: '2026-11-03'
-lede: Sister June Carpenter, one of the last members of the Shaker religious movement’s only remaining community, died Tuesday, according to The Associated Press. The Associated Press reported that she was in her late 80s. The Sabbathday Lake Shaker Village in New Gloucester, Maine, said she had been struggling with health problems and limited mobility.
-nut_graf: Carpenter’s death leaves the last active Shaker community with a smaller membership. The Sabbathday Lake Shaker Village credited Carpenter with organizing and cataloging its extensive collections of history, writings and other records, making them more accessible to researchers.
+lede: Sister June Carpenter, one of the last members of the Shaker religious movement’s
+  only remaining community, died Tuesday, according to The Associated Press. The Associated
+  Press reported that she was in her late 80s. The Sabbathday Lake Shaker Village
+  in New Gloucester, Maine, said she had been struggling with health problems and
+  limited mobility.
+nut_graf: Carpenter’s death leaves the last active Shaker community with a smaller
+  membership. The Sabbathday Lake Shaker Village credited Carpenter with organizing
+  and cataloging its extensive collections of history, writings and other records,
+  making them more accessible to researchers.
 primary_entities:
 - Sister June Carpenter
 - Sabbathday Lake Shaker Village
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +147,8 @@ cross_article_links:
   strength: 0.512
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-29-students-colleagues-recall-huerta-s-ability-to-connect-with-anyone
-  headline: Students, colleagues recall Huerta's ability to connect with anyone
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5396
-- slug: 2026-10-28-documentary-captures-huerta-s-own-definition-of-her-legacy
-  headline: Documentary captures Huerta's own definition of her legacy
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5392
-- slug: 2026-10-28-dolores-huerta-s-allies-pledge-continued-organizing-after-her-death
-  headline: Dolores Huerta’s allies pledge continued organizing after her death
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.538
-- slug: 2026-10-22-orthodox-jewish-scholar-builds-lasting-ties-with-pennsylvania-amish
-  headline: Orthodox Jewish scholar builds lasting ties with Pennsylvania Amish
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5367
-- slug: 2026-07-17-clara-ester-college-student-who-ran-to-dying-king-dies-at-78
-  headline: Clara Ester, college student who ran to dying King, dies at 78
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5794
-- slug: 2026-07-24-rabbi-jeffrey-myers-retires-from-pittsburgh-s-tree-of-life
-  headline: Rabbi Jeffrey Myers retires from Pittsburgh's Tree of Life
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5417
-- slug: 2026-05-15-black-divers-honor-history-at-florida-site-of-sunken-slave-ship
-  headline: Black divers honor history at Florida site of sunken slave ship
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5552
-- slug: 2026-06-20-for-nuns-who-gave-a-lifetime-to-others-basic-end-of-life-care-is-scarce
-  headline: For nuns who gave a lifetime to others, basic end-of-life care is scarce
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5283
-- slug: 2026-02-18-jesse-jackson-civil-rights-leader-and-rainbow-push-founder-dies-at-84
-  headline: Jesse Jackson, Civil Rights leader and Rainbow/PUSH founder, dies at 84
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5641
-- slug: 2026-04-22-beth-moore-says-she-s-winding-down-living-proof-ministries-and-ministry-events
-  headline: Beth Moore says she’s winding down Living Proof Ministries and ministry events
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5463
-- slug: 2026-02-17-jesse-jackson-civil-rights-leader-and-bridge-to-lasting-change-dies-at-84
-  headline: Jesse Jackson, civil rights leader and bridge to lasting change, dies at 84
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.5542
-- slug: 2026-05-06-southern-baptist-membership-dips-to-lowest-since-1973-as-baptisms-rise
-  headline: Southern Baptist membership dips to lowest since 1973 as baptisms rise
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5369
-- slug: 2026-04-09-preserving-rural-jewish-life-is-the-focus-of-a-maine-center-this-passover
-  headline: Preserving rural Jewish life is the focus of a Maine center this Passover
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5414
-- slug: 2026-05-15-black-divers-honor-ancestors-at-underwater-memorial-to-sunken-slave-ship
-  headline: Black divers honor ancestors at underwater memorial to sunken slave ship
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5297
-- slug: 2026-02-26-cross-country-services-for-jesse-jackson-start-in-chicago
-  headline: Cross-country services for Jesse Jackson start in Chicago
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5427
-- slug: 2026-03-05-bernard-lafayette-advance-man-for-selma-voting-rights-campaign-dies-at-85
-  headline: Bernard LaFayette, advance man for Selma voting rights campaign, dies at 85
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5405
-- slug: 2026-04-25-pulitzer-winning-ap-photographer-jack-thornell-dies-at-86
-  headline: Pulitzer-winning AP photographer Jack Thornell dies at 86
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5279
-- slug: 2026-04-13-mlk-s-mason-temple-in-memphis-to-get-1-2m-federal-renovation
-  headline: MLK’s Mason Temple in Memphis to get $1.2M federal renovation
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5273
-- slug: 2026-02-19-rev-jesse-jackson-s-children-honor-his-civil-rights-legacy-in-chicago
-  headline: Rev. Jesse Jackson’s children honor his civil rights legacy in Chicago
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5352
-- slug: 2026-04-08-preserving-rural-jewish-life-is-the-focus-of-a-maine-center-this-passover
-  headline: Preserving rural Jewish life is the focus of a Maine center this Passover
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5257
+related_stories: []
 ---
-
 ## Sabbathday member Sister June Carpenter dies
 
 **Subtype:** fact
