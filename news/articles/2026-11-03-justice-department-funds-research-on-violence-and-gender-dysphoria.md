@@ -2,8 +2,21 @@
 headline: Justice Department funds research on violence and gender dysphoria
 secondary_headline: NIJ grants will examine the frequency and type of violence
 publish_date: '2026-11-03'
-lede: The US Department of Justice will award up to $1 million for research into the frequency and type of violence committed by people diagnosed and treated for gender dysphoria, according to a National Institute of Justice notice. The announcement comes as the Trump administration limits transgender people’s access to health care and identification documents showing their correct gender and more than a year after it cut funding for research into hate-fueled and extremist violence. Critics said the priorities divert attention from far-right threats, while the Department of Health and Human Services said a related report should be evaluated based on the evidence.
-nut_graf: The NIJ plan brings a research question criticized by experts and LGBTQ+ advocates into federal funding priorities while the Trump administration restricts transgender rights and has cut funding for research into hate-fueled and extremist violence. It also comes as researchers challenge the methods and conclusions of a separate Department of Health and Human Services report on gender-affirming care and political violence.
+lede: The US Department of Justice will award up to $1 million for research into the
+  frequency and type of violence committed by people diagnosed and treated for gender
+  dysphoria, according to a National Institute of Justice notice. The announcement
+  comes as the Trump administration limits transgender people’s access to health care
+  and identification documents showing their correct gender and more than a year after
+  it cut funding for research into hate-fueled and extremist violence. Critics said
+  the priorities divert attention from far-right threats, while the Department of
+  Health and Human Services said a related report should be evaluated based on the
+  evidence.
+nut_graf: The NIJ plan brings a research question criticized by experts and LGBTQ+
+  advocates into federal funding priorities while the Trump administration restricts
+  transgender rights and has cut funding for research into hate-fueled and extremist
+  violence. It also comes as researchers challenge the methods and conclusions of
+  a separate Department of Health and Human Services report on gender-affirming care
+  and political violence.
 primary_entities:
 - US Department of Justice
 - National Institute of Justice
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +164,43 @@ related_stories:
   headline: Federal prisons hold about 2,000 transgender people
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7022
+  strength: 0.7002
 - slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
   headline: Federal prison policy would bar transition-related treatment
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6916
+  strength: 0.6902
 - slug: 2026-10-21-supreme-court-rejects-bid-to-end-gender-affirming-care-in-federal-prisons
   headline: Supreme Court rejects bid to end gender-affirming care in federal prisons
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.659
+  strength: 0.658
 - slug: 2026-09-30-hhs-report-links-gender-affirming-care-support-to-left-wing-authoritarianism
   headline: HHS report links gender-affirming care support to 'left-wing authoritarianism'
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7202
+  strength: 0.7191
 - slug: 2026-09-30-trump-administration-pushes-176m-human-rights-fund-to-43-awards
   headline: Trump administration pushes $176M human rights fund to 43 awards
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6948
+  strength: 0.6951
 - slug: 2026-09-07-hhs-report-linking-trans-support-to-authoritarianism-draws-scientist-criticism
   headline: HHS report linking trans support to authoritarianism draws scientist criticism
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.7176
+  strength: 0.7167
 - slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
   headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6545
+  strength: 0.6559
 - slug: 2026-09-20-trump-order-would-create-white-house-board-to-veto-nih-grant-awards
   headline: Trump order would create White House board to veto NIH grant awards
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6583
-- slug: 2026-09-16-class-action-lawsuit-targets-nih-over-alleged-keyword-censorship-of-grants
-  headline: Class action lawsuit targets NIH over alleged keyword censorship of grants
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6593
-- slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
-  headline: US domestic violence killings rise while overall homicides fall
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6729
-- slug: 2026-07-20-omb-rule-would-give-political-appointees-control-of-1-trillion-in-grants
-  headline: OMB rule would give political appointees control of $1 trillion in grants
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6558
-- slug: 2026-06-30-hhs-reorganizes-civil-rights-office-around-religious-conscience-protections
-  headline: HHS reorganizes civil rights office around religious conscience protections
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6712
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6796
-- slug: 2026-01-22-trump-administration-expands-foreign-aid-ban-to-dei-and-gender-identity
-  headline: Trump administration expands foreign aid ban to DEI and gender identity
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7082
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6841
-- slug: 2026-05-15-federal-judge-blocks-trump-administration-from-seeking-trans-youth-records
-  headline: Federal judge blocks Trump administration from seeking trans youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6727
-- slug: 2026-05-15-federal-judge-blocks-doj-subpoenas-for-rhode-island-transgender-youth-records
-  headline: Federal judge blocks DOJ subpoenas for Rhode Island transgender youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6683
-- slug: 2026-05-13-federal-grand-jury-subpoenas-nyu-langone-for-records-on-transgender-youth-care
-  headline: Federal grand jury subpoenas NYU Langone for records on transgender youth care
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6688
-- slug: 2026-05-22-trump-doj-says-it-removed-jan-6-case-releases-as-partisan-propaganda
-  headline: Trump DOJ says it removed Jan. 6 case releases as “partisan propaganda”
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6558
-- slug: 2026-05-02-trump-doj-task-force-report-alleges-anti-christian-bias-under-biden
-  headline: Trump DOJ task force report alleges anti-Christian bias under Biden
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6635
+  strength: 0.658
 ---
-
 ## Justice Department funds research on violence and gender dysphoria
 
 **Subtype:** fact

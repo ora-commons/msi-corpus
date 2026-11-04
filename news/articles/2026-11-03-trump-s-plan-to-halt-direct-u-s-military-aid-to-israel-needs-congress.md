@@ -2,8 +2,15 @@
 headline: Trump's plan to halt direct U.S. military aid to Israel needs Congress
 secondary_headline: Netanyahu proposed a 10-year phaseout earlier in 2026
 publish_date: '2026-11-03'
-lede: President Trump said Tuesday that the United States would cut off aid to Israel by the end of the year, suggesting direct military assistance could phase out faster than expected. Trump said he had discussed the matter with Israeli Prime Minister Benjamin Netanyahu, but any unilateral move would require cooperation from Congress, which has authorized annual assistance through 2028.
-nut_graf: Trump's announcement put forward an end-of-year cutoff for aid, but Congress had authorized annual assistance through 2028 and would need to cooperate on any unilateral change. Lawmakers had drafted legislation to shift support from direct aid to joint defense technology and industrial investments.
+lede: President Trump said Tuesday that the United States would cut off aid to Israel
+  by the end of the year, suggesting direct military assistance could phase out faster
+  than expected. Trump said he had discussed the matter with Israeli Prime Minister
+  Benjamin Netanyahu, but any unilateral move would require cooperation from Congress,
+  which has authorized annual assistance through 2028.
+nut_graf: Trump's announcement put forward an end-of-year cutoff for aid, but Congress
+  had authorized annual assistance through 2028 and would need to cooperate on any
+  unilateral change. Lawmakers had drafted legislation to shift support from direct
+  aid to joint defense technology and industrial investments.
 primary_entities:
 - Trump
 - Benjamin Netanyahu
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +147,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-03-trump-plans-to-end-4-billion-annual-aid-to-israel-in-2027-and-sell-arms-to-israe
-  headline: Trump plans to end $4 billion annual aid to Israel in 2027 and sell arms to Israel
+  headline: Trump plans to end $4 billion annual aid to Israel in 2027 and sell arms
+    to Israel
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8624
+  strength: 0.8627
 - slug: 2026-10-18-trump-s-disputes-with-netanyahu-span-an-iranian-gas-field-hezbollah-and-gaza
-  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and Gaza
+  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and
+    Gaza
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7055
+  strength: 0.7056
 - slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
   headline: Trump endorses Netanyahu days before Israel's closely contested election
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6998
+  strength: 0.6999
 - slug: 2026-09-16-trump-administration-plans-2-8b-package-of-2-000-pound-bombs-to-israel
   headline: Trump administration plans $2.8B package of 2,000-pound bombs to Israel
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.725
+  strength: 0.7252
 - slug: 2026-08-17-trump-publicly-tells-israel-to-stop-gaza-strikes-as-kushner-presses-netanyahu
   headline: Trump publicly tells Israel to stop Gaza strikes as Kushner presses Netanyahu
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7326
+  strength: 0.7324
 - slug: 2026-08-28-trump-shifts-iran-strategy-to-sanctions-as-war-hits-six-months
   headline: Trump shifts Iran strategy to sanctions as war hits six months
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6742
+  strength: 0.6741
 - slug: 2026-08-27-board-of-peace-envoy-criticizes-israel-at-un-warns-of-next-gaza-war
   headline: Board of Peace envoy criticizes Israel at UN, warns of next Gaza war
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6689
+  strength: 0.6685
 - slug: 2026-07-31-trump-says-hamas-will-disarm-both-sides-dispute-scope-of-deal
   headline: Trump says Hamas will disarm; both sides dispute scope of deal
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7055
-- slug: 2026-08-09-netanyahu-rejects-u-s--backed-15-point-plan-to-disarm-gaza
-  headline: Netanyahu rejects U.S.-backed 15-point plan to disarm Gaza
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6871
-- slug: 2026-07-26-nearly-half-of-house-democrats-vote-to-block-israel-military-aid
-  headline: Nearly half of House Democrats vote to block Israel military aid
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6975
-- slug: 2026-07-28-netanyahu-trump-hold-first-face-to-face-meeting-since-launching-iran-war
-  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran war
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6911
-- slug: 2026-07-30-trump-says-hamas-commits-to-disarmament-under-gaza-framework
-  headline: Trump says Hamas commits to disarmament under Gaza framework
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.67
-- slug: 2026-07-14-house-democratic-leaders-split-on-measure-to-cut-3-3b-in-israel-aid
-  headline: House Democratic leaders split on measure to cut $3.3B in Israel aid
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6773
-- slug: 2026-07-08-trump-opens-45-day-clock-on-removing-syria-from-terrorism-list
-  headline: Trump opens 45-day clock on removing Syria from terrorism list
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6798
-- slug: 2026-06-28-trump-seeks-11-billion-in-new-farm-aid-as-government-payments-hit-record
-  headline: Trump seeks $11 billion in new farm aid as government payments hit record
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6865
-- slug: 2026-06-18-trump-called-netanyahu-f-ing-crazy-as-rift-deepens-over-iran-war
-  headline: Trump called Netanyahu 'f—ing crazy' as rift deepens over Iran war
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6715
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6799
-- slug: 2026-03-02-congress-to-vote-on-war-powers-as-trump-s-iran-war-rationale-shifts
-  headline: Congress to vote on war powers as Trump’s Iran war rationale shifts
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6865
-- slug: 2026-04-04-trump-proposes-2027-budget-boosts-pentagon-spending-to-1-5t
-  headline: Trump proposes 2027 budget boosts Pentagon spending to $1.5T
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6759
-- slug: 2026-02-20-trump-s-board-of-peace-pledges-7b-for-gaza-troops-for-stabilization-force
-  headline: Trump’s Board of Peace pledges $7B for Gaza, troops for stabilization force
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6808
+  strength: 0.7051
 ---
-
 ## Trump's plan to halt direct U.S. military aid to Israel needs Congress
 
 **Subtype:** fact
