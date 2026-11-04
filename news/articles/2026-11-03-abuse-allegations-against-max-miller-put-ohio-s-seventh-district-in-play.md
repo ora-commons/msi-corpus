@@ -234,6 +234,8 @@ related_stories:
   publish_date: '2026-10-24'
   relation: related
   strength: 0.6885
+analyses:
+- '2026-11-03-visibility-puts-2026-senate-contests-into-view-without-proving-competitiveness'
 ---
 ## Abuse allegations against Max Miller put Ohio's seventh district in play
 
@@ -302,3 +304,8 @@ The Guardian says the candidates who teach those lessons will play into the 2028
 **Publication date:** 2026-11-03
 **Title:** The candidates who will decide the US midterm elections
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-candidates-swing-states
+
+---
+
+<!-- analysis-link:2026-11-03-visibility-puts-2026-senate-contests-into-view-without-proving-competitiveness -->
+**Going deeper:** [Read MSI's analysis of Visibility and electoral competitiveness →](/analyses/2026-11-03-visibility-puts-2026-senate-contests-into-view-without-proving-competitiveness)
