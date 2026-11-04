@@ -184,6 +184,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-03-u-s-strikes-weil-dissolution-anthropic-pressure-and-election-forecasts-test-deci'
 ---
 ## The 10-Point covers Iran strikes, Weil dissolution, Anthropic IPO and presbyopia
 
@@ -227,3 +229,8 @@ The 10-Point newsletter was curated and edited by Morgan Smith and Bryony Watson
 **Publication date:** 2026-11-03
 **Title:** Control of Congress Is on the Line as America Heads to the Polls
 **URL:** https://www.wsj.com/politics/elections/control-of-congress-is-on-the-line-as-america-heads-to-the-polls-d6011e72
+
+---
+
+<!-- analysis-link:2026-11-03-u-s-strikes-weil-dissolution-anthropic-pressure-and-election-forecasts-test-deci -->
+**Going deeper:** [Read MSI's analysis of Uncertainty, exposure and pending validation →](/analyses/2026-11-03-u-s-strikes-weil-dissolution-anthropic-pressure-and-election-forecasts-test-deci)

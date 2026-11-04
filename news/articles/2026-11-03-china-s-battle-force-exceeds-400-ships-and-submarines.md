@@ -1,9 +1,18 @@
 ---
 headline: China’s battle force exceeds 400 ships and submarines
-secondary_headline: China produces more than half the world’s merchant vessels each year
+secondary_headline: China produces more than half the world’s merchant vessels each
+  year
 publish_date: '2026-11-03'
-lede: China has the world’s largest navy, with a battle force of more than 400 ships and submarines, according to official U.S. figures seen by The Wall Street Journal. China also produces more than half of the world’s merchant vessels every year, while Beijing has financed overseas ports from Sri Lanka to Israel and Peru, according to the report.
-nut_graf: The report attributes China’s naval scale to its rapid emergence in shipbuilding and its status as the world’s biggest sea-trading nation, while contrasting that position with a U.S. navy of approximately 290 ships and limited oceangoing commercial-vessel production. A separate October ISM update showed continued U.S. factory expansion alongside a third straight month of worsening manufacturer sentiment.
+lede: China has the world’s largest navy, with a battle force of more than 400 ships
+  and submarines, according to official U.S. figures seen by The Wall Street Journal.
+  China also produces more than half of the world’s merchant vessels every year, while
+  Beijing has financed overseas ports from Sri Lanka to Israel and Peru, according
+  to the report.
+nut_graf: The report attributes China’s naval scale to its rapid emergence in shipbuilding
+  and its status as the world’s biggest sea-trading nation, while contrasting that
+  position with a U.S. navy of approximately 290 ships and limited oceangoing commercial-vessel
+  production. A separate October ISM update showed continued U.S. factory expansion
+  alongside a third straight month of worsening manufacturer sentiment.
 primary_entities:
 - China
 - The Wall Street Journal
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +157,43 @@ related_stories:
   headline: China's navy exceeds the U.S. fleet in hull count
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8605
+  strength: 0.861
 - slug: 2026-10-25-hanwha-expands-u-s-shipyard-investment-as-military-demand-stays-uncertain
   headline: Hanwha expands U.S. shipyard investment as military demand stays uncertain
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7021
+  strength: 0.7011
 - slug: 2026-10-29-chinese-carmakers-pile-into-overseas-markets-as-domestic-sales-plunge
   headline: Chinese carmakers pile into overseas markets as domestic sales plunge
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6592
+  strength: 0.6591
 - slug: 2026-10-19-china-s-economy-grows-4-5-in-july-september-quarter-as-exports-strengthen
   headline: China's economy grows 4.5% in July-September quarter as exports strengthen
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6745
+  strength: 0.6744
 - slug: 2026-10-12-pentagon-reports-china-on-track-for-1-000-nuclear-weapons-by-2030
   headline: Pentagon reports China on track for 1,000 nuclear weapons by 2030
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6951
+  strength: 0.6946
 - slug: 2026-10-14-china-s-exports-surge-36-3-in-september-topping-forecasts
   headline: China's exports surge 36.3% in September, topping forecasts
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6737
+  strength: 0.6725
 - slug: 2026-09-03-g-20-statement-implicitly-criticizes-china-s-export-driven-growth
   headline: G-20 statement implicitly criticizes China's export-driven growth
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6787
+  strength: 0.6792
 - slug: 2026-08-14-china-s-auto-exports-strain-global-shipping-capacity
   headline: China's auto exports strain global shipping capacity
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7128
-- slug: 2026-07-14-navy-seeks-south-korean-shipbuilders-for-destroyers-support-vessels
-  headline: Navy seeks South Korean shipbuilders for destroyers, support vessels
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6901
-- slug: 2026-08-02-china-records-7-92-million-births-in-2025-roughly-half-of-expected-graduates
-  headline: China records 7.92 million births in 2025, roughly half of expected graduates
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6615
-- slug: 2026-07-15-china-s-crude-buying-pause-may-end-tightening-global-oil-market
-  headline: China's crude buying pause may end, tightening global oil market
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6601
-- slug: 2026-04-16-china-s-economy-grows-5-in-q1-largely-shrugging-off-iran-war-shocks
-  headline: China’s economy grows 5% in Q1, largely shrugging off Iran war shocks
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7028
-- slug: 2026-06-20-china-s-navy-maintains-near-constant-ring-of-warships-around-taiwan
-  headline: China's navy maintains near-constant ring of warships around Taiwan
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6687
-- slug: 2026-03-10-china-s-exports-surge-in-jan-feb-as-trade-with-us-shrinks
-  headline: China's exports surge in Jan-Feb as trade with US shrinks
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7044
-- slug: 2026-06-22-china-retaliates-bars-dual-use-exports-to-u-s-defense-contractors
-  headline: China retaliates, bars dual-use exports to U.S. defense contractors
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.652
-- slug: 2026-04-15-china-s-economy-grows-5-in-q1-easing-iran-war-drag-concerns
-  headline: China’s economy grows 5% in Q1, easing Iran-war drag concerns
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6829
-- slug: 2026-03-31-china-factory-activity-rebounds-in-march-as-iran-war-looms-over-growth
-  headline: China factory activity rebounds in March as Iran war looms over growth
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6835
-- slug: 2026-06-09-china-s-exports-jump-19-4-in-may-led-by-tech-and-autos
-  headline: China's exports jump 19.4% in May, led by tech and autos
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.657
-- slug: 2026-03-30-china-factory-activity-rebounds-in-march-as-iran-war-looms-over-growth
-  headline: China factory activity rebounds in March as Iran war looms over growth
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6743
-- slug: 2026-04-30-chinese-factory-output-expands-for-second-straight-month-despite-iran-war
-  headline: Chinese factory output expands for second straight month despite Iran war
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6645
+  strength: 0.7123
 ---
-
 ## China’s battle force exceeds 400 ships and submarines
 
 **Subtype:** fact

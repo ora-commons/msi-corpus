@@ -2,8 +2,19 @@
 headline: Small-business struggles shape Wisconsin’s competitive House race
 secondary_headline: Cooke targets health care costs as Van Orden defends Trump’s record
 publish_date: '2026-11-03'
-lede: Erin Klaus will close her downtown Eau Claire artisan market at the end of 2026 after 18 years, with sales trending downward for two years. Chippewa Falls owner Amy Burke Lepper said monthly health insurance for her and her husband rose from more than $1,000 to nearly $3,000, leaving her without coverage for the first time in her life. Affordability has become central to the Nov. 3 House race in western Wisconsin’s third congressional district, where Republican incumbent Derrick Van Orden faces Democratic challenger Rebecca Cooke in her third run.
-nut_graf: The district was always expected to be competitive, according to The Guardian, and accounts from Erin Klaus and Amy Burke Lepper show why affordability has become central to the campaign. Klaus described her sales trending downward for two years, while Lepper reported rising health insurance costs and tariff-related pressure on her businesses. Klaus said changing the seat would not immediately resolve the economic pain.
+lede: Erin Klaus will close her downtown Eau Claire artisan market at the end of 2026
+  after 18 years, with sales trending downward for two years. Chippewa Falls owner
+  Amy Burke Lepper said monthly health insurance for her and her husband rose from
+  more than $1,000 to nearly $3,000, leaving her without coverage for the first time
+  in her life. Affordability has become central to the Nov. 3 House race in western
+  Wisconsin’s third congressional district, where Republican incumbent Derrick Van
+  Orden faces Democratic challenger Rebecca Cooke in her third run.
+nut_graf: The district was always expected to be competitive, according to The Guardian,
+  and accounts from Erin Klaus and Amy Burke Lepper show why affordability has become
+  central to the campaign. Klaus described her sales trending downward for two years,
+  while Lepper reported rising health insurance costs and tariff-related pressure
+  on her businesses. Klaus said changing the seat would not immediately resolve the
+  economic pain.
 primary_entities:
 - Derrick Van Orden
 - Rebecca Cooke
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +153,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-02-trump-weak-new-hampshire-standing-complicates-sununu-senate-bid
-  headline: Cook shifts New Hampshire race toward Pappas; Trump approval sits at 32%
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.63
-- slug: 2026-10-30-bill-hill-challenges-rep-nick-begich-with-affordability-pitch-in-alaska
-  headline: Bill Hill challenges Rep. Nick Begich with affordability pitch in Alaska
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6398
 - slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
   headline: Arkansas Democrats push affordability message in final midterm stretch
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6619
-- slug: 2026-10-31-healthcare-costs-weigh-on-florida-swing-district-voters-before-election-day
-  headline: Healthcare costs weigh on Florida swing-district voters before Election Day
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6173
-- slug: 2026-10-28-susan-collins-seeks-sixth-term-in-tight-polarized-maine-senate-race
-  headline: Susan Collins seeks sixth term in tight, polarized Maine Senate race
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6178
-- slug: 2026-10-21-brooks-mackenzie-offer-different-childcare-plans-in-pennsylvania-s-7th-district
-  headline: Brooks, Mackenzie offer different childcare plans in Pennsylvania's 7th District
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.625
+  strength: 0.6622
 - slug: 2026-10-11-house-control-hinges-on-one-competitive-washington-district
   headline: House control hinges on one competitive Washington district
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.6706
-- slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
-  headline: Populist Democrats make the affordability pitch in red-state races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6173
-- slug: 2026-10-18-brooks-leads-mackenzie-45-to-40-in-pennsylvania-7th-district-poll
-  headline: Brooks leads Mackenzie 45% to 40% in Pennsylvania 7th District poll
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6221
-- slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
-  headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.638
-- slug: 2026-10-09-senate-candidates-spar-over-affordability-tariffs-in-three-state-debate-night
-  headline: Senate candidates spar over affordability, tariffs in three-state debate night
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6274
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6357
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6239
-- slug: 2026-09-26-maine-loggers-and-fishers-absorb-rising-costs-from-trump-canada-trade-war
-  headline: Maine loggers and fishers absorb rising costs from Trump-Canada trade war
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6337
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6191
+  strength: 0.6707
 - slug: 2026-08-15-wisconsin-canvassers-push-healthcare-message-in-competitive-3rd-district
   headline: Wisconsin canvassers push healthcare message in competitive 3rd district
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6994
-- slug: 2026-09-03-er-nurse-berman-launches-bid-for-steil-s-wisconsin-house-seat
-  headline: ER nurse Berman launches bid for Steil's Wisconsin House seat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6355
-- slug: 2026-08-28-democrats-push-affordability-republicans-spotlight-dsa-in-fall-sprint
-  headline: Democrats push affordability, Republicans spotlight DSA in fall sprint
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6299
-- slug: 2026-07-30-hong-leads-wisconsin-primary-poll-as-barnes-withdraws
-  headline: Hong leads Wisconsin primary poll as Barnes withdraws
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6165
-- slug: 2026-07-20-minnesota-math-teacher-jake-johnson-runs-for-congress-on-affordability
-  headline: Minnesota math teacher Jake Johnson runs for Congress on affordability
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6281
+  strength: 0.7
 ---
-
 ## Small-business struggles shape Wisconsin’s competitive House race
 
 **Subtype:** fact

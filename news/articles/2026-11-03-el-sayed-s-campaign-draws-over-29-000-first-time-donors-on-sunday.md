@@ -210,6 +210,8 @@ related_stories:
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7537
+analyses:
+- '2026-11-03-campaign-moves-reveal-competing-electoral-stakes-across-key-battlegrounds'
 ---
 ## El-Sayed’s campaign draws over 29,000 first-time donors on Sunday
 
@@ -259,3 +261,8 @@ The Journal said the ad might have backfired. Acton’s mother had been separate
 **Publication date:** 2026-11-03
 **Title:** Five Things We’re Watching on Election Day
 **URL:** https://www.wsj.com/politics/elections/five-things-were-watching-on-election-day-66a7ade3
+
+---
+
+<!-- analysis-link:2026-11-03-campaign-moves-reveal-competing-electoral-stakes-across-key-battlegrounds -->
+**Going deeper:** [Read MSI's analysis of party incentives and electoral signals →](/analyses/2026-11-03-campaign-moves-reveal-competing-electoral-stakes-across-key-battlegrounds)
