@@ -2,8 +2,19 @@
 headline: Los Angeles voters choose between Karen Bass and Nithya Raman for mayor
 secondary_headline: Public safety and homelessness shape the Los Angeles mayoral contest
 publish_date: '2026-11-03'
-lede: Los Angeles voters are deciding Tuesday whether to reelect Mayor Karen Bass or elect City Council member Nithya Raman, who is backed by the Democratic Socialists of America. Bass continues to face fallout from the deadly 2025 Palisades Fire as Los Angeles also struggles with an ongoing homelessness crisis and widespread complaints about a lack of basic services; public safety and homelessness are central issues in the race.
-nut_graf: The outcome will have implications beyond the city limits as Los Angeles prepares to host the 2028 Olympic Games. A Raman victory would put a democratic socialist in charge of the nation’s second most populous city after Zohran Mamdani was elected mayor of New York last year, while a Bass victory would keep an incumbent in office. The Associated Press characterized the alternatives as whether Los Angeles would follow New York’s lead or keep an establishment figure in charge despite a difficult first term.
+lede: Los Angeles voters are deciding Tuesday whether to reelect Mayor Karen Bass
+  or elect City Council member Nithya Raman, who is backed by the Democratic Socialists
+  of America. Bass continues to face fallout from the deadly 2025 Palisades Fire as
+  Los Angeles also struggles with an ongoing homelessness crisis and widespread complaints
+  about a lack of basic services; public safety and homelessness are central issues
+  in the race.
+nut_graf: The outcome will have implications beyond the city limits as Los Angeles
+  prepares to host the 2028 Olympic Games. A Raman victory would put a democratic
+  socialist in charge of the nation’s second most populous city after Zohran Mamdani
+  was elected mayor of New York last year, while a Bass victory would keep an incumbent
+  in office. The Associated Press characterized the alternatives as whether Los Angeles
+  would follow New York’s lead or keep an establishment figure in charge despite a
+  difficult first term.
 primary_entities:
 - Karen Bass
 - Nithya Raman
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +156,45 @@ related_stories:
   headline: Bass trails Raman in LA mayoral race one month from election
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.8684
-- slug: 2026-10-10-emhoff-privately-would-prefer-harris-not-run-again
-  headline: Emhoff privately would prefer Harris not run again
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6269
-- slug: 2026-10-06-newsom-calls-trump-take-out-remarks-disgusting-and-disqualifying
-  headline: Newsom calls Trump 'take out' remarks 'disgusting and disqualifying'
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6245
+  strength: 0.8688
 - slug: 2026-06-03-karen-bass-advances-to-la-mayoral-runoff-after-falling-short-of-majority
   headline: Karen Bass advances to LA mayoral runoff after falling short of majority
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.847
+  strength: 0.8479
 - slug: 2026-02-08-los-angeles-mayoral-race-opens-for-karen-bass-amid-wildfire-fallout
   headline: Los Angeles mayoral race opens for Karen Bass amid wildfire fallout
   publish_date: '2026-02-08'
   relation: related
-  strength: 0.8167
+  strength: 0.8173
 - slug: 2026-05-29-la-mayor-karen-bass-touts-record-in-reelection-bid-after-wildfires-homelessness-
-  headline: LA Mayor Karen Bass touts record in reelection bid after wildfires, homelessness peril
+  headline: LA Mayor Karen Bass touts record in reelection bid after wildfires, homelessness
+    peril
   publish_date: '2026-05-29'
   relation: related
-  strength: 0.7796
+  strength: 0.7795
 - slug: 2026-06-28-democratic-socialists-take-office-in-three-major-us-cities
   headline: Democratic socialists take office in three major US cities
   publish_date: '2026-06-28'
   relation: related
-  strength: 0.7234
+  strength: 0.7213
 - slug: 2026-06-13-spencer-pratt-concedes-la-mayor-race-declares-war-on-advancing-candidates
   headline: Spencer Pratt concedes LA mayor race, declares 'war' on advancing candidates
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.7263
+  strength: 0.7258
 - slug: 2026-06-08-spencer-pratt-s-l-a-mayor-hopes-fade-as-he-slips-into-third-place
   headline: Spencer Pratt’s L.A. mayor hopes fade as he slips into third place
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7241
+  strength: 0.7227
 - slug: 2026-06-01-california-governor-and-los-angeles-mayor-races-remain-wide-open-ahead-of-primar
-  headline: California governor and Los Angeles mayor races remain wide open ahead of primary
+  headline: California governor and Los Angeles mayor races remain wide open ahead
+    of primary
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7056
-- slug: 2026-05-08-major-federal-drug-raid-in-los-angeles-spotlights-public-safety-concerns
-  headline: Major federal drug raid in Los Angeles spotlights public safety concerns
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7006
-- slug: 2026-05-14-spencer-pratt-s-viral-campaign-shakes-up-los-angeles-mayoral-race
-  headline: Spencer Pratt's viral campaign shakes up Los Angeles mayoral race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.685
-- slug: 2026-06-05-harris-and-newsom-weigh-potential-2028-presidential-showdown
-  headline: Harris and Newsom weigh potential 2028 presidential showdown
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6711
-- slug: 2026-05-07-major-federal-drug-raid-in-los-angeles-spotlights-public-safety-concerns
-  headline: Major federal drug raid in Los Angeles spotlights public safety concerns
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6832
-- slug: 2026-05-14-the-hills-villain-makes-a-splash-as-candidate-for-la-mayor
-  headline: “The Hills” villain makes a splash as candidate for LA mayor
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6607
-- slug: 2026-06-14-mamdani-wades-into-new-york-primaries-tests-political-power
-  headline: Mamdani wades into New York primaries, tests political power
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6423
-- slug: 2026-05-21-spencer-pratt-leans-on-ai-slop-virality-in-la-mayor-race
-  headline: Spencer Pratt leans on “AI slop” virality in LA mayor race
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6513
-- slug: 2026-04-17-mamdani-endorses-cuomo-accuser-in-city-council-race
-  headline: Mamdani endorses Cuomo accuser in city council race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6504
-- slug: 2026-06-17-la-leaders-back-probe-into-police-shooting-of-dog-during-knicks-celebration
-  headline: LA leaders back probe into police shooting of dog during Knicks celebration
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6231
-- slug: 2026-06-12-trump-suspends-federal-funding-to-la-homeless-agency-over-fraud-allegations
-  headline: Trump suspends federal funding to LA homeless agency over fraud allegations
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6231
+  strength: 0.7043
 ---
-
 ## Los Angeles voters choose between Karen Bass and Nithya Raman for mayor
 
 **Subtype:** fact
