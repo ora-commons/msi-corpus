@@ -1,9 +1,19 @@
 ---
 headline: Midterm voters cite cost of living and dissatisfaction with Trump
-secondary_headline: Nearly half strongly disapprove of Congress's job performance; both parties draw skepticism
+secondary_headline: Nearly half strongly disapprove of Congress's job performance;
+  both parties draw skepticism
 publish_date: '2026-11-03'
-lede: Preliminary results from a national survey of more than 79,000 registered voters found that roughly nine in 10 midterm voters considered the cost of living crucial or major to their congressional choices. Almost two-thirds said inflation had risen more because of President Trump's policies, and about four in 10 said opposition to Trump was one reason for their House vote. The Voter Poll by SSRS conducted interviews across all 50 states from Oct. 19 through Nov. 3.
-nut_graf: The survey shows that economic pressure, dissatisfaction with Trump and disapproval of Congress and skepticism toward both parties were central to the midterm electorate, even as Democrats appeared well positioned to take the House and had a chance at the Senate. It measures voter priorities around the election, not the final congressional outcome.
+lede: Preliminary results from a national survey of more than 79,000 registered voters
+  found that roughly nine in 10 midterm voters considered the cost of living crucial
+  or major to their congressional choices. Almost two-thirds said inflation had risen
+  more because of President Trump's policies, and about four in 10 said opposition
+  to Trump was one reason for their House vote. The Voter Poll by SSRS conducted interviews
+  across all 50 states from Oct. 19 through Nov. 3.
+nut_graf: The survey shows that economic pressure, dissatisfaction with Trump and
+  disapproval of Congress and skepticism toward both parties were central to the midterm
+  electorate, even as Democrats appeared well positioned to take the House and had
+  a chance at the Senate. It measures voter priorities around the election, not the
+  final congressional outcome.
 primary_entities:
 - Trump
 - Voter Poll by SSRS
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,44 @@ related_stories:
   headline: Cost of living, Iran war and AI weigh on US voters days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7823
+  strength: 0.7818
 - slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
   headline: Cost of living and Trump's second-term policies shape 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.744
+  strength: 0.7448
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7357
-- slug: 2026-11-03-final-polls-put-trump-s-approval-around-38-only-29-view-democrats-positively
-  headline: Final polls put Trump's approval around 38%; only 29% view Democrats positively
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7308
+  strength: 0.7353
 - slug: 2026-10-30-harris-poll-finds-corruption-second-only-to-cost-of-living-for-voters
   headline: Harris poll finds corruption second only to cost of living for voters
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7585
+  strength: 0.7592
+- slug: 2026-11-03-final-polls-put-trump-s-approval-around-38-only-29-view-democrats-positively
+  headline: Final polls put Trump's approval around 38%; only 29% view Democrats positively
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.7301
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7737
+  strength: 0.7745
 - slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
   headline: Democrats lead House polling as Trump approval stays below 50%
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7264
+  strength: 0.7265
 - slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
   headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7256
-- slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
-  headline: Wall Street Journal seeks reader questions on midterms and the economy
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7497
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7689
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.728
-- slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
-  headline: New York Times/Siena survey records 36% approval for Trump
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7271
-- slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
-  headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7626
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7435
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7447
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7264
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7441
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7277
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7409
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7517
+  strength: 0.7262
 ---
-
 ## Midterm voters cite cost of living and dissatisfaction with Trump
 
 **Subtype:** fact

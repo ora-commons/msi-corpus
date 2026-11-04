@@ -1,9 +1,17 @@
 ---
 headline: NPR posts tracker for changes in how elections run and redistricting proposals
-secondary_headline: NPR said most measure results were posted below, with Colorado's results linked separately
+secondary_headline: NPR said most measure results were posted below, with Colorado's
+  results linked separately
 publish_date: '2026-11-03'
-lede: 'NPR''s Washington Desk published an election-night results tracker on November 3, 2026, for ballot measures in the seven states NPR named: Alaska, Arizona, California, Colorado, Maryland, Missouri and Nevada. Alaska, Arizona, California and Nevada are voting on changes to how their elections are run, including voter identification measures, while Colorado, Maryland and Missouri will decide on redistricting proposals.'
-nut_graf: NPR said results for most of these ballot measures were posted below the main list, with Colorado's results linked separately. The retrieved page text showed repeated "Loading..." placeholders instead of vote totals, so it pointed readers to result locations without establishing any measure's outcome.
+lede: 'NPR''s Washington Desk published an election-night results tracker on November
+  3, 2026, for ballot measures in the seven states NPR named: Alaska, Arizona, California,
+  Colorado, Maryland, Missouri and Nevada. Alaska, Arizona, California and Nevada
+  are voting on changes to how their elections are run, including voter identification
+  measures, while Colorado, Maryland and Missouri will decide on redistricting proposals.'
+nut_graf: NPR said results for most of these ballot measures were posted below the
+  main list, with Colorado's results linked separately. The retrieved page text showed
+  repeated "Loading..." placeholders instead of vote totals, so it pointed readers
+  to result locations without establishing any measure's outcome.
 primary_entities:
 - NPR Washington Desk
 - Alaska
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -166,7 +175,8 @@ related_stories:
   relation: related
   strength: 0.6999
 - slug: 2026-11-03-republicans-rare-mid-decade-redistricting-likely-falls-short-in-house-fight
-  headline: Republicans' rare mid-decade redistricting likely falls short in House fight
+  headline: Republicans' rare mid-decade redistricting likely falls short in House
+    fight
   publish_date: '2026-11-03'
   relation: related
   strength: 0.6658
@@ -176,72 +186,12 @@ related_stories:
   relation: related
   strength: 0.7048
 - slug: 2026-10-30-nevada-voters-decide-governor-u-s-house-and-state-races-in-tuesday-s-election
-  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's election
+  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's
+    election
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6916
-- slug: 2026-10-30-missouri-voters-decide-congressional-races-and-five-ballot-measures-tuesday
-  headline: Missouri voters decide congressional races and five ballot measures Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6896
-- slug: 2026-10-30-north-dakota-voters-decide-house-statewide-and-legislative-races-tuesday
-  headline: North Dakota voters decide House, statewide and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6845
-- slug: 2026-10-30-colorado-voters-decide-federal-state-and-local-races-tuesday
-  headline: Colorado voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6823
-- slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
-  headline: Connecticut voters decide governor, House and statewide races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6808
-- slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
-  headline: Early voting advances as Trump administration pressures state elections
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6531
-- slug: 2026-10-30-new-mexico-voters-decide-senate-governor-and-state-races-in-tuesday-s-midterms
-  headline: New Mexico voters decide Senate, governor and state races in Tuesday's midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6632
-- slug: 2026-10-30-washington-voters-decide-federal-and-state-races-tuesday-mostly-by-mail
-  headline: Washington voters decide federal and state races Tuesday, mostly by mail
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6556
-- slug: 2026-10-22-voters-will-decide-mail-ballot-identification-measures-in-california-colorado-an
-  headline: Voters will decide mail-ballot identification measures in California, Colorado and Nevada
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7023
-- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: Montana voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6518
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6858
-- slug: 2026-10-21-justice-department-notifies-counties-of-planned-election-day-monitoring
-  headline: Justice Department notifies counties of planned Election Day monitoring
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6774
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6541
 ---
-
 ## NPR posts tracker for changes in how elections run and redistricting proposals
 
 **Subtype:** fact
