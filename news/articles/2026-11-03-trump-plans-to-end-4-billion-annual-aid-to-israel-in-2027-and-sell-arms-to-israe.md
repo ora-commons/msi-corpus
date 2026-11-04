@@ -1,9 +1,22 @@
 ---
-headline: Trump plans to end $4 billion annual aid to Israel in 2027 and sell arms to Israel
-secondary_headline: Netanyahu approached Trump about a proposal; his office had no immediate comment
+headline: Trump plans to end $4 billion annual aid to Israel in 2027 and sell arms
+  to Israel
+secondary_headline: Netanyahu approached Trump about a proposal; his office had no
+  immediate comment
 publish_date: '2026-11-03'
-lede: President Donald Trump said Tuesday that the United States will stop providing Israel with $4 billion each year in aid in 2027 but will sell the country arms. Trump, speaking by phone with Fox News Channel on Election Day for the midterms, said Israeli Prime Minister Benjamin Netanyahu had approached him about the idea and that they had discussed it for a couple of years. Netanyahu's office had no immediate comment.
-nut_graf: The announcement would end $4 billion in annual U.S. aid to Israel in 2027 while the United States would sell arms. Trump said Israel did not need the aid and cited its cost to the United States and its role as a Democratic talking point. An academic study published last year showed at least $21.7 billion in military assistance to Israel after the Gaza war began in 2023, while a separate Costs of War project study estimated roughly $10 billion more for security aid and operations in the broader Middle East over two years.
+lede: President Donald Trump said Tuesday that the United States will stop providing
+  Israel with $4 billion each year in aid in 2027 but will sell the country arms.
+  Trump, speaking by phone with Fox News Channel on Election Day for the midterms,
+  said Israeli Prime Minister Benjamin Netanyahu had approached him about the idea
+  and that they had discussed it for a couple of years. Netanyahu's office had no
+  immediate comment.
+nut_graf: The announcement would end $4 billion in annual U.S. aid to Israel in 2027
+  while the United States would sell arms. Trump said Israel did not need the aid
+  and cited its cost to the United States and its role as a Democratic talking point.
+  An academic study published last year showed at least $21.7 billion in military
+  assistance to Israel after the Gaza war began in 2023, while a separate Costs of
+  War project study estimated roughly $10 billion more for security aid and operations
+  in the broader Middle East over two years.
 primary_entities:
 - Donald Trump
 - United States
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +157,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-18-trump-s-disputes-with-netanyahu-span-an-iranian-gas-field-hezbollah-and-gaza
-  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and Gaza
+  headline: Trump's disputes with Netanyahu span an Iranian gas field, Hezbollah and
+    Gaza
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7086
+  strength: 0.7089
 - slug: 2026-10-18-trump-endorses-netanyahu-days-before-israel-s-closely-contested-election
   headline: Trump endorses Netanyahu days before Israel's closely contested election
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6995
+  strength: 0.7003
 - slug: 2026-09-16-trump-administration-plans-2-8b-package-of-2-000-pound-bombs-to-israel
   headline: Trump administration plans $2.8B package of 2,000-pound bombs to Israel
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7768
+  strength: 0.7784
 - slug: 2026-09-17-roth-warns-trump-faces-icc-prosecution-risk-over-2-8b-israel-bomb-deal
   headline: Roth warns Trump faces ICC prosecution risk over $2.8B Israel bomb deal
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6719
+  strength: 0.673
 - slug: 2026-09-16-meeks-puts-hold-on-2-8bn-israel-bomb-sale-over-civilian-safeguards
   headline: Meeks puts hold on $2.8bn Israel bomb sale over civilian safeguards
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6651
+  strength: 0.6657
 - slug: 2026-09-10-current-tariff-pace-would-take-nearly-five-years-to-cover-trump-payout
   headline: Current tariff pace would take nearly five years to cover Trump payout
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6674
+  strength: 0.6676
 - slug: 2026-08-17-trump-publicly-tells-israel-to-stop-gaza-strikes-as-kushner-presses-netanyahu
   headline: Trump publicly tells Israel to stop Gaza strikes as Kushner presses Netanyahu
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7185
+  strength: 0.7196
 - slug: 2026-09-10-experts-offer-different-legal-views-of-trump-s-proposed-5-000-payments
   headline: Experts offer different legal views of Trump's proposed $5,000 payments
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6593
-- slug: 2026-08-28-trump-shifts-iran-strategy-to-sanctions-as-war-hits-six-months
-  headline: Trump shifts Iran strategy to sanctions as war hits six months
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6762
-- slug: 2026-08-27-board-of-peace-envoy-criticizes-israel-at-un-warns-of-next-gaza-war
-  headline: Board of Peace envoy criticizes Israel at UN, warns of next Gaza war
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6773
-- slug: 2026-08-09-netanyahu-rejects-u-s--backed-15-point-plan-to-disarm-gaza
-  headline: Netanyahu rejects U.S.-backed 15-point plan to disarm Gaza
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6807
-- slug: 2026-07-31-trump-says-hamas-will-disarm-both-sides-dispute-scope-of-deal
-  headline: Trump says Hamas will disarm; both sides dispute scope of deal
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6903
-- slug: 2026-07-28-netanyahu-trump-hold-first-face-to-face-meeting-since-launching-iran-war
-  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran war
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6871
-- slug: 2026-07-30-trump-says-hamas-commits-to-disarmament-under-gaza-framework
-  headline: Trump says Hamas commits to disarmament under Gaza framework
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6772
-- slug: 2026-07-26-nearly-half-of-house-democrats-vote-to-block-israel-military-aid
-  headline: Nearly half of House Democrats vote to block Israel military aid
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6767
-- slug: 2026-07-31-trump-says-us-has-not-agreed-to-ukraine-patriot-production-license
-  headline: Trump says US has not agreed to Ukraine Patriot production license
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6663
-- slug: 2026-01-31-us-approves-6-67b-in-arms-for-israel-9b-for-saudi-arabia
-  headline: US approves $6.67B in arms for Israel, $9B for Saudi Arabia
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.7079
-- slug: 2026-02-20-trump-s-board-of-peace-pledges-7b-for-gaza-troops-for-stabilization-force
-  headline: Trump’s Board of Peace pledges $7B for Gaza, troops for stabilization force
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7051
-- slug: 2026-04-04-trump-proposes-2027-budget-boosts-pentagon-spending-to-1-5t
-  headline: Trump proposes 2027 budget boosts Pentagon spending to $1.5T
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6913
-- slug: 2026-01-08-trump-proposes-1-5t-2027-defense-spending-amid-pentagon-contractor-pressure
-  headline: Trump proposes $1.5T 2027 defense spending amid Pentagon contractor pressure
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7003
+  strength: 0.6601
 ---
-
 ## Trump plans to end $4 billion annual aid to Israel in 2027 and sell arms to Israel
 
 **Subtype:** fact

@@ -30,7 +30,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -49,107 +50,47 @@ cross_article_links: []
 draft: false
 related_stories:
 - slug: 2026-09-24-iranian-customs-data-show-1-300-chinese-dual-use-shipments-to-defense-ministry
-  headline: Iranian customs data show 1,300 Chinese dual-use shipments to defense ministry
+  headline: Iranian customs data show 1,300 Chinese dual-use shipments to defense
+    ministry
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6942
+  strength: 0.694
 - slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
   headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6864
+  strength: 0.6872
 - slug: 2026-09-02-xi-arrives-in-egypt-for-state-visit-meets-with-sisi
   headline: Xi arrives in Egypt for state visit, meets with Sisi
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7421
+  strength: 0.7424
 - slug: 2026-09-03-xi-meets-el-sissi-in-cairo-as-china-deepens-egypt-partnership
   headline: Xi meets el-Sissi in Cairo as China deepens Egypt partnership
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7367
+  strength: 0.7375
 - slug: 2026-08-26-trump-s-iran-sanctions-face-china-caveat-ahead-of-xi-summit
   headline: Trump's Iran sanctions face China caveat ahead of Xi summit
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6967
+  strength: 0.6997
 - slug: 2026-07-28-china-keeps-mideast-oil-flowing-despite-houthi-attacks-u-s-blockade
   headline: China keeps Mideast oil flowing despite Houthi attacks, U.S. blockade
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6953
+  strength: 0.6975
 - slug: 2026-05-10-china-steps-up-iran-war-diplomacy-ahead-of-trump-xi-summit
   headline: China steps up Iran war diplomacy ahead of Trump-Xi summit
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7441
+  strength: 0.745
 - slug: 2026-05-13-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-looms
   headline: Trump heads to Beijing for talks with Xi as Iran war looms
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7264
-- slug: 2026-05-13-trump-downplays-iran-rift-as-he-heads-to-beijing-for-xi-summit
-  headline: Trump downplays Iran rift as he heads to Beijing for Xi summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.722
-- slug: 2026-05-09-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-adds-trip-tension
-  headline: Trump heads to Beijing for talks with Xi as Iran war adds trip tension
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7201
-- slug: 2026-02-05-trump-says-he-discussed-iran-with-xi-and-plans-april-beijing-visit
-  headline: Trump says he discussed Iran with Xi and plans April Beijing visit
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7301
-- slug: 2026-05-14-trump-downplays-iran-tensions-with-xi-before-beijing-summit
-  headline: Trump downplays Iran tensions with Xi before Beijing summit
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7102
-- slug: 2026-05-14-trump-downplays-iran-rift-as-he-departs-for-summit-with-xi-in-beijing
-  headline: Trump Downplays Iran Rift as He Departs for Summit With Xi in Beijing
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7025
-- slug: 2026-04-24-china-s-quiet-role-in-middle-east-peace-talks-gains-attention
-  headline: China’s quiet role in Middle East peace talks gains attention
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.7084
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6967
-- slug: 2026-04-04-china-proposes-five-point-iran-war-plan-with-pakistan-seeks-u-n-opposition
-  headline: China proposes five-point Iran-war plan with Pakistan, seeks U.N. opposition
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7073
-- slug: 2026-05-09-trump-heads-to-beijing-for-state-visit-as-iran-war-trade-tensions-loom
-  headline: Trump heads to Beijing for state visit as Iran war, trade tensions loom
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6966
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6921
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6911
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6891
+  strength: 0.7273
 ---
-
 ## China holds Gulf meetings before anticipated Trump-Xi meeting
 
 **Subtype:** fact

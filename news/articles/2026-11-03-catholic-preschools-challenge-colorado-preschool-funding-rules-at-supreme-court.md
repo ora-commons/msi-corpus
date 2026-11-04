@@ -1,9 +1,20 @@
 ---
-headline: Catholic preschools challenge Colorado preschool funding rules at Supreme Court
+headline: Catholic preschools challenge Colorado preschool funding rules at Supreme
+  Court
 secondary_headline: Colorado says the schools may join under equal-opportunity terms
 publish_date: '2026-11-03'
-lede: Two Catholic preschools are challenging Colorado's requirement that publicly funded preschools accept equal-opportunity enrollment terms, arguing that conditioning state preschool funding on the agreement violates the First Amendment. Colorado says the preschools remain welcome to participate in a 2023 state funding program that provides 15 hours per week of state-funded preschool if they accept the same rules that apply to all other publicly funded preschools.
-nut_graf: The legal conflict in St Mary Catholic Parish v Roy is whether Colorado may condition access to public preschool funding on an equal-opportunity enrollment agreement that the two Catholic preschools say violates the First Amendment. A lower appeals court sided with Colorado, but the US Conference of Catholic Bishops warns that the ruling could embolden other states and municipalities to enact ostensibly neutral statutes that discriminate in fact.
+lede: Two Catholic preschools are challenging Colorado's requirement that publicly
+  funded preschools accept equal-opportunity enrollment terms, arguing that conditioning
+  state preschool funding on the agreement violates the First Amendment. Colorado
+  says the preschools remain welcome to participate in a 2023 state funding program
+  that provides 15 hours per week of state-funded preschool if they accept the same
+  rules that apply to all other publicly funded preschools.
+nut_graf: The legal conflict in St Mary Catholic Parish v Roy is whether Colorado
+  may condition access to public preschool funding on an equal-opportunity enrollment
+  agreement that the two Catholic preschools say violates the First Amendment. A lower
+  appeals court sided with Colorado, but the US Conference of Catholic Bishops warns
+  that the ruling could embolden other states and municipalities to enact ostensibly
+  neutral statutes that discriminate in fact.
 primary_entities:
 - St Mary Catholic Parish v Roy
 - Colorado
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +153,40 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-catholic-preschools-challenge-colorado-preschool-funding-rules-at-supreme-court.png
-  alt: 'Illustration accompanying article: Catholic preschools challenge Colorado preschool funding rules at Supreme Court'
+  alt: 'Illustration accompanying article: Catholic preschools challenge Colorado
+    preschool funding rules at Supreme Court'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-20-democratic-governors-divided-over-federal-scholarship-tax-credit
-  headline: Democratic governors divided over Federal Scholarship Tax Credit
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6473
 - slug: 2026-09-29-federal-judge-allows-ben-gamla-religious-charter-school-suit-to-proceed
   headline: Federal judge allows Ben Gamla religious charter school suit to proceed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6655
-- slug: 2026-10-05-supreme-court-opens-new-term-with-cases-on-climate-voting-guns-religion
-  headline: Supreme Court opens new term with cases on climate, voting, guns, religion
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6308
-- slug: 2026-10-03-supreme-court-opens-new-term-with-major-religion-guns-climate-cases
-  headline: Supreme Court opens new term with major religion, guns, climate cases
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6304
+  strength: 0.6653
 - slug: 2026-04-20-supreme-court-takes-up-catholic-preschool-funding-case
   headline: Supreme Court takes up Catholic preschool funding case
   publish_date: '2026-04-20'
   relation: related
-  strength: 0.8346
-- slug: 2026-08-17-civil-rights-groups-petition-supreme-court-to-review-texas-ten-commandments-law
-  headline: Civil rights groups petition Supreme Court to review Texas Ten Commandments law
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6403
-- slug: 2026-06-29-texas-board-votes-9-5-to-require-bible-passages-in-public-schools
-  headline: Texas board votes 9-5 to require Bible passages in public schools
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6251
-- slug: 2026-05-21-massachusetts-lawsuit-alleges-state-schools-segregate-black-and-latino-students
-  headline: Massachusetts lawsuit alleges state schools segregate Black and Latino students
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.645
+  strength: 0.834
 - slug: 2026-04-26-more-kids-attend-state-funded-preschool-as-universal-access-expands
   headline: More kids attend state-funded preschool as universal access expands
   publish_date: '2026-04-26'
   relation: related
-  strength: 0.6537
+  strength: 0.6535
 - slug: 2026-04-01-supreme-court-rejects-colorado-s-ban-on-conversion-therapy-for-lgbtq-kids
-  headline: Supreme Court rejects Colorado’s ban on “conversion therapy” for LGBTQ kids
+  headline: Supreme Court rejects Colorado’s ban on “conversion therapy” for LGBTQ
+    kids
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.6513
-- slug: 2026-03-04-supreme-court-blocks-california-schools-transgender-notification-policy
-  headline: Supreme Court blocks California schools’ transgender notification policy
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6489
-- slug: 2026-05-17-colorado-enacts-first-paid-nicu-leave-law-as-parents-push-for-federal-protection
-  headline: Colorado enacts first paid NICU leave law as parents push for federal protections
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6282
-- slug: 2026-04-08-texas-board-weighs-new-bible-inclusive-reading-list-for-public-schools
-  headline: Texas board weighs new Bible-inclusive reading list for public schools
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6355
-- slug: 2026-05-17-parents-push-for-nicu-leave-after-wins-in-colorado-and-illinois
-  headline: Parents push for NICU leave after wins in Colorado and Illinois
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6201
-- slug: 2026-04-29-bill-seeks-to-screen-california-kindergartners-for-basic-math-skills
-  headline: Bill seeks to screen California kindergartners for basic math skills
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6221
-- slug: 2026-03-21-texas-accepts-some-islamic-schools-into-voucher-program-after-lawsuits
-  headline: Texas accepts some Islamic schools into voucher program after lawsuits
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6303
-- slug: 2026-03-18-judge-orders-texas-to-extend-private-school-voucher-deadline-to-march-31
-  headline: Judge orders Texas to extend private-school voucher deadline to March 31
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6293
-- slug: 2026-03-12-california-foster-care-system-faces-insurance-crisis-as-agencies-shut-down
-  headline: California foster care system faces insurance crisis as agencies shut down
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6297
-- slug: 2026-01-21-conservative-group-sues-la-schools-over-desegregation-policy
-  headline: Conservative group sues LA schools over desegregation policy
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6343
-- slug: 2026-03-13-muslim-parents-private-schools-sue-texas-over-exclusion-in-voucher-program
-  headline: Muslim parents, private schools sue Texas over exclusion in voucher program
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6291
+  strength: 0.6505
 ---
-
 ## Catholic preschools challenge Colorado preschool funding rules at Supreme Court
 
 **Subtype:** fact

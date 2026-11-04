@@ -168,6 +168,8 @@ related_stories:
   publish_date: '2026-08-15'
   relation: related
   strength: 0.7
+analyses:
+- '2026-11-03-affordability-becomes-central-in-wisconsin-s-competitive-3rd-district-race'
 ---
 ## Small-business struggles shape Wisconsin’s competitive House race
 
@@ -238,3 +240,8 @@ Klaus is a Democrat and plans to vote for Cooke. She hopes more people in the di
 **Publication date:** 2026-11-03
 **Title:** ‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue
 **URL:** https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race
+
+---
+
+<!-- analysis-link:2026-11-03-affordability-becomes-central-in-wisconsin-s-competitive-3rd-district-race -->
+**Going deeper:** [Read MSI's analysis of Affordability and Wisconsin’s 3rd District →](/analyses/2026-11-03-affordability-becomes-central-in-wisconsin-s-competitive-3rd-district-race)

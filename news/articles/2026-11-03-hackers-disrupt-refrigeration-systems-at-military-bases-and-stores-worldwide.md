@@ -196,6 +196,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-03-internet-exposed-refrigeration-controllers-enable-physical-disruption-at-food-si'
 ---
 ## Hackers disrupt refrigeration systems at military bases and stores worldwide
 
@@ -269,3 +271,8 @@ Claroty first published a report on refrigeration-technology vulnerabilities in 
 **Publication date:** 2026-11-03
 **Title:** A new cold war: hackers target fridges across the globe
 **URL:** https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges
+
+---
+
+<!-- analysis-link:2026-11-03-internet-exposed-refrigeration-controllers-enable-physical-disruption-at-food-si -->
+**Going deeper:** [Read MSI's analysis of exposed refrigeration systems and physical disruption →](/analyses/2026-11-03-internet-exposed-refrigeration-controllers-enable-physical-disruption-at-food-si)
