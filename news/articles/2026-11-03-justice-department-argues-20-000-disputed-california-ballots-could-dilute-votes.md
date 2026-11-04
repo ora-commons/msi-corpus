@@ -1,9 +1,22 @@
 ---
-headline: Justice Department argues 20,000 disputed California ballots could dilute votes
-secondary_headline: Armed Department of Homeland Security officers threatened county workers with criminal charges
+headline: Justice Department argues 20,000 disputed California ballots could dilute
+  votes
+secondary_headline: Armed Department of Homeland Security officers threatened county
+  workers with criminal charges
 publish_date: '2026-11-03'
-lede: A 22-page Justice Department brief reviewed by BBC News argued that ballots cast by noncitizens could "debase or dilute valid votes" as the administration sought to set aside 20,000 California ballots it alleged might have been issued to non-U.S. citizens. About a week after DOJ letters demanded that state officials set the ballots aside, armed Department of Homeland Security officials delivered letters threatening county workers with criminal charges if they failed to sequester them. The U.S. Supreme Court later denied the Justice Department's request for an injunction, leaving lower-court rulings in place.
-nut_graf: The federal demands came as California's secretary of state's office reported that more than six million mail-in ballots had been received by Sunday night. California election officials said the federal list was riddled with inaccuracies, warned that eligible voters could be disenfranchised and called segregation unfeasible while voting was underway.
+lede: A 22-page Justice Department brief reviewed by BBC News argued that ballots
+  cast by noncitizens could "debase or dilute valid votes" as the administration sought
+  to set aside 20,000 California ballots it alleged might have been issued to non-U.S.
+  citizens. About a week after DOJ letters demanded that state officials set the ballots
+  aside, armed Department of Homeland Security officials delivered letters threatening
+  county workers with criminal charges if they failed to sequester them. The U.S.
+  Supreme Court later denied the Justice Department's request for an injunction, leaving
+  lower-court rulings in place.
+nut_graf: The federal demands came as California's secretary of state's office reported
+  that more than six million mail-in ballots had been received by Sunday night. California
+  election officials said the federal list was riddled with inaccuracies, warned that
+  eligible voters could be disenfranchised and called segregation unfeasible while
+  voting was underway.
 primary_entities:
 - Justice Department
 - Department of Homeland Security
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,19 +161,20 @@ related_stories:
   headline: Federal judge bars DOJ from pressuring election workers on ballots
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8655
+  strength: 0.8661
 - slug: 2026-11-02-doj-takes-california-voter-roll-dispute-to-supreme-court
   headline: DOJ takes California voter-roll dispute to Supreme Court
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8273
+  strength: 0.8275
 - slug: 2026-11-02-justice-department-cites-ballot-commingling-to-seek-limited-ballot-injunction
   headline: Justice Department cites ballot commingling to seek limited ballot injunction
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8217
+  strength: 0.8218
 - slug: 2026-11-02-supreme-court-rejects-bid-to-segregate-and-not-count-disputed-california-ballots
-  headline: Supreme Court rejects bid to segregate and not count disputed California ballots
+  headline: Supreme Court rejects bid to segregate and not count disputed California
+    ballots
   publish_date: '2026-11-02'
   relation: related
   strength: 0.8177
@@ -167,93 +182,36 @@ related_stories:
   headline: Justice Department appeals ruling on California's disputed ballots
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8392
+  strength: 0.8394
 - slug: 2026-10-29-federal-judge-rejects-doj-bid-to-segregate-california-ballots-over-citizenship
   headline: Federal judge rejects DOJ bid to segregate California ballots over citizenship
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8345
+  strength: 0.8348
 - slug: 2026-10-28-federal-judge-says-doj-lost-all-26-voter-cases-cut-nevada-claim-to-185
   headline: Federal judge says DOJ lost all 26 voter cases, cut Nevada claim to 185
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.831
+  strength: 0.8309
 - slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
   headline: Monthslong California voter-roll dispute precedes DOJ emergency request
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8424
-- slug: 2026-10-31-ucla-analysis-finds-42-of-doj-flagged-california-voter-names-missing-from-rolls
-  headline: UCLA analysis finds 42% of DOJ-flagged California voter names missing from rolls
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.8094
-- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.8263
-- slug: 2026-10-28-federal-judge-rejects-doj-request-to-segregate-california-ballots
-  headline: Federal judge rejects DOJ request to segregate California ballots
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.8167
-- slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.8415
-- slug: 2026-10-28-butte-county-official-rejects-justice-department-demand-to-segregate-ballots
-  headline: Butte County official rejects Justice Department demand to segregate ballots
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.8134
-- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
-  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8247
-- slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7988
-- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
-  headline: California ballot dispute reaches 9th Circuit
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8203
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.8145
-- slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
-  headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8075
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.8084
-- slug: 2026-10-19-legal-experts-call-doj-california-ballot-lawsuit-a-long-shot
-  headline: Legal experts call DOJ California ballot lawsuit "a long shot"
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.8196
+  strength: 0.8426
 image:
   url: /articles/2026-11-03-justice-department-argues-20-000-disputed-california-ballots-could-dilute-votes.png
-  alt: "Illustration accompanying article: Justice Department argues 20,000 disputed California ballots could dilute votes"
+  alt: 'Illustration accompanying article: Justice Department argues 20,000 disputed
+    California ballots could dilute votes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Justice Department argues 20,000 disputed California ballots could dilute votes
 
 **Subtype:** fact

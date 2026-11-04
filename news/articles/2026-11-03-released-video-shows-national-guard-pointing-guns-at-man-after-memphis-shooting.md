@@ -58,10 +58,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -239,3 +241,9 @@ Tyrin Johnson was the father of a young child and was preparing to help lead his
 **Publication date:** 2026-11-03
 **Title:** Video shows aftermath of fatal shooting by National Guard in Memphis
 **URL:** https://apnews.com/article/memphis-fatal-shooting-national-guard-886e62fc541b45b1895f5d54f4eb7d7e
+
+### src_late_7b110d4ba11c553d — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-03
+**Title:** Tennessee national guard trained guns on dying man after guard member shot him, video shows
+**URL:** https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video
+**Added after publication:** true
