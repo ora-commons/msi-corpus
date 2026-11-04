@@ -2,8 +2,17 @@
 headline: Sherrod Brown seeks return to Senate against Jon Husted in Ohio
 secondary_headline: Democrats see Ohio as crucial to their Senate control push
 publish_date: '2026-11-03'
-lede: Republican Sen. Jon Husted and former Democratic Sen. Sherrod Brown face off Tuesday in one of the country's most hard-fought and costly U.S. Senate races. The winner will serve the final two years of the six-year term JD Vance won in 2022. Husted, 59, has held the seat since his appointment in January 2025, while Brown, 73, is trying to return after losing to Republican Sen. Bernie Moreno two years ago. Democrats see Ohio as crucial to winning Senate control.
-nut_graf: The result will decide who represents Ohio for the final two years of JD Vance's term, while Democrats view the race as crucial to their effort to win Senate control. The campaigns have focused on data centers, a nuclear plant bailout tied to a $60 million bribery investigation, taxes, regulation, labor policy and health care.
+lede: Republican Sen. Jon Husted and former Democratic Sen. Sherrod Brown face off
+  Tuesday in one of the country's most hard-fought and costly U.S. Senate races. The
+  winner will serve the final two years of the six-year term JD Vance won in 2022.
+  Husted, 59, has held the seat since his appointment in January 2025, while Brown,
+  73, is trying to return after losing to Republican Sen. Bernie Moreno two years
+  ago. Democrats see Ohio as crucial to winning Senate control.
+nut_graf: The result will decide who represents Ohio for the final two years of JD
+  Vance's term, while Democrats view the race as crucial to their effort to win Senate
+  control. The campaigns have focused on data centers, a nuclear plant bailout tied
+  to a $60 million bribery investigation, taxes, regulation, labor policy and health
+  care.
 primary_entities:
 - Sherrod Brown
 - Jon Husted
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +152,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-sherrod-brown-seeks-return-to-senate-against-jon-husted-in-ohio.png
-  alt: 'Illustration accompanying article: Sherrod Brown seeks return to Senate against Jon Husted in Ohio'
+  alt: 'Illustration accompanying article: Sherrod Brown seeks return to Senate against
+    Jon Husted in Ohio'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-30-ohio-s-2026-midterms-test-republican-dominance
   headline: Ohio's 2026 midterms test Republican dominance
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7833
-- slug: 2026-10-08-brown-makes-data-centers-central-to-ohio-senate-rematch
-  headline: Brown makes data centers central to Ohio Senate rematch
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8452
+  strength: 0.7829
 - slug: 2026-10-28-conserve-ohio-pursues-data-center-bans-through-local-and-statewide-measures
   headline: Conserve Ohio pursues data center bans through local and statewide measures
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7351
+  strength: 0.7364
+- slug: 2026-10-08-brown-makes-data-centers-central-to-ohio-senate-rematch
+  headline: Brown makes data centers central to Ohio Senate rematch
+  publish_date: '2026-10-08'
+  relation: related
+  strength: 0.8458
 - slug: 2026-10-23-rural-ohio-voters-weigh-costs-in-toss-up-senate-race
   headline: Rural Ohio voters weigh costs in toss-up Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7296
+  strength: 0.7299
 - slug: 2026-10-28-trump-returns-to-ohio-as-obama-rallies-democrats-in-georgia
   headline: Trump returns to Ohio as Obama rallies Democrats in Georgia
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6941
+  strength: 0.6934
 - slug: 2026-10-02-brown-rallies-ohio-unions-in-bid-to-reclaim-senate-seat
   headline: Brown rallies Ohio unions in bid to reclaim Senate seat
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8277
-- slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
-  headline: Electricity bills enter 2026 midterm campaigns
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6497
-- slug: 2026-10-30-iowa-voters-decide-senate-governor-and-house-races-tuesday
-  headline: Iowa voters decide Senate, governor and House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6454
+  strength: 0.8291
 - slug: 2026-10-26-thune-campaigns-with-hinson-ahead-of-senate-republican-leadership-vote
   headline: Thune campaigns with Hinson ahead of Senate Republican leadership vote
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.658
+  strength: 0.6574
 - slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
+  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm
+    races
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7426
-- slug: 2026-10-16-ossoff-leads-georgia-senate-race-denies-2028-presidential-interest
-  headline: Ossoff leads Georgia Senate race, denies 2028 presidential interest
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6532
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7003
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6529
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6516
-- slug: 2026-07-26-brown-runs-to-reclaim-ohio-senate-seat
-  headline: Brown runs to reclaim Ohio Senate seat
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.8297
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6875
-- slug: 2026-09-03-bannon-joins-sanders-ocasio-cortez-in-opposing-new-data-centers
-  headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6462
-- slug: 2026-05-06-ohio-primaries-set-up-brown-husted-senate-fight-and-acton-ramaswamy-race
-  headline: Ohio primaries set up Brown-Husted Senate fight and Acton-Ramaswamy race
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7599
-- slug: 2026-04-19-bribery-scandal-shadows-husted-s-ohio-senate-re-election-bid
-  headline: Bribery scandal shadows Husted's Ohio Senate re-election bid
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.7638
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6483
+  strength: 0.7429
 ---
-
 ## Sherrod Brown seeks return to Senate against Jon Husted in Ohio
 
 **Subtype:** fact

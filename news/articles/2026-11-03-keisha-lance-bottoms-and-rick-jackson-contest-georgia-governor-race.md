@@ -2,8 +2,18 @@
 headline: Keisha Lance Bottoms and Rick Jackson contest Georgia governor race
 secondary_headline: Candidates set out Medicaid and public-employee pay proposals
 publish_date: '2026-11-03'
-lede: Democrat Keisha Lance Bottoms and Republican Rick Jackson are competing to become Georgia’s next governor, with Bottoms pursuing a historic win and Jackson spending more than $200 million of his own money. Bottoms, 56, could become the first Black woman elected governor in the country; Jackson, 72, is a healthcare magnate and investor who has largely self-funded his campaign. The campaigns differ on Medicaid coverage and public-employee pay.
-nut_graf: The general election will determine whether Georgia’s governorship remains under Republican control or shifts to Democratic control, and Bottoms could become the first Black woman elected governor in the country if she wins. The race also sets a former Atlanta mayor against a healthcare magnate and investor who has largely self-funded his campaign, with the candidates offering different approaches to Medicaid coverage and public-employee pay.
+lede: Democrat Keisha Lance Bottoms and Republican Rick Jackson are competing to become
+  Georgia’s next governor, with Bottoms pursuing a historic win and Jackson spending
+  more than $200 million of his own money. Bottoms, 56, could become the first Black
+  woman elected governor in the country; Jackson, 72, is a healthcare magnate and
+  investor who has largely self-funded his campaign. The campaigns differ on Medicaid
+  coverage and public-employee pay.
+nut_graf: The general election will determine whether Georgia’s governorship remains
+  under Republican control or shifts to Democratic control, and Bottoms could become
+  the first Black woman elected governor in the country if she wins. The race also
+  sets a former Atlanta mayor against a healthcare magnate and investor who has largely
+  self-funded his campaign, with the candidates offering different approaches to Medicaid
+  coverage and public-employee pay.
 primary_entities:
 - Keisha Lance Bottoms
 - Rick Jackson
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +164,43 @@ related_stories:
   headline: Bottoms makes historic bid for Georgia governor against Jackson
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8449
+  strength: 0.844
 - slug: 2026-10-24-rick-jackson-balances-trump-support-with-softer-georgia-campaign-pitches
   headline: Rick Jackson balances Trump support with softer Georgia campaign pitches
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8373
+  strength: 0.8369
 - slug: 2026-11-03-georgia-senate-race-pits-jon-ossoff-against-trump-backed-mike-collins
   headline: Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.665
+  strength: 0.6652
 - slug: 2026-10-30-georgia-voters-decide-senate-governor-races-tuesday
   headline: Georgia voters decide Senate, governor races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6864
+  strength: 0.687
 - slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
   headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.664
+  strength: 0.6644
 - slug: 2026-10-29-barack-obama-rallies-georgia-democrats-in-final-midterm-campaign-week
   headline: Barack Obama rallies Georgia Democrats in final midterm campaign week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6627
+  strength: 0.6621
 - slug: 2026-02-04-business-owner-rick-jackson-enters-georgia-gop-governor-s-race
   headline: Business owner Rick Jackson enters Georgia GOP governor’s race
   publish_date: '2026-02-04'
   relation: related
-  strength: 0.8062
+  strength: 0.8059
 - slug: 2026-03-15-wealthy-georgian-could-wrest-gop-governor-nomination-from-trump-s-pick
   headline: Wealthy Georgian could wrest GOP governor nomination from Trump's pick
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7842
-- slug: 2026-04-22-burt-jones-record-becomes-battleground-against-rick-jackson-in-georgia-gop-prima
-  headline: Burt Jones' record becomes battleground against Rick Jackson in Georgia GOP primary
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7625
-- slug: 2026-04-23-burt-jones-record-becomes-a-battleground-in-georgia-gop-governor-primary
-  headline: Burt Jones’ record becomes a battleground in Georgia GOP governor primary
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.762
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7478
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7289
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.727
-- slug: 2026-04-17-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7259
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7051
-- slug: 2026-05-19-georgia-republicans-head-to-runoffs-for-senate-and-governor-after-tuesday-primar
-  headline: Georgia Republicans head to runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6777
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.675
-- slug: 2026-05-12-raffensperger-running-for-georgia-governor-after-defying-trump-in-2020
-  headline: Raffensperger running for Georgia governor after defying Trump in 2020
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6593
-- slug: 2026-04-04-outrage-over-ai-data-centers-could-aid-georgia-democrats-in-2026
-  headline: Outrage over AI data centers could aid Georgia Democrats in 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6699
-- slug: 2026-03-06-georgia-governor-and-senate-fields-set-as-may-19-primary-looms
-  headline: Georgia governor and Senate fields set as May 19 primary looms
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6694
+  strength: 0.784
 ---
-
 ## Keisha Lance Bottoms and Rick Jackson contest Georgia governor race
 
 **Subtype:** fact

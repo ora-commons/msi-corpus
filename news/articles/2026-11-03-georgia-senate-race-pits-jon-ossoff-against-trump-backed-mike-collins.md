@@ -1,9 +1,18 @@
 ---
 headline: Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
-secondary_headline: Ossoff raised more than $109 million as Collins sought Republican support
+secondary_headline: Ossoff raised more than $109 million as Collins sought Republican
+  support
 publish_date: '2026-11-03'
-lede: Georgia Democratic Sen. Jon Ossoff is seeking reelection Tuesday against Republican Rep. Mike Collins in a battleground-state Senate race. Ossoff raised more than $109 million and led all Senate candidates nationally, while Collins, Donald Trump's chosen primary rival, faced the challenge of restitching the Republican coalition. A victory for Ossoff, who has denied interest in a 2028 presidential run, would intensify speculation about his White House bid.
-nut_graf: The contest carries stakes beyond the Senate seat because Ossoff says Georgia voters can send a national message, while a victory for him would intensify 2028 presidential speculation. Collins is emphasizing his legislative record, criticism of Ossoff over border security and inflation, and support for Trump's agenda.
+lede: Georgia Democratic Sen. Jon Ossoff is seeking reelection Tuesday against Republican
+  Rep. Mike Collins in a battleground-state Senate race. Ossoff raised more than $109
+  million and led all Senate candidates nationally, while Collins, Donald Trump's
+  chosen primary rival, faced the challenge of restitching the Republican coalition.
+  A victory for Ossoff, who has denied interest in a 2028 presidential run, would
+  intensify speculation about his White House bid.
+nut_graf: The contest carries stakes beyond the Senate seat because Ossoff says Georgia
+  voters can send a national message, while a victory for him would intensify 2028
+  presidential speculation. Collins is emphasizing his legislative record, criticism
+  of Ossoff over border security and inflation, and support for Trump's agenda.
 primary_entities:
 - Jon Ossoff
 - Mike Collins
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,45 @@ related_stories:
   headline: Georgia voters decide Senate, governor races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8607
+  strength: 0.8599
 - slug: 2026-10-16-ossoff-leads-georgia-senate-race-denies-2028-presidential-interest
   headline: Ossoff leads Georgia Senate race, denies 2028 presidential interest
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8584
+  strength: 0.8578
 - slug: 2026-10-29-barack-obama-rallies-georgia-democrats-in-final-midterm-campaign-week
   headline: Barack Obama rallies Georgia Democrats in final midterm campaign week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7291
+  strength: 0.7289
 - slug: 2026-10-14-ossoff-says-he-has-no-interest-in-2028-presidential-bid
   headline: Ossoff says he has no interest in 2028 presidential bid
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7984
+  strength: 0.7976
 - slug: 2026-10-14-georgia-sets-first-day-midterm-early-voting-record-with-188-667-ballots
   headline: Georgia sets first-day midterm early voting record with 188,667 ballots
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7363
+  strength: 0.7355
 - slug: 2026-09-07-collins-trails-ossoff-in-georgia-senate-race-as-family-and-staff-controversies-s
-  headline: Collins trails Ossoff in Georgia Senate race as family and staff controversies surface
+  headline: Collins trails Ossoff in Georgia Senate race as family and staff controversies
+    surface
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.8676
+  strength: 0.8681
 - slug: 2026-10-09-senate-candidates-spar-over-affordability-tariffs-in-three-state-debate-night
-  headline: Senate candidates spar over affordability, tariffs in three-state debate night
+  headline: Senate candidates spar over affordability, tariffs in three-state debate
+    night
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7153
+  strength: 0.7147
 - slug: 2026-08-27-ossoff-builds-lead-in-georgia-senate-race-as-national-democrats-take-notice
   headline: Ossoff builds lead in Georgia Senate race as national Democrats take notice
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8291
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8559
-- slug: 2026-05-19-georgia-republicans-scramble-to-pick-candidate-to-challenge-sen-jon-ossoff
-  headline: Georgia Republicans scramble to pick candidate to challenge Sen. Jon Ossoff
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8465
-- slug: 2026-05-17-georgia-republicans-scramble-to-challenge-sen-jon-ossoff-in-november
-  headline: Georgia Republicans scramble to challenge Sen. Jon Ossoff in November
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.8442
-- slug: 2026-07-18-ossoff-brands-trump-national-disgrace-in-reelection-bid
-  headline: Ossoff brands Trump 'national disgrace' in reelection bid
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7856
-- slug: 2026-03-06-georgia-gop-fears-texas-style-runoff-as-trump-withholds-senate-endorsement
-  headline: Georgia GOP fears Texas-style runoff as Trump withholds Senate endorsement
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.8477
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.8185
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.8162
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.8123
-- slug: 2026-03-06-georgia-governor-and-senate-fields-set-as-may-19-primary-looms
-  headline: Georgia governor and Senate fields set as May 19 primary looms
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.822
-- slug: 2026-06-15-georgia-republicans-finalize-senate-governor-picks-in-tuesday-runoff
-  headline: Georgia Republicans finalize Senate, governor picks in Tuesday runoff
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7884
-- slug: 2026-05-17-georgia-voters-pick-gop-governor-and-senate-nominees-in-tuesday-primaries
-  headline: Georgia voters pick GOP governor and Senate nominees in Tuesday primaries
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7924
-- slug: 2026-05-19-georgia-republicans-head-to-runoffs-for-senate-and-governor-after-tuesday-primar
-  headline: Georgia Republicans head to runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7834
+  strength: 0.8292
 ---
-
 ## Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
 
 **Subtype:** fact
