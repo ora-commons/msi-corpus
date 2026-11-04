@@ -2,8 +2,15 @@
 headline: Jacob Morley recaptured outside Kansas City after Tennessee prison escape
 secondary_headline: License plate readers showed Morley traveling through Missouri
 publish_date: '2026-11-03'
-lede: State highway patrol officers captured Jacob Morley outside Kansas City, Missouri, on Tuesday, more than a week after he escaped from a Tennessee prison, authorities said. Morley, 28, was serving a life sentence for killing co-worker Cody Birchfield in 2022.
-nut_graf: The recapture ended Morley's flight. He escaped through a fence, and surveillance video showed him stealing a truck that was later abandoned in Illinois. Separately, a July grand jury returned dozens of indictments for five prisoner killings and other violent acts at the Northwest Correctional Complex, and corrections commissioner Frank Strada resigned after Christa Pike's failed execution.
+lede: State highway patrol officers captured Jacob Morley outside Kansas City, Missouri,
+  on Tuesday, more than a week after he escaped from a Tennessee prison, authorities
+  said. Morley, 28, was serving a life sentence for killing co-worker Cody Birchfield
+  in 2022.
+nut_graf: The recapture ended Morley's flight. He escaped through a fence, and surveillance
+  video showed him stealing a truck that was later abandoned in Illinois. Separately,
+  a July grand jury returned dozens of indictments for five prisoner killings and
+  other violent acts at the Northwest Correctional Complex, and corrections commissioner
+  Frank Strada resigned after Christa Pike's failed execution.
 primary_entities:
 - Jacob Morley
 - Tennessee
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +148,41 @@ related_stories:
   headline: Law enforcement recaptures escaped Tennessee inmate Jacob Morley in Missouri
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.945
+  strength: 0.9458
 - slug: 2026-10-28-jacob-morley-escapes-tennessee-prison-amid-staffing-and-oversight-concerns
   headline: Jacob Morley escapes Tennessee prison amid staffing and oversight concerns
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8771
+  strength: 0.8776
 - slug: 2026-10-27-tennessee-highway-patrol-deploys-aviation-assets-and-troopers-for-morley-search
-  headline: Tennessee Highway Patrol deploys aviation assets and troopers for Morley search
+  headline: Tennessee Highway Patrol deploys aviation assets and troopers for Morley
+    search
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.868
+  strength: 0.8683
 - slug: 2026-10-26-tennessee-department-of-correction-offers-up-to-2-500-reward-for-jacob-morley
-  headline: Tennessee Department of Correction offers up to $2,500 reward for Jacob Morley
+  headline: Tennessee Department of Correction offers up to $2,500 reward for Jacob
+    Morley
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8679
+  strength: 0.8683
 - slug: 2026-10-27-hornbeak-video-shows-jacob-morley-about-15-miles-from-tennessee-prison
   headline: Hornbeak video shows Jacob Morley about 15 miles from Tennessee prison
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8386
+  strength: 0.8381
 - slug: 2026-10-26-tennessee-authorities-hunt-for-jacob-morley-after-prison-escape
   headline: Tennessee authorities hunt for Jacob Morley after prison escape
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8382
+  strength: 0.8379
 - slug: 2026-10-26-tbi-asks-residents-to-check-cameras-for-jacob-allen-morley-and-stolen-pickup
-  headline: TBI asks residents to check cameras for Jacob Allen Morley and stolen pickup
+  headline: TBI asks residents to check cameras for Jacob Allen Morley and stolen
+    pickup
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8101
-- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
-  headline: Mississippi releases body-camera footage of fatal toddler police shooting
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6208
-- slug: 2026-10-23-foster-remains-certified-after-resigning-from-senatobia-police-force
-  headline: Foster remains certified after resigning from Senatobia police force
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6112
-- slug: 2026-10-23-prosecutors-and-defense-differ-over-rodney-hinton-jr-s-mental-state
-  headline: Prosecutors and defense differ over Rodney Hinton Jr.'s mental state
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6041
-- slug: 2026-10-20-kay-ivey-commutes-toforest-johnson-s-death-sentence-to-life-without-parole
-  headline: Kay Ivey commutes Toforest Johnson's death sentence to life without parole
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6045
-- slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
-  headline: Autopsy indicates Kohen Wiley shot from side of car, not front
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5985
-- slug: 2026-10-05-former-christa-pike-lawyer-says-tennessee-was-warned-execution-would-be-cruel
-  headline: Former Christa Pike lawyer says Tennessee was warned execution would be 'cruel'
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.634
-- slug: 2026-10-03-tennessee-corrections-commissioner-strada-resigns-after-failed-pike-execution
-  headline: Tennessee corrections commissioner Strada resigns after failed Pike execution
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6319
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6087
-- slug: 2026-10-03-tennessee-prison-chief-resigns-after-christa-pike-s-failed-execution
-  headline: Tennessee prison chief resigns after Christa Pike's failed execution
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6064
-- slug: 2026-09-30-fadp-calls-florida-execution-pace-unprecedented-after-beasley-execution
-  headline: FADP calls Florida execution pace 'unprecedented' after Beasley execution
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5992
-- slug: 2026-09-12-jackson-police-say-more-arrests-expected-in-tasia-fortune-homicide
-  headline: Jackson police say more arrests expected in Tasia Fortune homicide
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-11-jackson-police-arrest-jacques-ratliff-in-tasia-fortune-death
-  headline: Jackson police arrest Jacques Ratliff in Tasia Fortune death
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6059
-- slug: 2026-09-09-jackson-police-investigating-tasia-fortune-hanging-as-potential-homicide
-  headline: Jackson police investigating Tasia Fortune hanging as potential homicide
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5986
+  strength: 0.8092
 ---
-
 ## Jacob Morley recaptured outside Kansas City after Tennessee prison escape
 
 **Subtype:** fact
