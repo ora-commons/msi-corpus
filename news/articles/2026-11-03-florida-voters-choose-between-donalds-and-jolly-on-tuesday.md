@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -238,3 +238,10 @@ Donalds has maintained steady confidence throughout the campaign. He has balance
 **Publication date:** 2026-11-03
 **Title:** Florida governor's race: Byron Donalds faces David Jolly
 **URL:** https://apnews.com/article/florida-governors-race-david-jolly-byron-donalds-48210ca332e8615a15c63c604f7f165e
+
+### src_late_204dc209f4c6e7ff — Associated Press, wire, Tier 1, originating
+**Author:** Steven Sloan
+**Publication date:** 2026-11-03
+**Title:** Jolly enfrenta a Donalds y aspira a gobernar Florida en una prueba para un bastión conservador
+**URL:** https://apnews.com/article/florida-gobernador-elecciones-jolly-donalds-aba21757e1205683b4718fd15d90262e
+**Added after publication:** true

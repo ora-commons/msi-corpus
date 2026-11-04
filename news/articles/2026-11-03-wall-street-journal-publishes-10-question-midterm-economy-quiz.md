@@ -1,9 +1,17 @@
 ---
 headline: Wall Street Journal publishes 10-question midterm economy quiz
-secondary_headline: Readers score their knowledge of earlier economic and political contests
+secondary_headline: Readers score their knowledge of earlier economic and political
+  contests
 publish_date: '2026-11-03'
-lede: The Wall Street Journal published a 10-question quiz on Nov. 3, 2026, asking readers to test their knowledge of how the economy and politics played out in past elections. The title asks which president was in office when mortgage rates exceeded 18%. The publication framed the economy as a central issue in the midterm elections, with President Trump and the Republicans vying with Democrats over control of Congress.
-nut_graf: The quiz combines a reader-scored exercise with election history as President Trump and the Republicans vie with Democrats for congressional control. Its stated subject is how the economy and politics played out in earlier elections, making the item a test of historical knowledge rather than a new campaign position.
+lede: The Wall Street Journal published a 10-question quiz on Nov. 3, 2026, asking
+  readers to test their knowledge of how the economy and politics played out in past
+  elections. The title asks which president was in office when mortgage rates exceeded
+  18%. The publication framed the economy as a central issue in the midterm elections,
+  with President Trump and the Republicans vying with Democrats over control of Congress.
+nut_graf: The quiz combines a reader-scored exercise with election history as President
+  Trump and the Republicans vie with Democrats for congressional control. Its stated
+  subject is how the economy and politics played out in earlier elections, making
+  the item a test of historical knowledge rather than a new campaign position.
 primary_entities:
 - The Wall Street Journal
 - President Trump
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,43 @@ related_stories:
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7777
+  strength: 0.7765
 - slug: 2026-11-03-2026-race-forecasts-combine-ratings-from-three-nonpartisan-analysts
   headline: 2026 race forecasts combine ratings from three nonpartisan analysts
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6661
+  strength: 0.6673
 - slug: 2026-10-31-most-voters-want-a-congress-that-checks-trump-s-power-wsj-poll-finds
   headline: Most voters want a Congress that checks Trump's power, WSJ poll finds
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.675
+  strength: 0.6748
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6668
+  strength: 0.6664
 - slug: 2026-10-30-harris-poll-finds-corruption-second-only-to-cost-of-living-for-voters
   headline: Harris poll finds corruption second only to cost of living for voters
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6752
+  strength: 0.675
 - slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
   headline: The Guardian seeks US voter priorities for Nov. 3 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6659
+  strength: 0.6656
 - slug: 2026-10-23-republicans-test-whether-socialism-warnings-still-resonate-in-midterms
   headline: Republicans test whether socialism warnings still resonate in midterms
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6851
+  strength: 0.6832
 - slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
   headline: Only one of 54 Republican economy ads in the closest races mentions Trump
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6813
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6625
-- slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
-  headline: Fox News poll finds government corruption outranks inflation among voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6689
-- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
-  headline: Economic populism gains ground as both parties court midterm voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6663
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6717
-- slug: 2026-10-14-guardian-to-host-reader-q-a-on-us-economy-and-midterms
-  headline: Guardian to host reader Q&A on US economy and midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6961
-- slug: 2026-10-12-seven-midterm-candidates-present-economic-plans-in-wsj-video
-  headline: Seven midterm candidates present economic plans in WSJ video
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6925
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6665
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6939
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6769
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6632
-- slug: 2026-09-30-survey-finds-voters-across-parties-back-price-caps-on-drugs-child-care
-  headline: Survey finds voters across parties back price caps on drugs, child care
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.667
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6623
+  strength: 0.6807
 ---
-
 ## Wall Street Journal publishes 10-question midterm economy quiz
 
 **Subtype:** fact
