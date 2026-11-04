@@ -2,8 +2,15 @@
 headline: Federal authorities charge Oklahoma man over powder-filled letters
 secondary_headline: FBI says powder was yeast or flour; not all letters fully tested
 publish_date: '2026-11-03'
-lede: Federal authorities charged Oklahoma man Robin Martin with sending hundreds of letters containing nonhazardous white powder to public officials before the 2024 and 2026 elections, according to a court filing made public Tuesday. Martin was charged with conveying a hoax and mailing threatening communications and was expected to make his initial court appearance Tuesday afternoon in Oklahoma City.
-nut_graf: The charges identify a defendant in the federal inquiry into powder-containing mail sent to congressional and election offices nationwide. The FBI said the powders were yeast or flour, though not every letter had been fully tested, while law enforcement officials were working to intercept additional letters.
+lede: Federal authorities charged Oklahoma man Robin Martin with sending hundreds
+  of letters containing nonhazardous white powder to public officials before the 2024
+  and 2026 elections, according to a court filing made public Tuesday. Martin was
+  charged with conveying a hoax and mailing threatening communications and was expected
+  to make his initial court appearance Tuesday afternoon in Oklahoma City.
+nut_graf: The charges identify a defendant in the federal inquiry into powder-containing
+  mail sent to congressional and election offices nationwide. The FBI said the powders
+  were yeast or flour, though not every letter had been fully tested, while law enforcement
+  officials were working to intercept additional letters.
 primary_entities:
 - Robin Martin
 - FBI
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,6 +143,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-03-fbi-more-than-700-mailings-appeared-associated-with-one-sender-in-2024-and-2026
+  headline: 'FBI: More than 700 mailings appeared associated with one sender in 2024
+    and 2026'
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.8526
 - slug: 2026-10-26-federal-complaint-accuses-illinois-man-of-mailing-white-powder-to-congress
   headline: Federal complaint accuses Illinois man of mailing white powder to Congress
   publish_date: '2026-10-26'
@@ -156,7 +170,8 @@ related_stories:
   relation: related
   strength: 0.7896
 - slug: 2026-10-14-fbi-investigates-suspicious-powder-mailed-to-election-officials-in-three-states
-  headline: FBI investigates suspicious powder mailed to election officials in three states
+  headline: FBI investigates suspicious powder mailed to election officials in three
+    states
   publish_date: '2026-10-14'
   relation: related
   strength: 0.7732
@@ -170,73 +185,7 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6936
-- slug: 2026-10-15-fbi-probe-adds-new-york-wyoming-capitols-senator-murphy
-  headline: FBI probe adds New York, Wyoming capitols, Senator Murphy
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7518
-- slug: 2026-10-21-pelosi-s-office-receives-suspicious-letter-in-ongoing-congressional-mailings
-  headline: Pelosi's office receives suspicious letter in ongoing congressional mailings
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.71
-- slug: 2026-10-20-more-than-a-dozen-lawmakers-report-suspicious-envelopes-sent-to-offices
-  headline: More than a dozen lawmakers report suspicious envelopes sent to offices
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.695
-- slug: 2026-10-21-at-least-nine-more-lawmakers-report-suspicious-envelopes-sent-to-their-offices
-  headline: At least nine more lawmakers report suspicious envelopes sent to their offices
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6825
-- slug: 2026-10-22-pelosi-office-receives-suspicious-letter-three-illinois-democrats-report-repeat-
-  headline: Pelosi office receives suspicious letter; three Illinois Democrats report repeat mailings
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6752
-- slug: 2026-10-18-schiff-says-suspicious-envelope-to-california-office-intercepted
-  headline: Schiff says suspicious envelope to California office intercepted
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6894
-- slug: 2026-10-15-senate-sergeant-at-arms-image-shows-dsa-return-address-on-election-mailings
-  headline: Senate Sergeant at Arms image shows 'DSA' return address on election mailings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7004
-- slug: 2026-10-19-subramanyam-s-leesburg-office-receives-suspicious-white-powder-in-mail
-  headline: Subramanyam's Leesburg office receives suspicious white powder in mail
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6755
-- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6261
-- slug: 2026-10-20-federal-agents-probe-white-powder-envelopes-sent-to-congressional-offices
-  headline: Federal agents probe white-powder envelopes sent to congressional offices
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6501
-- slug: 2026-09-22-former-usps-worker-indicted-for-allegedly-discarding-300-utah-mail-in-ballots
-  headline: Former USPS worker indicted for allegedly discarding 300 Utah mail-in ballots
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6288
-- slug: 2026-09-15-supreme-court-blocks-usps-mail-ballot-rules-amid-widespread-confusion
-  headline: Supreme Court blocks USPS mail-ballot rules amid widespread confusion
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6331
 ---
-
 ## Federal authorities charge Oklahoma man over powder-filled letters
 
 **Subtype:** fact
