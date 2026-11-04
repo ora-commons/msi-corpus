@@ -1,9 +1,17 @@
 ---
 headline: FBI investigates Perfect Child over autism therapy billing practices
-secondary_headline: State and federal taxpayers spent $10 billion on applied behavior analysis in 2025
+secondary_headline: State and federal taxpayers spent $10 billion on applied behavior
+  analysis in 2025
 publish_date: '2026-11-03'
-lede: The FBI is investigating the billing practices of the Perfect Child, a Brooklyn, N.Y.-based autism therapy provider whose daily rates could exceed $30,000, according to documents and people familiar with the probe. Agents from the Pittsburgh field office have contacted clients and obtained company bills and records as investigators examine the provider's charges and collection practices.
-nut_graf: The FBI inquiry comes amid rising public spending on applied behavior analysis, limited oversight of providers in many states and parallel reviews by three insurers. A House committee is separately examining whether reimbursement arrangements in the autism therapy industry have contributed to excessive health care costs.
+lede: The FBI is investigating the billing practices of the Perfect Child, a Brooklyn,
+  N.Y.-based autism therapy provider whose daily rates could exceed $30,000, according
+  to documents and people familiar with the probe. Agents from the Pittsburgh field
+  office have contacted clients and obtained company bills and records as investigators
+  examine the provider's charges and collection practices.
+nut_graf: The FBI inquiry comes amid rising public spending on applied behavior analysis,
+  limited oversight of providers in many states and parallel reviews by three insurers.
+  A House committee is separately examining whether reimbursement arrangements in
+  the autism therapy industry have contributed to excessive health care costs.
 primary_entities:
 - Federal Bureau of Investigation
 - Perfect Child
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +150,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-ftc-and-20-states-sue-dollar-general-over-mislabeled-prices
-  headline: FTC and 20 states sue Dollar General over mislabeled prices
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6386
-- slug: 2026-10-28-ftc-orders-delta-walmart-and-others-to-disclose-pricing-data-practices
-  headline: FTC orders Delta, Walmart and others to disclose pricing data practices
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6167
-- slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
-  headline: Consumer frustration spans higher prices and perceived artificial intelligence pricing
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6282
-- slug: 2026-10-26-ftc-cites-more-than-4-300-failed-dollar-general-price-accuracy-inspections
-  headline: FTC cites more than 4,300 failed Dollar General price-accuracy inspections
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6236
-- slug: 2026-10-22-federal-prosecutors-charge-nathan-young-and-his-father-in-healthcare-fraud
-  headline: Federal prosecutors charge Nathan Young and his father in healthcare fraud
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6179
-- slug: 2026-10-12-ai-billing-tools-expand-into-growing-us-medical-debt
-  headline: AI billing tools expand into growing US medical debt
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6323
-- slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6249
-- slug: 2026-10-01-seven-senators-demand-data-on-childcare-closures-rising-costs
-  headline: Seven senators demand data on childcare closures, rising costs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6187
 - slug: 2026-08-04-federal-officials-urge-states-to-tighten-autism-therapy-oversight
   headline: Federal officials urge states to tighten autism therapy oversight
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7341
-- slug: 2026-08-25-deloitte-to-pay-21-5-million-to-settle-doj-fraud-probe-over-dei-practices
-  headline: Deloitte to pay $21.5 million to settle DOJ fraud probe over DEI practices
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6181
+  strength: 0.7342
 - slug: 2026-08-03-complete-health-agrees-to-14-1-million-medicare-settlement
   headline: Complete Health agrees to $14.1 million Medicare settlement
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.6578
-- slug: 2026-08-19-400-000-children-on-federal-childcare-assistance-waitlists-report-finds
-  headline: 400,000 children on federal childcare assistance waitlists, report finds
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6174
+  strength: 0.658
 - slug: 2026-06-17-parents-turn-to-unproven-stem-cell-autism-treatments-backed-by-rfk-jr
   headline: Parents turn to unproven stem cell autism treatments backed by RFK Jr.
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6601
+  strength: 0.6607
 - slug: 2026-05-29-special-education-dollars-fund-for-profit-teen-residential-centers-ap-finds
-  headline: Special education dollars fund for-profit teen residential centers, AP finds
+  headline: Special education dollars fund for-profit teen residential centers, AP
+    finds
   publish_date: '2026-05-29'
   relation: related
-  strength: 0.6554
-- slug: 2026-06-17-ftc-sues-leading-transgender-health-group-over-gender-affirming-care
-  headline: FTC sues leading transgender health group over gender-affirming care
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6234
-- slug: 2026-06-17-kash-patel-accused-of-directing-1m-slush-fund-to-loyalist-fbi-agents
-  headline: Kash Patel accused of directing $1m slush fund to loyalist FBI agents
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6122
-- slug: 2026-04-11-trump-administration-admits-error-in-new-york-medicaid-fraud-probe
-  headline: Trump administration admits error in New York Medicaid fraud probe
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6398
-- slug: 2026-04-12-trump-administration-admits-error-in-new-york-health-care-fraud-probe
-  headline: Trump administration admits error in New York health care fraud probe
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6351
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6117
-- slug: 2026-05-02-ap-investigation-finds-adopted-kids-harmed-in-for-profit-residential-programs
-  headline: Adopted kids harmed in for-profit residential programs
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6221
+  strength: 0.6547
 ---
-
 ## FBI investigates Perfect Child over autism therapy billing practices
 
 **Subtype:** fact
