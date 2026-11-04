@@ -1,9 +1,21 @@
 ---
 headline: Angie Nixon seeks Florida upset as Sherrod Brown pursues Ohio Senate comeback
-secondary_headline: State-by-state guide maps poll closings, House contests and governor races
+secondary_headline: State-by-state guide maps poll closings, House contests and governor
+  races
 publish_date: '2026-11-03'
-lede: The Guardian's guide to the November 3, 2026 US midterms details Senate matchups across multiple states, including Democrat Angie Nixon's upset bid against Republican incumbent Ashley Moody in Florida and former Senator Sherrod Brown's comeback attempt in Ohio. Nixon was seeking to unseat Moody in one of two special elections this cycle, while Brown was trying to unseat Republican Jon Husted after losing his 2024 race. Democrats need four Senate gains for a 51-seat majority and at least 218 House wins to reclaim both chambers, and more than 56 million Americans had cast early ballots.
-nut_graf: The guide combines those Senate matchups with House and governor contests, a state-by-state closing schedule, ballot measures and early-vote totals. Democrats are looking to flip competitive House seats in Michigan, New Jersey and Pennsylvania that Republicans won in 2024, while The Guardian said Republicans are contending with unpopular Trump administration policies as they defend their majorities.
+lede: The Guardian's guide to the November 3, 2026 US midterms details Senate matchups
+  across multiple states, including Democrat Angie Nixon's upset bid against Republican
+  incumbent Ashley Moody in Florida and former Senator Sherrod Brown's comeback attempt
+  in Ohio. Nixon was seeking to unseat Moody in one of two special elections this
+  cycle, while Brown was trying to unseat Republican Jon Husted after losing his 2024
+  race. Democrats need four Senate gains for a 51-seat majority and at least 218 House
+  wins to reclaim both chambers, and more than 56 million Americans had cast early
+  ballots.
+nut_graf: The guide combines those Senate matchups with House and governor contests,
+  a state-by-state closing schedule, ballot measures and early-vote totals. Democrats
+  are looking to flip competitive House seats in Michigan, New Jersey and Pennsylvania
+  that Republicans won in 2024, while The Guardian said Republicans are contending
+  with unpopular Trump administration policies as they defend their majorities.
 primary_entities:
 - The Guardian
 - United States
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +162,43 @@ related_stories:
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7344
+  strength: 0.7347
 - slug: 2026-10-30-florida-voters-decide-senate-governor-and-house-races-under-new-gop-map
   headline: Florida voters decide Senate, governor and House races under new GOP map
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7365
+  strength: 0.7364
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7047
+  strength: 0.7054
 - slug: 2026-11-03-sherrod-brown-seeks-return-to-senate-against-jon-husted-in-ohio
   headline: Sherrod Brown seeks return to Senate against Jon Husted in Ohio
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7045
+  strength: 0.7047
 - slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
   headline: Voters in 36 states choose governors as Democrats pursue a majority
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7021
+  strength: 0.7024
 - slug: 2026-10-30-ohio-s-2026-midterms-test-republican-dominance
   headline: Ohio's 2026 midterms test Republican dominance
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7261
+  strength: 0.7266
 - slug: 2026-11-02-seven-senate-races-could-decide-senate-control-in-2026
   headline: Seven Senate races could decide Senate control in 2026
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7019
+  strength: 0.7022
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6932
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7251
-- slug: 2026-10-30-democrats-need-four-senate-flips-as-red-state-races-tighten
-  headline: Democrats need four Senate flips as red-state races tighten
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6964
-- slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
-  headline: Democrats narrow gaps in Republican-held races with month to midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7865
-- slug: 2026-10-25-polls-show-narrower-democratic-lead-in-competitive-house-seats
-  headline: Polls show narrower Democratic lead in competitive House seats
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.692
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.693
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6966
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7079
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.72
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6899
-- slug: 2026-08-19-angie-nixon-defeats-vindman-in-florida-democratic-senate-primary
-  headline: Angie Nixon defeats Vindman in Florida Democratic Senate primary
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7355
-- slug: 2026-08-30-angie-nixon-readies-for-november-senate-race-after-democratic-primary-win
-  headline: Angie Nixon readies for November Senate race after Democratic primary win
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7107
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6947
+  strength: 0.6935
 ---
-
 ## Angie Nixon seeks Florida upset as Sherrod Brown pursues Ohio Senate comeback
 
 **Subtype:** fact

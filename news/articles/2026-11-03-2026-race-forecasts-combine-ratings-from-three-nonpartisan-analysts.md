@@ -2,8 +2,18 @@
 headline: 2026 race forecasts combine ratings from three nonpartisan analysts
 secondary_headline: Readers can choose winners to see the House and Senate split
 publish_date: '2026-11-03'
-lede: 'For the Nov. 3, 2026 midterm elections, three nonpartisan political analysts supply the ratings behind The Wall Street Journal’s House and Senate forecasts: the Cook Political Report with Amy Walter, Inside Elections with Nathan L. Gonzales, and Larry Sabato’s Crystal Ball at the University of Virginia Center for Politics. The Journal’s interactive lets readers choose a party in each competitive race and see the overall chamber split that results from those decisions.'
-nut_graf: 'The ratings and chamber arithmetic answer separate questions: category labels describe how competitive each race is, while seat totals determine which party controls a chamber. Republicans need 50 Senate seats, with Vice President JD Vance to break a tie, while Democrats need 51; the House starts with 219 seats held by Republicans, 214 held by Democrats including independent Kevin Kiley, who caucuses with Republicans, and 2 vacant seats.'
+lede: 'For the Nov. 3, 2026 midterm elections, three nonpartisan political analysts
+  supply the ratings behind The Wall Street Journal’s House and Senate forecasts:
+  the Cook Political Report with Amy Walter, Inside Elections with Nathan L. Gonzales,
+  and Larry Sabato’s Crystal Ball at the University of Virginia Center for Politics.
+  The Journal’s interactive lets readers choose a party in each competitive race and
+  see the overall chamber split that results from those decisions.'
+nut_graf: 'The ratings and chamber arithmetic answer separate questions: category
+  labels describe how competitive each race is, while seat totals determine which
+  party controls a chamber. Republicans need 50 Senate seats, with Vice President
+  JD Vance to break a tie, while Democrats need 51; the House starts with 219 seats
+  held by Republicans, 214 held by Democrats including independent Kevin Kiley, who
+  caucuses with Republicans, and 2 vacant seats.'
 primary_entities:
 - The Wall Street Journal
 - Cook Political Report
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,113 +159,58 @@ related_stories:
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7421
+  strength: 0.7419
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7263
+  strength: 0.7257
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7331
+  strength: 0.733
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6968
+  strength: 0.697
 - slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7033
+  strength: 0.7027
 - slug: 2026-11-02-early-returns-turnout-and-state-benchmarks-frame-the-2026-midterms
   headline: Early returns, turnout and state benchmarks frame the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6984
+  strength: 0.6981
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.69
+  strength: 0.6901
 - slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
+  headline: Republicans brace for potential House losses as Trump disapproval hits
+    59%
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.689
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7125
-- slug: 2026-10-30-democrats-need-four-senate-flips-as-red-state-races-tighten
-  headline: Democrats need four Senate flips as red-state races tighten
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6765
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7115
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6991
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7562
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7166
-- slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
-  headline: Forecasters rate 43 House races competitive for 2026 control
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.8408
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7708
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7012
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6799
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6818
-- slug: 2026-09-21-wsj-to-deploy-ai-tool-analyzing-tiktoks-podcasts-for-midterm-coverage
-  headline: WSJ to deploy AI tool analyzing TikToks, podcasts for midterm coverage
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6722
+  strength: 0.6874
 image:
   url: /articles/2026-11-03-2026-race-forecasts-combine-ratings-from-three-nonpartisan-analysts.png
-  alt: "Illustration accompanying article: 2026 race forecasts combine ratings from three nonpartisan analysts"
+  alt: 'Illustration accompanying article: 2026 race forecasts combine ratings from
+    three nonpartisan analysts'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## 2026 race forecasts combine ratings from three nonpartisan analysts
 
 **Subtype:** fact
