@@ -1,9 +1,20 @@
 ---
 headline: The business world anticipates change if Democrats win substantially
-secondary_headline: If Democrats win big, changes could involve data centers, soybeans, Fed control and investigations
+secondary_headline: If Democrats win big, changes could involve data centers, soybeans,
+  Fed control and investigations
 publish_date: '2026-11-03'
-lede: If Democrats win substantially in the November 3 midterms, the business world is anticipating change involving data centers, soybeans, Fed control and investigations, according to The Wall Street Journal's *What's News* newsletter. The newsletter reported that the latest polls showed Democrats had a chance to make substantial gains, while Republicans hoped to rally their base and defend their majorities. It said the first polls would close at 6 p.m. ET, and that The Wall Street Journal would provide live coverage of the midterms and results.
-nut_graf: The business changes the newsletter described were conditional on a substantial Democratic win, spanning data centers, soybeans, Fed control and investigations. The other briefs in the edition covered Israel, NATO, an aviation investigation, therapy-billing practices, a roughly $360 million loan on a downtown L.A. apartment tower, Alphabet's AI transition and changing music preferences.
+lede: If Democrats win substantially in the November 3 midterms, the business world
+  is anticipating change involving data centers, soybeans, Fed control and investigations,
+  according to The Wall Street Journal's *What's News* newsletter. The newsletter
+  reported that the latest polls showed Democrats had a chance to make substantial
+  gains, while Republicans hoped to rally their base and defend their majorities.
+  It said the first polls would close at 6 p.m. ET, and that The Wall Street Journal
+  would provide live coverage of the midterms and results.
+nut_graf: The business changes the newsletter described were conditional on a substantial
+  Democratic win, spanning data centers, soybeans, Fed control and investigations.
+  The other briefs in the edition covered Israel, NATO, an aviation investigation,
+  therapy-billing practices, a roughly $360 million loan on a downtown L.A. apartment
+  tower, Alphabet's AI transition and changing music preferences.
 primary_entities:
 - The Wall Street Journal
 - Democrats
@@ -54,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,116 +165,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-the-business-world-anticipates-change-if-democrats-win-substantially.png
-  alt: 'Illustration accompanying article: The business world anticipates change if Democrats win substantially'
+  alt: 'Illustration accompanying article: The business world anticipates change if
+    Democrats win substantially'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7416
+  strength: 0.7413
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7264
+  strength: 0.7245
 - slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
   headline: Poll shows Democrats with House edge as Israelis cast ballots
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.749
+  strength: 0.7497
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6981
+  strength: 0.6987
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7118
+  strength: 0.7114
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6971
+  strength: 0.6967
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6887
-- slug: 2026-10-28-npr-s-daniel-estrin-says-netanyahu-pulled-ahead-by-morning-in-a-race-too-close-t
-  headline: NPR's Daniel Estrin says Netanyahu pulled ahead by morning in a race too close to call
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7063
+  strength: 0.6882
 - slug: 2026-10-29-final-gdp-report-lands-days-before-midterm-election
   headline: Final GDP report lands days before midterm election
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6992
-- slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
-  headline: Midterms test Democrats' strategy tying climate to affordability
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6879
-- slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
-  headline: Wall Street Journal seeks reader questions on midterms and the economy
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7262
-- slug: 2026-10-27-wsj-politics-newsletter-flags-senate-balance-trump-rallies-and-data-center-votes
-  headline: WSJ Politics newsletter flags Senate balance, Trump rallies and data-center votes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6973
-- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
-  headline: Economic populism gains ground as both parties court midterm voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6901
-- slug: 2026-10-15-wsj-poll-finds-majority-of-democrats-oppose-leftward-party-shift
-  headline: WSJ poll finds majority of Democrats oppose leftward party shift
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7144
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6974
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.706
-- slug: 2026-10-14-us-businesses-absorb-nearly-90-of-tariff-costs-new-york-fed-finds
-  headline: US businesses absorb nearly 90% of tariff costs, New York Fed finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6929
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7062
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6926
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7032
+  strength: 0.6982
 ---
-
 ## The business world anticipates change if Democrats win substantially
 
 **Subtype:** fact

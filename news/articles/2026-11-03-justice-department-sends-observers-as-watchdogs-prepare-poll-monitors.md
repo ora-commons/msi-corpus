@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -250,3 +250,10 @@ Taken together, Tuesday's returns will determine which party controls Congress, 
 **Publication date:** 2026-11-03
 **Title:** What to watch in Tuesday's midterm election
 **URL:** https://apnews.com/article/election-takeaways-midterms-trump-democrats-takeover-republicans-1cb09c8674598632ec3e4307eda5fbb8
+
+### src_late_dff6f5221cbb2c4e — Associated Press, wire, Tier 1, originating
+**Author:** Steve Peoples
+**Publication date:** 2026-11-03
+**Title:** Referendo sobre Trump, observadores electorales y giro demócrata: claves de la jornada electoral
+**URL:** https://apnews.com/article/eeuu-elecciones-claves-trump-observadores-democratas-d853b2a629d1a04a478dcc9abb49ce2b
+**Added after publication:** true

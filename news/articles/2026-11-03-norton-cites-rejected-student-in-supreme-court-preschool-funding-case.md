@@ -1,9 +1,23 @@
 ---
 headline: Norton cites rejected student in Supreme Court preschool funding case
-secondary_headline: Roberts was the lone conservative skeptic as Gorsuch and Barrett questioned Colorado
+secondary_headline: Roberts was the lone conservative skeptic as Gorsuch and Barrett
+  questioned Colorado
 publish_date: '2026-11-03'
-lede: At Tuesday's Supreme Court argument, Colorado Deputy Solicitor General Helen Norton pointed to the case of a rejected student and disputed assertions that the schools were easily interchangeable. She described parents who needed a school opening at 7 a.m. so they could catch the bus to work or one school that would take all three of their children. Chief Justice John Roberts was the only conservative justice to express any skepticism about the Denver Archdiocese's request. The Denver Archdiocese, though not all other Colorado religious providers, sought an exemption that would allow state funding while barring children of gay and trans parents.
-nut_graf: The Denver Archdiocese, though not all other Colorado religious providers, wants an exemption that would let it obtain state funding while barring children of gay and trans parents. The case asks whether Colorado may require religious preschool providers to follow its nondiscrimination law while granting that exception. Norton's examples directly challenged the conservative justices' contention that other preschools could accommodate LGBT parents and their children. The argument left the case undecided, with a decision expected by summer 2027.
+lede: At Tuesday's Supreme Court argument, Colorado Deputy Solicitor General Helen
+  Norton pointed to the case of a rejected student and disputed assertions that the
+  schools were easily interchangeable. She described parents who needed a school opening
+  at 7 a.m. so they could catch the bus to work or one school that would take all
+  three of their children. Chief Justice John Roberts was the only conservative justice
+  to express any skepticism about the Denver Archdiocese's request. The Denver Archdiocese,
+  though not all other Colorado religious providers, sought an exemption that would
+  allow state funding while barring children of gay and trans parents.
+nut_graf: The Denver Archdiocese, though not all other Colorado religious providers,
+  wants an exemption that would let it obtain state funding while barring children
+  of gay and trans parents. The case asks whether Colorado may require religious preschool
+  providers to follow its nondiscrimination law while granting that exception. Norton's
+  examples directly challenged the conservative justices' contention that other preschools
+  could accommodate LGBT parents and their children. The argument left the case undecided,
+  with a decision expected by summer 2027.
 primary_entities:
 - Supreme Court
 - Colorado
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,116 +164,57 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-norton-cites-rejected-student-in-supreme-court-preschool-funding-case.png
-  alt: 'Illustration accompanying article: Norton cites rejected student in Supreme Court preschool funding case'
+  alt: 'Illustration accompanying article: Norton cites rejected student in Supreme
+    Court preschool funding case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-supreme-court-appears-likely-to-favor-catholic-preschools-in-subsidy-case
   headline: Supreme Court appears likely to favor Catholic preschools in subsidy case
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.779
+  strength: 0.7795
 - slug: 2026-11-03-catholic-preschools-challenge-colorado-preschool-funding-rules-at-supreme-court
-  headline: Catholic preschools challenge Colorado preschool funding rules at Supreme Court
+  headline: Catholic preschools challenge Colorado preschool funding rules at Supreme
+    Court
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7505
+  strength: 0.7509
 - slug: 2026-11-03-supreme-court-s-colorado-case-puts-1990-religious-practices-precedent-at-issue
-  headline: Supreme Court's Colorado case puts 1990 religious-practices precedent at issue
+  headline: Supreme Court's Colorado case puts 1990 religious-practices precedent
+    at issue
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7071
-- slug: 2026-10-29-student-defense-sues-education-dept-over-closed-school-loan-discharges
-  headline: Student Defense sues Education Dept. over closed-school loan discharges
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6158
-- slug: 2026-10-24-colorado-and-washington-put-transgender-sports-bans-before-voters
-  headline: Colorado and Washington put transgender sports bans before voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6094
-- slug: 2026-10-20-democratic-governors-divided-over-federal-scholarship-tax-credit
-  headline: Democratic governors divided over Federal Scholarship Tax Credit
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6289
+  strength: 0.7073
 - slug: 2026-10-03-supreme-court-opens-new-term-with-major-religion-guns-climate-cases
   headline: Supreme Court opens new term with major religion, guns, climate cases
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6562
-- slug: 2026-10-05-supreme-court-opens-new-term-with-cases-on-climate-voting-guns-religion
-  headline: Supreme Court opens new term with cases on climate, voting, guns, religion
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6277
-- slug: 2026-09-29-federal-judge-allows-ben-gamla-religious-charter-school-suit-to-proceed
-  headline: Federal judge allows Ben Gamla religious charter school suit to proceed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6248
-- slug: 2026-09-25-lawmakers-press-hhs-on-100-million-in-unspent-teen-pregnancy-funds
-  headline: Lawmakers press HHS on $100 million in unspent teen pregnancy funds
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6241
+  strength: 0.6555
 - slug: 2026-04-20-supreme-court-takes-up-catholic-preschool-funding-case
   headline: Supreme Court takes up Catholic preschool funding case
   publish_date: '2026-04-20'
   relation: related
-  strength: 0.7629
-- slug: 2026-07-01-supreme-court-upholds-state-bans-on-transgender-athletes-in-6-3-ruling
-  headline: Supreme Court upholds state bans on transgender athletes in 6-3 ruling
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6164
+  strength: 0.7633
 - slug: 2026-04-01-supreme-court-rejects-colorado-s-ban-on-conversion-therapy-for-lgbtq-kids
-  headline: Supreme Court rejects Colorado’s ban on “conversion therapy” for LGBTQ kids
+  headline: Supreme Court rejects Colorado’s ban on “conversion therapy” for LGBTQ
+    kids
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.6578
+  strength: 0.658
 - slug: 2026-03-04-supreme-court-blocks-california-schools-transgender-notification-policy
   headline: Supreme Court blocks California schools’ transgender notification policy
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.6559
-- slug: 2026-04-07-iowa-appeals-court-lets-state-enforce-k-6-lgbtq-book-ban-curbs-instruction
-  headline: Iowa appeals court lets state enforce K-6 LGBTQ book ban, curbs instruction
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6353
-- slug: 2026-01-13-supreme-court-appears-set-to-uphold-state-bans-on-transgender-athletes
-  headline: Supreme Court appears set to uphold state bans on transgender athletes
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6434
-- slug: 2026-05-16-kansas-judge-blocks-gender-affirming-care-ban-as-texas-children-s-settles-with-s
-  headline: Kansas judge blocks gender-affirming care ban as Texas Children’s settles with state
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6116
-- slug: 2026-04-29-bill-seeks-to-screen-california-kindergartners-for-basic-math-skills
-  headline: Bill seeks to screen California kindergartners for basic math skills
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6161
-- slug: 2026-03-21-texas-accepts-some-islamic-schools-into-voucher-program-after-lawsuits
-  headline: Texas accepts some Islamic schools into voucher program after lawsuits
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6179
-- slug: 2026-04-06-judge-blocks-trump-admin-college-race-data-collection
-  headline: Judge Blocks Trump Admin. College Race Data Collection
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6127
+  strength: 0.6568
 ---
-
 ## Norton cites rejected student in Supreme Court preschool funding case
 
 **Subtype:** fact
