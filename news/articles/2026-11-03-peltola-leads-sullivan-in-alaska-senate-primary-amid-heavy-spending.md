@@ -1,9 +1,21 @@
 ---
 headline: Peltola leads Sullivan in Alaska Senate primary amid heavy spending
-secondary_headline: Sullivan stresses Trump agenda; Peltola emphasizes nonpartisan Alaska interests
+secondary_headline: Sullivan stresses Trump agenda; Peltola emphasizes nonpartisan
+  Alaska interests
 publish_date: '2026-11-03'
-lede: Republican U.S. Sen. Dan Sullivan, a two-term senator, and former U.S. Rep. Mary Peltola entered the final stretch of Alaska’s U.S. Senate race less than two weeks before Election Day, with Peltola leading the August open primary and the contest drawing heavy outside spending. Peltola received 49.5% of the primary vote, Sullivan 41.4% and retired teacher Dan J. Sullivan 2.5%; 14 other candidates received the remainder. The contest is among several expected to determine which party gains control of the Senate.
-nut_graf: The contest is among several expected to determine which party controls the Senate. Sullivan has emphasized support for Trump and the military, while Peltola has said she supports additional drilling and would work with Trump. Alaska accepts overseas ballots postmarked by Election Day for up to 15 days, making Nov. 18 the deadline for final receipt and for ranked-choice tabulations; a winner might not be known until those tabulations are completed.
+lede: Republican U.S. Sen. Dan Sullivan, a two-term senator, and former U.S. Rep.
+  Mary Peltola entered the final stretch of Alaska’s U.S. Senate race less than two
+  weeks before Election Day, with Peltola leading the August open primary and the
+  contest drawing heavy outside spending. Peltola received 49.5% of the primary vote,
+  Sullivan 41.4% and retired teacher Dan J. Sullivan 2.5%; 14 other candidates received
+  the remainder. The contest is among several expected to determine which party gains
+  control of the Senate.
+nut_graf: The contest is among several expected to determine which party controls
+  the Senate. Sullivan has emphasized support for Trump and the military, while Peltola
+  has said she supports additional drilling and would work with Trump. Alaska accepts
+  overseas ballots postmarked by Election Day for up to 15 days, making Nov. 18 the
+  deadline for final receipt and for ranked-choice tabulations; a winner might not
+  be known until those tabulations are completed.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,116 +160,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-peltola-leads-sullivan-in-alaska-senate-primary-amid-heavy-spending.png
-  alt: 'Illustration accompanying article: Peltola leads Sullivan in Alaska Senate primary amid heavy spending'
+  alt: 'Illustration accompanying article: Peltola leads Sullivan in Alaska Senate
+    primary amid heavy spending'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
   headline: Voting-rights experts call Alaska election intervention unprecedented
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.836
+  strength: 0.8311
 - slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
   headline: Alaska voters decide Senate race shadowed by DOJ probe
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8415
+  strength: 0.8378
 - slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
   headline: Spoiler allegations roil Alaska's tight Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8305
+  strength: 0.8299
 - slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
+  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe
+    escalates
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.827
+  strength: 0.8238
 - slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
   headline: Justice Department asks judge to segregate ballots ranking second Sullivan
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8164
+  strength: 0.8095
 - slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
   headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8322
+  strength: 0.8285
 - slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
   headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8256
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.818
+  strength: 0.8222
 - slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
+  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake
+    scheme
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8046
-- slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
-  headline: Sullivan and Peltola court Alaska Native voters before midterms
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.831
-- slug: 2026-10-29-justice-department-reportedly-issues-subpoenas-in-alaska-namesake-probe
-  headline: Justice Department reportedly issues subpoenas in Alaska namesake probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.802
-- slug: 2026-10-29-dunleavy-orders-probe-into-peltola-campaign-over-sullivan-namesake
-  headline: Dunleavy orders probe into Peltola campaign over Sullivan namesake
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.8
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7995
-- slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
-  headline: Alaska Republican governor calls for investigation into namesake filing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7919
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8152
-- slug: 2026-10-22-mary-peltola-campaigns-against-dan-sullivan-over-alaska-s-rural-costs
-  headline: Mary Peltola campaigns against Dan Sullivan over Alaska’s rural costs
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8194
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8054
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7981
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8366
-- slug: 2026-08-17-peltola-challenges-sullivan-as-alaska-senate-primary-nears
-  headline: Peltola challenges Sullivan as Alaska Senate primary nears
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.8569
+  strength: 0.8039
 ---
-
 ## Peltola leads Sullivan in Alaska Senate primary amid heavy spending
 
 **Subtype:** fact

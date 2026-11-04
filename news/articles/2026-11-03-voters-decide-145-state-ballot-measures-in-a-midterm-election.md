@@ -2,8 +2,16 @@
 headline: Voters decide 145 state ballot measures in a midterm election
 secondary_headline: Redistricting measures could shape the 2028 congressional elections
 publish_date: '2026-11-03'
-lede: Voters in several states are deciding 145 proposed laws and constitutional amendments Tuesday, with redistricting measures that could shape the 2028 congressional elections. Abortion rights are among the issues before voters, who are also deciding questions on redistricting, transgender restrictions, voter identification, citizenship and election procedures. The midterm election will determine which party controls Congress, state legislatures and gubernatorial offices in many states.
-nut_graf: Several questions could alter state laws or election rules beyond the races attracting the most attention. The ballot also tests positions associated with President Donald Trump on redistricting, restrictions affecting transgender athletes and youth, and stricter voter identification.
+lede: Voters in several states are deciding 145 proposed laws and constitutional amendments
+  Tuesday, with redistricting measures that could shape the 2028 congressional elections.
+  Abortion rights are among the issues before voters, who are also deciding questions
+  on redistricting, transgender restrictions, voter identification, citizenship and
+  election procedures. The midterm election will determine which party controls Congress,
+  state legislatures and gubernatorial offices in many states.
+nut_graf: Several questions could alter state laws or election rules beyond the races
+  attracting the most attention. The ballot also tests positions associated with President
+  Donald Trump on redistricting, restrictions affecting transgender athletes and youth,
+  and stricter voter identification.
 primary_entities:
 - United States
 - Missouri
@@ -69,7 +77,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -171,104 +180,45 @@ related_stories:
   headline: Missouri voters decide congressional races and five ballot measures Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7658
+  strength: 0.7637
 - slug: 2026-10-22-voters-will-decide-mail-ballot-identification-measures-in-california-colorado-an
-  headline: Voters will decide mail-ballot identification measures in California, Colorado and Nevada
+  headline: Voters will decide mail-ballot identification measures in California,
+    Colorado and Nevada
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7661
+  strength: 0.766
 - slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
   headline: Early ballots pass 43 million as US midterms approach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6996
+  strength: 0.6992
 - slug: 2026-10-27-the-guardian-asks-gen-z-voters-what-will-guide-their-2026-midterms
   headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7109
+  strength: 0.7108
 - slug: 2026-10-29-ballot-disputes-span-three-states-as-midterms-near
   headline: Ballot disputes span three states as midterms near
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6963
+  strength: 0.6957
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7325
+  strength: 0.7317
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7062
-- slug: 2026-10-19-unpaid-idaho-volunteers-place-abortion-rights-measure-on-november-ballot
-  headline: Unpaid Idaho volunteers place abortion rights measure on November ballot
-  publish_date: '2026-10-19'
+  strength: 0.7058
+- slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
+  headline: The Guardian seeks US voter priorities for Nov. 3 midterms
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.6994
-- slug: 2026-09-22-missouri-asks-voters-to-overturn-2024-abortion-protections
-  headline: Missouri asks voters to overturn 2024 abortion protections
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7743
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7043
-- slug: 2026-10-07-state-supreme-court-elections-to-decide-abortion-trans-healthcare-cases
-  headline: State supreme court elections to decide abortion, trans healthcare cases
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6936
-- slug: 2026-09-23-supreme-court-again-weighs-missouri-s-redistricting-map-dispute
-  headline: Supreme Court again weighs Missouri's redistricting map dispute
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6912
-- slug: 2026-09-03-maryland-supreme-court-places-redistricting-amendment-on-november-ballot
-  headline: Maryland Supreme Court places redistricting amendment on November ballot
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7155
-- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6951
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7048
-- slug: 2026-05-22-southern-republicans-press-redistricting-after-voting-rights-act-ruling
-  headline: Southern Republicans press redistricting after Voting Rights Act ruling
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6989
-- slug: 2026-02-20-midterm-house-campaigns-proceed-amid-ongoing-redistricting-disputes
-  headline: Midterm House campaigns proceed amid ongoing redistricting disputes
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7158
-- slug: 2026-03-24-missouri-supreme-court-upholds-mid-decade-congressional-redistricting-urged-by-t
-  headline: Missouri Supreme Court upholds mid-decade congressional redistricting urged by Trump
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.711
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6976
-- slug: 2026-03-25-missouri-supreme-court-upholds-trump-backed-mid-decade-congressional-map
-  headline: Missouri Supreme Court upholds Trump-backed mid-decade congressional map
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7077
+  strength: 0.6901
 ---
-
 ## Voters decide 145 state ballot measures in a midterm election
 
 **Subtype:** fact
