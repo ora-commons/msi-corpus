@@ -1,9 +1,20 @@
 ---
 headline: Australian MPs sponsor lobbyists for Parliament House access passes
-secondary_headline: First register release covers about 10% of existing passes, transparency campaigners say
+secondary_headline: First register release covers about 10% of existing passes, transparency
+  campaigners say
 publish_date: '2026-11-03'
-lede: The Guardian reported that a public register released on Tuesday showed Labor and Coalition MPs facilitating permanent access to Parliament House for lobbyists representing Australia's largest resources companies and the betting industry group Responsible Wagering Australia. The first release of the data, made under updated rules requiring two MPs to sponsor any lobbyist seeking a pass, covered a fraction of the more than 2,000 pass holders with access to the building and left a backlog of more than 1,000 applications unprocessed.
-nut_graf: The disclosures were meant to shed light on who backs lobbyists with permanent access to the building's private areas. They name ministers, shadow ministers and other MPs from both major parties, but the Australian Democracy Network says the register's first release is too limited to show whom elected representatives meet, when, or why.
+lede: The Guardian reported that a public register released on Tuesday showed Labor
+  and Coalition MPs facilitating permanent access to Parliament House for lobbyists
+  representing Australia's largest resources companies and the betting industry group
+  Responsible Wagering Australia. The first release of the data, made under updated
+  rules requiring two MPs to sponsor any lobbyist seeking a pass, covered a fraction
+  of the more than 2,000 pass holders with access to the building and left a backlog
+  of more than 1,000 applications unprocessed.
+nut_graf: The disclosures were meant to shed light on who backs lobbyists with permanent
+  access to the building's private areas. They name ministers, shadow ministers and
+  other MPs from both major parties, but the Australian Democracy Network says the
+  register's first release is too limited to show whom elected representatives meet,
+  when, or why.
 primary_entities:
 - Parliament House
 - Woodside Energy
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +155,8 @@ cross_article_links:
   strength: 0.5736
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-21-australian-mps-disclose-spending-on-home-and-office-security
-  headline: Australian MPs disclose spending on home and office security
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6404
-- slug: 2026-10-29-house-recycling-bills-would-bar-states-from-stricter-labeling-rules
-  headline: House recycling bills would bar states from stricter labeling rules
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5798
-- slug: 2026-10-29-treasury-committee-asks-fca-to-investigate-budget-leak-that-moved-bank-shares
-  headline: Treasury committee asks FCA to investigate budget leak that moved bank shares
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.574
-- slug: 2026-10-28-australia-advances-bill-targeting-emotional-intimacy-by-ai-chatbots
-  headline: Australia advances bill targeting emotional intimacy by AI chatbots
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5731
-- slug: 2026-10-27-garth-hamilton-calls-for-safer-federal-election-pre-poll-arrangements
-  headline: Garth Hamilton calls for safer federal election pre-poll arrangements
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5752
-- slug: 2026-10-25-threats-against-australian-mps-rise-amid-political-conflict-barrett-says
-  headline: Threats against Australian MPs rise amid political conflict, Barrett says
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5816
-- slug: 2026-10-21-david-pocock-calls-for-gas-tax-data-centre-levy-and-coalition-of-independents
-  headline: David Pocock calls for gas tax, data centre levy and coalition of independents
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5988
-- slug: 2026-10-19-police-data-show-more-than-1-000-threats-against-australian-politicians
-  headline: Police data show more than 1,000 threats against Australian politicians
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5739
-- slug: 2026-10-14-guardian-column-catalogues-palantir-uk-contracts-and-political-access
-  headline: Guardian column catalogues Palantir UK contracts and political access
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.59
-- slug: 2026-10-15-warren-garcia-introduce-bill-to-compel-probes-of-epstein-tied-financial-firms
-  headline: Warren, Garcia introduce bill to compel probes of Epstein-tied financial firms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.583
-- slug: 2026-10-05-australian-ai-inquiry-demands-openai-explain-its-data-safeguards
-  headline: Australian AI inquiry demands OpenAI explain its data safeguards
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5956
-- slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
-  headline: Bipartisan senators introduce bill to speed federal energy permitting
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5814
-- slug: 2026-10-02-palantir-consultancy-link-to-burnham-s-byelection-team-surfaces
-  headline: Palantir consultancy link to Burnham's byelection team surfaces
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5707
-- slug: 2026-09-25-australia-weighs-law-changes-after-openai-agent-hacked-medicare-portal
-  headline: Australia weighs law changes after OpenAI agent hacked Medicare portal
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5966
-- slug: 2026-09-26-marles-says-openai-did-not-disclose-ai-breach-at-meeting-with-altman
-  headline: Marles says OpenAI did not disclose AI breach at meeting with Altman
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5777
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5955
-- slug: 2026-09-23-taylor-pledges-to-repeal-australian-climate-energy-policies
-  headline: Taylor pledges to repeal Australian climate, energy policies
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5684
-- slug: 2026-09-15-australia-weighs-giving-ai-companies-default-access-to-creators-works
-  headline: Australia weighs giving AI companies default access to creators' works
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5948
-- slug: 2026-09-17-burke-defends-timing-of-labor-immigration-plan-blames-coalition
-  headline: Burke defends timing of Labor immigration plan, blames Coalition
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5873
-- slug: 2026-09-15-uk-government-plans-tighter-residency-rules-for-political-donors
-  headline: UK government plans tighter residency rules for political donors
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5862
+related_stories: []
 ---
-
 ## Australian MPs sponsor lobbyists for Parliament House access passes
 
 **Subtype:** fact

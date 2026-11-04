@@ -1,9 +1,20 @@
 ---
-headline: U.S. reportedly strikes Iran's Qeshm, targeting missiles used against U.S. assets
+headline: U.S. reportedly strikes Iran's Qeshm, targeting missiles used against U.S.
+  assets
 secondary_headline: Local outlets said the cause of reported explosions was unclear
 publish_date: '2026-11-03'
-lede: US media reported that the United States launched limited strikes on Iran's Qeshm Island late Monday, hours after Vice President JD Vance said diplomatic efforts to end the war were moving in the right direction. Reuters and the Associated Press reported that the strikes targeted surface-to-air missiles being used against U.S. assets. Iranian state media reported hearing several explosions on the island on Monday evening, while local outlets said the cause was unclear. US Central Command did not immediately respond to a request for comment from Reuters.
-nut_graf: If confirmed, the reported operation would mark the first publicly known U.S. strike on Iran in weeks. Local outlets said the cause of the explosions was unclear, and US Central Command did not immediately respond to a request for comment from Reuters. The report came on the eve of U.S. midterm elections, when The Guardian said rising petrol prices caused by the war had become a signature issue.
+lede: US media reported that the United States launched limited strikes on Iran's
+  Qeshm Island late Monday, hours after Vice President JD Vance said diplomatic efforts
+  to end the war were moving in the right direction. Reuters and the Associated Press
+  reported that the strikes targeted surface-to-air missiles being used against U.S.
+  assets. Iranian state media reported hearing several explosions on the island on
+  Monday evening, while local outlets said the cause was unclear. US Central Command
+  did not immediately respond to a request for comment from Reuters.
+nut_graf: If confirmed, the reported operation would mark the first publicly known
+  U.S. strike on Iran in weeks. Local outlets said the cause of the explosions was
+  unclear, and US Central Command did not immediately respond to a request for comment
+  from Reuters. The report came on the eve of U.S. midterm elections, when The Guardian
+  said rising petrol prices caused by the war had become a signature issue.
 primary_entities:
 - Iran
 - Qeshm Island
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,20 +160,21 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-03-trump-says-u-s-has-not-fought-iran-in-months-before-reported-qeshm-island-strike
-  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island strike
+  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island
+    strike
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8563
+  strength: 0.8553
 - slug: 2026-11-03-us-officials-say-limited-qeshm-strikes-responded-to-irgc-fire-on-us-aircraft
   headline: US officials say limited Qeshm strikes responded to IRGC fire on US aircraft
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8277
+  strength: 0.8276
 - slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
   headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.8231
+  strength: 0.8238
 - slug: 2026-09-02-u-s-strikes-iran-tehran-launches-missiles-at-jordan-drones-at-bahrain
   headline: U.S. strikes Iran; Tehran launches missiles at Jordan, drones at Bahrain
   publish_date: '2026-09-02'
@@ -171,84 +184,24 @@ related_stories:
   headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.7857
+  strength: 0.7853
 - slug: 2026-07-20-us-strikes-iran-for-9th-consecutive-night-as-hormuz-conflict-continues
   headline: US strikes Iran for 9th consecutive night as Hormuz conflict continues
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7706
+  strength: 0.7709
 - slug: 2026-07-08-us-strikes-iranian-military-sites-after-tanker-attacks-in-strait-of-hormuz
   headline: US strikes Iranian military sites after tanker attacks in Strait of Hormuz
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7824
+  strength: 0.7823
 - slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
+  headline: US launches third night of strikes on Iran as fighting intensifies in
+    Strait of Hormuz
   publish_date: '2026-07-14'
   relation: related
   strength: 0.772
-- slug: 2026-06-28-us-launches-new-strikes-on-iran-after-tanker-attacked-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after tanker attacked in Strait of Hormuz
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7799
-- slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz skirmish
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7833
-- slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
-  headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7643
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7728
-- slug: 2026-06-10-u-s-iran-exchange-strikes-after-helicopter-downed-near-strait-of-hormuz
-  headline: U.S., Iran exchange strikes after helicopter downed near Strait of Hormuz
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7616
-- slug: 2026-06-03-us-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire
-  headline: US, Iran Trade Heavy Fire in Persian Gulf, Testing Fragile Ceasefire
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7645
-- slug: 2026-06-11-us-and-iran-trade-strikes-for-second-day-as-ceasefire-rhetoric-fades
-  headline: US and Iran trade strikes for second day as ceasefire rhetoric fades
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7558
-- slug: 2026-05-08-us-intercepts-iranian-attacks-on-3-navy-ships-in-strait-of-hormuz
-  headline: US intercepts Iranian attacks on 3 Navy ships in Strait of Hormuz
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7697
-- slug: 2026-05-26-us-conducts-new-defensive-strikes-on-iran-as-trump-says-deal-near
-  headline: US conducts new defensive strikes on Iran as Trump says deal near
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7599
-- slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7575
-- slug: 2026-06-06-us-iran-exchange-strikes-in-gulf-as-fragile-ceasefire-frays
-  headline: US, Iran exchange strikes in Gulf as fragile ceasefire frays
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7517
-- slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar sites
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7515
 ---
-
 ## U.S. reportedly strikes Iran's Qeshm, targeting missiles used against U.S. assets
 
 **Subtype:** fact
