@@ -1,22 +1,9 @@
 ---
 headline: Cost of living and Trump's second-term policies shape 2026 midterms
-secondary_headline: Record early voting accompanies a Democratic push for historically
-  Republican-held seats
+secondary_headline: Record early voting accompanies a Democratic push for historically Republican-held seats
 publish_date: '2026-11-03'
-lede: The Guardian identified the unaffordability of basic living costs as a defining
-  issue in the 2026 U.S. midterms and the second Trump administration's policies as
-  shaping the political backdrop. The outlet reported record early voting and said
-  Democrats were targeting historically Republican-held House and Senate seats. It
-  also described a global energy crisis sparked by the war alongside Israel against
-  Iran and a second-term domestic record that included immigration-enforcement operations
-  that killed two Americans, mass deportation, Medicaid funding cuts, abortion-rights
-  restrictions and expanded presidential power.
-nut_graf: The results will determine the balance of power in Congress and, with it,
-  President Donald Trump's ability to advance his agenda over the next two years.
-  The Guardian said affordability, the Iran-related energy crisis and the administration's
-  immigration, Medicaid, abortion and presidential-power policies shaped the contest,
-  while the question of whether Trump and his allies would accept the results loomed
-  over the election.
+lede: The Guardian identified the unaffordability of basic living costs as a defining issue in the 2026 U.S. midterms and the second Trump administration's policies as shaping the political backdrop. The outlet reported record early voting and said Democrats were targeting historically Republican-held House and Senate seats. It also described a global energy crisis sparked by the war alongside Israel against Iran and a second-term domestic record that included immigration-enforcement operations that killed two Americans, mass deportation, Medicaid funding cuts, abortion-rights restrictions and expanded presidential power.
+nut_graf: The results will determine the balance of power in Congress and, with it, President Donald Trump's ability to advance his agenda over the next two years. The Guardian said affordability, the Iran-related energy crisis and the administration's immigration, Medicaid, abortion and presidential-power policies shaped the contest, while the question of whether Trump and his allies would accept the results loomed over the election.
 primary_entities:
 - Donald Trump
 - United States
@@ -59,8 +46,7 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,50 +145,44 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms.png
-  alt: 'Illustration accompanying article: Cost of living and Trump''s second-term
-    policies shape 2026 midterms'
+  alt: 'Illustration accompanying article: Cost of living and Trump''s second-term policies shape 2026 midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in
-    metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
-    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
-    frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
   headline: Cost of living, Iran war and AI weigh on US voters days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8132
+  strength: 0.8133
 - slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the
-    midterms
+  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.747
+  strength: 0.7463
 - slug: 2026-11-02-midterm-voters-weigh-immigration-iran-war-and-economic-pressure
   headline: Midterm voters weigh immigration, Iran war and economic pressure
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7242
+  strength: 0.7239
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7285
+  strength: 0.728
 - slug: 2026-10-30-steven-greenhouse-argues-trump-tariffs-iran-war-fueled-us-inflation
   headline: Steven Greenhouse argues Trump tariffs, Iran war fueled US inflation
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7415
+  strength: 0.7411
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
-    day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7106
+  strength: 0.7097
 - slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
   headline: Electricity bills enter 2026 midterm campaigns
   publish_date: '2026-11-02'
@@ -212,7 +192,67 @@ related_stories:
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7133
+  strength: 0.7123
+- slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
+  headline: Midterms test Democrats' strategy tying climate to affordability
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7156
+- slug: 2026-10-29-energy-costs-dominate-midterm-races-as-climate-talk-fades
+  headline: Energy costs dominate midterm races as climate talk fades
+  publish_date: '2026-10-29'
+  relation: related
+  strength: 0.713
+- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
+  headline: Consumer prices outpace paychecks as the midterms approach
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7301
+- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
+  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7206
+- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
+  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.738
+- slug: 2026-10-26-a-guardian-analysis-links-farm-costs-and-rural-polls-to-gop-midterm-risk
+  headline: A Guardian analysis links farm costs and rural polls to GOP midterm risk
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.7193
+- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
+  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
+  publish_date: '2026-10-07'
+  relation: related
+  strength: 0.8126
+- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
+  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.7336
+- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
+  headline: Guardian midterm panel shows voters split on economy and Iran
+  publish_date: '2026-10-09'
+  relation: related
+  strength: 0.7767
+- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
+  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
+  publish_date: '2026-10-15'
+  relation: related
+  strength: 0.7103
+- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
+  headline: US midterm elections on November 3 will determine control of Congress
+  publish_date: '2026-10-05'
+  relation: related
+  strength: 0.7167
+- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
+  headline: Anti-establishment rage reshapes 2026 US midterm landscape
+  publish_date: '2026-09-20'
+  relation: related
+  strength: 0.7305
 ---
 ## Cost of living and Trump's second-term policies shape 2026 midterms
 
