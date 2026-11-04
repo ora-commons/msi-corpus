@@ -2,8 +2,20 @@
 headline: Michigan voters weigh utility donation ban and Ann Arbor public power
 secondary_headline: The Guardian predicts legal challenges if either measure passes
 publish_date: '2026-11-03'
-lede: 'Michigan voters were set to decide Tuesday, Nov. 3, 2026, whether to approve State Proposition 2. The Guardian wrote: “On Tuesday, voters statewide will consider a nation-leading ban on political donations by the state’s deeply unpopular regulated utilities.” The measure would also bar companies with at least $250,000 in government contracts, utility executives, immediate family members and other people closely connected to the companies. Ann Arbor voters were set to consider Proposal E, which would establish a board to create a city-owned utility that could replace DTE Energy after a second vote; DTE Energy and Consumers Energy serve about 80% of Michigan customers.'
-nut_graf: The campaigns are not coordinated, but residents said politicians had failed to address controversial datacenters, high energy rates and poor electric reliability. The Guardian said legal challenges were virtually guaranteed if either proposal passed. Organizers said the votes could gauge the US public's appetite for structural change in the utility sector and what is legally possible.
+lede: 'Michigan voters were set to decide Tuesday, Nov. 3, 2026, whether to approve
+  State Proposition 2. The Guardian wrote: “On Tuesday, voters statewide will consider
+  a nation-leading ban on political donations by the state’s deeply unpopular regulated
+  utilities.” The measure would also bar companies with at least $250,000 in government
+  contracts, utility executives, immediate family members and other people closely
+  connected to the companies. Ann Arbor voters were set to consider Proposal E, which
+  would establish a board to create a city-owned utility that could replace DTE Energy
+  after a second vote; DTE Energy and Consumers Energy serve about 80% of Michigan
+  customers.'
+nut_graf: The campaigns are not coordinated, but residents said politicians had failed
+  to address controversial datacenters, high energy rates and poor electric reliability.
+  The Guardian said legal challenges were virtually guaranteed if either proposal
+  passed. Organizers said the votes could gauge the US public's appetite for structural
+  change in the utility sector and what is legally possible.
 primary_entities:
 - Michigan
 - Ann Arbor
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +164,41 @@ related_stories:
   headline: Electricity bills enter 2026 midterm campaigns
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6964
+  strength: 0.6957
 - slug: 2026-10-21-dte-energy-seeks-approval-for-two-gas-plants-amid-michigan-datacenter-growth
-  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
+  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter
+    growth
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7301
-- slug: 2026-10-28-lansing-economic-area-partnership-puts-data-center-proposal-before-the-public
-  headline: Lansing Economic Area Partnership puts data center proposal before the public
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6392
-- slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
-  headline: Local resistance pressures tech giants ahead of the U.S. midterms
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6256
-- slug: 2026-10-10-data-center-pushback-emerges-as-central-issue-in-ohio-michigan-midterm-races
-  headline: Data center pushback emerges as central issue in Ohio, Michigan midterm races
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6294
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6257
-- slug: 2026-08-14-mpsc-recommends-ending-return-on-build-rate-model-to-michigan-lawmakers
-  headline: MPSC recommends ending return-on-build rate model to Michigan lawmakers
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6496
-- slug: 2026-08-14-michigan-psc-chair-asks-legislature-to-change-how-utilities-earn-profit
-  headline: Michigan PSC chair asks legislature to change how utilities earn profit
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.63
+  strength: 0.7306
 - slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
+  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement
+    uncertain
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.662
+  strength: 0.6629
 - slug: 2026-06-11-michigan-judge-recommends-rejecting-consumers-energy-dam-sale
   headline: Michigan judge recommends rejecting Consumers Energy dam sale
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.6571
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6273
+  strength: 0.6573
 - slug: 2026-05-16-states-fight-utility-rate-hikes-as-ai-expansion-drives-power-company-profits
   headline: States fight utility rate hikes as AI expansion drives power company profits
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6586
+  strength: 0.6585
 - slug: 2026-05-16-ai-boom-sparks-state-battles-over-utility-profits-and-rising-electricity-bills
-  headline: AI boom sparks state battles over utility profits and rising electricity bills
+  headline: AI boom sparks state battles over utility profits and rising electricity
+    bills
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6506
-- slug: 2026-04-04-outrage-over-ai-data-centers-could-aid-georgia-democrats-in-2026
-  headline: Outrage over AI data centers could aid Georgia Democrats in 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6479
+  strength: 0.6502
 - slug: 2026-02-13-rising-energy-costs-fuel-calls-for-data-centers-to-pay-their-own-way
   headline: Rising energy costs fuel calls for data centers to pay their own way
   publish_date: '2026-02-13'
   relation: related
-  strength: 0.6515
-- slug: 2026-05-13-states-explore-new-approaches-to-limit-corporate-political-spending
-  headline: States explore new approaches to limit corporate political spending
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6311
-- slug: 2026-04-24-michigan-utility-approves-12-month-water-ban-for-data-centers
-  headline: Michigan utility approves 12-month water ban for data centers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6311
-- slug: 2025-12-29-michigan-faces-540-million-in-canceled-climate-grants-as-ev-plans-unwind
-  headline: Michigan faces $540 million in canceled climate grants as EV plans unwind
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6446
-- slug: 2026-02-03-michigan-debate-over-license-plate-readers-pits-police-utility-vs-privacy
-  headline: Michigan debate over license plate readers pits police utility vs privacy
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6409
-- slug: 2025-12-30-michigan-loses-540-million-in-climate-grants-amid-ev-pullback
-  headline: Michigan loses $540 million in climate grants amid EV pullback
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6392
+  strength: 0.6509
 ---
-
 ## Michigan voters weigh utility donation ban and Ann Arbor public power
 
 **Subtype:** fact

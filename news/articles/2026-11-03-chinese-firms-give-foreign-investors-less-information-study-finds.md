@@ -1,9 +1,18 @@
 ---
 headline: Chinese firms give foreign investors less information, study finds
-secondary_headline: Companies with larger translation gaps showed wider inquiry-response gaps
+secondary_headline: Companies with larger translation gaps showed wider inquiry-response
+  gaps
 publish_date: '2026-11-03'
-lede: A study published in The Accounting Review found that English-language annual reports from Chinese companies often contain less information than their Chinese-language counterparts. The same research found that companies were half as likely to answer inquiries from people posing as foreign investors, leaving foreign-brokerage analysts with less information and less accurate forecasts than their Chinese peers.
-nut_graf: The findings matter because foreign investors face an information disadvantage even as China seeks their capital. Researchers linked selective disclosure to less liquid shares, higher capital-raising costs and less accurate forecasts, while the country’s market intervention seeks to stabilize falling prices without resolving the disclosure gap.
+lede: A study published in The Accounting Review found that English-language annual
+  reports from Chinese companies often contain less information than their Chinese-language
+  counterparts. The same research found that companies were half as likely to answer
+  inquiries from people posing as foreign investors, leaving foreign-brokerage analysts
+  with less information and less accurate forecasts than their Chinese peers.
+nut_graf: The findings matter because foreign investors face an information disadvantage
+  even as China seeks their capital. Researchers linked selective disclosure to less
+  liquid shares, higher capital-raising costs and less accurate forecasts, while the
+  country’s market intervention seeks to stabilize falling prices without resolving
+  the disclosure gap.
 primary_entities:
 - China
 - The Accounting Review
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,44 @@ related_stories:
   headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.699
+  strength: 0.6996
 - slug: 2026-10-02-sec-proposal-for-semiannual-earnings-reports-draws-280-000-opposing-comments
   headline: SEC proposal for semiannual earnings reports draws 280,000 opposing comments
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6605
-- slug: 2026-10-06-china-s-growth-model-has-largely-run-its-course-imf-official-says
-  headline: China's growth model has largely run its course, IMF official says
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6368
-- slug: 2026-09-29-shein-shares-fall-14-as-first-post-ipo-earnings-disappoint
-  headline: Shein shares fall 14% as first post-IPO earnings disappoint
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6218
+  strength: 0.6633
 - slug: 2026-09-15-china-funnels-54-billion-to-top-banks-as-shares-decline
   headline: China funnels $54 billion to top banks as shares decline
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6639
-- slug: 2026-09-15-china-enacts-new-exit-restrictions-tied-to-export-control-violations
-  headline: China enacts new exit restrictions tied to export-control violations
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6321
-- slug: 2026-09-07-china-s-forex-reserves-rise-19-55-billion-in-august-topping-forecasts
-  headline: China's forex reserves rise $19.55 billion in August, topping forecasts
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6334
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6206
+  strength: 0.6638
 - slug: 2026-08-13-us-ai-models-decline-criticism-of-speech-restricting-governments-reports-find
-  headline: US AI models decline criticism of speech-restricting governments, reports find
+  headline: US AI models decline criticism of speech-restricting governments, reports
+    find
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6709
-- slug: 2026-09-03-g-20-statement-implicitly-criticizes-china-s-export-driven-growth
-  headline: G-20 statement implicitly criticizes China's export-driven growth
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6247
-- slug: 2026-08-28-china-s-projected-1-2-trillion-surplus-prompts-call-for-new-plaza-accord
-  headline: China's projected $1.2 trillion surplus prompts call for new Plaza Accord
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6203
+  strength: 0.6715
 - slug: 2026-07-28-chinese-regulators-cite-imported-risk-as-ai-stocks-follow-wall-street
   headline: Chinese regulators cite imported risk as AI stocks follow Wall Street
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6726
-- slug: 2026-08-17-companies-would-keep-quarterly-earnings-but-shift-some-filings-to-semiannual-sur
-  headline: Companies would keep quarterly earnings but shift some filings to semiannual, surveys find
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-10-private-credit-reports-show-weaker-loans-and-investor-returns
-  headline: Private-credit reports show weaker loans and investor returns
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6227
-- slug: 2026-08-04-yuan-is-20-to-30-undervalued-former-u-s-treasury-official-says
-  headline: Yuan is 20% to 30% undervalued, former U.S. Treasury official says
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6266
-- slug: 2026-07-15-china-s-q2-growth-cools-to-4-3-missing-forecasts
-  headline: China's Q2 growth cools to 4.3%, missing forecasts
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6341
-- slug: 2026-07-24-fang-xinghai-probe-signals-shrinking-space-for-market-reformers
-  headline: Fang Xinghai probe signals shrinking space for market reformers
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6187
-- slug: 2026-06-26-china-readies-law-empowering-prosecutors-to-sue-foreign-entities
-  headline: China readies law empowering prosecutors to sue foreign entities
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6295
-- slug: 2025-12-30-china-s-economy-looks-more-resilient-than-it-feels-as-property-slump-bites
-  headline: China’s economy looks more resilient than it feels as property slump bites
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6719
+  strength: 0.6736
 - slug: 2026-01-16-u-s-businesses-in-china-fret-more-over-slowing-economy-than-trade
   headline: U.S. businesses in China fret more over slowing economy than trade
   publish_date: '2026-01-16'
   relation: related
-  strength: 0.6703
+  strength: 0.6728
+- slug: 2025-12-30-china-s-economy-looks-more-resilient-than-it-feels-as-property-slump-bites
+  headline: China’s economy looks more resilient than it feels as property slump bites
+  publish_date: '2025-12-30'
+  relation: related
+  strength: 0.6715
+- slug: 2026-03-04-china-factory-activity-contracts-again-in-february-as-tariffs-could-help
+  headline: China factory activity contracts again in February as tariffs could help
+  publish_date: '2026-03-04'
+  relation: related
+  strength: 0.6525
 ---
-
 ## Chinese firms give foreign investors less information, study finds
 
 **Subtype:** fact

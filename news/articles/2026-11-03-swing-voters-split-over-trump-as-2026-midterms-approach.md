@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-10-27'
   relation: related
   strength: 0.6983
+analyses:
+- '2026-11-03-swing-voters-sort-presidential-assessments-from-2026-ballot-choices'
 ---
 ## Swing voters split over Trump as 2026 midterms approach
 
@@ -248,3 +250,8 @@ Taken together, the accounts present a challenge for both parties. NPR said Repu
 **Publication date:** 2026-11-03
 **Title:** 'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day
 **URL:** https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump
+
+---
+
+<!-- analysis-link:2026-11-03-swing-voters-sort-presidential-assessments-from-2026-ballot-choices -->
+**Going deeper:** [Read MSI's analysis of Candidate-specific choices among Trump-vote swing voters →](/analyses/2026-11-03-swing-voters-sort-presidential-assessments-from-2026-ballot-choices)
