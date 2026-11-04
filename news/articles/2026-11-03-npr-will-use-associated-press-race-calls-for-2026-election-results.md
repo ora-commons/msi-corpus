@@ -187,6 +187,8 @@ related_stories:
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6947
+analyses:
+- '2026-11-03-npr-adopts-ap-s-no-path-threshold-for-2026-race-calls'
 ---
 ## NPR will use Associated Press race calls for 2026 election results
 
@@ -232,3 +234,8 @@ Election night is likely only the start of the race calls and likely not their e
 **Publication date:** 2026-11-03
 **Title:** How NPR makes race calls in the 2026 election
 **URL:** https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026
+
+---
+
+<!-- analysis-link:2026-11-03-npr-adopts-ap-s-no-path-threshold-for-2026-race-calls -->
+**Going deeper:** [Read MSI's analysis of AP-backed 2026 race calls →](/analyses/2026-11-03-npr-adopts-ap-s-no-path-threshold-for-2026-race-calls)

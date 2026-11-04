@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-10-28'
   relation: related
   strength: 0.7325
+analyses:
+- '2026-11-03-republicans-confronting-widening-exposure-without-a-matching-democratic-conversi'
 ---
 ## Final polls put Trump's approval around 38%; only 29% view Democrats positively
 
@@ -250,3 +252,8 @@ For both parties, the BBC said these elections were the final electoral test bef
 **Publication date:** 2026-11-03
 **Title:** Americans head to the polls for elections that could define Trump's closing chapter
 **URL:** https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro
+
+---
+
+<!-- analysis-link:2026-11-03-republicans-confronting-widening-exposure-without-a-matching-democratic-conversi -->
+**Going deeper:** [Read MSI's analysis of Republican vulnerability without Democratic conversion →](/analyses/2026-11-03-republicans-confronting-widening-exposure-without-a-matching-democratic-conversi)
