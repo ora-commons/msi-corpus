@@ -2,8 +2,17 @@
 headline: British Social Attitudes survey reports record-low job satisfaction
 secondary_headline: Top-decile pay rose 7.3% as bottom-decile pay rose 1.1%
 publish_date: '2026-11-03'
-lede: The British Social Attitudes survey reported job satisfaction at its lowest level in the survey's records when its findings were published Nov. 3. In a Guardian opinion column, Polly Toynbee said people complained about a lack of flexibility in working hours, a lack of career advancement and a lack of pay rises. The results came as Labour advanced stronger workers' rights, business groups warned that more rights would mean fewer jobs, and Kemi Badenoch pledged to repeal measures in the bill if a Conservative government took office.
-nut_graf: Polly Toynbee used the survey results to argue for Labour's workers' rights program, placing the reported dissatisfaction against business warnings and Badenoch's pledge. The findings concern control over working hours, pay inequality, career advancement and employee protections.
+lede: The British Social Attitudes survey reported job satisfaction at its lowest
+  level in the survey's records when its findings were published Nov. 3. In a Guardian
+  opinion column, Polly Toynbee said people complained about a lack of flexibility
+  in working hours, a lack of career advancement and a lack of pay rises. The results
+  came as Labour advanced stronger workers' rights, business groups warned that more
+  rights would mean fewer jobs, and Kemi Badenoch pledged to repeal measures in the
+  bill if a Conservative government took office.
+nut_graf: Polly Toynbee used the survey results to argue for Labour's workers' rights
+  program, placing the reported dissatisfaction against business warnings and Badenoch's
+  pledge. The findings concern control over working hours, pay inequality, career
+  advancement and employee protections.
 primary_entities:
 - British Social Attitudes survey
 - Polly Toynbee
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +160,33 @@ related_stories:
   headline: Zoe Williams argues UK prices rise while average wages stagnate
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6556
+  strength: 0.6559
 - slug: 2026-10-24-uk-basic-state-pension-trails-wealthy-countries-oecd-analysis-shows
   headline: UK basic state pension trails wealthy countries, OECD analysis shows
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6602
-- slug: 2026-10-28-obr-cuts-uk-growth-forecast-as-energy-prices-lift-inflation
-  headline: OBR cuts UK growth forecast as energy prices lift inflation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6239
-- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
-  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6213
-- slug: 2026-10-20-a-bus-driver-and-a-writer-doubt-burnham-noise-fines-will-change-behaviour
-  headline: A bus driver and a writer doubt Burnham noise fines will change behaviour
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6373
+  strength: 0.661
 - slug: 2026-10-12-wgea-says-flexible-management-could-narrow-australia-s-gender-pay-gap
   headline: WGEA says flexible management could narrow Australia's gender pay gap
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6639
-- slug: 2026-10-16-london-assembly-urges-devolved-robotaxi-authority-as-drivers-plan-protests
-  headline: London Assembly urges devolved robotaxi authority as drivers plan protests
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6318
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6189
+  strength: 0.6675
 - slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
   headline: S&P Global UK consumer sentiment index falls to 42.7 in September
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.654
-- slug: 2026-09-22-three-women-in-their-20s-describe-life-without-bank-of-mum-and-dad
-  headline: Three women in their 20s describe life without 'Bank of Mum and Dad
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6275
-- slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
-  headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6273
-- slug: 2026-09-04-bailey-addresses-london-conference-as-august-data-slate-opens
-  headline: Bailey addresses London conference as August data slate opens
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6443
-- slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
-  headline: Cost of living tops voters' concerns as Burnham plans UK tour
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6418
+  strength: 0.6537
 - slug: 2026-07-21-uk-unemployment-holds-at-4-9-as-wage-growth-steadies
   headline: UK unemployment holds at 4.9% as wage growth steadies
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6571
+  strength: 0.6577
 - slug: 2026-06-17-gallup-finds-just-30-of-us-workers-engaged-on-the-job-lowest-in-a-decade
   headline: Gallup finds just 30% of US workers engaged on the job, lowest in a decade
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6542
-- slug: 2026-06-19-economic-anxiety-spreads-to-wealthiest-americans-poll-finds
-  headline: Economic Anxiety Spreads to Wealthiest Americans, Poll Finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6415
-- slug: 2026-07-03-u-s-unemployment-holds-at-4-2-in-june-quits-and-wage-growth-signal-cooling
-  headline: U.S. unemployment holds at 4.2% in June; quits and wage growth signal cooling
-  publish_date: '2026-07-03T00:00:00Z'
-  relation: related
-  strength: 0.6184
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6252
-- slug: 2026-05-10-uk-elections-starmer-faces-calls-to-resign-after-labour-losses
-  headline: 'UK elections: Starmer faces calls to resign after Labour losses'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.641
-- slug: 2026-05-09-starmer-says-he-will-not-quit-after-labour-suffers-local-election-losses
-  headline: Starmer says he will not quit after Labour suffers local election losses
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6376
+  strength: 0.6551
 ---
-
 ## British Social Attitudes survey reports record-low job satisfaction
 
 **Subtype:** fact

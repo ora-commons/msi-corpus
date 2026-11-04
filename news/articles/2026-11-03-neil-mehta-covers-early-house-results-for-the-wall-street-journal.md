@@ -1,9 +1,20 @@
 ---
 headline: Neil Mehta covers early House results for The Wall Street Journal
-secondary_headline: Virginia closes at 7 p.m. ET; early states could signal control and margin
+secondary_headline: Virginia closes at 7 p.m. ET; early states could signal control
+  and margin
 publish_date: '2026-11-03'
-lede: 'The Wall Street Journal''s election-night tracker pairs a list of key bellwether races with the latest results, and the credits on it name news associate Neil Mehta and graphics director Chiqui Esteban. Virginia polls close at 7 p.m. ET, alongside most of Florida, while most of Kentucky and Indiana close at 6 p.m. ET and results start being released after those closes. The paper''s framing is conditional: the early-closing races in Indiana, Kentucky, Florida and Virginia could give an early signal of who will win control in the next Congress, and by how much.'
-nut_graf: The chamber at stake starts with the GOP holding a 219-214 majority with two vacancies, and Democrats and Republicans are battling over the House. The Journal's tracker matters for readers following that fight because it pairs the bellwether list with the latest results, and because the early states bear on both who takes the chamber and by what margin — a claim the paper states conditionally.
+lede: 'The Wall Street Journal''s election-night tracker pairs a list of key bellwether
+  races with the latest results, and the credits on it name news associate Neil Mehta
+  and graphics director Chiqui Esteban. Virginia polls close at 7 p.m. ET, alongside
+  most of Florida, while most of Kentucky and Indiana close at 6 p.m. ET and results
+  start being released after those closes. The paper''s framing is conditional: the
+  early-closing races in Indiana, Kentucky, Florida and Virginia could give an early
+  signal of who will win control in the next Congress, and by how much.'
+nut_graf: The chamber at stake starts with the GOP holding a 219-214 majority with
+  two vacancies, and Democrats and Republicans are battling over the House. The Journal's
+  tracker matters for readers following that fight because it pairs the bellwether
+  list with the latest results, and because the early states bear on both who takes
+  the chamber and by what margin — a claim the paper states conditionally.
 primary_entities:
 - The Wall Street Journal
 - Neil Mehta
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +160,45 @@ related_stories:
   headline: Hard results may signal House trends, while exit polls show voter issues
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.72
+  strength: 0.7208
 - slug: 2026-11-03-2026-race-forecasts-combine-ratings-from-three-nonpartisan-analysts
   headline: 2026 race forecasts combine ratings from three nonpartisan analysts
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7087
-- slug: 2026-10-30-west-virginia-polls-close-at-7-30-p-m-et-tuesday-as-voters-decide-federal-and-st
-  headline: West Virginia polls close at 7:30 p.m. ET Tuesday as voters decide federal and state races
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7264
+  strength: 0.7095
 - slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.697
+  strength: 0.6982
+- slug: 2026-10-30-west-virginia-polls-close-at-7-30-p-m-et-tuesday-as-voters-decide-federal-and-st
+  headline: West Virginia polls close at 7:30 p.m. ET Tuesday as voters decide federal
+    and state races
+  publish_date: '2026-10-30'
+  relation: related
+  strength: 0.7254
 - slug: 2026-11-03-npr-guide-divides-2026-house-races-into-four-election-night-categories
   headline: NPR guide divides 2026 House races into four election-night categories
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6701
+  strength: 0.6727
 - slug: 2026-10-30-nevada-voters-decide-governor-u-s-house-and-state-races-in-tuesday-s-election
-  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's election
+  headline: Nevada voters decide governor, U.S. House and state races in Tuesday's
+    election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6972
-- slug: 2026-11-03-guardian-tracker-maps-2026-midterms-with-ratings-and-ap-race-call-rules
-  headline: Guardian tracker maps 2026 midterms with ratings and AP race-call rules
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6535
+  strength: 0.6974
 - slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
   headline: Indiana voters decide federal and state races in Tuesday's midterm election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6811
+  strength: 0.6824
 - slug: 2026-11-03-el-sayed-s-campaign-draws-over-29-000-first-time-donors-on-sunday
   headline: El-Sayed’s campaign draws over 29,000 first-time donors on Sunday
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6518
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6781
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6492
-- slug: 2026-10-30-vermont-voters-head-to-the-polls-tuesday-for-federal-and-state-midterm-races
-  headline: Vermont voters head to the polls Tuesday for federal and state midterm races
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6643
-- slug: 2026-10-30-virginia-republicans-defend-two-house-seats-as-democrats-press-midterm-challenge
-  headline: Virginia Republicans defend two House seats as Democrats press midterm challenge
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6626
-- slug: 2026-10-30-delaware-voters-decide-senate-house-and-state-offices-in-tuesday-s-election
-  headline: Delaware voters decide Senate, House and state offices in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6594
-- slug: 2026-10-30-connecticut-voters-decide-governor-house-and-statewide-races-tuesday
-  headline: Connecticut voters decide governor, House and statewide races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6586
-- slug: 2026-10-30-washington-voters-decide-federal-and-state-races-tuesday-mostly-by-mail
-  headline: Washington voters decide federal and state races Tuesday, mostly by mail
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6579
-- slug: 2026-10-30-new-jersey-voters-elect-senate-and-house-members-in-tuesday-s-midterm-election
-  headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6518
-- slug: 2026-10-30-oklahoma-voters-decide-congressional-statewide-and-legislative-races-tuesday
-  headline: Oklahoma voters decide congressional, statewide and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6475
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.648
-- slug: 2026-10-20-paletta-cites-democrats-leading-9-of-11-close-senate-races
-  headline: Paletta cites Democrats leading 9 of 11 close Senate races
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6503
+  strength: 0.6543
 ---
-
 ## Neil Mehta covers early House results for The Wall Street Journal
 
 **Subtype:** fact
