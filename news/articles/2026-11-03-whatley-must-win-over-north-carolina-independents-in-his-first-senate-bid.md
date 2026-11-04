@@ -2,8 +2,17 @@
 headline: Whatley must win over North Carolina independents in his first Senate bid
 secondary_headline: Cooper won four attorney general terms and two governor terms
 publish_date: '2026-11-03'
-lede: North Carolina voters will choose between Roy Cooper and Michael Whatley on Tuesday for an open U.S. Senate seat. Whatley, making his first bid for elected office, trails Cooper in fundraising and faces the challenge of maximizing Republican turnout while winning over independent voters. Cooper, a former Democratic governor, brings four terms as state attorney general and two terms as governor, while Democrats need four Senate seat gains for control of the chamber.
-nut_graf: 'The stakes extend beyond the open seat: a Whatley victory would preserve it for Republicans, while a Cooper victory would give Democrats one of four gains needed for control. The result also comes in a state Trump won in all three of his presidential campaigns, amid widespread frustration over inflation and the war with Iran.'
+lede: North Carolina voters will choose between Roy Cooper and Michael Whatley on
+  Tuesday for an open U.S. Senate seat. Whatley, making his first bid for elected
+  office, trails Cooper in fundraising and faces the challenge of maximizing Republican
+  turnout while winning over independent voters. Cooper, a former Democratic governor,
+  brings four terms as state attorney general and two terms as governor, while Democrats
+  need four Senate seat gains for control of the chamber.
+nut_graf: 'The stakes extend beyond the open seat: a Whatley victory would preserve
+  it for Republicans, while a Cooper victory would give Democrats one of four gains
+  needed for control. The result also comes in a state Trump won in all three of his
+  presidential campaigns, amid widespread frustration over inflation and the war with
+  Iran.'
 primary_entities:
 - Roy Cooper
 - Michael Whatley
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +152,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-whatley-must-win-over-north-carolina-independents-in-his-first-senate-bid.png
-  alt: 'Illustration accompanying article: Whatley must win over North Carolina independents in his first Senate bid'
+  alt: 'Illustration accompanying article: Whatley must win over North Carolina independents
+    in his first Senate bid'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-30-north-carolina-voters-choose-between-cooper-and-whatley-for-senate
   headline: North Carolina voters choose between Cooper and Whatley for Senate
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8449
+  strength: 0.8453
 - slug: 2026-10-20-trump-heads-to-north-carolina-to-stump-for-whatley-with-midterms-two-weeks-away
-  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks away
+  headline: Trump heads to North Carolina to stump for Whatley with midterms two weeks
+    away
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7543
+  strength: 0.7526
 - slug: 2026-10-29-trump-makes-second-visit-to-south-carolina-in-eight-days
   headline: Trump makes second visit to South Carolina in eight days
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6712
+  strength: 0.6693
 - slug: 2026-10-30-democrats-need-four-senate-flips-as-red-state-races-tighten
   headline: Democrats need four Senate flips as red-state races tighten
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6624
+  strength: 0.6615
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6639
+  strength: 0.6624
 - slug: 2026-10-24-competitive-u-s-house-districts-fall-from-45-to-37
   headline: Competitive U.S. House districts fall from 45 to 37
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6591
+  strength: 0.659
 - slug: 2026-10-02-senate-leadership-fund-halts-north-carolina-senate-ad-spending
   headline: Senate Leadership Fund halts North Carolina Senate ad spending
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7325
+  strength: 0.731
 - slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
   headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.658
-- slug: 2026-09-17-trump-stumps-for-whatley-in-north-carolina-senate-race
-  headline: Trump stumps for Whatley in North Carolina Senate race
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7701
-- slug: 2026-08-06-roy-cooper-leads-north-carolina-senate-race-as-republicans-defend-seat
-  headline: Roy Cooper leads North Carolina Senate race as Republicans defend seat
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.8629
-- slug: 2026-10-02-hayes-says-slf-swindled-him-into-north-carolina-political-ad-after-son-s-murder
-  headline: Hayes says SLF 'swindled' him into North Carolina political ad after son's murder
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6764
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6534
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6633
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6716
-- slug: 2026-03-02-roy-cooper-and-michael-whatley-win-north-carolina-senate-nominations
-  headline: Roy Cooper and Michael Whatley win North Carolina Senate nominations
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.8801
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.8014
-- slug: 2026-03-09-trump-s-pick-faces-democrat-roy-cooper-in-pivotal-north-carolina-senate-race
-  headline: Trump's pick faces Democrat Roy Cooper in pivotal North Carolina Senate race
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.8629
-- slug: 2026-08-24-hurricane-helene-recovery-divides-north-carolina-senate-candidates
-  headline: Hurricane Helene recovery divides North Carolina Senate candidates
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7396
-- slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
-  headline: Darline Graham wins South Carolina Senate runoff over Norman
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6686
-- slug: 2026-05-14-voters-weigh-tax-cuts-against-inflation-in-north-carolina-senate-race
-  headline: Voters weigh tax cuts against inflation in North Carolina Senate race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7749
+  strength: 0.6557
 ---
-
 ## Whatley must win over North Carolina independents in his first Senate bid
 
 **Subtype:** fact

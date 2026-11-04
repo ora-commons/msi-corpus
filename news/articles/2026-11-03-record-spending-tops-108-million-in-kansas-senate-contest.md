@@ -1,9 +1,23 @@
 ---
 headline: Record spending tops $108 million in Kansas Senate contest
-secondary_headline: Final campaign attacks target church cases and Marshall’s patient suits
+secondary_headline: Final campaign attacks target church cases and Marshall’s patient
+  suits
 publish_date: '2026-11-03'
-lede: Spending in the Kansas Senate contest topped $108 million, easily a record for any race in the state. According to AdImpact, Democrats committed $64 million to television and digital advertising; Republicans separately dedicated about $44 million. Republicans focused heavily in the final weeks on two cases of alleged sexual abuse at annual camps for Hamilton’s church, and Hamilton acknowledged the church’s failure to report the first 2005 case and his own failure to check whether the man returned for the 2006 camp. Hamilton’s campaign also pressed Marshall over unpaid patient bills; the New York Times reported that Marshall and his practice sued more than 700 patients, including 81 cases in which patients were arrested for missing court dates.
-nut_graf: The $108 million total was easily a Kansas record, and both parties poured money into personal attacks. Democrats entered the election hoping Hamilton’s well-funded appeal to middle-of-the-road voters would end a 94-year Senate losing streak and support their push for a Senate majority in Washington, while Marshall defended the seat.
+lede: Spending in the Kansas Senate contest topped $108 million, easily a record for
+  any race in the state. According to AdImpact, Democrats committed $64 million to
+  television and digital advertising; Republicans separately dedicated about $44 million.
+  Republicans focused heavily in the final weeks on two cases of alleged sexual abuse
+  at annual camps for Hamilton’s church, and Hamilton acknowledged the church’s failure
+  to report the first 2005 case and his own failure to check whether the man returned
+  for the 2006 camp. Hamilton’s campaign also pressed Marshall over unpaid patient
+  bills; the New York Times reported that Marshall and his practice sued more than
+  700 patients, including 81 cases in which patients were arrested for missing court
+  dates.
+nut_graf: The $108 million total was easily a Kansas record, and both parties poured
+  money into personal attacks. Democrats entered the election hoping Hamilton’s well-funded
+  appeal to middle-of-the-road voters would end a 94-year Senate losing streak and
+  support their push for a Senate majority in Washington, while Marshall defended
+  the seat.
 primary_entities:
 - Adam Hamilton
 - Roger Marshall
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,35 +159,38 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
+  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since
+    1932
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7181
+  strength: 0.7156
 - slug: 2026-10-28-republicans-spend-an-estimated-183-million-on-tv-ads-attacking-democrats-over-tr
-  headline: Republicans spend an estimated $183 million on TV ads attacking Democrats over transgender issues
+  headline: Republicans spend an estimated $183 million on TV ads attacking Democrats
+    over transgender issues
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7139
+  strength: 0.7161
 - slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7099
+  strength: 0.7105
 - slug: 2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race
   headline: Hamilton courts Republicans and independents in close Kansas Senate race
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7318
+  strength: 0.7317
 - slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
   headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6543
+  strength: 0.6542
 - slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
   headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6668
+  strength: 0.6676
 - slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
   headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
   publish_date: '2026-10-14'
@@ -182,69 +200,8 @@ related_stories:
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6885
-- slug: 2026-10-25-bucks-county-senate-race-draws-more-than-7-million-in-spending
-  headline: Bucks County Senate race draws more than $7 million in spending
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6585
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6883
-- slug: 2026-10-13-senate-leadership-fund-adds-8m-to-defend-ricketts-nebraska-seat
-  headline: Senate Leadership Fund adds $8M to defend Ricketts' Nebraska seat
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6746
-- slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6667
-- slug: 2026-10-02-senate-leadership-fund-halts-north-carolina-senate-ad-spending
-  headline: Senate Leadership Fund halts North Carolina Senate ad spending
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6655
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6833
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6606
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6811
-- slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
-  headline: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.71
-- slug: 2026-09-05-campaigns-spend-45-million-on-data-center-ads-in-2026-midterms
-  headline: Campaigns spend $45 million on data center ads in 2026 midterms
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6569
-- slug: 2026-09-02-hamilton-would-join-warnock-as-senator-still-leading-a-congregation
-  headline: Hamilton would join Warnock as senator still leading a congregation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6529
-- slug: 2026-08-14-house-majority-pac-adds-6-million-in-cleveland-ads-against-max-miller
-  headline: House Majority PAC adds $6 million in Cleveland ads against Max Miller
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6885
+  strength: 0.6897
 ---
-
 ## Record spending tops $108 million in Kansas Senate contest
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Tom Tiffany and David Crowley face off for Wisconsin governor
 secondary_headline: A Crowley victory would produce Wisconsin's first Black governor
 publish_date: '2026-11-03'
-lede: Republican U.S. Rep. Tom Tiffany and Democratic Milwaukee County Executive David Crowley face off Tuesday in Wisconsin's governor election. A Crowley victory would make Crowley Wisconsin's first Black governor; a Tiffany victory would return the office to Republicans for the first time in eight years. The winner will replace retiring Democratic Gov. Tony Evers and serve during the next presidential election.
-nut_graf: The contest puts Tiffany's pledges of lower taxes, improved schools and a roughly $3 billion taxpayer surplus against Crowley's support for expanded Medicaid, more funding for public schools and child care, and overturning Act 10. It also determines which party controls the governorship as Democrats pursue a state government trifecta.
+lede: Republican U.S. Rep. Tom Tiffany and Democratic Milwaukee County Executive David
+  Crowley face off Tuesday in Wisconsin's governor election. A Crowley victory would
+  make Crowley Wisconsin's first Black governor; a Tiffany victory would return the
+  office to Republicans for the first time in eight years. The winner will replace
+  retiring Democratic Gov. Tony Evers and serve during the next presidential election.
+nut_graf: The contest puts Tiffany's pledges of lower taxes, improved schools and
+  a roughly $3 billion taxpayer surplus against Crowley's support for expanded Medicaid,
+  more funding for public schools and child care, and overturning Act 10. It also
+  determines which party controls the governorship as Democrats pursue a state government
+  trifecta.
 primary_entities:
 - Tom Tiffany
 - David Crowley
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,17 +154,17 @@ related_stories:
   headline: Crowley defeats Hong in Wisconsin Democratic gubernatorial primary
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.8175
+  strength: 0.8173
 - slug: 2026-08-11-wisconsin-democrats-pick-governor-nominee-in-tuesday-primary
   headline: Wisconsin Democrats pick governor nominee in Tuesday primary
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.8071
+  strength: 0.8077
 - slug: 2026-09-13-tiffany-swims-to-safety-after-plane-ditches-in-lake-wausau
   headline: Tiffany swims to safety after plane ditches in Lake Wausau
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7284
+  strength: 0.7287
 - slug: 2026-07-18-evers-endorses-crowley-in-wisconsin-democratic-primary
   headline: Evers endorses Crowley in Wisconsin Democratic primary
   publish_date: '2026-07-18'
@@ -165,84 +174,23 @@ related_stories:
   headline: Hong leads Wisconsin Democratic governor primary as polls open Tuesday
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7964
+  strength: 0.7966
 - slug: 2026-08-06-crowley-and-hong-face-wisconsin-democratic-governor-primary
   headline: Crowley and Hong face Wisconsin Democratic governor primary
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.7942
+  strength: 0.7945
 - slug: 2026-01-27-trump-endorses-rep-tom-tiffany-in-wisconsin-governor-race-rival-quits
   headline: Trump endorses Rep. Tom Tiffany in Wisconsin governor race, rival quits
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.8054
+  strength: 0.8055
 - slug: 2026-08-10-progressives-make-final-push-in-wisconsin-minnesota-primaries-tuesday
   headline: Progressives make final push in Wisconsin, Minnesota primaries Tuesday
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6939
-- slug: 2026-07-30-hong-leads-wisconsin-primary-poll-as-barnes-withdraws
-  headline: Hong leads Wisconsin primary poll as Barnes withdraws
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.7008
-- slug: 2026-07-21-wisconsin-democrats-ask-to-reissue-absentee-ballots-after-primary-field-shifts
-  headline: Wisconsin Democrats ask to reissue absentee ballots after primary field shifts
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6558
-- slug: 2026-04-10-republican-fears-grow-as-democrats-notch-special-election-wins
-  headline: Republican fears grow as Democrats notch special election wins
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7116
-- slug: 2026-04-09-republican-fears-grow-as-democrats-notch-special-election-wins
-  headline: Republican fears grow as Democrats notch special election wins
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.704
-- slug: 2026-04-08-republican-fears-grow-as-democrats-notch-special-election-wins
-  headline: Republican fears grow as Democrats notch special election wins
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.703
-- slug: 2026-04-11-republican-fears-grow-as-democrats-win-special-elections-ahead-of-midterms
-  headline: Republican fears grow as Democrats win special elections ahead of midterms
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6928
-- slug: 2026-04-12-republican-fears-grow-as-democrats-win-special-elections-ahead-of-2026-midterms
-  headline: Republican fears grow as Democrats win special elections ahead of 2026 midterms
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6874
-- slug: 2026-04-06-wisconsin-spring-election-pits-supreme-court-contenders-and-waukesha-mayor-race
-  headline: Wisconsin spring election pits Supreme Court contenders and Waukesha mayor race
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6873
-- slug: 2026-04-05-wisconsin-voters-weigh-supreme-court-seat-and-waukesha-mayor-s-race
-  headline: Wisconsin voters weigh Supreme Court seat and Waukesha mayor’s race
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6847
-- slug: 2026-04-07-what-to-expect-in-wisconsin-s-spring-election-for-supreme-court-waukesha-mayor
-  headline: What to expect in Wisconsin’s spring election for Supreme Court, Waukesha mayor
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6785
-- slug: 2026-01-15-wisconsin-democrats-pursue-statehouse-trifecta-for-first-time-in-16-years
-  headline: Wisconsin Democrats pursue statehouse trifecta for first time in 16 years
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6849
-- slug: 2026-04-07-democratic-backed-chris-taylor-wins-wisconsin-supreme-court-race
-  headline: Democratic-backed Chris Taylor wins Wisconsin Supreme Court race
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6588
+  strength: 0.6935
 ---
-
 ## Tom Tiffany and David Crowley face off for Wisconsin governor
 
 **Subtype:** fact
