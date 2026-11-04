@@ -1,9 +1,17 @@
 ---
 headline: Voters in 36 states choose governors as Democrats pursue a majority
-secondary_headline: Top Democratic pickup prospects are Alaska, Georgia, Iowa, Ohio and Nevada
+secondary_headline: Top Democratic pickup prospects are Alaska, Georgia, Iowa, Ohio
+  and Nevada
 publish_date: '2026-11-03'
-lede: Democrats enter Tuesday's 2026 midterm elections seeking a majority of governorships for the first time in two decades. The races in 36 states, home to about 80% of the nation's population, include contests in Texas, Florida, Michigan, Wisconsin, Iowa and Ohio.
-nut_graf: The contest for state capitals carries consequences beyond partisan control of governorships. Winners in six states that were presidential swing states in 2024 could substantially influence election administration during the 2028 presidential election, while three sitting Democratic governors are considered possible 2028 presidential candidates.
+lede: Democrats enter Tuesday's 2026 midterm elections seeking a majority of governorships
+  for the first time in two decades. The races in 36 states, home to about 80% of
+  the nation's population, include contests in Texas, Florida, Michigan, Wisconsin,
+  Iowa and Ohio.
+nut_graf: The contest for state capitals carries consequences beyond partisan control
+  of governorships. Winners in six states that were presidential swing states in 2024
+  could substantially influence election administration during the 2028 presidential
+  election, while three sitting Democratic governors are considered possible 2028
+  presidential candidates.
 primary_entities:
 - Democratic Governors Association
 - U.S. Democratic Party
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +158,44 @@ related_stories:
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.744
+  strength: 0.7433
 - slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
   headline: Justice Department sends observers as watchdogs prepare poll monitors
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.729
+  strength: 0.7293
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7327
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7234
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7619
+  strength: 0.7324
 - slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
   headline: Early voting advances as Trump administration pressures state elections
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7079
+  strength: 0.7093
+- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
+  headline: Democrats enter midterms favored in House and within reach of Senate control
+  publish_date: '2026-11-01'
+  relation: related
+  strength: 0.7224
+- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
+  publish_date: '2026-10-26'
+  relation: related
+  strength: 0.761
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7268
+  strength: 0.727
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7113
-- slug: 2026-10-30-pennsylvania-senate-races-could-decide-democrats-first-trifecta-in-30-years
-  headline: Pennsylvania Senate races could decide Democrats' first trifecta in 30 years
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7164
-- slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
-  headline: Early ballots pass 43 million as US midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.709
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7331
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7381
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7225
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7766
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7576
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.704
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.706
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7139
-- slug: 2026-08-15-democratic-primary-turnout-hits-20-year-highs-in-wisconsin-michigan
-  headline: Democratic primary turnout hits 20-year highs in Wisconsin, Michigan
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7069
-- slug: 2026-06-03-voters-in-tuesday-primaries-set-midterm-matchups-across-key-states
-  headline: Voters in Tuesday primaries set midterm matchups across key states
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7315
+  strength: 0.7107
 ---
-
 ## Voters in 36 states choose governors as Democrats pursue a majority
 
 **Subtype:** fact
