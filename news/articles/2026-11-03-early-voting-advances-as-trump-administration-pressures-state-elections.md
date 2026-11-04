@@ -1,9 +1,25 @@
 ---
 headline: Early voting advances as Trump administration pressures state elections
-secondary_headline: Supreme Court rejects California ballot challenge as courts block federal election moves
+secondary_headline: Supreme Court rejects California ballot challenge as courts block
+  federal election moves
 publish_date: '2026-11-03'
-lede: The Associated Press reported that final voting in the 2026 U.S. midterm elections arrives Tuesday against a backdrop of uncertainty, after a year in which President Donald Trump sought to influence how states run their elections and raised doubts about the outcome should Republicans lose. Millions of Americans have already cast ballots, with early turnout on pace to eclipse the last midterm election two years ago, and voting so far has unfolded with relatively few problems. On Monday night, the U.S. Supreme Court rejected the administration's push to force California to set aside thousands of ballots as part of its search for noncitizen voters.
-nut_graf: The Associated Press described the administration's efforts to influence state-run elections as the most significant disruptions expected before Election Day. It said efforts to expand federal control over state-run elections, combined with high-stakes races, are resulting in court battles that could extend beyond Election Day into ballot counting and certification. Voting-rights groups, Democrats and the Justice Department have been exchanging a flurry of legal filings over alleged noncitizen voters, federal election monitors, federal intimidation of election officials and other concerns, even as courts largely blocked the administration's legal maneuvers. The election will determine whether Republicans keep control of Congress.
+lede: The Associated Press reported that final voting in the 2026 U.S. midterm elections
+  arrives Tuesday against a backdrop of uncertainty, after a year in which President
+  Donald Trump sought to influence how states run their elections and raised doubts
+  about the outcome should Republicans lose. Millions of Americans have already cast
+  ballots, with early turnout on pace to eclipse the last midterm election two years
+  ago, and voting so far has unfolded with relatively few problems. On Monday night,
+  the U.S. Supreme Court rejected the administration's push to force California to
+  set aside thousands of ballots as part of its search for noncitizen voters.
+nut_graf: The Associated Press described the administration's efforts to influence
+  state-run elections as the most significant disruptions expected before Election
+  Day. It said efforts to expand federal control over state-run elections, combined
+  with high-stakes races, are resulting in court battles that could extend beyond
+  Election Day into ballot counting and certification. Voting-rights groups, Democrats
+  and the Justice Department have been exchanging a flurry of legal filings over alleged
+  noncitizen voters, federal election monitors, federal intimidation of election officials
+  and other concerns, even as courts largely blocked the administration's legal maneuvers.
+  The election will determine whether Republicans keep control of Congress.
 primary_entities:
 - Donald Trump
 - Associated Press
@@ -44,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,7 +163,7 @@ related_stories:
   headline: Five 2026 midterm voting issues include federal pressure and state rules
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8081
+  strength: 0.8085
 - slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
   headline: Justice Department sends observers as watchdogs prepare poll monitors
   publish_date: '2026-11-03'
@@ -156,7 +173,7 @@ related_stories:
   headline: Ballot disputes span three states as midterms near
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8092
+  strength: 0.809
 - slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
   headline: Early ballots pass 43 million as US midterms approach
   publish_date: '2026-10-29'
@@ -176,74 +193,14 @@ related_stories:
   headline: Federal judge bars DOJ from pressuring election workers on ballots
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7531
+  strength: 0.753
 - slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
+  headline: Judge orders Trump administration to turn over disputed California voter
+    list
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7483
-- slug: 2026-10-30-new-jersey-voters-elect-senate-and-house-members-in-tuesday-s-midterm-election
-  headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7439
-- slug: 2026-10-29-justice-department-appeals-ruling-on-california-s-disputed-ballots
-  headline: Justice Department appeals ruling on California's disputed ballots
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7504
-- slug: 2026-10-30-early-voting-passes-43-million-nearly-10-million-more-than-2022
-  headline: Early voting passes 43 million, nearly 10 million more than 2022
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7297
-- slug: 2026-10-30-new-mexico-voters-decide-senate-governor-and-state-races-in-tuesday-s-midterms
-  headline: New Mexico voters decide Senate, governor and state races in Tuesday's midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7292
-- slug: 2026-10-28-ap-voter-poll-will-survey-75-000-voters-for-the-2026-midterms
-  headline: AP Voter Poll will survey 75,000 voters for the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7395
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7618
-- slug: 2026-10-23-stewart-attributes-early-voting-surge-to-enthusiasm-and-spending-to-encourage-ea
-  headline: Stewart attributes early-voting surge to enthusiasm and spending to encourage early voting
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7369
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7297
-- slug: 2026-09-15-bipartisan-state-officials-welcome-supreme-court-mail-ballot-ruling
-  headline: Bipartisan state officials welcome Supreme Court mail ballot ruling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7454
-- slug: 2026-09-15-late-arriving-mail-ballots-mount-in-key-states-as-officials-push-voter-outreach
-  headline: Late-arriving mail ballots mount in key states as officials push voter outreach
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.744
-- slug: 2026-08-24-supreme-court-declines-to-block-trump-mail-in-voting-order-ahead-of-midterms
-  headline: Supreme Court declines to block Trump mail-in voting order ahead of midterms
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7491
-- slug: 2026-07-29-postal-service-emerges-as-pivotal-player-in-midterm-election
-  headline: Postal Service emerges as pivotal player in midterm election
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.7483
+  strength: 0.7481
 ---
-
 ## Early voting advances as Trump administration pressures state elections
 
 **Subtype:** fact
