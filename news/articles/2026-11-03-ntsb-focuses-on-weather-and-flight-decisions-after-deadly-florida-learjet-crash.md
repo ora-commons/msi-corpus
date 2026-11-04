@@ -1,9 +1,19 @@
 ---
-headline: NTSB focuses on weather and flight decisions after deadly Florida Learjet crash
+headline: NTSB focuses on weather and flight decisions after deadly Florida Learjet
+  crash
 secondary_headline: Cockpit audio captured a rapid descent and warnings before impact
 publish_date: '2026-11-03'
-lede: A Learjet 60 crashed into a thoroughfare in Palm Beach County, Florida, on Sunday, killing all nine people aboard and injuring a nearby driver. The National Transportation Safety Board expects weather conditions to be a major focus of its investigation, while aviation safety experts said a powerful thunderstorm appeared to play a critical role and exposed the jet to potential icing. The aircraft was flying from Austin, Texas, to Eleuthera Island in the Bahamas.
-nut_graf: The NTSB investigation is intended to determine what the pilots and air-traffic controllers knew as the Learjet encountered the storm and whether their actions were appropriate, according to NTSB member Thomas Chapman. The inquiry also includes whether the crash resembles other Learjet 60 accidents, while maintenance records leave the presence of a cockpit voice recorder uncertain.
+lede: A Learjet 60 crashed into a thoroughfare in Palm Beach County, Florida, on Sunday,
+  killing all nine people aboard and injuring a nearby driver. The National Transportation
+  Safety Board expects weather conditions to be a major focus of its investigation,
+  while aviation safety experts said a powerful thunderstorm appeared to play a critical
+  role and exposed the jet to potential icing. The aircraft was flying from Austin,
+  Texas, to Eleuthera Island in the Bahamas.
+nut_graf: The NTSB investigation is intended to determine what the pilots and air-traffic
+  controllers knew as the Learjet encountered the storm and whether their actions
+  were appropriate, according to NTSB member Thomas Chapman. The inquiry also includes
+  whether the crash resembles other Learjet 60 accidents, while maintenance records
+  leave the presence of a cockpit voice recorder uncertain.
 primary_entities:
 - National Transportation Safety Board
 - Learjet 60
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +157,43 @@ related_stories:
   headline: NTSB investigates Florida Learjet crash that killed all nine onboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8726
+  strength: 0.8735
 - slug: 2026-11-02-flight-data-shows-jet-plunged-at-up-to-30-000-feet-per-minute-in-greenacres
   headline: Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8236
+  strength: 0.8243
 - slug: 2026-11-01-business-jet-crashes-in-palm-beach-county-killing-all-nine-aboard
   headline: Business jet crashes in Palm Beach County, killing all nine aboard
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8098
+  strength: 0.8107
 - slug: 2026-11-02-anthony-blackmon-says-debris-hit-his-house-after-south-florida-jet-crash
   headline: Anthony Blackmon says debris hit his house after South Florida jet crash
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7862
+  strength: 0.7872
 - slug: 2026-11-02-nine-people-killed-in-florida-learjet-crash-are-identified
   headline: Nine people killed in Florida Learjet crash are identified
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7518
+  strength: 0.7523
 - slug: 2026-11-02-business-jet-crashes-on-military-trail-in-florida-killing-all-nine-aboard
   headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7342
+  strength: 0.735
 - slug: 2026-11-02-storyful-verifies-crash-footage-authorities-move-residents-to-shelters
   headline: Storyful verifies crash footage; authorities move residents to shelters
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7129
+  strength: 0.7141
 - slug: 2026-07-10-both-engines-flamed-out-before-texas-highway-crash-ntsb-says
   headline: Both engines flamed out before Texas highway crash, NTSB says
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6949
-- slug: 2026-07-06-ntsb-says-full-butler-skydiving-crash-report-months-away-after-ruling-out-engine
-  headline: NTSB says full Butler skydiving crash report months away after ruling out engine failure
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6809
-- slug: 2026-07-03-ntsb-finds-no-obvious-cause-in-missouri-skydiving-crash-that-killed-12
-  headline: NTSB finds no obvious cause in Missouri skydiving crash that killed 12
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6797
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6966
-- slug: 2026-04-26-ntsb-says-firefighter-heard-stop-stop-before-laguardia-crash
-  headline: NTSB says firefighter heard “stop, stop” before LaGuardia crash
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6991
-- slug: 2026-03-07-ntsb-bangor-maine-jet-crash-deicing-holdover-time-exceeded
-  headline: 'NTSB: Texas jet exceeded FAA deicing window before crashing in Maine, killing 6'
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.7078
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6877
-- slug: 2026-03-24-ntsb-controller-cleared-laguardia-fire-truck-to-cross-12-seconds-pre-crash
-  headline: 'NTSB: Controller cleared LaGuardia fire truck to cross 12 seconds pre-crash'
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6973
-- slug: 2026-01-26-six-die-as-business-jet-crashes-during-maine-takeoff-in-snowstorm
-  headline: Six die as business jet crashes during Maine takeoff in snowstorm
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7035
-- slug: 2026-03-25-what-to-know-about-the-laguardia-runway-collision-between-jet-and-fire-truck
-  headline: What to know about the LaGuardia runway collision between jet and fire truck
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6935
-- slug: 2026-05-16-texas-ntsb-report-says-plane-carrying-pickleball-players-broke-apart-midair
-  headline: Texas NTSB report says plane carrying pickleball players broke apart midair
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6785
-- slug: 2026-03-25-ntsb-says-laguardia-controller-cleared-fire-truck-12-seconds-before-crash
-  headline: NTSB says LaGuardia controller cleared fire truck 12 seconds before crash
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6878
-- slug: 2026-04-24-report-outlines-what-led-to-deadly-air-canada-crash-at-new-york-s-laguardia
-  headline: Report outlines what led to deadly Air Canada crash at New York’s LaGuardia
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6778
+  strength: 0.6965
 ---
-
 ## NTSB focuses on weather and flight decisions after deadly Florida Learjet crash
 
 **Subtype:** fact

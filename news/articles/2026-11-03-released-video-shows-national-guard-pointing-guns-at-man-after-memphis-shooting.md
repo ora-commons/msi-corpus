@@ -2,8 +2,17 @@
 headline: Released video shows National Guard pointing guns at man after Memphis shooting
 secondary_headline: Autopsy shared by Johnson’s family says he was shot in the back
 publish_date: '2026-11-03'
-lede: The Shelby County District Attorney’s Office released videos Monday showing Tennessee National Guard troops pointing handguns at Tyrin Johnson as he lay dying on a Memphis sidewalk after a guard member shot him in the back. The July 5 recordings do not show the initial encounter with the guards or the shooting itself. An autopsy report shared by Johnson’s family conflicts with police and National Guard accounts that he faced the guards with a gun. Shelby County District Attorney Steve Mulroy said he has not decided whether to file charges.
-nut_graf: The release documents the immediate aftermath but does not establish what happened in the moments before or during the fatal shot. The Tennessee Bureau of Investigation continues its investigation while Mulroy weighs whether to pursue charges.
+lede: The Shelby County District Attorney’s Office released videos Monday showing
+  Tennessee National Guard troops pointing handguns at Tyrin Johnson as he lay dying
+  on a Memphis sidewalk after a guard member shot him in the back. The July 5 recordings
+  do not show the initial encounter with the guards or the shooting itself. An autopsy
+  report shared by Johnson’s family conflicts with police and National Guard accounts
+  that he faced the guards with a gun. Shelby County District Attorney Steve Mulroy
+  said he has not decided whether to file charges.
+nut_graf: The release documents the immediate aftermath but does not establish what
+  happened in the moments before or during the fatal shot. The Tennessee Bureau of
+  Investigation continues its investigation while Mulroy weighs whether to pursue
+  charges.
 primary_entities:
 - Tyrin Johnson
 - Tennessee National Guard
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +153,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-27-alex-pretti-held-a-license-to-carry-the-handgun-federal-agents-removed
-  headline: Alex Pretti held a license to carry the handgun federal agents removed
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6261
 - slug: 2026-08-28-autopsy-guard-shot-memphis-man-in-back-contradicting-police-account
   headline: 'Autopsy: Guard shot Memphis man in back, contradicting police account'
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.8624
-- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
-  headline: Mississippi releases body-camera footage of fatal toddler police shooting
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6219
-- slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
-  headline: Autopsy indicates Kohen Wiley shot from side of car, not front
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6162
+  strength: 0.8632
 - slug: 2026-09-18-memphis-national-guard-deployment-marks-one-year-amid-mounting-skepticism
   headline: Memphis National Guard deployment marks one year amid mounting skepticism
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7204
+  strength: 0.7208
 - slug: 2026-07-05-armed-man-fleeing-police-dies-after-national-guard-shooting-in-memphis
   headline: Armed man fleeing police dies after National Guard shooting in Memphis
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.8138
-- slug: 2026-09-17-memphis-prevention-programs-struggle-to-meet-teen-demand-after-federal-cuts
-  headline: Memphis prevention programs struggle to meet teen demand after federal cuts
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6426
+  strength: 0.814
 - slug: 2026-08-23-federal-agent-s-fatal-memphis-shooting-unjustified-family-attorney-says
   headline: Federal agent's fatal Memphis shooting unjustified, family attorney says
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6934
+  strength: 0.6927
 - slug: 2026-07-13-family-demands-answers-after-memphis-task-force-agent-kills-man-in-crisis
   headline: Family demands answers after Memphis task force agent kills man in crisis
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.7108
+  strength: 0.7103
 - slug: 2026-07-21-memphis-pizza-shop-owner-refuses-guard-service-business-surges
   headline: Memphis pizza shop owner refuses Guard service, business surges
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6541
+  strength: 0.6529
 - slug: 2026-07-08-federal-agents-kill-fourth-person-in-memphis-anticrime-taskforce-operation
   headline: Federal agents kill fourth person in Memphis anticrime taskforce operation
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.6602
-- slug: 2026-07-24-madison-police-shooting-lacks-body-camera-footage-chief-says
-  headline: Madison police shooting lacks body camera footage, chief says
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6235
-- slug: 2026-07-18-more-than-a-thousand-rally-for-justin-pearson-after-four-memphis-task-force-shoo
-  headline: More than a thousand rally for Justin Pearson after four Memphis task force shootings
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6245
+  strength: 0.6608
 - slug: 2026-04-15-bodycam-video-contradicts-st-louis-police-account-in-teen-shooting
   headline: Bodycam video contradicts St. Louis police account in teen shooting
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6805
-- slug: 2026-07-10-sheriff-places-officer-on-leave-after-mississippi-jail-inmate-death
-  headline: Sheriff places officer on leave after Mississippi jail inmate death
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6226
-- slug: 2026-01-25-videos-contradict-federal-account-of-deadly-minneapolis-shooting
-  headline: Videos contradict federal account of deadly Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6718
-- slug: 2026-03-07-videos-challenge-dhs-account-of-fatal-shooting-of-us-citizen-by-immigration-agen
-  headline: Videos challenge DHS account of fatal shooting of US citizen by immigration agent in Texas
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6505
-- slug: 2026-05-18-video-contradicts-federal-account-of-minneapolis-nurse-s-death
-  headline: Video contradicts federal account of Minneapolis nurse's death
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6209
-- slug: 2026-01-27-minneapolis-shooting-exposes-fissure-in-republican-gun-politics
-  headline: Minneapolis shooting exposes fissure in Republican gun politics
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6406
-- slug: 2026-05-18-officer-joseph-magnano-charged-in-steven-jones-fatal-knife-shooting
-  headline: Officer Joseph Magnano charged in Steven Jones fatal knife shooting
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6182
+  strength: 0.6797
 ---
-
 ## Released video shows National Guard pointing guns at man after Memphis shooting
 
 **Subtype:** fact
