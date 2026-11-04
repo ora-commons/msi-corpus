@@ -1,7 +1,9 @@
 ---
 headline: The Bailout Baron Wants Carroll’s $83 Million Verdict Erased
 publish_date: '2026-11-02'
-lede: Donald Trump wants the Supreme Court to erase an $83 million verdict because his lawyers tell the justices the office he occupies should shield him from liability for the conduct that produced it.
+lede: Donald Trump wants the Supreme Court to erase an $83 million verdict because
+  his lawyers tell the justices the office he occupies should shield him from liability
+  for the conduct that produced it.
 pen_name: ruth-justice
 primary_entities:
 - E Jean Carroll
@@ -34,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +59,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-bailout-baron-wants-carrolls-83-million-verdict-erased.png
+  alt: 'Editorial cartoon by Hector Rentier: The Bailout Baron Wants Carroll’s $83
+    Million Verdict Erased'
+  caption: He called it protecting the office. It was protecting him.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-04T12:34:29-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square 1:1 single panel in heavy Nast-style cross-hatch and wood-engraving.
+    Donald Trump sits centered behind a spotless official desk labeled “OFFICIAL BUSINESS,”
+    recognizable and fully individuated '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-02-hector-paired-with-2026-11-02-ruth-justice-us-news-2026-nov-02-e-jean-carroll-trump
 ---
+
+![Editorial cartoon by Hector Rentier: The Bailout Baron Wants Carroll’s $83 Million Verdict Erased](/cartoons/the-bailout-baron-wants-carrolls-83-million-verdict-erased.png)
+*He called it protecting the office. It was protecting him.*
 
 Donald Trump wants the Supreme Court to erase an $83 million verdict because his lawyers tell the justices the office he occupies should shield him from liability for the conduct that produced it. Again.
 

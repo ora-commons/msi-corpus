@@ -1,7 +1,9 @@
 ---
-headline: The Trump Administration Used Armed DHS Officials to Threaten California Election Workers with Criminal Charges
+headline: The Trump Administration Used Armed DHS Officials to Threaten California
+  Election Workers with Criminal Charges
 publish_date: '2026-11-03'
-lede: The Trump administration used armed Department of Homeland Security officials to threaten California election workers with criminal charges.
+lede: The Trump administration used armed Department of Homeland Security officials
+  to threaten California election workers with criminal charges.
 pen_name: malcolm-little-king
 primary_entities:
 - Justice Department
@@ -38,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,16 +57,34 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-03-justice-department-argues-20-000-disputed-california-ballots-could-dilute-votes.png
-  alt: 'Illustration accompanying article: Justice Department argues 20,000 disputed California ballots could dilute votes'
+  url: /cartoons/the-trump-administration-used-armed-dhs-officials-to.png
+  alt: 'Editorial cartoon by Hector Rentier: The Trump Administration Used Armed DHS
+    Officials to Threaten California Election…'
+  caption: They sent a ballot demand, then armed officials delivered the criminal
+    threat.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-04T12:50:16-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single panel in heavy black-and-white wood engraving, with
+    dense cross-hatching, solid black masses, carved white highlights, and only one
+    restrained sepia (#6B4226) accent on the warning l
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-03-justice-department-argues-20-000-disputed-california-ballots-could-dilute-votes
   relation: extends
   strength: 0.6539
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-03-hector-paired-with-2026-11-03-malcolm-little-king-news-articles-cm5ynekkn5qko
 ---
+
+![Editorial cartoon by Hector Rentier: The Trump Administration Used Armed DHS Officials to Threaten California Election…](/cartoons/the-trump-administration-used-armed-dhs-officials-to.png)
+*They sent a ballot demand, then armed officials delivered the criminal threat.*
 
 The Trump administration used armed Department of Homeland Security officials to threaten California election workers with criminal charges.
 

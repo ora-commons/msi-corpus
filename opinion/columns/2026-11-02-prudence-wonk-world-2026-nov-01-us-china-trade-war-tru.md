@@ -1,7 +1,8 @@
 ---
 headline: The Minerals War Continues Beneath the Tariff Truce
 publish_date: '2026-11-02'
-lede: Trump and Xi Jinping are weaponizing civilian trade to secure military and technological supremacy.
+lede: Trump and Xi Jinping are weaponizing civilian trade to secure military and technological
+  supremacy.
 pen_name: prudence-wonk
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,9 +33,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-01-us-and-china-pursue-supply-chain-leverage-despite-an-extended-truce.png
-  alt: 'Illustration accompanying article: US and China pursue supply-chain leverage despite an extended truce'
+  url: /cartoons/the-minerals-war-continues-beneath-the-tariff-truce.png
+  alt: 'Editorial cartoon by Hector Rentier: The Minerals War Continues Beneath the
+    Tariff Truce'
+  caption: The Fed sets the rate. He held the ports hostage to move it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-04T12:38:00-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy wood-engraving cross-hatch in the Nast/Daumier
+    manner, pure black masses against carved-out whites. Primary frame: a monumental
+    iron customs gate beneath a carved stone arch l'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-01-us-and-china-pursue-supply-chain-leverage-despite-an-extended-truce
   relation: extends
@@ -41,7 +54,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-02-hector-paired-with-2026-11-02-prudence-wonk-world-2026-nov-01-us-china-trade-war-tru
 ---
+
+![Editorial cartoon by Hector Rentier: The Minerals War Continues Beneath the Tariff Truce](/cartoons/the-minerals-war-continues-beneath-the-tariff-truce.png)
+*The Fed sets the rate. He held the ports hostage to move it.*
 
 Trump and Xi Jinping are weaponizing civilian trade to secure military and technological supremacy.
 

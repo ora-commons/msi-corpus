@@ -1,5 +1,6 @@
 ---
-headline: I cancel the G20 family photo on purpose — the greatest diplomatic play ever, and everybody walks into it
+headline: I cancel the G20 family photo on purpose — the greatest diplomatic play
+  ever, and everybody walks into it
 publish_date: '2026-10-31'
 lede: So the family photo didn't happen.
 pen_name: diklis-chump
@@ -42,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,7 +66,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/i-cancel-the-g20-family-photo-on-purpose-the-greatest.png
+  alt: 'Editorial cartoon by Hector Rentier: I cancel the G20 family photo on purpose
+    — the greatest diplomatic play ever, and…'
+  caption: The boycott emptied the frame. He turned the absence into his portrait.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-04T12:31:05-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Render a square, single-panel Nast-style wood engraving with dense cross-hatch
+    and strong black masses. Donald Trump is fully individuated and recognizable in
+    his public role as G20 host, standing alo
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-31-hector-paired-with-2026-10-31-diklis-chump-amily-photo-after-australia-uk-and-other
 ---
+
+![Editorial cartoon by Hector Rentier: I cancel the G20 family photo on purpose — the greatest diplomatic play ever, and…](/cartoons/i-cancel-the-g20-family-photo-on-purpose-the-greatest.png)
+*The boycott emptied the frame. He turned the absence into his portrait.*
 
 So the family photo didn't happen. In Atlanta, at MY G20 — the foreign ministers, the biggest meeting of its kind, maybe ever — they cancelled the Photo. You know the photo, every summit does one, everybody squeezes in, beautiful tradition, tremendous tradition. The Failing Guardian — terrible newspaper, horrible ratings, nobody reads it, everybody reads it — is reporting that about one-third of the countries refused to stand next to Sergei Lavrov. Sergei! Great guy. Tough. People say terrible things about Sergei, the fake news, very unfair, and I brought him anyway, because I make peace like nobody's ever made peace. The European Union — twenty-some countries, one personality — announced in advance that nobody in the bloc would stand near him, which is tremendous coordination for people who can't agree on lunch. So strong Marco scrapped the [family photo that is now the most famous non-photo in history](/articles/2026-10-30-us-cancels-g20-family-photo-after-european-diplomats-refuse-to-stand-with-lavrov/) — [rifts already showing when the talks opened](/articles/2026-10-30-g20-foreign-ministers-open-atlanta-talks-as-rifts-persist/), the papers had their headline ready, of course they did — and then he got up and gave a beautiful speech about unity. "We are in a critical moment." Very critical. The most critical moment in the history of moments, probably. Which is fine, because I was cancelling it anyway.
 

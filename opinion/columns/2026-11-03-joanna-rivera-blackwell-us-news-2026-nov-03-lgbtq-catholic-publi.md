@@ -1,7 +1,8 @@
 ---
 headline: St Mary Catholic Parish Weaponizes Religious Freedom Against LGBTQ Families
 publish_date: '2026-11-03'
-lede: St Mary Catholic Parish weaponizes religious freedom to exclude children of LGBTQ parents.
+lede: St Mary Catholic Parish weaponizes religious freedom to exclude children of
+  LGBTQ parents.
 pen_name: joanna-rivera-blackwell
 primary_entities:
 - St Mary Catholic Parish v Roy
@@ -36,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -52,16 +54,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-03-catholic-preschools-challenge-colorado-preschool-funding-rules-at-supreme-court.png
-  alt: 'Illustration accompanying article: Catholic preschools challenge Colorado preschool funding rules at Supreme Court'
+  url: /cartoons/st-mary-catholic-parish-weaponizes-religious-freedom.png
+  alt: 'Editorial cartoon by Hector Rentier: St Mary Catholic Parish Weaponizes Religious
+    Freedom Against LGBTQ Families'
+  caption: They want the check without the undertaking. The family waits outside.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-04T12:48:56-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single 1:1 panel, heavy Nast wood-engraving cross-hatch, black masses
+    against carved whites, one sepia accent (#6B4226) only. A stone schoolhouse wall
+    crosses the frame; its iron gate at center-left h
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-03-catholic-preschools-challenge-colorado-preschool-funding-rules-at-supreme-court
   relation: extends
   strength: 0.9925
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-03-hector-paired-with-2026-11-03-joanna-rivera-blackwell-us-news-2026-nov-03-lgbtq-catholic-publi
 ---
+
+![Editorial cartoon by Hector Rentier: St Mary Catholic Parish Weaponizes Religious Freedom Against LGBTQ Families](/cartoons/st-mary-catholic-parish-weaponizes-religious-freedom.png)
+*They want the check without the undertaking. The family waits outside.*
 
 St Mary Catholic Parish weaponizes religious freedom to exclude children of LGBTQ parents.
 

@@ -45,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,7 +67,28 @@ cross_article_links:
   strength: 0.8174
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-and-hegseth-are-sending-soldiers-to-die-and-calling.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump and Hegseth Are Sending Soldiers
+    to Die and Calling It Victory'
+  caption: The troop movements were the honest briefing. The podium was not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-04T12:32:40-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single-panel Nast-style engraving in dense black cross-hatch,
+    with one restrained sepia (#6B4226) accent. Donald Trump stands at a Pentagon
+    lectern in his presidential role, fully individua
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-10-31-hector-paired-with-2026-10-31-james-big-jim-zebedee-world-middle-east-iran-war-us-bases-dama
 ---
+
+![Editorial cartoon by Hector Rentier: Trump and Hegseth Are Sending Soldiers to Die and Calling It Victory](/cartoons/trump-and-hegseth-are-sending-soldiers-to-die-and-calling.png)
+*The troop movements were the honest briefing. The podium was not.*
 
 Trump and Hegseth are sending soldiers to die in a war they keep calling won. The war began on February 28. By the Defense Department's own count, more than twenty American servicemembers are dead in activity related to it, and more than four hundred were wounded before the ceasefire fell apart in July. Since July, the government has stopped publishing casualty figures specific to this war. The Wall Street Journal spent six months on satellite imagery to count what the briefings leave out, and [our account of it ran this morning](/articles/2026-10-31-satellite-analysis-finds-274-damaged-structures-at-us-bases-in-iran-war/): 274 damaged structures at 24 installations with an American military presence, across seven countries, in the war's first six months. It is the most comprehensive public accounting anyone has. The Pentagon and its Middle East headquarters, Central Command, declined to comment on it.
 

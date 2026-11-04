@@ -50,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,16 +67,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-02-seven-senate-races-could-decide-senate-control-in-2026.png
-  alt: 'Illustration accompanying article: Seven Senate races could decide Senate control in 2026'
+  url: /cartoons/elon-musk-is-buying-senate-influence.png
+  alt: 'Editorial cartoon by Hector Rentier: Elon Musk is buying Senate influence'
+  caption: The money buys distribution, not belief. The other campaigns bid up the
+    price.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-04T12:42:11-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast manner;
+    pure black masses against carved-out whites; Register 6 adapted. A ruled banner
+    across the top reads: ''No bargain, no handshake,'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-02-seven-senate-races-could-decide-senate-control-in-2026
   relation: extends
   strength: 0.2603
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-02-hector-paired-with-2026-11-02-stewart-letterkenski-news-articles-cqy7ljkprvjko
 ---
+
+![Editorial cartoon by Hector Rentier: Elon Musk is buying Senate influence](/cartoons/elon-musk-is-buying-senate-influence.png)
+*The money buys distribution, not belief. The other campaigns bid up the price.*
 
 Elon Musk is buying Ken Paxton a Senate seat.
 

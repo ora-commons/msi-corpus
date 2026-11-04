@@ -1,9 +1,21 @@
 ---
 headline: James Carville says the economy dominates, but corruption still matters
-secondary_headline: Carville urges a congressional stock-trading ban and warns on deficits
+secondary_headline: Carville urges a congressional stock-trading ban and warns on
+  deficits
 publish_date: '2026-11-03'
-lede: The Wall Street Journal economy reporter Rachel Wolfe interviewed James Carville for a question-and-answer story filed from New Orleans and published Nov. 3; Carville sat down with the Journal last week. The 82-year-old former campaign manager for Bill Clinton told Wolfe that economic satisfaction is highly determinative of election outcomes when voters evaluate incumbents, while arguing that voters also care about corruption and inequality. He rejected use of “It’s the economy, stupid” to dismiss other priorities, called the midterms favorable for Democrats, urged a ban on congressional stock trading and warned that large federal deficits could “blow up on us.”
-nut_graf: Carville's comments set out an economic and governing agenda for Democrats as the midterms approach. He calls for a congressional stock-trading ban, expects proposals to raise the minimum wage, end tax cuts on incomes over half a million dollars a year and open more rural hospitals to be vetoed, and warns that large federal deficits could “blow up on us.”
+lede: The Wall Street Journal economy reporter Rachel Wolfe interviewed James Carville
+  for a question-and-answer story filed from New Orleans and published Nov. 3; Carville
+  sat down with the Journal last week. The 82-year-old former campaign manager for
+  Bill Clinton told Wolfe that economic satisfaction is highly determinative of election
+  outcomes when voters evaluate incumbents, while arguing that voters also care about
+  corruption and inequality. He rejected use of “It’s the economy, stupid” to dismiss
+  other priorities, called the midterms favorable for Democrats, urged a ban on congressional
+  stock trading and warned that large federal deficits could “blow up on us.”
+nut_graf: Carville's comments set out an economic and governing agenda for Democrats
+  as the midterms approach. He calls for a congressional stock-trading ban, expects
+  proposals to raise the minimum wage, end tax cuts on incomes over half a million
+  dollars a year and open more rural hospitals to be vetoed, and warns that large
+  federal deficits could “blow up on us.”
 primary_entities:
 - James Carville
 - Bill Clinton
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,44 @@ related_stories:
   headline: Harris poll finds corruption second only to cost of living for voters
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7197
+  strength: 0.7207
 - slug: 2026-11-03-wall-street-journal-publishes-10-question-midterm-economy-quiz
   headline: Wall Street Journal publishes 10-question midterm economy quiz
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6622
+  strength: 0.6626
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6519
-- slug: 2026-11-03-final-polls-put-trump-s-approval-around-38-only-29-view-democrats-positively
-  headline: Final polls put Trump's approval around 38%; only 29% view Democrats positively
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6449
+  strength: 0.6523
 - slug: 2026-10-23-wall-street-journal-seeks-reader-questions-on-midterms-and-the-economy
   headline: Wall Street Journal seeks reader questions on midterms and the economy
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7165
+  strength: 0.7163
 - slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
   headline: Cost of living, Iran war and AI weigh on US voters days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6515
+  strength: 0.6524
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6594
+  strength: 0.6593
 - slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
   headline: Fox News poll finds government corruption outranks inflation among voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.668
+  strength: 0.6687
 - slug: 2026-10-23-only-one-of-54-republican-economy-ads-in-the-closest-races-mentions-trump
   headline: Only one of 54 Republican economy ads in the closest races mentions Trump
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6708
-- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
-  headline: Economic populism gains ground as both parties court midterm voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6647
-- slug: 2026-10-23-republicans-test-whether-socialism-warnings-still-resonate-in-midterms
-  headline: Republicans test whether socialism warnings still resonate in midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.659
-- slug: 2026-10-23-trump-shifts-campaign-focus-as-democrats-gain-ground-before-2026-midterms
-  headline: Trump shifts campaign focus as Democrats gain ground before 2026 midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6476
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6919
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6539
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6837
-- slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
-  headline: Working-class white voters cool on Republicans, WSJ poll finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6608
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6473
-- slug: 2026-10-12-seven-midterm-candidates-present-economic-plans-in-wsj-video
-  headline: Seven midterm candidates present economic plans in WSJ video
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6588
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6674
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6515
+  strength: 0.6716
 ---
-
 ## James Carville says the economy dominates, but corruption still matters
 
 **Subtype:** fact

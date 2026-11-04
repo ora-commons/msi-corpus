@@ -1,7 +1,8 @@
 ---
 headline: Trump's Unsubstantiated Push to Suppress Twenty Thousand California Ballots
 publish_date: '2026-11-03'
-lede: The Trump administration tried to suppress twenty thousand California ballots without disclosed evidence.
+lede: The Trump administration tried to suppress twenty thousand California ballots
+  without disclosed evidence.
 pen_name: thomas-reynolds
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,9 +33,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-02-supreme-court-rejects-bid-to-segregate-and-not-count-disputed-california-ballots.png
-  alt: 'Illustration accompanying article: Supreme Court rejects bid to segregate and not count disputed California ballots'
+  url: /cartoons/trumps-unsubstantiated-push-to-suppress-twenty-thousand.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump''s Unsubstantiated Push to Suppress
+    Twenty Thousand California Ballots'
+  caption: The arrests were the show. The list was still unproved.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-04T12:51:50-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single-panel Register 5 arrangement: polished enforcement spectacle
+    concealing an empty evidentiary record. Foreground center-right, Donald Trump
+    appears fully individuated and recognizable in his pub'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-02-supreme-court-rejects-bid-to-segregate-and-not-count-disputed-california-ballots
   relation: extends
@@ -41,7 +54,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-03-hector-paired-with-2026-11-03-thomas-reynolds-us-news-2026-nov-02-supreme-court-trump-
 ---
+
+![Editorial cartoon by Hector Rentier: Trump's Unsubstantiated Push to Suppress Twenty Thousand California Ballots](/cartoons/trumps-unsubstantiated-push-to-suppress-twenty-thousand.png)
+*The arrests were the show. The list was still unproved.*
 
 The Trump administration tried to suppress twenty thousand California ballots without disclosed evidence.
 
