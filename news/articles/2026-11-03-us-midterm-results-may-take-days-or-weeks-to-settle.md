@@ -2,8 +2,15 @@
 headline: US midterm results may take days or weeks to settle
 secondary_headline: Cook Political Report rates seven Senate races as toss-ups
 publish_date: '2026-11-03'
-lede: Millions of Americans were voting on November 3 in the 2026 US midterm elections, with Republicans and Democrats contesting control of Congress. BBC News reported that the outcome might not be projected for hours, days or even weeks, depending on how close the races were and which contests proved decisive. The result could have a significant impact on President Donald Trump's presidency.
-nut_graf: 'Congressional control depends on separate House and Senate thresholds: 218 seats for a House majority and 51 for an outright Senate majority, with a vice-presidential tie-break in a 50-50 Senate. Close contests and state-specific counting rules can keep the final result unsettled for days or weeks.'
+lede: Millions of Americans were voting on November 3 in the 2026 US midterm elections,
+  with Republicans and Democrats contesting control of Congress. BBC News reported
+  that the outcome might not be projected for hours, days or even weeks, depending
+  on how close the races were and which contests proved decisive. The result could
+  have a significant impact on President Donald Trump's presidency.
+nut_graf: 'Congressional control depends on separate House and Senate thresholds:
+  218 seats for a House majority and 51 for an outright Senate majority, with a vice-presidential
+  tie-break in a 50-50 Senate. Close contests and state-specific counting rules can
+  keep the final result unsettled for days or weeks.'
 primary_entities:
 - United States
 - Congress
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +147,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7621
 - slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7682
+  strength: 0.7699
+- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.7627
 - slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
   headline: Early voting advances as Trump administration pressures state elections
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7532
+  strength: 0.753
 - slug: 2026-11-03-congress-control-calls-may-take-days-after-tuesday-s-election
   headline: Congress control calls may take days after Tuesday's election
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7516
+  strength: 0.7525
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7515
+  strength: 0.7519
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7496
+  strength: 0.7505
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7548
+  strength: 0.7553
 - slug: 2026-10-30-oklahoma-voters-decide-congressional-statewide-and-legislative-races-tuesday
-  headline: Oklahoma voters decide congressional, statewide and legislative races Tuesday
+  headline: Oklahoma voters decide congressional, statewide and legislative races
+    Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7575
-- slug: 2026-10-30-indiana-voters-decide-federal-and-state-races-in-tuesday-s-midterm-election
-  headline: Indiana voters decide federal and state races in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7523
-- slug: 2026-11-02-early-returns-turnout-and-state-benchmarks-frame-the-2026-midterms
-  headline: Early returns, turnout and state benchmarks frame the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7304
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7707
-- slug: 2026-10-30-kentucky-voters-decide-federal-state-and-local-races-tuesday
-  headline: Kentucky voters decide federal, state and local races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7432
-- slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
-  headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7397
-- slug: 2026-10-30-new-jersey-voters-elect-senate-and-house-members-in-tuesday-s-midterm-election
-  headline: New Jersey voters elect Senate and House members in Tuesday's midterm election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7364
-- slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
-  headline: Early ballots pass 43 million as US midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7368
-- slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
-  headline: Idaho voters decide Senate, governor and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7266
-- slug: 2026-10-30-north-dakota-voters-decide-house-statewide-and-legislative-races-tuesday
-  headline: North Dakota voters decide House, statewide and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7262
-- slug: 2026-10-30-washington-voters-decide-federal-and-state-races-tuesday-mostly-by-mail
-  headline: Washington voters decide federal and state races Tuesday, mostly by mail
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7253
-- slug: 2026-10-30-oregon-voters-decide-federal-and-state-races-tuesday-in-a-mostly-mail-election
-  headline: Oregon voters decide federal and state races Tuesday in a mostly mail election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7247
-- slug: 2026-10-30-south-dakota-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: South Dakota voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7234
+  strength: 0.7566
 ---
-
 ## US midterm results may take days or weeks to settle
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Republican groups outspend Democrats in New Hampshire Senate contest
 secondary_headline: Sununu calls Pappas a career politician; Pappas urges change
 publish_date: '2026-11-03'
-lede: Republican groups invested far more money in New Hampshire’s U.S. Senate contest, allowing them to dominate the airwaves in the campaign’s closing month. Data compiled by AdImpact and OpenSecrets.org showed Republicans spending considerably more as the race tightened. Republican messaging described the contest as “problem solver Sununu” versus “puppet Pappas,” while Democratic U.S. House member Chris Pappas told voters “our country is ready for change.”
-nut_graf: Republican groups used their spending advantage to dominate the closing-month airwaves, accusing Pappas of catering to Washington lobbyists and party bosses and describing the contest as “problem solver Sununu” versus “puppet Pappas.” Pro-Pappas ads accused Sununu of making millions off his political connections, and Pappas sought to link his opponent to Donald Trump, who endorsed Sununu during the Republican primary.
+lede: Republican groups invested far more money in New Hampshire’s U.S. Senate contest,
+  allowing them to dominate the airwaves in the campaign’s closing month. Data compiled
+  by AdImpact and OpenSecrets.org showed Republicans spending considerably more as
+  the race tightened. Republican messaging described the contest as “problem solver
+  Sununu” versus “puppet Pappas,” while Democratic U.S. House member Chris Pappas
+  told voters “our country is ready for change.”
+nut_graf: Republican groups used their spending advantage to dominate the closing-month
+  airwaves, accusing Pappas of catering to Washington lobbyists and party bosses and
+  describing the contest as “problem solver Sununu” versus “puppet Pappas.” Pro-Pappas
+  ads accused Sununu of making millions off his political connections, and Pappas
+  sought to link his opponent to Donald Trump, who endorsed Sununu during the Republican
+  primary.
 primary_entities:
 - John E. Sununu
 - Chris Pappas
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,113 +156,57 @@ related_stories:
   headline: Cook shifts New Hampshire race toward Pappas; Trump approval sits at 32%
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7828
+  strength: 0.7816
 - slug: 2026-10-30-sununu-pappas-face-off-for-new-hampshire-s-open-senate-seat
   headline: Sununu, Pappas face off for New Hampshire's open Senate seat
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7564
+  strength: 0.7538
 - slug: 2026-11-03-record-spending-tops-108-million-in-kansas-senate-contest
   headline: Record spending tops $108 million in Kansas Senate contest
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6662
+  strength: 0.6664
 - slug: 2026-10-06-sununu-seeks-senate-comeback-in-new-hampshire-against-pappas
   headline: Sununu seeks Senate comeback in New Hampshire against Pappas
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8199
+  strength: 0.8184
 - slug: 2026-10-25-bucks-county-senate-race-draws-more-than-7-million-in-spending
   headline: Bucks County Senate race draws more than $7 million in spending
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6819
+  strength: 0.6825
 - slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
   headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6553
+  strength: 0.6559
 - slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6522
-- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
-  headline: Arkansas Democrats push affordability message in final midterm stretch
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6462
+  strength: 0.6527
 - slug: 2026-10-14-ayotte-leads-warmington-in-new-hampshire-governor-reelection-race
   headline: Ayotte leads Warmington in New Hampshire governor reelection race
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6812
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6484
-- slug: 2026-10-13-senate-leadership-fund-adds-8m-to-defend-ricketts-nebraska-seat
-  headline: Senate Leadership Fund adds $8M to defend Ricketts' Nebraska seat
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6451
-- slug: 2026-09-09-former-senator-john-e-sununu-wins-new-hampshire-republican-senate-primary
-  headline: Former senator John E. Sununu wins New Hampshire Republican Senate primary
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7741
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6462
-- slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
-  headline: Paxton tells donors Washington forces control his Senate campaign
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6524
-- slug: 2026-09-09-pappas-defeats-manzur-to-claim-new-hampshire-democratic-senate-nomination
-  headline: Pappas defeats Manzur to claim New Hampshire Democratic Senate nomination
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7397
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6535
-- slug: 2026-09-18-trump-aligned-pacs-reserve-150-million-for-midterm-ad-blitz
-  headline: Trump-aligned PACs reserve $150 million for midterm ad blitz
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6793
-- slug: 2026-09-21-gop-aligned-ad-spending-surges-past-democrats-in-senate-tossup-races
-  headline: GOP-aligned ad spending surges past Democrats in Senate tossup races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6659
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6788
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.646
+  strength: 0.6805
 image:
   url: /articles/2026-11-03-republican-groups-outspend-democrats-in-new-hampshire-senate-contest.png
-  alt: "Illustration accompanying article: Republican groups outspend Democrats in New Hampshire Senate contest"
+  alt: 'Illustration accompanying article: Republican groups outspend Democrats in
+    New Hampshire Senate contest'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Republican groups outspend Democrats in New Hampshire Senate contest
 
 **Subtype:** fact
