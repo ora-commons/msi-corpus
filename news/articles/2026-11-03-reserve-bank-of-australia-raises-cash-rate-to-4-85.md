@@ -1,9 +1,18 @@
 ---
 headline: Reserve Bank of Australia raises cash rate to 4.85%
-secondary_headline: Statement on Monetary Policy forecasts inflation below 3% only by end of 2027
+secondary_headline: Statement on Monetary Policy forecasts inflation below 3% only
+  by end of 2027
 publish_date: '2026-11-03'
-lede: The Reserve Bank of Australia raised its official cash rate from 4.6% to 4.85% on Tuesday, the fifth increase this year. The rate reached its highest level since 2008, and the monetary policy board split the decision 6-3, with six members voting for a hike and three favoring a hold.
-nut_graf: This year's five back-to-back rate increases raise repayment pressure for more than 3.3 million households with home loans and add to the pressure on the federal Labor government over its economic management. The RBA's Statement on Monetary Policy forecasts inflation returning to target later than previously expected, weak growth through 2028 and unemployment moving above 5%, while elevated oil prices limit relief for motorists and businesses.
+lede: The Reserve Bank of Australia raised its official cash rate from 4.6% to 4.85%
+  on Tuesday, the fifth increase this year. The rate reached its highest level since
+  2008, and the monetary policy board split the decision 6-3, with six members voting
+  for a hike and three favoring a hold.
+nut_graf: This year's five back-to-back rate increases raise repayment pressure for
+  more than 3.3 million households with home loans and add to the pressure on the
+  federal Labor government over its economic management. The RBA's Statement on Monetary
+  Policy forecasts inflation returning to target later than previously expected, weak
+  growth through 2028 and unemployment moving above 5%, while elevated oil prices
+  limit relief for motorists and businesses.
 primary_entities:
 - Reserve Bank of Australia
 - Statement on Monetary Policy
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +149,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-02-bank-of-england-likely-to-hike-to-4-to-contain-inflation-5-rate-path-uncertain
-  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path uncertain
+  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path
+    uncertain
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6939
+  strength: 0.6938
 - slug: 2026-09-28-rba-widely-expected-to-raise-cash-rate-to-4-6-on-tuesday
   headline: RBA widely expected to raise cash rate to 4.6% on Tuesday
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8713
+  strength: 0.8712
 - slug: 2026-10-28-federal-reserve-leaves-benchmark-rate-unchanged-as-inflation-accelerates
   headline: Federal Reserve leaves benchmark rate unchanged as inflation accelerates
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7026
+  strength: 0.7015
 - slug: 2026-10-28-essential-poll-finds-more-voters-cite-government-spending-than-overseas-events-f
-  headline: Essential poll finds more voters cite government spending than overseas events for rising costs
+  headline: Essential poll finds more voters cite government spending than overseas
+    events for rising costs
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6902
+  strength: 0.6908
 - slug: 2026-10-28-september-inflation-accelerates-on-energy-price-spike
   headline: September inflation accelerates on energy-price spike
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6634
-- slug: 2026-10-28-september-cpi-gains-3-7-annually-after-0-3-monthly-gains-in-august-september
-  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August, September
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6595
+  strength: 0.6636
 - slug: 2026-10-22-chalmers-flags-weaker-growth-higher-unemployment-in-december-budget-update
   headline: Chalmers flags weaker growth, higher unemployment in December budget update
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6952
+  strength: 0.6957
 - slug: 2026-09-30-australian-inflation-rises-to-4-in-august-abs-says
   headline: Australian inflation rises to 4% in August, ABS says
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7792
+  strength: 0.7787
 - slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
   headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
   publish_date: '2026-10-21'
   relation: related
   strength: 0.665
-- slug: 2026-10-13-imf-scenario-could-push-australian-petrol-up-30-cents-a-litre
-  headline: IMF scenario could push Australian petrol up 30 cents a litre
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6727
-- slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
-  headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7346
-- slug: 2026-09-09-rba-s-three-2026-hikes-have-not-returned-inflation-to-2-5-target-deputy-governor
-  headline: RBA's three 2026 hikes have not returned inflation to 2.5% target, deputy governor says
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.746
-- slug: 2026-09-16-fed-raises-benchmark-rate-a-quarter-point-to-3-75--4-first-hike-since-2023
-  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since 2023
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7179
-- slug: 2026-09-17-bank-of-england-holds-rate-at-3-75-while-fed-ecb-raise-theirs
-  headline: Bank of England holds rate at 3.75% while Fed, ECB raise theirs
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6995
-- slug: 2026-09-11-brent-crude-tops-108-as-australian-bond-yields-hit-15-year-high
-  headline: Brent crude tops $108 as Australian bond yields hit 15-year high
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.71
-- slug: 2026-09-24-us-30-year-mortgage-rate-tops-7-for-first-time-since-january-2025
-  headline: US 30-year mortgage rate tops 7% for first time since January 2025
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6661
-- slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6879
-- slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
-  headline: Fed rate hike falls harder on housing than AI investment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6869
-- slug: 2026-09-11-fed-votes-9-3-to-hold-rates-first-three-member-dissent-in-decade
-  headline: Fed votes 9-3 to hold rates, first three-member dissent in decade
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.694
-- slug: 2026-09-16-federal-reserve-expected-to-raise-benchmark-rate-as-inflation-persists
-  headline: Federal Reserve expected to raise benchmark rate as inflation persists
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6778
 ---
-
 ## Reserve Bank of Australia raises cash rate to 4.85%
 
 **Subtype:** fact
