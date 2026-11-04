@@ -210,6 +210,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-03-netanyahu-s-reported-push-for-renewed-strikes-tests-whether-coercion-can-create-'
 ---
 ## Leaked plans raise prospect of renewed strikes on Iran after midterms
 
@@ -263,3 +265,8 @@ Iranian officials said any new U.S. military campaign targeting Iran’s infrast
 **Publication date:** 2026-11-03
 **Title:** Will Trump relaunch his war on Iran after the midterm elections? | Mohamad Bazzi
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/03/trump-iran-war-after-midterm-elections
+
+---
+
+<!-- analysis-link:2026-11-03-netanyahu-s-reported-push-for-renewed-strikes-tests-whether-coercion-can-create- -->
+**Going deeper:** [Read MSI's analysis of Iran escalation and bargaining leverage →](/analyses/2026-11-03-netanyahu-s-reported-push-for-renewed-strikes-tests-whether-coercion-can-create-)

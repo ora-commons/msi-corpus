@@ -2,8 +2,22 @@
 headline: Abuse allegations against Max Miller put Ohio's seventh district in play
 secondary_headline: Kansas affordability pressures Roger Marshall in US Senate race
 publish_date: '2026-11-03'
-lede: Abuse allegations against Republican Rep. Max Miller have given Democrats hope that they might flip Ohio's seventh congressional district in the 2026 US midterms; Trump won the seat by 11 points in 2024, according to The Guardian. Miller's ex-wife, Emily Moreno, and another former partner, former Trump press secretary Stephanie Grisham, have accused him of physical abuse; Miller denied both allegations, and the claims have featured heavily in ads against him. In Kansas, voters' struggles with fuel and grocery costs have fueled frustration with Republican Sen. Roger Marshall's inaccessibility and alignment with Trump as Adam Hamilton seeks the Senate seat. The guide also reports that Marshall, who practiced medicine for 25 years, sued hundreds of patients over unpaid bills, resulting in arrests of dozens.
-nut_graf: The Ohio allegations and Kansas affordability concerns show how race-specific vulnerabilities shape the guide's account of the 2026 midterms. Beyond those two contests, the guide profiles Senate races in Michigan, Maine, Georgia, Texas, Alaska, Florida and South Carolina, plus House races in Arizona and New Jersey. The outlet says the candidates and the lessons from their campaigns could alter the makeup of Congress and play into the 2028 presidential election.
+lede: Abuse allegations against Republican Rep. Max Miller have given Democrats hope
+  that they might flip Ohio's seventh congressional district in the 2026 US midterms;
+  Trump won the seat by 11 points in 2024, according to The Guardian. Miller's ex-wife,
+  Emily Moreno, and another former partner, former Trump press secretary Stephanie
+  Grisham, have accused him of physical abuse; Miller denied both allegations, and
+  the claims have featured heavily in ads against him. In Kansas, voters' struggles
+  with fuel and grocery costs have fueled frustration with Republican Sen. Roger Marshall's
+  inaccessibility and alignment with Trump as Adam Hamilton seeks the Senate seat.
+  The guide also reports that Marshall, who practiced medicine for 25 years, sued
+  hundreds of patients over unpaid bills, resulting in arrests of dozens.
+nut_graf: The Ohio allegations and Kansas affordability concerns show how race-specific
+  vulnerabilities shape the guide's account of the 2026 midterms. Beyond those two
+  contests, the guide profiles Senate races in Michigan, Maine, Georgia, Texas, Alaska,
+  Florida and South Carolina, plus House races in Arizona and New Jersey. The outlet
+  says the candidates and the lessons from their campaigns could alter the makeup
+  of Congress and play into the 2028 presidential election.
 primary_entities:
 - United States
 - Congress
@@ -50,7 +64,8 @@ primary_entities:
 primary_themes:
 - Ohio abuse allegations against Max Miller
 - Kansas affordability concerns and Roger Marshall's record
-- Senate challenges in Michigan, Maine, Kansas, Texas, Georgia, Alaska, Florida and South Carolina
+- Senate challenges in Michigan, Maine, Kansas, Texas, Georgia, Alaska, Florida and
+  South Carolina
 - House races in Ohio, Arizona and New Jersey
 - Candidate controversies, staff treatment, ballot strategy and online attention
 - Candidate positioning toward Donald Trump and lessons for the 2028 election
@@ -77,7 +92,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -179,104 +195,46 @@ related_stories:
   headline: Ohio's 2026 midterms test Republican dominance
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7608
+  strength: 0.7603
 - slug: 2026-11-03-record-spending-tops-108-million-in-kansas-senate-contest
   headline: Record spending tops $108 million in Kansas Senate contest
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7241
+  strength: 0.7248
 - slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7031
+  strength: 0.7017
 - slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
+  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since
+    1932
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7034
+  strength: 0.7026
 - slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
   headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6932
+  strength: 0.6927
 - slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.691
+  strength: 0.6911
 - slug: 2026-10-06-republican-groups-spend-millions-to-salvage-miller-s-ohio-seat-amid-abuse-claims
-  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse claims
+  headline: Republican groups spend millions to salvage Miller's Ohio seat amid abuse
+    claims
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.8025
+  strength: 0.803
 - slug: 2026-10-24-former-president-obama-criticizes-trump-at-ohio-midterm-rally
   headline: Former President Obama criticizes Trump at Ohio midterm rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6881
-- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
-  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6879
-- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6908
-- slug: 2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race
-  headline: Hamilton courts Republicans and independents in close Kansas Senate race
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7007
-- slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
-  headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7298
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7096
-- slug: 2026-10-03-trump-heads-to-ohio-as-marist-poll-shows-56-disapproval-in-gop-stronghold
-  headline: Trump heads to Ohio as Marist poll shows 56% disapproval in GOP stronghold
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6902
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7395
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6998
-- slug: 2026-08-05-house-ethics-committee-opens-probe-into-abuse-claims-against-miller
-  headline: House Ethics Committee opens probe into abuse claims against Miller
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7755
-- slug: 2026-08-04-six-gop-senators-publicly-back-bernie-moreno-in-miller-abuse-dispute
-  headline: Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7684
-- slug: 2026-08-14-house-majority-pac-adds-6-million-in-cleveland-ads-against-max-miller
-  headline: House Majority PAC adds $6 million in Cleveland ads against Max Miller
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7261
-- slug: 2026-08-10-miller-stays-on-ohio-ballots-after-deadline-to-resign-passes
-  headline: Miller stays on Ohio ballots after deadline to resign passes
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7312
+  strength: 0.6885
 ---
-
 ## Abuse allegations against Max Miller put Ohio's seventh district in play
 
 **Subtype:** fact
