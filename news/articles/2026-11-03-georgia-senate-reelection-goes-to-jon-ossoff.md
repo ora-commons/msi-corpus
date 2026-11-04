@@ -1,9 +1,18 @@
 ---
 headline: Georgia Senate reelection goes to Jon Ossoff
-secondary_headline: Collins' ties drew scrutiny; he continued embracing Trump's false claims about 2020 election fraud
+secondary_headline: Collins' ties drew scrutiny; he continued embracing Trump's false
+  claims about 2020 election fraud
 publish_date: '2026-11-03'
-lede: Jon Ossoff defeated Republican Rep. Mike Collins in Georgia's U.S. Senate race, NPR reported, citing a race call by The Associated Press. Ossoff entered the contest as the only incumbent Senate Democrat defending a seat in a state President Trump carried in 2024.
-nut_graf: Ossoff's victory preserves a Democratic U.S. Senate seat in a state Trump carried in 2024 and gives Democrats an incumbent who gained national attention during the campaign. NPR reported that Collins's "personal baggage" alienated independents and some Republican-leaning voters, while Ossoff won respect from some Georgia Republican officials because of his constituent services and energized Democrats outside Georgia who were seeking new party leaders.
+lede: Jon Ossoff defeated Republican Rep. Mike Collins in Georgia's U.S. Senate race,
+  NPR reported, citing a race call by The Associated Press. Ossoff entered the contest
+  as the only incumbent Senate Democrat defending a seat in a state President Trump
+  carried in 2024.
+nut_graf: Ossoff's victory preserves a Democratic U.S. Senate seat in a state Trump
+  carried in 2024 and gives Democrats an incumbent who gained national attention during
+  the campaign. NPR reported that Collins's "personal baggage" alienated independents
+  and some Republican-leaning voters, while Ossoff won respect from some Georgia Republican
+  officials because of his constituent services and energized Democrats outside Georgia
+  who were seeking new party leaders.
 primary_entities:
 - Jon Ossoff
 - Mike Collins
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,7 +158,7 @@ related_stories:
   headline: Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8709
+  strength: 0.8711
 - slug: 2026-11-04-jon-ossoff-projected-to-win-georgia-senate-race-democrats-press-for-control
   headline: Jon Ossoff projected to win Georgia Senate race; Democrats press for control
   publish_date: '2026-11-04'
@@ -158,94 +168,33 @@ related_stories:
   headline: Georgia voters decide Senate, governor races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8355
+  strength: 0.8354
 - slug: 2026-10-16-ossoff-leads-georgia-senate-race-denies-2028-presidential-interest
   headline: Ossoff leads Georgia Senate race, denies 2028 presidential interest
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.8204
+  strength: 0.8203
 - slug: 2026-10-14-ossoff-says-he-has-no-interest-in-2028-presidential-bid
   headline: Ossoff says he has no interest in 2028 presidential bid
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7683
+  strength: 0.7679
 - slug: 2026-10-15-georgia-swing-voters-regret-2024-trump-vote-eye-democratic-midterms
   headline: Georgia swing voters regret 2024 Trump vote, eye Democratic midterms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6986
+  strength: 0.6989
 - slug: 2026-10-14-georgia-sets-first-day-midterm-early-voting-record-with-188-667-ballots
   headline: Georgia sets first-day midterm early voting record with 188,667 ballots
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7025
+  strength: 0.703
 - slug: 2026-08-27-ossoff-builds-lead-in-georgia-senate-race-as-national-democrats-take-notice
   headline: Ossoff builds lead in Georgia Senate race as national Democrats take notice
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8471
-- slug: 2026-09-07-collins-trails-ossoff-in-georgia-senate-race-as-family-and-staff-controversies-s
-  headline: Collins trails Ossoff in Georgia Senate race as family and staff controversies surface
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.801
-- slug: 2026-09-21-trump-gop-candidates-persist-with-2020-election-claims-as-voters-urge-moving-on
-  headline: Trump, GOP candidates persist with 2020 election claims as voters urge moving on
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6921
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8232
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.8064
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.806
-- slug: 2026-05-19-georgia-republicans-scramble-to-pick-candidate-to-challenge-sen-jon-ossoff
-  headline: Georgia Republicans scramble to pick candidate to challenge Sen. Jon Ossoff
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.804
-- slug: 2026-05-17-georgia-republicans-scramble-to-challenge-sen-jon-ossoff-in-november
-  headline: Georgia Republicans scramble to challenge Sen. Jon Ossoff in November
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7984
-- slug: 2026-06-15-georgia-republicans-finalize-senate-governor-picks-in-tuesday-runoff
-  headline: Georgia Republicans finalize Senate, governor picks in Tuesday runoff
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7796
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7906
-- slug: 2026-07-18-ossoff-brands-trump-national-disgrace-in-reelection-bid
-  headline: Ossoff brands Trump 'national disgrace' in reelection bid
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.741
-- slug: 2026-05-19-georgia-republicans-head-to-runoffs-for-senate-and-governor-after-tuesday-primar
-  headline: Georgia Republicans head to runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7851
-- slug: 2026-03-06-georgia-governor-and-senate-fields-set-as-may-19-primary-looms
-  headline: Georgia governor and Senate fields set as May 19 primary looms
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.788
+  strength: 0.8467
 ---
-
 ## Georgia Senate reelection goes to Jon Ossoff
 
 **Subtype:** fact
