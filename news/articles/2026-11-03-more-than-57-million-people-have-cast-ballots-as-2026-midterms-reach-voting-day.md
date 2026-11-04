@@ -1,9 +1,27 @@
 ---
-headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-secondary_headline: 'U.S.-adult approval: 35% for Trump’s performance as president, 25% for economic handling'
+headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+  day
+secondary_headline: 'U.S.-adult approval: 35% for Trump’s performance as president,
+  25% for economic handling'
 publish_date: '2026-11-03'
-lede: More than 57 million people had cast ballots by Monday as the 2026 midterms reached their final voting day, with turnout already above the early-vote total four years earlier in many closely watched states. Republicans were bracing to lose the House while fighting to retain the Senate, and Democrats were cautiously optimistic. The Associated Press-NORC Center for Public Affairs Research found 35% of U.S. adults approved Donald Trump's performance as president, and an Associated Press analysis found 88.1% of Republican general-election television advertising went to states and districts Trump won in 2024. Democrats need a net gain of four Senate seats to win the Senate majority — an uphill climb because many of the most competitive races are in historically red states — and three House seats to win the House majority, with one or two seats able to tip the balance in either chamber.
-nut_graf: The election will determine whether Republicans retain control of Congress during the final two years of Trump's second term, with Democratic control of either chamber opening avenues for investigations and possible impeachments. Associated Press-NORC polling provides evidence of voter sentiment, while turnout, voter concerns and campaign spending are factors affecting the contest. The election also could affect presidential ambitions and Democrats' effort to win a majority of statehouses for the first time in two decades.
+lede: More than 57 million people had cast ballots by Monday as the 2026 midterms
+  reached their final voting day, with turnout already above the early-vote total
+  four years earlier in many closely watched states. Republicans were bracing to lose
+  the House while fighting to retain the Senate, and Democrats were cautiously optimistic.
+  The Associated Press-NORC Center for Public Affairs Research found 35% of U.S. adults
+  approved Donald Trump's performance as president, and an Associated Press analysis
+  found 88.1% of Republican general-election television advertising went to states
+  and districts Trump won in 2024. Democrats need a net gain of four Senate seats
+  to win the Senate majority — an uphill climb because many of the most competitive
+  races are in historically red states — and three House seats to win the House majority,
+  with one or two seats able to tip the balance in either chamber.
+nut_graf: The election will determine whether Republicans retain control of Congress
+  during the final two years of Trump's second term, with Democratic control of either
+  chamber opening avenues for investigations and possible impeachments. Associated
+  Press-NORC polling provides evidence of voter sentiment, while turnout, voter concerns
+  and campaign spending are factors affecting the contest. The election also could
+  affect presidential ambitions and Democrats' effort to win a majority of statehouses
+  for the first time in two decades.
 primary_entities:
 - United States
 - Donald Trump
@@ -44,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,7 +165,7 @@ related_stories:
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8142
+  strength: 0.8143
 - slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
   headline: Early voting passes 50.5 million with three days to go before midterms
   publish_date: '2026-10-31'
@@ -156,94 +175,33 @@ related_stories:
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8023
+  strength: 0.8024
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7926
+  strength: 0.7914
 - slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
   headline: Early voting advances as Trump administration pressures state elections
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7759
+  strength: 0.7765
 - slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7801
+  strength: 0.7805
 - slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
   headline: Early ballots pass 43 million as US midterms approach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8
-- slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
-  headline: Voters in 36 states choose governors as Democrats pursue a majority
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7619
+  strength: 0.8004
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8243
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8054
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7696
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7876
-- slug: 2026-10-30-early-voting-passes-43-million-nearly-10-million-more-than-2022
-  headline: Early voting passes 43 million, nearly 10 million more than 2022
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7657
-- slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
-  headline: Trump puts his political brand at the center of the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7757
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.8242
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8137
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.8155
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8045
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8009
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7979
+  strength: 0.8252
 ---
-
 ## More than 57 million people have cast ballots as 2026 midterms reach voting day
 
 **Subtype:** fact
