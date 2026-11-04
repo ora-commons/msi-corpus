@@ -1,9 +1,21 @@
 ---
-headline: Shefali Aurora says officials denied Satanic Temple event over religious viewpoint
-secondary_headline: Kim Reynolds said a 2023 Satanic Temple display was “absolutely objectionable”
+headline: Shefali Aurora says officials denied Satanic Temple event over religious
+  viewpoint
+secondary_headline: Kim Reynolds said a 2023 Satanic Temple display was “absolutely
+  objectionable”
 publish_date: '2026-11-03'
-lede: Shefali Aurora, an ACLU of Iowa staff attorney, said state officials denied the Satanic Temple permission to hold events in the Capitol rotunda because they disagreed with the group’s religious viewpoint. In a statement on Chief District Judge Stephanie M Rose’s order, Aurora said government cannot restrict speech in that way, favor one religion over another or discriminate against religious groups that do not agree with them. Rose directed the Iowa Department of Administrative Services to approve the group’s holiday-event application within seven days and found the Satanic Temple likely to succeed on its free-speech claim.
-nut_graf: Aurora’s statement came as Rose rejected officials’ concerns about Krampus costumes and costume sticks as grounds for denying the entire event. According to the attorney general’s office, state Republicans intend to appeal, but the order leaves the seven-day approval deadline in place.
+lede: Shefali Aurora, an ACLU of Iowa staff attorney, said state officials denied
+  the Satanic Temple permission to hold events in the Capitol rotunda because they
+  disagreed with the group’s religious viewpoint. In a statement on Chief District
+  Judge Stephanie M Rose’s order, Aurora said government cannot restrict speech in
+  that way, favor one religion over another or discriminate against religious groups
+  that do not agree with them. Rose directed the Iowa Department of Administrative
+  Services to approve the group’s holiday-event application within seven days and
+  found the Satanic Temple likely to succeed on its free-speech claim.
+nut_graf: Aurora’s statement came as Rose rejected officials’ concerns about Krampus
+  costumes and costume sticks as grounds for denying the entire event. According to
+  the attorney general’s office, state Republicans intend to appeal, but the order
+  leaves the seven-day approval deadline in place.
 primary_entities:
 - Shefali Aurora
 - ACLU of Iowa
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +160,12 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-02-judge-stephanie-m-rose-orders-approval-of-satanic-temple-event-at-iowa-capitol
-  headline: Judge Stephanie M. Rose orders approval of Satanic Temple event at Iowa Capitol
+  headline: Judge Stephanie M. Rose orders approval of Satanic Temple event at Iowa
+    Capitol
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8738
-- slug: 2026-10-29-alleged-aurora-temple-plot-spurs-security-talks-as-hindus-mark-navaratri
-  headline: Alleged Aurora temple plot spurs security talks as Hindus mark Navaratri
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6287
-- slug: 2026-10-15-illinois-teenager-charged-in-alleged-plot-to-attack-hindu-temple-near-chicago
-  headline: Illinois teenager charged in alleged plot to attack Hindu temple near Chicago
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5886
-- slug: 2026-09-29-federal-judge-allows-ben-gamla-religious-charter-school-suit-to-proceed
-  headline: Federal judge allows Ben Gamla religious charter school suit to proceed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5898
-- slug: 2026-09-25-kirk-family-rejects-uvu-report-s-no-bad-faith-finding-plans-wrongful-death-suit
-  headline: Kirk family rejects UVU report's no-bad-faith finding, plans wrongful-death suit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5722
-- slug: 2026-09-02-orlando-officials-condemn-antisemitic-slurs-at-kia-center-mma-event
-  headline: Orlando officials condemn antisemitic slurs at Kia Center MMA event
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5738
-- slug: 2026-05-27-states-criminalize-worship-service-disruptions-after-minnesota-church-protest
-  headline: States criminalize worship service disruptions after Minnesota church protest
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6
-- slug: 2026-05-27-new-york-governor-signs-law-criminalizing-blocking-entry-to-houses-of-worship
-  headline: New York governor signs law criminalizing blocking entry to houses of worship
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5861
-- slug: 2026-05-18-judge-refuses-to-block-dhs-policy-on-congressional-ice-visits
-  headline: Judge refuses to block DHS policy on Congressional ICE visits
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5737
-- slug: 2026-03-24-montana-reverses-ban-on-most-weekend-capitol-rallies-after-review
-  headline: Montana reverses ban on most weekend Capitol rallies after review
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5883
-- slug: 2026-05-10-trump-religious-liberty-commission-s-wish-list-includes-scrapping-church-state-s
-  headline: Trump religious liberty commission's wish list includes scrapping church-state separation
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5719
-- slug: 2026-05-15-trump-administration-joins-prayer-gathering-denounced-as-christian-nationalism
-  headline: Trump administration joins prayer gathering denounced as Christian nationalism
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5684
-- slug: 2026-05-15-trump-administration-to-join-rededicate-250-prayer-event-on-national-mall
-  headline: Trump administration to join “Rededicate 250” prayer event on National Mall
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5678
-- slug: 2026-04-07-iowa-appeals-court-lets-state-enforce-k-6-lgbtq-book-ban-curbs-instruction
-  headline: Iowa appeals court lets state enforce K-6 LGBTQ book ban, curbs instruction
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.578
-- slug: 2026-05-09-trump-religious-freedom-panel-calls-for-end-to-church-state-separation-sweeping-
-  headline: Trump religious freedom panel calls for end to church-state separation, sweeping exemptions
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5678
-- slug: 2026-04-24-emory-professors-sue-after-arrests-at-israel-hamas-protest
-  headline: Emory professors sue after arrests at Israel-Hamas protest
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5706
-- slug: 2026-02-23-as-antisemitism-rises-josh-shapiro-leans-on-jewish-faith
-  headline: As antisemitism rises, Josh Shapiro leans on Jewish faith
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.5801
-- slug: 2026-04-01-israeli-police-block-palm-sunday-mass-for-top-catholic-leaders-at-holy-sepulchre
-  headline: Israeli police block Palm Sunday Mass for top Catholic leaders at Holy Sepulchre
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5726
-- slug: 2026-04-20-supreme-court-takes-up-catholic-preschool-funding-case
-  headline: Supreme Court takes up Catholic preschool funding case
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5678
-- slug: 2026-01-19-protesters-disrupt-st-paul-church-service-doj-opens-face-act-investigation
-  headline: Protesters disrupt St. Paul church service; DOJ opens FACE Act investigation
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.5797
+  strength: 0.8749
 ---
-
 ## Shefali Aurora says officials denied Satanic Temple event over religious viewpoint
 
 **Subtype:** fact

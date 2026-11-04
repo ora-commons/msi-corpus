@@ -1,9 +1,22 @@
 ---
 headline: Medical debt relief grows as US healthcare costs remain unaffordable
-secondary_headline: KFF estimated $220 billion in medical debt in 2024 as nonprofit relief accelerated
+secondary_headline: KFF estimated $220 billion in medical debt in 2024 as nonprofit
+  relief accelerated
 publish_date: '2026-11-03'
-lede: 'Medical-debt relief has accelerated in the United States this year, and some of the millions of Americans who collectively owe billions of dollars for medical expenses have had their debt forgiven in recent years. Undue Medical Debt states that it has provided $53.3 billion in medical-debt relief, with about half provided this year, while KFF estimated that people owed at least $220 billion in medical debt in 2024. Experts say the relief covers only a small fraction of the outstanding balance and does not solve the fundamental problem: people get into serious financial trouble because they cannot afford the healthcare they need.'
-nut_graf: Undue Medical Debt states that it has provided $53.3 billion in medical-debt relief, with about half provided this year, while advocates describe such assistance as a stopgap and states expand financial-assistance rules. People without insurance can face extremely high charges, and insured patients may still struggle with high deductibles and cost-sharing, leaving medical debt tied to broader affordability and coverage problems.
+lede: 'Medical-debt relief has accelerated in the United States this year, and some
+  of the millions of Americans who collectively owe billions of dollars for medical
+  expenses have had their debt forgiven in recent years. Undue Medical Debt states
+  that it has provided $53.3 billion in medical-debt relief, with about half provided
+  this year, while KFF estimated that people owed at least $220 billion in medical
+  debt in 2024. Experts say the relief covers only a small fraction of the outstanding
+  balance and does not solve the fundamental problem: people get into serious financial
+  trouble because they cannot afford the healthcare they need.'
+nut_graf: Undue Medical Debt states that it has provided $53.3 billion in medical-debt
+  relief, with about half provided this year, while advocates describe such assistance
+  as a stopgap and states expand financial-assistance rules. People without insurance
+  can face extremely high charges, and insured patients may still struggle with high
+  deductibles and cost-sharing, leaving medical debt tied to broader affordability
+  and coverage problems.
 primary_entities:
 - United States
 - Undue Medical Debt
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +163,44 @@ related_stories:
   headline: KFF finds family health insurance premiums average $28,000
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.704
-- slug: 2026-10-31-healthcare-costs-strain-older-americans-finances-ahead-of-midterm-elections
-  headline: Healthcare costs strain older Americans' finances ahead of midterm elections
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6406
-- slug: 2026-10-22-small-business-workers-pay-more-as-employer-health-premiums-climb
-  headline: Small-business workers pay more as employer health premiums climb
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6381
-- slug: 2026-10-22-prosecutors-charge-15-in-southern-california-healthcare-fraud-case
-  headline: Prosecutors charge 15 over alleged healthcare fraud in Southern California
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6378
+  strength: 0.7024
 - slug: 2026-10-12-ai-billing-tools-expand-into-growing-us-medical-debt
   headline: AI billing tools expand into growing US medical debt
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.686
-- slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.649
+  strength: 0.6856
 - slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
   headline: KFF poll finds Medicare for All support at decade high
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6543
-- slug: 2026-10-04-el-sayed-rallies-1-500-nurses-behind-medicare-for-all-in-san-francisco
-  headline: El-Sayed rallies 1,500 nurses behind Medicare for All in San Francisco
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6371
+  strength: 0.6532
 - slug: 2026-09-14-house-democrats-introduce-bill-to-ban-medical-debt-wage-garnishment
   headline: House Democrats introduce bill to ban medical-debt wage garnishment
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6881
-- slug: 2026-09-16-federal-data-flags-500-colleges-with-student-loan-nonpayment-at-40-or-higher
-  headline: Federal data flags 500 colleges with student loan nonpayment at 40% or higher
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.632
-- slug: 2026-08-12-us-consumers-take-out-record-211-billion-in-auto-loans-fed-report-shows
-  headline: US consumers take out record $211 billion in auto loans, Fed report shows
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6399
-- slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
-  headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6436
-- slug: 2026-07-20-student-loan-defaults-jump-by-4-2-million-after-pandemic-pause
-  headline: Student loan defaults jump by 4.2 million after pandemic pause
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6393
+  strength: 0.6888
 - slug: 2026-06-18-poll-finds-only-half-of-americans-can-afford-quality-health-care
   headline: Poll finds only half of Americans can afford quality health care
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6692
-- slug: 2026-07-22-progressive-democrats-hold-medicare-for-all-hearing-as-uninsured-ranks-grow
-  headline: Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6304
+  strength: 0.6686
 - slug: 2026-06-13-u-s-credit-card-delinquency-nears-2008-peak-amid-lighter-debt-burden
   headline: U.S. credit card delinquency nears 2008 peak amid lighter debt burden
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.6656
+  strength: 0.6639
 - slug: 2026-01-08-medical-bills-top-crowdfunding-causes-as-poll-finds-americans-skeptical-of-fees-
-  headline: Medical bills top crowdfunding causes as poll finds Americans skeptical of fees, need
+  headline: Medical bills top crowdfunding causes as poll finds Americans skeptical
+    of fees, need
   publish_date: '2026-01-08'
   relation: related
   strength: 0.6916
-- slug: 2026-07-08-aca-insurers-seek-14-median-premium-increase-for-2027
-  headline: ACA insurers seek 14% median premium increase for 2027
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6307
 - slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
   headline: ACA enrollment projected to drop by nearly 5 million as costs spike
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.658
-- slug: 2026-06-01-courtney-e-martin-outlines-policy-paths-for-u-s-elder-care-crisis-as-baby-boomer
-  headline: Courtney E. Martin outlines policy paths for U.S. elder care crisis as baby boomers age
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6406
+  strength: 0.6568
 ---
-
 ## Medical debt relief grows as US healthcare costs remain unaffordable
 
 **Subtype:** fact

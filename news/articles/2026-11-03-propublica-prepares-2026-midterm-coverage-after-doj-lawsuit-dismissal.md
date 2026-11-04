@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-11-01'
   relation: related
   strength: 0.6724
+analyses:
+- '2026-11-03-federal-checks-interrupt-election-pressure-points-while-monitoring-exposes-unres'
 ---
 ## ProPublica prepares 2026 midterm coverage after DOJ lawsuit dismissal
 
@@ -265,3 +267,8 @@ Stephen Engelberg, ProPublica's editor in chief and founding managing editor fro
 **Publication date:** 2026-11-03
 **Title:** We Can’t Predict What Will Happen on Election Day. But We’ll Be Here to Cover It.
 **URL:** https://www.propublica.org/article/propublica-approach-2026-midterm-elections
+
+---
+
+<!-- analysis-link:2026-11-03-federal-checks-interrupt-election-pressure-points-while-monitoring-exposes-unres -->
+**Going deeper:** [Read MSI's analysis of election-system pressure points and response capacity →](/analyses/2026-11-03-federal-checks-interrupt-election-pressure-points-while-monitoring-exposes-unres)

@@ -2,8 +2,16 @@
 headline: Study links Louisiana pollution hotspots to higher infant heart defect odds
 secondary_headline: Researchers analyzed 454 infants and exposure to 20 toxins
 publish_date: '2026-11-03'
-lede: A study in the Environmental Health journal found that infants whose mothers lived in southeast Louisiana’s highest industrial-pollution areas had 4.3 times the odds of congenital heart defects compared with infants from low-pollution areas. Researchers reached the finding by reviewing medical records for 454 infants hospitalized at two major Louisiana hospitals that provide surgery for heart defects in babies.
-nut_graf: The research links maternal industrial-pollution exposure to infant health in a state with among the highest rates of infant mortality and industrial emissions in the US. It also identifies early pregnancy as a critical developmental window and centers the health burden on children born with severe heart defects who may need lifelong specialized care.
+lede: A study in the Environmental Health journal found that infants whose mothers
+  lived in southeast Louisiana’s highest industrial-pollution areas had 4.3 times
+  the odds of congenital heart defects compared with infants from low-pollution areas.
+  Researchers reached the finding by reviewing medical records for 454 infants hospitalized
+  at two major Louisiana hospitals that provide surgery for heart defects in babies.
+nut_graf: The research links maternal industrial-pollution exposure to infant health
+  in a state with among the highest rates of infant mortality and industrial emissions
+  in the US. It also identifies early pregnancy as a critical developmental window
+  and centers the health burden on children born with severe heart defects who may
+  need lifelong specialized care.
 primary_entities:
 - Kelly Gajewski
 - Kimberly Terrell
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6351
-- slug: 2026-10-28-study-finds-7-million-exposed-to-high-lead-levels-in-los-angeles-fire-smoke
-  headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6217
-- slug: 2026-09-15-study-finds-pollution-spiked-after-state-department-ended-embassy-monitoring
-  headline: Study finds pollution spiked after State Department ended embassy monitoring
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6025
-- slug: 2026-09-18-study-23-million-younger-veterans-carry-pfas-13-24-higher-than-non-veterans
-  headline: 'Study: 23 million younger veterans carry PFAS 13%–24% higher than non-veterans'
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5881
 - slug: 2026-07-06-study-links-air-pollution-to-childhood-obesity-through-impulse-control
   headline: Study links air pollution to childhood obesity through impulse control
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.6794
+  strength: 0.6796
 - slug: 2026-06-29-road-pollution-linked-to-41-800-premature-u-s-deaths-in-2024-study-finds
   headline: Road pollution linked to 41,800 premature U.S. deaths in 2024, study finds
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.66
-- slug: 2026-07-20-louisiana-communities-lack-public-air-monitoring-near-industrial-plants
-  headline: Louisiana communities lack public air monitoring near industrial plants
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6341
-- slug: 2026-07-29-cdc-study-finds-invasive-mold-infections-kill-roughly-a-third-of-hospitalized-pa
-  headline: CDC study finds invasive mold infections kill roughly a third of hospitalized patients
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.5985
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6473
-- slug: 2026-04-30-new-fda-study-confirms-safety-of-us-infant-formula
-  headline: New FDA study confirms safety of US infant formula
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6275
-- slug: 2026-06-14-study-finds-hormone-disrupting-chemicals-in-us-breast-milk-samples
-  headline: Study finds hormone-disrupting chemicals in US breast milk samples
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5976
-- slug: 2026-04-01-things-to-know-if-you-re-thinking-of-pregnancy-later-in-life
-  headline: Things to know if you’re thinking of pregnancy later in life
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6199
-- slug: 2026-04-16-health-effects-tied-to-toxic-hydrogen-sulfide-from-tijuana-river-sewage
-  headline: Health effects tied to toxic hydrogen sulfide from Tijuana River sewage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6129
-- slug: 2026-06-09-pacoima-residents-fight-hazardous-air-with-hyperlocal-sensor-network
-  headline: Pacoima residents fight hazardous air with hyperlocal sensor network
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5886
-- slug: 2026-02-05-new-study-links-wildfire-smoke-pollution-to-about-24-100-u-s-deaths-a-year
-  headline: New study links wildfire smoke pollution to about 24,100 U.S. deaths a year
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6162
-- slug: 2026-03-31-about-100-superfund-sites-are-vulnerable-to-flooding-storms-wildfires
-  headline: About 100 Superfund sites are vulnerable to flooding, storms, wildfires
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6033
-- slug: 2026-02-19-trump-s-epa-climate-health-rollback-likely-hits-vulnerable-communities-hardest
-  headline: Trump’s EPA climate health rollback likely hits vulnerable communities hardest
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6049
-- slug: 2026-01-28-california-pollution-rules-years-late-still-insufficient-for-vulnerable-towns
-  headline: California pollution rules, years late, still insufficient for vulnerable towns
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6059
-- slug: 2026-02-19-us-prenatal-care-declines-especially-for-black-mothers
-  headline: US prenatal care declines, especially for Black mothers
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6018
-- slug: 2026-01-28-botulism-bacteria-found-in-milk-powder-linked-to-byheart-formula-outbreak
-  headline: Botulism bacteria found in milk powder linked to ByHeart formula outbreak
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6036
+  strength: 0.6627
 ---
-
 ## Study links Louisiana pollution hotspots to higher infant heart defect odds
 
 **Subtype:** fact

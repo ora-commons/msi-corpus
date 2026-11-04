@@ -2,8 +2,15 @@
 headline: Russia’s bombing of a school hosting aid in Ukraine kills at least 31
 secondary_headline: Trilateral talks in Abu Dhabi are scheduled after the latest strikes
 publish_date: '2026-11-03'
-lede: A Russian airstrike hit a school serving as an aid center in southern Ukraine on Monday, killing at least 31 people and leaving nearly 50 missing, local authorities said. A separate Russian missile strike injured 73 people at a hospital in Kharkiv on Tuesday, while strike damage shut three power plants and caused power cuts across most Ukrainian regions.
-nut_graf: The attack occurred during a broader Russian campaign against civilian and energy infrastructure and ahead of renewed three-way negotiations. The reported toll centered on people seeking humanitarian assistance, while the scheduled talks are set to address de-escalation, humanitarian efforts and postwar security arrangements.
+lede: A Russian airstrike hit a school serving as an aid center in southern Ukraine
+  on Monday, killing at least 31 people and leaving nearly 50 missing, local authorities
+  said. A separate Russian missile strike injured 73 people at a hospital in Kharkiv
+  on Tuesday, while strike damage shut three power plants and caused power cuts across
+  most Ukrainian regions.
+nut_graf: The attack occurred during a broader Russian campaign against civilian and
+  energy infrastructure and ahead of renewed three-way negotiations. The reported
+  toll centered on people seeking humanitarian assistance, while the scheduled talks
+  are set to address de-escalation, humanitarian efforts and postwar security arrangements.
 primary_entities:
 - Russia
 - Ukraine
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +155,58 @@ related_stories:
   headline: Rescuers search destroyed aid facility and shelter in Komyushuvakha
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8579
+  strength: 0.8568
 - slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8063
+  strength: 0.8036
 - slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
+  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral
+    talks
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7801
+  strength: 0.7791
 - slug: 2026-10-10-russian-attacks-kill-at-least-19-across-ukraine-overnight
   headline: Russian attacks kill at least 19 across Ukraine overnight
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8066
+  strength: 0.805
 - slug: 2026-09-11-russian-strikes-kill-five-in-pavlohrad-ukrainian-officials-say
   headline: Russian strikes kill five in Pavlohrad, Ukrainian officials say
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7822
+  strength: 0.7789
 - slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
   headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7939
+  strength: 0.7931
 - slug: 2026-08-01-russian-missiles-kill-nine-in-kyiv-ukraine-cites-air-defense-shortage
   headline: Russian missiles kill nine in Kyiv, Ukraine cites air defense shortage
   publish_date: '2026-08-01'
   relation: related
-  strength: 0.7771
+  strength: 0.775
 - slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
   headline: Russian strikes on Kyiv kill at least 13, wound dozens
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7968
-- slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7894
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.8016
-- slug: 2026-06-02-russia-kills-18-in-third-massive-kyiv-attack-in-three-weeks-as-front-stalls
-  headline: Russia kills 18 in third massive Kyiv attack in three weeks as front stalls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7865
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7954
-- slug: 2026-05-16-death-toll-rises-to-24-after-russian-missile-hits-kyiv-apartment-building
-  headline: Death toll rises to 24 after Russian missile hits Kyiv apartment building
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7871
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7868
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7841
-- slug: 2026-03-15-russian-strike-on-kyiv-region-kills-at-least-4-people
-  headline: Russian strike on Kyiv region kills at least 4 people
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7908
-- slug: 2026-05-16-ukrainian-drones-strike-russia-killing-4-and-wounding-a-dozen-officials-say
-  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7704
-- slug: 2026-02-13-russia-launches-barrage-of-missiles-and-drones-in-ukraine-as-talks-stall
-  headline: Russia launches barrage of missiles and drones in Ukraine as talks stall
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7897
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7628
-- slug: 2026-03-22-russia-and-ukraine-trade-deadly-attacks-ahead-of-u-s-talks-on-peace
-  headline: Russia and Ukraine trade deadly attacks ahead of U.S. talks on peace
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7718
+  strength: 0.7947
 image:
   url: /articles/2026-11-03-russia-s-bombing-of-a-school-hosting-aid-in-ukraine-kills-at-least-31.png
-  alt: "Illustration accompanying article: Russia’s bombing of a school hosting aid in Ukraine kills at least 31"
+  alt: 'Illustration accompanying article: Russia’s bombing of a school hosting aid
+    in Ukraine kills at least 31'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Russia’s bombing of a school hosting aid in Ukraine kills at least 31
 
 **Subtype:** fact
