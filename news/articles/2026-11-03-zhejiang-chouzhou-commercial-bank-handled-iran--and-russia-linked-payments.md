@@ -1,9 +1,20 @@
 ---
 headline: Zhejiang Chouzhou Commercial Bank handled Iran- and Russia-linked payments
-secondary_headline: U.S. officials withheld sanctions over China ties and financial-system risks
+secondary_headline: U.S. officials withheld sanctions over China ties and financial-system
+  risks
 publish_date: '2026-11-03'
-lede: Zhejiang Chouzhou Commercial Bank served as a key conduit for payments tied to Iran and Russia that funded Chinese purchases in apparent violations of Western sanctions, according to former U.S. officials and documents reviewed by The Wall Street Journal. U.S. officials flagged the bank during the Biden and Trump administrations but stopped short of sanctions, saying Washington could not determine whether management knew the funds’ origins. ZCCB said it complies with applicable laws and has launched internal investigations.
-nut_graf: 'The findings show how U.S. sanctions depend on access to the dollar system while remaining sensitive to the potential diplomatic and financial effects of penalizing Chinese banks. They also leave an important question unresolved: the documents establish ZCCB’s role in payment channels linked to sanctioned parties, but not whether its management knew the funds involved those parties.'
+lede: Zhejiang Chouzhou Commercial Bank served as a key conduit for payments tied
+  to Iran and Russia that funded Chinese purchases in apparent violations of Western
+  sanctions, according to former U.S. officials and documents reviewed by The Wall
+  Street Journal. U.S. officials flagged the bank during the Biden and Trump administrations
+  but stopped short of sanctions, saying Washington could not determine whether management
+  knew the funds’ origins. ZCCB said it complies with applicable laws and has launched
+  internal investigations.
+nut_graf: 'The findings show how U.S. sanctions depend on access to the dollar system
+  while remaining sensitive to the potential diplomatic and financial effects of penalizing
+  Chinese banks. They also leave an important question unresolved: the documents establish
+  ZCCB’s role in payment channels linked to sanctioned parties, but not whether its
+  management knew the funds involved those parties.'
 primary_entities:
 - Zhejiang Chouzhou Commercial Bank
 - United States
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +150,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-24-icc-deputy-prosecutor-reports-staff-banking-problems-amid-us-sanctions
-  headline: ICC deputy prosecutor reports staff banking problems amid US sanctions
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6346
 - slug: 2026-10-14-us-treasury-fines-bank-of-america-1-21-billion-for-compliance-failures
   headline: US Treasury fines Bank of America $1.21 billion for compliance failures
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.662
+  strength: 0.6617
 - slug: 2026-10-13-bank-of-america-hit-with-1-21-billion-in-penalties-from-fincen-occ-and-ofac
-  headline: Bank of America hit with $1.21 billion in penalties from FinCEN, OCC and OFAC
+  headline: Bank of America hit with $1.21 billion in penalties from FinCEN, OCC and
+    OFAC
   publish_date: '2026-10-13'
   relation: related
   strength: 0.6631
-- slug: 2026-10-14-treasury-fines-bank-of-america-1-21-billion-for-money-laundering-failures
-  headline: Treasury fines Bank of America $1.21 billion for money-laundering failures
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6384
-- slug: 2026-10-09-internal-binance-report-details-850-million-irgc-sanctions-evasion-network
-  headline: Internal Binance report details $850 million IRGC sanctions-evasion network
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6338
 - slug: 2026-09-24-iranian-customs-data-show-1-300-chinese-dual-use-shipments-to-defense-ministry
-  headline: Iranian customs data show 1,300 Chinese dual-use shipments to defense ministry
+  headline: Iranian customs data show 1,300 Chinese dual-use shipments to defense
+    ministry
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6556
-- slug: 2026-09-28-senate-report-finds-iran-used-tether-s-stablecoin-to-bypass-us-sanctions
-  headline: Senate report finds Iran used Tether's stablecoin to bypass US sanctions
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6401
+  strength: 0.654
 - slug: 2026-09-15-us-blacklists-russia-s-vtb-bank-over-alleged-iran-sanctions-evasion
   headline: US blacklists Russia's VTB Bank over alleged Iran sanctions evasion
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6672
+  strength: 0.6669
 - slug: 2026-09-08-iranian-money-still-passes-through-us-bank-clearing-accounts-officials-say
-  headline: Iranian money still passes through US bank clearing accounts, officials say
+  headline: Iranian money still passes through US bank clearing accounts, officials
+    say
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6854
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6455
+  strength: 0.6846
 - slug: 2026-09-06-9-billion-in-iranian-funds-moved-through-us-banks-in-2024-treasury-finds
   headline: $9 billion in Iranian funds moved through US banks in 2024, Treasury finds
   publish_date: '2026-09-06'
   relation: related
-  strength: 0.6637
-- slug: 2026-08-26-trump-s-iran-sanctions-face-china-caveat-ahead-of-xi-summit
-  headline: Trump's Iran sanctions face China caveat ahead of Xi summit
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6428
-- slug: 2026-08-19-uae-suspends-iran-financial-transactions-under-us-pressure
-  headline: UAE suspends Iran financial transactions under US pressure
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6467
+  strength: 0.6621
 - slug: 2026-06-24-china-s-yuan-infrastructure-weakens-us-sanctions-power
   headline: China’s yuan infrastructure weakens US sanctions power
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.7152
-- slug: 2026-08-20-treasury-sanctions-yunus-alper-yilmaz-at-center-of-hezbollah-courier-network
-  headline: Treasury sanctions Yunus Alper Yilmaz at center of Hezbollah courier network
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6341
+  strength: 0.7156
 - slug: 2026-06-21-us-sanctions-on-iran-fail-to-force-compliance-as-tehran-finds-workarounds
   headline: US sanctions on Iran fail to force compliance as Tehran finds workarounds
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.6956
-- slug: 2026-07-24-fang-xinghai-probe-signals-shrinking-space-for-market-reformers
-  headline: Fang Xinghai probe signals shrinking space for market reformers
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6428
-- slug: 2026-07-19-ouyang-weimin-placed-under-investigation-by-china-s-top-anti-graft-watchdog
-  headline: Ouyang Weimin placed under investigation by China's top anti-graft watchdog
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6357
-- slug: 2026-07-08-iraq-agrees-to-new-controls-on-dollar-flows-in-exchange-for-u-s-cash-shipments
-  headline: Iraq agrees to new controls on dollar flows in exchange for U.S. cash shipments
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6464
-- slug: 2026-05-10-treasury-tells-us-banks-to-flag-suspected-iranian-money-laundering-networks
-  headline: Treasury tells US banks to flag suspected Iranian money laundering networks
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6827
+  strength: 0.6946
 ---
-
 ## Zhejiang Chouzhou Commercial Bank handled Iran- and Russia-linked payments
 
 **Subtype:** fact

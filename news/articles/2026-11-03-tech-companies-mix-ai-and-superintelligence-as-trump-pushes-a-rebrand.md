@@ -1,9 +1,19 @@
 ---
 headline: Tech companies mix AI and 'superintelligence' as Trump pushes a rebrand
-secondary_headline: Five of 119 S&P 500 companies discussing AI used the White House's preferred term
+secondary_headline: Five of 119 S&P 500 companies discussing AI used the White House's
+  preferred term
 publish_date: '2026-11-03'
-lede: President Trump has promoted “superintelligence” over “artificial intelligence,” and technology companies are responding with mixed language across corporate materials and public remarks. A Wall Street Journal analysis found that five of 119 S&P 500 companies discussing the technology on investor calls, securities filings or news releases used some variation of “superintelligence.” The limited adoption left “AI” in place as the general term in many corporate and technical settings.
-nut_graf: 'The naming campaign reaches companies that have staked their fortunes, and in some cases their names, on AI, making adoption more difficult than renaming a body of water or a mountain in Alaska. The corporate response is selective: some products and statements use “superintelligence,” while many references remain “AI,” a term that already serves as the general label for the technology.'
+lede: President Trump has promoted “superintelligence” over “artificial intelligence,”
+  and technology companies are responding with mixed language across corporate materials
+  and public remarks. A Wall Street Journal analysis found that five of 119 S&P 500
+  companies discussing the technology on investor calls, securities filings or news
+  releases used some variation of “superintelligence.” The limited adoption left “AI”
+  in place as the general term in many corporate and technical settings.
+nut_graf: 'The naming campaign reaches companies that have staked their fortunes,
+  and in some cases their names, on AI, making adoption more difficult than renaming
+  a body of water or a mountain in Alaska. The corporate response is selective: some
+  products and statements use “superintelligence,” while many references remain “AI,”
+  a term that already serves as the general label for the technology.'
 primary_entities:
 - Trump
 - The Wall Street Journal
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,29 +154,33 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-03-tech-companies-mix-ai-and-superintelligence-as-trump-pushes-a-rebrand.png
-  alt: 'Illustration accompanying article: Tech companies mix AI and ''superintelligence'' as Trump pushes a rebrand'
+  alt: 'Illustration accompanying article: Tech companies mix AI and ''superintelligence''
+    as Trump pushes a rebrand'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-05-musk-says-he-will-rename-spacexai-as-spacexsi
   headline: Musk says he will rename SpaceXAI as SpaceXSI
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7734
+  strength: 0.7739
 - slug: 2026-09-30-white-house-ai-accord-misspells-united-states-under-trump-s-signature
   headline: White House AI accord misspells 'United States' under Trump's signature
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7795
+  strength: 0.782
 - slug: 2026-09-30-tech-ceos-sign-morally-binding-ai-safety-pledge-at-white-house
   headline: Tech CEOs sign 'morally binding' AI safety pledge at White House
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7716
+  strength: 0.7718
 - slug: 2026-09-29-trump-tech-ceos-sign-morally-binding-voluntary-ai-self-policing-deal
   headline: Trump, tech CEOs sign 'morally binding' voluntary AI self-policing deal
   publish_date: '2026-09-29'
@@ -175,84 +190,23 @@ related_stories:
   headline: White House's America.gov says it is sourced via AI from official sources
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.724
+  strength: 0.7243
 - slug: 2026-10-02-trump-expected-to-name-dni-jay-clayton-as-white-house-ai-czar
   headline: Trump expected to name DNI Jay Clayton as White House AI czar
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7322
+  strength: 0.7327
 - slug: 2026-09-30-trump-ai-executives-sign-voluntary-self-policing-accord
   headline: Trump, AI executives sign voluntary self-policing accord
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7381
+  strength: 0.7382
 - slug: 2026-10-06-global-risk-advisory-council-adds-first-advisory-names-ai-top-brand-risk
   headline: Global Risk Advisory Council adds first advisory, names AI top brand risk
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7118
-- slug: 2026-09-26-trump-and-xi-agree-to-super-intelligence-dialogue-at-state-visit
-  headline: Trump and Xi agree to 'super intelligence' dialogue at state visit
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7453
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7306
-- slug: 2026-09-14-trump-calls-ai-safety-concerns-a-hoax-warns-regulation-would-aid-china
-  headline: Trump calls AI safety concerns a hoax, warns regulation would aid China
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7467
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7435
-- slug: 2026-09-19-trump-launches-ai-force-oversight-unit-recruiting-ai-czar
-  headline: Trump launches 'AI Force' oversight unit, recruiting AI czar
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7257
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7145
-- slug: 2026-09-19-trump-calls-ai-safety-fears-a-hoax-as-stocks-for-ai-companies-fall
-  headline: Trump calls AI safety fears a 'hoax' as stocks for AI companies fall
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7088
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7158
-- slug: 2026-09-17-wiles-bessent-press-trump-on-ai-guardrails-as-tech-ceos-resist-oversight
-  headline: Wiles, Bessent press Trump on AI guardrails as tech CEOs resist oversight
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7058
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7025
-- slug: 2026-09-16-bannon-sanders-share-stage-at-pro-human-ai-conference-in-washington
-  headline: Bannon, Sanders share stage at 'pro-human' AI conference in Washington
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7018
-- slug: 2026-09-14-trump-pushes-back-on-ai-guardrails-in-truth-social-post
-  headline: Trump pushes back on AI guardrails in Truth Social post
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7033
+  strength: 0.7117
 ---
-
 ## Tech companies mix AI and 'superintelligence' as Trump pushes a rebrand
 
 **Subtype:** fact

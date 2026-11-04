@@ -1,9 +1,23 @@
 ---
 headline: Widmer calls Trump's midterm rally speeches the worst in presidential history
-secondary_headline: White House gatekeepers no longer post the president's campaign speeches online
+secondary_headline: White House gatekeepers no longer post the president's campaign
+  speeches online
 publish_date: '2026-11-03'
-lede: Former White House speechwriter Ted Widmer wrote in an opinion column published by The Guardian on November 3, 2026, that President Donald Trump's midterm rally speeches were the worst ever given by a US president. Widmer, the editor of American Speeches and the author of The Living Declaration, both published by the Library of America, traced the assessment to a two-month stretch of campaign rallies that included 28 of them, with the result of the election still unknown. Widmer argued that White House vetting of presidential speech has broken down and that the campaign's language has reached a historical low.
-nut_graf: 'The essay is an argument rather than a measurement: Widmer offers his own reading of the campaign''s speeches and sets them against a selected group of earlier presidential addresses rather than documenting a new event. Its significance is institutional and personal at once. A speechwriter who worked inside the White House process argues that the fact-checking once routine in presidential addresses has broken down, and that it is now impossible to rely on anything communicated from the most powerful office in the world.'
+lede: Former White House speechwriter Ted Widmer wrote in an opinion column published
+  by The Guardian on November 3, 2026, that President Donald Trump's midterm rally
+  speeches were the worst ever given by a US president. Widmer, the editor of American
+  Speeches and the author of The Living Declaration, both published by the Library
+  of America, traced the assessment to a two-month stretch of campaign rallies that
+  included 28 of them, with the result of the election still unknown. Widmer argued
+  that White House vetting of presidential speech has broken down and that the campaign's
+  language has reached a historical low.
+nut_graf: 'The essay is an argument rather than a measurement: Widmer offers his own
+  reading of the campaign''s speeches and sets them against a selected group of earlier
+  presidential addresses rather than documenting a new event. Its significance is
+  institutional and personal at once. A speechwriter who worked inside the White House
+  process argues that the fact-checking once routine in presidential addresses has
+  broken down, and that it is now impossible to rely on anything communicated from
+  the most powerful office in the world.'
 primary_entities:
 - Donald Trump
 - Ted Widmer
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +160,43 @@ related_stories:
   headline: Trump urges voters to 'pretend I'm on the ballot' at midterm rallies
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6696
-- slug: 2026-11-02-trump-plans-lincoln-memorial-speech-as-senate-races-reach-the-wire
-  headline: Trump plans Lincoln Memorial speech as Senate races reach the wire
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6404
-- slug: 2026-11-01-trump-schedules-closing-midterm-speech-at-reflecting-pool
-  headline: Trump schedules closing midterm speech at Reflecting Pool
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6398
+  strength: 0.6678
 - slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
   headline: Trump puts his political brand at the center of the 2026 midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6612
+  strength: 0.6601
 - slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
   headline: Trump holds seven rallies across seven states during midterm push
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6628
-- slug: 2026-10-23-trump-comments-on-candidates-looks-during-midterm-rallies
-  headline: Trump comments on candidates' looks during midterm rallies
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6406
+  strength: 0.6618
 - slug: 2026-10-07-widmer-labels-trump-take-out-rally-speech-irresponsible
   headline: Widmer labels Trump 'take out' rally speech irresponsible
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7048
+  strength: 0.7031
 - slug: 2026-09-22-widmer-trump-un-speech-was-hollow-and-short-on-ideas
   headline: 'Widmer: Trump UN speech was ''hollow'' and ''short on ideas'''
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7287
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6528
+  strength: 0.7262
 - slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
   headline: Trump launches 32-day midterm rally blitz through GOP strongholds
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6657
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6456
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6467
-- slug: 2026-09-10-guardian-column-frames-trump-dallas-speech-as-desperate-last-pitch-to-voters
-  headline: Guardian column frames Trump Dallas speech as 'desperate last pitch' to voters
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6493
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6443
+  strength: 0.6646
 - slug: 2026-08-31-trump-describes-post-presidency-life-in-recent-speeches
   headline: Trump describes post-presidency life in recent speeches
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6566
-- slug: 2026-09-03-trump-ranks-himself-greatest-president-historians-rank-him-last
-  headline: Trump ranks himself greatest president; historians rank him last
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6372
+  strength: 0.6577
 - slug: 2026-07-17-trump-claims-election-system-so-broken-no-one-can-defend-it
   headline: Trump claims election system 'so broken no one can defend it'
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6843
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6482
-- slug: 2026-07-17-trump-uses-prime-time-speech-to-allege-election-system-compromised
-  headline: Trump uses prime-time speech to allege election system compromised
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6466
-- slug: 2026-07-17-networks-diverge-on-carrying-trump-speech-live
-  headline: Networks diverge on carrying Trump speech live
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6385
+  strength: 0.683
 ---
-
 ## Widmer calls Trump's midterm rally speeches the worst in presidential history
 
 **Subtype:** fact
