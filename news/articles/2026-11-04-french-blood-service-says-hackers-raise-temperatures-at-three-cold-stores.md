@@ -1,9 +1,19 @@
 ---
 headline: French blood service says hackers raise temperatures at three cold stores
-secondary_headline: EFS says temperature and defrosting thresholds were very high; alarms enabled intervention
+secondary_headline: EFS says temperature and defrosting thresholds were very high;
+  alarms enabled intervention
 publish_date: '2026-11-04'
-lede: The EFS said hackers accessed control systems at three cold stores run by its contractors and boosted temperatures at the sites stocking vital blood products. The EFS said the temperature and defrosting thresholds at the three affected cold stores had been raised to “very high levels” in the attack. The French public blood service said alarm systems had allowed technicians to intervene before the products were compromised. The attacks occurred overnight on Monday.
-nut_graf: The affected rooms held plasma bags for transfusions and medicine-manufacturing material; products stored there had been moved to other sites. The incident came amid refrigeration disruptions across almost a dozen European countries; no motive was known, no one had claimed responsibility, and EU agencies were discussing a collective response.
+lede: The EFS said hackers accessed control systems at three cold stores run by its
+  contractors and boosted temperatures at the sites stocking vital blood products.
+  The EFS said the temperature and defrosting thresholds at the three affected cold
+  stores had been raised to “very high levels” in the attack. The French public blood
+  service said alarm systems had allowed technicians to intervene before the products
+  were compromised. The attacks occurred overnight on Monday.
+nut_graf: The affected rooms held plasma bags for transfusions and medicine-manufacturing
+  material; products stored there had been moved to other sites. The incident came
+  amid refrigeration disruptions across almost a dozen European countries; no motive
+  was known, no one had claimed responsibility, and EU agencies were discussing a
+  collective response.
 primary_entities:
 - EFS
 - France
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,8 @@ related_stories:
   headline: ANSSI identifies compromised controllers in European supermarket cyberattacks
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7341
-- slug: 2026-11-03-hackers-disrupt-refrigeration-systems-at-military-bases-and-stores-worldwide
-  headline: Hackers disrupt refrigeration systems at military bases and stores worldwide
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6401
-- slug: 2026-11-01-binance-says-it-has-covered-90-of-6-3bn-stolen-in-hack
-  headline: Binance says it has covered 90% of $6.3bn stolen in hack
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5739
-- slug: 2026-10-29-dhs-tells-bbc-it-is-addressing-possible-personnel-data-breach
-  headline: DHS tells BBC it is addressing possible personnel data breach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.577
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.585
-- slug: 2026-10-29-dhs-asks-icelandic-host-to-take-down-data-on-40-000-personnel
-  headline: DHS asks Icelandic host to take down data on 40,000 personnel
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5658
-- slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
-  headline: French authorities mobilize 70,000 police and soldiers ahead of expected protests
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5657
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5771
-- slug: 2026-10-06-asos-app-users-in-uk-receive-extortion-messages-claiming-snowflake-breach
-  headline: ASOS app users in UK receive extortion messages claiming Snowflake breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6179
-- slug: 2026-10-09-mod-u-s-european-command-issue-statements-after-raf-molesworth-arrests
-  headline: MOD, U.S. European Command issue statements after RAF Molesworth arrests
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5664
-- slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6066
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5854
-- slug: 2026-09-24-danish-intelligence-warns-russia-could-launch-limited-military-attack-on-nato
-  headline: Danish intelligence warns Russia could launch limited military attack on NATO
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5653
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5923
-- slug: 2026-09-07-mayors-of-paris-milan-and-phoenix-detail-heat-policies-in-joint-column
-  headline: Mayors of Paris, Milan and Phoenix detail heat policies in joint column
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5685
-- slug: 2026-09-02-europe-presses-russia-with-sanctions-ukraine-aid-after-leipzig-drone-plot
-  headline: Europe presses Russia with sanctions, Ukraine aid after Leipzig drone plot
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.572
-- slug: 2026-08-14-italian-fighter-downs-drone-in-latvian-airspace-nato-investigates
-  headline: Italian fighter downs drone in Latvian airspace, NATO investigates
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5774
-- slug: 2026-08-08-federal-agencies-investigate-cyberattacks-on-minnesota-water-systems
-  headline: Federal agencies investigate cyberattacks on Minnesota water systems
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5746
-- slug: 2026-08-05-hackers-attempted-to-breach-at-least-30-minnesota-water-systems
-  headline: Hackers attempted to breach at least 30 Minnesota water systems
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5738
-- slug: 2026-06-29-who-says-europe-heatwave-linked-to-over-1-300-excess-deaths
-  headline: WHO says Europe heatwave linked to over 1,300 excess deaths
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5984
+  strength: 0.7337
 ---
-
 ## French blood service says hackers raise temperatures at three cold stores
 
 **Subtype:** fact

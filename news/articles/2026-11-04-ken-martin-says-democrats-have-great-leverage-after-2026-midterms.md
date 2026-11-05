@@ -1,9 +1,23 @@
 ---
 headline: Ken Martin says Democrats have great leverage after 2026 midterms
-secondary_headline: Opposition to Trump helped, but Martin says voters backed a positive vision
+secondary_headline: Opposition to Trump helped, but Martin says voters backed a positive
+  vision
 publish_date: '2026-11-04'
-lede: Democratic National Committee Chairman Ken Martin told NPR's Morning Edition that the 2026 midterms gave Democrats leverage through control of Congress and state governments. Martin said Americans sent a clear message about the leaders they wanted, while also acknowledging that opposition to President Trump helped drive the results. He said voters gave Democrats a mandate to address affordability, health care and what he called a "corrupt system" benefiting wealthy Americans, and described the results as the party's best in a century. Turning that mandate into policy remained unresolved, with Trump still holding veto power.
-nut_graf: Martin said voters gave Democrats a mandate to address affordability, health care and what he called a 'corrupt system' benefiting wealthy Americans, and he pointed to Democrats' control of Congress and state governments as 'great leverage.' How Democrats turn those promises into policy remains an open question, with Trump still holding veto power. Martin also said opposition to Trump helped drive the results while voters embraced the party's message of a positive vision of what Democrats would do in power.
+lede: Democratic National Committee Chairman Ken Martin told NPR's Morning Edition
+  that the 2026 midterms gave Democrats leverage through control of Congress and state
+  governments. Martin said Americans sent a clear message about the leaders they wanted,
+  while also acknowledging that opposition to President Trump helped drive the results.
+  He said voters gave Democrats a mandate to address affordability, health care and
+  what he called a "corrupt system" benefiting wealthy Americans, and described the
+  results as the party's best in a century. Turning that mandate into policy remained
+  unresolved, with Trump still holding veto power.
+nut_graf: Martin said voters gave Democrats a mandate to address affordability, health
+  care and what he called a 'corrupt system' benefiting wealthy Americans, and he
+  pointed to Democrats' control of Congress and state governments as 'great leverage.'
+  How Democrats turn those promises into policy remains an open question, with Trump
+  still holding veto power. Martin also said opposition to Trump helped drive the
+  results while voters embraced the party's message of a positive vision of what Democrats
+  would do in power.
 primary_entities:
 - Ken Martin
 - Democratic National Committee
@@ -39,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +156,45 @@ related_stories:
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7635
+  strength: 0.7615
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7602
+  strength: 0.7604
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7322
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7266
+  strength: 0.7328
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7397
-- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
+  strength: 0.7405
+- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
+  headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7244
+  strength: 0.7262
 - slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
   headline: Hakeem Jeffries outlines affordability agenda for incoming House control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7236
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
+  strength: 0.7245
+- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
+  publish_date: '2026-11-04'
   relation: related
-  strength: 0.729
+  strength: 0.7242
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7281
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7168
-- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
-  headline: Democrats win House, control Congress for Trump's final two years
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7126
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7135
-- slug: 2026-11-04-trump-froze-appropriated-funds-and-expanded-tariff-authority-without-congress
-  headline: Trump froze appropriated funds and expanded tariff authority without Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7009
-- slug: 2026-11-03-republicans-raised-more-at-party-level-while-democratic-candidates-raised-more
-  headline: Republicans raised more at party level while Democratic candidates raised more
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7027
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7099
-- slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
-  headline: Cost of living and Trump's second-term policies shape 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6959
-- slug: 2026-10-24-economic-populism-gains-ground-as-both-parties-court-midterm-voters
-  headline: Economic populism gains ground as both parties court midterm voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6985
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.698
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7062
+  strength: 0.7288
 ---
-
 ## Ken Martin says Democrats have great leverage after 2026 midterms
 
 **Subtype:** fact
