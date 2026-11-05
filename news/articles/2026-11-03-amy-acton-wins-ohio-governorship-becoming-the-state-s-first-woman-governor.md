@@ -2,8 +2,15 @@
 headline: Amy Acton wins Ohio governorship, becoming the state's first woman governor
 secondary_headline: A GOP-majority legislature will likely limit Acton's authority
 publish_date: '2026-11-03'
-lede: Amy Acton will become Ohio's next governor after The Associated Press called the race for the former state health director on Nov. 3, 2026. Acton's victory makes her the first woman elected governor of Ohio and the first Democrat elected to lead the state in two decades.
-nut_graf: Acton defeated Republican Vivek Ramaswamy, a biotech entrepreneur backed by President Trump, in a race NPR said was defined in the final weeks by "mudslinging" and a Ramaswamy attack advertisement that drew national criticism, including criticism from some Republicans. NPR said Acton will take office in January with a GOP-majority legislature likely to severely limit her authority.
+lede: Amy Acton will become Ohio's next governor after The Associated Press called
+  the race for the former state health director on Nov. 3, 2026. Acton's victory makes
+  her the first woman elected governor of Ohio and the first Democrat elected to lead
+  the state in two decades.
+nut_graf: Acton defeated Republican Vivek Ramaswamy, a biotech entrepreneur backed
+  by President Trump, in a race NPR said was defined in the final weeks by "mudslinging"
+  and a Ramaswamy attack advertisement that drew national criticism, including criticism
+  from some Republicans. NPR said Acton will take office in January with a GOP-majority
+  legislature likely to severely limit her authority.
 primary_entities:
 - Amy Acton
 - Ohio
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,7 +155,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-03-ohio-governor-race-reaches-election-day-after-attack-ad-featuring-acton-s-mother
-  headline: Ohio governor race reaches election day after attack ad featuring Acton's mother
+  headline: Ohio governor race reaches election day after attack ad featuring Acton's
+    mother
   publish_date: '2026-11-03'
   relation: related
   strength: 0.8816
@@ -157,7 +166,8 @@ related_stories:
   relation: related
   strength: 0.7751
 - slug: 2026-10-22-acton-rejects-ramaswamy-s-use-of-her-estranged-mother-in-an-ohio-campaign-ad
-  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign ad
+  headline: Acton rejects Ramaswamy’s use of her estranged mother in an Ohio campaign
+    ad
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8079
@@ -177,7 +187,8 @@ related_stories:
   relation: related
   strength: 0.7357
 - slug: 2026-10-22-trump-urges-ramaswamy-to-keep-ad-as-ohio-governor-dewine-calls-for-its-removal
-  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its removal
+  headline: Trump urges Ramaswamy to keep ad as Ohio governor DeWine calls for its
+    removal
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7674
@@ -186,68 +197,7 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.7679
-- slug: 2026-10-22-trump-and-vance-defend-ramaswamy-ad-as-dewine-and-husted-distance-themselves
-  headline: Trump and Vance defend Ramaswamy ad as DeWine and Husted distance themselves
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7587
-- slug: 2026-10-24-trump-backs-ohio-attack-ad-doj-files-alaska-senate-certification-lawsuit
-  headline: Trump backs Ohio attack ad; DOJ files Alaska Senate certification lawsuit
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7378
-- slug: 2026-10-21-ramaswamy-takes-responsibility-for-ad-featuring-amy-acton-s-mother
-  headline: Ramaswamy takes responsibility for ad featuring Amy Acton's mother
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7534
-- slug: 2026-10-20-philip-stearns-criticizes-ramaswamy-s-ad-featuring-amy-acton-s-mother
-  headline: Philip Stearns criticizes Ramaswamy’s ad featuring Amy Acton’s mother
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7519
-- slug: 2026-10-28-trump-returns-to-ohio-as-obama-rallies-democrats-in-georgia
-  headline: Trump returns to Ohio as Obama rallies Democrats in Georgia
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6949
-- slug: 2026-10-23-ramaswamy-defends-ad-featuring-acton-s-mother-on-ohio-bus-tour
-  headline: Ramaswamy defends ad featuring Acton's mother on Ohio bus tour
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7214
-- slug: 2026-10-22-vance-calls-ramaswamy-acton-ad-biggest-controversy-in-ohio-governor-s-race
-  headline: Vance calls Ramaswamy Acton ad biggest controversy in Ohio governor's race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7129
-- slug: 2026-10-24-obama-rallies-for-acton-and-el-sayed-criticizes-trump-and-ramaswamy
-  headline: Obama rallies for Acton and El-Sayed, criticizes Trump and Ramaswamy
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6824
-- slug: 2026-09-06-armed-assailant-attacks-ohio-governor-candidate-amy-acton-at-canfield-fair
-  headline: Armed assailant attacks Ohio governor candidate Amy Acton at Canfield Fair
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.764
-- slug: 2026-09-07-armed-man-is-arrested-after-charging-at-ohio-governor-candidate-amy-acton
-  headline: Armed man is arrested after charging at Ohio governor candidate Amy Acton
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6937
-- slug: 2026-05-03-covid-19-debate-resurfaces-in-ohio-governor-race-between-amy-acton-and-vivek-ram
-  headline: COVID-19 debate resurfaces in Ohio governor race between Amy Acton and Vivek Ramaswamy
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.8384
-- slug: 2026-08-04-cook-political-report-shifts-ohio-governor-race-to-toss-up
-  headline: Cook Political Report shifts Ohio governor race to toss-up
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.701
 ---
-
 ## Amy Acton wins Ohio governorship, becoming the state's first woman governor
 
 **Subtype:** fact

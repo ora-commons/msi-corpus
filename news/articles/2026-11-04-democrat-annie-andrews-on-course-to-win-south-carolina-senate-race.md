@@ -1,9 +1,16 @@
 ---
 headline: Democrat Annie Andrews on course to win South Carolina Senate race
-secondary_headline: The projected result delivers Democrats their first statewide victory in 28 years
+secondary_headline: The projected result delivers Democrats their first statewide
+  victory in 28 years
 publish_date: '2026-11-04'
-lede: Democrat Annie Andrews, a former paediatrician, was on course to win the United States Senate seat in South Carolina on Tuesday, according to CBS, the BBC's US partner. Republican candidate Darline Graham was projected to have lost the race, which would give Democrats their first statewide victory in 28 years.
-nut_graf: Darline Graham was a political newcomer who held the seat by appointment since July, with President Donald Trump's backing, after the sudden death of her brother. A win for Andrews would hand Democrats a Senate senator from a state Donald Trump carried by 18 points in 2024.
+lede: Democrat Annie Andrews, a former paediatrician, was on course to win the United
+  States Senate seat in South Carolina on Tuesday, according to CBS, the BBC's US
+  partner. Republican candidate Darline Graham was projected to have lost the race,
+  which would give Democrats their first statewide victory in 28 years.
+nut_graf: Darline Graham was a political newcomer who held the seat by appointment
+  since July, with President Donald Trump's backing, after the sudden death of her
+  brother. A win for Andrews would hand Democrats a Senate senator from a state Donald
+  Trump carried by 18 points in 2024.
 primary_entities:
 - Annie Andrews
 - Darline Graham
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +150,45 @@ related_stories:
   headline: Annie Andrews defeats Darline Graham in South Carolina Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8777
+  strength: 0.8778
 - slug: 2026-11-03-annie-andrews-defeats-darline-graham-in-south-carolina-senate-race
   headline: Annie Andrews defeats Darline Graham in South Carolina Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8741
+  strength: 0.8747
 - slug: 2026-11-03-trump-support-may-weaken-graham-in-south-carolina-senate-race
   headline: Trump support may weaken Graham in South Carolina Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8605
+  strength: 0.86
 - slug: 2026-10-29-poll-shows-annie-andrews-and-darline-graham-tied-in-south-carolina-senate-race
-  headline: Poll shows Annie Andrews and Darline Graham tied in South Carolina Senate race
+  headline: Poll shows Annie Andrews and Darline Graham tied in South Carolina Senate
+    race
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8598
+  strength: 0.8602
 - slug: 2026-11-01-andrews-outraises-graham-some-republican-strategists-and-trump-advisers-worry
-  headline: Andrews outraises Graham; some Republican strategists and Trump advisers worry
+  headline: Andrews outraises Graham; some Republican strategists and Trump advisers
+    worry
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8128
+  strength: 0.8126
 - slug: 2026-10-29-trump-rallies-in-rock-hill-for-darline-graham-in-senate-race
   headline: Trump rallies in Rock Hill for Darline Graham in Senate race
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.778
+  strength: 0.7795
 - slug: 2026-10-26-beasley-and-hodges-back-democrat-annie-andrews-for-senate
   headline: Beasley and Hodges back Democrat Annie Andrews for Senate
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7894
+  strength: 0.7902
 - slug: 2026-10-29-trump-makes-second-visit-to-south-carolina-in-eight-days
   headline: Trump makes second visit to South Carolina in eight days
   publish_date: '2026-10-29'
   relation: related
   strength: 0.7568
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6903
-- slug: 2026-10-22-trump-rallies-graham-as-security-removes-protesters-in-south-carolina
-  headline: Trump rallies Graham as security removes protesters in South Carolina
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7134
-- slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
-  headline: Darline Graham wins South Carolina Senate runoff over Norman
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.812
-- slug: 2026-07-26-pediatrician-annie-andrews-aims-to-flip-south-carolina-senate-seat-for-democrats
-  headline: Pediatrician Annie Andrews aims to flip South Carolina Senate seat for Democrats
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.8525
-- slug: 2026-08-31-pediatrician-andrews-to-face-darline-graham-in-south-carolina-senate-race
-  headline: Pediatrician Andrews to face Darline Graham in South Carolina Senate race
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.778
-- slug: 2026-08-24-darline-graham-ralph-norman-head-to-south-carolina-senate-runoff
-  headline: Darline Graham, Ralph Norman head to South Carolina Senate runoff
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7417
-- slug: 2026-08-11-south-carolina-republicans-cast-ballots-in-special-primary-for-graham-s-seat
-  headline: South Carolina Republicans cast ballots in special primary for Graham's seat
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7648
-- slug: 2026-08-19-darline-graham-acknowledges-limited-national-security-knowledge-at-sc-debate
-  headline: Darline Graham acknowledges limited national security knowledge at SC debate
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7326
-- slug: 2026-08-08-darline-graham-enters-south-carolina-primary-with-trump-endorsement
-  headline: Darline Graham enters South Carolina primary with Trump endorsement
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7467
-- slug: 2026-08-01-darline-graham-enters-senate-campaign-at-south-carolina-event
-  headline: Darline Graham enters Senate campaign at South Carolina event
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7417
-- slug: 2026-08-18-rep-norman-questions-trump-endorsement-of-darline-graham-in-sc-senate-runoff
-  headline: Rep. Norman questions Trump endorsement of Darline Graham in SC Senate runoff
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7059
-- slug: 2026-08-14-third-place-finisher-fry-endorses-graham-ahead-of-south-carolina-s-aug-25-senate
-  headline: Third-place finisher Fry endorses Graham ahead of South Carolina's Aug. 25 Senate runoff
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7002
 ---
-
 ## Democrat Annie Andrews on course to win South Carolina Senate race
 
 **Subtype:** fact
