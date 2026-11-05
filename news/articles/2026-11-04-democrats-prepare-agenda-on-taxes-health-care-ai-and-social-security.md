@@ -1,9 +1,22 @@
 ---
 headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-secondary_headline: Funding bills could give Democrats leverage over the Iran war and tariffs
+secondary_headline: Funding bills could give Democrats leverage over the Iran war
+  and tariffs
 publish_date: '2026-11-04'
-lede: According to The Wall Street Journal, House and Senate Democrats are preparing a detailed agenda that includes trying to reverse much of last year's tax-and-spending law, undoing Medicaid work requirements and reviving lapsed Obamacare subsidies. Democrats also may pursue legislation to stave off Social Security's automatic benefit cuts and are likely to seek federal safeguards for new AI models and hearings into President Trump's business dealings and Elon Musk's government role. Must-pass funding and debt-limit legislation could give Democrats leverage over Trump's Iran war and tariffs, although Trump's veto and national-security powers constrain that route.
-nut_graf: The agenda gives Democrats leverage over hearings, spending legislation and confirmations, while Trump retains the veto, national-security powers and Republican support that limit major policy changes. Government funding is scheduled to lapse in mid-December and the debt limit must be raised by some time in 2027; if those tasks remain undone under Republican majorities in the next two months of the lame-duck Congress, Trump and Democrats will have to negotiate a path forward.
+lede: According to The Wall Street Journal, House and Senate Democrats are preparing
+  a detailed agenda that includes trying to reverse much of last year's tax-and-spending
+  law, undoing Medicaid work requirements and reviving lapsed Obamacare subsidies.
+  Democrats also may pursue legislation to stave off Social Security's automatic benefit
+  cuts and are likely to seek federal safeguards for new AI models and hearings into
+  President Trump's business dealings and Elon Musk's government role. Must-pass funding
+  and debt-limit legislation could give Democrats leverage over Trump's Iran war and
+  tariffs, although Trump's veto and national-security powers constrain that route.
+nut_graf: The agenda gives Democrats leverage over hearings, spending legislation
+  and confirmations, while Trump retains the veto, national-security powers and Republican
+  support that limit major policy changes. Government funding is scheduled to lapse
+  in mid-December and the debt limit must be raised by some time in 2027; if those
+  tasks remain undone under Republican majorities in the next two months of the lame-duck
+  Congress, Trump and Democrats will have to negotiate a path forward.
 primary_entities:
 - Democrats
 - Republicans
@@ -59,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -168,97 +182,39 @@ related_stories:
   relation: related
   strength: 0.7147
 - slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
+  headline: 'People familiar with talks: staffers have begun assembling list of possible
+    probes and witnesses'
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7509
+  strength: 0.7506
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7189
+  strength: 0.7193
 - slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6963
+  strength: 0.696
 - slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
+  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump
+    on Iran
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7615
+  strength: 0.7614
 - slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
   headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7013
+  strength: 0.7012
 - slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
   headline: Democrats outline investigation priorities if they win Congress
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7141
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6912
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6967
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.694
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7172
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7519
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6906
-- slug: 2026-01-14-schumer-says-democrats-are-preparing-for-trump-to-disrupt-and-dispute-the-midter
-  headline: Schumer says Democrats are preparing for Trump to disrupt and dispute the midterms
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7205
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6887
-- slug: 2026-02-05-democrats-threaten-to-block-dhs-funding-unless-ice-changes
-  headline: Democrats threaten to block DHS funding unless ICE changes
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7065
-- slug: 2026-01-29-partial-shutdown-seems-increasingly-likely-as-democrats-demand-ice-changes
-  headline: Partial shutdown seems increasingly likely as Democrats demand ICE changes
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7061
-- slug: 2026-04-10-democrats-weigh-removing-trump-after-iran-threat-and-seize-war-power-push
-  headline: Democrats weigh removing Trump after Iran threat and seize war-power push
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.691
-- slug: 2026-04-22-senate-advances-budget-plan-to-fund-ice-border-patrol-and-reopen-dhs
-  headline: Senate advances budget plan to fund ICE, Border Patrol and reopen DHS
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.688
+  strength: 0.7143
 ---
-
 ## Democrats prepare agenda on taxes, health care, AI and Social Security
 
 **Subtype:** fact

@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6517
+analyses:
+- '2026-11-04-ig-analysts-tie-market-repricing-to-post-midterm-political-risk'
 ---
 ## Midterm results pressure the dollar and lift gold and silver
 
@@ -231,3 +233,8 @@ Rudolph’s final view was qualified rather than absolute. He said a divided gov
 **Publication date:** 2026-11-04
 **Title:** Dollar falls while gold and US Treasury bonds rally as markets react to Democrats’ midterm election victory – business live
 **URL:** https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates
+
+---
+
+<!-- analysis-link:2026-11-04-ig-analysts-tie-market-repricing-to-post-midterm-political-risk -->
+**Going deeper:** [Read MSI's analysis of the post-midterm market repricing →](/analyses/2026-11-04-ig-analysts-tie-market-repricing-to-post-midterm-political-risk)
