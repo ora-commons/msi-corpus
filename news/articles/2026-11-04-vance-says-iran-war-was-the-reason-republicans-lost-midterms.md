@@ -1,9 +1,17 @@
 ---
 headline: Vance says Iran war was the reason Republicans lost midterms
-secondary_headline: Trump had also linked Iran to the election result without expressing regret
+secondary_headline: Trump had also linked Iran to the election result without expressing
+  regret
 publish_date: '2026-11-04'
-lede: JD Vance said on Wednesday that the U.S. war against Iran was the reason Republicans lost the 2026 midterm elections. In a lengthy post on X, Vance said President Donald Trump had also acknowledged the war's role in the party's defeat. Trump said Iran was “a piece of it” of the election result but said he had no regrets about starting the conflict.
-nut_graf: 'The two statements offer different accounts of the conflict''s political cost: Vance called it the reason for the Republican defeat, while Trump described Iran as one part of the result and said he would act again. The Guardian said Vance was seeking distance from the conflict ahead of a possible 2028 White House run.'
+lede: JD Vance said on Wednesday that the U.S. war against Iran was the reason Republicans
+  lost the 2026 midterm elections. In a lengthy post on X, Vance said President Donald
+  Trump had also acknowledged the war's role in the party's defeat. Trump said Iran
+  was “a piece of it” of the election result but said he had no regrets about starting
+  the conflict.
+nut_graf: 'The two statements offer different accounts of the conflict''s political
+  cost: Vance called it the reason for the Republican defeat, while Trump described
+  Iran as one part of the result and said he would act again. The Guardian said Vance
+  was seeking distance from the conflict ahead of a possible 2028 White House run.'
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,13 +149,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms.png
-  alt: 'Illustration accompanying article: Vance says Iran war was the reason Republicans lost midterms'
+  alt: 'Illustration accompanying article: Vance says Iran war was the reason Republicans
+    lost midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
@@ -159,7 +172,8 @@ related_stories:
   relation: related
   strength: 0.7596
 - slug: 2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure
-  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
+  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war
+    pressure
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7518
@@ -188,68 +202,7 @@ related_stories:
   publish_date: '2026-09-27'
   relation: related
   strength: 0.7162
-- slug: 2026-09-25-republicans-break-with-trump-on-iran-war-and-immigration-ahead-of-midterms
-  headline: Republicans break with Trump on Iran war and immigration ahead of midterms
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7063
-- slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
-  headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7134
-- slug: 2026-09-14-vance-says-iran-fight-is-not-a-war-trump-has-called-it-one
-  headline: Vance says Iran fight is not a war; Trump has called it one
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7383
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7053
-- slug: 2026-09-11-vance-leads-2028-gop-primary-field-at-43-percent-in-new-poll
-  headline: Vance leads 2028 GOP primary field at 43 percent in new poll
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7056
-- slug: 2026-08-27-iran-war-at-six-months-looms-over-house-races-as-gas-prices-climb
-  headline: Iran war at six months looms over House races as gas prices climb
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7164
-- slug: 2026-07-22-trump-says-iran-war-s-political-cost-won-t-have-any-impact-on-me
-  headline: Trump says Iran war's political cost 'won't have any impact on me'
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.708
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7167
-- slug: 2026-04-01-rubio-and-vance-differ-on-iran-war-as-2028-gop-jockeying-begins
-  headline: Rubio and Vance differ on Iran war as 2028 GOP jockeying begins
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7509
-- slug: 2026-03-09-trump-says-vance-was-philosophically-different-on-iran-but-no-split
-  headline: Trump says Vance was “philosophically” different on Iran, but no split
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7496
-- slug: 2026-06-20-congress-picks-up-the-pieces-after-the-iran-war
-  headline: Congress picks up the pieces after the Iran war
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7124
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7174
 ---
-
 ## Vance says Iran war was the reason Republicans lost midterms
 
 **Subtype:** fact
