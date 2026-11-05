@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.6836
+analyses:
+- '2026-11-04-democratic-house-majority-raises-the-expected-political-cost-of-trump-s-unilater'
 ---
 ## Trump froze appropriated funds and expanded tariff authority without Congress
 
@@ -237,3 +239,8 @@ Two of the races highlighted by The Guardian remained unsettled: Hudson's North 
 **Publication date:** 2026-11-04
 **Title:** Democrats retake House in ‘blue wave’ amid Trump’s historic unpopularity
 **URL:** https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results
+
+---
+
+<!-- analysis-link:2026-11-04-democratic-house-majority-raises-the-expected-political-cost-of-trump-s-unilater -->
+**Going deeper:** [Read MSI's analysis of Congressional leverage over presidential power →](/analyses/2026-11-04-democratic-house-majority-raises-the-expected-political-cost-of-trump-s-unilater)
