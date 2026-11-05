@@ -60,7 +60,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -239,3 +239,10 @@ At the national level, Abbott's defeat was expected to set off alarms among Repu
 **Publication date:** 2026-11-04
 **Title:** Democrat Gina Hinojosa elected as Texas' next governor, ousting Republican Greg Abbott
 **URL:** https://apnews.com/article/texas-governor-election-hinojosa-abbott-c9a0ffa1ec3cd599f9bc304ae26268a2
+
+### src_late_baabbac0fb2492b5 — Associated Press, wire, Tier 1, originating
+**Author:** Jesse Bedayn
+**Publication date:** 2026-11-04
+**Title:** La demócrata Gina Hinojosa es elegida como gobernadora de Texas, derrota a Greg Abbott
+**URL:** https://apnews.com/article/eeuu-elecciones-texas-hinojosa-abbott-b5722a3fce9a293fd4e23e85605c21c2
+**Added after publication:** true
