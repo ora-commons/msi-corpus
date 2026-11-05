@@ -2,8 +2,20 @@
 headline: Boris Pistorius says U.S. cooperation will not change after Democratic win
 secondary_headline: Norway cites emerging American voices closer to Norwegian positions
 publish_date: '2026-11-04'
-lede: German Defense Minister Boris Pistorius called the Democrats' victory in the 2026 U.S. midterms an "historic victory" and said Berlin's commitment to cooperating with the administration in Washington would remain unchanged. Japan's Chief Cabinet Secretary Minoru Kihara said the U.S. alliance remains essential for global peace and stability regardless of the election outcome. Foreign leaders and international newspapers responded to the result with calls for cooperation and diplomatic warnings.
-nut_graf: Foreign reactions ranged from calls for cooperation to Ryabkov's warning about U.S.-Russian relations and Ghalibaf's warning against U.S. betrayal of antiwar sentiment. Germany said its cooperation with Washington would not change, while Norway cited emerging American political voices closer to Norwegian positions and Japan said its U.S. alliance remained essential to global peace and stability. International coverage linked the result to Iran, Ukraine, Israel and Gaza, and household affordability, while leaders in Spain, South Africa and Britain addressed climate denialism, elites, world relations and the cost of living.
+lede: German Defense Minister Boris Pistorius called the Democrats' victory in the
+  2026 U.S. midterms an "historic victory" and said Berlin's commitment to cooperating
+  with the administration in Washington would remain unchanged. Japan's Chief Cabinet
+  Secretary Minoru Kihara said the U.S. alliance remains essential for global peace
+  and stability regardless of the election outcome. Foreign leaders and international
+  newspapers responded to the result with calls for cooperation and diplomatic warnings.
+nut_graf: Foreign reactions ranged from calls for cooperation to Ryabkov's warning
+  about U.S.-Russian relations and Ghalibaf's warning against U.S. betrayal of antiwar
+  sentiment. Germany said its cooperation with Washington would not change, while
+  Norway cited emerging American political voices closer to Norwegian positions and
+  Japan said its U.S. alliance remained essential to global peace and stability. International
+  coverage linked the result to Iran, Ukraine, Israel and Gaza, and household affordability,
+  while leaders in Spain, South Africa and Britain addressed climate denialism, elites,
+  world relations and the cost of living.
 primary_entities:
 - Democrats
 - Donald Trump
@@ -57,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +172,8 @@ related_stories:
   headline: The business world anticipates change if Democrats win substantially
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6594
-- slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
-  headline: Trump accepts midterm results and links Republican losses to Iran
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6183
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6154
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5963
-- slug: 2026-11-04-midterm-results-pressure-the-dollar-and-lift-gold-and-silver
-  headline: Midterm results pressure the dollar and lift gold and silver
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5951
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5903
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5894
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5972
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5897
-- slug: 2026-10-26-mueller-urges-democrats-to-learn-broader-lessons-from-possible-midterm-win
-  headline: Mueller urges Democrats to learn broader lessons from possible midterm win
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6162
-- slug: 2026-10-15-wsj-poll-finds-majority-of-democrats-oppose-leftward-party-shift
-  headline: WSJ poll finds majority of Democrats oppose leftward party shift
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5921
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6004
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5945
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5951
-- slug: 2026-09-21-middle-powers-form-hedging-alliances-as-trump-reshapes-global-order
-  headline: Middle powers form hedging alliances as Trump reshapes global order
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6213
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5997
-- slug: 2026-08-26-moskowitz-named-top-middle-east-democrat-on-house-foreign-affairs-committee
-  headline: Moskowitz named top Middle East Democrat on House Foreign Affairs Committee
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5962
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5878
-- slug: 2026-06-15-germany-and-japan-expand-military-capabilities-in-historic-post-wwii-shift
-  headline: Germany and Japan expand military capabilities in historic post-WWII shift
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6181
-- slug: 2026-06-10-great-powers-confront-limits-as-modern-warfare-levels-the-battlefield
-  headline: Great powers confront limits as modern warfare levels the battlefield
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.598
+  strength: 0.6591
 ---
-
 ## Boris Pistorius says U.S. cooperation will not change after Democratic win
 
 **Subtype:** fact

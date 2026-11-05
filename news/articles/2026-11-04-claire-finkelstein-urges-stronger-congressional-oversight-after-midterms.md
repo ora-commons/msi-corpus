@@ -209,6 +209,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.688
+analyses:
+- '2026-11-04-claire-finkelstein-frames-trump-impeachment-as-a-test-of-congressional-authority'
 ---
 ## Claire Finkelstein urges stronger congressional oversight after midterms
 
@@ -257,3 +259,8 @@ Finkelstein is a contributing opinion writer for The Guardian, the Algernon Bidd
 **Publication date:** 2026-11-04
 **Title:** The new Congress must hold Trump accountable | Claire Finkelstein
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/04/democrats-congress-trump
+
+---
+
+<!-- analysis-link:2026-11-04-claire-finkelstein-frames-trump-impeachment-as-a-test-of-congressional-authority -->
+**Going deeper:** [Read MSI's analysis of Finkelstein's congressional oversight strategy →](/analyses/2026-11-04-claire-finkelstein-frames-trump-impeachment-as-a-test-of-congressional-authority)
