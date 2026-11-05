@@ -1,9 +1,20 @@
 ---
 headline: Rob Sand calls for Iowa to return to a "common sense state"
-secondary_headline: Zach Lahn's campaign drew scrutiny over Kansas voting and Koch family ties
+secondary_headline: Zach Lahn's campaign drew scrutiny over Kansas voting and Koch
+  family ties
 publish_date: '2026-11-04'
-lede: At an Oct. 28 campaign rally, Rob Sand argued that elected Democrats and Republicans must work together to get anything done. Sand, Iowa's state auditor and the state's sole Democrat holding statewide office, also campaigned for Iowa to return to what he called a “common sense state.” The Guardian reported that Republican rival Zach Lahn's campaign separately drew scrutiny over his time in Kansas and his complicated ties to the Koch family.
-nut_graf: Sand's call for Iowa to return to what he called a “common sense state” and the scrutiny of Lahn's Kansas and Koch family ties provide the campaign context for the Associated Press projection that Sand defeated Lahn. The projected result would make Sand the first Democrat to win Iowa's governorship since 2006, in a state where Republicans had dominated and Sand had been the sole Democrat holding statewide office.
+lede: At an Oct. 28 campaign rally, Rob Sand argued that elected Democrats and Republicans
+  must work together to get anything done. Sand, Iowa's state auditor and the state's
+  sole Democrat holding statewide office, also campaigned for Iowa to return to what
+  he called a “common sense state.” The Guardian reported that Republican rival Zach
+  Lahn's campaign separately drew scrutiny over his time in Kansas and his complicated
+  ties to the Koch family.
+nut_graf: Sand's call for Iowa to return to what he called a “common sense state”
+  and the scrutiny of Lahn's Kansas and Koch family ties provide the campaign context
+  for the Associated Press projection that Sand defeated Lahn. The projected result
+  would make Sand the first Democrat to win Iowa's governorship since 2006, in a state
+  where Republicans had dominated and Sand had been the sole Democrat holding statewide
+  office.
 primary_entities:
 - Rob Sand
 - Zach Lahn
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,99 +168,38 @@ related_stories:
   headline: Iowa voters decide Senate, governor and House races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.682
-- slug: 2026-11-01-trump-rallies-iowa-and-kansas-as-control-of-congress-remains-unsettled
-  headline: Trump rallies Iowa and Kansas as control of Congress remains unsettled
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6472
-- slug: 2026-10-30-trump-restores-kansas-and-iowa-rallies-days-before-midterms
-  headline: Trump restores Kansas and Iowa rallies days before midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6321
-- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
-  headline: Candidates campaign directly with rural voters in the midterms
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6342
+  strength: 0.6811
 - slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
   headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6624
-- slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
-  headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.633
+  strength: 0.6615
 - slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
   headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6622
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6329
+  strength: 0.662
 - slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
   headline: Republican strategists warn of voter apathy in red states
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6586
+  strength: 0.6579
 - slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
   headline: Iowa Republicans trail in governor's race amid rural economic strain
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.721
+  strength: 0.7206
 - slug: 2026-08-26-iowa-democrat-rob-sand-says-harris-should-not-run-again
   headline: Iowa Democrat Rob Sand says Harris should not run again
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6955
+  strength: 0.6959
 - slug: 2026-08-14-lahn-faces-skepticism-from-iowa-republicans-after-winning-gop-primary
   headline: Lahn faces skepticism from Iowa Republicans after winning GOP primary
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7101
-- slug: 2026-06-21-koch-connected-populist-zach-lahn-wins-iowa-gop-gubernatorial-nomination
-  headline: Koch-connected populist Zach Lahn wins Iowa GOP gubernatorial nomination
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7655
-- slug: 2026-08-16-iowa-s-rising-cancer-rates-fuel-midterm-debate-over-farm-links
-  headline: Iowa's rising cancer rates fuel midterm debate over farm links
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6826
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.658
-- slug: 2026-06-03-iowa-businessman-defeats-trump-backed-congressman-in-gop-governor-primary
-  headline: Iowa businessman defeats Trump-backed congressman in GOP governor primary
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.732
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7236
-- slug: 2026-08-18-trump-cabinet-officials-campaign-in-iowa-to-bolster-vulnerable-republicans
-  headline: Trump cabinet officials campaign in Iowa to bolster vulnerable Republicans
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6331
-- slug: 2026-05-05-democrats-eye-iowa-as-battleground-as-vance-backs-gop-candidates
-  headline: Democrats eye Iowa as battleground as Vance backs GOP candidates
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.71
+  strength: 0.7093
 ---
-
 ## Rob Sand calls for Iowa to return to a "common sense state"
 
 **Subtype:** fact
