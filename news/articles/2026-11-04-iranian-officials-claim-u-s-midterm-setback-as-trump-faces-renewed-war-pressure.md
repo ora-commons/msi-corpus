@@ -1,9 +1,20 @@
 ---
-headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
+headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war
+  pressure
 secondary_headline: Mojtaba Khamenei says U.S. policy will not shift after the midterms
 publish_date: '2026-11-04'
-lede: Iranian officials claimed that Tuesday's U.S. midterm results showed Iran had helped defeat Donald Trump, and The Guardian described the reaction inside Iran as a “good degree of triumphalism.” Iran unveiled an anti-Trump billboard and banners in central Tehran on Wednesday, while Trump said Americans had decided the “short-term” pain of inflation was not worth paying to prevent Iran from becoming a nuclear power.
-nut_graf: The election result shifted the political balance around the conflict without showing whether either side would revise its strategy. Iran's leadership claimed credit and said U.S. policy would not shift; pro-war influencers pressed Trump to strike again; and The Guardian assessed that China was probably testing a possible uranium arrangement. With Congress not due to convene until January, The Guardian said Trump had greater latitude and little accountability after the delay reduced his budgetary options.
+lede: Iranian officials claimed that Tuesday's U.S. midterm results showed Iran had
+  helped defeat Donald Trump, and The Guardian described the reaction inside Iran
+  as a “good degree of triumphalism.” Iran unveiled an anti-Trump billboard and banners
+  in central Tehran on Wednesday, while Trump said Americans had decided the “short-term”
+  pain of inflation was not worth paying to prevent Iran from becoming a nuclear power.
+nut_graf: The election result shifted the political balance around the conflict without
+  showing whether either side would revise its strategy. Iran's leadership claimed
+  credit and said U.S. policy would not shift; pro-war influencers pressed Trump to
+  strike again; and The Guardian assessed that China was probably testing a possible
+  uranium arrangement. With Congress not due to convene until January, The Guardian
+  said Trump had greater latitude and little accountability after the delay reduced
+  his budgetary options.
 primary_entities:
 - Iran
 - United States
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,116 +160,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure.png
-  alt: 'Illustration accompanying article: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure'
+  alt: 'Illustration accompanying article: Iranian officials claim U.S. midterm setback
+    as Trump faces renewed war pressure'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7736
+  strength: 0.7744
 - slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7347
+  strength: 0.736
 - slug: 2026-11-02-trump-says-iran-would-receive-the-hammer-without-progress
   headline: Trump says Iran would receive ‘the hammer’ without progress
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7253
+  strength: 0.7261
 - slug: 2026-10-28-allies-told-to-brace-for-iranian-retaliation-after-u-s-midterms
   headline: Allies told to brace for Iranian retaliation after U.S. midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7439
+  strength: 0.7449
 - slug: 2026-10-28-u-s-briefs-gulf-states-on-possible-post-midterm-iran-campaign
   headline: U.S. briefs Gulf states on possible post-midterm Iran campaign
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7177
+  strength: 0.7186
 - slug: 2026-10-15-trump-says-iran-war-will-end-very-soon-as-midterm-pressure-builds
   headline: Trump says Iran war will end 'very soon' as midterm pressure builds
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7502
-- slug: 2026-10-08-trump-says-us-will-not-attack-iran-before-midterm-elections
-  headline: Trump says US will not attack Iran before midterm elections
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7171
+  strength: 0.7509
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7254
+  strength: 0.7267
 - slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
   headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7243
-- slug: 2026-09-09-trump-predicts-post-election-end-to-iran-war-and-lower-oil-prices
-  headline: Trump predicts post-election end to Iran war and lower oil prices
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7223
-- slug: 2026-09-09-advisers-weigh-yearslong-iran-war-as-trump-predicts-post-midterm-end
-  headline: Advisers weigh yearslong Iran war as Trump predicts post-midterm end
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7195
-- slug: 2026-08-22-iran-s-top-politicians-urge-end-to-war-as-economy-crumbles
-  headline: Iran's top politicians urge end to war as economy crumbles
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7174
-- slug: 2026-06-23-trump-s-iran-war-aims-shift-as-u-s-signs-deal-with-iran
-  headline: Trump's Iran war aims shift as U.S. signs deal with Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7235
-- slug: 2026-06-17-emboldened-iran-returns-to-nuclear-talks-after-failed-us-bombing-campaign
-  headline: Emboldened Iran returns to nuclear talks after failed US bombing campaign
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.727
-- slug: 2026-04-04-midterm-elections-loom-as-gop-grapples-with-trump-s-wartime-presidency
-  headline: Midterm elections loom as GOP grapples with Trump's wartime presidency
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7516
-- slug: 2026-03-02-history-of-us-regime-changing-actions-is-rocky
-  headline: History of US regime-changing actions is rocky
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7383
-- slug: 2026-04-09-takeaways-after-a-tentative-2-week-iran-ceasefire-reached-in-the-war
-  headline: Takeaways after a tentative, 2-week Iran ceasefire reached in the war
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7284
-- slug: 2026-03-29-trump-s-conflicting-messages-sow-confusion-over-iran-war
-  headline: Trump’s conflicting messages sow confusion over Iran war
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.729
-- slug: 2026-03-10-trump-says-iran-war-could-end-soon-then-warns-of-tougher-strikes
-  headline: Trump says Iran war could end soon, then warns of tougher strikes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7309
-- slug: 2026-04-04-trump-s-go-it-alone-certainty-collides-with-iran-war-uncertainties
-  headline: Trump’s go-it-alone certainty collides with Iran war uncertainties
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7235
+  strength: 0.7249
 ---
-
 ## Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
 
 **Subtype:** fact

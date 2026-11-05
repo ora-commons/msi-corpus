@@ -2,8 +2,21 @@
 headline: UK plan leaves some refugees waiting up to 30 years, UNHCR says
 secondary_headline: Care workers may apply for indefinite leave after five years
 publish_date: '2026-11-04'
-lede: UNHCR, which has international responsibility for refugees, welcomed the legal routes announced by the UK government but criticized the “earned settlement” plan, saying that making some refugees wait up to 30 years to apply to settle was “likely to be detrimental.” Helen Bamber Foundation director of policy Kamena Dorling warned that the 30-year qualifying period would cause profound and lasting harm to refugees. Home Secretary Shabana Mahmood unveiled the strategy earlier this week, retaining the maximum wait for people arriving irregularly while allowing care workers to apply for indefinite leave to remain after five years.
-nut_graf: The dispute concerns the effects of long settlement waits on refugees’ security, belonging and integration. UNHCR welcomed the announced legal routes but raised concerns about an extended qualifying period for settlement, short-term stay arrangements and changes made last year that would preclude many refugees from ever accessing citizenship. The Guardian reported that the government had significantly reduced safe and legal routes and that the announced legal routes were accessible to only a small minority of people seeking sanctuary in the UK.
+lede: UNHCR, which has international responsibility for refugees, welcomed the legal
+  routes announced by the UK government but criticized the “earned settlement” plan,
+  saying that making some refugees wait up to 30 years to apply to settle was “likely
+  to be detrimental.” Helen Bamber Foundation director of policy Kamena Dorling warned
+  that the 30-year qualifying period would cause profound and lasting harm to refugees.
+  Home Secretary Shabana Mahmood unveiled the strategy earlier this week, retaining
+  the maximum wait for people arriving irregularly while allowing care workers to
+  apply for indefinite leave to remain after five years.
+nut_graf: The dispute concerns the effects of long settlement waits on refugees’ security,
+  belonging and integration. UNHCR welcomed the announced legal routes but raised
+  concerns about an extended qualifying period for settlement, short-term stay arrangements
+  and changes made last year that would preclude many refugees from ever accessing
+  citizenship. The Guardian reported that the government had significantly reduced
+  safe and legal routes and that the announced legal routes were accessible to only
+  a small minority of people seeking sanctuary in the UK.
 primary_entities:
 - UNHCR
 - Helen Bamber Foundation
@@ -39,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +155,19 @@ related_stories:
   headline: UK government plans 10-year standard for permanent settlement
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7577
+  strength: 0.7576
 - slug: 2026-11-02-shabana-mahmood-plans-settlement-rule-changes-for-legal-migrants
   headline: Shabana Mahmood plans settlement rule changes for legal migrants
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.73
-- slug: 2026-10-26-mamdani-s-nyc-encampment-policy-draws-criticism-from-residents-and-businesses
-  headline: Mamdani’s NYC encampment policy draws criticism from residents and businesses
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6107
-- slug: 2026-10-14-uk-ends-one-in-one-out-asylum-deal-with-france
-  headline: UK ends 'one in, one out' asylum deal with France
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6412
-- slug: 2026-10-16-trump-sets-2027-refugee-cap-at-17-500-prioritizing-afrikaners
-  headline: Trump sets 2027 refugee cap at 17,500, prioritizing Afrikaners
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6102
+  strength: 0.7301
 - slug: 2026-09-24-mahmood-orders-urgent-border-review-after-781-channel-arrivals-in-one-day
-  headline: Mahmood orders urgent border review after 781 Channel arrivals in one day
+  headline: Mahmood orders urgent border review after 781 Channel arrivals in one
+    day
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6652
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6349
-- slug: 2026-09-22-uk-to-examine-domestic-abuse-in-hague-child-abduction-cases
-  headline: UK to examine domestic abuse in Hague child-abduction cases
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6079
-- slug: 2026-09-15-uk-government-plans-tighter-residency-rules-for-political-donors
-  headline: UK government plans tighter residency rules for political donors
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6064
-- slug: 2026-09-02-gowayed-10-258-us-refugees-in-fiscal-2026-were-white-south-africans
-  headline: 'Gowayed: 10,258 US refugees in fiscal 2026 were white South Africans'
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6119
-- slug: 2026-06-15-daca-renewal-delays-push-dreamers-out-of-jobs-advocates-say
-  headline: DACA renewal delays push Dreamers out of jobs, advocates say
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6439
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6207
-- slug: 2026-06-10-us-shutting-out-climate-refugees-as-disasters-mount-advocates-say
-  headline: US shutting out climate refugees as disasters mount, advocates say
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6097
-- slug: 2026-05-23-trump-s-green-card-change-would-send-some-applicants-abroad-to-apply
-  headline: Trump’s green-card change would send some applicants abroad to apply
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6146
-- slug: 2026-06-02-rubio-defends-white-south-african-refugee-admissions-as-afghan-allies-remain-in-
-  headline: Rubio defends white South African refugee admissions as Afghan allies remain in limbo
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6064
-- slug: 2026-04-03-asylum-seekers-face-third-country-deportation-orders-to-unknown-nations
-  headline: Asylum seekers face “third-country” deportation orders to unknown nations
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6261
-- slug: 2026-06-08-white-south-african-refugees-in-ohio-face-driving-rules-meant-for-immigrants
-  headline: White South African refugees in Ohio face driving rules meant for immigrants
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6
-- slug: 2026-05-23-trump-administration-to-require-many-green-card-applicants-to-apply-abroad
-  headline: Trump administration to require many green-card applicants to apply abroad
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6077
-- slug: 2026-05-26-trump-raises-us-refugee-cap-for-white-south-africans-only
-  headline: Trump raises US refugee cap for white South Africans only
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6043
-- slug: 2026-05-22-trump-administration-mandates-green-card-applicants-leave-u-s-to-apply-abroad
-  headline: Trump administration mandates green card applicants leave U.S. to apply abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6044
+  strength: 0.6667
 ---
-
 ## UK plan leaves some refugees waiting up to 30 years, UNHCR says
 
 **Subtype:** fact
