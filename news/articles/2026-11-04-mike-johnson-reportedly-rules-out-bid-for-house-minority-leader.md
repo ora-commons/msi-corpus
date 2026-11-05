@@ -2,8 +2,13 @@
 headline: Mike Johnson reportedly rules out bid for House minority leader
 secondary_headline: Jim Jordan reportedly seeks House Republicans' top post
 publish_date: '2026-11-04'
-lede: On November 4, 2026, The Guardian reported, citing multiple reports, that House Speaker Mike Johnson has said he is not planning to pursue the minority leader role once Republicans lose their majority in the chamber.
-nut_graf: Johnson's reported decision opens the position of highest-ranking Republican in the House to a new contest. Jordan's reported effort creates a challenge for the post, but the available account did not establish that Jordan had secured the role.
+lede: On November 4, 2026, The Guardian reported, citing multiple reports, that House
+  Speaker Mike Johnson has said he is not planning to pursue the minority leader role
+  once Republicans lose their majority in the chamber.
+nut_graf: Johnson's reported decision opens the position of highest-ranking Republican
+  in the House to a new contest. Jordan's reported effort creates a challenge for
+  the post, but the available account did not establish that Jordan had secured the
+  role.
 primary_entities:
 - Mike Johnson
 - Jim Jordan
@@ -41,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,81 +145,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6372
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6287
 - slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
+  headline: Republicans brace for potential House losses as Trump disapproval hits
+    59%
   publish_date: '2026-10-31'
   relation: related
   strength: 0.6522
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6149
-- slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
-  headline: Hakeem Jeffries expected to win historic House speakership
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6075
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6201
-- slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
-  headline: Historic firsts and party tests follow Democratic midterm victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6045
-- slug: 2026-11-03-angie-nixon-seeks-florida-upset-as-sherrod-brown-pursues-ohio-senate-comeback
-  headline: Angie Nixon seeks Florida upset as Sherrod Brown pursues Ohio Senate comeback
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6084
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6279
 - slug: 2026-09-16-johnson-cancels-house-votes-avoiding-hegseth-impeachment-resolution
   headline: Johnson cancels House votes, avoiding Hegseth impeachment resolution
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6617
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6067
-- slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
-  headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6209
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6107
-- slug: 2026-08-26-jeffries-faces-progressive-backlash-after-private-kushner-meeting
-  headline: Jeffries faces progressive backlash after private Kushner meeting
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6227
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6137
 - slug: 2026-06-29-johnson-aims-to-revive-house-gop-agenda-after-week-of-stalled-votes
   headline: Johnson aims to revive House GOP agenda after week of stalled votes
   publish_date: '2026-06-29'
@@ -224,23 +166,7 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.6576
-- slug: 2026-06-30-house-gop-halts-votes-sends-members-home-as-legislative-agenda-stalls
-  headline: House GOP halts votes, sends members home as legislative agenda stalls
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6321
-- slug: 2026-06-28-house-speaker-sends-housing-bill-to-trump-predicts-law
-  headline: House speaker sends housing bill to Trump, predicts law
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6233
-- slug: 2026-05-21-house-gop-calls-off-vote-on-iran-war-resolution-as-support-slips
-  headline: House GOP calls off vote on Iran war resolution as support slips
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6176
 ---
-
 ## Mike Johnson reportedly rules out bid for House minority leader
 
 **Subtype:** fact

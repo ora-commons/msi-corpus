@@ -2,8 +2,19 @@
 headline: Democrats set post-election priorities on affordability and accountability
 secondary_headline: Senate changes put taxes, healthcare and local spending in focus
 publish_date: '2026-11-04'
-lede: Eleven Democrats spoke after the 2026 U.S. midterm elections about affordability, local spending on schools, healthcare and infrastructure, and holding people in high office accountable. The Guardian described the contributors as Democratic leaders and seat-flipping victors. Hakeem Jeffries said House Democrats needed to deliver dramatic change and a Congress that puts the American people first, while Chuck Schumer said the results had produced a generational remaking of the Senate map.
-nut_graf: The post-election comments show how Democratic leaders and seat-flipping victors set out what they would prioritize, from household costs to public services, local tax spending and accountability for people in high office. The Guardian characterized the result as a broad repudiation of Donald Trump, his policies and the Republican party, focused on Trump's personal unpopularity, high costs of living and the Iran war, and said the outcome gave Democrats an opportunity to reset the US domestic agenda.
+lede: Eleven Democrats spoke after the 2026 U.S. midterm elections about affordability,
+  local spending on schools, healthcare and infrastructure, and holding people in
+  high office accountable. The Guardian described the contributors as Democratic leaders
+  and seat-flipping victors. Hakeem Jeffries said House Democrats needed to deliver
+  dramatic change and a Congress that puts the American people first, while Chuck
+  Schumer said the results had produced a generational remaking of the Senate map.
+nut_graf: The post-election comments show how Democratic leaders and seat-flipping
+  victors set out what they would prioritize, from household costs to public services,
+  local tax spending and accountability for people in high office. The Guardian characterized
+  the result as a broad repudiation of Donald Trump, his policies and the Republican
+  party, focused on Trump's personal unpopularity, high costs of living and the Iran
+  war, and said the outcome gave Democrats an opportunity to reset the US domestic
+  agenda.
 primary_entities:
 - Hakeem Jeffries
 - Chuck Schumer
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,9 +161,10 @@ related_stories:
   headline: Hakeem Jeffries outlines affordability agenda for incoming House control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7971
+  strength: 0.7976
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7497
@@ -159,94 +172,34 @@ related_stories:
   headline: Ken Martin says Democrats have great leverage after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7328
+  strength: 0.7323
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.724
+  strength: 0.7228
+- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.7024
 - slug: 2026-11-04-2026-midterms-raise-the-question-of-a-durable-shift-or-a-fluke
   headline: 2026 midterms raise the question of a durable shift or a fluke
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7033
-- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.702
+  strength: 0.7019
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7014
+  strength: 0.7016
 - slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
   headline: Historic firsts and party tests follow Democratic midterm victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6995
-- slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
-  headline: Cost of living and Trump's second-term policies shape 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7038
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6959
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6997
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.694
-- slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
-  headline: Midterms test Democrats' strategy tying climate to affordability
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7052
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6912
-- slug: 2026-10-29-nader-urges-democrats-to-oust-schumer-and-jeffries-in-january
-  headline: Nader urges Democrats to oust Schumer and Jeffries in January
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6961
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7537
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7044
-- slug: 2026-09-21-detroit-voters-name-specific-expenses-as-midterm-affordability-pressures
-  headline: Detroit voters name specific expenses as midterm affordability pressures
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.721
-- slug: 2026-09-03-jeffries-previews-democratic-agenda-for-potential-house-majority
-  headline: Jeffries previews Democratic agenda for potential House majority
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7141
-- slug: 2026-07-27-jeffries-faults-republican-record-on-affordability-and-war-as-midterm-pitch
-  headline: Jeffries faults Republican record on affordability and war as midterm pitch
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7265
+  strength: 0.6975
 ---
-
 ## Democrats set post-election priorities on affordability and accountability
 
 **Subtype:** fact
