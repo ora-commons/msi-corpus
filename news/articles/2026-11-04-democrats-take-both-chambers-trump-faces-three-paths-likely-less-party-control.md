@@ -1,9 +1,22 @@
 ---
-headline: Democrats take both chambers; Trump faces three paths, likely less party control
-secondary_headline: 'Trump: work with Democrats if they want common ground; veto what he opposes'
+headline: Democrats take both chambers; Trump faces three paths, likely less party
+  control
+secondary_headline: 'Trump: work with Democrats if they want common ground; veto what
+  he opposes'
 publish_date: '2026-11-04'
-lede: Democrats reclaimed control of the House and Senate in Tuesday's midterm elections, with Republicans losing Senate seats in Maine, North Carolina, South Carolina, Texas, Ohio, Kansas and Iowa. The Wall Street Journal's Washington coverage chief, Damian Paletta, described President Trump as now officially a lame duck and said Trump must decide quickly whether to cut deals with Democrats, try to use them as a foil, or continue leading the way he has since January 2025.
-nut_graf: Democrats now hold both chambers of Congress, leaving the main legislative check on the Trump administration with the new majority for the final two years of his term. The Wall Street Journal attributed the election results to a voter response to high inflation, inflated fuel prices, the Iran war launched by Trump and his trade fights with allies, and Trump said Tuesday night that he would work with Democrats if they wanted to find common ground but would impose vetoes on initiatives he opposed.
+lede: Democrats reclaimed control of the House and Senate in Tuesday's midterm elections,
+  with Republicans losing Senate seats in Maine, North Carolina, South Carolina, Texas,
+  Ohio, Kansas and Iowa. The Wall Street Journal's Washington coverage chief, Damian
+  Paletta, described President Trump as now officially a lame duck and said Trump
+  must decide quickly whether to cut deals with Democrats, try to use them as a foil,
+  or continue leading the way he has since January 2025.
+nut_graf: Democrats now hold both chambers of Congress, leaving the main legislative
+  check on the Trump administration with the new majority for the final two years
+  of his term. The Wall Street Journal attributed the election results to a voter
+  response to high inflation, inflated fuel prices, the Iran war launched by Trump
+  and his trade fights with allies, and Trump said Tuesday night that he would work
+  with Democrats if they wanted to find common ground but would impose vetoes on initiatives
+  he opposed.
 primary_entities:
 - Trump
 - Democrats
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,19 +163,20 @@ related_stories:
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7602
+  strength: 0.7601
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7497
+  strength: 0.7488
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7462
+  strength: 0.7471
 - slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7401
@@ -169,84 +184,23 @@ related_stories:
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7361
-- slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
-  headline: Poll finds voters rejecting Republicans more than embracing Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7309
+  strength: 0.7362
 - slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
   headline: Democrats win House, control Congress for Trump's final two years
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7304
+- slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
+  headline: Poll finds voters rejecting Republicans more than embracing Democrats
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.7297
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7499
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7255
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7295
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7394
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.732
-- slug: 2026-11-03-midterm-campaigns-expose-party-fractures-and-voter-fluidity
-  headline: Midterm campaigns expose party fractures and voter fluidity
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7233
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7211
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7251
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.734
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7709
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7699
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7594
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7242
+  strength: 0.7498
 ---
-
 ## Democrats take both chambers; Trump faces three paths, likely less party control
 
 **Subtype:** fact

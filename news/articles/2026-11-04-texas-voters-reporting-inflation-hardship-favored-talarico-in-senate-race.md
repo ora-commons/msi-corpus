@@ -1,9 +1,19 @@
 ---
 headline: Texas voters reporting inflation hardship favored Talarico in Senate race
-secondary_headline: Maine voters favored change; candidate loyalty hurt GOP candidates in many states
+secondary_headline: Maine voters favored change; candidate loyalty hurt GOP candidates
+  in many states
 publish_date: '2026-11-04'
-lede: Texas voters who reported severe or moderate hardship from inflation largely backed Democrat James Talarico for the Senate in Tuesday's midterm elections, according to the Associated Press Voter Poll. The AP said the inflation drag helped Democrats even in Republican strongholds such as Texas. Separate results showed voters in key races appeared to seek Democratic candidates offering change and that candidate loyalty hurt Republican candidates in many states.
-nut_graf: The poll adds detail to Democratic gains by tying them to specific voter groups and candidate choices. About three-quarters of Texans reporting severe inflation hardship backed Talarico, while in Maine voters who prioritized “needed change” favored Troy Jackson; Republican candidates Darline Graham, Ken Paxton and Michael Whatley faced concerns about experience, character or support for Trump.
+lede: Texas voters who reported severe or moderate hardship from inflation largely
+  backed Democrat James Talarico for the Senate in Tuesday's midterm elections, according
+  to the Associated Press Voter Poll. The AP said the inflation drag helped Democrats
+  even in Republican strongholds such as Texas. Separate results showed voters in
+  key races appeared to seek Democratic candidates offering change and that candidate
+  loyalty hurt Republican candidates in many states.
+nut_graf: The poll adds detail to Democratic gains by tying them to specific voter
+  groups and candidate choices. About three-quarters of Texans reporting severe inflation
+  hardship backed Talarico, while in Maine voters who prioritized “needed change”
+  favored Troy Jackson; Republican candidates Darline Graham, Ken Paxton and Michael
+  Whatley faced concerns about experience, character or support for Trump.
 primary_entities:
 - Donald Trump
 - Associated Press
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +165,44 @@ related_stories:
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7452
+  strength: 0.7448
 - slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
   headline: Surveys indicated Texas Hispanic voters favored Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7391
+  strength: 0.7385
 - slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
   headline: James Talarico defeats Ken Paxton in Texas Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7376
+  strength: 0.7372
 - slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
   headline: Poll finds voters rejecting Republicans more than embracing Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7375
+  strength: 0.7372
 - slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
   headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7533
+  strength: 0.7525
 - slug: 2026-11-03-paxton-s-legal-history-and-musk-s-money-shape-pivotal-texas-senate-race
   headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7359
+  strength: 0.7355
 - slug: 2026-11-04-poll-finds-roughly-three-quarters-of-voters-angry-or-dissatisfied-with-country-s
-  headline: Poll finds roughly three-quarters of voters angry or dissatisfied with country’s direction
+  headline: Poll finds roughly three-quarters of voters angry or dissatisfied with
+    country’s direction
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7036
+  strength: 0.703
 - slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
   headline: Paxton, Talarico face off as Texas voters head to polls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7366
-- slug: 2026-10-28-trump-and-talarico-hold-rallies-three-miles-apart-in-close-texas-senate-race
-  headline: Trump and Talarico hold rallies three miles apart in close Texas Senate race
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7272
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7283
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7428
-- slug: 2026-10-28-democrats-contest-republican-held-senate-seats-in-the-south
-  headline: Democrats contest Republican-held Senate seats in the South
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7019
-- slug: 2026-10-27-trump-makes-third-texas-trip-of-the-month-for-paxton-s-senate-bid
-  headline: Trump makes third Texas trip of the month for Paxton's Senate bid
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6953
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7132
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6972
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6985
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.715
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7037
-- slug: 2026-06-01-texas-senate-general-election-pits-talarico-against-paxton-in-november
-  headline: Texas Senate general election pits Talarico against Paxton in November
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7348
+  strength: 0.7358
 ---
-
 ## Texas voters reporting inflation hardship favored Talarico in Senate race
 
 **Subtype:** fact
