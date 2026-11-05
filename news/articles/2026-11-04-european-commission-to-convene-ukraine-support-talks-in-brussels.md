@@ -2,8 +2,16 @@
 headline: European Commission to convene Ukraine support talks in Brussels
 secondary_headline: Winter aid and Abu Dhabi negotiations are on the agenda
 publish_date: '2026-11-04'
-lede: The Guardian reported that the European Commission will hold talks in Brussels with the US, France, Germany, Britain, Nato and the World Bank to examine support for Ukraine through winter and the US-led peace process. Trump's special envoy Steve Witkoff said US negotiators would meet their European partners in Brussels. The meetings come after another night of heavy attacks on Ukraine that hit power stations in Kyiv and Zhytomyr and a cargo vessel at sea near Odesa.
-nut_graf: The planned discussions combine immediate winter assistance for Kyiv with the US-led diplomatic process ahead of negotiations in Abu Dhabi. The agenda follows another night of attacks on power stations in Kyiv and Zhytomyr and on a cargo vessel at sea near Odesa.
+lede: The Guardian reported that the European Commission will hold talks in Brussels
+  with the US, France, Germany, Britain, Nato and the World Bank to examine support
+  for Ukraine through winter and the US-led peace process. Trump's special envoy Steve
+  Witkoff said US negotiators would meet their European partners in Brussels. The
+  meetings come after another night of heavy attacks on Ukraine that hit power stations
+  in Kyiv and Zhytomyr and a cargo vessel at sea near Odesa.
+nut_graf: The planned discussions combine immediate winter assistance for Kyiv with
+  the US-led diplomatic process ahead of negotiations in Abu Dhabi. The agenda follows
+  another night of attacks on power stations in Kyiv and Zhytomyr and on a cargo vessel
+  at sea near Odesa.
 primary_entities:
 - European Commission
 - Ukraine
@@ -56,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,13 +164,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-european-commission-to-convene-ukraine-support-talks-in-brussels.png
-  alt: 'Illustration accompanying article: European Commission to convene Ukraine support talks in Brussels'
+  alt: 'Illustration accompanying article: European Commission to convene Ukraine
+    support talks in Brussels'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-02-united-states-links-russian-gas-plan-via-ukraine-to-energy-ceasefire
   headline: United States links Russian gas plan via Ukraine to energy ceasefire
@@ -198,73 +211,13 @@ related_stories:
   publish_date: '2026-10-20'
   relation: related
   strength: 0.6594
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.649
-- slug: 2026-10-14-burnham-tells-zelensky-uk-will-not-waver-on-ukraine-support
-  headline: Burnham tells Zelensky UK will not waver on Ukraine support
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6464
-- slug: 2026-10-13-zelenskyy-calls-russian-attacks-putin-s-thanks-for-diesel-deal
-  headline: Zelenskyy calls Russian attacks Putin's 'thanks' for diesel deal
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6494
 - slug: 2026-10-01-russia-strikes-kyiv-odesa-energy-sites-in-heaviest-combined-attack-in-months
-  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in months
+  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in
+    months
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6628
-- slug: 2026-09-23-zelenskyy-set-to-address-un-general-assembly-after-trump-meeting
-  headline: Zelenskyy set to address UN General Assembly after Trump meeting
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6673
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6768
-- slug: 2026-09-21-abbas-to-address-un-general-assembly-by-video-after-visa-denial
-  headline: Abbas to address UN General Assembly by video after visa denial
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6713
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6621
-- slug: 2026-09-22-un-general-assembly-opens-with-trump-zelenskyy-meeting-eu-sanctions-debate
-  headline: UN General Assembly opens with Trump-Zelenskyy meeting, EU sanctions debate
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6566
-- slug: 2026-09-04-witkoff-and-kushner-to-visit-moscow-and-kyiv-for-peace-talks
-  headline: Witkoff and Kushner to visit Moscow and Kyiv for peace talks
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6908
-- slug: 2026-09-16-burnham-and-trump-to-meet-at-un-general-assembly-next-week
-  headline: Burnham and Trump to meet at UN General Assembly next week
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6564
-- slug: 2026-09-08-us-urges-europe-to-keep-backing-ukraine-as-uk-pledges-100m-for-air-defences
-  headline: US urges Europe to keep backing Ukraine as UK pledges £100m for air defences
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6598
-- slug: 2026-02-05-russia-and-ukraine-envoys-meet-in-abu-dhabi-for-us-brokered-talks
-  headline: Russia and Ukraine envoys meet in Abu Dhabi for US-brokered talks
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7088
 ---
-
 ## European Commission to convene Ukraine support talks in Brussels
 
 **Subtype:** fact

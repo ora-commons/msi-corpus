@@ -1,9 +1,25 @@
 ---
-headline: Nine known North Korean launches in two months coincide with U.S. calls for talks
+headline: Nine known North Korean launches in two months coincide with U.S. calls
+  for talks
 secondary_headline: Kim Yo Jong seeks halt to exercises with Japan and South Korea
 publish_date: '2026-11-04'
-lede: North Korea accelerated its missile testing Wednesday, marking the most concentrated testing burst since 2023, according to The Wall Street Journal. The two-month sequence included nine known launches. Kim Yo Jong rejected U.S. talks and demanded that Washington halt joint exercises with Japan and South Korea, drop cyber allegations and acknowledge North Korea as a nuclear power. After the FBI said North Korea was behind the $6.3 billion Binance hack, President Trump said he would talk to North Korea if the attribution was correct.
-nut_graf: Kim Yo Jong’s three demands — halting joint exercises with Japan and South Korea, dropping cyber allegations and acknowledging North Korea as a nuclear power — were the conditions she set for any meeting with Washington. The Wall Street Journal assessed that Washington would face a more capable arsenal and stiffer terms from Pyongyang if the administration succeeded in engaging Pyongyang in negotiations about North Korea’s weapons program. Analysts said engaging Kim Jong Un without preconditions could risk granting de facto recognition to North Korea as a nuclear weapons state and could allow Pyongyang to demand even steeper U.S. concessions. Secretary of State Marco Rubio said Trump remained open to talks, though no meeting had been scheduled.
+lede: North Korea accelerated its missile testing Wednesday, marking the most concentrated
+  testing burst since 2023, according to The Wall Street Journal. The two-month sequence
+  included nine known launches. Kim Yo Jong rejected U.S. talks and demanded that
+  Washington halt joint exercises with Japan and South Korea, drop cyber allegations
+  and acknowledge North Korea as a nuclear power. After the FBI said North Korea was
+  behind the $6.3 billion Binance hack, President Trump said he would talk to North
+  Korea if the attribution was correct.
+nut_graf: Kim Yo Jong’s three demands — halting joint exercises with Japan and South
+  Korea, dropping cyber allegations and acknowledging North Korea as a nuclear power
+  — were the conditions she set for any meeting with Washington. The Wall Street Journal
+  assessed that Washington would face a more capable arsenal and stiffer terms from
+  Pyongyang if the administration succeeded in engaging Pyongyang in negotiations
+  about North Korea’s weapons program. Analysts said engaging Kim Jong Un without
+  preconditions could risk granting de facto recognition to North Korea as a nuclear
+  weapons state and could allow Pyongyang to demand even steeper U.S. concessions.
+  Secretary of State Marco Rubio said Trump remained open to talks, though no meeting
+  had been scheduled.
 primary_entities:
 - North Korea
 - South Korea
@@ -46,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,117 +161,63 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-03-analytics-firms-say-laundering-of-6-3-billion-stolen-from-binance-has-begun
-  headline: Analytics firms say laundering of $6.3 billion stolen from Binance has begun
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6913
 - slug: 2026-10-29-north-korea-fires-more-than-10-missiles-toward-sea-seoul-says
   headline: North Korea fires more than 10 missiles toward sea, Seoul says
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7234
+  strength: 0.7233
 - slug: 2026-10-13-kim-tours-new-north-korean-military-museum-showcasing-u-s--range-missiles
   headline: Kim tours new North Korean military museum showcasing U.S.-range missiles
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7378
+  strength: 0.7386
 - slug: 2026-10-03-north-korea-fires-ballistic-missile-after-rejecting-seoul-s-apology-demand
   headline: North Korea fires ballistic missile after rejecting Seoul's apology demand
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7489
+  strength: 0.749
 - slug: 2026-09-23-south-korea-s-lee-calls-for-resumption-of-u-s--north-korea-talks-at-un
   headline: South Korea's Lee calls for resumption of U.S.-North Korea talks at UN
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7253
+  strength: 0.7258
 - slug: 2026-09-14-north-korea-stages-combined-firepower-drill-day-after-allied-exercises-conclude
-  headline: North Korea stages combined firepower drill day after allied exercises conclude
+  headline: North Korea stages combined firepower drill day after allied exercises
+    conclude
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7148
+  strength: 0.7141
 - slug: 2026-08-21-kim-yo-jong-calls-seoul-a-u-s-puppet-as-south-korea-calls-for-end-to-derogatory-
-  headline: Kim Yo Jong calls Seoul a U.S. puppet as South Korea calls for end to derogatory remarks
+  headline: Kim Yo Jong calls Seoul a U.S. puppet as South Korea calls for end to
+    derogatory remarks
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7727
+  strength: 0.7724
 - slug: 2026-08-27-u-s-clears-sidewinder-missile-sale-to-south-korea-north-korea-warns-of-response
-  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns of response
+  headline: U.S. clears Sidewinder missile sale to South Korea; North Korea warns
+    of response
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7365
+  strength: 0.7364
 - slug: 2026-08-25-trump-says-north-korea-has-57-nuclear-weapons-expects-kim-meeting
   headline: Trump says North Korea has 57 nuclear weapons, expects Kim meeting
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7338
-- slug: 2026-08-31-north-korea-says-u-s-denuclearization-push-will-not-weaken-its-nuclear-arsenal
-  headline: North Korea says U.S. denuclearization push will not weaken its nuclear arsenal
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.712
-- slug: 2026-08-18-trump-seeks-fall-meeting-with-kim-at-apec-summit
-  headline: Trump seeks fall meeting with Kim at APEC summit
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7199
-- slug: 2026-08-26-kim-jong-un-chairs-enlarged-workers-party-meeting-on-2026-economic-plan
-  headline: Kim Jong Un chairs enlarged Workers' Party meeting on 2026 economic plan
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6993
-- slug: 2026-08-07-north-korea-fires-short-range-missile-into-waters-off-japan
-  headline: North Korea fires short-range missile into waters off Japan
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7226
-- slug: 2026-06-23-kim-jong-un-orders-accelerated-nuclear-buildup-calls-south-korea-most-hostile-st
-  headline: Kim Jong Un orders accelerated nuclear buildup, calls South Korea 'most hostile state'
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7598
-- slug: 2026-04-09-north-korea-says-it-tested-missiles-with-cluster-bomb-warheads
-  headline: North Korea says it tested missiles with cluster-bomb warheads
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.741
-- slug: 2026-03-15-north-korea-fires-about-10-missiles-toward-sea-seoul-says
-  headline: North Korea fires about 10 missiles toward sea, Seoul says
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.736
-- slug: 2026-06-18-kim-yo-jong-rejects-g7-denuclearization-call-says-nuclear-arms-are-core-interest
-  headline: Kim Yo Jong rejects G7 denuclearization call, says nuclear arms are 'core interests'
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6983
-- slug: 2026-06-13-us-japan-south-korea-hold-trilateral-talks-on-north-korea
-  headline: US, Japan, South Korea hold trilateral talks on North Korea
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7015
-- slug: 2026-03-14-north-korea-s-kim-watches-test-of-rocket-launch-systems-with-daughter
-  headline: North Korea’s Kim watches test of rocket launch systems with daughter
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7224
-- slug: 2026-03-24-kim-jong-un-vows-to-cement-north-korea-s-nuclear-status-warns-seoul
-  headline: Kim Jong Un vows to cement North Korea’s nuclear status, warns Seoul
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7197
+  strength: 0.7337
 image:
   url: /articles/2026-11-04-nine-known-north-korean-launches-in-two-months-coincide-with-u-s-calls-for-talks.png
-  alt: "Illustration accompanying article: Nine known North Korean launches in two months coincide with U.S. calls for talks"
+  alt: 'Illustration accompanying article: Nine known North Korean launches in two
+    months coincide with U.S. calls for talks'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Nine known North Korean launches in two months coincide with U.S. calls for talks
 
 **Subtype:** fact

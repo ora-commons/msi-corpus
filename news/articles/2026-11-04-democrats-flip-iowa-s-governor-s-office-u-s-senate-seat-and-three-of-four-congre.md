@@ -1,9 +1,20 @@
 ---
-headline: Democrats flip Iowa's governor's office, U.S. Senate seat and three of four congressional districts
+headline: Democrats flip Iowa's governor's office, U.S. Senate seat and three of four
+  congressional districts
 secondary_headline: Voters cited war costs, healthcare and AI data centers
 publish_date: '2026-11-04'
-lede: Democrats flipped Iowa's governor's office, a U.S. Senate seat and three of four congressional districts on Tuesday night, according to Rachel Leingang's analysis in The Guardian. At a Democratic watch party in Des Moines, the excitement neared a level of disbelief, and Gov.-elect Rob Sand said, “To Iowa Democrats, we’ve had a hard few years here in Iowa, but balanced government has been restored.” Leingang said Democratic winners included moderates, progressives, populists and Democratic socialists, while voters cited war-related gas prices, unaffordable healthcare after subsidy expirations and data centers moving into their towns.
-nut_graf: Leingang said the breadth of the victories gave Democrats avenues to pursue accountability and govern, but Democrats would also need to show that they could govern competently. She said Republicans now had to address what their party would become after Trump, while attention would soon turn to the 2028 elections.
+lede: Democrats flipped Iowa's governor's office, a U.S. Senate seat and three of
+  four congressional districts on Tuesday night, according to Rachel Leingang's analysis
+  in The Guardian. At a Democratic watch party in Des Moines, the excitement neared
+  a level of disbelief, and Gov.-elect Rob Sand said, “To Iowa Democrats, we’ve had
+  a hard few years here in Iowa, but balanced government has been restored.” Leingang
+  said Democratic winners included moderates, progressives, populists and Democratic
+  socialists, while voters cited war-related gas prices, unaffordable healthcare after
+  subsidy expirations and data centers moving into their towns.
+nut_graf: Leingang said the breadth of the victories gave Democrats avenues to pursue
+  accountability and govern, but Democrats would also need to show that they could
+  govern competently. She said Republicans now had to address what their party would
+  become after Trump, while attention would soon turn to the 2028 elections.
 primary_entities:
 - Iowa
 - Democrats
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +163,44 @@ related_stories:
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7628
+  strength: 0.7627
 - slug: 2026-11-03-rob-sand-wins-iowa-governorship-as-iowa-s-first-democratic-governor-since-2006
-  headline: Rob Sand wins Iowa governorship as Iowa's first Democratic governor since 2006
+  headline: Rob Sand wins Iowa governorship as Iowa's first Democratic governor since
+    2006
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7671
+  strength: 0.7662
 - slug: 2026-11-04-rob-sand-calls-for-iowa-to-return-to-a-common-sense-state
   headline: Rob Sand calls for Iowa to return to a "common sense state"
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7377
+  strength: 0.7375
 - slug: 2026-11-03-rob-sand-and-zach-lahn-offer-different-visions-for-iowa
   headline: Rob Sand and Zach Lahn offer different visions for Iowa
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7134
+  strength: 0.7128
 - slug: 2026-10-30-iowa-voters-decide-senate-governor-and-house-races-tuesday
   headline: Iowa voters decide Senate, governor and House races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7187
+  strength: 0.7184
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6785
+  strength: 0.6787
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6771
-- slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
-  headline: Democrats win key governor races with historic firsts
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6752
+  strength: 0.6781
 - slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
   headline: Voters in 36 states choose governors as Democrats pursue a majority
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6817
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6769
-- slug: 2026-10-08-iowa-races-tighten-as-energy-costs-fuel-democratic-midterm-hopes
-  headline: Iowa races tighten as energy costs fuel Democratic midterm hopes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7257
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7147
-- slug: 2026-09-26-iowa-farmers-criticize-trump-on-tariffs-beef-imports-and-diesel-costs
-  headline: Iowa farmers criticize Trump on tariffs, beef imports, and diesel costs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.681
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6777
-- slug: 2026-09-16-nyt-siena-poll-democrats-lead-by-nearly-nine-points-as-iowa-battleground-expands
-  headline: 'NYT/Siena poll: Democrats lead by nearly nine points as Iowa battleground expands'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6992
-- slug: 2026-08-17-iowa-republicans-trail-in-governor-s-race-amid-rural-economic-strain
-  headline: Iowa Republicans trail in governor's race amid rural economic strain
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.729
-- slug: 2026-08-22-cook-downgrades-iowa-senate-race-from-lean-republican-to-tossup
-  headline: Cook downgrades Iowa Senate race from lean Republican to tossup
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6946
-- slug: 2026-08-16-iowa-s-rising-cancer-rates-fuel-midterm-debate-over-farm-links
-  headline: Iowa's rising cancer rates fuel midterm debate over farm links
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6812
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7469
-- slug: 2026-05-05-democrats-eye-iowa-as-battleground-as-vance-backs-gop-candidates
-  headline: Democrats eye Iowa as battleground as Vance backs GOP candidates
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7352
+  strength: 0.6819
 ---
-
 ## Democrats flip Iowa's governor's office, U.S. Senate seat and three of four congressional districts
 
 **Subtype:** fact
