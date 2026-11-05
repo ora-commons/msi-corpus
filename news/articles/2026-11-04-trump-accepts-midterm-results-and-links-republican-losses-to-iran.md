@@ -2,8 +2,13 @@
 headline: Trump accepts midterm results and links Republican losses to Iran
 secondary_headline: Trump says he will veto “insane” legislation, then predicts cooperation
 publish_date: '2026-11-04'
-lede: President Donald Trump accepted the results of the 2026 US midterm elections after Democrats took control of the Senate and House of Representatives, while saying he looked forward to working with the incoming congressional majority.
-nut_graf: Trump's response paired acceptance of Democratic control of Congress with a statement that he would veto legislation he called “insane.” He attributed part of the Republican defeat to the Iran conflict and higher gasoline prices, and faulted Republican candidates, including Texas Gov. Greg Abbott, for their losses.
+lede: President Donald Trump accepted the results of the 2026 US midterm elections
+  after Democrats took control of the Senate and House of Representatives, while saying
+  he looked forward to working with the incoming congressional majority.
+nut_graf: Trump's response paired acceptance of Democratic control of Congress with
+  a statement that he would veto legislation he called “insane.” He attributed part
+  of the Republican defeat to the Iran conflict and higher gasoline prices, and faulted
+  Republican candidates, including Texas Gov. Greg Abbott, for their losses.
 primary_entities:
 - Donald Trump
 - Greg Abbott
@@ -49,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +153,45 @@ related_stories:
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7723
+  strength: 0.7732
 - slug: 2026-11-04-trump-says-he-ll-accept-midterm-results-after-administration-signals-alaska-cert
-  headline: Trump says he'll accept midterm results after administration signals Alaska certification challenge
+  headline: Trump says he'll accept midterm results after administration signals Alaska
+    certification challenge
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7609
+  strength: 0.7599
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7394
+  strength: 0.739
 - slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
   headline: Poll finds voters rejecting Republicans more than embracing Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7303
+  strength: 0.7311
 - slug: 2026-11-04-trump-froze-appropriated-funds-and-expanded-tariff-authority-without-congress
   headline: Trump froze appropriated funds and expanded tariff authority without Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.712
+  strength: 0.7112
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7046
+  strength: 0.706
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7043
+  strength: 0.7032
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7215
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7186
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7089
-- slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
-  headline: Trump puts his political brand at the center of the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7057
-- slug: 2026-10-21-new-york-times-siena-survey-records-36-approval-for-trump
-  headline: New York Times/Siena survey records 36% approval for Trump
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7012
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7057
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.713
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.738
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7005
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7256
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-in-dallas-with-voter-pledge
-  headline: Trump closes GOP midterm convention in Dallas with voter pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7049
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7042
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.709
+  strength: 0.7221
 ---
-
 ## Trump accepts midterm results and links Republican losses to Iran
 
 **Subtype:** fact

@@ -1,9 +1,16 @@
 ---
 headline: Sweden's central bank raises key interest rate to 2%
-secondary_headline: Swedish policymakers signal further borrowing-cost increases if the outlook holds
+secondary_headline: Swedish policymakers signal further borrowing-cost increases if
+  the outlook holds
 publish_date: '2026-11-04'
-lede: The Wall Street Journal reported that Sweden's central bank raised its key interest rate to 2% from 1.75% on Nov. 4, the Riksbank's first increase in more than three years. It was also the bank's first rate rise since the U.S.-Iran war began, and Swedish policymakers signaled that borrowing costs could rise again if the inflation and economic outlook held.
-nut_graf: The move places Sweden among central banks tightening policy as energy prices have risen during the U.S.-Iran war. Swedish inflation remained low by international standards, but the Riksbank expects it to rise above its 2% target next year.
+lede: The Wall Street Journal reported that Sweden's central bank raised its key interest
+  rate to 2% from 1.75% on Nov. 4, the Riksbank's first increase in more than three
+  years. It was also the bank's first rate rise since the U.S.-Iran war began, and
+  Swedish policymakers signaled that borrowing costs could rise again if the inflation
+  and economic outlook held.
+nut_graf: The move places Sweden among central banks tightening policy as energy prices
+  have risen during the U.S.-Iran war. Swedish inflation remained low by international
+  standards, but the Riksbank expects it to rise above its 2% target next year.
 primary_entities:
 - Riksbank
 - Sweden
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,7 +150,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-02-bank-of-england-likely-to-hike-to-4-to-contain-inflation-5-rate-path-uncertain
-  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path uncertain
+  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path
+    uncertain
   publish_date: '2026-11-02'
   relation: related
   strength: 0.7068
@@ -162,7 +171,8 @@ related_stories:
   relation: related
   strength: 0.674
 - slug: 2026-09-17-bank-of-england-holds-at-3-75-as-iran-war-lifts-inflation-forecast-to-4
-  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to 4%
+  headline: Bank of England holds at 3.75% as Iran war lifts inflation forecast to
+    4%
   publish_date: '2026-09-17'
   relation: related
   strength: 0.7008
@@ -172,7 +182,8 @@ related_stories:
   relation: related
   strength: 0.7177
 - slug: 2026-09-16-fed-raises-benchmark-rate-a-quarter-point-to-3-75--4-first-hike-since-2023
-  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since 2023
+  headline: Fed raises benchmark rate a quarter-point to 3.75%-4%, first hike since
+    2023
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6871
@@ -181,68 +192,7 @@ related_stories:
   publish_date: '2026-09-24'
   relation: related
   strength: 0.6588
-- slug: 2026-09-16-federal-reserve-expected-to-raise-benchmark-rate-as-inflation-persists
-  headline: Federal Reserve expected to raise benchmark rate as inflation persists
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6602
-- slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
-  headline: UK inflation rises to 3.1% in August as fuel prices surge
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6599
-- slug: 2026-09-01-twelve-economists-project-bank-of-canada-will-hold-rate-at-2-25-on-wednesday
-  headline: Twelve economists project Bank of Canada will hold rate at 2.25% on Wednesday
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6592
-- slug: 2026-07-16-bank-of-korea-raises-key-rate-to-2-75-first-hike-in-three-years
-  headline: Bank of Korea raises key rate to 2.75%, first hike in three years
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7303
-- slug: 2026-08-28-french-inflation-accelerates-to-2-7-in-august-on-energy-costs
-  headline: French inflation accelerates to 2.7% in August on energy costs
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6594
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6617
-- slug: 2026-06-11-ecb-raises-benchmark-rate-to-2-25-as-iran-war-lifts-oil-prices
-  headline: ECB raises benchmark rate to 2.25% as Iran war lifts oil prices
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7383
-- slug: 2026-08-16-central-banks-face-inflation-risks-as-energy-prices-threaten-weak-growth
-  headline: Central banks face inflation risks as energy prices threaten weak growth
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6575
-- slug: 2026-07-26-economists-warn-oil-surge-could-force-bank-of-england-rate-hikes
-  headline: Economists warn oil surge could force Bank of England rate hikes
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6581
-- slug: 2026-06-12-ecb-rate-hike-supports-european-banks-geopolitical-risks-persist
-  headline: ECB rate hike supports European banks; geopolitical risks persist
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6879
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6788
-- slug: 2026-07-06-canada-business-inflation-expectations-surged-during-iran-conflict-boc-survey-sh
-  headline: Canada business inflation expectations surged during Iran conflict, BoC survey shows
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6591
 ---
-
 ## Sweden's central bank raises key interest rate to 2%
 
 **Subtype:** fact

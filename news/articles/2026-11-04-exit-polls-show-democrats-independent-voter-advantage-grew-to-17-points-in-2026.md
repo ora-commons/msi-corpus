@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7197
+analyses:
+- '2026-11-04-democrats-gain-both-chambers-setting-up-institutional-conflict-with-trump'
 ---
 ## Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
 
@@ -254,3 +256,8 @@ His marathon rallies were punctuated by exaggerations, heated rhetoric and off-c
 **Publication date:** 2026-11-04
 **Title:** Five Takeaways From Democrats’ Midterm Blowout
 **URL:** https://www.wsj.com/politics/elections/five-takeaways-from-democrats-stunning-midterm-blowout-9da38a22
+
+---
+
+<!-- analysis-link:2026-11-04-democrats-gain-both-chambers-setting-up-institutional-conflict-with-trump -->
+**Going deeper:** [Read MSI's analysis of Democratic gains and institutional confrontation →](/analyses/2026-11-04-democrats-gain-both-chambers-setting-up-institutional-conflict-with-trump)
