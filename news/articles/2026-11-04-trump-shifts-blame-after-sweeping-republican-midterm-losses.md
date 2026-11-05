@@ -1,9 +1,19 @@
 ---
 headline: Trump shifts blame after sweeping Republican midterm losses
-secondary_headline: AP poll found majorities said GOP Senate candidates were too supportive of Trump
+secondary_headline: AP poll found majorities said GOP Senate candidates were too supportive
+  of Trump
 publish_date: '2026-11-04'
-lede: President Donald Trump rejected personal responsibility for Republicans’ sweeping midterm losses, saying he was not on the ballot and voters did not like the candidates. The defeats gave Democrats control of Congress, with Senate victories in South Carolina and Kansas and a statewide win in Texas. An Associated Press analysis found Trump used a version of his “pretend I’m on the ballot” appeal in 30 of the 39 speeches and rallies he staged since Sept. 1 — at least 40 instances counting repeat uses.
-nut_graf: 'Trump’s response continued a pattern the Associated Press documented after the 2018 House defeat and other electoral setbacks. His denial also came against the campaign record and voter polling: AP found that he used a version of the ballot appeal in 30 of 39 speeches and rallies since Sept. 1, while its poll found only 4 in 10 voters nationwide approved of his handling of the presidency.'
+lede: President Donald Trump rejected personal responsibility for Republicans’ sweeping
+  midterm losses, saying he was not on the ballot and voters did not like the candidates.
+  The defeats gave Democrats control of Congress, with Senate victories in South Carolina
+  and Kansas and a statewide win in Texas. An Associated Press analysis found Trump
+  used a version of his “pretend I’m on the ballot” appeal in 30 of the 39 speeches
+  and rallies he staged since Sept. 1 — at least 40 instances counting repeat uses.
+nut_graf: 'Trump’s response continued a pattern the Associated Press documented after
+  the 2018 House defeat and other electoral setbacks. His denial also came against
+  the campaign record and voter polling: AP found that he used a version of the ballot
+  appeal in 30 of 39 speeches and rallies since Sept. 1, while its poll found only
+  4 in 10 voters nationwide approved of his handling of the presidency.'
 primary_entities:
 - Donald Trump
 - Associated Press
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +158,45 @@ related_stories:
   headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7809
+  strength: 0.7807
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7357
+  strength: 0.7365
 - slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7317
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7187
+  strength: 0.7189
 - slug: 2026-10-29-trump-urges-voters-to-pretend-i-m-on-the-ballot-at-midterm-rallies
   headline: Trump urges voters to 'pretend I'm on the ballot' at midterm rallies
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.749
+  strength: 0.7496
 - slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
   headline: Poll finds voters rejecting Republicans more than embracing Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7079
+  strength: 0.7083
 - slug: 2026-11-04-poll-finds-roughly-three-quarters-of-voters-angry-or-dissatisfied-with-country-s
-  headline: Poll finds roughly three-quarters of voters angry or dissatisfied with country’s direction
+  headline: Poll finds roughly three-quarters of voters angry or dissatisfied with
+    country’s direction
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7076
+  strength: 0.7074
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7101
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7145
-- slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
-  headline: Trump puts his political brand at the center of the 2026 midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7324
-- slug: 2026-10-30-trump-restores-kansas-and-iowa-rallies-days-before-midterms
-  headline: Trump restores Kansas and Iowa rallies days before midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7099
-- slug: 2026-10-26-trump-holds-seven-rallies-across-seven-states-during-midterm-push
-  headline: Trump holds seven rallies across seven states during midterm push
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7319
-- slug: 2026-10-19-poll-finds-66-of-americans-say-trump-enriching-himself
-  headline: Poll finds 66% of Americans say Trump enriching himself
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7063
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7535
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.711
-- slug: 2026-10-01-trump-calls-ap-norc-31-approval-fake-numbers-in-time-interview
-  headline: Trump calls AP/NORC 31% approval 'fake numbers' in Time interview
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7338
-- slug: 2026-09-26-trump-approval-hits-37-lowest-midterm-rating-in-wsj-polling-since-1990
-  headline: Trump approval hits 37%, lowest midterm rating in WSJ polling since 1990
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7075
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7438
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7377
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7113
+  strength: 0.7109
 ---
-
 ## Trump shifts blame after sweeping Republican midterm losses
 
 **Subtype:** fact

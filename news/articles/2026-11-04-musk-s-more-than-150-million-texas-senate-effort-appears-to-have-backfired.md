@@ -1,9 +1,24 @@
 ---
 headline: Musk's more than $150 million Texas Senate effort appears to have backfired
-secondary_headline: Democrats plan to examine Musk's DOGE tenure and SpaceX's Ukraine role
+secondary_headline: Democrats plan to examine Musk's DOGE tenure and SpaceX's Ukraine
+  role
 publish_date: '2026-11-04'
-lede: Elon Musk's more than $150 million effort to rescue Ken Paxton's Texas Senate campaign appears to have backfired, fueling enthusiastic supporters of winner James Talarico who said in the race's final days that Musk's involvement had put them off, The Wall Street Journal reported. Talarico's victory over Paxton was the most bruising defeat of the night for Musk and made Talarico the first Democrat to win a statewide election in Texas in 32 years. Democrats gained control of both the House and Senate despite Musk's more than $440 million in spending to support Republican candidates, a result the Journal described as a stunning blow to his political power.
-nut_graf: Democrats had signaled before the election that, if put into power, they planned to use their expansive authority in Congress to examine Musk's record overseeing the Department of Government Efficiency and how he may have limited Ukraine's use of SpaceX's satellites in its war with Russia; one prominent Democrat has called for nationalizing SpaceX, an outcome the Journal described as unlikely. The risk for Musk and his companies, the Journal reported, is that he becomes distracted by political knife fights on Capitol Hill at a sensitive moment, as SpaceX and Tesla consider a merger following SpaceX's historic record-setting IPO.
+lede: Elon Musk's more than $150 million effort to rescue Ken Paxton's Texas Senate
+  campaign appears to have backfired, fueling enthusiastic supporters of winner James
+  Talarico who said in the race's final days that Musk's involvement had put them
+  off, The Wall Street Journal reported. Talarico's victory over Paxton was the most
+  bruising defeat of the night for Musk and made Talarico the first Democrat to win
+  a statewide election in Texas in 32 years. Democrats gained control of both the
+  House and Senate despite Musk's more than $440 million in spending to support Republican
+  candidates, a result the Journal described as a stunning blow to his political power.
+nut_graf: Democrats had signaled before the election that, if put into power, they
+  planned to use their expansive authority in Congress to examine Musk's record overseeing
+  the Department of Government Efficiency and how he may have limited Ukraine's use
+  of SpaceX's satellites in its war with Russia; one prominent Democrat has called
+  for nationalizing SpaceX, an outcome the Journal described as unlikely. The risk
+  for Musk and his companies, the Journal reported, is that he becomes distracted
+  by political knife fights on Capitol Hill at a sensitive moment, as SpaceX and Tesla
+  consider a merger following SpaceX's historic record-setting IPO.
 primary_entities:
 - Elon Musk
 - James Talarico
@@ -46,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +161,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-musk-s-47-million-pac-contribution-backed-paxton-s-losing-texas-senate-bid
-  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate bid
+  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate
+    bid
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8554
+  strength: 0.8576
 - slug: 2026-11-04-musk-has-given-more-than-250-million-to-republican-aligned-groups-in-the-third-q
-  headline: Musk has given more than $250 million to Republican-aligned groups in the third quarter
+  headline: Musk has given more than $250 million to Republican-aligned groups in
+    the third quarter
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8086
+  strength: 0.8109
 - slug: 2026-11-03-paxton-s-legal-history-and-musk-s-money-shape-pivotal-texas-senate-race
   headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8114
+  strength: 0.8122
 - slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
   headline: Talarico says Musk is backing Paxton at UT Austin rally
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8484
+  strength: 0.8493
 - slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
   headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.791
+  strength: 0.7927
 - slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
   headline: James Talarico defeats Ken Paxton in Texas Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7689
+  strength: 0.7696
 - slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
   headline: Talarico alleges Musk is trying to buy Texas Senate seat
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8314
+  strength: 0.8325
 - slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
   headline: Paxton, Talarico face off as Texas voters head to polls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7718
-- slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
-  headline: Surveys indicated Texas Hispanic voters favored Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7359
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8128
-- slug: 2026-11-04-supporters-at-austin-watch-party-explain-the-texas-election-result
-  headline: Supporters at Austin watch party explain the Texas election result
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7299
-- slug: 2026-10-31-elon-musk-s-midterm-giving-to-republican-groups-reaches-445-77-million
-  headline: Elon Musk's midterm giving to Republican groups reaches $445.77 million
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7525
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8265
-- slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
-  headline: Musk channels $158 million in September to Senate Republican super PAC
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.8198
-- slug: 2026-10-28-trump-and-talarico-hold-rallies-three-miles-apart-in-close-texas-senate-race
-  headline: Trump and Talarico hold rallies three miles apart in close Texas Senate race
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7412
-- slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
-  headline: Musk's Republican midterm giving exceeds $442 million
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7707
-- slug: 2026-10-27-trump-makes-third-texas-trip-of-the-month-for-paxton-s-senate-bid
-  headline: Trump makes third Texas trip of the month for Paxton's Senate bid
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7444
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7157
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7586
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7363
+  strength: 0.7715
 ---
-
 ## Musk's more than $150 million Texas Senate effort appears to have backfired
 
 **Subtype:** fact
