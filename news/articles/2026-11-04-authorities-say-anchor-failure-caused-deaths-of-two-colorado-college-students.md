@@ -2,8 +2,18 @@
 headline: Authorities say anchor failure caused deaths of two Colorado college students
 secondary_headline: Official statement says heavy snowstorm was not a direct factor
 publish_date: '2026-11-04'
-lede: Authorities said Kaden Matsuda, 19, and Jackson Donlon, 20, died when an anchor they were using to climb failed and they fell a “substantial distance” on West Apostle Mountain in Colorado, and announced the findings Tuesday. An autopsy found that Matsuda and Donlon died instantly from multiple blunt-force injuries, according to the Chaffee County Sheriff's Office and coroner's office. Their bodies were recovered last week in a snow-filled basin of West Apostle Mountain, about 100 miles (160 kilometers) southeast of Aspen.
-nut_graf: Authorities said the students died after an anchor failure and a substantial fall, while an autopsy found that Matsuda and Donlon died instantly from multiple blunt-force injuries. The reason for the anchor failure remained unknown. According to the statement, the heavy snowstorm was not a direct factor, and the statement commended the students' love of the outdoors and preparation for the climbing trip.
+lede: Authorities said Kaden Matsuda, 19, and Jackson Donlon, 20, died when an anchor
+  they were using to climb failed and they fell a “substantial distance” on West Apostle
+  Mountain in Colorado, and announced the findings Tuesday. An autopsy found that
+  Matsuda and Donlon died instantly from multiple blunt-force injuries, according
+  to the Chaffee County Sheriff's Office and coroner's office. Their bodies were recovered
+  last week in a snow-filled basin of West Apostle Mountain, about 100 miles (160
+  kilometers) southeast of Aspen.
+nut_graf: Authorities said the students died after an anchor failure and a substantial
+  fall, while an autopsy found that Matsuda and Donlon died instantly from multiple
+  blunt-force injuries. The reason for the anchor failure remained unknown. According
+  to the statement, the heavy snowstorm was not a direct factor, and the statement
+  commended the students' love of the outdoors and preparation for the climbing trip.
 primary_entities:
 - Kaden Matsuda
 - Jackson Donlon
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,19 @@ related_stories:
   headline: Two missing Colorado college students found dead on West Apostle Mountain
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8505
+  strength: 0.8495
 - slug: 2026-10-29-colorado-mountain-college-mourns-two-students-found-dead-after-hike
   headline: Colorado Mountain College mourns two students found dead after hike
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7975
+  strength: 0.7957
 - slug: 2026-10-29-search-expands-for-two-colorado-mountain-college-students-missing-after-storm
-  headline: Search expands for two Colorado Mountain College students missing after storm
+  headline: Search expands for two Colorado Mountain College students missing after
+    storm
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7508
-- slug: 2026-08-31-flash-flood-at-grand-canyon-s-phantom-ranch-kills-two-leaves-15-missing
-  headline: Flash flood at Grand Canyon's Phantom Ranch kills two, leaves 15 missing
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5821
-- slug: 2026-02-19-california-avalanche-kills-8-backcountry-skiers-1-still-missing
-  headline: California avalanche kills 8 backcountry skiers, 1 still missing
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.633
-- slug: 2026-04-07-avalanche-experts-question-decision-on-deadly-california-avalanche-trip
-  headline: Avalanche experts question decision on deadly California avalanche trip
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6193
-- slug: 2026-07-02-cloud-cover-forces-foot-rescue-of-mount-shasta-climber-after-1-500-foot-fall
-  headline: Cloud cover forces foot rescue of Mount Shasta climber after 1,500-foot fall
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5778
-- slug: 2026-06-17-two-california-college-students-swept-out-to-sea-drown-in-santa-cruz
-  headline: Two California college students swept out to sea drown in Santa Cruz
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5892
-- slug: 2026-01-05-wildlife-officials-end-colorado-mountain-lion-search-after-hiker-killed-on-new-y
-  headline: Wildlife officials end Colorado mountain lion search after hiker killed on New Year's Day
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.62
-- slug: 2026-02-20-6-women-killed-in-california-avalanche-were-among-8-close-friends
-  headline: 6 women killed in California avalanche were among 8 close friends
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6169
-- slug: 2026-02-21-crews-recover-9-backcountry-skiers-killed-in-california-avalanche
-  headline: Crews recover 9 backcountry skiers killed in California avalanche
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.614
-- slug: 2026-02-19-deadly-california-avalanche-underscores-backcountry-risk-as-rescuers-work
-  headline: Deadly California avalanche underscores backcountry risk as rescuers work
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.613
-- slug: 2026-02-19-crews-work-to-reduce-avalanche-risk-as-they-recover-ca-victims-bodies
-  headline: Crews work to reduce avalanche risk as they recover CA victims’ bodies
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.611
-- slug: 2026-02-20-deadly-california-avalanche-highlights-backcountry-risks
-  headline: Deadly California avalanche highlights backcountry risks
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6088
-- slug: 2026-02-26-what-to-know-about-carbon-monoxide-risks-after-student-s-death
-  headline: What to know about carbon monoxide risks after student’s death
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.608
-- slug: 2026-02-19-safety-gear-training-and-avalanche-checks-key-for-winter-outings
-  headline: Safety gear, training and avalanche checks key for winter outings
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6066
-- slug: 2026-05-07-colorado-spring-snowstorm-closes-schools-disrupts-flights-and-commutes
-  headline: Colorado spring snowstorm closes schools, disrupts flights and commutes
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5897
-- slug: 2026-01-04-suspected-fatal-mountain-lion-attack-in-colorado-follows-earlier-hiker-fight
-  headline: Suspected fatal mountain lion attack in Colorado follows earlier hiker fight
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6052
-- slug: 2026-05-06-late-spring-snowstorm-closes-colorado-schools-disrupts-flights-and-roads
-  headline: Late spring snowstorm closes Colorado schools, disrupts flights and roads
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5872
-- slug: 2026-02-19-6-women-die-in-california-avalanche-close-knit-group-search-under-way
-  headline: 6 women die in California avalanche; close-knit group, search under way
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5976
+  strength: 0.7497
 ---
-
 ## Authorities say anchor failure caused deaths of two Colorado college students
 
 **Subtype:** fact
